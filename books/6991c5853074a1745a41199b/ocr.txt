@@ -1,0 +1,1468 @@
+--- Page 1 ---
+<lang>None</lang>
+<meta>Front cover of a leather-bound manuscript.</meta>
+
+<note>This image shows the front cover of a historical manuscript. No legible text is present on the binding.</note>
+
+<vocab>binding, leather, blind-tooling, bosses, clasp, roll-stamp, ornament</vocab>
+
+<detected-images>
+[{"description": "A brown leather book cover featuring extensive blind-tooling. The design includes a central rectangular panel with arabesque motifs, surrounded by multiple decorative borders. One border contains a roll-stamp with heads in medallions. The cover is adorned with five circular brass bosses (four at the corners and one in the center) and a metal clasp mechanism on the right fore-edge.", "type": "decorative", "bbox": {"x": 0.033, "y": 0.015, "width": 0.785, "height": 0.97}, "gallery_quality": 0.85, "museum_rationale": "A well-preserved example of a 16th or 17th-century blind-tooled leather binding with original metal furniture, typical of institutional archival collections."}]
+</detected-images>
+
+--- Page 2 ---
+<lang>German</lang>
+<warning>Page shows significant water/adhesive staining in the top right corner and faded pencil markings in the upper left. The manuscript identifier is written in modern ink.</warning>
+<meta>image-quality: good; catchwords: none; bookplate: Bibliotheca Lindesiana; stamp: The John Rylands Library</meta>
+
+<margin>
+[ Crawford MSS ]
+No. 8
+<unclear>...h...</unclear>
+</margin>
+
+GERMAN Ms. 1.
+
+---
+
+<insert>
+**ENDURE FORT**
+[Coat of Arms of the Earls of Crawford: quarterly, 1st and 4th, gules, a fess chequy azure and argent (Lindsay); 2nd and 3rd, or, a lion rampant gules, debruised of a ribbon in bend sable (Abernethy). Supported by two lions rampant.]
+**Bibliotheca Lindesiana.**
+</insert>
+
+<insert>
+K
+—
+2
+</insert>
+
+<insert>
+THE JOHN RYLANDS LIBRARY
+[Monogram JRL]
+</insert>
+
+<vocab>Crawford MSS, Bibliotheca Lindesiana, John Rylands Library, bookplate, heraldry, provenance</vocab>
+
+<detected-images>
+[
+  {"description": "Armorial bookplate of the Bibliotheca Lindesiana (Earls of Crawford), featuring a crested helmet, shield, and two lion supporters.", "type": "engraving", "bbox": {"x": 0.385, "y": 0.312, "width": 0.246, "height": 0.252}, "gallery_quality": 0.9, "museum_rationale": "High-quality armorial bookplate of the famous Bibliotheca Lindesiana, a significant 19th-century private collection. The engraving is detailed and typical of aristocratic provenance marks."},
+  {"description": "Circular ink stamp of The John Rylands Library with a central monogram.", "type": "decorative", "bbox": {"x": 0.48, "y": 0.762, "width": 0.092, "height": 0.081}, "gallery_quality": 0.4, "museum_rationale": "Standard institutional ownership stamp, important for provenance history but of low artistic value."}
+]
+</detected-images>
+
+--- Page 3 ---
+<lang>German</lang>
+
+<warning>This is a blank page, likely a flyleaf or endpaper, with significant water staining at the top edge and bottom right corner. Aside from minor handwritten annotations, there is no text.</warning>
+
+<meta>Water staining and foxing throughout. Faint handwritten marks in the bottom right corner in blue pencil or ink.</meta>
+
+<sig>A 4</sig>
+
+<meta>Below the signature mark "A 4" is a handwritten flourish or script letter, possibly an "L".</meta>
+
+<vocab>blank page, flyleaf, waterstain, signature mark, endpaper</vocab>
+
+--- Page 4 ---
+<lang>German</lang>
+<page-num>13</page-num>
+<meta>Blank flyleaf featuring faint archival or library annotations. There is a prominent water stain at the top center and general foxing/ageing throughout.</meta>
+<warning>The page is almost entirely blank; visible marks are likely shelfmarks or cataloging notations and are extremely faint.</warning>
+
+<unclear>L. [unclear] A. [unclear] M. 4.</unclear>
+
+<unclear>1 - 4</unclear>
+
+<vocab>flyleaf, shelfmark, archival notation, waterstain</vocab>
+
+--- Page 5 ---
+<lang>German</lang>
+<warning>This page appears to be a blank flyleaf or endpaper containing no legible text or illustrations. There is significant water staining at the top center and scattered foxing throughout.</warning>
+<meta>Blank page, water damage at top, foxing</meta>
+
+<vocab>blank page, flyleaf, foxing, water stain</vocab>
+
+--- Page 6 ---
+<lang>German</lang>
+<meta>Blank flyleaf or endpaper. Water staining present at the top center. Faint, fragmentary ink markings along the top edge.</meta>
+<warning>The page is almost entirely blank. There are faint, illegible traces of handwriting at the very top edge that appear to be cut off or heavily faded.</warning>
+
+<unclear>...</unclear>
+
+<vocab>blank page, flyleaf, water stain</vocab>
+
+--- Page 7 ---
+<lang>de</lang>
+<warning>The manuscript page displays significant aging, including moisture staining, foxing, and faded ink. The text is written in a combination of 16th-century German Kurrent and Latin Humanist scripts, including alchemical symbols.</warning>
+
+<margin>
+Alcamistica res
+est longa spes.
+dulcis depauperacio
+et lepus, quem nemo capere
+potest
+</margin>
+
+->Vera scientia alchimiæ insignis<-
+
+->1540 ..<-
+
+---
+
+<insert>
+<unclear>♀ ♂ ☿ ♃ ♄ ☽ ☉ [alchemical symbols]</unclear> daß
+</insert>
+
+## Wahrhaftige erkäntnuß der
+## Höchsten <term>regung</term>.
+
+<gloss>Vera cognitio Magnæ Medicinæ</gloss>
+
+---
+
+->P. R.<-
+
+> Mercurium quæris? galeam suppone gigantis,
+> Ut subeant, Iason sic trahit Alchumicam.
+
+Petrus Borticler
+Stoltenburgischer <unclear>Lai</unclear>
+
+*fin.*
+
+<vocab>Alcamistica, Alchimiæ, Alchumicam, Mercurium, depauperacio, erkäntnuß, regung, Stoltenburgischer, Petrus Borticler, Magna Medicina</vocab>
+
+<detected-images>
+[{"description": "A line of alchemical planetary symbols (Venus, Mars, Mercury, Jupiter, Saturn, Moon, Sun) followed by a personal monogram P.R. with decorative flourishes.", "type": "diagram", "bbox": {"x": 0.224, "y": 223, "width": 0.62, "height": 0.235}, "gallery_quality": 0.6, "museum_rationale": "Features a sequence of planetary symbols used as a cipher or symbolic motto typical of 16th-century alchemical manuscripts, alongside a distinct artisan or owner monogram."}]
+</detected-images>
+
+--- Page 8 ---
+<lang>Latin</lang>
+<header>TRB</header>
+<meta>The manuscript page features a German poem followed by a Latin prose passage regarding alchemy. The German is written in a late 16th/early 17th-century Kurrent script, while the Latin is in a more legible humanist/italic hand. There are minor ink bleeds and some fading in the margins.</meta>
+
+Laß dich die gsellen nicht betriegen
+Sicherlich thul Jhm gewaltig liegen,
+Z’ gold sie höfflich ain, abschmeltzen
+Das mancher sich Im kopff thut kratzen,
+**Bistû geschaid behalt das ding**
+Zu vernündt kunst ist algemein,
+Setz das selbe zu deinen Sachen,
+So kannstû wol auß Bley gold machen.
+
+---
+
+<header>Hier ☧</header>
+
+plurimos quidem dari vel reperiri <term>pseudochemicos</term>
+ex respectu horum mille vix unum verum philosophum
+laborantem in genuina vel congrua materia minerali
+indubium veroq[ue] verius est. Veritatem tamen philo-
+sophicam propterea negare hoc prorsus ignorantis
+maléq[ue] dispositi intellectus est.
+
+<margin>Der das <unclear>krant</unclear> in d[er] güten mit paf. 21. fall 27.</margin>
+audiat attendatq[ue] loquentem
+tr. de consensu & dissensu medic. <unclear>Havic</unclear>
+De veritate & antiquitate artis
+nullum est dubiû, ea latuit ex priscis temporibus in <term>caeno-
+biis</term> inter monachos. Sed nemo confidat se consequu-
+rum eam artem ex sola lectione libroru, nisi etiam
+insimul strenuè manû admotâ, se se totûm huic stu-
+dio dederit.
+
+Req[ui]sita artis sunt: 1. <term>Ma[teri]a congrua mineralis</term> eaq[ue] duplic substã-
+tiâ, regimen et gradus ignis <unclear>stat</unclear>. 3. Sigilla & vas <term>Hermetis</term>.
+4. <term>structura fornacis</term> <unclear>ferreê</unclear> et <unclear>ex</unclear>
+
+<sig>MB</sig>
+
+<vocab>pseudochemicos, materia minerali, Hermetis, fornacis, Bley, gold, caenobiis, alchemia, philosophum</vocab>
+
+--- Page 9 ---
+<lang>de</lang>
+<page-num>2</page-num>
+<meta>image quality: excellent; script: Early New High German Bastarda with common scribal abbreviations; catchwords: none visible; page contains a large illuminated initial.</meta>
+
+> **D**is gewalt peiniget mich hackendes
+> weib Wann unselig was mein
+> erster leib Und noch nie muter
+> was geborn Vnd ich zum ande-
+> mal ward geborn Do gewan ich
+> aller krewter würtzen kraft In
+> aller kranckheit ward ich sighaft
+> Meins suns nam ich davor vnd-
+> kam mit jm selbander dar Do ich sein ward swanger Vn
+> gepert auf einen unfruchtpern anger Ich ward mueter
+> vnd beleib doch meyd vnd ward in meinem wesen ange-
+> leygt Das mein sun mein vater ward Als got geschickt hat
+> wesenlicher art Die muter die mich hat gepert Durch
+> mich ward sy geborn auf diser erdt Eins zubetrachte na-
+> türliche vnwndn Das hat das gepirg meysterlich vssunde
+> Daraus kome vier in ein In vnsern meisterliche <term>stein</term> Vn
+> siben in driualt bedacht Vnd mein wesen volmacht Wer das
+> bedeuten kan eben Dem ist der gewalt gegeben Das er alle
+> kranckheit dut vertreybe Aus <term>metallen</term> vñ mensche leibe
+> An gotz hilf niemat das mag gebawen Nur der sich selbs
+> kan durchschawen Aus mein art entspringt ein <term>paum</term> da-
+> aus rinne zwoen platt Der ein sterckt gem oret Vn der and-
+> ren ottidet Daraus adle flige vn vermen yr yeund Vn val-
+> len plos in die erde nider Vn wde die gefid' hin wid' gar ftyr
+> Vnd sint vndertenig sun vnd man Got der allmechtig schöpf
+> gut D' hat es alles in sein huet Wem es gibt furwar d' ver-
+> nimbt d' meyster spricht gar Das es bedeckt das künstlich leb-
+> en Als leib sel gefugt werde eben Das sy sweben in irs vatte-
+> reich Also halt sich die <term>kunst</term> auf erdreich.
+
+<vocab>Stein der Weisen, Alchemie, Metalle, Philosophischer Baum, Transmutation, Frühneuhochdeutsch, Hermetik</vocab>
+
+<detected-images>
+[{"description": "Large illuminated initial 'D' in blue and red ink, featuring intricate filigree, pen-flourishing, and zoomorphic/vegetal decorative motifs.", "type": "decorative", "bbox": {"x": 0.076, "y": 0.088, "width": 0.354, "height": 0.274}, "gallery_quality": 0.85, "museum_rationale": "This is a high-quality example of late medieval or early modern manuscript illumination, specifically a calligraphic initial that demonstrates the aesthetic transitions of the period. The use of contrasting red and blue penwork is characteristic of scholastic and scientific manuscripts of the 15th-16th centuries."}]
+</detected-images>
+
+--- Page 10 ---
+<lang>de</lang>
+<page-num>N. 1</page-num>
+<meta>17th-century alchemical manuscript page featuring color illustrations and Early New High German text. The page depicts complex hermetic symbolism including a personified tree-woman and distillation apparatus.</meta>
+
+1 Der paum kumt aus dem samen des mans und der fraun Wo der sam er:
+storbn ist in dem ertreich so thut er an Darauß ein paum wirt manig
+sprichlicher frucht manigfaltig würckung
+
+---
+
+<gloss>sunne</gloss>
+<gloss>mon und</gloss>
+
+2 Die vögl sint der
+sunnen samen im
+flugent durch das
+gepirg des mons
+auf in hoche
+des himls
+als ein
+besenigen re:
+uend und
+thunt sich
+in das
+gepirg
+nider
+und sterben
+an irer
+massen todt
+
+3 Die vögl sind des mons
+samen und fligen durch
+das gepirg des vaters
+und mütter auf in die
+hoche des himl
+und nemen de:
+schein der sūne
+und dardurch
+werdē sy clar
+und fallen in
+das gepirg ni:
+der und sterbe
+darinn eines
+swachen
+tods
+
+---
+
+<gloss>dißtellierum sunne</gloss>
+
+<gloss>4 Distellierum des mons</gloss>
+
+<vocab>paum, samen, sunnen, mons, gepirg, distellierum, ertreich, frucht, würckung, swachen tods</vocab>
+
+<detected-images>
+[{"description": "Highly detailed alchemical emblem featuring a central female figure whose head is transformed into a tree with red fruit and an eagle perched at the top. She is flanked by a personified Sun and Moon. Two flocks of birds, representing volatile substances, are shown: one descending on the left and one ascending on the right. Below her, an architectural structure serves as a furnace for two distillation retorts, labeled for solar and lunar operations.", "type": "emblem", "bbox": {"x": 0.057, "y": 0.046, "width": 0.887, "height": 0.841}, "gallery_quality": 0.95, "museum_rationale": "This page is an exceptional example of alchemical iconography, illustrating the 'vegetative' growth of the Great Work through the metaphor of the Tree of Philosophy. The use of vibrant color, personified celestial bodies, and the synthesis of anatomical and chemical apparatus provides significant insight into early modern esoteric thought and artistic practice."}]
+</detected-images>
+
+--- Page 11 ---
+<lang>German</lang>
+<page-num>3</page-num>
+
+<margin>1</margin>
+Die vögll fliegn aus sunne mone / und schwebn in der höhe schone / durch das gestirn clare / und nemen dabei ware der sunne und des mons rath und fliegn widr in das ertreich und nemn daraus <unclear>ire</unclear> natürliche spere / und bringen den vögl rot un weiß die sterbn in irem samen / durch hitze der sunnen und monen
+
+<margin>2</margin>
+<insert>das fix</insert>
+<insert>werden fix</insert>
+<insert>flüchtig</insert>
+<insert>gemacht</insert>
+<insert>fluct</insert>
+<insert>tis</insert>
+<insert>ist flüchtig worde</insert>
+<insert>plut</insert>
+<insert>lebenn</insert>
+<insert>tot</insert>
+
+---
+
+<margin>3</margin>
+<margin>N.2</margin>
+Wer dem leben nimbt sein plut / und der im darnach recht tut / und verbrent seins vaters leib mit der glut / zu aschen <unclear>unnd</unclear> gemalt / und rüart darein das <unclear>geseint</unclear> <unclear>walt</unclear>? So wirt ein pflaster das heilt alle krankheit an laster / un wird durch artzney der nechstn tug <gloss>vögl zutung <unclear>geit</unclear> <unclear>ein</unclear> pley</gloss>
+
+<vocab>Alchemie, Sonne, Mond, flüchtig, fix, Blut, Leben, Tod, Vögel, Arznei, Blei, Gestirn, Athanor</vocab>
+
+<detected-images>
+[{"description": "A complex alchemical illustration featuring numerous birds (possibly cranes or swans) whose necks transition into colorful glass vessels (retorts). The vessels are colored red, blue, and yellow. Below them, a central alchemical apparatus (athanor) is surrounded by figures, celestial stars, and symbolic scrolls with German labels. A lion and various figures in 16th-17th century attire populate the base.", "type": "diagram", "bbox": {"x": 125, "y": 145, "width": 750, "height": 710}, "gallery_quality": 0.95, "museum_rationale": "This is an exceptionally detailed and vibrant alchemical emblem, characteristic of hermetic manuscripts. The use of color-coded vessels to represent different stages of the Great Work (rubedo, albedo, citrinitas) combined with symbolic animal and human figures makes it a significant visual record of early modern scientific and mystical thought."}]
+</detected-images>
+
+--- Page 12 ---
+<lang>German</lang>
+<page-num>N 3</page-num>
+
+-> Wilt du die versperte flos flissen auf So me rete gar eben <-
+-> auf Und fing das haubt zu de schwanz/ So vinstu die <-
+-> kunst ganzt <-
+
+---
+
+2.
+
+<margin>Der <unclear>elÿt</unclear> dÿ zogen <unclear>fleis</unclear></margin>
+<gloss>vog-</gloss>
+<gloss>fel</gloss>
+<gloss>auffe-</gloss>
+<gloss>unfers</gloss>
+
+---
+
+3.
+
+<margin>Dy zwen vogel sint geperet man als weibe vñ</margin>
+
+---
+
+4.
+
+<margin>Der rot kne-</margin> cht hat
+<margin>genomen</margin> ein weis-
+<margin>se frawenn-</margin> vnd in
+<margin>re peyder ver</margin> misch-
+<margin>ung ward di</margin> fravve
+<margin>schwanger vnd</margin> gebare
+<margin>emen sun d'</margin> in allen
+<margin>dingen sein</margin> geperet
+<margin>vater</margin> det
+
+<vocab>Alchemie, Ouroboros, Coniunctio, Rot knecht, weisse fraw, geperet, versperte flos, haubt zu de schwanz</vocab>
+
+<detected-images>
+[
+  {"description": "Decorative scroll/phylactery containing alchemical instructions in verse.", "type": "decorative", "bbox": {"x": 0.12, "y": 0.12, "width": 0.74, "height": 0.11}, "gallery_quality": 0.7, "museum_rationale": "Example of late medieval/early modern alchemical instructional text presentation."},
+  {"description": "Circular alchemical diagram depicting a winged dragon-bird biting its tail (Ouroboros motif), colored in red and blue.", "type": "diagram", "bbox": {"x": 0.12, "y": 0.23, "width": 0.35, "height": 0.28}, "gallery_quality": 0.85, "museum_rationale": "Classic alchemical symbol of the Ouroboros represented as a bird, a key stage in the transmutation process."},
+  {"description": "Circular diagram containing two entwined birds, red and blue, representing the union of opposites (male and female).", "type": "diagram", "bbox": {"x": 0.12, "y": 0.52, "width": 0.35, "height": 0.28}, "gallery_quality": 0.85, "museum_rationale": "Allegorical representation of the 'Chemical Wedding' or Coniunctio using avian symbolism."},
+  {"description": "An alchemical flask containing a naked man and woman standing in water, symbolizing the conjunction of sulfur and mercury.", "type": "diagram", "bbox": {"x": 0.6, "y": 0.25, "width": 0.28, "height": 0.55}, "gallery_quality": 0.9, "museum_rationale": "High-quality alchemical illustration of the Hermetic vessel and the union of opposites, central to the Magnum Opus."}
+]
+</detected-images>
+
+--- Page 13 ---
+<lang>German</lang>
+<page-num>4</page-num>
+<meta>Inventory mark 'N 4' in the bottom right corner.</meta>
+
+<margin>1.</margin>
+Der tragk ist der samen mans vnd treiber der aus in geborn
+ist wordn Wo er empfindt der na türkischen hue der sunne
+Do rürt er vm sich precißem on grinnen/ vnd sein ge
+perer vershinden Darauß dann nut entspringen ain krantz
+perg mit rot vber wreckt mit plume weiß gesprengt mit
+perg des grünen anger Darauf gelb plummen wann mit
+prauon knöpflein grob vnd sckun darauf ein gulden kron mit
+läutern din/ Erscheint vber alle rauch/ durch die meisterlich
+kunst auf extraitt / genant als amen Wer der ist recht
+wesen pey Mit herr frin/ vnd/ nut/ vnd sy helt ob der
+thut als die <term>phi</term> dauon schreibn dardurch mag man all
+kranckheit vnd armut vertreibn vnd metalln vnd me
+setzen leibnh
+
+---
+
+<margin>2.</margin>
+->Der man<-
+
+<gloss>2</gloss>
+->Der sam<-
+<gloss>3</gloss>
+
+->Das 2 weib<-
+
+->mercurii metallor.<-
+<gloss>4</gloss>
+
+<vocab>samen, sunne, krantz, plume, mercurii metallor, phi, man, weib, extraitt</vocab>
+
+<detected-images>
+[{"description": "A complex alchemical diagram featuring a vessel containing a pink dragon atop a green mound, set within a blue scalloped crescent-shaped base ending in male and female heads (labeled 'Der man' and 'Das weib'). Above this, a multi-tiered crown structure (red, black, green, and gold) is topped with a cross and sphere.", "type": "diagram", "bbox": {"x": 0.138, "y": 0.076, "width": 0.751, "height": 0.651}, "gallery_quality": 0.95, "museum_rationale": "A striking and well-preserved example of 16th-17th century alchemical symbolism, combining figurative representations (the 'man' and 'wife' as Sol and Luna) with zoomorphic (dragon as mercury) and architectural (crown) symbols in a balanced, color-rich composition."}]
+</detected-images>
+
+--- Page 14 ---
+<lang>de</lang>
+<sig>N. V</sig>
+<meta>Numbered textual keys 1-4; catchwords or notes "No: 2" and "pla". The text is written in red ink.</meta>
+
+<margin>
+1
+Das frackt mit der blaũ
+kron / schlacht zu tot
+den vorchtsamen
+man
+</margin>
+
+<margin>
+2
+Der grüñ
+flügel ist ge
+nant der
+grüñ lebe
+wol bekant
+</margin>
+
+->No: 2.<-
+Die zwoo schon kron
+bedeuten sun vñ mon
+In irer gelber farb dar
+ist die kunst volbracht
+gar
+
+<margin>
+3
+Der flügl
+frackt bei
+der nacht
+mit erlei
+achtung des
+mans kraft
+</margin>
+
+<margin>
+4
+Die kron
+des flüch
+tig geist
+</margin>
+
+<margin>
+4
+Die kron
+des bestā
+digen
+geyst
+</margin>
+
+---
+
+<insert>pla</insert>
+Der track bedeut der zweyer kron Die obÿn
+sprachtn schon / Die ein ist die and[er] frounde / Die macht
+es gar vñ gutÿ art / wañ sÿ werdē lich zamē
+gefückt Das pringt dā menschn vñ metalle frumē
+
+<vocab>Rebis, alchemical emblem, green lion, sun and moon, fixed and volatile spirits, track (drache), kunst</vocab>
+
+<detected-images>
+[{"description": "Alchemical Rebis figure (hermaphrodite) with a male and female head wearing a single crown. The figure has one green dragon-like wing (labeled as the Green Lion) and one blue wing. It holds a sword in one hand and a crowned vessel in the other. The figure stands atop a green crescent-shaped vessel or boat containing four entities: two human heads and two colored masks (one black, one blue), with small serpents emerging from the sides. The entire composition is an alchemical allegory.", "type": "emblem", "bbox": {"x": 135, "y": 165, "width": 732, "height": 655}, "gallery_quality": 0.95, "museum_rationale": "This is a high-quality, hand-colored alchemical illustration of a Rebis, a central symbol in Hermetic philosophy. The use of color to denote the 'Green Lion' and the 'volatile' and 'fixed' spirits, along with the detailed cosmological arrangement, makes it an exceptional example of 16th-17th century esoteric manuscript art."}]
+</detected-images>
+
+--- Page 15 ---
+<lang>German</lang>
+<page-num>5</page-num>
+<meta>Alchemical emblem of the Rebis; colored ink and wash</meta>
+
+-> 1 <-
+
+-> Der flügel des grün leben <-
+-> tut flug in die lufft heben <-
+
+-> der stern bedeüt <-
+-> die vollkommenheit <-
+-> des steins <-
+-> durch die <-
+-> kron erhaben <-
+
+-> Der flügel des granen <-
+-> erleücht die nacht schon <-
+
+---
+
+-> 2 <-
+
+-> Der schneck <-
+-> die ver- <-
+-> wandlung <-
+-> bedeütt <-
+-> durch <-
+-> die ver- <-
+-> lossung <-
+-> schon bereit <-
+
+---
+
+-> 3 <-
+
+-> Der kelch des lebens <-
+-> daraus die schlangen <-
+-> sterben, und leide <-
+-> den tot / durch das <-
+-> lebendig golt. <-
+
+---
+
+-> 4 <-
+
+-> Der paum <-
+-> der sunne <-
+-> bringt <-
+-> freüde <-
+-> von won- <-
+-> ne <-
+
+---
+
+-> 5 <-
+
+-> Der paum <-
+-> der monen <-
+-> ist der sunne <-
+-> stamen. <-
+
+---
+
+-> 6 <-
+
+<margin>Die werck des erbeüts</margin>
+-> durch das rot <-
+-> deit sol <-
+-> die kunst <-
+-> werdt <-
+-> bereit <-
+**Der stein des goldes**
+
+<margin>Des silb des volkumen hat</margin>
+-> durch das <-
+-> weisse deid <-
+-> ist die kunst <-
+-> gantz be- <-
+-> reit <-
+**Der stein des silbers**
+
+<gloss>aqua aurei</gloss> <gloss>aqua lune</gloss>
+
+---
+
+-> 7 <-
+
+-> Der drack <-
+-> der sunne <-
+-> sterbt <-
+-> der sun- <-
+-> nern <-
+
+-> Der drack <-
+-> der mon <-
+-> erleücht <-
+-> die nacht <-
+-> schon <-
+
+---
+
+-> 8 <-
+
+> Der drack verzert die zwen prinzen des monen und der
+> sunnen, wann es ist sein rechte speis / durch rot <unclear>concrocus</unclear>
+> wirt die kunst zu end bracht / Als die ph<note>Abbreviation for philosophi</note> haben gedacht
+
+<sig>N VI</sig>
+
+<vocab>Alchymie, Rebis, Hermaphrodit, Philosophischer Stein, Sol, Luna, Drache, Aqua Aurei, Aqua Lune</vocab>
+
+<detected-images>
+[{"description": "An alchemical Rebis figure, a winged hermaphrodite with one side black and the other white, wearing a crown topped by a star. The figure stands on two pedestals labeled 'aqua aurei' and 'aqua lune'. It holds a cluster of spheres in its right hand and a chalice with emerging snakes in its left. Flanking the figure are plants with sun-faces and moon-faces. At the bottom, a dragon lies across the ground.", "type": "emblem", "bbox": {"x": 0.08, "y": 0.08, "width": 0.85, "height": 0.85}, "gallery_quality": 0.95, "museum_rationale": "A remarkably well-executed alchemical emblem featuring the Rebis. The use of color (green for life, black/white for the duality of the work) and the integration of text into the symbolic landscape make it a primary example of hermetic visual culture from the early modern period."}]
+</detected-images>
+
+--- Page 16 ---
+<lang>German</lang>
+<sig>N VII</sig>
+
+# Das sind die vöyl hermetes mit dem geschos yrer auf und nider fliegen wirt die kunst volbracht
+
+<margin>
+2
+Das sind die fund der <term>phi kunst</term>
+</margin>
+
+<margin>
+2
+Die meyster der <term>phi kunst</term>. 2.
+</margin>
+
+Hermes ein vater der <term>phi kunst</term> bouch genant / mandchem phi sein gar wol
+bekant Darum sehet die tafel recht an was dar yn bezeichet sein
+und man Die zwen planeten reren die kunst mit hilf der mey-
+ters kunst und durch mittel yrer natur / wirt volbracht die edl
+figur Damit man all kranckheit fleucht und dardurch golt und
+silber macht
+
+<vocab>Hermes, phi kunst, Planeten, Gold, Silber, kranckheit, Alchemie</vocab>
+
+<detected-images>
+[{"description": "Alchemical emblem featuring Hermes Trismegistus wearing a red hooded robe, holding a green tablet inscribed with symbols of the Sun, Moon, and a vessel. He is positioned within a stone architectural frame under a brick wall. Five birds (pelicans) are perched above him. On either side stand pairs of figures representing the 'masters' of the art.", "type": "emblem", "bbox": {"x": 0.125, "y": 0.103, "width": 0.778, "height": 0.812}, "gallery_quality": 0.95, "museum_rationale": "This is a significant and vibrant example of 15th-16th century alchemical iconography, likely from the 'Buch der Heiligen Dreifaltigkeit' tradition. The use of color and the specific arrangement of celestial symbols and the 'Pelican in her piety' motifs make it a primary historical document for the study of esoteric art."}]
+</detected-images>
+
+--- Page 17 ---
+<lang>German</lang>
+<page-num>6</page-num>
+<sig>N VIII</sig>
+
+Das ist die weiß waßer ist der grundt aller Schrifften
+darum lobet gott von dem herzen und der warhaftig. sein
+
+# Soluiret die Corper zuwasser
+
+<margin>
+1.
+Der brun-
+nes man-
+en / tut
+gar wol
+lone / durch
+seiner
+edeln
+kraft /
+macht
+er die
+sind weiß
+</margin>
+
+<margin>
+2.
+Der brun aus
+der sunen ma-
+cht freud un
+wunne / und
+ist ein pad gut
+und erfrischt
+manche sei blut
+</margin>
+
+<insert>
+3.
+Aus den zweyen
+wasser macht ein
+wassr Der mein
+wort wisset dem
+sint alle reich un
+tertan
+</insert>
+
+---
+
+### 4.
+Wo die Corper gesoluirt sint / Das frewet sich ein
+philisof : wan durch die zwey wassr / wirt ge-
+macht das edel pflaster Das alle krankheit
+ist vertreibt / der metallen ein menschn leib
+
+<vocab>Solutio, Corper, weiß waßer, sunen, philisof, edel pflaster, metallen, wunne, untertan</vocab>
+
+<detected-images>
+[{"description": "A complex alchemical emblem depicting the process of dissolution ('Solutio'). At the center sits a crowned queen in a red dress. To her left, a lunar tower pours green water into a basin where figures bathe; to her right, a solar tower pours red water (representing blood or solar tincture) into a similar basin. At the bottom, a central male figure in green sits within the structure of the fountain. The image is hand-colored with red, green, and gold washes.", "type": "diagram", "bbox": {"x": 0.11, "y": 0.08, "width": 0.78, "height": 0.72}, "gallery_quality": 0.95, "museum_rationale": "An exceptionally well-preserved and detailed hand-colored alchemical illustration, characteristic of late 16th to early 17th-century hermetic manuscripts like the Rosarium Philosophorum tradition. It beautifully illustrates symbolic chemical processes through allegorical figures."}]
+</detected-images>
+
+--- Page 18 ---
+<lang>German</lang>
+<page-num>N IX</page-num>
+<meta>image-quality: high; polychrome manuscript; alchemical emblems; catchwords or section markers present</meta>
+
+# die kunst ist gerecht und warhaft, oder die natur ist ungerecht.
+dem haupt man sichtvogel und pfhötvogel
+fort dann in stadt man unkheufvogel
+
+---
+
+<margin>
+gemacht worden
+sy mit unßer steine
+</margin>
+
+<margin>
+die ist das fix flüchtig
+das bleibend wasser ist
+</margin>
+
+<margin>
+fix worden ist
+meinist der
+steine
+</margin>
+
+<margin>
+die ist das flüchtig
+macht der <term>phi:</term>
+vater unßers
+</margin>
+
+---
+
+## 2.
+Der grün schilt uns bedeut
+die anfenglich kunst d' <term>phi</term> lernt
+dardurch sy haben vollbracht die
+raben fliegt bey der nacht
+
+## 3.
+Durch den braun schilt fult
+ye cetera hermes vogel
+den ich auch bin nennend
+der ist der weiß adler ge=
+nant / unser d' <term>phi</term> trost
+<insert>erlant</insert>
+
+<vocab>Alchemie, grün schilt, braun schilt, raben, hermes vogel, weiß adler, philosophie, fix, flüchtig, phi</vocab>
+
+<detected-images>
+[
+  {"description": "Alchemical emblem 2: A naked female figure (Anima or Venus) holding a disc and a bird, standing upon a helmet above a green heraldic shield. The shield depicts two entwined human-headed serpents, a raven, and a swan.", "type": "emblem", "bbox": {"x": 0.08, "y": 0.14, "width": 0.43, "height": 0.67}, "gallery_quality": 0.95, "museum_rationale": "High-quality alchemical illustration from a 16th-17th century manuscript, demonstrating complex hermetic symbolism and vibrant polychromy characteristic of the Splendor Solis tradition."},
+  {"description": "Alchemical emblem 3: A crowned woman in a red gown (representing Rubedo) holding a red stone within a flaming mandorla, standing above a pinkish-brown shield. The shield features a swan ('white eagle'), a raven, and a green dragon.", "type": "emblem", "bbox": {"x": 0.49, "y": 0.12, "width": 0.47, "height": 0.73}, "gallery_quality": 0.95, "museum_rationale": "Intricate alchemical symbolism depicting the final stages of the Great Work, featuring traditional emblems like the phoenix-like flaming mandorla and the transformative dragon."}
+]
+</detected-images>
+
+--- Page 19 ---
+<lang>de</lang>
+<page-num>7</page-num>
+<header>Rosarium phi[losophorum] pag. 156. 2. p. artis font.</header>
+<meta>Catchword "ist" visible at the very bottom right corner. Some staining and foxing present on the right margin.</meta>
+
+Latonis tochter rüst vnd schreit also / Beware
+
+> O mich / so bewar ich dich / Verleich mir mein re-
+> cht / das ich die helf / mein sunn vnd mein stra-
+> hl mit tieff in mir luna ist mir ganz eygelich
+> Vnd mein liecht vber trifft alle liecht Vnd mei-
+> gute aller güete ist die hochst vnd edelst zu
+> frewden vnd wolgemut Ich gepur das liecht Aber vnfinstter-
+> nuß sind in meiner natur / es sey dan das mein metall wer-
+> de truncken Alle <term>corper</term> bedürffen mein Darum das ich sy
+> zerlaß vnd zerflüß vnd ir vnreinigkeit vertilg Vnd ir
+> substancz aus zeuch Do ich vnd mein sun mit einand' ver-
+> mischt vnd vereinigt werden Do mag nichts pessers
+> nichts hochers noch wirdigers auf ertreichs funde werden
+> Ob mein außerwelter sich mit mir versleust Vnd aus de-
+> bach des roten steins drincket Vnd des prunnens sein mut
+> netzet vnd mit mir vermehlt wirt Vnd in jeme pett
+> mich frewntlich mynt Vnd in meiner lieb sein samen ein-
+> get in mein leiben so empfach ich vnd wird swanger / vnd
+> zu meiner zeit so geber ich den aller mechtigsten sun
+> Der da herscht vnd regiret vber alle künig un fürsten der
+> erden / gekront einer gulden kro der ewige vberwindung Vnd
+> ser grun schilt ist der philosophen rouze Wo der entsprint der
+> **entspringt der track hermetis vn Aristottiles Der da zer-**
+> **keugt vnd vslint vnsern künig vnd künigin** vnd aus sach-
+> en ir peyder tot wirt geborn die <term>kray</term> die in der swercz der
+> nacht fleugt Vnd aus irem hertzen wirt geborn oder ge-
+> zogen ein <term>weisser adler</term> Der wirt genent <term>hermetis vogl</term>
+> Vnd ist der <term>scharpf essig</term> der das golt verkert in einen ge-
+> warn geist Vnd an den essig mag weder swercz noch we-
+> yse oder rote werden
+> Ich bin gekront vnd mit einer diadem gezret Vnd in kün-
+> igklich gewant gekleit Dann den corpern mach ich groß
+> freud tugend Kumt ir kinder der weisen vnd frewet
+> euch vnd frolocken mir alle mit ein ander dan der tod ist
+
+<vocab>Latonis tochter, sunn, luna, metall, corper, track hermetis, Aristottiles, kray, weisser adler, hermetis vogl, scharpf essig, golt</vocab>
+
+<detected-images>
+[{"description": "Illuminated initial letter 'O' with elaborate foliate scrollwork extending down the left margin and into the text. Inside the 'O' is a geometric or sun-like motif common in alchemical works.", "type": "decorative", "bbox": {"x": 0.057, "y": 0.061, "width": 0.245, "height": 0.742}, "gallery_quality": 0.85, "museum_rationale": "High-quality example of rubrification and illumination in an early modern alchemical manuscript, likely associated with the Rosarium Philosophorum tradition."}]
+</detected-images>
+
+--- Page 20 ---
+<lang>de</lang>
+<sig>N X</sig>
+<meta>Alchemical manuscript page in Early New High German with a colored emblem. The text describes the stages of the Great Work (nigredo, albedo, rubedo) using symbolic imagery of the sun, king, raven, eagle, and dragon. Image quality is high with vibrant colors.</meta>
+
+Verzert Und vnser sun herschet vnd regniet nun Und ist
+mit rotem waffen angeleyt Vnnß sun der geborn künige
+nimbt die tinctur von dem feüre In fleühet das mer der
+tod vnd die vinsternüß Und der track der die locher hat
+nun gehabt fleücht die straū der sunnen Vnß tot sun
+lebt nun Und kumbt aus dem feüre ein künig Und frev̈t
+sich mit seinem mit gesellen vnd offenwart die verborthe
+ding Vnser sun verzunt geporn vnd erquickt <unclear>faur</unclear> ist ein
+widerstrev̈ter des feüres Und ein vber treffender all tinctur
+In des edeln goldes plum mit des silbers wol schmackende
+rum Von einem keüschen vater wirt geborn Der muter
+maythun dardurch nit wirt verlorn Und aus dreyen an
+gesicht Im einvaltigs wesen geschicht Von dem sich der
+rab tut rüchen vnd in der vinstern sswertze begniet zue
+flugen Der einen adler han gepürt der eines weyßenn
+geuieders wirt Aus dem ein track dan entspringt der
+sein eygen zagel verschlint In der neun stern schein wond
+und mit den vier roselein Die andern ding sint torheit Ab
+disz <term>Elixir</term> ist die warheit <unclear>r z</unclear>
+
+---
+
+<insert>
+Das kam al-
+les vo-
+einem wasz
+de Ori
+was ge-
+nennet
+wa-
+g
+</insert>
+
+<insert>
+Der stach al-
+let wees den f n o
+</insert>
+
+<vocab>tinctur, feüre, track, Elixir, künig, sun, adler, rab, sswertze, zagel</vocab>
+
+<detected-images>
+[{"description": "Alchemical emblem featuring three figures—a crowned mermaid with a staff, a naked woman, and a naked man with a spear—standing beside a brick furnace containing three green cucurbits (flasks). The scene includes explanatory German text labels between the figures.", "type": "emblem", "bbox": {"x": 182, "y": 481, "width": 698, "height": 313}, "gallery_quality": 0.9, "museum_rationale": "This is a classic and well-preserved alchemical emblem with symbolic coloring (green flasks, red accents). It vividly illustrates the hermetic philosophy described in the text, typical of 16th-17th century esoteric manuscripts."}]
+</detected-images>
+
+--- Page 21 ---
+<lang>German</lang>
+<page-num>8</page-num>
+<meta>image quality: clear; script: late medieval/early modern cursive (bastarda) with gothic features; marginalia in later hand</meta>
+
+## 1
+Der künig vnd die künigin
+sind groß mechtig sy
+mugen kein vbelast
+nicht geleyden <gloss>Gibe</gloss>
+vn macht Dan sy <gloss>gebe</gloss>
+dir jr augen vm <gloss>yr</gloss>
+haubt Vnsers <gloss>kün</gloss>
+iges haubt ist rot <gloss>sein</gloss>
+füeß sint weiß sei
+augen die sint
+swartz
+
+## 2
+Ir sult ern den künig vnd
+sein künigin dan ir wist
+nicht irn zorn darvm
+das sy euch nicht begreif
+fent vnd erzeygen auf
+euch iren zorn
+
+## 3
+Der künig vnd di künigin
+frewen sich vnd gent in
+iren künig stuel Dan sy
+sint von einer wurtzel
+vnd darvm das kein
+fremdes ding vnter
+sy oder mit in vnmischt
+ist so yeinen sy sich
+
+---
+
+<insert>
+# Lullij theorie
+Cap: 8.
+</insert>
+
+<insert>
+N. XI
+</insert>
+
+<vocab>künig, künigin, vnmacht, wurtzel, vnmischt, yeinen, Lullij theorie</vocab>
+
+<detected-images>
+[{"description": "Alchemical drawing of a conjoined royal figure (Rebis) representing the union of opposites. The figure has two heads (one bearded male, one female) sharing a single torso and a single crown, holding a long scepter or staff with a globe at the top. The figure is dressed in a light-colored tunic and blue hose, standing on a plot of green ground.", "type": "diagram", "bbox": {"x": 0.252, "y": 0.115, "width": 0.354, "height": 0.704}, "gallery_quality": 0.85, "museum_rationale": "This is a classic example of alchemical iconography representing the 'Chemical Wedding' or the Rebis, found in significant esoteric manuscripts of the late 15th to 16th centuries. The hand-coloring and composition are well-preserved and illustrative of the period's symbolic language."}]
+</detected-images>
+
+--- Page 22 ---
+<lang>German</lang>
+<page-num>XII</page-num>
+<meta>Image quality: excellent. Script: Early New High German and Latin. Catchword: none.</meta>
+
+->forma speculi trinitas<-
+
+### Nota ein nat^r ist hie alle ding ymer zeröhet ex der summen geist all aus dem sel der herlig aller heylige drivaltigheit. Braon Sol gold
+
+### Spiritus
+### Sapietia
+### Aqua Sanctitate dies venus
+
+<margin>
+Balsama
+ma <unclear>a</unclear>
+<unclear>auxit</unclear>
+</margin>
+
+### Dies martis humilitat
+
+### Dies jovis <unclear>v</unclear>
+
+---
+
+<margin>
+Da zeucht er dez vates sel der demutigket it aus
+</margin>
+
+<margin>
+Da zerücht er di metellich nat^r d' miltikeit all aus d' sel d' liblichkeit v mvrre
+</margin>
+
+---
+
+### Corpus
+### Pietas
+### Sobrietas
+
+---
+
+### Balsama
+
+### Lemigkeit Weyrauch
+
+<margin>
+Aqua Castitas facs jovi
+</margin>
+
+### David Sobrietas Dies Saturni
+
+### Jesse Caritas Dies lune
+
+<vocab>trinitas, Sol, gold, drivaltigheit, demutigket, miltikeit, liblichkeit, mvrre, Spiritus, Sapietia, Pietas, Sobrietas, Caritas, Castitas, Weyrauch, Saturni, venus, jovis, martis, lune, Balsama</vocab>
+
+<detected-images>
+[{"description": "A complex alchemical and theological emblem entitled 'Forma Speculi Trinitas'. It features a central black feathered figure with human limbs and heads. The torso is a white pillar inscribed with 'Corpus', 'Pietas', and 'Sobrietas', topped with a crowned human face. Two white birds perch on crowns held by the figure's upper limbs. At the base, two reclining figures labeled 'David' and 'Jesse' are depicted. The diagram is heavily annotated in red and black ink with virtues, celestial bodies, and alchemical references.", "type": "emblem", "bbox": {"x": 0.128, "y": 0.041, "width": 0.778, "height": 0.846}, "gallery_quality": 0.95, "museum_rationale": "A highly intricate and well-preserved example of early modern hermetic or alchemical symbolism. The unique iconography combining avian and human forms to illustrate the 'Mirror of the Trinity' is of significant scholarly interest for the history of western esotericism."}]
+</detected-images>
+
+--- Page 23 ---
+<lang>German, Latin</lang>
+<page-num>9</page-num>
+<meta>N XXIIII</meta>
+
+Jungk alt also ist got ihesus
+<gloss>xpus selber sein heylig' geist</gloss>
+Das bezeügt alles ein hercz ist der heilig geist
+<gloss>Junck alt aygen herza</gloss>
+
+<gloss>omnia sunt in vnum esse</gloss>
+<gloss>Sanctitas Luna</gloss>
+<gloss>Lux urbe</gloss>
+
+<margin>
+1 Rot plut aygenig vnsz erschreckt ist er abnuncz dye im fleisch gotlich
+der flug rat ist vnn acc
+</margin>
+
+<gloss>2 Iohannes</gloss> <gloss>ter Dea mar cus</gloss>
+
+<margin>
+2 dye im fleisch gotlich menschlich ist er mügenheit plut Sol victas
+</margin>
+
+<gloss>Das wappen hat keyser vor Und macht im den weg schon</gloss>
+
+---
+
+<gloss>filius</gloss> <gloss>est mat</gloss> <gloss>pater</gloss>
+<gloss>Ignis</gloss>
+
+| <gloss>Sapiẽtia</gloss> | <gloss>Corpus</gloss> | <gloss>Anima</gloss> |
+|-------------------------|-----------------------|----------------------|
+
+->centered text<-
+Die von der Junckfro ward
+
+---
+
+<gloss>Pietas</gloss>
+<gloss>Sa pie tia</gloss>
+<gloss>Rex</gloss>
+<gloss>Matheus</gloss>
+
+->centered text<-
+<gloss>Figura speculi - Sancte trinitatis</gloss>
+
+<gloss>Lucas</gloss>
+<gloss>Pera</gloss>
+
+<vocab>Trinity, Coronation of Mary, Evangelists, Iohannes, Marcus, Matheus, Lucas, Sapiencia, Corpus, Anima, Speculum, Gnadenstuhl, Jungfrau</vocab>
+
+<detected-images>
+[{"description": "A complex allegorical diagram featuring the Holy Trinity and the four Evangelists. At the top, an eagle (John) and a winged lion (Mark) flank a central scene of the Coronation of the Virgin by the Father and the Son, seated on a bench labeled with 'Sapiẽtia', 'Corpus', and 'Anima'. Below them is a 'Mirror of the Holy Trinity' (Throne of Grace) depicted within a green shield, flanked by a kneeling angel (Matthew) and a winged ox (Luke).", "type": "diagram", "bbox": {"x": 0.08, "y": 0.02, "width": 0.88, "height": 0.8}, "gallery_quality": 0.95, "museum_rationale": "This is a remarkably detailed and colorful 16th-century mystical-theological diagram. It combines standard iconography (Evangelists, Trinity) with unusual labels (Body, Soul, Wisdom) and a high level of artistic execution, making it a significant piece for the study of late medieval/early modern religious thought and visual culture."}]
+</detected-images>
+
+--- Page 24 ---
+<lang>lat</lang>
+<meta>image quality: clear; some ink bleed-through from the reverse side; slight foxing</meta>
+<meta>N. XIV</meta>
+
+<margin>
+Caput ror
+i[n] pncipi
+artis
+</margin>
+
+Soll
+Sun
+
+<insert>
+auro nr̄
+</insert>
+
+Luna
+Mon
+
+Venus
+
+Mars caput agny
+fims est
+
+Jupiter
+
+Saturñ
+
+Arbor phozū
+
+---
+
+-> Nō de aqua vite. dixit deus cuius nomen sanctificet² faciamus ex aq̃ omes rem <-
+
+<vocab>Soll, Sun, Luna, Mon, Venus, Mars, Jupiter, Saturn, Arbor philosophorum, anima mundi, aqua vitae</vocab>
+
+<detected-images>
+[{"description": "An alchemical emblem featuring the Arbor Philosophica (Philosophers' Tree) with a double-headed eagle perched at the center. The tree is surrounded by seven planetary spheres connected by rays to a central aqueous vessel. At the base, a dragon or serpent is depicted on a landscape of hills, with one ray piercing its head. The Sun and Moon spheres have human faces, while the others contain wavy lines representing water or elemental mercury.", "type": "emblem", "bbox": {"x": 0.118, "y": 0.065, "width": 0.778, "height": 0.768}, "gallery_quality": 0.95, "museum_rationale": "This is a high-quality, hand-colored alchemical emblem from the early modern period. It utilizes complex symbolism typical of Hermetic philosophy, including the double-headed eagle (representing the union of opposites or the volatile and fixed), the planetary system, and the 'Arbor Philosophica'. The preservation of color and the detailed anthropomorphic representations of the luminaries make it a significant visual document of esoteric history."}]
+</detected-images>
+
+--- Page 25 ---
+<lang>de</lang>
+<page-num>10</page-num>
+
+# Flos Sapientum
+
+-> Rubeum <- -> Album <-
+
+<margin>1</margin>
+Der baum ist uns
+bedeüttung zwar /
+die kunst der phi-
+losophen / und pri-
+ngt uns drey
+edler rosen zwar
+
+<margin>2</margin>
+Der tract ist bediüttung
+zwar / die kunst der
+philosophen / rosen er
+sich tut bringen / in
+die höchst ding / ge-
+gen sun und mon / so-
+bringt er frucht an
+abeton <unclear>(</unclear>
+
+---
+
+<margin>2a cucurbita</margin>
+<margin>N. S.</margin>
+<margin>Kinig</margin>
+<margin>Noster</margin>
+<margin>Cucurbitis prima</margin>
+<margin>prima Cucurbita</margin>
+
+Est magis vera <term>q̃ capit̃ in sang vine plena</term>
+
+N. S. V.
+
+<vocab>Flos Sapientum, Rubeum, Album, Philosophen, rosen, sun, mon, Kinig, cucurbita, Noster</vocab>
+
+<detected-images>
+[
+  {"description": "Alchemical emblem of the 'Flower of the Wise' (Flos Sapientum). A central blue flower and two side flowers (red 'Rubeum' and white 'Album') grow from a stalk originating in a circular medallion. The medallion depicts a pelican in its piety, wounding its breast to feed its three chicks with its blood.", "type": "emblem", "bbox": {"x": 62, "y": 78, "width": 860, "height": 586}, "gallery_quality": 0.95, "museum_rationale": "High-quality alchemical emblem with symbolic coloring and the classic motif of the pelican, representing sacrifice and the work of the philosopher's stone."},
+  {"description": "Anthropomorphic moon face surrounded by rays, representing a lunar alchemical vessel.", "type": "diagram", "bbox": {"x": 93, "y": 578, "width": 240, "height": 218}, "gallery_quality": 0.85, "museum_rationale": "Striking personified celestial symbol common in early modern alchemical manuscripts."},
+  {"description": "A six-pointed star within a circle, representing the alchemical vessel or 'cucurbita noster'.", "type": "diagram", "bbox": {"x": 421, "y": 688, "width": 160, "height": 140}, "gallery_quality": 0.7, "museum_rationale": "Geometric alchemical diagram illustrating celestial and terrestrial correspondence."},
+  {"description": "Anthropomorphic sun face surrounded by rays, representing a solar alchemical vessel.", "type": "diagram", "bbox": {"x": 605, "y": 643, "width": 240, "height": 194}, "gallery_quality": 0.85, "museum_rationale": "Symmetrical counterpart to the lunar diagram, well-executed with fine line work."}
+]
+</detected-images>
+
+--- Page 26 ---
+<lang>la, de</lang>
+<page-num>N. XVI</page-num>
+
+Absqz aq pmanet nihil fiat de Aqua
+vite etiam sument Rapelle Unde in
+Turba Diqua est ar: vi: abomnibus
+Ele' abstractum de qua oia funt. Nichts
+mag in natura besten. Es muis aus jene
+y materien yen
+
+### Tres facies in Uno homine
+
+-> Rubius Rex <- -> Noster Albus <-
+
+<insert>
+Atra
+nigra
+</insert>
+<note>Inscribed on the black orb held by the figure</note>
+
+<gloss>unio</gloss>
+<note>Inscribed on the flowering staff</note>
+
+-> Terra fixa <-
+<note>Located at the feet of the figure</note>
+
+-> fmento <-
+-> Yda cucurbita <-
+
+-> fons aureu <- -> fons argẽtes <-
+
+<vocab>Tres facies in Uno homine, Rubius Rex, Albus, Atra nigra, Terra fixa, fons aureus, fons argenteus, Yda cucurbita, alchemical emblem, Great Work</vocab>
+
+<detected-images>
+[{"description": "A detailed, hand-colored alchemical emblem depicting a central crowned figure in a blue robe, symbolizing the 'Rebis' or the alchemical process. The figure holds a black sphere (nigredo) labeled 'Atra nigra' and a blossoming staff (unio). Two large pink-shaded wings frame the figure, who stands above two ceremonial fonts labeled 'fons aureu' and 'fons argẽtes' (Golden and Silver Fountains). A red eight-pointed star rests above the crown, and the ground is marked with terms like 'Terra fixa'.", "type": "emblem", "bbox": {"x": 0.165, "y": 1.45, "width": 0.745, "height": 0.81}, "gallery_quality": 0.95, "museum_rationale": "This is a remarkably well-preserved and colorfully illustrated alchemical diagram from the early modern period. Its complexity and standard Hermetic iconography make it a significant historical and artistic specimen for the study of esoteric sciences."}]
+</detected-images>
+
+--- Page 27 ---
+<lang>Latin</lang>
+<page-num>11</page-num>
+<page-num>XXVIII</page-num>
+
+# Vegetabilia nascatur
+# Iher: Chr: adutrunque
+
+->pater noster diadema<-
+->te coronatus<-
+
+<insert>
+**rot**
+**Ruben**
+</insert>
+
+<insert>
+**weiß**
+**Alchem**
+</insert>
+
+<insert>
+**fi dracons**
+**est et phoz**
+</insert>
+
+<insert>
+**terra** | **color**
+**Nigru** | **tēri**
+**mus** | **Aer**
+</insert>
+
+<insert>
+**Ignis** **Sperm** **Aqua**
+</insert>
+
+<margin>
+**Arbor solis**
+**Oliuū orientalis**
+</margin>
+
+<margin>
+**Arbor lune**
+**Olin occi**
+**dentalis**
+</margin>
+
+<margin>
+**Equitāte**
+**frēs ex vno**
+**pāe z mte**
+</margin>
+
+<insert>
+**Draco hmet azia**
+</insert>
+
+<margin>
+**draco nō moritur**
+**per unū solū fi**
+</margin>
+
+<margin>
+**u cū fra ꝛ soro rē m**
+**pā babus fil**
+</margin>
+
+<vocab>Alchemy, Rebis, Arbor Solis, Arbor Lunae, Draco, Elements, Nigredo, Latin, German</vocab>
+
+<detected-images>
+[{"description": "A complex alchemical emblem depicting the Rebis—a two-faced, androgynous crowned figure—standing upon a dragon within a landscape. The figure is flanked by the 'Arbor Solis' (Sun Tree) on the left and 'Arbor Lunae' (Moon Tree) on the right. The diagram is heavily annotated with Latin and German labels referring to alchemical processes and elements like Ignis (Fire), Aqua (Water), Terra (Earth), and Aer (Air).", "type": "emblem", "bbox": {"x": 0.051, "y": 0.125, "width": 0.895, "height": 0.835}, "gallery_quality": 1.0, "museum_rationale": "This is a quintessential example of Hermetic iconography from a manuscript context. The high detail in the symbolism—including the union of opposites in the Rebis, the four elements, and the planetary trees—makes it a significant specimen for the study of history of science and alchemy."}]
+</detected-images>
+
+--- Page 28 ---
+<lang>German</lang>
+<warning>The page is a verso or flyleaf showing significant bleed-through (ghosting) from the reverse side. The original ink inscriptions on this side are extremely faded and mostly illegible.</warning>
+
+---
+
+<unclear>Nun, dũ p</unclear><unclear>r</unclear><unclear>omptũr</unclear> <unclear>v</unclear><unclear>erbum</unclear> <unclear>v</unclear><unclear>itae</unclear>
+
+<unclear>...</unclear>
+
+<unclear>mundi</unclear>
+<unclear>salvator</unclear>
+<unclear>...is</unclear>
+
+---
+
+<vocab>ghost image, bleed-through, faded script</vocab>
+
+<detected-images>
+[{"description": "Faint bleed-through (ghost image) from the reverse side of the leaf showing a central standing figure in long, vertically-striped robes or a tabard, holding a large chalice or floral arrangement. To the left is a botanical drawing of a flowering plant, possibly a lily.", "type": "decorative", "bbox": {"x": 0.13, "y": 0.14, "width": 0.73, "height": 0.81}, "gallery_quality": 0.3, "museum_rationale": "An interesting example of ink bleed-through revealing the contents of the recto side, showing a combination of figurative and botanical illustration styles typical of the early modern period."}]
+</detected-images>
+
+--- Page 29 ---
+<lang>German</lang>
+<page-num>12</page-num>
+<meta>The page is blank except for the handwritten page number.</meta>
+
+<vocab></vocab>
+
+--- Page 30 ---
+<lang>German</lang>
+<page-num>2</page-num>
+<warning>This page is a blank flyleaf or endpaper. It contains no primary text, only a faint, handwritten "2" at the top center and minor ink marks at the bottom center. Significant foxing, staining, and ghosting from the reverse side are visible.</warning>
+
+<vocab>blank leaf, flyleaf, foxing, manuscript</vocab>
+
+--- Page 31 ---
+<lang>German</lang>
+<page-num>13.</page-num>
+<warning>This page is predominantly blank, containing only a handwritten folio number. There is significant faint ghosting/bleed-through of a diagram and text from the reverse side of the leaf.</warning>
+<meta>The center of the page shows a large, faint vertical shape bleeding through from the verso, possibly a diagram or large decorative element.</meta>
+
+<vocab>Leerseite</vocab>
+
+--- Page 32 ---
+<lang>German</lang>
+<meta>This page consists of a full-page illustration; no textual content is present.</meta>
+
+<vocab>Athanor, Destillation, Alchemie, Retorte, Kolben, Laboratorium</vocab>
+
+<detected-images>
+[{"description": "A complex hand-colored alchemical diagram depicting a distillation apparatus. It features a central triple-chambered furnace (athanor) housing glass flasks, a cooling system with wooden tubs and faucets (one featuring a small animal or cock-head spout), and a bird perched atop the central spire, likely representing a stage in the alchemical process or a specific substance.", "type": "diagram", "bbox": {"x": 0.203, "y": 0.081, "width": 0.665, "height": 0.730}, "gallery_quality": 0.9, "museum_rationale": "This is a significant and well-preserved example of early modern alchemical illustration, providing visual evidence of historical laboratory setups and hermetic symbolism."}]
+</detected-images>
+
+--- Page 33 ---
+<lang>German</lang>
+<page-num>14</page-num>
+<warning>This page is a blank leaf with no textual content other than a handwritten page number.</warning>
+
+<vocab>blank page, page number</vocab>
+
+--- Page 34 ---
+<lang>lat, deu</lang>
+<warning>The manuscript shows significant fading, particularly in the middle section written in German Kurrent script. Some characters are difficult to distinguish.</warning>
+
+Libri chemici ut plurimum
+conscripti sunt — per 
+{ amphibologias
+parabolas
+hieroglyphica
+apologos —
+} quales sunt.
+
+---
+
+Adonis sozt in ein waßerbad
+darin Venus ihres gleiches hat
+welches hat bereitet uralte Dienst
+da er verlasset seine starcke macht
+Ihr nichts thut die philosophie
+als ein dreifacher mercurius <gloss>s p p</gloss>
+
+Isth... Plut... Cerberum bezwungen hat
+da er Cerberum wiederum in der inzel Thüle <margin>peninsula Scandinavia</margin>
+bezwingen haben <unclear>... </unclear> <term>☿</term> sie sagen
+<unclear>... </unclear> das der selben <unclear>...</unclear> in reichthumb lobet wird.
+
+Ein Vater zeuget aus seiner eignen Tochter einen Sohn.
+<unclear>...</unclear> wie wunderlich die <term>♀</term> <unclear>umbthei</unclear>
+<unclear>...</unclear> die <unclear>lüfte</unclear> <unclear>bescheite</unclear> durch beleißen wird das
+rebus est passiva consid.
+
+Si non soles, fœnas, vclare falihem
+Et veloxem figus, solvent te vinca felum.
+Si rumectat terram, mox illum flores <unclear>... </unclear>
+
+### Alphabetum.
+
+| <term>♁</term> | <term>c</term> | <term>o</term> | <term>v</term> | <term>δ</term> | <term>i</term> | <term>☿</term> | <term>☉</term> | <term>z</term> | <term>w</term> | <term>π</term> | <term>♀</term> | <term>m</term> | <term>♀</term> | <term>o</term> | <term>p</term> | <term>q</term> | <gloss>8</gloss> <term>♄</term> | <term>♎</term> | <term>♓</term> | <term>♃</term> | <term>☿</term> |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| a | b | c | d | e | f | g | h | i | k | l | m | n | o | p | q | r | s | t | u | v | w |
+
+Hunc mihi libellum vere aureum donationis titulo dedit C. S.
+natione ut dixit Germanus die 19. Jun: <insert>moll: fl: m: li: m:</insert> An: 1693
+
+<vocab>Adonis, Venus, Mercurius, Cerberus, Thule, Scandinavia, Alphabetum, Alchemie, Cipher, planetary symbols</vocab>
+
+--- Page 35 ---
+<lang>German</lang>
+<page-num>4</page-num>
+<warning>Significant water staining at the top center of the page. The page appears to be a blank flyleaf or endpaper containing only a single numeral at the bottom.</warning>
+<meta>Blank page with a single numeral 4 at the bottom center.</meta>
+
+<vocab>blank page, water stain</vocab>
+
+--- Page 36 ---
+<lang>German</lang>
+
+<warning>This page is blank and contains no text, illustrations, or diagrams. There is a prominent water or oil stain at the top center of the leaf.</warning>
+
+<vocab>blank page, stain</vocab>
+
+--- Page 37 ---
+<lang>German</lang>
+<warning>Large water stain at the top center. The page is blank and contains no text.</warning>
+<meta>Blank flyleaf or endpaper with some foxing and a significant moisture stain.</meta>
+
+<vocab>blank page, water stain, flyleaf, foxing</vocab>
+
+--- Page 38 ---
+<lang>German</lang>
+<warning>This page is blank and exhibits significant water staining at the top edge, along with general foxing and age-related discoloration across the surface.</warning>
+
+[This page is blank]
+
+--- Page 39 ---
+<lang>German</lang>
+
+<meta>This page is blank, showing the texture of the aged paper with some foxing and water staining at the bottom edge.</meta>
+
+[The page is blank.]
+
+<vocab></vocab>
+
+--- Page 40 ---
+<lang>Indeterminate</lang>
+
+<warning>This page is a blank leaf from the manuscript. It contains no text, handwriting, illustrations, or diagrams. There is visible foxing and water staining at the top and bottom edges.</warning>
+
+<meta>image quality: clear; content: blank page</meta>
+
+<vocab>blank leaf, foxing, water stains, manuscript paper</vocab>
+
+--- Page 41 ---
+<lang>N/A</lang>
+<warning>This page is blank and contains no text or illustrations. There is some minor water staining and foxing visible at the top and bottom center edges of the leaf.</warning>
+
+<vocab>blank page, flyleaf</vocab>
+
+--- Page 42 ---
+<lang>German</lang>
+
+<warning>This page appears to be a blank flyleaf or endpaper with significant staining and foxing. No legible text or illustrations are present.</warning>
+
+<meta>Blank page</meta>
+
+<vocab></vocab>
+
+--- Page 43 ---
+<lang>German</lang>
+
+<warning>This page is a blank leaf, likely a flyleaf or endpaper, containing no text or illustrations. There is visible staining and foxing throughout the page.</warning>
+
+<meta>Blank page</meta>
+
+--- Page 44 ---
+<lang>German</lang>
+<warning>This page is blank. It shows a prominent moisture or oil stain at the top center and water damage/staining along the bottom edge.</warning>
+<meta>blank page, foxing, staining</meta>
+
+--- Page 45 ---
+<lang>German</lang>
+<meta>Blank page, likely a flyleaf or endpaper.</meta>
+<warning>Visible water staining and discoloration at the top center and along the bottom edge of the page.</warning>
+
+<vocab></vocab>
+
+--- Page 46 ---
+<lang>German</lang>
+<meta>blank page; foxing and liquid stains throughout</meta>
+<warning>This page is an uninscribed leaf, likely a flyleaf or endpaper; no legible text or illustrations are present.</warning>
+
+<vocab>blank leaf, foxing, staining</vocab>
+
+--- Page 47 ---
+<lang>Italian</lang>
+
+<warning>The manuscript page is heavily foxed and stained, with significant water damage and discoloration. The handwriting at the top is somewhat faint but legible.</warning>
+
+<page-num>11</page-num>
+
+Fanno tredici, e <unclear>traggansi</unclear> due
+
+<insert>
+THE JOHN RYLANDS LIBRARY
+</insert>
+
+<vocab>tredici, traggansi, due</vocab>
+
+--- Page 48 ---
+<lang>German</lang>
+<meta>Front cover of the manuscript; leather binding with blind tooling and metal hardware. The leather shows significant wear and aging.</meta>
+
+<note>This image shows the exterior front cover of the manuscript. There is no written text to transcribe on this page. The surface is decorated with blind-stamped leatherwork and protective metal elements.</note>
+
+<vocab>leather binding, blind tooling, bosses, metal clasp, bookbinding</vocab>
+
+<detected-images>
+[{"description": "Ornate leather book cover featuring blind-stamped decorative borders with scrolling and floral motifs. The cover is adorned with five circular brass bosses (four in the corners and one in the center) and a brass clasp mechanism on the left edge.", "type": "decorative", "bbox": {"x": 0.01, "y": 0.01, "width": 0.98, "height": 0.98}, "gallery_quality": 0.85, "museum_rationale": "High-quality example of historical bookbinding from the early modern period, displaying characteristic blind tooling and original metal furniture (bosses and clasp)."}]
+</detected-images>
+
+--- Page 49 ---
+<lang>German</lang>
+<warning>The image shows the spine of a leather-bound book; there is no legible text present other than a potential fragment of a number on a damaged label near the base.</warning>
+<meta>Exterior view of the book spine showing binding details and material degradation.</meta>
+
+<unclear>1</unclear>
+
+<vocab>Buchrücken, Ledereinband, Einbandforschung</vocab>
+
+<detected-images>
+[{"description": "The spine of a historical leather-bound manuscript with horizontal decorative bands and significant wear at the top and bottom.", "type": "decorative", "bbox": {"x": 0.28, "y": 0.02, "width": 0.45, "height": 0.97}, "gallery_quality": 0.4, "museum_rationale": "Provides physical context for the manuscript's storage and binding style."}]
+</detected-images>
+
+--- Page 50 ---
+<lang>German</lang>
+<warning>This image shows the physical fore-edge and binding of the closed manuscript; it contains no text or script to transcribe.</warning>
+<meta>External view of the closed book showing the edges of the paper leaves and the worn brown leather binding with brass furniture.</meta>
+
+<vocab>leather binding, fore-edge, brass clasps, book furniture</vocab>
+
+<detected-images>
+[{"description": "Fore-edge view of a leather-bound manuscript with visible page edges and brass mounting studs.", "type": "decorative", "bbox": {"x": 0.01, "y": 0.05, "width": 0.98, "height": 0.9}, "gallery_quality": 0.6, "museum_rationale": "Shows the physical structure and condition of a period binding, including the sewing supports and protective brass hardware."}]
+</detected-images>
+
+--- Page 51 ---
+<lang>German</lang>
+<meta>Side view (fore-edge) of a leather-bound manuscript showing brass clasps.</meta>
+<warning>This image contains no text. It is a photographic view of the book's fore-edge and binding hardware.</warning>
+
+<vocab>binding, leather, brass clasp, fore-edge, manuscript</vocab>
+
+<detected-images>
+[{"description": "Fore-edge of a leather-bound book showing brass clasps and the edges of many paper leaves.", "type": "decorative", "bbox": {"x": 105, "y": 20, "width": 788, "height": 978}, "gallery_quality": 0.8, "museum_rationale": "Provides visual context for the physical state and period binding of the manuscript, including well-preserved brass clasps."}]
+</detected-images>
+
+--- Page 52 ---
+<lang>None</lang>
+<meta>Archival photograph of a closed manuscript showing the leather binding and the edges of the text block.</meta>
+<warning>This image contains no text. It is a photograph of the physical exterior of a manuscript book.</warning>
+
+<vocab>binding, leather, fore-edge, manuscript</vocab>
+
+<detected-images>
+[{"description": "Photograph of the fore-edge and leather binding of a closed manuscript book, showing the layers of paper and the worn leather covers.", "type": "decorative", "bbox": {"x": 0.01, "y": 0.12, "width": 0.98, "height": 0.77}, "gallery_quality": 0.3, "museum_rationale": "Archival documentation of the physical object's binding and state of preservation."}]
+</detected-images>

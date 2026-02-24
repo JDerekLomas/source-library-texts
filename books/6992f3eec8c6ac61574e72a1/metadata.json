@@ -1,0 +1,26 @@
+{
+  "id": "6992f3eec8c6ac61574e72a1",
+  "title": "名山圖 (Mingshan Tu: Famous Mountains of China)",
+  "display_title": "名山圖 (Mingshan Tu: Famous Mountains of China)",
+  "author": "Anonymous",
+  "language": "Chinese",
+  "year": 1633,
+  "published": "1633",
+  "pages_count": 66,
+  "pages_with_ocr": 66,
+  "pages_with_translation": 53,
+  "source_url": "https://sourcelibrary.org/book/6992f3eec8c6ac61574e72a1",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:33.173Z",
+  "_hashes": {
+    "ocr": "72167d2546546cab",
+    "translation": "e1cf13d3c4d67c64"
+  }
+}

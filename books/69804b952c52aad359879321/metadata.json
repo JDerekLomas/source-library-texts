@@ -1,0 +1,26 @@
+{
+  "id": "69804b952c52aad359879321",
+  "title": "De lapide philosophico",
+  "display_title": "De lapide philosophico",
+  "author": "Lambspringk",
+  "language": "Latin",
+  "year": 1625,
+  "published": "1625",
+  "pages_count": 59,
+  "pages_with_ocr": 59,
+  "pages_with_translation": 59,
+  "source_url": "https://sourcelibrary.org/book/69804b952c52aad359879321",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:36.858Z",
+  "_hashes": {
+    "ocr": "f72ffe2f14f4fc2a",
+    "translation": "22b1d344001d13fd"
+  }
+}

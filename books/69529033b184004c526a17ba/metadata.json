@@ -1,0 +1,28 @@
+{
+  "id": "69529033b184004c526a17ba",
+  "title": "Vitae sanctae Paulae (c.1471-75 Cologne incunabulum)",
+  "display_title": "Vitae sanctae Paulae (c.1471-75 Cologne incunabulum)",
+  "author": "Hieronymus (Jerome)",
+  "language": "Latin",
+  "year": 1472,
+  "published": "1472",
+  "pages_count": 61,
+  "pages_with_ocr": 61,
+  "pages_with_translation": 61,
+  "source_url": "https://sourcelibrary.org/book/69529033b184004c526a17ba",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "mdz": "bsb00070429"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": null,
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:35.620Z",
+  "_hashes": {
+    "ocr": "d7534c2d242730a8",
+    "translation": "dcaf6e7a7432342f"
+  }
+}

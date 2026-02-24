@@ -1,0 +1,28 @@
+{
+  "id": "69907c6b5f855ec553e7514d",
+  "title": "Muhurta Manjari of Yadunandan",
+  "display_title": "Muhurta Manjari (Yadunandan)",
+  "author": "Yadunandan",
+  "language": "Sanskrit",
+  "year": 1800,
+  "published": "1800",
+  "pages_count": 61,
+  "pages_with_ocr": 61,
+  "pages_with_translation": 49,
+  "source_url": "https://sourcelibrary.org/book/69907c6b5f855ec553e7514d",
+  "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "MuhurtaManjariYadunandan848GhaAlm4Shlf5DevanagariJyotish"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:36.488Z",
+  "_hashes": {
+    "ocr": "79c41113dc6b2e42",
+    "translation": "be28ee979b388127"
+  }
+}

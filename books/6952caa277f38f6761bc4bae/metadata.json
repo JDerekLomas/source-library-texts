@@ -1,0 +1,28 @@
+{
+  "id": "6952caa277f38f6761bc4bae",
+  "title": "Introduction to the Philosophy and Writings of Plato",
+  "display_title": "Introduction to Plato",
+  "author": "Taylor, Thomas",
+  "language": "English",
+  "year": 1804,
+  "published": "1804",
+  "pages_count": 52,
+  "pages_with_ocr": 52,
+  "pages_with_translation": 52,
+  "source_url": "https://sourcelibrary.org/book/6952caa277f38f6761bc4bae",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "thomastaylorintroductiontothephilosophyandwritingsofplato"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:40.507Z",
+  "_hashes": {
+    "ocr": "21910a088d2bac19",
+    "translation": "59d8513704365234"
+  }
+}

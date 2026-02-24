@@ -1,0 +1,28 @@
+{
+  "id": "6952306aab34727b1f0446a5",
+  "title": "Aristotelis Secretum secretorum",
+  "display_title": "The Secret of Secrets (Manuscript)",
+  "author": "Pseudo-Aristotle",
+  "language": "Latin",
+  "year": 1401,
+  "published": "1401-1500",
+  "pages_count": 68,
+  "pages_with_ocr": 68,
+  "pages_with_translation": 68,
+  "source_url": "https://sourcelibrary.org/book/6952306aab34727b1f0446a5",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "gallica": "btv1b9068380h"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:31.936Z",
+  "_hashes": {
+    "ocr": "080ce86ddb5af8e7",
+    "translation": "b63848bdda95aad3"
+  }
+}

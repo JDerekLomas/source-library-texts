@@ -1,0 +1,26 @@
+{
+  "id": "6991c5853074a1745a41199b",
+  "title": "Buch der heiligen Dreifaltigkeit (Book of the Holy Trinity) (Rylands MS German 1)",
+  "display_title": "Alchemica (German MS 1)",
+  "author": "Anonymous",
+  "language": "German",
+  "year": 1420,
+  "published": "Unknown",
+  "pages_count": 52,
+  "pages_with_ocr": 52,
+  "pages_with_translation": 52,
+  "source_url": "https://sourcelibrary.org/book/6991c5853074a1745a41199b",
+  "license": "CC-BY-NC-4.0",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:40.557Z",
+  "_hashes": {
+    "ocr": "7c0ce8990dab8be5",
+    "translation": "68db1be6d899f69f"
+  }
+}

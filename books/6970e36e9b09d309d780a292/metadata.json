@@ -1,0 +1,26 @@
+{
+  "id": "6970e36e9b09d309d780a292",
+  "title": "Allgemeine Grundregeln der Freymaurer. Nebst einer Rede über den Zweck der Maurerey",
+  "display_title": "Allgemeine Grundregeln der Freymaurer. Nebst einer Rede über den Zweck der Maurerey",
+  "author": "Anonymous",
+  "language": "German",
+  "year": 1784,
+  "published": "1784",
+  "pages_count": 57,
+  "pages_with_ocr": 57,
+  "pages_with_translation": 57,
+  "source_url": "https://sourcelibrary.org/book/6970e36e9b09d309d780a292",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:38.064Z",
+  "_hashes": {
+    "ocr": "cd0aea8c5d8e5aa7",
+    "translation": "88251bcbef9d8723"
+  }
+}

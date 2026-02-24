@@ -1,0 +1,28 @@
+{
+  "id": "6952dacd77f38f6761bc7016",
+  "title": "Summum Bonum",
+  "display_title": "The Highest Good: A Rosicrucian Apology",
+  "author": "Robert Fludd",
+  "language": "Latin",
+  "year": 1629,
+  "published": "1629",
+  "pages_count": 55,
+  "pages_with_ocr": 55,
+  "pages_with_translation": 55,
+  "source_url": "https://sourcelibrary.org/book/6952dacd77f38f6761bc7016",
+  "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "robert-fludd-summum-bonum-1629"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:38.884Z",
+  "_hashes": {
+    "ocr": "8a39fff1690eb847",
+    "translation": "c71055aa7beaae5e"
+  }
+}

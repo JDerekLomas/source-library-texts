@@ -1,0 +1,28 @@
+{
+  "id": "69942e8dd607f8e57e4b982c",
+  "title": "De Platonicae atque Aristotelicae Philosophiae Differentia",
+  "display_title": "De Platonicae atque Aristotelicae Philosophiae Differentia",
+  "author": "George Gemistos Plethon",
+  "language": "Greek",
+  "year": 1540,
+  "published": "Unknown",
+  "pages_count": 53,
+  "pages_with_ocr": 53,
+  "pages_with_translation": 53,
+  "source_url": "https://sourcelibrary.org/book/69942e8dd607f8e57e4b982c",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "deplatonicaeatq00pletgoog"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:39.707Z",
+  "_hashes": {
+    "ocr": "3cfa9b4ba825ed63",
+    "translation": "227a96c4c802a413"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "697b0799f820c22b1fa94a89",
+  "title": "Endliches Schicksal des Freymaurer-Ordens in einer Schlussrede",
+  "display_title": "Endliches Schicksal des Freymaurer-Ordens in einer Schlussrede",
+  "author": "Anonymous",
+  "language": "German",
+  "year": 1794,
+  "published": "1794",
+  "pages_count": 59,
+  "pages_with_ocr": 59,
+  "pages_with_translation": 59,
+  "source_url": "https://sourcelibrary.org/book/697b0799f820c22b1fa94a89",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:37.255Z",
+  "_hashes": {
+    "ocr": "c852ea84743f4031",
+    "translation": "7a2f58b1b08a3f25"
+  }
+}

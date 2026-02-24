@@ -1,0 +1,28 @@
+{
+  "id": "6958e93d813ea03889c32625",
+  "title": "Censura Medicamentorum officinalium",
+  "display_title": "Censura Medicamentorum officinalium",
+  "author": "Augustus Quirinus Rivinus",
+  "language": "Latin",
+  "year": 1701,
+  "published": "1701",
+  "pages_count": 65,
+  "pages_with_ocr": 65,
+  "pages_with_translation": 65,
+  "source_url": "https://sourcelibrary.org/book/6958e93d813ea03889c32625",
+  "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bub_gb_o31AAAAAcAAJ"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:33.703Z",
+  "_hashes": {
+    "ocr": "8c9656148f574148",
+    "translation": "bdd4a346173bb644"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "69906325ef12272ffdc8f968",
+  "title": "Liber Nativitatum et Centiloquium Divi Hermetis",
+  "display_title": "Liber Nativitatum et Centiloquium Divi Hermetis",
+  "author": "Albubather; Hermes Trismegistus",
+  "language": "Latin",
+  "year": 1485,
+  "published": "Unknown",
+  "pages_count": 66,
+  "pages_with_ocr": 66,
+  "pages_with_translation": 66,
+  "source_url": "https://sourcelibrary.org/book/69906325ef12272ffdc8f968",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "hin-wel-all-00000234-001"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:33.119Z",
+  "_hashes": {
+    "ocr": "1dd4fbe614008d09",
+    "translation": "862107d99fab1525"
+  }
+}

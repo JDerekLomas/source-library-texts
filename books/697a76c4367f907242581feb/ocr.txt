@@ -1,0 +1,1882 @@
+--- Page 1 ---
+<lang>None</lang>
+<meta>Front cover of a manuscript or ledger; marbled paper over boards.</meta>
+<warning>This image depicts the exterior cover of a manuscript. There is no legible text present on the cover. The surface shows significant wear, staining, and material loss, especially along the spine and corners.</warning>
+
+<detected-images>
+[{"description": "Marbled or sponged decorative paper cover in shades of grey and charcoal, showing typical patterns of historical bookbinding.", "type": "decorative", "bbox": {"x": 0.03, "y": 0.01, "width": 0.95, "height": 0.98}, "gallery_quality": 0.3, "museum_rationale": "A characteristic example of an 18th or 19th-century marbled book cover, demonstrating period binding techniques and patterns of preservation/deterioration."}]
+</detected-images>
+
+--- Page 2 ---
+<lang>Latin, German</lang>
+<meta>Flyleaf or endpaper of a manuscript featuring 19th or 20th-century library cataloging notes in pencil and ink, and a pasted-on bookplate or emblem sticker.</meta>
+
+Dubl.
+
+<margin>d</margin>
+
+-> Dinh. Lit. G IV <-
+-> Phintzing, Melchior <-
+
+---
+
+<insert>
+E [Pfintzing]
+
+**PHILOSOPHIA HERMETICA**
+</insert>
+
+<vocab>Melchior Pfinzing, Philosophia Hermetica, Pelican in her piety, shelfmark, alchemical emblem</vocab>
+
+<detected-images>
+[{"description": "A circular colored emblem with the Latin motto 'PHILOSOPHIA HERMETICA' printed around the border. The central image depicts a pelican in her piety (a mother pelican wounding her breast to feed her young with her blood), a common alchemical and Christian symbol, perched atop a heraldic shield containing four stylized flowers or rosettes.", "type": "emblem", "bbox": {"x": 0.405, "y": 0.401, "width": 0.201, "height": 0.181}, "gallery_quality": 0.85, "museum_rationale": "An interesting example of a modern or early-modern hermetic emblem used as a bookplate or identification mark. The 'Pelican in her Piety' is a significant motif in alchemical literature (symbolizing the 'rubedo' stage) and ecclesiastical heraldry."}]
+</detected-images>
+
+--- Page 3 ---
+<lang>None</lang>
+<meta>Blank page, possibly a flyleaf or endpaper. The paper shows natural foxing, a few dark stains (likely ink or oil) on the right side, and a faint smudge in the top right corner.</meta>
+
+*This page contains no text.*
+
+<vocab></vocab>
+
+--- Page 4 ---
+<lang>None</lang>
+<warning>The page is blank and contains no legible text. There is visible foxing and some small brown stains on the left side. A faint circular mark is visible in the center, likely bleed-through from the reverse side of the page.</warning>
+<meta>Blank leaf, possibly a flyleaf or endpaper.</meta>
+
+[This page is blank.]
+
+<vocab>blank leaf, foxing, staining, bleed-through</vocab>
+
+--- Page 5 ---
+<lang>Latin</lang>
+<warning>The page is severely faded with significant foxing and several dark ink stains on the right margin. A prominent horizontal crease runs through the center of the page.</warning>
+
+<insert>
+->[Circular medallion engraving featuring a profile portrait of a man wearing a lion's skin headpiece]<-
+Text around the rim: <unclear>PREMIA . FAC . DIT</unclear>
+Text flanking the portrait: <unclear>HERCV</unclear> <unclear>LES</unclear>
+</insert>
+
+<insert>
+->[Circular medallion engraving featuring a figure in a landscape or dynamic pose]<-
+Text around the rim: <unclear>... PATRIA ...</unclear> <unclear>AEN</unclear>
+</insert>
+
+<vocab>Hercules, Aeneas, medallion, numismatics, emblem, Latin</vocab>
+
+<detected-images>
+[
+  {"description": "Engraving of a circular medallion featuring the profile of Hercules wearing the Nemean lion's skin, a common iconographic representation in Renaissance and early modern art.", "type": "engraving", "bbox": {"x": 0.291, "y": 0.091, "width": 0.418, "height": 0.334}, "gallery_quality": 0.6, "museum_rationale": "A clear example of early modern numismatic illustration, though the preservation is poor. It reflects the era's interest in classical mythology and commemorative medals."},
+  {"description": "Engraving of a circular medallion showing a figure, possibly Aeneas, in a scene that appears to be the reverse of the Hercules medallion.", "type": "engraving", "bbox": {"x": 0.301, "y": 0.484, "width": 0.416, "height": 0.339}, "gallery_quality": 0.5, "museum_rationale": "Companion illustration to the Hercules medallion, representative of 16th-18th century scholarly works on ancient coins and emblems."}
+]
+</detected-images>
+
+--- Page 6 ---
+<lang>Latin</lang>
+<meta>The page features two circular engravings representing the obverse and reverse of a portrait medal, connected by a central hinge or rivet illustration. There is slight foxing and staining throughout the paper.</meta>
+
+<note>This page depicts a commemorative medal for Melchior Pfinzing (1481–1535), a provost of St. Sebald's Church in Nuremberg and a key figure in the literary circle of Emperor Maximilian I.</note>
+
+->MELCHIOR PFINCZIG PREP · S · SEB · NORENB ·<-
+->AET ANNO XXXVIII<-
+
+---
+
+->SPES MEA IN DEVM .<-
+
+<vocab>Melchior Pfinzing, Melchior Pfinczig, Nuremberg, St. Sebald, medal, numismatics, Spes, Latin</vocab>
+
+<detected-images>
+[
+  {"description": "Engraved obverse of a portrait medal featuring Melchior Pfinzing in profile, facing left, wearing a scholar's cap and fur-lined robe.", "type": "engraving", "bbox": {"x": 0.280, "y": 0.102, "width": 0.409, "height": 0.340}, "gallery_quality": 0.9, "museum_rationale": "A high-quality 16th-century style portrait engraving, likely from a numismatic catalog or historical biography, showing fine detail in the costume and clear lettering."},
+  {"description": "Engraved reverse of a portrait medal featuring the allegorical figure of Hope (Spes), depicted as a woman looking upward toward divine light breaking through clouds.", "type": "engraving", "bbox": {"x": 0.281, "y": 0.491, "width": 0.421, "height": 0.341}, "gallery_quality": 0.9, "museum_rationale": "An expressive allegorical engraving with dynamic drapery and symbolic imagery, typical of early modern emblemata and medal design."}
+]
+</detected-images>
+
+--- Page 7 ---
+<lang>Latin</lang>
+<meta>Title page of an academic dissertation. Most text is in Latin, with the main title "Theuerdanck" and the respondent's name "Heinrich Gottlieb Titz" printed in Fraktur script. There is a faint circular library stamp on the left side of the page and a handwritten signature in the bottom right corner.</meta>
+<warning>The page shows signs of aging with foxing and light staining. A faint library stamp is present on the left center of the page.</warning>
+
+->Q. D. B. V.<-
+
+### DISQUISITIO
+->DE<-
+## INCLYTO LIBRO POETICO
+# **Theuerdanck/**
+
+->QVAM<-
+### PRAESIDE
+## **IO. DAVIDE KOELERO,**
+->LOGICES ET POLITICES PROF. PVBL.<-
+->ET VNIVERSITATIS BIBLIOTHECARIO,<-
+->HOSPITE SVO MAXIMOPERE COLENDO,<-
+->PVBLICO ERVDITORVM EXAMINI<-
+->H. L. Q. C.<-
+->SVBMITTIT<-
+->AVCTOR RESPONSVRVS<-
+
+### **Heinrich Gottlieb Titz/**
+->VRATISLAVIENSIS,<-
+->AD D. <unclear>MART.</unclear> A. O. R. MDCCXIV.<-
+
+---
+
+->ALTDORFII,<-
+->LITERIS MAGNI DANIELIS MEYERI.<-
+
+<insert>
+<margin>bottom-right</margin>
+A. <unclear>Manlieu</unclear>
+</insert>
+
+<vocab>Theuerdanck, Johann David Köhler, Heinrich Gottlieb Titz, Altdorf, 1714, Logic, Politics, Librarian, Vratislaviensis</vocab>
+
+<detected-images>
+[{"description": "Highly ornate decorative initial letter 'T' in Fraktur script for the word 'Theuerdanck'.", "type": "decorative", "bbox": {"x": 0.155, "y": 0.245, "width": 0.187, "height": 0.119}, "gallery_quality": 0.7, "museum_rationale": "The initial 'T' is an excellent example of early 18th-century German decorative typography (Fraktur), featuring elaborate scrollwork and flourishes characteristic of academic printing of the period."}]
+</detected-images>
+
+--- Page 8 ---
+<lang>la</lang>
+<warning>The text on this page consists primarily of mirrored bleed-through from the following page (the title page of the work). Only the red ink stamps were applied directly to this side of the leaf.</warning>
+
+<meta>This page contains two red institutional stamps from the Berlin Royal Library. The mirrored text reveals this volume contains a dissertation by Johannes David Koehler regarding the "Theuerdanck", dated 1725.</meta>
+
+<insert>
+->Ex<-
+->Biblioth. Regia<-
+->Berolinensi.<-
+</insert>
+<note>Red circular stamp of the Royal Library in Berlin.</note>
+
+<insert>
+->VEND.<-
+->EX BIBL.<-
+->REG. BEROL.<-
+</insert>
+<note>Smaller red circular stamp indicating the item was sold or deaccessioned (VEND. = Venditum) from the Royal Library of Berlin.</note>
+
+---
+
+<note>Transcription of the mirrored text (restored to legible order):</note>
+
+->D. B. I. N.<-
+
+->DISSERTATIO<-
+->DE<-
+->INCLYTO LIBRO POETICO<-
+
+# **Theuerdanck**
+
+->QUAM<-
+->PRAESIDE<-
+
+## **IO. DAVID. KOELERO**
+
+->HISTORIARVM ET ELOQVENTIAE PROF. PVBL.<-
+->IN ALMA ALTORFINA<-
+->PVBLICO EXAMINI<-
+->SVBJECTA<-
+->AD D. VIII. IVLII. A. O. R. MDCCXXV<-
+
+->AVCTOR RESPONDENS<-
+->**Henricus Gottlieb Titz**<-
+->AKVLISVALIENSIS<-
+
+->ALTDORFII<-
+->LITERIS MAGNI DANIELIS MEYER<-
+
+<vocab>Bibliotheca Regia Berolinensis, Theuerdanck, Johannes David Koehler, Henricus Gottlieb Titz, Altdorf, 1725, dissertation, deaccession</vocab>
+
+<detected-images>
+[{"description": "Circular red ink provenance stamp of the Royal Library in Berlin: 'Ex Biblioth. Regia Berolinensi.'", "type": "decorative", "bbox": {"x": 0.424, "y": 0.428, "width": 0.273, "height": 0.211}, "gallery_quality": 0.6, "museum_rationale": "An official institutional mark of the Berlin Royal Library, providing provenance information."},
+{"description": "Circular red ink deaccession stamp: 'VEND. EX BIBL. REG. BEROL.'", "type": "decorative", "bbox": {"x": 0.708, "y": 0.478, "width": 0.141, "height": 0.111}, "gallery_quality": 0.5, "museum_rationale": "Official mark indicating the book was sold as a duplicate from the Berlin Royal Library collection."},
+{"description": "Mirrored decorative Fraktur lettering and flourishes for the title 'Theuerdanck'.", "type": "decorative", "bbox": {"x": 0.088, "y": 0.235, "width": 0.771, "height": 0.137}, "gallery_quality": 0.3, "museum_rationale": "Fragmentary bleed-through of decorative title typography from the title page."}]
+</detected-images>
+
+--- Page 9 ---
+<lang>Latin</lang>
+<meta>Significant bleed-through from the verso page is visible throughout, showing mirrored text from the subsequent page. A mirrored catchword is visible at the very bottom.</meta>
+
+# VIRO
+## GENEROSISSIMO MAXIMEQVE
+## STRENVO
+# HENRICO WIL-
+# HELMO
+# DE FREYENFELS,
+## EQVITI SILESIO,
+### PEVCAE SVPERIORIS
+### DOMINO,
+## *PATRI INDVLGENTISSIMO,*
+
+<vocab>Henricus Wilhelmus de Freyenfels, Silesius, Pevca Superior, Dominus, Pater Indulgentissimus</vocab>
+
+--- Page 10 ---
+<lang>Latin</lang>
+<warning>Significant ink show-through (ghosting) from the reverse side of the leaf is visible throughout the page.</warning>
+
+->QVI<-
+->IN VIDVVM OPTIMAE MATRIS THORVM<-
+->OLIM ITA SVCCESSIT,<-
+->VT<-
+->NVLLAS SENTIREMVS VICES<-
+->OB<-
+->AMOREM PLANE SINGVLAREM,<-
+->AFFECTVM VERE PATERNVM,<-
+->MERITA MVLTIPLICIA,<-
+->HAS<-
+->STVDIORVM EXERCITIORVMQVE ACADEMICORVM<-
+->PRIMITIAS<-
+->INTER ARDENTISSIMA VOTA<-
+->PRO PERPETVA IPSIVS INCOLVMITATE<-
+->ATQVE SALVTE OMNIGENA<-
+->SVSCEPTA<-
+->PIETATIS ERGO<-
+->D. D. D.<-
+->FILIVS OBSEQVENTISSIMVS<-
+->AVCTOR.<-
+
+<vocab>thorum, primitias, vota, incolumitate, pietatis ergo, auctor</vocab>
+
+--- Page 11 ---
+<lang>Latin</lang>
+<page-num>I</page-num>
+<header>PROOEMIVM</header>
+<meta>catchword: mus</meta>
+
+## DISQVISITIO
+### DE
+## LIBRO POETICO
+# Theuerdanck.
+
+### PROOEMIVM.
+
+Sine Poetarum ope res gestas magnorum Heroum oblivione sempiterna deleri, omni aevo hominibus apud omnes Gentes non frustra fuit persuasum. Habent enim hoc proprium Poetarum carmina, ut fortium Virorum facta in longum aevum demittant, gloriaeque fortiter comparatae perpetuitatem mirifice adjuvent, et Posteritati quam strenue commendent. Omnium optime hoc docet *HORATIVS L. IV.*
+
+<margin>Carm. Od. 9. dum canit :</margin>
+> Vixere fortes ante Agamemnona
+> Multi : Sed omnes illacrymabiles
+> Urgentur, ignotique longa
+> Nocte, carent quia Vate sacro.
+> Paulum sepultae distat Inertiae
+> Celata Virtus. Non ego de meis
+> Chartis inornatum silebo
+> Totve tuos patiar Labores
+> Impune, Lolli, carpere lividas
+> Obliviones.
+
+---
+
+Cui adstipulatur *PINDARVS Nem. Od. VII.* asseverans strenuos Labores multas habere Tenebras, si hymnis careant, praeclarorumque Operum remunerationem optimam esse inclusos carminum cantus. Hac de causa existimat quoque Famam *Ulyssis* majorem factam fuisse, quam ea, quae pertulerit, per suaviloquum *Ho- merum*, quoniam mendaciis ejus per figmentum gravitas quaedam subsit ac solertia decipiat, abducens Lectorem a veritate per fabulas. Non defuit quidem ultimae antiquitati ingenium ad fortium virorum ingentiumque ab iis perpetratorum facinorum memoriam aliis etiam modis conservandam, longamque efficiendam, cui ambitio, opulentia, potentia, dexteritas, Artes omnes suppetias tulere. Novi-
+
+<vocab>Theuerdanck, Horatius, Pindarus, Agamemnona, Lolli, Ulysses, Homerus, Prooemium, Disquisitio, Poetics</vocab>
+
+<detected-images>
+[{"description": "Historiated woodcut initial 'S' featuring two figures flanking the letter and decorative foliage.", "type": "decorative", "bbox": {"x": 0.119, "y": 0.344, "width": 0.185, "height": 0.148}, "gallery_quality": 0.85, "museum_rationale": "Finely executed historiated woodcut initial typical of scholarly early modern printing, providing visual interest and marking the start of the main text."},
+{"description": "Decorative printer's ornaments (fleurons) centered at the top of the page.", "type": "decorative", "bbox": {"x": 0.323, "y": 0.103, "width": 0.362, "height": 0.032}, "gallery_quality": 0.4, "museum_rationale": "Standard typographical decoration used to frame the top margin of the page."}]
+</detected-images>
+
+--- Page 12 ---
+<lang>Latin</lang>
+<page-num>2</page-num>
+<header>PROOEMIVM.</header>
+<meta>catchword: I. Liber,</meta>
+
+mus Sesoftris obelifcos et pyramides sublimes, magnificum Mausoli sepulcrum, superba Graecorum tropæa, editam Hadriani molem, artificiofissimas Trajani atque Antonini columnas, quae monumenta Heroum nomina et facta contra temporis rerum edacis insultus per innumera secula defendere debuerunt. Verum enim vero, quam caduci fuerint isti testes, et quot injuriis obnoxii, neminem vel leviter in historia versatum latere potest. Paucissima aenea marmoreaque monumenta hodie supersunt semesa, et tantum non fracta atque disjecta. Plurima etiam interierunt, ut nesciremus et ipsa et eas res, quarum memoriam custodire debebant, nisi Carminum Annaliumque fides utrumque servasset. Firmo ergo potius stat talo sententia OVIDII, L. I. Amor. Eleg. 10.
+
+> *Scinduntur vestes, gemmae franguntur et aurum*
+> ->*Carmina quam tribuunt fama perennis erit.*<-
+
+Et LVCANVS non fine causa exclamat, Pharsal. L. IX. v. 983.
+
+> *O Sacer, et magnus Vatum labor, omnia Fato*
+> ->*Eripis & Populis donas mortalibus aevum.*<-
+
+Quam multa nesciremus, nisi haec apud plerasque Gentes invaluisset consuetudo carminibus celebrandi, Posterisque tradendi Heroum nomina, eaque perenniora judicata fuissent omnibus monumentis, quae imbribus, ventis, fulminibus, ignibusque et hostili manu oppugnantur, vel ipsa Annorum serie destruuntur. Victores etiam in Graecorum Ludis, non coronae, aut totius Graeciae applausus, sed inimitabilis Pindari Lyra ab oblivione vindicavit. Sed non opus est, ut commune hoc omnium Gentium institutum accuratius investigemus et uberius exponamus, cum Germania etiam nostra multa egregia exempla suppeditet, Heroum per Poetarum carmina oblivioni ereptorum. Inter haec eminet luculentissimus ille Liber versibus teutonicis conscriptus, qui vulgo dicitur **Theuerdanck/** in quo Labores et Pericula Maximiliani I. Imperatoris pereleganter commemorantur, quae alias ignoraret posteritas, fructuque istius cognitionis careret, nisi Poetae industria ea consignasset. Quoniam vero iste liber non omnium manibus teritur, et notitia, quam de eo vulgo tradunt varii Auctores, varia admodum sit et inconstans, et variis contaminata erroribus, constituimus hac Dissertatione Academica accuratam ejus recensionem instituere, verumque ejus Auctorem manifestare. Multa praeterea adjiciemus, quae circa hoc egregium opus notari merentur, et quae forte non omnibus cognita atque perspecta satis erunt. Favebis itaque, Benevole Lector, Conatibus nostris, et qualemcunque hanc Disquisitionem non ad oftentandum eruditionis apparatum, qualem vel perexiguum, vel nullum possidemus, sed ad eruendam veritatem a nobis conscriptam fuisse, judicabis.
+
+<vocab>Theuerdanck, Maximilian I, Ovid, Lucan, Pindar, Sesoftris, Mausolus, Hadrian, Trajan, Antoninus, prooemium, monumenta, carmina</vocab>
+
+--- Page 13 ---
+<lang>lat</lang>
+<page-num>3</page-num>
+<warning>Page exhibits significant ghosting/show-through from the reverse side.</warning>
+
+## I.
+
+<margin>Quis sit Liber **Theuerdanck** / et quae eius Denominatio.</margin>
+**L**iber, qui dicitur **Theuerdanck** / cuius notitiam tibi tradere volumus, Benevole Lector, dictione germanica metrica exponit exantlatos Labores et superata pericula Maximiliani I. Caesaris Augusti, et insignitus est hoc Titulo: **Die Geuerlicheiten und eins teils der Geschichten des löblichen streitbaren und hochberümbten Helds und Ritters Tewrdannckhs.** In vulgus notus est sub simplici nomine **des Theuerdancks** / quod etiam gerit in privilegio, typographo a Maximiliano indulto, quo nomine autem ficto Maximilianus in hoc opere insignitur: Vti enim olim Poëtae denominare soliti sunt sua Carmina a Personis illustribus, quorum Fata in iis exposuerunt, et hodienum etiam fabularum Romanensium Scriptores, Arminios, Octavias, Argenides, publicae luci exhibuerunt, ita etiam, ob eandem Rationem hic liber **Theuerdanck** est appellatus. Quid vero sibi hoc nomen velit ratione Etymi, nobis est ideo hic declarandum, quoniam observamus, eius genuinam significationem, quosdam latere. Sciendum itaque, Maximilianum ob hanc causam in hoc Poëmate, nomine **des Theuerdancks** fuisse insignitum, quoniam ab ineunte aetate omnem curam cogitationemque in res arduas contulerit, et ad maxima Facinora perpetranda aspiraverit, quod hisce verbis declarat <term>Clavis Pfintzingiana</term>: 
+
+> **Ist darum Tewrdannckh genannt / daß er von Jugend auff all sein Gedancken nach theuerlichen Sachen gericht.** 
+
+Risum igitur movent monstrosa vocabula: *Caraegrates*, aut *Carigratius*, vel *Rarigratius*, quae sinistra diligentia **VINCENTIVS PLACCIVS** *in Theatr. Anon. c. XI. p. 478.* dum germanicam vocem latine exprimere nititur, confinxit; ex allata enim authentica interpretatione ipsius Auctoris patet, nimis absonum esse, fingere velle, Caras fuisse Grates, aut Ra-
+
+<sig>B</sig>
+<meta>catchword: rius</meta>
+
+<vocab>Theuerdanck, Maximilian I, Clavis Pfintzingiana, Vincentius Placcius, Melchior Pfinzing</vocab>
+
+<detected-images>
+[
+{"description": "Decorative woodcut ornaments at the top of the page.", "type": "decorative", "bbox": {"x": 0.28, "y": 0.08, "width": 0.45, "height": 0.03}, "gallery_quality": 0.3, "museum_rationale": "Standard typographic ornaments used to head a section."},
+{"description": "Historiated/floral initial 'L' beginning the main text.", "type": "decorative", "bbox": {"x": 0.1, "y": 0.16, "width": 0.11, "height": 0.1}, "gallery_quality": 0.6, "museum_rationale": "A well-executed woodcut initial letter featuring floral motifs, characteristic of 17th-18th century printing."}
+]
+</detected-images>
+
+--- Page 14 ---
+<lang>Latin</lang>
+<page-num>4</page-num>
+<header>DISQVISITIO</header>
+
+rius fuisse Gratias actas pro strenue gestis Rebus Imperatori Maximiliano.
+
+## II:
+
+<margin>Auctor libri Melchior Pfintzing fuit, cuius Vitæ curriculum describitur.</margin>
+Auctorem huius Libri, ob rationes postea allegandas, constituimus Melchiorem Pfintzingium, qui originem duxit ex generosissima Pfintzingiorum Familia, quae non solum in illustri S. R. I. Libera Republica Norimbergensi intaminatis fulsit Honoribus, multosque Consularis et Senatorii ordinis viros, de patriae Salute optime meritos, progenuit ; sed etiam in Silesia, Patria dulcissima, inclytum nomen inter Equestris dignitatis viros sibi comparavit initio Seculi XVI. uti hoc confirmant, Viri CLL. **IO. SINAPIVS** *in Olsnographia, P. I. p. 926. et P. II. p. 505.* et **Gottfried Dewerdeck / in Silesia Numismatica** *p. 759. §. 6. & p. 851.* quo in loco mentionem facit Numismatis in honorem Ludovici Pfintzingii, An. 1560. procusi ; conf. *novissima Editio **des grossen Wappen-Buchs** / de An. 1699.* ubi *P. III. p. 116.* insignia Pfintzingiorum in Serie Silesiaca inveniuntur. Ex quo Libro **MICHAEL IOSEPHVS FIBIGER**, illustris, dum viveret, Crucigerorum cum rubea Stella Magister, *in Silesiographia Henelii renovata, P. II. c. 8. p. 768.* Henelianum Familiarum in Silesia nobilium catalogum supplevit. De Antiquitate huius Patriciae gentis, **ANONYMVS** *in der **Historischen Nachricht von Nürnberg** / de An. 1707. p. 92.* attulit quidem nonnulla, quae tamen non satis originem eius declarant, siquidem multa illustriora illis adiici possent, si Instituto nostro haec conducerent. In eo tamen ille a nobis est corrigendus, quod Familia Pfintzingiorum minime cum Conrado Pfintzingio, uti ille affirmat, An. 1596. interierit. Sed certo nobis constat ex Documentis fide dignissimis, florentem adhuc Pfintzingiorum Familiam, non interrupta Serie, Maiores suos ab antiquissimis temporibus dinumerare
+
+<meta>catchword: merare</meta>
+
+<vocab>Melchior Pfintzing, Pfintzing family, Nuremberg, Silesia, Joannes Sinapius, Gottfried Dewerdeck, Michael Joseph Fibiger, Heraldry, Numismatics, Genealogia</vocab>
+
+--- Page 15 ---
+<lang>la</lang>
+<page-num>5</page-num>
+<header>DE LIBRO POETICO Theuerdanck.</header>
+<sig>B 2</sig>
+<meta>catchword: disci-</meta>
+
+merare poſſe , atque ex communi Stipite cum illo Conrado
+deſcendere. Nullum vero illuſtrius Teſtimonium decoris Pfin-
+tzingiani perhibere poſſumus, quam ſi provocamus ad multa
+illa atque varia Diplomata Caesarea , quibus huius Familiae
+Splendor eſt munitus et auctus, inter quae imprimis eximium
+illud eſt, quod ea a Carolo V. Caesare Auguſto, dd. 25. Octobr.
+An. 1555. Bruxellis impetravit, quod octo foliis membrana-
+ceis conſtat , et in frontiſpicio cum pulcherrime delineatis
+Caesareis inſignibus Symboloque Heroico ſuperbit , in quo
+inter alia Divus Imperator Pfintzingianam Gentem hiſce lau-
+dibus effert : *Attendentes itaque imprimis Generis ac Stemma-
+tis veſtri ab innumeris Annis in hunc uſque diem honeſte, abs-
+que ulla Nominis nota ſeu macula, productam Antiquitatem et
+Nobilitatem, Maiorum quoque veſtrorum laudatam vitae, Mo-
+rum ac Famae Integritatem , qua in continuis Magiſtratibus ,
+aliiſque honeſtiſſimis ac ampliiſſimis Muneribus ac Officiis (quae
+quidem magna ſua Gloria, Reipublicae vero bono , ac Civium
+ſuorum Commodo et Satiſfactione geſſerunt et adminiſtrarunt)
+non tam in Patria veſtra inclyta, Civitatis noſtrae Imperialis No-
+rimbergenſis Republica (in qua inter ampliiſſimos patricios et ſe-
+natorios Ordines honoratum locum, et praecipuam dignitatem
+ſemper habuiſſe et obtinuiffe, et frequenter conſulari, aliquoties
+vero etiam quaeſtoria dignitate, ſummo apud eos Magiſtratu,
+nec non noſtri et Imperii Sacra Praefecti Urbis, ſeu Sculteti, ho-
+norificentiſſimo Officio et Praeeminentia functos fuiſſe conſtat)
+quam etiam apud alios S. R. I. Ordines, inque ipſorum divorum
+Praedeceſſorum noſtrorum Romanorum Imperatorum et Regum
+Aulis, ingenti ſemper cum Laude et Approbatione omnium bono-
+rum verſati ſunt. Unde a praedictis Praedeceſſoribus noſtris
+tanquam optime meriti aliquoties maximis honoribus , titulis,
+et gratiis aucti et ornati, et plures ipſorum ob animi Magnitu-
+dinem, et praeclara fortiaque tam militaris , quam politicae*
+
+<vocab>Theuerdanck, Pfintzingiani, Caesarea, Carolo V, Norimbergenſis, Sculteti, S. R. I. Ordines</vocab>
+
+--- Page 16 ---
+<lang>lat</lang>
+<page-num>6</page-num>
+<header>DISQVISITIO</header>
+
+disciplinae, edita facinora Milites seu *Equites Aurati stricto ense* creati, Militiaeque et altarum praeclarissimarum Dignitatum *Titulis, Praeeminentiis, Virtutumque Praemiis*, nec non amplissimis *Privilegiis et Praerogativis* merito donati et decorati fuere. Ex hac igitur illustri prosapia prognatus est noster Melchior Pfintzingius An. 1481. die Dominica, in Fastis divae Catharinae sacra, ingruente vespera, Patre Seyfrido Pfintzingio, Senatore et Aedili Norimbergensi, et Matre Barbara, nata Grundherria. Comparatis sibi nobili viro dignis scientiis, adiit Aulam Caesaream, ibique in Familiam Caesarei Cancellarii Dn. de Serntein fuit ascitus, cuius commendatione deinceps Imperatoris Maximiliani Secretarius evasit. In quo munere adeo suam operam Imperatori probavit, ut Caesar eum etiam post mortem Erasmi Doppleri (*) Sebaldinae aedis Praepositi, An. 1512. Senatui Norimbergensi commendaret, ut Praeposituram aedis Sebaldinae ipsi conferret. Episcopus quidem Bambergensis Wilhelmo de Limburg, cuius antiquissima Gens nuper intercidit, hoc amplissimum Sacerdotium destinaverat, quia vero hac Successione laedebantur Urbis Privilegia, Senatus denominavit statim Pfintzingium Doppleri Successorem, eoque absente eius Procuratori hoc Munus contulit. Postea ipse Pfintzingius, Norimbergam venit, et per aliquot Tempus ibi alternis vicibus habitavit, restaurato sua cura Domicilio Praepositi, quod ex Ligneo lapideum fecit, uti ex suspensis eius Insignibus in Podio prominente patet. Non ita multo post rediit in Aulam Caesaream, ibique non solum
+
+<meta>catchword: Cae-</meta>
+
+<note>(*) Praestantissimus hic fuit Vir et omnibus Elogiis maior, uti ex Epitaphio eius, quod extat in Templo Divi Sebaldi, cognoscimus, et quod ita se habet: *Erasmus Dopplerus I.V.D et Protonotarius Apostolicus, ac Serenissimi Imperatoris Maximiliani Consiliarius, huius aedis Praepositus bene meritus, dum Patriae opem impendit fidelem, Treviris solemni Principum conventu vitam cum morte mutavit, Anno Domini MDXII. Cal. Maii, vixit Annos L. Tu Lector vale, et pro tanto viro Preces ad Deum fundere ne pigeat.*</note>
+
+<vocab>Melchior Pfintzingius, Erasmus Dopplerus, Maximilianus I, Norimberga, Sebaldina aedis, Equites Aurati, Seyfrido Pfintzingio, Barbara Grundherria, Wilhelmo de Limburg, Praepositus</vocab>
+
+--- Page 17 ---
+<lang>la</lang>
+<page-num>7</page-num>
+<header>DE LIBRO POETICO **Theuerdanck.**</header>
+
+Caesaris negotia strenue procuravit, sed etiam Reipublicae Pa-
+triae utilitates laudabiliter promovit. Lateri etiam Caesaris
+adhaesit in comitiis Coloniensibus , et Auctoritate Caesarea
+munitus cum Ernesto de Welden , nomine Caesaris A. 1513.
+interfuit Electioni Episcopi Spirensis, Philippi I. de Rosenberg.
+Expeditis hisce gravissimis Negotiis commigravit denuo No-
+rimbergam , sed rebus sacris procuratis regressus est Vindo-
+bonam , et consecutus est non solum Consiliarii Caesarei di-
+gnitatem , sed etiam Auspicio Caesaris obtinuit Canonicatum
+Ecclesiae Tridentinae , et S. Stephani Bambergensis, et Prae-
+posituram S. Albani in Civitate Moguntiaca. Cum vero Lu-
+men Evangelii etiam Norimbergae paulatim dissiparet Cali-
+ginem Pontificiam, et in sua Praepositura quaedam iussu no-
+bilissimi Senatus immutarentur , sagax Rerum futurarum sponte
+An. 1531. de Sacerdotio Norimbergensi decessit, reservato ta-
+men annuo Stipendio pacto. Reliqua tamen sacra Munia non
+reliquit, sed acquisita etiam interea Praepositura S. Victoris
+Moguntiae iis perfuncte est functus , iisque ornatus Mogun-
+tiae diem suum obiit An. 1535. die XXIV. Novembr. Se-
+pultus est in Choro Templi S. Victoris , ubi Memoria eius E-
+pitaphio a Fratre Pfintzingio conservata est, cuius vero copia
+ad manus nostras non venit In supra a nobis allegato Diplo-
+mate Caesareo his verbis , eius et Fratris eius honorifica fit
+mentio :
+
+> *Et exinde quondam Patruorum vestrorum Udalrici et*
+> *Melchioris* Pfintzing, *Fratrum , egregias Animi dotes , Virtutum-*
+> *que Ornamenta , Ingenium , Rerum Experientiam et Usum ,*
+> *Eruditionem quoque et Facundiam , quibus haud vulgaribus Na-*
+> *turae et Industriae donis prae caeteris praeditis fuerunt , nec*
+> *non quam plures industriosas, subtiles , nec unquam antea cogni-*
+> *tas, ab ipso praesertim Melchiore , magno Reipublicae commodo ,*
+> *sua vero et suorum Posterorum immortali Laude, Ingeniique de-*
+> *monstratione, excogitatas Inventiones ; fidelia item Servitia ,*
+
+<sig>B 3</sig>
+<meta>catchword: quae</meta>
+
+<vocab>Melchior Pfintzing, Udalricus Pfintzing, Theuerdanck, Norimberga, Moguntia, Vindobona, Spirensis, Philippus I. de Rosenberg, Ernestus de Welden, Diplomate Caesareo, Consiliarii Caesarei</vocab>
+
+--- Page 18 ---
+<lang>Latin</lang>
+<page-num>8</page-num>
+<header>DISQVISITIO</header>
+
+*quae olim felicis et colendae memoriae Serenissimo et Potentissimo*
+*Principi quondam, Divo Maximiliano, Romanorum Imperatori*
+*Augusto, Avo et Praedecessori nostro observantissimo, dum in vi-*
+*vis esset, uterque uti Consiliarius et Familiaris Aulicus, ille*
+*Quaesturam gerens, hic vero a secretis, summa Industria, So-*
+*lertia, Sagacitate, Studio, Diligentia, et fide, in arduis et va-*
+*riis Negotiis, non tantum in politica administratione, magnis*
+*utpote Consultationibus et difficillimis gravissimisque et honorifi-*
+*centissimis Legationibus; sed etiam periculosissimis quibusque*
+*Temporibus et bellicis Expeditionibus, promptissimo Animo, in-*
+*defesse, strenue, et intrepide, magna quidem praedicti Serenissimi*
+*Avi nostri Colendissimi Satisfactione, (quam ex eo saltim colli-*
+*gere licet, quod, tanquam gratum et liberalem Principem decuit,*
+*amplissimis Sacerdotiis et Praelaturis utrumque remunerarit, ta-*
+*lique dignitatis loco et fastigio posuerit, quo Familiae suae de-*
+*cus non conservarunt tantum, verum magis magisque extule-*
+*runt et auxerunt, posterisque suis haud vulgare de se nomen et*
+*Virtutis Exemplum reliquerunt) semper ad vitae usque extre-*
+*mum Spiritum non sine labore et impendio illos praestitisse con-*
+*stat.* Maximilianus Imperator in Literis etiam ad Bilibaldum
+Birckheimerum die V. Febr. An. 1518. datis, quae extant in
+*operibus Birckheimeri, p. 176.* eum vocat Consiliarum suum
+et Praepositum, qui ipsi indicaverit Birckheimerum novum
+Currum, Curribus Caesareis prioribus longe dissimilem, inve-
+nisse, quapropter summo Severitatis studio a Birckheimero
+petit, ut praeconcepti istiusmodi Currus prototypon praedi-
+cto suo consiliario ac Praeposito indefinenter transmittat.
+Quod hic Melchior Pfintzingius gravissimorum Consiliorum
+Maximiliani particeps fuerit, innotuit praeterea nobis ex Literis
+Ferdinandi Archiducis, Nepotis Maximiliani, dd. XII. Decembr.
+An. 1521. quorum Avtographum Amicus quidam nobis ex-
+hibuit, et quae ita se habent:
+
+<meta>catchword: Ferd</meta>
+
+<vocab>Maximilianus I, Bilibaldus Birckheimerus, Melchior Pfintzingius, Ferdinandus Archidux, Currus, Consiliarius, Quaestura, Literis, Avtographum</vocab>
+
+--- Page 19 ---
+<lang>Latin</lang>
+<page-num>9</page-num>
+<header>DE LIBRO POETICO Theuerdanck.</header>
+<meta>The page features a mix of German (Fraktur) and Latin (Roman) type. Catchword: menti.</meta>
+
+## Ferdinand/2c. 2c. Ehrſamer/und Andächtiger/2c. 2c.
+
+Wir ſeind bericht/ wie unſer lieber Herr und Anherr Kayſer Maximilian/ und hochlöblicher Gedächtnuß / die Herrſchafft Gmünden / weilent Biſchoff Lionharden auf einen Wiederkauff verkauffet / und nachmahlen der jetzige Cardinal und Ertz-Biſchoff zu Salzburg ain Revers herausgeben / daß gedachter weilent Kayſer Maximilian und ſeine Erben zu derſelben Herrſchafft Gmünden einen Wiederkauff und Loſung haben / und du um ſolche Handlung und Revers in ſonderheit ain wiſſen tragen ſolleſt. Demnach begehren wir an dich mit ſonderm Fleiß / daß du uns bey dieſem unſern Bothen berichtigest / was es vor eine Beſchaffenheit habe 2c.
+
+---
+
+Ut huius Epiſtolae Argumentum intelligatur , ſciendum eſt , Archiepiſcopum Salisburgenſem Leonhardum a Keutſchach comparatis ex Metalli fodinis Ditionis ſuae maximis Divitiis, magnis Beneficiis Eccleſiam Salisburgenſem cumulaſſe , multa Praedia abalienata et direpta redemiſſe, ſimiliter et Gemundam, Oppidum Carinthiae ad Liſeram ſitum, ſolutis Maximiliano triginta millibus Florenorum, alii dicunt Uncialium, in Poteſtatem Epiſcopatus redegiſſe , ibique et Arcem Incendio deſtructam iterum erexiſſe, vid. *WIGVLEVS HVND*, in *Metropoli Salisburgenſi Tom. I. p. 31.* *MATTH. MERIAN*, in *Topograph. Carinth. p. 95.* *HIER. MEGISERVS* , in *Chron. Carinth. L. XI. c. 2. p. 1260.* et *IO. WEICHARD VALVASOR*, in *Topogr. Car. p. 61.* Cum vero Succeſſor Leonhardi, Matthaeus Langius Maximiliani Cancellarius ob ſtudium in Auſtriam, reluendi pactum iniiſſet, Ferdinandus etiam in Animo haberet , ut hanc inſignem ditionem redimeret, Auſtriaeque denuo adiiceret, ſed vel ab Archiepiſcopo immutato, vel a Capitulo variae Difficultates moverentur , hac Epiſtola ſcripta ex Pfintzingio, huius venditionis a Maximiliano factae gnaro, reſcire voluit, qua ratione et quibus conditionibus ea fuerit peracta, quae ſatis iterum declarant Pfintzingium non nominetenus fuiſſe Conſiliarium Maximiliani, ſed maximi momenti
+
+<vocab>Theuerdanck, Wiederkauff, Revers, Gmünden, Melchior Pfinzing, Leonhard von Keutschach, Matthäus Lang von Wellenburg, Wiguleus Hund, Matthäus Merian, Hieronymus Megiser, Johann Weikhard von Valvasor</vocab>
+
+--- Page 20 ---
+<lang>Latin</lang>
+<page-num>10</page-num>
+<header>DISQVISITIO</header>
+
+menti Negotia , qualia sunt , Alienationes integrarum Ditionum , ex munere dignitatis suae pertractasse. Inter Monumenta , quae eius memoriam custodiunt , prostant quinque Numismata argentea , in Honorem eius excusa , quae a Familia Pfintzingiana , asservantur. Primum omniumque maximum , quod Titulum Disquisitionis exornat , declaratione non indiget. Alterum sistit eius Imaginem , adscriptis verbis : *Effigies Melchioris Pfintzing Prepositi Ecclesie S. Albani Moguntie et Sebaldi Norimberge Canonici Tridentini et S. Stephani Bamberge.* Alterum Nummi Latus exhibet Foeminam in priori nummo apparentem , simili Epigraphe. Tertium ostendit eius Effigiem nudo capite , additis verbis : *Melchior Pfintzing , Prep. S. Albani Mog.* In altera facie conspicitur Puerulus Leoni inequitans , tenens dextra Galeam praepositurae S. Albani , superiore parte asini exornatam , sinistra vero manu Galeam Pfintzingianae Familiae , cornibus Bubulis in apice conspicuam , adiacet clypeus Pfintzingianis Insignibus decoratus , procul stante Asino , dictae Praepositurae Tessera , additis verbis : *Vanitas Vanitatum omnia vanitas.* Quartum Numisma priori est persimile. Quintum una parte exhibet Capita quinque Fratrum Pfintzingiorum , cum hoc Lemmate : CONCORDIAE. FRATERNAE. in altera parte legitur haec Inscriptio : EFFIGIES. SIGISMVNDI. MELCHIORIS. PREPOSITI. ECCLESIE. SANCTI. ALBANI. MOGVNTINENSIS. VDALRICI. ABBATIS. SANCTI. PAVLI. VALLIS. LAVINII. SEYFRIDI. ET. MARTINI. PFINTZING. FRATRVM. ANNO. MCCCCCIX. Ex quo Nummo patet Melchiorem nostrum ex quinque Fratribus natu secundum fuisse ; quorum natu maximus Sigismundus Senator Norimbergensis , et Possessor Praefecturae Bambergensis Marloffstein fuit : Ulricus , qui in supra allegato Chronico Norimbergensi , p. 95. perperam dicitur , Melchior , Quaestor fuit Maximiliani (*Pfennigmeister*) De Seyfrido nihil
+
+<meta>catchword: nobis</meta>
+
+<vocab>Melchior Pfintzing, Pfintzingiana, numismata argentea, S. Albani Moguntie, Vanitas Vanitatum, Pfennigmeister, Norimbergensis, Marloffstein, Sigismundus Pfintzing, Ulricus Pfintzing, Seyfridus Pfintzing, Martinus Pfintzing</vocab>
+
+--- Page 21 ---
+<lang>lat</lang>
+<page-num>III</page-num>
+<header>DE LIBRO POETICO *Theuerdanck*.</header>
+<sig>C</sig>
+<meta>catchword: simus</meta>
+
+nobis constat. Vltimus vero, Martinus, Senator Norimbergensis, bis Norimbergensium et Sociorum Copias adversus Turcas duxit, et ob virtutem bellicam a Carolo V. Caesare, A. 1532. stricto Ense Eques Auratus est creatus, et in Consiliarium et Familiarem assumtus, uti verba Diplomatis docent. Hic etiam Arcem et vicum Henffenfeld magnis Sumptibus comparavit, et ad Posteritatem suam transmisit. Aeri etiam est insculptus Melchior Pfintzingius habitu Ecclesiastico indutus, et quidem minuscula forma, palmo in Longitudinem inferiori, eo artificio, quod vocant, **die schwartze Kunst** / addito hoc Titulo: **MELCHIOR PFINTZING, KEIS: CARL v. Königs zu Hisp. Erzh. zu Oesterr. Caplan, Author des Theurdancks, A. 1517. zu Albani Meynz, v. zu S. Seba: in Nb. Probst. v. zu S. Victor Dechant. D. 1535.** Sed hic Titulus nobis minime persuadet, Pfintzingium etiam sacro Munere in Aula Caroli V. Imperatoris defunctum esse, quoniam omnia Documenta, notitiam vitae Melchioris tradentia, de eiusmodi functione silent. Verosimile potius est, Sculptorem ideo appellasse Melchiorem Caroli V. Capellanum, quoniam observavit, Melchiorem se in Dedicatione operis sui ad Carolum V. subscripsisse: **Ewer Küniglichen Mayestat diemütigister Capplan**; quae verba vero potius submissionis Ecclesiasticae Formulam referunt, quae ab omnibus Clericis adhibetur, quam declarant dignitatem quandam sacram ab Imperatore eo fuisse collatam. Minus recte igitur varii Auctores, eadem Dedicatione seducti, Pfintzingium Caroli V. Capellanum dixerunt.
+
+### III.
+
+<margin>Argumenta probantia Pfintzingi- um hunc esse libri Auctorem.</margin>
+Hunc maxime Reverendum atque illustrem Virum verum et genuinum Auctorem Libri ***Theuerdanck*** dicti esse, ita firmis rationibus persuasi sumus, ut hanc ipsi propriam Gloriam, contra omnes eius Obtrectatores, et secus sentientes
+
+<vocab>Martinus, Senator Norimbergensis, Carolus V., Melchior Pfintzingius, Henffenfeld, Theuerdanck, die schwartze Kunst, Capellanum, Keis: Carl v. Königs, Author</vocab>
+
+--- Page 22 ---
+<lang>lat</lang>
+<page-num>12</page-num>
+<header>DISQVISITIO</header>
+
+simus vindicaturi. *Primum Argumentum Assertionis* nostrae suppeditat ipse Liber, in cuius Dedicatione hisce verbis, Pfintzingius se Auctorem eius profitetur : **Ich hab mir fürgenommen aus denselben Ursachen Ewer Künigl. Mayt. zu Ergetzlichkeit / Nutz und Leer / eines löblichen / tewrn / und hochberümbten Helds und Ritters / mit Namen Herr Tewrdannckh / Geschicht / History und Getaten (die ich den maysten thail gesehen tc.) zu beschreiben /** et iterum paucis lineis interiectis dicit : **solich Puch allergnädigster Herr / und meine willige Arbayt wollen Ew. K. M. von mir unterthänigisten Capplan gnediglichen empfahen.** In subiuncta clave, etiam in usum Caroli V. Regis conscripta, ter vocat **mein Püch**. Quis ergo sibi poterit imaginari Pfintzingium, virum probum et cordatum, eo impudentiae processisse, ut foetum Ingenii, ab augustissimo Caesare Maximiliano elaboratum, eo adhuc vivente, et Aulicis veri Auctoris non ignaris, pro suo venditare non erubuisset, et quod omnium maximum Carolo V. Nepoti, ut proprium Laborem offerre ausus fuisset, cum tamen Maximiliani Famam hocce Facto quam atrocissime laesisset. *Alterum Probationis Robur* suggessit nobis antea allegatum Diploma Caroli V. quod nobiscum, pro prona sua in iuvandis bonis Literis et Artibus voluntate, communicavit celebratissimus omnium Eruditorum Maecenas, Vir generis prosapia et Meritis in Rempublicam illustris, HIERONYMVS GVILIELMVS EBNERVS, illustris Reipublicae Norimbergensis Senator consularis, ex Apparatu suo instructissimo ad Librum de illustribus Familiis patriciis Norimbergensibus a se conscribendum, cui etiam uberiorem Pfintzingianae vitae Notitiam grata mente debemus. In illo vero Diplomate ita loquitur Imperator : > *Inter quae etiam et hoc quidem praecipue aestimandum occurrit, quod idem Melchior Pfintzing praefati serenissimi quondam Avi nostri vitae cursum et praeclara eius*
+
+<meta>catchword: Gesta,</meta>
+
+<vocab>Melchior Pfintzing, Tewrdannckh, Maximilian I, Carolus V, Hieronymus Guilielmus Ebner, Nuremberg, authorship dispute, Dedication, Diploma</vocab>
+
+--- Page 23 ---
+<lang>lat</lang>
+<page-num>13</page-num>
+<header>DE LIBRO POETICO Theuerdanck.</header>
+
+Gefta, *Heroïcas Virtutes*, variaq; *vitae Difcrimina*, inter quae frequenter verfabatur, *Corporis* item *Labores*, et *fortunae Procellas* et *fluctus*, quos rara infracti *Animi* magnitudine et *Heroïca Conftantia* femper et ubiq; fuftinuit, elegantiffimo germanico *Carmine*, mira *induftria* et *eloquentia*, ac iucunda quadam *Verborum Suavitate*, *artificiofaq; fictorum Nominum Inventione*, in maximum *Volumen* magno *Sudore*, et fideli *diligentia*, vigilantia congeftos nobisq; dedicatos, *Pofteris* memoriae tradidit.
+
+*Tertio*, non poffumus non etiam tanquam non levidenfe Argumentum huc referre, quae Imperator Maximilianus ad Senatum Norimbergenfem, d. d 22. Ian. 1518. **von Dorffen** refcripfit: 
+> **Er begehre mit Fleiß und Ernſt / daß ſie ſeinen lieben Andächtigen Melchior Pfintzing / Probst zu S. Sebald in Nürnberg / ſeinen Rath / dem er befohlen ſich zu ihm zu erheben / mit allen Büchern / und andern / daß er ihme verfertiget und gemacht hat / mit etlichen der Stadt Söldnern und Dienern biß Weißenburg ſolten beglaiten / damit er mit den berührten dero Büchern und Schrifften ſicher fortkommen möge / &c.**
+
+Si igitur confideramus Librum **Theuerdanck** cura Pfintzingii Norimbergae An. 1517. atque adeo Anno hoc Refcriptum praecedente, fuiffe impreffum, verofimillimum utique eft, Imperatorem hanc ob caufam Acceffum Pfintzingii efflagitaffe, ut ipfi exhiberet impreffa Exemplaria, adeoque ipfi augufta fua Providentia hifce Literis de Itineris Securitate cavere voluiffe. *Quarto*, provocamus etiam ad alios graves Viros, qui *Elaborationem* Libri **Theuerdanck** Pfintzingio noftro adfcripferunt, quales funt: CYRIACVS SPANGENBERG, *Part. II. Des Adel-Spiegels / L. XI. c. 48. p. 208.*
+> **Wir haben dergleichen ein ſchönes Exempel an dem trefflich wolgeſtellten kunſtreichen Buch dem Theuerdanck / darinnen Kayser Maximiliani I. Ebentheure und Gefährlichkeit / ſo er auſgeſtanden / ſehr artlich und meiſterlich alſo**
+
+<sig>C 2</sig>
+<meta>catchword: ver-</meta>
+
+<vocab>Maximilianus I, Melchior Pfintzing, Theuerdanck, Cyriacus Spangenberg, Adel-Spiegel, Norimberga, Weißenburg, Heroïcas Virtutes</vocab>
+
+--- Page 24 ---
+<lang>lat</lang>
+<page-num>14</page-num>
+<header>DISQVISITIO</header>
+
+verblühmter weiſe beſchrieben werden/ darinnen der Meiſter
+deſſelben Buchs Melchior Pfintzing / zum theil der alten
+Meiſter Singer Brauch gefolget. Et **D. IO. CHRISTOPH.**
+**OELHAFEN,** *ICtus, in Oratione Inaugulari, An. 1623. habita,*
+*quae extat in Actu Publicationis Privilegiorum Doctoralium Uni-*
+*verſitatis Altdorffinae Lit. K. 2. ſcribit:* Maximilianus I. hat in
+ſeiner Jugend / vermöge Melchior Pfintzings / geweſenen
+Probſt zu S. Sebald in Nürnberg / Beſchreibung unter dem
+Nahmen des Edlen Ritters Theuer dancks wohl erfahren /
+was Fürwitz / Unfall / Neidhart für Schaden thun. Qui-
+bus adiungimus, **IO. IAC. FVGGER,** im Spiegel der Ehren
+des Erzhauſes Oeſterreich / *l. VI. c. 20. p. 1377.* **DAN.**
+**GEORG. MORHOFIVM,** im Unterricht von der teutſchen
+Sprache und Poesie / *c. VII. p. 365.* **Simon Bornmei-**
+**ster / **im Schauplatz der Römiſch-teutſchen Kayſer / *p. 920.*
+**IO. CVNR. DIETERICHIVM,** *in Breviario hiſtorico, P. II.*
+*p. 97.* **IO. HALLERVORDIVM,** *in Bibliotheca curioſa, p. 387.*
+**GEORG. PASCHIVM,** *in Libro de variis modis moralia tra-*
+*dendi, c. I. §. 29. p. 56.* **VINCENT. PLACCIVM,** *in Theatro*
+*Anon. et Pſeudon. c. XI. p. 478.* Hi omnes uno Ore nobiſcum
+conſentiunt. Celeberrimus **IMMAN. WEBERVS,** *in Prooe-*
+*mio Schediaſmatis Hiſtorici de eruditis Haſſiae Principibus, p. 3.*
+hiſce verbis corroborat noſtram Sententiam: *Maximilianus I.*
+*ita doctus Princeps, ut etiam Libris ſcribendis Animum appu-*
+*lerit, ceu apparet, non quidem ex opere de Periculis eius com-*
+*poſito,* der Theuerdanck / *cuius verum Auctorem Melchiorem*
+*Pfintzingium, Praepoſitum S. Albani ad Moguntiam Alloquia ad*
+*Regem Hiſpan. Carolum, tam in Dedicatione, quam in Epilogo*
+*Libri etc. loquuntur. Et in notula annexa: Sed quicquid ſit,*
+*de Indice (ſcil. Vindobonenſi, cuius ſtatim fiet mentio) fides uti-*
+*que habenda eſt Pfintzingio, qui, niſi Auctor, <unclear>facere</unclear> ſuo Nomine*
+*Librum Carolo V. offerre nunquam fuiſſet auſurus.* Defendit
+etiam
+
+<meta>catchword: etiam</meta>
+<vocab>Theuerdanck, Melchior Pfintzing, Maximilianus I, Johann Christoph Oelhafen, Johann Jakob Fugger, Daniel Georg Morhof, Simon Bornmeister, Johann Conrad Dieterich, Johannes Hallervord, Georg Pasch, Vincent Placcius, Immanuel Weber</vocab>
+
+--- Page 25 ---
+<lang>la</lang>
+<page-num>15</page-num>
+<header>DE LIBRO POETICO Theuerdanck.</header>
+
+etiam M. ADRIANVS PREVSMANN, Riga-Livonus, Reſpon-
+dente, CONRADO BVRCKARDO MIMMINGER, Phorcenſi,
+*in Academia Gieſſena, d. 27. Iun. 1696. Miſcellanea quaedam A-*
+*cademica, in quorum Poſit. XII. p. 7.* Librum *Theuerdanck* /
+ex ſubſcriptione Dedicationis Pfintzingio vindicavit, quem Au-
+ctorem etiam ob hanc cauſam allegamus, quoniam CHRI-
+STOPH. AVG. HEVMANNVS, *in Sched. de Libris Anon. et*
+*Pſeudon. P. 1. c. 4. §. 10.* refert: ſe in Bibliotheca publica Se-
+natus Francofurtenſis ad Moenum, conſpexiſſe Librum *Theuer-
+danck* / cui inſerta fuerit Schedula, indicans, habitam fuiſſe de
+hoc Libro Diſputationem in Academia Gieſſenſi, dicto Anno
+ſub Praeſidio illius Preuſmanni. Sed ex Literis IOHANNIS
+CHRISTIANI LANGII, Profeſſoris Gieſſenſis celeberrimi, intel-
+leximus, non integram Diſſertationem, ſed ſolum allegatam
+Poſitionem Miſcellaneorum Academicorum a Preuſmanno
+conſcriptorum, ſtrictim de Libro *Theuerdanck* egiſſe. Hac
+de cauſa minime ex Heumanno iudicandum eſt, nos Cram-
+bem biſcoctam benevolo Lectori apponere.
+
+### IV.
+
+<margin>Argumenta Diſſentientium, eorumque Dilutio.</margin>
+Qui a nobis diſſentiunt ipſi Maximiliano I. Elaboratio-
+nem Poëmatis *des Theuerdancks* attribuunt, clariſque ver-
+bis aſſerunt, hunc Imperatorem omnia vitae Diſcrimina, quae
+per totam vitam adierit, Rhythmis germanicis in Hiſtoria ma-
+gnanimi Herois *des Theuerdancks* complexum fuiſſe. Prin-
+ceps eſt, qui hoc affirmat, IO. CVSPINIANVS, in opere *de*
+*Caeſaribus p. 484.* cuius Teſtimonium, quia coaevus et fami-
+liaris Maximiliani fuit, omnes ſecus ſentientes magnifaciunt,
+quod ita ſe habet:
+
+> *Animum dehinc ad ſcribendum, ſed patria*
+> *lingua adiecit, et licet palam, quia male in pueritia inſtitu-*
+> *tus, Poeticam aſpernaretur, ad Poeticam tamen natus, poe-*
+> *tice opus de diverſis ſuis Periculis edidit, cui gentili lingua*
+
+<sig>C 3</sig>
+<meta>catchword: Dewr:</meta>
+
+<vocab>Theuerdanck, Maximilian I, Melchior Pfinzing, Adrianus Preusmann, Jo. Cuspinianus, Christoph August Heumann, Johannes Christianus Langius, Academia Giessena, Frankfurt am Main</vocab>
+
+--- Page 26 ---
+<lang>latin</lang>
+<page-num>16</page-num>
+<header>DISQVISITIO</header>
+<meta>catchword: multate; some bleed-through from reverse page</meta>
+
+**Dewrdanck** indidit, fingens *Invidiam* et *Curiositatem*, quafi *Perfonas quasdam comicas*, quas ratione et *prudentia fua* vi- tavevrit viceritque, ac proftraverit, ut olim Hercules, qui relicta voluptate Laborem fecutus eft per faxa, per Ignes. Cum Cufpiniano confentiunt, infequens Turba Auctorum **Michael Sachse / in der Kayser-Chronick / Part. IV. p. 267.** TOBIAS WAGNER, in *Inftitut. Hiftor. L. VII. c. 8. §. 13. p. 537.* LAVRENTIVS BEIERLINCK, *in Tbeatro Vitae Humanae Tom. VII. L. 19. p. 19* MART. ZEILERVS, *de Hift. Chronolog. et Geographis P. II. p. 209.* DIDACVS APOLEPHTES, **in der Chronica der Kayser / p. 723.** IO. HEINR. BOECLERVS, *in Libro Memoriali, de Rebus Seculi XVI. p. 276.* FRID. HILDEBRAND, *in Synopfi Hift. univerf. p. 230.* **Erdmann Uhse / in Hist. Imperat. p. 882.** IO. DECKHERRVS, *de Adefpotis, p. 247.* Hifce non annumeramus GERH. IO. VOSSIVM, de quo tam ZEILERVS *l. c.* quam PLACCIVS, *l. c.* tradunt, quod Maximiliano hoc opus vindicaverit, et Hiftoricis Latinis annumeraverit, quoniam ex evoluto *L. III. c. 10. de Hift. Lat.* perfpeximus, Voffium indeterminate affirmare, Maximilianum non modo res magnas geffiffe, fed earum etiam Commentarios fcripfiffe, adeoque prorfus nullam mentionem facere Libri **Theuerdanck.** Haufit hoc Voffius, uti ipfe fatetur, ex Epiftola Dedicatoria a SIMONE SCHARDIO, THEODORICI a NIEM *Hiftoriae fui Temporis praefixam*, in qua etiam fimpliciter tantum afferitur a Schardio, Maximilianum Rerum fuarum geftarum Commentarios condidiffe. Omnes hos allegatos Auctores partim Auctoritas Cufpiniani, partim conftans Traditio Maximilianum Imperatorem, veluti alterum Iulium Caefarem, Adminiftrationem fui Imperii Literis confignaffe, pertraxit in hanc fententiam, ut opus **Theuerdanck** ipfi Maximiliano adiudicarent. Verum enim vero Cufpinianum, vel ex nimio ftudio in Maximilianum, vel ex occulta Simultate
+
+<vocab>Theuerdanck, Maximilianus Imperator, Cuspinianus, Invidia, Curiositas, historical attribution, German historiography</vocab>
+
+--- Page 27 ---
+<lang>la</lang>
+<page-num>17</page-num>
+<header>DE LIBRO POETICO Theuerdanck.</header>
+
+multate in Pfintzingium, Gratiae Caesareae Rivalem, Librum
+Theuerdanck Imperatori asseruisse, nobis firmiter persuade-
+mus, siquidem eius privatae Fidei reclamat publica fides Cae-
+sarea, ut ex supra allegato Diplomate constat. Quod ad alte-
+rum attinet, non negamus, Maximilianum I. animum ad Re-
+rum a se gestarum commentarios perscribendos adiecisse. Re-
+fert enim BILIB. BIRCKHEIMERVS, Vir fide dignissimus, se
+cum Maximiliano aliquando Lindavio Constantiam navigio esse
+vectum, atque Imperatorem, cum otium in navi habuisset,
+ad se vocasse Scribam, illique dictasse res a se gestas unius Anni,
+idque variis Consiliis et Circumstantiis, et cum Birckheime-
+rus secedere voluisset, existimans Secreta quaedam agi, eum
+Imperatorem manere in Camera et auscultare iussisse, ad ve-
+speram deinceps eum interrogasse, uti ei placeret Equestre La-
+tinum? vid. *Paralip. Chronici*, CONR. VRSPERGENSIS p. 436.
+et GERHARD. de ROO, *in Epistola dedicat. Annal. Austr. l. IX*.
+Scriptores itaque, quibus etiam hoc innotuit, cum nullum Hi-
+storiarum a Maximiliano conscriptarum Librum prostare obser-
+varent, et tamen firmiter hac Traditione imbuti essent, au-
+dirent vero Librum Theuerdanck exponere Facinora Maximi-
+liani, plerique uno ore affirmarunt, Librum Theuerdanck esse
+illud opus a Caesare elaboratum. Et certe illis omnibus fa-
+ma tantum innotuit Liber Theuerdanck, qui illum pro eodem
+Labore cum Caesaris commentariis habuerunt, quoniam hu-
+ius Libri Evolutio aliud quid eos docuisset. PETRVS LAM-
+BECIVS, *in Libro II. Comment. de Biblioth. Caes. c. VIII. p. 969*.
+solus est, qui firmissimum contra nos probandi Argumen-
+tum assere videtur, dum inter <term>Codices MSStos</term>, ex Archidu-
+cali Arce Ambrasiana in Caesaream Vindobonensem Bibliothe-
+cam translatos, Num. 331. refert Volumen Germani-
+cum chartaceum <term>in fol.</term> quo continentur varia antiqua Mo-
+numenta ad Imperat. Maximiliani I. Vitam et Resgestas perti-
+nentia,
+
+<meta>catchword: nentia,</meta>
+<vocab>Theuerdanck, Maximilianus I, BILIB. BIRCKHEIMERVS, CONR. VRSPERGENSIS, GERHARD. de ROO, PETRVS LAMBECIVS, Codices MSStos, in fol., Pfintzingium, Ambrasiana, Vindobonensem</vocab>
+
+--- Page 28 ---
+<lang>lat</lang>
+<page-num>18</page-num>
+<header>DISQVISITIO</header>
+<meta>catchword: Darauf</meta>
+
+nentia, cui hic Titulus maxime notabilis praefixus : **Was in diesem Puech geschrieben ist / das hat Kayser Maximilian im XV hundert und XII. Jahr mir Marxen Treytz saurwein S. K. M. Secretario mündtlichen angeben.** In hoc Volumine Num. 7. inter alia Opuscula occurrit Catalogus Librorum ab ipso Imperatore Maximiliano compositorum, qui ita se habet : **Vermerkt die Puecher / die Kayser Maximilian selbst macht. Grab / Erenporten / weise Künig / Teurdank / ꝛc.** de his et sequentibus Libris Lambecius in margine affirmat, omnes istos extare nunc etiam in Augustissima Bibliotheca Caesarea, nec ullum eorum hactenus impressum esse, praeterquam eum, qui inscribitur der **Teurdanck**. Verum enim vero ex antecedentibus apparet verba illa : **selbst macht / ** non ita stricte esse interpretanda , quasi ipse Imperator nocturna diurnaue Opera Poema **Theuerdanck** / uti prostat, elaborafset; sed ea solum declarare, Maximilianum agitasse consilium de consignanda Historia Periculorum suorum sub Nomine a se excogitato **Teurdanck** / huiusque Consilii exequendi partes deinde suscepisse sciente et volente Imperatore Pfintzingium, cui adeo in hoc conatu Maximilianus ipse extiterit Monitor, Adiutor, et Praemonstrator. Adiuvat hanc nostram Interpretationem tam CVSPINIANVS, qui affirmat l. c. p. 486.
+
+> *Maximilianum pulchrum Opus confinxisse , quod Portam Honoris appellaverit, a Stabio, viro erudito, erudite concinnatum, et Picturis venustatum ;*
+
+quam MARCVS TREITZ SAVRWEIN, Maximiliani Secretarius, qui hunc Epilogum Operi : **des weisen Künigs** subiunxit: **Allerdurchl: ꝛc. ꝛc. Herr Maximilian u. ꝛc. nach Ew. K. M. ernstlich Bevelh / mündtlich antzaigen und schrifftlich Underricht mir Marxen ꝛc. gethan / hab ich diß Puech genant der weise Künig mit schrifft und Gemål in Ordnung gebracht / als viel Ew. K. M. mir darinnen geoffenbart hat / und mir wißend gewest ist ꝛc.**
+
+<vocab>Maximilian I, Theuerdanck, Weißkunig, Marx Treitz Saurwein, Johannes Cuspinianus, Melchior Pfinzing, Johannes Stabius, Catalogus Librorum, Portam Honoris, Ehrenpforte, 16th century bibliography</vocab>
+
+--- Page 29 ---
+<lang>lat</lang>
+<page-num>19</page-num>
+<header>DE LIBRO POETICO *Theuerdanck*. 19</header>
+
+darauf E. K. M. &c. dieſe mein Arbeit und Fleiß genediglichen anzunehmen &c. Quemadmodum enim Maximilianus in perficienda Porta Honoris, Ingenio Stabii, et in componendo Libro **des weiſen Kunigs** / induſtria Treitzſaurvwein uſus eſt, ita in concinnando Poemate **Theuerdanck** a ſe adumbrato adhibuit operam Pfintzingii.
+
+->V.<-
+
+<margin>Argumentum Libri.</margin>
+A Pfintzingio Auctore Tranſitum facimus ad ipſum praeclariſſimi Libri Argumentum exponendum, quod certe adeo auguſtum eſſe putamus, ut nullum aliud veterum Poetarum facile cum illo ſit comparandum. Non enim decantat Pfintzingius Urbem captam X. Annorum obſidione, ſed X. fere Urbes unius Anni ſpatio captas fuiſſe refert; neque ſiſtit ſcopuloſae Ithacae Regulum ſub alterius Auſpicio et Ductu ad Ilium militantem, aut extorrem exciſa Patria Troianum XIV. Navium Claſſi praefectum, aut Herculem duodecim exantlatis laboribus famoſum: ſed exhibet Maximilianum I. Chriſtianorum Imperatorem, VII. Regnorum Regem Heredemque, Archiducem Auſtriae, et plurimarum Europae Provinciarum Principem potentiſſimum (\*), ſtupenda Pericula obeuntem, innumeriſque Difficultatibus colluctantem. Ex uberrima enim vitae Maximiliani Hiſtoria ſelegit exponenda inſignia illa Vitae Diſcrimina, quae maxime huic Heroi, in iuvenili, adultiore, et virili aetate, ex Venationibus, feris Beluis, Equitatione, Saltu, Tempeſtatibus, Praeliis, Velitationibus, ſingulis Certaminibus, Aggreſſionibus, Obſidionibus, Tormentis, Pulvere pyrio, Sclopis, Arcubus, Gladiis, Torneamentis, Morbis, In-
+
+<sig>D</sig>
+<meta>catchword: In-</meta>
+
+---
+
+\* Hic invidioſus Titulus legitur in picta Feneſtra aedis Sebaldinae Norimbergae, poſt Altare in Latere orientali, quam ipſe Maximilianus ſub Praepoſitura Pfintzingii, An. 1515. fieri fecit. Occurrit ille etiam in Nummo Unciali in **Joh. von Möllen Thaler-Cabinet / im erſten Fach** / p. 11. et in citato Epilogo Marci Treitzſaurvwein, apud **LAMBECIUM** l. c. p. 968. conf. **IO. PETER LUDWIG**, in Germania Principe L, l. c. I. p. 173.
+
+<vocab>Theuerdanck, Maximilianus I, Melchior Pfintzing, Porta Honoris, Der weise Kunig, Marx Treitzsaurwein, Johannes Stabius, Nuremberg, St. Sebald Church, Argumentum Libri</vocab>
+
+--- Page 30 ---
+<lang>la</lang>
+<page-num>10</page-num>
+<header>DISQVISITIO</header>
+<meta>catchword: VI. Prae-</meta>
+
+Incendiis, Lapsu, Fluminum Transitu, imminentibus Naufra-
+giis, Veneficiis, etc. obvenerunt, et quae tamen omnia feli-
+citer incolumis evasit. Hac de causa descripsit Maximi-
+lianum, ingentes Cervos, furentes Apros, rapaces Vrsos, in
+vastissimis Sylvis, et aliquando in Latebris Lustrisque suis pro
+Catulorum Salute acerrime dimicantes, aggredientem, et con-
+ficientem; Leones mansuefactos quidem, nunquam tamen fe-
+rocem Naturam penitus exuentes, vel Pala terrentem, vel ex
+eorum Faucibus Linguam extrahentem, Manibus Pedibusque
+Rupium Culminibus perpetua glacie obsitis, adrepentem, et
+Rupicapras sectantem, ubi interdum parum abfuerit, quin vel
+conglobatis Nivibus obrueretur, vel devolutis Saxis contere-
+tur, aut adverso Vento deiiceretur, aut Abyssos transilien-
+do periret, aut Cuspidibus fractis, quibus illi Venatores mon-
+tani Pedes armare solent, praeceps rueret. Edocuit pariter,
+quoties Equo, et Scalis, Trabibusque fractis, lapsus sit; quomo-
+do in altissimae Turris summo Margine ita constiterit, ut u-
+nius Pedis calci insistens, planta digitisque illius, et altero Pede
+integro, admoto eius Calcaneo alterius consistentis digitis, li-
+berum Aërem dimensus sit; quoties sub dentibus Lethi mor-
+tem effugerit, in profunda Fossa, latente Puteo, obiecto Flu-
+mine, fractaque Glacie insidiosa, et quoties Fulmen coelo de-
+missum, Tormentorum bellicorum Ictus, ruptorum Arcuum
+Sclopetorumque lethifera Fragmenta, eum perterruerint. Ho-
+stium denique aut Insultus vel Bello, vel singulari Certamine
+depulsos, vel Insidias Arte elusas, atque Victorias ab Amicis
+Æmulisque in Ludis equestribus reportatas, ita exposuit, ut
+quasi praesentes videres. Strictim vero atque generaliter
+haec indicasse sufficiat. Singula enim Discrimina cum omni-
+bus Circumstantiis, per singulas Libri Sectiones eundo, enar-
+rare, illis incumbit, qui vel Tractatum integrum de huius Libri
+Argumento conscribere, vel in exponendis Maximiliani Rebus
+prolixissimi esse volunt.
+
+<vocab>Maximilianum, Cervos, Apros, Vrsos, Leones, Rupicapras, Venatores, Sclopetorumque, Ludis equestribus, Tractatum</vocab>
+
+--- Page 31 ---
+<lang>Latin</lang>
+<page-num>21</page-num>
+<header>DE LIBRO POETICO **Theuerdanck.**</header>
+
+## VI.
+
+<margin>
+Ordinatio
+poëtica Q-
+peria.
+</margin>
+Praeterea notandum , Pfintzingium Pericula , quae Maxi-
+milianus adiit et superavit , non nude pro Veritate Rerum
+gestarum , expressisse , sed ficto quodam Poeseos ornatu vesti-
+ta Literis mandasse , quod Institutum ita comparatum est.
+
+<margin>C. I.</margin>
+Ex Fictione eius, A. O. C. 6444. fuit in Germania Occiden-
+tali Rex potentissimus **Romreich/** non solum foris prospera
+Fortuna utens, variasque Regiones Bellis acquirens, verum
+etiam domi felix ob auspicatissimum Matrimonium cum ex-
+optatissima Coniuge contractum, ex quo ipsi prognata est pul-
+cherrima unicaque Filia, **Erenreich/** quae nubilis ob Animi
+Corporisque Dotes, et vastissimas Provincias hereditario Jure
+ad ipsam spectantes, a multis Procis petita est. Quam ob
+causam Consiliarii Regis eum rogarunt, ut vivus Consilium
+inire vellet de elocanda Filia, ne post Mortem eius quidam
+Armis Nuptias Filiae extorquerent.
+
+<margin>C. II.</margin>
+Rex, audita iusta Roga-
+tione, Consiliariis suis permisit, ut ipsi pro Prudentia sua e
+duodecim Principibus, quos Filiae Nuptias ambire novissent,
+Sponsum eligerent. Cum vero Deliberatione instituta , de
+hac Re illi inter se non convenissent, omne Negotium denuo
+Regis Arbitrio ab illis est traditum, qui ipsis etiam est pollici-
+tus, se facturum, ut vel ante Mortem ex ipsius Ore, vel post
+Mortem ex ultimis Tabulis, electum a se Generum cogno-
+scerent.
+
+<margin>C. III.</margin>
+Rex postea Senio gravis, quia non in Lecto, sed, ut
+memorandum quid moribundus ageret, in Horto Vitam fini-
+re voluit, ad illum Hortum contendit, ibique, paulo ante quam
+Animam exhalavit, Testamento facto Filiae designavit Mari-
+tum.
+
+<margin>C. IV.</margin>
+<margin>C. V.</margin>
+Regis Morte ad Filiam allata, et Testamento ipsi exhi-
+bito, convocavit ea Regni Proceres Ordinesque, illisque prae-
+sentibus resignatis Tabulis cognovit, Iuvenem Heroa **Theuer-**
+<margin>C. VI.</margin>
+**danck/** Patrem ipsi constituisse Maritum. Qua de causa statim
+ablegat fidum Nuntium ad **Theuerdanck** perquirendum, et ad
+
+<sig>D 2</sig>
+<meta>catchword: Nu-</meta>
+
+<vocab>Theuerdanck, Melchior Pfinzing, Maximilian I, Romreich, Erenreich, Germania, Ordinatio poëtica</vocab>
+
+--- Page 32 ---
+<lang>Latin</lang>
+<page-num>22</page-num>
+<header>DISQVISITIO</header>
+
+<margin>C. VII.</margin> Nuptias invitandum. Interea Proceres quidam veriti, ne accedente **Theuerdanck** dignitate sua privarentur, infernalis Spiritus Suggestione, prava Consilia inierunt, de necando Heroe, per varias clandestinas Artes, antequam Limites Regni attingeret, hocque Negotium commiserunt tribus Capitaneis ex globo coniuratorum, qui, occupatis tribus Claustris ab Heroe transeundis, anniterentur, ut per varia obiecta Discrimina, structasque Insidias illum vel a Regno arcerent, vel si ab Itinere non desisteret, e medio tollerent. Dicebantur illi, **Fürwittig** / **Unfalo** / und **Neydelhart** ; qui, in latinum Idioma translatis Nominibus audiunt, PETVLANS,
+
+<margin>C. VIII.</margin> INFAVSTVS, et INVIDVS. **Theuerdanck** posteaquam ex ablegato Nuntio de Amore Reginae **Erenreich** certior est factus, eum cum hac Declaratione dimittit, quod Conspectum Reginae Sponsae prius non subire vellet, quam multis egregiis Factis effeciffet, ut ipsi hoc Matrimonium esset perhonorifi-
+
+<margin>C. IX.</margin> cum. Consensu Patris deinde ad has Nuptias contrahendas
+
+<margin>C. X.</margin> exorato, cum Iter instrueret, accessit ad eum malus Genius, Personam Doctoris simulans, eumque pestifera sua Doctrina, tribus Praeceptis comprehensa, quibus omnis Pietatis, Honestatis, et propriae Conservationis Fundamenta subruebantur, imbuere conatur, cui vero fortiter reclamavit, ut ille infecta
+
+<margin>C. XI.</margin> re evanuerit. Iter deinceps est aggressus cum unico Ministro **Ernhold** / quem Testem et Praeconem Factorum perpetran-
+
+<margin>C. XII.</margin> dorum elegit, atque ad primum Claustrum venit, occupatum a Capitaneo **Fürwittig** / qui quoad speciem admodum humaniter quidem eum excepit, attamen detinuit, simulans, se prius debere explorare Reginae voluntatem, de eo admitten-
+
+<margin>C. XIII.-XXIII.</margin> do. Inter ea vero XI. maximis Periculis eum exposuit, quae
+
+<margin>C. XXIV.</margin> recensentur. Cognita tandem ex Servi Indicio Nequitia Capitanei **Fürwittig** / Heros eum vehementer increpat,
+
+<margin>C. XXV.</margin> qui vero Vitae suae timens aufugit. **Theuerdanck** perrexit
+
+<meta>catchword: itaque</meta>
+
+<vocab>Theuerdanck, Fürwittig, Unfalo, Neydelhart, Erenreich, Ernhold, Nuptiae, Proceres, malus Genius, Claustrum, PETVLANS, INFAVSTVS, INVIDVS</vocab>
+
+--- Page 33 ---
+<lang>lat</lang>
+<page-num>23</page-num>
+<header>DE LIBRO POETICO Theuerdanck.</header>
+<sig>D 3</sig>
+<meta>catchword: dome-</meta>
+
+itaque ad alterum Castrum Capitaneo **Unfalo** commissum,
+<margin>C. XXVI-LXX</margin>
+qui a profugo **Fürwittig** commonitus, pari Astutia Proficif-
+centi Moram iniecit, eumque in XLVIII. Pericula gravissima
+<margin>LXXIV.</margin>
+Terra Marique adduxit. Detectis quoque eius Insidiis, metu
+<margin>LXXV.</margin>
+Poenae **Unfalo** se subduxit; **Theuerdanck** vero, ad tertiam
+Arcem pervenit, cui tertius Capitaneus **Neidelhart** prae-
+fuit. Verum neque hic ab Hospite Eques nobilissimus tutus, sed
+<margin>LXXVI-XCV</margin>
+XXI. Periculis, iisque plerumque bellicis, dum adversus Re-
+ginae Hostes pugnaret, subiectus fuit; quare demum et huius
+<margin>XCVII.</margin>
+Technis patefactis nequissimum Hominem terruit, ut fuga sibi
+<margin>XCVIII.</margin>
+consuleret. Denique recto Tramite ad Reginae Sedem con-
+tendit, quae eum perhumaniter excepit, atque superata Pe-
+ricula, in quae per Insidias perfidorum Capitaneorum in Iti-
+nere coniectus fuerat, cum maxima Indignatione cognovit.
+
+Cum vero tres illi Capitanei aegerrime ferrent, Equitem
+<margin>XCIX.</margin>
+**Theuerdanck** / amabilissimis suis Moribus, et incomparabili
+Praestantia, Reginae Favorem sibi conciliaffe, ad ultimum in-
+stigarunt sex robustissimos Equites Aulicos, ut Principem sub
+Specie publicae Laetitiae et Oblectationis ad Torneamentum
+provocarent, eumque in iis ad necem persequerentur. Quo-
+<margin>C.</margin>
+rum Petitis etiam, Fraude latente, et Regina, et Heros,
+annuit. Cum omnibus itaque, partim equestri, partim pede-
+<margin>CI.-CVI.</margin>
+stri Decursione, partim Italico, partim Germanico more, par-
+tim Hastis acuminatis, partim Gladiis feliciter certavit, iis-
+<margin>CVII. CVIII</margin>
+que victis a Regina Lauream Coronam accepit. Postea **Ern-**
+**hold** tres illos pravos Capitaneos omnium Criminum, quae in
+<margin>CIX.</margin>
+Heroem commiserant, accusavit apud Reginam, quae Dif-
+quisitionem Reatuum Praetori Aulico commisit, a quo etiam
+quaestione habita, **Fürwittig** Gladii, **Unfalo** Laquei, **Nei-**
+<margin>CX.-CXII.</margin>
+**delhard** Praecipitationis Supplicio est adiudicatus, quod etiam
+de iis est sumtum. Ad Ultimum Regina Equitem **Theuer-**
+<margin>CXIII.-CXV.</margin>
+**danck** per Fecialem exhortatur, ut e medio sublatis Inimicis
+dome-
+
+<vocab>Theuerdanck, Fürwittig, Unfalo, Neidelhart, Ernhold, Torneamentum, Capitaneus, Regina</vocab>
+
+--- Page 34 ---
+<lang>lat</lang>
+<page-num>24</page-num>
+<header>DISQVISITIO</header>
+<meta>catchword: ximi-</meta>
+
+<margin>CXVI.</margin> domeſticis, Expeditionem adverſus Hoſtes Chriſtiani Nominis
+ſuſciperet, quam etiam ille, a coeleſti Genio admonitus, et
+<margin>CXVII.</margin> ſaluberrimis Praeceptis inſtructus, non recuſavit. Antequam
+vero diſcederet, et Bellum adverſus Infideles iniret, ſolemni
+Stipulatione ſibi de futuro Matrimonio cum Regina ineundo
+<margin>CXVIII.</margin> cavit.. Subiungitur Epilogus, in quo, tam allatis Rationibus,
+quam Exemplo inclyti Herois **Theuerdanck** refellitur anti-
+quum Dictum: Omnia Animalia Armis ſuis a Natura eſſe inſtru-
+cta, ſolum Hominem inermem procreari; et comprobatur,
+Rationem Hominis omnibus Brutorum Armis praeſtantiorem
+valentioremque eſſe. Haec eſt B. L. Sciagraphia poëticae Con-
+ſtructionis Libri **Theuerdanck** tam ingenioſe a Pfintzingio
+adornati.
+
+## VII.
+
+<margin>Veritas Hiſtorica Libri.</margin> Ne quis vero in animum inducat, tantum Pfintzingium de-
+diſſe Fictioni poëticae, ut Diſcrimina a Maximiliano ſuperata
+nimium extollendo laeſerit, aut penitus aliena Figmenta im-
+miſcuerit, aut leviſſima aut communia quaeque arripiendo, Nu-
+merum illorum, vel Molem Libri auxerit, monendum eſt, ex
+ipſo Libro conſtare, quod parcius potius Vates noſter Pericula
+Maximiliani enumeraverit, et ſaepe una duntaxat Sectione car-
+minica, omnia Pericula Incendiorum, Exploſionum, Praelio-
+rum, etc. complexus fuerit, vid. *Sect. 57. 73. 76. 81.* Ut etiam
+eo clarius Lectori Inſtituti ſui Ratio innoteſceret, uberrimam
+Operi ſuo ſubjunxit Declarationem, quam vulgo *Clavem* appel-
+lant, in qua partim Fictiones ſuas poeticas indicavit, partim Ve-
+ritatem hiſtoricam fictione involutam ipſe evolvit, ut Carolus
+Rex Hiſp. cui illam ſeparatim inſcripſit, de Veritate comme-
+morationis eo certior eſſet. Quod ad praecipuarum Fictio-
+num Explanationes itaque attinet, aſſerit ibi per Regem **Rom-
+reich**/ deſignari Carolum, ultimum Burgundiae Ducem; per Re-
+ginam **Ernreich**/ ejus Filiam Mariam; per **Tewrdannckh**/ Ma-
+
+<vocab>Theuerdanck, Melchior Pfintzing, Maximilianus I, Romreich, Ernreich, Tewrdannckh, Sciagraphia, Clavis, Veritas Historica</vocab>
+
+--- Page 35 ---
+<lang>Latin</lang>
+<page-num>25</page-num>
+<header>DE LIBRO POETICO *Theuerdanck*.</header>
+<meta>catchword: AV-</meta>
+
+ximilianum Imperatorem ; per individuum eius in itinere co-
+mitem, Ernhold / Famam, quae Vitam et Facta ex veritate con-
+firmavit et divulgavit. Sunt quidem, qui opinantur Aucto-
+rem se ipsum, sub Persona des **Ernholds** induxisse, verum re-
+pugnat eorum coniecturae ipsa Interpretatio Auctoris. Per
+tres Capitaneos malevolos repraesentavit tres humanae vitae
+aetates, iuvenilem, adultiorem, et virilem, in quibus varie Ma-
+ximilianus periclitatus fuit. Iuvenilem **Fürwittig** dixit,
+weil durch ihn verstanden wird / in was Geferlichait Ine
+seine freye Jugent / auch **Fürwitz** on Bedacht allerley zu ver-
+suchen gefürt hat. Adultiorem nomine **Unfalo** insignivit,
+weil darunter begriffen werden all Tewrlich und geferlich
+Sachen in Schimpff und Ernst / so der **Tewrdannck** Eer zu
+erlangen in bestendigem Alter getan hat / bey denen Ime
+**Unfal** unversehner Ding zugestanden sein / den er durch
+schicklichait und sein beherzenhait entgangen ist. Virilem
+vocavit **Neydelhart** / und bedeut die sorgfeltigkait und gefer-
+lichait / so dem Fürsten zu seinen Zeiten durch Neyd und haß /
+in Kriegsleuffen / und sonst begegnet / denen Er aber allen / on
+schaden / mit hilff Gottes / und durch sein unerschrocken fraydig
+Gmüt / und Ritterliche handt glücklichen entgangen und ent-
+runnen ist. Quo loco, et interdum quibus circumstantiis ipsa Pe-
+ricula acciderint, quorundam αὐτόπτης distincte secundum Se-
+ctiones manifestat, in posterioribus aliquoties provocans ad Li-
+brum **Blanck Künig** / per quem, procul dubio Librum supra alle-
+gatum a **Marco Treytzsaurvvein** ex Schedis Maximiliani, sub Ti-
+tulo: **Des weyßen Künigs** conscriptum, intellexit. Post Aucto-
+rem Veritatem historicam ex Libro **Theuerdanck** eruere annisus
+est **SEBAST. Franck** in *Chronico Germaniae* fol. 281. qui eum cum
+cura perlegit, atque quoad vere perpetrata a Maximiliano Fa-
+cinora in compendium feliciter redegit. Injuriam vero facit
+tam **SEBAST. Franck** / quam **VINC. PLACCIO CHRISTOPH.**
+
+<vocab>Maximilianum Imperatorem, Ernhold, Fama, Fürwittig, Unfalo, Neydelhart, Theuerdanck, Blanck Künig, Marco Treytzsaurvvein, Sebastian Franck, Vincenz Placcius, Weisskunig</vocab>
+
+--- Page 36 ---
+<lang>la</lang>
+<page-num>26</page-num>
+<header>DISQVISITIO</header>
+<meta>catchword: xandus</meta>
+
+AVGVST. HEVMANNVS, dum in *Loco supra cit. p. 105.* scri-
+bit: Placcium, dum meminerit, in Seb. Franckii Chronico re-
+periri Clavem Libri *Theuerdanck* / obscure nimis loqui, quia
+sibi Chronicon illud, Belgica Lingua scriptum, et A. 1558. in
+fol. editum prae manu sit, ubi P. II. fol. 63. exhibeatur Excer-
+ptum ex Libro *Theuerdanck* / in quo breviter enarrentur XVIII.
+Victoriae, a Maximiliano partae, Auctorem tamen istius Libri non
+indicari ; siquidem Franckium in eo laedit, dum asserit ; Illum
+tantum recensuisse XVIII. Victorias a Maximiliano repartas,
+cum ille tamen LXVII. Pericula secundum ordinem a Pfintzin-
+gio in Libro *Theuerdanck* observatum, a fol. 281. usque ad fol.
+288. enumeret, uti cognovimus ex Editione huius Chronici
+Germanica de An. 1538. quam ille consulere debuisset, non
+vero Belgicam: siquidem Seb. Franck / *Werda-Noricus*, Ger-
+manice, non Belgice scripsit, si voluisset refutare Placcium.
+Hujus vero clarissimi Viri verba, quae obscuritatis insimulavit,
+plane non intellexit, sed illis plane alium sensum affinxit ; siqui-
+dem mens Placcii non fuit, quasi a Franckio manifestaretur
+Auctor Libri *Theuerdanck* ; sed dum asseruit, in Franckii Chro-
+nico clavem huius Libri extare, monere solum voluit, Fran-
+ckium inseruisse suo Chronico Explicationem historicam Peri-
+culorum Maximiliani in Libro *Theuerdanck* descriptorum, &
+ita etiam se res habet. Praeter Pfintzingium et Franckium
+historicam veritatem Libri *Theuerdanck* condocere allabora-
+vit Matthaeus Schultes, Civis et Sculptor Ulmensis, qui in Edi-
+tione sua, infra adducenda, singulis Figuris Historiam Rei gestae
+subjecit. Harum igitur trium Clavium in Librum *Theuerdanck*
+Pfintzingiana nobis videtur fide dignissima, Franckiana ube-
+rior, Schultesiana commodior. Burcardus Waldis in Titulis
+Sectionum Operis *Theuerdanck* / interdum etiam Loca, ubi
+pericula acciderunt, brevissime indicavit, de cujus Editione
+etiam infra sermo erit. Schultesius tamen eam ob causam ta-
+
+<vocab>Theuerdanck, Sebastian Franck, Melchior Pfintzing, Matthaeus Schultes, Burcardus Waldis, Maximilian I, bibliographic history, Clavis Libri, Werda-Noricus</vocab>
+
+--- Page 37 ---
+<lang>Latin</lang>
+<page-num>27</page-num>
+<header>DE LIBRO POETICO Theuerdanck.</header>
+
+<margin>Celebris fabula de Maximiliani periculo exploditur.</margin>
+xandus est, quod Sectioni XXIImae Libri **Theuerdanck** subiunxe-
+rit, commemorationem celebratissimae illius Fabulae de peri-
+culosissima illa Venatione, in qua Maximilianus in primo Flore
+juventae in Pariete St. Martini, prope Cirellum, Pagum Tyro-
+lensem, Rupicapras nimia audacia adeo usque insectatus sit, ut
+nec ulterius progredi, nec referre pedem potuerit, nisi in
+praecipitium; in quo anxio statu, cum sine ulla salutis spe, ine-
+dia languidus & omni humana ope destitutus, per tres fere noctes
+atque dies integros haesisset, ac ostenso inter Aulicorum subdito-
+rumque lamentationes et ploratus e viciniore loco Dominici
+Corporis Sacramento corroboratus fuisset, tandem a coelesti
+quodam Genio sub specie Iuvenis Rustici ignoti ad suos Mini-
+stros reductus fuerit. Nam Pfintzingius in dicta Sectione ali-
+ud Periculum Venatorium Maximiliani exponit, quod propter
+viles timidasque Damas Maximilianus subiit. Nempe, dum ille non
+procul Oeniponte, accito in spectaculum Gynaeceo, virtutis osten-
+tandae causa, conto misso Damam de Rupe deiecit, ipse Saxo
+innitens vivo, dum in vicinum Cespitem Pedem alterum pro-
+movere voluit, alterius Pedis Vnci hexagoni, calceis subnexi,
+impares Ponderi, Loco cesserunt, atque adeo ille unius Vnci,
+et quidem incurvati, firmitudine a Praecipitio servatus fuit,
+quoad Minister Contum alterum subministravit. Cum etiam
+Pfintzingius alibi ne verbulo quidem mentionem faciat istius Pe-
+riculi, quod praeter Schultesium alii etiam Auctores comme-
+morant, uti **STEPHANVS VINANDVS PIGHIVS**, in *Her-
+cule Prodicio, p. 167.* **GEORG. SABINVS**, in *Hodaeporico Itin.
+Ital. p. 32.* **NICOLAVS VERNVLAEVS**, de *Virtutibus
+Aug. Gentis Austr. L. I. c. 3.* **CASTRITIVS**, in *Libro, de
+Germanorum Princip. Dictis et Factis, fol. 316.* **RIVANDER**,
+in der *Fest-Chronica / P. II. fol. 29.* **Sigism. Bircken** /
+im *Fuggerischen Spiegel der Ehren des Erzhauses Oester-
+reich / L. VI. c. 20. p. 1379. et MATTH. MERIAN.*, in *Topogr.*
+
+<sig>E</sig>
+<meta>catchword: Tirol.</meta>
+
+<vocab>Maximilianus I, Theuerdanck, Melchior Pfintzing, Martinswand, Zirl, Oenipons, Innsbruck, Venatio, Rupicapra, Cespitem, Vnci, Stephanus Winandus Pighius, Georg Sabinus, Nicolaus Vernulaeus, Castritius, Rivander, Sigismund von Birken, Matthäus Merian</vocab>
+
+--- Page 38 ---
+<lang>Latin</lang>
+<page-num>28</page-num>
+<header>DISQVISITIO</header>
+
+*Tirol. p. 155.* (qui expressis verbis dicit : *Diese History hat K. Maximilian selbst in seinem Buch / der Theurdank inscribirt, beschrieben.*) Conf. LAMBECIVS, l. c. p. 722. non possumus non illam anilibus, et a Vulgi rumusculis ortis Fabulis annumerare. Quare enim silentio tam in ipso Poëmate, quam in addita Clave praeteriisset Pfintzingius omnium maximum Periculum, quod unquam subiit Maximilianus, cum eius propositum fuerit omnia pericula illius enarrare, et ille in longe levioribus recensendis tam industrius fuerit, et quidem tale, quod ille utpote Theologus, et Religionis Pontificiae Praeiudiciis imbutus, ob Apparitionem coelestis Genii, et Communionis Spiritualis Efficaciam, salva Conscientia reticere non potuisset ? Nobis itaque est persuasissimum, accedente etiam Ioh. Cuspiniani, solertissimi Vitae Maximiliani Scriptoris, Periculum, quod in Pariete St. Martini Maximilianus in Rupicaprarum Venatione subiit, non ita comparatum fuisse, prouti allegati Auctores, et vulgo alii tradunt, sed ita se habuisse, prouti Pfintzingius retulit. Pfintzingium vero in clave his verbis : *Abermahlen ein geferlichait / so den Edlen Tewrdanck am Gemsen Fayd bey Innsprugk begegnet ist / ꝛc. ꝛc.* / digitum intendere ad Parietatem St. Martini, ex eo colligimus, quia abruptissima et in Coelum erecta haec Rupes ob Formam, quam habet ingentis Muri solidi, Paries dicta, sita est in sinistra Oeni Fluminis Ripa trium circiter Horarum Itinere, supra Oenipontem inter Ecclesiam quandam S. Martino dedicatam, et Pagum Cirellum (Cirle.) Consentiunt etiam caeterae Circumstantiae primariae Pfintzingianae verae et vulgaris fabulosae Narrationis, si invicem attenta Mente comparantur. Ad Rei Memoriam Maximilianum, uti ferunt, Semitam subiectam Lapicidarum Labore muniri curasse, falsum est ; propterea quod illa Lapidibus strata Via, cui Paries S. Martini imminet, est vetus Romanorum Via militaris, ex
+
+<meta>catchword: Italia</meta>
+
+<vocab>Maximilianus, Theurdank, Pfintzingius, Lambecius, Ioh. Cuspinianus, St. Martini, Oenipontum, Oenus Flumen, Cirellum, Rupicapra</vocab>
+
+--- Page 39 ---
+<lang>Latin, German</lang>
+<page-num>29</page-num>
+<header>DE LIBRO POETICO **Theuerdanck.**</header>
+
+Italia per Alpes Augustam Vindel. ducta, uti hoc cognoscitur ex Titulo Columnae miliariae, iuxta Viam positae, vid. PIGHIVS, *l. c. p. 168.* MARCVS VELSERVS, *in antiqu. Monum. Augustan. p. 150. et 260.* IANVS GRVTERVS, *in Syntagm. veter. Inscript. p. 157.* LAMBECIVS *l. c. p. 716.* Statuam vero Christi crucifixi colosseam, una cum B. Mariae et S. Iohannis a dextro et sinistro latere adstantium Imaginibus, in Rupis illius Loco quodam in quadrum exciso erectam, et ad hunc usque diem ibi conspicuam, in Memoriam non vulgaris Fabulae, sed a Pfintzingio commemorati Periculi extare, claris Verbis confirmat, LAVR. BEYERLINCK, *l. c. p. 19.* Ad explodendum etiam communem Fabulam faciunt Verba Seb. Franckii in Epitome citata, *fol. 281.*
+
+> Zum achten entgieng im zu Isbruck auf einen Gembseu Gejad/ auf einer hohen platten schafft und alle Zincken an sein fußeisen/ daß man sich sein verwegt/ und im das Sacrament zeigt/ noch halff im GOtt durch sein freudig Gemüt/ und Geschicklichent herab.
+
+Sed ut ad Claves Operis **Theuerdanck** e diverticulo redeamus, nulli dubitamus, quin tamen copiosior adhuc Declaratio historica Operis **Theuerdanck** ab eo institui possit, qui illud paulo attentiore cura perlegere, et imprimis cum Historia Turbarum Belgicarum, et Bellorum a Maximiliano gestorum, aliisque huius Imperatoris Vitam illustrantibus monumentis conferre velit, quod luculentis Exemplis comprobaremus, nisi iam praeter Opinionem crevisset Disquisitionis huius Materia.
+
+### VIII.
+
+<margin>Quae sit Forma Libri, ratione carminis.</margin>
+Argumento Libri seposito, aut potius satis tam secundum Veritatem historicam, quam Fictionem poëticam exposito, ad eius Orationem ligatam, Numeris suis et Mensura certa constantem, perlustrandam progredimur. Invenimus autem illam
+
+<sig>E 2</sig>
+<meta>catchword: non</meta>
+
+<vocab>Theuerdanck, Maximilian I, Pighius, Marcus Velserus, Janus Gruterus, Lambecius, Pfintzing, Laur. Beyerlinck, Seb. Franck, Gembseu Gejad, Isbruck, Augusta Vindelicorum</vocab>
+
+--- Page 40 ---
+<lang>Latin</lang>
+<page-num>30</page-num>
+<header>DISQVISITIO</header>
+
+non incultam, aut inamoenam , et Horridam , sed pro illorum
+Temporum ratione satis lepidam atque iucundam. Integrum
+Poëma distinguitur in CXVIII. Sectiones Carminum, quae bre-
+vioribus absolvuntur Versiculis, quorum bini semper rhythmo
+coniunguntur. Nunc Iambici Versus occurrunt, iique fre-
+quentissime, utplurimum Quaternarii, aliquando Ternarii,
+nunc Trochaici aliquot intercalantur. Rhythmi ipsi absque
+discrimine pro lubitu Vatis nati sunt, aut masculini, aut foemi-
+nini, vel ut rectius forte dicerem, nunc cum syllaba remanente,
+nunc absque ea. Dimensio Pedum satis est accurata, et licet
+illa passim vacillare videatur, a perito tamen Poëseos Lectore,
+observatis Elisionibus illis Temporibus usitatis, facile ad firmi-
+tatem suam revocari potest. Grave pariter atque iucundum
+de hac re fert Testimonium, illustris quondam Patrii Pindi A-
+pollo, **Christian Hoffmann ab Hoffmannswaldau** / veneran-
+dus, dum viveret, Senatus Vratislaviensis Praeses, qui in Poë-
+matum suorum Praefatione fatetur, se in prima Adolescentia ex
+hoc Libro syllabas dinumerare didicisse. Benigno certe Sile-
+siorum, forte et Germanorum, nisi ex quorundam Opinione
+Germania Sudetibus terminatur, Fato, quod Pfintzingio nostro
+potissimum Duce, tantus Heros aut Germanicae, aut saltim
+Silesiacae Poëseos, Sacris, plaudentibus Musis, initiatus sit.
+Dictio caeterum Pfintzingii non tenera est et arguta, sed ma-
+scula, et pro illorum Temporum ratione grandiloqua, ut ex
+integro Poëmate eximium quid atque Heroicum eluceat.
+Omnino mirum est, in tanta praestantia atque copia Poëtarum
+neminem esse inventum, qui Epos aliquod, quod cum Homeri
+Iliade et Virgilii Æneide comparari queat, procuderit, cum in
+reliquis Carminum Generibus Veteres assecuti simus, et forte
+aliquando superaverimus. In Tragoediis enim, quae quam
+proxime ad Epicum Carmen accedunt, tantum a summis Viris,
+**ANDREA GRYPHIO** et **CASPARI LOHENSTEINIO** prae-
+
+<meta>catchword: stitum</meta>
+
+<vocab>Poëseos, Iambici Versus, Quaternarii, Ternarii, Trochaici, Christian Hoffmann ab Hoffmannswaldau, Senatus Vratislaviensis, Pfintzingio, Homeri Iliade, Virgilii Æneide, Andrea Gryphius, Caspar von Lohenstein</vocab>
+
+--- Page 41 ---
+<lang>lat</lang>
+<page-num>31</page-num>
+<header>DE LIBRO POETICO Theuerdanck.</header>
+
+stitum est, ut Veteres, si ab Inferis redirent, haberent, cui 
+inviderent. Nec causae huius Rei et Difficultates, quae al-
+legari solent, tantae sunt, ut eas Vir, cui Mens ignea est et 
+dicendi facultas, non superare possit. Laederemus ipsam 
+Pfintzingii nostri Modestiam, si profiteremur, eum id egisse, 
+quod omnia reliqua Parnassi sidera agere detrectarunt. In-
+terea quaeri potest, annon Maximiliani nostri Pericula idone-
+num Epici Carminis sint Argumentum? et annon Pfintzingius 
+ad eiusmodi Carmen elaborandum imperfectas quasdam Lineas 
+duxerit? Requiritur communiter ad Poëmatis Epici Natu-
+ram, *Actio, Fabula, Mores, Sententia, Dictio*, quae in hoc eti-
+am Argumento ab ingenioso Vate facile reperiri possunt. 
+*Actio, seu id*, quod Historicum est, debet esse una, illustris, com-
+pleta, certae Magnitudinis, quae omnia non incommode huc 
+quadrant. Sistitur hic unus Heros, uno et continuo spatio 
+Temporis agens, ita, ut illa in alias Actiones integras et com-
+pletas dividi non possit. Illustrem esse, quis non videt, de 
+Principe Orbis Christiani supremo, et in gravi splendidaque 
+Materia: Completa eadem dici potest, cum omnia adsint, 
+quae adesse debeant, ita, ut ordiatur a Connubio illustris Fae-
+minae petito, ad quod Heros per varia Pericula ita tendit, ut 
+tandem Votis potiatur. Duratio longior esse videtur, utpote 
+quae plurimos Annos et totam Maximiliani Vitam complecti-
+tur, si ad Rei veritatem respicere velis. At enimvero, si *Fa-*
+*bulam* hic in subsidium voces, uno Anno facile absolvi potest, 
+cum vix conveniens sit, Procum ad illustrissimae atque opulen-
+tissimae Faeminae Nuptias festinantem, in Itinere, licet maxi-
+me periculoso, longius Tempus conterere. Haec certe, pro-
+ut illa excogitata est a Pfintzingio, non abludit a scopo, conti-
+netque variorum Casuum Seriem, qui ex diversis causis obji-
+ciuntur, et nunc Robore Corporis, nunc Praesentia Animi, et 
+imperterrita Constantia superantur, immo, cum iam se in Por-
+
+<sig>E 3</sig>
+<meta>catchword: tu</meta>
+
+<vocab>Theuerdanck, Melchior Pfinzing, Maximilian I, Poëma Epica, Poetics, Actio, Fabula, Mores, Sententia, Dictio</vocab>
+
+--- Page 42 ---
+<lang>Latin</lang>
+<page-num>32</page-num>
+<header>DISQVISITIO</header>
+<meta>catchword: IX. Etsi</meta>
+
+tu navigare putaret Heros, opponuntur, omnes tamen ita re-
+moventur, ut tandem Actionis Flexus in Felicitatem definat.
+Possunt hic quoque inferi *Actiones* quaedam *adscititiae*, quae ab
+Ingenio Poëtae dependent, et *Episodia* vocantur; solebant
+hic antiqui Poëtae non raro Deos Deasque in medium produ-
+cere, quos fere Pfintzingius iam imitatus est; dum post initium
+Operis Infernalem Spiritum e Tartaro Heroi occurrere facit;
+circa Finem bonum Genium Heroi affuisse, et eundem de Rebus
+suis monuisse fingit. Mores varios, v. c. altos Regis **Rom-**
+**reich** Spiritus, Sponsae casta Desideria, trium Capitaneorum
+Indolem, et in Heroe imprimis Amorem, Magnanimitatem,
+imperterritum Animum, aliaque talia exprimi posse, huius Rei
+perito facile apparebit. *Sententiis* quoque Rem ornare, et
+omnia magnifica *Dictione* exponere, eidem pronum fuit. Cer-
+tum itaque est, non solum aliquid simile Heroico Carmini
+Pfintzingium tentasse; verum etiam Pericula Maximiliani di-
+gnam praebere Epico Carmini Materiam, si quis a Pfintzingio
+iactis Fundamentis superstruere, vel omissa eius Inventione
+novum condere Epos velit. Hoc nostrum Assertum magis
+forte illustrare possemus, si nobis ad manus esset Volumen
+MStum chartaceum, cuius LAMBECIVS *L. c. p. 986.* memi-
+nit, in quo continetur Historia variorum periculorum Impera-
+toris Maximiliani I. ex Germanico Poëmate **Teuerdanck** a RI-
+CHARDO SBRVLIO, Foro Juliano, in Latinam Linguam
+translata eleganti Carmine Heroico, ut iudicat celeberrimus
+Vir. Principium eius, ut ex ungue Leonem agnoscas, B. L.
+ita se habet:
+
+> *Magnanimum canimus, rutilans quem tollit Olympo*
+> *Gloria, Phoebeis redimitum Tempora Lauris,*
+> *Vndique promeritum surgentem in Pondera Palmam.*
+> *Quid non ille tulit?*
+
+<vocab>Pfintzingius, Romreich, Teuerdanck, Maximilianus I., LAMBECIVS, RICHARDO SBRVLIO, Carmine Heroico, Episodia, Epos</vocab>
+
+--- Page 43 ---
+<lang>la</lang>
+<page-num>33</page-num>
+<header>DE LIBRO POETICO **Theuerdanck**.</header>
+
+---
+
+## IX.
+
+<margin>Norma Libri fuerunt **die Helden-Bücher**.</margin>
+Etſi vero Pfintzingius noſter Regulas illas Poëmatis Heroici, quae Antiqui accurate admodum obſervarunt, Recentiores autem ex eorum Scriptis ſuperſtitibus eruerunt et imitati ſunt, neglexerit, aut potius, nondum ita exculto ſeculo, ignoraverit, Conatus tamen ſuos in elaborando Libro **Theuerdanck** ad Normam et Conſtitutionem Veterum Germanicorum Poëmatum epicorum penitus direxit, uti hoc fatetur tam in Dedicatione, quam in clave Libri. In quo imitandi Studio laudabiliter egit, quod potius patria ſectatus fuerit decora, quam ſtolida Affectatione premere Veſtigia Poëtarum alterius Linguae, quorum Floſculos et fucos heroica Simplicitas vernaculae noſtrae interdum penitus reſpuit. Poëmata vero illa Epica, **die Helden-Bücher** dicta, omnino primam ſuam Originem debent primis a Gente noſtra condita Temporibus, ita tamen, ut priſcis ſeculis, cum Germani noſtri, Tacito teſte, Literas ignorarent, non Libri, ſed Cantilenae heroicae in uſu fuerint. Cecinerunt enim Tuiſconem & Mannum, Conditores Gentis. Poſt Taciti etiam Aevum hic Mos non exſpiravit, ſed inſequentibus quoque Temporibus Heroes, qui pro patria in Bello occubuerunt, aut alia ratione Libertatem Civium tutati ſunt, a ſuis decantati fuerunt. Collegit eiuſmodi Carmina Carolus M. et, cum Litterae tunc Temporis in Germania aut primum ductae ſint, aut frequentatae, exſcribere curavit, Bono illorum temporum non levi, noſtrae Aetatis nullo, cum Seculorum Tractus, qui inter magnum Imperatorem et nos intercedit, haec quoque nobis rapuerit. Latent tamen hinc atque inde recentiores heroicarum eiuſmodi Cantionum Collectiones MSStae, quales duas, eaſque egregias, benevole noviſcum communicavit, Amor et Delicium Muſarum, D. GODOFREDVS THOMASIVS, Archiater Norimbergenſis celeberrimus, quarum praeſtantiſſimam poſſedit
+
+<meta>catchword: olim</meta>
+
+<vocab>Pfintzingius, Theuerdanck, Helden-Bücher, Tacitus, Tuiscon, Mannus, Carolus M., GODOFREDVS THOMASIVS, Norimberga, MSStae, poetic rules, epic poetry</vocab>
+
+--- Page 44 ---
+<lang>Latin</lang>
+<page-num>34</page-num>
+<header>DISQVISITIO</header>
+<meta>catchword: be</meta>
+
+olim *Balthafar, Dux Mecklenburgicus,* et *Epiſcopus Suerinen-*
+*fis et Hildeſheimenſis,* *Ducis Henrici Pinguis,* qui A. 1477.
+mortuus eſt, Filius. Ingens quoque harum Cantilenarum
+Farrago publicis Typis, ſub Titulo *des Helden-Buchs,* ex-
+ſcripta eſt, in quo celebratiſſimo Libro, *Otnitis, Hug-Diete-*
+*rici, et Wolff-Dieterici, Gibichi Vangionis, Theodorici Ve-*
+*ronenſis, et Laurini Wormatienſis,* Amores et Res geſtae
+IV. Diſtinctionibus maioribus, idiomate teutonico Seculi XII.
+vel XIII. Hominibus ufitato, rhythmice deſcribuntur. Anti-
+quiſſima huius Libri Editio prodiit ante duo Secula in fol. absque
+Anno et Loco editionis. Altera Lucem vidit, 1545. f. Fran-
+cof. et priores ob immutatas antiquas loquendi Formulas non
+refert. Collector huius Operis incertus. In ipſo vero Ope-
+re occurrunt Nomina *Wolframi de Eſchenbach,* et *Henrici*
+*ab Oſterdingen,* Vatum Germanicorum ſat celebrium. Aliam
+Collectionem heroicarum Cantionum a priori prorſus diver-
+ſam, vulgo tamen ignoratam ex Bibliotheca ſua inſtructiſſima
+nobis obtulit Excellentiſſimus *D. GODOFREDVS THOMA-*
+*SIVS* A. 1477 in f. absque Loci mentione excuſam, in qua etiam
+*Wolframi ab Eſchenbach* nomen legimus. Recentiorum horum
+Poëtarum Germanicorum mos fuit vera Nomina Heroum, quo-
+rum Res geſtas cecinere, ſupprimere et ficta ſubſtituere, quem
+morem etiam accuratiſſime obſervavit *Pfintzingius.* Rationes
+huius Occultationis affert, *SEB. FRANCK, l. c. fol. 287.* **zum**
+**erſten gevere es neyd und Krieg / ſolt man den Adel / Per-**
+**ſon / und ſtatt nennen / die der held deſelben Buchs hat**
+**kriegt / tödt / geſtürmt / 2c. zum andern wird mans den**
+**Helden um ein Hoffarth ziehen / ſo er ſich ſelbs / oder ein an-**
+**der von im / diſſer thaten rhüme.** *Pfintzingius in Clave* has
+adhuc addit: **Dieweil derſelben Verwandten im Leben ſein /**
+**damit nit geacht werd / es beſchehe dieſe Beſchreibung ſo viel**
+**Erllicher Gethaten aus Liebkofenden Gemüet ; Dann**
+
+<vocab>Balthasar Duke of Mecklenburg, Bishop of Schwerin, Henry the Fat, Heldenbuch, Otnit, Hugdietrich, Wolfdietrich, Gibich, Theodoric of Verona, Laurin, Wolfram von Eschenbach, Heinrich von Ofterdingen, Gottfried Thomas, Sebastian Franck, Melchior Pfinzing</vocab>
+
+--- Page 45 ---
+<lang>la</lang>
+<page-num>35</page-num>
+<header>DE LIBRO POETICO Theuerdanck.</header>
+<sig>F</sig>
+<meta>catchword: ipse; some ink bleed-through from the verso page</meta>
+
+beduncke es ihm das den gemeinen Man nit not sey den Grundt zu versteen. Licet vero ob fictas quasdam Circumstantias, in quibus Poetae isti, in adumbrandis Germanicorum Heroum Facinoribus, Ingenio suo liberiori impetu indulserunt, Cantilenae istae heroicae multis Viris eruditis sint de Fabulis Mendaciisque suspectae, nollem tamen ipsis omnem Veritatem derogare, sed potius credere, quod multae historicae Veritates variis Commentis, iisque interdum maxime absurdis, convestitae, in iis delitescant. Imitandum itaque esse censeo Exemplum laudati, **SEB. Franck** / *qui l. c. f. 287. ita scribit.* Weil es ein Heldenbuch ist / so hat es auch sein Poeterey: darein die History als ein Heylthumb in ein Monstrantz gefasst ist / ich hab auch mit Unterlassung der Schal / Monstrantz / und Poeterey / nach dem Kern / Heylthumb / und History griffen. Conf. **von Helden-Büchern / CYRIAC. Spangenberg / im Adel-Spiegel / P. II. Lib. XI. c. 48. et, in der Sächs. Chronick c. 19. DAN. GEORG. MORHOF, im Unterricht von der teutschen Sprache / c. VII. p. 332. VINC. PLACCIVS, in Theat. Anon. C. XI. p. 480.**
+
+---
+
+->X.<-
+
+<margin>Interpolatio Libri a Waldisio et alio obscuro Viro.</margin>
+Prout autem **Pfintzingius** recte omnino et laudabiliter in id incubuit, ut ipsius Epos ad Librorum heroicorum Indolem quam proxime accederet, ita alii minus recte fecerunt, ut post Auctoris Mortem eidem Fato, quod Libris heroicis accidisse Morhofius dolet, Librum **Theuerdanck** subiicerent. Inventus enim est **Burcardus quidam Waldis**, de quo forte nihil penitus nobis constaret, nisi se praeposterea quadam Diligentia Posteritati commendasset, qui ab Amicis quibusdam, si vera est Fabula, ipso non prudentioribus, incitatus, Librum **Theuerdanck** ante XXIV. Annos, uti scribit, Augustae Vindel. editum relegit, emendavit, et urgente Necessitate, ut
+
+<vocab>Theuerdanck, Sebastian Franck, Cyriacus Spangenberg, Daniel Georg Morhof, Vincentius Placcius, Melchior Pfintzing, Burcardus Waldis, Heldenbuch</vocab>
+
+--- Page 46 ---
+<lang>Latin</lang>
+<page-num>34</page-num>
+<header>DISQUISITIO</header>
+
+olim Balthasar, Dux Mecklenburgicus , et Episcopus Suerinen-
+sis et Hildesheimensis, Ducis Henrici Pinguis , qui A. 1477.
+mortuus est , Filius. Ingens quoque harum Cantilenarum
+Farrago publicis Typis, sub Titulo **des Helden-Buchs**, ex-
+scripta est, in quo celebratissimo Libro, Otnitis, Hug-Diete-
+rici, et Wolff-Dieterici, Gibichi Vangionis, Theodorici Ve-
+ronensis, et Laurini Wormatiensis, Amores et Res gestae
+IV. Distinctionibus maioribus, idiomate teutonico Seculi XII.
+vel XIII. Hominibus usitato, rhythmice describuntur. Anti-
+quissima huius Libri Editio prodiit ante duo Secula in fol. absque
+Anno et Loco editionis. Altera Lucem vidit, 1545. f. Fran-
+cof. et priores ob immutatas antiquas loquendi Formulas non
+refert. Collector huius Operis incertus. In ipso vero Ope-
+re occurrunt Nomina Wolframi de Eschenbach , et Henrici
+ab Osterdingen, Vatum Germanicorum sat celebrium. Aliam
+Collectionem heroicarum Cantionum a priori prorsus diver-
+sam, vulgo tamen ignoratam ex Bibliotheca sua instructissima
+nobis obtulit Excellentissimus D. GODOFREDUS THOMA-
+SIUS A. 1477 in f. absque Loci mentione excusam, in qua etiam
+Wolframi ab Eschenbach nomen legimus. Recentiorum horum
+Poëtarum Germanicorum mos fuit vera Nomina Heroum, quo-
+rum Res gestas cecinere, supprimere et ficta substituere, quem
+morem etiam accuratissime observavit Pfintzingius. Rationes
+huius Occultationis affert, SEB. FRANCK, l. c. fol. 287.
+
+> zum ersten gevere es neyd und Krieg / solt man den Adel / Person / und statt nennen / die der held desselben Buchs hat kriegt / todt / gesturmt / rc. zum andern wird mans den helden um ein Hoffarth ziehen / so er sich selbs / oder ein ander von im / disser thaten rhume.
+
+Pfintzingius in Clave has adhuc addit:
+
+> Dieweil derselben Verwandten im Leben sein / damit nit geacht werd / es beschehe diese Beschreibung so viel Erlicher Gethaten aus Liebkofenden Gemüet ; Dann
+
+<meta>catchword: be-</meta>
+
+<vocab>Balthasar Dux Mecklenburgicus, Henricus Pinguis, Helden-Buchs, Otnitis, Hug-Dieterici, Wolff-Dieterici, Gibichi Vangionis, Theodorici Veronensis, Laurini Wormatiensis, Wolfram von Eschenbach, Heinrich von Ofterdingen, Godofredus Thomasius, Seb. Franck, Pfintzingius</vocab>
+
+--- Page 47 ---
+<lang>Latin</lang>
+<page-num>35</page-num>
+<header>DE LIBRO POETICO **Theuerdanck.**</header>
+
+**beduncke es ihm das den gemeinen Man nit not sey den Grundt zu versteen.** Licet vero ob fictas quasdam Circumstantias, in quibus Poetae isti, in adumbrandis Germanicorum Heroum Facinoribus, Ingenio suo liberiori impetu indulserunt, Cantilenae istae heroicae multis Viris eruditis sint de Fabulis Mendaciisque suspectae, nollem tamen ipsis omnem Veritatem derogare, sed potius credere, quod multae historicae Veritates variis Commentis, iisque interdum maxime absurdis, convestitae, in iis delitescant. Imitandum itaque esse censeo Exemplum laudati, SEB. **Franck**/ qui *l. c. f. 287.* ita scribit. **Weil es ein Heldenbuch ist / so hat es auch sein Poeterey: darein die History als ein Heylthumb in ein Monstrantz gefasst ist / ich hab auch mit Unterlassung der Schal/ Monstrantz/ und Poeterey/ nach dem Kern/ Heylthumb/ und History griffen.** Conf. **von Helden-Büchern / CYRIAC. Spangenberg / im Adel-Spiegel / P. II. Lib. XI. c. 48.** et, **in der Sächs. Chronick c. 19.** DAN. GEORG. MORHOF, **im Unterricht von der teutschen Sprache / c. VII. p. 332.** VINC. PLACCIVS, *in Theat. Anon. C. XI. p. 480.*
+
+---
+
+->X.<-
+
+<margin>Interpolatio Libri a Waldisio et alio obscuro Viro.</margin>
+Prout autem Pfintzingius recte omnino et laudabiliter in id incubuit, ut ipsius Epos ad Librorum heroicorum Indolem quam proxime accederet, ita alii minus recte fecerunt, ut post Auctoris Mortem eidem Fato, quod Libris heroicis accidisse Morhofius dolet, Librum **Theuerdanck** subiicerent. Inventus enim est Burcardus quidam **Waldis**, de quo forte nihil penitus nobis constaret, nisi se praeposterea quadam Diligentia Posteritati commendasset, qui ab Amicis quibusdam, si vera est Fabula, ipso non prudentioribus, incitatus, Librum **Theuerdanck** ante XXIV. Annos, uti scribit, Augustae Vindel. editum relegit, emendavit, et urgente Necessitate, ut
+
+<sig>F</sig>
+<meta>catchword: ipse</meta>
+
+<vocab>Theuerdanck, Melchior Pfintzing, Burcard Waldis, Sebastian Franck, Cyriacus Spangenberg, Daniel Georg Morhof, Vincentius Placcius, Heldenbuch, Monstrantz</vocab>
+
+--- Page 48 ---
+<lang>la</lang>
+<page-num>36</page-num>
+<header>DISQVISITIO</header>
+<meta>catchword: Stu-</meta>
+
+ipſe loquitur , Libro huic aliquot millia Verſuum addidit, plu-
+res etiam a Pfintzingio elaboratos mutavit correxitque ; uti
+ipſe hoc exponit in Dedicatione , et Auſus ſuos defendit. In-
+conſulte tamen maxime egiſſe Waldiſium et Reprehenſione
+potius , quam aliqua Laude dignum eſſe, cuilibet, qui accura-
+tius rem conſiderat, videbitur. Quo enim Titulo acquiſivit
+ſibi Ius, alterius opus, ſumma ſolertia ad Genium Seculi ſui e-
+laboratum , et magno Regi dedicatum , pro lubitu dilacerandi
+et dilatandi ? Sive enim Pannum Purpurae affuerit , quod mihi
+videtur, ſive elegantiorem Foetum Pfintzingii reddiderit, nulla
+tamen ratione video, qua aliena tam audacter obtrudi poſſent.
+Putat quidem hac in re ſibi praeiviſſe magnos Viros ; verum
+forte iidem ſimiles fuerunt Naſutulis illis , qui Librum heroi-
+cum peſſime adeo habuerunt, et penitus mutarunt correxe-
+runtque , non minus ac ipſe Waldiſius improbandi. Ipſe di-
+cit , quanquam antiqui Rhythmi in Libro **Theuerdanck** diffi-
+cilius incedant, ea omnia tamen condonanda Tempori , et
+minime vitio vertenda eſſe. Si haec ita ſe habent , o Wal-
+diſi, quid opus fuit tua Correctione ? Forte putaſti tantam
+inſtare Linguae noſtrae vernaculae in melius Mutationem, cu-
+ius Initium tuo Tempore iam factum eſſe dicis, indeque futu-
+rum, ut penitus Pfintzingianum Opus ob dictionem obſoletam
+a nobis intelligi nequeat ? Verum non adeo ſtupidi ſumus Po-
+ſteri, et uti tua aetatis Homines Ottfridum legere potuerunt,
+ita nos Pfintzingium et ipſum Ottfridum intelligimus. Imo
+hariolari potuiſſes facile tuam quoque Mutationem Correctio-
+nemque , tuis Amicis forte elegantem atque iucundam viſam ,
+noſtrae aetati diſplicituram eſſe, uti factum eſt, adeoque O-
+peram et Oleum te eſſe perditurum. At enim vero urſit te
+Neceſſitas ? quam tamen ego nullus adhuc video. Obſerva-
+veras omnino Errorem Pfintzingii Chronologicum in Annis
+Mundi ſtatim in initio commiſſum , verum non animadvertiſti,
+
+<vocab>Melchior Pfintzingius, Burkard Waldiſius, Theuerdanck, Ottfridus, Lingua vernacula, operam et oleum perdere</vocab>
+
+--- Page 49 ---
+<lang>lat</lang>
+<page-num>37</page-num>
+<header>DE LIBRO POETICO *Theuerdanck*.</header>
+
+Studio Pfintzingium, uti Nomina vera, ita Annum verum occultasse. Quam deplorandum in modum itaque integrum pulcherrimum Poëma immutasti et destruxisti ! Quanto melius Tempus illud fuisset a te collocatum, si Clavem Pfintzingii descripsisses, et Editioni tuae adiunxisses, quae ad illustrandum Poëma plus, quam omnes tuae Additiones et Correctiones, facit. Annon nosti istam Viam illos ingredi, qui optimos Scriptores e medio sublatos volunt? Certe si uterque Vestrum in infelicia illa mediorum Seculorum Tempora incidisset, iam dudum perisset Pfintzingius. Praeter Waldisium, alius quispiam obscurus umbratilisque Homo, ne Nomine quidem notus, pari Insania infaustas Manus Libro ***Theuerdanck*** admovit, omnesque Versus immutavit et aboluit, substitutis aliis Verbis et Phrasibus, in quibusdam tamen Waldisii vestigia premens, quem corruptum Contextum Matthaeus Schultes recudi curavit.
+
+### XI.
+
+<margin>
+Editiones Libri verae et spuriae.
+</margin>
+
+Sed ut denique etiam de Libri ***Theuerdanck*** Editionibus disquiramus, statuimus hunc Librum lucem publicam primum aspexiſſe Norimbergae An. 1517. per Typos Joh. Schoenſpergeri, ideoque absolvimus, CL. LAMBECIVM, qui idem tradit, ab <term>ἀπεριβλεψίας</term> vitio, quo eum insimulavit, CL. IMMAN. WEBERVS *l. c.* dum scribit: <term>ἀυτοψίαν</term> Libri docere, Dedicationem quidem Anno & Loco dictis a Pfintzingio conscriptam, sed *Augustae Vindelicorum* demum 1519. opus hoc prelo absolutum esse. Nam nobis contigit tam felices esse, ut tria vel quatuor antiqua huius Libri Exemplaria, evolvere concessum fuerit, quorum duo Annum Impressionis in fine clavis his verbis indicarunt: ***Gedruckt in der Kayſerlichen Stat Augſpurg durch den Eltern Hanſen Schoenſperger im Jar tauſent fünff hundert und im Neunzehenden.*** Caetera
+
+<sig>F 2</sig>
+<meta>catchword: vero</meta>
+
+<vocab>Melchior Pfinzing, Theuerdanck, Burkhard Waldis, Matthaeus Schultes, Johann Schönsperger, Peter Lambeck, Immanuel Weber, Nuremberg, Augsburg, 1517, 1519, ἀπεριβλεψία, ἀυτοψία</vocab>
+
+--- Page 50 ---
+<lang>Latin</lang>
+<page-num>38</page-num>
+<header>DISQVISITIO</header>
+
+vero duo ob deficientem <term>Clavem</term> etiam Annum typographicum non retulerunt. Cognovimus autem ex diligenti horum quatuor Exemplarium inter se instituta collatione, unum Exemplar purissimis Membranis impressum, mancum vero clave, quod nobis exhibuit, Vir de Iuventute optime meritus, **SAMVEL FABER**, Rector Gymnasii Aegidiani Norimbergae, in multis se distinguere ab illis Exemplaribus, Anno 1619. Aug. Vindel. iisdem Typis impressis. Nam 1.) in eo in altera primi folii pagina non occurrit Privilegium Maximiliani Typographo datum, quod in Augustanis Exemplaribus statim oculos Lectoris ferit. 2) Respondet quidem Numerus Linearum in secundo folio, tam in membranaceo, quam in chartaceis Libris, in his tamen lineae sunt confertiores quam in illo. Hinc cum chartacei his verbis finiant paginam: **Ewer Küniglich Mayestat werde darauß Satzung und be-** Membranaceus ita eam claudit: **Ewer Küniglich Mayestat werde darauß** et reliqua verba rejicit in alteram paginam. 3) Liber membranaceus quaedam recte exhibet, quae in chartaceis mendose conspiciuntur, e. gr. Sect. III. in membranaceo legitur: **Auf federen in einem Pet /** chartacei vero constanter habent: **Auffederen in eineem Pt.** Item, in membranaceo Sectionis Numerus 48. recte se habet, in chartaceis transpositus 84. apparet. 4) In membranaceo Titulus et Figura Sectioni 63. et 64. accurate respondet, sed in chartaceis Titulos et Figuras harum Sectionum inter se permutatos videbis. Quae insignes Discrepantiae omnino nos commonefaciunt membranaceum Librum esse diversae omniumque primae Editionis de An. 1517. Primae enim Editiones solent plerumque esse castigatiores, ob Auctorum ipsorum oculatissimam Curam et Industriam, quam Libris ordinandis et corrigendis adhibere solent, qua destituuntur, cum Lucri causa a Typographis festinata opera recuduntur. Praeterea suppetias nobis in
+
+<meta>Catchword: defen-</meta>
+
+<vocab>Samuel Faber, Norimberga, Maximilianus, Augsburg, editio princeps, Teuerdank, membranaceo, chartaceis, collation</vocab>
+
+--- Page 51 ---
+<lang>Latin</lang>
+<page-num>39</page-num>
+<header>DE LIBRO POETICO **Theuerdanck**.</header>
+<sig>F 3</sig>
+<meta>catchword: Splen-</meta>
+
+defendendo LAMBECIO fert, Vir Ampliſſimus **Gottlob**
+**Krantz** / Rector patrii Gymnaſii Eliſabethani, et caeterarum
+Scholarum Inſpector graviſſimus, Studiorum meorum Patro-
+nus omni cultu proſequendus, qui in *Actu Gymnaſtico, de Me-*
+*morab. Biblioth. Rhedig. p. 74.* introducit Typographum, lau-
+*dantem in dicta Bibliotheca extantia Geſta Maximiliani ſub no-*
+*mine Theurdanck, a Joh. Schoenſpergero Norimbergae 1517.*
+*membranis impreſſa.* In Catalogo Bibliothecae Camerarianae
+nuper in vicino oppido *Chriſtian - Erlangen* diſtracta p. 13.
+n. 590. allegatur etiam editio huius libri Norimbergenſis de
+An. 1517. Cum itaque a nobis evictum ſit, primam editionem Li-
+bri **Theuerdanck** prodiiſſe Norimb. 1517. alteram Aug. Vindel.
+1519. per eiuſdem Typographi curam, a nobis etiam aliquid
+de *Forma, Typo* et *Ornatu* iſtarum Editionum eſt monendum.
+Uterque Liber excuſus eſt *Forma maiori*, vel, uti vulgo di-
+cunt, *in Folio, eoque paulo maiori*, et conſtat quoad Integra-
+tem ſuam uno Alphabeto et XVI. Literis, connumerata Clave,
+quarum XIX. ſunt Quaterniones, et X. Terniones. Quaedam
+Exemplaria puriſſimis Membranis, quaedam Charta, Candore,
+et Denſitate vere Auguſtea, impreſſa ſunt. Literae ſunt ma-
+iuſculae et luculentae, penituſque ſingulares, anteaque in Ty-
+pographicis Officinis non frequentatae, ſed potius peculiari
+ſtudio, ad nitorem Libro conciliandum, fabrefactae, ad quarum
+normam cum alii deinceps ſimiles luculenti Characteres effin-
+gerentur, his illae Nomen dederunt, ſiquidem Species quae-
+dam Literarum in Officinis Typographicis **Theuerdanck** ap-
+pellata eſt. Quodlibet Carminis Diſtichon Uncinolis eſt diſtin-
+ctum, et plures Literae, ubi ſpatium id permiſit, ad maius De-
+cus, Lineis curvis et variis nexibus flexibuſque diſtortis ſingu-
+lari Artificio ornatae ſunt, in quibus ſpiralibus Ductibus non
+infrequens etiam Variatio et Inaequalitas in membranaceo illo
+Libro animadvertitur, ſi cum chartaceis conferatur. Ut ad
+
+<vocab>Theuerdanck, Gottlob Krantz, Johannes Schoensperger, Nuremberg, Augsburg, typography, blackletter, incunabula, printing, quaterniones, terniones, membrane</vocab>
+
+--- Page 52 ---
+<lang>lat</lang>
+<page-num>40</page-num>
+<header>DISQVISITIO</header>
+<sig>C 4</sig>
+<meta>catchword: anzu-</meta>
+
+Splendorem Operis nihil deeſſet, et Libros heroicos exacte imitaretur Pfintzingius, cuilibet Historiae Carmine expreſſae addidit figuram, Actiones illas repraeſentantem, quas decantat, quorum Numerus est CXVIII. In Rhedigeriano Libro *Theuerdanck* a manu recentiore quidem adſcriptum eſt, has Figuras ab ipſo Maximiliano exſculptas eſſe, ſed *Matth. Schultheſius*, Artis ſculptoriae gnariſſimus, docet *Johannem Scheiffelein* / Pictorem et Sculptorem Nördlingenſem, et exactiſſimum *Alb. Düreri* Imitatorem, quem ſummis elogiis extollit IOACH. SANDRART. in der *Teutschen Mahler Academie/ L. II. P. III. in App. p. 373.* has Figuras affabre Ligno incidiſſe. Longe venuſtiores illae ſunt, et magis oblectant oculos Spectatorum, quam rudes illae et horridae, ineptaeque Picturae, quas cum taedio et horrore, et in MSStis, et in excuſis Libris heroicis vidimus. Amoeniſſimae vero illae refulgent Auro argentoque incruſtatae, et pulcherrimis nitidiſſimiſque Coloribus, inprimis pretioſſiſſimo illo coccineo et coeruleo, quos Pictores vocant *Carmin* et *Ultramarin*, illuſtratae, in quibuſdam Exemplaribus membranaceis, qualia poſſident Bibliothecae, Caefarea Vindobonenſis, et Rhedigeriana Vratislavienſis, illuſtris Familia Pfintzingiana Norimbergae, maxime reverendus Gerhardus, Abbas Luccenſis, ita, ut ſpectari gratius et magnificentius nihil queat. Hinc ſplendidum etiam eiuſmodi Exemplar alicubi CC. aureis venditum eſſe confirmavit, Patronus meus honoratiſſimus, celeberrimus KRANTZIVS. In his Figuris nihil occurrit, quod explicatione indigeat. Notabile tamen inprimis est amiculum illud, quo Fecialis indutus conſpicitur, in quo non Inſignia Maximiliani, uti alias moris eſt, unde etiam a Gallis dicitur *cote d’ Armes*, depicta ſunt, ſed Rota, quae corpus conſtituit in Symbolo heroico illius Imperatoris, quod his Verbis plenius deſcribit FVGGER *L. c. p. 1384.*
+
+*Dieſes ſein zu Gefährlichkeitn gleichſam gewidmetes Leben*
+
+<vocab>Pfintzingius, Theuerdanck, Maximilianus, Matth. Schultheſius, Johannem Scheiffelein, Alb. Düreri, IOACH. SANDRART, Teutschen Mahler Academie, Carmin, Ultramarin, KRANTZIVS, FVGGER, cote d' Armes</vocab>
+
+--- Page 53 ---
+<lang>lat</lang>
+<page-num>41</page-num>
+<header>DE LIBRO POETICO **Theuerdanck.**</header>
+
+anzudeuten / hatte er ihm zum Sinnbild erwählt ein **Rad /**
+auſſen herum mit **Schwerdern** und **Streitkolben** beſteckt /
+über welchen ein **Reichsapffel /** unten aber ein **Granatapffel**
+ſchwebete / mit der **Oberschrifft: Per tot Discrimina.** In ul-
+tima figura etiam in Libro **Theuerdanck** / depingitur **Maximi-**
+**lianus** inſiſtens Gladiis in Rotae formam iacentibus. Caete-
+rum Chartis etiam impreſſa Exemplaria primae et ſecundae
+Editionis, absque coloratis Figuris, perrarae, et inter Cimelia
+Bibliothecae referenda ſunt, praeſertim illa integra, et Clave
+Auctoris non mutilata, quae rariſſime adeſt. Nulla enim alia
+proſtant Exemplaria, quae Textum Poëmatis **Pfintzingiani** ge-
+nuinum et incorruptum referant, quam illa. Manuſcriptus
+hic Liber, conſtans quatuor Voluminibus chartaceis in Biblio-
+theca Caefarea **Vindobonenſi**, in qua ex **Ambraſiana** eſt repoſi-
+tus, teſte **LAMBECIO** *L. c.* Tertiam Libri **Theuerdanck** Edi-
+tionem adornavit obſcurus ille **Burcardus Waldiſius**, ſed vitu-
+peranda, uti diximus, Interpolatione et Immutatione totius
+Operis, ut ex eius Pulchritudine, vel nihil, vel parum reman-
+ſerit. Prima eius Editio nobis ad manus non fuit; ſed poſſide-
+mus iteratam, quae prodiit **Francofurti ad Moen. 1589. fol.**
+et a priorum Editionum Splendore, tam ratione Typorum,
+quam chartae plane defecit. Figurae quidem adſunt **Scheuf-**
+**linianae**, ſed quae etiam, tot Exemplaribus adornandis adhi-
+bitae, multum lucis amiſerunt. Subiuncta eſt huic Libro bre-
+ve Germanicum Chronicon, **Maximiliani** Res geſtas enarrans,
+et Oratio funebris in **Maximiliani** Honorem a **Philippo Me-**
+**lanchthone** habita, in vernaculam translata. Dedicatio **Wal-**
+**diſii** ad **Adolphum Wilhelmum von Dornberg / d. i. Abderode**
+**An. 1553.** ſcripta eſt, ex qua conjecto, primum **Waldiſii** Opus
+eo Anno prodiiffe. Proſtat praeter hanc alia Editio, quae
+Lucem vidit, **1596.** in **8vo** pauciſſimis, et longe minutioribus,
+obſcurioribusque Figuris referta. **Quartam Curam**, ſed eam
+
+<meta>catchword: in</meta>
+
+<vocab>Theuerdanck, Maximilianus, Sinnbild, Pfintzingiani, Lambecius, Burcardus Waldisius, Francofurti ad Moenum, Scheuflinianae, Philipp Melanchthon, Adolph Wilhelm von Dornberg, Abderode</vocab>
+
+--- Page 54 ---
+<lang>lat</lang>
+<page-num>42</page-num>
+<header>DISQVISITIO</header>
+
+in quibusdam etiam praeposteram, de Libro **Theuerdanck** procudendo suscepit Matthaeus Schultes, Sculptor Ulmensis, qui sub prolixissimo Titulo eum Ulmae 1679. evulgavit, in Carminibus etiam plane recedens a Pfintzingianis verbis, et nescio quem obscurum Hominem sectans, qui Waldisianam Interpolationem partim retinuit, partim immutavit, ita tamen, ut nova plane Interpolatio Pfintzingiani Textus eius Poësis dici possit, quae Waldisiana longe sit concisior. Hoc suum Institutum ita in Praefatione declarat: **Er habe die alte Reimen mit dieser Zeit ublichen Worten / und zwar nach Anweisung eines vor Jahren in dieser Materia, doch ohne Figuren gedruckten Büchlein verfassen lassen.** Qualis vero fit ille Libellus, ex quo hanc suam Editionem expresserit, penitus nos latet. Illud huic Editioni singulare est, quod Pfintzingianas Figuras exhibeat, easque quidem sex aliis additis augeat, quae olim etiam ad operis illustrationem confectae, sed fortasse ob certas quasdam causas omissae fuerunt, sed in veteribus illis Figuris omnium ultima ipsi deest. Adjectas vero sex novas repertas Figuras explicatione poëtica et historica illustrari curavit. Operi annexa est satis prolixa Vitae Maximiliani Descriptio Germanica, incerto Auctore consignata. Haec sunt, quae tam de veris, quam spuriis Libri **Theuerdanck** Editionibus monenda erant.
+
+## XII.
+
+<margin>Epilogus, sistens Utilitates Libri.</margin>
+Habes itaque <term>B. L.</term> <note>Benevole Lector</note> sufficientem, uti speramus, Notitiam rarissimi Libri, ob varias rationes magnopere aestimandi, atque inter <term>Cimelia Germanicae Eruditionis</term> connumerandi. Nam exponit nobis Labores et Pericula Maximiliani, Germaniae Sospitatoris, quorum prorsus hoc Libro deficiente essemus omnium ignarissimi, et comprobat, Providentiam Divinam maximos Principes inter praesentissima Vitae Discrimina, in salutem
+
+<vocab>Theuerdanck, Matthaeus Schultes, Pfintzingianis, Waldisianam, Maximilian, Cimelia Germanicae Eruditionis, Ulmae, B. L.</vocab>
+
+--- Page 55 ---
+<lang>la</lang>
+<page-num>43</page-num>
+<header>DE LIBRO POETICO Theuerdanck.</header>
+
+lutem tot Populorum protegentem, magnaque Imperia gubernantem; dum Principes interdum aliis Negotiis distenti, Negotia publica non ea Sedulitate et Attentione, qua decet, procurant. Ipse noster Maximilianus Imbecillitatis suae memor, cum Tempore quodam cogitabundus altius Imperii Rebus intenderet, ad Consiliarios suos dixit :
+
+> *Qui mihi temperem a Risu, Deo tam mirabiliter omnia gubernante, quod utrumque Regnum Ecclesiasticum et Politicum, partim per vecordem et insanum Sacrificulum Iulium II. Papam, partim vero per me, Audaculum Venatorem mirifice regit. At, o Bone Deus, nisi tu melius de Summa Rei prospicias, actum est de nostra Gubernatiuncula.*
+
+vid. IO. WOLFFIVS, in Lect. memorab. T. II. p. 973. Sistit etiam hic Liber egregium specimen Philosophiae moralis Principibus Iuventutis proponendae, in quo illi Virtutes et Vitia Principis non in Abstracto considerant, sed contemplantur his deditum maximum Principem, ex cuius Factis et Moribus, imitandorum et fugiendorum varia Exempla, alii, et praesertim illi, quorum Indoles a severis Praeceptis abhorret, sumere possunt. Siquidem hic Liber etiam in Oblectamentum, Usum et Institutionem Caroli Regis Hispaniarum ab Auctore fuit conscriptus. Cognoscimus denique ex eo Poëseos Germanicae Incrementa, illudque Studium, quod in ea excolenda summi Viri inter Maiores nostros impenderunt, cum hodie econtra Poëtae Nomen fere, ob tot Bavios Meviosque in convitium abierit. Et in genere affirmandum est, quod ille exhibeat nobilissimum Monumentum Germanicae Linguae purae atque a Contagio peregrinorum Vocabulorum intaminatae. Occurrunt in ea multa Vocabula nunc antiquata, e. gr. <term>peyntten</term> / <term>erarnen</term> / <term>trehne</term> / pro <term>thräne</term> / &c. quae si excerpere, illisque Glossam addere velimus, uberior adhuc nasceretur nobis scribendi Materia. Ne dicam de peculiari stylo, e. gr. <term>hochgebohrne Künigin</term> / <term>edle</term>
+
+<sig>G</sig>
+<meta>catchword: Mayt/</meta>
+
+<vocab>Theuerdanck, Maximilianus, Iulius II, IO. WOLFFIVS, Carolus Rex Hispaniarum, Poëseos Germanicae, peyntten, erarnen, trehne, hochgebohrne Künigin</vocab>
+
+--- Page 56 ---
+<lang>lat</lang>
+<page-num>44</page-num>
+<header>DISQUISITIO DE LIBRO POETICO Theuerdanck.</header>
+<warning>Slight bleed-through of text from the reverse side is visible throughout the page.</warning>
+
+Mant/ et prorsus singulari Orthographia. Quae omnia, si mecum accuratius perpenderis, <term>B. L.</term> <note>Benevole Lector</note> non improbabis meam Operam, quam in hac Opella ad Notitiam huius Libri Tibi tradendam consignanda impensimus. Ob oculos enim et mihi est in omnibus Actionibus et Studiis meis illud Phaedri sapientissimum Dictum, Fab. LVI. 
+> *Nisi utile est, quod facimus, stulta est Gloria.* 
+Caeterum,
+
+->*Si quid novisti rectius istis*<-
+->*Candidus imperti: si non his, utere mecum.*<-
+
+->T A N T V M.<-
+
+---
+
+### COROLLARIA.
+
+->I.<-
+*Maximilianus I. Imperator in Stylum curialem assumsit Titulum electi Romanorum Imperatoris, Regis Germaniae, et Archiducis Austriae.*
+
+->II.<-
+*Silesii Jure optimo se sejunxerunt a Polonia, Polonisque nullum Jus in eos restat, neque illi sunt Juris Slavici, sed Germanici.*
+
+->III.<-
+*Judaei in Republica Christiana sunt tolerandi.*
+
+->IV.<-
+*Officium Principis est, promovere in Animis Civium verum Cultum divinum.*
+
+->V.<-
+*Tutores et Curatores Regum non habent summam Potestatem.*
+
+->VI.<-
+*Bella Domini mediis Seculis ob Palaestinam Infidelibus eripiendam gesta, injusta et imprudenter instituta fuerunt.*
+
+->VII.<-
+*Patriciatus Romani Dignitas collata in Carolum M. involvit supremum Dominium in Urbem Romam et Papam.*
+
+->S. D. G.<- <note>Soli Deo Gloria</note>
+
+<meta>catchword: PRAE-</meta>
+
+<vocab>Maximilianus I, Theuerdanck, Corollaria, Phaedrus, Silesia, Carolus M., Soli Deo Gloria</vocab>
+
+--- Page 57 ---
+<lang>Latin</lang>
+<warning>Significant bleed-through (ghosting) from the text on the reverse side of the leaf makes the background appear cluttered.</warning>
+
+---
+# PRAESES
+### *PRAESTANTISSIMO DOMINO*
+## AVCTORI RESPONDENTI,
+### CONVICTORI SVO
+### *SVAVISSIMO,*
+---
+
+->S. P. D.<-
+
+**S**ilesiam praestantiorum ingeniorum foecun-
+dam esse matrem, nullibique fere tam be-
+ne institutas scholas et gymnasia florere,
+quam in eadem regione, qua ea est Evangelica-
+rum partium, Tuo etiam egregio exemplo,
+VIR PRAESTANTISSIME, abunde testa-
+ris, dum non solum ea praeditus es ingenii bo-
+nitate, quae ad quascunque gravissimas scientias,
+feliciter arripiendas, sufficit, sed etiam eum
+
+<sig>G 2</sig>
+<meta>catchword: bona-; visible show-through from verso</meta>
+<vocab>Silesia, praestantiorum, gymnasia, Evangelicarum, PRAESTANTISSIME, foecundam</vocab>
+
+<detected-images>
+[{"description": "Two decorative printer's ornaments (fleureons) centered between horizontal rules.", "type": "decorative", "bbox": {"x": 0.336, "y": 0.087, "width": 0.327, "height": 0.037}, "gallery_quality": 0.3, "museum_rationale": "Standard early modern typographic ornaments used for decorative section headers."}]
+</detected-images>
+
+--- Page 58 ---
+<lang>la</lang>
+<meta>catchword: VIRO</meta>
+<vocab>Henelius, Gryphius, Hoffmannus, Lohensteinius, gymnasium, academia, studia</vocab>
+
+---
+
+bonarum artium apparatum ex gymnasio patrio
+in academias apportasti, quem interdum multi
+veterani , annis pannisque obsiti, ex academiis
+vix secum domum ferunt. Cumulasti has inge-
+nii opes in academiis nocturna diurnaque ope-
+ra , atque copiam doctrinae elegantioris com-
+paratam hoc pereleganti specimine a Te elabo-
+rato uberius declarasti, quod omnium applau-
+sum meretur. Gratulandi partes itaque meae
+sunt , fructus gaudii ad honoratissimos Paren-
+tes, et nobilissimam Familiam Tuam pertinent.
+Faxit DEVS, ut imposterum etiam Studiorum
+Tuorum laudatissimorum rationes fortunatae
+sint , omniaque Tibi ex animi sententia eveni-
+ant, ut Parentum, Amicorumque expectatio-
+nem non sustineas modo, sed quam cumulatis-
+sime vincas, et absoluto studiorum academico-
+rum cursu, Henelios, Gryphios, Hoffmannos,
+Lohensteinios, patriae seculoque exoptatissimos
+reddas. Vale. Dab. e museo a. d. xxix. Febr.
+->CIƆ IƆ CC XIIII.<-
+
+---
+
+<detected-images>
+[{"description": "Decorative printer's ornaments (fleurons) centered between two horizontal rules at the top of the page.", "type": "decorative", "bbox": {"x": 0.235, "y": 0.082, "width": 0.675, "height": 0.038}, "gallery_quality": 0.3, "museum_rationale": "Standard typographical decoration typical of 18th-century academic or celebratory prints."}]
+</detected-images>
+
+--- Page 59 ---
+<lang>la</lang>
+<sig>G 3</sig>
+<meta>catchword: admi-</meta>
+<meta>bleed-through visible from the verso page</meta>
+
+# VIRO
+## NOBILISSIMO AC DOCTISSIMO
+### DOMINO
+# HENRICO THEOPHILO TITIO,
+## AVCTORI
+### ERVDITAE HVIVS DISSERTATIONIS
+### DIGNISSIMO,
+
+->*S. P. D.*<-
+
+# **M. IOHANN. CASPAR GOTTSCHALCK.**
+
+*Q*uemadmodum primo statim meo ad has *Musas Noricas* accessu, TE FAVTO- REM atque CIVEM Aestimatissimum, hic offendere, gaudio nimio quanto sum cumu- latus: Ita sane non modo quotidiana atque erudita tecum habita conversatione, gaudium illud justum indies magis magisque crevit at- que ampliatum est; sed quoque imprimis in- praesentiarum ob egregium plane, solideque eruditum tuum cum orbe erudito communica- tum specimen, totus quasi gaudio diffundi vi- deor. Ne vero in sinu tantum gaudeam, ta- citeque modo tuas mecum egregias animi dotes
+
+<vocab>Henrico Theophilo Titio, Iohann. Caspar Gottschalck, Musas Noricas, dissertatio, S.P.D.</vocab>
+
+<detected-images>
+[{"description": "Pair of decorative typographic ornaments at the top of the page.", "type": "decorative", "bbox": {"x": 0.334, "y": 0.088, "width": 0.332, "height": 0.027}, "gallery_quality": 0.3, "museum_rationale": "Simple typographic fleurons used for decorative division at the head of a dedication page."}]
+</detected-images>
+
+--- Page 60 ---
+<lang>Latin</lang>
+<meta>catchword: Arma</meta>
+
+admirer , permitte quaeso , ut gaudium amorem-
+que de **TE** animo semel conceptum , publice quo-
+que coram omnibus demonstrem , testatumque
+faciam . Gratulor idcirco **TIBI** ex animo **DO-**
+**MINE FAVTOR** Aestumatissime , de eru-
+dito **TVO** non solum manu propria conscripto
+atque elaborato , sed et egregie omniumque
+cum applausu defenso ac ventilato specimine ,
+quo ipso profecto Patriae nostrae dilectae , im-
+primis vero Generosissimo , Maximeque Stre-
+nuo **DOMINO PARENTI** , dona , quae in
+**TE** sint singularia , quamque laudabiliter stu-
+diis in Academia a **TE** tempus omne impensum ,
+imo quae adhuc insuper a **TE** ipsis aliquando
+magna expectanda veniant , ad oculum demon-
+strasti . Age igitur **VIR** Nobilissime , **FAV-**
+**TOR** Aestumatissime , age inquam , ut que nul-
+lo etiam momento , in non interrupto Studio-
+rum Tuorum curriculo ulterius cum Deo et die
+progredi , animo firmiter constituisti , ita quo-
+que pari ratione , sine ulla temporis aut loci ex-
+ceptione , tenuitatem meam **TIBI** commenda-
+tissimam semper habere , quaeso ne intermittas.
+Vale . Scripsi Anno **M DCC XIV . die XXIX . Febr .**
+
+<vocab>Gratulor, Fautor, Academia, Specimine, Curriculum, Parenti, Nobilissime</vocab>
+
+<detected-images>
+[{"description": "Two small floral typographic ornaments at the top of the text block.", "type": "decorative", "bbox": {"x": 0.418, "y": 0.082, "width": 0.311, "height": 0.038}, "gallery_quality": 0.3, "museum_rationale": "Standard typographic ornaments used as page decoration or section breaks in 18th-century printing."}]
+</detected-images>
+
+--- Page 61 ---
+<lang>lat</lang>
+<meta>catchword: Excuf-</meta>
+
+---
+
+**A**rma Virumque gravi cecinit Pfintzingius ore,
+Qui certe ante alios, Divorum Sanguine cretus,
+Aetatis Lubricum, coecae Ludibria Sortis,
+Invidiamque ipfam ſuperans, fortiſſimus unus
+Extitit, atque Fidem tandem Tibi, Graecia, fecit,
+Quae Clavam Alcidae narras, quae Theſea magnum
+Jactas, quosque alios Superis longo Ordine jungis.
+Muſa, mihi Cauſſas memora, quid denique tantos
+Inſignem Pietate Virum ſuperare Labores
+Impulerit? tantuſne Animis mortalibus Ardor?
+Terra antiqua fuit, varii tenuere Coloni;
+Occasum verſus Regio, Rhenanaque circum
+Oſtia, dives Opum, Studiiſque aſperrima Belli;
+Cum Dux prae reliquis vicinos Agmine rapto
+Terreret Reges Martemque oſtenderet Audax.
+Iſtas Imperio pulcerrima Virgo premebat
+Gentes & patriis late regnabat in Oris.
+Hunc ambire Torum, decantatoſque Hymenaeos
+Sectari, optatamque Procis (ſic Fata ferebant)
+Poſt varios Caſus, poſt tot Diſcrimina Rerum,
+Jungere Connubio comes illum Gloria juſſit.
+Haec eadem Lympham Clariis e Fontibus hauſit,
+Et Tibi, Pfintzingi, Tibi, praeſtantiſſime Vatum,
+Tradidit undantem Pateram, juvitque canentem.
+Hinc adeo viridi redimitus Tempora Lauru
+Grande aliquid ſonat, et quotiens Germanus Apollo
+Sacras Vatum animas vocat, indicitque Senatum,
+Quo quondam in Latio, dum Res Romana manebat,
+Ille Pater Rudiis natus Flacco atque Maroni
+Immiſtus, ſat honorato ſedet Ordine Noſter.
+Hunc Tua, *mi TITI*, multum memorande Sodalis,
+In Vitam revocat Pietas, clarumque Volumen
+
+<vocab>Melchior Pfinzing, Pfintzingius, Theuerdank, Virgil parody, Aeneid, Humanism, Latin poetry, Encomium, Germanus Apollo</vocab>
+
+<detected-images>
+[{"description": "A pair of decorative typographic ornaments used as a header divider", "type": "decorative", "bbox": {"x": 0.32, "y": 0.08, "width": 0.36, "height": 0.04}, "gallery_quality": 0.3, "museum_rationale": "Standard floral printer's ornaments typical of 16th-17th century book design."}]
+</detected-images>
+
+--- Page 62 ---
+<lang>lat</lang>
+<page-num>n. 77.</page-num>
+
+---
+
+Excuffis Tenebris in Luce ac Littore ponit.
+Nec male Res ceffit : Studium doctique Labores,
+Parvus ubi ingentem Pegneſus dividit Urbem,
+Principibus placuere Viris ; fic Patria Tellus,
+Atque Olavi circum Ripas Viadrumque Budorgis
+Lætis excipiet præclaros Plauſibus Auſus.
+Gloria, quæ Vatis Cineres ſervavit, & illa,
+Quem placido Greſſu haud obſcure accedere cerno,
+Et Galea & Clypeo inſignis Dea, grandia certe
+Præmia Doctrinæ, Tua jam Veſtigia ſervant.
+
+->Scrib. gratulabundus<-
+->**GEORG. CHRISTIANVS GEBAVERVS,**<-
+->**Vratislavienfis.**<-
+
+<vocab>Georgius Christianus Gebauerus, Vratislavienfis, Pegnesus, Viadrus, Budorgis, gratulabundus, doctrina</vocab>
+
+<detected-images>
+[{"description": "A decorative woodcut depicting an ornate, footed bowl or tazza filled with a bountiful arrangement of fruits, including grapes and pomegranates, with surrounding leaves.", "type": "woodcut", "bbox": {"x": 0.344, "y": 0.528, "width": 0.525, "height": 0.312}, "gallery_quality": 0.8, "museum_rationale": "This is a well-executed 18th-century decorative woodcut, typical of academic and literary publications of the era, showcasing fine line work and classical symmetry."}]
+</detected-images>
+
+--- Page 63 ---
+<lang>N/A</lang>
+<warning>This page is blank and contains no text or illustrations. There are visible signs of foxing and paper aging.</warning>
+<meta>Blank folio, likely a flyleaf or endpaper.</meta>
+<vocab>blank page, foxing, handmade paper</vocab>
+
+--- Page 64 ---
+<lang>None</lang>
+<meta>Blank page with some foxing/staining</meta>
+
+[This page contains no text or illustrations.]
+
+<vocab></vocab>
+
+--- Page 65 ---
+<lang>de</lang>
+<meta>This appears to be a flyleaf or inner cover of a manuscript containing various archival annotations, shelfmarks, and library metadata from different periods.</meta>
+
+<insert>
+Tensch. 88
+geschenck
+</insert>
+
+<insert>
+Erlb. gelt.
+pr. M.B.
+E. S.
+</insert>
+
+->S-B / 1182<-
+
+->Litt. VII. Germ.<-
+---
+->ad Poet.<-
+
+->16. Saec.<-
+
+<insert>
+Coll. compl.
+6-9-88 ErlB
+</insert>
+
+->UBN 3705<-
+
+<vocab>Tenschert, geschenck, Erlb, S-B, Litt. VII. Germ., ad Poet., 16. Saec., Coll. compl., UBN</vocab>
+
+--- Page 66 ---
+<lang>None</lang>
+
+<meta>This image shows the front or back cover of a manuscript, featuring a decorative marbled or paste-paper pattern in shades of grey, blue, and black. There is no legible text on this page.</meta>
+
+<vocab></vocab>
+
+<detected-images>
+[{"description": "Marbled or paste-paper decorative book cover", "type": "decorative", "bbox": {"x": 0.02, "y": 0.02, "width": 0.96, "height": 0.97}, "gallery_quality": 0.6, "museum_rationale": "This is a representative example of historical bookbinding materials, specifically marbled or paste-paper often used for manuscript covers in the 17th to 19th centuries."}]
+</detected-images>

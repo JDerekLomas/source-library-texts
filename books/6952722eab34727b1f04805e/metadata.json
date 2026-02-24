@@ -1,0 +1,28 @@
+{
+  "id": "6952722eab34727b1f04805e",
+  "title": "Veritatis Proscenium",
+  "display_title": "Veritatis Proscenium (Response to Kepler)",
+  "author": "Robert Fludd",
+  "language": "Latin",
+  "year": 1621,
+  "published": "1621",
+  "pages_count": 66,
+  "pages_with_ocr": 66,
+  "pages_with_translation": 66,
+  "source_url": "https://sourcelibrary.org/book/6952722eab34727b1f04805e",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "b1010818x"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-2.5-flash"
+  },
+  "synced_at": "2026-02-24T18:29:32.815Z",
+  "_hashes": {
+    "ocr": "838f7beb169604ab",
+    "translation": "c7fe6558e58ccd63"
+  }
+}

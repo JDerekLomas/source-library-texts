@@ -1,0 +1,28 @@
+{
+  "id": "69482af9914d007380634cf1",
+  "title": "Speculum Sophicum Rhodo-Stauroticum",
+  "display_title": "Mirror of the Wisdom of the Rosy Cross",
+  "author": "Theophilus Schweighardt (Daniel Mögling)",
+  "language": "German",
+  "year": 1618,
+  "published": "1618",
+  "pages_count": 54,
+  "pages_with_ocr": 54,
+  "pages_with_translation": 22,
+  "source_url": "https://sourcelibrary.org/book/69482af9914d007380634cf1",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "specvlvmsophicvm00schw"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:39.122Z",
+  "_hashes": {
+    "ocr": "f0cd94196057ba35",
+    "translation": "e16c4d264b725d13"
+  }
+}

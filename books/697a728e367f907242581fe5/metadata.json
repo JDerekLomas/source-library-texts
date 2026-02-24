@@ -1,0 +1,26 @@
+{
+  "id": "697a728e367f907242581fe5",
+  "title": "Disputatio historica solennis de Rosaecrucianis",
+  "display_title": "Disputatio historica solennis de Rosaecrucianis",
+  "author": "Wolf, Johann Ludwig",
+  "language": "Latin",
+  "year": 1715,
+  "published": "1715",
+  "pages_count": 64,
+  "pages_with_ocr": 64,
+  "pages_with_translation": 64,
+  "source_url": "https://sourcelibrary.org/book/697a728e367f907242581fe5",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:34.662Z",
+  "_hashes": {
+    "ocr": "f9a6743781a3e2ba",
+    "translation": "215f76450a5c6572"
+  }
+}

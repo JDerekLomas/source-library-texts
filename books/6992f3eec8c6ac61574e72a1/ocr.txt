@@ -1,0 +1,1162 @@
+--- Page 1 ---
+<lang>Chinese</lang>
+<warning>The pages provided appear to be blank endpapers or flyleaves. They exhibit significant water staining, foxing, and age-related discoloration. No legible text is present on either page, though a rectangular border is printed on the left folio.</warning>
+<meta>Blank pages, water damage, decorative border</meta>
+
+--- Page 2 ---
+<lang>Chinese</lang>
+
+<vocab>landscape painting, woodcut, mountain scenery, pavilion, Chinese art</vocab>
+
+<detected-images>
+[{"description": "A detailed woodcut illustration of a classical Chinese landscape, featuring a prominent, vertically-striated rock formation on the left, a small pavilion nestled in the middle ground, and rolling mountains in the distance above a body of water.", "type": "woodcut", "bbox": {"x": 0.01, "y": 0.203, "width": 0.443, "height": 0.697}, "gallery_quality": 0.85, "museum_rationale": "This is a fine example of traditional Chinese woodblock printing from a landscape manual or literary work, demonstrating sophisticated line work for texture and composition."}]
+</detected-images>
+
+--- Page 3 ---
+<lang>zh</lang>
+<warning>The manuscript pages show significant water staining, discoloration, and foxing throughout, particularly along the top edges, though the woodblock illustrations remain clear and legible.</warning>
+
+### 徑山
+
+<vocab>徑山 (Jingshan Mountain), 山水 (Landscape), 木刻 (Woodcut), 亭台 (Pavilion), 塔 (Pagoda)</vocab>
+
+<detected-images>
+[
+  {"description": "The left panel of a panoramic woodcut landscape depicting Jingshan. It features steep, layered mountain peaks, a multi-storied pagoda among dense pine groves, and traditional Chinese pavilions.", "type": "woodcut", "bbox": {"x": 0.0, "y": 0.207, "width": 0.445, "height": 0.702}, "gallery_quality": 0.9, "museum_rationale": "A high-quality example of traditional Chinese landscape woodblock printing, typical of Ming or Qing dynasty gazetteers. The intricate linework used to depict texture in the mountains and foliage is of museum quality."},
+  {"description": "The right panel of the panoramic woodcut landscape of Jingshan, containing the title '徑山' in the upper right. It shows a bridge, further architectural elements, and receding mountain ranges partially obscured by stylized clouds.", "type": "woodcut", "bbox": {"x": 0.548, "y": 0.211, "width": 0.444, "height": 0.702}, "gallery_quality": 0.9, "museum_rationale": "The continuation of a detailed topographical illustration, providing the geographic context and title for the scenic view."}
+]
+</detected-images>
+
+--- Page 4 ---
+<lang>Chinese</lang>
+<meta>This is a woodcut landscape map (landscape spread) depicting Yunmen Mountain (雲門山) in Zhejiang, featured across two pages of a historical Chinese book, likely a gazetteer or a landscape guide. It illustrates numerous peaks, streams, and administrative boundaries.</meta>
+
+# 浙江雲門山
+
+<insert>金子山</insert>
+<insert>青龍山</insert>
+<insert>太白山</insert>
+<insert>奉化縣界</insert>
+<insert>鄞縣界</insert>
+<insert>乳竇峯</insert>
+<insert>千丈岩</insert>
+<insert>雲南</insert>
+<insert>瀑澁澗</insert>
+<insert>歸來岩</insert>
+<insert>錦屏山</insert>
+<insert>遇仙</insert>
+<insert>分水嶺</insert>
+<insert>雲池</insert>
+<insert>仙人跡</insert>
+<insert>下太白山</insert>
+<insert>桃花坑</insert>
+<insert>九龍潭</insert>
+<insert>三弄灘</insert>
+<insert>蘇潭</insert>
+<insert>石門</insert>
+<insert>冀村</insert>
+<insert>山龍潭</insert>
+<insert>澗水雲峯</insert>
+<insert>化安泉</insert>
+<insert>藤溪</insert>
+<insert>黃龍潭</insert>
+<insert>雲頂山</insert>
+<insert>小嶺</insert>
+<insert>橫溪</insert>
+<insert>餘姚畍水</insert>
+
+<vocab>浙江, 雲門山, 太白山, 奉化縣, 鄞縣, 餘姚, 畍水, 錦屏山, 千丈岩</vocab>
+
+<detected-images>
+[{"description": "A detailed two-page woodcut landscape map of Yunmen Mountain in Zhejiang province, showing topographical features such as peaks, ridges, streams, and waterfalls, alongside administrative boundaries and structures like temples or hermitages.", "type": "diagram", "bbox": {"x": 0.015, "y": 0.198, "width": 0.963, "height": 0.722}, "gallery_quality": 0.9, "museum_rationale": "This is a high-quality example of traditional Chinese cartography and woodblock topographical art, characteristic of the detailed scenic maps found in Ming or Qing dynasty gazetteers."}]
+</detected-images>
+
+--- Page 5 ---
+<lang>Chinese</lang>
+<vocab>峴山, 襄陽城, 山水, 木刻版畫</vocab>
+
+# 峴山
+
+襄陽城
+
+<detected-images>
+[{"description": "A double-page woodcut landscape illustration depicting Mount Xian (Xianshan) and the city of Xiangyang. The scene features jagged mountain peaks, scattered pavilions, and the city wall of Xiangyang overlooking a body of water. The style follows traditional Chinese shanshui (landscape) painting conventions, utilizing varied line weights and textures to represent rocks and foliage.", "type": "woodcut", "bbox": {"x": 0.022, "y": 0.203, "width": 0.953, "height": 0.695}, "gallery_quality": 0.9, "museum_rationale": "This is a high-quality example of late imperial Chinese woodblock printing, likely from a local gazetteer or a landscape album. It demonstrates sophisticated compositional techniques and serves as a valuable historical record of topographical representation and regional architecture (city walls and pavilions)."}]
+</detected-images>
+
+--- Page 6 ---
+<lang>zh</lang>
+<page-num>五</page-num>
+<meta>Double-page woodblock illustration spread</meta>
+
+# 招寶山圖
+
+<vocab>招寶山, 圖, 山水</vocab>
+
+<detected-images>
+[{"description": "A traditional Chinese woodblock landscape illustration of Mount Zhaobao (Zhaobaoshan) across two pages. The left page depicts a fortified gatehouse at a mountain pass, with a steep path of stairs leading into rugged, pine-covered peaks. The right page shows the coastal aspect with stylized turbulent waves, several traditional sailing junks, and distant mountains under the title '招寶山圖'.", "type": "woodcut", "bbox": {"x": 0.015, "y": 0.198, "width": 0.966, "height": 0.697}, "gallery_quality": 0.95, "museum_rationale": "This is an exceptional example of Ming or Qing dynasty woodblock printing, demonstrating refined line work in the depiction of 'shanshui' (mountain and water) elements. Such illustrations were crucial for geographical gazetteers and maritime defense manuals."}]
+</detected-images>
+
+--- Page 7 ---
+<lang>zh</lang>
+<page-num>六</page-num>
+<meta>Woodcut landscape illustration spanning a double-page spread. The binding shows typical folio numbering on the edge.</meta>
+
+雪竇山
+
+馮
+
+<vocab>雪竇山, 馮, 山水, 木刻版畫</vocab>
+
+<detected-images>
+[{"description": "A double-page woodcut landscape illustration of Xuedou Mountain (雪竇山). The artwork features rugged mountain peaks, swirling clouds/mist, dense clusters of pine trees, and small architectural structures like pavilions and temple buildings nestled within the valleys. The style is characteristic of Ming or Qing dynasty topographical woodblock prints.", "type": "woodcut", "bbox": {"x": 0.012, "y": 0.204, "width": 0.441, "height": 0.704}, "gallery_quality": 0.9, "museum_rationale": "This is a high-quality example of traditional Chinese landscape woodblock printing, likely from a gazetteer or a famous mountain treatise. It demonstrates sophisticated 'cun' (texture) strokes and compositional depth translated into print form."},
+{"description": "Matching right-hand page of the Xuedou Mountain woodcut landscape, featuring the title label '雪竇山' and a small signature/mark '馮' in the lower right corner.", "type": "woodcut", "bbox": {"x": 0.528, "y": 0.204, "width": 0.448, "height": 0.704}, "gallery_quality": 0.9, "museum_rationale": "Essential half of a topographical woodcut spread, showing the stylistic continuity of 17th-18th century Chinese book illustration."}]
+</detected-images>
+
+--- Page 8 ---
+<lang>zh</lang>
+<warning>Minor water staining and foxing along the top edge of the paper.</warning>
+
+## 會稽山圖
+
+<vocab>會稽山 (Mount Kuaiji), 圖 (illustration/map), landscape painting, woodcut</vocab>
+
+<detected-images>
+[{"description": "A continuous double-page woodcut landscape illustration of Mount Kuaiji, depicting jagged mountain peaks, scattered pine and deciduous trees, flowing water, and traditional architectural structures like pavilions and temple complexes nestled within the valleys.", "type": "woodcut", "bbox": {"x": 0.015, "y": 0.203, "width": 0.945, "height": 0.705}, "gallery_quality": 0.95, "museum_rationale": "An exceptional example of traditional Chinese book illustration, likely from the Ming or Qing dynasty. The composition demonstrates a sophisticated 'mountain-and-water' (shanshui) aesthetic, skillfully executed across a double-page spread with intricate linework."}]
+</detected-images>
+
+--- Page 9 ---
+<lang>zh</lang>
+<meta>Two-page woodblock print landscape from a traditional Chinese text, possibly a gazetteer or a scenic guide.</meta>
+
+東
+
+---
+
+山
+
+<vocab>東 (East), 山 (Mountain), 東山 (Dongshan / East Mountain)</vocab>
+
+<detected-images>
+[
+  {"description": "Woodblock illustration on the right page depicting rolling hills in the background, a temple or pavilion complex among trees, and terraced fields or pathways in the foreground. The character '東' (East) is visible in the top left corner.", "type": "woodcut", "bbox": {"x": 0.521, "y": 0.207, "width": 0.452, "height": 0.706}, "gallery_quality": 0.9, "museum_rationale": "High-quality traditional Chinese woodblock print with fine linework representing landscape features and architecture, typical of late Ming or early Qing dynasty printing."},
+  {"description": "Woodblock illustration on the left page depicting steep, craggy mountain cliffs with pine trees, stone steps leading up to a central pavilion or hall. The character '山' (Mountain) is visible in the top right corner.", "type": "woodcut", "bbox": {"x": 0.016, "y": 0.206, "width": 0.438, "height": 0.704}, "gallery_quality": 0.9, "museum_rationale": "Significant example of landscape woodblock art showing sophisticated 'texture strokes' (cunfa) for rock surfaces and detailed botanical rendering."}
+]
+</detected-images>
+
+--- Page 10 ---
+<lang>zh</lang>
+<page-num>九</page-num>
+<meta>Double-page woodcut illustration and map of Siming Mountain (四明山), featuring numerous labeled topographical features and the Xuedou Temple (雪竇寺) complex.</meta>
+
+# 四明山
+
+**[右頁地理標記]**
+
+- 嵊縣界
+- 梨洲山
+- 四窗
+- 檉樹
+- 碧連坑
+- 旱仙山
+- 屏風潭
+- 楊嶴嶺
+- 東岡
+- 金鎖
+- 雷山
+- 湧泉
+- 蓮花峯
+- 白雲
+- 桃花嶺
+- 黃仙嶺
+- 瀑布
+- 半澗巖
+- 草漢
+- 墨湖
+- 大嶺
+- 東明山
+- 笻嶺
+- 廬山
+- 望海山
+- 妙嚴山
+- 上度郡界
+
+**[左頁地理標記]**
+
+- 白乳泉
+- 雪竇寺
+- 釣石
+- 南庵嶺
+
+<vocab>四明山, 雪竇寺, 嵊縣, 梨洲山, 蓮花峯, 檉樹, 屏風潭, 瀑布, 墨湖, 郡界</vocab>
+
+<detected-images>
+[{"description": "A detailed woodcut landscape map spanning a double-page spread, illustrating the topography and landmarks of Mount Siming. The illustration includes jagged mountain peaks, pine forests, waterfalls, and the Xuedou Temple complex with its pagoda. Geographical labels are scattered throughout to identify specific ridges, peaks, springs, and administrative boundaries.", "type": "woodcut", "bbox": {"x": 0.02, "y": 0.20, "width": 0.94, "height": 0.71}, "gallery_quality": 0.9, "museum_rationale": "An exceptional example of traditional Chinese woodblock cartography, combining artistic landscape conventions with detailed geographical indexing."}]
+</detected-images>
+
+--- Page 11 ---
+<lang>zh</lang>
+<meta>Woodblock print landscape map of Wuxie Mountain (五洩山) across a double-page spread.</meta>
+
+### 五洩山
+
+**[Right Page Labels]**
+*   五洩山
+*   天柱峯
+*   輔德岩
+*   會仙台
+*   麒麟岩
+*   董子峯
+*   卓筆峯
+*   臥龍峯
+*   飛鳳嶺
+*   石屏
+*   連珠石
+*   雙笢峯
+*   漈
+*   響鼓
+*   獅子岩
+*   覆船岩
+*   碧波岩
+*   劉謙岩
+*   東龍潭
+
+**[Left Page Labels]**
+*   鰲素岩
+*   樓真岩
+*   寶院岩
+*   雲際岩
+*   禮拜台
+*   金仙石
+*   石門
+*   龍井
+*   寒碧淵
+*   平雲嶺
+*   到閣軒
+*   石河
+*   供獸岩
+*   遇龍橋
+*   潭
+*   石礅
+*   碧玉峯
+*   龍門
+*   清真谷
+*   望雲峯
+*   倚天峯
+*   石笋
+*   出定岩
+*   隱鼠峯
+*   迥壁岩
+*   壁立岩
+*   酒飲峯
+*   漈龍潭
+
+<vocab>五洩山, 瀑布, 峯, 岩, 潭, 橋, 嶺, 谷, 龍井</vocab>
+
+<detected-images>
+[{"description": "A detailed double-page woodcut illustration of Wuxie Mountain (五洩山) in Zhejiang province. The map uses traditional Chinese landscape painting techniques to depict a complex topography of jagged peaks, deep valleys, waterfalls (marked '漈'), and pools. Over forty distinct landmarks, including summits, rock formations, and bridges, are identified with textual labels placed within the landscape.", "type": "diagram", "bbox": {"x": 0.04, "y": 0.08, "width": 0.92, "height": 0.84}, "gallery_quality": 0.95, "museum_rationale": "This image is a quintessential example of traditional Chinese local gazetteer illustration or pilgrimage mapping. It exhibits high artistic quality in its woodblock engraving and provides significant historical-geographical data for the Wuxie scenic area."}]
+</detected-images>
+
+--- Page 12 ---
+<lang>zh</lang>
+<page-num>十一</page-num>
+<meta>Double-page woodcut illustration of Longquan Mountain (龍泉山) landscape.</meta>
+
+# 龍泉山
+
+<insert>
+龍泉寺
+</insert>
+
+<insert>
+祭忠臺
+</insert>
+
+<vocab>龍泉山, 龍泉寺, 祭忠臺</vocab>
+
+<detected-images>
+[{"description": "A detailed double-page woodcut illustration of the Longquan Mountain landscape, featuring jagged peaks, coniferous and deciduous trees, a temple complex (Longquan Temple), and a designated plateau (Jizhong Tai). The style is characteristic of 17th-18th century Chinese landscape printing.", "type": "woodcut", "bbox": {"x": 0.016, "y": 0.203, "width": 0.953, "height": 0.708}, "gallery_quality": 0.85, "museum_rationale": "A fine example of traditional Chinese topographical woodblock illustration, showing the intersection of art, cartography, and religious site documentation."}]
+</detected-images>
+
+--- Page 13 ---
+<lang>Chinese</lang>
+<page-num>十二</page-num>
+<vocab>沃洲山, 真君殿, 放鶴亭, 策馬坡, 浙東, landscape illustration</vocab>
+
+# 沃洲山
+
+<insert>
+真君殿
+</insert>
+
+---
+
+<insert>
+放鶴亭
+</insert>
+
+<insert>
+策馬坡
+</insert>
+
+<detected-images>
+[{"description": "A traditional Chinese woodcut landscape illustration spread across two pages, depicting Mount Wozhou (Wozhoushan) with its rugged peaks, pine trees, a temple complex (Zhenjun Dian), a lakeside pavilion (Fanghe Ting), and a mountain path (Cema Po).", "type": "woodcut", "bbox": {"x": 0.02, "y": 0.203, "width": 0.926, "height": 0.705}, "gallery_quality": 0.9, "museum_rationale": "This is a fine example of late Ming or early Qing dynasty landscape woodcut illustration, likely from a local gazetteer or a scenic guide. The composition exhibits characteristic 'three distances' perspective and detailed architectural elements, typical of high-quality scholarly publishing of the period."}]
+</detected-images>
+
+--- Page 14 ---
+<lang>Chinese</lang>
+<page-num>十三</page-num>
+<meta>Double-page woodcut landscape illustration from a Chinese gazetteer or travelogue.</meta>
+
+# 天姥山
+
+<gloss>天姥寺</gloss>
+
+---
+
+<gloss>朝天</gloss>
+
+<gloss>蓮花峯</gloss>
+
+<gloss>笻竹峯</gloss>
+
+<gloss>撥雲峯</gloss>
+
+<gloss>隐空壇</gloss>
+
+<vocab>天姥山, 天姥寺, 朝天, 蓮花峯, 笻竹峯, 撥雲峯, 隐空壇</vocab>
+
+<detected-images>
+[{"description": "A detailed double-page woodblock print depicting the landscape of Tianmu Mountain (天姥山). The illustration includes jagged mountain peaks, a walled temple complex (天姥寺), and a ceremonial altar (隐空壇), all rendered in the traditional Chinese landscape style with textual labels for geographical features.", "type": "woodcut", "bbox": {"x": 0.025, "y": 0.203, "width": 0.941, "height": 0.709}, "gallery_quality": 0.9, "museum_rationale": "This is a high-quality example of late imperial Chinese cartographic art or scenic illustration. The integration of landscape painting techniques with functional labeling provides significant insight into historical perceptions of sacred and famous mountains. The fine line work and sophisticated composition make it a museum-worthy specimen of woodblock printing."}]
+</detected-images>
+
+--- Page 15 ---
+<lang>Chinese</lang>
+<page-num>十四</page-num>
+<meta>Double-page woodcut illustration depicting a topographical view of a sacred mountain.</meta>
+
+# 補陀山
+
+<vocab>補陀山, Mount Putuo, Potalaka, Buddhist pilgrimage, topographical woodcut</vocab>
+
+<detected-images>
+[{"description": "A fine double-page woodcut illustration of Mount Putuo (Mount Potalaka), shown as a mountainous island emerging from a sea of highly stylized, rhythmic waves. The landscape is dotted with Buddhist architecture, including temples and a multi-story pagoda nestled among jagged, vertically-oriented peaks and sparse trees.", "type": "woodcut", "bbox": {"x": 0.036, "y": 0.198, "width": 0.932, "height": 0.717}, "gallery_quality": 0.95, "museum_rationale": "This is an exquisite example of traditional Chinese topographical woodblock printing, likely from a gazetteer or pilgrimage guide. The meticulous detail in the wave patterns and the 'hemp-fiber' texture strokes on the mountains are characteristic of high-quality scholarly publishing from the late Ming or early Qing dynasties."}]
+</detected-images>
+
+--- Page 16 ---
+<lang>zh</lang>
+<page-num>十五</page-num>
+<meta>Woodblock print landscape map across a two-page spread</meta>
+<vocab>天台山, 國清寺, 石梁飛瀑, 華頂, 赤城, 桃源洞, 桐柏宮, 萬年寺</vocab>
+
+# 天台山圖
+
+<insert>
+**左頁標註：**
+桃源洞
+幽溪精舍
+石筍峯
+螺溪釣艇
+釣磯
+</insert>
+
+<insert>
+**右頁標註：**
+華頂雲
+赤城霞
+國清
+桐柏
+萬年
+天柱峯
+石橋
+寒岩夕照
+石梁飛瀑
+瓊台
+雙闕
+螺溪
+</insert>
+
+<detected-images>
+[{"description": "A detailed woodblock landscape map of Mount Tiantai spread across two folios, depicting the sacred mountain's peaks, temples, and natural features such as the 'Stone Beam Waterfall'. Numerous calligraphic labels identify specific landmarks within the scenic composition.", "type": "woodcut", "bbox": {"x": 0.02, "y": 0.203, "width": 0.957, "height": 0.718}, "gallery_quality": 0.9, "museum_rationale": "A high-quality example of traditional Chinese topographical illustration (shanshui map). It artistically represents the sacred geography of Mount Tiantai, a site of immense importance in both Buddhist and Taoist traditions."}]
+</detected-images>
+
+--- Page 17 ---
+<lang>zh</lang>
+<page-num>十六</page-num>
+<meta>Double-page landscape illustration from a Chinese woodblock-printed book.</meta>
+
+## 金華山圖
+
+<vocab>金華山 (Jinhua Mountain), 圖 (Illustration/Map)</vocab>
+
+<detected-images>
+[{"description": "Left half of a double-page woodblock print depicting the landscape of Jinhua Mountain. The scene features rugged mountain peaks, pine trees, a stone bridge spanning a stream, and the title characters in the upper left corner.", "type": "woodcut", "bbox": {"x": 0.026, "y": 0.205, "width": 0.435, "height": 0.705}, "gallery_quality": 0.9, "museum_rationale": "A fine example of traditional Chinese woodblock landscape illustration, demonstrating intricate line work for rock textures and foliage, typical of scholarly geographical or gazetteer texts from the Ming or Qing dynasties."},
+{"description": "Right half of the double-page woodblock print of Jinhua Mountain, showing a continuation of the mountain range with a large waterfall, a calm body of water in the foreground, and two deer resting near the shore.", "type": "woodcut", "bbox": {"x": 0.528, "y": 0.210, "width": 0.427, "height": 0.703}, "gallery_quality": 0.9, "museum_rationale": "High-quality woodblock engraving showcasing classical landscape composition and symbolic natural elements like deer and waterfalls, indicative of high-tier commercial or imperial printing."}]
+</detected-images>
+
+--- Page 18 ---
+<lang>zh</lang>
+<page-num>十七</page-num>
+<meta>Double-page spread featuring a woodcut illustration of Lanke Mountain (Lankeshan).</meta>
+
+# 爛柯山圖
+
+<vocab>爛柯山 (Lanke Mountain), 圖 (illustration/map), 仙 (immortals), 棋 (go/chess)</vocab>
+
+<detected-images>
+[
+  {"description": "Left half of a double-page woodcut landscape illustration. It depicts a rugged mountain path winding through pine trees and rocky slopes, with a small walled gatehouse or administrative building visible at the bottom left by a river.", "type": "woodcut", "bbox": {"x": 0.014, "y": 0.203, "width": 0.436, "height": 0.707}, "gallery_quality": 0.85, "museum_rationale": "Exquisite example of traditional Chinese woodblock landscape illustration, showing detailed line work typical of Ming or Qing dynasty topographical works."},
+  {"description": "Right half of a double-page woodcut landscape illustration, titled '爛柯山圖'. The scene features a prominent natural stone arch or cave containing figures (likely the legendary immortals). A pagoda sits atop the arch, and various pavilions and houses are nestled in the valley below among dense foliage.", "type": "woodcut", "bbox": {"x": 0.521, "y": 0.208, "width": 0.446, "height": 0.708}, "gallery_quality": 0.9, "museum_rationale": "High-quality woodcut depicting the famous Lanke Mountain, a site of significant cultural and mythological importance in China, particularly associated with the legend of Wang Zhi and the origins of the name 'Rotten Axe Handle' (Lanke)."}
+]
+</detected-images>
+
+--- Page 19 ---
+<lang>zh</lang>
+<page-num>十八</page-num>
+
+# 三衢山
+
+<vocab>三衢山, 山水, landscape, woodblock print</vocab>
+
+<detected-images>
+[{"description": "A detailed double-page woodblock landscape illustration of Mount Sanqu (三衢山). The right page features a prominent, towering, and gnarled rock formation (a 'scholar's stone' style pillar) with two small figures at its base and rolling hills in the background. The left page shows a path leading up through rugged mountains and pine trees. The entire scene is executed in a fine-line woodcut style characteristic of late Imperial Chinese printing.", "type": "woodcut", "bbox": {"x": 0.017, "y": 0.198, "width": 0.936, "height": 0.718}, "gallery_quality": 0.95, "museum_rationale": "Excellent example of classical Chinese woodblock landscape illustration, demonstrating sophisticated linework for texture and depth. It represents a significant historical geographical or artistic publication."}]
+</detected-images>
+
+--- Page 20 ---
+<lang>Chinese</lang>
+<page-num>十九</page-num>
+<meta>Woodblock print across two pages from a landscape or geographical manual. The text is written in Traditional Chinese.</meta>
+
+# 富春山圖
+
+<vocab>富春山圖, Fuchun Mountains, landscape painting, woodcut, Shanshui</vocab>
+
+<detected-images>
+[{"description": "A sprawling traditional Chinese landscape woodblock print spanning two pages, depicting the 'Fuchun Mountain' scenery. It features characteristic jagged mountain peaks, scattered pine and willow trees, several small houses/pavilions nestled in the hills, and a flowing river in the foreground. The style utilizes intricate line work to represent texture (cun) on the rocks and foliage.", "type": "woodcut", "bbox": {"x": 0.02, "y": 0.20, "width": 0.95, "height": 0.72}, "gallery_quality": 0.95, "museum_rationale": "This is an exceptional example of traditional Chinese woodblock illustration. The composition and technique are characteristic of high-quality Ming or Qing dynasty printing, specifically reflecting the famous landscape tradition associated with the Fuchun Mountains, a seminal subject in Chinese art history."}]
+</detected-images>
+
+--- Page 21 ---
+<lang>zh</lang>
+<sig>二十之四十九</sig>
+<page-num>49</page-num>
+
+### 小金山
+
+<vocab>小金山, 山水, 木刻, Landscape, Woodblock</vocab>
+
+<detected-images>
+[{"description": "A detailed two-page woodcut landscape illustration of Little Jinshan (小金山). The scene depicts a serene river landscape with rolling hills, dense forests of pine and other trees, and several architectural structures including pavilions and a tower. The artwork uses varied line weights to represent textures of rocks, water, and foliage.", "type": "woodcut", "bbox": {"x": 0.024, "y": 0.207, "width": 0.952, "height": 0.716}, "gallery_quality": 0.9, "museum_rationale": "This is a fine example of traditional Chinese woodblock illustration from the late imperial period, likely from a scenic gazetteer or travel guide. The composition and technical execution of the textures reflect high artistic standards in commercial printing of the era."}]
+</detected-images>
+
+--- Page 22 ---
+<lang>zh</lang>
+<page-num>五十</page-num>
+
+# 雲山圖
+
+---
+
+# 雁蕩山圖
+
+<gloss>真濟寺</gloss>
+<gloss>靈巖</gloss>
+<gloss>大龍湫</gloss>
+<gloss>石樑寺</gloss>
+<gloss>雙峯寺</gloss>
+
+<vocab>雲山圖, 雁蕩山圖, 雁蕩山, 真濟寺, 靈巖, 大龍湫, 石樑寺, 雙峯寺</vocab>
+
+<detected-images>
+[
+  {"description": "Classical woodcut illustration titled 'Yunshan Tu' (Cloud Mountain Diagram) depicting a landscape of layered, stylized mountain peaks shrouded in clouds.", "type": "woodcut", "bbox": {"x": 0.041, "y": 0.205, "width": 0.411, "height": 0.709}, "gallery_quality": 0.85, "museum_rationale": "A fine example of traditional Chinese landscape woodblock printing, showing rhythmic line work and atmospheric perspective typical of early modern geographical guides."},
+  {"description": "Detailed woodcut map/illustration titled 'Yandangshan Tu' (Yandang Mountain Diagram), featuring specific landmarks like temples and the Great Dragon Waterfall.", "type": "woodcut", "bbox": {"x": 0.525, "y": 0.215, "width": 0.435, "height": 0.705}, "gallery_quality": 0.9, "museum_rationale": "A high-quality topographical woodcut that serves as both art and a travel guide, accurately labeling significant cultural and natural sites within the Yandang Mountain range."}
+]
+</detected-images>
+
+--- Page 23 ---
+<lang>zh</lang>
+<page-num>五一</page-num>
+
+# 二酉山
+
+<vocab>二酉山, 山水, 刻本, 地圖, 景觀</vocab>
+
+<detected-images>
+[{"description": "A double-page woodblock print illustrating the scenery of Mount Eryou (二酉山). The illustration features traditional Chinese landscape motifs: towering, textured rock formations ('cun' strokes), sparse pine trees, and a winding path that leads through a cavernous opening in a mountain spur. The composition is contained within a rectangular border across the spread.", "type": "woodcut", "bbox": {"x": 0.024, "y": 0.206, "width": 0.942, "height": 0.711}, "gallery_quality": 0.95, "museum_rationale": "This is a high-quality example of late Ming or early Qing dynasty woodblock printing, likely from a geographical gazetteer or a collection of scenic views (such as Hainei Qiguan). The sophisticated use of line to mimic brush-and-ink painting techniques makes it an important piece of historical graphic art."}]
+</detected-images>
+
+--- Page 24 ---
+<lang>zh</lang>
+<page-num>五二</page-num>
+
+## 月岩圖
+
+<vocab>月岩, 山水, 木刻, 園林, 景觀</vocab>
+
+<detected-images>
+[{"description": "Detailed woodblock landscape illustration of 'Moon Rock' (月岩圖) spanning a two-page spread. It depicts a rugged mountainous scene with a pavilion tucked into a cliffside on the left, and a walled garden courtyard featuring a large prominent tree and a figure on the right.", "type": "woodcut", "bbox": {"x": 0.018, "y": 0.207, "width": 0.952, "height": 0.708}, "gallery_quality": 0.9, "museum_rationale": "A high-quality example of traditional Chinese landscape woodcut art, displaying sophisticated technical skill in representing mountain textures ('cun' strokes) and architectural details. It likely serves as a topographical or garden illustration from a Ming or Qing dynasty publication."}]
+</detected-images>
+
+--- Page 25 ---
+<lang>zh</lang>
+<page-num>五三</page-num>
+
+# 澹岩圖
+
+<vocab>澹岩, 山水圖, 木刻, 景觀, 園林</vocab>
+
+<detected-images>
+[{"description": "A sophisticated woodblock landscape illustration (shanshui) spanning a double-page spread. The scene depicts 'Danyan' (Tranquil Rock), featuring a winding river with small skiffs, arched bridges, and rugged mountain peaks. Various pavilions and traditional buildings are nestled among the cliffs and diverse foliage, including willow and pine trees.", "type": "woodcut", "bbox": {"x": 0.024, "y": 0.203, "width": 0.932, "height": 0.716}, "gallery_quality": 0.95, "museum_rationale": "This is a prime example of Ming or Qing dynasty woodblock landscape illustration. The intricate linework used for 'cunfa' (texture strokes on rocks) and the balanced composition across the gutter demonstrate high-level artistic and technical achievement in early modern printing."}]
+</detected-images>
+
+--- Page 26 ---
+<lang>zh</lang>
+<page-num>五四</page-num>
+
+# 朝陽
+
+<gloss>萬賢祠</gloss>
+
+---
+
+# 岩圖
+
+<gloss>袁宏道</gloss>
+
+<vocab>朝陽, 萬賢祠, 岩圖, 袁宏道</vocab>
+
+<detected-images>
+[
+  {"description": "Woodblock landscape illustration titled 'Chaoyang' (朝陽), featuring the 'Wanxian Shrine' (萬賢祠) amidst mountain peaks, a bridge, and a river with a small boat. A figure is visible seated inside a natural rock arch.", "type": "woodcut", "bbox": {"x": 0.521, "y": 0.208, "width": 0.449, "height": 0.702}, "gallery_quality": 0.85, "museum_rationale": "A fine example of traditional Chinese woodblock landscape illustration from a topographical work, showing clear lineage from Ming dynasty scenic prints."},
+  {"description": "Woodblock landscape illustration titled 'Yantu' (岩圖), depicting a prominent, craggy mountain peak beside a wide river with a sailboat. A city gate or fortified wall is seen at the bottom, and the name of the literatus 'Yuan Hongdao' (袁宏道) is inscribed in the background.", "type": "woodcut", "bbox": {"x": 0.030, "y": 0.208, "width": 0.450, "height": 0.702}, "gallery_quality": 0.85, "museum_rationale": "Detailed landscape print illustrating a site of literary significance, specifically associated with the famous Ming dynasty poet Yuan Hongdao."}
+]
+</detected-images>
+
+--- Page 27 ---
+<lang>zh</lang>
+<sig>五 五</sig>
+
+# 永州府西山圖
+
+<insert>鈷鉧潭</insert>
+
+<insert>西山</insert>
+
+<insert>愚王山</insert>
+
+<insert>石城山</insert>
+
+<insert>石澗</insert>
+
+<insert>石渠</insert>
+
+<vocab>永州府, 西山, 鈷鉧潭, 愚王山, 石城山, 石澗, 石渠, 永州八記, 劉宗元</vocab>
+
+<detected-images>
+[{"description": "A detailed two-page woodcut landscape map titled 'Map of West Mountain in Yongzhou Prefecture' (永州府西山圖). The illustration depicts a rugged mountainous region with rivers and traditional architecture, annotated with names of specific sites such as Gumu Pond (鈷鉧潭) and Shicheng Mountain (石城山), which are famous landmarks in the 'Eight Records of Yongzhou' by Tang dynasty scholar Liu Zongyuan.", "type": "map", "bbox": {"x": 0.012, "y": 0.204, "width": 0.946, "height": 0.71}, "gallery_quality": 0.95, "museum_rationale": "An exceptional example of historical Chinese topographical woodblock printing. It provides a visual representation of a significant literary landscape, bridging the gap between geographic documentation and literary commentary in the late imperial period."}]
+</detected-images>
+
+--- Page 28 ---
+<lang>zh</lang>
+<page-num>156</page-num>
+<sig>一五六</sig>
+
+# 青城山
+
+<vocab>青城山, 山水, 木刻, 蜀山</vocab>
+
+<detected-images>
+[{"description": "A double-page spread woodcut illustration depicting Mount Qingcheng (青城山). The scene shows steep, jagged mountain peaks textured with traditional 'cun' (wrinkle) brushstroke styles, thick groves of pine trees, and several clusters of temple or residential buildings nestled in the valleys. In the bottom right corner, a figure is seen riding a horse across a small bridge, accompanied by an attendant.", "type": "woodcut", "bbox": {"x": 0.03, "y": 0.20, "width": 0.92, "height": 0.72}, "gallery_quality": 0.85, "museum_rationale": "This is a high-quality example of Chinese woodblock printing, likely from a Ming or Qing dynasty gazetteer or scenic guide. It demonstrates sophisticated landscape composition and technical skill in translating painterly brushwork into printed lines, serving as a valuable record of historical geographic illustration and artistic style."}]
+</detected-images>
+
+--- Page 29 ---
+<lang>zh</lang>
+<page-num>57</page-num>
+<sig>五七</sig>
+
+# 修覺山
+
+<vocab>修覺山, woodcut, landscape illustration</vocab>
+
+<detected-images>
+[{"description": "A detailed woodcut landscape illustration of Mount Xiujue (修覺山) spanning a double-page spread. The left page features rugged, layered mountain peaks, dense pine forests, and a waterfall cascading into a stream where a lone figure carries a yoke. The right page continues the mountain range, depicting a large traditional temple building nestled among trees and craggy rocks. The entire scene is framed by a bold black border.", "type": "woodcut", "bbox": {"x": 0.01, "y": 0.208, "width": 0.941, "height": 0.708}, "gallery_quality": 0.9, "museum_rationale": "This is a high-quality example of late imperial Chinese woodcut printing. It exhibits sophisticated composition and intricate linework to convey texture in the rocks, foliage, and water, characteristic of topographical or gazetteer illustrations of the period."}]
+</detected-images>
+
+--- Page 30 ---
+<lang>Chinese</lang>
+<page-num>五八</page-num>
+
+# 岷山圖
+
+<vocab>岷山 (Minshan), 圖 (Tu/Illustration)</vocab>
+
+<detected-images>
+[{"description": "A double-page spread featuring a traditional Chinese woodblock illustration of the Minshan mountain range. The landscape depicts jagged, towering peaks with visible strata lines, sparse pine trees, and a river flowing through the valleys. The composition is contained within two separate black rectangular borders on adjacent pages.", "type": "woodcut", "bbox": {"x": 0.02, "y": 0.20, "width": 0.93, "height": 0.71}, "gallery_quality": 0.85, "museum_rationale": "This is a high-quality example of pre-modern Chinese geographical illustration. The use of traditional 'shanshui' (mountain-water) artistic conventions to represent specific topography is characteristic of Ming and Qing dynasty gazetteers and encyclopedias."}]
+</detected-images>
+
+--- Page 31 ---
+<lang>zh</lang>
+<page-num>五九</page-num>
+
+峨眉山
+
+<vocab>峨眉山, Mount Emei, landscape, woodcut, topography, Chinese art</vocab>
+
+<detected-images>
+[
+  {"description": "Traditional Chinese woodcut illustration of the peaks and temple architecture of Mount Emei, left panel.", "type": "woodcut", "bbox": {"x": 0.016, "y": 0.202, "width": 0.434, "height": 0.702}, "gallery_quality": 0.85, "museum_rationale": "A fine example of traditional woodblock landscape illustration, showing detailed rendering of mountains, mist, and Buddhist structures in a historical topographical context."},
+  {"description": "Traditional Chinese woodcut illustration of Mount Emei peaks with the identifying label '峨眉山', right panel.", "type": "woodcut", "bbox": {"x": 0.518, "y": 0.202, "width": 0.436, "height": 0.702}, "gallery_quality": 0.85, "museum_rationale": "High-quality historical illustration of a sacred Chinese mountain, significant for its artistic composition and geographic labeling."}
+]
+</detected-images>
+
+--- Page 32 ---
+<lang>Chinese</lang>
+
+雲臺山
+
+<vocab>雲臺山, Yuntai Mountain</vocab>
+
+<detected-images>
+[{"description": "A traditional Chinese woodblock landscape illustration of Yuntai Mountain (Cloud Terrace Mountain), featuring a tall narrow peak, a pavilion, and a scholarly figure seated within a hollowed-out tree trunk.", "type": "woodcut", "bbox": {"x": 0.518, "y": 0.207, "width": 0.443, "height": 0.697}, "gallery_quality": 0.85, "museum_rationale": "A characteristic example of late imperial Chinese landscape woodcuts, demonstrating classic line work and iconographic themes of reclusion."}]
+</detected-images>
+
+--- Page 33 ---
+<lang>zh</lang>
+<meta>image quality: excellent; woodblock print spread; panoramic landscape illustration</meta>
+
+### 七曲  山
+
+<vocab>七曲山 (Qiqu Mountain), 梓潼 (Zitong), 山水 (Landscape), 木刻版畫 (Woodblock print), 文昌帝君 (Wenchang Dijun)</vocab>
+
+<detected-images>
+[{"description": "A panoramic woodblock landscape illustration spanning two pages, titled '七曲山' (Qiqu Mountain). The right side shows dense forests and traditional temple architecture nestled among steep peaks. The left side continues the mountain range, depicting a river valley with a figure on horseback followed by an attendant on foot.", "type": "woodcut", "bbox": {"x": 0.04, "y": 0.20, "width": 0.92, "height": 0.71}, "gallery_quality": 0.95, "museum_rationale": "This is an exquisite example of late Ming or early Qing dynasty woodblock printing. The illustration demonstrates sophisticated 'cunfa' (texture strokes) in the mountain rendering and detailed foliage typical of high-quality scholarly or religious publications, likely from a hagiography of Wenchang Dijun or a Sichuan regional gazetteer."}]
+</detected-images>
+
+--- Page 34 ---
+<lang>zh</lang>
+
+# 平
+
+# 蓋山
+
+<vocab>平, 蓋山, 山水, 木刻</vocab>
+
+<detected-images>
+[
+  {"description": "A woodblock print illustration of a mountain landscape featuring a natural rock arch, several human figures on a path, and jagged vertical peaks, labeled with the character '平'.", "type": "woodcut", "bbox": {"x": 0.531, "y": 0.204, "width": 0.441, "height": 0.706}, "gallery_quality": 0.85, "museum_rationale": "A high-quality example of 17th-18th century Chinese woodblock printing, demonstrating classical 'shanshui' (mountain-water) landscape composition and texture strokes."},
+  {"description": "A woodblock print illustration of a mountainous landscape with rolling, layered peaks and diverse tree types, labeled with the characters '蓋山'.", "type": "woodcut", "bbox": {"x": 0.012, "y": 0.202, "width": 0.443, "height": 0.708}, "gallery_quality": 0.85, "museum_rationale": "Part of a series of didactic landscape illustrations, showcasing different styles of mountain formations and woodcut techniques used in traditional art manuals."}
+]
+</detected-images>
+
+--- Page 35 ---
+<lang>Chinese</lang>
+<page-num>七十四</page-num>
+<meta>Double-page woodcut landscape illustration. The text on the left margin is partially obscured by the edge of the scan.</meta>
+
+## 安樂山圖
+
+<vocab>安樂山, 山水, 山圖, 木刻</vocab>
+
+<detected-images>
+[{"description": "A classic Chinese landscape woodcut spanning across a double-page spread. It depicts 'Mount Anle' (安樂山) with high, jagged peaks rendered with traditional texture strokes, valleys filled with diverse tree species, and a small temple or pavilion nestled among the hills. The title '安樂山圖' is printed in the upper right corner within the border.", "type": "woodcut", "bbox": {"x": 0.012, "y": 0.205, "width": 0.953, "height": 0.71}, "gallery_quality": 0.9, "museum_rationale": "This illustration is a fine specimen of late imperial Chinese woodblock printing, likely from a local gazetteer (difangzhi) or a scenic atlas. The detailed rendering of geological forms and foliage follows established literati painting conventions adapted for print."}]
+</detected-images>
+
+--- Page 36 ---
+<lang>zh</lang>
+<page-num>六十四</page-num>
+<meta>A landscape woodcut illustration across two pages from a traditional Chinese bound book.</meta>
+
+# 邛崍山
+
+<vocab>邛崍山, Qionglai Mountain, woodcut, landscape illustration</vocab>
+
+<detected-images>
+[{"description": "A traditional Chinese landscape woodcut illustration spanning two pages, depicting the Qionglai Mountain range with steep peaks, layered ridges, dense groves of trees, and a small architectural complex or temple nestled among the hills.", "type": "woodcut", "bbox": {"x": 0.013, "y": 0.198, "width": 0.957, "height": 0.709}, "gallery_quality": 0.85, "museum_rationale": "This is a high-quality example of pre-modern Chinese book illustration, likely from a geographical work or local gazetteer. The use of traditional brush-style lines in a woodblock medium creates a sophisticated rendering of terrain and atmosphere, characteristic of scholarly publications from the Ming or Qing dynasties."}]
+</detected-images>
+
+--- Page 37 ---
+<lang>zh</lang>
+<page-num>六五</page-num>
+
+### 福建方
+
+### 廣岩
+
+<vocab>福建, 方廣岩, 山水, 木刻</vocab>
+
+<detected-images>
+[
+  {"description": "The right half of a panoramic woodcut landscape illustration of Fangguang Rock (方廣岩) in Fujian. It depicts steep, craggy mountains, pine trees, and a title block reading '福建方' (Fujian Fang...).", "type": "woodcut", "bbox": {"x": 0.522, "y": 0.206, "width": 0.441, "height": 0.708}, "gallery_quality": 0.9, "museum_rationale": "Exceptional example of traditional Chinese woodblock landscape illustration, showing detailed rock textures and flora typical of the Ming and Qing eras."},
+  {"description": "The left half of the panoramic woodcut landscape of Fangguang Rock, continuing the scene with more peaks, clouds, and a title block reading '廣岩' (...guang Rock). A page number '六五' (65) is visible in the left margin.", "type": "woodcut", "bbox": {"x": 0.034, "y": 0.204, "width": 0.442, "height": 0.710}, "gallery_quality": 0.9, "museum_rationale": "Completion of a high-quality topographical woodcut spread from a classical geographical or travel text."}
+]
+</detected-images>
+
+--- Page 38 ---
+<lang>zh</lang>
+<sig>十布</sig>
+
+## 壺公山
+
+<vocab>壺公山, 山水, 木刻版畫</vocab>
+
+<detected-images>
+[{"description": "A detailed woodcut landscape illustration spanning two pages, depicting Hugong Mountain (壺公山). The scene features a dramatic, tall vertical rock pillar, layered mountain peaks with traditional texture strokes, pine trees, and a river flowing through the valley. The composition reflects classical Chinese 'shanshui' landscape painting styles translated into the woodblock medium.", "type": "woodcut", "bbox": {"x": 0.012, "y": 0.205, "width": 0.965, "height": 0.710}, "gallery_quality": 0.9, "museum_rationale": "An excellent specimen of early modern Chinese topographical woodblock printing. The intricacy of the line work and the sophisticated translation of painterly textures like 'hemp-fiber strokes' into woodcut make it a significant piece of historical book illustration and landscape art."}]
+</detected-images>
+
+--- Page 39 ---
+<lang>zh</lang>
+<meta>Woodcut topographical map of Mount Wuyi (武夷山) across a two-page spread. The right page is labeled with the character '武' (Wu) and the left page with '夷' (Yi), together forming the name of the mountain.</meta>
+
+# 武
+
+<note>This page represents the right-hand side of the topographical map of Mount Wuyi.</note>
+
+*   **天心峯** (Tianxin Peak)
+*   **火焰峯** (Huoyan Peak)
+*   **白雲巖** (Baiyun Rock)
+*   **瑞雲巖** (Ruiyun Rock)
+*   **鐵板嶂** (Tieban Zhang)
+*   **葛仙翁** (Ge Xianweng / Immortal Ge)
+*   **丹霞峯** (Danxia Peak)
+*   **碧霄峯** (Bixiao Peak)
+*   **九井** (Nine Wells)
+*   **大王峯** (Dawang Peak)
+*   **止止菴** (Zhizhi Hermitage)
+*   **仙翁石** (Immortal Elder Stone)
+*   **仙姑石** (Immortal Lady Stone)
+*   **觀音巖** (Guanyin Rock)
+*   **虎嘯巖** (Huxiao Rock / Tiger Roar Rock)
+*   **獅子峯** (Lion Peak)
+*   **象鼻巖** (Elephant Trunk Rock)
+*   **平林** (Pinglin)
+
+---
+
+# 夷
+
+<note>This page represents the left-hand side of the topographical map, featuring the famous Nine Bends of the river.</note>
+
+*   **昇眞洞** (Shengzhen Cave)
+*   **換骨巖** (Huangu Rock)
+*   **藏雲洞** (Cangyun Cave)
+*   **幔亭峯** (Manting Peak)
+*   **衝佑觀** (Chongyou Temple)
+*   **淸微道院** (Qingwei Daoist Monastery)
+*   **靑峯** (Qing Peak)
+*   **九曲** (Ninth Bend)
+*   **八曲** (Eighth Bend)
+*   **七曲** (Seventh Bend)
+*   **六曲** (Sixth Bend)
+*   **五曲** (Fifth Bend)
+*   **四曲** (Fourth Bend)
+*   **三曲** (Third Bend)
+*   **二曲** (Second Bend)
+*   **一曲** (First Bend)
+*   **三仰峯** (Sanyang Peak)
+*   **三華峯** (Sanhua Peak)
+*   **天遊峯** (Tianyou Peak)
+*   **隱屛峯** (Yinping Peak)
+*   **接筍峯** (Jiesun Peak)
+*   **仙掌峯** (Xianzhang Peak)
+*   **桃源** (Taoyuan / Peach Blossom Spring)
+*   **靈峯** (Ling Peak)
+*   **靈巖** (Ling Rock)
+*   **大藏巖** (Dazang Rock)
+*   **兜率巖** (Doushuai Rock)
+*   **鏡臺** (Mirror Terrace)
+*   **茶竈** (Tea Stove)
+*   **雲窩** (Yunwo / Cloud Nest)
+*   **詠歸亭** (Yinggui Pavilion)
+*   **仁風門** (Renfeng Gate)
+*   **寒翠堂** (Hancui Hall)
+*   **仙石** (Immortal Stone)
+*   **小石唐** (Xiaoshi Tang)
+
+<vocab>武夷山, 九曲溪, 大王峯, 幔亭峯, 天遊峯, 衝佑觀, 止止菴, 桃源, 丹霞峯</vocab>
+
+<detected-images>
+[{"description": "A comprehensive woodcut landscape map of Mount Wuyi (武夷山) spanning two pages. It depicts the jagged peaks, the winding Nine-Bend River (九曲溪), various Daoist temples, paths, and scenic landmarks, all intricately labeled with Chinese characters in a traditional topographical style.", "type": "woodcut", "bbox": {"x": 0.032, "y": 0.046, "width": 0.941, "height": 0.923}, "gallery_quality": 0.95, "museum_rationale": "This is a prime example of traditional Chinese woodblock cartography and landscape illustration. The detail in depicting the unique Danxia landforms of Wuyi Mountain alongside its religious and cultural architecture makes it highly significant for the study of historical travel, geography, and Daoist culture."}]
+</detected-images>
+
+--- Page 40 ---
+<lang>Chinese</lang>
+
+## 泉山圖
+
+<vocab>泉山圖, landscape painting, topography, woodblock print, mountain, architecture</vocab>
+
+<detected-images>
+[
+  {"description": "Woodcut illustration of Quanshan (Spring Mountain) from a Chinese book, featuring a prominent craggy peak, a walled building complex near the base, and the title '泉山圖' at the top. The style is characteristic of traditional landscape prints found in historical gazetteers.", "type": "woodcut", "bbox": {"x": 0.015, "y": 0.205, "width": 0.430, "height": 0.697}, "gallery_quality": 0.85, "museum_rationale": "A high-quality example of pre-modern Chinese woodblock printing, demonstrating sophisticated line work and topographic detail in the 'shan shui' (mountain-water) tradition."},
+  {"description": "A continuation of the landscape woodcut across the book spread, depicting steep, jagged mountain ridges and a winding path ascending the slopes through dense vegetation.", "type": "woodcut", "bbox": {"x": 0.512, "y": 0.205, "width": 0.463, "height": 0.708}, "gallery_quality": 0.85, "museum_rationale": "Detailed woodblock depiction of terrain that forms a panoramic view with the facing page, illustrating historical Chinese cartographic and artistic printing techniques."}
+]
+</detected-images>
+
+--- Page 41 ---
+<lang>zh</lang>
+<meta>This is a two-page spread from a Chinese woodblock-printed book, likely a local gazetteer (地方志) or a travelogue, featuring a continuous landscape illustration.</meta>
+
+# 九日山圖
+
+<margin>
+九
+</margin>
+
+<vocab>九日山, 山水, 木刻, Jiuri Mountain, landscape illustration</vocab>
+
+<detected-images>
+[
+  {"description": "A sophisticated two-page woodblock print depicting Jiuri Mountain (九日山). The illustration features dramatic, vertically-oriented craggy peaks, stylized mist and clouds, and several traditional architectural structures including temples and pavilions nestled among pine trees. The composition utilizes traditional Chinese landscape painting techniques translated into the medium of woodblock printing.", "type": "woodcut", "bbox": {"x": 0.012, "y": 0.205, "width": 0.931, "height": 0.703}, "gallery_quality": 0.9, "museum_rationale": "This is a high-quality example of pre-modern Chinese woodblock illustration, notable for its intricate line work and the successful execution of a continuous landscape across a book spread. Such illustrations are vital for studying the intersection of print culture, geography, and art history in the Ming or Qing dynasties."}
+]
+</detected-images>
+
+--- Page 42 ---
+# 岐山圖
+
+<lang>Chinese</lang>
+<meta>
+- image-quality: high
+- layout: two-page woodblock print spread
+</meta>
+
+<detected-images>
+[{"description": "A detailed traditional Chinese woodblock landscape illustration of Mount Qi (岐山) spanning two pages. It depicts rugged, textured mountain peaks (using traditional 'cun' brushstroke techniques translated to woodcut), pine trees, a winding path with a traveler, and small architectural structures nestled in the valleys.", "type": "woodcut", "bbox": {"x": 0.02, "y": 0.2, "width": 0.93, "height": 0.72}, "gallery_quality": 0.95, "museum_rationale": "An exceptional example of early modern Chinese woodblock printing, showcasing sophisticated landscape composition and technical skill in translating traditional ink-wash painting textures into a print medium."}]
+</detected-images>
+
+<vocab>岐山, 岐山圖</vocab>
+
+--- Page 43 ---
+# 栟櫚山
+
+<lang>zh</lang>
+<sig>七一</sig>
+
+<detected-images>
+[{"description": "A double-page woodcut landscape illustration of Binglü Mountain (栟櫚山). The scene features stylized, jagged mountain peaks with dense 'texture strokes' (cun), varied foliage including palm-like trees and pines, and a small human figure standing in a lower valley area on the left page. The composition follows traditional Chinese landscape painting conventions.", "type": "woodcut", "bbox": {"x": 0.03, "y": 0.19, "width": 0.93, "height": 0.72}, "gallery_quality": 0.9, "museum_rationale": "This is a sophisticated example of Chinese woodblock printing, likely from a Ming or Qing dynasty gazetteer or scenic guide, showing high technical skill in translating complex landscape textures into a printed medium."}]
+</detected-images>
+
+<vocab>栟櫚山, landscape woodcut, traditional Chinese geography</vocab>
+
+--- Page 44 ---
+<lang>Chinese</lang>
+<page-num>七二</page-num>
+<meta>Double-page woodblock landscape illustration. The text is integrated into the right-hand block.</meta>
+
+# 七臺山
+
+<vocab>七臺山 (Seven Terrace Mountain), 山水 (landscape), 木版畫 (woodblock print)</vocab>
+
+<detected-images>
+[{"description": "A detailed double-page woodblock landscape depicting 七臺山 (Seven Terrace Mountain) with layered, craggy peaks, pine trees, and a pavilion nestled in the mountainside.", "type": "woodcut", "bbox": {"x": 0.03, "y": 0.21, "width": 0.94, "height": 0.70}, "gallery_quality": 0.9, "museum_rationale": "A fine example of traditional Chinese topographic woodblock printing, likely from a gazetteer or literary compilation. The image displays sophisticated use of traditional landscape painting techniques translated into woodcut form."}]
+</detected-images>
+
+--- Page 45 ---
+<lang>zh</lang>
+<sig>七三</sig>
+
+# 福建蓮峰山
+
+<vocab>福建, 蓮峰山, 七三</vocab>
+
+<detected-images>
+[{"description": "A detailed double-page woodblock print depicting the landscape of Lianfeng Mountain in Fujian. The illustration features towering, craggy mountain peaks, dense clusters of trees, and traditional architectural structures (likely temples or pavilions) nestled in the valleys. A flock of birds is visible in the upper left sky.", "type": "woodcut", "bbox": {"x": 0.035, "y": 0.213, "width": 0.933, "height": 0.695}, "gallery_quality": 0.9, "museum_rationale": "An excellent example of Ming or Qing dynasty topographical woodblock printing, showcasing sophisticated composition and linear detail characteristic of Chinese landscape gazetteers."}]
+</detected-images>
+
+--- Page 46 ---
+<lang>zh</lang>
+<page-num>七四</page-num>
+<meta>Woodcut landscape illustration spanning two pages.</meta>
+
+# <insert>霍童山圖</insert>
+
+***
+
+<vocab>霍童山, 山水畫, 木刻版畫</vocab>
+
+<detected-images>
+[{"description": "A traditional Chinese woodcut illustration of Mount Huotong, spanning across a double-page spread. The image depicts a dense mountain landscape with craggy peaks, stylized pine trees, and swirling clouds. A waterfall cascades into a pool on the left, while a small bridge and figures inside a cavern are visible in the center-left. The style follows classical shanshui (landscape) aesthetics with expressive linework.", "type": "woodcut", "bbox": {"x": 0.022, "y": 0.208, "width": 0.955, "height": 0.702}, "gallery_quality": 0.85, "museum_rationale": "This is a high-quality example of Chinese woodblock illustration from a gazetteer or religious text. It showcases intricate detailing in the textures of the rocks (cunfa) and the rendering of nature, making it a valuable specimen of early modern Chinese printing and artistic representation of sacred geography."}]
+</detected-images>
+
+--- Page 47 ---
+<lang>Chinese</lang>
+<page-num>75</page-num>
+<sig>七五</sig>
+
+# 韶石山
+
+<vocab>韶石山, 七五</vocab>
+
+<detected-images>
+[{"description": "A refined double-page woodblock landscape illustration of Shaoshi Mountain. The composition features towering, craggy peaks, dense clusters of trees (including pines), and stylized water. Small architectural details like pavilions and a bridge are visible within the mountainous terrain, characteristic of traditional Chinese shanshui (landscape) art.", "type": "woodcut", "bbox": {"x": 0.026, "y": 0.211, "width": 0.945, "height": 0.702}, "gallery_quality": 0.9, "museum_rationale": "An excellent example of traditional Chinese woodblock printing from the Ming or Qing dynasty. The intricate linework used to depict rock textures (cunfa) and foliage demonstrates high technical skill, typical of prestigious geographical gazetteers or scenic albums of the period."}]
+</detected-images>
+
+--- Page 48 ---
+<lang>zh</lang>
+<page-num>七十六</page-num>
+<meta>Woodblock print landscape spread from a historical gazetteer or topography.</meta>
+
+## 東山
+
+<insert>
+中峯書院
+</insert>
+
+<insert>
+崇閣
+</insert>
+
+<insert>
+謝公祠
+</insert>
+
+<insert>
+明月堂
+</insert>
+
+<insert>
+荷花池
+</insert>
+
+<insert>
+國清洞
+</insert>
+
+---
+
+<insert>
+琶琵洲
+</insert>
+
+<vocab>東山 (Dongshan), 中峯書院 (Zhongfeng Academy), 謝公祠 (Shrine of Lord Xie), 明月堂 (Mingyue Hall), 荷花池 (Lotus Pond), 國清洞 (Guoqing Cave), 琶琵洲 (Pipa Isle)</vocab>
+
+<detected-images>
+[{"description": "A comprehensive two-page woodblock landscape illustration of Dongshan (East Mountain). The scene is rendered in the traditional Chinese mountain-and-water (shanshui) style, featuring layered, textured mountain ranges, groves of pine and deciduous trees, and a winding river. A complex of classical buildings is nestled in the valley, identified by labels as the Zhongfeng Academy and the Shrine of Lord Xie (Xie An). Other landmarks like a lotus pond, a cave, and a distinct landform in the water (Pipa Isle) are also labeled. A small boat is visible on the water at the bottom left.", "type": "woodcut", "bbox": {"x": 0.038, "y": 0.208, "width": 0.925, "height": 0.701}, "gallery_quality": 0.95, "museum_rationale": "This is a high-quality example of Chinese woodblock printing, likely from the late Ming or early Qing dynasty. It demonstrates sophisticated 'fupi' (axe-cut) and 'heye' (lotus leaf) stroke techniques translated to the woodblock medium. The integration of cartographic labeling with artistic landscape composition makes it a significant document of both art history and historical geography."}]
+</detected-images>
+
+--- Page 49 ---
+<lang>Chinese</lang>
+
+### 羅浮
+
+<vocab>羅浮, Luofu Mountain</vocab>
+
+<detected-images>
+[{"description": "A woodblock print illustration of a Chinese landscape spanning two pages. The left page depicts a river scene with bamboo groves, terraced hillsides, a small village on the water's edge, a boatman, a city gate with crenelated walls, and an arched stone bridge.", "type": "woodcut", "bbox": {"x": 0.035, "y": 0.208, "width": 0.445, "height": 0.701}, "gallery_quality": 0.85, "museum_rationale": "A fine example of traditional Chinese woodblock landscape illustration, likely from a geographical gazetteer or a scenic guide."},
+{"description": "The right page of a woodblock print showing the rugged terrain of Luofu Mountain. It features steep, craggy peaks, several temple or monastery buildings nestled within the mountains, a bridge, and dense clusters of trees. The characters '羅浮' (Luofu) are inscribed in the upper right.", "type": "woodcut", "bbox": {"x": 0.522, "y": 0.208, "width": 0.449, "height": 0.702}, "gallery_quality": 0.9, "museum_rationale": "A significant historical depiction of the sacred Taoist Luofu Mountain, demonstrating intricate line work and classic compositional techniques of the Ming or Qing dynasties."}]
+</detected-images>
+
+--- Page 50 ---
+<lang>zh</lang>
+<page-num>七八</page-num>
+<meta>Double-page woodblock print landscape</meta>
+
+## 白 鶴 峯
+
+<vocab>白鶴峯, woodblock print, landscape, topography</vocab>
+
+<detected-images>
+[{"description": "A detailed two-page woodblock landscape illustration. The right panel depicts a cluster of traditional buildings nestled in a steep, rocky mountain valley near a body of water. The left panel shows a wide river landscape with the title 'White Crane Peak' (白鶴峯) at the top; in the foreground, figures walk along the riverbank towards the mountains.", "type": "woodcut", "bbox": {"x": 0.033, "y": 0.213, "width": 0.932, "height": 0.697}, "gallery_quality": 0.88, "museum_rationale": "An excellent example of Ming or Qing dynasty woodblock printing, likely from a scenic atlas or gazetteer. The composition uses classic landscape techniques to create depth and texture through intricate line work."}]
+</detected-images>
+
+--- Page 51 ---
+<lang>zh</lang>
+<page-num>七九</page-num>
+<meta>Double-page woodcut illustration of a scenic landscape.</meta>
+
+## 七星岩
+
+<vocab>七星岩, landscape, woodcut, mountain, pavilion</vocab>
+
+<detected-images>
+[
+  {"description": "Left half of a double-page landscape woodcut titled 'Seven Star Crags', featuring steep cliffs, pavilions, and willow trees along a shoreline.", "type": "woodcut", "bbox": {"x": 0.027, "y": 0.209, "width": 0.448, "height": 0.697}, "gallery_quality": 0.85, "museum_rationale": "A fine example of traditional Chinese woodblock printing from a geographical gazetteer or travel guide, showing intricate landscape details and architectural elements."},
+  {"description": "Right half of the 'Seven Star Crags' woodcut, depicting a continuation of the craggy mountains with hidden caves and numerous pavilions integrated into the rock formations.", "type": "woodcut", "bbox": {"x": 0.522, "y": 0.208, "width": 0.449, "height": 0.698}, "gallery_quality": 0.85, "museum_rationale": "Displays sophisticated composition techniques and line work characteristic of late imperial Chinese book illustration."}
+]
+</detected-images>
+
+--- Page 52 ---
+<lang>zh</lang>
+<page-num>八十</page-num>
+
+## 桂林
+
+<vocab>桂林, 八十, landscape, woodblock print</vocab>
+
+<detected-images>
+[{"description": "A detailed double-page woodblock print depicting a classical Chinese landscape of Guilin. The illustration features characteristic karst mountain peaks, winding rivers, traditional buildings (temples or pavilions), bridges, and various types of trees including pines and bamboo, rendered with fine line work typical of the late Ming or Qing dynasties.", "type": "woodcut", "bbox": {"x": 0.031, "y": 0.207, "width": 0.939, "height": 0.706}, "gallery_quality": 0.9, "museum_rationale": "This is a high-quality specimen of traditional Chinese landscape woodblock printing. It serves as an important visual record of historical geography and artistic styles, demonstrating sophisticated composition and technical skill in the medium."}]
+</detected-images>
+
+--- Page 53 ---
+<lang>zh</lang>
+<page-num>二十一</page-num>
+<meta>Woodblock landscape illustration spanning a two-page spread.</meta>
+
+隱
+
+山
+
+<vocab>隱山, 山水, 木刻, 園林</vocab>
+
+<detected-images>
+[{"description": "A traditional Chinese landscape woodblock print spanning two pages. It depicts a rugged mountain scene with steep cliffs, gnarled pine trees, a secluded pavilion perched on a high ridge, and a waterfall cascading into a stream where figures are seated on the bank. The composition uses traditional 'shanshui' techniques with strong, expressive line work. The characters '隱' (Hidden/Secluded) and '山' (Mountain) are integrated into the upper corners of the composition.", "type": "woodcut", "bbox": {"x": 0.027, "y": 0.211, "width": 0.934, "height": 0.704}, "gallery_quality": 0.85, "museum_rationale": "This is a high-quality example of pre-modern Chinese woodblock printing, exhibiting the fine line-work and compositional balance characteristic of literary or illustrative publications from the Ming or Qing dynasties."}]
+</detected-images>
+
+--- Page 54 ---
+<lang>zh</lang>
+<page-num>八二</page-num>
+
+## 都嶠山
+
+<vocab>都嶠山, Dujiao Mountain, landscape illustration, woodcut</vocab>
+
+<detected-images>
+[{"description": "A two-page woodcut landscape illustration of Mount Dujiao (Dujiao Shan), showing towering, jagged rock formations, a cave entrance, small buildings on the heights, and stylized waves at the base. The composition features traditional Chinese 'axe-cut' strokes for the rocks.", "type": "woodcut", "bbox": {"x": 0.027, "y": 0.208, "width": 0.927, "height": 0.703}, "gallery_quality": 0.9, "museum_rationale": "This is a high-quality example of traditional Chinese woodblock landscape illustration, characterized by intricate line work and stylized textures typical of Ming or Qing dynasty topographical gazetteers."}]
+</detected-images>
+
+--- Page 55 ---
+<lang>zh</lang>
+<page-num>八三</page-num>
+
+### 勾漏山
+
+<vocab>勾漏山, 山水, 木刻, 地圖</vocab>
+
+<detected-images>
+[{"description": "A double-page woodblock illustration of Goulou Mountain (勾漏山), rendered in the traditional Chinese landscape style. The scene depicts craggy, layered mountain peaks, twisting pine trees, and rocky outcrops, using sophisticated line work to create depth and texture across the two-page spread.", "type": "woodcut", "bbox": {"x": 0.024, "y": 0.208, "width": 0.932, "height": 0.704}, "gallery_quality": 0.9, "museum_rationale": "This is a high-quality example of pre-modern Chinese woodblock printing, demonstrating the 'shan-shui' (mountain and water) aesthetic. The composition successfully bridges the gutter of the book to create a panoramic view, which is characteristic of luxury illustrated gazetteers or travelogues of the late Ming or early Qing dynasties."}]
+</detected-images>
+
+--- Page 56 ---
+<lang>zh</lang>
+<page-num>八四</page-num>
+
+## 白石山
+
+<vocab>白石山, 山水, 木版画</vocab>
+
+<detected-images>
+[{"description": "A detailed two-page woodblock landscape illustration of Baishi Mountain. The left page features layered mountain slopes with fine texture strokes and sparse trees. The right page displays two towering, jagged peaks rising above swirling clouds, with a large natural stone archway framing a valley in the foreground. Pine trees and dense foliage are scattered throughout the scene.", "type": "woodcut", "bbox": {"x": 0.012, "y": 0.205, "width": 0.963, "height": 0.707}, "gallery_quality": 0.95, "museum_rationale": "An exceptional example of late Ming or early Qing dynasty landscape woodblock printing. The use of varied texture strokes (cun fa) to depict geological forms and the sophisticated composition spanning a double-page spread are characteristic of high-quality scholarly book illustrations from this period."}]
+</detected-images>
+
+--- Page 57 ---
+# 真仙山
+
+<lang>zh</lang>
+<page-num>八五</page-num>
+
+<vocab>真仙, 山</vocab>
+
+<detected-images>
+[{"description": "A detailed two-page woodcut landscape illustration. The composition features jagged mountain peaks, cascading waterfalls, and layers of stylized clouds or mist. Small structures and figures are visible nestled within the valley and on cliff edges, suggesting a sacred or hermetic environment. The text '真仙' (True Immortal) and '山' (Mountain) serves as a label for the scene.", "type": "woodcut", "bbox": {"x": 0.007, "y": 0.203, "width": 0.967, "height": 0.707}, "gallery_quality": 0.95, "museum_rationale": "This is a superb example of traditional Chinese woodblock landscape illustration, likely from the late Ming or early Qing period. It skillfully translates 'shanshui' (mountain-water) painting aesthetics into the medium of print, utilizing sophisticated line-work for textures (cun) and atmospheric perspective. Such illustrations are key to understanding the visual culture of sacred geography and Daoist iconography in early modern China."}]
+</detected-images>
+
+--- Page 58 ---
+<lang>zh</lang>
+<page-num>八六</page-num>
+
+# 雞足山圖
+
+<vocab>雞足山, 圖, 山水</vocab>
+
+<detected-images>
+[{"description": "A detailed woodblock landscape illustration of Mount Jizu (Jizushan) spanning two pages, featuring craggy mountain peaks, winding pathways, several temples or pavilions nestled in the valleys, and a prominent pagoda on a high ridge.", "type": "woodcut", "bbox": {"x": 0.016, "y": 210, "width": 0.963, "height": 0.697}, "gallery_quality": 0.95, "museum_rationale": "This is an exceptional example of late imperial Chinese woodblock printing, demonstrating sophisticated use of line to depict depth, texture in rock formations (cunfa), and architectural detail. It is a significant visual record of a major Buddhist pilgrimage site."}]
+</detected-images>
+
+--- Page 59 ---
+<lang>Chinese</lang>
+<page-num>八七</page-num>
+
+# 雪山圖
+
+<vocab>雪山圖 (Xue Shan Tu), mountain landscape, woodcut</vocab>
+
+<detected-images>
+[{"description": "A traditional Chinese woodcut illustration across a double-page spread titled 'Snow Mountain Illustration' (雪山圖). It depicts a rugged mountain range with jagged peaks, dense pine forests, a defensive wall with a gatehouse on the left, and various small buildings and bridges nestled in the valleys.", "type": "woodcut", "bbox": {"x": 0.015, "y": 0.205, "width": 0.945, "height": 0.71}, "gallery_quality": 0.85, "museum_rationale": "An excellent example of traditional landscape printmaking, utilizing intricate linework to represent geological textures and botanical elements in the 'mountain and water' (shanshui) tradition."}]
+</detected-images>
+
+--- Page 60 ---
+<lang>Chinese</lang>
+<meta>The image is a double-page spread from a woodblock-printed book, featuring a continuous landscape illustration across both pages. A vertical water stain is visible at the top center gutter.</meta>
+
+# 方丈山
+
+<vocab>方丈山 (Mount Fangzhang), woodblock print, landscape, Chinese mythology</vocab>
+
+<detected-images>
+[{"description": "A detailed double-page woodblock landscape depicting Mount Fangzhang (方丈山), one of the three mythical islands of the immortals in Chinese mythology. The scene features stylized, layered mountain ranges with rhythmic texture strokes, gnarled pine trees, and a lone figure standing on a mountain path on the left-hand page.", "type": "woodcut", "bbox": {"x": 0.01, "y": 0.20, "width": 0.96, "height": 0.71}, "gallery_quality": 0.9, "museum_rationale": "This is a high-quality example of traditional Chinese book illustration, likely from the late Ming or early Qing dynasty. The intricate woodblock carving demonstrates sophisticated 'cun' (texture) strokes typical of landscape painting of the period, making it a valuable specimen of historical print culture and artistic representation of Taoist cosmology."}]
+</detected-images>
+
+--- Page 61 ---
+<lang>zh</lang>
+<sig>八九</sig>
+
+# 阿廬
+
+---
+
+# 三洞
+
+<vocab>阿廬, 三洞, 山水, 塔, 橋, 洞穴, 古籍插圖</vocab>
+
+<detected-images>
+[
+  {"description": "Woodcut illustration of Alu (阿廬) landscape featuring towering mountains, a large cave entrance where figures are seated, temple or monastery buildings nestled in the valley, and gnarled pine trees.", "type": "woodcut", "bbox": {"x": 0.518, "y": 0.208, "width": 0.445, "height": 0.693}, "gallery_quality": 0.9, "museum_rationale": "High-quality historical woodcut in the traditional Chinese 'shanshui' (mountain-water) style, showing intricate line work for foliage and rocky textures, typical of Ming or Qing dynasty topographical works."},
+  {"description": "Woodcut illustration titled 'Three Caves' (三洞) depicting a scenic river landscape with a prominent five-story pagoda, a multi-arched stone bridge, distant mountains, and waterfalls in the foreground.", "type": "woodcut", "bbox": {"x": 0.038, "y": 0.208, "width": 0.445, "height": 0.693}, "gallery_quality": 0.9, "museum_rationale": "A classic example of topographical woodblock printing, likely from a gazetteer, providing a visual record of historical landmarks and scenic architecture."}
+]
+</detected-images>
+
+--- Page 62 ---
+<lang>zh</lang>
+<page-num>九十</page-num>
+
+# 飛雲嵒
+
+<insert>下</insert>
+
+<vocab>飛雲嵒, landscape, woodcut, mountain, pagoda</vocab>
+
+<detected-images>
+[{"description": "A panoramic woodcut illustration across two pages depicting 'Flying Cloud Cliff' (飛雲嵒). The artwork features jagged, towering mountain peaks with pine trees, a winding river, and traditional buildings. Artistic swirling clouds or waves are shown at the base of the cliffs.", "type": "woodcut", "bbox": {"x": 0.01, "y": 0.2, "width": 0.96, "height": 0.71}, "gallery_quality": 0.9, "museum_rationale": "This is an excellent specimen of early modern Chinese woodblock printing, likely from a geographical or scenic guide. The detailed line work effectively conveys geological texture and atmospheric depth."}]
+</detected-images>
+
+--- Page 63 ---
+<lang>Chinese</lang>
+<warning>The provided image consists of two pages that are entirely blank of text. The right-hand folio contains a printed border frame.</warning>
+<meta>Two-page spread of a traditional woodblock printed book. The left folio is completely blank. The right folio features a single-line rectangular border (kèshì) typical of Chinese string-bound editions. The "banxin" (block center) is partially visible at the far right edge, marked by a black segment.</meta>
+
+<vocab>blank page, woodblock border, kèshì, banxin</vocab>
+
+<detected-images>
+[{"description": "A woodblock-printed rectangular border frame on the right-hand folio.", "type": "decorative", "bbox": {"x": 0.514, "y": 0.209, "width": 0.451, "height": 0.702}, "gallery_quality": 0.2, "museum_rationale": "A standard structural element of a Chinese woodblock-printed page, serving as a frame for text that has not been printed or is absent in this copy."}]
+</detected-images>
+
+--- Page 64 ---
+<lang>zh</lang>
+<meta>Library of Congress barcode: 0 007 784 024 2</meta>
+<meta>Library call number sticker: ORIENTALIA CHINESE V B130.7 M67</meta>
+
+# 名山圖
+
+<vocab>名山圖, Mingshan tu, famous mountains, Chinese landscape, geography</vocab>
+
+--- Page 65 ---
+<lang>English</lang>
+<meta>Front cover of a traditional thread-bound volume with library call numbers written in light-colored ink or pencil.</meta>
+
+->V<-
+
+->B130.7<-
+->M67<-
+
+->1<-
+
+<vocab>call number, shelfmark, thread-bound book</vocab>
+
+--- Page 66 ---
+<lang>en</lang>
+<meta>Handwritten library shelfmark on dark purple front cover</meta>
+
+->V<-
+->B130.7<-
+->M67<-
+->2<-
+
+<vocab>shelfmark, library classification</vocab>

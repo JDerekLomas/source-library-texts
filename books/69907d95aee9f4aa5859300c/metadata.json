@@ -1,0 +1,28 @@
+{
+  "id": "69907d95aee9f4aa5859300c",
+  "title": "Gauri Jatakam",
+  "display_title": "Gauri Jatakam",
+  "author": "Unknown",
+  "language": "Sanskrit",
+  "year": 1800,
+  "published": "1800",
+  "pages_count": 64,
+  "pages_with_ocr": 64,
+  "pages_with_translation": 52,
+  "source_url": "https://sourcelibrary.org/book/69907d95aee9f4aa5859300c",
+  "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "gaurijatakam1192ghaalm6shlf1devanagarijyotish"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:34.582Z",
+  "_hashes": {
+    "ocr": "fa7ef67495690a61",
+    "translation": "2be6004699a6860d"
+  }
+}

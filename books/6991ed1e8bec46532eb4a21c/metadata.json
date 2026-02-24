@@ -1,0 +1,28 @@
+{
+  "id": "6991ed1e8bec46532eb4a21c",
+  "title": "Apologia pro Galileo",
+  "display_title": "Apologia pro Galileo",
+  "author": "Tommaso Campanella",
+  "language": "Latin",
+  "year": 1622,
+  "published": "Unknown",
+  "pages_count": 68,
+  "pages_with_ocr": 68,
+  "pages_with_translation": 55,
+  "source_url": "https://sourcelibrary.org/book/6991ed1e8bec46532eb4a21c",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "fthomaecampanell00camp"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:32.158Z",
+  "_hashes": {
+    "ocr": "02d44f1d31d2c787",
+    "translation": "4355bf642e2d5d87"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "6991d8978c1030b12444c035",
+  "title": "Satchakranirupanacitram (Illustrated Six Chakras)",
+  "display_title": "Satchakranirupanacitram (Illustrated Six Chakras)",
+  "author": "Swami Hansa Swaroop",
+  "language": "Sanskrit",
+  "year": 1900,
+  "published": "undated",
+  "pages_count": 63,
+  "pages_with_ocr": 63,
+  "pages_with_translation": 63,
+  "source_url": "https://sourcelibrary.org/book/6991d8978c1030b12444c035",
+  "license": "pdm",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:34.961Z",
+  "_hashes": {
+    "ocr": "ce0eb2e4d9925975",
+    "translation": "3f0b4bb0d9428c75"
+  }
+}

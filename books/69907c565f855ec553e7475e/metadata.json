@@ -1,0 +1,28 @@
+{
+  "id": "69907c565f855ec553e7475e",
+  "title": "Prashna Bhairava",
+  "display_title": "Prashna Bhairava",
+  "author": "Unknown",
+  "language": "Sanskrit",
+  "year": 1800,
+  "published": "1800",
+  "pages_count": 52,
+  "pages_with_ocr": 52,
+  "pages_with_translation": 52,
+  "source_url": "https://sourcelibrary.org/book/69907c565f855ec553e7475e",
+  "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "PrshnaBhairava5447Alm25Shlf1GhaDevanagariJyotish"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:40.368Z",
+  "_hashes": {
+    "ocr": "8629c62d12d2dbf6",
+    "translation": "8e1d31f9b1e578d8"
+  }
+}

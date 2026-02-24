@@ -1,0 +1,26 @@
+{
+  "id": "69819209e4f4f6455d89c7b8",
+  "title": "Von der liebe gottes ein wunder huebsch underrichtung",
+  "display_title": "Von der liebe gottes ein wunder huebsch underrichtung",
+  "author": "Staupitz, Johannes von",
+  "language": "German",
+  "year": 1520,
+  "published": "1520",
+  "pages_count": 54,
+  "pages_with_ocr": 54,
+  "pages_with_translation": 54,
+  "source_url": "https://sourcelibrary.org/book/69819209e4f4f6455d89c7b8",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:39.218Z",
+  "_hashes": {
+    "ocr": "f6e67db61f1b5064",
+    "translation": "49ccd1bb215846ff"
+  }
+}

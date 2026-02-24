@@ -1,0 +1,28 @@
+{
+  "id": "6991eae52f801130a473ec18",
+  "title": "Notes et croquis sur la physiognomonie",
+  "display_title": "Notes et croquis sur la physiognomonie",
+  "author": "Leonardo da Vinci",
+  "language": "Italian",
+  "year": 1880,
+  "published": "Unknown",
+  "pages_count": 66,
+  "pages_with_ocr": 66,
+  "pages_with_translation": 66,
+  "source_url": "https://sourcelibrary.org/book/6991eae52f801130a473ec18",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "gri_33125017557550"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:32.677Z",
+  "_hashes": {
+    "ocr": "780c93cfb6917aa5",
+    "translation": "60ffc2689863a88f"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "6990689a8034a3640265bb33",
+  "title": "Kalendarium with Medical and Astrological Texts",
+  "display_title": "Bodleian Library MS. Ashmole 370",
+  "author": "Nicholas of Lynn",
+  "language": "Latin",
+  "year": 1424,
+  "published": "1424",
+  "pages_count": 58,
+  "pages_with_ocr": 58,
+  "pages_with_translation": 58,
+  "source_url": "https://sourcelibrary.org/book/6990689a8034a3640265bb33",
+  "license": "CC-BY-NC-4.0",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:37.838Z",
+  "_hashes": {
+    "ocr": "2c2b12b865204f89",
+    "translation": "c206434a8305e853"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "697c8e0f6000fdec2f13060c",
+  "title": "Geomantia nova",
+  "display_title": "Geomantia nova",
+  "author": "Weigel, Valentin",
+  "language": "Latin",
+  "year": 1686,
+  "published": "1686",
+  "pages_count": 58,
+  "pages_with_ocr": 58,
+  "pages_with_translation": 58,
+  "source_url": "https://sourcelibrary.org/book/697c8e0f6000fdec2f13060c",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:37.922Z",
+  "_hashes": {
+    "ocr": "ca1a2d48a39b309b",
+    "translation": "443e9f848079c938"
+  }
+}

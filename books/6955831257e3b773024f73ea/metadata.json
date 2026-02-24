@@ -1,0 +1,28 @@
+{
+  "id": "6955831257e3b773024f73ea",
+  "title": "A General Collection of the Ancient Irish Music",
+  "display_title": "A General Collection of the Ancient Irish Music",
+  "author": "Edward Bunting",
+  "language": "English",
+  "year": 1796,
+  "published": "Unknown",
+  "pages_count": 52,
+  "pages_with_ocr": 52,
+  "pages_with_translation": 52,
+  "source_url": "https://sourcelibrary.org/book/6955831257e3b773024f73ea",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "generalcollectio00bunt"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:40.286Z",
+  "_hashes": {
+    "ocr": "c7866bc96902b4fd",
+    "translation": "99b042088f82b955"
+  }
+}

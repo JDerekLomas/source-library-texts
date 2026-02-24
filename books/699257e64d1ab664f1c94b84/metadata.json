@@ -1,0 +1,28 @@
+{
+  "id": "699257e64d1ab664f1c94b84",
+  "title": "Tattvartha Sutra",
+  "display_title": "Tattvartha Sutra",
+  "author": "Umasvati",
+  "language": "Sanskrit",
+  "year": 1920,
+  "published": "Unknown",
+  "pages_count": 67,
+  "pages_with_ocr": 67,
+  "pages_with_translation": 54,
+  "source_url": "https://sourcelibrary.org/book/699257e64d1ab664f1c94b84",
+  "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "tattvarthbook10webf"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:32.547Z",
+  "_hashes": {
+    "ocr": "c2656524294a7b39",
+    "translation": "58b946dc5450d475"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "699356cb8ed86e583b7b86cc",
+  "title": "Wu deng hui yuan (Compendium of the Five Lamps)",
+  "display_title": "Wu deng hui yuan (Compendium of the Five Lamps)",
+  "author": "Puji",
+  "language": "Chinese",
+  "year": 1252,
+  "published": "1252",
+  "pages_count": 53,
+  "pages_with_ocr": 53,
+  "pages_with_translation": 53,
+  "source_url": "https://sourcelibrary.org/book/699356cb8ed86e583b7b86cc",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:39.918Z",
+  "_hashes": {
+    "ocr": "10066ea2f428dac6",
+    "translation": "79378733973f5792"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "69528b42ab34727b1f04f493",
+  "title": "Visionen (Visions)",
+  "display_title": "Visionen (Visions)",
+  "author": "Hadewijch of Brabant",
+  "language": "German",
+  "year": 1907,
+  "published": "1907",
+  "pages_count": 64,
+  "pages_with_ocr": 64,
+  "pages_with_translation": 64,
+  "source_url": "https://sourcelibrary.org/book/69528b42ab34727b1f04f493",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "visionen00hade"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:34.113Z",
+  "_hashes": {
+    "ocr": "fe08d5a228a2e82e",
+    "translation": "23fb8d0e5bc2c008"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "6952727dab34727b1f0485f2",
+  "title": "Pro Suo Opere Harmonices Mundi Apologia",
+  "display_title": "Apologia Adversus Fludd (Defense Against Fludd)",
+  "author": "Johannes Kepler",
+  "language": "Latin",
+  "year": 1622,
+  "published": "1622",
+  "pages_count": 66,
+  "pages_with_ocr": 66,
+  "pages_with_translation": 66,
+  "source_url": "https://sourcelibrary.org/book/6952727dab34727b1f0485f2",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "den-kbd-pil-220022000327-001"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-2.5-flash"
+  },
+  "synced_at": "2026-02-24T18:29:33.393Z",
+  "_hashes": {
+    "ocr": "ccf8e4ce3cd6063c",
+    "translation": "a01ed706716d9bdc"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "69907c615f855ec553e74ecc",
+  "title": "Chamatkar Chintamani and Stri Jataka",
+  "display_title": "Chamatkar Chintamani",
+  "author": "Unknown",
+  "language": "Sanskrit",
+  "year": 1800,
+  "published": "1800",
+  "pages_count": 55,
+  "pages_with_ocr": 55,
+  "pages_with_translation": 55,
+  "source_url": "https://sourcelibrary.org/book/69907c615f855ec553e74ecc",
+  "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "ChamatkarChintamaniStriJatakamAlm28Shlf4629057G1DevanagariJyotish"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:38.960Z",
+  "_hashes": {
+    "ocr": "7d958f0a38e996c1",
+    "translation": "72bde718c8ebbd5e"
+  }
+}

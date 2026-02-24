@@ -1,0 +1,26 @@
+{
+  "id": "697a7fc5e680cef7cedae391",
+  "title": "[Hebrew: Masoret ha-masoret] sive Dissertatio philologica De Masora",
+  "display_title": "[Hebrew: Masoret ha-masoret] sive Dissertatio philologica De Masora",
+  "author": "Meyer, Michael|Pfeiffer, August",
+  "language": "Hebrew-Latin",
+  "year": 1670,
+  "published": "1670",
+  "pages_count": 52,
+  "pages_with_ocr": 52,
+  "pages_with_translation": 52,
+  "source_url": "https://sourcelibrary.org/book/697a7fc5e680cef7cedae391",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:40.049Z",
+  "_hashes": {
+    "ocr": "7db80a534d6f915a",
+    "translation": "a4c30e58ac9028a0"
+  }
+}

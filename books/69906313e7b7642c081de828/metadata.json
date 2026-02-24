@@ -1,0 +1,28 @@
+{
+  "id": "69906313e7b7642c081de828",
+  "title": "Quadripartitum et Centiloquium",
+  "display_title": "Quadripartitum et Centiloquium",
+  "author": "Claudius Ptolemy; Hali (commentary)",
+  "language": "Latin",
+  "year": 1484,
+  "published": "Unknown",
+  "pages_count": 63,
+  "pages_with_ocr": 63,
+  "pages_with_translation": 63,
+  "source_url": "https://sourcelibrary.org/book/69906313e7b7642c081de828",
+  "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "OEXV762_P1"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:35.312Z",
+  "_hashes": {
+    "ocr": "87e03121f24ed18d",
+    "translation": "b2b4af478aa607d8"
+  }
+}

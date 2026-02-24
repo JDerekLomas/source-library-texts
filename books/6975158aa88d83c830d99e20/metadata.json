@@ -1,0 +1,26 @@
+{
+  "id": "6975158aa88d83c830d99e20",
+  "title": "Astrologie theologized",
+  "display_title": "Astrologie theologized",
+  "author": "Weigel, Valentin",
+  "language": "English",
+  "year": 1649,
+  "published": "1649",
+  "pages_count": 64,
+  "pages_with_ocr": 64,
+  "pages_with_translation": 64,
+  "source_url": "https://sourcelibrary.org/book/6975158aa88d83c830d99e20",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:34.335Z",
+  "_hashes": {
+    "ocr": "bb0b3fcb2e6531a6",
+    "translation": "8305283c86a76291"
+  }
+}

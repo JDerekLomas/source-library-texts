@@ -1,0 +1,28 @@
+{
+  "id": "694d27e77219319474c057f4",
+  "title": "Tetragonismus idest circuli quadratura per Campanum archimedem Syracusanum atque boetium mathematicae perspicacissimos adinuenta",
+  "display_title": "Tetragonismus idest circuli quadratura per Campanum archimedem Syracusanum atque boetium mathematicae perspicacissimos adinuenta",
+  "author": "Campano : da Novara",
+  "language": "Latin",
+  "year": 1503,
+  "published": "1503",
+  "pages_count": 64,
+  "pages_with_ocr": 64,
+  "pages_with_translation": 64,
+  "source_url": "https://sourcelibrary.org/book/694d27e77219319474c057f4",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bub_gb_eZ04dG5e_JsC"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:34.423Z",
+  "_hashes": {
+    "ocr": "01d1eeb5f2d8e0ab",
+    "translation": "c78e118ecdbf57ee"
+  }
+}

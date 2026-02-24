@@ -1,0 +1,28 @@
+{
+  "id": "69520571ab34727b1f042c78",
+  "title": "Monas hieroglyphica",
+  "display_title": "Monas hieroglyphica",
+  "author": "John Dee",
+  "language": "Latin",
+  "year": 1564,
+  "published": "1564",
+  "pages_count": 61,
+  "pages_with_ocr": 61,
+  "pages_with_translation": 61,
+  "source_url": "https://sourcelibrary.org/book/69520571ab34727b1f042c78",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "gallica": "bpt6k5401042m"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:36.412Z",
+  "_hashes": {
+    "ocr": "0b0ef6508428e21a",
+    "translation": "78cba14df8b0cc40"
+  }
+}

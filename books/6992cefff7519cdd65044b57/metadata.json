@@ -1,0 +1,28 @@
+{
+  "id": "6992cefff7519cdd65044b57",
+  "title": "植物名實圖考(二)",
+  "display_title": "植物名實圖考(二)",
+  "author": "吳其濬",
+  "language": "Chinese",
+  "year": 1848,
+  "published": "1848",
+  "pages_count": 62,
+  "pages_with_ocr": 62,
+  "pages_with_translation": 50,
+  "source_url": "https://sourcelibrary.org/book/6992cefff7519cdd65044b57",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "02095435.cn"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:35.360Z",
+  "_hashes": {
+    "ocr": "ba174c5c64ccbbb6",
+    "translation": "078c7de5278ea10a"
+  }
+}

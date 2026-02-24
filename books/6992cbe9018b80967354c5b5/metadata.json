@@ -1,0 +1,28 @@
+{
+  "id": "6992cbe9018b80967354c5b5",
+  "title": "夢溪筆談 (Mengxi Bitan: Dream Pool Essays) Vols 25-27",
+  "display_title": "夢溪筆談 (Mengxi Bitan: Dream Pool Essays) Vols 25-27",
+  "author": "Shen Kuo",
+  "language": "Chinese",
+  "year": 1088,
+  "published": "Unknown",
+  "pages_count": 61,
+  "pages_with_ocr": 61,
+  "pages_with_translation": 49,
+  "source_url": "https://sourcelibrary.org/book/6992cbe9018b80967354c5b5",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "06061738.cn"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:35.781Z",
+  "_hashes": {
+    "ocr": "0016489b4db7ef94",
+    "translation": "f069534b1e8242ac"
+  }
+}

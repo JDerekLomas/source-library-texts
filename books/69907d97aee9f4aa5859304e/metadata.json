@@ -1,0 +1,28 @@
+{
+  "id": "69907d97aee9f4aa5859304e",
+  "title": "Hillaya Deepika (Tajika Tradition)",
+  "display_title": "Hillaya Deepika",
+  "author": "Unknown",
+  "language": "Sanskrit",
+  "year": 1800,
+  "published": "1800",
+  "pages_count": 60,
+  "pages_with_ocr": 60,
+  "pages_with_translation": 60,
+  "source_url": "https://sourcelibrary.org/book/69907d97aee9f4aa5859304e",
+  "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "HillayaDeepika5448Alm25Shlf1GhaDevanagariJyotish"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:36.772Z",
+  "_hashes": {
+    "ocr": "ef829c1b4245f6bf",
+    "translation": "7d99f96a63b45e1b"
+  }
+}

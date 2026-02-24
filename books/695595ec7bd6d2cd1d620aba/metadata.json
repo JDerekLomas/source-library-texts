@@ -1,0 +1,28 @@
+{
+  "id": "695595ec7bd6d2cd1d620aba",
+  "title": "Lectures de Potentia Restitutiva, or of Spring",
+  "display_title": "Lectures de Potentia Restitutiva, or of Spring",
+  "author": "Robert Hooke",
+  "language": "English",
+  "year": 1678,
+  "published": "Unknown",
+  "pages_count": 59,
+  "pages_with_ocr": 59,
+  "pages_with_translation": 59,
+  "source_url": "https://sourcelibrary.org/book/695595ec7bd6d2cd1d620aba",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bim_early-english-books-1641-1700_lectures-de-potentia-res_hooke-robert_1678"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:36.947Z",
+  "_hashes": {
+    "ocr": "ec803adadc9f3915",
+    "translation": "e83bcfd569763b0b"
+  }
+}

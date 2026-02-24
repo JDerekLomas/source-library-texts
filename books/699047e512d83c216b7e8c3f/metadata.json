@@ -1,0 +1,28 @@
+{
+  "id": "699047e512d83c216b7e8c3f",
+  "title": "Essai philosophique sur les probabilités",
+  "display_title": "Essai philosophique sur les probabilités",
+  "author": "Pierre-Simon Laplace",
+  "language": "French",
+  "year": 1814,
+  "published": "Unknown",
+  "pages_count": 120,
+  "pages_with_ocr": 67,
+  "pages_with_translation": 56,
+  "source_url": "https://sourcelibrary.org/book/699047e512d83c216b7e8c3f",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "essaiphilosophi00laplgoog"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:32.466Z",
+  "_hashes": {
+    "ocr": "97b41f08a13bf577",
+    "translation": "2de4cf20dfa12926"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "68679f27fc518f6dbf334eb6",
+  "title": "Ander Theil Gnothi Seauton. Nosce teipsum. Astrologia theologizata",
+  "display_title": "Know Thyself, O Man: Astrology Theologized",
+  "author": "Weigel, Valentin",
+  "language": "German",
+  "year": 1618,
+  "published": "1618",
+  "pages_count": 65,
+  "pages_with_ocr": 65,
+  "pages_with_translation": 65,
+  "source_url": "https://sourcelibrary.org/book/68679f27fc518f6dbf334eb6",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:33.531Z",
+  "_hashes": {
+    "ocr": "2149d0d6ca41cee3",
+    "translation": "3d31fb52a997aeb8"
+  }
+}

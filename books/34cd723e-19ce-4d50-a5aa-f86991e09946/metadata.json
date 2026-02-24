@@ -1,0 +1,28 @@
+{
+  "id": "34cd723e-19ce-4d50-a5aa-f86991e09946",
+  "title": "De Mineralibus",
+  "display_title": "Albertus Magnus: De Mineralibus (1519)",
+  "author": "Albertus Magnus",
+  "language": "Latin",
+  "year": 1519,
+  "published": "1519",
+  "pages_count": 61,
+  "pages_with_ocr": 61,
+  "pages_with_translation": 49,
+  "source_url": "https://sourcelibrary.org/book/34cd723e-19ce-4d50-a5aa-f86991e09946",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "sucho-id-alberti-magni-philosophorum-maximi-de-mineralibus-libri-quinque"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:35.986Z",
+  "_hashes": {
+    "ocr": "911f39951f617b49",
+    "translation": "538f09fa1f231bb2"
+  }
+}

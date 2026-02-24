@@ -1,0 +1,26 @@
+{
+  "id": "697927f6f35c6bbfbfd252f1",
+  "title": "Codicum cabalisticorum manuscriptorum ... Joannes Picus comes Mirandulanus index",
+  "display_title": "Codicum cabalisticorum manuscriptorum ... Joannes Picus comes Mirandulanus index",
+  "author": "Gaffarel, Jacques",
+  "language": "Latin",
+  "year": 1651,
+  "published": "1651",
+  "pages_count": 62,
+  "pages_with_ocr": 62,
+  "pages_with_translation": 62,
+  "source_url": "https://sourcelibrary.org/book/697927f6f35c6bbfbfd252f1",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:35.539Z",
+  "_hashes": {
+    "ocr": "47bf257117cd8439",
+    "translation": "eafd47702d491477"
+  }
+}

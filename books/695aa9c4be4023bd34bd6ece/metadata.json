@@ -1,0 +1,28 @@
+{
+  "id": "695aa9c4be4023bd34bd6ece",
+  "title": "Herons Belopoiika - Schrift vom Geschützbau (Diels/Schramm 1918)",
+  "display_title": "Herons Belopoiika - Schrift vom Geschützbau (Diels/Schramm 1918)",
+  "author": "Hero of Alexandria; Hermann Diels; Erwin Schramm (eds.)",
+  "language": "Greek-German",
+  "year": 1918,
+  "published": "Unknown",
+  "pages_count": 68,
+  "pages_with_ocr": 68,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/695aa9c4be4023bd34bd6ece",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "heronsbelopoiika00hero"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:29:32.218Z",
+  "_hashes": {
+    "ocr": "5b7db2786972ca2d",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

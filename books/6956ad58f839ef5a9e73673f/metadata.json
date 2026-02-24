@@ -1,0 +1,28 @@
+{
+  "id": "6956ad58f839ef5a9e73673f",
+  "title": "Clavicula Salomonis (Hebrew Manuscript)",
+  "display_title": "Clavicula Salomonis (Hebrew Manuscript)",
+  "author": "Solomon (attributed)",
+  "language": "Hebrew",
+  "year": 1903,
+  "published": "1903",
+  "pages_count": 54,
+  "pages_with_ocr": 54,
+  "pages_with_translation": 54,
+  "source_url": "https://sourcelibrary.org/book/6956ad58f839ef5a9e73673f",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "claviculasalomon00goll"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:39.535Z",
+  "_hashes": {
+    "ocr": "234cf804432d3aef",
+    "translation": "4e937bc18fe6de7b"
+  }
+}

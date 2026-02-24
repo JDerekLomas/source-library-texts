@@ -1,0 +1,28 @@
+{
+  "id": "6990665c2ec9f7db5717a19a",
+  "title": "Laghumanasa with Paramesvara Vyakhya",
+  "display_title": "Laghumanasa with Paramesvara Vyakhya",
+  "author": "Manjula; Paramesvara (comm.)",
+  "language": "Sanskrit",
+  "year": 1420,
+  "published": "Unknown",
+  "pages_count": 65,
+  "pages_with_ocr": 65,
+  "pages_with_translation": 65,
+  "source_url": "https://sourcelibrary.org/book/6990665c2ec9f7db5717a19a",
+  "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "laghumanasawithparamesvaravyakhyabalvantdattatreyaapteanandashram_762_o"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:33.616Z",
+  "_hashes": {
+    "ocr": "08e5d2a7eb7aae84",
+    "translation": "74debc31578f7c8d"
+  }
+}

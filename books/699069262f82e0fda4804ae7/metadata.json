@@ -1,0 +1,28 @@
+{
+  "id": "699069262f82e0fda4804ae7",
+  "title": "Jataka Phala Chintamani",
+  "display_title": "Jataka Phala Chintamani",
+  "author": "Anonymous",
+  "language": "Sanskrit",
+  "year": 1928,
+  "published": "Unknown",
+  "pages_count": 64,
+  "pages_with_ocr": 64,
+  "pages_with_translation": 64,
+  "source_url": "https://sourcelibrary.org/book/699069262f82e0fda4804ae7",
+  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "jataka-phala-chintamani"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:34.064Z",
+  "_hashes": {
+    "ocr": "9730a450e880b285",
+    "translation": "5862102acfb7b99d"
+  }
+}

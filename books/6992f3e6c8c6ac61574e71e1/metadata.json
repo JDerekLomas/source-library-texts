@@ -1,0 +1,26 @@
+{
+  "id": "6992f3e6c8c6ac61574e71e1",
+  "title": "針灸大成 (Zhenjiu Dacheng: Great Compendium of Acupuncture and Moxibustion)",
+  "display_title": "針灸大成 (Zhenjiu Dacheng: Great Compendium of Acupuncture and Moxibustion)",
+  "author": "Yang Jizhou (楊繼洲)",
+  "language": "Chinese",
+  "year": 1601,
+  "published": "1601",
+  "pages_count": 66,
+  "pages_with_ocr": 66,
+  "pages_with_translation": 51,
+  "source_url": "https://sourcelibrary.org/book/6992f3e6c8c6ac61574e71e1",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:32.939Z",
+  "_hashes": {
+    "ocr": "1173d5919b283cd7",
+    "translation": "fd801c7b3b3f4ea9"
+  }
+}

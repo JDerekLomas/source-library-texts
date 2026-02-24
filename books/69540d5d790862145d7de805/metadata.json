@@ -1,0 +1,26 @@
+{
+  "id": "69540d5d790862145d7de805",
+  "title": "De Voluptate (On Pleasure)",
+  "display_title": "De Voluptate",
+  "author": "Marsilio Ficino",
+  "language": "Latin",
+  "year": 1457,
+  "published": "1457",
+  "pages_count": 374,
+  "pages_with_ocr": 59,
+  "pages_with_translation": 59,
+  "source_url": "https://sourcelibrary.org/book/69540d5d790862145d7de805",
+  "license": "unknown",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:37.174Z",
+  "_hashes": {
+    "ocr": "66cfb735fcbd2650",
+    "translation": "c29b2a857d28280a"
+  }
+}

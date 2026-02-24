@@ -1,0 +1,26 @@
+{
+  "id": "6985ca74b2c12feb240b8bce",
+  "title": "Prophetie du comte Bombaste chevalier de la Rose-Croix",
+  "display_title": "Prophetie du comte Bombaste chevalier de la Rose-Croix",
+  "author": "anonymous",
+  "language": "French",
+  "year": 1701,
+  "published": "1701",
+  "pages_count": 63,
+  "pages_with_ocr": 63,
+  "pages_with_translation": 63,
+  "source_url": "https://sourcelibrary.org/book/6985ca74b2c12feb240b8bce",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:35.137Z",
+  "_hashes": {
+    "ocr": "caefa3eb66941760",
+    "translation": "84435cea1b6d8f0c"
+  }
+}

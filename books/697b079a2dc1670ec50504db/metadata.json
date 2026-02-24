@@ -1,0 +1,26 @@
+{
+  "id": "697b079a2dc1670ec50504db",
+  "title": "Erudita & elegans explicatio quaestionis: utrum reges vel principes, jure aliquo vel titulo, et salvâ conscientia, cives ac subditos à Regia Corona alienare",
+  "display_title": "Erudita & elegans explicatio quaestionis: utrum reges vel principes, jure aliquo vel titulo, et salvâ conscientia, cives ac subditos à Regia Corona alienare",
+  "author": "Las Casas, Bartholomaeus de",
+  "language": "Latin",
+  "year": 1625,
+  "published": "1625",
+  "pages_count": 66,
+  "pages_with_ocr": 66,
+  "pages_with_translation": 66,
+  "source_url": "https://sourcelibrary.org/book/697b079a2dc1670ec50504db",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:33.260Z",
+  "_hashes": {
+    "ocr": "0556b742fce661fd",
+    "translation": "f9864187106225a8"
+  }
+}

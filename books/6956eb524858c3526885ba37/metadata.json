@@ -1,0 +1,28 @@
+{
+  "id": "6956eb524858c3526885ba37",
+  "title": "Mélanges d alchimie (Alchemy Manuscript Collection)",
+  "display_title": "Mélanges d alchimie (Alchemy Manuscript Collection)",
+  "author": "Various",
+  "language": "Latin",
+  "year": null,
+  "published": "Unknown",
+  "pages_count": 54,
+  "pages_with_ocr": 54,
+  "pages_with_translation": 54,
+  "source_url": "https://sourcelibrary.org/book/6956eb524858c3526885ba37",
+  "license": "https://gallica.bnf.fr/html/und/conditions-dutilisation-des-contenus-de-gallica",
+  "doi": null,
+  "external_ids": {
+    "gallica": "btv1b9062019p"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:39.076Z",
+  "_hashes": {
+    "ocr": "4fb007c51978c49a",
+    "translation": "b8a6c5101ebcbcc0"
+  }
+}

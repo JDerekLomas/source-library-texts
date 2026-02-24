@@ -1,0 +1,26 @@
+{
+  "id": "69099e2acf28baa1b4caeafb",
+  "title": "Colloquium Rhodostauroticum",
+  "display_title": "Echo of the Rosicrucian Colloquy, that is: Reverberation",
+  "author": "Hilarionus, Benedictus",
+  "language": "German",
+  "year": 1622,
+  "published": "1622",
+  "pages_count": 53,
+  "pages_with_ocr": 53,
+  "pages_with_translation": 53,
+  "source_url": "https://sourcelibrary.org/book/69099e2acf28baa1b4caeafb",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:39.964Z",
+  "_hashes": {
+    "ocr": "fbf2f6c1a4195888",
+    "translation": "24407f437a755904"
+  }
+}

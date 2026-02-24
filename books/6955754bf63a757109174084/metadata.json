@@ -1,0 +1,28 @@
+{
+  "id": "6955754bf63a757109174084",
+  "title": "Dattilam",
+  "display_title": "Dattilam",
+  "author": "Dattila",
+  "language": "Sanskrit",
+  "year": 50,
+  "published": "1st century CE",
+  "pages_count": 64,
+  "pages_with_ocr": 64,
+  "pages_with_translation": 64,
+  "source_url": "https://sourcelibrary.org/book/6955754bf63a757109174084",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "Dattilam"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:34.208Z",
+  "_hashes": {
+    "ocr": "9b6480e1622b2fa5",
+    "translation": "31bf98300a37c889"
+  }
+}

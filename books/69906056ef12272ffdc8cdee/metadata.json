@@ -1,0 +1,28 @@
+{
+  "id": "69906056ef12272ffdc8cdee",
+  "title": "An Attempt to Prove the Motion of the Earth from Observations",
+  "display_title": "An Attempt to Prove the Motion of the Earth from Observations",
+  "author": "Robert Hooke",
+  "language": "English",
+  "year": 1674,
+  "published": "Unknown",
+  "pages_count": 53,
+  "pages_with_ocr": 53,
+  "pages_with_translation": 53,
+  "source_url": "https://sourcelibrary.org/book/69906056ef12272ffdc8cdee",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bim_early-english-books-1641-1700_an-attempt-to-prove-the-_hooke-robert_1674"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:39.791Z",
+  "_hashes": {
+    "ocr": "1f6212c9797250d7",
+    "translation": "c527abb6cbeba43a"
+  }
+}

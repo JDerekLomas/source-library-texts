@@ -1,0 +1,28 @@
+{
+  "id": "6952d04f77f38f6761bc4ee2",
+  "title": "Monas Hieroglyphica",
+  "display_title": "The Hieroglyphic Monad (1564 Antwerp)",
+  "author": "Dee, John",
+  "language": "Latin",
+  "year": 1564,
+  "published": "1564",
+  "pages_count": 56,
+  "pages_with_ocr": 56,
+  "pages_with_translation": 56,
+  "source_url": "https://sourcelibrary.org/book/6952d04f77f38f6761bc4ee2",
+  "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bub_gb_pRmoDybyIVEC"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:38.322Z",
+  "_hashes": {
+    "ocr": "b3963da012b80d43",
+    "translation": "9e77841727263c04"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "697a76c4367f907242581feb",
+  "title": "Q.D.B.V. Disquisitio de inclyto libro poetico Theuerdanck",
+  "display_title": "Q.D.B.V. Disquisitio de inclyto libro poetico Theuerdanck",
+  "author": "Titz, Heinrich Gottlieb",
+  "language": "Latin",
+  "year": 1714,
+  "published": "1714",
+  "pages_count": 66,
+  "pages_with_ocr": 66,
+  "pages_with_translation": 66,
+  "source_url": "https://sourcelibrary.org/book/697a76c4367f907242581feb",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:32.633Z",
+  "_hashes": {
+    "ocr": "260680ec200389f7",
+    "translation": "992134a5dc6de18a"
+  }
+}

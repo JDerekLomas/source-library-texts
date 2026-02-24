@@ -1,0 +1,26 @@
+{
+  "id": "69791dc5f35c6bbfbfd252e5",
+  "title": "Clavis sapientiae, das ist: ein edles und köstliches Büchlein vom Stein des Weisen",
+  "display_title": "Clavis sapientiae, das ist: ein edles und köstliches Büchlein vom Stein des Weisen",
+  "author": "Artephius",
+  "language": "Latin-German",
+  "year": 1748,
+  "published": "1748",
+  "pages_count": 54,
+  "pages_with_ocr": 54,
+  "pages_with_translation": 54,
+  "source_url": "https://sourcelibrary.org/book/69791dc5f35c6bbfbfd252e5",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:39.451Z",
+  "_hashes": {
+    "ocr": "b2cae18c55d3d46a",
+    "translation": "628fb445ffc12b66"
+  }
+}

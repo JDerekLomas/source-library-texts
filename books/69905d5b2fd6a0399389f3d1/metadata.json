@@ -1,0 +1,28 @@
+{
+  "id": "69905d5b2fd6a0399389f3d1",
+  "title": "As a Man Thinketh",
+  "display_title": "As a Man Thinketh",
+  "author": "James Allen",
+  "language": "English",
+  "year": 1903,
+  "published": "Unknown",
+  "pages_count": 60,
+  "pages_with_ocr": 56,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/69905d5b2fd6a0399389f3d1",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "asmanthinketh00alleiala"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:29:38.569Z",
+  "_hashes": {
+    "ocr": "e1c63921c8fdd776",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

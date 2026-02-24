@@ -1,0 +1,26 @@
+{
+  "id": "69751590233423aeec9e88ec",
+  "title": "Aureum vellus oder Güldenes Vliss",
+  "display_title": "Aureum vellus oder Güldenes Vliss",
+  "author": "Naxagoras, Ehrd de",
+  "language": "Latin-German",
+  "year": 1715,
+  "published": "[1715]",
+  "pages_count": 68,
+  "pages_with_ocr": 68,
+  "pages_with_translation": 68,
+  "source_url": "https://sourcelibrary.org/book/69751590233423aeec9e88ec",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:32.046Z",
+  "_hashes": {
+    "ocr": "fb9a10bbc9efbc73",
+    "translation": "4e14653fc4dbf541"
+  }
+}

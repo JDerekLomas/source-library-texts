@@ -1,0 +1,28 @@
+{
+  "id": "69943c8ea668f66e6953bc2a",
+  "title": "The Hymn of the Soul (from Acts of Thomas)",
+  "display_title": "The Hymn of the Soul (from Acts of Thomas)",
+  "author": "A.A. Bevan",
+  "language": "Syriac",
+  "year": 1897,
+  "published": "1897",
+  "pages_count": 52,
+  "pages_with_ocr": 52,
+  "pages_with_translation": 52,
+  "source_url": "https://sourcelibrary.org/book/69943c8ea668f66e6953bc2a",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "hymnofsoulcontai00beva"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:40.173Z",
+  "_hashes": {
+    "ocr": "6c13280ae5bb81df",
+    "translation": "4b87c6f4814ebe59"
+  }
+}

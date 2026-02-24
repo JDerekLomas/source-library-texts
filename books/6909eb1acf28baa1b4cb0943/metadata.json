@@ -1,0 +1,26 @@
+{
+  "id": "6909eb1acf28baa1b4cb0943",
+  "title": "Essai sur le feu sacré et sur les Vestales",
+  "display_title": "Essay on the Sacred Fire and on the Vestals",
+  "author": "[Dubois-Fontanelle, Jean Gaspar]",
+  "language": "French",
+  "year": 1778,
+  "published": "1778",
+  "pages_count": 63,
+  "pages_with_ocr": 63,
+  "pages_with_translation": 63,
+  "source_url": "https://sourcelibrary.org/book/6909eb1acf28baa1b4cb0943",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:35.054Z",
+  "_hashes": {
+    "ocr": "a7816eec6b225dc2",
+    "translation": "cc0f9dd570a05e67"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "6990540d38e1fdee57b367db",
+  "title": "Eine Teufelsneurose im siebzehnten Jahrhundert",
+  "display_title": "Eine Teufelsneurose im siebzehnten Jahrhundert",
+  "author": "Sigmund Freud",
+  "language": "German",
+  "year": 1923,
+  "published": "Unknown",
+  "pages_count": 61,
+  "pages_with_ocr": 61,
+  "pages_with_translation": 56,
+  "source_url": "https://sourcelibrary.org/book/6990540d38e1fdee57b367db",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "freud-1924-teufelsneurose-sep"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:35.702Z",
+  "_hashes": {
+    "ocr": "8e69463df1fba479",
+    "translation": "f31f4c083a14874d"
+  }
+}

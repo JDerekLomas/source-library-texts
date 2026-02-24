@@ -1,0 +1,26 @@
+{
+  "id": "697e23cc10ae21088f4e9d29",
+  "title": "Introitus in veram atque inauditam physicam",
+  "display_title": "Introitus in veram atque inauditam physicam",
+  "author": "Hellwig, Johann Otto von",
+  "language": "Latin",
+  "year": 1680,
+  "published": "1680",
+  "pages_count": 65,
+  "pages_with_ocr": 65,
+  "pages_with_translation": 65,
+  "source_url": "https://sourcelibrary.org/book/697e23cc10ae21088f4e9d29",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:33.758Z",
+  "_hashes": {
+    "ocr": "6e7f12ffe7b4ba4c",
+    "translation": "8a0cf6e374879e63"
+  }
+}

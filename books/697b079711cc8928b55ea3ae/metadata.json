@@ -1,0 +1,26 @@
+{
+  "id": "697b079711cc8928b55ea3ae",
+  "title": "Echo colloquii Rhodostaurotici, das ist: Wider-Schall",
+  "display_title": "Echo colloquii Rhodostaurotici, das ist: Wider-Schall",
+  "author": "Hilarionus, Benedictus",
+  "language": "German",
+  "year": 1622,
+  "published": "1622",
+  "pages_count": 68,
+  "pages_with_ocr": 68,
+  "pages_with_translation": 68,
+  "source_url": "https://sourcelibrary.org/book/697b079711cc8928b55ea3ae",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:31.978Z",
+  "_hashes": {
+    "ocr": "d05ced27a949d39f",
+    "translation": "45fa74ef710578aa"
+  }
+}

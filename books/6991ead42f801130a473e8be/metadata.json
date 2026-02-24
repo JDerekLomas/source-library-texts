@@ -1,0 +1,28 @@
+{
+  "id": "6991ead42f801130a473e8be",
+  "title": "Notes et croquis: architecture civile, militaire et navale",
+  "display_title": "Notes et croquis: architecture civile, militaire et navale",
+  "author": "Leonardo da Vinci",
+  "language": "Italian",
+  "year": 1901,
+  "published": "Unknown",
+  "pages_count": 60,
+  "pages_with_ocr": 60,
+  "pages_with_translation": 60,
+  "source_url": "https://sourcelibrary.org/book/6991ead42f801130a473e8be",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "notesetcroquisar00leon"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:36.533Z",
+  "_hashes": {
+    "ocr": "173d2aa323650971",
+    "translation": "1dcc4ad14b9a6a83"
+  }
+}

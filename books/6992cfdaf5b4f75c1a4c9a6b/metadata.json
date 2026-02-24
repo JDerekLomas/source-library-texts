@@ -1,0 +1,28 @@
+{
+  "id": "6992cfdaf5b4f75c1a4c9a6b",
+  "title": "新刻出像增補搜神記",
+  "display_title": "新刻出像增補搜神記",
+  "author": "干寶",
+  "language": "Chinese",
+  "year": 1608,
+  "published": "1608",
+  "pages_count": 68,
+  "pages_with_ocr": 68,
+  "pages_with_translation": 55,
+  "source_url": "https://sourcelibrary.org/book/6992cfdaf5b4f75c1a4c9a6b",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "02098966.cn"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:32.279Z",
+  "_hashes": {
+    "ocr": "b0af3a4a93b0a4ce",
+    "translation": "3b5a220a64fa85f6"
+  }
+}

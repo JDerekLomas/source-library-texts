@@ -1,0 +1,28 @@
+{
+  "id": "6991d6888c1030b12444b992",
+  "title": "The Spirit of Love",
+  "display_title": "The Spirit of Love",
+  "author": "William Law",
+  "language": "English",
+  "year": 1752,
+  "published": "Unknown",
+  "pages_count": 67,
+  "pages_with_ocr": 67,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/6991d6888c1030b12444b992",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bim_eighteenth-century_the-spirit-of-love-bein_law-william_1752"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:29:32.330Z",
+  "_hashes": {
+    "ocr": "5403a8571148f466",
+    "translation": "e3b0c44298fc1c14"
+  }
+}
