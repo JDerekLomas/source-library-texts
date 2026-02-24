@@ -1,0 +1,28 @@
+{
+  "id": "69906825249ce014347d5b25",
+  "title": "Yogayatra of Varahamihira with Utpala Commentary",
+  "display_title": "Yogayatra of Varahamihira with Utpala Commentary",
+  "author": "Varahamihira; Utpala (comm.)",
+  "language": "Sanskrit",
+  "year": 1900,
+  "published": "Unknown",
+  "pages_count": 35,
+  "pages_with_ocr": 35,
+  "pages_with_translation": 35,
+  "source_url": "https://sourcelibrary.org/book/69906825249ce014347d5b25",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "wg731"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:50.507Z",
+  "_hashes": {
+    "ocr": "9bafbae2a1f3ea62",
+    "translation": "2720b3c53c3aab48"
+  }
+}

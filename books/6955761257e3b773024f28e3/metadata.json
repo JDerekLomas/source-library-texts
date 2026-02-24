@@ -1,0 +1,28 @@
+{
+  "id": "6955761257e3b773024f28e3",
+  "title": "كتاب الموسيقى الكبير (Kitab al-Musiqa al-Kabir)",
+  "display_title": "كتاب الموسيقى الكبير (Kitab al-Musiqa al-Kabir)",
+  "author": "Al-Farabi",
+  "language": "Arabic",
+  "year": 950,
+  "published": "10th century",
+  "pages_count": 39,
+  "pages_with_ocr": 39,
+  "pages_with_translation": 39,
+  "source_url": "https://sourcelibrary.org/book/6955761257e3b773024f28e3",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "kitab-al-musiqa-al-kabir-pdfdrive"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": null,
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:48.359Z",
+  "_hashes": {
+    "ocr": "2193005db2fad6f7",
+    "translation": "5ce71579d5ca5a5d"
+  }
+}

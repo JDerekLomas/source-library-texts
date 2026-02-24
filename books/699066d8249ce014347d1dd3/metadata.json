@@ -1,0 +1,28 @@
+{
+  "id": "699066d8249ce014347d1dd3",
+  "title": "Rajavallabha (Royal Astrology)",
+  "display_title": "Rajavallabha (Royal Astrology)",
+  "author": "Unknown",
+  "language": "Sanskrit",
+  "year": 1450,
+  "published": "1450",
+  "pages_count": 35,
+  "pages_with_ocr": 35,
+  "pages_with_translation": 35,
+  "source_url": "https://sourcelibrary.org/book/699066d8249ce014347d1dd3",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "rajavallabha-CGV-PSS-0159-1437_1448"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:49.784Z",
+  "_hashes": {
+    "ocr": "af8de9faa8c91006",
+    "translation": "299588576a0eb878"
+  }
+}

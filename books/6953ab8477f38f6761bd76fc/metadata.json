@@ -1,0 +1,26 @@
+{
+  "id": "6953ab8477f38f6761bd76fc",
+  "title": "Speculum Veritatis (Alchemical Emblems)",
+  "display_title": "Vat.lat.7286",
+  "author": "Anonymous",
+  "language": "Latin",
+  "year": 1650,
+  "published": "17th century",
+  "pages_count": 40,
+  "pages_with_ocr": 40,
+  "pages_with_translation": 40,
+  "source_url": "https://sourcelibrary.org/book/6953ab8477f38f6761bd76fc",
+  "license": "CC-BY-NC-4.0",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:47.676Z",
+  "_hashes": {
+    "ocr": "80527f344e7c8af6",
+    "translation": "15ec2804a594e07a"
+  }
+}

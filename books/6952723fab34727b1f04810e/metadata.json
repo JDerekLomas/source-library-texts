@@ -1,0 +1,28 @@
+{
+  "id": "6952723fab34727b1f04810e",
+  "title": "Integrum Morborum Mysterium",
+  "display_title": "Integrum Morborum Mysterium (Medical Mysteries)",
+  "author": "Robert Fludd",
+  "language": "Latin",
+  "year": 1631,
+  "published": "1631",
+  "pages_count": 1053,
+  "pages_with_ocr": 43,
+  "pages_with_translation": 43,
+  "source_url": "https://sourcelibrary.org/book/6952723fab34727b1f04810e",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "integrvmmorborvm00flud"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-2.5-flash"
+  },
+  "synced_at": "2026-02-24T18:29:46.051Z",
+  "_hashes": {
+    "ocr": "84616060d2d91750",
+    "translation": "59725dfb8d5a4e9f"
+  }
+}

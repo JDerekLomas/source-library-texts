@@ -1,0 +1,28 @@
+{
+  "id": "69526359ab34727b1f046d5a",
+  "title": "Mutus Liber",
+  "display_title": "Mutus Liber (The Silent Book)",
+  "author": "Altus (Jacob Saulat)",
+  "language": "Latin",
+  "year": 1677,
+  "published": "1677",
+  "pages_count": 100,
+  "pages_with_ocr": 45,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/69526359ab34727b1f046d5a",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "MutusLiber"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:29:45.009Z",
+  "_hashes": {
+    "ocr": "77369f562412d241",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

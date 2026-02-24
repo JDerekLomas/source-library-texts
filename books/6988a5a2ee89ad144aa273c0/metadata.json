@@ -1,0 +1,26 @@
+{
+  "id": "6988a5a2ee89ad144aa273c0",
+  "title": "Schöpfung durch Zahlen und Worte",
+  "display_title": "Schöpfung durch Zahlen und Worte",
+  "author": "[Gleichen, Karl Heinrich von]",
+  "language": "German",
+  "year": 1792,
+  "published": "1792",
+  "pages_count": 46,
+  "pages_with_ocr": 46,
+  "pages_with_translation": 38,
+  "source_url": "https://sourcelibrary.org/book/6988a5a2ee89ad144aa273c0",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:44.291Z",
+  "_hashes": {
+    "ocr": "d1891a482774d163",
+    "translation": "af2e606139f9824e"
+  }
+}

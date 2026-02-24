@@ -1,0 +1,28 @@
+{
+  "id": "699067158da6face82f775b1",
+  "title": "Nakshatra Chudamani",
+  "display_title": "Nakshatra Chudamani",
+  "author": "Unknown",
+  "language": "Sanskrit",
+  "year": 1909,
+  "published": "1909",
+  "pages_count": 40,
+  "pages_with_ocr": 40,
+  "pages_with_translation": 40,
+  "source_url": "https://sourcelibrary.org/book/699067158da6face82f775b1",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "NakshatraChudamani"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:46.989Z",
+  "_hashes": {
+    "ocr": "f398cc7276b80de5",
+    "translation": "729217adc68f917c"
+  }
+}

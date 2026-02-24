@@ -1,0 +1,28 @@
+{
+  "id": "699068c790f6a221d3a9a90f",
+  "title": "Rama Ajna Prasna",
+  "display_title": "Rama Ajna Prasna",
+  "author": "Anonymous",
+  "language": "Sanskrit",
+  "year": 1900,
+  "published": "Unknown",
+  "pages_count": 51,
+  "pages_with_ocr": 51,
+  "pages_with_translation": 51,
+  "source_url": "https://sourcelibrary.org/book/699068c790f6a221d3a9a90f",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "RamaAjnaPrasnaHindi"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:41.431Z",
+  "_hashes": {
+    "ocr": "e52204bd4e79f9e9",
+    "translation": "b05402ebd94250f2"
+  }
+}

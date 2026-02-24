@@ -1,0 +1,26 @@
+{
+  "id": "6974b64919126e775cf6d7ef",
+  "title": "Articul der Vergleichung aller dreyen Stände dess Königreichs Böhemen",
+  "display_title": "Articul der Vergleichung aller dreyen Stände dess Königreichs Böhemen",
+  "author": "anonymous",
+  "language": "German",
+  "year": 1610,
+  "published": "1610",
+  "pages_count": 42,
+  "pages_with_ocr": 42,
+  "pages_with_translation": 42,
+  "source_url": "https://sourcelibrary.org/book/6974b64919126e775cf6d7ef",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:46.477Z",
+  "_hashes": {
+    "ocr": "4dc62b06392703ab",
+    "translation": "1254321e69e26038"
+  }
+}

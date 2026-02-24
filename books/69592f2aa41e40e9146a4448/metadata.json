@@ -1,0 +1,28 @@
+{
+  "id": "69592f2aa41e40e9146a4448",
+  "title": "Chiromantia cum figuris",
+  "display_title": "Chiromantia cum figuris",
+  "author": "Pseudo-Aristotle",
+  "language": "Latin",
+  "year": 1490,
+  "published": "1490",
+  "pages_count": 49,
+  "pages_with_ocr": 49,
+  "pages_with_translation": 49,
+  "source_url": "https://sourcelibrary.org/book/69592f2aa41e40e9146a4448",
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "doi": null,
+  "external_ids": {
+    "mdz": "bsb00025049"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:42.557Z",
+  "_hashes": {
+    "ocr": "7082d32dd1eb7fe1",
+    "translation": "215dd394c002dacd"
+  }
+}

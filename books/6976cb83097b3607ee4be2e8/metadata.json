@@ -1,0 +1,26 @@
+{
+  "id": "6976cb83097b3607ee4be2e8",
+  "title": "Aussführlicher Bericht, und wolgegrundte Rationes",
+  "display_title": "Aussführlicher Bericht, und wolgegrundte Rationes",
+  "author": "Quirinus, Antonius",
+  "language": "German",
+  "year": 1607,
+  "published": "1607",
+  "pages_count": 50,
+  "pages_with_ocr": 50,
+  "pages_with_translation": 50,
+  "source_url": "https://sourcelibrary.org/book/6976cb83097b3607ee4be2e8",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:42.349Z",
+  "_hashes": {
+    "ocr": "ccb10d75ad507a65",
+    "translation": "244d2c2eeefc9f68"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "6991d67a8c1030b12444b537",
+  "title": "The Ascent to the Mount of Vision",
+  "display_title": "The Ascent to the Mount of Vision",
+  "author": "Jane Lead",
+  "language": "English",
+  "year": 1699,
+  "published": "Unknown",
+  "pages_count": 47,
+  "pages_with_ocr": 47,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/6991d67a8c1030b12444b537",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bim_early-english-books-1641-1700_the-ascent-to-the-mount-_lead-jane_1699"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:29:43.272Z",
+  "_hashes": {
+    "ocr": "b8670deb6b82b310",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

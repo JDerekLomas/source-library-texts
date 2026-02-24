@@ -1,0 +1,26 @@
+{
+  "id": "698420e370dfb8f6def32219",
+  "title": "Nun bin ich einmal catholisch worden, und habe mich endlich accommodiret",
+  "display_title": "Nun bin ich einmal catholisch worden, und habe mich endlich accommodiret",
+  "author": "anonymous",
+  "language": "German",
+  "year": 1630,
+  "published": "1630",
+  "pages_count": 40,
+  "pages_with_ocr": 40,
+  "pages_with_translation": 40,
+  "source_url": "https://sourcelibrary.org/book/698420e370dfb8f6def32219",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:47.274Z",
+  "_hashes": {
+    "ocr": "56cb02b95e219707",
+    "translation": "63cb34080a1ca101"
+  }
+}

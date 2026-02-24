@@ -1,0 +1,28 @@
+{
+  "id": "699249a9a2d53df4853be52d",
+  "title": "Navaho Myths, Prayers and Songs",
+  "display_title": "Navaho Myths, Prayers and Songs",
+  "author": "Washington Matthews",
+  "language": "Navajo",
+  "year": 1907,
+  "published": "Unknown",
+  "pages_count": 56,
+  "pages_with_ocr": 52,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/699249a9a2d53df4853be52d",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "navahomythspraye00mattrich"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:29:41.191Z",
+  "_hashes": {
+    "ocr": "d806e1c11279efd5",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "699067d0249ce014347d41f8",
+  "title": "Astrological Treatise (MS. Digby 83)",
+  "display_title": "Bodleian Library MS. Digby 83",
+  "author": "Unknown",
+  "language": "Latin",
+  "year": 1200,
+  "published": "1200",
+  "pages_count": 44,
+  "pages_with_ocr": 44,
+  "pages_with_translation": 44,
+  "source_url": "https://sourcelibrary.org/book/699067d0249ce014347d41f8",
+  "license": "CC-BY-NC-4.0",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:45.084Z",
+  "_hashes": {
+    "ocr": "c4a7482de7efecc1",
+    "translation": "0c54d735f7f92e8a"
+  }
+}

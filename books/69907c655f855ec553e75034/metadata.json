@@ -1,0 +1,28 @@
+{
+  "id": "69907c655f855ec553e75034",
+  "title": "Hora Chakram",
+  "display_title": "Hora Chakram",
+  "author": "Unknown",
+  "language": "Sanskrit",
+  "year": 1800,
+  "published": "1800",
+  "pages_count": 44,
+  "pages_with_ocr": 44,
+  "pages_with_translation": 44,
+  "source_url": "https://sourcelibrary.org/book/69907c655f855ec553e75034",
+  "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "horachakram1201ghaalm6shlf1devanagarijyotish"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:45.523Z",
+  "_hashes": {
+    "ocr": "00d8d15797780b95",
+    "translation": "809cb3a677374f7b"
+  }
+}

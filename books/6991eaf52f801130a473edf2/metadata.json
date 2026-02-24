@@ -1,0 +1,28 @@
+{
+  "id": "6991eaf52f801130a473edf2",
+  "title": "Croquis et dessins de devises et rebus",
+  "display_title": "Croquis et dessins de devises et rebus",
+  "author": "Leonardo da Vinci",
+  "language": "Italian",
+  "year": 1880,
+  "published": "Unknown",
+  "pages_count": 46,
+  "pages_with_ocr": 46,
+  "pages_with_translation": 46,
+  "source_url": "https://sourcelibrary.org/book/6991eaf52f801130a473edf2",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "gri_33125017543311"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:43.934Z",
+  "_hashes": {
+    "ocr": "0418e1d503c2b0e5",
+    "translation": "5161f5ba7469cff3"
+  }
+}

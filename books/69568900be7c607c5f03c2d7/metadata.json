@@ -1,0 +1,28 @@
+{
+  "id": "69568900be7c607c5f03c2d7",
+  "title": "Dodecachordon",
+  "display_title": "Dodecachordon",
+  "author": "Heinrich Glareanus",
+  "language": "Latin",
+  "year": 1547,
+  "published": "1547",
+  "pages_count": 39,
+  "pages_with_ocr": 39,
+  "pages_with_translation": 39,
+  "source_url": "https://sourcelibrary.org/book/69568900be7c607c5f03c2d7",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "imslp-glareanus-henricus"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": null,
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:47.999Z",
+  "_hashes": {
+    "ocr": "9567d7b1dfb48ac8",
+    "translation": "7c27285084bd7c2e"
+  }
+}

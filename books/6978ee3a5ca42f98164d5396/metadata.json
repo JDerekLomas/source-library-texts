@@ -1,0 +1,26 @@
+{
+  "id": "6978ee3a5ca42f98164d5396",
+  "title": "Chrysorrhoas. Sive. De arte chymica, dialogus",
+  "display_title": "Chrysorrhoas. Sive. De arte chymica, dialogus",
+  "author": "anonymous",
+  "language": "Latin",
+  "year": 1559,
+  "published": "1559",
+  "pages_count": 36,
+  "pages_with_ocr": 36,
+  "pages_with_translation": 36,
+  "source_url": "https://sourcelibrary.org/book/6978ee3a5ca42f98164d5396",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:49.148Z",
+  "_hashes": {
+    "ocr": "614cf6e45ce97a46",
+    "translation": "3d063e2d12bd6d07"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "69907da1aee9f4aa5859320c",
+  "title": "Bhavadhyaya in Chamatkar Chintamani of Narayana Bhatta",
+  "display_title": "Chamatkar Chintamani Bhavadhyaya",
+  "author": "Narayana Bhatta",
+  "language": "Sanskrit",
+  "year": 1800,
+  "published": "1800",
+  "pages_count": 47,
+  "pages_with_ocr": 47,
+  "pages_with_translation": 47,
+  "source_url": "https://sourcelibrary.org/book/69907da1aee9f4aa5859320c",
+  "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "BhavadhyayaInChamatkarChintamaniNarayanaBhatta1189GhaAlm6Shlf1DevanagariJyotish"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:43.815Z",
+  "_hashes": {
+    "ocr": "1415550dfcfe43f4",
+    "translation": "825441a2df1b8918"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "69905d0baaa7f10ed4cfd66e",
+  "title": "Somnium, Seu Opus Posthumum de Astronomia Lunari",
+  "display_title": "Somnium, Seu Opus Posthumum de Astronomia Lunari",
+  "author": "Johannes Kepler",
+  "language": "Latin",
+  "year": 1634,
+  "published": "Unknown",
+  "pages_count": 52,
+  "pages_with_ocr": 52,
+  "pages_with_translation": 52,
+  "source_url": "https://sourcelibrary.org/book/69905d0baaa7f10ed4cfd66e",
+  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "kepler_somnium_astronomia_lunaris_1634_latin"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:41.311Z",
+  "_hashes": {
+    "ocr": "798c4c2f9334daa9",
+    "translation": "b13422d0e9398ee2"
+  }
+}

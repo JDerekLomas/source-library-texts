@@ -1,0 +1,26 @@
+{
+  "id": "6981920786654d9d793ff3a2",
+  "title": "Arbatel. De magia veterum",
+  "display_title": "Arbatel. De magia veterum",
+  "author": "anonymous",
+  "language": "Latin",
+  "year": 1686,
+  "published": "1686",
+  "pages_count": 44,
+  "pages_with_ocr": 44,
+  "pages_with_translation": 44,
+  "source_url": "https://sourcelibrary.org/book/6981920786654d9d793ff3a2",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:45.286Z",
+  "_hashes": {
+    "ocr": "9c9c242387b76e4a",
+    "translation": "76743f1e45416b8f"
+  }
+}

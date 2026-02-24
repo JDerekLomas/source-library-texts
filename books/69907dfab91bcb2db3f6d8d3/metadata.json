@@ -1,0 +1,28 @@
+{
+  "id": "69907dfab91bcb2db3f6d8d3",
+  "title": "PashakKevaliGargMuni4805Alm21Shlf5DevanagariJyotish",
+  "display_title": "PashakKevaliGargMuni4805Alm21Shlf5DevanagariJyotish",
+  "author": "Unknown",
+  "language": "Sanskrit",
+  "year": null,
+  "published": "Unknown",
+  "pages_count": 35,
+  "pages_with_ocr": 35,
+  "pages_with_translation": 35,
+  "source_url": "https://sourcelibrary.org/book/69907dfab91bcb2db3f6d8d3",
+  "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "PashakKevaliGargMuni4805Alm21Shlf5DevanagariJyotish"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:50.554Z",
+  "_hashes": {
+    "ocr": "b677e9d94af8b8d0",
+    "translation": "9ee5506a433ac0cb"
+  }
+}

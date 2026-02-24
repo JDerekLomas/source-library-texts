@@ -1,0 +1,28 @@
+{
+  "id": "69907e03b91bcb2db3f6da66",
+  "title": "SutikadhyayaVarahMihir1058GhaAlm5Shlf4DevanagariJyotish",
+  "display_title": "SutikadhyayaVarahMihir1058GhaAlm5Shlf4DevanagariJyotish",
+  "author": "Unknown",
+  "language": "Sanskrit",
+  "year": null,
+  "published": "Unknown",
+  "pages_count": 36,
+  "pages_with_ocr": 36,
+  "pages_with_translation": 36,
+  "source_url": "https://sourcelibrary.org/book/69907e03b91bcb2db3f6da66",
+  "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "SutikadhyayaVarahMihir1058GhaAlm5Shlf4DevanagariJyotish"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:48.938Z",
+  "_hashes": {
+    "ocr": "30c889a912cd033f",
+    "translation": "ef65293a1b6c76a9"
+  }
+}

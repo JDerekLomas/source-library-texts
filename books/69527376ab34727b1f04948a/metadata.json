@@ -1,0 +1,28 @@
+{
+  "id": "69527376ab34727b1f04948a",
+  "title": "Magnes",
+  "display_title": "Magnes sive De Arte Magnetica",
+  "author": "Athanasius Kircher",
+  "language": "Latin",
+  "year": 1641,
+  "published": "1641",
+  "pages_count": 1062,
+  "pages_with_ocr": 48,
+  "pages_with_translation": 48,
+  "source_url": "https://sourcelibrary.org/book/69527376ab34727b1f04948a",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "b33479525_0001"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-2.5-flash"
+  },
+  "synced_at": "2026-02-24T18:29:43.023Z",
+  "_hashes": {
+    "ocr": "6cb63957b035a992",
+    "translation": "31aa33818ee0e3e9"
+  }
+}

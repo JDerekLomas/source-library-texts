@@ -1,0 +1,28 @@
+{
+  "id": "6992cad1d4d545ae73feeb53",
+  "title": "Pelliot chinois (Dunhuang Document)",
+  "display_title": "Pelliot chinois (Dunhuang Document)",
+  "author": "Unknown",
+  "language": "Chinese",
+  "year": 900,
+  "published": "Unknown",
+  "pages_count": 35,
+  "pages_with_ocr": 35,
+  "pages_with_translation": 35,
+  "source_url": "https://sourcelibrary.org/book/6992cad1d4d545ae73feeb53",
+  "license": "https://gallica.bnf.fr/html/und/conditions-dutilisation-des-contenus-de-gallica",
+  "doi": null,
+  "external_ids": {
+    "gallica": "btv1b10099463w"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:49.562Z",
+  "_hashes": {
+    "ocr": "f372bdb8a23d5125",
+    "translation": "9a4ec55a82002f9f"
+  }
+}

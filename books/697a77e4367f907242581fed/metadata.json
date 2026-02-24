@@ -1,0 +1,26 @@
+{
+  "id": "697a77e4367f907242581fed",
+  "title": "Dissertatio, de probatione, quae fieri olim solebat per ignem et aquam; cum ferventem, tum frigidam",
+  "display_title": "Dissertatio, de probatione, quae fieri olim solebat per ignem et aquam; cum ferventem, tum frigidam",
+  "author": "Heinius, Fridericus",
+  "language": "Latin",
+  "year": 1620,
+  "published": "1620",
+  "pages_count": 45,
+  "pages_with_ocr": 45,
+  "pages_with_translation": 45,
+  "source_url": "https://sourcelibrary.org/book/697a77e4367f907242581fed",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:44.886Z",
+  "_hashes": {
+    "ocr": "0ecc4f3170a027f3",
+    "translation": "6f8a53baacbc6bae"
+  }
+}

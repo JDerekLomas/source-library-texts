@@ -1,0 +1,28 @@
+{
+  "id": "6964bfdcb60c0197a3ae873e",
+  "title": "The Book of the Secrets of Enoch (2 Enoch)",
+  "display_title": "The Book of the Secrets of Enoch (2 Enoch)",
+  "author": "trans. W.R. Morfill; ed. R.H. Charles",
+  "language": "English",
+  "year": 1896,
+  "published": null,
+  "pages_count": 156,
+  "pages_with_ocr": 50,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/6964bfdcb60c0197a3ae873e",
+  "license": null,
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bookofsecretsofe00morf"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": null,
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:29:42.249Z",
+  "_hashes": {
+    "ocr": "9cce6e64898a1cc9",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

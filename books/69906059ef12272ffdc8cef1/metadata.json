@@ -1,0 +1,28 @@
+{
+  "id": "69906059ef12272ffdc8cef1",
+  "title": "A Description of Helioscopes, and Some Other Instruments",
+  "display_title": "A Description of Helioscopes, and Some Other Instruments",
+  "author": "Robert Hooke",
+  "language": "English",
+  "year": 1676,
+  "published": "Unknown",
+  "pages_count": 39,
+  "pages_with_ocr": 39,
+  "pages_with_translation": 39,
+  "source_url": "https://sourcelibrary.org/book/69906059ef12272ffdc8cef1",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bim_early-english-books-1641-1700_a-description-of-heliosc_hooke-robert_1676"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:48.271Z",
+  "_hashes": {
+    "ocr": "d3a9e979787bcdf6",
+    "translation": "5919df89b1cbde1b"
+  }
+}

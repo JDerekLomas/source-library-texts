@@ -1,0 +1,26 @@
+{
+  "id": "6976d3d4097b3607ee4be2f1",
+  "title": "Ausslegung des Evangelii, Luce.6",
+  "display_title": "Ausslegung des Evangelii, Luce.6",
+  "author": "Schwenckfeld, Caspar",
+  "language": "German",
+  "year": 1596,
+  "published": "1596",
+  "pages_count": 46,
+  "pages_with_ocr": 46,
+  "pages_with_translation": 46,
+  "source_url": "https://sourcelibrary.org/book/6976d3d4097b3607ee4be2f1",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:44.525Z",
+  "_hashes": {
+    "ocr": "5d5ba8cff4130d11",
+    "translation": "4f911bfe6523d6bb"
+  }
+}

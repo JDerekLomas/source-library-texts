@@ -1,0 +1,26 @@
+{
+  "id": "6980941f371d9ee79b34f525",
+  "title": "Leo septentrionalis [...] Der Löwe von Mitternacht",
+  "display_title": "Leo septentrionalis [...] Der Löwe von Mitternacht",
+  "author": "[Felgenhauer, Paulus]",
+  "language": "Latin-German",
+  "year": 1625,
+  "published": "1625",
+  "pages_count": 50,
+  "pages_with_ocr": 50,
+  "pages_with_translation": 50,
+  "source_url": "https://sourcelibrary.org/book/6980941f371d9ee79b34f525",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:41.657Z",
+  "_hashes": {
+    "ocr": "8c810a7ca205a26a",
+    "translation": "3beac0ad79839c55"
+  }
+}

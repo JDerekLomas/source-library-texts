@@ -1,0 +1,28 @@
+{
+  "id": "6991d66b8c1030b12444b478",
+  "title": "The Heavenly Cloud",
+  "display_title": "The Heavenly Cloud",
+  "author": "Jane Lead",
+  "language": "English",
+  "year": 1681,
+  "published": "Unknown",
+  "pages_count": 41,
+  "pages_with_ocr": 41,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/6991d66b8c1030b12444b478",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bim_early-english-books-1641-1700_the-heavenly-cloud_lead-jane_1681"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:29:46.523Z",
+  "_hashes": {
+    "ocr": "8caacf10d86e574d",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

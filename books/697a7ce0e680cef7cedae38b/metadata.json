@@ -1,0 +1,26 @@
+{
+  "id": "697a7ce0e680cef7cedae38b",
+  "title": "Dissertatio juridico-historica de crucifixi Jesu",
+  "display_title": "Dissertatio juridico-historica de crucifixi Jesu",
+  "author": "Reyher, Samuel",
+  "language": "Latin",
+  "year": 1694,
+  "published": "1694",
+  "pages_count": 45,
+  "pages_with_ocr": 45,
+  "pages_with_translation": 45,
+  "source_url": "https://sourcelibrary.org/book/697a7ce0e680cef7cedae38b",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:44.964Z",
+  "_hashes": {
+    "ocr": "bf1d41ff558dba9f",
+    "translation": "2b2be57d56962ad4"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "2948183e-2c47-43dc-b7b9-a466f93a869c",
+  "title": "De Vera Sapientia (Ydiota)",
+  "display_title": "Cusanus: De Vera Sapientia (1486-1488)",
+  "author": "Nicholas of Cusa",
+  "language": "Latin",
+  "year": 1488,
+  "published": "1488",
+  "pages_count": 44,
+  "pages_with_ocr": 44,
+  "pages_with_translation": 44,
+  "source_url": "https://sourcelibrary.org/book/2948183e-2c47-43dc-b7b9-a466f93a869c",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "ned-kbn-all-00002163-001"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:45.162Z",
+  "_hashes": {
+    "ocr": "e63403c3d0964363",
+    "translation": "96e671a8409f35fc"
+  }
+}

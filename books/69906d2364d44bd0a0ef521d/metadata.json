@@ -1,0 +1,28 @@
+{
+  "id": "69906d2364d44bd0a0ef521d",
+  "title": "Prayogaratna Graha Makha Prayoga",
+  "display_title": "Prayogaratna Graha Makha Prayoga",
+  "author": "Unknown",
+  "language": "Sanskrit",
+  "year": 1604,
+  "published": "1604",
+  "pages_count": 48,
+  "pages_with_ocr": 48,
+  "pages_with_translation": 48,
+  "source_url": "https://sourcelibrary.org/book/69906d2364d44bd0a0ef521d",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "prayogaratna_grahamakhaprayoga_-CGV-PSS-0537-0177"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:42.842Z",
+  "_hashes": {
+    "ocr": "35ae82f2c30eb696",
+    "translation": "94d4682ba08513c1"
+  }
+}

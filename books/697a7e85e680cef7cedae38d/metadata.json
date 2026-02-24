@@ -1,0 +1,26 @@
+{
+  "id": "697a7e85e680cef7cedae38d",
+  "title": "Dissertatio juridico-politica, de augenda curandaque republica",
+  "display_title": "Dissertatio juridico-politica, de augenda curandaque republica",
+  "author": "Rauscher, Joan.-Martinus",
+  "language": "Latin",
+  "year": 1613,
+  "published": "1613",
+  "pages_count": 40,
+  "pages_with_ocr": 40,
+  "pages_with_translation": 40,
+  "source_url": "https://sourcelibrary.org/book/697a7e85e680cef7cedae38d",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:47.541Z",
+  "_hashes": {
+    "ocr": "31905bd74a397135",
+    "translation": "d81312b38cef2bcc"
+  }
+}

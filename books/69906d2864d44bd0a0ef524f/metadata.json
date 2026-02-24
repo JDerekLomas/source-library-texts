@@ -1,0 +1,28 @@
+{
+  "id": "69906d2864d44bd0a0ef524f",
+  "title": "Navagraha Makha Prayoga (Laghu Shaunaki)",
+  "display_title": "Navagraha Makha Prayoga (Laghu Shaunaki)",
+  "author": "Unknown",
+  "language": "Sanskrit",
+  "year": null,
+  "published": "Unknown",
+  "pages_count": 36,
+  "pages_with_ocr": 36,
+  "pages_with_translation": 36,
+  "source_url": "https://sourcelibrary.org/book/69906d2864d44bd0a0ef524f",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "navagrahamakhaprayoga_laghushaunaki-CGV-SDPB-0190"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:49.027Z",
+  "_hashes": {
+    "ocr": "43042cb46e04bed9",
+    "translation": "8822f143ed25fd33"
+  }
+}

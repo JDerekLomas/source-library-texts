@@ -1,0 +1,28 @@
+{
+  "id": "69906d4564d44bd0a0ef52ef",
+  "title": "Nirnayoddhara Tithi Nirnaya",
+  "display_title": "Nirnayoddhara Tithi Nirnaya",
+  "author": "Unknown",
+  "language": "Sanskrit",
+  "year": 1836,
+  "published": "1836",
+  "pages_count": 35,
+  "pages_with_ocr": 35,
+  "pages_with_translation": 35,
+  "source_url": "https://sourcelibrary.org/book/69906d4564d44bd0a0ef52ef",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "nirnayoddhara_tithinirnaya_-CGV-PSS-0516-0368"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:49.662Z",
+  "_hashes": {
+    "ocr": "4a157f1413be68f0",
+    "translation": "713b0478579693db"
+  }
+}

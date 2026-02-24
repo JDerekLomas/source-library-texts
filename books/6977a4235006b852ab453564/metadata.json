@@ -1,0 +1,26 @@
+{
+  "id": "6977a4235006b852ab453564",
+  "title": "Christliche Buss-Predigten",
+  "display_title": "Christliche Buss-Predigten",
+  "author": "Spener, Philipp Jacob",
+  "language": "German",
+  "year": 1700,
+  "published": "1700",
+  "pages_count": 40,
+  "pages_with_ocr": 40,
+  "pages_with_translation": 40,
+  "source_url": "https://sourcelibrary.org/book/6977a4235006b852ab453564",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:47.182Z",
+  "_hashes": {
+    "ocr": "57ce70c40a74497b",
+    "translation": "3ed6fd63092c7e1d"
+  }
+}

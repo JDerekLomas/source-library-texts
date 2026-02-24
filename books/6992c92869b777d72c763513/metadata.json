@@ -1,0 +1,28 @@
+{
+  "id": "6992c92869b777d72c763513",
+  "title": "易經 斷易天機周易 64卦圖 (Yi Jing - 64 Hexagram Diagrams)",
+  "display_title": "易經 斷易天機周易 64卦圖 (Yi Jing - 64 Hexagram Diagrams)",
+  "author": "Anonymous",
+  "language": "Chinese",
+  "year": null,
+  "published": "Unknown",
+  "pages_count": 40,
+  "pages_with_ocr": 40,
+  "pages_with_translation": 40,
+  "source_url": "https://sourcelibrary.org/book/6992c92869b777d72c763513",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "64_20210924"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:47.762Z",
+  "_hashes": {
+    "ocr": "4fc06d596c9679c6",
+    "translation": "27f0929da1162e09"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "69907d89aee9f4aa58591e0e",
+  "title": "Lomash Samhita",
+  "display_title": "Lomash Samhita",
+  "author": "Lomasha Rishi",
+  "language": "Sanskrit",
+  "year": 1800,
+  "published": "1800",
+  "pages_count": 46,
+  "pages_with_ocr": 46,
+  "pages_with_translation": 46,
+  "source_url": "https://sourcelibrary.org/book/69907d89aee9f4aa58591e0e",
+  "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "LomashSamhita4065Alm19Shlf4DevanagariJyotish"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:44.020Z",
+  "_hashes": {
+    "ocr": "ad7e660739cdb4d1",
+    "translation": "72b05a666f7172c8"
+  }
+}

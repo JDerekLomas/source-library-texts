@@ -1,0 +1,26 @@
+{
+  "id": "697768b0e832d9422ad6e0ba",
+  "title": "De bombardis: ac item de typographia",
+  "display_title": "De bombardis: ac item de typographia",
+  "author": "[Besold, Christoph]",
+  "language": "Latin",
+  "year": 1620,
+  "published": "1620",
+  "pages_count": 36,
+  "pages_with_ocr": 36,
+  "pages_with_translation": 36,
+  "source_url": "https://sourcelibrary.org/book/697768b0e832d9422ad6e0ba",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:49.402Z",
+  "_hashes": {
+    "ocr": "18c616c1cda1d55e",
+    "translation": "76973c51bc5bc209"
+  }
+}

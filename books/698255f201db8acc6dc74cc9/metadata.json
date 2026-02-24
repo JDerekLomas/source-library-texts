@@ -1,0 +1,26 @@
+{
+  "id": "698255f201db8acc6dc74cc9",
+  "title": "Nöthiger Anhang zu der jüngst erschienenen Schrift: Endliches Schicksal des Freymaurer-Ordens",
+  "display_title": "Nöthiger Anhang zu der jüngst erschienenen Schrift: Endliches Schicksal des Freymaurer-Ordens",
+  "author": "Anonymous",
+  "language": "German",
+  "year": 1795,
+  "published": "1795",
+  "pages_count": 36,
+  "pages_with_ocr": 36,
+  "pages_with_translation": 36,
+  "source_url": "https://sourcelibrary.org/book/698255f201db8acc6dc74cc9",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:48.804Z",
+  "_hashes": {
+    "ocr": "f818ce3c2b04ce5b",
+    "translation": "c9d49af31c0ec4fb"
+  }
+}

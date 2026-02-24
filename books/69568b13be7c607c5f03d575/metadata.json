@@ -1,0 +1,28 @@
+{
+  "id": "69568b13be7c607c5f03d575",
+  "title": "Tableau Oeconomique (1758 Facsimile)",
+  "display_title": "Tableau Oeconomique (1758 Facsimile)",
+  "author": "François Quesnay",
+  "language": "French",
+  "year": 1758,
+  "published": "1758",
+  "pages_count": 44,
+  "pages_with_ocr": 44,
+  "pages_with_translation": 44,
+  "source_url": "https://sourcelibrary.org/book/69568b13be7c607c5f03d575",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "tableauoeconomiq00quesuoft"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:45.607Z",
+  "_hashes": {
+    "ocr": "52abe4ffea4232af",
+    "translation": "30a019244476559b"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "6991d66e8c1030b12444b4a3",
+  "title": "The Enochian Walks with God",
+  "display_title": "The Enochian Walks with God",
+  "author": "Jane Lead",
+  "language": "English",
+  "year": 1700,
+  "published": "Unknown",
+  "pages_count": 47,
+  "pages_with_ocr": 47,
+  "pages_with_translation": 47,
+  "source_url": "https://sourcelibrary.org/book/6991d66e8c1030b12444b4a3",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bim_early-english-books-1641-1700_the-enochian-walks-with-_lead-jane_1694"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:43.412Z",
+  "_hashes": {
+    "ocr": "544e8a21cbce6398",
+    "translation": "c34067828e9f0152"
+  }
+}

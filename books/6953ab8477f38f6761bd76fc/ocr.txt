@@ -1,0 +1,685 @@
+--- Page 1 ---
+<lang>Latin</lang>
+<meta>Historical manuscript cover, likely vellum or parchment. The page contains a modern circular digital watermark from the Biblioteca Apostolica Vaticana and a library shelfmark label on the spine edge.</meta>
+
+<insert>
+at.
+6
+VATICANA
+</insert>
+
+<vocab>binding, vellum, shelfmark, Biblioteca Apostolica Vaticana</vocab>
+
+--- Page 2 ---
+<lang>la</lang>
+<meta>Library shelfmark label pasted on flyleaf. Digital copyright watermark overlay present.</meta>
+
+<insert>
+Vat. lat.
+7286
+</insert>
+
+<unclear>BUSO</unclear>
+<unclear>ESANI</unclear>
+<note>Faint embossed text or watermark on the right side of the leaf.</note>
+
+<vocab>Vaticanus Latinus, shelfmark, flyleaf</vocab>
+
+--- Page 3 ---
+<lang>Latin</lang>
+<page-num>1</page-num>
+<warning>This page is essentially blank, containing no historical text. A modern digital copyright watermark from the Biblioteca Apostolica Vaticana is superimposed over the entire surface. There are two small faint marks in the center which appear to be bleed-through from an ink stamp or illustration on the reverse side of the leaf.</warning>
+
+[This page is blank.]
+
+<vocab>blank page, bleed-through, watermark</vocab>
+
+<detected-images>
+[{"description": "Faint bleed-through of a small decorative emblem or stamp from the reverse side of the leaf.", "type": "decorative", "bbox": {"x": 0.408, "y": 0.385, "width": 0.165, "height": 0.085}, "gallery_quality": 0.1, "museum_rationale": "The marks are indistinct bleed-through from the verso and do not constitute an intentional illustration on this specific page surface."}]
+</detected-images>
+
+--- Page 4 ---
+<lang>Latin</lang>
+<page-num>213</page-num>
+<meta>This folio is a blank page, possibly a flyleaf, containing no linguistic text. It features a small central ink emblem and a faint archival folio number in the upper right corner. The circular text is a digital watermark from the holding institution and is not part of the original manuscript.</meta>
+
+<vocab>folio, emblem, cross</vocab>
+
+<detected-images>
+[{"description": "A small ink emblem or watermark depiction in the center of the page, showing a cross atop a horizontal bar with decorative bulbous ends.", "type": "emblem", "bbox": {"x": 0.418, "y": 0.383, "width": 0.168, "height": 0.082}, "gallery_quality": 0.4, "museum_rationale": "A simple decorative or religious mark on a blank folio, typical of early modern manuscripts."}]
+</detected-images>
+
+--- Page 5 ---
+<lang>Latin</lang>
+<page-num>1</page-num>
+<meta>This is the title page of a manuscript titled 'Speculum Veritatis'. It features the ownership stamp of the 'Biblioteca Apostolica Vaticana' and handwritten archival shelfmarks (Vat. Lat. 7286). The central illustration is a symbolic emblem.</meta>
+
+<insert>7286</insert>
+
+# SPECVLVM VERITATIS
+
+<insert>M</insert>
+
+-><insert>7286 - Vat.</insert><-
+
+<vocab>Speculum Veritatis, alchemical emblem, coiled serpent, cross, Vatican Library, shelfmark</vocab>
+
+<detected-images>
+[
+  {"description": "Central shield-shaped emblem depicting a cross with an arrowhead top and two weights or bells hanging from the crossbar, positioned above a coiled serpent (serpens qui caudam devorat or Ouroboros-like).", "type": "emblem", "bbox": {"x": 0.364, "y": 0.278, "width": 0.248, "height": 0.345}, "gallery_quality": 0.9, "museum_rationale": "A prominent and well-executed hermetic/alchemical emblem illustrating the book's title, 'The Mirror of Truth'. Such imagery is central to 17th-century esoteric symbolism."},
+  {"description": "A small, informal sketch of a coiled serpent located to the right of the main shield, with the letter 'M' written above it.", "type": "decorative", "bbox": {"x": 0.610, "y": 0.445, "width": 0.122, "height": 0.160}, "gallery_quality": 0.4, "museum_rationale": "A secondary, likely hand-drawn study or reference sketch related to the main motif of the page."}
+]
+</detected-images>
+
+--- Page 6 ---
+<lang>Latin</lang>
+<warning>The image contains a prominent digital watermark "Biblioteca Apostolica Vaticana ALL RIGHTS RESERVED" overlaid on the manuscript content.</warning>
+
+# FIGVRA . PRIMA .
+
+<insert>
+->Materia confusa et Tenebro<gloss>sa</gloss><-
+->signo Astrali fulcita Sulphureo.<-
+</insert>
+
+PHILIP: DE STOSCH. L. B:
+
+<vocab>Materia confusa, Tenebrosa, signo Astrali, Sulphureo, Philip de Stosch, Libero Baro, alchemy, heraldry</vocab>
+
+<detected-images>
+[
+  {"description": "Engraved heraldic coat of arms belonging to Baron Philipp von Stosch, featuring a shield with a bird, a helmet with crest, and ornate mantling.", "type": "engraving", "bbox": {"x": 0.741, "y": 0.512, "width": 0.155, "height": 0.225}, "gallery_quality": 0.85, "museum_rationale": "Detailed heraldic bookplate of the famous antiquarian and diplomat Baron Philipp von Stosch (1691–1757), signifying provenance and ownership of the manuscript collection."},
+  {"description": "A double-ruled rectangular border framing the entirety of 'Figure 1'.", "type": "decorative", "bbox": {"x": 0.088, "y": 0.097, "width": 0.825, "height": 0.718}, "gallery_quality": 0.4, "museum_rationale": "Standard framing element common in scientific and philosophical manuscripts of the period."}
+]
+</detected-images>
+
+--- Page 7 ---
+<lang>Latin</lang>
+<page-num>32</page-num>
+<meta>This page consists almost entirely of an allegorical illustration with minimal textual elements limited to numerals.</meta>
+
+<insert>
+70
+</insert>
+
+<vocab>globus cruciger, miles, asinus, allegoria, prophetia</vocab>
+
+<detected-images>
+[{"description": "A full-page pen-and-ink allegorical illustration. In the center, a figure in full plate armor (miles) holds a flowered branch in his right hand and a globus cruciger in his left. The globe is marked with a central band, a star, and the number '70'. Above, a donkey appears within a cloud, with a star on its flank from which an arrow points down toward the globe. To the right, two standing figures observe: one in a tall hat and clerical or royal robes, and another in a cap and heavy cloak. The background features a rolling landscape with a church-like building, trees, and a prostrate figure lying on the ground to the far left.", "type": "decorative", "bbox": {"x": 0.06, "y": 133, "width": 0.86, "height": 0.72}, "gallery_quality": 0.85, "museum_rationale": "A complex and well-preserved allegorical or prophetic drawing from a Vatican manuscript. It contains rich iconographic details typical of 16th-17th century emblematic or apocalyptic traditions, such as the celestial donkey and the symbolic globe."}]
+</detected-images>
+
+--- Page 8 ---
+<lang>la</lang>
+<meta>Digital watermark from the Biblioteca Apostolica Vaticana is overlaid on the original image. Institutional physical ink stamp present.</meta>
+<warning>The page is partially obscured by a semi-transparent digital copyright watermark.</warning>
+
+## **FIGVRA SECONDA**
+
+<insert>
+->**Purgatio Materię et reductio**<-
+->**Geniti crudi in Genitorem coctum**<-
+->**ut Vrina sua lauet Mercurium.**<-
+</insert>
+
+<vocab>alchemy, Purgatio Materiae, Mercurius, Genitor, Genitus, alchemical transmutation, Italian language</vocab>
+
+<detected-images>
+[
+  {"description": "Institutional ink stamp of the Biblioteca Apostolica Vaticana with papal emblem.", "type": "decorative", "bbox": {"x": 0.665, "y": 0.266, "width": 0.112, "height": 0.128}, "gallery_quality": 0.3, "museum_rationale": "Standard institutional mark identifying the manuscript's provenance."},
+  {"description": "Geometric decorative border framing the central alchemical text.", "type": "decorative", "bbox": {"x": 0.306, "y": 0.354, "width": 0.432, "height": 0.255}, "gallery_quality": 0.2, "museum_rationale": "Simple rectangular framing element typical of manuscript structure."}
+]
+</detected-images>
+
+--- Page 9 ---
+<lang>la</lang>
+<page-num>3</page-num>
+<meta>The page consists of a full-page alchemical or hermetic illustration with symbolic figures and planetary signs.</meta>
+
+-> [Alchemical Illustration] <-
+
+<note>The drawing depicts an alchemical process or allegory involving planetary influences and metallurgical labor.</note>
+
+---
+
+<note>
+On the left, a bearded figure (possibly Hermes/Mercury) in traditional robes and a tall hat holds a caduceus, pointing it toward three spheres. 
+
+In the center, three large globes rest upon a rectangular brick furnace. Each globe is topped with a cross and contains a specific symbol:
+1. The leftmost globe contains a horizontal line (representing the element Earth or a specific mineral stage).
+2. The central globe contains an equilateral cross.
+3. The rightmost globe contains the symbol for Saturn ($\hbar$).
+
+Above the spheres, a figure stands upon a cloud, with three lines or "rays" descending to connect with each of the three globes. Beside this celestial figure is the symbol for Saturn ($\hbar$).
+
+On the right, a laborer or smith wearing a cap and tunic works at a small anvil set upon a cylindrical base, wielding a large hammer.
+</note>
+
+<vocab>alchemia, Mercurius, Saturnus, athanor, metallurgia, caduceus</vocab>
+
+<detected-images>
+[{"description": "A complex alchemical emblem depicting the relationship between celestial influence and terrestrial labor. It features Mercury with a caduceus, a celestial figure on a cloud (Saturn), a brick furnace with three symbolic globes, and a smith at an anvil.", "type": "emblem", "bbox": {"x": 0.088, "y": 0.147, "width": 0.812, "height": 0.705}, "gallery_quality": 0.9, "museum_rationale": "This is a detailed and well-preserved alchemical emblem typical of 17th-century hermetic manuscripts, illustrating the symbolic 'Great Work' through personifications and planetary signatures."}]
+</detected-images>
+
+--- Page 10 ---
+<warning>The image contains a large, repeating circular digital watermark from the 'Biblioteca Apostolica Vaticana' that overlays the manuscript text.</warning>
+
+<lang>Latin</lang>
+
+## FIGVRA &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; TERZA
+
+<insert>
+->Coniunctio Naturarum cum<-
+->Saturnina Mercurij ablutione, per<-
+->Separationem Tenebrarum.<-
+</insert>
+
+<vocab>Coniunctio, Naturarum, Saturnina, Mercurij, ablutione, Separationem, Tenebrarum, alchemy, alchemical process</vocab>
+
+--- Page 11 ---
+<lang>Latin</lang>
+<page-num>4</page-num>
+<meta>The page contains an intricate alchemical illustration with numerical labels and planetary symbols. A modern watermark "Biblioteca Apostolica Vaticana ALL RIGHTS RESERVED" is visible across the top of the image.</meta>
+
+<insert>
+49.
+</insert>
+
+<insert>
+56.
+</insert>
+
+<insert>
+56.
+</insert>
+
+<vocab>alchemy, Saturn, ♄, Mercury, caduceus, king, mortar, pestle, fountain, 7</vocab>
+
+<detected-images>
+[{"description": "A complex alchemical illustration featuring various allegorical figures. In the center, a man in a brimmed hat uses a pestle in a large mortar labeled '56.' To his right, a crowned kingly figure holds a globus cruciger marked with the symbol of Saturn (♄). A fountain with a grotesque leonine mask flows into a basin, with three jars below marked with the Saturn symbol. On the left, a man and a woman stand by a brick structure topped with a bird. In the upper air, a small winged figure with a caduceus is labeled '49.' Numerous circular medallions containing the symbol for Saturn (♄) and the number '7' are placed throughout the composition.", "type": "engraving", "bbox": {"x": 0.06, "y": 0.13, "width": 0.86, "height": 0.74}, "gallery_quality": 0.95, "museum_rationale": "This is an exceptionally detailed alchemical emblem, typical of 17th-18th century hermetic manuscripts. It preserves a complete iconographic program with standard planetary and procedural symbols."}]
+</detected-images>
+
+--- Page 12 ---
+<lang>Latin</lang>
+<meta>Page from an alchemical manuscript featuring a decorative border and a three-line Latin verse. Includes a modern digital watermark from the Biblioteca Apostolica Vaticana.</meta>
+
+# FIGVRA QVARTA
+
+<insert>
+->Vulcanus ad uolatum pellit Aues,<-
+->et Gallina Ouum parturit, fit que<-
+->Mercurius Hermaphroditus.<-
+</insert>
+
+<vocab>Vulcanus, Mercurius Hermaphroditus, Gallina, Ouum, alchemia, figura quarta</vocab>
+
+<detected-images>
+[{"description": "A rectangular double-line decorative border framing the central Latin text.", "type": "decorative", "bbox": {"x": 0.284, "y": 0.353, "width": 0.447, "height": 0.187}, "gallery_quality": 0.3, "museum_rationale": "Standard decorative frame used to highlight specific textual content within the manuscript layout."}]
+</detected-images>
+
+--- Page 13 ---
+<lang>Latin</lang>
+<page-num>5</page-num>
+<warning>A large modern institutional watermark ("Biblioteca Apostolica Vaticana ALL RIGHTS RESERVED") is present across the entire page, occasionally obscuring details of the original manuscript.</warning>
+
+<insert>
+50
+</insert>
+
+<insert>
+**[Central Column]**
+63.
+70.
+77.
+84.
+91.
+98.
+Vel
+105.
+112.
+119.
+</insert>
+
+<insert>
+**[Spheres on Left]**
+56.
+63.
+70.
+77.
+84.
+</insert>
+
+<insert>
+**[Spheres on Right]**
+91.
+98.
+Vel
+119.
+</insert>
+
+<insert>
+**[Right Pedestal]**
+3 + O (
+</insert>
+
+<vocab>alchemical diagram, esoteric numerology, athanor, furnace, Vel, symbols</vocab>
+
+<detected-images>
+[{"description": "A complex alchemical or kabbalistic diagram centered around a multi-tiered furnace or column (possibly an athanor) with numbered segments ranging from 63 to 119. At the top, figures in a cloud are marked with the number 50. An arch spans the diagram with numbered spheres suspended from it. To the left, a human figure carries a bundle of grain or wood; to the right, a smaller sprite-like figure holds a trident. The base features two pedestals: the left depicting a rooster in a basket, and the right depicting a waterfowl in a basket beneath symbolic notations (3 + O ().", "type": "diagram", "bbox": {"x": 0.07, "y": 0.12, "width": 0.83, "height": 0.78}, "gallery_quality": 0.9, "museum_rationale": "An intricate and symbolic early modern esoteric illustration, significant for its detailed numerical coding and allegorical figures, likely used for teaching or as a meditative tool in hermetic traditions."}]
+</detected-images>
+
+--- Page 14 ---
+<lang>Latin</lang>
+<meta>The image contains a large circular institutional watermark from the Biblioteca Apostolica Vaticana.</meta>
+<warning>A large, transparent institutional watermark is superimposed over the manuscript text, though legibility remains high.</warning>
+
+## FIGVRA. QVINTA.
+
+<insert>
+Philosophi Mercurium suum Paratum
+Venerantur, et aliqui Aurum ei offerunt,
+quod non omnes Philosophi faciunt.
+</insert>
+
+<vocab>Philosophi, Mercurius, Aurum, Figura Quinta, Alchimia</vocab>
+
+--- Page 15 ---
+<lang>Latin</lang>
+<page-num>6</page-num>
+<meta>Digital watermark "Biblioteca Apostolica Vaticana ALL RIGHTS RESERVED" is overlaid on the image. Faint mirrored text from the reverse side of the page (bleed-through) is visible in the background but is not part of the content for this page.</meta>
+
+<vocab>Alchemy, Hermes, Mercurius, Ouroboros, Sol, Luna, caduceus</vocab>
+
+<detected-images>
+[{"description": "A complex alchemical emblem depicting three figures. In the center, a personified Mercury (Hermes) wearing a winged petasos and winged boots stands upon a circular disc containing an Ouroboros (a snake eating its own tail). He holds a caduceus in his right hand and a balance scale in his left. To the left, a figure holds a radiant sun emblem and a crescent moon. To the right, a bearded figure bows slightly while holding a hat or vessel. The scene is set in a sparse landscape with clouds in the sky.", "type": "emblem", "bbox": {"x": 0.065, "y": 0.125, "width": 0.835, "height": 0.725}, "gallery_quality": 0.95, "museum_rationale": "A high-quality 17th-century alchemical illustration featuring classic esoteric iconography. The central figure of Mercury standing on the Ouroboros symbolizes the mediation between opposites and the cyclic nature of the alchemical process. The craftsmanship is typical of high-status hermetic manuscripts from the period."}]
+</detected-images>
+
+--- Page 16 ---
+<lang>Latin</lang>
+<warning>Heavy institutional watermarking obscures the background alchemical illustration.</warning>
+<meta>Watermark: Biblioteca Apostolica Vaticana ALL RIGHTS RESERVED.</meta>
+
+# FIGVRA SESTA
+
+<insert>
+->Mercurius hic noster ab externis<-
+->sordibus lauatur.<-
+</insert>
+
+<vocab>Mercurius, sordes, lauatur, ablutio</vocab>
+
+<detected-images>
+[{"description": "Alchemical emblem depicting a central figure (likely Mercury) within a circular vessel or sphere, representing the purification process.", "type": "emblem", "bbox": {"x": 0.212, "y": 0.134, "width": 0.575, "height": 0.768}, "gallery_quality": 0.6, "museum_rationale": "A significant historical alchemical diagram from the Vatican Apostolic Library illustrating a stage of the Great Work (the purification or 'washing' of mercury)."}]
+</detected-images>
+
+--- Page 17 ---
+<lang>Latin</lang>
+<page-num>7</page-num>
+
+<insert>
+S. C.
+SA
+S. F.
+A. S.
+A. C.
+</insert>
+
+<vocab>apothecary, alchemical laboratory, distillation apparatus, alembic, mortar and pestle, pharmaceutical vessels</vocab>
+
+<detected-images>
+[{"description": "A detailed pen-and-ink illustration of an early modern laboratory or apothecary shop. On the left, a man in a cap and gown works with a large mortar and pestle. A long counter displays various vessels including jars labeled 'S. C.', 'SA', 'S. F.', and 'A. S.', a large bowl labeled 'A. C.', and several pieces of distillation equipment (alembics and receivers). The counter sits atop a stone or brick foundation. The background depicts a landscape with a stone bridge, a church, and small houses.", "type": "emblem", "bbox": {"x": 0.07, "y": 0.13, "width": 0.83, "height": 0.66}, "gallery_quality": 0.9, "museum_rationale": "This is a high-quality manuscript illustration showing the practical and symbolic setup of a 17th or 18th-century laboratory. The inclusion of specific chemical abbreviations and the detailed rendering of distillation apparatus make it an important document for the history of science and medicine."}]
+</detected-images>
+
+--- Page 18 ---
+<lang>Latin</lang>
+<warning>Page contains a prominent modern digital watermark from the Vatican Library. The background illustration is extremely faint and appears to be a faded engraving or underdrawing.</warning>
+
+# FIGVRA. SETTIMA.
+
+---
+
+<insert>
+->Agonizanti Vulcano Ouum<-
+->fouendum traditur ut *Phisicus*<-
+->enascatur Pullus<-
+</insert>
+
+<vocab>Figura, Agonizanti, Vulcano, Ouum, Phisicus, Pullus, alchemia, alchemy</vocab>
+
+<detected-images>
+[{"description": "A faint background illustration, possibly an engraving, depicting an architectural space or workshop scene related to alchemical processes, corresponding to the 'Vulcan' and 'Egg' mentioned in the text.", "type": "engraving", "bbox": {"x": 0.111, "y": 0.114, "width": 0.793, "height": 0.718}, "gallery_quality": 0.5, "museum_rationale": "A historical alchemical emblem; despite being faded in this particular capture, it represents a significant genre of early modern scientific/philosophical imagery."}]
+</detected-images>
+
+--- Page 19 ---
+<lang>Latin</lang>
+<page-num>13</page-num>
+<meta>Institutional watermark 'RESERVED' is visible stamped across the illustration. Very faint, illegible script is present at the top edge of the page.</meta>
+
+<vocab>alchemy, arbor philosophica, Sol, Luna, furnace, hermeticism, retort</vocab>
+
+<detected-images>
+[{"description": "A complex alchemical emblem depicting the 'Philosophical Tree' (Arbor Philosophica) growing from a central furnace or luted vessel. On the left, a figure in scholar's robes holds an anthropomorphic sun (Sol). On the right, a similarly dressed figure holds a crescent moon (Luna). At the base of the furnace, a third figure wearing a fur-trimmed tunic sits holding a staff and a small vessel. The furnace itself features a framed image of three alchemical retorts on its front. The entire scene is set against a simple landscape background.", "type": "emblem", "bbox": {"x": 0.076, "y": 0.092, "width": 0.835, "height": 0.732}, "gallery_quality": 0.95, "museum_rationale": "A high-quality and symbolically rich alchemical illustration typical of early modern hermetic traditions. The precise execution and classical iconography make it a significant historical and artistic specimen."}]
+</detected-images>
+
+--- Page 20 ---
+<warning>The manuscript page is overlaid with a modern circular institutional watermark from the "Biblioteca Apostolica Vaticana" which partially obscures the original text.</warning>
+<lang>Latin</lang>
+<meta>Institutional watermark overlay: Biblioteca Apostolica Vaticana © ALL RIGHTS RESERVED</meta>
+
+# FIGVRA OTTAVA
+
+<insert>
+Gallina Ouum fouet; Cadmus
+Serpentem ad Quercum transifigit
+Regemq interficit Mercurius
+->noster<-
+</insert>
+
+<vocab>Gallina, Ouum, Cadmus, Mercurius, alchemy, emblem</vocab>
+
+--- Page 21 ---
+<lang>Latin</lang>
+<page-num>2</page-num>
+<meta>This page contains a full-page allegorical illustration with no text present for transcription.</meta>
+
+<note>
+The illustration is likely alchemical or symbolic in nature. It depicts a central tree with a large serpent coiled around its trunk and a bird (possibly a swan or pelican) sitting in a nest in the upper branches. 
+
+Three figures interact with the tree:
+1. On the left, a warrior figure wearing a winged helmet (likely representing Mercury or Hermes) points a sword towards a central figure.
+2. In the center, a crowned figure (a King) stands behind the tree.
+3. On the right, a man in Renaissance attire points a sword at the serpent while holding a staff topped with an alchemical or religious symbol (a triangle over a cross, surmounted by a flame).
+</note>
+
+<vocab>alchemy, allegory, serpent, swan, king, Mercury, symbol, tree</vocab>
+
+<detected-images>
+[{"description": "An alchemical emblem depicting a tree with a serpent and a nesting swan, flanked by a winged warrior (Mercury), a king, and a man holding a symbolic staff of fire.", "type": "emblem", "bbox": {"x": 0.08, "y": 0.12, "width": 0.82, "height": 0.73}, "gallery_quality": 0.95, "museum_rationale": "A highly detailed and iconographically rich early modern alchemical illustration, typical of hermetic manuscripts of the 16th-17th centuries."}]
+</detected-images>
+
+--- Page 22 ---
+<lang>Latin</lang>
+<warning>A large institutional watermark ("Biblioteca Apostolica Vaticana ALL RIGHTS RESERVED") is overlaid across the entire image. The background illustration is faint.</warning>
+
+# FIGVRA NONA
+
+<insert>
+->Cadmus Rotam uertit, et Sulphuri nostro<-
+->primum figit Clauum et sic per primam<-
+->Rotationem procreatum Aurum,<-
+->habetur Philosophorum<-
+</insert>
+
+<vocab>Cadmus, Rota, Sulphur, Clavum, Rotatio, Aurum Philosophorum, Alchemy</vocab>
+
+<detected-images>
+[{"description": "Alchemical emblem (Figure 9) composed of a decorative frame containing a central text box. Faintly visible in the background is a classical figure, identified as Cadmus, turning a large wooden wheel mechanism, representing the alchemical 'rotation' process.", "type": "emblem", "bbox": {"x": 0.088, "y": 0.113, "width": 0.823, "height": 0.738}, "gallery_quality": 0.75, "museum_rationale": "A significant example of alchemical iconography where classical mythology (Cadmus) is used as an allegory for chemical procedures. This 'Figura Nona' is part of a series detailing the creation of the Philosophers' Gold."}]
+</detected-images>
+
+--- Page 23 ---
+<lang>Latin</lang>
+<page-num>10</page-num>
+<meta>Early modern alchemical engraving illustrating the stages of the Great Work (Magnum Opus) through a "wheel of colors" associated with planetary and chemical symbols.</meta>
+
+---
+
+<note>The page contains an intricate alchemical emblem. A central wheel, resembling a millstone or a steering wheel with handles, is divided into segments corresponding to the various colors and states observed during alchemical transmutation. A knight in armor stands to the right, possibly signifying the "active" or "sulfuric" principle, while a seated philosopher sits by a three-tiered furnace on the far right, representing the "contemplative" or "mercurial" aspect and the regulation of fire.</note>
+
+<margin>
+Labels inscribed within the segments of the circular wheel (clockwise from the top):
+</margin>
+
+- **Vin: Cerul.** <gloss>♄ (Saturn)</gloss>
+- **Album** <gloss>☽ (Luna)</gloss>
+- **Ciner.** <gloss>🜔 (Alchemical symbol for salt or ashes)</gloss>
+- **Nig:** **♄** <gloss>(Saturn / Nigredo)</gloss>
+- **Colores Varij** <gloss>☿ (Mercury / Various Colors)</gloss>
+- <gloss>[Symbol: A triangle inscribed within a circle]</gloss>
+- **Purpu. obscur.** <gloss>(Dark Purple)</gloss>
+- **Citrin:** <gloss>☉ (Sol / Citrinitas)</gloss>
+- **Cauda Pavon.** <gloss>[Symbol of a bird, representing the Peacock's Tail stage]</gloss>
+- **Palid. Rub. Flau. Obscu.** <gloss>☉ (Sol / Red, Yellow, Dark, and Pallid stages)</gloss>
+
+<margin>
+Numerical indicators on the furnace/tower levels (representing degrees of heat):
+</margin>
+
+- **3** <gloss>(Highest heat)</gloss>
+- **2** <gloss>(Medium heat)</gloss>
+- **1** <gloss>(Gentle heat)</gloss>
+
+---
+
+<vocab>Alchimia, Cauda Pavonis, Nigredo, Albedo, Citrinitas, Rubedo, Saturnus, Luna, Mercurius, Sol, Magnum Opus</vocab>
+
+<detected-images>
+[{"description": "A complex alchemical engraving featuring a large wheel with eight handles, inscribed with Latin terms for colors and alchemical symbols. To the right, a knight in full plate armor holds one of the wheel's handles. In the background right, a bearded philosopher sits before a brick furnace tower with three levels of fire. The scene is framed by the branches of a tree at the top and a grassy ground below.", "type": "engraving", "bbox": {"x": 0.065, "y": 0.125, "width": 0.842, "height": 0.718}, "gallery_quality": 0.95, "museum_rationale": "A prime example of early modern alchemical symbolism, this engraving beautifully synthesizes planetary astrology, laboratory practice (the furnace), and the philosophical stages of matter (the color wheel). It is a significant visual document for the history of science and Western esotericism."}]
+</detected-images>
+
+--- Page 24 ---
+<warning>The image features an intrusive, repeated circular digital watermark from the 'Biblioteca Apostolica Vaticana' which overlays the historical text. There is also significant ghosting/show-through of text and diagrams from the reverse side of the leaf.</warning>
+
+<lang>Latin</lang>
+<meta>Archival watermark: Biblioteca Apostolica Vaticana ALL RIGHTS RESERVED. The page contains a central text box with faint alchemical diagrams visible in the background and margins, likely bleed-through or preparatory sketches.</meta>
+
+# FIGVRA DECIMA
+
+---
+
+->Natura Filium Solis ex Sophorum Ouuo<-
+->per Fermentationem et Nutritionem<-
+->iterum, et tertio repetita Rote Versione<-
+->Triplici Clauo firmatur<-
+
+<vocab>Natura, Filium Solis, Sophorum Ouuo, Fermentationem, Nutritionem, Rote Versione, Triplici Clauo, alchemia</vocab>
+
+<detected-images>
+[{"description": "A central rectangular frame containing alchemical text, with faint show-through of a circular diagram (the 'Wheel' mentioned in the text) and various instrumental sketches such as a compass or balance in the right margin.", "type": "diagram", "bbox": {"x": 0.088, "y": 0.135, "width": 0.835, "height": 0.718}, "gallery_quality": 0.4, "museum_rationale": "This page serves as an emblem or figure title (Figvra Decima) for an alchemical work, discussing the 'Egg of the Wise' and the 'Son of the Sun'. While the primary illustrations are faint due to being show-through or under-drawings, they provide important context for the hermetic text."}]
+</detected-images>
+
+--- Page 25 ---
+<lang>Latin</lang>
+<page-num>11</page-num>
+<warning>Page contains a large moisture stain on the left and a prominent modern watermark across the image.</warning>
+<meta>This page is an illustration from an alchemical or hermetic treatise. It contains no running prose text, but features several symbolic numbers and a Greek character within the engraving.</meta>
+
+->3<-
+
+->8<-
+
+->3 ii.<-
+
+->3<-
+
+->$\Omega$<-
+
+<vocab>Alchemy, Hermeticism, Emblem, Symbolism</vocab>
+
+<detected-images>
+[{"description": "A complex alchemical emblem depicting symbolic laboratory and agricultural work. On the left, a figure in a cap and robe holds a sun symbol containing the number '3' and an egg-shaped object with '8' over an altar marked with '3' and 'ii.'. In the center, a large circular emblem contains a triangle with a head and wings emerging from a vessel. On the right, a second figure sows seeds from a basket near a tall furnace or chimney stack marked with '3' and the Greek letter '$\Omega$' (Omega), topped with banners. In the foreground, a basket holds two more eggs next to seeds scattered on the ground.", "type": "emblem", "bbox": {"x": 0.07, "y": 0.13, "width": 0.83, "height": 0.77}, "gallery_quality": 0.95, "museum_rationale": "This is an exceptional example of early modern alchemical iconography, preserved in the Vatican Library. It utilizes sophisticated allegorical imagery—sowing seeds, numbered stages of work, and celestial geometry—to communicate esoteric chemical processes."}]
+</detected-images>
+
+--- Page 26 ---
+<lang>Latin</lang>
+<meta>image contains digital watermarks from the Biblioteca Apostolica Vaticana</meta>
+
+# FIGURA UNDECIMA.
+
+->Elixir hunc igneum in tribus Naturę Regnis<-
+->Dominantem, Reges terrę adorant<-
+
+<vocab>Elixir, Natura, Reges, Figura, igneus</vocab>
+
+<detected-images>
+[{"description": "Alchemical diagram featuring an outer circle, an inscribed equilateral triangle, and a central rectangle containing text.", "type": "diagram", "bbox": {"x": 0.264, "y": 0.198, "width": 0.505, "height": 0.603}, "gallery_quality": 0.8, "museum_rationale": "A clear example of alchemical symbolic geometry, representing the intersection of various planes of existence or chemical principles."},
+{"description": "Faint background drawing of three crowned figures (kings) in a state of adoration or prayer, corresponding to the text 'Reges terrę adorant'.", "type": "decorative", "bbox": {"x": 0.175, "y": 0.158, "width": 0.671, "height": 0.697}, "gallery_quality": 0.5, "museum_rationale": "Provides iconographic context to the central alchemical claim, though significantly faded and partially obscured by the foreground diagram."}]
+</detected-images>
+
+--- Page 27 ---
+<lang>Latin</lang>
+<page-num>12</page-num>
+<warning>The page is heavily watermarked by the holding institution ("Biblioteca Apostolica Vaticana"), which obscures some original details and potentially faint text within the central emblem.</warning>
+
+RE<unclear>S</unclear>
+
+3
+
+<vocab>alchemy, emblem, symbolism, king, orb, dragon, triangle, flame, tower</vocab>
+
+<detected-images>
+[{"description": "An intricate alchemical or mystical emblem. On the left, a king in robes and crown kneels in prayer or supplication. In the center, a large six-pointed star radiates light, containing a circle with an equilateral triangle; inside the triangle is a flame, and three arrows point downward from its base. Below the star is a globe or orb featuring a dragon or serpent, surmounted by a central crown and flanked by two smaller mitres or crowns. To the right stands a tiered tower or lighthouse marked with the number '3', topped by a flag displaying three arrows.", "type": "emblem", "bbox": {"x": 0.08, "y": 0.08, "width": 0.84, "height": 0.83}, "gallery_quality": 0.85, "museum_rationale": "This is a high-quality example of early modern alchemical or esoteric imagery from a Vatican manuscript. Such emblems are significant for the study of the history of science, philosophy, and symbolic art during the 16th-18th centuries."}]
+</detected-images>
+
+--- Page 28 ---
+<lang>Latin</lang>
+<meta>The page features a faint background alchemical or symbolic illustration with a text box overlaid on top. A modern watermark from the Biblioteca Apostolica Vaticana is visible across the center.</meta>
+
+# FIGURA. DUODECIMA.
+
+<insert>
+->Multiplicatur cum lacte tantum<-
+->et in Planetis terrestribus suam<-
+->Virtutem ostendit.<-
+</insert>
+
+<vocab>Multiplicatio, Planetae terrestribus, Virtus, Alchimia</vocab>
+
+<detected-images>
+[{"description": "A faint symbolic emblem featuring a triangle at the top, a tiered tower structure on the left, a human figure on the right, and a circular diagram at the base, all framed within a double-line border.", "type": "emblem", "bbox": {"x": 0.12, "y": 0.16, "width": 0.76, "height": 0.68}, "gallery_quality": 0.6, "museum_rationale": "A characteristic example of early modern alchemical or hermetic illustration, using visual allegory to represent complex philosophical or natural processes, despite the fading and modern watermark."}]
+</detected-images>
+
+--- Page 29 ---
+<lang>Latin</lang>
+<page-num>13</page-num>
+<meta>This page contains a full-page alchemical illustration with no textual inscriptions.</meta>
+<warning>The page consists entirely of an illustration and alchemical symbols; there is no linguistic text to transcribe.</warning>
+
+<vocab>Alchemy, Mercury symbol, Crucible, Furnace, Laboratory, Metallurgical process</vocab>
+
+<detected-images>
+[{"description": "An alchemical or metallurgical illustration depicting two male figures in a laboratory setting. On the left, a figure in a long robe and hood holds a staff-like object topped with the symbol for Mercury. In the center is a tall, segmented pillar topped with a radiant sunburst containing a triangle and a downward-pointing arrow. To the right of the pillar, liquid flows from a spout on a brick furnace into a container marked with another Mercury symbol. On the far right, a second figure stands behind a platform holding four small vessels or crucibles of various shapes.", "type": "diagram", "bbox": {"x": 0.08, "y": 0.12, "width": 0.78, "height": 0.71}, "gallery_quality": 0.85, "museum_rationale": "Significant early modern alchemical illustration showing the intersection of symbolic imagery and practical laboratory apparatus."}]
+</detected-images>
+
+--- Page 30 ---
+<lang>lat</lang>
+<page-num>1280</page-num>
+
+<warning>This page appears to be a blank verso or a leaf with significant ink bleed-through (show-through) from the recto side. There is no primary handwritten or printed manuscript text present on this surface, with the exception of archival markings and a modern library stamp.</warning>
+
+<meta>Modern library stamp: Biblioteca Apostolica Vaticana ALL RIGHTS RESERVED (repeated in a circular pattern)</meta>
+
+<vocab>archival numbering, bleed-through, library stamp</vocab>
+
+<detected-images>
+[{"description": "Faint ink illustration, likely bleed-through from the reverse side, depicting a central columnar structure or fountain surmounted by a cross or sphere, flanked by standing human figures.", "type": "emblem", "bbox": {"x": 0.21, "y": 0.16, "width": 0.6, "height": 0.68}, "gallery_quality": 0.3, "museum_rationale": "The illustration is extremely faint and appears to be bleed-through from the recto side of the leaf. It represents a heraldic device or printer's emblem typical of 16th-18th century manuscripts."}]
+</detected-images>
+
+--- Page 31 ---
+<lang>Latin</lang>
+<page-num>7280</page-num>
+
+<meta>This page is a blank leaf, possibly a flyleaf or protective sheet, containing no historical text. It features a handwritten numerical identifier "7280" in the upper left corner and a large, modern circular library stamp from the Biblioteca Apostolica Vaticana.</meta>
+
+<vocab>Biblioteca Apostolica Vaticana, shelfmark, blank leaf</vocab>
+
+--- Page 32 ---
+<lang>lat</lang>
+<meta>Blank page, likely a flyleaf or endpaper.</meta>
+<warning>This page contains no historical manuscript text. It features a modern circular digital watermark and a footer identifying the source institution (Biblioteca Apostolica Vaticana).</warning>
+
+[This page is blank.]
+
+<vocab>blank page, flyleaf, manuscript</vocab>
+
+--- Page 33 ---
+<lang>Latin</lang>
+<warning>The manuscript page is almost entirely blank, likely a flyleaf or endpaper. Only extremely faint ghosting or offset text is visible on the left side.</warning>
+<meta>The image contains a prominent circular digital watermark from the Biblioteca Apostolica Vaticana and a modern copyright footer.</meta>
+
+<unclear>ALFERI</unclear>
+<unclear>OCL</unclear>
+
+<vocab>blank page, flyleaf, offset text</vocab>
+
+--- Page 34 ---
+<lang>Latin</lang>
+<meta>Spine of the manuscript codex Vaticanus latinus 7286.</meta>
+<warning>The handwritten text "Vat" at the top is significantly faded.</warning>
+
+->Vat<-
+->7286<-
+
+---
+
+->Vat. lat.<-
+->7286<-
+
+<vocab>Vat. lat., shelfmark, Vaticanus latinus</vocab>
+
+--- Page 35 ---
+<lang>Latin</lang>
+<warning>The provided image depicts the fore-edge and binding profile of a closed manuscript volume. There is no legible textual content from a manuscript page visible for transcription.</warning>
+
+<meta>View of manuscript fore-edge and cover</meta>
+
+<vocab>fore-edge, codex, binding, vellum</vocab>
+
+--- Page 36 ---
+<lang>Latin</lang>
+<warning>This image shows the fore-edge view of a closed manuscript or pamphlet. No textual content is visible for transcription on this page.</warning>
+
+<vocab>fore-edge, vellum, binding, manuscript</vocab>
+
+--- Page 37 ---
+<lang>Latin</lang>
+
+<warning>This image displays the closed fore-edge and cover of a manuscript. There is no legible text from the manuscript's pages available for transcription in this view.</warning>
+
+<meta>The image shows a vertical view of a closed manuscript bound in parchment or vellum. Faint institutional stamps (likely "Vaticana") are visible on the cover material, but no primary historical text is present on this surface.</meta>
+
+<vocab>binding, fore-edge, vellum, parchment, manuscript</vocab>
+
+--- Page 38 ---
+<warning>The image contains a large circular digital watermark "© Biblioteca Apostolica Vaticana ALL RIGHTS RESERVED" overlaying the center of the page.</warning>
+
+<lang>Latin</lang>
+<meta>Blank parchment cover or flyleaf with a printed institutional shelfmark label on the right edge.</meta>
+
+<insert>BIBL. AP. Vat. 7</insert>
+
+<vocab>Bibliotheca Apostolica, Vaticanus, shelfmark</vocab>
+
+--- Page 39 ---
+<lang>Latin</lang>
+<page-num>7286</page-num>
+<meta>The number 7286 appears to be a library shelfmark. Digital watermark from the Biblioteca Apostolica Vaticana is present over the image.</meta>
+
+<margin>7286</margin>
+
+# SPECVLVM VERITATIS
+
+<margin>7286 - Vat.</margin>
+
+<insert>M</insert>
+
+<vocab>Speculum Veritatis, Mirror of Truth, emblem, shelfmark</vocab>
+
+<detected-images>
+[{"description": "A hand-drawn symbolic emblem within a shield outline. It depicts a cross with two bell-shaped weights hanging from the horizontal bar, standing atop a coiled spiral or snail-like form.", "type": "emblem", "bbox": {"x": 0.662, "y": 0.361, "width": 0.134, "height": 0.242}, "gallery_quality": 0.75, "museum_rationale": "An intriguing early modern symbolic device accompanying the title 'Speculum Veritatis', representative of allegorical manuscript traditions."}]
+</detected-images>
+
+--- Page 40 ---
+<lang>Latin</lang>
+<meta>This spread shows the title page or frontispiece of a manuscript. The left page is blank but shows heavy bleed-through of the emblem from the right page. The right page contains the title and a central ink-drawn emblem. A modern shelfmark has been added in ink below the emblem. Faint text from the reverse side ("M...") is visible through the paper.</meta>
+
+# SPECVLVM VERITATIS
+
+<insert>7286 - Vat.</insert>
+
+<vocab>Speculum Veritatis, Mirror of Truth, alchemical emblem, uroboros, balance, cross, Vatican Library, shelfmark</vocab>
+
+<detected-images>
+[
+  {"description": "Central alchemical emblem featuring a heraldic shield. Inside the shield is a cross with balance pans hanging from its horizontal bar, standing atop a coiled serpent (uroboros).", "type": "emblem", "bbox": {"x": 0.618, "y": 0.359, "width": 0.101, "height": 0.288}, "gallery_quality": 0.85, "museum_rationale": "A well-executed and symbolically rich alchemical emblem from the 'Speculum Veritatis' tradition, representing the balance of truth and the cyclic nature of matter (uroboros)."},
+  {"description": "A faint, small ink sketch of a coiled serpent to the right of the main emblem.", "type": "decorative", "bbox": {"x": 0.736, "y": 0.485, "width": 0.043, "height": 0.103}, "gallery_quality": 0.4, "museum_rationale": "A secondary, likely preparatory or redundant sketch of the serpent element found in the primary emblem."}
+]
+</detected-images>

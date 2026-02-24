@@ -1,0 +1,28 @@
+{
+  "id": "69907011245959b9547d672b",
+  "title": "De Occulta Philosophia Liber Quartus",
+  "display_title": "De Occulta Philosophia Liber Quartus",
+  "author": "Pseudo-Agrippa (Heinrich Cornelius Agrippa, attributed)",
+  "language": "Latin",
+  "year": 1559,
+  "published": "Unknown",
+  "pages_count": 46,
+  "pages_with_ocr": 46,
+  "pages_with_translation": 46,
+  "source_url": "https://sourcelibrary.org/book/69907011245959b9547d672b",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "de-occulta-philosophia-liber-quartus-agrippa-fourth-4th-book-of-occult-philosoph"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:44.105Z",
+  "_hashes": {
+    "ocr": "f9a6e492c70d7c52",
+    "translation": "80bbe7a70ffaea19"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "6911cf678cb6d2ae494a1061",
+  "title": "Sefer ha-bahir",
+  "display_title": "The Book of Brightness",
+  "author": "Nechunja ben haKana",
+  "language": "Hebrew",
+  "year": 1651,
+  "published": "1651",
+  "pages_count": 41,
+  "pages_with_ocr": 41,
+  "pages_with_translation": 41,
+  "source_url": "https://sourcelibrary.org/book/6911cf678cb6d2ae494a1061",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:46.645Z",
+  "_hashes": {
+    "ocr": "64ea0be8246ef204",
+    "translation": "7d604c7d3a77ac8c"
+  }
+}

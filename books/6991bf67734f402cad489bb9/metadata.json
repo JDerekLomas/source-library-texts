@@ -1,0 +1,26 @@
+{
+  "id": "6991bf67734f402cad489bb9",
+  "title": "Computus with Prognosticating Spheres and World Map (Harley MS 3667)",
+  "display_title": "harley ms 3667",
+  "author": "Byrhtferth of Ramsey; Abbo of Fleury",
+  "language": "Latin",
+  "year": 1015,
+  "published": "Unknown",
+  "pages_count": 47,
+  "pages_with_ocr": 46,
+  "pages_with_translation": 46,
+  "source_url": "https://sourcelibrary.org/book/6991bf67734f402cad489bb9",
+  "license": "unknown",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:44.609Z",
+  "_hashes": {
+    "ocr": "c038122954faa457",
+    "translation": "82ba6dbbf0fd8074"
+  }
+}

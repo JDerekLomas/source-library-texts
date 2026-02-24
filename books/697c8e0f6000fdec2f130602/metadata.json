@@ -1,0 +1,26 @@
+{
+  "id": "697c8e0f6000fdec2f130602",
+  "title": "Freymaurerregeln nach dem Französischen des Conventschlusses zu Wilhelmsbad",
+  "display_title": "Freymaurerregeln nach dem Französischen des Conventschlusses zu Wilhelmsbad",
+  "author": "[Beyerle, Jean Pierre Louis de]",
+  "language": "German",
+  "year": 1785,
+  "published": "[1785] \"5785\"",
+  "pages_count": 50,
+  "pages_with_ocr": 50,
+  "pages_with_translation": 50,
+  "source_url": "https://sourcelibrary.org/book/697c8e0f6000fdec2f130602",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:42.154Z",
+  "_hashes": {
+    "ocr": "b067929126101ae0",
+    "translation": "c4cb0d2417e02513"
+  }
+}

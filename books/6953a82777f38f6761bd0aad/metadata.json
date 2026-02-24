@@ -1,0 +1,28 @@
+{
+  "id": "6953a82777f38f6761bd0aad",
+  "title": "Commentary on the Apocalypse of John (Armenian)",
+  "display_title": "Commentary on the Apocalypse of John (Armenian)",
+  "author": "Andrew and Arethas of Cappadocia",
+  "language": "Armenian",
+  "year": 1300,
+  "published": "1300-1399",
+  "pages_count": 39,
+  "pages_with_ocr": 39,
+  "pages_with_translation": 39,
+  "source_url": "https://sourcelibrary.org/book/6953a82777f38f6761bd0aad",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "gallica": "btv1b100871411"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:48.180Z",
+  "_hashes": {
+    "ocr": "8476e86dc80db2ae",
+    "translation": "c79fc61c38848dc3"
+  }
+}

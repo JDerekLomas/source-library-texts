@@ -1,0 +1,26 @@
+{
+  "id": "69778b4db450898084dfd929",
+  "title": "In cabalam introductio",
+  "display_title": "In cabalam introductio",
+  "author": "Montecuccoli, Carlo",
+  "language": "Latin",
+  "year": 1612,
+  "published": "1612",
+  "pages_count": 50,
+  "pages_with_ocr": 50,
+  "pages_with_translation": 50,
+  "source_url": "https://sourcelibrary.org/book/69778b4db450898084dfd929",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:42.469Z",
+  "_hashes": {
+    "ocr": "3539e50478c8c3dd",
+    "translation": "77819199ca23b3e6"
+  }
+}

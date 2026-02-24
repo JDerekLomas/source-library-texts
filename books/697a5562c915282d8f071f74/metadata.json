@@ -1,0 +1,26 @@
+{
+  "id": "697a5562c915282d8f071f74",
+  "title": "Dichiaratione sopra il XIII. cap. dell'Apocalisse",
+  "display_title": "Dichiaratione sopra il XIII. cap. dell'Apocalisse",
+  "author": "Doni, Antonio Francesco",
+  "language": "Italian",
+  "year": 1562,
+  "published": "1562",
+  "pages_count": 40,
+  "pages_with_ocr": 40,
+  "pages_with_translation": 40,
+  "source_url": "https://sourcelibrary.org/book/697a5562c915282d8f071f74",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:47.463Z",
+  "_hashes": {
+    "ocr": "bdb8a61bd3bcc554",
+    "translation": "d797dd12da610026"
+  }
+}

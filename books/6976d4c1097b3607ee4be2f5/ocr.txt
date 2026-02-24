@@ -1,0 +1,1235 @@
+--- Page 1 ---
+<lang>None</lang>
+<meta>Front cover or endpaper of a bound manuscript; no text present.</meta>
+<vocab>marbled paper, bookbinding, quarter-binding, green leather, spine</vocab>
+
+<detected-images>
+[{"description": "A decorative book cover or endpaper featuring a traditional marbled pattern with swirls of green, yellow, red, and blue. The left edge shows a dark green textured spine, typical of a quarter-leather binding.", "type": "decorative", "bbox": {"x": 0.0, "y": 0.0, "width": 1.0, "height": 1.0}, "gallery_quality": 0.6, "museum_rationale": "A characteristic example of historical bookbinding using marbled paper, common in the 18th and 19th centuries."}]
+</detected-images>
+
+--- Page 2 ---
+<lang>la</lang>
+<meta>Hand-colored emblem pasted onto a flyleaf or blank page, with manuscript annotations.</meta>
+
+<insert>
+M
+
+->**PHILOSOPHIA HERMETICA**<-
+</insert>
+
+[Auszzug von Caspar]
+
+<vocab>Philosophia Hermetica, alchemy, pelican in her piety, Hermeticism, Caspar</vocab>
+
+<detected-images>
+[{"description": "A circular alchemical emblem featuring 'the pelican in her piety' (feeding her young with her own blood) atop a nest and a square plinth. The plinth is decorated with a saltire (X) and four rosettes. The scene is illuminated by rays from a sun above. The emblem is encircled by the golden text 'PHILOSOPHIA HERMETICA'.", "type": "emblem", "bbox": {"x": 0.424, "y": 0.344, "width": 0.192, "height": 0.224}, "gallery_quality": 0.9, "museum_rationale": "This is a finely executed and hand-colored Hermetic emblem. The 'pelican in her piety' is a classic symbol in alchemy representing the final stages of the Great Work (the Rubedo) and spiritual sacrifice. It is of significant interest to historians of science, esotericism, and book history."}]
+</detected-images>
+
+--- Page 3 ---
+<lang>German</lang>
+<warning>The manuscript page contains extremely faded text that appears to be ghosting or ink bleed-through from a title page on the reverse side or a facing leaf. Legibility is very low.</warning>
+<meta>ghosting, ink bleed-through, flyleaf</meta>
+<page-num>12</page-num>
+
+# Ausszug.
+# Was Caspar Schwenck-
+### feldt vom Predigampt hielte vnd
+### Darmit vor Gott ein Theil habe /
+### <unclear>vor gantz Christlich.</unclear>
+
+### Wider die falschen Verleumbder so
+### dafürgeben / das er das Ministerium
+### verwerff / oder nichts davon halte.
+
+-> <unclear>fleuron ornament</unclear> <-
+
+-> In sprüchen Salom. <-
+-> Capit. 14. <-
+
+# 1 5 4 8.
+
+<vocab>Ausszug, Caspar Schwenckfeldt, Predigampt, Ministerium, Sprüchen Salom, 1548</vocab>
+
+<detected-images>
+[{"description": "Extremely faint ghosted image of a decorative printer's mark or ornament between sections of text.", "type": "decorative", "bbox": {"x": 0.355, "y": 0.456, "width": 0.264, "height": 0.061}, "gallery_quality": 0.1, "museum_rationale": "Only visible as a faint ink transfer from another page, providing contextual evidence of the original printing layout but lacking artistic clarity on this specific surface."}]
+</detected-images>
+
+--- Page 4 ---
+<lang>English</lang>
+<warning>The page is almost entirely blank, containing only a very faint central mark and a line of illegible text, likely bleed-through or a faded library stamp and pencil inscription.</warning>
+<meta>Faint bleed-through or stamp in center; page appears to be a flyleaf.</meta>
+
+<insert>
+<unclear>
+[Oval heraldic stamp]
+Anatomy of the <unclear>...</unclear>
+</unclear>
+</insert>
+
+<vocab>blank page, bleed-through, library stamp</vocab>
+
+<detected-images>
+[{"description": "Very faint, oval-shaped mark in the center of the page, possibly a faded library stamp or heraldic coat of arms (likely bleed-through from another page).", "type": "decorative", "bbox": {"x": 0.436, "y": 0.376, "width": 0.112, "height": 0.118}, "gallery_quality": 0.1, "museum_rationale": "An extremely faded mark of provenance or bleed-through, significant for codicology but of low visual quality."}]
+</detected-images>
+
+--- Page 5 ---
+<lang>de</lang>
+<page-num>12 13</page-num>
+<meta>Handwritten numbers "12" and "13" appear at the top right. A circled mark (likely an archival or library mark) is in the right margin. There is red ink underlining on the words "Sacrament verwerffe."</meta>
+
+# Außzug /
+# Was Caspar Schwen-
+## ckfeldt vom Predigampt-Dienste vnd
+### Dienern des <term>Euangelij</term> Christi halte /
+### vnd in seinen Büchern dauon
+### hat geschriben.
+## Wider die falschen verleümbder-so
+### da fürgeben / das er das Ministerium
+### der Kirchen / vnd die h. Sa-
+### crament verwerffe.
+<note>In the original, the phrase "Sacrament verwerffe" is underlined with red ink.</note>
+
+->C. S.<-
+
+## In sprüchen Salom.
+### Cap. 14.
+
+> Ein warer Zeüge leüget nicht: Aber
+> ein falscher Zeüge redet künlich lügen.
+
+## 1 5 5 8.
+
+<vocab>Caspar Schwenckfeld von Ossig, Predigamt, Evangelium, Sakrament, Salomo, Reformation, spiritualism</vocab>
+
+--- Page 6 ---
+<lang>German</lang>
+<page-num>1 2 2 1</page-num>
+<warning>This page is functionally blank. The visible text is mirrored "ghosting" or bleed-through from the printing on the reverse side of the leaf. A set of numerals is handwritten at the bottom.</warning>
+
+<vocab>blank page, bleed-through, ghosting, numerals</vocab>
+
+--- Page 7 ---
+<lang>de</lang>
+<sig>A ij am</sig>
+<meta>Fraktur script. Early New High German. Features red ink underlining for emphasis on theological concepts. Catchword 'am' at the bottom right. Decorative woodcut initial 'N'.</meta>
+
+# Ausszug auss C. S. bü-
+## che vom Euangelio Christi vnnd
+### andern seinen Büchern/ vom Dienste
+### vnd Dienern der Christlichen
+### Kirchen.
+
+---
+
+**N**ach dem die Lutherischen predicanten mit Philippo Melanthon vnd seiner Schule zu Wittemberg/ C. Schwenckfelden vber allen warhafftigẽ bericht vñ verantwortung/ noch für vñ für ohn allen grund vnd beweisung (als die sich ye lenger ye weniger keiner vnwarheit vnd lästerung beschämen) auff den Cantzlen/ in jren disputation/ Schrifften vnd sonst/ wo sie nur künden vnd mögen/ aussgiessen/ verklagen/ vnd fälschlich berüchtigen/ das er das <term>Ministerium</term> der Kirchen verwerffe/ die h. Schrifft/ vnnd den eusserlichen dienst/ oder die mündtliche predigt des Euangelij Christi/ vnd desselbigen diener verachte/ vnnd sage/ man soll das wort allein vom Vatter hören/ ja allein durch den Geist innerlich gelert werden <gloss>zc.</gloss> Welche sie aber drumb auf jn erdichten/ das er jnen jre fehl vnd mängel beym Kirchendienste vnd Predigampt entdeckt/ auch solchs zubessern (wie sie denn jrem dienste/ zur verdunckelung vnnd nachtheil des ampts des regierenden gnaden Künigs Jesu Christi/ welch ampt er selbst in seiner Gemeyn oder Kirche/ durch den h. Geist füret/ vil zu vil geben/ ja das/ was Christi ist/ zueygnen/ <margin>treu-</margin> offtmals gñ <margin>guetlich</margin> <margin>hertz-</margin> pigtlich hat ermanet. So ist volgend zu seiner vnnd der warheit verantwortung/ dass jme in dem vnd andern vnrecht geschicht/ auffgezeichnet/ was er in seinen Büchern/
+
+<vocab>Caspar Schwenckfeld, Philipp Melanchthon, Wittemberg, Ministerium, Euangelium, Lutherische predicanten, Schrifften, Kirchendienst, Predigampt</vocab>
+
+<detected-images>
+[{"description": "Decorative woodcut initial letter 'N' featuring floral patterns, scrolling vines, and a small cross at the top.", "type": "decorative", "bbox": {"x": 0.092, "y": 0.282, "width": 0.205, "height": 0.123}, "gallery_quality": 0.75, "museum_rationale": "An ornate example of Reformation-era typography, typical of the decorative woodcut initials used in religious and polemical prints of the 16th century."}]
+</detected-images>
+
+--- Page 8 ---
+<lang>de</lang>
+<meta>Catchword: oder</meta>
+
+am erstiñ Bůch vom Euangelio Christi / da er zů ablays-
+nung solcher Calumnia ein eygen Capitel / vom Dienste
+vnd Dienern des Euangelij hat geschrieben / da auch die vr-
+sach der jhenigen / so jn also vnbillich mit vnwarheit auß-
+schreyen / zum theyl wirdt erzölt / Nemlich / daß sie solchs
+auß vnuerstandt des ampts Christi / im h. Geyste / vnd der
+ordnung des Reichs Christi also wehnen.
+
+Wir wöllen allhie von denen nit sagen / die C. S.
+auß lauter boßheit / neyd vnd haß / mit solcher Calumnia
+vnnd greysslichen vnwarheit beschwären / verleumbden
+vnnd argwenig machen / welcher vnwarheit sie bald auß
+dem vberzeugt mögen werdẽ / das C. S. selbst am Euan-
+gelio Christi / mit lehren / schreyen vnd predigen vil Jar
+lang in der gnaden Christi gedienet / *nicht vmbs Bauchs*
+*noch zeytlichen gewiñs oder ehere / pracht / vñ gůts willen /*
+wie layder heüt ein grosser teil der scribenten vñ Predican-
+ten thůnd / weyb vnd kind damit züerneeren / vnd schier ein
+<margin>Vom Euangelio qu fol: 12.</margin>
+handtwerck auß dem Predigampt machen / ja gewaltha-
+ber / auch der Stett Regenten darbey sein wöllen / welchs
+aber vom Schwenckfeldt nye ist erfahren / welcher auch /
+Gott lob / nicht ohne den segen vnd gedeyhen / das ist / nicht
+ohne frucht vnd nutz am Euangelio Christi hat gedienet /
+*Sonder allein von denen reden wir allhie / die es eintweder*
+auß vnuerstandt also darfür halten / oder von andern des
+feind beredt worden.
+
+Vnd gleich wie etliche Bäpstler / da man von der ge-
+rechtigkeit des Glaubens häller ansieng zů predigen (ob
+wol vil vngeschickts mit vndergeloffen) es darfür hielten /
+man wolte die gůtten werck verwerffen / Eben also thůnd
+yezt die groben vnuerständigen Lutheraner / wenn man
+vom eygnen innerlichẽ ampt Christi im herzen / Seel vnd
+gewissen / lehret oder sagt / daß sie schreyen / man wöll den
+dienst der Kirchen / vnd die eüsserliche lehre des Euangelij
+
+<vocab>Caspar Schwenckfeld, Euangelio, Calumnia, Bäpstler, Lutheraner, Predigampt, innerliche ampt Christi</vocab>
+
+--- Page 9 ---
+<lang>de</lang>
+<sig>A iij</sig>
+<meta>Catchword: wol</meta>
+
+oder das Predigampt / vñ die h. Sacrament verwerffen / weyl ſie diſen Geiſtlichen handel Gottes bey dem fleyſche vnd das innerliche eygne ampt Chriſti / vom cüſſerlichen dienſte nicht künden onderſcheyden / ſo wol als die Bäpſtler / des Glaubens gerechtigkeit von der Gerechtigkeit der werck / anfängklich nicht haben wiſſen zuſcheiden : Solchs aber abzuleynen / ſchreybet C. S. in gemeltem bůch vom Euangelio / von deſſelbigen dienſte oder Ministerio, vnnd warumb der dienſt von Chriſto ſey verordnet vnnd eingeſetzt / Fol. 11. alſo.
+
+<margin>Anno 47. gedruckt.</margin>
+Nach dem die auſſerwölten vnnd Kinder des Reichs Gottes noch im fleyſch wohnen / ſo hat Got der Herr Chriſtus in ſeinen händeln für das fleyſch oder cüſſerlichen menſchen / einen dienſt der Creaturen gegebé / derſelben er ſelbs gebraucht / auch den Apoſteln hernach auß den Creaturen
+
+<margin>Dienſt der Creature bey den händeln Gottes.</margin>
+zunemen / vnd dem fleyſche oder cüſſerem am menſchen damit zudienen / verordnet / Man muß aber ſehen / was Gott des Herren ſelbſt werck iſt / Darnach was des dienſts vnnd der Creaturen zůſtandt vnd vermögen. Man muß ſehen /
+
+<margin>Was der prediger euſſerlich redet / vnñ Got ſelbſt innerlich im hertzen redet / muß vnderſcheydé werden.</margin>
+was in die Seel oder ins hertz gehört / vnd allda geſchicht / was auch den ſinnen vnd dem cüſſern theil des Menſchens zůſtehe / vnd warumb es in den dienſt wirt gezogen. Vnd muß die beyde in einem Göttlichen handel recht vnderſcheyden / will man Chriſto nicht nachtheylig vnnd vnehrlich handlen.
+
+<margin>Warumb der dienſt verordnet iſt.</margin>
+Alſo iſt das Euangelium auch cüſſerlicher weyſe vor den euſſerlichen menſchen durch Chriſtum anfängklich geprediget / vnd in aller welt zů predigen beſolhen / dadurch der gantz menſch von den händeln Gottes vnderricht werde / vnd beyde an Seel / Leib vnd Geiſt / innerlich vnd cüſſerlich Chriſtum den ſeligmacher der welt erkenne vnd bekenne / das er im gehorſam ſeines Euangelij vnſträflich wandle / vnnd Gott den Vatter in Chriſto ſeinem Sone ſo
+
+<vocab>Predigampt, Sacrament, Euangelium, Ministerio, händeln Gottes, Creaturen, Caspar Schwenckfeld</vocab>
+
+--- Page 10 ---
+<lang>de</lang>
+<meta>image quality: excellent; catchword: ärndt</meta>
+<vocab>Iustification, seligmachung, Euangelium, Creaturn, Diener, Actor, Johan, Roman, Galat, Corinth</vocab>
+
+Wol als Christum den Son Gottes mit dem Vatter lobe
+vñ verehere / das auch das fleysch durch den Euangelischen
+dienst / dem Geyste gehorsam zulaysten ermanet / gestrafft /
+zur Gottseligkeit in der gnaden Christi gefirdert / ermund-
+tert vnd angereyzet werde.
+
+Das ist des diensts der Creaturn / zustand beym ampt
+der Iustification vnd seligmachung des menschens / mit vil
+andern nutzbarkeiten vnnd früchten / nicht daß dem regie-
+renden gnadenkünige Christo damit in sein eygeñ gebüren-
+de ampt der gerecht vñ seligmachũg werd gegriffen / sonder
+zu dem / wie gemeldet / ist der dienst des Euangelij võ Chri-
+sto für den eüsserlichen menschen eingesetzt vnd verordnet /
+vnd es will der Herz Christus solchs noch heute nicht leüg-
+nen oder widerruffen / sonder vil mehr zum lob der herzlig-
+keit seiner gnaden fürdern / handthaben vnnd bestätigen /
+deßhalben wir auch billich vmb trewe Diener des Euan-
+gelij Christi noch für vnd für fleyssig sollen bitten.
+
+<margin>Johan. 15. Jr habt mich nit erwölet / sondern ich habe euch erwölet vnnd gesetzt / das jr hingeht / vnd frucht bringt. Von Dienern des Euangelij Christi / wie sy die H. schrif- rift beschreibt.</margin>
+Es steht aber solcher dienst dises grossen mächtigen
+Herzen allein denen zu / wie die Schrifft sagt / die er darzu
+erwölet vnd verordnet / Johan. 15. die er aussendet / Ro-
+man. 10. denen ers offenbaret / Galat. 1. die es von im
+gelernet vnnd empfangen haben / 1. Corinth. 15. die da
+hören die stim auß seinem munde / Actor. 22. die darzu be-
+sigelt seind / daß sie die herzligkeit Christi vnd seines Reichs
+vor der welt bezeugen solleñ / wie auch zu Paulo dem diener
+des Euangelij ward gesagt : Du würdst ein zeüge zu allen
+menschen sein der ding / die du gesehen vñ gehört hast / vnd
+das ich dir noch will erscheinen lassen / Actor. 26.
+
+Es seind die / so nit von sich selbs reden / sonder der
+geyst des hymmlischen Vatters redet in jnen / vmb solche er-
+manet vnns der Herz Christus zu bitten / da er spricht : Die
+ärndt
+
+--- Page 11 ---
+<lang>Early Modern High German</lang>
+
+<margin>
+Matth. 20.
+Komen die arbeyter nit zuuor/sonder d Herr sucht/berüft vnd dinget sie.
+Currebant &c.
+Ambrosius,
+Roman. 10.
+Non erunt veri Apostoli, nisi a Christo mittantur.
+</margin>
+
+ärndt ist groß/aber wenig seind der arbeyter/Er redet von solchen rechtgeschaffenen trewen arbeytern/davon nun gehört/sonst hats an vntüchtigen selbstlauffenden arbeytern/an phariseern/Schrifftverkerrern oder schrifftgelerten vnd falschen Aposteln nye gemanglet/Drumb spricht er weiter : Bittet den Herrn der ärndte/das er arbeyter in seine ärndte außstosse/Math. 9. Darauß nun mänigklich wol vrtheylen kan/nach dem die ärndte des Herren vnnd nit vnser ist/das auch allein der Herr rechte trewe arbeyter geben vnd außstossen muß in sein ärndte/soll anderst zum Reiche Gottes durch den dienst etwas nuzlichs außgerichtet werden/von welchen dann geschriben steht: Wie lieblich sein die füsse dero/die den fride verkündigen/die das gute verkündigen/Roman. 10.
+
+<margin>
+Paulus.
+</margin>
+
+Gesandte Botten oder Legaten/haben instruction/credentz vnd macht brieffe/ja auch ein rechts wissen vnd erfarung der dinger/die sie handlen oder fürtragen sollen: Paulus rhümet sich seines berüffs/vnd das er ein abgefertigter Legat sey an statt Christi sein gewerb fürzubringen: Er dörffte auch nicht etwas reden in Göttlichen sachen/wa dasselb Christus nit in im würckte/Roman. 15.
+
+<margin>
+Da sihe/ob dz heysse / den dienst der predigt auff heben.
+</margin>
+
+Die rechten waren Diener des Euangelij Christi/dienen dem volcke zur besserung/daß sie von jren bösen wercken abstehen/sich bekeren/vnnd in ein büßfertig Gottselig leben richten/darzu jn der Herr/der sie schickt oder sendet/zum fordersten gnad gibt/vnd sein wares erkandtnus mit seinem eygnen ampt vnd wolthaten offenbart andern zu verkündigen/vnd dauon zu zeügen vnd zu lehren/Er helffe gnädigklich/das solche eins mals dicke stehn/welchs deß ein sonder gnad von Gott ist/vnd das vil rechter Christen in jrem dienste wachssen vnd auffgehn/Vnd wiewol sie jetzt sehr dünne stehen/so ist dennoch zuuerhoffen/das
+->heüt auch<-
+
+<meta>
+catchword: beü.
+red underlining on: ärndt, Math. 9., Roman. 10., Paulus, Roman. 15., besserung, Ambrosius
+</meta>
+
+<vocab>ärndt, arbeyter, Phariseern, Schrifftverkerrern, Schrifftgelerten, Aposteln, Legaten, credentz, Euangelij, predigt</vocab>
+
+--- Page 12 ---
+<lang>de</lang>
+<meta>catchword: ärndt</meta>
+
+Wol als Christum den Son Gottes mit dem Vatter lobe-
+vñ verehere / das auch das fleysch durch den Euangelischen
+dienst / dem Geyste gehorsam zulaysten ermanet / gestrafft /
+zur Gottseligkeit in der gnaden Christi gefördert / ermund-
+tert vnd angereyget werde.
+
+Das ist des diensts der Creaturn / zustand beym ampt
+der Justification vnd seligmachung des menschens / mit vil
+andern nutzbarkeiten vnnd früchten / nicht daß dem regie-
+renden gnadenkünige Christo damit in sein eyge gebüren-
+de ampt der gerecht vñ seligmachũg werd gegriffen / sonder
+zu dem / wie gemeldet / ist der dienst des Euangelij võ Chri-
+sto für den eusserlichen menschen eingesetzt vnd verordnet /
+vnd es will der Herr Christus solchs noch heute nicht leüg-
+nen oder widerruffen / sonder vil mehr zum lob der herrlig-
+keit seiner gnaden fürdern / handthaben vnnd bestätigen /
+deßhalben wir auch billich vmb trewe Diener des Euan-
+gelij Christi noch für vnd für fleyssig sollen bitten.
+
+<margin>Johan. 15. Jr habt mich nit erwölet / sondern ich habe euch erwölet vnnd gesetzt / das jr hingeht / vnd frucht bringt.</margin>
+<margin>Von dienern des Euangelij Christi / wie sy die H. schrift bschreibt.</margin>
+Es steht aber solcher dienst dises grossen mächtigen
+Herren allein denen zu / wie die Schrifft sagt / die er darzu
+erwölet vnd verordnet / Johan. 15. die er aussendet / Ro-
+man. 10. denen ers offenbaret / Galat. 1. die es von jm
+gelernet vnnd empfangen haben / 1. Corinth. 15. die da
+hören die stim auß seinem munde / Actor. 22. die darzu be-
+sigelt seind / daß sie die herrlichkeit Christi vnd seines Reichs
+vor der welt bezeugen sollẽ / wie auch zu Paulo dem diener
+des Euangelij ward gesagt: Du würdst ein zeüge zu allen
+menschen sein der ding / die du gesehen vñ gehört hast / vnd
+das ich dir noch will erscheinen lassen / Actor. 26.
+
+Es seind die / so nit von sich selbs reden / sonder der
+geyst des hymlischen Vatters redet in jnen / vmb solche er-
+manet vnns der Herr Christus zu bitten / da er spricht: Die
+ärndt
+
+<vocab>Christum, Son Gottes, Justification, seligmachung, Euangelij, Diener, Johan. 15, Actor. 22, Actor. 26, Paulus, Creaturn</vocab>
+
+--- Page 13 ---
+<lang>de</lang>
+<meta>Early New High German with Latin marginalia. The text contains red ink underlining on the phrases "Paulus rhümet sich seines berüffs" and "zur besserung". Catchword at bottom right: "bey."</meta>
+
+<margin>
+Matth. 20.
+Komen die arbeyter nit zuuor / sonder d' Herr sucht / berüfft vnd dinget sie.
+Currebant &c.
+Ambrosius, Roman. 10.
+Non erunt veri Apostoli, nisi a Christo mittantur.
+</margin>
+årndt ist groß / aber wenig seind der arbeyter / Er redet von solchen rechtgschaffenen trewen arbeytern / dauon nun gehört / sonst hats an vndüchtigen selbstlauffenden arbeytern / an Phariseern / Schrifftverkerern oder schrifftgelerten vnd falschen Aposteln nye gemanglet / Drumb spricht er weiter : Bittet den Herrn der årndte / das er arbeyter in seine årndte außstosse / Matth. 9. Darauß nun mänigklich wol vrtheylen kan / nach dem die årndte des Herren vnnd nit vnser ist / das auch allein der Herr rechte trewe arbeyter geben vnd außstossen muß in sein årndte / soll anderst zum Reiche Gottes durch den dienst etwas nuzlichs außgerichtet werden / von welchen dann geschrieben steht : Wie lieblich sein die füsse dero / die den fride verkündigen / die das güte verkündigen / Roman. 10.
+
+Gesandte Botten oder Legaten / haben instruction / credenz vnd maacht brieffe / ja auch ein rechts wissen vnd erfarung der dinger / die sie handlen oder fürtragen sollen :
+<margin>Paulus.</margin>
+Paulus rhümet sich seines berüffs / vnd das er ein abgefertigter Legat sey an statt Christi sein gewerb fürzubringen : Er dörffte auch nicht etwas reden in Göttlichen sachen / wa dasselb Christus nit in jm würckte / Roman. 15.
+
+Die rechten waren Diener des Euangelij Christi / dienen dem volcke zur besserung / daß sie von jren bösen wercken abstehen / sich bekeren / vnnd in ein büßfertig Gottselig leben richten / darzu in der Herr / der sie schickt oder sendet / zum fordersten gnad gibt / vnd sein wares erkandtnus mit seinem eygnen ampt vnd wolthaten offenbart andern zu verkündigen / vnd dauon zu zeügen vnd zu lehren / Er helffe gnädigklich / das solche eins mals dicke stehn / welchs deñ ein sonder gnad von Gott ist / vnd das vil rechter Christen in jrem dienste wachssen vnd auffgehn / Vnd wiewol sie yezt sehr dünne stehen / so ist dennoch züuerhoffen / das 
+<margin>
+Da sihe / ob dz heysse / den dienst der predigt auff besserūt auch bey.
+</margin>
+heütt auch
+
+<vocab>årndt, arbeyter, Phariseern, Schrifftverkerern, Legaten, Euangelij, besserung, gnad</vocab>
+
+--- Page 14 ---
+<lang>de</lang>
+<meta>
+catchword: Von gedach-
+</meta>
+
+heist auch etlich seind/an welchen Got ein gefallen hat/die
+den menschen zum erkandtnus Christi vnd seiner gnaden
+vnd wolthat empfengknus mit nutz vnd frucht dienen.
+
+Die andern aber so sich selbs aussenden/so das Euan-
+gelium von Christo im h. Geyste nit hören/ nicht lernen
+oder empfahen/solche meyne ich/welche die herzligkeit sei-
+nes Reichs im Geyst des glaubens weder gesehen noch em-
+pfunden/noch den regierendē gnadenkünig Jhesum Chri-
+stum nach dem Geist nye erkant habē/ Ja welche auch das
+Euangelium/vnd gschicklich darvon zureden für ein kunst
+halten/damit man an statt eins handtwercks den bauch
+erneere/seind die/von denen Hierem. 23. gesagt wirt: Ich
+hab die Propheten nicht gesandt/vnd sie seind doch gelauf-
+fen: Ich hab zu jnen nichts geredt/dennoch haben sie pro-
+pheceyet.
+
+<margin>
+Was ein wa-
+rer selige Ch-
+rist/ist sey.
+</margin>
+Ob denn solche gleich des Euangelij buchstaben pre-
+digen mögen/so mögen sie doch nit ware zeügen Christi
+vnnd seines lebendigen Euangelij/vil weniger Diener des
+h. Geists genandt werden/Dan es mag ja nyemandts in
+der warheit zeügen/das er nit selbs erfaren/ das er weder
+gesehen noch gehört/oder aber nye recht hat verstanden/
+<margin>
+Talenta ser-
+uis, sed non
+nisi vocatis
+sunt tradita,
+Matth. 25.
+</margin>
+deßhalben sie auch des herren ordnung/davon Paulus 1.
+Corinth. 9. schreibt/Daß die das Euangelium verkündi-
+gen/vom Euangelio sollen leben/gar nichts mag ange-
+hen/An jren früchten werdet jr sie erkennen/spricht der
+Herr. Ja sie möchtens auch selbs erkennen/so ferz sie an-
+derst jren dienst vnd gewissen wol prüfften/ob sie Christus
+der Herr zu solchem hohen ampt tauglich achtet oder nit/
+nämlich so sie vom fride reden/da kein fride vorhanden/
+Ezechiel. 13. So sie vil verheyssen vnnd nichts geleysten/
+das ist/so jr dienst Got dem herren nit frucht bringet/noch
+das herze in der würckhung des h. Geists vnd seiner gna-
+den darbey nicht wirt troffen noch auffgeschlossen.
+
+<vocab>Euangelium, Christi, Hierem., Corinth., Ezechiel, gnadenkünig, erkandtnus, h. Geyste</vocab>
+
+--- Page 15 ---
+<lang>deu</lang>
+<sig>B</sig>
+<meta>catchword: ist die</meta>
+<vocab>Euangelio Christi, Paulus, Corinthern, Gesetz Mosi, 2. Corinth. 3., Griechischen spraache, Newen Testaments, Luther, verteütscht, Predigampt, h. Geyst</vocab>
+
+<margin>Vom spruch Pauli / 1. Corinth. 3.</margin>
+Von gedachtem Euangelio Christi vnd vom rechten Dienst desselbigen / redet Paulus zu den Corinthern / da er spricht : Vnser brieff seyt ir geschrieben in vnser hertz / welcher erkandt vnnd gelesen wirdt von allen menschen / nach dem an euch scheinbar ist worden / das ir ein brieff Christi seyt / darzu wir gedienet haben / eingeschriben nit mit dinten / sonder mit dem Geiste des lebendigen Gottes / nit in steynern Tafeln (wie etwan das Gesetz Mosi) sonder in die fleyschene Tafeln des hertzens / 2. Corinth. 3. dess also soll der Text Pauli nach der vrsprüngklichen Griechischen spraache gelesen werden / Darauß man klärlich sihet / was das ampt vnd vermögen der Aposteln vnd beruffenen diener in den händeln des Euangelij Gottes vnd newen Testaments sey / wie die händel geschehen vnnd zugehn / wer des wercks herr vnd meyster sey / vnd wohin es im grunde gelanget.
+
+<margin>Das Euangelium Christi wirt ins hertz geschriben durch den finger Gottes.</margin>
+Luther hat den Text an gemeltem orth verteütscht / durchs Predigampt zubereytet / vnd durch vns geschrieben / als ob Paulus vnd seine mitgesellen den brieff Christi hetten geschriben / vnd als ob die Prediger für einschreyber des hertzens gehalten solten werden: So doch Paulus will / da er sagt: Die Corinther seind ein brieff Christi / das Christus den brieff hab geschriben durch den Geist des lebendigen Gottes in der Corinther hertzẽ / darzu er (der Apostel Paulus) hab gedienet / der vber seine dienst kein recht am brieffe hat / auch nichts mehr dauon zubringen begeret / wie er deñ klärlich saget / Daß der brieff Christi / vnd nicht sein sey.
+
+<margin>Wi: der grunt vund das geheymnus des Euangelij Christi sey</margin>
+Das ist nun auch das eynige rechte Euangelium Christi / nämlich die einschreybung des worts Gottes durch den h. Geyst / ins innwendige des hertzens : Es ist nicht der büchstab noch allein ein mündtliche rede von Christo / sonder es ist die erfüllung der verheyssungen / vnd die außtheylung des segens vnd der gnaden Gottes in Christo / Ja es ist die
+
+--- Page 16 ---
+<lang>German</lang>
+<meta>catchword: Paulo</meta>
+
+<margin>
+Christus fürt vnd verwaltet sein Reich durch den heyligen Geist.
+</margin>
+ist die weyßheit vnd krafft Gottes Christus Jhesus/ warer Gott vnnd Mensch nach der himlischen neuigkeit selbst/ der sich allen außerwölten Gottes darinnen zuerkennen gibt im h. Geyste/ in dem der himlische künig Christus sein ganges Reich vnnd Regiment füret vnd verwaltet/ ohne welchen auch nichts hinein gehöret/ noch darinn mag erhalten werden/ vnd durch welchen er sein <term>Euangelium</term> ins gläubige hertz schreibt.
+
+<margin>
+2. Corint. 3.
+Gott hat vns gegeben den dienst der versünung.
+</margin>
+Solchs <term>Euangelij</term> diener ist <term>Paulus</term> geweßt/ wie gehöret/ ein düchtiger genügsamer diener des newen <term>Testaments</term>/ nicht des buchstaben/ sonder des Geists/ Er hat Christo im h. Geiste regierend gedienet am Euangelio der gnaden Gottes/ welcher aber der einige herr vnd Meister ist in allen Göttlichen sachen/ wie er denn auch bey seinen außerwölten das innerliche selbs würcket/ anhebt vñ vollendet was Paulus/ ja alle solche diener auß des Geystes tryb/ dem gläubigen menschen eusserlich verkündigen/ bezeugen vnnd ermanen/ dann er bedörffte/ wie vor gemeldet/ im handel des Euangelij/ nichts reden/ thun oder fürnemen/ Christus würckte es denn in im.
+
+<margin>
+Vermehlung Christi mit d' Christgleubiggenn Seele durchs Euangelium.
+</margin>
+Daher gehöret auch das Paulus 2. Corinth. 11. saget: Ich hab euch vertrawet einem Manne/ eine keüsche Jungkfraw darzustellen/ nämlich Christo/ So die Braut nit mit Euangelischem reichthumb geschmuckt wäre/ vnd mit der keüschheit des glaubens begabt/ wie möcht sie warhafftig dem hymlischen Bräwtigam̃ Christo in seiner kirchen zügefügt vnd vermählet werden. Vnd abermals 1. Corinth. 4. In Christo Jhesu hab ich euch durchs Euangelium geboren.
+
+Solchs redet aber nit Paulus als von im selbs/ sonder er redts als vom h. Geiste/ Ja der h. Geist redts in
+
+<vocab>Christus, Paulus, Euangelium, Testament, Geist, versünung, Vermehlung</vocab>
+
+--- Page 17 ---
+<lang>de</lang>
+<meta>catchword: rüfft</meta>
+<sig>B ii</sig>
+
+Paulo / welchen der Herr ſeinen außgeſandten Apoſteln het verheyſſen / da er ſpricht: Ir ſeinds nit die da reden / ſonder der Geiſt ewers Vatters redet in euch. Vn̄ Paulus rhůmet ſich des auch ſelbs / das nämlich Christus in jm rede / 2. Corinth. 13. Sonſt wüſte er wol was ſeines dienſts zůſtandt / vermögen vnd ampt war / drumb ſagt er nicht ſchlecht anhin / Ich hab euch durchs Euangelium geborn / ſonder in Christo Jheſu hab ich euch durchs Euangelium <insert>geboren</insert>, da das wörtlin / durch / auch von ſeinem dienſte wirt verſtanden. Deßgleichen ſchreibt er 1. Corinth. 15. da er ſpricht: Ich hab mehr gearbeyt / denn ſie alle / vnnd erklärt ſich bald drauff / vnd ſpricht: Nit aber ich / ſonder die gnade Gottes die bey mir iſt.
+
+<margin>Roman. 5. Die gnade iſt eines Menſchens Jheſu Chriſti.</margin>
+Allein der gnaden Gottes / vnnd dem Herren Jheſu Christo im h. Geyſte / das iſt / Gott ſelbſt wirt aller handel vnſerer ſeligkeit zůgeeygnet / es ſey gleich bey dem eüſſerlichen dienſte / oder ohn das eüſſerliche / davon auch Paulus Christo Jheſu vnd ſeiner gnaden zů ehren noch klärer ſaget: Wer iſt Paulus? Wer iſt Apollo? Diener ſeind ſie / durch welche jr ſeyt gläubig worden / vnnd daſſelbige wie der Herr einem yegklichen gegeben hat: Ich hab gepflanzet / Apollo hat begoſſen / aber Gott hat das gedeyhen gegeben: So iſt nun weder der da pflanzt / noch der da begeüßt etwas / ſonder Got der das increment / gewächß oder gedeyhen gibt / 1. Corinth. 3.
+
+Wolte der allmächtige Gott / man verſtünde das ampt Pauli ſo recht vnd wol / als man ſich deſſelbigen vnd ſeiner geſellſchafft zů vnſern zeyten vermäßlich rhůmet / vnd damit Paulo dem diener des h. Geiſts nach ohmet / ſo wurd man bald ſehen was ſolcher rhům wäre / es wurde ſich die ſtraußfäder / das iſt der hochmůt bey manchem prediger nyder legen / vnnd Chriſtus mehr geehret vnd ange-
+
+<vocab>Apoſteln, Geiſt, Paulus, Christus, Euangelium, gnade Gottes, Apollo, increment, Hochmůt, Straußfäder, Corinth., Roman.</vocab>
+
+--- Page 18 ---
+<lang>German</lang>
+<meta>catchword: dere</meta>
+
+<margin>
+S. paul ver=
+mochte seine
+gaaben nicht
+fort in die her=
+tzen zubringē/
+sonder wey=
+sete auf Chri=
+stum den ge=
+ber.
+</margin>
+rūfft werden/ Deñ ob wol der Apostel Paulus für sein per=
+son auch seines ampts halben/ im handel der gerechtma=
+chung vnnd bekerung des Sünders nichts mehr denn ein
+Knecht oder diener geweßt ist/ so war doch beym dienste
+Pauli ein grosser ernst vnd gewissenschafft/ <gloss>ein vbermässi=
+ge Götliche krafft/</gloss> ein erbawung vnd gewächs des leben=
+digen tempel Gottes/ Es geschach da wenn er lehrete oder
+predigte/ die folge vñ furderunge im segen Gottes/ ein em=
+pfabung des frids/ der frewd vnd gerechtigkeit in den auß=
+erwölten hertzen: solchs würckte aber nit Paulus/ sonder
+Christus selbs im h. Geiste/ der in Paulo wohnete/ der sein
+Gemeyn regieret/ vnd in Pauli dienstampt/ das er eußer=
+lich übete/ innerlich den hertzen vnnd gewissen/ durch den
+h. Geist selbst predigte/ dieselben erleüchtet/ ernewert vnd
+bekerte.
+
+Von solcher einwohnung vnsers Herzen vnd Gottes
+Jhesu Christi in den hertzen der gläubigen/ sagt Paulus
+anderßwo: Jr seyt der Tempel des lebendigen Gottes/ wie
+denn Gott spricht: Ich will in jnen wohnen/ vnnd in jnen
+wandeln/ vnd will jr Gott sein/ vnnd sie sollen mein volck
+sein/ 2. Corinth. 6. Vnd von im selbst: Ich bin mit Chri=
+sto gecreütziget/ vnnd lebe/ aber doch nun nit ich/ sonder
+Christus lebet in mir/ Denn was ich lebe im fleysche/ das
+lebe ich im glauben des Sons Gottes/ der mich geliebet/
+vnd sich für mich dargeben hat/ Galat. 2.
+
+<margin>
+Das wörtlin
+mitwürcker
+soll vom dien=
+ste verstan=
+den werden.
+</margin>
+Vnd vom Apostolischen ampt vnd dienste: Wir seind
+Gottes mitwürcker/ jr seyt Gottes ackerwerck/ vnd Got=
+tes gebäw/ nach der gnad die mir gegeben ist/ spricht Pau=
+lus/ hab ich den grundt gelegt als ein weyser Bawmey=
+ster/ 1. Corinth. 3. Merck/ nach dem Paulus sagt/ er hab
+den grundt gelegt bey den Corinthern/ das ist Christum
+jn erstlich durchs Euangelium geprediget vnd recht bekant
+gemacht mit seinen wolthaten/ auff welchen grundt an=
+
+<vocab>Apostel Paulus, Gerechtmachung, S. Paul, Christus, h. Geiste, Galat. 2, 1. Corinth. 6, 1. Corinth. 3, Bawmeyster, mitwürcker, ackerwerck, gebäw, Euangelium</vocab>
+
+--- Page 19 ---
+<lang>de</lang>
+<meta>image quality: excellent</meta>
+<meta>catchword: sung</meta>
+<sig>B iij</sig>
+
+dere baweten/ so setzt er darzu/ nach empfangner gnaden/
+erkläret sich aber eins wie droben/ vnd wie auß 2. Cor. 3.
+vom eingeschribnen brieffe Christi ist gehöret/ daß der baw
+weder sein noch der andern/ sonder allein Gottes vnnd sei-
+ner gnaden sey/ da er folgendt drauff spricht: Ir seyt Got-
+tes ackerwerck vnd Gottes gebäw/ das nämlich Paulus/
+der die gnad zum Apostel ampt het empfangen/ nichts im
+selbst/ sonder alles Gott vnd seiner gnaden/ in der er kräff-
+tig dienete oder arbeyte/ wie billich züeignet/ vnd damit al-
+so das seligmachende ampt des <term>Herren</term>/ von seinem dienste
+vnderscheydet.
+
+Solchs hab ich allhie dester lieber wöllen anzeygen/
+das heüt beym auffgange des Euangelij gar ein grosser
+mangel ist/ das in den ernstlichen händeln Gottes **der Herr**
+**vom Knechte nicht wirdt vnderscheyden**/ das Christo dem
+regierenden gnadenkönig vnd Herren sein eygen gebüren-
+de ampt in der seligmachung des menschens wirt entzogen/
+vñ dem dienste/ diener oder Creatur/ so wol als eüsserlichen
+mitteln mit wirt zügelegt/ welchs eygentlich daher kompt
+das man nicht drauff merckt/ was der **künig Christus**/ der
+das haupt der Kirchen ist/ im Regiment der gnaden für ein
+ampt habe/ wa/ vnnd warinne er für sich selbst regieret/
+Item/ das er auch diener hab/ vnd wie fern der dienst mit
+allen eüsserlichen dingen raichet/ Darauff sprich ich/ solte
+man beym Euangelio fürnämlich mercken.
+
+<margin>Anno 52 gedruckte</margin>
+## **Im büchlin vom erkandtnuß Christi / an einen Fürsten / schreibt**
+## **C. S. also:**
+
+<margin>Fol. E. 2</margin>
+> Vnnd wiewol ich mich auch/ was das <term>Ministerium</term>,
+> oder den dienst des worts Gottes belangt/ für vnd für ent-
+> schuldige/ schreybe vnnd hören lasse/ das ich nach außwey-
+> sung
+
+<vocab>Apostel ampt, seligmachende ampt, Euangelij, gnadenkönig, Regiment der gnaden, Ministerium, Caspar Schwenckfeld, 2. Cor. 3</vocab>
+
+<detected-images>
+[{"description": "A small manicule (pointing hand) in the right margin pointing towards the middle of the second paragraph.", "type": "decorative", "bbox": {"x": 0.768, "y": 0.558, "width": 0.035, "height": 0.022}, "gallery_quality": 0.4, "museum_rationale": "Standard reader's mark (manicule) used in early modern texts to draw attention to specific passages."}]
+</detected-images>
+
+--- Page 20 ---
+<lang>deu</lang>
+<meta>catchword: stande/</meta>
+
+<margin>Zůbedencken was der Künig Christus im Regiment der gnaden / bey seiner gemeyn/ für ein eygen ampt habe.</margin>
+sung der h. Schrifft/ recht vnnd Christlich dauon halte/ auch mit dem werck solchs so vil ich yemandts zů seiner seligkeit kan dienen/ nach meinem vermögen selbst beweise/ so werde ich doch von etlichen gar vnbillich außgeschryen/ vñ in verdacht bracht/ als ob ich den dienst der Christlichen Kirchen vnd das Predigampt verwerffe/ die heylig schrifft gering achte/ das h. Sacrament des herrē nachtmals verachte ꝛc. Welchs aber nicht ist/ vnd solcher verdacht allein daher kompt/ das ich ermane vnd begere/ das eygne innerliche ampt des regierenden gnaden Künigs Christi bey seiner Gemeyn/ in der <term>Justification</term> oder <term>rechtfertigung</term> des Sünders vñ <term>seligmachung</term> des menschens vom eußerlichen dienste/ zů vnderscheyden.
+
+<margin>Was eines predigers ampt sey.</margin>
+<margin>Der diener/ dienet eußerlich/ Gott aber würckt innerlich/ jedes in seiner ordnung.</margin>
+Vnd das dem Diener oder Prediger des <term>Euangelij</term> nit die ehre noch das ampt/ würckhung/ gnad oder mittelung solle zůeeygnet werden/ welche allein Gott dem Herren durch den einigē mitler Jhesum Christum im h. Geiste will gebühren/ Sonder sein ampt ist/ das er Gott dem Herren Christo/ dem außtheyler der hymmelischen güter/ vnd dem h. Geiste im gange der gnaden darbey diene/ auff Christum weyse/ von jm lehre/ von seinen wolthaten zeůge ꝛc. Nicht aber was Göttlich ist/ selbst zůgeben/ noch in die Seele zůuermitteln oder zůbringen vermöge/ noch sich des anmassen solle/ Das ist mein bedencken vnd meynung beym <term>Predigampt</term>/ dienst vnnd dienern der Christlichen Kirchen/ welche vnderscheydung von nöthen ist zůhalten/ auff das Gott vnd dem herren Jhesu Christo alle Göttliche ehre der gerecht vnnd seligmachunge des Menschen/ reyn vnd allein heym komme.
+
+Deßgleichen bitt/ begere vnnd wünsche ich auch/ daß das heylig <term>Sacrament</term> des Leibs vnd blůts Christi nach des Herren einsetzung/ synn vnd willen/ mit rechtem verstande/
+
+<vocab>Justification, rechtfertigung, seligmachung, Predigampt, Sacrament, Euangelij, mitler, Christum</vocab>
+
+--- Page 21 ---
+<lang>de</lang>
+<meta>catchword: liger</meta>
+
+stande/ wissen vnd glauben/ auch mit gebürlicher Proba
+<margin>1. Cor. 11.</margin>
+vnd zugehörung/ Christlich/ andächtig vnd Gottsörchtig/
+von den Christgläubigen gebraucht/ vnd nicht mit vnuer-
+stande vnd Aberglauben zum gerichte mißbraucht werde.
+
+Ob denn solchs den dienst des worts Gottes verwerf-
+fen/ vn̄ das heylig Sacrament verachten heyssc/ geschwei-
+ge das ich die h. Schrifft von Gott eingegeben/ darin ich/
+Gott lob/ mein tägliche übunge hab wölle gering achten/
+drumb das ich sie vom wort/ das Geist vnnd leben ist/ vn-
+derscheyde/ will ich nu die Christliche Kirche/ Ewer Fürst-
+liche gnade/ vn̄ alle Gottselige Christen frey lassen vrteylen.
+
+## Im büchlin-Bekandtnuß vnd Re-
+## chenschafft von den **Hauptpuncten 2c. fol.**
+## C. iiij. hat C. S. auch ein eygen
+## Capitel/ vom dienste der Christ-
+## lichen Kirche vnd seinem zu-
+## stande gesetzt/ Also:
+<margin>Anno 1547 außgangens</margin>
+
+> Vom dienste der Christlichen Kirchen vnd des newen
+> Testaments/ ist mein bekandtnus (wie bey allen Christen
+> vnleügbar) daß der Herr Jhesus Christus nach verbrach-
+> ter seiner Dispensation im fleysche/ das Euangelium vom
+> Reiche Gottes/ von seiner gnaden vnd den wolthaten sei-
+> nes Creüces/ auch folgender Glorien vnd herrligkeit/ sei-
+> nen erwölten außgesandten Aposteln/ inn aller welt zu-
+> predigen/ hat beuolhen/ Deßgleichen die h. Sacrament/
+> **Tauffe/ vnnd Nachtmal 2c.** für seine Christgläubige Ge-
+> meyn/ ordenlich bestellt vnd eingesetzt hat.
+
+Wie solchs alles nach der hymelfart Christi vnd sendunge
+des h. Geysts/ in seinem ampte/ mit Christlicher Gotts-
+
+<vocab>Bekandtnuß, Rechenschafft, Hauptpuncten, Christliche Kirche, Sacrament, Euangelium, Tauffe, Nachtmal</vocab>
+
+--- Page 22 ---
+<lang>de</lang>
+<meta>catchword: als ob der</meta>
+<warning>The page contains red ink underlining on certain lines, likely added by a later reader for emphasis.</warning>
+<vocab>Aposteln, heiliger Geyst, Concilien, S. Paul, Martin Luther, Predicanten, Sacrament, seligmachung</vocab>
+
+liger ordnung vnd Ceremonien/durch die lieben Aposteln
+vnd andere vom h. Geyst bestellete Diener/hirten vnnd
+Lehrer/zur handtreichung der erbawunge des leibs Chri=
+sti/vnd zur haußhaltung der gemeyn Gottes in der Christ
+lichen Kirchen ist verwaltet vnnd gehalten worden/Wie
+auch solche Administration/ nicht anders/ denn nach dem
+willen der einsetzung des Herren vnd des h. Geysts ord=
+nunge/auch nach der Apostel gebrauch vnd Exempel in
+der versamelten Gemeyn Christi soll bestelt/gehalten vnd
+verwaltet werden/dauon die Geschichte der Aposteln vnd
+S. Pauli Episteln genügsam zeügnus geben: Darbey ich
+<margin>Vier haupt Concilia.</margin> den auch der haupt Concilien vnd alten Christlichen vät=
+ter ordnung/ als vil sie dem willen des Herren/auch dem
+Apostolischen gebrauch vnd der h. Schrifft gemäß seind/
+allwegen will vnderworffen haben.
+
+Dieweyl mich aber die Predicanten/so Martin Lu=
+thers part sein/ymmerzü/fürnämlich des diensts halben
+auffschreyen vnd beschuldigen/als ob ich den verordneten
+dienst der Christlichen Kirchen wölle verwerffen/ drumb
+das ich im ampte der gerecht vnd seligmachung des Men=
+schens alles/Gott vnd dem Herren Christo: dem dienst vnd
+diener aber/mit Paulo innerlich an dem orth/da Christus
+regieret/nichts zügebe/Auch villeicht darumb/das ich jrer
+vilen dienst nicht für Apostolisch/noch sie für Apostel Chri=
+<margin>Der dienst ist allein für den eusserlichenn menschen verordnet.</margin> sti/vnd denselbigen gleich/mit gütem gewissen kan erken=
+nen/So will ich meinen verstand vom dienste vnd dessel=
+bigen züstande/weyter erklären/vnnd hallt mit der hey=
+ligen Schrifft disen vnderscheyde.
+
+Daß der Herr Christus den dienst/auch der Sacra=
+ment/bey seiner Gemeyn nicht drumb hab eingesetzt/als
+<margin>1.</margin> ob er für sich selbst des diensts oder dieners als nöttig zum
+<margin>2.</margin> gebülffen der seligmachung des menschens bedürffe/Oder
+
+--- Page 23 ---
+<lang>de</lang>
+<sig>C</sig>
+<meta>catchword: gnade</meta>
+
+<margin>3.</margin>
+als ob der sünder durch den dienst vnd diener für Gott ge-
+recht vnd selig soll gemacht werden/ oder auch vergebung
+der sünden des diensts halb erlange/ Sonder Christus Je-
+sus der regierende Künig der gnaden ist durch den h. Gei-
+ste selbst mit im handel/ wa der dienst nach seinem willen
+in der gnaden Gottes gehet/ vnnd würckt die seligkeit als
+der einige gantze Säligmacher aller außerwölten men-
+<margin>N.</margin>
+schen frey selbst innerlich in der gläubigen Seelen/ Dar-
+zů im die Creaturen/ vnnd das was eusserlich von Christo
+eingesetzt/ beym gläubigen fleysche oder eusserlichen Men-
+schen nur dienet/ damit derselb deß innerlichen handels
+<margin>Vom Mini-
+sterio.</margin>
+Gottes auch bericht/ vnd zů seinem lobe vnd danck erma-
+net werde/ auch von der wolthat Christi zeüge/ in vnd sei-
+ne gnade rhüme/ das auch das fleysch dem Geyste gehorsam
+<margin>Nicht im eus-
+serlichē/ son-
+dē innerliche
+geheymnuß
+steht d' grund
+des handels
+Gottes.</margin>
+sey/ fleyssig anhalte/ Nicht daß der dienst/ diener/ vnd die
+Creaturen etwas Götlichs geben/ noch ins hertz mögen
+bringen/ oder in der Seel deß dem gedienet würdt/ sollen
+wandeln oder würcken/ Sonder wie gehört/ Christus der
+Künig hat im in seinem Reiche solch ampt selbst fürbehal-
+ten/ das er das hertz/ Seel vnd gewissen/ oder den inner-
+<margin>wie zwayer-
+lay mensch/ al-
+so auch zway-
+erlay wortt/
+wasser/ brot
+etc.</margin>
+lichen Menschen (welchen er auch von seinem fleysche vnd
+auß seinen gebeynen erzeügt) selbst wöll regieren / selbst
+innerlich lehren/ ernewern/ von sünden waschē/ Geistlich
+speysen/ darzů er nyemandts gebraucht/ denn den h. Geist
+vnd sein gnade.
+
+Deßhalben denn das gläubige hertz/ nicht auff den
+dienst noch diener/ oder auff etwas eüsserlichs/ Creatur/
+schafft oder zeichen/ die seligkeit vnnd vergebung der sün-
+<margin>☛</margin>
+den darbey zů suchen/ wirt gerichtet/ sonder das beym dien-
+ste vnd aller einsetzung Christi/ auch beym brauch der hey-
+ligen Sacrament vnnd bey allen Götlichen ämptern/ so
+wol als beym predig hören vnd lesen der h. Schrifft/ das
+hertz allweg übersich auff Gott den herren selbst/ der
+
+<vocab>Säligmacher, Ministerium, geheymnuß, Sacrament, Götlichen ämptern, heilige Schrifft</vocab>
+
+<detected-images>
+[{"description": "A manicule (pointing hand symbol) in the right margin, used to emphasize a specific passage of text.", "type": "decorative", "bbox": {"x": 0.758, "y": 0.748, "width": 0.035, "height": 0.021}, "gallery_quality": 0.3, "museum_rationale": "A standard typographic manicule (fist) characteristic of early modern printing used to draw the reader's attention to key theological points."}]
+</detected-images>
+
+--- Page 24 ---
+<lang>German</lang>
+<meta>image quality: clear; catchword: warem</meta>
+
+<margin>
+Sursum cor-
+da habemus
+ad dominū.
+</margin>
+gnade vnd gedeyhen gibt/ mit dem Sursum corda, soll ge-
+weyset vnd gerichtet werden.
+
+Also vnderscheyde ich beym ampte der gerecht vnnd
+<margin>
+Ein rechter diener Christi tregt dem herzen trewlich beym wissen ist.
+</margin>
+seligmachunge des menschen / vnd beym dienst des newen
+Testaments / den herzen vom knechte / das iñerliche werck
+Gottes / vom eußerlichen dienstwercke des dieners / wie
+auch das geheymnus vñ die krafft vom sichtbarlichen <term>Sacrament</term> / ja Gott von der Creatur : Vnnd kürtzlich / So
+vnderscheyde ich in der Apostolischen Administration des
+Predigampts / der Sacrament / Schlüssel vnd anderer züge-
+hörung vnd Geistlicher ämpter / das / was iñs hertz geht
+vnd innerlich durch den h. Geyst geschicht / von dem / was
+den synnen vnd dem eußern theyl des menschen züstehet /
+wie denn auch die h. Schrifft / deßgleichen die <term>Patres</term> / die
+alten Lehrer der Kirchen / solche zwey / wie wir auch von
+den Sacramenten werden hören / in einem Göttlichen han-
+del klärlich vnderscheyden.
+
+<margin>
+Christo dem Künige des reichs Gottes soll sein ampt vnd Regimēt frey vñ ganz bleyben.
+</margin>
+Solche vnderscheydung geschicht drumb / das die eere
+vnd das ampt / so in der seligmachung des menschen allein
+Gotte vnnd dem herren Christo im h. Geiste züständig /
+nicht den Creaturen / weder dem dienste noch diener gege-
+ben / noch den vergängklichen dingern mit gemeyne ge-
+macht werde / Sonder reyne / eynig vnd allein bey Christo
+vnd seinem Geyste / welchs ein Geyst der gnaden ist / beyde
+beym dienste vnd ohne den dienst / allweg bestendig bley-
+be / das Christus Jhesus der Künig des reichs Gottes / der
+eynige gantze Heylandt / wie auch das haupt seines leybs
+<margin>
+Hebreor. 4.
+Darum laßt vns herzütreten mit freydigkeit zum Throne der gnaden.
+</margin>
+(welcher die Gemeyn ist) nach dem zeügknus Pauli erkant
+vnd bekant werde / das auch die gnade Gottes / vergebung
+der sünden / der h. Geist / vnd alle hymliche gaben im wer-
+cke des diensts / vnd sonst / nyrgendt anderßwo denn beym
+herren Jhesu Christo selbst im throne der gnaden / mit
+<meta>catchword: warem</meta>
+
+<vocab>Sursum corda, Sacrament, Predigampt, Patres, Christus Jhesus, Heiliger Geist, Throne der gnaden</vocab>
+
+--- Page 25 ---
+<lang>de</lang>
+<sig>C ij</sig>
+<meta>catchword: geben</meta>
+
+warem glauben geſucht vnd geholet ſollen werden.
+
+<margin>Die Krafft vn̄ gnade kompt ainig vō Got durch Chriſtū im h. Geyſt / ins glewbige hertz.</margin>
+Denn ſolch ampt / die hymmliſchen güter den gliedern der Chriſtlichen Kirchen außzutheylen / vnd den menſchen widerzügeben / auch in ſeinem Reiche zü regieren / zuſtercken vnnd erhalten / hat jm Chriſtus im h. Geyſte ſelbſt fürbehalten. Er hat weder den Creaturen / dienſt noch dienern Götliche krafft gegeben / daß ſie ſy andern mögen mittheylen oder fortlayten / Es müß ein jeder ſelbſt zum qualbrunnen Chriſto kommen / vnnd da ohne mittel auß ſeiner fülle das lebendige waſſer ſchöpffen durch den glauben / will er anders ſelig werden / beyde der Lehrer vnnd <margin>C. S. reyme: Chriſtus fidelib⁹ eſt omnia ſolus.</margin> Zühörer / der Diener ſo wol als der / dem würdt gedienet / müſſen alle von einem hymmeliſchen Arzt innerlich geheylet / lebendig vnnd geſundt werden / wie auch weder der dienſt noch diener / oder jrgendt ein Creatur das gläubige hertz / Seel vnnd gewiſſen kan erraichen / ſonder allein der herre Chriſtus vermag ſolchs in ſeinem Geyſte / der auch alles iſt in allen / Colloß. 3.
+
+Des wir ein ſchöne figur 2. Reg. 4. haben / da der Knecht Gyeſi mit des Propheten ſtabe / bey der lebendigmachung des Knabens / nichts vermocht außzurichten. Es müßt der Prophet Heliſeus ſelbſt mit der Sunamiten (durch welche die Chriſtliche Kirche / wie durch Heliſeum Chriſtus wirdt bedeütet) hynab ſteygen / vnd jr Kindt mit ſeym ſelbſt Athem lebendig / friſch vnd geſundt machen.
+
+<margin>Wie die Lutheriſchē jrem diēſt vil zhuvil zügebē. Der Knecht ſoll ſich nicht neben den herrē ſetzē.</margin>
+Auff ſollichs bekenne ich nun des dienſts halben zum erſten / Das mein glaub vnd halten mit den Lutheriſchen Scribenten vnd Predicanten / keins wegs kan ſtymmen / die dem Künige Chriſto in ſein ampt vnd orth des Regiments wöllen greyffen / vnd bey der gerecht vnnd ſeligmachung des menſchens / jnen ſelbſt vnd jrem dienſte mit zügebē
+
+<vocab>hymmliſchen güter, Chriſtlichen Kirchen, qualbrunnen Chriſto, Lutheriſchen Scribenten, Predicanten, Gyeſi, Heliſeus, Sunamiten, C. S. reyme, Colloß. 3</vocab>
+
+--- Page 26 ---
+<lang>deu</lang>
+<meta>catchword: welchs</meta>
+
+geben / was allein des Herzen Christi eygen / vnnd seiner gnaden würckhung will gebüren / welchs auch offenbarslich wider Paulum ist / da er spricht: **Ich habe vil mehr gearbeytet denn sie alle (vnnd sich bald drauff erkläret) Nicht aber ich / sonder Gottes gnade die mit mir ist / 1. Corinth. 15. Vnnd 1. Corinth. 3. So ist nun weder der da pflanzet / noch der da begeüßt etwas / sonder Gott der das gedeyhen gibt.**
+
+<margin>
+Von den Sophistischen Mitteln.
+
+Die Creaturen diene Gott sie seind aber nicht seyne mittel. Ephef. 1. Iohan. 15. Collofs. 3.
+</margin>
+Zum andern bekenne ich / das ich auch in dem nicht mit jnen halte / so sie der Göttliche einfluß der gnaden Christi vñ seiner himelischen gaben außspendung / durch eüsserliche mittel oder instrument der Creaturn / inn die Christgläubige Seele wöllen bringen oder einfliessen / welches ganz vnrecht ist / Den Christus werd solcher gestalt nicht das vnuermittelte Haupt seines leybs (welche die Kirche oder Gemeyn ist) bleyben / noch der ware weinstock seiner räben / Ja er wäre nicht alles in allen / Wider welchen jrthumb auch **Cyrillus** vnnd andere Vätter geschriben / wie deñ die gläubigen mit Gott durch kein mittel / sonder durch den eynigen mittler **Ihesum Christum** / in den gaben des heyligen Geists handeln / auß welchen Glaube / hoffnung vnnd liebe ist / wie auch die heylige Schrifft nyrgendt von Mitteln / sonder von einem dienste beym ampte der seligmachunge Christi vnnd seines Geystes sagt / so wol als sie yederman ohne mittel / den nächsten zu Christo selbst weyset / im dienet / vnd von den wolthaten seines Creützes zeüget / welchs jr / der h. Schrifft / fürnämlich ampt ist / **Iohan. 5.**
+
+<margin>
+Das kein mittel inns herz raicht / sonder der eintgemitter Christus.
+
+1. Cor. 1 2. Ephef. 4.
+</margin>
+
+<margin>
+Im Büchlin von hauptartickeln des Christlichen glaubens.
+</margin>
+Zum dritten / stimme ich auch mit Luthers lehre in dem nicht / so er schreybet / Das Gott nicht wöll mit vnns Menschen ohne durch eüsserliche ding handeln / vnd das er nyemandt / seinen Geyst oder gnade gebe / ohne durch den dienst oder mit dem vorgehndem eüsserlichen worte / ec.
+
+<vocab>Christus, Luther, Gnade, Mittel, Creaturen, Heiliger Geist, Haupt, Weinstock, Cyrillus, Rechtfertigung</vocab>
+
+--- Page 27 ---
+<lang>German</lang>
+<sig>C iij</sig>
+<meta>Early Modern German printed text in Fraktur script. Features Latin marginalia and red underlining for emphasis on specific words/phrases. Catchword 'vnſer' present at bottom right.</meta>
+
+welchs ich ſo wol als die vorigen zwen punct/ für vnrecht
+halte/ Denn damit wurde der frey würckende allmächtige
+Gott/ vnnd vnſer regierender Künig Chriſtus/ an vnns
+menſchen/ vnnd an vnſern dienſt **verbunden**/ das jm ſein
+Götliche freyheit wurde benommen/ wie denn auch alle
+<margin>Verbum absconditum, postea in carne reuelatū.</margin>
+Patriarchen vnd Propheten/ mit denen Gott allein geiſt-
+lich/ heimlich vnd innerlich durch ſich ſelbſt in ſeinem Geiſt
+hat gehandelt/ ſo wol als Johannes der Täuffer/ Paulus
+vnnd andere mehr/ das obgemelte lehre vnrecht ſey/ be-
+weyſen.
+
+Nicht das drumb der rechte dienſt des newen Teſta-
+ments werd verworffen/ ſonder diſe zwo weyſe der lehre
+vnd handlunge Gottes/ als die **heymliche/ durch** jn ſelbſt
+inn ſeinem worte Chriſto/ vnnd die offenbarliche/ ſo durch
+ſeine erwölte geſandte Diener geſchicht/ zü vnderſcheyden/
+Doch das Gott der allmächtige/ vnd in jm der Herze Chri-
+ſtus vberal der eynige Meyſter in ſeinem Geyſte bleybe/
+der da geyſtet/ wa/ vnd wenn er will/ der auch einem yeg-
+klichen das ſeyne zütheylet nach dem er will/ 1. Corin. 12.
+Er iſt an kein eüſſerlich ding gebunden.
+
+<margin>Verbū prædicatum.</margin>
+Zum vierdten/ halt ichs keines wegs mit denen/ ſo
+die leüth beym dienſte auff ſich ſelbſt/ oder auff jr gepredi-
+get wort/ den glauben/ gnad/ vñ den heyligen Geiſt drauß
+züholen/ weyſen oder gründen/ vnd nicht **in** Chriſto vber-
+ſich in hymmel/ weyl doch Chriſtus alle zü jm ſelbſt einla-
+<margin>Des Hirten ſtymme ſoll man hoeren.</margin>
+det/ da er ſpricht: Kompt her zü **MIR** alle/ die jr müh-
+ſelig vnd beladen ſeyt/ **JCH** will euch erquicken.
+
+<margin>Wa ds hertz nit geöffnet / vnd die gnad Gotes voran geht/ da iſt alles euſſerliche vergebens.</margin>
+Zum fünfften/ halt ich mit deren keinem ſo am eüſſer-
+lichen dienſt vnd diener die ſeligkeit vnd bekerung des ſün-
+ders anheben/ weyl es wider Paulum/ auch wider die her-
+zliche gnade Gottes iſt/ welche der grundt vnd anfang/ ſo
+wol als der beſchluß der bekerung des Sünders vnnd all
+
+<vocab>Göttliche Freyheit, Künig Chriſtus, Newen Teſtaments, Herze Chriſtus, Verbum absconditum, Verbum praedicatum, Bekerung des Sünders, 1. Corin. 12, Johannes der Täuffer, Paulus</vocab>
+
+--- Page 28 ---
+<lang>German</lang>
+<meta>Catchword: Christum</meta>
+
+<margin>Gallat. 3.</margin>
+vnser seligkeit ist/ ohne welche auch gar nichts seliges noch fruchtbarlichs im dienste mag gehandelt werden/ Jr habt im Geyst angefangen/ spricht Paulus zun Galat. wolt ir denn nun im fleysch fortfaren?
+
+<margin>Die Gnade.</margin>
+Kürtzlich/ Der gang der gnaden Gottes muß am erst vom haupte Christo bey seinem leybe/ der die Gemeyn ist/ (welcher leyb auch auß des haupts Geystlichem einflüsse lebet) zur erbawung sein selbst/ der anfang vnd das ende des gewächs vnd zünemens des ganzen leybes sein/ Darauß den bald wirt befunden/ das alles was zur Kirchenordnung eußerlich bestellet ist/ nur dienen/ vnd nicht Götliche krafft bringen/ noch etwas geben kan/ an dem orth da Christus ist/ wohnet vnd regieret.
+
+<margin>Anno 1527.</margin>
+<margin>Daher ist die C. S. Lutheri vngunst anfengelich komen.</margin>
+Von disem hab ich auch vor Jaren das büchlin/ *De cursu verbi Dei*, vom lauffe des worts Gottes Latine vnd Teütsch/ der warheit zü güt geschriben/ Die Lutherischen Theologen ires irrthumbs hiebey züerinnern/ in welchem mit güten zeügnussen der heyligen Schrifft wirdt beweiset/ Das Gott mit seiner gnaden/ welche des einen Menschen Jhesu Christi ist/ Roman. 5. in der erbawunge seines Tempels allwege den ersten stein muß legen.
+
+Zum Sechsten vnd beschließlich/ bekenne ich/ das ich mit deren keinem hallte/ die das jhenige/ was Christi eygen/ was auch sein ampte ist/ beym Kirchendienste lassen fallen/ oder ye wenig bedencken/ noch andern bekant machen. Dagegen aber was zum dienste gehöret/ vil vnnd groß machen/ Ja schier allein drauff treyben/ auch die leüth darzü zwingen/ vnnd den grundt des heyls drein setzen/ Mit solchen/ sag ich/ halte ichs nicht: Deßgleichen auch mit denen nicht/ die ir eygne Ehr/ nutz vnd wolfart mit dem dienste süchen/ vnd den Künig der eheren Jhesum
+
+<vocab>Galat. 3, Gnade, Kirchenordnung, De cursu verbi Dei, Lutherischen Theologen, Roman. 5, Caspar Schwenckfeld, Martin Luther</vocab>
+
+--- Page 29 ---
+<lang>de</lang>
+<meta>16th-century German Fraktur script; religious polemic or commentary, likely by Caspar Schwenckfeld; contains catchword "chte" at the bottom right.</meta>
+
+<margin>Knecht seind die prediger, Christus ist der Herre.</margin>
+Christum in der nyderkeit lassen bleibẽ / Ja mit den Creaturen vnd dienstzeychen wöllen vermengen / auch sich selbst mit jrem dienste iñs Regiment oder stelle gern wolten sezen / welchs alles gerichts wider die heylige Schrifft ist: Wir predigen nicht vns selbst / spricht Paul⁹ / sonder Jhesum Christum / das er der Herre sey / wir aber ewre Knechte vmb Christi willen / 2. Corinth. 5.
+
+<margin>Mit den Christlichen dienst der Kirchen / sonder die jetzo thun darbey / hab ich durch solche vnderscheydũg verworffen.</margin>
+Diß hab ich von der Christlichen Kirchen / auch von jrem dienst vnd seinem zustande / von welchs wegen nicht ein kleyner spahn ist / darumb dester lenger mein bekantnuß thun wöllen / auff das man sehe / das ich den dienst / das <term>Predigampt</term> / die <term>Sacramẽt</term> / auch ander Göttliche ampter vnnd des Kirchendiensts zustand / keines wegs verwerffe / Ob ich gleich den Herren mit seiner krafft / vnd mit dem was er jm selbst fürbehalten / zu seiner Glorien vom Knechte / vnd von desselbigen dienste / Ja von allen Creaturen mit Paulo vnderscheyde / da er spricht: Es seind vnderscheyde der dienste vnd doch ein Herre ꝛc. der alles würcket in allen / 1. Corinth. 12.
+
+# Item
+## So gedenckt C. S. des Dienstes vnd der diener der warheit in dem 25. Psalm / vber den verß: Layte mich in deiner warheit / vñ lere mich ꝛc. gantz löblich / da er also schreibt /
+<margin>Ist am erst gedruckt im 1534. Iare,</margin>
+
+->fol. f.<-
+
+---
+
+<margin>Diener der vvarheit.</margin>
+Wer aber die warheit auß Gott vnd auß der offenebarung des heyligen Geysts hat empfangen / wer sie auch also mit zeügknus der heyligen Schrifft / in aller Gottesforchte
+
+<vocab>Christus, Paulus, Predigampt, Sacramẽt, C. S., Caspar Schwenckfeld, 2. Corinth. 5, 1. Corinth. 12, 25. Psalm, 1534</vocab>
+
+--- Page 30 ---
+<lang>de</lang>
+<meta>catchword: müssen)</meta>
+<warning>Page contains handwritten underlinings in reddish-brown ink and faint marginal annotations in a different hand.</warning>
+
+<margin>
+Luce 20.
+2. Corint. 2.
+1. Corint. 15
+Nicht ich, sonder Gottes gnade die mit mir ist.
+Merck / von was Dienern allhie geredt wirdt.
+2, Corint, 13
+</margin>
+chte vnd gelassenheit lehret / redet / vnnd fůret / der ist ein
+rechtschaffner diener der warheit / Ein diener des newen
+Testaments vnd des h. Geists / Ein solcher ist ein gůtter
+geruch Christi / den außerwölte ein geruch des lebens zum
+leben / Er achtet keines menschen ansehen / lehret den weg
+Gottes in der warheit / wie Christus sein Herr vnnd Mei-
+ster gethon hat / Er fälschet / beüget / noch vermenget nit
+Gottes warheit / sonder redet dauon als auß lauterkeit sein
+vnderscheyden / vnd als auß Gott / für dem angesichte Got-
+tes in Christo Jhesu / Drumb so handelt er auch mit Got-
+tes krafft vnnd gnaden bey der gläubigen Seel vnd beym
+gewissen der zuhörer / Doch so arbeitet vnd dienet er nur /
+Gott würckt aber : <insert>Er ist der mundt / Gott redet : Er ist</insert>
+<insert>die fäder / Gott schreybet :</insert> Er pflangt / Gott gibt das ge-
+wachs / vnnd das alles in der warheit / die er erkandt hat
+durch vnsern herren Jhesum Christum / wider welche er
+auch mit Paulo nichts kan noch will / Ja er frewet sich der
+selbigen / sie werde gleich offenbaret wem sie wölle / Dann
+er ist ein liebhaber vnd verthädiger der warheit (welche
+Christus ist) vnnd ein diener des geysts Gottes / Welcher
+Geist innerlich prediget oder ins hertz schreibt / was der
+diener des newen Testaments von Christo vñ seiner war-
+heit eusserlich lehret / schreybt oder bezeugt / Doch so ist der
+<insert>h. Geyst mit seiner lehre / weder an den dienst noch diener /</insert>
+Ja an keinen menschen oder buchstaben angebunden.
+
+<margin>
+Secter
+Philoso
+Lehren
+</margin>
+Drumb seyttemal Christus ein geheimnus ist (vnnd
+durch seinen Geist / beym dienste seiner bestelten außgesan-
+dten diener / auch im gläubigen hertzen prediget) so hafften
+noch bleyben die Schüler des Geists nit an der leyblichen
+stymme / weder an den worten / schrifft oder buchstaben / so
+von Christo lauten / Vil minder hangen sie an der person /
+des / der von Christo redet (wie sonst alle Secter bey den
+Philosophis / bey menschlichen lehren vnnd Gesetzen thůn
+müssen)
+
+<vocab>Gottes warheit, diener des newen Testaments, heiliger Geist, Christus, gewissen, gläubigen Seel, Secter, Philosophis, fäder, geheimnus</vocab>
+
+--- Page 31 ---
+<lang>deu</lang>
+<meta>red/brown ink underlinings; catchword "wäre/"</meta>
+<sig>D</sig>
+
+müssen) sonder der Geyst / der sie in sein Schůl/zucht vnnd lernung hat auffgenommen/ fůret sie hůher/ er verbindet sie an sich selbs in Christo/ vnnd lehret sie das <gloss>hertz vom fleysch</gloss> vbersich auff Christum/ auff sein krafft/ vnnd auff den Geyst der warheit richten/ daß sie nicht auff die person des dieners beharzlich sehen oder da behafftet bleyben/ sonder sie sehen auff den Geyst des Vattern/ der im gesandten Diener redet/ vnd befleyssen sich die stim des gůten Hirtens Christi zuhůren in jren herzen/ auch von der dienst stimme zů vnderscheyden/ Ein kleins Gůtlichs kräfftlin/ das in jr herz fellt/ ist jnen werder vnd angenåmer weder alle jrdische Creaturen vnd schätze der welt.
+
+<margin>
+Wann der Dienst des Euangeliů recht sey.
+2. Corint. 9.
+2. Corint. 5.
+</margin>
+
+Dann es můß beym dienste der warheit des Euangelij Christi oder des newen Testaments/ der Geist der gnaden vnnd die krafft Gottes sein/ soll er anderst recht gehen vnd zur Seelen heyl seligklich angelegt werden/ wie auch der Herr selbst hat verheyssen/ da er spricht: Jhr seyt es nit die da reden/ sonder ewers Vattern geyst ist es/ der in euch redet / Matth. 10. Deßhalben auch der Herr die Jůnger zůuor anblaset/ vnd jnen den h. Geyst gibt/ ehe er sie das Euangelium zů predigen hat außgesendet/ Johan. 20.
+
+<margin>
+<gloss>Gedruckt im 42. Jar.</gloss>
+Fol. G. facie 2.
+<insert>gedencket</insert>
+</margin>
+
+Deßgleichen schreybt auch <gloss>C. S. im bůchlin/ Catechismus/</gloss> vom worte des Creůtzes zc. von Paulo vnd den rechtgeschaffnen dienern des worts des Creůtzes/ vnd stellt Paulum allen waren vnnd trewen Dienern Christi zum Exempel/ da er also schreibt: Sihe/ das ist (nämlich Paulus) ein rechtgeschaffner Prediger geweßt/ des geheimnus des worts des Creůtzes Jhesu Christi vnsers Herren: Er ist weder zur rechten/ noch zur lingken außgeschritten/ hat sein Euangelium da er predigte/ weder nach der zeyt oder jrgendt eines menschen gefallen geleůgnet/ wie er auch zů Galatern saget: Wenn ich den menschen noch gefällig wäre/
+
+<vocab>Geyst, Euangelium, C. S. (Caspar Schwenckfeld), Catechismus, Paulus, hertz vom fleysch, Diener Christi</vocab>
+
+--- Page 32 ---
+<lang>de</lang>
+<meta>catchword: chung</meta>
+
+wäre / so wäre ich Christus knecht nicht / sonder als auß lauterkeit / vnd als auß Gott / vor Got redet er in Christo / 2. Corinth. 2. Vnd wie Paulus geprediget hat vom creütze / so hat er auch dasselbige warhafftig empfunden / vnnd Christo das Creütze in seinem leben nachgetragen / welchs auch noch heute alle außerwölte diener Christi an jrem fleysche / zur erbawung des vollen leibs der Klarheit Christi / welcher seine Gemeynde ist / im wort des Creützes erfüllen / vnnd sich vnder das Creütz Christi im gehorsam des glaubens / zü jrer ausfuerung in Gott darstellen müssen / Darauß ye klar erscheynet vnd bewysen wirt / das C. S. den Christlichen Kirchendienst vnd diener nicht auffhebt / sonder gebürlich verehret / vnd im alles das laßt bleyben / was im die h. Schrifft gibt oder züeygnet.
+
+---
+
+<margin>
+Anno 1544
+außgangen.
+</margin>
+
+## Item — Im büchlin — von der hymlischen artzney / schreibt C. S. vom Dienst vnnd Dienern des hymlischen artzets Jhesu Christi Capit. 27. Also:
+
+Vnser hymelischer arzt Jhesus Christus / will auch sein bestellte knecht / dienst vnd diener / eben so wol als andere vermögliche bewerte ärzte habē (das seind Aposteln / Propheten / Euangelisten / hirten vnd Lehrer ꝛc.) welcher ampt ist / daß sie obgemelten Artzet als jren herren / so vil es jmer möglich in der gantzen welt / für den Heylandt vnnd gesundtmacher aller Menschen / verkündigen / beschreyen oder außrúffen / daß sie seine trew / lieb vnd barmhertzigkeit / so er gegen den Menschen hat / rhúmen / jhnen hoch loben / vnd allen Krancken (das ist / allen armen sündern) mit seinem reychthumb / gnad / Artzney vnd wolthat recht bekandt machen / daß sie im auch bey der gesundtmachung
+
+<vocab>Christus knecht, 2. Corinth. 2, creütze, Gemeynde, C. S., Caspar Schwenckfeld, Kirchendienst, h. Schrifft, hymlischen artzney, Jhesu Christi, Aposteln, Propheten, Euangelisten, hirten, Lehrer, sündern</vocab>
+
+--- Page 33 ---
+<lang>German</lang>
+<sig>D ij</sig>
+<meta>catchword: lischen</meta>
+
+chung eben so wol als beym erkantnus der kranckheit fleiß-
+sig dienen / alle krancken zu jm selbs weysen / senfftmütig-
+klich füren vñ einladen / Deñ es soll da kein leyplich zwang
+noch drang sein / es soll auch kein grym̄ / haß / neyd noch
+bitterkeit in deren herzen wohnen / die dem senfftmütigen
+gütigen arzte Jhesu Christo im ampte der gesundtma-
+chunge dienen.
+
+<margin>Christus ist der eynige arzt vnser Seele.</margin>
+Item jr ampt ist / daß sie die Artzney / welche Chri-
+stus selber gibt vnnd außspendet (nämlich das wort des
+heyls / das wort der gesundtheit vnnd des ewigen lebens)
+in jren thönen gefässen (das ist / in jren herzē) wol bewa-
+ren / vnd jm als dem Meyster vnd Arzt vor sich selbs in
+jrem dienste / andern zum Exempel trewlich nachtragen /
+vnd davon zeügen / deßgleichen des Artzets kräfftig artzney
+an jn selbs beweysen / davon sie seind gesundt worden / das
+sie auch hinder des Artzets rath / willen vnd wissen bey den
+krancken nichts fürnemen / Sonder in allem auff jn allein
+sehen / zu jm allein weysen vnd zuflucht lehren haben / wel-
+chem sie denn auch billich als jren herren vnd Meyster in
+gehorsam vberal zur handt stehen sollen / Sie sollen die ar-
+zney nicht fälschen / noch <insert>allte Species für new verkau-</insert>
+fen / noch drunter mengen: Das ist eins Artzets Knechts
+dienst / ampt / arbeyt vnnd eygenschafft / Deßhalben soll er
+für allen dingen trew / warhafftig / beständig / vnnd auff-
+richtig sein: Er soll auch vom Arzt vnnd der artzney wol
+bericht sein / vnd die <insert><term>Pharmaca</term></insert> / kräuter / wasser / öhl vnd
+salben in der Apothecken / recht kennen / wie jm auch diser
+Arzt sonst keinen andern Knecht wünschet / er heyß gleich
+wie er wöll.
+
+Ein solcher Knecht ist der h. Apostel Paulus (so wol
+als andere Aposteln / propheten vnd Euangelisten) ge-
+west / nämlich ein bewerter / beständiger Diener des hym-
+
+<vocab>Jhesu Christo, Artzney, Pharmaca, Apothecken, Apostel Paulus, Euangelisten</vocab>
+
+--- Page 34 ---
+<lang>de</lang>
+<meta>Catchword: einem</meta>
+<vocab>Jhesu Christi, Artzt, Testaments, Paulus, Evangelij, Corint., Roman., Arztneyens</vocab>
+
+<margin>2. Corint. 4.</margin>
+<margin>Sie seind Got ein güter geruch Christi gewest / 2. Corinth. 2.</margin>
+lischen artzets Jhesu Christi/ein diener des newen Testa=
+ments/vnd ein fleyssiger trewer haußhalter der geheym=
+nus Gottes/ wie er denn gar feyn onderscheydenlich von
+seinem dienste zu allen Krancken schreybt/da er von im vnd
+Timotheo sagt : Wir verkündigen nicht vns selbs/ sonder
+(den hymlischen Arzt) Jhesum Christum/ das er der Herr
+sey/ wir aber ewre Knechte vm Jhesus willen (das ist/ wir
+seind nicht die ärzte oder seligmacher/ sonder nur Knechte
+des einigen Artzets vnd seligmachers Christi/ die euch zur
+ewigwerenden gesundtheit dienen/ die salb vnder den leu=
+ten vmbher tragen/ vnnd den Arzt vnnd artzney recht be=
+kandt machen) Denn Gott der da sprach: Daß das liecht
+auß der finsternus solt herfür scheynen/ der hat einen hel=
+len schein in vnsere hertz gegeben/ das durch vns herfür kä=
+me die erleüchtung des erkandtnus der Klarheit Gottes im
+angesicht Jhesu Christi/ 2. Corinth. 4.
+
+<margin>Medicus vnicus humanæ infirmitatis, est Christus</margin>
+Da sehen wir den Artzt vnnd Herren Jhesum Chri=
+stum/ deßgleichē Gott seinen Vatter/ von dem er das ampt
+vnd vollen gewalt des Artzneyens hat empfangen/ durch
+welchen er auch darzu ist besigelt worden/ Disen solt der
+Knecht Paulus auß Göttlichem befelch außschreyen/ mit
+dem wort vnd heyligen leben bezeügen/ von dem solt er al=
+len krancken ein fröliche gütte botschafft bringen/ im im
+dienst des Artzneyens trew sein/ vnnd als seinen Herren in
+aller welt bekant machen : Er dürffte auch in seinem dien=
+ste gar nichts thun/ reden oder fürnemen/ wa dasselbige
+der hymlische artzet Jhesus Christus nicht durch in wür=
+ckte/ wie er selber schreybt/ Roman. 15.
+
+<note>The first two lines of the following paragraph are underlined in red ink in the original.</note>
+Drumb ob gleich C. S. auß h. Schrifft lehret/ wie
+die diener Christi vnd seines Euangelij geschickt sein sollen:
+vnnd das der eüsserliche dienst vnnd diener von Gott dem
+Herren vnnd seiner innerlichen Krafft vnd würckhung in
+
+--- Page 35 ---
+<lang>deu</lang>
+<sig>D iij</sig>
+<meta>catchword: men/</meta>
+
+einem Göttlichen handel gebürlich onderscheyden soll wer=
+den / Ob er gleich auch mit den Lutherischen nicht in allem
+vom Ministerio, oder dienstampt des newen Testaments
+stymet / Ja auch den mißbrauch / vnverstandt vnd der Lu=
+therischen irrthumb darbey anzeygt. So folgt drumb nit /
+das er den verordneten dienst der Christlichen Kirchen / es
+sey gleich im Predigampt oder in der Sacrament Admini=
+stration / vnnd andern eußerlichen dingen verwerffe / oder
+sage : Man solle allein durch den Geyst **innerlich** gelehrt
+werden / wiewol solchs (doch das eußerliche vnveracht)
+fürnämlich von nöthen.
+
+<margin>Ist gedruckt im 1527. jar.</margin>
+Damit aber solche seine warhafftige meynung noch
+mehr bestätiget / vnd der Calumnianten / es sey gleich **Me=
+lanthons** mit seiner Schühl zu Wittemberg / oder des bö=
+sen menschens **Flacij Illyrici** (der jm alles verkert) lü=
+gen / neyd vnd haß häller erkant werde / so hat er im büch=
+lin vom Lauffe des worts Gottes also geschrieben.
+
+Das Gott der Herr zweierley weyse mit seinen außer=
+wölten pflege zuhandlen / **innerlich vnnd eußerlich** / nach
+dem der mensch fleysch vnd Geyst / leyb vnd Seele ist. In=
+nerlich handelt Gott mit jm durch sein wort / das Geist vnd
+leben ist : Eußerlich aber durchs wort des Büchstabens
+oder diensts / durchs schrifftliche oder mündtliche wort der
+predigt / durch Creaturn / Sacrament / Symbola oder zey=
+chen / auff das beyde der innerliche vnd eußerliche Mensch
+von den händeln Gottes bericht vnd gelehret werde <term>etc.</term>
+<margin>
+1. Thessal. 2.
+Das lebendi=
+ge innerliche
+wort Gottes
+ist Christus
+Meine schaf
+hören meine
+stim / Job. 10
+</margin>
+Deßhalben denn die außerwölten vnd gläubigen nicht al=
+lein vom wort des eußerlichen gehörs der predigt gelehre=
+net werden / Sonder vil mehr vom worte des gehörs Got=
+tes / das ist / vom lebendigen worte das sie innerlich von
+Gott dem Vatter in der Seel hören / welchs sich durch den
+heyligen Geyste ins hertz einlasset / vom hertz angenom=
+men /
+
+<vocab>Melanchthon, Flacius Illyricus, Wittenberg, Lutherisch, Ministerium, Sacrament, Wort Gottes, Geyst, Seele</vocab>
+
+--- Page 36 ---
+<lang>German</lang>
+<meta>image quality: clear with some bleed-through; red ink annotations/underlining added by a later hand</meta>
+
+men/geglaubt vnd erkandt würdt zur seligkeit.
+
+->Das ist C. S. verstandt/schreyben/vnnd endtliche<-
+->meynung von der <insert>innerlichen lehre Gottes/vnd vom eus=</insert><-
+-><insert>serlichen dienste beym Euangelio Jhesu Christi/</insert> dauon er<-
+->auch in der <insert>postill/</insert> vnd fast in allen seinen Büchern also<-
+->schreibt. Darauß nun genügsam zůuernemen / das<-
+->er vom dienst oder Predigampte in der Christli=<-
+->chen Kürche/wie auch von der <insert>Sacramēt</insert><-
+-><insert>Administration mit der h. Schrifft</insert><-
+->Christlich vnd recht halte/vnd<-
+->dran in der gnaden Got=<-
+->tes nichts auffhebe/<-
+->verachte noch<-
+->verleügne.<-
+
+-><insert>Laus Deo.</insert><-
+
+<vocab>Caspar Schwenckfeld (C. S.), innerliche lehre Gottes, Euangelio Jhesu Christi, Postill, Sacrament Administration, heilige Schrifft, Laus Deo</vocab>
+
+--- Page 37 ---
+<lang>Unknown</lang>
+<meta>This page is blank, likely serving as a flyleaf or endpaper within the manuscript binding.</meta>
+
+<vocab></vocab>
+
+--- Page 38 ---
+<lang>lat</lang>
+<meta>flyleaf or endpaper, heavy ink bleed-through from recto/verso, modern library and archival annotations in pencil and ink</meta>
+<warning>The page is an otherwise blank leaf containing only later archival and cataloging annotations. Significant ghosting/bleed-through of Latin text from the opposite side is visible but not transcribed as it is mirrored and on the reverse.</warning>
+
+<insert>
+881 768
+MD D57
+</insert>
+
+<insert>CS XVI, doc. 1048</insert>
+
+<insert>
+Meusel
+RN
+</insert>
+
+<vocab>shelfmark, archival reference, CS XVI, Meusel</vocab>
+
+--- Page 39 ---
+<lang>Unknown</lang>
+<meta>Blank page, likely a flyleaf or endpaper. Marbled paper is visible along the right edge of the binding.</meta>
+
+[This page is blank and contains no text.]
+
+<vocab>blank page, flyleaf, endpaper</vocab>
+
+--- Page 40 ---
+<lang>None</lang>
+<meta>Blank page</meta>
+
+*This page contains no text or illustrations.*
+
+<vocab>blank page</vocab>
+
+--- Page 41 ---
+<warning>This page is a blank flyleaf or endpaper containing only a modern library shelfmark. There is significant ghosting/bleed-through of text from the reverse side, which is not legible enough for transcription.</warning>
+
+<lang>Unknown</lang>
+<meta>Blank page with bleed-through text from the verso. Modern library shelfmark at bottom center.</meta>
+
+<insert>UBN 1287 a</insert>
+
+<vocab>shelfmark</vocab>
+
+--- Page 42 ---
+<lang>zxx</lang>
+<meta>Front cover of a bound manuscript or book. The cover features hand-marbled paper with a predominant green base and swirls of blue, yellow, and red. The spine is bound in dark green pebbled leather, accented with a vertical gold-tooled line at the join.</meta>
+
+[No text on this page]
+
+<vocab>marbled paper, bookbinding, leather spine, gold tooling, marbled pattern</vocab>
+
+<detected-images>
+[{"description": "Decorative hand-marbled paper with swirling patterns of green, blue, yellow, and red pigments.", "type": "decorative", "bbox": {"x": 0.0, "y": 0.0, "width": 0.887, "height": 1.0}, "gallery_quality": 0.85, "museum_rationale": "A fine example of historical hand-marbled paper, likely a variety of the 'Turkish' or 'Shell' pattern, commonly used in institutional and private bookbindings from the 18th and 19th centuries."},
+{"description": "Dark green leather binding spine with gold-leaf decorative border.", "type": "decorative", "bbox": {"x": 0.887, "y": 0.0, "width": 0.113, "height": 1.0}, "gallery_quality": 0.7, "museum_rationale": "Representative example of professional period bookbinding with decorative gold-tooling."}]
+</detected-images>

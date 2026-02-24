@@ -1,0 +1,26 @@
+{
+  "id": "6977b7fc112cb9b4f70c3ff4",
+  "title": "Cento Virgilianus de fratribus Roseae Crucis",
+  "display_title": "Cento Virgilianus de fratribus Roseae Crucis",
+  "author": "[Grick, Friedrich]",
+  "language": "Latin",
+  "year": 1618,
+  "published": "1618",
+  "pages_count": 50,
+  "pages_with_ocr": 50,
+  "pages_with_translation": 50,
+  "source_url": "https://sourcelibrary.org/book/6977b7fc112cb9b4f70c3ff4",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:41.919Z",
+  "_hashes": {
+    "ocr": "87b458f18fb008fa",
+    "translation": "756b27b12aaafb76"
+  }
+}

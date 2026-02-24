@@ -1,0 +1,28 @@
+{
+  "id": "69905b44aaa7f10ed4cfb8d5",
+  "title": "Two Treatises: In the one of which, the Nature of Bodies; in the other, the Nature of Mans Soule, is looked into",
+  "display_title": "Two Treatises on the Nature of Bodies and the Soul",
+  "author": "Kenelm Digby",
+  "language": "English",
+  "year": 1644,
+  "published": "Unknown",
+  "pages_count": 518,
+  "pages_with_ocr": 50,
+  "pages_with_translation": 46,
+  "source_url": "https://sourcelibrary.org/book/69905b44aaa7f10ed4cfb8d5",
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "digbytwotreatises"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:42.044Z",
+  "_hashes": {
+    "ocr": "e001a1c9fe046f78",
+    "translation": "22f4c0219bc28a61"
+  }
+}

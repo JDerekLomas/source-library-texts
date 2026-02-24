@@ -1,0 +1,28 @@
+{
+  "id": "6953c9cb77f38f6761bdf149",
+  "title": "Formative Elements of Japanese Buddhism",
+  "display_title": "Formative Elements of Japanese Buddhism",
+  "author": "Arthur Lloyd",
+  "language": "English",
+  "year": 1911,
+  "published": "Unknown",
+  "pages_count": 38,
+  "pages_with_ocr": 38,
+  "pages_with_translation": 38,
+  "source_url": "https://sourcelibrary.org/book/6953c9cb77f38f6761bdf149",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "formativeelement00lloy"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:48.543Z",
+  "_hashes": {
+    "ocr": "0cd857597f82f5aa",
+    "translation": "3a4630b2091968a2"
+  }
+}

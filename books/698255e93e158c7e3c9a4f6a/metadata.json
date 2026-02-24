@@ -1,0 +1,26 @@
+{
+  "id": "698255e93e158c7e3c9a4f6a",
+  "title": "De natura et jure aquarum",
+  "display_title": "De natura et jure aquarum",
+  "author": "Haugwitz, Tobias Ludewig ab",
+  "language": "Latin",
+  "year": 1693,
+  "published": "1693",
+  "pages_count": 49,
+  "pages_with_ocr": 49,
+  "pages_with_translation": 49,
+  "source_url": "https://sourcelibrary.org/book/698255e93e158c7e3c9a4f6a",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:42.695Z",
+  "_hashes": {
+    "ocr": "faa55c8e8de211cb",
+    "translation": "4fa29f5990fa644a"
+  }
+}

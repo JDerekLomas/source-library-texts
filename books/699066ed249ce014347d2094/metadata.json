@@ -1,0 +1,28 @@
+{
+  "id": "699066ed249ce014347d2094",
+  "title": "Buddhi Vilasa (Intellectual Delight on Jyotish)",
+  "display_title": "Buddhi Vilasa (Intellectual Delight on Jyotish)",
+  "author": "Unknown",
+  "language": "Sanskrit",
+  "year": null,
+  "published": "Unknown",
+  "pages_count": 50,
+  "pages_with_ocr": 50,
+  "pages_with_translation": 50,
+  "source_url": "https://sourcelibrary.org/book/699066ed249ce014347d2094",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "buddhivilasa-CGV-PSS-0130-0255"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:41.749Z",
+  "_hashes": {
+    "ocr": "ef746dffabad4740",
+    "translation": "20e189e22bd031b5"
+  }
+}

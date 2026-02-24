@@ -1,0 +1,26 @@
+{
+  "id": "697c8e0f14b7d066516d71c3",
+  "title": "Ueber Freymaurerey",
+  "display_title": "Ueber Freymaurerey",
+  "author": "Anonymous",
+  "language": "German",
+  "year": 1786,
+  "published": "1786",
+  "pages_count": 50,
+  "pages_with_ocr": 50,
+  "pages_with_translation": 50,
+  "source_url": "https://sourcelibrary.org/book/697c8e0f14b7d066516d71c3",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:42.099Z",
+  "_hashes": {
+    "ocr": "230a81e947a23c1d",
+    "translation": "169ec41329e6dd74"
+  }
+}

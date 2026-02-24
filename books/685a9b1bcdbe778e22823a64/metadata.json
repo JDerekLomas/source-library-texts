@@ -1,0 +1,26 @@
+{
+  "id": "685a9b1bcdbe778e22823a64",
+  "title": "De Voluptate (On Pleasure)",
+  "display_title": "On the Mysteries",
+  "author": "Ficino",
+  "language": "Latin",
+  "year": 1497,
+  "published": "1497",
+  "pages_count": 40,
+  "pages_with_ocr": 40,
+  "pages_with_translation": 40,
+  "source_url": "https://sourcelibrary.org/book/685a9b1bcdbe778e22823a64",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:47.085Z",
+  "_hashes": {
+    "ocr": "1899a8b6d508d608",
+    "translation": "4e9691ec18137d9f"
+  }
+}

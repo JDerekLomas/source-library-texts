@@ -1,0 +1,28 @@
+{
+  "id": "69907dfdb91bcb2db3f6d95e",
+  "title": "SamudrikamAlm28Shlf56307DevanagariJyotish",
+  "display_title": "SamudrikamAlm28Shlf56307DevanagariJyotish",
+  "author": "Unknown",
+  "language": "Sanskrit",
+  "year": 1905,
+  "published": "1905",
+  "pages_count": 51,
+  "pages_with_ocr": 51,
+  "pages_with_translation": 51,
+  "source_url": "https://sourcelibrary.org/book/69907dfdb91bcb2db3f6d95e",
+  "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "SamudrikamAlm28Shlf56307DevanagariJyotish"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:41.529Z",
+  "_hashes": {
+    "ocr": "b12feb6a01c3fd5a",
+    "translation": "9be808cde1cc02c3"
+  }
+}

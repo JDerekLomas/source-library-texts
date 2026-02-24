@@ -1,0 +1,28 @@
+{
+  "id": "6993571783378b7aed7ce8f6",
+  "title": "The Bhagvat-Geeta, or Dialogues of Kreeshna and Arjoon",
+  "display_title": "The Bhagvat-Geeta, or Dialogues of Kreeshna and Arjoon",
+  "author": "Charles Wilkins (trans.)",
+  "language": "English",
+  "year": 1785,
+  "published": "1785",
+  "pages_count": 51,
+  "pages_with_ocr": 51,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/6993571783378b7aed7ce8f6",
+  "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bhagavad-gita-charles-wilkins"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:29:41.478Z",
+  "_hashes": {
+    "ocr": "0bcaa82e17086d0f",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

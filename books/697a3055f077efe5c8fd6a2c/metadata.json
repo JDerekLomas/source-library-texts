@@ -1,0 +1,26 @@
+{
+  "id": "697a3055f077efe5c8fd6a2c",
+  "title": "Crata repoa. Oder Einweihungen in der alten geheimen Gesellschaft der Egyptischen Priester",
+  "display_title": "Crata repoa. Oder Einweihungen in der alten geheimen Gesellschaft der Egyptischen Priester",
+  "author": "[Köppen, Karl Friedrich]",
+  "language": "German",
+  "year": 1778,
+  "published": "1778",
+  "pages_count": 40,
+  "pages_with_ocr": 40,
+  "pages_with_translation": 40,
+  "source_url": "https://sourcelibrary.org/book/697a3055f077efe5c8fd6a2c",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:46.858Z",
+  "_hashes": {
+    "ocr": "5cc62d9b389af3eb",
+    "translation": "a79ca821bde78342"
+  }
+}

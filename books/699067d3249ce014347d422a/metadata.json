@@ -1,0 +1,26 @@
+{
+  "id": "699067d3249ce014347d422a",
+  "title": "Experimentarius and Geomancy Texts (MS. Digby 46)",
+  "display_title": "Bodleian Library MS. Digby 46",
+  "author": "Bernardus Silvestris",
+  "language": "Latin",
+  "year": 1300,
+  "published": "1300",
+  "pages_count": 43,
+  "pages_with_ocr": 43,
+  "pages_with_translation": 43,
+  "source_url": "https://sourcelibrary.org/book/699067d3249ce014347d422a",
+  "license": "CC-BY-NC-4.0",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:45.687Z",
+  "_hashes": {
+    "ocr": "ef4c914d13863d22",
+    "translation": "93b9f9516435a054"
+  }
+}

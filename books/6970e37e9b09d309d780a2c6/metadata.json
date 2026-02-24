@@ -1,0 +1,26 @@
+{
+  "id": "6970e37e9b09d309d780a2c6",
+  "title": "[Greek: Antikrisis] ad responsum Florentini de Valentia: das ist: Kurtze Duplic unnd Defension",
+  "display_title": "[Greek: Antikrisis] ad responsum Florentini de Valentia: das ist: Kurtze Duplic unnd Defension",
+  "author": "[Grick, Friedrich]",
+  "language": "German",
+  "year": 1618,
+  "published": "1618",
+  "pages_count": 39,
+  "pages_with_ocr": 39,
+  "pages_with_translation": 39,
+  "source_url": "https://sourcelibrary.org/book/6970e37e9b09d309d780a2c6",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:47.850Z",
+  "_hashes": {
+    "ocr": "6dcceb73454c8aa4",
+    "translation": "3375f05fa53824b3"
+  }
+}

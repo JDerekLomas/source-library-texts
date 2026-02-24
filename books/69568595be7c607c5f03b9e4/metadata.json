@@ -1,0 +1,28 @@
+{
+  "id": "69568595be7c607c5f03b9e4",
+  "title": "A Philosophical Essay of Musick",
+  "display_title": "A Philosophical Essay of Musick",
+  "author": "Francis North, Baron Guilford",
+  "language": "English",
+  "year": 1677,
+  "published": "Unknown",
+  "pages_count": 37,
+  "pages_with_ocr": 37,
+  "pages_with_translation": 37,
+  "source_url": "https://sourcelibrary.org/book/69568595be7c607c5f03b9e4",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bim_early-english-books-1641-1700_a-philosophical-essay-of_guilford-francis-north-_1677"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:48.625Z",
+  "_hashes": {
+    "ocr": "f5246c313d31497d",
+    "translation": "7cd3b7ed011577e6"
+  }
+}
