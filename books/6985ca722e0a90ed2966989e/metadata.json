@@ -1,0 +1,26 @@
+{
+  "id": "6985ca722e0a90ed2966989e",
+  "title": "De practyke ofte oeffeninghe der godtsalicheydt",
+  "display_title": "De practyke ofte oeffeninghe der godtsalicheydt",
+  "author": "Bayly, Lewis",
+  "language": "Dutch",
+  "year": 1659,
+  "published": "1659",
+  "pages_count": 598,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 4,
+  "source_url": "https://sourcelibrary.org/book/6985ca722e0a90ed2966989e",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:31:36.669Z",
+  "_hashes": {
+    "ocr": "84610b9b8e7293f2",
+    "translation": "d25f7a8004e3cf0a"
+  }
+}
