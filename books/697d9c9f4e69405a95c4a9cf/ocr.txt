@@ -1,0 +1,146 @@
+--- Page 1 ---
+<lang>zxx</lang>
+<page-type>blank</page-type>
+
+<image-desc>The front cover of a historical book. The binding features a brown, mottled or "sprinkled" leather surface. A decorative border consisting of three thin, parallel gold lines (fillets) is stamped near the outer edges of the front board. The spine, visible on the left, shows signs of age and wear, with some degradation of the leather at the head and tail.</image-desc>
+
+<vocab>binding, mottled leather, gold-tooling</vocab>
+
+--- Page 2 ---
+<lang>la</lang>
+<page-type>blank</page-type>
+<meta>Exterior binding with marbled paper and an affixed modern bookplate or identifier.</meta>
+
+E
+
+<image-desc>A circular bookplate for "Philosophia Hermetica" centered on a marbled paper cover. The central emblem depicts a pelican in its piety—a traditional alchemical and Christian symbol of a mother pelican pecking its breast to feed its chicks with its own blood. This image is housed in an oval frame with blue background and golden rays. Below the nest is a square shield divided into four, each quadrant containing a floral cross. The Latin words "PHILOSOPHIA HERMETICA" encircle the oval vignette in gold-toned capital letters.</image-desc>
+
+->**PHILOSOPHIA HERMETICA**<-
+
+[Ortuñez de Calahorra]
+
+<vocab>Philosophia Hermetica, Ortuñez de Calahorra, pelican in its piety, bookplate, marbled paper, binding</vocab>
+
+--- Page 3 ---
+<lang>None</lang>
+<page-type>illustration</page-type>
+<meta>Marbled endpaper or cover</meta>
+
+<image-desc>A full-page image of decorative marbled paper, likely an endpaper or the cover of a bound volume. The pattern features two large, prominent spirals—one in the upper-center and one in the lower-center—surrounded by irregular, organic shapes and droplets of color. The palette consists of terracotta red, moss green, ochre yellow, and slate blue on a light greyish-white base. The right edge of the image reveals a glimpse of the book's brown leather or cloth-covered spine, suggesting this is the front or back cover of the manuscript.</image-desc>
+
+<vocab>marbled paper, bookbinding, endpaper, snail pattern</vocab>
+
+--- Page 4 ---
+<lang>fr</lang>
+<page-type>blank</page-type>
+<meta>The page is a blank endpaper or flyleaf with a handwritten provenance mark near the bottom edge.</meta>
+
+->[Paulmy]<-
+
+<vocab>Paulmy</vocab>
+
+--- Page 5 ---
+<lang>und</lang>
+<page-type>blank</page-type>
+<meta>Flyleaf/endpaper with handwritten inscription in the upper right corner.</meta>
+
+<insert>
+Bel edewy
+9 oo
+</insert>
+
+<vocab>inscription, shelfmark</vocab>
+
+--- Page 6 ---
+<lang>fr</lang>
+<page-type>blank</page-type>
+<meta>Pencil annotations; possible ghosting/bleed-through from facing page visible at top left</meta>
+
+II
+
+[Paulmy]
+
+<vocab>Paulmy</vocab>
+
+--- Page 7 ---
+<lang>en</lang>
+<page-type>blank</page-type>
+<warning>Faded pencil notes in top right corner; some characters are difficult to distinguish.</warning>
+<meta>Handwritten pencil annotation in the upper right quadrant.</meta>
+
+<insert>
+BEC <unclear>odewy</unclear>
+9 00
+</insert>
+
+<vocab>manuscript, flyleaf, pencil note, shelfmark</vocab>
+
+--- Page 8 ---
+<lang>None</lang>
+<page-type>blank</page-type>
+<vocab></vocab>
+
+--- Page 9 ---
+<lang>French</lang>
+<page-type>title-page</page-type>
+<meta>Title page of an 18th-century edition of the "Histoire du Chevalier du Soleil," printed in 1780. The printer's device features Mercury.</meta>
+
+# HISTOIRE
+## DU
+# CHEVALIER
+# DU SOLEIL,
+## DE SON FRERE ROSICLAIR,
+### ET DE LEURS DESCENDANTS.
+
+->Traduction libre & abrégée de l'Eſpagnol,<-
+->avec la concluſion tirée du Roman des<-
+->Romans, du ſieur Duverdier.<-
+
+---
+->TOME PREMIER.<-
+---
+
+<image-desc>A woodcut or engraving of the Roman god Mercury (Hermes) in flight. He is shown wearing a winged hat (petasos) and winged sandals. In his right hand, he holds a caduceus, and in his left hand, he carries a small bag or purse.</image-desc>
+
+->A AMSTERDAM,<-
+->& ſe trouve A PARIS,<-
+->Chez PISSOT, Libraire, Quai des<-
+->Auguſtins.<-
+
+---
+->M. DCC. LXXX.<-
+
+<vocab>Histoire, Chevalier du Soleil, Rosiclair, Duverdier, Amsterdam, Paris, Pissot, Libraire, Roman des Romans, Mercury, 1780</vocab>
+
+--- Page 10 ---
+<lang>fr</lang>
+<page-type>blank</page-type>
+<warning>The text on this page is a mirrored offset (ink transfer) from the facing title page.</warning>
+<meta>mirrored offset text</meta>
+
+# HISTOIRE
+->DU<-
+## CHEVALIER
+## DU SOLEIL,
+### DE SON FRERE ROSICLER,
+### ET DE LEURS DESCENDANTS.
+
+->Traduction libre de l'Espagnol,<-
+->avec la conclusion de ce Roman des<-
+->Romans, par Jean Divertier.<-
+
+---
+->TOME PREMIER.<-
+---
+
+<image-desc>A printer's mark or vignette depicting a winged allegorical figure, likely Fame, in flight. The figure holds a trumpet in one hand and a laurel wreath or crown in the other.</image-desc>
+
+->A AMSTERDAM,<-
+->& se trouve à Paris,<-
+->Chez PISSOT, Libraire, Quai des<-
+->Augustins.<-
+
+---
+->M. DCC. LXXX.<-
+
+<vocab>Histoire du Chevalier du Soleil, Rosicler, Jean Divertier, Amsterdam, Paris, Pissot, roman de chevalerie, 1780</vocab>

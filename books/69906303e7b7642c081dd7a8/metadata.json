@@ -1,0 +1,28 @@
+{
+  "id": "69906303e7b7642c081dd7a8",
+  "title": "Astrologia Gallica",
+  "display_title": "Astrologia Gallica",
+  "author": "Jean Baptiste Morin",
+  "language": "Latin",
+  "year": 1661,
+  "published": "Unknown",
+  "pages_count": 874,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/69906303e7b7642c081dd7a8",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "ned-kbn-all-00004541-001"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:31:25.824Z",
+  "_hashes": {
+    "ocr": "56525f40a9d32533",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

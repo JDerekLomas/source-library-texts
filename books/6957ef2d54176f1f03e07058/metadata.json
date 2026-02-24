@@ -1,0 +1,28 @@
+{
+  "id": "6957ef2d54176f1f03e07058",
+  "title": "Pinax Theatri botanici",
+  "display_title": "Pinax Theatri botanici",
+  "author": "Caspar Bauhin",
+  "language": "Latin",
+  "year": 1671,
+  "published": "1671",
+  "pages_count": 568,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6957ef2d54176f1f03e07058",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "mobot31753000495769"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:31:29.145Z",
+  "_hashes": {
+    "ocr": "d7aa10ece9e80607",
+    "translation": "b324352c7843d4b9"
+  }
+}

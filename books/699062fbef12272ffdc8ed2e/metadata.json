@@ -1,0 +1,28 @@
+{
+  "id": "699062fbef12272ffdc8ed2e",
+  "title": "Astronomicon Libri VIII (Firmicus, Ptolemy, Hermes, Mashallah, Omar, Zahel, Manilius)",
+  "display_title": "Astronomicon Libri VIII (Firmicus, Ptolemy, Hermes, Mashallah, Omar, Zahel, Manilius)",
+  "author": "Nicolaus Pruckner (ed.)",
+  "language": "Latin",
+  "year": 1559,
+  "published": "Unknown",
+  "pages_count": 496,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/699062fbef12272ffdc8ed2e",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "hin-wel-all-00000663-001"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:31:26.080Z",
+  "_hashes": {
+    "ocr": "bd088a52a480b511",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

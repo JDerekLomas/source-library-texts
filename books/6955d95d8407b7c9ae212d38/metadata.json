@@ -1,0 +1,28 @@
+{
+  "id": "6955d95d8407b7c9ae212d38",
+  "title": "The Book of the Sacred Magic of Abra-Melin the Mage",
+  "display_title": "The Book of the Sacred Magic of Abra-Melin the Mage",
+  "author": "Abraham ben Simeon",
+  "language": "English",
+  "year": 1898,
+  "published": "Unknown",
+  "pages_count": 330,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6955d95d8407b7c9ae212d38",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bookofsacredmagi00abra"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:31:31.596Z",
+  "_hashes": {
+    "ocr": "f8e92496e908425a",
+    "translation": "ec960ec59d03441b"
+  }
+}

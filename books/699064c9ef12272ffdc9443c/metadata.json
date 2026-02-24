@@ -1,0 +1,28 @@
+{
+  "id": "699064c9ef12272ffdc9443c",
+  "title": "Compendium Revelationum (Latin, 1495)",
+  "display_title": "Compendium Revelationum (Latin, 1495)",
+  "author": "Girolamo Savonarola",
+  "language": "Latin",
+  "year": 1495,
+  "published": "Unknown",
+  "pages_count": 135,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/699064c9ef12272ffdc9443c",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "compendiodireuel00savo_1"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:31:25.258Z",
+  "_hashes": {
+    "ocr": "f2169c047002778e",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

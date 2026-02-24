@@ -1,0 +1,28 @@
+{
+  "id": "6958de17f26aeac672f1ebf4",
+  "title": "Stirpium historiae pemptades sex",
+  "display_title": "Stirpium historiae pemptades sex",
+  "author": "Rembert Dodoens",
+  "language": "Latin",
+  "year": 1583,
+  "published": "1583",
+  "pages_count": 905,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6958de17f26aeac672f1ebf4",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "mobot31753000817947"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:31:27.724Z",
+  "_hashes": {
+    "ocr": "2206c8f17c8db6cb",
+    "translation": "89289c3ad297953b"
+  }
+}

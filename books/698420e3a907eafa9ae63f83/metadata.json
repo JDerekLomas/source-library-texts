@@ -1,0 +1,26 @@
+{
+  "id": "698420e3a907eafa9ae63f83",
+  "title": "De occulta philosophia",
+  "display_title": "De occulta philosophia",
+  "author": "Agrippa, Henricus Cornelius",
+  "language": "Latin",
+  "year": 1533,
+  "published": "1533",
+  "pages_count": 412,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 8,
+  "source_url": "https://sourcelibrary.org/book/698420e3a907eafa9ae63f83",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:31:32.851Z",
+  "_hashes": {
+    "ocr": "4dd1d26372d985d4",
+    "translation": "cc94a334b044b349"
+  }
+}

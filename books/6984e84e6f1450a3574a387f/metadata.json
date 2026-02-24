@@ -1,0 +1,26 @@
+{
+  "id": "6984e84e6f1450a3574a387f",
+  "title": "Opere",
+  "display_title": "Opere",
+  "author": "Benivieni, Girolamo",
+  "language": "Italian",
+  "year": 1522,
+  "published": "1522",
+  "pages_count": 462,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 6,
+  "source_url": "https://sourcelibrary.org/book/6984e84e6f1450a3574a387f",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:31:35.611Z",
+  "_hashes": {
+    "ocr": "950f46912bd834af",
+    "translation": "46f1bf04693848e0"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "6984e84d97e383e5dd001adc",
+  "title": "Philosophia de limbo",
+  "display_title": "Philosophia de limbo",
+  "author": "Paracelsus, Theophrastus",
+  "language": "Latin",
+  "year": 1618,
+  "published": "1618",
+  "pages_count": 224,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 6,
+  "source_url": "https://sourcelibrary.org/book/6984e84d97e383e5dd001adc",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:31:29.978Z",
+  "_hashes": {
+    "ocr": "f2cf28b304f00c41",
+    "translation": "af8eae7d1f95ad3f"
+  }
+}

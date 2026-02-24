@@ -1,0 +1,28 @@
+{
+  "id": "699064c4ef12272ffdc9434a",
+  "title": "Johann Taulers Predigten, Band 3",
+  "display_title": "Johann Taulers Predigten, Band 3",
+  "author": "Johannes Tauler",
+  "language": "German",
+  "year": 1568,
+  "published": "Unknown",
+  "pages_count": 240,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/699064c4ef12272ffdc9434a",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "johanntaulerspre03taul"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:31:25.334Z",
+  "_hashes": {
+    "ocr": "c572e1ef0d1e2384",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

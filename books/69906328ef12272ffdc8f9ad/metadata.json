@@ -1,0 +1,28 @@
+{
+  "id": "69906328ef12272ffdc8f9ad",
+  "title": "An Historical Essay Concerning Witchcraft",
+  "display_title": "An Historical Essay Concerning Witchcraft",
+  "author": "Francis Hutchinson",
+  "language": "English",
+  "year": 1718,
+  "published": "Unknown",
+  "pages_count": 374,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/69906328ef12272ffdc8f9ad",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "b30512967"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:31:27.807Z",
+  "_hashes": {
+    "ocr": "eea926de1fa249da",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

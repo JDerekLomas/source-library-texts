@@ -1,0 +1,26 @@
+{
+  "id": "6985ca72d480ab10e5c48434",
+  "title": "De ratione conficiendi lapidis philosophici. Argumenti.  Argumenti. Ex speculo magno",
+  "display_title": "De ratione conficiendi lapidis philosophici. Argumenti.  Argumenti. Ex speculo magno",
+  "author": "Ventura, Lorenzo|Johannes de Garlandia|Vincent de Beauvais",
+  "language": "Latin",
+  "year": 1571,
+  "published": "1571",
+  "pages_count": 580,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 6,
+  "source_url": "https://sourcelibrary.org/book/6985ca72d480ab10e5c48434",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:31:30.807Z",
+  "_hashes": {
+    "ocr": "bfe79f9b0f9a6aa5",
+    "translation": "93c419b3dbbc2247"
+  }
+}

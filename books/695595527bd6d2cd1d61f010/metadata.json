@@ -1,0 +1,28 @@
+{
+  "id": "695595527bd6d2cd1d61f010",
+  "title": "Evelyn Underhill The Mystic Way",
+  "display_title": "Evelyn Underhill The Mystic Way",
+  "author": "Evelyn Underhill",
+  "language": "English",
+  "year": 1913,
+  "published": "1913",
+  "pages_count": 428,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/695595527bd6d2cd1d61f010",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "mysticwaypsychol00undeuoft"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:31:29.446Z",
+  "_hashes": {
+    "ocr": "534de2e63b13d7bb",
+    "translation": "f4d9dee62f4f82e7"
+  }
+}

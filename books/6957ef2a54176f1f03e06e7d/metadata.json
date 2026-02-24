@@ -1,0 +1,28 @@
+{
+  "id": "6957ef2a54176f1f03e06e7d",
+  "title": "De historia plantarum libri IX",
+  "display_title": "De historia plantarum libri IX",
+  "author": "Theophrastus",
+  "language": "Latin",
+  "year": 1483,
+  "published": "Unknown",
+  "pages_count": 474,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6957ef2a54176f1f03e06e7d",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "mobot31753000811833"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:31:30.439Z",
+  "_hashes": {
+    "ocr": "a6522ba8a3ec986b",
+    "translation": "11896bf530644621"
+  }
+}

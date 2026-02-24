@@ -1,0 +1,28 @@
+{
+  "id": "69905f1740bc3a0478efa559",
+  "title": "De la cause du sommeil lucide, ou Étude de la nature de l'homme",
+  "display_title": "De la cause du sommeil lucide",
+  "author": "Abbé José Custódio de Faria",
+  "language": "French",
+  "year": 1819,
+  "published": "Unknown",
+  "pages_count": 482,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/69905f1740bc3a0478efa559",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "b29336077"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:31:31.270Z",
+  "_hashes": {
+    "ocr": "c05c71fa3156bfab",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

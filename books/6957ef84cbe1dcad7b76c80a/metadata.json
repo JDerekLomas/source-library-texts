@@ -1,0 +1,28 @@
+{
+  "id": "6957ef84cbe1dcad7b76c80a",
+  "title": "Exoticorum Libri Decem",
+  "display_title": "Exoticorum Libri Decem",
+  "author": "Carolus Clusius",
+  "language": "Latin",
+  "year": 1605,
+  "published": "Unknown",
+  "pages_count": 846,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6957ef84cbe1dcad7b76c80a",
+  "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "clusius"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:31:28.640Z",
+  "_hashes": {
+    "ocr": "da6372accab4e5b5",
+    "translation": "b612f0960a62c19f"
+  }
+}

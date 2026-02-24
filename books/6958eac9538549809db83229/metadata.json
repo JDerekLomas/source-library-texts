@@ -1,0 +1,28 @@
+{
+  "id": "6958eac9538549809db83229",
+  "title": "Herbarium Amboinense Vol. 3",
+  "display_title": "Herbarium Amboinense Vol. 3",
+  "author": "Georg Eberhard Rumphius",
+  "language": "Latin",
+  "year": 1743,
+  "published": "Unknown",
+  "pages_count": 238,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6958eac9538549809db83229",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "mobot31753000819448"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:31:34.557Z",
+  "_hashes": {
+    "ocr": "406d9e67b06ae299",
+    "translation": "039b549e3b9d8863"
+  }
+}

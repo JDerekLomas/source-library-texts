@@ -1,0 +1,28 @@
+{
+  "id": "6957ebda57a4c14a9879b175",
+  "title": "The English Physitian Enlarged",
+  "display_title": "The English Physitian Enlarged",
+  "author": "Nicholas Culpeper",
+  "language": "English",
+  "year": 1653,
+  "published": "Unknown",
+  "pages_count": 330,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6957ebda57a4c14a9879b175",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bim_early-english-books-1641-1700_the-english-physitian-en_culpeper-nicholas_1653"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:31:34.758Z",
+  "_hashes": {
+    "ocr": "bf0eaf14b223e61e",
+    "translation": "3c10b8eca9809c13"
+  }
+}

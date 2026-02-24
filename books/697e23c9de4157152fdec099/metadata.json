@@ -1,0 +1,26 @@
+{
+  "id": "697e23c9de4157152fdec099",
+  "title": "Hohe und tieffe Gruende von dem dreyfachen Leben des Menschen",
+  "display_title": "Hohe und tieffe Gruende von dem dreyfachen Leben des Menschen",
+  "author": "Boehme, Jacob",
+  "language": "German",
+  "year": 1660,
+  "published": "1660",
+  "pages_count": 581,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 4,
+  "source_url": "https://sourcelibrary.org/book/697e23c9de4157152fdec099",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:31:29.793Z",
+  "_hashes": {
+    "ocr": "f6bc8a9aae251af8",
+    "translation": "3fab1ae838dfcfdd"
+  }
+}

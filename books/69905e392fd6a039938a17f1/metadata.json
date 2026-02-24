@@ -1,0 +1,28 @@
+{
+  "id": "69905e392fd6a039938a17f1",
+  "title": "Decem Tractatus Astronomiae (Liber Astronomiae)",
+  "display_title": "Decem Tractatus Astronomiae (Liber Astronomiae)",
+  "author": "Guido Bonatti",
+  "language": "Latin",
+  "year": 1491,
+  "published": "Unknown",
+  "pages_count": 397,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/69905e392fd6a039938a17f1",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "hin-wel-all-00001949-001"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:31:29.882Z",
+  "_hashes": {
+    "ocr": "f9906456d620ace3",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

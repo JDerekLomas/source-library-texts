@@ -1,0 +1,28 @@
+{
+  "id": "6990632bef12272ffdc8fe77",
+  "title": "Metoposcopia Libris Tredecim",
+  "display_title": "Metoposcopia Libris Tredecim",
+  "author": "Girolamo Cardano",
+  "language": "Latin",
+  "year": 1658,
+  "published": "Unknown",
+  "pages_count": 304,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/6990632bef12272ffdc8fe77",
+  "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bub_gb_KTnAy4_pdhIC"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:31:27.611Z",
+  "_hashes": {
+    "ocr": "7366836c9c4e536a",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "69906319ef12272ffdc8f380",
+  "title": "Satan's Invisible World Discovered",
+  "display_title": "Satan's Invisible World Discovered",
+  "author": "George Sinclair",
+  "language": "English",
+  "year": 1685,
+  "published": "Unknown",
+  "pages_count": 297,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/69906319ef12272ffdc8f380",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bim_early-english-books-1641-1700_satans-invisible-world-d_sinclair-george_1685"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:31:28.480Z",
+  "_hashes": {
+    "ocr": "a70483d78d78d8ee",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

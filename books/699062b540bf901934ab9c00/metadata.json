@@ -1,0 +1,28 @@
+{
+  "id": "699062b540bf901934ab9c00",
+  "title": "A Course of Lectures on Natural Philosophy and the Mechanical Arts, Vol. I",
+  "display_title": "A Course of Lectures on Natural Philosophy (Vol. I)",
+  "author": "Thomas Young",
+  "language": "English",
+  "year": 1807,
+  "published": "Unknown",
+  "pages_count": 896,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/699062b540bf901934ab9c00",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "lecturescourseof01younrich"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:31:26.947Z",
+  "_hashes": {
+    "ocr": "56dab41000bf60b6",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

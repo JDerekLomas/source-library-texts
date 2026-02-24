@@ -1,0 +1,28 @@
+{
+  "id": "69905e232fd6a039938a1235",
+  "title": "Opera Latine Conscripta Vol. III (De Magia, De Vinculis)",
+  "display_title": "Opera Latine Conscripta Vol. III (De Magia, De Vinculis)",
+  "author": "Giordano Bruno",
+  "language": "Latin",
+  "year": 1891,
+  "published": "Unknown",
+  "pages_count": 792,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/69905e232fd6a039938a1235",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "jordanibruninola03brun"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:31:31.953Z",
+  "_hashes": {
+    "ocr": "fae49db2ce14e53b",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

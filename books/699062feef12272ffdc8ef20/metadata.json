@@ -1,0 +1,28 @@
+{
+  "id": "699062feef12272ffdc8ef20",
+  "title": "In Cl. Ptolemaei de Astrorum Iudiciis Commentaria",
+  "display_title": "In Cl. Ptolemaei de Astrorum Iudiciis Commentaria",
+  "author": "Girolamo Cardano",
+  "language": "Latin",
+  "year": 1554,
+  "published": "Unknown",
+  "pages_count": 387,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/699062feef12272ffdc8ef20",
+  "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bub_gb_hvfy6BMWI90C"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:31:25.989Z",
+  "_hashes": {
+    "ocr": "c8234f42cdbc0d24",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

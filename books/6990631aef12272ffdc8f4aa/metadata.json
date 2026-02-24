@@ -1,0 +1,28 @@
+{
+  "id": "6990631aef12272ffdc8f4aa",
+  "title": "The Chronology of Ancient Nations",
+  "display_title": "The Chronology of Ancient Nations",
+  "author": "Al-Biruni (trans. E. Sachau)",
+  "language": "English",
+  "year": 1879,
+  "published": "Unknown",
+  "pages_count": 496,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/6990631aef12272ffdc8f4aa",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "chronologyofanci00biru"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:31:28.390Z",
+  "_hashes": {
+    "ocr": "c25e406e4729f5f8",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

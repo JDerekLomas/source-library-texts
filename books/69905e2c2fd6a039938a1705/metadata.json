@@ -1,0 +1,26 @@
+{
+  "id": "69905e2c2fd6a039938a1705",
+  "title": "Compendium Rarissimum Totius Artis Magicae",
+  "display_title": "Compendium Rarissimum Totius Artis Magicae",
+  "author": "Anonymous",
+  "language": "Latin",
+  "year": 1775,
+  "published": "1775",
+  "pages_count": 112,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/69905e2c2fd6a039938a1705",
+  "license": "pdm",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:31:29.289Z",
+  "_hashes": {
+    "ocr": "847eaf6488142c21",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

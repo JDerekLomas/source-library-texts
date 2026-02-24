@@ -1,0 +1,26 @@
+{
+  "id": "6985ca72a57ab7da79b0fb12",
+  "title": "Pimandras. Utriaque lingua restitutus",
+  "display_title": "Pimandras. Utriaque lingua restitutus",
+  "author": "Hermes Trismegistus",
+  "language": "Greek-Latin",
+  "year": 1574,
+  "published": "1574",
+  "pages_count": 170,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 6,
+  "source_url": "https://sourcelibrary.org/book/6985ca72a57ab7da79b0fb12",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:31:36.008Z",
+  "_hashes": {
+    "ocr": "9e693733648a62e3",
+    "translation": "c1e4fd3ff51f1cc1"
+  }
+}

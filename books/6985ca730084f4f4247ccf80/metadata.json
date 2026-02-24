@@ -1,0 +1,26 @@
+{
+  "id": "6985ca730084f4f4247ccf80",
+  "title": "De' ragguagli di Parnaso...centuria seconda",
+  "display_title": "De' ragguagli di Parnaso...centuria seconda",
+  "author": "Boccalini, Trajano",
+  "language": "Italian",
+  "year": 1613,
+  "published": "1613",
+  "pages_count": 566,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 5,
+  "source_url": "https://sourcelibrary.org/book/6985ca730084f4f4247ccf80",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:31:34.648Z",
+  "_hashes": {
+    "ocr": "6a6c1388e17cc2c1",
+    "translation": "5f3b5da84d01b15c"
+  }
+}

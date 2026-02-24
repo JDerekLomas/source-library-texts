@@ -1,0 +1,26 @@
+{
+  "id": "6984e84ebcfafeceb11019c1",
+  "title": "Der philosophische Perl-Baum",
+  "display_title": "Der philosophische Perl-Baum",
+  "author": "[Walchin, Dorothea Juliana]",
+  "language": "German",
+  "year": 1722,
+  "published": "1722",
+  "pages_count": 176,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 9,
+  "source_url": "https://sourcelibrary.org/book/6984e84ebcfafeceb11019c1",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:31:35.690Z",
+  "_hashes": {
+    "ocr": "5fdfa9347c897677",
+    "translation": "0d5745b95c80f12c"
+  }
+}

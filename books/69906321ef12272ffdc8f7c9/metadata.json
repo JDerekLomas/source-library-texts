@@ -1,0 +1,28 @@
+{
+  "id": "69906321ef12272ffdc8f7c9",
+  "title": "A Compleat History of Magick, Vol. 2",
+  "display_title": "A Compleat History of Magick, Vol. 2",
+  "author": "Richard Boulton",
+  "language": "English",
+  "year": 1716,
+  "published": "Unknown",
+  "pages_count": 245,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/69906321ef12272ffdc8f7c9",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bim_eighteenth-century_a-compleat-history-of-ma_boulton-richard_1716_2"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:31:28.215Z",
+  "_hashes": {
+    "ocr": "b22e326fea811a2e",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

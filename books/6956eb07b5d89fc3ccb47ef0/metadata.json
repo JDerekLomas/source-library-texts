@@ -1,0 +1,28 @@
+{
+  "id": "6956eb07b5d89fc3ccb47ef0",
+  "title": "Beschreibung der drey Principien göttliches Wesens",
+  "display_title": "Beschreibung der drey Principien göttliches Wesens",
+  "author": "Jakob Böhme",
+  "language": "German",
+  "year": 1682,
+  "published": "1682",
+  "pages_count": 654,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6956eb07b5d89fc3ccb47ef0",
+  "license": "https://rightsstatements.org/vocab/NoC-NC/1.0/",
+  "doi": null,
+  "external_ids": {
+    "mdz": "bsb10260410"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:31:34.335Z",
+  "_hashes": {
+    "ocr": "8b6b9bbf1a2dd8c1",
+    "translation": "0e5bce85df4a475e"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "6985ca72b037546226b9db91",
+  "title": "Pymander",
+  "display_title": "Pymander",
+  "author": "Hermes Trismegistus",
+  "language": "Latin",
+  "year": 1585,
+  "published": "1585-86",
+  "pages_count": 532,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 6,
+  "source_url": "https://sourcelibrary.org/book/6985ca72b037546226b9db91",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:31:30.982Z",
+  "_hashes": {
+    "ocr": "b5562378dfcec4b9",
+    "translation": "a367655418bb0727"
+  }
+}

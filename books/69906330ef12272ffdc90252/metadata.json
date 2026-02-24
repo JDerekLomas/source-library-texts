@@ -1,0 +1,28 @@
+{
+  "id": "69906330ef12272ffdc90252",
+  "title": "An Irish Astronomical Tract (based on Mashallah)",
+  "display_title": "An Irish Astronomical Tract (based on Mashallah)",
+  "author": "Mashallah (ed. Maura Power)",
+  "language": "English",
+  "year": 1914,
+  "published": "Unknown",
+  "pages_count": 294,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/69906330ef12272ffdc90252",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "irishastronomica14msha"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:31:27.385Z",
+  "_hashes": {
+    "ocr": "eb1a6f1f0530c9f0",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

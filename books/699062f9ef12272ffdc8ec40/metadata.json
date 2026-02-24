@@ -1,0 +1,28 @@
+{
+  "id": "699062f9ef12272ffdc8ec40",
+  "title": "Compilatio de Astrorum Scientia",
+  "display_title": "Compilatio de Astrorum Scientia",
+  "author": "Leopold of Austria",
+  "language": "Latin",
+  "year": 1489,
+  "published": "Unknown",
+  "pages_count": 236,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/699062f9ef12272ffdc8ec40",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "compilatioleupo00leup"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:31:26.170Z",
+  "_hashes": {
+    "ocr": "a9af4382752f5162",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

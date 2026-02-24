@@ -1,0 +1,28 @@
+{
+  "id": "699062f1ef12272ffdc8e56e",
+  "title": "Contra Celsum (1481 editio princeps)",
+  "display_title": "Contra Celsum (1481 editio princeps)",
+  "author": "Origen",
+  "language": "Latin",
+  "year": 1481,
+  "published": "Unknown",
+  "pages_count": 538,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/699062f1ef12272ffdc8e56e",
+  "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "contracelsumetin00orig"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:31:26.600Z",
+  "_hashes": {
+    "ocr": "daaa48ef4acaaa88",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

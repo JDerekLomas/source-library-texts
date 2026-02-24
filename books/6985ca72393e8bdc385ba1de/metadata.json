@@ -1,0 +1,26 @@
+{
+  "id": "6985ca72393e8bdc385ba1de",
+  "title": "Quarante questions",
+  "display_title": "Quarante questions",
+  "author": "Boehme, Jacob",
+  "language": "French",
+  "year": 1807,
+  "published": "1807",
+  "pages_count": 551,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 4,
+  "source_url": "https://sourcelibrary.org/book/6985ca72393e8bdc385ba1de",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:31:29.531Z",
+  "_hashes": {
+    "ocr": "b7e4410a3d0356be",
+    "translation": "b8a67358f18d28b1"
+  }
+}

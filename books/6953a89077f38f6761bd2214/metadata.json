@@ -1,0 +1,28 @@
+{
+  "id": "6953a89077f38f6761bd2214",
+  "title": "Septuagint (LXX) Codex Vaticanus Edition",
+  "display_title": "Septuagint (LXX) Codex Vaticanus Edition",
+  "author": "Brooke, McLean, Thackeray (eds.)",
+  "language": "Greek",
+  "year": 1906,
+  "published": "Unknown",
+  "pages_count": 287,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6953a89077f38f6761bd2214",
+  "license": "http://creativecommons.org/licenses/by/3.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "OldTestamentGreeklxxTextCodexVaticanus"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:31:25.738Z",
+  "_hashes": {
+    "ocr": "c81a439f1b9b23cb",
+    "translation": "ebc8dd93cf064f0b"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "698420e3a4e0ac82b9a6f9b6",
+  "title": "Het offer des Heeren",
+  "display_title": "Het offer des Heeren",
+  "author": "anonymous",
+  "language": "Dutch",
+  "year": 1580,
+  "published": "1580",
+  "pages_count": 716,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 8,
+  "source_url": "https://sourcelibrary.org/book/698420e3a4e0ac82b9a6f9b6",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:31:32.670Z",
+  "_hashes": {
+    "ocr": "d302cc465cd0e264",
+    "translation": "e79af6673aca9c73"
+  }
+}

@@ -1,0 +1,137 @@
+--- Page 1 ---
+<lang>None</lang>
+<page-type>blank</page-type>
+<meta>This image shows a blank, dark red textured book cover with a fine buckram or cloth grain. There is no text or decoration present.</meta>
+
+<image-desc>A solid dark red, textured surface, likely the cloth-bound cover of a book. The texture consists of a fine, regular grid pattern characteristic of library bindings.</image-desc>
+
+<vocab>book cover, binding, blank</vocab>
+
+--- Page 2 ---
+<lang>English</lang>
+<page-type>text</page-type>
+<meta>Library of Congress bookplate with handwritten call numbers</meta>
+
+-><image-desc>Seal of the Library of Congress featuring an eagle with spread wings perched atop a circular border. Inside the circle, the text "THE LIBRARY OF CONGRESS" surrounds the year "1800" at the center, with a small star at the bottom of the rim.</image-desc><-
+
+->Class <insert>BT1116</insert><-
+->Book <insert>T4</insert><-
+-><insert>1849</insert><-
+
+<vocab>Library of Congress, bookplate, call number, BT1116, T4, 1849</vocab>
+
+--- Page 3 ---
+<lang>None</lang>
+<page-type>blank</page-type>
+<vocab></vocab>
+
+--- Page 4 ---
+<lang>N/A</lang>
+<page-type>blank</page-type>
+
+<vocab>blank page</vocab>
+
+--- Page 5 ---
+<lang>English</lang>
+<page-type>text</page-type>
+<meta>Institutional mark on a blue paper flyleaf or cover. There is a strip of white adhesive tape on the lower left side.</meta>
+
+->Library of<-
+->Lafayette College<-
+
+->4812<-
+
+<vocab>Library of Lafayette College, 4812</vocab>
+
+--- Page 6 ---
+<lang>None</lang>
+<page-type>blank</page-type>
+
+<image-desc>A blank sheet of blue-colored paper with a visible grain and some horizontal creasing. A vertical strip of white translucent tape or paper is attached along the left margin. In the lower right quadrant, there is a rectangular piece of similar white paper or tape applied at a diagonal angle.</image-desc>
+
+<vocab>blue paper, blank page</vocab>
+
+--- Page 7 ---
+<lang>Latin</lang>
+<page-type>title-page</page-type>
+<page-num>207</page-num>
+<meta>Handwritten library/accession numbers at top right: 3403, 5362</meta>
+
+<insert>Tertullianus, Quintus Septimius Floren</insert>
+
+### QU. SEPTIMII FLORENTIS
+
+# TERTULLIANI
+
+## APOLOGETICUM
+
+->ET<-
+
+## AD NATIONES LIBRI DUO
+
+->EX FIDE<-
+
+### OPTIMORUM CODICUM MANUSCRIPTORUM
+
+->AUT PRIMUM AUT DENUO COLLATORUM<-
+
+->CUM ADNOTATIONE PERPETUA<-
+
+->ET INDICIBUS<-
+
+->EDIDIT<-
+
+### FRANCISCUS OEHLER.
+
+---
+
+->HALAE SAXONUM<-
+
+->SUMPTIBUS EDUARDI ANTON.<-
+
+->MDCCCXXXXIX.<-
+
+<vocab>Quintus Septimius Florens Tertullianus, Apologeticum, Ad Nationes, Franciscus Oehler, Eduardus Anton, Halae Saxonum, 19th-century edition, patristics</vocab>
+
+--- Page 8 ---
+<lang>English</lang>
+<page-type>blank</page-type>
+<meta>Handwritten library call number and accession note. Significant bleed-through of printed text from the reverse side is visible.</meta>
+<warning>Bleed-through from reverse page makes the sheet appear busy, though the page itself contains only handwritten notes.</warning>
+
+<insert>
+BT 1116
+.T4
+1849
+</insert>
+
+<insert>
+->Exchange<-
+->Lafayette College Library<-
+->May 29, 1936<-
+</insert>
+
+<vocab>Lafayette College Library, library accession note, call number</vocab>
+
+--- Page 9 ---
+<lang>la</lang>
+<page-type>dedication</page-type>
+
+# GODOFREDO BERNHARDYO
+
+->ET<-
+
+# CAROLO THILONI
+
+->D. D. D.<-
+
+->**AUCTOR.**<-
+
+<vocab>Godofredo Bernhardyo, Carolo Thiloni, Auctor, D. D. D.</vocab>
+
+--- Page 10 ---
+<lang>Latin</lang>
+<page-type>blank</page-type>
+<meta>This page is blank. The visible text is mirror-imaged bleed-through from the reverse side (verso).</meta>
+
+<vocab></vocab>

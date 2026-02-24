@@ -1,0 +1,28 @@
+{
+  "id": "699062f5ef12272ffdc8e9d5",
+  "title": "De Civitate Dei",
+  "display_title": "De Civitate Dei",
+  "author": "St. Augustine",
+  "language": "Latin",
+  "year": 1467,
+  "published": "Unknown",
+  "pages_count": 617,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/699062f5ef12272ffdc8e9d5",
+  "license": "http://creativecommons.org/licenses/publicdomain/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "augustinidecivitatedei00jensuoft"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:31:26.503Z",
+  "_hashes": {
+    "ocr": "fc3ebf5f8b0b6ed2",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

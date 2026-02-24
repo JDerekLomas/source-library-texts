@@ -1,0 +1,28 @@
+{
+  "id": "69906335ef12272ffdc9037b",
+  "title": "Apologeticum et Ad Nationes",
+  "display_title": "Apologeticum et Ad Nationes",
+  "author": "Tertullian",
+  "language": "Latin",
+  "year": null,
+  "published": "Unknown",
+  "pages_count": 478,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/69906335ef12272ffdc9037b",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "apologeticumetad00tert"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:31:27.299Z",
+  "_hashes": {
+    "ocr": "48fd0af9b5451250",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

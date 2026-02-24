@@ -1,0 +1,26 @@
+{
+  "id": "6985ca72077b71ae19896a1c",
+  "title": "Propugnatio terminorum et doctrinae... Raymundi Lullii",
+  "display_title": "Propugnatio terminorum et doctrinae... Raymundi Lullii",
+  "author": "Zepeda, Alonso de",
+  "language": "Latin",
+  "year": 1666,
+  "published": "1666",
+  "pages_count": 366,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 1,
+  "source_url": "https://sourcelibrary.org/book/6985ca72077b71ae19896a1c",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:31:29.606Z",
+  "_hashes": {
+    "ocr": "7d74d7699c0a9844",
+    "translation": "c2a1693205703dc0"
+  }
+}

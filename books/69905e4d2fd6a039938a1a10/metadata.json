@@ -1,0 +1,28 @@
+{
+  "id": "69905e4d2fd6a039938a1a10",
+  "title": "Discours et Histoires des Spectres",
+  "display_title": "Discours et Histoires des Spectres",
+  "author": "Pierre Le Loyer",
+  "language": "French",
+  "year": 1586,
+  "published": "Unknown",
+  "pages_count": 1043,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/69905e4d2fd6a039938a1a10",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "per_witchcraft-in-europe-and-america_1605_567"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:31:30.195Z",
+  "_hashes": {
+    "ocr": "cb569f64aed43a9d",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

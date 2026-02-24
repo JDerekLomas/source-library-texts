@@ -1,0 +1,28 @@
+{
+  "id": "6990632bef12272ffdc8fe78",
+  "title": "De Spectaculis, De Idololatria, De Corona Militis",
+  "display_title": "De Spectaculis, De Idololatria, De Corona Militis",
+  "author": "Tertullian",
+  "language": "Latin",
+  "year": 1898,
+  "published": "1898",
+  "pages_count": 254,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/6990632bef12272ffdc8fe78",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "libritresdespect00tertuoft"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:31:27.535Z",
+  "_hashes": {
+    "ocr": "c5407d60864914b4",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

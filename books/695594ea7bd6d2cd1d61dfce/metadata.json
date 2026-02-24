@@ -1,0 +1,28 @@
+{
+  "id": "695594ea7bd6d2cd1d61dfce",
+  "title": "Swedenborg Arcana Caelestia Vol. I (1750)",
+  "display_title": "Swedenborg Arcana Caelestia Vol. I (1750)",
+  "author": "Emanuel Swedenborg",
+  "language": "English",
+  "year": 1926,
+  "published": "1926",
+  "pages_count": 648,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/695594ea7bd6d2cd1d61dfce",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "arcanacaelestiaq01sweduoft"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:31:36.103Z",
+  "_hashes": {
+    "ocr": "83f08f42fdabd671",
+    "translation": "4b9a6b9dec1db5d8"
+  }
+}

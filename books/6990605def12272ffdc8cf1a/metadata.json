@@ -1,0 +1,28 @@
+{
+  "id": "6990605def12272ffdc8cf1a",
+  "title": "Kosmotheoros, sive De Terris Coelestibus",
+  "display_title": "Kosmotheoros",
+  "author": "Christiaan Huygens",
+  "language": "Latin",
+  "year": 1698,
+  "published": "Unknown",
+  "pages_count": 166,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/6990605def12272ffdc8cf1a",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "christianihugeni00huyg_0"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:31:28.098Z",
+  "_hashes": {
+    "ocr": "dd3045a450f0ea95",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

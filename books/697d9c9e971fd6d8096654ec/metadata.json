@@ -1,0 +1,26 @@
+{
+  "id": "697d9c9e971fd6d8096654ec",
+  "title": "Hermetis, Aegyptiorum et chemicorum sapientia",
+  "display_title": "Hermetis, Aegyptiorum et chemicorum sapientia",
+  "author": "Borrichius, Olaus",
+  "language": "Latin",
+  "year": 1674,
+  "published": "1674",
+  "pages_count": 222,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 3,
+  "source_url": "https://sourcelibrary.org/book/697d9c9e971fd6d8096654ec",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:31:28.019Z",
+  "_hashes": {
+    "ocr": "6e4c1995dae3e246",
+    "translation": "a181a9a865f015c7"
+  }
+}

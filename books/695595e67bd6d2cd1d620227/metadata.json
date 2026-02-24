@@ -1,0 +1,28 @@
+{
+  "id": "695595e67bd6d2cd1d620227",
+  "title": "Philosophical Experiments and Observations",
+  "display_title": "Philosophical Experiments and Observations",
+  "author": "Robert Hooke",
+  "language": "English",
+  "year": 1726,
+  "published": "Unknown",
+  "pages_count": 446,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/695595e67bd6d2cd1d620227",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "b30513315"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:31:34.959Z",
+  "_hashes": {
+    "ocr": "ffce26033851bca0",
+    "translation": "45bc78dd0a88d4d5"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "6984e84f5905f8d14dbe659b",
+  "title": "[Hebrew: IHVH] Opus mago-cabalisticum et theologicum. Vom Uhrsprung und Erzeugung des Saltzes",
+  "display_title": "[Hebrew: IHVH] Opus mago-cabalisticum et theologicum. Vom Uhrsprung und Erzeugung des Saltzes",
+  "author": "[Welling, Georg von]",
+  "language": "Latin-German",
+  "year": 1719,
+  "published": "1719",
+  "pages_count": 150,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 4,
+  "source_url": "https://sourcelibrary.org/book/6984e84f5905f8d14dbe659b",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:31:27.459Z",
+  "_hashes": {
+    "ocr": "b4a39ff8ffde5d1e",
+    "translation": "8b5f905e8acbb84d"
+  }
+}

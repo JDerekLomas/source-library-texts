@@ -1,0 +1,28 @@
+{
+  "id": "69905e1a2fd6a039938a0f5d",
+  "title": "Quellen und Untersuchungen zur Geschichte des Hexenwahns",
+  "display_title": "Quellen und Untersuchungen zur Geschichte des Hexenwahns",
+  "author": "Joseph Hansen",
+  "language": "German",
+  "year": 1901,
+  "published": "Unknown",
+  "pages_count": 726,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/69905e1a2fd6a039938a0f5d",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "quellenundunters00hans"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:31:31.864Z",
+  "_hashes": {
+    "ocr": "c7899e6bfb34bcda",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

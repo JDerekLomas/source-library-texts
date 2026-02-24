@@ -1,0 +1,28 @@
+{
+  "id": "695595e47bd6d2cd1d61f74e",
+  "title": "Lectiones Cutlerianae",
+  "display_title": "Lectiones Cutlerianae",
+  "author": "Robert Hooke",
+  "language": "English",
+  "year": 1679,
+  "published": "Unknown",
+  "pages_count": 442,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/695595e47bd6d2cd1d61f74e",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "LectionesCutler00Hook"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:31:35.094Z",
+  "_hashes": {
+    "ocr": "4f95c1abdc528eb1",
+    "translation": "5726fc1000723bc1"
+  }
+}

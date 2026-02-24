@@ -1,0 +1,26 @@
+{
+  "id": "6984e8498a2f054f912420d7",
+  "title": "Phoenix atropicus de morte redux. Der wiederumb frischbelebte gebenedeyte philosophische Adrop",
+  "display_title": "Phoenix atropicus de morte redux. Der wiederumb frischbelebte gebenedeyte philosophische Adrop",
+  "author": "anonymous",
+  "language": "German",
+  "year": 1681,
+  "published": "1681",
+  "pages_count": 104,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 5,
+  "source_url": "https://sourcelibrary.org/book/6984e8498a2f054f912420d7",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:31:29.215Z",
+  "_hashes": {
+    "ocr": "f934a484e3ec918c",
+    "translation": "9971a43de94a11de"
+  }
+}

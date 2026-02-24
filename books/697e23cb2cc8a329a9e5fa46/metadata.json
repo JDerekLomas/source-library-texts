@@ -1,0 +1,26 @@
+{
+  "id": "697e23cb2cc8a329a9e5fa46",
+  "title": "Instruction à la France sur la verité de l'histoire des frères de la Roze-Croix",
+  "display_title": "Instruction à la France sur la verité de l'histoire des frères de la Roze-Croix",
+  "author": "Naudé, Gabriel",
+  "language": "French",
+  "year": 1623,
+  "published": "1623",
+  "pages_count": 175,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 4,
+  "source_url": "https://sourcelibrary.org/book/697e23cb2cc8a329a9e5fa46",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:31:35.201Z",
+  "_hashes": {
+    "ocr": "68954dc142041bfe",
+    "translation": "46bf9763f08a573c"
+  }
+}

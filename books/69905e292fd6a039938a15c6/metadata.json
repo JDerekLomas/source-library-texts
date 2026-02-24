@@ -1,0 +1,28 @@
+{
+  "id": "69905e292fd6a039938a15c6",
+  "title": "Liber Incantationum, Exorcismorum et Fascinationum (Munich Necromantic Handbook)",
+  "display_title": "Liber Incantationum, Exorcismorum et Fascinationum (Munich Necromantic Handbook)",
+  "author": "Anonymous",
+  "language": "Latin",
+  "year": 1450,
+  "published": "1450",
+  "pages_count": 317,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/69905e292fd6a039938a15c6",
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "doi": null,
+  "external_ids": {
+    "mdz": "bsb00037155"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:31:32.387Z",
+  "_hashes": {
+    "ocr": "2af911b7d5fd28a2",
+    "translation": "e3b0c44298fc1c14"
+  }
+}
