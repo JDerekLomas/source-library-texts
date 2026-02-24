@@ -1,0 +1,28 @@
+{
+  "id": "f176cb65-a60e-4f8a-9514-39796f092cde",
+  "title": "De Arte Cabalistica",
+  "display_title": "De Arte Cabalistica (in Galatino, 1550)",
+  "author": "Johann Reuchlin",
+  "language": "Latin",
+  "year": 1517,
+  "published": "1517",
+  "pages_count": 675,
+  "pages_with_ocr": 675,
+  "pages_with_translation": 675,
+  "source_url": "https://sourcelibrary.org/book/f176cb65-a60e-4f8a-9514-39796f092cde",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bub_gb_hgg8vG6num4C"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:22:52.886Z",
+  "_hashes": {
+    "ocr": "45c15eb66684645b",
+    "translation": "758f74dae1a53921"
+  }
+}

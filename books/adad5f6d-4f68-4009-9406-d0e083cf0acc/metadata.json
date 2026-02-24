@@ -1,0 +1,28 @@
+{
+  "id": "adad5f6d-4f68-4009-9406-d0e083cf0acc",
+  "title": "Opera Omnia",
+  "display_title": "Pico della Mirandola: Opera (1496)",
+  "author": "Giovanni Pico della Mirandola",
+  "language": "Latin",
+  "year": 1601,
+  "published": "1601",
+  "pages_count": 645,
+  "pages_with_ocr": 645,
+  "pages_with_translation": 645,
+  "source_url": "https://sourcelibrary.org/book/adad5f6d-4f68-4009-9406-d0e083cf0acc",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "A335045"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:23:03.694Z",
+  "_hashes": {
+    "ocr": "5900cf74f50d6a20",
+    "translation": "6a0fa2ca8d92b597"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "6970e36b9b09d309d780a288",
+  "title": "Over alle de wonderwerken van Jesus",
+  "display_title": "Over alle de wonderwerken van Jesus",
+  "author": "Driessen, Antonius",
+  "language": "Dutch",
+  "year": 1717,
+  "published": "1717",
+  "pages_count": 559,
+  "pages_with_ocr": 559,
+  "pages_with_translation": 502,
+  "source_url": "https://sourcelibrary.org/book/6970e36b9b09d309d780a288",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:23:36.535Z",
+  "_hashes": {
+    "ocr": "da959ea80b20c4d8",
+    "translation": "cdfb50c070991e52"
+  }
+}

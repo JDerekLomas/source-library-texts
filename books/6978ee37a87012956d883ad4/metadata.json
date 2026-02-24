@@ -1,0 +1,26 @@
+{
+  "id": "6978ee37a87012956d883ad4",
+  "title": "Christosophia. Das ist der Weg zu Christo",
+  "display_title": "Christosophia. Das ist der Weg zu Christo",
+  "author": "Böhme, Jacob",
+  "language": "German",
+  "year": 1718,
+  "published": "1718",
+  "pages_count": 568,
+  "pages_with_ocr": 568,
+  "pages_with_translation": 241,
+  "source_url": "https://sourcelibrary.org/book/6978ee37a87012956d883ad4",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:23:33.544Z",
+  "_hashes": {
+    "ocr": "0c7c067f19bcf799",
+    "translation": "58567e215d3fb29f"
+  }
+}

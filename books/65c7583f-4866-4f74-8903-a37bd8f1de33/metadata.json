@@ -1,0 +1,28 @@
+{
+  "id": "65c7583f-4866-4f74-8903-a37bd8f1de33",
+  "title": "Oedipus Aegyptiacus Vol. I",
+  "display_title": "Oedipus Aegyptiacus Volume I (1652)",
+  "author": "Athanasius Kircher",
+  "language": "Latin",
+  "year": 1652,
+  "published": "1652",
+  "pages_count": 581,
+  "pages_with_ocr": 581,
+  "pages_with_translation": 581,
+  "source_url": "https://sourcelibrary.org/book/65c7583f-4866-4f74-8903-a37bd8f1de33",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "AthanasiiKircheriOedipusAegyptiacusVolI1652"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:23:30.165Z",
+  "_hashes": {
+    "ocr": "f9b05d6e92ccfeaa",
+    "translation": "fe6c2a603f394739"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "6991e94c35ed50020acc1952",
+  "title": "The Literary Works of Leonardo da Vinci, Vol. I",
+  "display_title": "The Literary Works of Leonardo da Vinci, Vol. I",
+  "author": "Leonardo da Vinci (ed. Jean Paul Richter)",
+  "language": "English",
+  "year": 1883,
+  "published": "Unknown",
+  "pages_count": 550,
+  "pages_with_ocr": 536,
+  "pages_with_translation": 440,
+  "source_url": "https://sourcelibrary.org/book/6991e94c35ed50020acc1952",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "literaryworksofl01leonuoft"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:23:50.114Z",
+  "_hashes": {
+    "ocr": "59e5d699d6ed8b83",
+    "translation": "546367c5531de217"
+  }
+}

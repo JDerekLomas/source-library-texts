@@ -1,0 +1,26 @@
+{
+  "id": "690c2b8fe0787282ad593441",
+  "title": "Opera",
+  "display_title": "Opera",
+  "author": "Cyrillus Alexandrinus",
+  "language": "Latin",
+  "year": 1566,
+  "published": "1566",
+  "pages_count": 632,
+  "pages_with_ocr": 632,
+  "pages_with_translation": 629,
+  "source_url": "https://sourcelibrary.org/book/690c2b8fe0787282ad593441",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:23:06.683Z",
+  "_hashes": {
+    "ocr": "87490b27473fd6ad",
+    "translation": "ce83d54a3d919d34"
+  }
+}

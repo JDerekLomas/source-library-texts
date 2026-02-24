@@ -1,0 +1,28 @@
+{
+  "id": "695573a0f63a757109172141",
+  "title": "In Somnium Scipionis libri II; Saturnaliorum libri VII",
+  "display_title": "In Somnium Scipionis libri II; Saturnaliorum libri VII",
+  "author": "Macrobius",
+  "language": "Latin",
+  "year": 1550,
+  "published": "1550",
+  "pages_count": 648,
+  "pages_with_ocr": 648,
+  "pages_with_translation": 643,
+  "source_url": "https://sourcelibrary.org/book/695573a0f63a757109172141",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "macrobiiambrosii00macr"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:23:01.517Z",
+  "_hashes": {
+    "ocr": "d406b1c200c27b9e",
+    "translation": "3677fa50066583ba"
+  }
+}

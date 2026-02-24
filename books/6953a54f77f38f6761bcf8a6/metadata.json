@@ -1,0 +1,28 @@
+{
+  "id": "6953a54f77f38f6761bcf8a6",
+  "title": "Origenis Philocalia (Greek Text 1677)",
+  "display_title": "Origen Philocalia (Greek)",
+  "author": "Origen / Gulielmus Spencerus (ed.)",
+  "language": "Greek",
+  "year": 1677,
+  "published": "1677",
+  "pages_count": 699,
+  "pages_with_ocr": 699,
+  "pages_with_translation": 692,
+  "source_url": "https://sourcelibrary.org/book/6953a54f77f38f6761bcf8a6",
+  "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bub_gb_cU_GjUykV3EC"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:22:46.956Z",
+  "_hashes": {
+    "ocr": "11351bd546cb6f51",
+    "translation": "fa4f99b2f13a82c6"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "6953eab81479a63c1108770c",
+  "title": "Oeuvres de Descartes Vol. VII (Meditationes)",
+  "display_title": "Oeuvres de Descartes Vol. VII (Meditationes)",
+  "author": "René Descartes",
+  "language": "French",
+  "year": 1904,
+  "published": "1904",
+  "pages_count": 650,
+  "pages_with_ocr": 650,
+  "pages_with_translation": 639,
+  "source_url": "https://sourcelibrary.org/book/6953eab81479a63c1108770c",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "uvresdedescartes07desc"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:23:00.085Z",
+  "_hashes": {
+    "ocr": "37c6709586e2a240",
+    "translation": "915dae3b04e6fdb6"
+  }
+}

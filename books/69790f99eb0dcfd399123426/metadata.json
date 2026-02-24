@@ -1,0 +1,26 @@
+{
+  "id": "69790f99eb0dcfd399123426",
+  "title": "Cimbrische Heyden-Religion",
+  "display_title": "Cimbrische Heyden-Religion",
+  "author": "Arnkiel, Trogillus",
+  "language": "German",
+  "year": 1691,
+  "published": "1691",
+  "pages_count": 543,
+  "pages_with_ocr": 543,
+  "pages_with_translation": 5,
+  "source_url": "https://sourcelibrary.org/book/69790f99eb0dcfd399123426",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:23:47.393Z",
+  "_hashes": {
+    "ocr": "d6935a1fcef2de7a",
+    "translation": "d231fc80a6642ee7"
+  }
+}

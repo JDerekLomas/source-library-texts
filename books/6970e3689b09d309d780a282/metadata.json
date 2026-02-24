@@ -1,0 +1,26 @@
+{
+  "id": "6970e3689b09d309d780a282",
+  "title": "Alkoran",
+  "display_title": "Alkoran",
+  "author": "Unknown",
+  "language": "Latin",
+  "year": 1707,
+  "published": "1707",
+  "pages_count": 598,
+  "pages_with_ocr": 598,
+  "pages_with_translation": 501,
+  "source_url": "https://sourcelibrary.org/book/6970e3689b09d309d780a282",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:23:18.748Z",
+  "_hashes": {
+    "ocr": "2167362e1efb3639",
+    "translation": "8b74c1ca8b9ea1f9"
+  }
+}

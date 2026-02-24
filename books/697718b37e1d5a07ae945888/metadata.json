@@ -1,0 +1,26 @@
+{
+  "id": "697718b37e1d5a07ae945888",
+  "title": "Historie des ouden en nieuwen testaments",
+  "display_title": "Historie des ouden en nieuwen testaments",
+  "author": "Unknown",
+  "language": "Dutch",
+  "year": 1702,
+  "published": "1702-1703",
+  "pages_count": 689,
+  "pages_with_ocr": 687,
+  "pages_with_translation": 3,
+  "source_url": "https://sourcelibrary.org/book/697718b37e1d5a07ae945888",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:22:50.440Z",
+  "_hashes": {
+    "ocr": "482b7f1fa1446624",
+    "translation": "c0a10b06e83d4bf8"
+  }
+}

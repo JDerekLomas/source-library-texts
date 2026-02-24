@@ -1,0 +1,26 @@
+{
+  "id": "697e23c982ca28a1280f850a",
+  "title": "Historische und theologische Einleitung in die Religions-Streitigkeiten",
+  "display_title": "Historische und theologische Einleitung in die Religions-Streitigkeiten",
+  "author": "Walch, Johann Georg",
+  "language": "German",
+  "year": 1733,
+  "published": "1733-1736",
+  "pages_count": 948,
+  "pages_with_ocr": 565,
+  "pages_with_translation": 6,
+  "source_url": "https://sourcelibrary.org/book/697e23c982ca28a1280f850a",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:23:34.967Z",
+  "_hashes": {
+    "ocr": "b1d4120447ea5fa8",
+    "translation": "ae1f196ad051a2f5"
+  }
+}

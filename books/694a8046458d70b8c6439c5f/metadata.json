@@ -1,0 +1,28 @@
+{
+  "id": "694a8046458d70b8c6439c5f",
+  "title": "De vitis, dogmatis et apophthegmatis eorum qui in philosophia claruerunt libri X",
+  "display_title": "Lives and Opinions of Eminent Philosophers",
+  "author": "Diogenes Laertius",
+  "language": "Latin",
+  "year": 1570,
+  "published": "1570",
+  "pages_count": 556,
+  "pages_with_ocr": 556,
+  "pages_with_translation": 555,
+  "source_url": "https://sourcelibrary.org/book/694a8046458d70b8c6439c5f",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "dionysiilambinid01john"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:23:38.557Z",
+  "_hashes": {
+    "ocr": "22aeffa24e7562da",
+    "translation": "eef7e075d541539e"
+  }
+}

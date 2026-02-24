@@ -1,0 +1,28 @@
+{
+  "id": "6952d19c77f38f6761bc5fd2",
+  "title": "Epitome Astronomiae Copernicanae",
+  "display_title": "Epitome of Copernican Astronomy",
+  "author": "Kepler, Johannes",
+  "language": "Latin",
+  "year": 1618,
+  "published": "1618",
+  "pages_count": 664,
+  "pages_with_ocr": 664,
+  "pages_with_translation": 664,
+  "source_url": "https://sourcelibrary.org/book/6952d19c77f38f6761bc5fd2",
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "doi": null,
+  "external_ids": {
+    "mdz": "bsb00008958"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": null,
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:22:55.918Z",
+  "_hashes": {
+    "ocr": "e0f1570766aad716",
+    "translation": "ec7f9dcb47c0911b"
+  }
+}

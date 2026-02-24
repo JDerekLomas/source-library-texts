@@ -1,0 +1,28 @@
+{
+  "id": "69567800be7c607c5f03b5c2",
+  "title": "Philosophical Transactions of the Royal Society (1701-)",
+  "display_title": "Philosophical Transactions of the Royal Society (1701-)",
+  "author": "Royal Society of London",
+  "language": "English",
+  "year": 1701,
+  "published": "Unknown",
+  "pages_count": 546,
+  "pages_with_ocr": 546,
+  "pages_with_translation": 9,
+  "source_url": "https://sourcelibrary.org/book/69567800be7c607c5f03b5c2",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "philosphicaltran1701roya"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:23:44.758Z",
+  "_hashes": {
+    "ocr": "3f19a3158109a0d3",
+    "translation": "b73542e1267d69e7"
+  }
+}

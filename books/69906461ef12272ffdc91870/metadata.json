@@ -1,0 +1,28 @@
+{
+  "id": "69906461ef12272ffdc91870",
+  "title": "Siddhanta Shiromani (Ganitadhyaya)",
+  "display_title": "Siddhanta Shiromani (Ganitadhyaya)",
+  "author": "Bhaskaracharya II",
+  "language": "Sanskrit",
+  "year": 1150,
+  "published": "Unknown",
+  "pages_count": 646,
+  "pages_with_ocr": 646,
+  "pages_with_translation": 517,
+  "source_url": "https://sourcelibrary.org/book/69906461ef12272ffdc91870",
+  "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "siddhanta-shiromani-of-bhaskaracharya-ganitadhyaya-girija-prasad-dwivedi"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:23:02.483Z",
+  "_hashes": {
+    "ocr": "67b65300a99f5313",
+    "translation": "8924462bb6103a9e"
+  }
+}

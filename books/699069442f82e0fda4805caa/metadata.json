@@ -1,0 +1,28 @@
+{
+  "id": "699069442f82e0fda4805caa",
+  "title": "Brihat Samhita Part 2 (Bhattotpala Commentary)",
+  "display_title": "Brihat Samhita Part 2 (Bhattotpala Commentary)",
+  "author": "Varahamihira; comm. Bhattotpala",
+  "language": "Sanskrit",
+  "year": 1900,
+  "published": "Unknown",
+  "pages_count": 600,
+  "pages_with_ocr": 600,
+  "pages_with_translation": 500,
+  "source_url": "https://sourcelibrary.org/book/699069442f82e0fda4805caa",
+  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "lPan_brihat-samhita-of-sri-varaha-mihira-part-2-with-bhattotpala-commentary-edited-by"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:23:17.295Z",
+  "_hashes": {
+    "ocr": "9e00199bcda09424",
+    "translation": "5a0fa1283238e6f2"
+  }
+}

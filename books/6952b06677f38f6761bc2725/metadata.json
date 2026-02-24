@@ -1,0 +1,28 @@
+{
+  "id": "6952b06677f38f6761bc2725",
+  "title": "Le stanze, Le Orfeo e Le rime",
+  "display_title": "Stanze, Orfeo, and Poems",
+  "author": "Poliziano, Angelo",
+  "language": "Italian",
+  "year": 1863,
+  "published": "1863",
+  "pages_count": 583,
+  "pages_with_ocr": 583,
+  "pages_with_translation": 583,
+  "source_url": "https://sourcelibrary.org/book/6952b06677f38f6761bc2725",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "lestanzeleorfeo00cardgoog"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:23:28.705Z",
+  "_hashes": {
+    "ocr": "151c27a1e51bab1f",
+    "translation": "157def528f0909c2"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "69526137ab34727b1f046674",
+  "title": "Auriferae artis (Turba Philosophorum)",
+  "display_title": "Auriferae artis, quam chemiam vocant (Turba Philosophorum)",
+  "author": "Various Authors",
+  "language": "Latin",
+  "year": 1572,
+  "published": "1572",
+  "pages_count": 600,
+  "pages_with_ocr": 600,
+  "pages_with_translation": 378,
+  "source_url": "https://sourcelibrary.org/book/69526137ab34727b1f046674",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "hin-wel-all-00002154-001"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:23:14.840Z",
+  "_hashes": {
+    "ocr": "2507e686420e376b",
+    "translation": "aa8a72244bc7d571"
+  }
+}

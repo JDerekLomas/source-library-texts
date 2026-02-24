@@ -1,0 +1,26 @@
+{
+  "id": "6988a5a17e133dc0c53dfe25",
+  "title": "Die Ritter des Tempels zu Jerusalem. Oder pragmatische Geschichte und Vertheidigung des Tempelherrn Ordens aus den gewährtesten Quellen gesammelt",
+  "display_title": "Die Ritter des Tempels zu Jerusalem. Oder pragmatische Geschichte und Vertheidigung des Tempelherrn Ordens aus den gewährtesten Quellen gesammelt",
+  "author": "[Jeune, B.P|Mansuet]",
+  "language": "German",
+  "year": 1790,
+  "published": "1790",
+  "pages_count": 712,
+  "pages_with_ocr": 600,
+  "pages_with_translation": 89,
+  "source_url": "https://sourcelibrary.org/book/6988a5a17e133dc0c53dfe25",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:23:16.370Z",
+  "_hashes": {
+    "ocr": "43888557ebd54e11",
+    "translation": "256f8b696b0c03f7"
+  }
+}

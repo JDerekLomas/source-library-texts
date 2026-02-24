@@ -1,0 +1,26 @@
+{
+  "id": "697b079a70252867f394cd70",
+  "title": "Das eheliche und unverehelichte Leben der ersten Christen, nach ihren eigenen Zeugnissen und Exempeln beschrieben",
+  "display_title": "Das eheliche und unverehelichte Leben der ersten Christen, nach ihren eigenen Zeugnissen und Exempeln beschrieben",
+  "author": "Arnold, Gottfried",
+  "language": "German",
+  "year": 1702,
+  "published": "1702",
+  "pages_count": 628,
+  "pages_with_ocr": 627,
+  "pages_with_translation": 3,
+  "source_url": "https://sourcelibrary.org/book/697b079a70252867f394cd70",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:23:09.311Z",
+  "_hashes": {
+    "ocr": "d54b16ba042afd76",
+    "translation": "ca5e87a0f9e98116"
+  }
+}

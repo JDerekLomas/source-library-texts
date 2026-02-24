@@ -1,0 +1,28 @@
+{
+  "id": "6990630be7b7642c081de08b",
+  "title": "Sefer ha-Zohar (Cremona 1558)",
+  "display_title": "Sefer ha-Zohar (Cremona 1558)",
+  "author": "Moses de León (attributed)",
+  "language": "Hebrew",
+  "year": 1558,
+  "published": "Unknown",
+  "pages_count": 548,
+  "pages_with_ocr": 548,
+  "pages_with_translation": 548,
+  "source_url": "https://sourcelibrary.org/book/6990630be7b7642c081de08b",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "seferhazoharalha028800"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:23:43.658Z",
+  "_hashes": {
+    "ocr": "1b6d396aac42f32f",
+    "translation": "3f18f3b3fbe3bead"
+  }
+}

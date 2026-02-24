@@ -1,0 +1,28 @@
+{
+  "id": "694f3df1be37f451a5324fae",
+  "title": "La Divina Commedia con Comento di Christophoro Landino",
+  "display_title": "Divine Comedy with Landino Commentary (1487 Incunabulum)",
+  "author": "Dante Alighieri; Landino, Christophoro (commentator)",
+  "language": "Italian",
+  "year": 1487,
+  "published": "1487",
+  "pages_count": 632,
+  "pages_with_ocr": 632,
+  "pages_with_translation": 632,
+  "source_url": "https://sourcelibrary.org/book/694f3df1be37f451a5324fae",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "McGillLibrary-rbsc_incunabula_Divina-Commedia-di-Dante-Alighieri_1487-20449"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-2.5-flash"
+  },
+  "synced_at": "2026-02-24T18:23:08.072Z",
+  "_hashes": {
+    "ocr": "438fc07b6dafd234",
+    "translation": "cf5ae27d09adb1d7"
+  }
+}

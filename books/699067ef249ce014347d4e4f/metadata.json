@@ -1,0 +1,26 @@
+{
+  "id": "699067ef249ce014347d4e4f",
+  "title": "Sefer ha-Zohar (Book of Splendour)",
+  "display_title": "Vat.ebr.226",
+  "author": "Moses de Leon",
+  "language": "Hebrew",
+  "year": 1310,
+  "published": "1310",
+  "pages_count": 655,
+  "pages_with_ocr": 655,
+  "pages_with_translation": 655,
+  "source_url": "https://sourcelibrary.org/book/699067ef249ce014347d4e4f",
+  "license": "CC-BY-NC-4.0",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:22:57.319Z",
+  "_hashes": {
+    "ocr": "fa16c4549fc5d0cf",
+    "translation": "75074042935a0ac5"
+  }
+}

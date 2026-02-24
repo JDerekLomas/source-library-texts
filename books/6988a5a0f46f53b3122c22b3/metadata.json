@@ -1,0 +1,26 @@
+{
+  "id": "6988a5a0f46f53b3122c22b3",
+  "title": "Ripley reviv'd: or, an exposition upon sir George Ripley's hermetico-poetical works",
+  "display_title": "Ripley reviv'd: or, an exposition upon sir George Ripley's hermetico-poetical works",
+  "author": "[Starkey, George]",
+  "language": "English",
+  "year": 1677,
+  "published": "1677-78",
+  "pages_count": 600,
+  "pages_with_ocr": 600,
+  "pages_with_translation": 92,
+  "source_url": "https://sourcelibrary.org/book/6988a5a0f46f53b3122c22b3",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:23:15.937Z",
+  "_hashes": {
+    "ocr": "0e494cc7e8ef4a6c",
+    "translation": "18c00389e9a6859e"
+  }
+}

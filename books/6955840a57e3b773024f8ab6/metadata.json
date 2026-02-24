@@ -1,0 +1,28 @@
+{
+  "id": "6955840a57e3b773024f8ab6",
+  "title": "Collectanea de Rebus Hibernicis Vol. VI",
+  "display_title": "Collectanea de Rebus Hibernicis Vol. VI",
+  "author": "Charles Vallancey",
+  "language": "Irish/English",
+  "year": 1804,
+  "published": "Unknown",
+  "pages_count": 627,
+  "pages_with_ocr": 627,
+  "pages_with_translation": 200,
+  "source_url": "https://sourcelibrary.org/book/6955840a57e3b773024f8ab6",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "collectaneadere06vallgoog"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:23:09.713Z",
+  "_hashes": {
+    "ocr": "27a7f43ff01aaf1e",
+    "translation": "182d65e33f89e09d"
+  }
+}

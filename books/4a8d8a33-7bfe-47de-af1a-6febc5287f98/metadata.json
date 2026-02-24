@@ -1,0 +1,28 @@
+{
+  "id": "4a8d8a33-7bfe-47de-af1a-6febc5287f98",
+  "title": "Works of Jacob Behmen",
+  "display_title": "Works of Jacob Behmen (William Law Edition, 4 vols)",
+  "author": "Jakob Böhme; ed. William Law",
+  "language": "English",
+  "year": 1781,
+  "published": "1781",
+  "pages_count": 570,
+  "pages_with_ocr": 570,
+  "pages_with_translation": 570,
+  "source_url": "https://sourcelibrary.org/book/4a8d8a33-7bfe-47de-af1a-6febc5287f98",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "worksofjacobbehm04beohuoft"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:23:32.526Z",
+  "_hashes": {
+    "ocr": "ff065e63b917dde9",
+    "translation": "d8f51f782d350e2d"
+  }
+}

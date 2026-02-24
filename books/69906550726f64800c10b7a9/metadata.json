@@ -1,0 +1,28 @@
+{
+  "id": "69906550726f64800c10b7a9",
+  "title": "Brahma Sphuta Siddhanta (Vol 2)",
+  "display_title": "Brahma Sphuta Siddhanta (Vol 2)",
+  "author": "Brahmagupta",
+  "language": "Sanskrit",
+  "year": 1817,
+  "published": "Unknown",
+  "pages_count": 553,
+  "pages_with_ocr": 553,
+  "pages_with_translation": 495,
+  "source_url": "https://sourcelibrary.org/book/69906550726f64800c10b7a9",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "Brahmasphutasiddhanta_Vol_2"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:23:40.381Z",
+  "_hashes": {
+    "ocr": "994ad8ec213c3c6a",
+    "translation": "95335f5e8ea92a0f"
+  }
+}

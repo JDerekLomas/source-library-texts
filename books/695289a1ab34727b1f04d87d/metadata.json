@@ -1,0 +1,28 @@
+{
+  "id": "695289a1ab34727b1f04d87d",
+  "title": "Recueil de divers traitez de theologie mystique",
+  "display_title": "Recueil de divers traitez de theologie mystique",
+  "author": "Madame Guyon (Jeanne-Marie Bouvier de La Motte)",
+  "language": "French",
+  "year": 1699,
+  "published": "1699",
+  "pages_count": 568,
+  "pages_with_ocr": 568,
+  "pages_with_translation": 500,
+  "source_url": "https://sourcelibrary.org/book/695289a1ab34727b1f04d87d",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "gallica": "bpt6k996277b"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": null,
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:23:34.355Z",
+  "_hashes": {
+    "ocr": "806e081a3a74d4dd",
+    "translation": "f32a0dd56e0d3c21"
+  }
+}

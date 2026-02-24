@@ -1,0 +1,26 @@
+{
+  "id": "6991e92d35ed50020acc1268",
+  "title": "Codex Arundel (Arundel MS 263)",
+  "display_title": "Arundel MS 263",
+  "author": "Leonardo da Vinci",
+  "language": "Italian",
+  "year": 1478,
+  "published": "1478-1518",
+  "pages_count": 545,
+  "pages_with_ocr": 545,
+  "pages_with_translation": 451,
+  "source_url": "https://sourcelibrary.org/book/6991e92d35ed50020acc1268",
+  "license": "unknown",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:23:46.119Z",
+  "_hashes": {
+    "ocr": "c80ad8df7f1916f5",
+    "translation": "8bf73ad61f74eb67"
+  }
+}

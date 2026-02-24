@@ -1,0 +1,28 @@
+{
+  "id": "6952d08877f38f6761bc5560",
+  "title": "A True and Faithful Relation of what passed between Dr. John Dee and Some Spirits",
+  "display_title": "True & Faithful Relation (Enochian diaries)",
+  "author": "Dee, John | Kelley, Edward | ed. Meric Casaubon",
+  "language": "English",
+  "year": 1659,
+  "published": "1659",
+  "pages_count": 615,
+  "pages_with_ocr": 615,
+  "pages_with_translation": 615,
+  "source_url": "https://sourcelibrary.org/book/6952d08877f38f6761bc5560",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "ATrueAndFaithfulRelation"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:23:12.500Z",
+  "_hashes": {
+    "ocr": "0d6d59e1c6ad95d1",
+    "translation": "48faa72542f0076a"
+  }
+}

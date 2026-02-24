@@ -1,0 +1,26 @@
+{
+  "id": "69792492f35c6bbfbfd252eb",
+  "title": "Closter pratic [sic]",
+  "display_title": "Closter pratic [sic]",
+  "author": "Thomas a Kempis",
+  "language": "German",
+  "year": 1597,
+  "published": "1597",
+  "pages_count": 587,
+  "pages_with_ocr": 587,
+  "pages_with_translation": 271,
+  "source_url": "https://sourcelibrary.org/book/69792492f35c6bbfbfd252eb",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:23:24.961Z",
+  "_hashes": {
+    "ocr": "1afd8494634eb0ed",
+    "translation": "0e77dd89a9c4d2b5"
+  }
+}

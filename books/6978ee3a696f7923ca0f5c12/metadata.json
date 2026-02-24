@@ -1,0 +1,26 @@
+{
+  "id": "6978ee3a696f7923ca0f5c12",
+  "title": "Chymische Schrifften",
+  "display_title": "Chymische Schrifften",
+  "author": "Bernhardus Trevisanus",
+  "language": "German",
+  "year": 1747,
+  "published": "1747",
+  "pages_count": 592,
+  "pages_with_ocr": 592,
+  "pages_with_translation": 541,
+  "source_url": "https://sourcelibrary.org/book/6978ee3a696f7923ca0f5c12",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:23:20.071Z",
+  "_hashes": {
+    "ocr": "2a6ac43ef1d398ca",
+    "translation": "a0c14fecf1117165"
+  }
+}

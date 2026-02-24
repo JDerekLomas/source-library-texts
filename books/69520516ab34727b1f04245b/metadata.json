@@ -1,0 +1,28 @@
+{
+  "id": "69520516ab34727b1f04245b",
+  "title": "Musurgia universalis Tomus II",
+  "display_title": "Musurgia universalis Tomus II",
+  "author": "Athanasius Kircher",
+  "language": "Latin",
+  "year": 1650,
+  "published": "1650",
+  "pages_count": 545,
+  "pages_with_ocr": 545,
+  "pages_with_translation": 545,
+  "source_url": "https://sourcelibrary.org/book/69520516ab34727b1f04245b",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "gallica": "bpt6k12802862"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:23:45.460Z",
+  "_hashes": {
+    "ocr": "ce17bda4c6ba0465",
+    "translation": "5b6d35c0708eceb9"
+  }
+}

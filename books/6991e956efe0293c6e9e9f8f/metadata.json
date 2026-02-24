@@ -1,0 +1,28 @@
+{
+  "id": "6991e956efe0293c6e9e9f8f",
+  "title": "I manoscritti di Leonardo da Vinci",
+  "display_title": "I manoscritti di Leonardo da Vinci",
+  "author": "Leonardo da Vinci (ed. Sabachnikoff & Piumati)",
+  "language": "Italian",
+  "year": 1898,
+  "published": "Unknown",
+  "pages_count": 593,
+  "pages_with_ocr": 593,
+  "pages_with_translation": 578,
+  "source_url": "https://sourcelibrary.org/book/6991e956efe0293c6e9e9f8f",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "imanoscrittidile00leon"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:23:19.254Z",
+  "_hashes": {
+    "ocr": "1553c25626408cad",
+    "translation": "8fcf5fb90ede3dcf"
+  }
+}

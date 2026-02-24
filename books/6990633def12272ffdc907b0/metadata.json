@@ -1,0 +1,28 @@
+{
+  "id": "6990633def12272ffdc907b0",
+  "title": "Sefer ha-Zohar (Mantua 1558)",
+  "display_title": "Sefer ha-Zohar (Mantua 1558)",
+  "author": "Moses de León (attributed)",
+  "language": "Hebrew",
+  "year": 1558,
+  "published": "Unknown",
+  "pages_count": 612,
+  "pages_with_ocr": 612,
+  "pages_with_translation": 612,
+  "source_url": "https://sourcelibrary.org/book/6990633def12272ffdc907b0",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "seferhazoharalha358800"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:23:13.791Z",
+  "_hashes": {
+    "ocr": "3aa5d531f3a6bf68",
+    "translation": "123301485749cc15"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "697704f4594860622102d565",
+  "title": "Beschreibung der drey wirkenden Grundeigenschaften der menschlichen Seele",
+  "display_title": "Beschreibung der drey wirkenden Grundeigenschaften der menschlichen Seele",
+  "author": "Fleischer, Adam Siegismund",
+  "language": "German",
+  "year": 1786,
+  "published": "1786",
+  "pages_count": 586,
+  "pages_with_ocr": 586,
+  "pages_with_translation": 273,
+  "source_url": "https://sourcelibrary.org/book/697704f4594860622102d565",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:23:26.349Z",
+  "_hashes": {
+    "ocr": "0a71882a03d71e31",
+    "translation": "04aadd212ec13375"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "6952ca2a77f38f6761bc33bf",
+  "title": "De mysteriis Aegyptiorum (with Proclus, Porphyry)",
+  "display_title": "Mysteries of Egypt (Neoplatonic collection)",
+  "author": "Iamblichus | Proclus | Porphyry",
+  "language": "Latin",
+  "year": 1516,
+  "published": "1516",
+  "pages_count": 550,
+  "pages_with_ocr": 550,
+  "pages_with_translation": 550,
+  "source_url": "https://sourcelibrary.org/book/6952ca2a77f38f6761bc33bf",
+  "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bub_gb_RXV75Y9aRPYC"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:23:40.839Z",
+  "_hashes": {
+    "ocr": "371ce020505e8ba5",
+    "translation": "a1b41058bf20bf7c"
+  }
+}

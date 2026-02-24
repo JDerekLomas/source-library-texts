@@ -1,0 +1,28 @@
+{
+  "id": "695aaf48ccf1d7d64e9e0966",
+  "title": "Codex Gigas (Devil's Bible)",
+  "display_title": "Codex Gigas (Devil's Bible)",
+  "author": "Herman the Recluse (attr.)",
+  "language": "Latin",
+  "year": 1220,
+  "published": "Unknown",
+  "pages_count": 612,
+  "pages_with_ocr": 592,
+  "pages_with_translation": 575,
+  "source_url": "https://sourcelibrary.org/book/695aaf48ccf1d7d64e9e0966",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "codex-gigas-original"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:23:22.491Z",
+  "_hashes": {
+    "ocr": "2e3447e7f1b1a089",
+    "translation": "aab0585cc1fb227b"
+  }
+}

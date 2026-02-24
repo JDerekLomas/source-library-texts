@@ -1,0 +1,28 @@
+{
+  "id": "6952062dab34727b1f0432ef",
+  "title": "De rudimentis hebraicis",
+  "display_title": "De rudimentis hebraicis",
+  "author": "Johannes Reuchlin",
+  "language": "Latin/Hebrew",
+  "year": 1506,
+  "published": "1506",
+  "pages_count": 628,
+  "pages_with_ocr": 628,
+  "pages_with_translation": 503,
+  "source_url": "https://sourcelibrary.org/book/6952062dab34727b1f0432ef",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "gallica": "bpt6k93067t"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": null,
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:23:08.659Z",
+  "_hashes": {
+    "ocr": "8300e400f6c87109",
+    "translation": "2f7fba45e3fecb84"
+  }
+}

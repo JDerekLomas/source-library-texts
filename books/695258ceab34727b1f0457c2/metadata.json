@@ -1,0 +1,28 @@
+{
+  "id": "695258ceab34727b1f0457c2",
+  "title": "Opus Mago-Cabbalisticum et Theosophicum",
+  "display_title": "Opus Mago-Cabbalisticum et Theosophicum",
+  "author": "Georg von Welling",
+  "language": "German",
+  "year": 1760,
+  "published": "1760",
+  "pages_count": 666,
+  "pages_with_ocr": 665,
+  "pages_with_translation": 353,
+  "source_url": "https://sourcelibrary.org/book/695258ceab34727b1f0457c2",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "herrngeorgiivonw00well"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:22:55.346Z",
+  "_hashes": {
+    "ocr": "69536424484c30cb",
+    "translation": "1d4d3988045bce5c"
+  }
+}

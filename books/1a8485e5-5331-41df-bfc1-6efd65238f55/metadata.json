@@ -1,0 +1,28 @@
+{
+  "id": "1a8485e5-5331-41df-bfc1-6efd65238f55",
+  "title": "Magia Naturalis",
+  "display_title": "Magia Naturalis Libri XX (1607)",
+  "author": "Giambattista della Porta",
+  "language": "Latin",
+  "year": 1607,
+  "published": "1607",
+  "pages_count": 714,
+  "pages_with_ocr": 714,
+  "pages_with_translation": 714,
+  "source_url": "https://sourcelibrary.org/book/1a8485e5-5331-41df-bfc1-6efd65238f55",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "iobaptistaeporta00port_0"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:22:39.455Z",
+  "_hashes": {
+    "ocr": "a90e8ad16b45a33e",
+    "translation": "93aea10946764f58"
+  }
+}

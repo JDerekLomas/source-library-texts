@@ -1,0 +1,28 @@
+{
+  "id": "6952dac977f38f6761bc6cb0",
+  "title": "Utriusque Cosmi Historia Vol. 2",
+  "display_title": "History of Both Worlds: Microcosm",
+  "author": "Robert Fludd",
+  "language": "Latin",
+  "year": 1619,
+  "published": "1619",
+  "pages_count": 700,
+  "pages_with_ocr": 700,
+  "pages_with_translation": 700,
+  "source_url": "https://sourcelibrary.org/book/6952dac977f38f6761bc6cb0",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "utriusquecosmima02flud"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": null,
+    "translation_model": "gemini-2.5-flash"
+  },
+  "synced_at": "2026-02-24T18:22:45.517Z",
+  "_hashes": {
+    "ocr": "e3651ed2ed82da02",
+    "translation": "53bc108ae1cea26c"
+  }
+}

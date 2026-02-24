@@ -1,0 +1,26 @@
+{
+  "id": "697934668e450bc779a9cad5",
+  "title": "De cognoscendis et medendis morbis ex corporum coelestium positione libri IIII",
+  "display_title": "De cognoscendis et medendis morbis ex corporum coelestium positione libri IIII",
+  "author": "Virdung von Hasfurt, Johann",
+  "language": "Latin",
+  "year": 1584,
+  "published": "1584",
+  "pages_count": 560,
+  "pages_with_ocr": 560,
+  "pages_with_translation": 4,
+  "source_url": "https://sourcelibrary.org/book/697934668e450bc779a9cad5",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:23:35.435Z",
+  "_hashes": {
+    "ocr": "1b9120d2324cda2e",
+    "translation": "6485c3cb76bb0426"
+  }
+}

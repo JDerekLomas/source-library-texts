@@ -1,0 +1,26 @@
+{
+  "id": "697d9c99f2b56306a9ec9612",
+  "title": "Harmonie mystique, ou accord des philosophes chymiques",
+  "display_title": "Harmonie mystique, ou accord des philosophes chymiques",
+  "author": "L'Agneau, David",
+  "language": "French",
+  "year": 1636,
+  "published": "1636",
+  "pages_count": 582,
+  "pages_with_ocr": 582,
+  "pages_with_translation": 261,
+  "source_url": "https://sourcelibrary.org/book/697d9c99f2b56306a9ec9612",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:23:29.255Z",
+  "_hashes": {
+    "ocr": "1972923d4e10e7a4",
+    "translation": "5f0e86468dd2fc00"
+  }
+}

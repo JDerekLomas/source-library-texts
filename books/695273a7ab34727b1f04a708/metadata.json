@@ -1,0 +1,28 @@
+{
+  "id": "695273a7ab34727b1f04a708",
+  "title": "Oedipus Aegyptiacus Vol III",
+  "display_title": "Oedipus Aegyptiacus Tomus III",
+  "author": "Athanasius Kircher",
+  "language": "Latin",
+  "year": 1654,
+  "published": "1654",
+  "pages_count": 645,
+  "pages_with_ocr": 645,
+  "pages_with_translation": 645,
+  "source_url": "https://sourcelibrary.org/book/695273a7ab34727b1f04a708",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "AthanasiiKircheriOedipusAegyptiacusVolIII1654"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:23:04.769Z",
+  "_hashes": {
+    "ocr": "23119f7e7d1484d4",
+    "translation": "f73bceb7a0a5c650"
+  }
+}

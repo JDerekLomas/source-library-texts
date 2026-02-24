@@ -1,0 +1,28 @@
+{
+  "id": "6816b270-a7e0-4782-b332-3f827bed541d",
+  "title": "Ripley Reviv'd",
+  "display_title": "Ripley Reviv'd (1678)",
+  "author": "Eirenaeus Philalethes; ed. William Cooper",
+  "language": "English",
+  "year": 1678,
+  "published": "1678",
+  "pages_count": 554,
+  "pages_with_ocr": 540,
+  "pages_with_translation": 405,
+  "source_url": "https://sourcelibrary.org/book/6816b270-a7e0-4782-b332-3f827bed541d",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "b30331821"
+  },
+  "processing": {
+    "ocr_model": "gemini-2.5-flash",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:23:47.790Z",
+  "_hashes": {
+    "ocr": "038f0d95092db012",
+    "translation": "9a377392e749d4ef"
+  }
+}

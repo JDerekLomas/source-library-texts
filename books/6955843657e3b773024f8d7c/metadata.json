@@ -1,0 +1,28 @@
+{
+  "id": "6955843657e3b773024f8d7c",
+  "title": "The Martyrology of Oengus the Culdee (Félire Óengusso, 9th c.)",
+  "display_title": "The Martyrology of Oengus the Culdee (Félire Óengusso, 9th c.)",
+  "author": "Oengus the Culdee / Whitley Stokes",
+  "language": "English",
+  "year": 1905,
+  "published": "Unknown",
+  "pages_count": 544,
+  "pages_with_ocr": 540,
+  "pages_with_translation": 430,
+  "source_url": "https://sourcelibrary.org/book/6955843657e3b773024f8d7c",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "martyrologyofoen29oenguoft"
+  },
+  "processing": {
+    "ocr_model": "gemini-2.5-flash",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:23:48.533Z",
+  "_hashes": {
+    "ocr": "6ecb749ba7152b28",
+    "translation": "a09680145e3909a7"
+  }
+}

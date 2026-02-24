@@ -1,0 +1,26 @@
+{
+  "id": "690c3ec7e0787282ad593b41",
+  "title": "A christian and heavenly treatise. Containing physicke for the soule",
+  "display_title": "A Christian and Heavenly Treatise: Containing Medicine for the Soul",
+  "author": "Abernethy, M.I",
+  "language": "English",
+  "year": 1622,
+  "published": "1622",
+  "pages_count": 549,
+  "pages_with_ocr": 549,
+  "pages_with_translation": 549,
+  "source_url": "https://sourcelibrary.org/book/690c3ec7e0787282ad593b41",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:23:41.563Z",
+  "_hashes": {
+    "ocr": "ae3754054a946fbf",
+    "translation": "07e597af806ba7ec"
+  }
+}

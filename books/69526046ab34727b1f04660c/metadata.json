@@ -1,0 +1,28 @@
+{
+  "id": "69526046ab34727b1f04660c",
+  "title": "Mysterium Magnum",
+  "display_title": "Mysterium Magnum",
+  "author": "Jakob Böhme",
+  "language": "English",
+  "year": 1656,
+  "published": "1656",
+  "pages_count": 663,
+  "pages_with_ocr": 663,
+  "pages_with_translation": 531,
+  "source_url": "https://sourcelibrary.org/book/69526046ab34727b1f04660c",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bim_early-english-books-1475-1640_mysterium-magnum_bhme-jacob_1656"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:22:56.585Z",
+  "_hashes": {
+    "ocr": "d7ec3588bb52defa",
+    "translation": "81d29ee0ac9bac73"
+  }
+}

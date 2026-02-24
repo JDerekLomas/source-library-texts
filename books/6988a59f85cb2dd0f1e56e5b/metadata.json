@@ -1,0 +1,26 @@
+{
+  "id": "6988a59f85cb2dd0f1e56e5b",
+  "title": "Sammlung unterschiedlicher bewährter chymischer Schriften. Hand der Philosophen. Opus saturni. Opera vegetabilia. Opus minnerale. Cabala. De lapide philosophico. Von den Irrgängen derer Alchymisten",
+  "display_title": "Sammlung unterschiedlicher bewährter chymischer Schriften. Hand der Philosophen. Opus saturni. Opera vegetabilia. Opus minnerale. Cabala. De lapide philosophico. Von den Irrgängen derer Alchymisten",
+  "author": "Hollandus, Johannes Isaac|Sendivogius, Michael",
+  "language": "German",
+  "year": 1746,
+  "published": "1746",
+  "pages_count": 882,
+  "pages_with_ocr": 600,
+  "pages_with_translation": 92,
+  "source_url": "https://sourcelibrary.org/book/6988a59f85cb2dd0f1e56e5b",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:23:15.476Z",
+  "_hashes": {
+    "ocr": "8283b2334f7d3feb",
+    "translation": "eac91d362ffa4337"
+  }
+}

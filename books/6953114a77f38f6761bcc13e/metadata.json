@@ -1,0 +1,28 @@
+{
+  "id": "6953114a77f38f6761bcc13e",
+  "title": "Patrum Apostolicorum Opera (Greek/Latin)",
+  "display_title": "Apostolic Fathers (Greek)",
+  "author": "A.R.M. Dressel (ed.)",
+  "language": "Greek",
+  "year": 1863,
+  "published": "1863",
+  "pages_count": 784,
+  "pages_with_ocr": 618,
+  "pages_with_translation": 340,
+  "source_url": "https://sourcelibrary.org/book/6953114a77f38f6761bcc13e",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "patrumapostolico00dresuoft"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:23:11.677Z",
+  "_hashes": {
+    "ocr": "f0c3a00415534803",
+    "translation": "6dd338bac13cb9ba"
+  }
+}

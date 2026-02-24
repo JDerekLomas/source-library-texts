@@ -1,0 +1,28 @@
+{
+  "id": "69525f56ab34727b1f046185",
+  "title": "Aurora",
+  "display_title": "Aurora, or The Day-Spring",
+  "author": "Jakob Böhme",
+  "language": "English",
+  "year": 1656,
+  "published": "1656",
+  "pages_count": 688,
+  "pages_with_ocr": 688,
+  "pages_with_translation": 688,
+  "source_url": "https://sourcelibrary.org/book/69525f56ab34727b1f046185",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "aurorathatisdays00bhme"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:22:49.500Z",
+  "_hashes": {
+    "ocr": "e985e549f8ec894c",
+    "translation": "dc5fa5d59f233668"
+  }
+}

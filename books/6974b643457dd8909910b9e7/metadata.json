@@ -1,0 +1,26 @@
+{
+  "id": "6974b643457dd8909910b9e7",
+  "title": "De arcanis rerumpublicarum. De eadem materia discursus",
+  "display_title": "De arcanis rerumpublicarum. De eadem materia discursus",
+  "author": "Clapmarius, Arnoldus|Besold, Christoph",
+  "language": "Latin",
+  "year": 1644,
+  "published": "1644",
+  "pages_count": 561,
+  "pages_with_ocr": 560,
+  "pages_with_translation": 3,
+  "source_url": "https://sourcelibrary.org/book/6974b643457dd8909910b9e7",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:23:35.758Z",
+  "_hashes": {
+    "ocr": "52d47cab9c239b57",
+    "translation": "a835f4476707d1ff"
+  }
+}

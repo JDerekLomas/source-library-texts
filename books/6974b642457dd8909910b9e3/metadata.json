@@ -1,0 +1,26 @@
+{
+  "id": "6974b642457dd8909910b9e3",
+  "title": "De arcanis catholicae veritatis",
+  "display_title": "De arcanis catholicae veritatis",
+  "author": "Columna, Petrus (Galatinus)",
+  "language": "Latin",
+  "year": 1518,
+  "published": "1518",
+  "pages_count": 676,
+  "pages_with_ocr": 675,
+  "pages_with_translation": 5,
+  "source_url": "https://sourcelibrary.org/book/6974b642457dd8909910b9e3",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:22:53.595Z",
+  "_hashes": {
+    "ocr": "c89fbf5c6a46e9f7",
+    "translation": "45c703b8c57899e4"
+  }
+}

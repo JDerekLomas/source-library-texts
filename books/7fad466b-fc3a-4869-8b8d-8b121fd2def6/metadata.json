@@ -1,0 +1,28 @@
+{
+  "id": "7fad466b-fc3a-4869-8b8d-8b121fd2def6",
+  "title": "Last Will and Testament",
+  "display_title": "Basil Valentine: Last Will & Testament (1671)",
+  "author": "Basilius Valentinus",
+  "language": "English",
+  "year": 1671,
+  "published": "1671",
+  "pages_count": 538,
+  "pages_with_ocr": 538,
+  "pages_with_translation": 538,
+  "source_url": "https://sourcelibrary.org/book/7fad466b-fc3a-4869-8b8d-8b121fd2def6",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "lastvvilltestame00basi"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:23:49.075Z",
+  "_hashes": {
+    "ocr": "2246549529b9ea13",
+    "translation": "8c542243c5b92f9d"
+  }
+}

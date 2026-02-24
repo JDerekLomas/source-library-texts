@@ -1,0 +1,26 @@
+{
+  "id": "6909d654cf28baa1b4cb0269",
+  "title": "Opuscula theologici, historici et philosophici argumenti tomi prioris",
+  "display_title": "The First Volume of Minor Works on Theological, Historical, and Philosophical Subjects",
+  "author": "Zimmermann, Johann Jacob",
+  "language": "Latin",
+  "year": 1751,
+  "published": "1751",
+  "pages_count": 589,
+  "pages_with_ocr": 589,
+  "pages_with_translation": 587,
+  "source_url": "https://sourcelibrary.org/book/6909d654cf28baa1b4cb0269",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:23:24.486Z",
+  "_hashes": {
+    "ocr": "1ae4c04818b03cd9",
+    "translation": "f5118b0f78df4a84"
+  }
+}

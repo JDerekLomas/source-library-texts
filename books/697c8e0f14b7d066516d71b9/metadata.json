@@ -1,0 +1,26 @@
+{
+  "id": "697c8e0f14b7d066516d71b9",
+  "title": "Der flammende Stern",
+  "display_title": "Der flammende Stern",
+  "author": "[Tschoudy, Théodore-Henri de]",
+  "language": "German",
+  "year": 1779,
+  "published": "1779",
+  "pages_count": 536,
+  "pages_with_ocr": 536,
+  "pages_with_translation": 356,
+  "source_url": "https://sourcelibrary.org/book/697c8e0f14b7d066516d71b9",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:23:49.627Z",
+  "_hashes": {
+    "ocr": "8f2c9cbec7563dfa",
+    "translation": "19f8b65f9c5a3a16"
+  }
+}
