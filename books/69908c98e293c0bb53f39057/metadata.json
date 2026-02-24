@@ -1,0 +1,28 @@
+{
+  "id": "69908c98e293c0bb53f39057",
+  "title": "Phaladeepika (Telugu Edition)",
+  "display_title": "Phaladeepika (Telugu Edition)",
+  "author": "Mantreshwara",
+  "language": "Sanskrit",
+  "year": null,
+  "published": "Unknown",
+  "pages_count": 238,
+  "pages_with_ocr": 238,
+  "pages_with_translation": 191,
+  "source_url": "https://sourcelibrary.org/book/69908c98e293c0bb53f39057",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "Phaladeepika"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:27:17.681Z",
+  "_hashes": {
+    "ocr": "dcbf7d11165ec126",
+    "translation": "c32ab19cc6657083"
+  }
+}

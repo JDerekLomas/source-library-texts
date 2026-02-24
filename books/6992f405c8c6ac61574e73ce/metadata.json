@@ -1,0 +1,26 @@
+{
+  "id": "6992f405c8c6ac61574e73ce",
+  "title": "新鐫全像評釋古今情談萬選 (Illustrated Tang Dynasty Supernatural Tales)",
+  "display_title": "新鐫全像評釋古今情談萬選 (Illustrated Tang Dynasty Supernatural Tales)",
+  "author": "Zhou Jinquan (pub.)",
+  "language": "Chinese",
+  "year": 1573,
+  "published": "1573-1620",
+  "pages_count": 244,
+  "pages_with_ocr": 244,
+  "pages_with_translation": 157,
+  "source_url": "https://sourcelibrary.org/book/6992f405c8c6ac61574e73ce",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:27:13.580Z",
+  "_hashes": {
+    "ocr": "8d27523b7db81cdc",
+    "translation": "a3c159e0ceb1bab3"
+  }
+}

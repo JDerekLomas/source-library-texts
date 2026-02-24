@@ -1,0 +1,28 @@
+{
+  "id": "699068e42e4efe9106769c67",
+  "title": "Stri Jataka",
+  "display_title": "Stri Jataka",
+  "author": "Khemraj Publishers",
+  "language": "Sanskrit",
+  "year": 1917,
+  "published": "Unknown",
+  "pages_count": 228,
+  "pages_with_ocr": 228,
+  "pages_with_translation": 228,
+  "source_url": "https://sourcelibrary.org/book/699068e42e4efe9106769c67",
+  "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "stri-jataka-khemraj-publishers"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:27:23.014Z",
+  "_hashes": {
+    "ocr": "35b3575174d0ae7f",
+    "translation": "f630b8e0e7f06b43"
+  }
+}

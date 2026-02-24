@@ -1,0 +1,26 @@
+{
+  "id": "697d9ca3b81580c494bf992a",
+  "title": "Der heilige Balthasar ein Bruder Rosenkreutzer",
+  "display_title": "Der heilige Balthasar ein Bruder Rosenkreutzer",
+  "author": "Anonymous",
+  "language": "German",
+  "year": 1795,
+  "published": "1795",
+  "pages_count": 262,
+  "pages_with_ocr": 261,
+  "pages_with_translation": 6,
+  "source_url": "https://sourcelibrary.org/book/697d9ca3b81580c494bf992a",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:27:05.776Z",
+  "_hashes": {
+    "ocr": "fe94c182ed0687e6",
+    "translation": "f6c4a7cac927498e"
+  }
+}

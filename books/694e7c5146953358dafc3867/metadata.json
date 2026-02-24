@@ -1,0 +1,28 @@
+{
+  "id": "694e7c5146953358dafc3867",
+  "title": "Nova et accurata vestibuli Comeniani editio. Ampl. facultatis philos. in acad. reg. consensu ita adornata, ut reverendi, eximii & doctissimi viri, Dn. Christophori Liebruderi, eccles. Pol. Regiom. pastoris curâ & operâ versio polonica accesserit ; & rectorum scholarum Regiom. studio omnia themata textui è regione cum primariis eorundem accidentibus addita sint.",
+  "display_title": "A new and accurate edition of Comenius's Vestibulum. So adorned with the consent of the distinguished philosophical faculty in the royal academy that a Polish translation by the reverend, excellent, and most learned man, Mr. Christoph Liebruder, pastor of the Polish Church in Königsberg, has been added through his care and labor; and through the diligence of the rectors of the Königsberg schools, all the themes are added to the text opposite their primary attributes.",
+  "author": "Comenius, Jan Amos (1592-1670)",
+  "language": "Latin",
+  "year": 1644,
+  "published": "1644",
+  "pages_count": 226,
+  "pages_with_ocr": 226,
+  "pages_with_translation": 226,
+  "source_url": "https://sourcelibrary.org/book/694e7c5146953358dafc3867",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "8X510INV1013FA"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:27:24.334Z",
+  "_hashes": {
+    "ocr": "44010254c31f1998",
+    "translation": "253e3b0a1e8a786b"
+  }
+}

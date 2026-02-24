@@ -1,0 +1,26 @@
+{
+  "id": "697929a0f35c6bbfbfd252f5",
+  "title": "Coelum philosophorum, seu secreta naturae",
+  "display_title": "Coelum philosophorum, seu secreta naturae",
+  "author": "Ulstad, Philip",
+  "language": "Latin",
+  "year": 1544,
+  "published": "1544",
+  "pages_count": 226,
+  "pages_with_ocr": 226,
+  "pages_with_translation": 5,
+  "source_url": "https://sourcelibrary.org/book/697929a0f35c6bbfbfd252f5",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:27:24.082Z",
+  "_hashes": {
+    "ocr": "4ed0d86c47ea3bec",
+    "translation": "865400bf61823aca"
+  }
+}

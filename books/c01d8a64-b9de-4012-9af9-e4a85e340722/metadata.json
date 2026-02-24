@@ -1,0 +1,28 @@
+{
+  "id": "c01d8a64-b9de-4012-9af9-e4a85e340722",
+  "title": "Utopia",
+  "display_title": "More: Utopia (1685 Burnet Translation)",
+  "author": "Thomas More; trans. Gilbert Burnet",
+  "language": "English",
+  "year": 1516,
+  "published": "1516",
+  "pages_count": 242,
+  "pages_with_ocr": 242,
+  "pages_with_translation": 191,
+  "source_url": "https://sourcelibrary.org/book/c01d8a64-b9de-4012-9af9-e4a85e340722",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "utopia00more_2"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:27:15.492Z",
+  "_hashes": {
+    "ocr": "83b7415f128e2fb8",
+    "translation": "debb456b10526ee9"
+  }
+}

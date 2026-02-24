@@ -1,0 +1,28 @@
+{
+  "id": "69907c6e5f855ec553e752e5",
+  "title": "Muhurta Manjari (Second Copy)",
+  "display_title": "Muhurta Manjari",
+  "author": "Unknown",
+  "language": "Sanskrit",
+  "year": 1800,
+  "published": "1800",
+  "pages_count": 219,
+  "pages_with_ocr": 219,
+  "pages_with_translation": 176,
+  "source_url": "https://sourcelibrary.org/book/69907c6e5f855ec553e752e5",
+  "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "MuhurtaManjari5441GhaAlm25Shlf1DevanagariJyotish"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:27:28.426Z",
+  "_hashes": {
+    "ocr": "b8309ed0d797b70a",
+    "translation": "bbbe662fb2d931ff"
+  }
+}

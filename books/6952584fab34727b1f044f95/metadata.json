@@ -1,0 +1,28 @@
+{
+  "id": "6952584fab34727b1f044f95",
+  "title": "Theosophia Practica",
+  "display_title": "Theosophia Practica",
+  "author": "Johann Georg Gichtel",
+  "language": "French",
+  "year": 1897,
+  "published": "1897",
+  "pages_count": 219,
+  "pages_with_ocr": 219,
+  "pages_with_translation": 219,
+  "source_url": "https://sourcelibrary.org/book/6952584fab34727b1f044f95",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "gallica": "bpt6k65500s"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:27:28.293Z",
+  "_hashes": {
+    "ocr": "43904ffecfd0bf2b",
+    "translation": "95e7c36f0d7a74bc"
+  }
+}

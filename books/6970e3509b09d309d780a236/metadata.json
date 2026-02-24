@@ -1,0 +1,26 @@
+{
+  "id": "6970e3509b09d309d780a236",
+  "title": "Abraham der Segen aller Völker",
+  "display_title": "Abraham der Segen aller Völker",
+  "author": "[Müller, Johann Daniel]",
+  "language": "German",
+  "year": 1769,
+  "published": "1769",
+  "pages_count": 251,
+  "pages_with_ocr": 251,
+  "pages_with_translation": 246,
+  "source_url": "https://sourcelibrary.org/book/6970e3509b09d309d780a236",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:27:08.947Z",
+  "_hashes": {
+    "ocr": "8d8bde1d1ed929ed",
+    "translation": "3e3b91100b4b4e81"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "0425b5da-2769-41ae-93dd-76624ba8236a",
+  "title": "Of Natural and Supernatural Things",
+  "display_title": "Basil Valentine: Natural & Supernatural Things (1671)",
+  "author": "Basilius Valentinus",
+  "language": "English",
+  "year": 1670,
+  "published": "1670",
+  "pages_count": 241,
+  "pages_with_ocr": 241,
+  "pages_with_translation": 192,
+  "source_url": "https://sourcelibrary.org/book/0425b5da-2769-41ae-93dd-76624ba8236a",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bim_early-english-books-1641-1700_basilius-valentinus-o_basil-valentine_1671"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:27:15.665Z",
+  "_hashes": {
+    "ocr": "191cc69948dab599",
+    "translation": "362c9e8a9048cfe4"
+  }
+}

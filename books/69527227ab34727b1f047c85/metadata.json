@@ -1,0 +1,28 @@
+{
+  "id": "69527227ab34727b1f047c85",
+  "title": "Philosophia Moysaica",
+  "display_title": "Philosophia Moysaica",
+  "author": "Robert Fludd",
+  "language": "Latin",
+  "year": 1638,
+  "published": "1638",
+  "pages_count": 304,
+  "pages_with_ocr": 268,
+  "pages_with_translation": 264,
+  "source_url": "https://sourcelibrary.org/book/69527227ab34727b1f047c85",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "philosophiamoysa00flud"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-2.5-flash"
+  },
+  "synced_at": "2026-02-24T18:27:01.818Z",
+  "_hashes": {
+    "ocr": "1374e7ce99dfb5c8",
+    "translation": "82b3673d46d00057"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "6952d13377f38f6761bc5e29",
+  "title": "The alchemical writings of Edward Kelly",
+  "display_title": "Alchemical Writings (Stone of Philosophers)",
+  "author": "Kelly, Edward | Waite, A.E. (ed.)",
+  "language": "English",
+  "year": 1893,
+  "published": "1893",
+  "pages_count": 232,
+  "pages_with_ocr": 232,
+  "pages_with_translation": 232,
+  "source_url": "https://sourcelibrary.org/book/6952d13377f38f6761bc5e29",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "b24857300"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:27:20.807Z",
+  "_hashes": {
+    "ocr": "c9bf182ab609811c",
+    "translation": "a0079b33040d2feb"
+  }
+}

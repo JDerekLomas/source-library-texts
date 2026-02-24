@@ -1,0 +1,28 @@
+{
+  "id": "69907c685f855ec553e75062",
+  "title": "Muhurta Darpanam of Lalmani",
+  "display_title": "Muhurta Darpanam (Lalmani)",
+  "author": "Lalmani",
+  "language": "Sanskrit",
+  "year": 1800,
+  "published": "1800",
+  "pages_count": 233,
+  "pages_with_ocr": 233,
+  "pages_with_translation": 187,
+  "source_url": "https://sourcelibrary.org/book/69907c685f855ec553e75062",
+  "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "MuhurtaDarpanamLalmani849GhaAlm4Shlf5DevanagariJyotish"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:27:20.220Z",
+  "_hashes": {
+    "ocr": "6c110dee6b05f252",
+    "translation": "34eaac05952cd63d"
+  }
+}

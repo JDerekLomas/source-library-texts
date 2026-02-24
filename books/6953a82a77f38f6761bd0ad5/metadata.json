@@ -1,0 +1,28 @@
+{
+  "id": "6953a82a77f38f6761bd0ad5",
+  "title": "David the Invincible: Works (15th c. copy)",
+  "display_title": "David the Invincible: Works (15th c. copy)",
+  "author": "David Anhaght (Dawit Anyalt)",
+  "language": "Armenian",
+  "year": 1400,
+  "published": "1400-1499",
+  "pages_count": 239,
+  "pages_with_ocr": 239,
+  "pages_with_translation": 200,
+  "source_url": "https://sourcelibrary.org/book/6953a82a77f38f6761bd0ad5",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "gallica": "btv1b10087156p"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:27:16.786Z",
+  "_hashes": {
+    "ocr": "cdbbc403cb00e7f6",
+    "translation": "c80fb84ff2b44f34"
+  }
+}

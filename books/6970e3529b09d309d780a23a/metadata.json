@@ -1,0 +1,26 @@
+{
+  "id": "6970e3529b09d309d780a23a",
+  "title": "Abraxas, seu Apistopistus",
+  "display_title": "Abraxas, seu Apistopistus",
+  "author": "Macarius, Joannes",
+  "language": "Latin",
+  "year": 1657,
+  "published": "1657",
+  "pages_count": 248,
+  "pages_with_ocr": 248,
+  "pages_with_translation": 197,
+  "source_url": "https://sourcelibrary.org/book/6970e3529b09d309d780a23a",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:27:11.788Z",
+  "_hashes": {
+    "ocr": "803ba2bf96e7a184",
+    "translation": "c69acaeae74ca68c"
+  }
+}

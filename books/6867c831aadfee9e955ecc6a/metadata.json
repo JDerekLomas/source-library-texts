@@ -1,0 +1,26 @@
+{
+  "id": "6867c831aadfee9e955ecc6a",
+  "title": "Anleitung zur primitiven gabalistischen Wissenschaft",
+  "display_title": "Introduction to Primitive Cabalistic Science",
+  "author": "anonymous",
+  "language": "German",
+  "year": 1789,
+  "published": "1789",
+  "pages_count": 250,
+  "pages_with_ocr": 250,
+  "pages_with_translation": 250,
+  "source_url": "https://sourcelibrary.org/book/6867c831aadfee9e955ecc6a",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-2.0-flash"
+  },
+  "synced_at": "2026-02-24T18:27:10.530Z",
+  "_hashes": {
+    "ocr": "fa65b1fcc8a39889",
+    "translation": "e7b20575d466081f"
+  }
+}

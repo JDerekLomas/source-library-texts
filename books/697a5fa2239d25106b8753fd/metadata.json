@@ -1,0 +1,26 @@
+{
+  "id": "697a5fa2239d25106b8753fd",
+  "title": "Dieu est l'amour le plus pur",
+  "display_title": "Dieu est l'amour le plus pur",
+  "author": "Eckartshausen, Karl von",
+  "language": "French",
+  "year": 1810,
+  "published": "1810",
+  "pages_count": 250,
+  "pages_with_ocr": 245,
+  "pages_with_translation": 1,
+  "source_url": "https://sourcelibrary.org/book/697a5fa2239d25106b8753fd",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:27:13.290Z",
+  "_hashes": {
+    "ocr": "feb6858c07369739",
+    "translation": "1b3423ed57599c12"
+  }
+}

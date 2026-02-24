@@ -1,0 +1,28 @@
+{
+  "id": "69520c46ab34727b1f044141",
+  "title": "Atalanta fugiens: Emblemata nova de secretis naturae chymica",
+  "display_title": "Atalanta Fleeing: New Chemical Emblems of the Secrets of Nature",
+  "author": "Michael Maier",
+  "language": "Latin",
+  "year": 1618,
+  "published": "1618",
+  "pages_count": 229,
+  "pages_with_ocr": 229,
+  "pages_with_translation": 229,
+  "source_url": "https://sourcelibrary.org/book/69520c46ab34727b1f044141",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "gallica": "bpt6k850551g"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:27:22.714Z",
+  "_hashes": {
+    "ocr": "0ac1496fe9ca4194",
+    "translation": "601d165a312a9c56"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "69528706ab34727b1f04cfb3",
+  "title": "The Epistles of Jacob Behmen",
+  "display_title": "The Epistles of Jacob Behmen",
+  "author": "Jakob Böhme",
+  "language": "English",
+  "year": 1649,
+  "published": "1649",
+  "pages_count": 233,
+  "pages_with_ocr": 233,
+  "pages_with_translation": 233,
+  "source_url": "https://sourcelibrary.org/book/69528706ab34727b1f04cfb3",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bim_early-english-books-1641-1700_the-epistles-of-jacob-be_bohme-jacob_1649"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:27:20.584Z",
+  "_hashes": {
+    "ocr": "69203fe23f1eb416",
+    "translation": "750f10e29be7dbe7"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "6952ca6e77f38f6761bc3fb2",
+  "title": "Marini vita Procli",
+  "display_title": "Life of Proclus by Marinus",
+  "author": "Marinus of Neapolis",
+  "language": "Greek",
+  "year": 1814,
+  "published": "1814",
+  "pages_count": 216,
+  "pages_with_ocr": 216,
+  "pages_with_translation": 216,
+  "source_url": "https://sourcelibrary.org/book/6952ca6e77f38f6761bc3fb2",
+  "license": "https://rightsstatements.org/vocab/NoC-NC/1.0/",
+  "doi": null,
+  "external_ids": {
+    "mdz": "bsb10236940"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": null,
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:27:29.751Z",
+  "_hashes": {
+    "ocr": "2138123c83769bb1",
+    "translation": "4dd0d9c73217439d"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "6992f3d9dc69844b023ff452",
+  "title": "圖像本草蒙筌 (Tuxiang Bencao Mengquan: Illustrated Herbal Primer)",
+  "display_title": "圖像本草蒙筌 (Tuxiang Bencao Mengquan: Illustrated Herbal Primer)",
+  "author": "Chen Jiamo (陳嘉謨)",
+  "language": "Chinese",
+  "year": 1628,
+  "published": "1628",
+  "pages_count": 342,
+  "pages_with_ocr": 249,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/6992f3d9dc69844b023ff452",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:27:10.872Z",
+  "_hashes": {
+    "ocr": "8abc91a3c9743822",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

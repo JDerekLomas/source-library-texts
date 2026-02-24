@@ -1,0 +1,26 @@
+{
+  "id": "68fb0dc412055a03a58d3281",
+  "title": "Pymander, de potestate et sapientia Dei",
+  "display_title": "Pymander. Asclepius. On the Mysteries of the Egyptians.",
+  "author": "Hermes Trismegistus | Jamblichus | Proclus",
+  "language": "Latin",
+  "year": 1532,
+  "published": "1532",
+  "pages_count": 237,
+  "pages_with_ocr": 237,
+  "pages_with_translation": 237,
+  "source_url": "https://sourcelibrary.org/book/68fb0dc412055a03a58d3281",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:27:18.319Z",
+  "_hashes": {
+    "ocr": "4a793029f9c40152",
+    "translation": "155d8ee23cb0010b"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "695524151479a63c1108cc09",
+  "title": "The Hermetical Triumph; or, The Victorious Philosophical Stone",
+  "display_title": "The Hermetical Triumph; or, The Victorious Philosophical Stone",
+  "author": "Limojon de Saint-Didier, Alexandre-Toussaint",
+  "language": "English",
+  "year": 1723,
+  "published": "Unknown",
+  "pages_count": 228,
+  "pages_with_ocr": 228,
+  "pages_with_translation": 220,
+  "source_url": "https://sourcelibrary.org/book/695524151479a63c1108cc09",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "hermeticaltriump00limo"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:27:23.205Z",
+  "_hashes": {
+    "ocr": "cd74cc56aa3817ed",
+    "translation": "f97a27e99d4cafdd"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "697c8e0f58e66b1bd4f095d8",
+  "title": "Freymäurer Bibliothek",
+  "display_title": "Freymäurer Bibliothek",
+  "author": "Anonymous",
+  "language": "German",
+  "year": 1782,
+  "published": "1782-1803",
+  "pages_count": 246,
+  "pages_with_ocr": 246,
+  "pages_with_translation": 5,
+  "source_url": "https://sourcelibrary.org/book/697c8e0f58e66b1bd4f095d8",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:27:12.551Z",
+  "_hashes": {
+    "ocr": "b026e3aa3cb4910e",
+    "translation": "6242d627aa5eb333"
+  }
+}

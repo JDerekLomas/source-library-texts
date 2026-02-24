@@ -1,0 +1,28 @@
+{
+  "id": "69528f2bb184004c526a0f1a",
+  "title": "Delle donne famose (De claris mulieribus)",
+  "display_title": "Delle donne famose (De claris mulieribus)",
+  "author": "Giovanni Boccaccio",
+  "language": "Italian",
+  "year": 1881,
+  "published": "1881",
+  "pages_count": 260,
+  "pages_with_ocr": 260,
+  "pages_with_translation": 260,
+  "source_url": "https://sourcelibrary.org/book/69528f2bb184004c526a0f1a",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "delledonnefamose02boccuoft"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:27:06.448Z",
+  "_hashes": {
+    "ocr": "9309d23d30dc1bbe",
+    "translation": "bd67ef6452833123"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "6953dd9d77f38f6761be819f",
+  "title": "Die Zierde der geistlichen Hochzeit",
+  "display_title": "Die Zierde der geistlichen Hochzeit",
+  "author": "Jan van Ruusbroec",
+  "language": "Dutch-German",
+  "year": 1916,
+  "published": "1916",
+  "pages_count": 220,
+  "pages_with_ocr": 220,
+  "pages_with_translation": 220,
+  "source_url": "https://sourcelibrary.org/book/6953dd9d77f38f6761be819f",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "janvanruysbroeck00ruus"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:27:27.655Z",
+  "_hashes": {
+    "ocr": "c8fca0fb17991faf",
+    "translation": "5a22e7a0ff443686"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "6970e3599b09d309d780a252",
+  "title": "De aerario publico",
+  "display_title": "De aerario publico",
+  "author": "Besold, Christoph",
+  "language": "Latin",
+  "year": 1626,
+  "published": "1626",
+  "pages_count": 258,
+  "pages_with_ocr": 258,
+  "pages_with_translation": 255,
+  "source_url": "https://sourcelibrary.org/book/6970e3599b09d309d780a252",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:27:08.032Z",
+  "_hashes": {
+    "ocr": "4e77bf1f87d01f14",
+    "translation": "3b919c55c31a2aa7"
+  }
+}

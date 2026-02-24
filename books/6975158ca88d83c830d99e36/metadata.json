@@ -1,0 +1,26 @@
+{
+  "id": "6975158ca88d83c830d99e36",
+  "title": "Aureum seculum patefactum: oder, Die eröffnete güldene Zeit",
+  "display_title": "Aureum seculum patefactum: oder, Die eröffnete güldene Zeit",
+  "author": "Chrysandrus Alitophilus",
+  "language": "Latin-German",
+  "year": 1706,
+  "published": "1706",
+  "pages_count": 222,
+  "pages_with_ocr": 222,
+  "pages_with_translation": 185,
+  "source_url": "https://sourcelibrary.org/book/6975158ca88d83c830d99e36",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:27:26.379Z",
+  "_hashes": {
+    "ocr": "8dd3fae465e88a0d",
+    "translation": "e7245ed1442ee06a"
+  }
+}

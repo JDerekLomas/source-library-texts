@@ -1,0 +1,26 @@
+{
+  "id": "69751589a88d83c830d99e1a",
+  "title": "Artis kabbalisticae sive sapientiae divinae academia",
+  "display_title": "Artis kabbalisticae sive sapientiae divinae academia",
+  "author": "Morestel, Pierre",
+  "language": "Latin",
+  "year": 1621,
+  "published": "1621",
+  "pages_count": 264,
+  "pages_with_ocr": 264,
+  "pages_with_translation": 251,
+  "source_url": "https://sourcelibrary.org/book/69751589a88d83c830d99e1a",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:27:03.410Z",
+  "_hashes": {
+    "ocr": "2f4a4852e460cae8",
+    "translation": "d4552ebb21eb4781"
+  }
+}

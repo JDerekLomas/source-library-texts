@@ -1,0 +1,26 @@
+{
+  "id": "697a30569f4a4a764855ca29",
+  "title": "The count of Gabalis, or the extravagant mysteries of the cabalists",
+  "display_title": "The count of Gabalis, or the extravagant mysteries of the cabalists",
+  "author": "[Villars, Nicolas de Montfaucon de]",
+  "language": "English",
+  "year": 1680,
+  "published": "1680",
+  "pages_count": 232,
+  "pages_with_ocr": 229,
+  "pages_with_translation": 5,
+  "source_url": "https://sourcelibrary.org/book/697a30569f4a4a764855ca29",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:27:22.422Z",
+  "_hashes": {
+    "ocr": "82ffdb78f13b6993",
+    "translation": "efeca68ade1ada26"
+  }
+}

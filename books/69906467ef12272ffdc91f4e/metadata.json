@@ -1,0 +1,28 @@
+{
+  "id": "69906467ef12272ffdc91f4e",
+  "title": "Graha Laghava with Vishvanatha Commentary",
+  "display_title": "Graha Laghava with Vishvanatha Commentary",
+  "author": "Ganesa Daivagna",
+  "language": "Sanskrit",
+  "year": 1680,
+  "published": "Unknown",
+  "pages_count": 250,
+  "pages_with_ocr": 250,
+  "pages_with_translation": 250,
+  "source_url": "https://sourcelibrary.org/book/69906467ef12272ffdc91f4e",
+  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "vzDZ_graha-laghava-of-ganesh-daivagna-commentary-by-vishvanath-daivagna-1946-tha-chow"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:27:10.065Z",
+  "_hashes": {
+    "ocr": "5ac902e589770309",
+    "translation": "e116d5b82b3799a5"
+  }
+}

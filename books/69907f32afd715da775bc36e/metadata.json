@@ -1,0 +1,28 @@
+{
+  "id": "69907f32afd715da775bc36e",
+  "title": "Tajika Nilakanthi (1888 Venkateshwara)",
+  "display_title": "Tajika Nilakanthi (1888 Venkateshwara)",
+  "author": "Nilakantha",
+  "language": "Sanskrit",
+  "year": 1888,
+  "published": "Unknown",
+  "pages_count": 225,
+  "pages_with_ocr": 224,
+  "pages_with_translation": 180,
+  "source_url": "https://sourcelibrary.org/book/69907f32afd715da775bc36e",
+  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "HUIM_tajika-nilakanthi-satika-sodaharana-praramyate-sanskrit-1888-mumbai-sri-venkates"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:27:25.311Z",
+  "_hashes": {
+    "ocr": "916361cf0db5af08",
+    "translation": "019707f5fb737b28"
+  }
+}

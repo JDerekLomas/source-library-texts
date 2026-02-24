@@ -1,0 +1,28 @@
+{
+  "id": "695234e3ab34727b1f044dc2",
+  "title": "Fourth Book of Occult Philosophy",
+  "display_title": "Fourth Book of Occult Philosophy",
+  "author": "Pseudo-Agrippa (with Peter de Abano, Gerard Cremonensis)",
+  "language": "English",
+  "year": 1665,
+  "published": "1665",
+  "pages_count": 230,
+  "pages_with_ocr": 217,
+  "pages_with_translation": 214,
+  "source_url": "https://sourcelibrary.org/book/695234e3ab34727b1f044dc2",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bib_fict_4103360"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:27:28.850Z",
+  "_hashes": {
+    "ocr": "1f456ad2e4a6c22e",
+    "translation": "b3b973f481660583"
+  }
+}

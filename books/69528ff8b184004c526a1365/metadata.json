@@ -1,0 +1,28 @@
+{
+  "id": "69528ff8b184004c526a1365",
+  "title": "De claris mulieribus (1473 Ulm incunabulum)",
+  "display_title": "De claris mulieribus (1473 Ulm incunabulum)",
+  "author": "Giovanni Boccaccio",
+  "language": "Latin",
+  "year": 1473,
+  "published": "1473",
+  "pages_count": 239,
+  "pages_with_ocr": 239,
+  "pages_with_translation": 239,
+  "source_url": "https://sourcelibrary.org/book/69528ff8b184004c526a1365",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "mdz": "bsb00029099"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": null,
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:27:16.319Z",
+  "_hashes": {
+    "ocr": "d925059a0adcb492",
+    "translation": "b69a116928736ff3"
+  }
+}

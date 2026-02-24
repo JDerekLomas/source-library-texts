@@ -1,0 +1,28 @@
+{
+  "id": "6952d1a477f38f6761bc6466",
+  "title": "De Stella nova in pede serpentarii",
+  "display_title": "On the New Star (supernova of 1604)",
+  "author": "Kepler, Johannes",
+  "language": "Latin",
+  "year": 1606,
+  "published": "1606",
+  "pages_count": 234,
+  "pages_with_ocr": 234,
+  "pages_with_translation": 234,
+  "source_url": "https://sourcelibrary.org/book/6952d1a477f38f6761bc6466",
+  "license": "https://rightsstatements.org/vocab/NoC-NC/1.0/",
+  "doi": null,
+  "external_ids": {
+    "mdz": "bsb10873675"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": null,
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:27:19.690Z",
+  "_hashes": {
+    "ocr": "5c94af755537ee2e",
+    "translation": "751b571303adb37e"
+  }
+}

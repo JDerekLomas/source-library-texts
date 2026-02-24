@@ -1,0 +1,26 @@
+{
+  "id": "69804b9312c17a1925ecb6e8",
+  "title": "De laudibus sanctae crucis opus",
+  "display_title": "De laudibus sanctae crucis opus",
+  "author": "Rabanus Maurus",
+  "language": "Latin",
+  "year": 1605,
+  "published": "1605",
+  "pages_count": 245,
+  "pages_with_ocr": 245,
+  "pages_with_translation": 227,
+  "source_url": "https://sourcelibrary.org/book/69804b9312c17a1925ecb6e8",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:27:12.965Z",
+  "_hashes": {
+    "ocr": "098ead536697e660",
+    "translation": "cdbc3fe2720ead24"
+  }
+}

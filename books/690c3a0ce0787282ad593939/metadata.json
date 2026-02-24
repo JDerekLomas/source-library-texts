@@ -1,0 +1,26 @@
+{
+  "id": "690c3a0ce0787282ad593939",
+  "title": "Magni philosophorum arcani revelator",
+  "display_title": "Revealer of the Great Secret of the Philosophers",
+  "author": "anonymous",
+  "language": "Latin",
+  "year": 1688,
+  "published": "1688",
+  "pages_count": 259,
+  "pages_with_ocr": 259,
+  "pages_with_translation": 244,
+  "source_url": "https://sourcelibrary.org/book/690c3a0ce0787282ad593939",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:27:06.892Z",
+  "_hashes": {
+    "ocr": "d474994d69603db5",
+    "translation": "fad4b3231e9894b0"
+  }
+}

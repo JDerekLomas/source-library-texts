@@ -1,0 +1,28 @@
+{
+  "id": "6991eb102f801130a473f7be",
+  "title": "Thoughts on Art and Life",
+  "display_title": "Thoughts on Art and Life",
+  "author": "Leonardo da Vinci",
+  "language": "English",
+  "year": 1900,
+  "published": "Unknown",
+  "pages_count": 250,
+  "pages_with_ocr": 245,
+  "pages_with_translation": 200,
+  "source_url": "https://sourcelibrary.org/book/6991eb102f801130a473f7be",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "thoughtsonartlif00leon"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:27:13.136Z",
+  "_hashes": {
+    "ocr": "ce2d26b97914d2b7",
+    "translation": "15d6d68929078009"
+  }
+}

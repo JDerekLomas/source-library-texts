@@ -1,0 +1,28 @@
+{
+  "id": "695289a9ab34727b1f04dab6",
+  "title": "Sixteen revelations of divine love",
+  "display_title": "Sixteen revelations of divine love",
+  "author": "Julian of Norwich",
+  "language": "English",
+  "year": 1864,
+  "published": "1864",
+  "pages_count": 238,
+  "pages_with_ocr": 238,
+  "pages_with_translation": 238,
+  "source_url": "https://sourcelibrary.org/book/695289a9ab34727b1f04dab6",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "sixteenrevelatio00juli"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:27:17.418Z",
+  "_hashes": {
+    "ocr": "0a0272a6502eca4b",
+    "translation": "e33c56e427a92326"
+  }
+}

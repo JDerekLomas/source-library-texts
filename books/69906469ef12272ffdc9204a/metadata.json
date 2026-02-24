@@ -1,0 +1,28 @@
+{
+  "id": "69906469ef12272ffdc9204a",
+  "title": "Muhurta Ganapati",
+  "display_title": "Muhurta Ganapati",
+  "author": "Ganapati",
+  "language": "Sanskrit",
+  "year": 1510,
+  "published": "Unknown",
+  "pages_count": 216,
+  "pages_with_ocr": 216,
+  "pages_with_translation": 216,
+  "source_url": "https://sourcelibrary.org/book/69906469ef12272ffdc9204a",
+  "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "MuhurtaGanapati1885NavalKishorePress"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:27:29.455Z",
+  "_hashes": {
+    "ocr": "847b18157762ae2b",
+    "translation": "e3e89a171c4dd053"
+  }
+}

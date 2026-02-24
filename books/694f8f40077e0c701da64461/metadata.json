@@ -1,0 +1,28 @@
+{
+  "id": "694f8f40077e0c701da64461",
+  "title": "Epytoma in Almagestum Ptolemaei",
+  "display_title": "Epitome of Ptolemy's Almagest (1496)",
+  "author": "Johannes Regiomontanus (1436-1476)",
+  "language": "Latin",
+  "year": 1496,
+  "published": "1496",
+  "pages_count": 222,
+  "pages_with_ocr": 222,
+  "pages_with_translation": 222,
+  "source_url": "https://sourcelibrary.org/book/694f8f40077e0c701da64461",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "EpytomaIoannisd00Regi"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:27:26.023Z",
+  "_hashes": {
+    "ocr": "b6f517ac2ceaec01",
+    "translation": "caf02b3218c5cf28"
+  }
+}

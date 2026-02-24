@@ -1,0 +1,26 @@
+{
+  "id": "6985ca72d53aa86216a37add",
+  "title": "Prognosticon theologicon, oder theologische Weissagung, vom jüngsten Tage",
+  "display_title": "Prognosticon theologicon, oder theologische Weissagung, vom jüngsten Tage",
+  "author": "Rostius, Georgius",
+  "language": "German",
+  "year": 1620,
+  "published": "1620",
+  "pages_count": 237,
+  "pages_with_ocr": 237,
+  "pages_with_translation": 237,
+  "source_url": "https://sourcelibrary.org/book/6985ca72d53aa86216a37add",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:27:18.770Z",
+  "_hashes": {
+    "ocr": "ee1c54c5a5848040",
+    "translation": "f387d028e801ccce"
+  }
+}

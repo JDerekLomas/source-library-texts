@@ -1,0 +1,28 @@
+{
+  "id": "6955915d7bd6d2cd1d618bfb",
+  "title": "The Way to Bliss in Three Books",
+  "display_title": "The Way to Bliss in Three Books",
+  "author": "Elias Ashmole / John Everard",
+  "language": "English",
+  "year": 1658,
+  "published": "Unknown",
+  "pages_count": 244,
+  "pages_with_ocr": 244,
+  "pages_with_translation": 234,
+  "source_url": "https://sourcelibrary.org/book/6955915d7bd6d2cd1d618bfb",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "waytoblissinthre00ashm"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:27:14.277Z",
+  "_hashes": {
+    "ocr": "449e4ddef659042c",
+    "translation": "e065f47f17d9d5d6"
+  }
+}

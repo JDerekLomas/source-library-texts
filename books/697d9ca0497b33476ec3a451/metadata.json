@@ -1,0 +1,26 @@
+{
+  "id": "697d9ca0497b33476ec3a451",
+  "title": "Die Hebräischen Mysterien oder die älteste religiöse Freymaurerey",
+  "display_title": "Die Hebräischen Mysterien oder die älteste religiöse Freymaurerey",
+  "author": "[Reinhold, Karl Leonhard]",
+  "language": "German",
+  "year": 1788,
+  "published": "1788",
+  "pages_count": 219,
+  "pages_with_ocr": 217,
+  "pages_with_translation": 2,
+  "source_url": "https://sourcelibrary.org/book/697d9ca0497b33476ec3a451",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:27:28.978Z",
+  "_hashes": {
+    "ocr": "3127f9f2f395b2fa",
+    "translation": "2e67325e42bdc633"
+  }
+}

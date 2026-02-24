@@ -1,0 +1,28 @@
+{
+  "id": "4f4ff6f9-f0bd-4307-910c-65da7c36c0ef",
+  "title": "Pansophiae Diatyposis",
+  "display_title": "Pansophiae Diatyposis (1645 Elzevier)",
+  "author": "Jan Amos Comenius",
+  "language": "Latin",
+  "year": 1645,
+  "published": "1645",
+  "pages_count": 216,
+  "pages_with_ocr": 216,
+  "pages_with_translation": 212,
+  "source_url": "https://sourcelibrary.org/book/4f4ff6f9-f0bd-4307-910c-65da7c36c0ef",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bub_gb_MGhEAAAAcAAJ"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:27:29.164Z",
+  "_hashes": {
+    "ocr": "e7fb4535e236e1fd",
+    "translation": "010dda64aa882914"
+  }
+}

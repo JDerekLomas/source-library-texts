@@ -1,0 +1,28 @@
+{
+  "id": "69528566ab34727b1f04b7ee",
+  "title": "Opuscula Medica Inaudita",
+  "display_title": "Opuscula Medica Inaudita",
+  "author": "Jan Baptist van Helmont",
+  "language": "Latin",
+  "year": 1644,
+  "published": "1644",
+  "pages_count": 240,
+  "pages_with_ocr": 240,
+  "pages_with_translation": 240,
+  "source_url": "https://sourcelibrary.org/book/69528566ab34727b1f04b7ee",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bub_gb_u0UCao9Y1AIC"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:27:16.047Z",
+  "_hashes": {
+    "ocr": "5876de6fa907739c",
+    "translation": "1afe92d0b9ba1cc2"
+  }
+}

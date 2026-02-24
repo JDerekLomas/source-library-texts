@@ -1,0 +1,28 @@
+{
+  "id": "6953115277f38f6761bcc51b",
+  "title": "The Odes and Psalms of Solomon (Syriac Text)",
+  "display_title": "Odes of Solomon (Syriac)",
+  "author": "J. Rendel Harris (ed.)",
+  "language": "Syriac",
+  "year": 1911,
+  "published": "1911",
+  "pages_count": 263,
+  "pages_with_ocr": 263,
+  "pages_with_translation": 258,
+  "source_url": "https://sourcelibrary.org/book/6953115277f38f6761bcc51b",
+  "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "TheOdesAndPsalmsOfSolomon"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:27:03.884Z",
+  "_hashes": {
+    "ocr": "584699702d85fcc5",
+    "translation": "15b7e7151e231929"
+  }
+}

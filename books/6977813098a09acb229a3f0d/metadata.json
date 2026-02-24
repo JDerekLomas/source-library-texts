@@ -1,0 +1,26 @@
+{
+  "id": "6977813098a09acb229a3f0d",
+  "title": "Das Buoch, meteororum. Liber quartus paramiri de matrice",
+  "display_title": "Das Buoch, meteororum. Liber quartus paramiri de matrice",
+  "author": "Paracelsus, Theophrastus",
+  "language": "Latin",
+  "year": 1566,
+  "published": "1566",
+  "pages_count": 250,
+  "pages_with_ocr": 250,
+  "pages_with_translation": 194,
+  "source_url": "https://sourcelibrary.org/book/6977813098a09acb229a3f0d",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:27:10.280Z",
+  "_hashes": {
+    "ocr": "6f3d1da1dc3b5027",
+    "translation": "ead6e152ced1ece4"
+  }
+}

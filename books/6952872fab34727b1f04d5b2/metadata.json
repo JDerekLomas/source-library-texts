@@ -1,0 +1,28 @@
+{
+  "id": "6952872fab34727b1f04d5b2",
+  "title": "Enchiridion Leonis Papae",
+  "display_title": "Enchiridion Leonis Papae (Pope Leo's Enchiridion)",
+  "author": "Pseudo-Leo III",
+  "language": "Latin",
+  "year": 1633,
+  "published": "1633",
+  "pages_count": 244,
+  "pages_with_ocr": 244,
+  "pages_with_translation": 200,
+  "source_url": "https://sourcelibrary.org/book/6952872fab34727b1f04d5b2",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "hin-wel-all-00002245-001"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:27:14.517Z",
+  "_hashes": {
+    "ocr": "de5ea6da12731751",
+    "translation": "87c6cb338a981e3b"
+  }
+}

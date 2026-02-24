@@ -1,0 +1,26 @@
+{
+  "id": "6988a59f3605c4167e76a79c",
+  "title": "Der Schmuck der Weisen",
+  "display_title": "Der Schmuck der Weisen",
+  "author": "[Loos, Onesime Henri de]",
+  "language": "German",
+  "year": 1782,
+  "published": "1782",
+  "pages_count": 222,
+  "pages_with_ocr": 222,
+  "pages_with_translation": 216,
+  "source_url": "https://sourcelibrary.org/book/6988a59f3605c4167e76a79c",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:27:26.904Z",
+  "_hashes": {
+    "ocr": "00ad3038b3fb57b6",
+    "translation": "55f7efb8a7276d26"
+  }
+}

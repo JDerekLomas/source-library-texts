@@ -1,0 +1,26 @@
+{
+  "id": "6988a59f3b3cedbf42d473a7",
+  "title": "The second wash: or the moore scour'd once more",
+  "display_title": "The second wash: or the moore scour'd once more",
+  "author": "[Vaughan, Thomas]",
+  "language": "English",
+  "year": 1651,
+  "published": "1651",
+  "pages_count": 231,
+  "pages_with_ocr": 231,
+  "pages_with_translation": 224,
+  "source_url": "https://sourcelibrary.org/book/6988a59f3b3cedbf42d473a7",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:27:21.520Z",
+  "_hashes": {
+    "ocr": "45231f854d1e8375",
+    "translation": "a00669fa1aed9cfb"
+  }
+}

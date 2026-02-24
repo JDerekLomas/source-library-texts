@@ -1,0 +1,26 @@
+{
+  "id": "697c8e0fbaa544415f85b6c0",
+  "title": "Gloria mundi. Kleine Paradeis-Tafel",
+  "display_title": "Gloria mundi. Kleine Paradeis-Tafel",
+  "author": "anonymous",
+  "language": "German",
+  "year": 1774,
+  "published": "1774",
+  "pages_count": 218,
+  "pages_with_ocr": 218,
+  "pages_with_translation": 165,
+  "source_url": "https://sourcelibrary.org/book/697c8e0fbaa544415f85b6c0",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:27:28.633Z",
+  "_hashes": {
+    "ocr": "265c0fd3515d9383",
+    "translation": "1b540a1860d533db"
+  }
+}

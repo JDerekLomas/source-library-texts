@@ -1,0 +1,26 @@
+{
+  "id": "697798bfb450898084dfd93d",
+  "title": "Le cantique des cantiques de Salomon",
+  "display_title": "Le cantique des cantiques de Salomon",
+  "author": "[Guyon, Jeanne-Marie]",
+  "language": "French",
+  "year": 1688,
+  "published": "1688",
+  "pages_count": 262,
+  "pages_with_ocr": 262,
+  "pages_with_translation": 208,
+  "source_url": "https://sourcelibrary.org/book/697798bfb450898084dfd93d",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:27:04.439Z",
+  "_hashes": {
+    "ocr": "c30cc29b5549881c",
+    "translation": "2aad48c71c357ad9"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "697914f0f35c6bbfbfd252d2",
+  "title": "Civis christianus, sive peregrini quondam errantis restitutionis",
+  "display_title": "Civis christianus, sive peregrini quondam errantis restitutionis",
+  "author": "[Andreae, Johann Valentin]",
+  "language": "Latin",
+  "year": 1619,
+  "published": "1619",
+  "pages_count": 262,
+  "pages_with_ocr": 262,
+  "pages_with_translation": 201,
+  "source_url": "https://sourcelibrary.org/book/697914f0f35c6bbfbfd252d2",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:27:05.255Z",
+  "_hashes": {
+    "ocr": "ee16b6c06529608d",
+    "translation": "5c224e04bf18f215"
+  }
+}

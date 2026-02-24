@@ -1,0 +1,26 @@
+{
+  "id": "6970e3869b09d309d780a2e0",
+  "title": "Aperta arca arcani artificiosissimi. Das ist: eröffneter und offenstehender Kasten",
+  "display_title": "Aperta arca arcani artificiosissimi. Das ist: eröffneter und offenstehender Kasten",
+  "author": "[Grasshoff, Johann]",
+  "language": "German",
+  "year": 1658,
+  "published": "1658",
+  "pages_count": 266,
+  "pages_with_ocr": 266,
+  "pages_with_translation": 253,
+  "source_url": "https://sourcelibrary.org/book/6970e3869b09d309d780a2e0",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:27:02.463Z",
+  "_hashes": {
+    "ocr": "bddb72c94eb7666c",
+    "translation": "2946ff780df1fb07"
+  }
+}

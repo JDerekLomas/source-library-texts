@@ -1,0 +1,28 @@
+{
+  "id": "6991eac02f801130a473e424",
+  "title": "Trattato della pittura (1651 Editio Princeps)",
+  "display_title": "Trattato della pittura (1651 Editio Princeps)",
+  "author": "Leonardo da Vinci",
+  "language": "Italian",
+  "year": 1651,
+  "published": "Unknown",
+  "pages_count": 238,
+  "pages_with_ocr": 238,
+  "pages_with_translation": 191,
+  "source_url": "https://sourcelibrary.org/book/6991eac02f801130a473e424",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "gri_33125008484301"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:27:17.126Z",
+  "_hashes": {
+    "ocr": "78ef58cee6c55ba8",
+    "translation": "38d5b79e696351b7"
+  }
+}
