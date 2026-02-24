@@ -1,0 +1,28 @@
+{
+  "id": "698fb7856b95eeda7d2d257f",
+  "title": "Zur Farbenlehre, Erster Band",
+  "display_title": "Zur Farbenlehre, Erster Band",
+  "author": "Johann Wolfgang von Goethe",
+  "language": "German",
+  "year": 1810,
+  "published": "1810",
+  "pages_count": 710,
+  "pages_with_ocr": 100,
+  "pages_with_translation": 96,
+  "source_url": "https://sourcelibrary.org/book/698fb7856b95eeda7d2d257f",
+  "license": "https://rightsstatements.org/vocab/NoC-NC/1.0/",
+  "doi": null,
+  "external_ids": {
+    "mdz": "bsb10857915"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:33.396Z",
+  "_hashes": {
+    "ocr": "bfd6e811a4bd4658",
+    "translation": "9895e79215ea946c"
+  }
+}

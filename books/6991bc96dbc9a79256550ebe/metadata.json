@@ -1,0 +1,28 @@
+{
+  "id": "6991bc96dbc9a79256550ebe",
+  "title": "Practical Mind Reading",
+  "display_title": "Practical Mind Reading",
+  "author": "William Walker Atkinson",
+  "language": "English",
+  "year": 1907,
+  "published": "Unknown",
+  "pages_count": 103,
+  "pages_with_ocr": 103,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/6991bc96dbc9a79256550ebe",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "practicalmindre00atkigoog"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:28:29.843Z",
+  "_hashes": {
+    "ocr": "a6b55a947e2d8fcc",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

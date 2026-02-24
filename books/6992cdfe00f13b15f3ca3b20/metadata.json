@@ -1,0 +1,28 @@
+{
+  "id": "6992cdfe00f13b15f3ca3b20",
+  "title": "武備志(三十七)",
+  "display_title": "武備志(三十七)",
+  "author": "茅元儀",
+  "language": "Chinese",
+  "year": 1621,
+  "published": "1621",
+  "pages_count": 101,
+  "pages_with_ocr": 101,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/6992cdfe00f13b15f3ca3b20",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "02092295.cn"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:28:32.308Z",
+  "_hashes": {
+    "ocr": "a2a81045c1a7726f",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

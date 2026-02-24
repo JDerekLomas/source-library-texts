@@ -1,0 +1,28 @@
+{
+  "id": "6991eaef2f801130a473ec5c",
+  "title": "Notes et dessins sur la generation et le mecanisme des fonctions intimes",
+  "display_title": "Notes et dessins sur la generation et le mecanisme des fonctions intimes",
+  "author": "Leonardo da Vinci",
+  "language": "Italian",
+  "year": 1880,
+  "published": "Unknown",
+  "pages_count": 108,
+  "pages_with_ocr": 108,
+  "pages_with_translation": 108,
+  "source_url": "https://sourcelibrary.org/book/6991eaef2f801130a473ec5c",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "gri_33125017557675"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:26.488Z",
+  "_hashes": {
+    "ocr": "9a260472f00aaba8",
+    "translation": "d0240fcb8e9f6ccf"
+  }
+}

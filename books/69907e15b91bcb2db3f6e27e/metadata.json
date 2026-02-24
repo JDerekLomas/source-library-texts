@@ -1,0 +1,28 @@
+{
+  "id": "69907e15b91bcb2db3f6e27e",
+  "title": "SarSangrah5446Alm25Shlf1GhaDevanagariJyotish",
+  "display_title": "SarSangrah5446Alm25Shlf1GhaDevanagariJyotish",
+  "author": "Unknown",
+  "language": "Sanskrit",
+  "year": 1868,
+  "published": "1868",
+  "pages_count": 119,
+  "pages_with_ocr": 119,
+  "pages_with_translation": 96,
+  "source_url": "https://sourcelibrary.org/book/69907e15b91bcb2db3f6e27e",
+  "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "SarSangrah5446Alm25Shlf1GhaDevanagariJyotish"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:20.966Z",
+  "_hashes": {
+    "ocr": "a048c3553d8707ce",
+    "translation": "bcf814368f29ea5c"
+  }
+}

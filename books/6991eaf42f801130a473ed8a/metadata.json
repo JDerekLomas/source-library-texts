@@ -1,0 +1,28 @@
+{
+  "id": "6991eaf42f801130a473ed8a",
+  "title": "Croquis et dessins de nerfs et vaisseaux",
+  "display_title": "Croquis et dessins de nerfs et vaisseaux",
+  "author": "Leonardo da Vinci",
+  "language": "Italian",
+  "year": 1880,
+  "published": "Unknown",
+  "pages_count": 102,
+  "pages_with_ocr": 102,
+  "pages_with_translation": 102,
+  "source_url": "https://sourcelibrary.org/book/6991eaf42f801130a473ed8a",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "gri_33125017557618"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:31.470Z",
+  "_hashes": {
+    "ocr": "f69848b0b93b372f",
+    "translation": "cc2be4d44c002217"
+  }
+}

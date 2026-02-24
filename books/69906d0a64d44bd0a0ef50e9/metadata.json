@@ -1,0 +1,28 @@
+{
+  "id": "69906d0a64d44bd0a0ef50e9",
+  "title": "Muhurta Martanda with Martanda Vallabha",
+  "display_title": "Muhurta Martanda with Martanda Vallabha",
+  "author": "Unknown",
+  "language": "Sanskrit",
+  "year": 1572,
+  "published": "1572",
+  "pages_count": 117,
+  "pages_with_ocr": 117,
+  "pages_with_translation": 94,
+  "source_url": "https://sourcelibrary.org/book/69906d0a64d44bd0a0ef50e9",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "muhurtamartanda_martandavallabhasahita-CGV-SDPB-0103"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:21.987Z",
+  "_hashes": {
+    "ocr": "aaa8d098fc5bb7b0",
+    "translation": "d3e4aca7281ccd44"
+  }
+}

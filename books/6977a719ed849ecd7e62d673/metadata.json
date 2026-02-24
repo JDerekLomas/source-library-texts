@@ -1,0 +1,26 @@
+{
+  "id": "6977a719ed849ecd7e62d673",
+  "title": "Cato chemicus tractatus quo verae ac genuinae philosophiae hermeticae, & fucatae ac sophisticae pseudo chemiae & utriusque magistrorum characterismi accurate delineantur",
+  "display_title": "Cato chemicus tractatus quo verae ac genuinae philosophiae hermeticae, & fucatae ac sophisticae pseudo chemiae & utriusque magistrorum characterismi accurate delineantur",
+  "author": "[Hanneman, Johann Ludwig]",
+  "language": "Latin",
+  "year": 1690,
+  "published": "1690",
+  "pages_count": 110,
+  "pages_with_ocr": 110,
+  "pages_with_translation": 81,
+  "source_url": "https://sourcelibrary.org/book/6977a719ed849ecd7e62d673",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:25.664Z",
+  "_hashes": {
+    "ocr": "6be22a0c91b6075d",
+    "translation": "f93cf77ebd7f15e3"
+  }
+}

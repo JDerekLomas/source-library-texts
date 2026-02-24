@@ -1,0 +1,28 @@
+{
+  "id": "69907975b621b177c1af7bf1",
+  "title": "Prashna Chandeshwar",
+  "display_title": "Prashna Chandeshwar",
+  "author": "Unknown",
+  "language": "Sanskrit",
+  "year": 1900,
+  "published": "1900",
+  "pages_count": 103,
+  "pages_with_ocr": 103,
+  "pages_with_translation": 83,
+  "source_url": "https://sourcelibrary.org/book/69907975b621b177c1af7bf1",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "prashna-chandeshvar"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:30.040Z",
+  "_hashes": {
+    "ocr": "091f91bf1e97cd8d",
+    "translation": "83f54e2e94fc4645"
+  }
+}

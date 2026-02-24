@@ -1,0 +1,28 @@
+{
+  "id": "699069002f82e0fda480401e",
+  "title": "Jyothisha Marga Deepika",
+  "display_title": "Jyothisha Marga Deepika",
+  "author": "Anonymous",
+  "language": "Sanskrit",
+  "year": 1928,
+  "published": "Unknown",
+  "pages_count": 108,
+  "pages_with_ocr": 108,
+  "pages_with_translation": 108,
+  "source_url": "https://sourcelibrary.org/book/699069002f82e0fda480401e",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "in.ernet.dli.2015.277940"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:27.375Z",
+  "_hashes": {
+    "ocr": "734c64d63105b6f3",
+    "translation": "dcc87ab9accc062d"
+  }
+}

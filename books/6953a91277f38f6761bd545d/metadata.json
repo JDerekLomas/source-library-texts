@@ -1,0 +1,28 @@
+{
+  "id": "6953a91277f38f6761bd545d",
+  "title": "Ephraem Syri Opera Omnia (Greek/Latin)",
+  "display_title": "Ephraem Syri Opera Omnia (Greek/Latin)",
+  "author": "Ephrem the Syrian",
+  "language": "Greek",
+  "year": 1746,
+  "published": "1746",
+  "pages_count": 100,
+  "pages_with_ocr": 100,
+  "pages_with_translation": 100,
+  "source_url": "https://sourcelibrary.org/book/6953a91277f38f6761bd545d",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "assemani-et-alii-1732-1746-ephraem-syri-opera-omnia-gr-lt-2"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:32.560Z",
+  "_hashes": {
+    "ocr": "e06eef9ae058cb99",
+    "translation": "f801b9fb8eddf6a3"
+  }
+}

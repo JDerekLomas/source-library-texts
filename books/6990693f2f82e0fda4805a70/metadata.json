@@ -1,0 +1,28 @@
+{
+  "id": "6990693f2f82e0fda4805a70",
+  "title": "Tajika Neelakanthi",
+  "display_title": "Tajika Neelakanthi",
+  "author": "Neelakantha; ed. Anonymous",
+  "language": "Sanskrit",
+  "year": 1917,
+  "published": "Unknown",
+  "pages_count": 110,
+  "pages_with_ocr": 110,
+  "pages_with_translation": 110,
+  "source_url": "https://sourcelibrary.org/book/6990693f2f82e0fda4805a70",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "in.ernet.dli.2015.312318"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:25.984Z",
+  "_hashes": {
+    "ocr": "da89a9c2fec8bb78",
+    "translation": "0bc350942466d858"
+  }
+}

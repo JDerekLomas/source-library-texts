@@ -1,0 +1,26 @@
+{
+  "id": "6970e3769b09d309d780a2ac",
+  "title": "Anhaltische Cantzley 6. Theil",
+  "display_title": "Anhaltische Cantzley 6. Theil",
+  "author": "anonymous",
+  "language": "German",
+  "year": 1625,
+  "published": "1625",
+  "pages_count": 108,
+  "pages_with_ocr": 108,
+  "pages_with_translation": 107,
+  "source_url": "https://sourcelibrary.org/book/6970e3769b09d309d780a2ac",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:26.925Z",
+  "_hashes": {
+    "ocr": "8b664d43e2feb9dd",
+    "translation": "22113c00aa5739ba"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "6992ce6f77d26f9321776dcc",
+  "title": "武備志(六十一)",
+  "display_title": "武備志(六十一)",
+  "author": "茅元儀",
+  "language": "Chinese",
+  "year": 1621,
+  "published": "Unknown",
+  "pages_count": 102,
+  "pages_with_ocr": 102,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/6992ce6f77d26f9321776dcc",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "02092319.cn"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:28:31.087Z",
+  "_hashes": {
+    "ocr": "4566a7bccc75725c",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

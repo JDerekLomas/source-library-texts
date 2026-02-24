@@ -1,0 +1,28 @@
+{
+  "id": "69906055ef12272ffdc8cd84",
+  "title": "Chamatkara Chintamani",
+  "display_title": "Chamatkara Chintamani",
+  "author": "Bhattotpala",
+  "language": "Sanskrit",
+  "year": 950,
+  "published": "Unknown",
+  "pages_count": 104,
+  "pages_with_ocr": 104,
+  "pages_with_translation": 104,
+  "source_url": "https://sourcelibrary.org/book/69906055ef12272ffdc8cd84",
+  "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "chamatkarachintamanigangadhargovindsapkargopaljoshidiksitasatawelkar1865_202003_139_"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:29.218Z",
+  "_hashes": {
+    "ocr": "622963517934aead",
+    "translation": "1601d3ecab371886"
+  }
+}

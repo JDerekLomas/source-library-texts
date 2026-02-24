@@ -1,0 +1,3045 @@
+--- Page 1 ---
+<language>Chinese</language>
+<page-type>title-page</page-type>
+<meta>This is the cover or title slip of a traditional Chinese thread-bound book. The text is written vertically on a white label pasted onto a dark blue cover.</meta>
+
+# 新編直指算法統宗
+
+<image-desc>A dark blue book cover with a white vertical title strip on the left side. On the far right, the white threads of a traditional Chinese four-hole stitched binding are visible.</image-desc>
+
+<vocab>新編 (New Edition), 直指 (Direct Pointer/Guide), 算法統宗 (Suanfa Tongzong / General Source of Computational Methods), 程大位 (Cheng Dawei)</vocab>
+
+--- Page 2 ---
+<language>Chinese</language>
+<page-type>text</page-type>
+<page-num>一</page-num>
+<header>算法統宗 卷二</header>
+
+# 新編直指算法統宗卷之二
+
+->新安 賓渠程大位汝思甫 編集<-
+->曾孫 肅若亭 光紳佩章甫 較正<-
+->蒞蘊齋 鈁洪聲甫 參閱<-
+
+---
+
+### 分別法實左圖右
+
+<image-desc>
+A diagram illustrating the layout of a Chinese abacus (suanpan) for division or multiplication. At the top, two lozenge-shaped frames contain the characters "實" (Shi - dividend/product) on the left and "法" (Fa - divisor/multiplier) on the right. Below them is a representation of an abacus with beads. 
+
+The abacus is labeled "初學盤式" (Disk layout for beginners). 
+The left side of the abacus (under Shi) is labeled with units: 萬 (Ten-thousand), 千 (Thousand), 百 (Hundred), 十 (Ten), 兩 (Tael), 錢 (Mace), 分 (Candareen). 
+The right side (under Fa) is labeled with units: 十 (Ten), 石 (Dan), 斗 (Dou), 升 (Sheng), 合 (Ge).
+
+Below the abacus, a flow chart explains the positioning:
+- On the left: "實之首位" (First digit of Shi) and "實之末位" (Last digit of Shi) lead to "實為子" (Shi is the numerator/child) and the label "動" (Moving). It notes "為前位在左" (The leading position is on the left) and "為次位在下" (The next position is below).
+- On the right: "法之首位" (First digit of Fa) and "法之末位" (Last digit of Fa) lead to "法為母" (Fa is the denominator/mother) and the label "靜" (Static).
+</image-desc>
+
+<vocab>算法統宗, 程大位, 實, 法, 盤式, 算盤</vocab>
+
+--- Page 3 ---
+<language>Chinese</language>
+<page-type>text</page-type>
+
+<header>九因</header>
+
+凡二至九單位者用此置物為實以價為法呼九九合
+數言十就身言如隔位從末位筭起用九歸還原
+
+### 因法敷曰
+
+合數九因須記熟 | 起手先從末位推
+-|-
+言十就身如隔位 | 若要還原用九歸
+
+### 歸因總歌
+
+歸從頭上起 | 因從足下生
+-|-
+逢如須隔位 | 言十在本身
+
+假如今有銀一百二十三兩四錢每銀一兩糴米二石問
+
+<vocab>九因, 因法, 歸因, 算學, 珠算</vocab>
+
+--- Page 4 ---
+<language>Chinese</language>
+<page-type>text</page-type>
+
+共該米若干
+
+->答曰二百四十六石八斗<-
+
+法曰置銀于左為實以每銀糴米二石于右為法因之合問〇定位法只認両下位<gloss>即錢之位</gloss>定石逆上<gloss>即両之位</gloss>定十石再上位<gloss>十両之位</gloss>定百石合得
+
+此所謂因乘俱向下位推 先數原實百起順下至両遇法首位每両二石則止下位得術是不回向前逐位逆數陞上合得也
+
+今列布筭之方于後
+
+<margin>
+法<insert>看</insert>為因
+</margin>
+
+<vocab>米, 石, 斗, 銀, 實, 法, 因, 定位法, 筭</vocab>
+
+--- Page 5 ---
+<language>Chinese</language>
+<page-type>text</page-type>
+<page-num>十一</page-num>
+<header>算法統宗 卷二</header>
+
+<image-desc>A mathematical diagram illustrating abacus calculation methods (Suanpan). It features vertical columns with circled numbers representing place values (hundreds, tens, units) and instructional text for multiplication/division steps. The layout uses traditional Chinese grid lines to separate different mathematical rules and examples.</image-desc>
+
+此所謂逢一如偶位者也
+
+| 實尾位 | | | 積位 |
+| :--- | :--- | :--- | :--- |
+| 𠀫 <gloss>起呼</gloss> | 㪷 | 升 | 百 |
+| 二如八 | 三如六 | 二如四 | 一如二 |
+| 本位除八 | 本位除六 | 本位除四 | 本位除二 |
+| 下位加八 | 下位加六 | 下位加四 | 下位加二 |
+
+<margin>
+是石也回向前連數
+逐位陞之合得
+法上是每兩二石遇兩即止
+下一位得桁是石也
+</margin>
+
+<margin>
+疋位
+</margin>
+
+疋 <gloss>原</gloss>
+兩 <gloss>法</gloss>
+十
+百 <gloss>起呼百往後順數至兩</gloss>
+
+合得
+百
+四十
+石
+斗
+
+---
+
+還原 用二歸法詳後
+
+逢二進一十
+逢四進二十
+逢六進三十
+逢八進四十
+
+---
+
+假如今有米二百三十四石五斗每石賣銀二錢問共該銀若干
+
+<vocab>算法統宗, 程大位, 算盤, 乘法, 除法, 歸除, 斤兩, 貨幣計算</vocab>
+
+--- Page 6 ---
+<language>Chinese</language>
+<page-type>text</page-type>
+
+答曰共該銀七十兩零三錢五分
+
+法曰置所有米爲實以所求價爲法因之
+
+定位 <gloss>先數原實百起順下至石止下一位得術是錢回向前逆數陞上合得</gloss>
+
+法 <insert>原</insert> 因
+
+---
+
+實 <insert>起</insert> 呼
+三一十五 <gloss>變五爲一</gloss> <gloss>下位加五</gloss>
+五一十二 <gloss>變四爲一</gloss> <gloss>下位加二</gloss>
+三一
+三如九 <gloss>本位除去</gloss> <gloss>下位加九</gloss>
+二如六 <gloss>本位除去</gloss> <gloss>下位加六</gloss>
+
+<image-desc>A calculation diagram showing the arrangement of numbers and positional markers (circles with characters like 實, 尾, 首, 百, 十, 石) used for abacus or rod calculus operations.</image-desc>
+
+定位 <gloss>是錢也回向前逆陞合得</gloss>
+<margin>法上是每石三錢遇石即止下一位是錢也</margin>
+
+還原 用三歸 法詳後
+
+<vocab>銀, 兩, 錢, 分, 實, 法, 定位, 歸, 石</vocab>
+
+--- Page 7 ---
+<language>Classical Chinese</language>
+<page-type>text</page-type>
+<header>算法統宗卷之二</header>
+<page-num>三</page-num>
+
+逢六進二十　　三一三十一　　三一三十一
+逢三進一十　　三一三十一　　逢六進二十
+
+---
+
+假如有人借去本銀二百五十八兩二錢每年加四還利
+問該利銀若干
+
+->答曰　一百零三兩二錢八分<-
+
+法曰置本銀為實以利<gloss>四</gloss>錢為法因之合問 <margin>定位照前</margin>
+
+法<gloss>因</gloss>
+
+| 實 | 義 | 題呼 | 二如八 | 本位除去 | 定位 | <gloss>合</gloss> |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 尾 | <gloss>銀</gloss> | 四四 | <gloss>下位加八</gloss> | | <gloss>正</gloss> | 是錢也因向前述 |
+| | <gloss>命</gloss> | 八四 | 三十二 | 變八為三下位加二 | <gloss>兩</gloss> | 陸合得 |
+| | | | | | | 法上是每兩加四遇兩即止下一位是錢也 |
+| | | | | | <gloss>分</gloss> | <gloss>論</gloss> |
+
+<vocab>算法統宗, 利銀, 本銀, 實, 法, 因, 定位</vocab>
+
+--- Page 8 ---
+<language>Chinese</language>
+<page-type>text</page-type>
+
+<image-desc>The page contains several circular symbols used as mathematical or structural markers. These include circles containing the characters "平" (level), "實" (dividend/solid), "首" (head/start), and "法" (divisor/method), as well as a circle with a cross and an empty circle at the bottom right.</image-desc>
+
+<margin>
+實
+首
+</margin>
+平 四五得二十 變五為二
+二如入 <gloss>本位除去原</gloss>
+四如入 <gloss>下位加入實</gloss>
+<margin>
+起
+</margin>
+<gloss>呼百往後合</gloss>
+<gloss>願數至而得</gloss>
+還原 用四歸 法詳後
+
+四一二十二 四二添作五 四三七十二
+逢四進一十 逢八進二十
+
+假如今有穀二百四十六石九斗每石碾米五斗問該白米若干
+
+答曰 一百二十三石四斗五升
+
+法曰置穀為實以每石碾米五斗為法因之合問
+<margin>
+法
+</margin>
+因
+
+<vocab>穀, 石, 斗, 升, 碾米, 實, 法, 四歸, 還原</vocab>
+
+--- Page 10 ---
+<language>Classical Chinese</language>
+<page-type>text</page-type>
+<meta>Vertical text reading from right to left. Contains mathematical diagrams and calculations.</meta>
+
+答曰　一千四百一十四兩一錢四分
+
+法曰置木為實以每根價銀六分為法因之合問
+
+法 ❻ 因
+
+<image-desc>A mathematical calculation chart arranged in vertical columns. The top section represents the "Shi" (dividend/multiplicand) and the bottom section represents the "Ding Wei" (positioning/result). Circles contain numerical units like Wan (10,000), Qian (1,000), Bai (100), Shi (10), and Gen (unit/root).</image-desc>
+
+| 實尾 | | | | | 實首 |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| ㊦ | ㊉ | ㊫ | ㊦ | ㊦ | ㊦ |
+| 起呼六 | 六六 | 六五 | 六三 | 六二 | |
+| 五十四 | 三十六 | 得三十 | 一十八 | 一十二 | |
+| 變九為五 | 變六為三 | 變五為三 | 變三為一 | 變二為一 | |
+| 下位加四 | 下位加六 | | 下位加八 | 下位加二 | |
+| | | | | | |
+| 定位 | | | | | 原實 |
+| ㊦ | ㊉ | ㊫ | ㊦ | ㊦ | ㊦ |
+| 是分也回向前逆陞合得 | 法上是每根六分還根即止下一位是分也 | | | | 起呼萬在後合 |
+| ❹ | 錢 | ㊉ | ㊫ | ㊦ | ㊦ |
+| | | | | | 順數至根件 |
+| | | | | | 五 |
+
+<margin>
+算法統宗
+卷十一
+</margin>
+
+<vocab>算法統宗, 實, 法, 因, 定位, 兩, 錢, 分</vocab>
+
+--- Page 11 ---
+<language>Chinese</language>
+<page-type>text</page-type>
+<meta>Traditional Chinese woodblock print, vertical layout with ruled columns</meta>
+
+還原　　　用六歸　法詳後
+
+六一下加四　　逢六進一十　　六二三十二
+六三添作五　　六四六十四　　六五八十二
+逢六進一十
+
+假如秋粮米二萬三千四百五十七石九斗每石科銀七錢問共該銀若干
+
+答曰　　一萬六千四百二十兩零五錢三分
+
+法曰置粮米爲實以每石<term>七錢</term>爲法因之合問
+
+<margin>法<insert>七錢</insert>因</margin>
+
+<insert>定位</insert>
+
+<vocab>還原, 六歸, 秋粮, 石, 斗, 兩, 錢, 分, 實, 法, 因, 定位</vocab>
+
+--- Page 12 ---
+<language>Chinese</language>
+<page-type>text</page-type>
+<page-num>六</page-num>
+<header>算法統宗 卷二</header>
+
+<image-desc>A complex mathematical diagram or table illustrating the "Return to Origin" (還原) method using the divisor seven (用七歸). The layout features vertical columns with circular symbols at the top and bottom representing numerical positions or units (such as 萬, 千, 百, 十, 石). Between these symbols are mathematical mnemonic verses and instructions for abacus calculation.</image-desc>
+
+### 還原 用七歸 法詳後
+
+| 實首 | | | | | 實尾 |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| 萬 | 千 | 百 | 十 | 石 | 斗 |
+| 七二一十四 | 七三二十一 | 七四二十八 | 七五三十五 | 七七四十九 | 呼七九六十三 |
+| 變二為一 下位加四 | 變三為二 下位加一 | 變四為二 下位加八 | 變五為三 下位加五 | 變七為四 下位加九 | 變九為六 下位加三 |
+| 原實 萬 | 千 | 百 | 十 | 石 | 斗 |
+| 呼萬往後合 順數至石得 萬 | | | | 法上是每石七錢還石 歸此下一位是錢也 | 是錢也回向前逆 陞合得 斗 |
+
+---
+
+七一加三
+
+逢七進一十
+
+七二下加六
+
+逢七進一十
+
+七三四十二
+
+七四五十五
+
+七五七十一
+
+逢七進一十
+
+七六八十四
+
+逢七進一十
+
+<vocab>算法統宗, 還原, 七歸, 珠算, 萬, 千, 百, 十, 石, 斗</vocab>
+
+--- Page 13 ---
+<language>Chinese</language>
+<page-type>text</page-type>
+
+假如今有軍人一百三十四萬五千六百七十九名每名
+給米八斗問共該米若干
+
+->答曰 一百零七萬六千五百四十三石二斗<-
+
+法曰置軍人爲實以每名給米八斗爲法因之合問
+
+法 ◯ 因
+
+<image-desc>
+A mathematical diagram illustrating a multiplication method (likely related to the abacus or "suanpan" positioning). It consists of a grid with circles containing characters and numerical calculations. 
+- Top row: Circles containing "實" (Dividend/Multiplicand), "尾" (Tail), and numerical symbols.
+- Middle section: Vertical columns of numbers showing multiplication steps (e.g., 8x9=72, 8x7=56, 8x6=48) with instructions on shifting positions ("變九爲七", "下位加二").
+- Bottom row: Circles containing "百", "十", "名", and "正" (Position markers).
+- Annotations: "定位" (Determining position) and notes explaining the decimal shift for "斗" (dou) units.
+</image-desc>
+
+<margin>
+實 ◯
+尾 〼
+起 呼
+八九 七十二
+變九爲七 下位加二
+</margin>
+
+<margin>
+〼
+八七 五十六
+變七爲五 下位加六
+</margin>
+
+<margin>
+〼
+八六 四十八
+變六爲四 下位加八
+</margin>
+
+<insert>
+定位
+是斗也因向前進一位合得
+法上是每名八斗遇名即立下一位是斗也
+</insert>
+
+<vocab>軍人, 米, 斗, 石, 實, 法, 因, 定位</vocab>
+
+--- Page 14 ---
+<language>Chinese</language>
+<page-type>text</page-type>
+
+<image-desc>A page of Chinese mathematical text organized into vertical columns with grid lines. The right side contains several circular diagrams containing characters (likely representing numerical positions or units) connected by vertical lines to calculation rules. The left side contains a word problem and further arithmetic rules.</image-desc>
+
+| | | | | | | | |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| | | | | | ㊦ | ㊤ | ㊦ |
+| | | | | | | | |
+| | | | | 八五得四十 | 變五爲四 | | |
+| | | | | 八四三十二 | 變四爲三 | | |
+| | | | | 八三二十四 | 變三爲二 | | |
+| | | | | 八一如八 | 下位加八 | | |
+| | | | 還原 | | | | |
+| | | | | | | | |
+| | | | 歸除 | | | | |
+| | | | | | | | |
+| | | | 法詳後 | | | | |
+| | | | | | | | |
+| | | | | | | | |
+| | | | | | | | |
+| | | | | | | | |
+| | | | | | | | |
+| | | | | | | | |
+| | | | | | | | |
+
+<note>The table above represents the structural layout of the upper right section; however, the text is primarily a series of mathematical mnemonic rules (koujue) for abacus or rod calculation.</note>
+
+八五得四十　變五爲四
+八四三十二　變四爲三
+八三二十四　變三爲二
+八一如八　　下位加八
+
+<margin>
+下位加八
+本位除去
+</margin>
+
+還原　開八歸　法詳後
+
+八一一下加二　　八二二下加四　　四下五除一
+逢八進一十
+八三三下加六　　逢八進一十
+八四添作五　　　八五六十二　　　八六七十四
+八七八十六　　　逢八進一十
+
+假如濕穀一千二百三十四石五斗六升七合九勺每石
+
+<vocab>歸除, 還原, 濕穀, 石, 斗, 升, 合, 勺</vocab>
+
+--- Page 15 ---
+<language>Chinese</language>
+<page-type>text</page-type>
+<page-num>七</page-num>
+<header>算法統宗 卷二</header>
+
+> 晒得乾穀九斗問該乾穀若干
+> 答曰一千一百一十一石一斗一升一合一勺一抄
+> 法曰置濕穀為實以晒乾九斗為法因之合問
+
+---
+
+<image-desc>A mathematical diagram illustrating a division or conversion process. It features a grid with vertical columns containing numbers and instructions. At the top and bottom are circular labels representing units or positions (e.g., 實, 呼, 石, 斗, 升, 合, 勺, 抄). The central text describes the multiplication/division steps: "九九八十一" (9x9=81), "九七六十三" (9x7=63), etc., followed by positional shifting instructions like "下位加八" (add 8 to the lower position).</image-desc>
+
+| 實 | | | | |
+| :--- | :--- | :--- | :--- | :--- |
+| <margin>尾</margin> 箇 | 拾 | 百 | 千 | 萬 |
+| 呼 | | | | |
+| 九九八十一 | 九七六十三 | 九六五十四 | 九五四十五 | 九四三十六 |
+| 變九為八 下位加一 | 變七為六 下位加三 | 變六為五 下位加四 | 變五為四 下位加五 | 變四為三 下位加六 |
+| 定位 | | | | |
+| 是斗也回向前逆陞合得 | | | | |
+| 石 | | | | |
+| 法上是併石乾九斗遇石即止下一位是斗也 | | | | |
+
+<margin>
+法九斗 因
+</margin>
+
+<vocab>算法統宗, 乾穀, 濕穀, 石, 斗, 升, 合, 勺, 抄, 因法</vocab>
+
+--- Page 16 ---
+<language>Chinese</language>
+<page-type>text</page-type>
+<page-num>八</page-num>
+<header>算法統宗 卷二</header>
+
+<image-desc>A diagram illustrating a mathematical calculation using circles containing numbers (representing place values like thousands, hundreds, and tens) and vertical columns of text. The circles are labeled with characters like 千 (thousand), 百 (hundred), and 十 (ten). Lines connect the circles to show the flow of the "returning to the original" (還原) calculation method.</image-desc>
+
+| | | |
+| :--- | :--- | :--- |
+| 三二十七 | 二一十八 | 一如九 |
+| <gloss>變三為二下位加七</gloss> | <gloss>變二為一下位加八</gloss> | <gloss>本位除去下位加九</gloss> |
+
+->還原 用九歸 法詳後<-
+
+| | | |
+| :--- | :--- | :--- |
+| 九一下加一 | 九二下加二 | 九三下加三 |
+| 九四下加四 | 九五下加五 | 九六下加六 |
+| 九七下加七 | 九八下加八 | 逢九進一十 |
+
+### 九歸
+
+凡二至九單位者用此置物為實以價或分物者為法
+呼九歸之歌或進或倍從實首位等起用因法還原
+
+<vocab>算法統宗, 九歸, 還原, 實, 法, 珠算</vocab>
+
+--- Page 17 ---
+<language>Classical Chinese</language>
+<page-type>text</page-type>
+
+->歌曰<-
+
+九歸之法乃分平，湊數從來有現成。
+數若有多歸作十，歸如不盡搭添行。
+
+->又歌<-
+
+學者如何等九歸，九從實上左頭推。
+逢進起身須進上，下加次位以施為。
+
+假如今有米四百五十六石二斗每銀一両糴米二石問共該銀若干
+
+答曰　二百四十三両一錢
+
+法曰置總米為實以每両糴米二石為法歸之合問
+
+<vocab>九歸 (Jiugui), 歌 (Mnemonic song), 實 (Dividend), 法 (Divisor), 糴 (To buy grain), 石 (Dan/Unit of volume), 両 (Tael), 錢 (Mace)</vocab>
+
+--- Page 18 ---
+<language>Classical Chinese</language>
+<page-type>text</page-type>
+<page-num>九</page-num>
+<meta>Vertical text, read right to left. Contains abacus/calculation diagrams.</meta>
+
+定位法只認石上前一位<gloss>即十之位</gloss>定兩逆上<gloss>即百之位</gloss>定十兩再陞上一位定百兩合得
+
+此所謂歸與歸除上位施　先數原實百起順下至石遇法首位是每兩二石則止轉向前一位得令是兩逐位逆數陞上合得也
+
+今列布筭于後
+
+法言 為歸
+
+<image-desc>A vertical calculation diagram with circular markers representing positions on an abacus or counting board. The markers contain characters like 貳 (two), 參 (three), 肆 (four), 石 (shi/unit), and 十 (ten).</image-desc>
+
+<margin>覽位</margin>
+逢二進一十<gloss>本位除去進一位于左</gloss>
+逢六進三十<gloss>本位除去進三位于左</gloss>
+逢八進四十<gloss>本位除去進四位于左</gloss>
+
+<image-desc>A lower diagram showing the positioning of units (石) and tens (十) with explanatory text.</image-desc>
+
+<margin>定位</margin>
+<gloss>法上是每兩二石遇石即此前一位得今是兩也是兩也向前進數逐位陞之合得</gloss>
+
+<vocab>定位法, 歸除, 布筭, 石, 兩</vocab>
+
+--- Page 19 ---
+<language>Classical Chinese</language>
+<page-type>text</page-type>
+<columns>2</columns>
+<meta>Woodblock print, vertical layout with traditional Chinese mathematical notation</meta>
+
+<margin>
+第法<unclear>初分</unclear>
+</margin>
+
+<margin>
+讀位
+<insert>四</insert>
+<insert>起</insert>
+逢四進二十
+<gloss>本位除去進二于左</gloss>
+<insert>實</insert>
+<insert>百</insert>
+<insert>起</insert>
+順呼百往後數至石
+<insert>得</insert>
+<insert>合</insert>
+<insert>二百</insert>
+<insert>四</insert>
+</margin>
+
+->還原 用二因<-
+
+一一如二 二三如六 二四如八 二二如四
+
+假如今有銀八百三十五兩八錢每銀三兩糴米一石問該米若干
+
+答曰 二百七十八石六斗
+
+法曰置總銀爲實以每石價銀<gloss>三兩</gloss>爲法歸之合問定位法只認兩前一位是石送上依次陞之合得
+
+<column-break/>
+
+法<insert>三</insert>歸
+
+<vocab>還原, 二因, 糴米, 實, 法, 歸, 定位法</vocab>
+
+--- Page 20 ---
+<language>Chinese</language>
+<page-type>text</page-type>
+
+<image-desc>A page from a traditional Chinese mathematical or accounting manual. The layout features vertical columns of text separated by lines, with circular symbols containing characters (likely representing units or positions on an abacus) at the top and bottom of calculation columns. The text includes multiplication tables and a word problem involving weights and currency.</image-desc>
+
+| 實 | 實 | | | | 實 | 尾 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| ◯ | <gloss>首</gloss> ◯ <gloss>起</gloss> | ◯ | ◯ | ◯ | ◯ | <gloss>錢</gloss> |
+| | 逢六進二十 | 逢三進一十 | 逢三進一十 | 逢三進一十 | 逢九進三十 | |
+| | 三二六十二 | 三三進一十二 | 三六進二十一 | 三一三十一 | | |
+| | 本位去六進二十左 | 本位去三兆一于左 | 變二為六右位加二 | 本位去六進二十左 | 本位除去進三十左 | |
+| | | 變二為六右位加二 | | 變一為三本位加一 | | |
+
+---
+
+| | | | | | | 定位 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| | <gloss>百</gloss> ◯ <gloss>起</gloss> | <gloss>十</gloss> | | <gloss>兩</gloss> | | 法上是兩遇兩即止前 |
+| | 呼百往後 | 合得 | | | | 一位得令是石也 |
+| | 順數至兩 | | | | | 是石也向前逆點 |
+
+---
+
+### 還原 用三因
+
+三六一十八 三八二十四 三七二十一
+
+二三如六
+
+---
+
+假如今有苧麻七百三十五斤每苧四斤賣銀一錢問該銀若干
+
+<meta>The text is written in vertical columns from right to left. The top section appears to be abacus instructions or specific division/multiplication rules. The middle section contains a multiplication table for the number 3. The bottom section is a practical word problem.</meta>
+
+<vocab>苧麻, 斤, 錢, 銀, 還原, 三因, 本位</vocab>
+
+--- Page 21 ---
+<language>Chinese</language>
+<page-type>text</page-type>
+<header>算法統宗 卷二</header>
+
+答曰 一十八兩三錢七分五厘
+
+法曰置總苧爲實以每錢賣苧四爲法歸之合問
+
+定位法只認斤前一位定錢依次逆陞合得
+
+---
+
+<image-desc>A complex abacus-style calculation diagram with vertical columns and circular markers. The top row contains labels like 法 (Method), 歸 (Division), 實 (Dividend), 尾 (Tail), and 首 (Head). The central section contains vertical strings of numbers and instructions for bead movement. The bottom section contains circular markers for units: 斤 (Catty), 十 (Ten), 百 (Hundred), 千 (Thousand), 兩 (Tael), 錢 (Mace), 分 (Candareen), and 厘 (Cash).</image-desc>
+
+法 歸
+
+四二添作五 <gloss>變二爲五</gloss>
+四三七十二 <gloss>變三爲七右位加二</gloss>
+逢四進一十 <gloss>本位去四進一于左</gloss>
+四一二十二 <gloss>變一爲二右位加二</gloss>
+逢四進一十 <gloss>本位去四進一于左</gloss>
+四三七十二 <gloss>變三爲七右位加二</gloss>
+逢四進一十 <gloss>本位去四進一于左</gloss>
+
+<margin>
+定位
+莊上是四斤遇斤即止
+前一位得令是錢也
+是錢也向前逆陞
+合得
+</margin>
+
+<margin>
+原
+呼百往後
+順數至斤
+</margin>
+
+還原 用四因
+
+---
+
+<vocab>算法統宗, 歸除, 定位, 斤, 兩, 錢, 分, 厘</vocab>
+
+--- Page 22 ---
+<language>Chinese</language>
+<page-type>text</page-type>
+
+| 四五得二十 | 四七二十八 | 三四一十二 |
+| :--- | :--- | :--- |
+| 四八三十二 | 一四如四 | |
+
+假如今有銀一百二十三兩四錢五分，每銀五兩換金一兩，問該金若干？
+
+->答曰：二十四兩六錢九分<-
+
+法曰：置總銀爲實，以五爲法，歸之。合問。
+
+定位法：只認銀兩上前一位是金兩數，逆陞合得。
+
+---
+
+| 法 | 實 | 尾 |
+| :--- | :--- | :--- |
+| <image-desc>Circle containing the character 歸 (gui)</image-desc> | <image-desc>Circle containing the character 逢 (feng)</image-desc> 逢五進一十 <gloss>本位除去進一于左</gloss> | <image-desc>Circle containing the character 錢 (qian)</image-desc> |
+| <image-desc>Circle containing the character 五 (wu)</image-desc> | 五四位作八變四爲八 | <image-desc>Circle containing the character 分 (fen)</image-desc> |
+
+<margin>定位</margin>
+
+<vocab>銀 (silver), 金 (gold), 兩 (tael), 錢 (mace), 分 (candareen), 歸 (division), 實 (dividend), 法 (divisor)</vocab>
+
+--- Page 23 ---
+<language>Chinese</language>
+<page-type>text</page-type>
+<header>算法統宗 卷二</header>
+
+<margin>
+兩 <gloss>法上是銀而遇兩即止 前一位得令是金兩也 是金兩也向前遞陞 合得</gloss> 錢
+</margin>
+
+<margin>
+兩 五三倍作六變三爲六
+</margin>
+
+<margin>
+千 五二倍作四變二爲四
+</margin>
+
+<margin>
+實 百 <gloss>起</gloss> 五一倍作二變一爲二
+</margin>
+
+<margin>
+十
+</margin>
+
+<margin>
+原 百 <gloss>起 呼百往後 順數至兩 合得</gloss> 千
+</margin>
+
+<margin>
+實 百
+</margin>
+
+->還原 用五因<-
+
+五九四十五 五六得三十 四五得二十
+
+二五得一十
+
+又如今有米二十石作五萬人分之問每人該米若干
+
+答曰 四勺
+
+法曰置米爲實以人<gloss>五萬</gloss>爲法歸之合問
+
+定位<gloss>法多實少</gloss>先從實首原位數起逆上至遇法首位是
+
+<vocab>算法統宗, 還原, 五因, 定位, 歸除, 實, 法</vocab>
+
+--- Page 24 ---
+<language>Chinese</language>
+<page-type>text</page-type>
+
+萬則止向前一位得令是石也順數降下合得
+
+法<gloss>萬</gloss> 歸
+
+實<gloss>千</gloss> <gloss>起</gloss> 五二倍作四<gloss>本位加二為四</gloss>
+
+首<gloss>千</gloss>
+
+<image-desc>A diagram consisting of four vertical columns, each topped with an empty circle. Below the circles are various annotations and smaller circles containing characters representing units of measurement.</image-desc>
+
+| | | | |
+|---|---|---|---|
+| 〇 | 〇 | 〇 | 〇 |
+| | | | <gloss>定位</gloss> |
+| | | | 原<gloss>十</gloss> <gloss>起</gloss> 呼十往前逆合<gloss>得</gloss> |
+| | | <gloss>百</gloss> | 數遇法是萬止 |
+| | <gloss>千</gloss> | | |
+| | <gloss>萬</gloss> <gloss>法上是五萬人遇萬即止</gloss> | | |
+| | 前一位得令是石也 | | |
+| <gloss>証</gloss> 是石也退後降小合得<gloss>石</gloss> | <gloss>斗</gloss> | <gloss>升</gloss> | <gloss>合</gloss> |
+
+---
+
+還原 用五因
+
+四五得二十
+
+假如今有銀二百六十五兩三錢二分作六人分之問每
+
+<vocab>萬則止, 歸, 倍作, 定位, 還原, 五因, 銀, 兩, 錢, 分</vocab>
+
+--- Page 25 ---
+<language>Chinese</language>
+<page-type>text</page-type>
+<header>算法統宗 卷之一</header>
+<page-num>三十</page-num>
+
+### 人該銀若干
+
+->答曰 四十四兩二錢二分<-
+
+法曰置銀爲實以六人爲法歸之合問
+
+定位法從原實數百降下次位十幾又次位人幾遇法是人則止前一位得令是兩逆上陞之合得
+
+---
+
+| 法六 | 歸 |
+| :--- | :--- |
+| 實參 | 逢六進一十 <gloss>本位去盡進一于左</gloss> |
+| 尾 | |
+| 貳 | 逢六進一十 <gloss>本位不動右位加四</gloss> |
+| | 六一下加四 |
+| 錢 | 逢六進一十 <gloss>本位去六進一于左</gloss> |
+| | 六一下加四 |
+| 兩 | 逢六進一十 <gloss>本位不動右位加四</gloss> |
+| | 六一下加四 |
+| | 逢六進一十 <gloss>本位去六進一于左</gloss> |
+| | 六二進一十二 <gloss>本位加一右位加二</gloss> |
+| | 逢六進一十 <gloss>本位去六進一于左</gloss> |
+
+---
+
+<margin>定位</margin>
+法上是六人遇人則止前位得令是兩也
+
+<margin>十</margin>
+是兩也向前逆陞合得
+
+<vocab>算法統宗, 歸法, 定位法, 實, 法, 兩, 錢, 分</vocab>
+
+--- Page 26 ---
+<language>Classical Chinese</language>
+<page-type>text</page-type>
+<page-num>十二</page-num>
+<meta>The text is written in vertical columns from right to left. Some characters are enclosed in circles to denote mathematical roles (e.g., 實, 法, 歸).</meta>
+
+實<gloss>首</gloss> 〼 六二三十二 <gloss>變二為三末位加二</gloss> 實<gloss>原</gloss> 〼 <gloss>起</gloss> 呼百往後 顯數至人 合 〼 <gloss>得</gloss>
+
+->還原 用六因<-
+
+二六一十二　　二六一十二　　四六二十四
+四六二十四
+
+假如今有銀七十兩糴大麥七百五十五石一斗六升問
+每銀一兩該麥若干
+
+->答曰 一十石零七斗八升八合<-
+
+法曰置麥為實以總銀七十為法歸之合問 <gloss>定位同前</gloss>
+
+法 〼 歸
+
+實 〼 逢七進一十 <gloss>本位去盡 進一于左</gloss>
+
+尾 〼
+
+---
+
+算法統宗 卷十 <sig>十二</sig>
+
+<vocab>算法統宗, 還原, 六因, 糴, 實, 法, 歸, 定位</vocab>
+
+--- Page 27 ---
+<language>Chinese</language>
+<page-type>text</page-type>
+
+<image-desc>A page from a Chinese mathematical or abacus manual. The layout features vertical columns of text separated by lines. On the right side, there are circular symbols containing characters (likely representing positions or units on an abacus) with corresponding numerical mnemonic phrases. The left side contains a word problem involving the purchase of sheep.</image-desc>
+
+| (平) | 七五七十一 | 变五為七 右位加一 |
+| :--- | :--- | :--- |
+| (等) | 七六八十四 | 变六為八 右位加四 |
+| (辛) | 七五七十一 | 变五為七 右位加一 |
+| 實 | | |
+| 首 | 逢七進一十 | 本位尽去 進一于左 |
+
+<insert>
+定位
+法上是七十遇十即止前一位得全是石進陞合得
+</insert>
+
+| 原 | (百) | 呼百往後至十 |
+| :--- | :--- | :--- |
+| 合得 | (千) | (石) | (斗) | (升) | (合) |
+
+---
+
+### 還原 用七因
+
+七八五十六　　老八五十六　　七七四十九
+
+一七如七
+
+假如今有銀九十八兩九錢二分買羊八十隻問每隻該銀若干
+
+<vocab>還原, 七因, 定位, 斤, 兩, 錢, 分, 羊</vocab>
+
+--- Page 28 ---
+<language>Chinese</language>
+<page-type>text</page-type>
+
+答曰 一兩二錢三分六厘五毫
+
+### 法曰置銀爲實以羊八入爲法歸之合問
+
+---
+
+<image-desc>A complex mathematical diagram illustrating a division or conversion method using circles containing characters (representing positions or units) and vertical columns of instructional text. The diagram shows the movement of values across decimal places or units.</image-desc>
+
+法 ➑ 歸
+
+實 ➃ 
+入四添作五
+<gloss>變四爲五</gloss>
+
+錢 ➑
+入五六十二
+逢八進一十
+<gloss>變五爲六右位加二 本位去八進一于左</gloss>
+
+分 ➑
+入二下加四
+逢八進一十
+<gloss>本位不動右位加四 本位去八進一于左</gloss>
+
+厘 ➑
+入一下加二
+逢八進一十
+<gloss>本位不動右位加二 本位去八進一于左</gloss>
+
+毫 ➑
+入一
+<gloss>原 ➉</gloss>
+<gloss>法上是八十遇十即止 前一位得全是兩也 是兩也本位 合得</gloss>
+
+實 兩 毫位 錢 分 厘 毫
+
+---
+
+### 還原 用八因
+
+五八得四十 六八四十八 三八二十四
+
+<vocab>歸除, 實, 法, 兩, 錢, 分, 厘, 毫, 八因, 還原</vocab>
+
+--- Page 29 ---
+<language>Chinese</language>
+<page-type>text</page-type>
+<meta>Vertical text reading from right to left. The page contains mathematical problems and abacus-style calculation rules.</meta>
+
+二八一十六　一八如八
+
+假如今有銀二百六十五兩三錢二分買椒每斤價銀九分問共該椒若干
+
+答曰　二千九百四十八斤
+
+法曰置總銀爲實以每斤椒價九分爲法歸之合問
+
+---
+
+| 法 | 歸 | <insert>寔位</insert> |
+| :--- | :--- | :--- |
+| <insert>分</insert> | 逢九進一十 <gloss>本位去九進一于左</gloss> | <insert>分</insert> <gloss>法上是九分遇分即止前一位時令是斤地是斤也向前進陞合得</gloss> |
+| <insert>實</insert> <insert>分</insert> | 九七下加七 <gloss>本位不動右位加七</gloss> | <insert>錢</insert> |
+| <insert>錢</insert> | 九四下加四 <gloss>本位不動右位加四</gloss> | <insert>兩</insert> |
+| <insert>兩</insert> | 逢九進一十 <gloss>本位去九進一于左</gloss> | <insert>十</insert> |
+| <insert>十</insert> | 九八下加八 <gloss>本位不動右位加八</gloss> | <insert>百</insert> |
+
+<vocab>銀, 椒, 斤, 兩, 錢, 分, 實, 法, 歸, 逢九進一十</vocab>
+
+--- Page 30 ---
+<language>Chinese</language>
+<page-type>text</page-type>
+<header>算法統宗 卷二</header>
+
+<margin>
+實
+首
+</margin>
+<insert>言</insert> <insert>起</insert> 九二下加二 <gloss>本位不動 右位加二</gloss>
+->還原 用九因<-
+<margin>
+原
+百
+</margin>
+<insert>起</insert> 呼百往後 順數至分 <insert>合</insert> <insert>三</insert> <insert>得</insert>
+
+---
+
+八九七十二 四九三十六 九九八十一
+二九一十八
+
+---
+
+### 乘法
+#### 留頭乘
+
+按因與乘一也單位者謂之因位數多者謂之乘特以此而異其名耳 <gloss>原有破頭乘掉尾乘隔位乘總不如留頭乘之妙故皆不錄</gloss>
+
+->歌曰<-
+
+> 下乘之法此為真 起手先將得二因
+
+<meta>catchword: 去</meta>
+
+<vocab>算法統宗, 乘法, 留頭乘, 因, 歌曰, 九九乘法</vocab>
+
+--- Page 31 ---
+<language>Classical Chinese</language>
+<page-type>text</page-type>
+
+> 三四五來乘遍了　却將本位破其身
+
+用雷頭乘法若依盤式小九數位次先後不一難以挨次今將暗馬數以別先後庶不亂矣<gloss>暗馬式已附一卷大數前</gloss>
+
+假如今有布四百二十五疋每疋價銀二錢五分問共該銀若干
+
+答曰　一百零六兩二錢五分
+
+法曰置布為實以每疋價銀<gloss>二錢五分</gloss>為法乘之合問定位法只認定下一位定錢依次逆數陞上合得也
+
+此所謂因乘俱自下位推
+
+<margin>
+五分
+法二錢
+</margin>
+為乘
+
+<vocab>雷頭乘法, 暗馬, 布, 疋, 價銀, 兩, 錢, 分, 實, 法, 因乘</vocab>
+
+--- Page 32 ---
+<language>Chinese</language>
+<page-type>text</page-type>
+
+<image-desc>
+A page from a Chinese mathematical treatise featuring vertical text columns and a complex diagram at the top right. The diagram consists of several circles containing characters (such as 壹, 貳, 參, 肆, 伍) connected by vertical lines and smaller annotations, representing a positional calculation method or abacus-related logic. Below the diagram are smaller circles labeled with units like 百 (hundred), 十 (ten), and 疋 (bolt/unit).
+</image-desc>
+
+### 還原 用歸除 法詳後
+
+| | | | |
+| :--- | :--- | :--- | :--- |
+| 二一添作五 無除 | 起一下還一 | 四五除二十 | |
+| 逢四進二十 | 二五除一十 | 二一添作五 | |
+| 五五除二十五 | | | |
+
+---
+
+假如今有豆二十八石六斗每斗價銀三分四厘五毫問
+
+<sig>算法統宗 卷二</sig>
+
+<margin>
+定位
+是錢也回向前逆數
+還位陞之合得
+法首位是籌定二幾遇疋即止
+下一位得術是幾也
+</margin>
+
+<insert>
+去
+</insert>
+
+<vocab>算法統宗, 歸除, 定位, 豆, 石, 斗, 銀, 分, 厘, 毫</vocab>
+
+--- Page 33 ---
+<language>Chinese</language>
+<page-type>text</page-type>
+
+### 共該銀若干
+
+->答曰：九両八錢六分七厘<-
+
+法曰置豆爲實以每斗<gloss>三分四厘五毫</gloss>爲法乘之合問<margin>定位同前</margin>
+
+---
+
+<image-desc>A mathematical calculation layout using traditional Chinese rod calculus notation and positional markers. The upper section contains the "Shi" (dividend/product) and "Fa" (multiplier) positions, while the lower section shows the result with unit markers. Circles are used to denote specific positions or zeros.</image-desc>
+
+| 審 | | | 實 尾 | | | | 質 首 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| <insert>五毫</insert> | | | 㪷 | | | | 㪷 |
+| <insert>四厘</insert> | | | <insert>六</insert> | | | | <insert>二</insert> |
+| <insert>三分</insert> | | | <insert>三</insert> | <insert>五</insert> | <insert>四</insert> | <insert>二</insert> | <insert>一</insert> |
+| 乘 | | | <insert>八</insert> | <insert>六</insert> | <insert>六</insert> | <insert>三</insert> | <insert>二</insert> |
+| | | | <insert>一</insert> | <insert>得</insert> | <insert>二</insert> | <insert>入</insert> | <insert>如</insert> |
+| | | | <insert>十</insert> | <insert>四</insert> | <insert>十</insert> | <insert>十</insert> | <insert>六</insert> |
+| | | | <insert>八</insert> | <insert>十</insert> | <insert>四</insert> | <insert>四</insert> | |
+| | | | | | | | |
+| | | | <insert>三二五得一十</insert> | | | | |
+
+---
+
+<margin>定位</margin>
+是分也向前逆陞
+合得 <insert>分</insert> <insert>厘</insert>
+
+<margin>法首位是每斗三分過斗即止下一位算術是分也</margin>
+合得 <insert>錢</insert> <insert>両</insert>
+
+<margin>原</margin>
+<insert>十</insert> <insert>石</insert>
+<margin>起呼十往後順數至斗</margin>
+
+<vocab>銀, 斗, 両, 錢, 分, 厘, 毫, 實, 法, 乘, 定位</vocab>
+
+--- Page 34 ---
+<language>Chinese</language>
+<page-type>text</page-type>
+
+### 還原 用歸除
+
+| | | |
+| :--- | :--- | :--- |
+| 逢六進二十 | 二四如除八 | 二五除一十 |
+| 三二六十二 | 逢六進二十 | 四八除三十二 |
+| 五八除四十 | 三二六十二 | 四六除二十四 |
+| 五六除三十 | | |
+
+假如令有銀三十五兩八錢每銀一兩糴米二石四斗六升八合問該米若干
+
+->答曰 八十八石三斗五升四合四勺<-
+
+法曰置總銀爲實以每兩米數爲法乘之合問 <margin>定位同前</margin>
+
+<margin>
+八合
+六升
+</margin>
+
+<vocab>還原, 歸除, 糴米, 實, 法, 定位</vocab>
+
+--- Page 35 ---
+<language>Chinese</language>
+<page-type>text</page-type>
+<page-num>十七</page-num>
+<header>算法統宗 卷二</header>
+<meta>The page contains mathematical diagrams and tables related to abacus calculations (Suanpan) and grain measurements.</meta>
+
+<image-desc>A mathematical diagram showing the positioning of counters or digits for multiplication and division. At the top, there are circular symbols representing units like "Shi" (石), "Liang" (兩), and "Qian" (錢). Below these are columns of Chinese numerals representing calculation steps. At the bottom, more circular symbols represent various units or positions.</image-desc>
+
+| 實首 | | 實尾 | | | | |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| 羊 | 需 | 錢 | 〇 | 〇 | 〇 | 〇 |
+| 上 | 文 | 三 | 乙 | 乂 | 丄 | <unclear>卌</unclear> | 二 | 三 | 四 |
+| 二 | 三 | 二 | 四 | 二 | 五 | 四 | 五 | 六 | 八 |
+| 三 | 四 | 五 | 五 | 八 | 六 | 八 | 八 | 八 | 八 |
+| 如 | 一 | 得 | 得 | 一 | 得 | 三 | 得 | 四 | 六 |
+| 六 | 十 | 一 | 二 | 十 | 三 | 十 | 四 | 十 | 十 |
+| | 二 | 十 | 十 | 六 | 十 | 二 | 十 | 八 | 四 |
+| | | | 十 | | 上 | | | | |
+| | | | 三 | | 三 | | | | |
+| | | | 六 | | 八 | | | | |
+| | | | 二 | | 二 | | | | |
+| | | | 十 | | 十 | | | | |
+| | | | 八 | | 四 | | | | |
+| 原實 | | | | 定位 | | | | | |
+| 十 | 兩 | 征 | | | | | | | |
+
+<margin>
+舊三石
+四斗
+乘
+</margin>
+
+->還原 用歸除 法詳後<-
+
+<margin>
+是石也向前逆陞
+合得
+法首是每兩米二石遇兩即止
+下一位得衡是石也合
+起呼十仕後
+照數至兩
+</margin>
+
+逢六進三十
+
+三四除一十二
+
+三六除一十八
+
+<image-desc>At the bottom of the page, there are six circular icons containing characters: 羊, 需, 錢, 〇, 〇, 〇 (partially obscured/stylized).</image-desc>
+
+<vocab>算法統宗, 乘, 歸除, 石, 兩, 錢, 實, 法</vocab>
+
+--- Page 36 ---
+<language>Classical Chinese</language>
+<page-type>text</page-type>
+<meta>Vertical layout, read from right to left. Traditional Chinese characters.</meta>
+
+| | | |
+|---|---|---|
+| 三入除二十四 | 二二添作五 | 四五除二十 |
+| 五六除三十 | 五八除四十 | 二二添作五 |
+| 逢六進三十 | 四八除三十二 | 六八除四十八 |
+| 八八除六十四 | | |
+
+假如今有米三百四十五石每石價銀四錢外牙用三厘
+問該銀若干
+
+->答曰 一百三十九兩零三分五厘<-
+
+法曰置總米為實以每石價併牙共<gloss>四錢零三厘</gloss>為法乘之
+合問<gloss>定位同前</gloss>
+
+<margin>三厘</margin>
+
+<vocab>米 (rice), 石 (dan/unit of volume), 價 (price), 銀 (silver), 牙 (brokerage fee), 厘 (li/unit of currency), 兩 (tael), 分 (fen/unit of currency)</vocab>
+
+--- Page 37 ---
+<language>Chinese</language>
+<page-type>text</page-type>
+<header>算法綱目 卷二 法首四錢</header>
+
+# 乘
+
+<image-desc>A series of vertical columns containing mathematical calculations and circular symbols representing numerical positions or counters. The text describes multiplication and division procedures using a rod calculus or abacus-style logic.</image-desc>
+
+| | | | | | |
+|---|---|---|---|---|---|
+| ◯ | ◯ | ◯ | ◯ | | |
+| | ◯<gloss>起</gloss> 三五一十五 | 本位上一<br>右位加五 | <insert>定位</insert> | 是幾也向前逆陞 | <gloss>五厘</gloss> |
+| | ◯ 三三四一十二 | 本位上一<br>右位加二 | <gloss>正</gloss> | 合得 | <gloss>二分</gloss> |
+| 實<gloss>尾</gloss> | ◯<gloss>若</gloss> 三四五得二 | 变五為二 | <gloss>石</gloss> | 法首是每石三錢遇石即止<br>下一他得術是黃也 | ◯ |
+| | ◯ ◯ 三三如九 | <gloss>不進如九是一退一十</gloss> | | | <gloss>九両</gloss> |
+| | <gloss>平</gloss> ✕ 四四一十六 | 本位存一右位加六 | <gloss>十</gloss> | | <gloss>平</gloss> |
+| 實<gloss>首</gloss> | <gloss>百</gloss> ⊝ 二三四一十二 | 本位存一右位加二 | <gloss>原百</gloss> | <gloss>起</gloss> 呼百往後<br>順數至石 | <gloss>余得百</gloss> |
+
+---
+
+->還原 用歸除 法詳後<-
+
+| | |
+|---|---|
+| 四二二十二 | 逢四進一十 | 三三如除九 |
+| 四一二十二 | 逢八進二十 | 三四除一十二 |
+
+<vocab>算法綱目, 乘, 歸除, 定位, 本位, 右位, 實首, 實尾</vocab>
+
+--- Page 38 ---
+<language>Classical Chinese</language>
+<page-type>text</page-type>
+<header>算法統宗 卷二</header>
+<meta>Catchword: 九</meta>
+
+### 四二添作五　　三五除一十五
+
+假如今有田二千三百四十五畝，每畝科粮一斗八升七合，問該粮米若干。
+
+->答曰　四百三十八石五斗一升五合<-
+
+法曰：置總田為實，以每畝科米<gloss>一斗八升七合</gloss>為法，乘之合問。
+
+<image-desc>A vertical calculation diagram using circles and Chinese numerals to represent abacus positions or rod calculus steps. The diagram includes labels for units and multipliers.</image-desc>
+
+| <margin>七合</margin> | <margin>八升</margin> | <margin>一斗</margin> |
+| :--- | :--- | :--- |
+| ◯ | ◯ | ◯ |
+| 二 | 三 | 四 |
+| 五 | 五 | 五 |
+| 三 | 八 | 七 |
+| 十 | 得 | 二 |
+| 五 | 四 | 十 |
+| | 八 | 八 |
+
+<margin>
+[定位]
+(石) 是斗也向前逆陞
+合得
+</margin>
+
+<vocab>算法統宗, 畝, 粮, 石, 斗, 升, 合, 實, 法, 乘</vocab>
+
+--- Page 39 ---
+<language>Chinese</language>
+<page-type>text</page-type>
+
+<image-desc>
+A page from a traditional Chinese mathematical treatise. The layout features vertical columns of text separated by lines. On the right side, there is a complex diagrammatic representation of a calculation method involving circles containing characters (likely representing numerical positions or units) connected by vertical lines and numerical sequences. The text includes mathematical formulas and a word problem.
+</image-desc>
+
+### 還原 用歸除 法詳後
+
+逢二進一十　　二八除一十六　二七一十四
+逢三進三十　　三八除二十四　三七二十一
+逢四進四十　　四八除三十二　四七二十八
+逢五進五十　　五八除四十　　五七三十五
+
+假如今有直田長三十六步三分濶七步四分問該田積
+
+<column-break/>
+
+<margin>
+注首是每亂一斗遇畝即止下一位得術是斗也
+</margin>
+
+| 實尾 | | | | 實首 |
+| :--- | :--- | :--- | :--- | :--- |
+| 畝 | 單 | 十 | 百 | 千 |
+| 三一五如五 | 二一四如四 | 二一三如三 | 十一二如二 | 二一二如二 |
+| 四一八三十二 | 三一八二十四 | 三一八二十四 | 十一三如三 | |
+| 二三七二十一 | 四一二七二十四 | | 十一六 | |
+| | | | | |
+| 畝 | 十 | 百 | 原實千 | |
+| | | | 越呼千往後 | |
+| | | | 熈數至畝 | |
+| | | | | |
+| 合 | 千 | 骨 | 得 | |
+
+<vocab>還原, 歸除, 直田, 步, 分, 畝, 實, 術</vocab>
+
+--- Page 40 ---
+<language>Classical Chinese</language>
+<page-type>text</page-type>
+
+若干
+->答曰 二百六十八步六分二厘<-
+
+法曰置長為實以濶<gloss>七步四分</gloss>為法乘之合問
+定位法只認步下一位是法首步數逆上合得也
+
+---
+
+<image-desc>A calculation diagram using rod calculus notation (suanpan/counting rods) arranged in vertical columns. The top section is labeled "實" (Dividend/Product) with "尾" (Tail) and "首" (Head) markers. The middle section contains the multiplier/divisor "法" and the operator "乘" (Multiply). The bottom section shows the "定位" (Positioning) logic with annotations explaining the decimal alignment.</image-desc>
+
+| 實尾 | | | | 實首 |
+| :--- | :--- | :--- | :--- | :--- |
+| 〇 | 〣 | 〣 | 〤 | 〣 |
+| | 三 | 三 | 六 | 三 |
+| | 七 | 七 | 七 | 七 |
+| | 二 | 二 | 四 | 二 |
+| | 十 | 十 | 十 | 十 |
+| | 一 | 四 | 二 | 一 |
+
+<margin>
+法首在步下
+</margin>
+
+| 乘 |
+| :--- |
+| 〤 |
+| 七 |
+
+---
+
+| 定位 | | 步 | | 原 |
+| :--- | :--- | :--- | :--- | :--- |
+| <gloss>是步也向前逆陞合得</gloss> | | <gloss>只認步下一位定法首位是步也</gloss> | | <gloss>呼十在後至步</gloss> |
+| 厘 | 分 | 步 | 十 | 百 |
+| 〇 | 〦 | 〨 | 〦 | 二 |
+
+<vocab>若干, 實, 法, 乘, 定位, 步, 分, 厘</vocab>
+
+--- Page 41 ---
+<language>Chinese</language>
+<page-type>text</page-type>
+<header>算法統宗 卷之二</header>
+<page-num>三十</page-num>
+
+### 還原 用歸除 法詳後
+
+| | | |
+| :--- | :--- | :--- |
+| 七二下加六 | 逢七進一十 | 三四除一十二 |
+| 七四五十五 | 逢七進一十 | 四六除二十四 |
+| 七二下加六 | 逢七進一十 | 三四除一十二 |
+
+假如今有田長七十五步濶三十二步問積若干
+->答曰 二千四百步<-
+
+法曰置長爲實以濶爲法乘之合問
+->定位法只認原實步下一位定法首十逆陞合得<-
+
+<margin>
+法三十
+</margin>
+<insert>
+定法
+</insert>
+乘
+<insert>
+定位
+</insert>
+<insert>
+位
+</insert>
+二五得一
+<insert>
+位
+</insert>
+是十也同向前逆陞一位爲百又前一位爲千合得
+
+<vocab>算法統宗, 還原, 歸除, 田長, 步, 濶, 積, 定位法</vocab>
+
+--- Page 42 ---
+<language>Chinese</language>
+<page-type>text</page-type>
+
+<image-desc>The page contains vertical columns of Chinese text with mathematical notations. There are several circled characters used as markers or variables, such as 乘 (multiply), 實 (dividend/product), 法 (divisor), and numbers. Small annotations are placed between the main lines of text. On the far left, there are circular diagrams representing numerical positions or counters, with a vertical calculation showing "二六六三十六" (2 x 6 = 12, 6 x 6 = 36 logic).</image-desc>
+
+假如今有方田長濶各一百二十六步問該積步若干
+->答曰 一萬五千八百七十六步<-
+法曰置方面<gloss>一百二十六步</gloss>爲實亦置<gloss>一百二十六步</gloss>爲法即自乘之
+->合問<-
+
+<margin>
+(六步)
+(二十)
+(一百)
+</margin>
+<margin>
+舊曰面
+</margin>
+->乘<-
+
+<margin>
+只認步下一位定法首
+是十也
+呼十從後至步
+</margin>
+
+| <image-desc>Circled 乘</image-desc> | 三三五一十五 |
+| :--- | :--- |
+| | 三二七一十四 |
+| <image-desc>Circled 實</image-desc> | |
+| <image-desc>Circled 七十</image-desc> | 乂三七二十一 |
+
+<margin>
+原 <image-desc>Circled 十</image-desc>
+</margin>
+<margin>
+合 <image-desc>Circled 二千</image-desc>
+</margin>
+<margin>
+得 <image-desc>Circled 三百</image-desc>
+</margin>
+
+---
+
+<image-desc>Two circles at the top of a column</image-desc>
+二六六三十六
+<insert>定位</insert>
+
+<image-desc>Circled 步</image-desc>
+<image-desc>Circled 四十</image-desc>
+<image-desc>Circled 乘</image-desc>
+<image-desc>Circled 七十</image-desc>
+
+<vocab>方田, 積步, 自乘, 實, 法, 定位, 步, 方面</vocab>
+
+--- Page 43 ---
+<language>Chinese</language>
+<page-type>text</page-type>
+<header>算法統宗 卷二</header>
+<page-num>二十一</page-num>
+<meta>Catchword: 主</meta>
+
+<image-desc>A complex diagram illustrating abacus calculation methods (Suanpan). It features vertical columns with circles containing numbers or positional markers (e.g., 百, 十, 步). Small vertical strokes represent counting rods or abacus beads. Text is interspersed within the diagram to explain the mathematical operations of "Returning to the Origin" (還原) and "Division" (歸除).</image-desc>
+
+### 還原 用歸除 法詳後
+
+| 實 | 實 | 實 | 實 | 實 |
+| :--- | :--- | :--- | :--- | :--- |
+| <margin>首</margin> ◯ | <margin>尾</margin> ◯ | ◯ | ◯ | ◯ |
+| 百 | 步 | 十 | 步 | ◯ |
+| 文 | 乂 | 上 | 川 | ◯ |
+| 一 | 二 | 一 | 一 | 二 |
+| 一 | 二 | 一 | 六 | 六 |
+| 如 | 如 | 如 | 如 | 如 |
+| 一 | 四 | 二 | 六 | 十 |
+| | | | | 二 |
+
+<margin>
+是百也向前進陞  
+合得  
+只認步下一位定法首  
+是百也
+</margin>
+
+---
+
+| 逢一進一十 | 一二如除二 | 一六如除六 |
+| :--- | :--- | :--- |
+| 逢二進二十 | 二二如除四 | 二六除一十二 |
+| 逢六進六 | 二六除一十二 | 六六除三十六 |
+
+---
+
+### 歸除
+
+凡二至九位數多者用此置物爲實以價或分者爲法
+
+<vocab>算法統宗, 歸除, 還原, 實, 法, 算盤, 珠算</vocab>
+
+--- Page 44 ---
+<language>Chinese</language>
+<page-type>text</page-type>
+
+先將法首對實首呼九歸歌或進或倍後將法次位
+對所歸數呼九九數除之用乘法還原
+
+---
+
+->歌曰<-
+
+惟有歸除法更奇 <gloss>等學中惟歸除最妙</gloss>
+將身歸了次除之 <gloss>先將本位呼歸法歸之其次不拘幾位俱呼小九九數除之</gloss>
+有歸若是無除數 <gloss>若本位有子可歸次位無子可除也</gloss>
+起一還將原數施 <gloss>如一一歸本位起一下位還一如二歸本位起一下一位還二餘歸倣此</gloss>
+或遇本歸歸不得 <gloss>如一一歸只一子二歸只二子因下位無子可除故不能歸也餘倣此</gloss>
+撞歸之法莫教遲 <gloss>如一歸見一無除加入撞湊作九下位加一如撞歸乾除數不足照前用起一還原法</gloss>
+若人識得中間意 <gloss>如學者曉得歸除中間之理深奧也</gloss>
+
+<meta>Catchword: 三</meta>
+
+<vocab>歸除法, 九歸歌, 乘法, 還原, 撞歸, 算學</vocab>
+
+--- Page 45 ---
+<language>Chinese</language>
+<page-type>text</page-type>
+<page-num>三</page-num>
+<header>等法統宗 卷十一</header>
+
+算學雖深可盡知云算者用心習學可以盡識者矣
+
+### 撞歸法
+
+| | | | |
+| :--- | :--- | :--- | :--- |
+| 歸一 見一無除作九一 | 歸二 見二無除作九二 | 歸三 見三無除作九三 | 歸四 見四無除作九四 |
+| 歸五 見五無除作九五 | 歸六 見六無除作九六 | 歸七 見七無除作九七 | 歸八 見八無除作九八 |
+| 歸九 見九無除作九九 | | | |
+
+### 已有歸而無除用起一還原法 <gloss>即是起一還將原數施</gloss>
+
+| | | | |
+| :--- | :--- | :--- | :--- |
+| 歸一 起一下還一 <gloss>本位起一 下位還一</gloss> | 歸二 起一下還二 <gloss>本位起一 下位還二</gloss> | 歸三 起一下還三 <gloss>本位起一 下位還三</gloss> | 歸四 起一下還四 <gloss>本位起一 下位還四</gloss> |
+
+<meta>Catchword: 歸</meta>
+
+<vocab>撞歸法, 起一還原法, 算學, 算法統宗</vocab>
+
+--- Page 46 ---
+<language>Chinese</language>
+<page-type>text</page-type>
+
+<image-desc>The page contains several vertical columns of text separated by lines. On the right side, there are five circular icons containing characters (歸五, 歸七, 歸九, 歸六, 歸八) followed by mathematical or algorithmic instructions for abacus calculation.</image-desc>
+
+<insert>歸五</insert> 起一下還五<gloss>本位起一 下位還五</gloss>
+<insert>歸七</insert> 起一下還七<gloss>本位起一 下位還七</gloss>
+<insert>歸九</insert> 起一下還九<gloss>本位起一 下位還九</gloss>
+<insert>歸六</insert> 起一下還六<gloss>本位起一 下位還六</gloss>
+<insert>歸八</insert> 起一下還八<gloss>本位起一 下位還八</gloss>
+
+○撞歸者有歸而無除之謂也予以法實盈虧進退之理推之盈則有歸照法首之數進於上位成十虧則無除起一退於下位照法首之數還原先哲有云見一無除作九一之類此正謂有歸無除之秘法知此可與論制籌纂法之深奧矣
+
+假如今有銀二百四十三兩糴米每斗價銀五分四厘問共該米若干
+
+<vocab>撞歸, 歸除, 算法, 籌纂, 銀, 兩, 斗</vocab>
+
+--- Page 47 ---
+<language>Chinese</language>
+<page-type>text</page-type>
+<header>算法統宗 卷之二</header>
+<page-num>二十五</page-num>
+
+->答曰 四百五十石<-
+
+法曰置總銀爲實以每斗價<gloss>五分四厘</gloss>爲法歸除之合問
+
+定位法只認實上原首位起往後順數至分遇法首位是每斗五分則止前一位得令是斗逆數陞上合得 後倣此
+
+<margin>
+四厘
+釐五分
+</margin>
+爲<gloss>歸除</gloss>定位法少實多
+
+<image-desc>A calculation diagram showing four circles representing place values, with annotations for decimal positions and units of measurement.</image-desc>
+
+<margin>
+定位
+</margin>
+<insert>
+分
+</insert>
+法首位是每斗五分遇分即止前一位得令是斗也
+<insert>
+錢
+</insert>
+是斗也向前逆數陞上
+<insert>
+兩
+</insert>
+合得
+<insert>
+斗
+</insert>
+<insert>
+十
+</insert>
+
+<margin>
+實
+</margin>
+兩
+<margin>
+尾
+</margin>
+<gloss>訶</gloss>
+四五除二十本位去二尺
+逢五進一十本位去五進一千左
+
+<vocab>算法統宗, 歸除, 定位法, 實, 法, 斗, 錢, 兩</vocab>
+
+--- Page 48 ---
+<language>Chinese</language>
+<page-type>text</page-type>
+<meta>Vertical text reading from right to left. Contains mathematical diagrams and calculations.</meta>
+
+<image-desc>A series of circular diagrams containing Chinese characters (such as 實, 首, 百, 冠, 竿, 十) connected by lines, representing a mathematical visualization or abacus-related calculation method. The diagrams are positioned at the top right and middle right of the page.</image-desc>
+
+五二倍作四 變二爲四  
+四四除二十六 本位去二下位加四  
+五二倍作四 變二爲四  
+
+->還原 用乘法<-
+
+---
+
+四五得二十 | 五五二十五 | 四四一十六
+---|---|---
+四五得二十 | | 
+
+---
+
+假如令有銀二百六十五兩三錢二分作十二人分之問  
+每人該銀若干  
+
+->答曰二十二兩一錢一分<-
+
+法曰置銀爲實以十二爲法歸除之合問  
+<margin>
+定法與前  
+歸法同
+</margin>
+<margin>
+二八  
+歸
+</margin>
+定位法少矣多  
+
+<margin>
+三八  
+歸
+</margin>
+<margin>
+舊二十  
+</margin>
+
+<vocab>還原, 乘法, 歸除, 定位法, 銀, 兩, 錢, 分</vocab>
+
+--- Page 49 ---
+<language>Chinese</language>
+<page-type>text</page-type>
+<meta>The text is written in vertical columns, read from right to left. The page contains mathematical calculations and diagrams related to division and multiplication using an abacus or counting rods.</meta>
+
+<image-desc>A mathematical diagram showing circular markers representing place values (units, tens, hundreds) and numerical positions. The circles contain characters such as "分" (fen), "釐" (li), "毫" (hao), "絲" (si), "忽" (hu), "十" (ten), and "百" (hundred). Lines connect these circles to instructional text explaining the steps of a calculation.</image-desc>
+
+一二如二 除二本位去盡
+一二進一 十本位去一進一于左
+一二如二 除二本位去二存一
+一二進一 十本位去一進一于左 <insert>定位</insert>
+二二如四 除四本位去二進二于左
+二二進二 十本位去二進二于左
+二二如四 除四去四存二
+二二進二 十本位去二進二于左原
+<margin>法首位是十遇十即止前一位得今是兩逆壓合得</margin>
+<margin>起呼百往後至十</margin>
+
+---
+
+### 還原 用乘
+
+| | | | |
+| :--- | :--- | :--- | :--- |
+| 一一如一 | 一一如一 | 一一如一 | 一一如一 |
+| 一二如二 | 一二如二 | 一二如二 | 一二如二 |
+| 二二如四 | 二二如二 | 二二如二 | 二二如二 |
+
+---
+
+假如今有米一百二十九石九斗六升作一十九人分之
+
+<vocab>還原, 用乘, 本位, 定位, 石, 斗, 升</vocab>
+
+--- Page 50 ---
+<language>Chinese</language>
+<page-type>text</page-type>
+
+### 問每人該米若干
+
+->答曰 六石八斗四升<-
+
+法曰置米爲實以九十八爲法除之合問
+
+<margin>
+九八
+除
+</margin>
+歸定位法少實後
+
+---
+
+| | | |
+| :--- | :--- | :--- |
+| <image-desc>Circular diagram containing the character 昇</image-desc> | 四九除三十六 | 本位去三右位去六盡 |
+| <image-desc>Circular diagram containing the character 卆</image-desc> | 逢四進四十 | 本位去四進四十左 <insert>定位</insert> |
+| <image-desc>Circular diagram containing the character 卆</image-desc> | 八九除七十二 | 本位去七右位去二 |
+| <image-desc>Circular diagram containing the character 〇</image-desc> | 無除起一下還一 | 本位去一右位加一 |
+| <image-desc>Circular diagram containing the character 十</image-desc> | 見一無除作九一 | 本位加八爲九右位加一 <note>法首位是十遇十即止前一位得合是不合得</note> |
+| <image-desc>Circular diagram containing the character 卆</image-desc> | 六九除五十四 | 本位去五右位去四 |
+| <image-desc>Circular diagram containing the character 百</image-desc> | 無除起三下還三 | 本位去三右位加三 <insert>原</insert> <note>起呼百往後至十</note> |
+| <image-desc>Circular diagram containing the character 卆</image-desc> | 見一無除作九一 | 本位加八爲九右位加一 <insert>實</insert> |
+
+### 還原 用乘
+
+<vocab>除法, 歸定位法, 實, 法, 乘法, 算術</vocab>
+
+--- Page 51 ---
+<language>Chinese</language>
+<page-type>text</page-type>
+<header>算法統宗卷之二</header>
+
+| | | |
+| :--- | :--- | :--- |
+| 四九三十六 | 一四如四 | 八九七十二 |
+| 一八如八 | 六九五十四 | 一六如六 |
+
+假如今有銀二十六兩六錢買猪二十八隻問每隻該銀若干
+
+->答曰 九錢五分<-
+
+法曰置銀爲實以猪二十八隻爲法除之合問
+<margin>
+<gloss>八隻</gloss>
+除
+<gloss>二十</gloss>
+歸
+</margin>
+辯定位法實首位十數皆同
+
+---
+
+<margin>
+<gloss>實</gloss>
+二十
+</margin>
+五入除四十<gloss>併盡</gloss>
+<margin>
+<gloss>實</gloss>
+六錢
+</margin>
+二一添作五<gloss>本位加四爲五</gloss>
+<margin>
+<gloss>法</gloss>
+八
+</margin>
+八九除七十二<gloss>本位去七右位去二</gloss>
+<margin>
+<gloss>實</gloss>
+二十
+</margin>
+見二無除作九二<gloss>一爲九右位加二</gloss>
+<margin>
+<gloss>實</gloss>
+<insert>十</insert>
+</margin>
+<margin>
+<gloss>寬位</gloss>
+</margin>
+<margin>
+<gloss>原</gloss>
+</margin>
+法首是十退十即止
+前位得令是兩也
+<margin>
+<gloss>得</gloss>
+九五
+</margin>
+
+<vocab>算法統宗, 歸除, 定位法, 實, 法, 兩, 錢</vocab>
+
+--- Page 52 ---
+<language>Chinese</language>
+<page-type>text</page-type>
+
+<margin>是兩也順降下合得</margin>
+
+### 還原 用乘
+
+五八得四十　　二五得一十　　八九七十二
+二九一十八
+
+假如今有金二兩八錢三分五厘作四百零五人分之問
+每人該金若干
+　　答曰　七厘
+
+法曰置金為實以人數為法除之合問
+<gloss>定位法</gloss>凡法後先從原實首位起往前逐位逆數陞上至
+呼過法首位百則止向前一位得令是兩降下合得
+
+<vocab>還原, 用乘, 定位法, 實, 法, 兩, 錢, 分, 厘</vocab>
+
+--- Page 53 ---
+<language>Chinese</language>
+<page-type>text</page-type>
+<header>算法統宗卷二</header>
+
+# 歸除
+
+<image-desc>A vertical layout of a mathematical calculation table using the abacus method (Suanpan). The page is divided into vertical columns with circles representing positional values or counters. Some circles contain characters like "分" (cent), "錢" (mace), "兩" (tael), "十" (tens), "百" (hundreds), and "千" (thousands). There are instructional notes written between the lines.</image-desc>
+
+| 五入 | 除 | 空 | 歸 |
+| :--- | :--- | :--- | :--- |
+| 箇四百 | | | |
+
+---
+
+實尾 〇五厘
+<margin>三分</margin> 五七除卅五本去三禾仲除五尽
+<margin>錢</margin> 逢八進二十本位去八進二于本 <insert>定位</insert>
+實首 <margin>兩</margin> 四二添作五变二為五
+
+---
+
+<margin>原兩</margin> <margin>起</margin> 呼兩向前進歴至合 <margin>心歸</margin>
+<margin>實兩</margin> 遇法首位百止 得
+
+十
+百 <gloss>法首位是百遇百而止前一位得合是兩也</gloss>
+千 <gloss>是前也順数降下合得</gloss>
+
+還原 用乘
+
+<vocab>算法統宗, 歸除, 實, 法, 定位, 還原, 乘, 兩, 錢, 分, 厘</vocab>
+
+--- Page 54 ---
+<language>Chinese</language>
+<page-type>text</page-type>
+
+五七三十五　　四七二十八
+
+假如今有米二十二石五斗二升作五千六百三十人分
+->問每人該米若干<-
+
+答曰　四合
+
+法曰置米為實以人為法除之合問
+定位<gloss>法多同前　實少同前</gloss>
+<margin>
+(三十) 除法多實少
+(六百) 除
+(五千) 歸
+</margin>
+<margin>
+實 (二)
+尾 (五)
+(五)
+</margin>
+三四除一十二<gloss>本位去一左位去二</gloss>
+
+<vocab>米, 石, 斗, 升, 合, 實, 法, 除, 歸, 定位</vocab>
+
+--- Page 55 ---
+<language>Chinese</language>
+<page-type>text</page-type>
+<page-num>二十七</page-num>
+<header>算法統宗 卷二</header>
+
+<image-desc>A mathematical diagram illustrating the "Return to Origin" (還原) method using multiplication. It features vertical columns with circles representing numerical positions (units, tens, hundreds, thousands) and units of measurement (Shi 石, Dou 斗, Sheng 升). Small text annotations explain the movement of decimal places and the relationship between the divisor and the result.</image-desc>
+
+### 還原 用乘
+
+四六二十四　　三四一十二　　四五得二十
+
+假如今有銀一千零九十七兩二錢五分作五百七十人分之問每人該銀若干
+
+答曰　一兩九錢二分五厘
+
+<vocab>還原, 用乘, 算法統宗, 兩, 錢, 分, 厘</vocab>
+
+--- Page 56 ---
+<language>Chinese</language>
+<page-type>text</page-type>
+
+法日置銀為實以<gloss>人</gloss>為法除之台問
+
+定位法先數原實千順下至法首百前位定両合得
+
+除法少實多歸法
+
+| 實 | 實 | 尾 | | | | | 實 | 首 |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| <insert>七十</insert> | <insert>壹五百</insert> | <insert>五分</insert> | <insert>錢</insert> | <insert>七前</insert> | <insert>九十</insert> | 〇 | <insert>千</insert> | |
+| | | 五七除三十五 | 逢五進一十 | 五二倍作一十四 | 二七除一十四 | 五一倍作一十二 | 七九除六十三 | 見五無除作九五 | 一七如除七 | 無除起一下還五 | 五一倍作一十二 | 還原用乘 |
+| | | | <insert>定位</insert> | 〇 | 〇 | <insert>百</insert> | <insert>原千</insert> | |
+| | | | | | | <gloss>法首位在百遇百即止前位得令是両合得</gloss> | <gloss>起呼千往後至百</gloss> | |
+| | <insert>釐</insert> | <insert>分</insert> | <insert>錢</insert> | | | | <insert>台両</insert> | |
+
+<vocab>除法, 定位法, 實, 法, 歸法, 還原, 乘, 両, 錢, 分, 釐</vocab>
+
+--- Page 57 ---
+<language>Chinese</language>
+<page-type>text</page-type>
+<header>算法統宗 卷之二</header>
+<page-num>二十</page-num>
+
+| | | |
+| :--- | :--- | :--- |
+| 五七三十五 | 五五二十五 | 二七一十四 |
+| 二五得一十 | 七九六十三 | 五九四十五 |
+| 一七如七 | 一五如五 | |
+
+假如今有銀四錢八分每銀七分五厘換赤金一分問該金若干
+
+->答曰 六分四厘<-
+
+法曰置總銀爲實以<gloss>七分五厘</gloss>爲法除之合問
+
+<margin>
+五厘
+法七分
+</margin>
+除歸定位法少實多
+
+<image-desc>A vertical calculation diagram using circles and text to represent abacus positions or mathematical steps. Circles contain characters like "分" (fen) and "厘" (li).</image-desc>
+
+<margin>
+四五除二十
+七三四十二
+五六除三十
+</margin>
+
+<insert>
+定位
+法首位是分遇分即止前位得今是金分也合得
+</insert>
+
+<vocab>算法統宗, Suanfatongzong, silver exchange, gold exchange, division, abacus calculation, 定位法</vocab>
+
+--- Page 58 ---
+<language>Chinese</language>
+<page-type>text</page-type>
+<page-num>二十九</page-num>
+<meta>The page contains mathematical calculations and word problems related to division and multiplication using a suanpan (abacus) logic. Some characters are circled to indicate specific mathematical roles like 'Shi' (dividend) or 'Fa' (divisor).</meta>
+
+<margin>
+實 <insert>罷</insert> 起 逢七進一十 七四五十五
+還原 用乘
+</margin>
+
+->四五得二<-
+->四七二十八<-
+->五六得三<-
+->六七四十二<-
+
+假如今有錢五千六百四十文買梨一萬六千九百二十枚問每錢一文買梨若干 答曰三枚
+
+法曰置梨爲實以錢爲法除之合問
+
+<margin>
+(四十) 除
+(六百) 除
+(五千) 歸
+實 <insert>千</insert> 尾
+</margin>
+
+<margin>
+原 錢 <insert>實</insert> 起 呼錢順下至分
+合 <insert>得</insert>
+</margin>
+
+---
+
+<margin>
+除 定位法少實多
+</margin>
+
+<margin>
+定位
+</margin>
+
+<vocab>實 (Shi/Dividend), 法 (Fa/Divisor), 還原 (Reduction/Inverse operation), 乘 (Multiplication), 除 (Division), 錢 (Money/Cash), 梨 (Pear), 文 (Wen/Currency unit), 枚 (Mei/Counter for objects)</vocab>
+
+--- Page 59 ---
+<language>Chinese</language>
+<page-type>text</page-type>
+
+<image-desc>
+A page from a Chinese mathematical treatise, likely regarding the abacus (suanpan) or traditional arithmetic. The text is arranged in vertical columns with some circular annotations containing characters like "百" (hundred), "千" (thousand), "萬" (ten thousand), and "首" (head/start). There are numerical sequences and procedural instructions for division and multiplication.
+</image-desc>
+
+| | | | |
+|---|---|---|---|
+| <gloss>九百</gloss> 三四除一十二 | 本位去一右位去二尽 | | |
+| <gloss>千</gloss> 三六除一十八 | 本位去一右位去八 | <gloss>百</gloss> | |
+| <gloss>首</gloss> 逢五進一十 | 本位去五進一于左 | <gloss>千</gloss> | 法首位是千過千即止 |
+| <gloss>實</gloss> <gloss>萬</gloss> <gloss>起</gloss> 五一倍作二 | 本位加一為二 | <gloss>原</gloss> <gloss>實</gloss> <gloss>萬</gloss> <gloss>起</gloss> | 前位得令是教台得 |
+| | | | 呼萬往後順至千 |
+| | | | 得台 <gloss>兩</gloss> |
+
+->還原 用乘<-
+
+三六一十八 ———— 三四一十二 ———— 三五一十五
+
+假如今有銀五萬五千三百八十五兩作一千零○七人分之問每人該銀若干
+
+->荅曰 五十五兩<-
+
+法曰置銀為實以人為法除之合問
+
+<gloss>七人</gloss> 除
+
+<vocab>還原, 用乘, 實, 法, 除, 銀, 兩, 算學</vocab>
+
+--- Page 60 ---
+<language>Chinese</language>
+<page-type>text</page-type>
+
+<image-desc>A page from a traditional Chinese mathematical treatise, likely regarding the abacus (suanpan) or rod calculus. The text is arranged in vertical columns separated by lines. Several circular symbols containing characters (like "千", "百", "十", "萬") represent place values or specific operations. The layout includes instructional text on division and multiplication algorithms.</image-desc>
+
+讀二十
+尾實商
+(萬)
+(千) 乂五七除三十五本位去三右位去五尽
+(百) 川五七除三十五本位去三右位去五
+<margin>除可斷二位在八十位上除</margin>
+(十) 川逢五進五 <gloss>本位去五進五于左</gloss>
+<margin>除可斷二位在三百位上除</margin>
+首實(萬) (起) 逢五進五 <gloss>本位去五進五于左</gloss>
+(千) <insert>定位</insert> 法首位是千遇千即止前位得令是兩逆塵合得呼萬往後順至千
+(原商) (萬)
+
+---
+
+->還原 隔二位乘<-
+
+| 五七三十五 | 一五如五 | 五七三十五 |
+| :--- | :--- | :--- |
+| 一五如五 | | |
+
+<vocab>除 (division), 乘 (multiplication), 本位 (original place), 定位 (positioning), 逢五進五 (if meeting five, advance five), 實 (dividend), 商 (quotient)</vocab>
+
+--- Page 61 ---
+<language>Classical Chinese</language>
+<page-type>text</page-type>
+<header>算法統宗 卷二十</header>
+<page-num>三十</page-num>
+
+### 加法
+
+凡加法首位有一數者用此置所有物為實以所求價為法加之然加法不用首位一數只以次位餘數加之言十就身加十言如次位加如亦從末位等起用減法還原
+
+->歌曰<-
+
+加法仍從下位先　如因位數或多焉
+十歸本位零若次　一外添如法更立
+
+假如今有珍珠二百六十八顆每顆價銀一兩一錢問該銀若干
+
+<vocab>算法統宗, 加法, 實, 法, 珍珠</vocab>
+
+--- Page 62 ---
+<language>Chinese</language>
+<page-type>text</page-type>
+<meta>Vertical text orientation, read right to left. Contains mathematical diagrams and annotations.</meta>
+
+答曰 二百九十四兩八錢
+
+法曰置珠爲實以每顆價除價首一兩只以次價一錢
+爲法從末位加起次第而上 ○ 定位只認顆本位定
+而十顆上定十兩百顆上定百兩所謂加減只須認
+本位也餘倣此
+
+法首 <insert>錢</insert> 爲加
+
+<image-desc>A vertical diagram illustrating a mathematical calculation or abacus-style positioning. It uses circles containing characters to represent numerical places and operations.</image-desc>
+
+<margin>定位</margin>
+<insert>正</insert> 是錢也回向前逆數 陞上合得 <insert>錢</insert>
+
+<margin>實尾</margin>
+○ <insert>起</insert> 一八如八 <gloss>因八字故下位</gloss>
+一六如六 <gloss>六上起五進一于左</gloss>
+一二如二 <gloss>併七共九</gloss>
+
+<margin>顆</margin>
+<insert>法首是每顆加一錢遇顆即止 下一位是錢也</insert>
+<insert>四</insert>
+
+<margin>十</margin>
+<insert>九十</insert>
+
+<margin>實首</margin>
+<insert>百</insert>
+<insert>原</insert> <insert>起</insert> 呼百往後 順數至顆 <insert>合得</insert> <insert>二百</insert>
+
+---
+
+<vocab>珠 (pearls), 實 (dividend/total), 法 (divisor/method), 兩 (tael), 錢 (mace), 定位 (positioning/decimal placement)</vocab>
+
+--- Page 63 ---
+<language>Chinese</language>
+<page-type>text</page-type>
+
+<margin>
+還原 用減法 即定身除也
+</margin>
+
+一二減去二 <gloss>九去二存七</gloss>
+一六減去六 <gloss>除六下還四</gloss>
+一八減去八 <gloss>恰盡</gloss>
+
+假如今有絹九丈八尺每尺價一錢三分五厘問共該銀若干
+
+答曰 一十三兩二錢三分
+
+法曰置絹爲實以每尺除價首一錢只以<gloss>三分五厘</gloss>爲法加之〇定位只認尺本位定錢丈上定兩十丈定十兩
+
+合得
+
+<margin>
+法首三分
+五厘
+加
+定位
+</margin>
+
+<vocab>還原, 減法, 定身除, 絹, 實, 法, 定位</vocab>
+
+--- Page 64 ---
+<language>Chinese</language>
+<page-type>text</page-type>
+<meta>Woodblock print, vertical orientation, reading right to left.</meta>
+
+<image-desc>A diagram at the top right showing circular symbols containing Chinese characters (representing abacus positions or numerical units) connected to mathematical instructions. The circles contain characters like 規, 尺, 實, and 錢. Below these are columns of smaller text explaining the "five-in, add four" (五入加四) rule and other positional arithmetic instructions.</image-desc>
+
+<insert>
+是分也向前逆陞
+合得
+法首是每尺三分遇尺即止
+下位是分也
+前丈往後順至尺
+</insert>
+
+<insert>
+規 五入加四
+三八加二十四 <gloss>本位加二共十下位加四</gloss>
+五九加四十五 <gloss>本位加四共四十下位加五</gloss>
+三九加二十七 <gloss>本位加二下位加七</gloss>
+</insert>
+
+假如今有羅二百四十六疋每疋價銀一兩二錢七分五厘問該銀若干
+
+->答曰：三百一十三兩六錢五分<-
+
+法曰置羅爲實以每疋除價首一兩只以<gloss>二錢七分五厘</gloss>爲法加之〇定位只認定位上定兩依次逆陞合得
+
+---
+
+六七加四十二　五六加三十　二六加一十二
+
+<vocab>羅, 疋, 價銀, 兩, 錢, 分, 厘, 實, 法, 定位, 逆陞</vocab>
+
+--- Page 65 ---
+<language>Classical Chinese</language>
+<page-type>text</page-type>
+
+| | | |
+|---|---|---|
+| 四七加二十八 | 四五加二十 | 二四如加八 |
+| 二七加一十四 | 二五加一十 | 二二如加四 |
+
+假如今有米四萬六千七百五十一石每石加耗七升問共該米若干
+
+答曰 <gloss>正耗</gloss> 共五萬零〇二十三石五斗七升
+
+法曰置正米為實以耗米<gloss>七升</gloss>為法隔位加之合問
+
+先從石上起呼
+
+一七加七<gloss>于隔位升上</gloss> 五七加三十五<gloss>石上加三斗位加五</gloss>
+
+七七加四十九<gloss>十位加四下位加九九退一還一十</gloss>
+
+六七加四十二<gloss>百位加四下位加二下位加四下五除一退八還一十</gloss>
+
+<vocab>米, 石, 斗, 升, 耗, 算法, 珠算</vocab>
+
+--- Page 66 ---
+<language>Classical Chinese</language>
+<page-type>text</page-type>
+<page-num>二十五</page-num>
+<header>算法統宗 卷二</header>
+<meta>catchword: 圭</meta>
+
+四七加二十八<gloss>千位加二下位加八</gloss>
+
+按<term>因</term><term>乘</term><term>加</term>三法其名雖殊而理則一但加法須記實位不動。本身學者宜當詳審不致差悞也。
+
+### 減法
+
+凡歸除對法首位有一數者。用此所謂定身除者。先定本身之位。而後減除也。置所有物為實。以所求價為法。與身數相呼。九九之數。言十就身。言如隔位。次第如法減而除之。<gloss>先從實首位起用加法還原</gloss>
+
+定位法。因實位本身減去而無逢進。比歸除而降一位。今將法首一數除而不用。亦可以抵逢進陞位也。
+
+<vocab>因, 乘, 加, 減法, 歸除, 定身除, 實, 法, 算法統宗</vocab>
+
+--- Page 67 ---
+<language>Chinese</language>
+<page-type>text</page-type>
+<meta>Woodblock print, vertical layout with column dividers</meta>
+
+->歌曰<-
+
+> 減法須知先定身，得其身數始爲眞。
+> 法中有一何曾用，身外除零妙入神。
+
+假如今有銀二百九十四兩八錢買絹每疋正價銀一兩一錢問該絹若干
+
+->答曰 二百六十八疋<-
+
+法曰置總銀爲實以每疋除價首<gloss>一兩</gloss>不用只以次位<gloss>一錢</gloss>爲法定身減而除之合問〇定位此是求總之法數原實順下至錢則止前一位是疋也逆數陞上合得
+
+<margin>
+法一錢爲減
+</margin>
+
+<vocab>減法, 絹, 銀, 疋, 實, 法, 定位</vocab>
+
+--- Page 68 ---
+<language>Chinese</language>
+<page-type>text</page-type>
+<page-num>二十八</page-num>
+<header>算法統宗 卷二</header>
+<meta>catchword: 盖</meta>
+
+<image-desc>A diagram illustrating a mathematical division process using circular markers representing units (錢, 兩, 斤, etc.) and numerical positions. The diagram shows the relationship between "Real Tail" (實尾) and "Real Head" (實首) with instructional text on how to shift positions during calculation.</image-desc>
+
+實尾
+<margin>
+錢 一入如除入盡
+</margin>
+<margin>
+兩 一六如除六本位去六存八
+</margin>
+<margin>
+斤 本位七約存六奇將一退于下位共十四
+</margin>
+<margin>
+起 一一如除二本位去二存七
+</margin>
+
+實首
+<margin>
+百
+</margin>
+
+<margin>
+法上是每疋錢數過錢即止前一位得令是疋也
+</margin>
+<margin>
+是疋也逆性不得
+</margin>
+
+<margin>
+原百 呼百往後順數至錢
+</margin>
+<margin>
+合百
+</margin>
+
+假如今有米一千零三十八石作一百七十三人分之問每人該米若干
+
+->答曰 六石<-
+
+法曰置米爲實以人數除首位百不用只以七十三人爲法
+定身除之合圖〇定位此是求零之法先數原實起
+順下至過法首十數則止前一位得令是石也
+
+<vocab>算法統宗, 程大位, 實, 法, 定位, 除法</vocab>
+
+--- Page 69 ---
+<language>Chinese</language>
+<page-type>text</page-type>
+
+<image-desc>A page from a traditional Chinese mathematical text, likely related to the Suanpan (abacus) or rod calculus. It features vertical columns of text separated by lines, with circular symbols containing characters (like 千, 百, 十, 零) representing place values or numerical units. Small annotations are written between the main columns.</image-desc>
+
+減
+
+<margin>實</margin> <margin>舊</margin> <margin>實</margin> <margin>尾</margin>
+<gloss>千</gloss> <gloss>余</gloss> <gloss>千</gloss> <gloss>起</gloss>
+三六除一十八本位去一千下位去八
+六七除四十二本位去四右位去二
+本位定六
+此一千下位空無除可退作十百
+<gloss>充位</gloss>
+<gloss>十</gloss> <gloss>法首是七十遇十即止前位得合是石也其不也本位合得</gloss>
+<gloss>百</gloss>
+<gloss>原</gloss> <gloss>千</gloss> <gloss>起</gloss> <gloss>呼千往後順數至十</gloss>
+<gloss>合</gloss> <gloss>若</gloss>
+
+假如今有金八十九両三錢八分令金戶一百零九人辦納問每人各該若干
+
+答曰 八錢二分
+
+法曰置金為實以金戶除百不用只以九為法隔位定身除之合問
+
+<vocab>金, 兩, 錢, 分, 實, 法, 除, 辦納, 位</vocab>
+
+--- Page 70 ---
+<language>Chinese</language>
+<page-type>text</page-type>
+
+# 減
+
+<image-desc>A diagram illustrating mathematical or abacus-based calculations. It features vertical columns with circular markers containing characters like "實", "首", "尾", and "分". There are smaller annotations and numerical instructions written in smaller script between the main vertical lines, indicating steps for division and subtraction.</image-desc>
+
+二九除一十八本位去一右位去八 <insert>定一</insert>
+本位定二
+八九除七十二 <gloss>本位去七右位去二</gloss>
+本位定八
+<margin>實 十 <gloss>原</gloss> <gloss>起</gloss> 法皆空十遇十即止 前位得令是兩也 是兩也願降下位合得</margin>
+<margin>合 幾</margin>
+
+---
+
+### 求一乘除法
+
+按古有之寶渠 因考其法用倍折之繁難不如歸除之簡易故愚干此而廢之使學者專心于乘除加減之法而無他岐之惑焉
+
+<vocab>減, 乘除法, 歸除, 寶渠, 本位, 定位</vocab>
+
+--- Page 71 ---
+<language>Chinese</language>
+<page-type>text</page-type>
+<header>算法統宗 卷二</header>
+<meta>Catchword at bottom right: 134</meta>
+
+### 商除
+
+商除者商量而除之也如定商太過則總數不足而無除如定商不及則總數有餘務要酌量彀除方可然此一術亦兼歸除歸除既通不必學此但開方之法必用商除演此而為梯階其法不可廢也
+
+->歌曰<-
+
+| 數中有術號商除 | 商總分排兩位推 |
+| :--- | :--- |
+| 惟有開方須用此 | 續商不盡命其餘 |
+
+假如今有軍士六百名分粮三百九十四石二斗問每名該若干
+
+<vocab>商除, 算法統宗, 歸除, 開方, 粮, 軍士</vocab>
+
+--- Page 72 ---
+<language>Chinese</language>
+<page-type>text</page-type>
+<meta>Traditional Chinese woodblock print, vertical layout reading right to left.</meta>
+
+答曰 六斗五升七合
+
+法曰置糓米于盤中爲實以軍士<gloss>六百名</gloss>于右爲法〇初商<gloss>六斗</gloss>于左位就以左右相呼<gloss>六六</gloss>除實三百六十石餘實三十四石次商<gloss>五升</gloss>于左位<gloss>六之</gloss>次就以次商<gloss>五升</gloss>對右相呼<gloss>五六</gloss>除實三十石餘實四石再商<gloss>七合</gloss>于左位<gloss>五升</gloss>之下就以左七對右六相呼<gloss>六七</gloss>除實四斗二升恰盡
+
+->今列布筭式于後<-
+
+| 商除式樣 | 學者但看初商即看初除又看次商又看次除後看再商後看再除挨次位數則不亂矣 |
+| :--- | :--- |
+
+<margin>
+右
+<insert>
+法百名
+</insert>
+中
+<insert>
+平
+</insert>
+尾
+</margin>
+
+->去恰盡<-
+
+<vocab>糓米, 軍士, 初商, 次商, 再商, 布筭式, 除實</vocab>
+
+--- Page 73 ---
+<language>Classical Chinese</language>
+<page-type>text</page-type>
+<header>算法統宗 卷二</header>
+<page-num>三</page-num>
+
+<image-desc>A vertical calculation chart or diagram showing the placement of counting rods or numbers for a division problem. It features circular symbols containing characters (like 壹, 貳, 參, 肆, 伍, 陸) representing positions or steps, aligned with text explaining the arithmetic process.</image-desc>
+
+| | | | |
+| :--- | :--- | :--- | :--- |
+| <gloss>再</gloss> 陸 | 除六七除四斗二升 | 本位去四下位去二 | |
+| <gloss>次</gloss> 柒 | 除五六除三十石 | 本位盡去 | |
+| <gloss>初</gloss> 晉 <gloss>實</gloss> 枢 | 除六六除三百六十石 | 本位去三百下位除六十 | |
+| <gloss>再商</gloss> 參 | | | |
+| <gloss>次商</gloss> 弄 | | | |
+| <gloss>左位</gloss> 奎 <gloss>初商</gloss> | | | |
+
+---
+
+假如今有芝麻六十七石榨得油三千零一十五斤問每石該油若干
+
+->答曰 四十五斤<-
+
+法曰置油數于盤中爲實以麻<gloss>六十七石</gloss>于右爲法商除之
+
+<vocab>算法統宗, 芝麻, 榨油, 實, 法, 商除</vocab>
+
+--- Page 74 ---
+<language>Classical Chinese</language>
+<page-type>text</page-type>
+
+初商四十斤于左就以左相呼四六除實二千又呼四七除二百八十餘實三百三十次商五斤置于初商四十之下位就以五斤對右相呼五六除三百又呼五七除三十五斤恰盡合得
+
+### 約分法
+
+約以分子通以分母也法曰可半者半之不可半者以少減多更相減損求其有等以等約之若數如四分兩之一者二錢五分也此謂有盡若數如三分兩之一者三錢三分三厘三毫有零也此所謂不盡必須約分之法
+
+解曰約分者謂用除法多有畸零數之不盡帶有幾千
+
+<vocab>約分法, 初商, 次商, 分子, 分母, 畸零</vocab>
+
+--- Page 75 ---
+<language>Chinese</language>
+<page-type>text</page-type>
+<header>算法統宗 卷二十</header>
+
+百分者以約去其繁而就其簡也或有不可約者
+法曰數多為母數少為子子母之數両列互相减損至
+同就以此數為法各以法除子母原數却無畸零所
+謂齊不齊而致其齊也如人分銀以至數之不能盡
+者亦有物之不可分者不能呼數必以法而約之
+
+->歌曰<-
+
+數有參差不可齊　須憑約法命分之
+法為分母實為子　不與差分一例推
+
+->又歌<-
+
+約分須分子母名　更相减損至同成
+
+<vocab>算法統宗, 約分, 分母, 分子, 减損, 命分</vocab>
+
+--- Page 76 ---
+<language>Chinese</language>
+<page-type>text</page-type>
+<meta>Vertical text orientation, read right to left. Catchword at bottom left.</meta>
+
+->就把其同爲法則 除來各數自無零<-
+
+假如今有物九十八除了四十二問約得若干
+
+->荅曰 七分之三<-
+
+法曰<gloss>數多爲母九十<br/>數少爲子八</gloss>置母八<gloss>九十</gloss>内减去二箇<gloss>四十二</gloss>餘<gloss>一十<br/>四</gloss>另置子<gloss>四十二</gloss>减去二箇<gloss>一十<br/>四</gloss>亦餘<gloss>一十<br/>四</gloss>爲之母相同就以<gloss>一十<br/>四</gloss>爲法除母<gloss>九十<br/>八</gloss>是<gloss>七</gloss>除子<gloss>四十二</gloss>是<gloss>三</gloss>一十四故曰七分中除三餘倣此
+
+假如今有二十一分之一十四問約得若干
+
+->荅曰 三分之二<-
+
+法曰置母<gloss>二十<br/>一</gloss>减去子<gloss>一十<br/>四</gloss>餘<gloss>七</gloss>另置子<gloss>一十<br/>四</gloss>减去<gloss>七</gloss>
+
+<vocab>約分, 算法, 分數, 母, 子, 除法</vocab>
+
+--- Page 77 ---
+<language>Chinese</language>
+<page-type>text</page-type>
+<header>算法統宗卷二</header>
+<meta>Vertical layout with traditional Chinese characters. Catchword/folio marker visible on right edge.</meta>
+
+亦餘七就以七爲法除母<gloss>二十一</gloss>得三又以法七除子<gloss>一十四</gloss>得二合問
+
+假如今有絲二百五十二斤賣過一百四十四斤問約得若干
+
+->答曰 七分斤之四<-
+
+法曰置母<gloss>二百五十二</gloss>減去子<gloss>一百四十四</gloss>餘母<gloss>一百零八</gloss>反將原子<gloss>一百四十四</gloss>減去餘母<gloss>一百零八</gloss>餘子<gloss>三十六</gloss>又將餘母<gloss>一百零八</gloss>減去餘子<gloss>三十六</gloss>三十六餘母亦<gloss>三十六</gloss>爲之更相減損就以母子同數爲法以除原母原子各得分數
+
+假如今有鴨七十二隻生于六十三箇問約得若干
+
+<vocab>算法統宗, 約分, 更相減損, 母, 子, 法</vocab>
+
+--- Page 78 ---
+<language>Chinese</language>
+<page-type>text</page-type>
+<header>算法統宗 卷二</header>
+<sig>二十九</sig>
+<meta>Vertical layout, read from right to left. Catchword/Signature at bottom left.</meta>
+
+答曰 八分箇之七 <gloss>即是八隻鴨生七箇子也</gloss>
+
+法曰列子母數更相減損置母七十減去子六十三仍餘
+母九反將子六十三內減去六箇餘母九子亦餘九相
+同就以九為法除原母七十得七箇又以法九除原
+子六十三得七箇故命之曰八分之七也
+
+### 乘分
+
+假如今有一百九十人支銀一兩十九分兩之一問該銀
+若干
+
+->答曰 二百兩<-
+
+法曰置銀一兩以分母九十通之加分子一共得九十一又以
+
+<vocab>算法統宗, 乘分, 子母數, 分母, 分子, 減損</vocab>
+
+--- Page 79 ---
+<language>Classical Chinese</language>
+<page-type>text</page-type>
+<meta>The text is written in vertical columns, read from right to left. Some characters are smaller (glosses/sub-notes).</meta>
+
+人一百乘得三千為實却以支銀一項分母九十通之得一千九百為法除之合問 <gloss>解題曰十九分兩之一每人即一兩〇五分二厘六毫有〇</gloss>
+
+### 課分
+
+假如今有布二疋<gloss>九分疋之五</gloss>用過一疋<gloss>六分疋之一</gloss>問尚餘若干
+
+->答曰 一疋 十八分疋之七<-
+
+法曰置用過布一疋以分母六通之加分子一共得七 又以原布分母九通之得六十三 另置原布二疋以分母九通之加分子五共得二十三 又以用過布分母六通之得一百三十八 內減去前六十三餘七十五為實以二分母九六相乘得五十四為法除之得一疋餘實二十一法實
+
+<vocab>課分, 疋, 分母, 分子, 實, 法</vocab>
+
+--- Page 80 ---
+<language>Classical Chinese</language>
+<page-type>text</page-type>
+<meta>Vertical text reading from right to left. Catchword/folio marker "四十七" visible at bottom left edge.</meta>
+
+# 皆三約之合問
+
+### 通分
+
+通分者通以分母納以分子也夫數之有盡者不必通也若畸零之不盡者使不通之則何以置位而筭之乎此通分之法所由立也假如四分兩之一者則二錢五分也此所謂數之有盡者也若三分兩之一者三錢三分三厘以至于三三之無窮此所謂數之不盡者也必須以分通之乃可筭也不然則畸零之不盡終無可置位矣
+
+假如今有布四十五疋每疋價<gloss>三分兩之二</gloss>問共該銀若干
+
+<vocab>通分, 分母, 分子, 畸零, 置位, 筭, 疋</vocab>
+
+--- Page 81 ---
+<language>Classical Chinese</language>
+<page-type>text</page-type>
+<header>算法統宗 卷二</header>
+<page-num>五</page-num>
+
+答曰 三十兩
+
+法曰置布<gloss>四十疋</gloss>以分子之<gloss>二</gloss>因之得<gloss>九十兩</gloss>爲實却以分母<gloss>三</gloss>爲法歸之合問<note>解曰三分兩之二即每疋六錢六分六厘而不能盡故用約分之法也</note>
+
+假如今有米<gloss>三分石之二</gloss>每斗價銀七分二厘問共該銀若干
+
+答曰 四錢八分
+
+法曰置銀<gloss>七分二厘</gloss>以分子之二因之得<gloss>一兩四錢四分</gloss>爲實却以分母<gloss>三</gloss>爲法歸之合問
+
+假如今有商夥論本分物俱得<gloss>八分之七</gloss>至銀百兩問該若干
+
+答曰 八十七兩五錢
+
+法曰置銀<gloss>一百兩</gloss>以子之<gloss>七</gloss>因之如故仍以分母<gloss>八</gloss>爲法
+
+<vocab>算法統宗, 卷二, 約分, 分子, 分母, 實, 法, 歸, 合問</vocab>
+
+--- Page 82 ---
+<language>Chinese</language>
+<page-type>text</page-type>
+<meta>Woodblock print, vertical layout with traditional Chinese mathematical notation</meta>
+
+歸之合得
+
+假如今有羅九十疋<gloss>疋之六</gloss>每疋價二両五錢問該銀若干
+->答曰 一百六十六両六錢<gloss>三分錢之二</gloss><-
+法曰置<gloss>每疋價</gloss>二両五錢以分子六因之得<gloss>一百五十両</gloss>以分母九為法歸之合問<gloss>餘不盡之數仍以約分法命之</gloss>
+
+---
+
+假如今有米<gloss>六分石之二</gloss>每斗價<gloss>四分錢之三</gloss>問該銀若干
+->答曰 二錢五分<-
+法曰置分子<gloss>石之二錢之三</gloss>因之得<gloss>六</gloss>為實以分母<gloss>六分四分</gloss>相乘得<gloss>二十四</gloss>為法除之得<gloss>二錢五分</gloss>合問
+
+---
+
+假如今有段四十五疋每疋價四両<gloss>三分両之二</gloss>問該銀若干
+
+<vocab>羅, 疋, 両, 錢, 分, 斗, 石, 分子, 分母, 因, 實, 法, 歸, 約分法</vocab>
+
+--- Page 83 ---
+<language>Chinese</language>
+<page-type>text</page-type>
+<header>算法統宗 卷二</header>
+
+答曰 二百一十両
+
+法曰置<gloss>每價</gloss>四<gloss>両</gloss>以分母三<gloss>両</gloss>因之得一十二<gloss>両</gloss>加入分子二<gloss>両</gloss>共得一十四<gloss>両</gloss>以乘總段<gloss>四十五</gloss>得六百三十<gloss>両</gloss>為實以分母三<gloss>両</gloss>為法除之合問
+
+### 假如今有豆九石六斗<gloss>六分斗之四</gloss>每石價銀二錢三分<gloss>錢之一</gloss>問該銀若干
+
+->答曰 二両二錢五分 九分錢之五<-
+
+法曰先置<gloss>每價</gloss>二<gloss>錢</gloss>以三<gloss>因</gloss>之得六加納于之<gloss>一</gloss>共得七<gloss>錢</gloss>另置豆<gloss>九石六斗</gloss>不以六因之得五十六加納于之<gloss>四</gloss>共得六十<gloss>八</gloss>以七因之得四百七十六<gloss>両</gloss>為實却以分母<gloss>六分三分</gloss>因之得
+
+<meta>catchword: 十</meta>
+
+<vocab>算法統宗, 豆, 石, 斗, 錢, 両, 分母, 分子, 實, 法</vocab>
+
+--- Page 84 ---
+<language>Classical Chinese</language>
+<page-type>text</page-type>
+<sig>卷二十一</sig>
+<meta>catchword: 呈</meta>
+
+> 一十為法除之 不盡之數一法矣皆折半而命之
+
+### 差分 衰分意同
+
+->歌曰<-
+
+> 差分之法併來分 須要分數一分成
+> 將此一分為之實 以乘各數自均平
+
+假如今有東西二隣共織絲絹東隣四斤六兩西隣三斤二兩共絲七斤八兩織絹二十一丈八尺問各該若干
+
+| 答曰 | 東隣 | 一十二丈七尺一寸六分七厘 |
+| :--- | :--- | :--- |
+| | 西隣 | 九丈零八寸三分三厘 |
+
+法曰置總絹<gloss>二十一丈八尺</gloss>為實以共絲<gloss>七斤八兩</gloss>先將<gloss>八兩亦就</gloss>化為五<unclear>就</unclear>
+
+算法統宗
+
+<vocab>差分, 衰分, 絲絹, 斤, 兩, 丈, 尺, 寸, 分, 厘, 算法統宗</vocab>
+
+--- Page 85 ---
+<language>Classical Chinese</language>
+<page-type>text</page-type>
+
+以七斤為法除之得二丈九尺〇六分為法則〇另以五斤為法除之得六厘六毫六絲
+以東西各綵斤數不動將兩減六東六両〇変作三五七以西各綵斤數不動將兩減六西二両〇変作一二五
+併原斤為實乘之合問
+
+假如今有元亨利貞四人合本經營元出本銀二十両亨出本銀三十両利出本銀四十両貞出本銀五十両共本一百四十両至年終共得利銀七十両問各該利銀若干
+
+| 答曰 | 元 | 該利 | 一十両 |
+| :--- | :--- | :--- | :--- |
+| | 亨 | 該利 | 一十五両 |
+| | 利 | 該利 | 二十両 |
+
+<meta>The text continues to the left, but the final column for '貞' (Zhen) is partially cut off or follows on the next page.</meta>
+
+<vocab>元亨利貞, 合本, 利銀, 法則, 經營</vocab>
+
+--- Page 86 ---
+<language>Classical Chinese</language>
+<page-type>text</page-type>
+<page-num>四十三</page-num>
+<meta>Vertical layout with traditional Chinese grid lines. Catchword/Signature at the left margin: 卷之二.</meta>
+
+法曰置利銀<gloss>七十兩</gloss>爲實以<gloss>四人</gloss>共本<gloss>一百四十兩</gloss>爲法除之得<gloss>五錢</gloss>爲每兩之利就以此爲法以乘各人原本合問
+
+假如今有甲乙丙三人合夥同商因各人本銀不齊前後付出甲于正月付出本七十兩乙于四月付出本八十兩丙于七月付出本九十兩<gloss>三人</gloss>其本二百四十兩至年終得利七十兩問各該利銀若干
+
+| 答曰 | 甲 | 該利 | 二十八兩 |
+| :--- | :--- | :--- | :--- |
+| | 乙 | 該利 | 二十四兩 |
+| | 丙 | 該利 | 一十八兩 |
+
+<margin>
+貞 該利 二十五兩
+</margin>
+
+<vocab>利銀, 實, 法, 合夥, 原本, 兩, 錢</vocab>
+
+--- Page 87 ---
+<language>Classical Chinese</language>
+<page-type>text</page-type>
+<meta>Vertical text reading from right to left. Woodblock print style.</meta>
+
+法曰置利銀七十為實。另置甲本七十以十二箇月通之
+得八百四十。又置乙本八十以九箇月通之得七百二十。再
+置丙本九十以六箇月通之得五百四十。三共併得二千一百
+為法除實得三錢三分三釐三毫三絲。此乃是每年一兩之利也。就
+以此又為法。以乘甲通八百四十得利二十八兩。又乘乙
+通七百二十得利二十四兩。再乘丙通五百四十得利一十八兩。合問
+
+->此是差分乘而相併除而又乘之法也<-
+
+假如今有人借去銀二百六十兩每年加三起息今有十
+箇月二十四日間該利銀若干
+
+答曰 七十兩零二錢
+
+<vocab>利銀, 實, 法, 差分, 乘, 除, 併, 息, 兩, 錢, 釐, 毫, 絲</vocab>
+
+--- Page 88 ---
+<language>Classical Chinese</language>
+<page-type>text</page-type>
+
+法曰先將<gloss>二十四日</gloss>用<gloss>三歸</gloss>得<gloss>八</gloss>在月隔空一位之下再以<gloss>二十月</gloss>除之得<gloss>九</gloss>數如年以乘原本得<gloss>二百三十四両</gloss>為實以每年加<gloss>三</gloss>為法因之合問
+
+解曰凡等年月日期即似與両求斤法減六同理每斤一十六両減六只作一數每年十二月每月三十日故先用三歸如月併月後用十二除月如年以乘各人原本合得<gloss>餘皆倣此</gloss> 圖式具左
+
+---
+
+### 定盤等日月為年式
+
+<margin>法三歸</margin> 如月數
+<margin>法後<gloss>二月三十</gloss>除如年數</margin>
+
+<image-desc>A calculation diagram showing numerical positions for a division or multiplication process. It includes the character '四' (four) in a circle and vertical strokes representing numbers or positions.</image-desc>
+
+逢六進二十<gloss>本位去尽進二于左</gloss>
+
+<vocab>三歸, 定盤, 年月日, 斤法, 實, 法</vocab>
+
+--- Page 89 ---
+<language>Chinese</language>
+<page-type>text</page-type>
+<header>算法統宗卷二</header>
+<meta>The image is a page from the "Suanfa Tongzong" (General Source of Computational Methods), a 16th-century Chinese mathematical treatise. It contains vertical text with small interlinear annotations and circular symbols representing numbers or variables.</meta>
+
+<image-desc>The page features several circular symbols containing Chinese characters (like 十, 月, 實, 歸) used as mathematical notation or placeholders in a calculation diagram at the top right. Vertical lines separate the columns of text.</image-desc>
+
+<margin>
+歸二十
+實起
+</margin>
+三二一六十二 <gloss>變二作六
+右位加二</gloss> <margin>編八</margin>
+
+---
+
+<margin>
+月
+</margin>
+二九除一十八
+
+<margin>
+除十
+實起
+</margin>
+見一無除作九 <margin>除九
+存九</margin>
+
+---
+
+假如今有趙錢孫李四人同商前後付出本銀<gloss>趙一</gloss>于癸亥年正月九日付出本銀三十兩<gloss>錢二</gloss>于乙丑年四月十五日付出本銀五十兩<gloss>孫三</gloss>于丙寅年八月十八日付出本銀七十兩<gloss>李四</gloss>于丁卯年十月二十七日付出本銀九十兩<gloss>共四</gloss>本銀二百四十兩至戊辰年終共得利銀一百二十兩問各該利銀若干
+
+答曰 趙一<gloss>該利</gloss>三十三兩八錢一分五厘五毫
+
+<vocab>算法統宗, 本銀, 利銀, 癸亥, 乙丑, 丙寅, 丁卯, 戊辰, 趙錢孫李</vocab>
+
+--- Page 90 ---
+<language>Chinese</language>
+<page-type>text</page-type>
+
+法日置利銀一百二二爲實。另置各人年月日數照依前式歸如月除如年次位之零併年以乘原本合問
+
+趙一計五年二十一日箇月先歸後除原本通得一百七十九兩二錢五分
+錢二計三年一十八日五箇月先歸後除原本通得二百八十五兩四錢一分六厘五毫
+孫三計二年一十四日二箇月先歸後除原本通得一百六十五兩六錢六分六厘六毫
+李四計一年〇〇三日二箇月先歸後除原本通得一百零五兩七錢五分
+將人年月日通得之數其併得六百三十六兩爲法除
+
+| | | |
+| :--- | :--- | :--- |
+| 錢二 | 該利 | 三十四兩九錢七分八厘八毫 |
+| 孫三 | 該利 | 三十一兩二錢五分三厘 |
+| 李四 | 該利 | 一十九兩九錢四分九厘七毫 |
+
+<vocab>利銀, 歸除, 原本, 錢, 兩, 分, 厘, 毫</vocab>
+
+--- Page 91 ---
+<language>Classical Chinese</language>
+<page-type>text</page-type>
+<header>算法統宗 卷二</header>
+<page-num>四十四</page-num>
+
+實得<gloss>一錢八分八厘六毫五絲</gloss>即是每年每兩之利也就以此又爲法以乘各人通得之數合問
+
+假如人借去銀每年<gloss>每兩</gloss>加利二錢七分今有一年零三個 月二十日收還銀三百六十二兩四錢七分問本利各得若干
+
+答曰 本 二百六十八兩
+利 九十四兩四錢七分
+
+法曰置還本利共銀爲實。另置年月日數照依前式用三歸<gloss>二十日得六六六</gloss>於<gloss>三</gloss>月之下位併月再以十二除之得<gloss>三月五五</gloss>。於<gloss>一年</gloss>之下位另以每年利<gloss>二錢七分</gloss>乘
+
+<vocab>算法統宗, 卷二, 利, 本, 實, 法, 三歸</vocab>
+
+--- Page 92 ---
+<language>Chinese</language>
+<page-type>text</page-type>
+<meta>Woodblock print, vertical layout with column dividers</meta>
+
+之得每兩利<gloss>三錢五分二厘五毫</gloss>加原本一兩二其為法除實得原本銀<gloss>二百六十八兩</gloss>再以每兩利<gloss>三錢五分二厘五毫</gloss>乘之得利<gloss>九十四兩四錢七分</gloss>合問
+
+假如原借本銀一十五兩每月加利二分五厘今有六箇月已還過銀九兩除作本及利問本利各該若干仍存原本若干
+
+答曰 除原本七兩八錢二分六厘
+該利一兩一錢七分四厘
+
+仍存原本銀七兩一錢七分四厘<gloss>仍以原日起利</gloss>
+
+法曰置還銀<gloss>九兩</gloss>為實。另置<gloss>六箇月</gloss>以月利<gloss>二分五</gloss>通之得<gloss>一錢五分</gloss>
+
+<vocab>原本, 利, 錢, 分, 厘, 毫, 實, 通之</vocab>
+
+--- Page 93 ---
+<language>Chinese</language>
+<page-type>text</page-type>
+<header>算法統宗 卷十一</header>
+<meta>Catchword: 吳</meta>
+
+五加原本一兩本利共一兩一錢五分為法除實得除本銀七兩八錢二分六厘 又以通利一錢五分乘之得利銀一兩一錢七分四厘 本利共合九兩之數。另將原本一十兩除還原本七兩八錢二分六厘 餘者仍存數也
+
+### 異乘同除
+
+此法雖易知之術其意至奧或人用先除後乘之法若除之不盡將何以乘之乎此異乘同除實為通變之法也
+
+歌曰
+
+> 異乘同除法何如　　物賣錢來作例推
+
+<vocab>算法統宗, 異乘同除, 本利, 實, 法</vocab>
+
+--- Page 94 ---
+<language>Chinese</language>
+<page-type>text</page-type>
+<meta>Vertical text, read from right to left. Catchword/Signature at bottom left: 罡</meta>
+<sig>卷二</sig>
+
+先下原錢乘只物　　却將原物法除之
+將錢買物互乘取　　百里千斤以類推
+籌者留心能善用　　一絲一忽不差池
+
+假如原有米五石八斗四升賣銀四兩三錢八分今只有米一石七斗二升問該銀若干
+
+答曰　一兩二錢九分
+
+法曰置今有米<gloss>一石七斗二升</gloss>以原賣銀<gloss>四兩三錢八分</gloss>乘之得<gloss>七兩五錢三分三厘六毫</gloss>為實却以原有米<gloss>五石八斗四升</gloss>為法除之合問
+
+一法先用除而後乘先置原價<gloss>四兩三錢八分</gloss>以原米<gloss>五石八斗四升</gloss>為法除之得每石價銀<gloss>七錢五分</gloss>又為法以乘今米<gloss>一石七斗二升</gloss>
+
+<vocab>米, 石, 斗, 升, 銀, 兩, 錢, 分, 厘, 毫, 乘, 除</vocab>
+
+--- Page 95 ---
+<language>Classical Chinese</language>
+<page-type>text</page-type>
+
+<insert>
+二亦得
+升亦得
+</insert>
+
+此法雖易知之恐愚拙者法則難
+於取價須用先乘後除其法捷妙
+
+### 異乘同除互換捷用法圖
+
+<image-desc>
+A mathematical diagram consisting of a rectangular frame divided into sections. 
+At the top right, it labels "Original Item" (原物) with a note "Exchange Position" (兌位). 
+Below it is "Original Price" (原價). 
+To the left is "Same Division" (同除). 
+A diagonal line connects "Current Item" (今只有物) at the top left to "Original Price" (原價) at the bottom right, labeled "Cross Multiplication" (斜乘). 
+The bottom section contains the logic: "Original Price and Current Item are Cross Multiplied" (原價今物是異乘) and "Original Price and Current Item are Same Division" (原價今物是同除). 
+The word "Empty" (空) is positioned in the lower middle section.
+</image-desc>
+
+->歌曰<-
+
+此法有四隅　　內有一隅空
+異名斜乘了　　同名兌位除
+
+詳此歌　如此 <margin>異名乘 同名除</margin>
+
+<vocab>異乘同除, 互換捷用法, 斜乘, 兌位, 算法</vocab>
+
+--- Page 96 ---
+<language>Chinese</language>
+<page-type>text</page-type>
+
+假如原有小麥八斗六升磨麵六十四斤八兩今有小麥
+三十五石四斗八升問該麵若干
+
+->答曰 二千六百六十一斤<-
+
+法曰置其麥<gloss>三十五石四斗八升</gloss>以磨麵<gloss>六十四斤半</gloss>乘之得<gloss>二萬二千八百八十四斤六</gloss>爲實以原麥<gloss>八斗六升</gloss>爲法除之合問
+
+假如今有夏布四十五疋欲換棉布只云夏布三疋共價
+二錢棉布七疋其價七錢五分問換棉布若干
+
+->答曰 棉二十八疋<-
+
+法曰先置今有夏布<gloss>四十五疋</gloss>以原夏布價<gloss>二錢</gloss>因之得<gloss>九兩</gloss>又
+以棉布<gloss>七疋</gloss>因之得<gloss>六十三疋</gloss>爲實以夏布<gloss>三疋</gloss>因棉布價<gloss>七錢五分</gloss>
+
+<vocab>小麥, 磨麵, 夏布, 棉布, 爲實, 爲法, 合問</vocab>
+
+--- Page 97 ---
+<language>Chinese</language>
+<page-type>text</page-type>
+<header>算法統宗 卷二</header>
+<meta>catchword: 四十六</meta>
+
+<gloss>五得二兩二分得錢五分</gloss> 為法除之得棉布二十疋合問
+
+假如原有麥三斗五升磨麵二十五斤今欲用麵一百七十五斤問該麥若干
+
+->答曰 二石四斗五升<-
+
+法曰置原麥乘今用麵為實以磨麵二十五斤為法除之合問
+
+假如今有綾一百六十一疋每七疋價銀五兩問共該銀若干
+
+->答曰 一百一十五兩<-
+
+法曰置總綾以五兩因之為實以七疋為法歸之合問
+
+<vocab>算法統宗, 麥, 麵, 綾, 疋, 兩, 實, 法, 除, 因, 歸</vocab>
+
+--- Page 98 ---
+<language>Chinese</language>
+<page-type>text</page-type>
+<page-num>17</page-num>
+<meta>Vertical text layout with traditional Chinese characters. Woodblock print style.</meta>
+
+# 同乘異除歌
+<margin>此法買實石珍珠大小塊顆價所此。果品亦同</margin>
+
+->同乘異除法可詳　原物價相乘為實<-
+->今物除實求今價　今價除實求今物<-
+
+假如原有小珍珠五十顆重一兩價銀一十二兩今有大珍珠三十顆重一兩問該銀若干
+
+->答曰　二十兩<-
+
+法曰置原珠<gloss>五十</gloss>以原價<gloss>一十二</gloss>乘得<gloss>六百</gloss>為實以今珠<gloss>三十</gloss>除之令問
+
+# 異乘同除法
+
+假如織錦人一日織錦八尺二寸五分今有五十六人共
+
+<vocab>同乘異除歌, 珍珠, 價銀, 異乘同除法, 織錦</vocab>
+
+--- Page 99 ---
+<language>Chinese</language>
+<page-type>text</page-type>
+<header>算法統宗 卷二</header>
+<sig>四十九</sig>
+
+織二十七日間織錦若干
+
+> 答曰 一千二百四十七丈四尺
+>
+> 法曰置五十乘二十得一千五百再以日織入尺二寸五分乘之得一百一萬二千四百尺合問
+
+### 異除同除法理
+
+假如今有客一十五人住一十二日共用米三石六斗問
+一客每日用米若干
+
+> 答曰 每日二升
+>
+> 法曰置米三石為實。另以一十五人乘一十二日得一百八十人為法除實得二合問
+
+<vocab>算法統宗, 織錦, 異除同除法, 實, 法, 乘, 除</vocab>
+
+--- Page 100 ---
+<language>Classical Chinese</language>
+<page-type>text</page-type>
+
+### 同乘同除法理
+
+假如原有鵝八隻換雞二十隻每雞三十隻換鴨九十隻每鴨六十隻換羊二隻今却有羊五隻換鵝問該若干
+
+->答曰 該鵝二十隻<-
+
+法曰用<gloss>異乘同除法</gloss>置原鵝<gloss>八隻</gloss>以乘原雞<gloss>三十隻</gloss>得<gloss>二百四十</gloss>又以原鴨<gloss>六十隻</gloss>乘之得<gloss>一萬四千四百</gloss>再以今有羊<gloss>五隻</gloss>乘之得<gloss>七萬二千</gloss>為實。及用<gloss>異乘同除法</gloss>以所換雞<gloss>二十隻</gloss>乘換鴨<gloss>九十隻</gloss>得<gloss>一千八百</gloss>再以所換羊<gloss>二隻</gloss>因之得<gloss>三千六百</gloss>為法除實得鵝<gloss>二十隻</gloss>合問
+
+指曰舊應一除一乘多有不盡之數今變法總乘為實
+
+<vocab>同乘同除法, 實, 法, 異乘同除法</vocab>
+
+--- Page 101 ---
+<language>Chinese</language>
+<page-type>text</page-type>
+<header>算法統宗 卷二</header>
+<sig>季</sig>
+
+->總除為法此術極妙矣<-
+
+### 傾煎論色
+
+假如今有九二成色銀七兩四錢八分傾銷足色問該若干
+> 答曰 六兩八錢八分一厘六毫
+> 法曰置銀為實以九二色為法乘之合問
+
+假如今有足色紋銀一十五兩二錢換九五色銀問該成色銀若干
+> 答曰 該九五色銀一十六兩
+> 法曰置紋銀<gloss>一十五兩二錢</gloss>為實以九五色為法除之即得
+
+<vocab>算法統宗, 傾煎, 成色, 紋銀, 足色, 實, 法</vocab>
+
+--- Page 102 ---
+<language>Classical Chinese</language>
+<page-type>text</page-type>
+<meta>Woodblock print, vertical orientation, reading right to left</meta>
+
+假如今有八五色銀五兩六錢換九五色銀問該若干
+> 答曰 該九五色銀五兩零一分零五毫
+> 法曰 置銀<gloss>五兩六錢</gloss>以八乘之得<gloss>四兩四錢八分</gloss>為實以九五為法除之合問
+
+假如今有足色紋銀七兩六錢五分傾出成色銀九兩問色幾何
+> 答曰 八五色
+> 法曰 置紋銀為實以傾出色銀<gloss>九兩</gloss>為法歸之合問
+
+假如今有足色紋銀三十五兩二錢欲傾八八色銀問用銅若干
+
+<vocab>八五色, 九五色, 紋銀, 足色, 傾出, 實, 法, 歸之, 毫, 錢, 兩</vocab>
+
+--- Page 103 ---
+<language>Chinese</language>
+<page-type>text</page-type>
+<header>算法統宗 卷二</header>
+<meta>Catchword: 至</meta>
+
+# 新編直指算法統宗卷之二
+
+答曰 銅四兩八錢
+
+法曰 置紋銀爲實 以八八色爲法 除之得色銀四十兩 內減原銀餘四兩八錢 是銅數也 合問
+
+假如 有銅七錢五分 今裏作八八色銀 問用紋銀若干
+
+答曰 紋銀五兩五錢
+
+法曰 置銅爲實 以<gloss>每用銅一錢二分</gloss>爲法 除之得八八色銀六兩 內減去原銅七錢五分 餘得紋銀 合問
+
+<vocab>算法統宗, 紋銀, 色銀, 銅, 實, 法, 除</vocab>

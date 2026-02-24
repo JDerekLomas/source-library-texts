@@ -1,0 +1,28 @@
+{
+  "id": "699257d70e2e052179231c96",
+  "title": "Sthaviravali Charita (Parisishtaparvan)",
+  "display_title": "Sthaviravali Charita (Parisishtaparvan)",
+  "author": "Hemachandra",
+  "language": "Sanskrit",
+  "year": 1891,
+  "published": "Unknown",
+  "pages_count": 100,
+  "pages_with_ocr": 100,
+  "pages_with_translation": 80,
+  "source_url": "https://sourcelibrary.org/book/699257d70e2e052179231c96",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "in.ernet.dli.2015.272632"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:32.847Z",
+  "_hashes": {
+    "ocr": "814ea6d976b20f53",
+    "translation": "cb8092a720500dcf"
+  }
+}

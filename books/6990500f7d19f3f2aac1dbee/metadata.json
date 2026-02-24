@@ -1,0 +1,28 @@
+{
+  "id": "6990500f7d19f3f2aac1dbee",
+  "title": "Della Cristiana Religione",
+  "display_title": "Ficino: De Christiana Religione (1474 incunabulum)",
+  "author": "Marsilio Ficino",
+  "language": "Italian",
+  "year": 1474,
+  "published": "Unknown",
+  "pages_count": 226,
+  "pages_with_ocr": 100,
+  "pages_with_translation": 91,
+  "source_url": "https://sourcelibrary.org/book/6990500f7d19f3f2aac1dbee",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "ita-bnc-in1-00000069-001"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:33.705Z",
+  "_hashes": {
+    "ocr": "af153f0470d0e54d",
+    "translation": "8ef8eddc4f76939f"
+  }
+}

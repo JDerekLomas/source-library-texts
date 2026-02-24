@@ -1,0 +1,26 @@
+{
+  "id": "69804b95e4bbe66acad27e35",
+  "title": "Lapis animalis microcosmicus. Oder, die höchste Artzney, aus der kleinen Welt des menschlichen Leibs",
+  "display_title": "Lapis animalis microcosmicus. Oder, die höchste Artzney, aus der kleinen Welt des menschlichen Leibs",
+  "author": "[Dolhopff, Georg Andreas]",
+  "language": "Latin-German",
+  "year": 1681,
+  "published": "1681",
+  "pages_count": 111,
+  "pages_with_ocr": 111,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/69804b95e4bbe66acad27e35",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:24.582Z",
+  "_hashes": {
+    "ocr": "ffcd3b081b9b3c11",
+    "translation": "59ecbaf8ecc2fa79"
+  }
+}

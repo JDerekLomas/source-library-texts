@@ -1,0 +1,26 @@
+{
+  "id": "697d9c989788c62e1238c864",
+  "title": "Hermaphroditisches Sonn- und Monds-Kind",
+  "display_title": "Hermaphroditisches Sonn- und Monds-Kind",
+  "author": "[Brunnhofer, Johann Augustin]",
+  "language": "German",
+  "year": 1752,
+  "published": "1752",
+  "pages_count": 114,
+  "pages_with_ocr": 114,
+  "pages_with_translation": 5,
+  "source_url": "https://sourcelibrary.org/book/697d9c989788c62e1238c864",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:22.715Z",
+  "_hashes": {
+    "ocr": "a6e5a9faf609ef41",
+    "translation": "b44396d8d80483df"
+  }
+}

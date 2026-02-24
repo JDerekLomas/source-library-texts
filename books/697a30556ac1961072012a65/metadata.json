@@ -1,0 +1,26 @@
+{
+  "id": "697a30556ac1961072012a65",
+  "title": "Cort examen ende sententie Johannis Utenbogaerts over seker Tractaet",
+  "display_title": "Cort examen ende sententie Johannis Utenbogaerts over seker Tractaet",
+  "author": "[Drielenburch, Vincent van]",
+  "language": "Dutch",
+  "year": 1615,
+  "published": "1615",
+  "pages_count": 102,
+  "pages_with_ocr": 102,
+  "pages_with_translation": 76,
+  "source_url": "https://sourcelibrary.org/book/697a30556ac1961072012a65",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:31.008Z",
+  "_hashes": {
+    "ocr": "0760d7fe5e13fc9a",
+    "translation": "61817bcc9775c2be"
+  }
+}

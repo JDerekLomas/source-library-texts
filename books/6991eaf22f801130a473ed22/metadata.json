@@ -1,0 +1,28 @@
+{
+  "id": "6991eaf22f801130a473ed22",
+  "title": "Notes et dessins sur les attitudes de l'homme",
+  "display_title": "Notes et dessins sur les attitudes de l'homme",
+  "author": "Leonardo da Vinci",
+  "language": "Italian",
+  "year": 1880,
+  "published": "Unknown",
+  "pages_count": 102,
+  "pages_with_ocr": 102,
+  "pages_with_translation": 102,
+  "source_url": "https://sourcelibrary.org/book/6991eaf22f801130a473ed22",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "gri_33125017557915"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:30.826Z",
+  "_hashes": {
+    "ocr": "cf75c80ede946a08",
+    "translation": "2a8e43ce97bd28c5"
+  }
+}

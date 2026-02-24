@@ -1,0 +1,28 @@
+{
+  "id": "7d66e9ad-9572-49c6-82ce-0265337e491d",
+  "title": "Astronomiae Instauratae Mechanica",
+  "display_title": "Tycho Brahe: Astronomiae Instauratae (1602)",
+  "author": "Tycho Brahe",
+  "language": "Latin",
+  "year": 1598,
+  "published": "1598",
+  "pages_count": 116,
+  "pages_with_ocr": 116,
+  "pages_with_translation": 116,
+  "source_url": "https://sourcelibrary.org/book/7d66e9ad-9572-49c6-82ce-0265337e491d",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "TychonisBraheAs00BrahA"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:22.213Z",
+  "_hashes": {
+    "ocr": "6a7ca216250802a1",
+    "translation": "48f9c84af793d894"
+  }
+}

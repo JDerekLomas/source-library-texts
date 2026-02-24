@@ -1,0 +1,28 @@
+{
+  "id": "69904fba7d19f3f2aac1d6ad",
+  "title": "China Monumentis Illustrata",
+  "display_title": "Kircher: China Illustrata (1667)",
+  "author": "Athanasius Kircher",
+  "language": "Latin",
+  "year": 1667,
+  "published": "Unknown",
+  "pages_count": 324,
+  "pages_with_ocr": 100,
+  "pages_with_translation": 84,
+  "source_url": "https://sourcelibrary.org/book/69904fba7d19f3f2aac1d6ad",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "athanasiikircher00kirc_0"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:33.261Z",
+  "_hashes": {
+    "ocr": "dba9b70bdb083c99",
+    "translation": "43d4d8e177671cd9"
+  }
+}

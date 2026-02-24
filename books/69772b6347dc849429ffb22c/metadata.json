@@ -1,0 +1,26 @@
+{
+  "id": "69772b6347dc849429ffb22c",
+  "title": "Bibliotheca chemica contracta",
+  "display_title": "Bibliotheca chemica contracta",
+  "author": "Albineus, Nathan",
+  "language": "Latin",
+  "year": 1653,
+  "published": "1653",
+  "pages_count": 108,
+  "pages_with_ocr": 108,
+  "pages_with_translation": 80,
+  "source_url": "https://sourcelibrary.org/book/69772b6347dc849429ffb22c",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:26.711Z",
+  "_hashes": {
+    "ocr": "951c234817a086a2",
+    "translation": "268feee1f5b660cd"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "6992cffef5b4f75c1a4c9ede",
+  "title": "程氏墨苑",
+  "display_title": "程氏墨苑",
+  "author": "程大約",
+  "language": "Chinese",
+  "year": 1595,
+  "published": "1595",
+  "pages_count": 110,
+  "pages_with_ocr": 110,
+  "pages_with_translation": 88,
+  "source_url": "https://sourcelibrary.org/book/6992cffef5b4f75c1a4c9ede",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "02095353.cn"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:24.921Z",
+  "_hashes": {
+    "ocr": "be16f9600884c42c",
+    "translation": "1a7f2adf62b90fba"
+  }
+}

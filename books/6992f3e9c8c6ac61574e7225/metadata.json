@@ -1,0 +1,26 @@
+{
+  "id": "6992f3e9c8c6ac61574e7225",
+  "title": "廣輿圖 (Guang Yu Tu: Enlarged Territorial Atlas)",
+  "display_title": "廣輿圖 (Guang Yu Tu: Enlarged Territorial Atlas)",
+  "author": "Luo Hongxian (羅洪先)",
+  "language": "Chinese",
+  "year": 1558,
+  "published": "1558",
+  "pages_count": 122,
+  "pages_with_ocr": 122,
+  "pages_with_translation": 45,
+  "source_url": "https://sourcelibrary.org/book/6992f3e9c8c6ac61574e7225",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:19.669Z",
+  "_hashes": {
+    "ocr": "e043fa6a06794a46",
+    "translation": "986c870588ee2ac8"
+  }
+}

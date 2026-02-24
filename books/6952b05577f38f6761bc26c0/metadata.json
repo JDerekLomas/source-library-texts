@@ -1,0 +1,28 @@
+{
+  "id": "6952b05577f38f6761bc26c0",
+  "title": "A Platonick Discourse Upon Love",
+  "display_title": "Commentary on Benivieni (1651 English trans.)",
+  "author": "Pico della Mirandola, Giovanni | Benivieni, Girolamo",
+  "language": "English",
+  "year": 1651,
+  "published": "1651",
+  "pages_count": 124,
+  "pages_with_ocr": 124,
+  "pages_with_translation": 124,
+  "source_url": "https://sourcelibrary.org/book/6952b05577f38f6761bc26c0",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "aplatonickdisco02benigoog"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:19.019Z",
+  "_hashes": {
+    "ocr": "1102803dd14864e4",
+    "translation": "edd6b02c8364fb16"
+  }
+}

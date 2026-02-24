@@ -1,0 +1,26 @@
+{
+  "id": "6867bf5a009d20a23245ac0d",
+  "title": "Das Buch Meteororum",
+  "display_title": "The Book of Meteors; Fourth Book of Paramirum on the Matrix",
+  "author": "Paracelsus, Theophrastus",
+  "language": "German",
+  "year": 1566,
+  "published": "1566",
+  "pages_count": 113,
+  "pages_with_ocr": 113,
+  "pages_with_translation": 113,
+  "source_url": "https://sourcelibrary.org/book/6867bf5a009d20a23245ac0d",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini"
+  },
+  "synced_at": "2026-02-24T18:28:23.793Z",
+  "_hashes": {
+    "ocr": "248c410c0899b4a2",
+    "translation": "ed1048c67ceb47a4"
+  }
+}

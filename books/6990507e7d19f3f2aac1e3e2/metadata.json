@@ -1,0 +1,28 @@
+{
+  "id": "6990507e7d19f3f2aac1e3e2",
+  "title": "Iter Exstaticum Coeleste",
+  "display_title": "Kircher: Iter Exstaticum Coeleste (1660)",
+  "author": "Athanasius Kircher",
+  "language": "Latin",
+  "year": 1656,
+  "published": "Unknown",
+  "pages_count": 760,
+  "pages_with_ocr": 100,
+  "pages_with_translation": 88,
+  "source_url": "https://sourcelibrary.org/book/6990507e7d19f3f2aac1e3e2",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "rpathanasiikirch00kirc_0"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:34.457Z",
+  "_hashes": {
+    "ocr": "69c913304d0e58d7",
+    "translation": "55dcfc8e5d979f17"
+  }
+}

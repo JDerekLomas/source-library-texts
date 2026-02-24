@@ -1,0 +1,26 @@
+{
+  "id": "6970e37c9b09d309d780a2c0",
+  "title": "The answer",
+  "display_title": "The answer",
+  "author": "Foley, Thomas P",
+  "language": "English",
+  "year": 1805,
+  "published": "1805",
+  "pages_count": 104,
+  "pages_with_ocr": 104,
+  "pages_with_translation": 103,
+  "source_url": "https://sourcelibrary.org/book/6970e37c9b09d309d780a2c0",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:28.786Z",
+  "_hashes": {
+    "ocr": "440166f3945e6dc2",
+    "translation": "95ee028835357443"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "6991d8a08c1030b12444c14c",
+  "title": "Paramesvaratantra",
+  "display_title": "Pārameśvaratantra (MS Add.1049.1)",
+  "author": "Unknown",
+  "language": "Sanskrit",
+  "year": 828,
+  "published": "828",
+  "pages_count": 124,
+  "pages_with_ocr": 124,
+  "pages_with_translation": 100,
+  "source_url": "https://sourcelibrary.org/book/6991d8a08c1030b12444c14c",
+  "license": "CC-BY-NC-4.0",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:18.707Z",
+  "_hashes": {
+    "ocr": "9b1b7a09c6e9c97a",
+    "translation": "d3bde3c8b2da95ee"
+  }
+}

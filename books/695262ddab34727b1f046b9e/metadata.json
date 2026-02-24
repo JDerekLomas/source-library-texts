@@ -1,0 +1,28 @@
+{
+  "id": "695262ddab34727b1f046b9e",
+  "title": "Philosophie naturelle (Artephius, Flamel, Synesius)",
+  "display_title": "Trois anciens philosophes: Artephius, Flamel et Synesius",
+  "author": "Nicholas Flamel et al.",
+  "language": "French",
+  "year": 1682,
+  "published": "1682",
+  "pages_count": 108,
+  "pages_with_ocr": 108,
+  "pages_with_translation": 108,
+  "source_url": "https://sourcelibrary.org/book/695262ddab34727b1f046b9e",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "gallica": "bpt6k81627j"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": null,
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:27.693Z",
+  "_hashes": {
+    "ocr": "766c0df36caf3535",
+    "translation": "09a3a7753d28e809"
+  }
+}

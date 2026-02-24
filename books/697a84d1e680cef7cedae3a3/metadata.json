@@ -1,0 +1,26 @@
+{
+  "id": "697a84d1e680cef7cedae3a3",
+  "title": "The diverting history of the count de Gabalis",
+  "display_title": "The diverting history of the count de Gabalis",
+  "author": "[Villars, Nicolas de Montfaucon de]",
+  "language": "English",
+  "year": 1714,
+  "published": "1714",
+  "pages_count": 116,
+  "pages_with_ocr": 116,
+  "pages_with_translation": 3,
+  "source_url": "https://sourcelibrary.org/book/697a84d1e680cef7cedae3a3",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:22.309Z",
+  "_hashes": {
+    "ocr": "34d47de2f4becfbb",
+    "translation": "4771f378dc1f2d99"
+  }
+}

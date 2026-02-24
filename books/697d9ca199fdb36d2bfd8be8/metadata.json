@@ -1,0 +1,26 @@
+{
+  "id": "697d9ca199fdb36d2bfd8be8",
+  "title": "De haeresi Albigensium exercitatio",
+  "display_title": "De haeresi Albigensium exercitatio",
+  "author": "Brenna, Aloysius",
+  "language": "Latin",
+  "year": 1756,
+  "published": "1756",
+  "pages_count": 113,
+  "pages_with_ocr": 113,
+  "pages_with_translation": 7,
+  "source_url": "https://sourcelibrary.org/book/697d9ca199fdb36d2bfd8be8",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:23.467Z",
+  "_hashes": {
+    "ocr": "33e82beddaec8a16",
+    "translation": "74aeb5566d51a775"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "697a3055811ccb8665fbde1c",
+  "title": "D.O.M.A. Crollius redivivus. Das ist, hermetischer Wunderbaum",
+  "display_title": "D.O.M.A. Crollius redivivus. Das ist, hermetischer Wunderbaum",
+  "author": "Unknown",
+  "language": "Latin-German",
+  "year": 1647,
+  "published": "1647",
+  "pages_count": 112,
+  "pages_with_ocr": 112,
+  "pages_with_translation": 4,
+  "source_url": "https://sourcelibrary.org/book/697a3055811ccb8665fbde1c",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:23.941Z",
+  "_hashes": {
+    "ocr": "ab913fa343e06cda",
+    "translation": "60555f469f5e6696"
+  }
+}

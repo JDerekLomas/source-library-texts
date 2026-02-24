@@ -1,0 +1,26 @@
+{
+  "id": "69819209c3e109986dfc4453",
+  "title": "Lucta christiana. Psalmi quinquagesimi deprecatoria",
+  "display_title": "Lucta christiana. Psalmi quinquagesimi deprecatoria",
+  "author": "Moltherus, Menradus",
+  "language": "Latin",
+  "year": 1527,
+  "published": "1527",
+  "pages_count": 123,
+  "pages_with_ocr": 123,
+  "pages_with_translation": 8,
+  "source_url": "https://sourcelibrary.org/book/69819209c3e109986dfc4453",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:19.299Z",
+  "_hashes": {
+    "ocr": "683ac9604973c366",
+    "translation": "299453ab71f73898"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "699050547d19f3f2aac1e087",
+  "title": "Iconologia",
+  "display_title": "Ripa: Iconologia (1603)",
+  "author": "Cesare Ripa",
+  "language": "Italian",
+  "year": 1593,
+  "published": "Unknown",
+  "pages_count": 558,
+  "pages_with_ocr": 100,
+  "pages_with_translation": 96,
+  "source_url": "https://sourcelibrary.org/book/699050547d19f3f2aac1e087",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "iconologiaouerod00ripa"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:34.119Z",
+  "_hashes": {
+    "ocr": "fcb72a179edc0960",
+    "translation": "7b1d10b60a961c8e"
+  }
+}

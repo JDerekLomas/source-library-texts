@@ -1,0 +1,28 @@
+{
+  "id": "699050d07d19f3f2aac1e6e4",
+  "title": "De Umbris Idearum",
+  "display_title": "Giordano Bruno: De Umbris Idearum (1582 First Edition)",
+  "author": "Giordano Bruno",
+  "language": "Latin",
+  "year": 1582,
+  "published": "Unknown",
+  "pages_count": 251,
+  "pages_with_ocr": 100,
+  "pages_with_translation": 91,
+  "source_url": "https://sourcelibrary.org/book/699050d07d19f3f2aac1e6e4",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "gri_iordanusbrun00brun"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:34.587Z",
+  "_hashes": {
+    "ocr": "b500598972f2ab19",
+    "translation": "cf78ac9ce50a1f2f"
+  }
+}

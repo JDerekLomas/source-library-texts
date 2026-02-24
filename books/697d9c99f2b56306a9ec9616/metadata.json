@@ -1,0 +1,26 @@
+{
+  "id": "697d9c99f2b56306a9ec9616",
+  "title": "Hermetischer Rosenkrantz",
+  "display_title": "Hermetischer Rosenkrantz",
+  "author": "anonymous",
+  "language": "German",
+  "year": 1659,
+  "published": "1659",
+  "pages_count": 123,
+  "pages_with_ocr": 123,
+  "pages_with_translation": 98,
+  "source_url": "https://sourcelibrary.org/book/697d9c99f2b56306a9ec9616",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:19.471Z",
+  "_hashes": {
+    "ocr": "d8bdf780e6ed7863",
+    "translation": "eebdfb5ec3ad9ebb"
+  }
+}

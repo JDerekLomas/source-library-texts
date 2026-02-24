@@ -1,0 +1,28 @@
+{
+  "id": "699051d18d19cbc90d9d5136",
+  "title": "Luculenta Timaei Platonis traductio et explanatio",
+  "display_title": "Commentary on Platos Timaeus",
+  "author": "Chalcidius",
+  "language": "Latin",
+  "year": 1532,
+  "published": "Unknown",
+  "pages_count": 150,
+  "pages_with_ocr": 100,
+  "pages_with_translation": 95,
+  "source_url": "https://sourcelibrary.org/book/699051d18d19cbc90d9d5136",
+  "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bub_gb_t-tyWOP6VRYC"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:34.832Z",
+  "_hashes": {
+    "ocr": "af1fca77e4198b20",
+    "translation": "d7e4c02afa99b346"
+  }
+}

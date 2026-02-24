@@ -1,0 +1,28 @@
+{
+  "id": "69906d7f64d44bd0a0ef59da",
+  "title": "Brihaspati Sutra",
+  "display_title": "Brihaspati Sutra",
+  "author": "Brihaspati",
+  "language": "Sanskrit",
+  "year": 1921,
+  "published": "1921",
+  "pages_count": 104,
+  "pages_with_ocr": 104,
+  "pages_with_translation": 84,
+  "source_url": "https://sourcelibrary.org/book/69906d7f64d44bd0a0ef59da",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "brihaspatisutrao00brharich"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:28.944Z",
+  "_hashes": {
+    "ocr": "d4d3d1c23eca1fd2",
+    "translation": "ae833f80267a90c6"
+  }
+}

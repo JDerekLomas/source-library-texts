@@ -1,0 +1,28 @@
+{
+  "id": "6952d0fa77f38f6761bc5aef",
+  "title": "Astronomiae instauratae mechanica",
+  "display_title": "Instruments of the Restored Astronomy",
+  "author": "Brahe, Tycho",
+  "language": "Latin",
+  "year": 1598,
+  "published": "1598",
+  "pages_count": 117,
+  "pages_with_ocr": 117,
+  "pages_with_translation": 117,
+  "source_url": "https://sourcelibrary.org/book/6952d0fa77f38f6761bc5aef",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "gri_tychonisbrah00brah"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:21.622Z",
+  "_hashes": {
+    "ocr": "93a240aa6f0778a8",
+    "translation": "ae982242b1a2344c"
+  }
+}

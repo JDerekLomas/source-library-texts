@@ -1,0 +1,26 @@
+{
+  "id": "69804b93374856599c34762b",
+  "title": "Een korte verhandeling van de liefde Godts",
+  "display_title": "Een korte verhandeling van de liefde Godts",
+  "author": "Unknown",
+  "language": "Dutch",
+  "year": 1693,
+  "published": "1693",
+  "pages_count": 122,
+  "pages_with_ocr": 122,
+  "pages_with_translation": 6,
+  "source_url": "https://sourcelibrary.org/book/69804b93374856599c34762b",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:19.810Z",
+  "_hashes": {
+    "ocr": "6aa02ce0737e7228",
+    "translation": "623ef289e5aef2c7"
+  }
+}

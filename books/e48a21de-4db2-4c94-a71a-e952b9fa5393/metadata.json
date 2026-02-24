@@ -1,0 +1,28 @@
+{
+  "id": "e48a21de-4db2-4c94-a71a-e952b9fa5393",
+  "title": "Musurgia Universalis",
+  "display_title": "Musurgia Universalis (Universal Music)",
+  "author": "Athanasius Kircher",
+  "language": "Latin",
+  "year": 1650,
+  "published": "1650",
+  "pages_count": 748,
+  "pages_with_ocr": 112,
+  "pages_with_translation": 112,
+  "source_url": "https://sourcelibrary.org/book/e48a21de-4db2-4c94-a71a-e952b9fa5393",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bub_gb_Ebv8SNgKNnoC"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:24.449Z",
+  "_hashes": {
+    "ocr": "ca81d99741e4277a",
+    "translation": "10ea07056ad83abf"
+  }
+}

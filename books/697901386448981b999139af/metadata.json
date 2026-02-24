@@ -1,0 +1,26 @@
+{
+  "id": "697901386448981b999139af",
+  "title": "Chymisches Lust-Gärtlein",
+  "display_title": "Chymisches Lust-Gärtlein",
+  "author": "anonymous",
+  "language": "German",
+  "year": 1747,
+  "published": "1747",
+  "pages_count": 120,
+  "pages_with_ocr": 118,
+  "pages_with_translation": 92,
+  "source_url": "https://sourcelibrary.org/book/697901386448981b999139af",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:21.257Z",
+  "_hashes": {
+    "ocr": "7106c607141b46a9",
+    "translation": "081739ab645d59dd"
+  }
+}

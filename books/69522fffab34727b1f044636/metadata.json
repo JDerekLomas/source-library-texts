@@ -1,0 +1,28 @@
+{
+  "id": "69522fffab34727b1f044636",
+  "title": "Le roman de Blanquerna",
+  "display_title": "The Book of the Lover and the Beloved (Blanquerna)",
+  "author": "Ramon Llull",
+  "language": "Catalan",
+  "year": 1301,
+  "published": "1301-1400",
+  "pages_count": 110,
+  "pages_with_ocr": 110,
+  "pages_with_translation": 110,
+  "source_url": "https://sourcelibrary.org/book/69522fffab34727b1f044636",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "gallica": "btv1b100327898"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:25.509Z",
+  "_hashes": {
+    "ocr": "6c5e5ff854b4154c",
+    "translation": "64df7b2eb2dd411d"
+  }
+}

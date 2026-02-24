@@ -1,0 +1,26 @@
+{
+  "id": "697e23ca32fdac74c7ee6f47",
+  "title": "Ueber den Illuminaten-Orden",
+  "display_title": "Ueber den Illuminaten-Orden",
+  "author": "Unknown",
+  "language": "German",
+  "year": 1799,
+  "published": "1799",
+  "pages_count": 102,
+  "pages_with_ocr": 102,
+  "pages_with_translation": 79,
+  "source_url": "https://sourcelibrary.org/book/697e23ca32fdac74c7ee6f47",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:30.477Z",
+  "_hashes": {
+    "ocr": "96c1580bd3eb6b08",
+    "translation": "e667d811926bfc9c"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "690c3840e0787282ad59386d",
+  "title": "Silentium post clamores, das ist, Apologi und Verantwortung",
+  "display_title": "Silence after the clamors, that is, Apology and Responsibility",
+  "author": "[Maier, Michael]",
+  "language": "German",
+  "year": 1617,
+  "published": "1617",
+  "pages_count": 101,
+  "pages_with_ocr": 101,
+  "pages_with_translation": 99,
+  "source_url": "https://sourcelibrary.org/book/690c3840e0787282ad59386d",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:32.046Z",
+  "_hashes": {
+    "ocr": "bba15c2bfe05a996",
+    "translation": "451c76e55fb83465"
+  }
+}

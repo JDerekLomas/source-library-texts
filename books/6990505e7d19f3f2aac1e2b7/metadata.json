@@ -1,0 +1,28 @@
+{
+  "id": "6990505e7d19f3f2aac1e2b7",
+  "title": "Turris Babel",
+  "display_title": "Kircher: Turris Babel (1679)",
+  "author": "Athanasius Kircher",
+  "language": "Latin",
+  "year": 1679,
+  "published": "Unknown",
+  "pages_count": 297,
+  "pages_with_ocr": 100,
+  "pages_with_translation": 76,
+  "source_url": "https://sourcelibrary.org/book/6990505e7d19f3f2aac1e2b7",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "gri_athanasiikir00kirc"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:34.284Z",
+  "_hashes": {
+    "ocr": "1ee0f1d2527ca933",
+    "translation": "9f08a21d65185234"
+  }
+}

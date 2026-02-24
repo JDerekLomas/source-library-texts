@@ -1,0 +1,26 @@
+{
+  "id": "6991e70cebc7adff9a0b21e6",
+  "title": "Codex Forster I",
+  "display_title": "Codex Forster I (National Art Library, Museum no. MSL/1876/Forster/141/I)",
+  "author": "Leonardo da Vinci",
+  "language": "Italian",
+  "year": 1487,
+  "published": "1487",
+  "pages_count": 114,
+  "pages_with_ocr": 114,
+  "pages_with_translation": 114,
+  "source_url": "https://sourcelibrary.org/book/6991e70cebc7adff9a0b21e6",
+  "license": "unknown",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:22.876Z",
+  "_hashes": {
+    "ocr": "c2d280d4cc18e536",
+    "translation": "da5fe4443da39456"
+  }
+}

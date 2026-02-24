@@ -1,0 +1,28 @@
+{
+  "id": "6992c91569b777d72c7633f7",
+  "title": "山海經 (Shanhai Jing) - Classic of Mountains and Seas [Illustrated Edition]",
+  "display_title": "山海經 (Shanhai Jing) - Classic of Mountains and Seas [Illustrated Edition]",
+  "author": "Guo Pu (郭璞) commentary",
+  "language": "Chinese",
+  "year": 1667,
+  "published": "1667",
+  "pages_count": 116,
+  "pages_with_ocr": 114,
+  "pages_with_translation": 93,
+  "source_url": "https://sourcelibrary.org/book/6992c91569b777d72c7633f7",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "shanhaijing1guop"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:23.010Z",
+  "_hashes": {
+    "ocr": "39a22cbf63064f86",
+    "translation": "ce79c823498e063e"
+  }
+}

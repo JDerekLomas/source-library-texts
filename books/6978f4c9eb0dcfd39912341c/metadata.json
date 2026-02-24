@@ -1,0 +1,26 @@
+{
+  "id": "6978f4c9eb0dcfd39912341c",
+  "title": "Chymisches Cabinet",
+  "display_title": "Chymisches Cabinet",
+  "author": "Maier, Michael",
+  "language": "German",
+  "year": 1708,
+  "published": "1708",
+  "pages_count": 124,
+  "pages_with_ocr": 124,
+  "pages_with_translation": 97,
+  "source_url": "https://sourcelibrary.org/book/6978f4c9eb0dcfd39912341c",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:18.215Z",
+  "_hashes": {
+    "ocr": "a125513e5fb818ba",
+    "translation": "00f6eba6b74b0e54"
+  }
+}

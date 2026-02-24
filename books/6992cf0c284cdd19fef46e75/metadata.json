@@ -1,0 +1,28 @@
+{
+  "id": "6992cf0c284cdd19fef46e75",
+  "title": "The Hatha Yoga Pradipika (1915 Pancham Sinh)",
+  "display_title": "The Hatha Yoga Pradipika (1915 Pancham Sinh)",
+  "author": "Svatmarama; trans. Pancham Sinh",
+  "language": "Sanskrit",
+  "year": 1915,
+  "published": "Unknown",
+  "pages_count": 103,
+  "pages_with_ocr": 103,
+  "pages_with_translation": 83,
+  "source_url": "https://sourcelibrary.org/book/6992cf0c284cdd19fef46e75",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "dli.csl.7087"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:29.595Z",
+  "_hashes": {
+    "ocr": "78da1cef0bcbc3aa",
+    "translation": "30ba2e41df6b202d"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "699050447d19f3f2aac1dcd4",
+  "title": "Hieroglyphica",
+  "display_title": "Valeriano: Hieroglyphica (1575)",
+  "author": "Pierio Valeriano",
+  "language": "Latin",
+  "year": 1556,
+  "published": "Unknown",
+  "pages_count": 945,
+  "pages_with_ocr": 100,
+  "pages_with_translation": 95,
+  "source_url": "https://sourcelibrary.org/book/699050447d19f3f2aac1dcd4",
+  "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bub_gb_kZRVCLJOSZgC"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:33.939Z",
+  "_hashes": {
+    "ocr": "74e4c9e2d3329e43",
+    "translation": "1ba5e7897843d2ea"
+  }
+}

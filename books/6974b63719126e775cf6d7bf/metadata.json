@@ -1,0 +1,26 @@
+{
+  "id": "6974b63719126e775cf6d7bf",
+  "title": "Apocalypsis: or, the revelation of certain notorious advancers of heresie",
+  "display_title": "Apocalypsis: or, the revelation of certain notorious advancers of heresie",
+  "author": "[Sichem, Christoffel van]",
+  "language": "English",
+  "year": 1658,
+  "published": "1658",
+  "pages_count": 108,
+  "pages_with_ocr": 108,
+  "pages_with_translation": 81,
+  "source_url": "https://sourcelibrary.org/book/6974b63719126e775cf6d7bf",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:27.130Z",
+  "_hashes": {
+    "ocr": "01d89fa9d91bd0e8",
+    "translation": "b449f38b855be550"
+  }
+}

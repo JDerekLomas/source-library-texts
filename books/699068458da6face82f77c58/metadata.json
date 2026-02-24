@@ -1,0 +1,28 @@
+{
+  "id": "699068458da6face82f77c58",
+  "title": "Muhurta Kalpa Druma (Naval Kishore)",
+  "display_title": "Muhurta Kalpa Druma (Naval Kishore)",
+  "author": "Viththala Dikshit",
+  "language": "Sanskrit",
+  "year": 1888,
+  "published": "Unknown",
+  "pages_count": 107,
+  "pages_with_ocr": 107,
+  "pages_with_translation": 107,
+  "source_url": "https://sourcelibrary.org/book/699068458da6face82f77c58",
+  "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "MuhurtaKalpaDrumHindi1892NavalKishorePress"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:28.203Z",
+  "_hashes": {
+    "ocr": "9ec5915f30ca9ede",
+    "translation": "6271e39eb4c0f765"
+  }
+}

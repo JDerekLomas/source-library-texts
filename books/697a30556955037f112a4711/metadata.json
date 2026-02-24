@@ -1,0 +1,26 @@
+{
+  "id": "697a30556955037f112a4711",
+  "title": "The count de Gabalis: being a diverting historie of the Rosicrucian doctrine",
+  "display_title": "The count de Gabalis: being a diverting historie of the Rosicrucian doctrine",
+  "author": "[Villars, Nicolas de Montfaucon de]",
+  "language": "English",
+  "year": 1714,
+  "published": "1714",
+  "pages_count": 118,
+  "pages_with_ocr": 118,
+  "pages_with_translation": 8,
+  "source_url": "https://sourcelibrary.org/book/697a30556955037f112a4711",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:21.080Z",
+  "_hashes": {
+    "ocr": "4f225afc57a99131",
+    "translation": "44102eeea0be159b"
+  }
+}

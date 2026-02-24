@@ -1,0 +1,26 @@
+{
+  "id": "697c8e0f4733b2a5648ad8bf",
+  "title": "Das Geheimnis aller Geheimnisse ex Macrocosmo et Microcosmo, oder der güldene Begriff der geheimsten Geheimnisse der Rosen- und Gülden-Kreutzer",
+  "display_title": "Das Geheimnis aller Geheimnisse ex Macrocosmo et Microcosmo, oder der güldene Begriff der geheimsten Geheimnisse der Rosen- und Gülden-Kreutzer",
+  "author": "Anonymous",
+  "language": "German",
+  "year": 1788,
+  "published": "1788",
+  "pages_count": 120,
+  "pages_with_ocr": 120,
+  "pages_with_translation": 8,
+  "source_url": "https://sourcelibrary.org/book/697c8e0f4733b2a5648ad8bf",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:20.599Z",
+  "_hashes": {
+    "ocr": "ba4d294e2b15d550",
+    "translation": "ad6872d798d6f130"
+  }
+}

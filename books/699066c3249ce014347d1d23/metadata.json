@@ -1,0 +1,28 @@
+{
+  "id": "699066c3249ce014347d1d23",
+  "title": "Muhurta Ratna",
+  "display_title": "Muhurta Ratna",
+  "author": "Govinda Bhatta; Paramesvara (comm.)",
+  "language": "Sanskrit",
+  "year": 1420,
+  "published": "Unknown",
+  "pages_count": 107,
+  "pages_with_ocr": 107,
+  "pages_with_translation": 107,
+  "source_url": "https://sourcelibrary.org/book/699066c3249ce014347d1d23",
+  "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "muhurtaratnaofgovindabhattawithvykhyaofparameswarbhatsripadabhat_464_O"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:27.959Z",
+  "_hashes": {
+    "ocr": "098865ae4248a459",
+    "translation": "bb4b957ce0dec166"
+  }
+}
