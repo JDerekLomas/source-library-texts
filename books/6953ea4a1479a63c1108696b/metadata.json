@@ -1,0 +1,28 @@
+{
+  "id": "6953ea4a1479a63c1108696b",
+  "title": "Mathematical and Philosophical Works",
+  "display_title": "Mathematical and Philosophical Works",
+  "author": "John Wilkins",
+  "language": "English",
+  "year": 1708,
+  "published": "Unknown",
+  "pages_count": 598,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6953ea4a1479a63c1108696b",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "mathematicalphil00wilk"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:48.645Z",
+  "_hashes": {
+    "ocr": "1dde570578e971a1",
+    "translation": "35bce2158efc9f8f"
+  }
+}

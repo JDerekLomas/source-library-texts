@@ -1,0 +1,251 @@
+--- Page 1 ---
+<lang>None</lang>
+<page-type>blank</page-type>
+
+<image-desc>A dark, weathered surface with a granular, mottled texture, likely representing the leather or parchment binding of a manuscript. The color is deep brown to black with some lighter, worn patches and faint, illegible indentations or scratches on the surface.</image-desc>
+
+<vocab></vocab>
+
+--- Page 2 ---
+<lang>Latin</lang>
+<page-type>blank</page-type>
+<warning>The page is almost entirely blank, likely a flyleaf, with extremely faded and fragmentary text at the very top edge. The paper shows significant aging and some foxing spots.</warning>
+
+<insert>Ex <unclear>Γ</unclear> <unclear>...</unclear></insert>
+
+<vocab>Ex</vocab>
+
+--- Page 3 ---
+<lang>lat</lang>
+<page-type>title-page</page-type>
+<warning>The text on this page is extremely faded or represents an ink transfer (offset) from a facing page. The primary title is legible, but the publication details and author names are nearly invisible and have been transcribed based on the known bibliographic identity of this work (Confucius Sinarum Philosophus, 1687).</warning>
+<meta>Handwritten shelfmark in top right corner: EDLL</meta>
+
+# CONFUCIUS
+## SINARUM
+## PHILOSOPHUS,
+->SIVE<-
+### SCIENTIA SINICA
+### LATINE EXPOSITA.
+
+->Studio & operâ <unclear>PROSPERI INTORCETTA, CHRISTIANI HERDTRICH,</unclear><-
+-><unclear>FRANCISCI ROUGEMONT, PHILIPPI COUPLET</unclear>, Patrum Societatis <unclear>JESU</unclear>.<-
+->Adjecta est <unclear>TABULA CHRONOLOGICA Monarchiæ Sinicæ</unclear> juxta cyclos annorum LX.<-
+->ab hujus exordio ad hæc usque tempora.<-
+
+<image-desc>A large, faded engraving of the Royal Arms of France. It depicts a circular shield containing three fleurs-de-lis, surmounted by a royal crown. The shield is surrounded by the collars of the royal orders (likely the Order of St. Michael and the Order of the Holy Spirit) and flanked by stylized palm or laurel branches.</image-desc>
+
+### PARISIIS,
+->Apud <unclear>DANIELEM HORTHEMELS</unclear>, viâ <unclear>Jacobæâ</unclear>,<-
+->sub <unclear>Mecœnate</unclear>.<-
+### <unclear>M. DC. LXXXVII.</unclear>
+->CUM PRIVILEGIO REGIS.<-
+
+<vocab>Confucius, Sinarum Philosophus, Scientia Sinica, Prosper Intorcetta, Christian Herdtrich, Francois Rougemont, Philippe Couplet, Jesuit, Paris, Daniel Horthemels, 1687, Louis XIV</vocab>
+
+--- Page 4 ---
+<lang>None</lang>
+<page-type>blank</page-type>
+<meta>Blank page with minor foxing and paper texture visible.</meta>
+
+<vocab></vocab>
+
+--- Page 5 ---
+<lang>Latin</lang>
+<page-type>title-page</page-type>
+
+# CONFUCIUS
+## SINARUM PHILOSOPHUS,
+->S I V E<-
+### SCIENTIA SINENSIS
+->LATINE EXPOSITA.<-
+
+->*Studio & Opera* { PROSPERI INTORCETTA, CHRISTIANI HERDTRICH, FRANCISCI ROUGEMONT, PHILIPPI COUPLET, } Patrum Societatis JESU.<-
+
+->J U S S U<-
+
+### LUDOVICI MAGNI,
+
+->*Eximio Missionum Orientalium & Litterariæ Reipublicæ bono*<-
+->E BIBLIOTHECA REGIA IN LUCEM PRODIT.<-
+->*ADJECTA EST TABULA CHRONOLOGICA SINICÆ MONARCHIÆ AB HUJUS EXORDIO AD HÆC USQUE TEMPORA.*<-
+
+<image-desc>A woodcut of the French Royal coat of arms: a shield containing three fleurs-de-lis, topped with a large, ornate crown, and surrounded by a dense wreath of laurel or acanthus leaves.</image-desc>
+
+->P A R I S I I S ,<-
+->Apud DANIELEM HORTHEMELS, viâ Jacobæâ,<-
+->sub Mæcenate.<-
+
+---
+
+->M. DC. LXXXVII.<-
+->CUM PRIVILEGIO REGIS.<-
+
+<vocab>Confucius, Sinarum, Philosophus, Scientia Sinensis, Prosperi Intorcetta, Christiani Herdtrich, Francisci Rougemont, Philippi Couplet, Societatis Jesu, Ludovici Magni, Paris, Daniel Horthemels, 1687</vocab>
+
+--- Page 6 ---
+<warning>The image is a mirrored/reverse impression (bleed-through) from the facing title page. The transcription is provided in standard right-reading orientation.</warning>
+
+<lang>lat</lang>
+<page-type>title-page</page-type>
+<meta>mirrored bleed-through</meta>
+
+# CONFUCIUS
+-> SINARUM <-
+# PHILOSOPHUS
+-> SIVE <-
+# SCIENTIA SINENSIS
+-> LATINE EXPOSITA. <-
+
+---
+
+<margin>Patrum Societatis Iesu</margin>
+<margin>Studio & operâ</margin>
+-> PROSPERI INTORCETTA, <-
+-> CHRISTIANI HERDRITCH, <-
+-> FRANCISCI ROUGEMONT, <-
+-> PHILIPPI COUPLET, <-
+
+---
+
+-> IUXTA <-
+# LUDOVICI MAGNI
+-> Eximiâ Missionis Siniensis & Litterariæ Reipublicæ bono <-
+-> E BIBLIOTHECÂ REGIÂ IN LUCEM PRODIT. <-
+-> ADJECTA EST TABULA CHRONOLOGICA SINICÆ MONARCHIÆ <-
+-> AB HUJUS EXORDIO AD HÆC USQUE TEMPORA. <-
+
+---
+
+<image-desc>The royal coat of arms of the French Bourbons: a shield featuring three fleurs-de-lis, topped with a royal crown and surrounded by the collars of the Order of Saint Michael and the Order of the Holy Spirit. The shield is framed by palm fronds and floral garlands.</image-desc>
+
+---
+
+-> PARISIIS <-
+-> Apud DANIELEM HORTHEMELS, viâ Jacobæâ, <-
+-> sub Mæcenate. <-
+-> M. DC. LXXXVII. <-
+-> CUM PRIVILEGIO REGIS. <-
+
+<vocab>Confucius, Sinae, Philosophus, Scientia Sinensis, Prosper Intorcetta, Christianus Herdritch, Franciscus Rougemont, Philippus Couplet, Societas Iesu, Ludovicus Magnus, Tabula Chronologica, Sinica Monarchia, Daniel Horthemels, Paris, 1687</vocab>
+
+--- Page 7 ---
+<lang>Latin</lang>
+<page-type>dedication</page-type>
+<sig>A ij</sig>
+<meta>Considerable ink bleed-through from the reverse side of the page is visible, showing mirrored text.</meta>
+
+<image-desc>A large ornamental engraving at the top of the page features two winged angels or genii in flight, facing each other and supporting a circular shield. The shield displays three fleurs-de-lis, the heraldic emblem of the French monarchy. Above the shield sits a royal crown adorned with a fleur-de-lis. Ornate drapery hangs beneath the shield between the two figures.</image-desc>
+
+# LUDOVICO
+## MAGNO
+### REGI CHRISTIANISSIMO.
+
+Postquam ab altero non ita pridem Orbe, Majestatem tuam, **REX MAGNE**, adierunt cum insigni apparatu potentissimi Siamensium Regis Legati, excîti videlicet virtutis ac sapientiæ tuæ famâ, quæ remotissimas in oras jamdudum penetraverat; adest nunc ab extremo procul Oriente Princeps è
+
+<vocab>Ludovicus Magnus, Louis XIV, Rex Christianissimus, Siamensium, Legati, Princeps, Orient</vocab>
+
+--- Page 8 ---
+<lang>Latin</lang>
+<page-type>dedication</page-type>
+
+# E P I S T O L A .
+
+<image-desc>The initial paragraph of the text is printed over a faint, decorative woodcut or engraving featuring celestial clouds and ornate scrollwork motifs.</image-desc>
+
+*Regio Sinensium Imperatorum sanguine, Confucium appellant, uno Sinensium consensu habitus omnium, qui unquam apud eos floruerunt, Sapientissimus & Moralis Philosophiæ pariter ac Politicæ Magister & Oraculum.*
+
+*Ab hujus ore, sicuti quondam pendebant tria Discipulorum millia, ita modo ex ejus effatis amplissimum gubernatur imperium, statuuntur leges, Gentis mores & civilia componuntur officia, denique in ejus doctrina perdiscenda summorum Reipublicæ honorum ac Magistratuum obtinendorum spes una & ratio continetur. Hujus memoriam, libros, nomen ipsum Sinæ omnes, mirificè colunt, ipsique adeo imperatores qui ad eas, ubi docebat olim, ædes ( quæ tanquam sapientiæ sacraria servantur ) ejusque gymnasia venerabundi ventitare non dedignantur : nec sane immeritò ; quippe qui ab tanto Magistro didicerint Summum cæli, ut vocabat ipse, Imperatorem Regnorum omnium ac Imperiorum moderatorem & arbitrum adorare ac timere, subditos sibi populos æquitate magna & charitate regere, fovere artes, orbem denique Sinensem domi tot jam annos ac militiæ florentem, sanctissimis institutis legibusque moderari.*
+
+*Hic igitur ille Confucius tibi se sistit,* R E X  M A G N E, *curis tuis & Regia liberalitate in Gallias veluti deportatus, & ad Majestatis Tuæ pedes provolutus accedit, palam admiraturus sapientiam tuam, & suam illam, etsi apud populares suos incredibili fama & existimatione jactatam, Tuæ tamen nihilo secius, quam Soli Stellas, decedere confessurus.*
+
+*Hærebit ille, opinor, ad primum aditum atque conspectum, & admiratione simul gaudióque defixus repertum sibi*
+
+<meta>catchword: tandem</meta>
+
+<vocab>Confucius, Sinensium, Imperator, Philosophia, Politica, Gallias, Rex Magne, Sinae</vocab>
+
+--- Page 9 ---
+<lang>Latin</lang>
+<page-type>preface</page-type>
+<sig>B</sig>
+<meta>Catchword: pere-</meta>
+
+# E P I S T O L A .
+
+tandem Principem illum dicet, ad quem videndum nequid-
+quam hactenus tanto studio exarserat. Cum enim egregius
+ille vir eximium, & qualem informabat animo, Imperato-
+rem suis in libris adumbrasset, ac neminem sanè votis suis
+parem ex avitis Imperii Principibus reperire potuisset, in
+quem unum omnes regiæ illæ dotes conspirarent, quique il-
+lam numeris omnibus absolutam formam ideamque perfectis-
+simi Principis referret, tunc in eas erupit voces **Tâi Kî Gîn**
+Expectandus hic Vir hic est, qui veniet aliquando, &
+divina quadam & admirabili sapientia præditus talem se
+exhibebit, in quo nihil nostra, nihil publica desiderare vota
+possint.
+
+Nonne ille, si modo revivisceret, ac **Tᴇ, Rᴇx Mᴀɢɴᴇ**,
+contemplaretur, illum ipsum esse Te agnosceret, quem pro-
+spexisset animo, & incredibili gaudio perfusus, voti se compo-
+tem esse factum exclamaret? Nonne tuam in administran-
+do Regno amplissimo sapientiam regibus omnibus proponeret,
+exempla tuis è moribus, leges ex effatis peteret? Tuam de-
+nique pietatem, clementiam, æquitatem, illam æquabilem
+in tanta rerum maximarum & negotiorum mole mentis ac
+vultûs serenitatem atque præsentiam cum tanta Majestate
+conjunctam, Principibus universis pro norma & regula esse
+vellet?
+
+Quoniam vero Philosophus ille sapientissimus, solo natu-
+ræ ac rationis lumine cognoverat, nihil religione antiquius
+homini esse oportere, ad eumque scopum unum suam ipse do-
+ctrinam disciplinamque referebat, ut mortales vitam omnem
+è supremi Numinis legibus præceptisque componerent, idcir-
+co nihil ipsi prius aut potius fuit, quam ut sectas & pere-
+
+<vocab>Tâi Kî Gîn, Rex Magne, Philosophus, Imperator, sapientia, religio, pietas, clementia, æquitas</vocab>
+
+--- Page 10 ---
+<lang>Latin</lang>
+<page-type>preface</page-type>
+<sig>a</sig>
+<meta>Text begins mid-word ("peregrina") and concludes with a word fragment indicating continuation to the next page.</meta>
+
+# E P I S T O L A .
+
+<note>Text continues from the previous page</note>
+
+*grina dogmata, quæ in populorum exitium, ac Monarchia-*
+*rum perniciem nata esse dictitabat, penitus profligaret.*
+*Hinc ejusdem ea vox, hodieque inter Sinas celebratissima:*
+Cum hu y tuon, *Oppugna heretica dogmata. Quantam*
+*igitur afferret homini pietatis amantissimo lætitiam, siqui-*
+*dem ad hæc felicissima legis gratiæ tempora pertingere potuis-*
+*set, tua illa Rex tutandæ & amplificandæ Religionis, ex-*
+*tirpandæ hæreseos, pietatis propagandæ cura? Quibus Te*
+*laudibus efferret, cum hæresim, hostem illam avitæ fidei ac re-*
+*gni florentissimi teterrimam, proculcatam & attritam, edicta,*
+*quibus vitam ducere videbatur, abrogata; disjecta templa,*
+*nomen ipsum sepultum, tot animarum millia pristinis ab er-*
+*roribus ad veritatem, ab exitio ad salutem, tam suaviter,*
+*tam fortiter, tam feliciter traducta, Galliam denique uni-*
+*versam sub Rege Maximo & verè Christianissimo Christia-*
+*nissimam aspiceret?*
+
+*Non ille tantùm profectò miraretur ac prædicaret cætera*
+*Galliæ tuæ miracula, non tot arces omnibus & artis & na-*
+*turæ præsidiis permunitas partim à Te dejectas & captas,*
+*partim extructas & erectas; non potentissimas & numero-*
+*sissimas classes quibus Asiæ & Africæ terrorem attulisti; non*
+*tot victorias de hostibus reportatas, quibus coronidem glorio-*
+*sissimam imposuisti publicæ trophæum pacis: non visenda illa,*
+*in quibus Regium splendorem & magnificentiam tuam expli-*
+*cas, Palatia; non flumina ultra montes transvecta; aperta*
+*& juncta maria; non tot artium & scientiarum gymnasia*
+*& seminaria: hæc, inquam omnia, tantam admirationem*
+*sapientissimo Philosopho non injicerent, quantam hæc una*
+*Religionis, duce Te atque auspice, de Hæresi triumphan-*
+
+<vocab>Sinas, Gallia, Monarchia, Hæresis, Asia, Africa, Rex Christianissimus, Cum hu y tuon</vocab>

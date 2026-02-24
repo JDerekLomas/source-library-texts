@@ -1,0 +1,28 @@
+{
+  "id": "69593342b91a6184ea9441e8",
+  "title": "Le Tarot des Bohémiens",
+  "display_title": "Le Tarot des Bohémiens",
+  "author": "Papus (Gérard Encausse)",
+  "language": "English",
+  "year": 1910,
+  "published": "1910",
+  "pages_count": 439,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/69593342b91a6184ea9441e8",
+  "license": "https://gallica.bnf.fr/html/und/conditions-dutilisation-des-contenus-de-gallica",
+  "doi": null,
+  "external_ids": {
+    "gallica": "bpt6k1522576d"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:50.947Z",
+  "_hashes": {
+    "ocr": "1066956425aa68ce",
+    "translation": "f1b7799037263e0f"
+  }
+}

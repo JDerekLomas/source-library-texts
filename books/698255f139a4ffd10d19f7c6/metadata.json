@@ -1,0 +1,26 @@
+{
+  "id": "698255f139a4ffd10d19f7c6",
+  "title": "Nouveaux entretiens sur les sciences secrètes, ou le Comte de Gabalis",
+  "display_title": "Nouveaux entretiens sur les sciences secrètes, ou le Comte de Gabalis",
+  "author": "[Villars, Nicolas de Montfaucon de]",
+  "language": "French",
+  "year": 1684,
+  "published": "1684",
+  "pages_count": 172,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 1,
+  "source_url": "https://sourcelibrary.org/book/698255f139a4ffd10d19f7c6",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:48.295Z",
+  "_hashes": {
+    "ocr": "a98a2c2d6cb51d5e",
+    "translation": "6a61c7a25caa5d16"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "6953e47a77f38f6761bee83e",
+  "title": "Dialogue Concerning Two Chief World Systems - German",
+  "display_title": "Dialogue Concerning Two Chief World Systems - German",
+  "author": "Galileo Galilei; Emil Strauss",
+  "language": "Italian-German",
+  "year": 1920,
+  "published": "Unknown",
+  "pages_count": 686,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6953e47a77f38f6761bee83e",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "dialogberdiebe00galiuoft"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:53.835Z",
+  "_hashes": {
+    "ocr": "e020851e92f444dd",
+    "translation": "cfcbd18affbc1915"
+  }
+}

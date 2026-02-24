@@ -1,0 +1,28 @@
+{
+  "id": "6956eb064858c3526885b8d6",
+  "title": "Theosophia Revelata (Complete Divine Writings)",
+  "display_title": "Theosophia Revelata (Complete Divine Writings)",
+  "author": "Jakob Böhme",
+  "language": "German",
+  "year": 1730,
+  "published": "1730",
+  "pages_count": 352,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6956eb064858c3526885b8d6",
+  "license": "https://rightsstatements.org/vocab/NoC-NC/1.0/",
+  "doi": null,
+  "external_ids": {
+    "mdz": "bsb10260383"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:51.031Z",
+  "_hashes": {
+    "ocr": "5a4e5160578d5f66",
+    "translation": "42b55c13874d06d2"
+  }
+}

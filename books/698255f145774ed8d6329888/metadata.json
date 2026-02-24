@@ -1,0 +1,26 @@
+{
+  "id": "698255f145774ed8d6329888",
+  "title": "De natura et gratia. De spiritu et litera",
+  "display_title": "De natura et gratia. De spiritu et litera",
+  "author": "Augustinus, Aurelius",
+  "language": "Latin",
+  "year": 1524,
+  "published": "1524",
+  "pages_count": 203,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 6,
+  "source_url": "https://sourcelibrary.org/book/698255f145774ed8d6329888",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:48.399Z",
+  "_hashes": {
+    "ocr": "53b4bcb948a19098",
+    "translation": "095f44c777fb5279"
+  }
+}

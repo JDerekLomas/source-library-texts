@@ -1,0 +1,28 @@
+{
+  "id": "6953cc1b77f38f6761be13ce",
+  "title": "Lindisfarne Gospels - Original Manuscript Text Vol. 3",
+  "display_title": "Lindisfarne Gospels - Original Manuscript Text Vol. 3",
+  "author": "Joseph Stevenson, George Waring",
+  "language": "Anglo-Saxon",
+  "year": 1865,
+  "published": "Unknown",
+  "pages_count": 308,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6953cc1b77f38f6761be13ce",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "lindisfarneandr03warigoog"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:50.171Z",
+  "_hashes": {
+    "ocr": "28c7b2ffef6a2dd8",
+    "translation": "4d96aee895674c7d"
+  }
+}

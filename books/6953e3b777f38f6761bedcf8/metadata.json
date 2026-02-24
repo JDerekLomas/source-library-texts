@@ -1,0 +1,28 @@
+{
+  "id": "6953e3b777f38f6761bedcf8",
+  "title": "Book Four - Magick",
+  "display_title": "Book Four - Magick",
+  "author": "Aleister Crowley",
+  "language": "English",
+  "year": 1913,
+  "published": "1913",
+  "pages_count": 228,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6953e3b777f38f6761bedcf8",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bookfour00crow"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:52.748Z",
+  "_hashes": {
+    "ocr": "3a4ad1ea9d438ca5",
+    "translation": "9e65ba4999f1c5df"
+  }
+}

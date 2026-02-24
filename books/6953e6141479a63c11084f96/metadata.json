@@ -1,0 +1,28 @@
+{
+  "id": "6953e6141479a63c11084f96",
+  "title": "The Writings of Hippocrates and Galen",
+  "display_title": "The Writings of Hippocrates and Galen",
+  "author": "Hippocrates and Galen",
+  "language": "English",
+  "year": 1549,
+  "published": "1549",
+  "pages_count": 436,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6953e6141479a63c11084f96",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "56811050R.nlm.nih.gov"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:54.192Z",
+  "_hashes": {
+    "ocr": "fdd5250b686858d7",
+    "translation": "0878dd70306bc68d"
+  }
+}

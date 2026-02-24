@@ -1,0 +1,28 @@
+{
+  "id": "69905d762fd6a0399389f715",
+  "title": "Flagellum Haereticorum Fascinariorum",
+  "display_title": "Flagellum Haereticorum Fascinariorum",
+  "author": "Nicolas Jacquier",
+  "language": "Latin",
+  "year": 1484,
+  "published": "Unknown",
+  "pages_count": 648,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/69905d762fd6a0399389f715",
+  "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bub_gb_NDdtjSLttY0C"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:30:52.428Z",
+  "_hashes": {
+    "ocr": "c9dda0d081814d21",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

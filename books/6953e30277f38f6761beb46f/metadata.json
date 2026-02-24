@@ -1,0 +1,28 @@
+{
+  "id": "6953e30277f38f6761beb46f",
+  "title": "Kularnava Tantra",
+  "display_title": "Kularnava Tantra",
+  "author": "Traditional",
+  "language": "Sanskrit",
+  "year": 1917,
+  "published": "Unknown",
+  "pages_count": 303,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6953e30277f38f6761beb46f",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "Kularnava"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:54.614Z",
+  "_hashes": {
+    "ocr": "b134896fb09f55da",
+    "translation": "8da6f7845fb47623"
+  }
+}

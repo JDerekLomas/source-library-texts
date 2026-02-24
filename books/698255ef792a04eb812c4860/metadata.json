@@ -1,0 +1,26 @@
+{
+  "id": "698255ef792a04eb812c4860",
+  "title": "Musaeum hermeticum reformatum et amplificatum",
+  "display_title": "Musaeum hermeticum reformatum et amplificatum",
+  "author": "anonymous",
+  "language": "Latin",
+  "year": 1678,
+  "published": "1678",
+  "pages_count": 1064,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 1,
+  "source_url": "https://sourcelibrary.org/book/698255ef792a04eb812c4860",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:49.335Z",
+  "_hashes": {
+    "ocr": "2a62d8bc0efd144e",
+    "translation": "6595dbe64973ecb2"
+  }
+}

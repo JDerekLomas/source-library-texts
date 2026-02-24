@@ -1,0 +1,28 @@
+{
+  "id": "6953efda1479a63c1108830b",
+  "title": "An Inquiry into the Original of Our Ideas of Beauty and Virtue (1726 First Edition)",
+  "display_title": "An Inquiry into the Original of Our Ideas of Beauty and Virtue (1726 First Edition)",
+  "author": "Francis Hutcheson",
+  "language": "English",
+  "year": 1726,
+  "published": "Unknown",
+  "pages_count": 344,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6953efda1479a63c1108830b",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "inquiryintoorigi1726hutc"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:47.938Z",
+  "_hashes": {
+    "ocr": "631a2e59c4bf4cac",
+    "translation": "0ba0cb56fbcd32d9"
+  }
+}

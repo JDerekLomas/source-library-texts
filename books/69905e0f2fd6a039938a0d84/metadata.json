@@ -1,0 +1,28 @@
+{
+  "id": "69905e0f2fd6a039938a0d84",
+  "title": "The Wonders of the Invisible World",
+  "display_title": "The Wonders of the Invisible World",
+  "author": "Cotton Mather",
+  "language": "English",
+  "year": 1693,
+  "published": "Unknown",
+  "pages_count": 132,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/69905e0f2fd6a039938a0d84",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "wondersofinvisib00math_3"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:30:51.194Z",
+  "_hashes": {
+    "ocr": "7e91036d79f29fc0",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

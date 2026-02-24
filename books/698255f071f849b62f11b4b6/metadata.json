@@ -1,0 +1,26 @@
+{
+  "id": "698255f071f849b62f11b4b6",
+  "title": "Microscopium Basilii Valentini, sive commentariolum et cribrellum über den grossen Kreuzapfel der Welt",
+  "display_title": "Microscopium Basilii Valentini, sive commentariolum et cribrellum über den grossen Kreuzapfel der Welt",
+  "author": "Kirchweger, Anton Joseph",
+  "language": "Latin-German",
+  "year": 1790,
+  "published": "1790",
+  "pages_count": 206,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 3,
+  "source_url": "https://sourcelibrary.org/book/698255f071f849b62f11b4b6",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:48.723Z",
+  "_hashes": {
+    "ocr": "178702e60a33aa48",
+    "translation": "8d515259cdea098d"
+  }
+}

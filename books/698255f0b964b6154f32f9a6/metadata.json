@@ -1,0 +1,26 @@
+{
+  "id": "698255f0b964b6154f32f9a6",
+  "title": "Nosologia harmonica dogmatica & hermetica",
+  "display_title": "Nosologia harmonica dogmatica & hermetica",
+  "author": "Petraeus, Henricus",
+  "language": "Latin",
+  "year": 1615,
+  "published": "1615-1623",
+  "pages_count": 1125,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 4,
+  "source_url": "https://sourcelibrary.org/book/698255f0b964b6154f32f9a6",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:47.778Z",
+  "_hashes": {
+    "ocr": "78fa28e7ad68f672",
+    "translation": "f93e26571cf125a7"
+  }
+}

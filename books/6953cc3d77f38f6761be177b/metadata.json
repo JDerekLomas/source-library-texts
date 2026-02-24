@@ -1,0 +1,28 @@
+{
+  "id": "6953cc3d77f38f6761be177b",
+  "title": "Zenon Papyri Vol. II - Cairo Museum",
+  "display_title": "Zenon Papyri Vol. II - Cairo Museum",
+  "author": "Campbell Cowan Edgar",
+  "language": "Greek",
+  "year": 1926,
+  "published": "Unknown",
+  "pages_count": 142,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6953cc3d77f38f6761be177b",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "EdgarZenonII1926"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:50.395Z",
+  "_hashes": {
+    "ocr": "0f1de9548018f680",
+    "translation": "62697071468aad63"
+  }
+}

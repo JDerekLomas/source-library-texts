@@ -1,0 +1,86 @@
+--- Page 1 ---
+<lang>None</lang>
+<page-type>blank</page-type>
+
+<image-desc>A dark, textured leather book cover. The surface has a uniform, fine-grained pebbled texture. There is no visible text, ornamentation, or title on the front board. The left edge shows a portion of the spine with subtle raised bands.</image-desc>
+
+<vocab></vocab>
+
+--- Page 2 ---
+<lang>English</lang>
+<page-type>illustration</page-type>
+<meta>Inside front cover with institutional bookplate.</meta>
+
+<image-desc>A rectangular bookplate centered on the page. It features an engraved coat of arms. The shield contains a chevron. Above the shield is a helmet with decorative mantling and a crest. A ribbon beneath the shield contains the Latin motto "GAUDEO". Below the crest is the name of the library in a blackletter-style typeface.</image-desc>
+
+->John Carter Brown<-
+->Library<-
+->Brown University<-
+
+<meta>Small text printed in the bottom right corner of the light-colored paper inlay.</meta>
+<margin>HATHAWAY</margin>
+
+<vocab>John Carter Brown Library, Brown University, GAUDEO, bookplate, coat of arms, heraldry</vocab>
+
+--- Page 3 ---
+<lang>None</lang>
+<page-type>blank</page-type>
+<meta>The image shows a blank off-white page with minor foxing and a faint diagonal scratch in the lower right. The dark binding edge is visible on the right.</meta>
+
+--- Page 4 ---
+<lang>N/A</lang>
+<page-type>blank</page-type>
+<meta>Blank page, likely a flyleaf or endpaper at the beginning or end of the volume.</meta>
+<vocab></vocab>
+
+--- Page 5 ---
+<lang>None</lang>
+<page-type>blank</page-type>
+<vocab></vocab>
+
+--- Page 6 ---
+<lang>None</lang>
+<page-type>blank</page-type>
+
+<vocab>blank page</vocab>
+
+--- Page 7 ---
+<lang>N/A</lang>
+<page-type>blank</page-type>
+<meta>This page is completely blank.</meta>
+
+<vocab>blank page</vocab>
+
+--- Page 8 ---
+<lang>None</lang>
+<page-type>blank</page-type>
+
+<vocab></vocab>
+
+--- Page 9 ---
+<lang>None</lang>
+<page-type>blank</page-type>
+<page-num>18</page-num>
+<meta>This is a blank endpaper or flyleaf with visible paper fibers and minor foxing. There is a faint, handwritten number "18" in the bottom-left corner.</meta>
+<vocab>blank page, endpaper</vocab>
+
+--- Page 10 ---
+<lang>English</lang>
+<page-type>text</page-type>
+<warning>Handwritten notes are faded and written on dark endpaper.</warning>
+<meta>54:13</meta>
+
+->copy 3<-
+
+<insert>
+Second p. 51, differs from copy 1 (British
+Museum & copy 2) as follows:
+
+"Errata" (4 lines) omitted in this copy
+"Matter omitted in the trials" (6 lines)
+included in this copy
+
+Pag. 66 — Text gone in center.
+</insert>
+
+<vocab>copy 1, copy 2, copy 3, British Museum, Errata, trials</vocab>

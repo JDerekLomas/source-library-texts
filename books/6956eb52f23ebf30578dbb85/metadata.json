@@ -1,0 +1,28 @@
+{
+  "id": "6956eb52f23ebf30578dbb85",
+  "title": "Recueil de traités de Kabbale (Hebrew Manuscript)",
+  "display_title": "Recueil de traités de Kabbale (Hebrew Manuscript)",
+  "author": "Various Kabbalists",
+  "language": "Hebrew",
+  "year": null,
+  "published": "Unknown",
+  "pages_count": 228,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6956eb52f23ebf30578dbb85",
+  "license": "https://gallica.bnf.fr/html/und/conditions-dutilisation-des-contenus-de-gallica",
+  "doi": null,
+  "external_ids": {
+    "gallica": "btv1b107201676"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:49.705Z",
+  "_hashes": {
+    "ocr": "546347316ad81a14",
+    "translation": "a43a7e58fbd46e6e"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "698255eeba4a4f5294b2a026",
+  "title": "Mosaize historie der Hebreeuwse kerke",
+  "display_title": "Mosaize historie der Hebreeuwse kerke",
+  "author": "Goeree, Willem",
+  "language": "Dutch",
+  "year": 1700,
+  "published": "1700",
+  "pages_count": 914,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 3,
+  "source_url": "https://sourcelibrary.org/book/698255eeba4a4f5294b2a026",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:46.331Z",
+  "_hashes": {
+    "ocr": "0d8c22a38b848784",
+    "translation": "b7388d38e9cef729"
+  }
+}

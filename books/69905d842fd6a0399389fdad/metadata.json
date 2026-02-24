@@ -1,0 +1,28 @@
+{
+  "id": "69905d842fd6a0399389fdad",
+  "title": "Der Neu Layenspiegel",
+  "display_title": "Der Neu Layenspiegel",
+  "author": "Ulrich Tengler",
+  "language": "German",
+  "year": 1509,
+  "published": "Unknown",
+  "pages_count": 190,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/69905d842fd6a0399389fdad",
+  "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "sucho-id-der-neu-layenspiegel"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:30:52.260Z",
+  "_hashes": {
+    "ocr": "58835a99bb80f49d",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

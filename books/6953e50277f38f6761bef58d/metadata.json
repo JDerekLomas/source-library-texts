@@ -1,0 +1,28 @@
+{
+  "id": "6953e50277f38f6761bef58d",
+  "title": "Opticks (1704 First Edition)",
+  "display_title": "Opticks (1704 First Edition)",
+  "author": "Isaac Newton",
+  "language": "English",
+  "year": 1706,
+  "published": "1706",
+  "pages_count": 458,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6953e50277f38f6761bef58d",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "optickstreatise00newta"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:53.921Z",
+  "_hashes": {
+    "ocr": "d1900b772a1b8595",
+    "translation": "24d3ac538580c613"
+  }
+}

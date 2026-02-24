@@ -1,0 +1,26 @@
+{
+  "id": "698255eec7e5d26b8a0eb612",
+  "title": "[Greek: Misopogon kai epistolai] Misopogon et epistolae",
+  "display_title": "[Greek: Misopogon kai epistolai] Misopogon et epistolae",
+  "author": "Julianus Apostata",
+  "language": "Greek-Latin",
+  "year": 1566,
+  "published": "1566",
+  "pages_count": 356,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 6,
+  "source_url": "https://sourcelibrary.org/book/698255eec7e5d26b8a0eb612",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:46.916Z",
+  "_hashes": {
+    "ocr": "ee59759b978a8e37",
+    "translation": "fccf76b0a123e635"
+  }
+}

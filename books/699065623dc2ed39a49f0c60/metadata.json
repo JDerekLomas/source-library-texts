@@ -1,0 +1,28 @@
+{
+  "id": "699065623dc2ed39a49f0c60",
+  "title": "The Sacred Books of China, Part II: The Yi King",
+  "display_title": "Yi King (Sacred Books of the East, Vol. 16)",
+  "author": "James Legge (trans.)",
+  "language": "English",
+  "year": 1882,
+  "published": "Unknown",
+  "pages_count": 490,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/699065623dc2ed39a49f0c60",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "mlbd.sacredbooksofeas0000fmax.vol.16"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:30:50.322Z",
+  "_hashes": {
+    "ocr": "4a0ecf49b4bc8620",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

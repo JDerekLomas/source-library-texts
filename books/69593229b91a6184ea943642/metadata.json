@@ -1,0 +1,28 @@
+{
+  "id": "69593229b91a6184ea943642",
+  "title": "The Sixth and Seventh Books of Moses (1880 facsimile)",
+  "display_title": "The Sixth and Seventh Books of Moses (1880 facsimile)",
+  "author": "Anonymous",
+  "language": "English",
+  "year": 1880,
+  "published": "Unknown",
+  "pages_count": 355,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/69593229b91a6184ea943642",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "1880-the-sixth-and-seventh-books-of-moses-fac-1"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:53.739Z",
+  "_hashes": {
+    "ocr": "dc115da11976811f",
+    "translation": "5f8d41c8c12f53a4"
+  }
+}

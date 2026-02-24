@@ -1,0 +1,28 @@
+{
+  "id": "6953e3b577f38f6761bedb15",
+  "title": "Magick in Theory and Practice",
+  "display_title": "Magick in Theory and Practice",
+  "author": "Aleister Crowley",
+  "language": "English",
+  "year": 1929,
+  "published": "1929",
+  "pages_count": 482,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6953e3b577f38f6761bedb15",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "b29825064"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:53.578Z",
+  "_hashes": {
+    "ocr": "d33026f944f5a1eb",
+    "translation": "56af09f1f2eef040"
+  }
+}

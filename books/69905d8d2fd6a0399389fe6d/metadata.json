@@ -1,0 +1,28 @@
+{
+  "id": "69905d8d2fd6a0399389fe6d",
+  "title": "Tractatus de Magis, Veneficis et Lamiis",
+  "display_title": "Tractatus de Magis, Veneficis et Lamiis",
+  "author": "Johann Georg Godelmann",
+  "language": "Latin",
+  "year": 1591,
+  "published": "Unknown",
+  "pages_count": 419,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/69905d8d2fd6a0399389fe6d",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "tractatusdemagi00godegoog"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:30:52.180Z",
+  "_hashes": {
+    "ocr": "e8bbdd865906fe6a",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

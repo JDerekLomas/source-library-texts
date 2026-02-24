@@ -1,0 +1,26 @@
+{
+  "id": "698255eeaf854f912ffb30e6",
+  "title": "Le ministere de l'homme-esprit",
+  "display_title": "Le ministere de l'homme-esprit",
+  "author": "[Saint-Martin, Louis Claude de]",
+  "language": "French",
+  "year": 1802,
+  "published": "1802",
+  "pages_count": 554,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 6,
+  "source_url": "https://sourcelibrary.org/book/698255eeaf854f912ffb30e6",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:46.532Z",
+  "_hashes": {
+    "ocr": "80444e2e77a90acb",
+    "translation": "c51ca234d7991a92"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "695932b8b91a6184ea943faf",
+  "title": "Traité élémentaire de magie pratique",
+  "display_title": "Traité élémentaire de magie pratique",
+  "author": "Papus (Gérard Encausse)",
+  "language": "French",
+  "year": 1893,
+  "published": "Unknown",
+  "pages_count": 568,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/695932b8b91a6184ea943faf",
+  "license": "https://gallica.bnf.fr/html/und/conditions-dutilisation-des-contenus-de-gallica",
+  "doi": null,
+  "external_ids": {
+    "gallica": "bpt6k655374"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:53.409Z",
+  "_hashes": {
+    "ocr": "5f1bb74b96a952ca",
+    "translation": "dd5253eb72d0bde2"
+  }
+}

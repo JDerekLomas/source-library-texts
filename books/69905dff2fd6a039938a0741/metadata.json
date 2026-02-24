@@ -1,0 +1,28 @@
+{
+  "id": "69905dff2fd6a039938a0741",
+  "title": "Quaestio de Strigibus",
+  "display_title": "Quaestio de Strigibus",
+  "author": "Bartolomeo Spina",
+  "language": "Latin",
+  "year": 1525,
+  "published": "Unknown",
+  "pages_count": 192,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/69905dff2fd6a039938a0741",
+  "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bub_gb_pjJTu4749pUC"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:30:51.510Z",
+  "_hashes": {
+    "ocr": "c16c1e17d6eee09c",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

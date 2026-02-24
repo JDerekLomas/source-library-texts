@@ -1,0 +1,26 @@
+{
+  "id": "698255eea406f4e0de15476d",
+  "title": "Het merch der zielen",
+  "display_title": "Het merch der zielen",
+  "author": "Tauler, Johannes",
+  "language": "Dutch",
+  "year": 1634,
+  "published": "1634",
+  "pages_count": 576,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 8,
+  "source_url": "https://sourcelibrary.org/book/698255eea406f4e0de15476d",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:46.691Z",
+  "_hashes": {
+    "ocr": "515e72c947667dd2",
+    "translation": "16d14e2e83e9accd"
+  }
+}

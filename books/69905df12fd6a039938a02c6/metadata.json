@@ -1,0 +1,28 @@
+{
+  "id": "69905df12fd6a039938a02c6",
+  "title": "Daemoniaci",
+  "display_title": "Daemoniaci",
+  "author": "Petrus Thyraeus",
+  "language": "Latin",
+  "year": 1598,
+  "published": "Unknown",
+  "pages_count": 229,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/69905df12fd6a039938a02c6",
+  "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bub_gb_p_GAVRFzxyEC"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:30:51.861Z",
+  "_hashes": {
+    "ocr": "ef3ddc3cb7082fb3",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

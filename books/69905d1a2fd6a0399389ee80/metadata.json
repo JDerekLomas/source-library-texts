@@ -1,0 +1,28 @@
+{
+  "id": "69905d1a2fd6a0399389ee80",
+  "title": "Realis Philosophiae Epilogisticae (Civitas Solis)",
+  "display_title": "Realis Philosophiae Epilogisticae (Civitas Solis)",
+  "author": "Tommaso Campanella",
+  "language": "Latin",
+  "year": 1623,
+  "published": "Unknown",
+  "pages_count": 572,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/69905d1a2fd6a0399389ee80",
+  "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bub_gb_iPNER6embAQC"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:30:50.097Z",
+  "_hashes": {
+    "ocr": "ebe24b5ce70d7f95",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "6953efe21479a63c110885e1",
+  "title": "Characteristicks of Men, Manners, Opinions, Times (1714)",
+  "display_title": "Characteristicks of Men, Manners, Opinions, Times (1714)",
+  "author": "Third Earl of Shaftesbury",
+  "language": "English",
+  "year": 1714,
+  "published": "Unknown",
+  "pages_count": 462,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6953efe21479a63c110885e1",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "characteristick00ofgoog"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:48.224Z",
+  "_hashes": {
+    "ocr": "ad3a2110d2e59060",
+    "translation": "5a4af22cb43c08b5"
+  }
+}

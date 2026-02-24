@@ -1,0 +1,28 @@
+{
+  "id": "6953cca677f38f6761be2b45",
+  "title": "Book of the Dead - Papyrus of Ani Facsimile",
+  "display_title": "Book of the Dead - Papyrus of Ani Facsimile",
+  "author": "British Museum",
+  "language": "Egyptian",
+  "year": 1895,
+  "published": "Unknown",
+  "pages_count": 168,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6953cca677f38f6761be2b45",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "gri_33125009545621"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:50.784Z",
+  "_hashes": {
+    "ocr": "5ce174ec84ce38ce",
+    "translation": "0da1ace00450aa7b"
+  }
+}

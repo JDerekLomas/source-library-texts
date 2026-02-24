@@ -1,0 +1,26 @@
+{
+  "id": "698420e1f1fb376a3d580614",
+  "title": "Observationum medicinalium singularium. Liber secundus",
+  "display_title": "Observationum medicinalium singularium. Liber secundus",
+  "author": "Horst, Gregorius",
+  "language": "Latin",
+  "year": 1628,
+  "published": "1628",
+  "pages_count": 629,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 8,
+  "source_url": "https://sourcelibrary.org/book/698420e1f1fb376a3d580614",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:49.506Z",
+  "_hashes": {
+    "ocr": "2b843e4e15675f6e",
+    "translation": "ea9c28bac92ec121"
+  }
+}

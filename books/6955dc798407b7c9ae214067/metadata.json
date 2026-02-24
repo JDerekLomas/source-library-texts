@@ -1,0 +1,28 @@
+{
+  "id": "6955dc798407b7c9ae214067",
+  "title": "Die philosophischen Schriften Vol. 2",
+  "display_title": "Die philosophischen Schriften Vol. 2",
+  "author": "Gottfried Wilhelm Leibniz",
+  "language": "German",
+  "year": 1876,
+  "published": "Unknown",
+  "pages_count": 462,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6955dc798407b7c9ae214067",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "diephilosophisc02gerhgoog"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:48.487Z",
+  "_hashes": {
+    "ocr": "f8209f9b3b65dff1",
+    "translation": "583495ea95a8ee0d"
+  }
+}

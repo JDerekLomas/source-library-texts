@@ -1,0 +1,26 @@
+{
+  "id": "698255ec3e158c7e3c9a4f78",
+  "title": "Neu-eingerichtetes Gesang-buch",
+  "display_title": "Neu-eingerichtetes Gesang-buch",
+  "author": "Unknown",
+  "language": "German",
+  "year": 1762,
+  "published": "1762",
+  "pages_count": 936,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 6,
+  "source_url": "https://sourcelibrary.org/book/698255ec3e158c7e3c9a4f78",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:47.156Z",
+  "_hashes": {
+    "ocr": "0522be7270e106ff",
+    "translation": "47e0b4335d24bf25"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "6953e6111479a63c11084c99",
+  "title": "De Simplicium Medicamentorum Facultatibus (1561)",
+  "display_title": "De Simplicium Medicamentorum Facultatibus (1561)",
+  "author": "Galen",
+  "language": "Latin",
+  "year": 1561,
+  "published": "Unknown",
+  "pages_count": 764,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6953e6111479a63c11084c99",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "claudiigalenide00sarrgoog"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:54.112Z",
+  "_hashes": {
+    "ocr": "31378997d45c6f74",
+    "translation": "a41fa0072ffd736c"
+  }
+}

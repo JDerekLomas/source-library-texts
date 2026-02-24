@@ -1,0 +1,26 @@
+{
+  "id": "698255f14685a7a983170f91",
+  "title": "Mundus symbolicus",
+  "display_title": "Mundus symbolicus",
+  "author": "Picinello, Filippo",
+  "language": "Latin",
+  "year": 1729,
+  "published": "1729",
+  "pages_count": 1425,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 3,
+  "source_url": "https://sourcelibrary.org/book/698255f14685a7a983170f91",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:48.071Z",
+  "_hashes": {
+    "ocr": "e25f85866fe99fb9",
+    "translation": "5ef9a19b016b93bd"
+  }
+}

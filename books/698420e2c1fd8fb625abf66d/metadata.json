@@ -1,0 +1,26 @@
+{
+  "id": "698420e2c1fd8fb625abf66d",
+  "title": "[Greek]: Opera quae extant omnia",
+  "display_title": "[Greek]: Opera quae extant omnia",
+  "author": "Julianus Apostata",
+  "language": "Greek",
+  "year": 1583,
+  "published": "1583",
+  "pages_count": 372,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 8,
+  "source_url": "https://sourcelibrary.org/book/698420e2c1fd8fb625abf66d",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:51.598Z",
+  "_hashes": {
+    "ocr": "6b58b8dfa9d19c68",
+    "translation": "74dc9607dece3bd8"
+  }
+}

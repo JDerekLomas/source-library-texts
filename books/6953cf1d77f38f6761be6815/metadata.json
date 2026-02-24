@@ -1,0 +1,28 @@
+{
+  "id": "6953cf1d77f38f6761be6815",
+  "title": "Lucian Vol. 1 (Phalaris, Hippias, The Bath)",
+  "display_title": "Lucian Vol. 1 (Phalaris, Hippias, The Bath)",
+  "author": "Lucian of Samosata",
+  "language": "Greek",
+  "year": 1913,
+  "published": "Unknown",
+  "pages_count": 682,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6953cf1d77f38f6761be6815",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "L014LucianIPhalarisHippiasOrTheBath"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:50.868Z",
+  "_hashes": {
+    "ocr": "3ea3b7738e5afe56",
+    "translation": "a14d72670a78a924"
+  }
+}

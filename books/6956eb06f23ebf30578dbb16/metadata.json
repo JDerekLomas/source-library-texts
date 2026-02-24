@@ -1,0 +1,28 @@
+{
+  "id": "6956eb06f23ebf30578dbb16",
+  "title": "De secretis creationis (Secrets of Creation)",
+  "display_title": "De secretis creationis (Secrets of Creation)",
+  "author": "Paracelsus",
+  "language": "Latin",
+  "year": 1575,
+  "published": "1575",
+  "pages_count": 110,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6956eb06f23ebf30578dbb16",
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "doi": null,
+  "external_ids": {
+    "mdz": "bsb00033141"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:49.779Z",
+  "_hashes": {
+    "ocr": "386281a50489126b",
+    "translation": "88cc27f9e21a6599"
+  }
+}

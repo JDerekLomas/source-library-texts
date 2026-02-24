@@ -1,0 +1,28 @@
+{
+  "id": "6953e2ab77f38f6761be9f1b",
+  "title": "Economic Principles of Confucius and His School",
+  "display_title": "Economic Principles of Confucius and His School",
+  "author": "Chen Huan-Chang",
+  "language": "Chinese-English",
+  "year": 1911,
+  "published": "Unknown",
+  "pages_count": 780,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6953e2ab77f38f6761be9f1b",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "economicprincipl00huan"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:51.947Z",
+  "_hashes": {
+    "ocr": "fa617febfb5f5e60",
+    "translation": "4e73b3640610106c"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "698420e1d453c841a6c1d045",
+  "title": "Occulta naturae miracula",
+  "display_title": "Occulta naturae miracula",
+  "author": "Lemnius, Levinus",
+  "language": "Latin",
+  "year": 1559,
+  "published": "1559",
+  "pages_count": 469,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 8,
+  "source_url": "https://sourcelibrary.org/book/698420e1d453c841a6c1d045",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:52.673Z",
+  "_hashes": {
+    "ocr": "4525c6146498b0ef",
+    "translation": "0b745c59742c4de7"
+  }
+}

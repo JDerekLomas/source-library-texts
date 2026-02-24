@@ -1,0 +1,26 @@
+{
+  "id": "697d9ca23ae651930d9afc0d",
+  "title": "Hierin sind begriffen vier Buecher von menschlicher Proportion",
+  "display_title": "Hierin sind begriffen vier Buecher von menschlicher Proportion",
+  "author": "Dürer, Albrecht",
+  "language": "German",
+  "year": 1528,
+  "published": "1528",
+  "pages_count": 327,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 5,
+  "source_url": "https://sourcelibrary.org/book/697d9ca23ae651930d9afc0d",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:54.537Z",
+  "_hashes": {
+    "ocr": "c06e70ebf3c9c08b",
+    "translation": "0424f9b0e7ae6c30"
+  }
+}

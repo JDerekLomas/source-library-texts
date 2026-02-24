@@ -1,0 +1,26 @@
+{
+  "id": "698255e93e158c7e3c9a4f6e",
+  "title": "La nature dévoilée",
+  "display_title": "La nature dévoilée",
+  "author": "[Kirchweger, Anton Joseph]",
+  "language": "French",
+  "year": 1772,
+  "published": "1772",
+  "pages_count": 776,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/698255e93e158c7e3c9a4f6e",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:30:47.497Z",
+  "_hashes": {
+    "ocr": "ae4bf8e45e86f085",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

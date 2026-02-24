@@ -1,0 +1,28 @@
+{
+  "id": "6955dc7c8407b7c9ae214236",
+  "title": "Die philosophischen Schriften Vol. 3",
+  "display_title": "Die philosophischen Schriften Vol. 3",
+  "author": "Gottfried Wilhelm Leibniz",
+  "language": "German",
+  "year": 1887,
+  "published": "Unknown",
+  "pages_count": 529,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6955dc7c8407b7c9ae214236",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "diephilosophisc03gerhgoog"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:46.614Z",
+  "_hashes": {
+    "ocr": "1305b195041b3ecf",
+    "translation": "68a8cdd8bc65e95b"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "6953e27b77f38f6761be90fa",
+  "title": "Four Books of Confucius - Analects, Great Learning, Doctrine of Mean, Mencius",
+  "display_title": "Four Books of Confucius - Analects, Great Learning, Doctrine of Mean, Mencius",
+  "author": "James Legge",
+  "language": "Chinese-English",
+  "year": 1882,
+  "published": "1882",
+  "pages_count": 1028,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6953e27b77f38f6761be90fa",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "fourbooksconfuci00leggiala"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:53.086Z",
+  "_hashes": {
+    "ocr": "7e493a009315dc69",
+    "translation": "338d24f6599ee505"
+  }
+}

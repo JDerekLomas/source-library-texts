@@ -1,0 +1,26 @@
+{
+  "id": "698255f0c8ae6303bcff9a97",
+  "title": "Misnae pars: ordinis primi Zeraim tituli septem",
+  "display_title": "Misnae pars: ordinis primi Zeraim tituli septem",
+  "author": "Unknown",
+  "language": "Latin",
+  "year": 1690,
+  "published": "1690",
+  "pages_count": 234,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 5,
+  "source_url": "https://sourcelibrary.org/book/698255f0c8ae6303bcff9a97",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:49.098Z",
+  "_hashes": {
+    "ocr": "ebfc6f2535fb1e79",
+    "translation": "3e62a751cf9de059"
+  }
+}

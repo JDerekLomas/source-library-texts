@@ -1,0 +1,28 @@
+{
+  "id": "6953e33477f38f6761bebf10",
+  "title": "Isis Unveiled Vol. I - Science",
+  "display_title": "Isis Unveiled Vol. I - Science",
+  "author": "H.P. Blavatsky",
+  "language": "English",
+  "year": 1911,
+  "published": "1911",
+  "pages_count": 745,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6953e33477f38f6761bebf10",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "isisunveiledama01blavgoog"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:53.331Z",
+  "_hashes": {
+    "ocr": "b9a3c1c060a65ca6",
+    "translation": "e12c58d5c0f40b1f"
+  }
+}

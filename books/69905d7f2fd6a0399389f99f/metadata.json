@@ -1,0 +1,28 @@
+{
+  "id": "69905d7f2fd6a0399389f99f",
+  "title": "Fortalitium Fidei",
+  "display_title": "Fortalitium Fidei",
+  "author": "Alfonso de Espina",
+  "language": "Latin",
+  "year": 1471,
+  "published": "Unknown",
+  "pages_count": 506,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/69905d7f2fd6a0399389f99f",
+  "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "FortalitiumFidei1487"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:30:52.348Z",
+  "_hashes": {
+    "ocr": "5fffdc25e3ba69d6",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

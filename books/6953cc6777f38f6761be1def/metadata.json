@@ -1,0 +1,28 @@
+{
+  "id": "6953cc6777f38f6761be1def",
+  "title": "Lapidario del Rey Alfonso X - Original Manuscript Facsimile",
+  "display_title": "Lapidario del Rey Alfonso X - Original Manuscript Facsimile",
+  "author": "Alfonso X of Castile",
+  "language": "Old Spanish",
+  "year": 1881,
+  "published": "Unknown",
+  "pages_count": 384,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6953cc6777f38f6761be1def",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "lapidariodelreyd00alfo"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:50.709Z",
+  "_hashes": {
+    "ocr": "1eeaf22a99dffb85",
+    "translation": "13284e55b9ae53e0"
+  }
+}

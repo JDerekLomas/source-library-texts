@@ -1,0 +1,26 @@
+{
+  "id": "698255ef0c050e24890fc3a0",
+  "title": "Mercuriorum liber. Apertorium, repertorium, artis intellectivae theorica & practica, magia naturalis, opuscula plane aurea",
+  "display_title": "Mercuriorum liber. Apertorium, repertorium, artis intellectivae theorica & practica, magia naturalis, opuscula plane aurea",
+  "author": "Lull, Ramón",
+  "language": "Latin",
+  "year": 1567,
+  "published": "1567",
+  "pages_count": 430,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 5,
+  "source_url": "https://sourcelibrary.org/book/698255ef0c050e24890fc3a0",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:49.175Z",
+  "_hashes": {
+    "ocr": "1fe480ca7ef54bb2",
+    "translation": "29aee10e71cee51d"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "69905d732fd6a0399389f5b7",
+  "title": "Tractatus de Sortilegiis",
+  "display_title": "Tractatus de Sortilegiis",
+  "author": "Paulus Grillandus",
+  "language": "Latin",
+  "year": 1536,
+  "published": "Unknown",
+  "pages_count": 348,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/69905d732fd6a0399389f5b7",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "hin-wel-all-00001057-001"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:30:52.506Z",
+  "_hashes": {
+    "ocr": "646aa9d128caf36c",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "6953ce9577f38f6761be535d",
+  "title": "Plato Theaetetus & Sophist",
+  "display_title": "Plato Theaetetus & Sophist",
+  "author": "Plato",
+  "language": "Greek",
+  "year": 1869,
+  "published": "1869",
+  "pages_count": 617,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6953ce9577f38f6761be535d",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "L123PlatoVIITheaetetusSophist"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:52.831Z",
+  "_hashes": {
+    "ocr": "e7d1e3d43860d74e",
+    "translation": "eaa038b835fc1296"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "6953cc4577f38f6761be1978",
+  "title": "Graeco-Roman Memoirs - Egypt Exploration Society Papyri",
+  "display_title": "Graeco-Roman Memoirs - Egypt Exploration Society Papyri",
+  "author": "Egypt Exploration Society",
+  "language": "Greek",
+  "year": 1898,
+  "published": "Unknown",
+  "pages_count": 368,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6953cc4577f38f6761be1978",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "graecoromanmemo01socigoog"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:50.632Z",
+  "_hashes": {
+    "ocr": "c9c4c7a1e10af582",
+    "translation": "a65b192ae7804c0e"
+  }
+}
