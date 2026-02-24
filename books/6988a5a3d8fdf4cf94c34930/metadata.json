@@ -1,0 +1,26 @@
+{
+  "id": "6988a5a3d8fdf4cf94c34930",
+  "title": "[Hebrew: Sefer matzat shimurim]",
+  "display_title": "[Hebrew: Sefer matzat shimurim]",
+  "author": "Spira, Nathan ben Reuben",
+  "language": "Hebrew",
+  "year": 1660,
+  "published": "[1660]",
+  "pages_count": 193,
+  "pages_with_ocr": 193,
+  "pages_with_translation": 182,
+  "source_url": "https://sourcelibrary.org/book/6988a5a3d8fdf4cf94c34930",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:27:42.767Z",
+  "_hashes": {
+    "ocr": "e54ed7b053b2214d",
+    "translation": "ec7232da2dd70315"
+  }
+}

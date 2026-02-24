@@ -1,0 +1,28 @@
+{
+  "id": "69906a861cf6ed5fbc8f5d21",
+  "title": "Lilavati of Bhaskaracharya",
+  "display_title": "Lilavati of Bhaskaracharya",
+  "author": "Bhaskara II; Khemraj 1908",
+  "language": "Sanskrit",
+  "year": 1908,
+  "published": "Unknown",
+  "pages_count": 205,
+  "pages_with_ocr": 205,
+  "pages_with_translation": 164,
+  "source_url": "https://sourcelibrary.org/book/69906a861cf6ed5fbc8f5d21",
+  "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "EtgU_lilavati-of-bhaskaracharya-1908-khemraj"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:27:35.023Z",
+  "_hashes": {
+    "ocr": "2ad9faffe470ba67",
+    "translation": "52fe5140077f0917"
+  }
+}

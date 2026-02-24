@@ -1,0 +1,26 @@
+{
+  "id": "697a3775e1d81a84b06d2d6f",
+  "title": "La derniere misericorde de Dieu",
+  "display_title": "La derniere misericorde de Dieu",
+  "author": "Bourignon, Antoinette",
+  "language": "French",
+  "year": 1681,
+  "published": "1681",
+  "pages_count": 191,
+  "pages_with_ocr": 191,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/697a3775e1d81a84b06d2d6f",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:27:43.414Z",
+  "_hashes": {
+    "ocr": "368b927a44a9a9dd",
+    "translation": "c948a92038fcc31e"
+  }
+}

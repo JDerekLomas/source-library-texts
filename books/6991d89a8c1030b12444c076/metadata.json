@@ -1,0 +1,26 @@
+{
+  "id": "6991d89a8c1030b12444c076",
+  "title": "Hathayogapradipika with Jyotsna and Manobhilasini Commentaries",
+  "display_title": "Hathayogapradipika with Jyotsna and Manobhilasini Commentaries",
+  "author": "Svatmarama",
+  "language": "Sanskrit",
+  "year": 1450,
+  "published": "undated",
+  "pages_count": 200,
+  "pages_with_ocr": 200,
+  "pages_with_translation": 159,
+  "source_url": "https://sourcelibrary.org/book/6991d89a8c1030b12444c076",
+  "license": "pdm",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:27:38.151Z",
+  "_hashes": {
+    "ocr": "496b130def1aee55",
+    "translation": "4a078ba5ea3ff556"
+  }
+}

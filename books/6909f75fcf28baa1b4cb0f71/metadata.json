@@ -1,0 +1,26 @@
+{
+  "id": "6909f75fcf28baa1b4cb0f71",
+  "title": "Histoire d'un voyage aux isles Malouines",
+  "display_title": "History of a Voyage to the Falkland Islands",
+  "author": "Pernety, Antoine-Joseph",
+  "language": "French",
+  "year": 1770,
+  "published": "1770",
+  "pages_count": 201,
+  "pages_with_ocr": 201,
+  "pages_with_translation": 201,
+  "source_url": "https://sourcelibrary.org/book/6909f75fcf28baa1b4cb0f71",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:27:36.237Z",
+  "_hashes": {
+    "ocr": "ac17d57afb4eb8b1",
+    "translation": "4886b0ea42df4a0f"
+  }
+}

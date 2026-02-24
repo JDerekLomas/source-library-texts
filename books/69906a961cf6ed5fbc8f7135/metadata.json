@@ -1,0 +1,28 @@
+{
+  "id": "69906a961cf6ed5fbc8f7135",
+  "title": "Ganita Kaumudi Part 1",
+  "display_title": "Ganita Kaumudi Part 1",
+  "author": "Narayana Pandit",
+  "language": "Sanskrit",
+  "year": 1356,
+  "published": "Unknown",
+  "pages_count": 190,
+  "pages_with_ocr": 190,
+  "pages_with_translation": 152,
+  "source_url": "https://sourcelibrary.org/book/69906a961cf6ed5fbc8f7135",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "in.ernet.dli.2015.326561"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:27:43.828Z",
+  "_hashes": {
+    "ocr": "092c276a8eec4bf9",
+    "translation": "41bff775024ef4ca"
+  }
+}

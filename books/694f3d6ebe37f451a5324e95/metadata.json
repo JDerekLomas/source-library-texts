@@ -1,0 +1,28 @@
+{
+  "id": "694f3d6ebe37f451a5324e95",
+  "title": "Pimander, Asclepius, Crater Hermetis",
+  "display_title": "Complete Hermetica (1505 Paris Edition)",
+  "author": "Hermes Trismegistus; Ficino, Marsilio (translator); Lefèvre d'Étaples (editor)",
+  "language": "Latin",
+  "year": 1505,
+  "published": "1505",
+  "pages_count": 184,
+  "pages_with_ocr": 184,
+  "pages_with_translation": 182,
+  "source_url": "https://sourcelibrary.org/book/694f3d6ebe37f451a5324e95",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "ita-bnc-mag-00000928-001"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:27:47.258Z",
+  "_hashes": {
+    "ocr": "fd6e2aa9e4d12435",
+    "translation": "21310ef04491a533"
+  }
+}

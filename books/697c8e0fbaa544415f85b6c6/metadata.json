@@ -1,0 +1,26 @@
+{
+  "id": "697c8e0fbaa544415f85b6c6",
+  "title": "Die Lehren der Rosenkreuzer aus dem 16ten und 17ten Jahrhundert. Oder einfältig ABC Büchlein für junge Schüler",
+  "display_title": "Die Lehren der Rosenkreuzer aus dem 16ten und 17ten Jahrhundert. Oder einfältig ABC Büchlein für junge Schüler",
+  "author": "Unknown",
+  "language": "German",
+  "year": 1785,
+  "published": "1785-1788",
+  "pages_count": 169,
+  "pages_with_ocr": 168,
+  "pages_with_translation": 3,
+  "source_url": "https://sourcelibrary.org/book/697c8e0fbaa544415f85b6c6",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:27:54.763Z",
+  "_hashes": {
+    "ocr": "b6c43668ffe2481a",
+    "translation": "705000ef6e3642bd"
+  }
+}

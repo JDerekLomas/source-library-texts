@@ -1,0 +1,28 @@
+{
+  "id": "2950c384-e5de-44c2-bbb5-a486556d6a93",
+  "title": "Miscellaneorum Centuria Prima",
+  "display_title": "Poliziano: Miscellaneorum (1489 Florence)",
+  "author": "Angelo Poliziano",
+  "language": "Latin",
+  "year": 1489,
+  "published": "1489",
+  "pages_count": 198,
+  "pages_with_ocr": 198,
+  "pages_with_translation": 198,
+  "source_url": "https://sourcelibrary.org/book/2950c384-e5de-44c2-bbb5-a486556d6a93",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "ita-bnc-in1-00000651-001"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:27:39.083Z",
+  "_hashes": {
+    "ocr": "062d984c7e7226e3",
+    "translation": "fff8639a8db91231"
+  }
+}

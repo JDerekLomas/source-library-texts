@@ -1,0 +1,26 @@
+{
+  "id": "69794f7beef1c286564aa431",
+  "title": "Compendiöses doch volkommenes philosophisches Hand-Büchlein",
+  "display_title": "Compendiöses doch volkommenes philosophisches Hand-Büchlein",
+  "author": "Keil, Christoph Heinrich",
+  "language": "German",
+  "year": 1748,
+  "published": "1748",
+  "pages_count": 194,
+  "pages_with_ocr": 194,
+  "pages_with_translation": 2,
+  "source_url": "https://sourcelibrary.org/book/69794f7beef1c286564aa431",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:27:42.269Z",
+  "_hashes": {
+    "ocr": "0cd0f5dfc584f3f0",
+    "translation": "18a80c84eb05bff3"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "6970e3709b09d309d780a29a",
+  "title": "Der alten weisenn exempel sprüch",
+  "display_title": "Der alten weisenn exempel sprüch",
+  "author": "[Bidpai]",
+  "language": "German",
+  "year": 1539,
+  "published": "1539",
+  "pages_count": 210,
+  "pages_with_ocr": 210,
+  "pages_with_translation": 191,
+  "source_url": "https://sourcelibrary.org/book/6970e3709b09d309d780a29a",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:27:32.727Z",
+  "_hashes": {
+    "ocr": "f96d5900941a2732",
+    "translation": "9ada8defcafd04df"
+  }
+}

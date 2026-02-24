@@ -1,0 +1,26 @@
+{
+  "id": "697b07993eb443e24a4901f6",
+  "title": "Erlaeuterungen zum neuen Testament",
+  "display_title": "Erlaeuterungen zum neuen Testament",
+  "author": "[Herder, Johann Gottfried von]",
+  "language": "German",
+  "year": 1775,
+  "published": "1775",
+  "pages_count": 198,
+  "pages_with_ocr": 190,
+  "pages_with_translation": 2,
+  "source_url": "https://sourcelibrary.org/book/697b07993eb443e24a4901f6",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:27:43.591Z",
+  "_hashes": {
+    "ocr": "0a83bdd5bbeb5466",
+    "translation": "757596c200173775"
+  }
+}

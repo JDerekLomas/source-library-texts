@@ -1,0 +1,28 @@
+{
+  "id": "69529499b184004c526a1dc9",
+  "title": "De sapientia veterum liber",
+  "display_title": "The Wisdom of the Ancients",
+  "author": "Bacon, Francis",
+  "language": "Latin",
+  "year": 1633,
+  "published": "1633",
+  "pages_count": 216,
+  "pages_with_ocr": 216,
+  "pages_with_translation": 216,
+  "source_url": "https://sourcelibrary.org/book/69529499b184004c526a1dc9",
+  "license": "https://rightsstatements.org/vocab/NoC-NC/1.0/",
+  "doi": null,
+  "external_ids": {
+    "mdz": "bsb11282879"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": null,
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:27:31.762Z",
+  "_hashes": {
+    "ocr": "17a9d45f98aa32be",
+    "translation": "cdf13e27eeb5352c"
+  }
+}

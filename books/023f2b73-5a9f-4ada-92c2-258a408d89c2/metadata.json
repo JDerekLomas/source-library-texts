@@ -1,0 +1,26 @@
+{
+  "id": "023f2b73-5a9f-4ada-92c2-258a408d89c2",
+  "title": "Historia: von dem Leben und Wandel der heyligen Barlaam dess Einsidels, unnd Josaphat dess König in Indien Sohn",
+  "display_title": "History of the Holy Barlaam the Hermit and Josaphat the King of India's Son",
+  "author": "anonymous, Konstanz",
+  "language": "German",
+  "year": 1603,
+  "published": "1603",
+  "pages_count": 170,
+  "pages_with_ocr": 170,
+  "pages_with_translation": 170,
+  "source_url": "https://sourcelibrary.org/book/023f2b73-5a9f-4ada-92c2-258a408d89c2",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:27:52.926Z",
+  "_hashes": {
+    "ocr": "9b184d92446cb105",
+    "translation": "9bd3e038ee993dbd"
+  }
+}

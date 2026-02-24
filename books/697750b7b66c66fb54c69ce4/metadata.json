@@ -1,0 +1,26 @@
+{
+  "id": "697750b7b66c66fb54c69ce4",
+  "title": "Biblisch-historisches Licht und Recht",
+  "display_title": "Biblisch-historisches Licht und Recht",
+  "author": "Lange, Joachim",
+  "language": "German",
+  "year": 1734,
+  "published": "1734",
+  "pages_count": 1603,
+  "pages_with_ocr": 190,
+  "pages_with_translation": 4,
+  "source_url": "https://sourcelibrary.org/book/697750b7b66c66fb54c69ce4",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:27:44.397Z",
+  "_hashes": {
+    "ocr": "e104c9aa8775f38f",
+    "translation": "5c1decbf31d0c641"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "6909cae5cf28baa1b4cafca7",
+  "title": "Versuch einer Geschichte des Arianismus",
+  "display_title": "An Attempt at a History of Arianism",
+  "author": "[Starck, Johann August von]",
+  "language": "German",
+  "year": 1783,
+  "published": "1783-1785",
+  "pages_count": 164,
+  "pages_with_ocr": 164,
+  "pages_with_translation": 164,
+  "source_url": "https://sourcelibrary.org/book/6909cae5cf28baa1b4cafca7",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:27:57.172Z",
+  "_hashes": {
+    "ocr": "74b462ee770fcd71",
+    "translation": "08cffcc5ab31bf2b"
+  }
+}

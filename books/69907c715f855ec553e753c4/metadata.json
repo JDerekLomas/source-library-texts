@@ -1,0 +1,28 @@
+{
+  "id": "69907c715f855ec553e753c4",
+  "title": "Yuddha Jayarnava (Military Astrology)",
+  "display_title": "Yuddha Jayarnava",
+  "author": "Unknown",
+  "language": "Sanskrit",
+  "year": 1800,
+  "published": "1800",
+  "pages_count": 186,
+  "pages_with_ocr": 186,
+  "pages_with_translation": 149,
+  "source_url": "https://sourcelibrary.org/book/69907c715f855ec553e753c4",
+  "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "YuddhaJayarnava5454GhaAlm25Shlf1DevanagariJyotish"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:27:45.869Z",
+  "_hashes": {
+    "ocr": "f4c29570a68807cb",
+    "translation": "da734f653a66c850"
+  }
+}

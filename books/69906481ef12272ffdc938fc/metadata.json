@@ -1,0 +1,28 @@
+{
+  "id": "69906481ef12272ffdc938fc",
+  "title": "Graha Laghava (Devanagari manuscript)",
+  "display_title": "Graha Laghava (Devanagari manuscript)",
+  "author": "Ganesa Daivagna",
+  "language": "Sanskrit",
+  "year": 1520,
+  "published": "Unknown",
+  "pages_count": 167,
+  "pages_with_ocr": 167,
+  "pages_with_translation": 167,
+  "source_url": "https://sourcelibrary.org/book/69906481ef12272ffdc938fc",
+  "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "GrahaLaghavaGaneshaDaivagya868GhaAlm5Shlf1DevanagariJyothish"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:27:55.823Z",
+  "_hashes": {
+    "ocr": "e13008c4740301e7",
+    "translation": "64145d0805e02d40"
+  }
+}

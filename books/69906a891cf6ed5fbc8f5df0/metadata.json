@@ -1,0 +1,28 @@
+{
+  "id": "69906a891cf6ed5fbc8f5df0",
+  "title": "Surya Siddhanta (Popular Edition)",
+  "display_title": "Surya Siddhanta (Popular Edition)",
+  "author": "Anonymous",
+  "language": "Sanskrit",
+  "year": 1910,
+  "published": "Unknown",
+  "pages_count": 184,
+  "pages_with_ocr": 184,
+  "pages_with_translation": 148,
+  "source_url": "https://sourcelibrary.org/book/69906a891cf6ed5fbc8f5df0",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "SuryaSiddhanta_201311"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:27:47.602Z",
+  "_hashes": {
+    "ocr": "2518f1255946ff73",
+    "translation": "393f7151d7acdc01"
+  }
+}

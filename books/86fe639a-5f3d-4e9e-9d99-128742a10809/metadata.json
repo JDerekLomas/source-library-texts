@@ -1,0 +1,28 @@
+{
+  "id": "86fe639a-5f3d-4e9e-9d99-128742a10809",
+  "title": "Atalanta Fugiens",
+  "display_title": "Atalanta Fugiens (c.1625 English MS)",
+  "author": "Michael Maier; English translator",
+  "language": "English",
+  "year": 1618,
+  "published": "1618",
+  "pages_count": 194,
+  "pages_with_ocr": 194,
+  "pages_with_translation": 192,
+  "source_url": "https://sourcelibrary.org/book/86fe639a-5f3d-4e9e-9d99-128742a10809",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "mellon48atalanta"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:27:41.775Z",
+  "_hashes": {
+    "ocr": "df16b607e9fb9530",
+    "translation": "8a559eb78544bfc7"
+  }
+}

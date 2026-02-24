@@ -1,0 +1,28 @@
+{
+  "id": "69520185ab34727b1f0416bc",
+  "title": "Aurora thesaurusque philosophorum",
+  "display_title": "Aurora thesaurusque philosophorum",
+  "author": "Theophrastus Paracelsus",
+  "language": "Latin",
+  "year": 1577,
+  "published": "1577",
+  "pages_count": 192,
+  "pages_with_ocr": 192,
+  "pages_with_translation": 192,
+  "source_url": "https://sourcelibrary.org/book/69520185ab34727b1f0416bc",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "gallica": "bpt6k65587p"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": null,
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:27:43.304Z",
+  "_hashes": {
+    "ocr": "abf215052bd1d984",
+    "translation": "151110e5cdeeaca8"
+  }
+}

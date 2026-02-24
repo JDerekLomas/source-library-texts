@@ -1,0 +1,26 @@
+{
+  "id": "6974b64919126e775cf6d7ed",
+  "title": "De arte magna",
+  "display_title": "De arte magna",
+  "author": "Democritus",
+  "language": "Latin",
+  "year": 1573,
+  "published": "1573",
+  "pages_count": 170,
+  "pages_with_ocr": 170,
+  "pages_with_translation": 143,
+  "source_url": "https://sourcelibrary.org/book/6974b64919126e775cf6d7ed",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:27:52.423Z",
+  "_hashes": {
+    "ocr": "a022926cc14a29b2",
+    "translation": "6c3d06e80bc89dc4"
+  }
+}

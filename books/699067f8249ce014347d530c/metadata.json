@@ -1,0 +1,26 @@
+{
+  "id": "699067f8249ce014347d530c",
+  "title": "Hermetic and Alchemical Anthology",
+  "display_title": "Pal.lat.1328",
+  "author": "Various (Pseudo-Hermes, Pseudo-Arnald)",
+  "language": "Latin",
+  "year": 1450,
+  "published": "1450",
+  "pages_count": 170,
+  "pages_with_ocr": 167,
+  "pages_with_translation": 126,
+  "source_url": "https://sourcelibrary.org/book/699067f8249ce014347d530c",
+  "license": "CC-BY-NC-4.0",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:27:55.636Z",
+  "_hashes": {
+    "ocr": "081a3b69aa78f9b0",
+    "translation": "83271f6303849ba5"
+  }
+}

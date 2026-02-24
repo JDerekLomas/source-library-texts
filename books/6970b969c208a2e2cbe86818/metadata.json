@@ -1,0 +1,26 @@
+{
+  "id": "6970b969c208a2e2cbe86818",
+  "title": "Abhandlung vom goldenen Vliess oder Möglichkeit der Verwandlung der Metalle",
+  "display_title": "Abhandlung vom goldenen Vliess oder Möglichkeit der Verwandlung der Metalle",
+  "author": "Creiling, Johann Conrad",
+  "language": "German",
+  "year": 1787,
+  "published": "1787",
+  "pages_count": 202,
+  "pages_with_ocr": 202,
+  "pages_with_translation": 191,
+  "source_url": "https://sourcelibrary.org/book/6970b969c208a2e2cbe86818",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:27:35.978Z",
+  "_hashes": {
+    "ocr": "3301ff10d2350a68",
+    "translation": "d77b9549c5768d84"
+  }
+}

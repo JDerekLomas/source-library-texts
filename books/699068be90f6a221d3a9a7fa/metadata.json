@@ -1,0 +1,28 @@
+{
+  "id": "699068be90f6a221d3a9a7fa",
+  "title": "Kerala Prasna Shastra",
+  "display_title": "Kerala Prasna Shastra",
+  "author": "Anonymous",
+  "language": "Sanskrit",
+  "year": 1900,
+  "published": "Unknown",
+  "pages_count": 195,
+  "pages_with_ocr": 195,
+  "pages_with_translation": 195,
+  "source_url": "https://sourcelibrary.org/book/699068be90f6a221d3a9a7fa",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "kerala-prasna-shastra"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:27:41.087Z",
+  "_hashes": {
+    "ocr": "a09f9e249fc0144d",
+    "translation": "49990901ad669b21"
+  }
+}

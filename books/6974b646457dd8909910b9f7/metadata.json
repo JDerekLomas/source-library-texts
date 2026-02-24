@@ -1,0 +1,26 @@
+{
+  "id": "6974b646457dd8909910b9f7",
+  "title": "Ars brevis",
+  "display_title": "Ars brevis",
+  "author": "Lull, Ramón",
+  "language": "Latin",
+  "year": 1744,
+  "published": "1744",
+  "pages_count": 198,
+  "pages_with_ocr": 198,
+  "pages_with_translation": 141,
+  "source_url": "https://sourcelibrary.org/book/6974b646457dd8909910b9f7",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:27:38.820Z",
+  "_hashes": {
+    "ocr": "08eef67a618646e9",
+    "translation": "4009b1eb86215520"
+  }
+}

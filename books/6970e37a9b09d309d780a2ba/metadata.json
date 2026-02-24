@@ -1,0 +1,26 @@
+{
+  "id": "6970e37a9b09d309d780a2ba",
+  "title": "Anmerkungen ueber den Horus",
+  "display_title": "Anmerkungen ueber den Horus",
+  "author": "Unger, Salomon Gottlob",
+  "language": "German",
+  "year": 1784,
+  "published": "1784",
+  "pages_count": 210,
+  "pages_with_ocr": 210,
+  "pages_with_translation": 203,
+  "source_url": "https://sourcelibrary.org/book/6970e37a9b09d309d780a2ba",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:27:33.164Z",
+  "_hashes": {
+    "ocr": "9431b0718bd6a771",
+    "translation": "25b5d312e721577e"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "695aa9bfbe4023bd34bd6d81",
+  "title": "Les mécaniques ou L'élévateur de Héron (Carra de Vaux 1894)",
+  "display_title": "Les mécaniques ou L'élévateur de Héron (Carra de Vaux 1894)",
+  "author": "Hero of Alexandria; Baron Carra de Vaux (trans.)",
+  "language": "Greek",
+  "year": 1894,
+  "published": "Unknown",
+  "pages_count": 332,
+  "pages_with_ocr": 211,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/695aa9bfbe4023bd34bd6d81",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "lesmcaniquesoul00vauxgoog"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:27:32.359Z",
+  "_hashes": {
+    "ocr": "035aa9befca5ded1",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

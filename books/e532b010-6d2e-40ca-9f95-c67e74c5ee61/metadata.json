@@ -1,0 +1,28 @@
+{
+  "id": "e532b010-6d2e-40ca-9f95-c67e74c5ee61",
+  "title": "Unterweysung der Messung",
+  "display_title": "Instruction in Measurement",
+  "author": "Albrecht Dürer",
+  "language": "German",
+  "year": 1525,
+  "published": "1525",
+  "pages_count": 188,
+  "pages_with_ocr": 188,
+  "pages_with_translation": 188,
+  "source_url": "https://sourcelibrary.org/book/e532b010-6d2e-40ca-9f95-c67e74c5ee61",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "vnderweysungderm00drer"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:27:45.240Z",
+  "_hashes": {
+    "ocr": "f50292eac076a587",
+    "translation": "4e9086b8732c2f68"
+  }
+}

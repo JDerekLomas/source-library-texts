@@ -1,0 +1,26 @@
+{
+  "id": "698192084a98f5b317403e71",
+  "title": "Memoirs of the life, death, burial, and wonderful writings, of Jacob Behmen",
+  "display_title": "Memoirs of the life, death, burial, and wonderful writings, of Jacob Behmen",
+  "author": "Okely, Francis",
+  "language": "English",
+  "year": 1780,
+  "published": "1780",
+  "pages_count": 198,
+  "pages_with_ocr": 196,
+  "pages_with_translation": 3,
+  "source_url": "https://sourcelibrary.org/book/698192084a98f5b317403e71",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:27:40.589Z",
+  "_hashes": {
+    "ocr": "cbbfa7b49251cfdf",
+    "translation": "faa730f17a3c3c4c"
+  }
+}

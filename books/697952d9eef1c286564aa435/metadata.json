@@ -1,0 +1,26 @@
+{
+  "id": "697952d9eef1c286564aa435",
+  "title": "Compendium alchimiae",
+  "display_title": "Compendium alchimiae",
+  "author": "Johannes de Garlandia",
+  "language": "Latin",
+  "year": 1560,
+  "published": "1560",
+  "pages_count": 210,
+  "pages_with_ocr": 210,
+  "pages_with_translation": 5,
+  "source_url": "https://sourcelibrary.org/book/697952d9eef1c286564aa435",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:27:32.910Z",
+  "_hashes": {
+    "ocr": "6b4feef2119450de",
+    "translation": "f00f907b4cb8d9af"
+  }
+}

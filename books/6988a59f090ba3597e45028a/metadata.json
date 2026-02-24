@@ -1,0 +1,26 @@
+{
+  "id": "6988a59f090ba3597e45028a",
+  "title": "Seances des ecoles normales",
+  "display_title": "Seances des ecoles normales",
+  "author": "[Saint-Martin, Louis Claude de]",
+  "language": "French",
+  "year": 1801,
+  "published": "1801",
+  "pages_count": 210,
+  "pages_with_ocr": 178,
+  "pages_with_translation": 167,
+  "source_url": "https://sourcelibrary.org/book/6988a59f090ba3597e45028a",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:27:50.102Z",
+  "_hashes": {
+    "ocr": "f44d96534b308498",
+    "translation": "9f946723ef0b6f10"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "6988a5a361359449470ed10b",
+  "title": "Secrets reveal'd: or, an open entrance to the shut palace",
+  "display_title": "Secrets reveal'd: or, an open entrance to the shut palace",
+  "author": "[Starkey, George]",
+  "language": "English",
+  "year": 1669,
+  "published": "1669",
+  "pages_count": 182,
+  "pages_with_ocr": 182,
+  "pages_with_translation": 170,
+  "source_url": "https://sourcelibrary.org/book/6988a5a361359449470ed10b",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:27:48.384Z",
+  "_hashes": {
+    "ocr": "89b996e4e6101def",
+    "translation": "cff45d4712f54561"
+  }
+}

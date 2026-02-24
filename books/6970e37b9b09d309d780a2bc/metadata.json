@@ -1,0 +1,26 @@
+{
+  "id": "6970e37b9b09d309d780a2bc",
+  "title": "Annee religieuse des Theophilantropes",
+  "display_title": "Annee religieuse des Theophilantropes",
+  "author": "[Chemin-Dupontes, J.B.]",
+  "language": "French",
+  "year": 1797,
+  "published": "1797",
+  "pages_count": 188,
+  "pages_with_ocr": 188,
+  "pages_with_translation": 177,
+  "source_url": "https://sourcelibrary.org/book/6970e37b9b09d309d780a2bc",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:27:45.463Z",
+  "_hashes": {
+    "ocr": "daa219f6b1f687d5",
+    "translation": "3f00db51a4d1331f"
+  }
+}

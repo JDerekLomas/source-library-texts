@@ -1,0 +1,28 @@
+{
+  "id": "695285cdab34727b1f04c25a",
+  "title": "Sepher Maphteah Shelomo",
+  "display_title": "Sepher Maphteah Shelomo (Book of the Key of Solomon)",
+  "author": "Anonymous",
+  "language": "Hebrew",
+  "year": 1914,
+  "published": "1914",
+  "pages_count": 192,
+  "pages_with_ocr": 192,
+  "pages_with_translation": 192,
+  "source_url": "https://sourcelibrary.org/book/695285cdab34727b1f04c25a",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "b31365905"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:27:43.078Z",
+  "_hashes": {
+    "ocr": "dbb8610e917c067e",
+    "translation": "da8f0a6b16f88945"
+  }
+}

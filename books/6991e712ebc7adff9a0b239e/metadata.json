@@ -1,0 +1,26 @@
+{
+  "id": "6991e712ebc7adff9a0b239e",
+  "title": "Codex Forster III",
+  "display_title": "Codex Forster III (National Art Library, Museum no. MSL/1876/Forster/141/III)",
+  "author": "Leonardo da Vinci",
+  "language": "Italian",
+  "year": 1493,
+  "published": "1493",
+  "pages_count": 182,
+  "pages_with_ocr": 182,
+  "pages_with_translation": 182,
+  "source_url": "https://sourcelibrary.org/book/6991e712ebc7adff9a0b239e",
+  "license": "unknown",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:27:48.914Z",
+  "_hashes": {
+    "ocr": "5d86bd600b175673",
+    "translation": "b2bf9e12309ea6ea"
+  }
+}

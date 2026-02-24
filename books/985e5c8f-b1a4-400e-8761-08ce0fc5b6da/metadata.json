@@ -1,0 +1,28 @@
+{
+  "id": "985e5c8f-b1a4-400e-8761-08ce0fc5b6da",
+  "title": "Ars Magna",
+  "display_title": "Cardano: Ars Magna (1545 First Edition)",
+  "author": "Girolamo Cardano",
+  "language": "Latin",
+  "year": 1545,
+  "published": "1545",
+  "pages_count": 172,
+  "pages_with_ocr": 172,
+  "pages_with_translation": 172,
+  "source_url": "https://sourcelibrary.org/book/985e5c8f-b1a4-400e-8761-08ce0fc5b6da",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bub_gb_2tT0gVUf2YsC"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:27:51.563Z",
+  "_hashes": {
+    "ocr": "a2d19114f8a7494d",
+    "translation": "d501eec6936816c1"
+  }
+}

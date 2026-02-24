@@ -1,0 +1,28 @@
+{
+  "id": "6953c81f77f38f6761bdbe34",
+  "title": "Yoga-Darsana: Sutras with Bhashya of Vyasa",
+  "display_title": "Yoga-Darsana: Sutras with Bhashya of Vyasa",
+  "author": "Patanjali / Vyasa",
+  "language": "Sanskrit",
+  "year": 1910,
+  "published": "Unknown",
+  "pages_count": 187,
+  "pages_with_ocr": 185,
+  "pages_with_translation": 185,
+  "source_url": "https://sourcelibrary.org/book/6953c81f77f38f6761bdbe34",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "yogadaranasutra00patagoog"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": null,
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:27:46.555Z",
+  "_hashes": {
+    "ocr": "f2873a40d6e070d1",
+    "translation": "eda376b9358ee51e"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "69907c525f855ec553e74698",
+  "title": "Jyotish Ratnamala of Shripati Bhatt",
+  "display_title": "Jyotish Ratnamala (Shripati)",
+  "author": "Shripati Bhatt",
+  "language": "Sanskrit",
+  "year": 1800,
+  "published": "1800",
+  "pages_count": 194,
+  "pages_with_ocr": 194,
+  "pages_with_translation": 156,
+  "source_url": "https://sourcelibrary.org/book/69907c525f855ec553e74698",
+  "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "JyotishRatnaMalaShripatiBhat859GhaAlm4Shlf5DevanagariJyotish"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:27:42.118Z",
+  "_hashes": {
+    "ocr": "722545a203ede12c",
+    "translation": "4a28629ec158f1da"
+  }
+}

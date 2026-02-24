@@ -1,0 +1,28 @@
+{
+  "id": "69906d8364d44bd0a0ef5a44",
+  "title": "Ramal Navaratna",
+  "display_title": "Ramal Navaratna",
+  "author": "Param Sukh Upadhyaya",
+  "language": "Sanskrit",
+  "year": 1875,
+  "published": "Unknown",
+  "pages_count": 211,
+  "pages_with_ocr": 211,
+  "pages_with_translation": 169,
+  "source_url": "https://sourcelibrary.org/book/69906d8364d44bd0a0ef5a44",
+  "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "ramal-navaratna-of-param-sukh-upadhyaya-mahidhar-sharma"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:27:32.224Z",
+  "_hashes": {
+    "ocr": "6225269cb66c0c32",
+    "translation": "fbef85e77b0bd1e9"
+  }
+}

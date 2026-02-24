@@ -1,0 +1,28 @@
+{
+  "id": "695aa9aabe4023bd34bd6c6f",
+  "title": "Liber de machinis bellicis et de geodaesia (Barocci 1572)",
+  "display_title": "Liber de machinis bellicis et de geodaesia (Barocci 1572)",
+  "author": "Hero of Alexandria; Francesco Barocci (trans.)",
+  "language": "Latin",
+  "year": 1572,
+  "published": "Unknown",
+  "pages_count": 180,
+  "pages_with_ocr": 180,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/695aa9aabe4023bd34bd6c6f",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "ita-bnc-mag-00001105-001"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:27:49.856Z",
+  "_hashes": {
+    "ocr": "0d39e901a552a256",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

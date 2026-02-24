@@ -1,0 +1,26 @@
+{
+  "id": "6978f4c3eb0dcfd39912341a",
+  "title": "Chymischer Natur-Spiegel",
+  "display_title": "Chymischer Natur-Spiegel",
+  "author": "Stiller, Johann Martin",
+  "language": "German",
+  "year": 1685,
+  "published": "1685",
+  "pages_count": 170,
+  "pages_with_ocr": 170,
+  "pages_with_translation": 128,
+  "source_url": "https://sourcelibrary.org/book/6978f4c3eb0dcfd39912341a",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:27:53.329Z",
+  "_hashes": {
+    "ocr": "a95e4720f267b011",
+    "translation": "a5d4cc2fcd619247"
+  }
+}

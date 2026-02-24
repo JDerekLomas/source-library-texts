@@ -1,0 +1,26 @@
+{
+  "id": "6909e609cf28baa1b4cb0705",
+  "title": "Die Macht der Kinder in der letzten Zeit",
+  "display_title": "The Power of Children in Recent Times",
+  "author": "Petersen, Johann Wilhelm",
+  "language": "German",
+  "year": 1709,
+  "published": "1709",
+  "pages_count": 164,
+  "pages_with_ocr": 164,
+  "pages_with_translation": 164,
+  "source_url": "https://sourcelibrary.org/book/6909e609cf28baa1b4cb0705",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:27:57.480Z",
+  "_hashes": {
+    "ocr": "2026764c2b5a0bab",
+    "translation": "bf2335dbe9f5de80"
+  }
+}

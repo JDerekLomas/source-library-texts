@@ -1,0 +1,28 @@
+{
+  "id": "69907d8caee9f4aa5859219a",
+  "title": "Siddhanta Tattva Viveka of Kamalakara",
+  "display_title": "Siddhanta Tattva Viveka",
+  "author": "Kamalakara",
+  "language": "Sanskrit",
+  "year": 1800,
+  "published": "1800",
+  "pages_count": 196,
+  "pages_with_ocr": 196,
+  "pages_with_translation": 157,
+  "source_url": "https://sourcelibrary.org/book/69907d8caee9f4aa5859219a",
+  "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "SiddhantaTattvaVivekaShriKamalakara4037GhaAlm19Shlf2DevanagariJyotish"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:27:40.384Z",
+  "_hashes": {
+    "ocr": "1c06cd917f863f29",
+    "translation": "643f31c65450e1c0"
+  }
+}

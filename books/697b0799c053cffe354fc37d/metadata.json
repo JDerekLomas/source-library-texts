@@ -1,0 +1,26 @@
+{
+  "id": "697b0799c053cffe354fc37d",
+  "title": "Einfaeltiger Unterricht vom Gebeth",
+  "display_title": "Einfaeltiger Unterricht vom Gebeth",
+  "author": "Weigel, Valentin",
+  "language": "German",
+  "year": 1700,
+  "published": "1700",
+  "pages_count": 189,
+  "pages_with_ocr": 189,
+  "pages_with_translation": 181,
+  "source_url": "https://sourcelibrary.org/book/697b0799c053cffe354fc37d",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:27:44.924Z",
+  "_hashes": {
+    "ocr": "144c894949aff171",
+    "translation": "a40cfc26a80b771e"
+  }
+}

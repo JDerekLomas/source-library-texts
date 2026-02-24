@@ -1,0 +1,28 @@
+{
+  "id": "69520773ab34727b1f043c4d",
+  "title": "Steganographia",
+  "display_title": "Steganography: The Art of Secret Writing",
+  "author": "Johannes Trithemius",
+  "language": "Latin",
+  "year": 1621,
+  "published": "1621",
+  "pages_count": 168,
+  "pages_with_ocr": 168,
+  "pages_with_translation": 168,
+  "source_url": "https://sourcelibrary.org/book/69520773ab34727b1f043c4d",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "gallica": "bpt6k5832538j"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:27:54.327Z",
+  "_hashes": {
+    "ocr": "4655123cd254c548",
+    "translation": "43ebfc84914c89e0"
+  }
+}

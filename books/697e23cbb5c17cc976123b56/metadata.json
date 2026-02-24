@@ -1,0 +1,26 @@
+{
+  "id": "697e23cbb5c17cc976123b56",
+  "title": "De igne magorum philosophorumque secreto externo & visibili. Das ist: Philosophische Erklährung",
+  "display_title": "De igne magorum philosophorumque secreto externo & visibili. Das ist: Philosophische Erklährung",
+  "author": "Khunrath, Heinrich",
+  "language": "Latin-German",
+  "year": 1608,
+  "published": "1608",
+  "pages_count": 187,
+  "pages_with_ocr": 185,
+  "pages_with_translation": 3,
+  "source_url": "https://sourcelibrary.org/book/697e23cbb5c17cc976123b56",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:27:46.694Z",
+  "_hashes": {
+    "ocr": "e6c5fcbe4eeb5397",
+    "translation": "074f32eed2020b86"
+  }
+}

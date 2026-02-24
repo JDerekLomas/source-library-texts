@@ -1,0 +1,26 @@
+{
+  "id": "6909ba43cf28baa1b4caf455",
+  "title": "Controversiae cum Judaeis prodromi libri II",
+  "display_title": "Two Books of the Introduction to the Controversies with the Jews",
+  "author": "Wienner von Sonnenfels, Aloys",
+  "language": "Latin",
+  "year": 1758,
+  "published": "1758",
+  "pages_count": 167,
+  "pages_with_ocr": 167,
+  "pages_with_translation": 167,
+  "source_url": "https://sourcelibrary.org/book/6909ba43cf28baa1b4caf455",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:27:54.985Z",
+  "_hashes": {
+    "ocr": "1c638f2b6d81d34f",
+    "translation": "5bfc57f0ba04bcf4"
+  }
+}

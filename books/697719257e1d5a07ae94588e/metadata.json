@@ -1,0 +1,26 @@
+{
+  "id": "697719257e1d5a07ae94588e",
+  "title": "Biblia ofte Inhoud des O. en N. Testamts [sic]",
+  "display_title": "Biblia ofte Inhoud des O. en N. Testamts [sic]",
+  "author": "Unknown",
+  "language": "Dutch",
+  "year": 1719,
+  "published": "1719",
+  "pages_count": 177,
+  "pages_with_ocr": 177,
+  "pages_with_translation": 118,
+  "source_url": "https://sourcelibrary.org/book/697719257e1d5a07ae94588e",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:27:50.248Z",
+  "_hashes": {
+    "ocr": "8eff07ee2a4995f6",
+    "translation": "04121919fb7816ae"
+  }
+}

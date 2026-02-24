@@ -1,0 +1,28 @@
+{
+  "id": "69907f3aafd715da775bc9e0",
+  "title": "Ganakaranjani (Telugu Siddhanta Jyotisha)",
+  "display_title": "Ganakaranjani (Telugu Siddhanta Jyotisha)",
+  "author": "Unknown",
+  "language": "Sanskrit",
+  "year": 1912,
+  "published": "1912",
+  "pages_count": 170,
+  "pages_with_ocr": 170,
+  "pages_with_translation": 136,
+  "source_url": "https://sourcelibrary.org/book/69907f3aafd715da775bc9e0",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "ganakaranjani"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:27:53.174Z",
+  "_hashes": {
+    "ocr": "de544ff292e965b9",
+    "translation": "4d8fe2f4760a4677"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "699068ed2e4efe910676a6a3",
+  "title": "Jataka Chandrika (Venkatesha Pandita)",
+  "display_title": "Jataka Chandrika (Venkatesha Pandita)",
+  "author": "Venkatesha Pandita",
+  "language": "Sanskrit",
+  "year": 1912,
+  "published": "Unknown",
+  "pages_count": 172,
+  "pages_with_ocr": 172,
+  "pages_with_translation": 172,
+  "source_url": "https://sourcelibrary.org/book/699068ed2e4efe910676a6a3",
+  "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "jatakachandrikachundrikavenkateshapanditamoonlighttoastrologysuryanarainrowb.1900_202003_581_J"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:27:51.775Z",
+  "_hashes": {
+    "ocr": "30e24fb6a17bbb20",
+    "translation": "f64f33d05358a523"
+  }
+}

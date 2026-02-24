@@ -1,0 +1,28 @@
+{
+  "id": "9754fae4-b3c6-45e6-8742-53c85117ca09",
+  "title": "Mysterium Cosmographicum",
+  "display_title": "Mysterium Cosmographicum (1596 First Edition)",
+  "author": "Johannes Kepler",
+  "language": "Latin",
+  "year": 1596,
+  "published": "1596",
+  "pages_count": 194,
+  "pages_with_ocr": 194,
+  "pages_with_translation": 194,
+  "source_url": "https://sourcelibrary.org/book/9754fae4-b3c6-45e6-8742-53c85117ca09",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "1596-kepler-prodromus-dissertationum-cosmographicarum-continens-mysterium-cosmographicum"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:27:41.550Z",
+  "_hashes": {
+    "ocr": "5401232749063806",
+    "translation": "319b42116f4e7c75"
+  }
+}

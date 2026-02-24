@@ -1,0 +1,26 @@
+{
+  "id": "69776dfe4896622ce9e30c70",
+  "title": "Briefe an einen Freund in der Schweiz",
+  "display_title": "Briefe an einen Freund in der Schweiz",
+  "author": "Semler, Johann Salomo",
+  "language": "German",
+  "year": 1786,
+  "published": "1786",
+  "pages_count": 212,
+  "pages_with_ocr": 212,
+  "pages_with_translation": 167,
+  "source_url": "https://sourcelibrary.org/book/69776dfe4896622ce9e30c70",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:27:31.953Z",
+  "_hashes": {
+    "ocr": "5df1ae292839eea8",
+    "translation": "b8dc0e8a7b652c1e"
+  }
+}

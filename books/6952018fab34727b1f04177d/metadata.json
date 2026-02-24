@@ -1,0 +1,28 @@
+{
+  "id": "6952018fab34727b1f04177d",
+  "title": "De nobilitate et praecellentia foeminei sexus",
+  "display_title": "De nobilitate et praecellentia foeminei sexus",
+  "author": "Heinrich Cornelius Agrippa",
+  "language": "Latin",
+  "year": 1529,
+  "published": "1529",
+  "pages_count": 168,
+  "pages_with_ocr": 168,
+  "pages_with_translation": 168,
+  "source_url": "https://sourcelibrary.org/book/6952018fab34727b1f04177d",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "gallica": "bpt6k71692s"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": null,
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:27:53.741Z",
+  "_hashes": {
+    "ocr": "9ffc623c934ebe2a",
+    "translation": "d1b36e320bd3e783"
+  }
+}

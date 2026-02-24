@@ -1,0 +1,26 @@
+{
+  "id": "6909aba7cf28baa1b4caef69",
+  "title": "Mirabilium divinorum humanorumque volumina quattuor",
+  "display_title": "Four Volumes of Divine and Human Marvels",
+  "author": "Champier, Symphorien",
+  "language": "Latin",
+  "year": 1517,
+  "published": "1517",
+  "pages_count": 165,
+  "pages_with_ocr": 165,
+  "pages_with_translation": 165,
+  "source_url": "https://sourcelibrary.org/book/6909aba7cf28baa1b4caef69",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:27:56.761Z",
+  "_hashes": {
+    "ocr": "696c2ab77b886a4b",
+    "translation": "92c1717fb1aa9974"
+  }
+}
