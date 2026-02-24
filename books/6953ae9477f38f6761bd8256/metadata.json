@@ -1,0 +1,28 @@
+{
+  "id": "6953ae9477f38f6761bd8256",
+  "title": "Akephalos der Kopflose Gott",
+  "display_title": "Akephalos der Kopflose Gott",
+  "author": "Karl Preisendanz",
+  "language": "German",
+  "year": 1926,
+  "published": "Unknown",
+  "pages_count": 74,
+  "pages_with_ocr": 74,
+  "pages_with_translation": 74,
+  "source_url": "https://sourcelibrary.org/book/6953ae9477f38f6761bd8256",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "PreisendanzK.AkephalosDerKopfloseGott"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:26.352Z",
+  "_hashes": {
+    "ocr": "b33429c2c8796fb8",
+    "translation": "43b506e3629c89d5"
+  }
+}

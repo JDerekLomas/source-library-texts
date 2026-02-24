@@ -1,0 +1,26 @@
+{
+  "id": "697c8e13b2d7ab5ea61a0d0c",
+  "title": "De fide et operibus liber unus",
+  "display_title": "De fide et operibus liber unus",
+  "author": "Augustinus, Aurelius",
+  "language": "Latin",
+  "year": 1528,
+  "published": "1528",
+  "pages_count": 70,
+  "pages_with_ocr": 70,
+  "pages_with_translation": 70,
+  "source_url": "https://sourcelibrary.org/book/697c8e13b2d7ab5ea61a0d0c",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:29.442Z",
+  "_hashes": {
+    "ocr": "1ecb22cdfd9dad28",
+    "translation": "5cca5e08496c196c"
+  }
+}

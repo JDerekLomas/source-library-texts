@@ -1,0 +1,28 @@
+{
+  "id": "69906d0664d44bd0a0ef50a1",
+  "title": "Muhurta Darpana",
+  "display_title": "Muhurta Darpana",
+  "author": "Unknown",
+  "language": "Sanskrit",
+  "year": null,
+  "published": "Unknown",
+  "pages_count": 70,
+  "pages_with_ocr": 70,
+  "pages_with_translation": 56,
+  "source_url": "https://sourcelibrary.org/book/69906d0664d44bd0a0ef50a1",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "muhurtadarpana-CGV-PSS-0151-0381"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:29.673Z",
+  "_hashes": {
+    "ocr": "28522b483dac3e71",
+    "translation": "1095796f8e794893"
+  }
+}

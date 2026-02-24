@@ -1,0 +1,1962 @@
+--- Page 1 ---
+<lang>zh</lang>
+
+# 新編直指算法統宗
+
+<vocab>新編, 直指, 算法統宗, 算學, 程大位, Suanfa Tongzong, mathematics, abacus</vocab>
+
+<detected-images>
+[{"description": "Printed title label with vertical calligraphic text on a traditional blue book cover", "type": "decorative", "bbox": {"x": 0.051, "y": 0.037, "width": 0.220, "height": 0.723}, "gallery_quality": 0.7, "museum_rationale": "Typical title slip for a traditional Chinese woodblock-printed book, identifying the famous mathematical work 'Suanfa Tongzong' (General Source of Computational Methods)."}]
+</detected-images>
+
+--- Page 2 ---
+<lang>zh</lang>
+<page-num>一</page-num>
+<header>算法統宗 卷七</header>
+
+# 新編直指算法統宗卷之七
+
+新安 賓渠程大位汝思甫 編集
+曾孫 素亭 光紳佩韋甫 較正
+懋廣 勉洪聲甫 泰閱
+
+---
+
+## 分田截積法
+
+### 直田截積歌
+
+> 直田截積法尤奇 截長積步濶除之
+> 截濶用長除且易 得其步數不須疑
+
+<margin>
+原截方田章因與圭梯等截積間隔不便觀覧今移此以統于一
+</margin>
+
+法曰若依原長截積則以原濶除之
+若依原濶截積則以原長除之
+
+<vocab>算法統宗, 程大位, 直田, 截積, 分田截積法</vocab>
+
+<detected-images>
+[{"description": "Decorative emblem or printer's mark positioned above the author names in the second column from the right.", "type": "decorative", "bbox": {"x": 0.816, "y": 0.749, "width": 0.08, "height": 0.07}, "gallery_quality": 0.3, "museum_rationale": "Standard decorative woodblock element used to separate or highlight text sections in Ming/Qing dynasty publications."}]
+</detected-images>
+
+--- Page 3 ---
+<lang>lzh</lang>
+<meta>image quality: clear woodblock print, traditional Chinese layout</meta>
+<vocab>直田, 截濶, 截積, 爲實, 法除之, 合問, 若干</vocab>
+
+# ○直田截濶○
+
+今有直田長四十八步濶四十步今依原長截積七百二
+十步問截濶若干
+答曰 濶一十五步
+
+<insert>
+**[Rectangular Field Diagram]**
+<margin>原長四十八步</margin>
+<margin>原濶四十步</margin>
+<margin>同前</margin>
+濶
+截積七百二十步
+濶一十五步
+</insert>
+
+法曰 置截積七百二十
+爲實 以原長四十八
+法除之 得截濶一十
+五步
+合問
+
+---
+
+今有直田長四十八步濶四十步今依原濶截積七百二
+十步問截長若干
+答曰 長一十八步
+
+<detected-images>
+[{"description": "A geometric diagram illustrating the division of a rectangular field (直田), with Chinese text labels indicating dimensions like 'Original Length 48 steps' (原長四十八步), 'Original Width 40 steps' (原濶四十步), and the cut area 'Cut Area 720 steps' (截積七百二十步).", "type": "diagram", "bbox": {"x": 0.322, "y": 0.108, "width": 0.325, "height": 0.345}, "gallery_quality": 0.75, "museum_rationale": "This is a representative example of pre-modern Chinese mathematical illustration from a woodblock-printed manual, showing the pedagogical style of traditional surveying and land measurement (Fangtian 應田/surveying methods)."}]
+</detected-images>
+
+--- Page 4 ---
+<lang>zh</lang>
+
+### 《直田截長》
+
+<margin>
+步四十
+原長四十八步
+原濶
+截長
+截積七百二十步
+</margin>
+
+法曰置截積七百二十步為實以原濶四十步為法除之得截長一十八步合問
+
+---
+
+今有方田一坵今從東南角截一直形積三十二步原要南邊濶四步問截東邊長若干
+
+答曰 截東長八步
+
+丙方 ### 《方內截直》
+
+<margin>
+南
+濶四步
+長八步
+截積三十二步
+</margin>
+
+法曰置截積三十二步為實以南濶四步為法除之得截東長八步合問
+
+若東長定數問截南濶就以長數為法而除截積
+
+---
+
+今有直田長一十五步濶一十二步今從東邊截積五十
+
+<vocab>直田, 截長, 截積, 實, 法, 濶, 合問, 方田, 截東長</vocab>
+
+<detected-images>
+[
+  {"description": "Geometric diagram of a rectangular field (直田) with a horizontal cut, showing labels for original dimensions and cut area.", "type": "diagram", "bbox": {"x": 0.648, "y": 0.103, "width": 0.237, "height": 0.284}, "gallery_quality": 0.75, "museum_rationale": "An excellent example of early modern Chinese mathematical pedagogy, illustrating geometric division with precise labels and clear structural lines."},
+  {"description": "Geometric diagram of a square field (方田) with a rectangular section cut from the corner, labeled with dimensions and area.", "type": "diagram", "bbox": {"x": 0.175, "y": 0.171, "width": 0.218, "height": 0.165}, "gallery_quality": 0.7, "museum_rationale": "A clear instructional diagram demonstrating area calculation and subdivision within a square field, typical of 17th-18th century Chinese mathematical texts."}
+]
+</detected-images>
+
+--- Page 5 ---
+<lang>lzh</lang>
+<header>算法統宗 卷七</header>
+<page-num>二</page-num>
+<vocab>算法統宗, 勾股, 直田, 實, 法, 截積</vocab>
+
+# 算法統宗 卷七
+
+四步六分北頭要濶四步問截南濶若干
+
+荅曰 截南頭濶三步
+
+---
+
+### 直田截斜
+
+<insert>
+南
+[ 矩形圖示 ]
+東   長十五步六分   西
+濶十二步
+北
+</insert>
+
+法曰置截積五十四步六分為<term>實</term>以原長一十五步六分為<term>法</term>除之得截濶三步五分此是二廣均勻之數加倍得七步減去北廣四步餘得截南廣三步是也
+
+又法倍截積得一百零九步二分為<term>實</term>以原長一十五步六分為<term>法</term>除之得共截濶七步減北廣四步餘得截南廣三步亦得
+
+今有直田長一十五步濶一十二步今從西北角截<term>勾股</term>形一段積三十一步五分原坐落西邊<term>股</term>長九步問截北
+
+<detected-images>
+[{"description": "A geometric diagram of a rectangular field (直田) with a diagonal division (截斜), labeled with cardinal directions (南, 北, 東, 西) and measurements (長十五步六分, 濶十二步).", "type": "diagram", "bbox": {"x": 0.383, "y": 0.118, "width": 0.312, "height": 0.276}, "gallery_quality": 0.8, "museum_rationale": "This is a classic example of early modern Chinese mathematical illustration from the 'Suanfa Tongzong', demonstrating the visual pedagogy of the 'Gou-gu' (Pythagorean) geometry and field partitioning."}]
+</detected-images>
+
+--- Page 6 ---
+<lang>zh-Hant</lang>
+<page-num>三</page-num>
+<sig>算法統宗 卷七</sig>
+<meta>Woodblock print from the "Suanfa Tongzong" (General Source of Computational Methods), a mathematical treatise by Cheng Dawei (1592). This page covers problems related to calculating the dimensions of rectangular (直田) and triangular (圭田) fields.</meta>
+
+邊勾濶若干
+
+->荅曰截北勾濶七步<-
+
+法曰置截積三十一<gloss>五分</gloss>倍之得六十三步以西股長九步爲法除之得截北勾濶七步合問
+
+---
+
+今有直田積一千九百二十步只云長六十步問濶若干
+
+->荅曰　濶三十二步<-
+
+法曰置積<insert>一千九百二十步</insert>爲實以長<insert>六十步</insert>爲法除之得濶
+
+若是只云濶<insert>三十二步</insert>問長若干　就以濶爲法除之得長
+
+---
+
+今有圭田積二百二十五步只云長三十步問濶若干
+
+->荅曰　濶一十五步<-
+
+<vocab>直田, 圭田, 積, 濶, 長, 勾, 股, 法, 實, 步, 算法統宗</vocab>
+
+<detected-images>
+[{"description": "Geometric diagram for land measurement calculation showing a rectangular area with a truncated or diagonal section, labeled with cardinal directions and side lengths.", "type": "diagram", "bbox": {"x": 0.576, "y": 0.113, "width": 0.228, "height": 0.287}, "gallery_quality": 0.8, "museum_rationale": "This is a significant historical example of mathematical visualization in early modern China, specifically from the influential 'Suanfa Tongzong'. It illustrates the application of geometry to land surveying and taxation."}]
+</detected-images>
+
+--- Page 7 ---
+<lang>zh-Hant</lang>
+<warning>The manuscript shows some ink bleeding and minor character wear, particularly in the smaller interlinear glosses.</warning>
+
+法曰置積倍之得<gloss>四百五十</gloss>為實以長為法除之得濶<gloss>十步</gloss>
+
+若問中長步數倍積為實以濶為法除之即得
+
+以上二款名曰忘長失短與直田截積意同
+
+今有勾股田長三十步濶一十五步今從尖截截長一十二步問中廣若干 荅曰截中廣六步
+
+---
+
+### 勾股截積
+
+與圭同理
+<gloss>股長三十步</gloss>
+<gloss>勾闊十五步</gloss>
+<gloss>其六步</gloss>
+
+法曰置截長<gloss>一十二步</gloss>以勾濶乘之得<gloss>一百八十</gloss>為實以股長為法除之
+
+又法置勾為實以股為法除之每股長一步得濶<gloss>五分</gloss>以乘截長亦得
+
+今有斜田南廣四步北廣一十二步長三十二步今從中截
+
+<vocab>勾股 (Right-angled triangle), 截積 (Sectioned area), 實 (Dividend), 法 (Divisor), 濶 (Width), 股 (Vertical side/base), 勾 (Horizontal side/base), 步 (Step/Pace)</vocab>
+
+<detected-images>
+[{"description": "Geometric diagram illustrating the sectioning (truncation) of a right-angled triangle (Gou Gu) to find the width at a specific length from the vertex.", "type": "diagram", "bbox": {"x": 195, "y": 145, "width": 240, "height": 215}, "gallery_quality": 0.8, "museum_rationale": "This diagram is a classic representation of traditional Chinese mathematics (Gou Gu geometry), demonstrating the application of proportional reasoning in solving field area problems."}]
+</detected-images>
+
+--- Page 8 ---
+<lang>zh</lang>
+<warning>Monochrome woodblock print; some characters are slightly blurred due to the printing process but remain legible.</warning>
+
+### 斜田截積
+
+與梯形同
+
+<insert>
+上廣四步
+截長
+長三十步
+下廣十二步
+</insert>
+
+腰廣六步問截南長若干　答曰截南頭長八步
+
+法曰置截中廣<gloss>六步</gloss>減上廣<gloss>四步</gloss>餘<gloss>二步</gloss>以乘長<gloss>三十步</gloss>得<gloss>六十步</gloss>為實却將南北二廣相減餘<gloss>八步</gloss>為法除之即得
+
+〇若截下長置下廣減中廣餘<gloss>六步</gloss>以乘原長得<gloss>一百九十二步</gloss>為實以上下二廣相減餘<gloss>八步</gloss>為法除之得截下長<gloss>二十四步</gloss>合問
+
+今截下長二十四步問截中廣若干　答曰六步
+
+法曰將下廣減去上廣<gloss>四步</gloss>餘<gloss>八步</gloss>為實以原長<gloss>三十步</gloss>為法除之每長一步得濶差<gloss>二分五厘</gloss>就以此為法以乘下長<gloss>二十四步</gloss>
+
+<vocab>斜田, 截積, 梯形, 廣, 長, 實, 法, 濶差, 步</vocab>
+
+<detected-images>
+[{"description": "A geometric diagram illustrating the division of a trapezoidal field (slanted field). It includes horizontal lines marking the 'cut' point and labels for various dimensions: upper width (上廣), lower width (下廣), total length (長), and the cut length (截長).", "type": "diagram", "bbox": {"x": 0.528, "y": 0.115, "width": 0.285, "height": 0.267}, "gallery_quality": 0.8, "museum_rationale": "A characteristic example of traditional Chinese mathematical visualization (suanshu), showing how algorithms for land surveying and partitioning were represented in printed manuals during the Ming or Qing dynasties."}]
+</detected-images>
+
+--- Page 9 ---
+<lang>Chinese</lang>
+<header>算法統宗 卷之七</header>
+<page-num>四</page-num>
+
+得濶差<gloss>六步</gloss>以減下濶<gloss>二十二步</gloss>餘<gloss>十六步</gloss>卽是中廣合問
+
+---
+
+今有梯田積一千五百步北廣四十步中長五十步問南
+廣若干
+
+->答曰南廣二十步<-
+
+法曰置積<gloss>一千五百步</gloss>倍之得<gloss>三千步</gloss>爲實以長<gloss>五十步</gloss>爲法除
+之得<gloss>六十步</gloss>於內減北廣<gloss>四十步</gloss>餘得南廣<gloss>二十步</gloss>合問
+
+---
+
+<insert>
+### 斜増為勾股
+上廣拾步
+下廣四步
+長一十二步
+股出八步
+共五十四步
+斜十五步
+</insert>
+
+原有斜田南廣四步北廣十步長一十二步今欲増作勾
+股樣式問股長出若干
+
+->答曰股長出八步<-
+
+法曰以南廣<gloss>四步</gloss>乘長<gloss>一十二步</gloss>爲實
+另以二廣相減餘<gloss>六步</gloss>爲法除之
+得出股長<gloss>八步</gloss>合問
+
+<vocab>梯田, 廣, 長, 積, 步, 實, 法, 勾股</vocab>
+
+<detected-images>
+[{"description": "A geometric diagram titled '斜增為勾股' illustrating the mathematical conversion of a trapezoidal field into a right-angled triangle, labeled with measurements in steps (步).", "type": "diagram", "bbox": {"x": 0.134, "y": 0.136, "width": 0.211, "height": 0.252}, "gallery_quality": 0.7, "museum_rationale": "This diagram is a characteristic example of early modern Chinese mathematical illustration, showing the visual methods used in surveying and geometry from the late Ming/early Qing dynasty."}]
+</detected-images>
+
+--- Page 10 ---
+<lang>zh-Hant</lang>
+<vocab>圭, 廣, 縱, 梯, 實, 法, 圭尖, 尖長</vocab>
+
+# 。圭求廣縱歌
+<margin>除圭尖即是梯而言之</margin>
+
+->梯求上廣出尖長    上廣乘縱法最高<-
+->却將上下廣相減    餘法除之免思量<-
+
+今有<gloss>上圭下梯</gloss>上廣一尺<gloss>六寸</gloss>下廣一十二尺<gloss>八寸</gloss>圭下正縱一十尺<gloss>零五寸</gloss>問圭尖長若干 答曰尖高長一尺五寸
+
+---
+
+### 圭求廣縱
+
+<note>A geometric diagram of a triangle (labeled as a 'gui' 圭) atop a trapezoid (梯), with internal horizontal division and labels indicating measurements for a height calculation.</note>
+
+法曰置正縱<gloss>一十尺五寸</gloss>以上廣<gloss>一尺六寸</gloss>乘之得<gloss>一十六尺八寸</gloss>為實另以下廣<gloss>一十二尺八寸</gloss>减上廣<gloss>一尺六寸</gloss>餘<gloss>一十一尺二寸</gloss>為法除之得圭尖長<gloss>一尺五寸</gloss>合問
+
+---
+
+# 圭求下廣歌
+
+<detected-images>
+[{"description": "A mathematical diagram illustrating a 'gui' (triangular/trapezoidal) shape calculation. It contains internal labels in traditional Chinese script and a horizontal line dividing the tip (圭尖) from the base (下廣).", "type": "diagram", "bbox": {"x": 0.21, "y": 0.14, "width": 0.25, "height": 0.21}, "gallery_quality": 0.7, "museum_rationale": "A characteristic example of Ming or Qing dynasty mathematical layout, showing the integration of mnemonic verses, word problems, and geometric diagrams for teaching purposes."}]
+</detected-images>
+
+--- Page 11 ---
+<lang>lzh</lang>
+<header>卷七</header>
+
+## 圭田若問梯下廣 圭梯併長不必想
+## 上廣乘長為實則 尖長法除卽下廣
+
+法曰置圭長併梯長共一十<gloss>二</gloss>尺以上廣一尺<gloss>五寸</gloss>乘之得<gloss>一十八</gloss>尺為實以尖長一十尺為法除之得下廣一尺八寸合問
+
+---
+
+# 圭求外梯長歌
+
+## 圭田欲問外梯長 下廣減去上廣良
+## 餘以圭長乘為實 上廣法除是梯長
+
+法曰以下廣一尺<gloss>八寸</gloss>減去上廣一尺<gloss>六寸</gloss>餘<gloss>二寸</gloss>以圭長一十尺乘之得<gloss>二</gloss>尺為實以上廣一尺<gloss>六寸</gloss>除之得梯正縱長<gloss>一尺二寸五分</gloss>合問
+
+<vocab>圭田, 梯, 上廣, 下廣, 尖長, 實, 法, 合問, 縱長</vocab>
+
+--- Page 12 ---
+<lang>zh-Hant</lang>
+<page-num>六</page-num>
+<header>算法統宗 卷七</header>
+<meta>Traditional Chinese mathematical text from Cheng Dawei's "Suanfa Tongzong" (1592). Vertical block print layout.</meta>
+
+# 圭求中廣歌
+
+->圭求中廣要思量 却用下廣乘尖長<-
+->正縱加入尖長數 為法除之中廣良<-
+
+法曰：置下廣一十二寸，以尖長一尺五寸乘之，得一十八寸為實；另以正縱一十尺，加入尖長一尺五寸，共一十一尺五寸為法，除之，得中廣一尺<unclear>五</unclear>寸<unclear>六</unclear>分<unclear>五</unclear>厘。合問。
+
+---
+
+> 假如三角形田一坵，三面各一十四步，今作三段，俱要四角。
+> 問長濶各若干？
+
+答曰：共積八十四步，三角各得二十八步。
+每各計長八步，濶七步。
+
+<vocab>圭, 中廣, 下廣, 尖長, 正縱, 法, 實, 步, 寸, 尺, 三角形田</vocab>
+
+--- Page 13 ---
+<lang>zh</lang>
+
+<header>三角截四角 直田截圭</header>
+
+# 三角截四角
+
+<margin>
+十四步
+十四步
+十四步
+中徑一十二步
+八步
+七步
+</margin>
+
+法曰置每面一十四因七歸八得中徑
+一十二步
+一易以每面一十四與徑一十二相乘
+得一百六十八步折半得積八十四為實以三
+段歸之各得二十八步却以每面折半得
+七步歸之得二倍之得中長八步合問
+
+---
+
+# 直田截圭
+
+今有直田長一十五步濶一十二步今依濶截圭積四十
+五步問截圭長若干
+
+<margin>
+長一十五步
+濶一十二步
+截圭積四十五步
+</margin>
+
+答曰圭長七步五分
+法曰置截積倍之得九十為實以濶
+一十二步為法除之即得
+其餘去梯等截法
+俱用圖列于左
+
+<vocab>直田, 圭, 濶, 中徑, 積, 實, 法, 歸, 折半</vocab>
+
+<detected-images>
+[
+  {"description": "Diagram of an equilateral triangle with annotated dimensions, showing height (中徑) and segment measurements.", "type": "diagram", "bbox": {"x": 0.582, "y": 149, "width": 0.267, "height": 0.178}, "gallery_quality": 0.8, "museum_rationale": "An excellent example of early Chinese geometric representation with annotations for side length and height calculations."},
+  {"description": "Diagram of a rectangle (直田) with a triangular cut (圭) inside, annotated with length, width, and area.", "type": "diagram", "bbox": {"x": 0.165, "y": 175, "width": 0.187, "height": 0.169}, "gallery_quality": 0.75, "museum_rationale": "Clear geometric diagram illustrating a mathematical word problem regarding area calculation."}
+]
+</detected-images>
+
+--- Page 14 ---
+<lang>zh</lang>
+
+## 圭田截積歌
+若作三段分者先截尖段下二段以作梯形截法
+
+圭田截積小頭知 倍積原長以乘之
+原濶歸除爲實積 開方便見截長宜
+仍以截長乘原濶 原長爲法以除之
+除來便見截濶數 法明簡易不須疑
+
+---
+
+今有圭田長七十五步北濶三十步今自尖頭截積四百
+零五步問截長濶各若干 答曰 <gloss>長四十五步 濶一十八步</gloss>
+
+法曰置截積四百零五步倍之得八百一十
+以原長七十五乘之得六萬零七百五十步以濶
+三十 除之得二千零二十五爲實以開平
+步
+
+---
+
+### 圭截小頭
+
+<margin>原中長七十五步</margin>
+<margin>原濶三十步</margin>
+<insert>
+原長七十五步
+原濶三十步
+截積四百零五步
+</insert>
+
+<vocab>圭田, 截積, 實積, 開方, 梯形, 原長, 原濶</vocab>
+
+<detected-images>
+[{"description": "A geometric diagram of a triangle (labeled '圭截小頭') representing a triangular field with annotated measurements for the original length, width, and a specific cut area section.", "type": "diagram", "bbox": {"x": 0.088, "y": 0.151, "width": 0.222, "height": 0.198}, "gallery_quality": 0.6, "museum_rationale": "Historical representation of geometric surveying and land division techniques from a classical Chinese mathematical text."}]
+</detected-images>
+
+--- Page 15 ---
+<lang>zh</lang>
+<page-num>七</page-num>
+<header>筭法彚編 卷七</header>
+<meta>catchword: 以</meta>
+
+---
+
+... 方法除之得截長四十步。就以原濶三十步乘之得一千三  
+步為實以原長七十五步為法除之得截濶一十八步合問。  
+
+# 今有勾股田股長四十步勾濶二十步今從大頭截積一  
+# 百七十五步問所截長濶各若干  
+
+## 勾股截積  
+
+<insert>
+股長四十步
+勾濶二十步
+與前法同法
+截積一百七十五步
+截濶一十五步
+</insert>
+
+> 答曰  
+> 截長十步  
+> 截上濶一十五步  
+
+法曰先將勾股相乘折半得積四百  
+減截積一百七十五步餘積二百二十五步以作主  
+
+## 田截積小頭知而等  
+
+〇 置小頭積二百二十五步倍作四百五十  
+以原長四十步乘之得一万八千以原濶二十步除之得九百  
+為實以開平方法除之得上尖長三十步。就以此為法以  
+
+---
+
+<vocab>筭法彚編, 勾股, 截積, 股, 勾, 實, 法, 開平方法, 步</vocab>
+
+<detected-images>
+[{"description": "A geometric diagram of a right-angled triangle (Gou-Gu) with internal annotations labeling its height, base, cut-off area, and remaining width, used to solve an area partitioning problem.", "type": "diagram", "bbox": {"x": 0.322, "y": 0.124, "width": 0.203, "height": 0.224}, "gallery_quality": 0.8, "museum_rationale": "This diagram is a classic representation of traditional Chinese mathematical visualization, specifically applied to the Gou-Gu theorem (Pythagorean theorem) and land surveying calculations."}]
+</detected-images>
+
+--- Page 16 ---
+<lang>zh</lang>
+<header>筭法統宗 卷七</header>
+<page-num>八</page-num>
+<meta>The text is from the "Suanfa Tongzong" (算法統宗), a 16th-century mathematical treatise by Cheng Dawei. The page features geometric calculations related to dividing triangular fields (圭田).</meta>
+
+除倍積<gloss>四百五十</gloss>得截濶一十<gloss>五</gloss>步。另將原長減去截長三十<gloss>五步餘得下長一十步合問</gloss>
+
+---
+
+# 今有圭田長七十五步北濶三十步今自北濶截積七百二十步問截長濶各若干
+
+荅曰 截下長三十步 濶一十八步
+
+->圭截大頭<-
+
+<margin>
+原中積<unclear>一千一百二十五</unclear>步
+</margin>
+<insert>
+**截長三十步**
+**截濶一十八步**
+</insert>
+
+又法置截積<gloss>七百二十步</gloss>倍之得<gloss>一千四百四十</gloss>步以原濶<gloss>三十步</gloss>乘之得<gloss>四萬三千二百步</gloss>為實以原長<gloss>七十五步</gloss>為法除之得<gloss>五百七十六步</gloss>再以北濶<gloss>三十步</gloss>自乘得<gloss>九百步</gloss>以減<gloss>五百七十六步餘</gloss>三百二十四步為實以開平方法除之得截濶<gloss>一十八步</gloss>併北廣<gloss>三十步</gloss>共<gloss>四十八步</gloss>折半得<gloss>二十四步</gloss>為法除截積<gloss>七百二十步</gloss>得截長三十合問
+
+<vocab>圭田, 截積, 原長, 北濶, 實, 法, 開平方法, 算法統宗</vocab>
+
+<detected-images>
+[{"description": "A mathematical diagram of a triangle (labeled 'Gui Tian' or triangular field) with horizontal lines indicating a cut ('Jie'), used for calculating the area of a trapezoidal segment.", "type": "diagram", "bbox": {"x": 344, "y": 128, "width": 226, "height": 218}, "gallery_quality": 0.7, "museum_rationale": "An original woodblock-printed mathematical diagram from the Ming/Qing dynasty, illustrating the practical application of geometry in land surveying as documented in Cheng Dawei's Suanfa Tongzong."}]
+</detected-images>
+
+--- Page 17 ---
+<lang>zh</lang>
+<meta>
+image quality: clear woodblock print
+catchwords: none
+</meta>
+
+原有直田一坵今從東北角截<gloss>勾股</gloss>形積三十八步七分二
+厘股與勾數相同問該若干　答曰<gloss>東北各八步八分</gloss>
+
+法曰置截積三十八步七分二厘倍得七十七
+步四分四厘為實以開平方法除之得截
+東北各八步八分合問
+若還原以勾股自乘折半即得
+
+---
+
+### 直田截勾股
+
+->南<-
+| | | |
+| :---: | :---: | :---: |
+| | <insert>截勾股各八步八分</insert> | |
+| **東** | [Diagram of rectangular field with a triangular section cut out] | **西** |
+| | | |
+->北<-
+
+---
+
+# 梯田截積歌
+
+<margin>梯斜截勾股具載十五卷</margin>
+
+> 梯田截積細端詳　倍積濶差乘是長
+> 却用原長為法則　歸除乘數實之行
+> 若截大頭田積步　大濶自乘減實當
+
+<vocab>直田, 勾股, 截積, 梯田, 開平方法, 步, 分, 厘, 濶, 實, 歸除</vocab>
+
+<detected-images>
+[{"description": "A geometric diagram of a rectangular plot of land (Zhitian) showing a right-angled triangle (Gougu) being partitioned from one corner. It includes cardinal direction markers and internal descriptive text regarding the dimensions of the cut.", "type": "diagram", "bbox": {"x": 420, "y": 140, "width": 260, "height": 230}, "gallery_quality": 0.7, "museum_rationale": "This diagram is a classic representation of traditional Chinese 'Gougu' (Pythagorean) geometry applied to land surveying and area calculation in historical mathematical treatises."}]
+</detected-images>
+
+--- Page 18 ---
+<lang>lzh</lang>
+<header>算法統宗 卷七</header>
+<page-num>九</page-num>
+
+# 若截小頭田積步
+
+| 若截小頭田積步 | 供用開方為截濶 | 折半數來為法則 |
+| :--- | :--- | :--- |
+| <gloss>小濶自乘併實傍</gloss> | <gloss>兩廣併來折半强</gloss> | <gloss>法除截積便知長</gloss> |
+
+---
+
+今有梯田長九十步南廣二十步北廣三十八步今自南邊小頭截積八百二十二步五分問截長濶各若干
+
+**答曰 截上長三十五步 截中濶二十七步**
+
+---
+
+### 梯截小頭
+
+<insert>
+**北濶三十八步**
+<margin>丙中長九十步</margin>
+**截長三十五步**
+**截中濶二十七步**
+**南濶二十步**
+</insert>
+
+**法曰**置截積八百二十二步五分倍之得一千六百四十五步以二廣相減餘一十八步為濶差以乘倍積得二萬九千六百一十步以原
+
+長九十步
+
+除之得三百二十九步
+
+另以小頭
+
+<vocab>算法統宗, 梯田, 截積, 濶, 廣, 開方, 步</vocab>
+
+<detected-images>
+[{"description": "A geometric diagram of a trapezoid (梯田) with dimensions labeled in Chinese characters, illustrating a problem of calculating the dimensions of a smaller portion ('梯截小頭') cut from the larger field.", "type": "diagram", "bbox": {"x": 0.125, "y": 0.128, "width": 0.285, "height": 0.282}, "gallery_quality": 0.85, "museum_rationale": "An excellent example of technical illustration from the Ming dynasty mathematical treatise 'Suanfa Tongzong' (Unified Treatise on Mathematical Methods) by Cheng Dawei."}]
+</detected-images>
+
+--- Page 19 ---
+<lang>zh</lang>
+<warning>The image quality is good, though some text on the far left edge of the page is partially truncated. Characters at the very bottom of the columns are occasionally slightly cut off.</warning>
+
+自乘得<gloss>四百步</gloss>併入<gloss>三百二十九步</gloss>共得<gloss>七百二十九步</gloss>為實以開平方
+
+法除之得截濶<gloss>二十七步</gloss>就以截濶<gloss>二十七步</gloss>併小頭原濶<gloss>二十步</gloss>
+
+其<gloss>四十七步</gloss>折半得<gloss>二十三步五分</gloss>為法以除截積<gloss>八百二十五步</gloss>得截
+
+長<gloss>三十五步</gloss>合問
+
+今有梯田長九十步小頭濶二十步大頭濶三十八步今
+
+自大頭截積一千七百八十七步五分問截長濶各若<unclear>干</unclear>
+
+荅曰 截下長五十五步 截中濶二十七步
+
+---
+
+# 梯截大頭
+
+<insert>
+小頭二十步
+截長三十五步
+大頭三十八步
+</insert>
+
+---
+
+法曰置截積倍之得<gloss>三千五百七十五步</gloss>以
+
+大小二濶相減餘<gloss>一十八步</gloss>為濶差以
+
+乘倍積得<gloss>六万四千三百五十步</gloss>以原長<gloss>九十</gloss>
+
+<vocab>梯田, 截積, 濶, 濶差, 折半, 為實, 開平方, 若干, 合問</vocab>
+
+<detected-images>
+[{"description": "A mathematical diagram showing a trapezoid with annotations for dimensions: '小頭二十步' (top width 20 steps), '截長三十五步' (cut length 35 steps), and '大頭三十八步' (bottom width 38 steps). The box is titled '梯截大頭'.", "type": "diagram", "bbox": {"x": 0.126, "y": 0.088, "width": 0.222, "height": 0.276}, "gallery_quality": 0.7, "museum_rationale": "An excellent example of traditional Chinese algorithmic geometry (suan-fa) applied to surveying and land measurement (terraced fields)."}]
+</detected-images>
+
+--- Page 20 ---
+<lang>zh</lang>
+<meta>image quality: clear woodblock print, traditional characters arranged in vertical columns</meta>
+<vocab>開平方法, 梯法, 截積, 濶, 步, 貞本, 少麼章, 實, 法</vocab>
+
+步除之得<gloss>七百一十五步</gloss>另以大濶<gloss>三十八步</gloss>自乘得<gloss>一千四百四十四步</gloss>減
+
+去<gloss>七百一十五步</gloss>餘<gloss>七百二十九步</gloss>為實以開平方法除之得<gloss>二十七步</gloss>為
+
+截中濶就以此濶<gloss>二十七步</gloss>併大頭原濶<gloss>三十八步</gloss>共得<gloss>六十五步</gloss>折
+
+半得<gloss>三十二步五分</gloss>為法以除截積<gloss>一千七百八十七步五分</gloss>得截長<gloss>五十五步</gloss>合問
+
+◯若作三段分者先截大小二頭長併中濶餘長即是中
+
+段數也
+
+或又作四五段分者亦先截去大小二頭長再將原
+
+長內減截去二頭長數餘長步數併截二段中廣復作
+
+梯法截之是也
+
+其斜形截法與梯形同理<gloss>如截東西兩傍積具載貞本難題少麼章中</gloss>
+
+--- Page 21 ---
+<lang>zh</lang>
+<header>算法統宗 卷七</header>
+<page-num>十</page-num>
+<meta>This page is from the 1592 mathematical treatise "Suanfa Tongzong" (Systematic Treatise on Arithmetic) by Cheng Dawei.</meta>
+
+# ○ 環田截積歌
+
+環田要截外周積，倍積二周差步乘。
+原徑為法除見數，另以外周周自乘。
+以少減多餘作實，開方便得內周成。
+二周相減餘零數，六而取一徑分明。
+
+---
+
+今有環田外周七十二步，內周二十四步，徑八步。今自外周截積二百八十五步，問截中周併徑若干。
+
+**答曰：** 中周四十二步，截徑五步。
+
+**法曰：** 置截積 <gloss>二百八十五步</gloss> 倍之，得 <gloss>五百七十步</gloss>。却以外周減內周。四十 <gloss>餘四十八步</gloss> 步為差步，以乘倍積 <gloss>五百七十</gloss> 得 <gloss>二萬七千三百六十步</gloss>。
+
+<vocab>算法統宗, 環田, 截積, 外周, 內周, 徑, 差步, 倍積, 開方</vocab>
+
+--- Page 22 ---
+<lang>zh</lang>
+<header>算法統宗</header>
+<sig>卷七</sig>
+<page-num>十一</page-num>
+<meta>image quality: clear; book title: Suanfa Tongzong (General Source of Computational Methods) by Cheng Dawei</meta>
+
+### 環截外周
+
+<insert>
+外周七十二步
+内周二十四步
+徑八步
+積九十九步
+</insert>
+
+### 環截内周
+
+<insert>
+外周七十二步
+中周四十二步
+内周二十四步
+徑三步
+</insert>
+
+---
+
+<margin>
+以餘積二百八<gloss>十五</gloss>步十二乘之得三千四
+百二十步又置外周七十二自乘得五千一百八
+十四步以小減多餘一千七百六
+十四步為實以開平方法除之得中周四十二
+步以減内周二十四步餘十八以六除之得徑三步合問
+</margin>
+
+**今有環田外周七十二步内周二十四步徑八步欲從内周截積九十九步問截中周併徑若干**
+
+->答曰中周四十二步 徑三步<-
+
+法曰先將内外二周併之折半以徑乘之得總積三百八<gloss>十四</gloss>步内減今截内積九十九步餘二百八<gloss>十五</gloss>步即是前截外周積也
+
+<vocab>環田, 外周, 内周, 徑, 截積, 中周, 開平方法, 算法統宗, 程大位</vocab>
+
+<detected-images>
+[
+  {"description": "Geometric diagram showing a ring-shaped field with annotations for outer circumference (72), inner circumference (24), and total width (8). It illustrates the problem of cutting a specific area (99) from the inner edge.", "type": "diagram", "bbox": {"x": 0.584, "y": 147, "width": 0.312, "height": 0.218}, "gallery_quality": 0.85, "museum_rationale": "A characteristic circular geometry diagram from a major Ming dynasty mathematical text, illustrating traditional Chinese surveying and area division methods."},
+  {"description": "Geometric diagram showing the solution to the ring area problem, featuring a middle circumference (42) and the resulting width (3) after the cut.", "type": "diagram", "bbox": {"x": 0.104, "y": 147, "width": 0.315, "height": 0.220}, "gallery_quality": 0.85, "museum_rationale": "Demonstrates the graphical representation of square root results and geometric segments in 16th-century Chinese mathematics."}
+]
+</detected-images>
+
+--- Page 23 ---
+<lang>zh</lang>
+<meta>image quality: good, woodblock print mathematical text, Classical Chinese</meta>
+
+今有圓田中徑一十三步今從邊截積三十二步問所截
+弦矢各若干    苔曰弦一十二步    矢四步
+
+# 圓田截積
+
+<insert>
+中徑一十三步
+截積三十二步
+</insert>
+
+法曰倍積得<gloss>六十四步</gloss>自乘得<gloss>四千九十六</gloss>步為實以四因積<gloss>三十二</gloss>得<gloss>一百二十八</gloss>步為上廉又以四因徑<gloss>一十三</gloss>步得<gloss>五十二</gloss>步為下廉以<gloss>五</gloss>為負隅用開三乘方
+
+法除之商<gloss>四</gloss>步于左上為法以乘上廉得<gloss>五百二十</gloss>就以商<gloss>四</gloss>乘隅<gloss>五</gloss>得<gloss>二十</gloss>以減下廉<gloss>五十二</gloss>步餘<gloss>三十二</gloss>另以商<gloss>四</gloss>自乘得<gloss>一十六</gloss>以乘下廉<gloss>三十二</gloss>得<gloss>五百一十二</gloss>併上廉<gloss>五百二十</gloss>共<gloss>一千三十二</gloss><gloss>今一千三十二</gloss>為下法除實得矢<gloss>四</gloss>另置積倍之得<gloss>六十四</gloss>以矢除之得<gloss>一十六</gloss><gloss>減矢四</gloss>餘得弦一十二合問
+
+<vocab>圓田, 截積, 弦, 矢, 中徑, 實, 上廉, 下廉, 負隅, 開三乘方, 商, 下法, 合問</vocab>
+
+<detected-images>
+[{"description": "A circular diagram representing a circular field with a segment cut off, containing text specifying the diameter (中徑) and the area of the segment (截積).", "type": "diagram", "bbox": {"x": 0.45, "y": 0.2, "width": 0.26, "height": 0.22}, "gallery_quality": 0.75, "museum_rationale": "An excellent example of traditional Chinese mathematical illustration, showing the geometric problem of calculating segment dimensions within a circle."}]
+</detected-images>
+
+--- Page 24 ---
+<lang>zh</lang>
+<header>算法統宗</header>
+<sig>卷七</sig>
+<page-num>十一</page-num>
+<meta>The text is a woodblock print from the "Suanfa Tongzong" (Algorithm Compendium) by Cheng Dawei. It describes a geometric problem involving the area of a circular segment (arc field).</meta>
+
+今有圓田徑二十六步今從傍截一弧矢積一百二十八
+步問截弦矢各若干 荅曰矢八步 弦二十四步
+法曰倍積自乘得六萬五千五百三十六步為實另以四因積得五百
+一十二步為上廉又以四因徑得一百零四步為下廉○以五為
+負隅法○商得八於左上為法以乘上廉得四千零九十六
+又以商八乘隅五得四十以減下廉餘六十四步另以商八自
+乘得六十四以乘餘下廉得四千零九十六併上廉其八千一百九
+十二為下法除實得矢步
+若問求弦法曰置積倍之得二百五十六以矢八除之得三十
+二於內減矢八步餘得弦二十四步合問
+
+<vocab>圓田, 弧, 矢, 弦, 積, 實, 上廉, 下廉, 負隅, 商, 算法統宗</vocab>
+
+--- Page 25 ---
+<lang>zh</lang>
+<page-num>未知</page-num>
+<meta>image quality: clear woodblock print; catchwords: none</meta>
+
+# 弧矢內股弦求勾圖
+
+---
+
+<margin>相乘界數也</margin>
+**圓徑與截矢求截弦歌**
+
+> 圓徑與矢求弧弦　半徑自乘立一邊
+> 另以半徑減去矢　餘亦自乘減却前
+> 又餘平方開見數　倍之名即是弧弦
+
+---
+
+| 圓徑十寸 | 弧矢濶一寸 | 問 |
+| :--- | :--- | :--- |
+| **截弦若干** | | |
+
+**答曰　弦六寸**
+
+**法曰**：置半徑五寸為弦，自乘得二十五。另以半徑五寸減矢一寸，餘四寸為股，自乘得一十六。相減餘九寸，平方開之，得三寸為勾，倍之得六寸，即為截弧弦。
+
+<margin>即自二句相併為共餘皆做此</margin>
+**又法**：以圓徑自乘得一百寸為弦界，另以圓徑減矢二寸，餘八寸自乘得六十四寸為股。并相減餘三十六寸為勾，平方開之，得弦六寸。
+
+<vocab>弧矢, 股, 弦, 勾, 圓徑, 矢, 平方開, 截弦, 半徑</vocab>
+
+<detected-images>
+[{"description": "A geometric diagram depicting a circle with internal grids and a right-angled triangle labeled with mathematical terms: sagitta (矢), base (勾), leg (股), and chord/hypotenuse (弦). Key dimensions are labeled: Full diameter (全徑) 10 inches, Radius (半徑) 5 inches, Sagitta (矢) 1 inch, Leg (股) 4 inches, and Base (勾) 3 inches.", "type": "diagram", "bbox": {"x": 307, "y": 210, "width": 435, "height": 300}, "gallery_quality": 0.8, "museum_rationale": "This is a significant historical example of traditional Chinese mathematics (Gou-Gu theorem application) visualized within a circle, illustrating the relationship between an arc's sagitta and its chord."}]
+</detected-images>
+
+--- Page 26 ---
+<lang>lzh</lang>
+<page-num>十七</page-num>
+<meta>The text is a mathematical treatise on circle geometry, specifically the "Arc and Sagitta" (弧矢) method. The page contains a diagram and accompanying text explaining how to calculate the base (股) and sagitta (矢) given the diameter and chord.</meta>
+
+# 弧矢丙勾弦求股圖
+
+<margin>
+弧矢
+十七
+</margin>
+
+| 圓徑與截弦求截矢歌 | |
+| :--- | :--- |
+| 圓徑與弦求截矢 | 半徑為弦自乘是 |
+| 弧弦折半名為勾 | 亦自乘之相減矣 |
+| 餘用開方得股數 | 半徑減股餘者矢 |
+
+---
+
+-> 圓徑十寸弧弦八寸問 <-
+
+**答曰**：矢二寸
+
+**法曰**：以半徑五寸為勾股之弦，另以弧弦八寸折半得四為勾。各自乘相減，餘得九寸，平方面之得三寸，以為股。半徑五寸減股三寸，餘二寸即矢。
+
+○ 圓徑與截弦求截弧背，截弦求背同。
+**術曰**：先求出弦徑，除矢，昇得半弦背差。
+
+**解曰**：圓之大小本於弧背之長短，係于圓之大小與矢之多寡。假如半圓十寸，平分一半，則矢長五寸，自乘得二十五寸。以徑除之，得二寸五分為半弦背差，倍之得五寸，加入圓徑得一十五寸為半圓周。故不論圓之大小、矢之多少寡，皆準也。
+
+<vocab>弧矢, 勾, 股, 弦, 矢, 圓徑, 開方, 弦背差</vocab>
+
+<detected-images>
+[{"description": "Geometric diagram of a circle inscribed with a right-angled triangle to illustrate the relationship between the radius, half-chord (勾), and the distance from center to chord (股). The sagitta (矢) is shown as the segment of the radius beyond the chord.", "type": "diagram", "bbox": {"x": 0.283, "y": 204, "width": 0.428, "height": 0.288}, "gallery_quality": 0.7, "museum_rationale": "This diagram is a clear representation of traditional Chinese 'Gougu' (Pythagorean) geometry applied to circular segments, typical of Ming and Qing dynasty mathematical texts."}]
+</detected-images>
+
+--- Page 27 ---
+<lang>zh</lang>
+
+# 弧矢求積積求弦矢圖
+
+<insert>
+**圖內標註：**
+- 共徑二十六步
+- 離徑五步
+- 弦二十四步
+- 矢闊八步
+</insert>
+
+<margin>原在雜題少廣章中无圖今共圖之干此便人目矣</margin>
+
+> ◯一段田禾之外東邊延有荒坵離邊五步繫頭牛只爲繩長遊走踐跡五步如同弧矢弦疇索長多少是根由演立天源窮究
+
+->右調西江月<-
+
+**解題** 弧矢田積一百二十八步離徑五步問矢濶弦長各若干
+
+| 答曰 | 索長一十三步 | 弧周二十八步有奇 | 矢濶八步 | 離徑五步 | 弧弦二十四步 | 園徑二十六步 |
+|:---|:---|:---|:---|:---|:---|:---|
+| **法曰** | 置積一百二十八步爲實另以此 | 數倍之得二百五十六步以開平方法 | 除之得一十六步爲法除實得矢八 | | | |
+
+<vocab>弧矢, 天源, 西江月, 矢, 弦, 徑, 積, 少廣章, 索長, 離徑</vocab>
+
+<detected-images>
+[{"description": "A mathematical diagram showing a circular segment (segment of a circle) with labeled geometric components including the total diameter (26 steps), distance from the center/diameter (5 steps), chord length (24 steps), and sagitta or 'arrow' height (8 steps).", "type": "diagram", "bbox": {"x": 0.038, "y": 0.088, "width": 0.465, "height": 0.278}, "gallery_quality": 0.8, "museum_rationale": "This is a classic representation of traditional Chinese 'Tian Yuan Shu' (Celestial Origin Algebra) geometry, illustrating the relationship between circular segments and area calculation."}]
+</detected-images>
+
+--- Page 28 ---
+<lang>zh</lang>
+<page-num>十四</page-num>
+<sig>卷七</sig>
+<meta>Woodblock print, mathematical text regarding arc and chord (弧矢) calculations. Vertical layout from right to left.</meta>
+
+加法<gloss>十二</gloss>共<gloss>二十四</gloss>步是弦長折半得<gloss>一十二</gloss>步自乘得<gloss>一百四十四</gloss>步為
+
+實以矢<gloss>八步</gloss>為法除之得<gloss>一十八</gloss>步加矢<gloss>八步</gloss>共得圖徑<gloss>二十六</gloss>步<insert>若</insert>
+
+問索長以矢<gloss>八步</gloss>加離邊<gloss>五步</gloss>乃是索長<gloss>一十三</gloss>步合問
+
+### 弧矢求積歌
+
+弧矢求積弧矢形　　　丈量之法証分明
+
+弧矢弦長併矢步　　　半之又用矢相乘
+
+法曰置弦<gloss>二十四</gloss>步併矢<gloss>八步</gloss>共<gloss>三十二</gloss>步折半得<gloss>一十六</gloss>步以矢<gloss>八步</gloss>乘
+
+之得積<gloss>一百二十八</gloss>步
+
+### 積求弧弦歌
+
+弧矢之積求弧弦　　　倍積以矢除為先
+
+<vocab>弧矢 (Arc and chord), 矢 (Sagitta), 弦 (Chord), 積 (Area), 圖徑 (Diameter), 步 (Step/Unit of measurement)</vocab>
+
+--- Page 29 ---
+<lang>zh</lang>
+<warning>The image shows some ink smudging and character fading, particularly in the lower portions of the columns, but the text remains largely legible.</warning>
+
+除求之數減去矢　餘存此即是弧弦
+
+法曰置積一百二<gloss>十八</gloss>倍之得二百五<gloss>十六</gloss>為實以矢八步為法除之得三十<gloss>二</gloss>減矢八步餘得弧弦二十四步
+
+### 積求矢濶歌
+
+> 積求矢濶倍為實　弦為縱方莫教遲
+> 商於左位右併縱　前後呼除矢得宜
+
+法曰置積一百二<gloss>十八</gloss>倍得二百五<gloss>十六</gloss>為實以弦二十<gloss>四</gloss>於右為縱方〇約商八步于左亦置商八步于右縱方二十<gloss>四</gloss>之下共三<gloss>十</gloss>二皆與上商<insert>八</insert>相呼三八除實二百<gloss>四十</gloss>二八除實<gloss>一</gloss>十六恰盡得矢<gloss>八步</gloss>
+
+<vocab>矢, 弦, 積, 縱方, 商, 實, 法, 弧弦, 濶</vocab>
+
+--- Page 30 ---
+<lang>zh</lang>
+<page-num>七</page-num>
+<header>弦矢求</header>
+<meta>Vertical text in traditional Chinese, woodblock print style. Mathematical text concerning circle geometry.</meta>
+
+# 弦矢求圓徑併離徑歌
+
+弦矢求圓徑可推 <gloss>半弦自乘矢除之</gloss>
+<gloss>再加上矢濶爲圓徑</gloss> <gloss>半之減矢餘無疑</gloss>
+法曰置弦<gloss>二十步</gloss>折半得<gloss>一十步</gloss>自乘得<gloss>一百步</gloss>爲實以矢
+<gloss>八步</gloss>爲法除之得<gloss>一十二步</gloss>再加矢濶<gloss>八步</gloss>得圓徑<gloss>二十步</gloss>復折半
+得<gloss>一十步</gloss>減矢<gloss>八步</gloss>餘爲離徑<gloss>二步</gloss>
+
+---
+
+# 圓徑及弧徑求離徑併矢濶歌
+
+徑弦求離徑矢濶 <gloss>圓徑弧弦各折半</gloss>
+各自乘減餘開方 <gloss>離徑圓徑弧矢辦</gloss>
+法曰置圓徑<gloss>二十步</gloss>折半得<gloss>一十步</gloss>自乘得一百
+
+<vocab>弦, 矢, 圓徑, 離徑, 濶, 實, 法, 步</vocab>
+
+--- Page 31 ---
+<lang>lzh</lang>
+<header>算法統宗卷之三</header>
+<page-num>一十一</page-num>
+
+弦二十<gloss>四步</gloss>折半得一十<gloss>二步</gloss>自乘得一百<gloss>四十四步</gloss>二數相減餘二十<gloss>五步</gloss>
+以開平方法除之得離徑五<gloss>步</gloss>另以圓徑二十<gloss>六步</gloss>折半得一十
+三<gloss>步</gloss>減離徑五<gloss>步</gloss>餘為矢八<gloss>步</gloss>
+
+---
+
+### 圓徑及矢濶求弧弦歌
+
+> 圓徑矢濶亦弧弦 圓徑矢濶減餘存
+> 復以矢濶乘為實 開方倍之得弧弦
+
+法曰置徑二十<gloss>六步</gloss>減矢八<gloss>步</gloss>餘一十<gloss>八步</gloss>以矢八<gloss>步</gloss>乘之得一百<gloss>四十四步</gloss>
+以開平方法除之得一十<gloss>二步</gloss>倍之得弧弦二十<gloss>四步</gloss>
+
+---
+
+### 弧弦及離徑求圓徑歌
+
+> 弧弦離徑求圓徑 弧弦折半自相乘
+
+---
+
+<vocab>算法統宗, 弧弦, 離徑, 圓徑, 矢濶, 矢, 弦, 開平方法, 乘, 自乘, 折半</vocab>
+
+--- Page 32 ---
+<lang>zh</lang>
+<page-num>十六</page-num>
+<meta>Woodblock print from the "Suanfa Tongzong" (算法統宗), Volume 7 (卷之七). This page details geometric calculations involving chords, diameters, and the distance from the center (sagitta/apothem).</meta>
+
+-> 離徑自乘併爲實　　開方倍數爲圓徑 <-
+
+法曰置弦<gloss>二十四步</gloss>折半得<gloss>一十二步</gloss>自乘得<gloss>一百四十四步</gloss>以離徑<gloss>五步</gloss>自乘得<gloss>二十五步</gloss>相併得<gloss>一百六十九步</gloss>爲實以開平方法除之得<gloss>一十三步</gloss>倍之得<gloss>二十六步</gloss>爲圓徑
+
+---
+
+### 圓徑及離徑求弧弦歌
+
+-> 圓徑離徑求弧弦　　圓徑折半自相乘 <-
+-> 離徑自乘減餘實　　開方倍得弧弦成 <-
+
+法曰置圓徑<gloss>二十六步</gloss>折半得<gloss>一十三步</gloss>自乘得<gloss>一百六十九步</gloss>以離徑<gloss>五步</gloss>自乘得<gloss>二十五步</gloss>相減餘<gloss>一百四十四步</gloss>爲實以開平方法除之得<gloss>一十二步</gloss>倍之得弧弦<gloss>二十四步</gloss>
+
+<vocab>離徑, 圓徑, 弧弦, 實, 開平方法, 算法統宗, 步</vocab>
+
+--- Page 33 ---
+<lang>zh</lang>
+<header>新編直指算法統宗卷之七</header>
+<meta>image quality: clear woodblock print; calligraphy style: stylized regular script and ornamental title script</meta>
+
+# 少廣章第十一
+
+## 新編直指算法統宗卷之七
+
+解曰弧矢狀類勾股勾股得直方之半故倍其積以股
+除之即得勾弧背曲倍積則長一弦而又一矢以矢乘
+積倍之恰得一弦以矢為上廉兩度乘徑以為下廉併之
+為法而後可以得矢用法三乘者何也積本平方以積乘
+積是兩度平方矣故用三乘方法開之上下廉與
+四因者何也倍積則乘出之數為積者四故上下廉俱
+四以法之減徑者亦減徑以求矢之全徑乃截處之勾
+矢本減徑而得故亦減徑以求矢五為隅者何也凡
+平圓之積得平方四分之一在內者七五在外者二五
+不拘圓之大小每方一尺該濶二寸五分其矢得四
+其處偶得一合而為五亦性實就法之意亦通
+如不倍積廉不用四因以一五為隅法亦通
+或不減徑作添積三乘方法亦通
+
+<vocab>弧矢, 勾股, 矢, 弦, 徑, 積, 三乘方, 上廉, 下廉, 隅, 少廣</vocab>
+
+<detected-images>
+[{"description": "Decorative calligraphic title for 'Chapter 11: Shao Guang' (少廣章第十一) in a stylized ornamental script.", "type": "decorative", "bbox": {"x": 0.183, "y": 0.302, "width": 0.118, "height": 0.455}, "gallery_quality": 0.85, "museum_rationale": "Displays an exceptional example of decorative ornamental script used for chapter headings in Ming dynasty scientific woodblock editions. This calligraphic style is intended to mark significant structural divisions in the treatise."}]
+</detected-images>
+
+--- Page 34 ---
+<lang>lzh</lang>
+<meta>Woodblock print, Traditional Chinese mathematical text from "Suanfa Tongzong" (新編直指算法統宗, 1592) by Cheng Dawei. This page contains the opening of Chapter 5, "Shang Gong" (Engineering Works/Mensuration).</meta>
+
+# 新編直指算法統宗卷之八
+
+新安 賓渠程大位汝思父 編集
+
+曾孫 <gloss>紫亭 光紳 佩章 甫</gloss> 校正
+
+<gloss>藕齋 幼洪 聲甫</gloss> 參閱
+
+---
+
+## 商功第五章
+
+> 商度也。商量用力之法也。此章以堅壤之率求穿地之實以
+> 廣濶高深求城塹溝渠之積以車担往來求程途負載之功。
+
+### 商功歌 <gloss>即修築</gloss>
+
+商功須要問工程
+長濶相乘深又乘
+乘此數來以為實
+每日工程為法行
+唯以築城別一樣
+上下將來折半平
+
+<vocab>算法統宗, 程大位, 商功, 城塹, 溝渠, 工程, 修築, 堅壤</vocab>
+
+--- Page 35 ---
+<lang>zh</lang>
+<meta>Title: 算法統宗 (Suanfa Tongzong), Juan 8 (卷八). Author: Cheng Dawei (程大位). This page details mathematical rules for earthwork volumes (digging, loose vs. packed soil ratios) and architectural structures like walls and platforms.</meta>
+
+## 算法統宗卷八
+
+高以乘之廣又續<gloss>又以長乘之</gloss>以爲城積甚分明
+
+五因其積三而一 此是堅求壤法行
+
+穿地五因爲壤積 法中仍用四歸成
+
+穿地 四尺爲壤五尺 爲堅三尺 <gloss>壤是虚土也 堅是実土也</gloss>
+
+穿地 求壤<gloss>因五</gloss> 求堅<gloss>因三</gloss> 皆四歸之
+
+壤地 求穿<gloss>因四</gloss> 求堅<gloss>因三</gloss> 皆五歸之
+
+堅地 求穿<gloss>因四</gloss> 求壤<gloss>因五</gloss> 皆三歸之
+
+城垣堤溝求積併上下廣折半以高深乘之又以長乘之得積
+
+方臺求積上方自乘下方自乘另以上下方相乘併之
+
+<vocab>算法統宗, 穿地, 壤, 堅, 城垣, 堤溝, 方臺, 因, 歸, 求積</vocab>
+
+--- Page 36 ---
+<lang>lzh</lang>
+<meta>image quality: clear woodblock print, traditional Chinese layout (right-to-left columns)</meta>
+
+又以高乘再以三歸之　如方窖　<gloss>芻童．倍上長</gloss>
+
+加下長以上廣乘　〇又倍下長加上長以下廣乘．
+
+併二數以高乘又以六歸之
+
+圓臺求積上周自乘下周自乘上下周相乘併之又以
+
+高乘再用三十六除　如圓窖　圓錐　下周自乘
+
+又以高乘再用三十六除　如尖堆
+
+方錐求積下方自乘以高乘之又三歸之　如圭形<gloss>下方上尖</gloss>
+
+方垜求積以方自乘又以高乘之　如方倉　方枉
+
+圓垜求積以周自乘又以高乘用十二除之　如圓倉
+
+圓枉
+
+<vocab>芻童, 圓臺, 圓錐, 方錐, 方垜, 圓垜, 方枉, 圓枉, 求積, 歸之, 自乘</vocab>
+
+--- Page 37 ---
+<lang>zh</lang>
+<page-num>二</page-num>
+<header>第廿<unclear>一</unclear> 卷 <unclear>三</unclear></header>
+<warning>The right edge of the page is partially cut off and faded, obscuring some characters in the first column and the running header.</warning>
+
+### 芻甍
+
+<margin>如屋脊上斜下平</margin>
+
+<margin>
+義除併三廣以深乘之用六歸之
+<insert>上平下尖或倍上長加下長</insert>
+</margin>
+
+**芻甍**倍下長加上長以廣乘之又以高乘用六歸之．
+
+---
+
+假如今有堅地積七千五百尺問穿地壤土各若干
+答曰　穿地一萬尺　壤土一萬二千五百尺
+
+法曰置堅地積以五因三歸之爲壤土積另置壤土積以四因五歸之得穿地積合問
+
+---
+
+今有開河長七千五百五十尺上廣五十四尺下廣四十尺深一十二尺每日一工開三百尺問用工若干
+答曰　一萬四千一百九十四工
+
+<vocab>芻甍, 堅地積, 壤土積, 穿地積, 廣, 深, 因, 歸</vocab>
+
+--- Page 38 ---
+<lang>zh</lang>
+<header>算法統宗 卷八</header>
+<page-num>三</page-num>
+<meta>This page is from the "Suanfa Tongzong" (算法統宗, 1592), a seminal mathematical treatise by Cheng Dawei. It demonstrates calculations for civil engineering, specifically for digging canals (穿渠) and estimating the required labor (人夫).</meta>
+
+法曰併上下廣折半得<gloss>四十七尺</gloss>以深<gloss>一十二尺</gloss>乘之得<gloss>五百六十四尺</gloss>
+又以長乘之得積<gloss>八百四十六萬尺</gloss>爲實以每工<gloss>尺</gloss><gloss>三百</gloss>爲
+法除之即得
+
+---
+
+今有穿渠上廣二丈四尺下廣二丈一尺深九尺長三千
+八百四十尺每用人夫一十二名日開積六百尺問該人
+夫若干
+
+荅曰 一萬五千五百五十二名
+
+法曰併兩廣共得<gloss>四十五尺</gloss>折半得<gloss>二十二尺五寸</gloss>以深<gloss>九尺</gloss>乘之得
+<gloss>二百令二尺五寸</gloss>又以長乘之得<gloss>七十七萬七千六百尺</gloss>爲積又以人夫
+一十二名乘之得<gloss>九百三十三萬一千二百尺</gloss>爲實却以<gloss>六百尺</gloss>爲法除之
+
+<vocab>算法統宗, 穿渠, 上廣, 下廣, 人夫, 實, 法, 折半, 併, 乘, 除</vocab>
+
+<detected-images>
+[{"description": "A decorative 'fish-tail' (魚尾) woodcut ornament used as a divider and marker in the center fold of the traditional Chinese woodblock binding.", "type": "decorative", "bbox": {"x": 0.057, "y": 0.275, "width": 0.071, "height": 0.041}, "gallery_quality": 0.3, "museum_rationale": "A standard functional element of Ming-dynasty book design, indicating where the page should be folded for binding."}]
+</detected-images>
+
+--- Page 39 ---
+<lang>Chinese</lang>
+<meta>Woodblock printed page of a mathematical treatise, possibly from a work like the "Suanfa Tongzong" (General Source of Computational Methods). The text describes an arithmetic problem regarding excavation and a rhyming formula for volume calculation.</meta>
+
+今有開濠上廣七尺下廣九尺深四尺長一千八百尺每
+人日穿一百四十四尺今用人夫二百名問幾日畢
+
+答曰 二日開畢
+
+法曰併上下廣折半得<gloss>八尺</gloss>以深<gloss>四尺</gloss>乘之得<gloss>三十二尺</gloss>又以長
+乘之得<gloss>五萬七千六百尺</gloss>為實另置人<gloss>二百</gloss>以每人<gloss>一百四十四尺</gloss>乘之
+得<gloss>二萬八千八百尺</gloss>為法除之合問
+
+---
+
+### ○ 筑臺歌
+
+> 筑臺丈尺要推詳
+> 上長倍之加下長
+> 上廣乘之別列位
+> 另倍下長加上長
+> 仍以下廣乘見數
+> 二數其併積相當
+
+<vocab>開濠, 實, 法, 筑臺, 丈尺, 乘, 除, 併積</vocab>
+
+--- Page 40 ---
+<lang>zh-Hant</lang>
+<meta>image quality: very clear woodblock print, vertical layout, Traditional Chinese characters</meta>
+
+原高乘併積爲實　六歸實數積如常
+
+今有築直臺一所上廣八尺長二丈下廣一丈八尺長三
+丈高一丈八尺問積若干
+
+->答曰　六千尺<-
+
+法曰倍上長得<gloss>四十尺</gloss>加下長共<gloss>七十尺</gloss>以上廣八乘之得
+<gloss>五百六十尺</gloss>另倍下長得<gloss>六十尺</gloss>加上長二十共<gloss>八十尺</gloss>以下廣
+<gloss>一丈八尺</gloss>乘之得<gloss>一千四百四十尺</gloss>併二數共<gloss>二千尺</gloss>以高<gloss>一丈八尺</gloss>乘之
+得<gloss>三萬六千尺</gloss>以六歸之合問
+
+今有築方臺上方六尺下方八尺高一十二尺問積若干
+
+->答曰　五千九百二十尺<-
+
+<vocab>築直臺, 築方臺, 上廣, 下廣, 長, 丈, 尺, 問積, 答曰, 法曰, 六歸, 實, 併, 乘</vocab>
+
+--- Page 41 ---
+<lang>zh</lang>
+<page-num>四</page-num>
+<header>算法統宗</header>
+<sig>卷八</sig>
+
+法曰依方窖法以上方<gloss>六尺</gloss>自乘得<gloss>三十六尺</gloss>下方<gloss>八尺</gloss>自乘得<gloss>六十四尺</gloss>又以上方乘下方得<gloss>四十八尺</gloss>併三數共<gloss>一百四十八尺</gloss>以高<gloss>一十二尺</gloss>乘之得<gloss>一千七百七十六尺</gloss>以三歸之合問
+
+○一法依築臺歌倍上方加下方共<gloss>二十尺</gloss>以上方乘之得<gloss>一百二十尺</gloss>另倍下方加上方<gloss>共二十二尺</gloss>以下方乘之得<gloss>一百七十六尺</gloss>併二數共<gloss>二百九十六尺</gloss>以高<gloss>一十二尺</gloss>乘之得<gloss>三千五百五十二尺</gloss>以六歸之亦得
+
+---
+
+今有圓臺上周一十八尺下周二十四尺高一十二尺問
+積若干
+
+答曰 四百四十四尺
+
+<vocab>算法統宗, 方窖法, 築臺歌, 圓臺, 積, 自乘, 歸, 尺</vocab>
+
+<detected-images>
+[{"description": "Decorative printer's signature block containing the text '卷八' (Volume 8), presented in white characters on a black rectangular background.", "type": "decorative", "bbox": {"x": 0.864, "y": 0.297, "width": 0.057, "height": 0.100}, "gallery_quality": 0.3, "museum_rationale": "Standard functional woodblock printer's mark used to indicate volume numbering in classical Chinese book layout."}]
+</detected-images>
+
+--- Page 42 ---
+<lang>zh</lang>
+<meta>vertical-columns: 11; woodblock-print; possible source: math treatise (Jiuzhang Suanshu or similar)</meta>
+
+法曰置上周自乘得三百二<gloss>十四尺</gloss>以下周自乘得五百七<gloss>十六尺</gloss>
+以上下二周相乘得四百三<gloss>十二尺</gloss>併三數共一千三百三<gloss>十二尺</gloss>以高
+一十二尺乘之得一萬五千九<gloss>百八十四尺</gloss>為實以圓率三十六除之 <note>合問此如圓等</note>
+
+---
+
+### 今有立錐高三十二尺下方二十四尺問積若干
+
+答曰 六千一百四十四尺
+
+法曰置下方自乘得五百七<gloss>十六尺</gloss>以高乘之得一萬八千四<gloss>百三十二尺</gloss>
+為實以三歸之合問
+
+---
+
+### 今有圓錐高三十二尺下周七十二尺問積若干
+
+答曰 四千六百零八尺
+
+法曰置下周自乘得五千一百八<gloss>十四尺</gloss>再以高三十<gloss>二尺</gloss>乘之得十
+<warning>Page cut off at left edge</warning>
+六<unclear>萬五千八百八十八尺為實以三十六除之</unclear>
+
+<vocab>立錐 (square pyramid), 圓錐 (cone), 高 (height), 下方 (base side length), 下周 (base circumference), 積 (volume), 法曰 (the method says), 答曰 (the answer says), 圓率 (pi-related ratio, here used as 36 for circumference-based cone formulas), 歸 (divide), 實 (dividend), 併 (sum/combine), 乘 (multiply)</vocab>
+
+--- Page 43 ---
+<lang>zh</lang>
+<header>算法統宗 卷八</header>
+<page-num>五</page-num>
+
+六萬五千八百八十八尺為實以圓率三十六尺除之得積合問
+
+---
+
+# 算法統宗
+## 卷八
+
+### 築墻截高問今上廣歌
+
+->上下原廣數相減　　餘用今高數相乘<-
+->原高為法除為積　　積減下廣上廣存<-
+
+假如原築墻上廣一尺下廣三尺高一十二尺今已築高九尺問上廣若干
+
+**答曰：一尺五寸**
+
+法曰將原下廣<gloss>三尺</gloss>減原上廣<gloss>一尺</gloss>餘<gloss>二尺</gloss>以今築高<gloss>九尺</gloss>乘之得<gloss>一十八尺</gloss>為實以原高<gloss>一丈二尺</gloss>為法除之得<gloss>一尺五寸</gloss>却於原下廣<gloss>三尺</gloss>减去<gloss>一尺五寸</gloss>餘得今築上廣合問
+
+<vocab>算法統宗, 築墻, 實, 法, 廣, 乘, 除</vocab>
+
+--- Page 44 ---
+<lang>zh</lang>
+<meta>image quality: clear woodblock print with some ink bleed-through from the reverse side; historical mathematical text, likely a version of "Suanfa Tongzong" (General Source of Computational Methods).</meta>
+
+○一法将原下廣<gloss>三尺</gloss>減原上廣<gloss>一尺</gloss>餘<gloss>二尺</gloss>另以原高<gloss>一丈二尺</gloss>内減今高<gloss>九尺</gloss>餘<gloss>三尺</gloss>以乘<gloss>二尺</gloss>得<gloss>六尺</gloss>爲實以原高<gloss>一丈二尺</gloss>爲法除之得<gloss>五寸</gloss>加原上廣<gloss>一尺</gloss>共<gloss>一尺五寸</gloss>亦得
+
+---
+
+原築墻上廣一尺下廣三尺高一丈二尺今欲築高一丈五尺問上廣若干
+
+苓曰　上廣五寸
+
+法曰置原下廣<gloss>三尺</gloss>減原上廣<gloss>一尺</gloss>餘<gloss>二尺</gloss>另以原高<gloss>一丈二尺</gloss>減今高<gloss>一丈五尺</gloss>餘<gloss>三尺</gloss>以乘<gloss>二尺</gloss>得<gloss>六尺</gloss>爲實以原高<gloss>一丈二尺</gloss>爲法除之得<gloss>五寸</gloss>以減原上廣<gloss>一尺</gloss>餘<gloss>五寸</gloss>爲今上廣合問
+
+---
+
+○築墻截下廣問今高歌　　即是截去下節
+
+<vocab>築墻 (wall building), 廣 (width), 高 (height), 丈/尺/寸 (units of length: zhang/chi/cun), 實 (dividend), 法 (divisor), 苓曰 (Answer says), 法曰 (Method says)</vocab>
+
+--- Page 45 ---
+<lang>zh-Hant</lang>
+<header>算法綂宗卷八</header>
+<page-num>二</page-num>
+
+原今下廣數相減　　徐以原高乘為實
+原下廣減原上廣　　餘為法除高數是
+
+---
+
+原築墻上廣一尺下廣四尺高一十二尺今只築下廣二尺一寸問今高若干
+
+->答曰　七尺六寸<-
+
+法曰置原下廣<gloss>四尺</gloss>減今築下廣<gloss>二尺一寸</gloss>餘<gloss>一尺九寸</gloss>以原高<gloss>一十二尺</gloss>乘之得<gloss>二十二尺八寸</gloss>為實另以原下廣<gloss>四尺</gloss>減原上廣<gloss>一尺</gloss>餘<gloss>三尺</gloss>為法除之合問
+
+---
+
+原築墻上廣二尺下廣六尺高二丈今已築上廣三尺六寸問今築高若干
+
+<vocab>算法綂宗, 廣, 高, 實, 法, 丈, 尺, 寸, 乘, 除, 墻, 餘</vocab>
+
+--- Page 46 ---
+<lang>zh</lang>
+
+答曰 一丈二尺
+
+法曰置原下廣<gloss>六尺</gloss>內減去今築上廣<gloss>三尺六寸</gloss>餘<gloss>二尺四寸</gloss>以原高<gloss>二十尺</gloss>乘之得<gloss>四十八尺</gloss>為實另以原下廣<gloss>六尺</gloss>減原上廣<gloss>二尺</gloss>餘<gloss>四尺</gloss>為法除之得今高合問
+
+---
+
+原築墻上廣十尺下廣三十尺高四十尺今欲築上廣九尺問接高若干
+
+答曰 二尺
+
+法曰置原高<gloss>四十尺</gloss>為實另以原上廣<gloss>十尺</gloss>減原下廣<gloss>三十尺</gloss>餘<gloss>二十尺</gloss>除之得<gloss>二尺</gloss>又為實以今欲築上廣<gloss>九尺</gloss>減原上廣<gloss>十尺</gloss>餘<gloss>一尺</gloss>為法除之得接高<gloss>二尺</gloss>合問
+
+<vocab>原築墻, 廣, 高, 實, 法, 除, 合問, 丈, 尺, 寸</vocab>
+
+--- Page 47 ---
+<lang>zh</lang>
+<page-num>七</page-num>
+<header>算法統宗 卷八</header>
+
+### 〇築方錐丈尺今改作方臺歌
+
+->今上方與原高乘  便為實積數分明<-
+->原下方教宜為法  法除實積截高成<-
+
+原築方錐下方二十四尺高三十二尺今改作方臺只用
+上方六尺問截去高若干
+
+**答曰** 截去高八尺
+
+法曰置原高<gloss>三十二尺</gloss>以今只用上方<gloss>六尺</gloss>乘之得<gloss>一百九十二尺</gloss>為
+實以下方<gloss>二十四尺</gloss>為法除之得截去高<gloss>八尺</gloss>合問
+
+---
+
+原有方錐下方二十四尺高三十二尺今改作方臺已築
+高二十四尺問今上方若干
+
+<vocab>算法統宗, 築方錐, 方臺, 截去高, 實, 法, 乘, 除</vocab>
+
+--- Page 48 ---
+<lang>zh</lang>
+
+答曰 六尺
+
+法曰置原高內減今高<gloss>二十四尺</gloss>餘<term>戩</term>去<gloss>八尺</gloss>以乘下方<gloss>二十四尺</gloss>
+得<gloss>一百九十二尺</gloss>爲實以原高爲法除之得上方合問
+
+---
+
+原有<term>方錐</term>下方二十四尺高三十二尺今改作<term>方臺</term>只用
+上方六尺問今高若干
+
+答曰 二丈四尺
+
+法曰置原下方<gloss>二十四尺</gloss>內減今上方<gloss>六尺</gloss>餘<gloss>一十八尺</gloss>以原高<gloss>三十二</gloss>
+<gloss>尺</gloss>乘之得<gloss>五百七十六尺</gloss>爲實以原下方<gloss>二十四尺</gloss>爲法除之得今
+高<gloss>二十四尺</gloss>合問
+
+---
+
+### 〇築方臺丈尺今改作方錐問接高歌
+
+<vocab>方錐, 方臺, 實, 法, 乘, 除, 丈, 尺, 合問, 戩</vocab>
+
+--- Page 49 ---
+<lang>lzh</lang>
+<page-num>八</page-num>
+<header>算法統宗 卷八</header>
+
+# 算法統宗 <insert>卷八</insert>
+
+> 上方與高乘為實
+> 下方內減上方餘
+> 餘積為法除實數
+> 便見接高今丈尺
+
+---
+
+原方臺上方六尺下方二十四尺高二十四尺今改作方錐問接高若干
+
+->答曰 接高八尺<-
+
+**法曰**置原高二十四尺乘原上方六尺得一百四十四為實另以原下方二十四尺內減原上方六尺餘一十八尺為法除之得接高八尺
+
+**合問**
+
+---
+
+原有圓錐下周七十二尺高三十二尺今改作圓臺只用上周一十八尺問今築高若干
+
+<vocab>算法統宗, 方臺, 方錐, 圓錐, 圓臺, 接高, 實, 法, 餘積, 上方, 下方</vocab>
+
+--- Page 50 ---
+<lang>zh</lang>
+<meta>This page appears to be from a woodblock-printed mathematical treatise, likely concerning geometry and engineering (specifically "Song of Dike Building"). The text utilizes standard algorithmic terminology (實 dividend, 法 divisor) to solve problems involving the dimensions of a cone (圓錐) and a circular frustum (圓臺).</meta>
+
+荅曰　二十四尺
+
+法曰置原下周七十二尺內減今用上周一十八尺<gloss>餘五十四尺</gloss>以原高三十二尺乘之得<gloss>一千七百二十八尺</gloss>為實以原下周七十二尺為法除之得今高<gloss>二十四尺</gloss>合問
+
+---
+
+原有圓錐下周七十二尺高三十二尺今改作圓臺已築高二十四尺問今上周若干
+
+荅曰　一十八尺
+
+法曰置原高三十二尺減今高二十四尺<gloss>餘八尺</gloss>以乘原下周七十二尺得<gloss>五百七十六尺</gloss>以原高為法除之合問
+
+---
+
+# 築堤歌
+
+<vocab>圓錐, 圓臺, 下周, 上周, 實, 法, 築堤歌</vocab>
+
+--- Page 51 ---
+<lang>zh</lang>
+<header>算法新宗 卷之五</header>
+
+# 築堤之法
+
+| | |
+| :--- | :--- |
+| 築堤之法最難曉 | 東高倍之加西高 |
+| 上下廣併乘折半 | 西高另倍加東高 |
+| 上下廣併仍乘折 | 二折數併共相交 |
+| 却用原長乘爲實 | 五歸其實積無饒 |
+
+---
+
+今築堤一所東頭上廣八尺下廣一十四尺高九尺西頭上廣二十尺下廣二十二尺高二十一尺東至西長九十六尺問積若干
+
+**荅曰二萬八千八百尺**
+
+法曰以東高<gloss>九尺</gloss>倍之得<gloss>一十八尺</gloss>加西高<gloss>二十一尺</gloss>其<gloss>三十九尺</gloss>却以東頭上下廣併之其<gloss>二十二尺</gloss>乘之得<gloss>八百五十八尺</gloss>折半得<gloss>四百二十九尺</gloss>
+
+<vocab>算法新宗, 築堤, 廣, 乘, 折半, 五歸, 積</vocab>
+
+--- Page 52 ---
+<lang>zh</lang>
+<warning>Low resolution makes some small interlinear glosses difficult to decipher; readings are based on mathematical context.</warning>
+
+九次以西高倍之加東高共五十尺却以西頭上下廣併
+尺共四十乘之得二千一百折半得一千<gloss>五十</gloss>二數相併
+共一千五<gloss>百</gloss>再以長九十<gloss>尺</gloss>乘之得一十四萬<gloss>四千</gloss>尺為實以五歸
+之得積合問
+
+---
+
+今有甲乙二人開渠甲日開積四百尺乙日開積三百五
+十尺先甲開七十日後令乙開問幾日與甲同
+
+->答曰 八十日<-
+
+法曰置甲開七十<gloss>日</gloss>以每日<gloss>甲開</gloss>四百乘得二萬八<gloss>千尺</gloss>為實却以
+乙日開<gloss>積</gloss>三百五<gloss>十尺</gloss>為法除之得八十日纔與甲同數
+
+---
+
+今有人快行者日行九十五里慢行者日行七十五里今
+
+<vocab>開渠, 實, 法, 歸, 積, 乘, 除, 併, 折半</vocab>
+
+--- Page 53 ---
+<lang>zh</lang>
+<page-num>十</page-num>
+<header>算法統宗 卷八</header>
+
+今慢行者先行八日問快行者幾日趕至追及之行路
+程各若干
+
+答曰 快行者三十日 慢行者多八日
+路程二千八百五十里
+
+法曰置慢行者日行<gloss>七十五</gloss>以<gloss>八</gloss>乘之得<gloss>六百</gloss>為實却以
+快行減慢行餘<gloss>二十里</gloss>為法除之即得
+
+---
+
+今有慢行者已去七日後令快行者趕去六日追至中途
+及之其路程已一千一百七十里問快慢各每日行若<unclear>干</unclear>
+
+答曰 快者日行一百九十五里
+慢者日行九十里
+
+<vocab>算法統宗, 卷八, 慢行者, 快行者, 追及, 路程, 里</vocab>
+
+<detected-images>
+[{"description": "Decorative woodcut divider between the title '算法統宗' and the volume number '卷八'.", "type": "decorative", "bbox": {"x": 0.86, "y": 0.27, "width": 0.08, "height": 0.03}, "gallery_quality": 0.3, "museum_rationale": "Small functional printer's ornament used as a divider in classical Chinese book layout."}]
+</detected-images>
+
+--- Page 54 ---
+<lang>zh</lang>
+<page-num>十一</page-num>
+<header>算法統宗 卷八</header>
+<meta>image quality: excellent; woodblock print from the 1592 edition of Suanfa Tongzong</meta>
+
+法曰置總<gloss>一千一百四十</gloss>為實以<gloss>六</gloss>為法除之得快者日行
+一百九十里另將先行<gloss>七日</gloss>併後趕<gloss>六日</gloss>共<gloss>一十三日</gloss>為法除總<gloss>一千
+三百九十一</gloss>里得慢行<gloss>一百七</gloss>里數合問
+
+---
+
+今有甲乙二人行步不等甲日行八十里乙日行四十八
+里令乙先行二百四十里甲纔發步追之問幾里可及
+
+<margin>
+甲七日半
+乙十二日半
+</margin>
+
+->答曰 六百里<-
+
+法曰置先行<gloss>二百四十</gloss>以甲日行<gloss>八十</gloss>乘之得<gloss>一万九千
+二百</gloss>里以甲乙日行里數相減餘<gloss>三十二里</gloss>為法除之合問
+
+---
+
+今有人盜馬乗去已去三十七里馬主方覺追去一百四
+十五里不及二十三里仍後追之問幾里可及
+
+<vocab>算法統宗, 實, 法, 卷八, 合問, 甲乙, 盜馬, 里</vocab>
+
+--- Page 55 ---
+<warning>Woodblock print with some ink bleeding and slight character crowding in the mathematical methods.</warning>
+
+<lang>lzh</lang>
+
+答曰　二百三十八里　一十四分里之三
+
+法曰置不及二十三里以馬主追去一百四十五里乘之得三千三百三十五為實另置已行三十里減去不及一十六里餘一十四里為法除實二百三十八不盡三以法約之
+
+---
+
+今有大都路至杭州四千二百七十五里馬從大都往南日行一百二十里船從杭州往北日行七十里問船馬幾日相會各行若干
+
+答曰　二十二日半
+<gloss>馬行二千七百里</gloss>
+<gloss>船行一千五百七十五里</gloss>
+
+法曰置四千二百七十五里為實却併船馬日行共一百九十為法除之得二十二日半又以商各以原行里數乘之得各行數
+
+<vocab>二百三十八里, 一十四分里之三, 馬主, 三千三百三十五, 大都路, 杭州, 相會, 二十二日半, 馬行, 船行, 併, 商, 里數</vocab>
+
+--- Page 56 ---
+<lang>lzh</lang>
+<meta>The text is a page from a traditional Chinese mathematical treatise, likely dealing with arithmetic problems related to proportions and work rates (similar to the Suanfa Tongzong). It features two distinct word problems: one concerning agricultural labor and another regarding textile production.</meta>
+<sig>上</sig>
+
+原有一夫日耘田七畝一夫日耕三畝一夫日種五畝今
+令一夫自耕自種問治田若干
+
+答曰 一畝四分七厘 七十一分之六十三
+
+法曰以田爲分母夫爲分子以母互乘子列分母分子
+之位 <gloss>七畝 一夫</gloss> <gloss>三畝 一夫</gloss> <gloss>五畝 一夫</gloss> 先以七乘三得二十一又以五
+乘之得一百五<gloss>畝</gloss> 爲實又以七乘三得二十一又以三乘五
+得一十五又以五乘七得三十五併之得七十一爲法除實得
+一<gloss>畝</gloss>四<gloss>分</gloss>七<gloss>厘</gloss>不盡六十三以法命之
+
+---
+
+原有三女各納錦一方長女五日完中女七日完小女九
+日完今令三女共納錦一方何日可畢
+
+<vocab>耘田, 耕, 種, 治田, 實, 法, 納錦, 分母, 分子</vocab>
+
+--- Page 57 ---
+<lang>zh-Hant</lang>
+<header>算法新宗 卷二</header>
+<page-num>三</page-num>
+
+答曰 二日 一百四十三分日之二十九
+
+法曰 以日爲分母方爲分子以三母相乘先以五乘七得三十五 又以九乘之得三百一十五爲<term>實</term>以母互乘子法
+
+| 五日 | 七日 | 九日 |
+| :--- | :--- | :--- |
+| 長女 | 中女 | 小女 |
+
+先以五乘七得三十五 又以七乘九得六十三 次以九乘五得四十五 併之得一百四十三日爲<term>法</term>除<term>實</term>得二日不盡二十九以法命之
+
+---
+
+# 堆垛歌
+
+金瓶堆垛要推詳　底脚先將濶減長
+餘數折來添半箇　併入長內濶乘長
+再將濶搭一乘實　以三除之數相當
+
+<vocab>算法新宗, 實, 法, 堆垛, 金瓶, 長女, 中女, 小女, 濶, 搭</vocab>
+
+<detected-images>
+[{"description": "Small circular decorative emblem (woodcut) with a stylized floral or cloud motif, serving as a section marker for the 'Stacking Song' (堆垛歌).", "type": "emblem", "bbox": {"x": 0.345, "y": 0.115, "width": 0.051, "height": 0.045}, "gallery_quality": 0.4, "museum_rationale": "A typical decorative element and section header common in early modern Chinese technical and mathematical woodblock publications."}]
+</detected-images>
+
+--- Page 58 ---
+<lang>zh-Hant</lang>
+<header>算法統宗</header>
+<sig>卷八</sig>
+<page-num>三</page-num>
+<meta>Vertical text, woodblock print, Ming dynasty mathematical treatise</meta>
+
+一面尖堆只添一　乘來折半積如常
+
+三角果垛亦堪知　脚底先求箇數齊
+
+一二添來乘兩遍　六而取一不差池
+
+要知四角盤中果　添半仍添一箇隨
+
+乘此數來以為實　如三而一法求之
+
+---
+
+今有酒瓶一垛底脚濶八箇長一十三箇問該積若干
+
+　答曰　三百八十四箇
+
+法曰置長內减濶餘<gloss>五箇</gloss>折半得<gloss>二箇半</gloss>添半作<gloss>三箇</gloss>併入長共<gloss>一十六箇</gloss>以底脚<gloss>八箇</gloss>因之得<gloss>一百二十八箇</gloss>另以濶<gloss>八箇</gloss>添一作<gloss>九箇</gloss>乘之得<gloss>一千一百五十二箇</gloss>以三除之合問
+
+<vocab>算法統宗, 尖堆, 三角果垛, 四角盤, 酒瓶, 積, 法曰, 因, 折半</vocab>
+
+--- Page 59 ---
+<lang>lzh</lang>
+<meta>vertical layout, woodblock print, catchwords, interlinear annotations</meta>
+<vocab>尖堆, 平堆, 底脚, 濶, 積, 實, 法, 折半, 合問</vocab>
+
+### 今有物靠壁一面尖堆底脚濶一十八箇問積若干
+
+答曰 一百七十一箇
+
+法曰置濶<gloss>一十八箇</gloss>爲實另以<gloss>一箇</gloss>加頂<gloss>一箇</gloss>共<gloss>一十九箇</gloss>爲法乘
+之得<gloss>三百四十二箇</gloss>折半即得
+
+---
+
+### 今有物一面平堆底脚濶七箇上濶三箇問積若干
+
+答曰 二十五箇
+
+法曰置底脚<gloss>七箇</gloss>減去上濶<gloss>三箇</gloss>餘<gloss>四箇</gloss>加<gloss>一箇</gloss>共<gloss>五箇</gloss>爲法乃是
+五層也另併上下濶共得<gloss>十箇</gloss>爲實以法<gloss>五</gloss>乘之得<gloss>五十箇</gloss>
+折半得<gloss>二十五箇</gloss>合問
+
+圖式具左
+
+--- Page 60 ---
+<lang>zh</lang>
+<meta>Woodblock print of a mathematical text, likely a manual on practical arithmetic (piling/stacking problems). Good clarity.</meta>
+
+### 一面平堆圖
+形如梯
+<gloss>此是一面尖堆 無上三箇者</gloss>
+
+---
+
+用梯形法併上下數爲實以上高數爲法乘之折半得積其平堆底數即適尖堆高二却减去上二層即平堆高五層也
+
+---
+
+### 一面尖堆圖
+形如圭
+
+---
+
+借梯田法置底數併入上一爲實以底數爲法乘之折半得積其尖堆底脚濶數即是高數同
+
+---
+
+->右二圖用法權變便人易曉故立此以倣其餘<-
+
+---
+
+今有三角果一垜底濶每面七箇問該若干
+
+荅曰 八十四箇
+
+法曰置底濶<gloss>七箇</gloss>另以<gloss>七箇</gloss>添<gloss>一箇</gloss>共<gloss>八箇</gloss>相乘得<gloss>五十六</gloss>又以<gloss>七</gloss>添<gloss>二</gloss>其<gloss>九</gloss>乘<gloss>五十六</gloss>得<gloss>五百四</gloss>令爲實以六歸之合問
+
+<vocab>三角果, 垜, 濶, 實, 法, 歸, 梯形, 圭, 積, 折半</vocab>
+
+<detected-images>
+[
+  {"description": "A trapezoidal pile of dots illustrating a 'flat pile' calculation.", "type": "diagram", "bbox": {"x": 0.575, "y": 145, "width": 0.23, "height": 0.12}, "gallery_quality": 0.7, "museum_rationale": "Clear educational diagram of geometric stacking in traditional Chinese mathematics, specifically showing a truncated triangular number."},
+  {"description": "A triangular pile of dots illustrating a 'pointed pile' calculation.", "type": "diagram", "bbox": {"x": 0.575, "y": 0.535, "width": 0.23, "height": 0.16}, "gallery_quality": 0.7, "museum_rationale": "Classic representation of triangular numbers in a counting context within a historical mathematical manual."}
+]
+</detected-images>
+
+--- Page 61 ---
+<lang>zh</lang>
+<page-num>二十四</page-num>
+<header>算灋綂宗 卷八</header>
+
+# 今有三角牛堆果一垛每面上濶五箇底濶一十二箇問
+### 該若干
+
+->答曰 三百四十四箇<-
+
+---
+
+### 法曰
+亦用三角法先以底濶<gloss>一十二箇</gloss>求出全積<gloss>三百六十四</gloss>另以上尖虚底濶<gloss>四箇</gloss>求出虚積<gloss>二十</gloss>以减全積餘牛堆積<gloss>三百四十四</gloss>
+
+---
+
+### 一法
+上濶<gloss>五</gloss>自乘得<gloss>二十五</gloss>下法<gloss>一十二</gloss>自乘得<gloss>一百四十四</gloss>上濶五乘下濶<gloss>一十二</gloss>得<gloss>六十</gloss>又倍下濶得<gloss>二十四</gloss>加上濶<gloss>五</gloss>得<gloss>二十九</gloss>併四數共<gloss>二百五十八</gloss>爲實另以下濶<gloss>一十二</gloss>减上濶<gloss>五</gloss>餘<gloss>七</gloss>加一得高<gloss>八</gloss>爲法乘實得<gloss>二千六十四</gloss>以六除之合問
+
+<vocab>三角牛堆, 上濶, 底濶, 全積, 虚積, 算灋綂宗</vocab>
+
+--- Page 62 ---
+<lang>zh</lang>
+<sig>二十七</sig>
+<vocab>尖堆, 底濶, 堆垛, 乘, 歸, 除, 横面, 正面</vocab>
+
+# 今有物四面尖堆底濶一十二箇問該若干
+
+答曰 六百五十箇
+
+法曰置底濶<gloss>一十二箇</gloss>另以<gloss>一</gloss>加<gloss>一十二箇</gloss>共<gloss>一十三箇</gloss>乘之得<gloss>一百五十六箇</gloss>又以<gloss>一十二</gloss>加<gloss>半箇</gloss>共<gloss>一十二箇半</gloss>乘<gloss>一百五十六箇</gloss>得<gloss>一千九百五十箇</gloss>以三歸之即得
+
+---
+
+# 今有物一堆横面下濶十箇上濶一箇<gloss>半</gloss>正面下濶一十二箇上濶三箇高一十問該若干
+
+答曰 四百九十五箇
+
+法曰置正面下濶<gloss>一十二箇</gloss>倍之得<gloss>二十四</gloss>加上廣<gloss>三箇</gloss>共<gloss>二十七</gloss>以横面下廣<gloss>一十</gloss>乘之得<gloss>二百七十</gloss>另置正面上廣<gloss>三箇</gloss>倍之得<gloss>六箇</gloss>加上下廣<gloss>一十二箇</gloss>共<gloss>一十八</gloss>以横面上廣<gloss>一箇半</gloss>乘之得<gloss>二十七</gloss>併入<gloss>二百七十</gloss>得<gloss>二百九十七</gloss>又以高<gloss>一十</gloss>乘之得<gloss>二千九百七十</gloss>以六除之即得
+
+--- Page 63 ---
+<lang>zh</lang>
+<page-num>三</page-num>
+<header>算法統宗 卷八</header>
+<meta>image quality: clear woodblock print; catchword: none</meta>
+
+# 牛堆歌
+
+->牛堆瓶法另推詳  上長倍之加下長<-
+->却用上濶乘見數  下長仍倍加上長<-
+->別以下濶乘見積  下長另減上頭長<-
+->餘存三位同相併  再以高乘為實長<-
+->要知其積從何見  六而取一積該當<-
+
+---
+
+今有牛堆酒瓶一棧上長二十五箇濶一十二箇下長三
+十箇濶一十七箇高六箇問積若干
+
+答曰 該瓶二千四百一十箇
+
+法曰 倍上長加下長以上濶乘之得九百<gloss>六十</gloss>又倍下長加
+
+<vocab>算法統宗, 牛堆歌, 積, 濶, 實長, 酒瓶, 棧</vocab>
+
+--- Page 64 ---
+<lang>zh</lang>
+<meta>
+image quality: clear block-printed text
+</meta>
+
+上長以下濶乘之得<gloss>一千四百</gloss>併之得<gloss>二千四百</gloss>又以下
+長減去上長餘<gloss>五</gloss>併入其得<gloss>二千四百</gloss>以高乘之得<gloss>一萬四千</gloss>
+<gloss>四百</gloss>為實以<gloss>六</gloss>為法除之即得
+
+今有磚一堆長三丈高九尺入深四尺每塊長一尺濶五
+寸厚二寸問共該若干
+
+答曰 一萬零八百塊
+
+法曰置長<gloss>三丈</gloss>為實以每塊<gloss>一尺</gloss>為法歸之得<gloss>三十塊</gloss>另以
+高<gloss>九尺</gloss>以每塊濶<gloss>五寸</gloss>歸之得<gloss>一十八塊</gloss>乘之得<gloss>五百四十塊</gloss>又以入
+深<gloss>四尺</gloss>乘之合問
+
+## 挑土計方歌
+
+每一方長濶各一丈高一尺 <gloss>開塘法同</gloss>
+
+<vocab>上長, 下濶, 乘, 磚, 丈, 尺, 寸, 實, 法, 除, 歸, 挑土計方歌, 開塘法同</vocab>
+
+<detected-images>
+[{"description": "Decorative vertical border ornament along the left edge of the page.", "type": "decorative", "bbox": {"x": 0.055, "y": 0.103, "width": 0.091, "height": 0.222}, "gallery_quality": 0.3, "museum_rationale": "Standard block-printed geometric floral border used as a page ornament in traditional Chinese publishing."}]
+</detected-images>
+
+--- Page 65 ---
+<lang>zh</lang>
+<page-num>十六</page-num>
+<header>算法統宗 卷八</header>
+
+# 算法統宗 卷八
+
+->東西併折半 南北亦如斯<-
+->互乘為實位 濶數再乘之<-
+
+今有田內闢土挑泥填基東六丈五尺西七丈五尺南八丈北九丈深二尺問取泥該方數若干
+
+**荅曰** 一百一十九方
+
+**法曰** 置東<gloss>六丈五尺</gloss>併西<gloss>七丈五尺</gloss>共一<gloss>十</gloss>四丈折半得七丈又以南<gloss>八</gloss>併北<gloss>九</gloss>共一十七丈折半得八丈五尺相乘得五<gloss>十</gloss>九丈五尺又以深二<gloss>尺</gloss>乘之得一百一十九方合問
+
+---
+
+## ○量木捆西江月
+
+<margin>捆法不一 一名一</margin>
+<margin>封書一名方捆</margin>
+<margin>濶潤各倍相乘如濶</margin>
+
+捆有封書模樣
+
+<vocab>算法統宗, 闢土, 挑泥, 方, 西江月, 封書, 方捆</vocab>
+
+<detected-images>
+[{"description": "Decorative woodcut corner ornament marking the beginning of the 'Measuring Wood Bundles' section.", "type": "decorative", "bbox": {"x": 0.175, "y": 0.085, "width": 0.076, "height": 0.057}, "gallery_quality": 0.5, "museum_rationale": "A standard examples of decorative woodblock motifs used in late imperial Chinese technical manuals to visually separate distinct chapters or sections."}]
+</detected-images>
+
+--- Page 66 ---
+<lang>zh</lang>
+<page-num>十七</page-num>
+<header>算法統宗 卷八</header>
+<meta>image quality: clear; vertical layout woodblock print; text continues to next page; signature "十七" at bottom left</meta>
+
+假若干俱各加倍以五寸丈五除長再乘行如長若干
+爲一根卽是爲倍法也 如一封書相混濶長俱乘
+之一丈五尺除書梱加濶爲定訖又照原深若干加之是
+也方梱須知加濶如方梱深濶長俱乘訖又 荒濶三折
+倍成又名荒排者與前二形卽以濶三濶長皆是照前
+因隄荒排濶亦倍之與三歸濶者三折一加有準但荒
+濶長俱乘訖亦照前丈五除者相乘三
+濶三歸而一加之
+
+---
+
+# 今有一封書梱濶七尺五寸濶四丈七尺長九丈問木若干
+
+## 答曰 一萬四千八百零五根
+
+## 法曰 置濶七尺五寸以每尺二計之得一百五十根卽倍法也又以
+濶四丈七尺倍作九十四根相乘得一千四百<gloss>一十</gloss>爲實另置長九丈以
+
+<vocab>算法統宗, 倍法, 荒排, 實, 梱, 書梱, 丈, 尺, 寸</vocab>
+
+--- Page 67 ---
+<lang>lzh</lang>
+
+每根長 <gloss>一丈五尺</gloss> 除之得 <gloss>六</gloss> 根為法乘實得八千四百又以澴 <gloss>七尺</gloss>
+<gloss>五</gloss> 寸加之或用十七五乘亦可合問
+
+---
+
+### 今有方梱澴七尺潤五丈長九丈問木若干
+
+> 答曰　八千四百根
+
+法曰置澴 <gloss>七尺</gloss> 倍作 <gloss>一十四</gloss> 根又以潤 <gloss>五丈</gloss> 亦倍作 <gloss>一百</gloss> 根相乘得
+<gloss>一千四百</gloss> 為實另置長 <gloss>九丈</gloss> 以 <gloss>一丈五尺</gloss> 除之得 <gloss>六</gloss> 根為法乘實得
+<gloss>八千四百</gloss> 又以澴 <gloss>七尺</gloss> 加之合問
+
+---
+
+### 今有荒排澴二丈一尺潤四丈四尺長九丈問木若干
+
+> 答曰　八千三百七十七根六分
+
+法曰置澴 <gloss>二丈一尺</gloss> 以三歸得 <gloss>七尺</gloss> 倍作 <gloss>一十四</gloss> 又以潤 <gloss>四丈四尺</gloss> 倍作 <gloss>八十八</gloss>
+
+<vocab>方梱, 荒排, 澴, 潤, 根, 丈, 尺, 寸, 乘, 除, 實, 法</vocab>
+
+--- Page 68 ---
+<lang>zh</lang>
+<header>新編直指算法統宗卷之八</header>
+
+# 新編直指算法統宗卷之八
+
+作八十相乘得六千四百為實另以長六丈一尺除之
+得四<unclear>十</unclear>根為法乘之得<unclear>二</unclear>千九百又以濶二丈一尺用三歸得七
+加之合問 若是方圓束木法見前六卷少廣中
+右捆法雖設則厥類繁未免但一封書併荒排法
+無異其方捆所加或濶深長不一法難必矣
+
+<vocab>算法統宗, 束木法, 少廣, 方圓, 捆法, 商, 積, 濶, 長</vocab>
+
+<detected-images>
+[
+  {"description": "Decorative diagram of the character '商' (Quotient) using a dot-and-line pattern.", "type": "diagram", "bbox": {"x": 0.28, "y": 0.18, "width": 0.16, "height": 0.15}, "gallery_quality": 0.85, "museum_rationale": "A striking example of traditional Chinese mathematical notation where variables are presented in decorative, constellation-like diagrams. This style is characteristic of high-quality scientific woodblock printing in the late Ming dynasty, specifically from Cheng Dawei's 'Suanfa Tongzong'."},
+  {"description": "Decorative diagram of the character '積' (Product/Area/Volume) using a dot-and-line pattern.", "type": "diagram", "bbox": {"x": 0.26, "y": 0.35, "width": 0.18, "height": 0.14}, "gallery_quality": 0.85, "museum_rationale": "Demonstrates the artistic integration of scientific concepts and calligraphic form through symbolic geometry."},
+  {"description": "Decorative diagram of the character '濶' (Width) using a dot-and-line pattern.", "type": "diagram", "bbox": {"x": 0.27, "y": 0.52, "width": 0.16, "height": 0.15}, "gallery_quality": 0.85, "museum_rationale": "Illustrates the geometric variable for width in a systematic, visual language used to differentiate parts of a mathematical problem."},
+  {"description": "Decorative diagram of the character '長' (Length) using a dot-and-line pattern.", "type": "diagram", "bbox": {"x": 0.28, "y": 0.70, "width": 0.15, "height": 0.15}, "gallery_quality": 0.85, "museum_rationale": "Completes the set of four mathematical variables, maintaining a unified aesthetic that bridges calculations and celestial-style symbolism."}
+]
+</detected-images>

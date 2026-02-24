@@ -1,0 +1,28 @@
+{
+  "id": "6992cdf081c9d7efb84d0e9a",
+  "title": "本草綱目·卷四十九",
+  "display_title": "本草綱目·卷四十九",
+  "author": "李時珍",
+  "language": "Chinese",
+  "year": 1596,
+  "published": "1596",
+  "pages_count": 68,
+  "pages_with_ocr": 68,
+  "pages_with_translation": 55,
+  "source_url": "https://sourcelibrary.org/book/6992cdf081c9d7efb84d0e9a",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "06048817.cn"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:31.109Z",
+  "_hashes": {
+    "ocr": "b8944ccd91d1b709",
+    "translation": "0a900bf8c1f5f9be"
+  }
+}

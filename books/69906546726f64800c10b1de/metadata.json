@@ -1,0 +1,28 @@
+{
+  "id": "69906546726f64800c10b1de",
+  "title": "The Garden of Cyrus",
+  "display_title": "The Garden of Cyrus",
+  "author": "Sir Thomas Browne",
+  "language": "English",
+  "year": 1658,
+  "published": "Unknown",
+  "pages_count": 72,
+  "pages_with_ocr": 72,
+  "pages_with_translation": 58,
+  "source_url": "https://sourcelibrary.org/book/69906546726f64800c10b1de",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "the-garden-of-cyrus-or-the-quincuncial-l"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:28.483Z",
+  "_hashes": {
+    "ocr": "64d822176193c3fd",
+    "translation": "b7d9dbe211f28d84"
+  }
+}

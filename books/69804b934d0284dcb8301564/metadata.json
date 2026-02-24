@@ -1,0 +1,26 @@
+{
+  "id": "69804b934d0284dcb8301564",
+  "title": "Joseph in Dothan",
+  "display_title": "Joseph in Dothan",
+  "author": "Vondel, Joost van den",
+  "language": "Dutch",
+  "year": 1644,
+  "published": "1644 [=166?]",
+  "pages_count": 76,
+  "pages_with_ocr": 76,
+  "pages_with_translation": 76,
+  "source_url": "https://sourcelibrary.org/book/69804b934d0284dcb8301564",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:24.602Z",
+  "_hashes": {
+    "ocr": "85afedfacab9d086",
+    "translation": "cd5d1a5a43f19625"
+  }
+}

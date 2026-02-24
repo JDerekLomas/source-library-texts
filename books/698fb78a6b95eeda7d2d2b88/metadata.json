@@ -1,0 +1,28 @@
+{
+  "id": "698fb78a6b95eeda7d2d2b88",
+  "title": "Kosmos: Entwurf einer physischen Weltbeschreibung, Bd. 3",
+  "display_title": "Kosmos: Entwurf einer physischen Weltbeschreibung, Bd. 3",
+  "author": "Alexander von Humboldt",
+  "language": "German",
+  "year": 1850,
+  "published": "1850",
+  "pages_count": 662,
+  "pages_with_ocr": 69,
+  "pages_with_translation": 64,
+  "source_url": "https://sourcelibrary.org/book/698fb78a6b95eeda7d2d2b88",
+  "license": "https://rightsstatements.org/vocab/NoC-NC/1.0/",
+  "doi": null,
+  "external_ids": {
+    "mdz": "bsb10132323"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:30.312Z",
+  "_hashes": {
+    "ocr": "b5db7206d7caf18c",
+    "translation": "0abc97ae7d87a83f"
+  }
+}

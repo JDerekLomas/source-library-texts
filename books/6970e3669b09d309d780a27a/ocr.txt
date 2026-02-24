@@ -1,0 +1,1937 @@
+--- Page 1 ---
+<lang>None</lang>
+<warning>The provided image is a blank page, likely a flyleaf or endpaper, with no legible text or illustrations. Only the texture of the paper and some faint staining are visible.</warning>
+
+<vocab></vocab>
+
+--- Page 2 ---
+<lang>Latin</lang>
+<meta>Small printed emblem pasted onto the center of a blank flyleaf</meta>
+
+<insert>A</insert>
+
+->**PHILOSOPHIA HERMETICA**<-
+
+<vocab>Philosophia Hermetica, Alchemy, Hermeticism, Pelican in its Piety, Emblem</vocab>
+
+<detected-images>
+[{"description": "A colored oval emblem for 'Philosophia Hermetica'. It depicts a 'pelican in its piety' (a pelican wounding its breast to feed its young with its blood) above a square shield or box containing a saltire and four small spheres or globes. The scene is set against a blue background with gold rays. The text 'PHILOSOPHIA · HERMETICA' encircles the image.", "type": "emblem", "bbox": {"x": 0.424, "y": 0.306, "width": 0.174, "height": 0.155}, "gallery_quality": 0.85, "museum_rationale": "A finely detailed and colored hermetic emblem representing the core theme of the manuscript. The use of the pelican is a potent alchemical and Christian symbol of sacrifice and the 'work' of purification."}]
+</detected-images>
+
+--- Page 3 ---
+<lang>None</lang>
+<meta>Blank page</meta>
+
+--- Page 4 ---
+<lang>None</lang>
+<meta>Blank page</meta>
+<warning>The page is blank, containing no legible text. There is a faint circular ghost image in the center, likely bleed-through from an emblem or seal on the reverse side.</warning>
+<vocab></vocab>
+
+<detected-images>
+[{"description": "Faint circular ghost image or bleed-through in the center of the page.", "type": "decorative", "bbox": {"x": 0.463, "y": 0.328, "width": 0.078, "height": 0.075}, "gallery_quality": 0.1, "museum_rationale": "Extremely faint impression, likely bleed-through from a stamp, seal, or emblem on the verso side of the leaf."}]
+</detected-images>
+
+--- Page 5 ---
+<lang>de</lang>
+<meta>Title page of "Alchymistische Briefe" (1767). The author's name "Johann Friedr: Meyer" is added in a contemporary hand. Catchword "C" at bottom right.</meta>
+
+# Alchymistische
+## Briefe.
+
+---
+
+->Von<-
+->dem Verfasser <insert>Johann Friedr: Meyer.</insert><-
+->der<-
+
+### Chymischen Versuche
+
+->zur nähern Erkäntniß<-
+->des ungelöschten Kalchs, &c.<-
+
+->an<-
+->den Herausgeber<-
+->gegenwärtiger Briefe.<-
+
+---
+
+->Hannover,<-
+->gedruckt bey H. M. C. Schlüter.<-
+->1 7 6 7.<-
+
+<vocab>Alchymie, Johann Friedrich Meyer, Chymische Versuche, ungelöschter Kalk, Hannover, 18. Jahrhundert, Alchemie</vocab>
+
+--- Page 6 ---
+<lang>de</lang>
+<meta>image quality: faint mirrored bleed-through; paper condition: heavy foxing and staining</meta>
+<warning>This page appears to be the blank verso of a title page. The visible text is mirrored "ghosting" or bleed-through from the recto side, making it reversed and extremely faint.</warning>
+
+<note>The following text is a transcription of the mirrored ghosting visible through the paper.</note>
+
+# <unclear>Historischer</unclear>
+## <unclear>Bericht</unclear>
+
+---
+
+-><unclear>von der</unclear><-
+
+### <unclear>Churfürstlichen Residenz-</unclear>
+### <unclear>und</unclear>
+### <unclear>Hauptstadt München</unclear>
+
+-><unclear>von</unclear><-
+-><unclear>Max. Leydel</unclear><-
+
+---
+
+-><unclear>München</unclear><-
+-><unclear>gedruckt bey ...</unclear><-
+
+<vocab>Historischer Bericht, Churfürstlichen Residenz- und Hauptstadt München, Max. Leydel, München</vocab>
+
+--- Page 7 ---
+<lang>de</lang>
+<sig>A 2</sig>
+<meta>catchword: Von</meta>
+
+Beynahe achtzehn Jahre herdurch, nemlich vom 26. Aug. 1747. bis 11. Aug. 1765. habe ich das Glück genossen, mit meinem nun verewigten Freunde, dem Osnabrückischen Apotheker **Johann Friedrich Meyer** in Briefwechsel zu stehen: einem Manne, dessen Name jedem **Physiker** und **Chemisten** merkwürdig seyn muß und Menschenfreunden heilig. Den 10ten Novembr. 1765, und also drey Monate nachher, als Er zum letztenmale und nur wenige Zeilen an mich geschrieben, beschloß Er, alt über 60 Jahre, Sein noch immer zu kurzes Leben, welches zum Theil eine Kette von Mühseligkeiten und Krankheiten gewesen war, die Ihn gleichwol nicht gehindert haben, es nützlich zu machen, und wohl zu thun. Noch da ich dieses schreibe, weihe ich Ihm Zähren des gerechtesten Kummers, und meine Seufzer dringen sich zu Seiner Asche.
+
+<vocab>Johann Friedrich Meyer, Apotheker, Osnabrück, Briefwechsel, Physiker, Chemist</vocab>
+
+<detected-images>
+[
+  {"description": "Decorative woodcut headpiece with elaborate symmetrical floral and foliage scrollwork.", "type": "decorative", "bbox": {"x": 0.091, "y": 0.104, "width": 0.418, "height": 0.138}, "gallery_quality": 0.7, "museum_rationale": "A fine example of mid-18th-century woodcut ornamentation, reflecting the aesthetic standards of scientific and academic printing in Germany."},
+  {"description": "Decorative historiated initial letter 'B' with woodcut floral scrollwork and a stylized face integrated into the design.", "type": "decorative", "bbox": {"x": 0.055, "y": 0.352, "width": 0.106, "height": 0.118}, "gallery_quality": 0.65, "museum_rationale": "Classic woodcut initial typical of early modern book production, used here to mark the beginning of a dedication or preface."}
+]
+</detected-images>
+
+--- Page 8 ---
+<lang>de</lang>
+<page-num>4</page-num>
+<meta>catchword: viel-</meta>
+
+Von unserm Briefwechsel, der manches Lehr-reiche enthielt, war der ungleich größere Theil Sein. Es ward aber derselbe durch mancherley Zufälle unterbrochen, und ist nun also bey weitem nicht, was er hätte seyn können. Doch lieset sich darin manches, das mir nicht nur zu mehrerer Aufklärung seines Lehrgebäudes vom <term>Acido pin-gui</term> geschickt schiene, sondern das auch über ver-schiedene andere Dinge in der Chemie vielleicht einiges Licht verbreitet. Befinde ich, bey wie-derholter Durchlesung, diese meine Meynung gegründet, so kan es wol geschehen, daß ich das Wesentliche aus unsern Briefen einmal durch den Druck bekant mache.
+
+Die gegenwärtigen von Ihm sind indessen unstreitig die wichtigsten; und ich darf wol be-haupten, daß sie Seine übrigen krönen: welches dann die Eile, womit ich sie der Welt überliefere, rechtfertigen wird. Sind sie doch mir zu schätz-bar, um sie als ein Privatgut zu besitzen und unmitgetheilt zu lassen. Einer Versündigung von dieser Art an das <term>Publicum</term> mag ich nicht schuldig seyn.
+
+Ueberdem werden durch ihre Herausgabe un-fehlbar dem Verfasser neue Lorbeern erwachsen; und Niemand kan solche Ihm aufrichtiger gönnen, als ich.
+
+Und verdiente endlich der Name <term>Constan-tini</term>, — eines Mannes, den die wenigsten, ja
+
+<vocab>Briefwechsel, Lehrgebäude, Acido pingui, Chemie, Publicum, Lorbeern, Constantini</vocab>
+
+--- Page 9 ---
+<lang>de</lang>
+<page-num>5</page-num>
+<sig>A 3</sig>
+<meta>catchword: selbst</meta>
+<warning>A dark stain or ink blot at the bottom of the page partially obscures words in the final paragraph.</warning>
+
+vielleicht keine meiner Leser, jemals nennen ge-
+hört haben werden, dessen Scharfsichtigkeit aber
+den Grundstoff zu diesen Briefen hergegeben hat,
+nicht auch zu der Kentniß aller derer zu gelangen,
+die Verdienste zu schätzen wissen, und gerne schät-
+zen? Diesen Mann aber werden sie in dem ersten
+Briefe kennen lernen.
+
+Gründe genug, die mich bestimmen konten,
+und musten, meines Freundes alchymistische Briefe
+drucken zu lassen! Die umständlichen Antworten
+darauf bin ich ihm schuldig geblieben, weil ich mir
+vorgenommen hatte, den letztern derselben abzu-
+warten, bevor ich seinen schönen Versuchen nach-
+zuarbeiten Hand anlegte. Und allzubald nachher
+starb Er; sonst wäre es nicht unterblieben, und
+ich fügte nun vielleicht etwas von dem meinigen
+bey. Für Leser, wie diejenigen seyn müssen,
+welche diese Briefe mit Nutzen lesen wollen, ist
+indessen wahrscheinlich dieser Mangel kein Ver-
+lust. Sie werden ohne mich das Gold finden,
+das sie hier suchen dürfen, und das Ihnen um so
+viel schätzbarer seyn muß, da es nicht so sehr
+Gold der Erde, als das Gold der Wissenschaft
+ist das Ihnen dargeboten wird.
+
+Ich vermuthe übrigens nicht, daß bey je-
+manden der Gedanke aufsteigen werde, als ob
+ich zu der Herausgabe dieser Briefe vielleicht noch
+einen Grund gehabt hätte, <unclear>den</unclear> ich mit Fleiß
+verschwiegen: es wäre denn, <unclear>daß</unclear> dieser Jemand
+
+<vocab>alchymistische Briefe, Kentniß, Gold der Wissenschaft, Scharfsichtigkeit</vocab>
+
+--- Page 10 ---
+<lang>de</lang>
+<page-num>6</page-num>
+<warning>Slight foxing and a prominent brown stain at the bottom center of the page.</warning>
+
+selbst ein Herausgeber und zwar ein geübterer,
+als ich, sey, der von seiner Politik auf die mei-
+nige schließe. Doch ist diese Politik allerdings
+so gewöhnlich, daß ich mich vor dem Versuch wol
+hüten werde, den Verdacht von mir ganz ablehnen
+zu wollen, daß meine Eigenliebe nicht einiger-
+maaßen bey meiner gegenwärtigen Unternehmung
+ihre Rechnung finde. Vielleicht war es eben
+die Quelle, aus welcher auch die Anzeige meiner
+vieljährigen Correspondenz mit Herrn Meyer
+geflossen ist. Warum solte ich dem Vorwurf zu
+entgehen suchen? Bin ich doch noch sehr unschlüs-
+sig darüber: ob ich gegen die Ehre, mancher
+glänzenden Gelehrtengesellschaft anzugehören,
+diejenige vertauschen würde, meines Freundes
+Freund gewesen zu seyn.
+
+->Hannover,<-
+->den 2ten Januar. 1767.<-
+
+Andrea.
+
+<vocab>Herausgeber, Politik, Eigenliebe, Correspondenz, Herrn Meyer, Gelehrtengesellschaft, Hannover, Andrea</vocab>
+
+--- Page 11 ---
+<lang>de</lang>
+<page-num>7</page-num>
+<sig>A 4</sig>
+<meta>catchword: che</meta>
+
+*****************************
+
+# Erster Brief.
+
+## Hochgeschätzter Freund!
+
+Auf Dero gütige Aufnahme meiner Anfrage *), will ich Ihnen in einigen Briefen meine Gedanken über die <term>Alchymie</term> oder <term>Transmutationem metallorum</term> mittheilen, und wünsche, daß Sie daran ein Vergnügen finden mögen. Denken Sie aber ja nicht, daß ich mich jemals auf diese grosse Kunst practisch gelegt habe oder legen werde. Gott hat mir allezeit auf den ordentlichen Wegen so viel Gold und Silber bescheret, als ich nöthig gehabt habe; Warum sollte ich denn ausserordentliche Wege betreten, ein grösseres <term>Viaticum</term> zu suchen, zumalen da meine Reise durch die Welt bald zu Ende ist?
+
+Indessen ist mir in meinem Leben oft die Neubegierde oder Lust angekommen, theoretisch zu erforschen: ob und wie diese von so vielen Menschen gesuchte Sache möglich seyn könne, und ob ich etwas von den vielen Schriften dererjenigen alten Weltweisen, so diese Sache zuerst auf die Bahn gebracht, und als eine wahre, mögliche und experimentirte Kunst angegeben haben, verstehen könnte. Hievon werde ich künftig ein mehreres gedenken, fürjetzo aber Ew. H. E., zum Beweis der Möglichkeit der Transmutation, eine besondere Erfahrung bekant machen, wel-
+
+---
+
+<margin>*) „ Darf ich auch wol künftig einmal etwas von der <term>Alchimie</term> mit E. H. E. reden? „ war die Nachschrift eines Briefes von meinem unvergeßlichen Freunde an mich, vom 1. Januar 1764.</margin>
+
+<vocab>Alchymie, Transmutationem metallorum, Viaticum, Weltweisen, Transmutation, Alchimie</vocab>
+
+<detected-images>
+[
+  {"description": "Decorative printer's ornament featuring a central floral motif flanked by horizontal lines and dots", "type": "decorative", "bbox": {"x": 0.203, "y": 0.103, "width": 0.311, "height": 0.016}, "gallery_quality": 0.5, "museum_rationale": "Standard 18th-century typographic ornament used for page layout."},
+  {"description": "Divider line composed of approximately thirty star-shaped or cross-shaped typographic characters", "type": "decorative", "bbox": {"x": 0.067, "y": 0.138, "width": 0.468, "height": 0.015}, "gallery_quality": 0.3, "museum_rationale": "Common period typographic divider line."},
+  {"description": "Ornamental woodcut initial letter 'A' decorated with internal floral motifs", "type": "decorative", "bbox": {"x": 0.065, "y": 0.264, "width": 0.054, "height": 0.063}, "gallery_quality": 0.7, "museum_rationale": "Finely detailed Fraktur woodcut initial typical of higher-quality period printing."}
+]
+</detected-images>
+
+--- Page 12 ---
+<lang>de</lang>
+<page-num>8</page-num>
+<header>Alchymistische Briefe,</header>
+<meta>catchword: men</meta>
+
+che mir von einem vor einigen Jahren verstorbenen
+Freunde communiciret ist.
+
+Es war derselbe der sel. Doctor Constantini,
+ein Arzt in Melle, einem fünf Stunden von hier
+belegenen Flecken. Der Name Constantini ward
+Ihm bey seiner Taufe gegeben; denn, von Geburt
+war Er ein Jude. Er hat aber in seiner Jugend die
+christliche Religion aus Ueberzeugung angenommen
+und noch kurz vor seinem Ende nicht allein mit seinen
+Worten, sondern auch durch den Genuß des heiligen
+Abendmahls bezeuget, daß Er sich bis in seinen Tod
+seinem Namen und Glauben gemäß verhalten hat.
+Er hatte unter <term>Boerhaven</term> die <term>Medicin</term> und <term>Chymie</term>
+fleißig studiret; und die <term>Consilia medica</term>, die ich von
+Ihm gelesen habe, waren so gelehrt und so gründlich
+abgefasset, daß sie manchen Arzt in grossen Städten
+hätten beschämen können, so daß Er in der Welt einer
+vortheilhaftern Station an einem größern Orte wäre
+höchst würdig gewesen. Doch dieses ist vielleicht nur
+blos durch den Mangel seines Gehöres verhindert wor=
+den; denn Er war stocktaub und aller Conversation
+ausser der Feder= und Fingersprache unfähig. Er
+vertrieb sich die Zeit mit Bücherlesen und <term>chymischen</term>
+Versuchen, worin Er sehr geübt war. In den letzten
+Jahren legte Er sich sehr auf die Nachkünstlung des
+<term>Borax</term>; es ist Ihm aber damit nicht gelungen. Er
+starb als ein Mann von etlichen und sechzig Jahren.
+Fünf oder sechs Jahre vor seinem Ende ward ich erst
+mit Ihm bekant. Ich unterhielt seinen Zeitvertreib
+durch Communication neuer Bücher. Wir corre=
+spondirten fleißig miteinander von allerhand chymi=
+schen Erfahrungen, die Wir angestellet hatten. Der
+Krieg hinderte die eifrige Fortsetzung unsers angeneh=
+
+<vocab>Doctor Constantini, Melle, Boerhaven, Medicin, Chymie, Consilia medica, Feder- und Fingersprache, Borax, Alchymistische Briefe</vocab>
+
+--- Page 13 ---
+<lang>de</lang>
+<page-num>9</page-num>
+<header>Erster Brief.</header>
+<sig>A 5</sig>
+<meta>catchword: „ich</meta>
+
+## Erster Brief.
+
+nien Briefwechsels, und bald hernach hob ihn der Tod
+gänzlich auf. Durch diesen Bericht habe ich das
+Andenken dieses, auch nach seinem moralischen Cha-
+racter, würdigen Mannes bis zu Ew. H. E. ausbrei-
+ten wollen.
+
+Von diesem Freunde hatte ich mir eine Beurthei-
+lung über des <term>Doctor Hirschings</term> <term>alchymistisches
+Buch</term> ausgebeten, welche aber für den Verfasser gar
+nicht günstig ausfiel. Indessen fügte Er derselben in
+seinem Schreiben vom 11. Februar 1755 folgendes
+bey :
+
+> „ Bey diesem allen gleichwol läugne ich die Trans-
+> mutationem metallorum nicht, und will melden,
+> was mir ex proprio labore & experientia, da keine
+> Betrügerey hat vorgehen können, begegnet ist, und
+> welches sogleich mit allen Umständen melden will.
+> „ Ich habe schon vormals E. H. E. zu schreiben
+> die Ehre gehabt, daß 1 Theil <term>Borax</term> mit 2 ½ Theil
+> <term>Weinsteincremor</term> vermenget in gar wenig Wasser
+> solvirt werden könne, und nachdem selbiges filtriret,
+> ein klarer, sehr saurer, und wie ein <term>Syrup</term> dicker
+> <term>Liquor</term> daraus werde. Ich machte also 1736 An-
+> fangs Februars einen solchen <term>Liquor</term> von 1 Unze
+> <term>Borax</term>, <term>Cremor</term> 2 ½ Unze, mit gemeinem Wasser
+> 10 Unzen; (ich nahm mehr Wasser, als nöthig,
+> damit der <term>Liquor</term> nicht allzu dick werden sollte;) und
+> machte damit allerley Versuche, die hier, um Weit-
+> läuftigkeit zu vermeiden, nicht anführen will. Endlich
+> ließ ich in einem solchen <term>Liquor</term>, der aus vorgemel-
+> deten und gleich schweren Ingredientien bestand,
+> eine Unze corrosivischen <term>Quecksilbersublimats</term> solvi-
+> ren, setzte selbigen in einem mit Löschpapier verbun-
+> denen Zuckerglase auf den Stubenofen. Kaum
+> hatte ich das Glas aus den Händen gesetzt, mußte
+
+<vocab>Doctor Hirsching, alchymistisches Buch, Transmutationem metallorum, Borax, Weinsteincremor, Liquor, Quecksilbersublimat, Stubenofen, Alchemie, 18. Jahrhundert</vocab>
+
+--- Page 14 ---
+<lang>de</lang>
+<page-num>10</page-num>
+<header>Alchymistische Briefe,</header>
+
+> " ich ohnvermuthet und sehr schleunig eine Reise in
+> " Patienten-Angelegenheiten antreten, und blieb 11
+> " Tage aus. So bald ich wieder zu Hause kam,
+> " sah ich nach meinem Glase; da war der dritte Theil
+> " des <term>Liquors</term> ausgedünstet, (Es war damahls gar
+> " nicht kalt, daher wurde nicht stark eingeheizet, sonst
+> " würde er wol alle evaporiret seyn;) und hatte sich
+> " ein weisser Bodensatz angesetzet. Ich nahm das
+> " Glas in die Hand, schüttelte es, und erfuhr, daß
+> " der Satz aus lauter kleinen silberglänzenden Flittern
+> " bestand, und, nachdem selbiger von dem <term>Liquor</term>
+> " separiret, <term>edulcoriret</term> und getrocknet wurde, etwa
+> " 2 1/2 <term>Dragmen</term> wog. Es war ein sehr zartes, weis-
+> " ses und silberglänzendes Pulver; wenn man es auf
+> " der Hand rieb, wurde die Haut gleichsam übersil-
+> " bert, besah man es durch ein <term>Microscop</term>, so befand
+> " man doch, daß es aus lauter kleinen Flittern be-
+> " stand. Der Geschmack war wenig corrosivisch,
+> " aber sehr <term>mercurialisch</term>. Um nun zu wissen, ob
+> " dieses Pulver fix oder <term>volatilisch</term> sey? legte ich da-
+> " von etwa einer halben Erbse groß in einen silbernen
+> " Löffel, und hielt solchen mit einer Zange über glü-
+> " ende Kohlen; da fing es sogleich an, zu rauchen,
+> " und, als die streichende Luft (die Arbeit geschah in
+> " einer grossen Küche, darin die Zugwinde strichen)
+> " den Rauch oder Dampf etwas zurück trieb, legte
+> " er sich überall an den Löffel an, und selbiger sah
+> " nicht anders aus, als wenn er mit feinem Golde
+> " überguldet wäre, welche Goldfarbe sich aber mit
+> " Salz wieder abreiben ließ. Mitten in dem Löffel,
+> " da das Pulver gelegen, hatte sich ein klein Hügelchen
+> " erhoben, so daß man sehen konnte, daß an dieser
+> " Stelle das Silber in etwas geschmolzen war; von
+> " dem Pulver aber war nur ein gar wenig leichte und
+
+<meta>catchword: braune</meta>
+
+<vocab>Alchymie, Liquor, edulcoriret, Dragmen, Microscop, mercurialisch, volatilisch, Goldfarbe, Silber</vocab>
+
+--- Page 15 ---
+<lang>de</lang>
+<page-num>11</page-num>
+<header>Erster Brief.</header>
+
+# Erster Brief.
+
+> „ braune Erde uͤber geblieben. Damit ich aber meh-
+> „ rere Versuche mit diesem Pulver anstellen koͤnte,
+> „ machte ich mehr davon und bekam etwa 1 Unze.
+> „ Ich ließ etwas Bley in einem Tiegel schmelzen, und
+> „ legte ein wenig von dem Pulver darauf; es rauchte
+> „ wiederum stark; als aber der Tiegel erkaltet, war
+> „ auf dem Bley nicht das geringste von einer Goldfarbe
+> „ zu sehen; wo aber das Pulver gelegen hatte, hatte
+> „ sich ein wenig Bley in Glaͤtte verwandelt. Ich
+> „ ließ abermal Bley schmelzen, legte ein wenig des
+> „ Pulvers darauf, und goß das geschmolzene Bley,
+> „ bevor das darauf liegende Pulver verrauchte, so
+> „ geschwind ich konte, auf eine eiserne heiße, jedoch
+> „ nicht gluͤende, Platte, damit das geschmolzene Bley
+> „ sich duͤnne und wohl ausbreiten konte, und siehe! die
+> „ streichende Luft trieb den Rauch des Pulvers zuruͤck
+> „ uͤber das ganze geschmolzene und duͤnne ausgebreitete
+> „ Bley, und sah selbiges nicht anders aus, als wenn es
+> „ mit Golde uͤberzogen war; nahe an der Stelle aber,
+> „ wo das Pulver gelegen, waren allerhand schoͤne Far-
+> „ ben, als gruͤn, blau, roth und Purpur. Ich ließ auf
+> „ gemeldete Art uͤber 30 Pfund Bley mit dieser Gold-
+> „ farbe anlaufen, schabete das uͤberguldete und sonst
+> „ gefaͤrbete, so duͤnne ich konte, ab, und bekam etwan 1 1/2
+> „ Dragmen des feinsten hochfarbigten Goldes, so in
+> „ allen ersinnlichen Proben, die damit angestellt, Gold
+> „ blieb. Dieses Goldkluͤmpchen habe als eine Raritaͤt
+> „ so lange verwahret, bis es mir 1743 den 17. Decemb.
+> „ in der Nacht nebst andern kostbaren Sachen, als Sil-
+> „ bergeschirre, baarem Gelde -- leider gestohlen ist.
+> „ Aus diesem gemeldeten lassen sich viele schoͤne Con-
+> „ sectaria machen; ich will aber nur etliche anfuͤhren:
+> „ 1) Daß eine Sache <term>tingiren</term> kan, die selbst nicht
+> „ <term>tingiret</term> ist.
+
+<meta>Catchword: „ 2) Daß</meta>
+
+<vocab>Bley, Tiegel, Glaͤtte, Goldfarbe, Dragmen, tingiren, Consectaria</vocab>
+
+--- Page 16 ---
+<lang>de</lang>
+<page-num>12</page-num>
+<header>Alchymistische Briefe,</header>
+
+„ 2) Daß eine Sache, die selbst höchst flüchtig, ein
+„ fixes Metall, als Gold, kan hervor bringen \*), und
+„ 3) daß, aller Vermuthung nach, das Acidum
+„ Salis communis, so bey dem Mercurio sublimato ge=
+„ wesen, das Beste bey der Sache gethan \*\*) habe.“
+
+So weit gehet die Erzählung meines Freundes von seiner Erfahrung. Ich war von seiner Redlichkeit viel zu fest versichert, als daß ich an der Wahrheit seiner Historie hätte zweifeln können; da überdem die Bereitung des tingirenden Pulvers so leicht war, — da der Erfinder mein Judicium über seinen Proceß verlangte, so nahm ich die Bereitung des Pulvers auf mehr als einerley Art vor: wovon ich in dem zweyten Briefe weiter melden werde. Bis dahin empfehle mich und beharre —
+
+Osnabrück,
+den 11ten Febr. 1764. Joh. Fried. Meyer.
+
+**Nachschr.** Ich möchte wünschen, daß E. H. E. folgenden alten Tractat auftreiben könten, wenn sie ihn nicht schon besitzen. Der Titel ist: *Tractatus aliquot Chemici singulares summum Philosophorum Arcanum continentes.* Ibismariæ 1647. 8vo. In dieser kleinen Samlung findet sich des obgedachten <term>Ferrarii</term> Schrift.
+
+---
+
+*) Hier wiederleget sich also, was einer von den vornehmsten alten Philosophen, nemlich der Mönch <term>Ferrarius</term> schreibet: *Nemo ignorat, omnem medicinam, non fixam, in aliquo corpore projectam, perfectam transmutationem non posse in illo operari.* — Anm. des Herrn Meyers.
+
+\*\*) Ich schreibe die Wirkung mehr denen in dem <term>Weinstein</term> vorhandenen Lichttheilchen zu, und werde davon künftig ein mehreres gedenken. — Anm. des Herrn M.
+
+<meta>catchword: Zwey-</meta>
+<vocab>Alchymie, Gold, Acidum Salis communis, Mercurio sublimato, tingirendes Pulver, Ferrarius, Weinstein, Osnabrück, Lichttheilchen</vocab>
+
+--- Page 17 ---
+<lang>de</lang>
+<page-num>13</page-num>
+<warning>Page exhibits significant foxing and age-related staining throughout.</warning>
+
+---
+
+---
+
+## Zweyter Brief.
+
+### Liebster Freund!
+
+**D**er Proceß, den ich Ihnen neulich zum Beweis
+der Möglichkeit der Transmutation der Me-
+talle communiciret habe, ist zwar für den
+Reichthum nicht ergiebig, indem die Zubuße grösser
+ist, als die Ausbeute, zumalen, da die Art der Pro-
+jection auch der Gesundheit schädlich seyn kan. In-
+dessen ist er doch zu weiterer Erkenntniß der Körper sehr
+lehrreich und angenehm. Ich fahre also in meiner
+Erzählung fort, und schreite zu denjenigen Versuchen,
+die ich selbst zur Bereitung des Constantinischen
+Pulvers angestellet habe.
+
+Vorher aber will ich die Zusammensetzung des
+Weinsteins *) mit dem Borax betrachten, weil ich
+hernach keine Gelegenheit mehr dazu haben möchte,
+und doch einige Merkwürdigkeiten dabey vorfallen.
+
+Die erste ist, daß diese beyden Salze, wenn ein
+jedes für sich allein ist, sehr vieles Wasser zu ihrer
+Solution erfordern; nun sie aber beyde bey einander
+sind, sich in wenigem Wasser auflösen. Das Se-
+dativ-Salz des Borax muß die Ursache seyn von der
+schweren Auflösung desselben, indem sein anderer Be-
+standtheil, nemlich das Sal Alkali minerale, sich in we-
+nigem Wasser leicht auflöset.
+
+*) Unter Weinstein wird durchgängig in diesen Brie-
+fen gereinigter Weinstein, Cristalli oder Cremor Tar-
+tari verstanden.
+
+<meta>catchword: Die</meta>
+<vocab>Transmutation, Metalle, Projection, Constantinisches Pulver, Weinstein, Borax, Solution, Sedativ-Salz, Sal Alkali minerale, Cremor Tartari</vocab>
+
+<detected-images>
+[{"description": "Small decorative printer's ornament with star and flower motifs", "type": "decorative", "bbox": {"x": 0.174, "y": 0.103, "width": 0.283, "height": 0.013}, "gallery_quality": 0.2, "museum_rationale": "A simple typographic ornament used as a header decoration."},
+{"description": "Decorative divider line composed of a horizontal row of asterisks", "type": "decorative", "bbox": {"x": 0.065, "y": 0.138, "width": 0.491, "height": 0.013}, "gallery_quality": 0.2, "museum_rationale": "A standard printer's decorative divider line."}]
+</detected-images>
+
+--- Page 18 ---
+<lang>de</lang>
+<page-num>14</page-num>
+<header>Alchymistische Briefe,</header>
+<meta>catchword: Sonst</meta>
+
+Die zweyte ist, daß die *Solution* dieser beyden Salze nicht *cristallifiren* will, da doch nicht allein der *Borax* und der *Weinstein*, ein jedes für sich anschieſſet, sondern auch das *mineralische Alkali* sowol, als das *Sedativ-Salz* des *Borax cristallifiret*. Unsere Zusammensetzung des *Weinsteins* mit *Borax* und Wasser wird bey der *Evaporation* dick wie ein *Syrup*, und endlich so dick und zähe, wie alter *Terpentin*.
+
+Die dritte ist, daß das *Sedativ-Salz*, welches doch in der *Composition* vorhanden ist, und durch andere *Acida* so leicht aus dem *Borax* abgesondert wird, sich hier nirgends sehen lasset, sondern in dem Gemische bleibet. An diesem *Sedativ-Salze* muß der Grund der schweren *Cristallisation* dieser *Composition* liegen; (wie schon oben gesagt ist) Denn, wenn das *Sedativ-Salz* nicht dabey vorhanden wäre, so würde aus dem *mineralischen Alkali* des *Borax* und dem *Weinstein* nichts anders, als ein leicht zu *cristallifirendes Seignette-Salz* entstehen.
+
+Viertens, so ist auch merkwürdig, daß der *Liquor* so sauer schmecket. Denn, ob man gleich gedenken möchte, daß die Säure des *Liquors* nur davon herrühre, daß bey unserm *Proceß* mehr *Weinstein* hingesetzet werde, als durch das *Alkali* des *Borax* könne gesättigt werden; so ist es doch sonderbar, daß hier vieles von dem überflüssig zugesetzten *Weinstein* bey der *Solution solviret* bleibet, welches sich durch den sauren Geschmack verräht, und aus der kalten *Solution* nicht herausfällt, so wie es sich bey der Bereitung des *Seignette-Salzes* und *Tartari tartarisati* von selbst ausscheidet.
+
+<vocab>Solution, Borax, Weinstein, mineralische Alkali, Sedativ-Salz, cristallifiren, Evaporation, Syrup, Terpentin, Composition, Acida, Seignette-Salz, Liquor, Proceß, solviret, Tartari tartarisati</vocab>
+
+--- Page 19 ---
+<lang>de</lang>
+<page-num>15</page-num>
+<header>Zweyter Brief.</header>
+<meta>catchword: Die</meta>
+
+Sonst verhielt sich mein Versuch etwas anders, als der Constantinische. Mein <term>Borax</term> hat 1 Unze weniger von dem <term>Weinstein</term> angenommen, als der seinige. Vermuthlich hat es an meinem <term>Borax</term> gelegen. Es war derselbe von dem ersten Schiffe der Embder Compagnie aus Ostindien mitgebracht. Er war zwar depurirt und weiß, aber nicht so rein und in so grossen einzelnen Cristallen, wie er sonst pflegt zu seyn, sondern in klein cristallinischen Krusten, wie der Bodensatz vom Candiszucker.
+
+Da diese unsere salinische Solution des <term>Borax</term> und <term>Weinsteins</term> aus nichts anders bestehen konnte, als aus dem <term>Seignette-Salz</term>, welches aus dem Alkali des <term>Borax</term> und dem <term>Weinstein</term> entstand) aus dem <term>Sedativ-Salze</term> und Wasser; so sollte man aus dieser Vermengung so grosse Dinge, als der Erfinder davon erzählet, wol nicht vermuthen, und ich weiß nicht, wie er auf die Gedanken gekommen ist, solche mit dem <term>Quecksilbersublimat</term> zu versetzen.
+
+Ich schritt nunmehro selbst zur Bereitung des <term>Constantinischen Pulvers</term>. Weil ich aber glaubte, 1) daß bey der Verrauchung des Pulvers auf einem erhitzten Metalle nicht sowol das Metall, als vielmehr das in dem Pulver vorhandene Quecksilber in <term>Gold</term> verändert und in das Metall eingefangen würde, und 2) daß diese Veränderung fürnämlich denen im <term>Weinstein</term> vorhandenen vielen und reinen Licht- oder Feuer-theilchen zuzuschreiben wäre, und daß dazu 3) der <term>Borax</term> mit seinem <term>Sedativ-Salze</term> vielleicht nicht nöthig wäre; so stellete ich die Bereitung auf viererley Arten an.
+
+Bey der ersten blieb ich bey meines Freundes Vorschrift.
+
+<vocab>Borax, Weinstein, Seignette-Salz, Sedativ-Salze, Quecksilbersublimat, Constantinischer Pulver, Embder Compagnie, Alchymie, Transmutation</vocab>
+
+--- Page 20 ---
+<lang>de</lang>
+<page-num>16</page-num>
+<header>Alchymistische Briefe,</header>
+<meta>catchword: ich</meta>
+
+Die andere stellete ich ohne <term>Borax</term> an, blos mit dem <term>Seignette-Salz</term> und <term>Sublimat</term>, um zu erfahren, ob das <term>Sedativ-Salz</term> etwas zu der Wirkung thue.
+
+Die dritte mit dem <term>Tartaro tartarisato</term> und <term>Sublimat</term>, um zu erkennen, ob das mineralische <term>Alkali</term> dazu nöthig sey.
+
+Die vierte mit einer <term>Terra foliata tartari cristallifata</term>, welche aus den <term>Cristallis Sodae</term> mit destillirtem Eßig bereitet war. Diese sollte mich lehren, ob dieses Pulver auch ohne <term>Weinstein</term> könte bereitet werden.
+
+Diese vier Processe will ich nun E. H. E. nach allen Umständen erzählen.
+
+## I. Versetzung des <term>Quecksilbersublimats</term> mit <term>Borax</term> und <term>Weinstein</term>.
+
+Am 23ten May 1755 schüttete ich 2 Unzen gepülverten <term>Borax</term> mit 5 Unzen geriebenen <term>Weinstein</term> untereinander in ein Zuckerglas, goß 20 Unzen warmes Brunnenwasser hinzu, rührete es um, bis fast alles solvirt war, welches bald geschah. Ich filtrirte darauf den trüben <term>Liquor</term>, und behielt an ungeänderten <term>Weinstein</term> im <term>Filtrum</term> 1 Unze. Es wären also 4 Unzen <term>Weinstein</term>, wenigstens zu diesem <term>Borax</term>, genug gewesen.
+
+Der <term>Liquor</term> war helle, ungefärbt, und schmeckte sauer. Ich goß ihn in einen <term>Kolben</term> mit niedrigem Halse.
+
+Darauf rieb ich 2 Unzen <term>Sublimat</term> und schüttete sie zu dem <term>Liquor</term> in dem <term>Kolben</term>. Sie löseten sich, bey öfterem Umschütteln, schon in der Kälte meistentheils auf. Die gänzliche <term>Solution</term> aber geschah, als ich
+
+<vocab>Borax, Seignette-Salz, Sublimat, Sedativ-Salz, Tartaro tartarisato, mineralische Alkali, Terra foliata tartari cristallifata, Cristallis Sodae, Weinstein, Quecksilbersublimats, Liquor, Kolben, Solution</vocab>
+
+--- Page 21 ---
+<lang>de</lang>
+<header>Zweyter Brief</header>
+<page-num>17</page-num>
+
+ich den Kolben auf warmen Sand ſetzte und dann und wann umſchüttelte.
+
+Es ſcheinet merkwürdig zu ſeyn, daß der Sublimat ſich hier ſo leicht in den 20 Unzen Waſſer auflöſete, ohngeachtet ſolches ſchon 6 Unzen von ſonſt ſchwer auflöſlichen Salzen enthielt, auch 2 Unzen Sublimat eine kochende Hitze erfordern, wenn ſie ſich in 20 Unzen Waſſer auflöſen ſollen.
+
+Den Kolben ließ ich auf warmen Sande ſtehen, mit einem Huth von Löſchpapier bedecket. Der Liquor ward etwas trübe und ſetzte einige Feces, weswegen ihn durch Druckpapier filtrirte, wodurch er ganz klar wurde. Ich ſetzte ihn darauf mit voriger Bedeckung wieder in die Wärme. Dieſes geſchah den 25. May.
+
+Den 26ten ſetzte er wieder einige leimfarbige Feces, weswegen ihn abermal filtrirte, worauf der Liquor klar blieb.
+
+Den 27ten ließen ſich noch keine Flittern ſehen. Ich ließ den Kolben, zu beſſerer Ausdünſtung, dann und wann offen. Bis den 30ten verhielt es ſich eben ſo.
+
+Den 31ten fing der Liquor an, am Boden zu criſtalliſiren und auch oben ein Häutlein zu bekommen.
+
+Den 1ten Junius criſtalliſirte er ſtärker. Es zeigten ſich aber noch keine Flittern. Bey mehrerer Wärme löſete ſich vieles Salz wieder auf. So gieng es auch bis den 5ten mit Vermehrung des Salzes.
+
+Den 6ten Jun. war der über dem Salze ſtehende Liquor ziemlich dick, und coagulirte ſich, als ich ihn ein wenig ſchüttelte. (Ein ſonderbarer Vorfall! denn
+
+<sig>B</sig>
+<meta>catchword: ſonſt</meta>
+
+<vocab>Sublimat, Liquor, Feces, criſtalliſiren, Flittern, Kolben, Löſchpapier, Druckpapier, Unzen, coagulirte</vocab>
+
+--- Page 22 ---
+<lang>de</lang>
+<page-num>18</page-num>
+<header>Alchymistische Briefe,</header>
+
+sonst pflegen ja *salinische* etwa *coagulirte Liquors* durch
+das Umschütteln flüssiger zu werden; hier geschah das
+Gegentheil.) Er zergieng aber wieder in der Wärme,
+weswegen ihn von dem Salze abgoß. Der *Liquor*
+war schwer und dicklich, wie ein dünner *Syrup*, und
+nunmehr zeigte sich in demselben ein zartes glänzendes
+Pulver, dessen Theilchen in dem *Liquor*, wenn er
+bewegt wurde, mit silberfarbenen Wellen strichen;
+dahingegen der *Liquor* sonst immer klar geblieben war.
+Das Salz, welches in Krusten angeschossen war, und
+einem unordentlich angeschossenen *Tartaro vitriolato*
+ähnlich sah, hob ich bis zu weiterer Untersuchung auf.
+
+Den 9ten Jun. hatte der *Liquor* einen zwey Li-
+nien hoch liegenden, zartpulverigten glänzenden Bo-
+densatz. Der überstehende *Liquor* blieb, des Tages
+über, in der Wärme flüssig. Des Nachts aber
+*coagulirte* er sich durch die Erkältung gänzlich, wes-
+wegen <note>The word "ich" appears to be missing or very faded in the original print.</note> ihm zur Verdünnung 2 *Unzen* *destillirtes* Re-
+genwasser wieder zusetzte.
+
+Den 12ten war der *Liquor* wieder dicklicher, an
+Farbe und *Consistenz* wie Mandelöhl. Der Boden-
+satz hatte sich vermehret. Ich wolte ihn jetzo wieder
+*diluiren*, weil ich immer deutlicher anmerkte, daß das
+Pulver sich nur mit Länge der Zeit aus dem *Liquor* ab-
+sonderte. Indem ich aber den *Liquor* mit dem weissen
+Zuckerglase, worin er befindlich war, an einem kal-
+ten Orte hinsetzte, *coagulirte* er sich bald mit einer ganz
+besondern Schönheit. Keine Perlenmutterschale ist
+mit Strahlen und Wellen so schön gezeichnet und
+glänzend, als dieses silberfarbene *Coagulum* an den
+Seiten durch das Glas schien. Rund herum war es
+mit 5 oder 6 geraden *perpendicularen* Linien in gleich
+breite Felder durchschnitten und abgetheilet; von die-
+
+<meta>catchword: sen</meta>
+
+<vocab>Alchymistische Briefe, salinische, coagulirte, Liquors, Liquor, Syrup, Tartaro vitriolato, Unzen, destillirtes, Regenwasser, Consistenz, Mandelöhl, diluiren, Zuckerglase, Coagulum, perpendicularen</vocab>
+
+--- Page 23 ---
+<lang>de</lang>
+<page-num>19</page-num>
+<header>Zweyter Brief.</header>
+<sig>B 2</sig>
+<meta>catchword: Drit-</meta>
+
+fen Linien breiteten ſich an beyden Seiten Strahlen aus, welche ſich in ihren Spitzen in Wellen verlohren. Ich ließ es ein paar Tage lang zu meiner Ergötzung alſo ſtehen.
+
+Als ich das <term>Coagulum</term> wieder in die Wärme ſetzte, wurde es bald flüßig, ward aber hernach durch einen Zufall verſchüttet, und ich rettete weiter nichts davon, als ein weniges von dem glänzenden Pulver, konnte mich aber um ſo viel leichter in den Verluſt ſchicken, da ich unterdeſſen ſchon erfahren hatte, daß, ohne den <term>Borax</term>, blos mit dem <term>Seignette-Salz</term>, oder auch dem <term>Tartaro tartariſato</term> eben daſſelbe tingirende Flitterpulver in kürzerer Zeit aus dem <term>Sublimat</term> könne erhalten werden, wovon ich künftig umſtändlicher ſchreiben werde. Nur führe ich hier noch an, daß an obgedachtem ſchönen Glanze des <term>Coagulum</term> das glänzende <term>Sedativ-Salz</term> in dem <term>Borax</term> vieles Antheil zu haben ſcheinet: indem die Proceſſe ohne den <term>Borax</term> zwar auch weiſſe und glänzende <term>Coagula</term> geben, die aber bey weitem nicht der Schönheit des erſtern gleich kommen.
+
+Bald möglichſt werde ich meine Erzählungen fortſetzen, und beharre bis dahin und weiter --
+
+->Oſnabrück,<-
+->den 24^ten März 1764.<-
+
+->**Joh. Fried. Meyer.**<-
+
+<vocab>Borax, Seignette-Salz, Tartaro tartariſato, Sublimat, Coagulum, Sedativ-Salz, Flitterpulver, Johann Friedrich Meyer, Osnabrück</vocab>
+
+--- Page 24 ---
+<lang>de</lang>
+<page-num>20</page-num>
+<header>* —————— * / *********************************</header>
+<meta>Catchword: Am</meta>
+<vocab>Quecksilbersublimat, Seignettesalz, Liquor, Solution, Feces, Sedativsalz, Flittern</vocab>
+
+## Dritter Brief.
+
+**I**ch fahre fort und berichte Ihnen jetzo
+
+### II. Die Versezung des Quecksilbersublimats mit dem Seignettesalz.
+
+Am 24ten May 1755 lösete ich 4 Unzen reines
+Seignettesalz mit 10 Unzen heißem Wasser auf, und
+schüttete, als der Liquor kalt war, 1 Unze von geriebe-
+nen Sublimat hinzu. Er solvirte sich bald, und eher, als
+bey dem ersten Proceß. Die anfänglich klare Solu-
+tion ward bis den 26ten auf warmen Sand gesezt.
+Sie ward trübe und sezte einige, jedoch wenigere Feces,
+als bey dem ersten Versuch.
+
+Am 26ten filtrirte ich die Solution, bemerkte aber,
+daß sich in dem Liquor schon einige wenige silberigt
+glänzende Flittern zeigten. Sie fielen hier also viel
+geschwinder, als bey dem ersten Proceß, bey welchem
+ohne Zweifel das Sedativsalz die baldige Absonderung
+verhindert hat.
+
+Der Liquor ließ sich geschwind filtriren, war un-
+gefärbt wie Wasser, und ward auf gleiche Art, wie
+bey der ersten Arbeit, in eine ziemlich starke Wärme
+gesezet.
+
+Am 27ten liessen sich sehr viele Flittern sehen und
+fielen häufig zu Boden.
+
+Am 28ten vermehrten sie sich sehr und waren schön
+glänzend.
+
+<detected-images>
+[{"description": "Decorative printer's ornament with a central horizontal bar and floral ends.", "type": "decorative", "bbox": {"x": 0.6, "y": 0.09, "width": 0.2, "height": 0.03}, "gallery_quality": 0.3, "museum_rationale": "Standard typographical ornament typical of 18th-century publications."},
+{"description": "A line of star-shaped printer's ornaments acting as a separator.", "type": "decorative", "bbox": {"x": 0.46, "y": 0.14, "width": 0.49, "height": 0.02}, "gallery_quality": 0.2, "museum_rationale": "Common decorative divider used in typesetting of the era."},
+{"description": "Ornate decorative initial letter 'I' with floral scrolls.", "type": "decorative", "bbox": {"x": 0.46, "y": 0.24, "width": 0.08, "height": 0.08}, "gallery_quality": 0.6, "museum_rationale": "A classic example of an 18th-century decorative drop cap initial used to start a section."}]
+</detected-images>
+
+--- Page 25 ---
+<lang>de</lang>
+<page-num>21</page-num>
+<header>Alchymistische Briefe, Dritter Brief. 21</header>
+
+Am 29ten war der <term>Liquor</term> sehr voll davon. Un-
+ten im Kolben lagen etliche Klümpchen <term>cristallisirtes</term>
+Salz, weswegen ich nun das Flitterpulver von dem
+<term>Liquor</term> durch ein <term>Filtrum</term> absonderte. Mit dem durch-
+gelaufenen <term>Liquor</term> wusch ich das Salz ab, damit ich
+die daran hängende Flittern davon und zusammen mit
+aufs <term>Filtrum</term> brächte. Das Salz war klein und
+spitzig angeschossen. Die Flittern <term>edulcorirte</term> ich im
+<term>Filtrum</term> mit dreymal übergegossenem <term>destillirten</term> Was-
+ser. Das Flitterpulver sah, sowohl trocken als da es
+noch naß war, sehr glänzend aus. — Das <term>Edulco-
+rirwasser</term> lief etwas trübe durch das Pulver und schiele-
+te ins Milchfarbige. Ich setzte es zum Abrauchen hin.
+Nachdem es bis auf ein weniges <term>evaporirt</term> war, schoß
+ein wenig Salz darin an, Flittern aber sonderten sich
+am meisten daraus ab; ich sah also, daß diese sich in
+Wasser auflösen lassen. Es scheinet also, daß man
+die <term>Solution</term> dieser Flittern in Wasser eine <term>Solutio-
+nem Mercurii cum Tartaro</term> nennen kan. Ich schüttete
+alles Flüßige wieder in den Kolben, und setzte diesen
+in die Wärme. So machte ich es jedesmal, wenn
+ich etwas Pulver absonderte und <term>edulcorirte</term>.
+
+Am 30ten fielen wieder viele Flittern.
+
+Am 31ten war alles zu einem glänzenden <term>Coagu-
+lum</term> geworden, worauf ich solches mit 6 Unzen Was-
+ser wieder auflösete, und die häufigen Flittern wieder
+absonderte. Diese waren kleiner als die erstern.
+
+Ich fuhr mit abrauchen, <term>diluiren</term> und <term>separiren</term>
+bis den 20ten Jun. fort, da sich noch immer etliche,
+obwol immer wenigere, Flittern absonderten. Der
+Glanz des <term>Coagulum</term> und dessen Geschmack zeigten
+gleichwol an, daß es noch etwas von dem <term>mercuriali-
+schen</term> Pulver enthielt.
+
+<sig>B 3</sig>
+<meta>catchword: Das</meta>
+
+<vocab>Alchymie, Flitterpulver, Liquor, Filtrum, edulcoriren, Solutionem Mercurii cum Tartaro, Coagulum, abrauchen, diluiren, separiren, mercurialisch</vocab>
+
+--- Page 26 ---
+<lang>de</lang>
+<page-num>22</page-num>
+<header>Alchymistiſche Briefe,</header>
+
+Das erhaltene trockene und ausgesüſſete Pulver, welches einen ſilberweiſſen Perlenglanz hatte und wie kleine Schüpchen ausſah, wog 6 <term>Dragmen</term>.
+
+Ich ſchlieſſe davon eine Probe in dieſes Schrei=ben ein.
+
+Das <term>Reſiduum</term> ſetzte ich fürerſt bey Seite.
+
+### III. Verſetzung des Queckſilberſublimats mit <term>Tartaro tartariſato</term>.
+
+Am 26ten May 1755 <term>ſolvirete</term> ich 4 Unzen voll=kommen <term>ſaturirten</term> <term>Tartari tartariſati</term> mit 10 Unzen heiſ=ſem Waſſer, und filtrirte die <term>Solution</term>. Sie war gelb, wie alter Franzwein. Ich ſchüttete 1 Unze ge=riebenen Sublimat hinzu, welcher ſich bald, blos durch Umſchütteln, ohne ſonderliche Wärme auf=löſete.
+
+Am 27ten war der <term>Liquor</term> bey der <term>Digestion</term> ganz trübe, und ſetzte viele leimfarbige <term>Feces</term>, die doch we=nig wogen, als ſie trocken waren. Ich wolte ihn fil=triren, bemerkte aber mit Vergnügen, daß auch in dieſer, nunmehr wie Waſſer ungefärbten <term>Solution</term>, ſchon ziemlich viel leichtes, zartes und glänzendes Flit=terpulver, wie ſilberne Wellen ſtrich, daher ich das meiſte von dem <term>Sedimente</term> klar abgoß, und nur den Bodenſatz auf das <term>Filtrum</term> brachte.
+
+Am 28ten lag ſchon ſehr viel glänzendes Pulver am Boden, in gröſſern Flittern, als bey den beyden er=ſten Proceſſen.
+
+Am 31ten ſonderte ich ſie von dem <term>Liquor</term> ab, und ſetzte die <term>Solution</term> wieder zur gelinden Ausdünſtung hin. Alſo verfuhr ich in allem weiter, wie bey dem
+
+<meta>catchword: zweyten</meta>
+
+<vocab>Dragmen, Residuum, Quecksilbersublimat, Tartaro tartarisato, solvirete, saturirten, Solution, Liquor, Digestion, Feces, Sedimente, Filtrum</vocab>
+
+--- Page 27 ---
+<lang>de</lang>
+<page-num>23</page-num>
+<header>Dritter Brief.</header>
+
+## Dritter Brief.
+
+zweyten Proceß, bis ich 7 <term>Dragmen</term> von dem <term>edul-</term>
+<term>corirten</term> Pulver gesammelt hatte, und am 15ten Jun.
+das zu einer salinischen, klein cristallinischen Masse
+ausgerauchte <term>Residuum</term> nicht sonderlich mehr glänzend
+war, wie bey dem zweyten Proceß, sondern nur blos
+salinisch aussah.
+
+Ich lösete die Masse in Wasser wieder auf, sammelte
+was noch von glänzendem Pulver darin befindlich war,
+und theilte die <term>Solution</term> in zwey gleiche Theile.
+
+Die eine Hälfte legte ich in eine <term>Retorte</term> ein, zog
+das Wasser ab, und trieb die zurückgebliebene <term>Mate-</term>
+<term>rie</term> zuletzt mit starkem Feuer. Ich bekam Wasser,
+ein wenig gelben <term>Spiritus</term>, auch etwas <term>Oehl vom</term>
+<term>Weinstein</term>, und, so viel ich zusammen bringen konnte,
+etwan 1 <term>Dragme</term> <term>Quecksilber</term>. Das schwarze <term>Resi-</term>
+<term>duum</term> solvirte ich im Wasser. Im <term>Filtrum</term> blieb ein
+kohligtes Pulver, und die braune Lauge lieferte end-
+lich ein <term>Sal digestivum</term> und <term>Sal Alkali</term>.
+
+Was ich mit der andern Hälfte gethan habe, oder
+habe thun wollen, finde ich nicht notiret. Ich war
+damals schon mit der Erforschung des <term>Kalchs</term> be-
+schäftigt, und dieser verdrang bald das <term>alchymistische</term>
+Pulver.
+
+Allem Ansehen nach sind alle drey Arten des Pul-
+vers einander wesentlich gleich, wie denn auch von
+allen ein silberner Löffel mit einer Goldfarbe anläuft:
+nur daß bey dem ersten Pulver <term>Sedativsalz</term> untermen-
+get ist.
+
+Bey der verschiedenen Bereitung des Pulvers
+aber ist anzumerken:
+
+<sig>B 4</sig>
+<meta>catchword: 1) Daß</meta>
+
+<vocab>Dragmen, edulcorirten, Residuum, Solution, Retorte, Spiritus, Oehl vom Weinstein, Quecksilber, Sal digestivum, Sal Alkali, Kalchs, alchymistische, Sedativsalz</vocab>
+
+--- Page 28 ---
+<lang>German</lang>
+<page-num>24</page-num>
+<header>Alchymistische Briefe,</header>
+
+1) Daß die Flittern nach dem ersten Proceß am kleinsten; mit dem Seignettesalz grösser; und mit dem Tartaro tartarisato am grössesten fallen.
+
+2) Daß die Absonderung dieses Pulvers nach dem ersten Proceß am langsamsten; mit dem Seignettesalz geschwinder; und mit dem Tartaro tartarisato am hurtigsten erfolget.
+
+3) Gehet auch die Absonderung nach dem dritten Versuche am genauesten und vollständigsten von Statten; jedoch wird es nach den beyden ersten am weissesten.
+
+Die Ursache von diesen verschiedenen Phänomenen mag seyn: daß sich bey dem ersten Proceß das <term>Sedativsalz</term> mit einmischet, welches nicht sowol die prompte Verbindung des <term>Quecksilbers</term> mit dem <term>Weinstein</term>, als vielmehr die fertige Absonderung des Pulvers aus dem <term>Liquor</term> zu hindern scheinet. Bey dem zweyten Proceß mag vielleicht das <term>mineralische Alkali</term>, wegen seiner mehrern Erdigkeit, die es vor dem <term>vegetabilischen Alkali</term> besitzet, auch einige Hinderung verursachen. Bey dem dritten Verfahren aber erfolget mit dem reinern, solublern und flüssigern vegetabilischen Alkali, die Absonderung am fertigsten; daher auch hier das meiste Pulver erhalten wird.
+
+Man siehet auch hieraus, daß dieses Pulver nichts anders seyn kan, als ein mit <term>Weinstein</term> verbundenes <term>Quecksilber</term>: so daß man diesen <term>Präcipitat</term> einen <term>Mercurium tartarisatum</term> füglich nennen könte, daher weder der <term>Borax</term> nach dem ersten, noch das <term>mineralische Alkali</term> nach dem zweyten Proceß, absolute dazu erfordert werden.
+
+Der <term>Weinstein</term> scheinet, dem Gewichte nach, ein reichliches Ingrediens dieses <term>Präcipitats</term> zu seyn.
+
+<meta>catchword: Denn,</meta>
+
+<vocab>Alchymie, Proceß, Seignettesalz, Tartaro tartarisato, Sedativsalz, Quecksilber, Weinstein, Liquor, mineralische Alkali, vegetabilische Alkali, Präcipitat, Mercurium tartarisatum, Borax</vocab>
+
+--- Page 29 ---
+<lang>de</lang>
+<page-num>25</page-num>
+<header>Dritter Brief. 25</header>
+
+## Dritter Brief.
+
+Denn, da die Hälfte des <term>Residuum</term>, nach dem drit=
+ten <term>Proceß</term>, noch 1 <term>Dragme</term> Quecksilber lieferte,
+folglich im Ganzen 2 <term>Dragmen</term> darin befindlich gewe=
+sen, das Pulver aber 7 <term>Dragmen</term> gewogen hat: so
+wird es ohngefähr herauskommen, daß das Pulver
+halb aus Weinstein und halb aus Quecksilber beste=
+he; wie ich denn auch aus 2 <term>Dragmen</term> dieses Pulvers
+1 <term>Dragme</term> Quecksilber per <term>revivificationem</term> zurück er=
+halten habe.
+
+Das Pulver muß zwar <term>edulcoriret</term> werden, da=
+mit der ihm noch anhangende <term>Sublimat</term> davon kom=
+me, welcher sonst den silbernen Löffel zu sehr angrei=
+fet; Wenn man es aber zu oft <term>edulcoriret</term>, so wird
+vieles von dem Pulver wieder aufgelöset; doch man
+kan dieses durch die <term>Evaporation</term> des <term>Edulcorirwassers</term>
+wieder erhalten.
+
+In dem folgenden Brief werde ich melden, wie
+sich der <term>Sublimat</term> mit einer <term>Terra foliata tartari</term> cri=
+stallisata verhalten hat. So viel kan ich zum voraus
+melden, daß dieser Versuch zwar nicht ohne besondere
+Beobachtungen ist angestellet worden, daß er aber
+doch keinen solchen <term>Präcipitat</term>, als die drey ersten Ver=
+suche, geliefert hat: als welches auch nicht möglich
+war, da hier kein Weinstein vorhanden war, der
+sich mit dem Quecksilber verbinden und niederschlagen
+konte.
+
+Ist aber diese Verbindung des subtil gemischten
+mineralischen Quecksilbers mit, dem ersten Anschein
+nach, groben vegetabilischen Weinstein nicht sonderbar?
+Ich erinnere mich nicht, jemals gelesen zu haben, daß
+diese Verbindung vor <term>Doctor Constantini</term> nur je=
+manden sollte geträumet haben; man siehet aber hier=
+aus die nahe Verwandtschaft des mineralischen Rei=
+
+<sig>B 5</sig>
+<meta>catchword: ches</meta>
+
+<vocab>Dritter Brief, Residuum, Proceß, Dragme, Quecksilber, Weinstein, revivificationem, edulcoriret, Sublimat, Evaporation, Edulcorirwasser, Terra foliata tartari, Präcipitat, Doctor Constantini</vocab>
+
+--- Page 30 ---
+<lang>de</lang>
+<page-num>26</page-num>
+<header>Alchymistiſche Briefe. Dritter Brief.</header>
+
+ches mit dem Gewächsreiche; und wie könnte man auch dieſe Verwandtſchaft der Körper aus allen Naturreichen läugnen, da alle aus einerley Elementen zuſammengeſetzt ſind?
+
+->Ich bin — —<-
+
+->Osnabrück,<-
+->den 25ten April 1764.<-
+
+->**Joh. Fried. Meyer.**<-
+
+---
+
+->*Pro fuga vacui.*<-
+
+Herr *Conſtantini* ließ einmal an mich die Frage ergehen: Wie man den <term>Weinſtein</term> reinigen könnte, ſo daß die gröbſten öhlichten und erdigten Theile daraus abgeſondert würden, und nur das reineſte *Acidum* mit wenig Erde verbunden zurückbliebe? Er hat mir auch, als ich dieſe Frage nicht beantworten konnte, ſeine Methode communiciret, welche darin beſtand: daß man 2 Theile <term>Weinſtein-*cremor*</term> mit 3 Theilen <term>Kochſalz</term> vermengen, ſolches in genügſamen kochendem Waſſer ſolviren und in die Kälte ſetzen ſolle; ſo werde ein ſolcher zart gereinigter Weinſtein als ein flitterhaftes Salz niederfallen.
+
+Ich habe damals dieſe ſonderbare Reinigung des Weinſteins in einer mäßigen Quantität vorgenommen, und eine mehrere Reinigkeit des Weinſteins allerdings dabey angemerket. Ich werde den Proceß in einer größern Menge vornehmen, und von dem Erfolg ein mehreres berichten.
+
+<meta>Catchword: Vierter</meta>
+<vocab>Alchemie, Weinstein (Tartar), Acidum (Acid), Kochsalz (Sodium Chloride), Osnabrück, Johann Friedrich Meyer, Alchymistische Briefe</vocab>
+
+--- Page 31 ---
+<lang>de</lang>
+<page-num>27</page-num>
+<header>Ornamental divider consisting of a centered bar and a row of asterisks.</header>
+<meta>catchword: Boden.</meta>
+
+# Vierter Brief.
+
+**I**etzo berichte ich Ihnen
+
+## IV. Die Versetzung des <term>Quecksilbersublimats</term> mit dem *Arcano tartari cristallifato*.
+
+Es war ohngefähr im Jahr 1752, als ich mich mit der Untersuchung der <term>Alicantischen Soda</term> beschäftigte. Da ich nun das erste und wohlgereinigte cristallinische <term>Sal Sodæ</term> mit allen *Acidis* versetzte, so saturirte ich solches auch mit destillirtem Essig, und erhielt daraus ein <term>Arcanum tartari</term>, welches sich sowol in <term>Weingeist</term>, als im Wasser cristallisirte, und ein Salz lieferte, welches an der Luft nicht in einen *Liquor*, wie das gemeine <term>Arcanum tartari</term>, zerfloß, sondern sich in ein trocken bleibendes Pulver zerreiben und aufbehalten ließ.
+
+Von diesem <term>Arcano tartari</term> schüttete ich am 25sten May 1755 in ein <term>Kölbchen</term> 1 Unze, und von geriebenem <term>Sublimat</term> ½ Unze. Dazu goß ich 5 Unzen warmes Wasser, worin sich beydes gleich auflösete; ich filtrirte den *Liquor* und setzte ihn in die Wärme, wie bey den vorigen Versuchen.
+
+Er stund also bis den 9ten Jun., gab aber keine Flittern, sondern nur wenige gelbgraue leichte *Feces*. Seit einigen Tagen aber bemerkte ich, daß unten in dem <term>Kölbchen</term> unter dem gelblichen Pulver noch einige glänzende pechschwarze, ziemlich grobe Partikelchen am Boden lagen. Sie waren sehr schwer und fielen, wenn das Mengsel umgeschüttelt wurde, gleich zu Boden.
+
+<vocab>Vierter Brief, Quecksilbersublimat, Arcanum tartari cristallifato, Alicantische Soda, Sal Sodæ, Acidis, Arcanum tartari, Weingeist, Liquor, Kölbchen, Sublimat, Feces, Mengsel</vocab>
+
+<detected-images>
+[{"description": "Decorative printer's ornament with a central scroll design", "type": "decorative", "bbox": {"x": 0.371, "y": 0.099, "width": 0.355, "height": 0.015}, "gallery_quality": 0.3, "museum_rationale": "Standard 18th-century typographical ornament used for section breaks."},
+{"description": "Row of decorative asterisk-shaped printer's marks", "type": "decorative", "bbox": {"x": 0.145, "y": 0.134, "width": 0.707, "height": 0.015}, "gallery_quality": 0.2, "museum_rationale": "Simple typographical decoration common in historical manuscripts and books."}]
+</detected-images>
+
+--- Page 32 ---
+<lang>de</lang>
+<page-num>28</page-num>
+<header>Alchymistische Briefe,</header>
+
+Boden. Um diese Theilchen genauer betrachten zu
+können, goß ich alles in ein Zuckergläschen, hatte
+aber Mühe damit, um alle schwarze Theilchen wegen
+ihrer Schwere aus dem Kolbchen heraus zu bringen.
+Das gelbliche leichte Pulver aber konte ich leicht von
+den schweren Theilchen absondern. Die schweren wo-
+gen nur 3 Gran. Ich besah einige davon durch ein
+Microscop. Es schien, als wenn sie ein schwarzes
+Salz wären, welches sich viereckigt und treppenweise
+über einander cristallisiret hatte. Doch ihre Schwe-
+re belehrete mich, daß sie ein Metall enthalten müß-
+ten, wie sich auch hernach zeigte: ein artiges Bey-
+spiel von den Cristallisationen, welche die Natur an
+den Zinngraupen und andern Erzten hervorbringet.
+
+Ich will diese metallische Körperchen auf eine Weile
+bey Seite legen, und vorher melden, wie sich der Li-
+quor, woraus sie sich abgesondert hatten, verhalten
+hat.
+
+Am 10ten Jun. setzte ich den filtrirten Liquor wie-
+der in die Wärme, und hofte von den schwarzen und
+schweren Theilchen mehr zu bekommen; allein es ka-
+men keine mehr zum Vorschein, sondern nur noch et-
+was gelblich Pulver, welches nach und nach rosen-
+farbig fiel.
+
+Als der Liquor kein Pulver mehr niedersetzte, fil-
+trirte ich ihn, und sammelte alles erhaltene Pulver
+zusammen, welches 6 Grane wog. Das edulcorirte
+Pulver bekam an der Luft eine graue Farbe. Es
+war ganz flüchtig und verrauchte im Feuer. Als ich
+etwas davon in einem silbernen Löffel über glüende
+Kohlen hielt, ward es anfangs schön gelb, wie Bley-
+gelb, hernach schwärzlich. Weil ihm keine starke
+Hitze gegeben wurde, blieb etwas davon in dem Löffel
+
+<meta>catchword: liegen,</meta>
+
+<vocab>Alchymistische Briefe, Zuckergläschen, Kolbchen, Gran, Microscop, Cristallisationen, Zinngraupen, Erzten, Liquor, edulcorirte Pulver, Bleygelb</vocab>
+
+--- Page 33 ---
+<lang>de</lang>
+<page-num>29</page-num>
+<header>Vierter Brief.</header>
+<meta>catchword: theils</meta>
+
+liegen, welches aber alles verrauchte, als es unmit-
+telbar auf eine glüende Kohle gelegt wurde. Es müs-
+sen also diese *Feces* meistentheils aus Quecksilber be-
+stehen. Inzwischen lief der Löffel Kupferroth davon
+an; als er aber kalt worden war, sah er gelbbräun-
+lich aus und ohne Glanz.
+
+Den filtrirten *Liquor* ließ ich noch einige Tage in
+der Wärme stehen, worin er nun beständig klar blieb,
+und nichts weiters daraus werden wolte.
+
+Ich legte ihn darauf in einem Retörtchen im San-
+de zur Destillation ein, und trieb ihn stufenweise.
+Anfangs ging Wasser herüber, hernach ein wenig sehr
+penetranter Essig, und darauf ein gelber gleichfals
+sehr kräftiger säuerlich öhligter Spiritus, desgleichen
+von einer mit starkem Feuer getriebenen *Terra foliata*
+*tartari* zu entstehen pfleget, und einem *Spiritui ligni*
+*sancti* oder Theerwasser ähnlich ist. Vornen in dem
+Halse des Retörtchens legten sich einige weisse Blumen
+an, die den *Benzoe-Blumen* an ihrer Gestalt, aber
+nicht am Geruch, ganz ähnlich waren. Diese wa-
+ren nicht mercurialisch, und mußten von den brennba-
+ren Theilchen des Essigs und einer sich damit zusam-
+mengesetzten Säure herrühren. Hinten im Halse
+zeigte sich viel lebendiges Quecksilber. Ich ließ nun
+alles kalt werden, und fand den Bauch des Glases
+ganz mit Quecksilber belegt, am Boden aber ein
+kohlschwarzes *Residuum*. Ich brachte alles mit war-
+mem Wasser aus der Retorte heraus. Das daraus
+abgesonderte Quecksilber wog 2 1/2 Dragmen. Die
+*Solution* filtrirte ich, und behielt an ausgesüstem,
+kohligten, trocknem Pulver im *Filtrum* 12 Grane.
+Die Lauge schmeckte theils nach *Terra foliata tartari*,
+
+<vocab>Quecksilber, Feces, Liquor, Destillation, Spiritus, Terra foliata tartari, Spiritui ligni sancti, Theerwasser, Benzoe-Blumen, mercurialisch, Residuum, Dragmen, Solution, Filtrum, Grane</vocab>
+
+--- Page 34 ---
+<lang>de</lang>
+<page-num>30</page-num>
+<header>Alchymistische Briefe,</header>
+
+theils nach Kochsalz. Sie war ungefärbt. Ich setzte sie hin zur langsamen Evaporation.
+
+Die 12 Grane des erhaltenen kohligten Pulvers glüeten, in einem silbernen Löffel über glüende Kohlen gehalten, wie Zunder an. Der Löffel aber ward davon mit keiner Goldfarbe beleget. Es blieb nach dieser Verglüung noch ein wenig kohligtes Pulver zurück, welches nichts sonderliches zu enthalten schien.
+
+In dem *Liquor* fand ich im October sehr weisse undurchsichtige Salzcristallen. Ihre Figur war eigentlich nicht cubisch, sondern mehrentheils fünfeckigt. Sie waren zum Theil pyramidenweise über einander angeschossen, jedoch schmeckten sie, obwol etwas gelinder, wie Kochsalz.
+
+Der übrige wenige *Liquor* schmeckte wie *Liquor terrae foliatae tartari*, welches er auch noch würklich war. Ich verwunderte mich hierüber, indem ich geglaubt hätte, daß das *Arcanum tartari* hätte müssen ganz zerstöhret worden seyn, da ihm ein so starkes Feuer gegeben war, daß das Quecksilber sich hatte sublimiren können, und da das erhaltene kohligte Pulver anzeigte, daß die öhligten oder brennbaren Theilchen des Essigs verbrannt waren; da aber gleichwol noch ein würkliches *Arcanum tartari* zurück geblieben ist, so muß dieses unzerstöhrte *Arcanum* ohne Zweifel viel reiner, subtiler, und feuerbeständiger seyn, als ein gemeines *Arcanum tartari*, welches die gröbern Mischungen noch enthält, die aber hier ausgeschieden, und nur die feinern und fixern Mischungen zurück geblieben sind. Dieses wird denn wohl die Ursache gewesen seyn von dem besondern Vorfalle, der mir mit diesem *Liquor* begegnete, und hier angemerkt zu werden verdienet.
+
+<meta>catchword: Nach-</meta>
+
+<vocab>Kochsalz, Evaporation, Grane, kohligtes Pulver, Verglüung, Liquor, Salzcristallen, fünfeckigt, Liquor terrae foliatae tartari, Arcanum tartari, Quecksilber, sublimiren, Essig, feuerbeständiger</vocab>
+
+--- Page 35 ---
+<lang>de</lang>
+<page-num>31</page-num>
+<header>Vierter Brief. 31</header>
+
+Nachdem ich die fünfeckigten Salzcristallen aus dem Liquor ausgenommen hatte, ſetzte ich ihn, zu weiterer Verdünſtung, eine Nacht lang auf den war=men Stubenofen auf Sande hin. Am folgenden Nachmittage war das Glas ſowol, als der Ofen, kalt. Ich beſah den Liquor, der nun faſt ſo dick und von gleicher Farbe, als weiß Baumöhl, war. Ich wolte ihn koſten. Indem ich aber das Glas nieder=beugte, und mit der Spitze des Fingers den Liquor berührete, fing er an der Stelle, wo ich ihn berühret hatte, gleich an, ſich zu coaguliren. Dieſe ſtrahlig=te und fedrigte, ſchön anzuſehende Coagulation erſtreck=te ſich immer weiter, und zwar langſam durch den ganzen Liquor, bis er völlig gerann. Das alleron=derbarſte war, daß das Coagulum bey dieſer Gerin=nung ſo warm wurde, als wenn es über dem Feuer wäre erhitzt worden. Wie es mit dieſer Erwärmung eigentlich zugegangen iſt, weiß ich nicht deutlich zu er=klären. Ich löſete das Coagulum mit Waſſer wie=der auf, und wolte dieſe Gerinnung wiederholen, kon=te es aber nicht wieder treffen.
+
+Nun war noch die Unterſuchung der ſchwarzen metalliſchen Theilchen übrig. Ich legte ſie in einen ſilbernen Theelöffel über glüende Kohlen. Sie rauch=ten ein wenig, wurden anfänglich weiß und ſilberigt=glänzend, darauf roth, wie Röthel, und, als ich ſie vom Feuer nahm und kalt werden ließ, Pomeranzen=gelb. Sie behielten bey dieſer Calcination ihre criſtal=liniſche Geſtalt. Der Löffel lief, wie bey vorhingedach=tem gelblichen Pulver, mit einer Kupferfarbe an.
+
+Die calcinirten Partikeln wogen kalt noch 2 Gra=ne, hatten alſo 1 Gran verlohren. Ich theilete ſie in zwey gleiche Theile.
+
+<meta>catchword: Das</meta>
+
+<vocab>Salzcristallen, Liquor, Verdünstung, Stubenofen, Baumöhl, coaguliren, Coagulation, Gerinnung, metallischen Theilchen, Calcination, Grane</vocab>
+
+--- Page 36 ---
+<lang>de</lang>
+<page-num>32</page-num>
+<header>Alchymistische Briefe,</header>
+<meta>catchword: „ Von</meta>
+
+Das eine Theil mischte ich mit gleichviel Boraxglas, und schmolz es mit einem Löhtröhrchen auf einer Kohle zusammen. Es entstand dabey eine schöne blaue und grünliche Flamme. Die Materie schmolz in ein smaragdgrünes Glas oder Email zusammen, woran sich unten ein gelbes Metallkügelchen sehen ließ. Ausserdem war die ganze Massula mit gelben metallischen Häutchens durchwirkt, welches ihr ein schönes Ansehen gab. Sie lief aber in wenig Tagen an der Luft an und verlohr ihren Glanz.
+
+Das andere Theil brachte ich ohne Zusatz auf die Kohle. Es gab eine noch weit schönere und hellere Flamme. Es rauchte etwas, schmolz aber doch in verschiedene kleine metallische Kügelchen zusammen, die sich platt schlagen liessen, und meiner Meynung nach, sich auf dem Probierstein streichen, wie Kupfer, so mit etwas Silber vermischet ist.
+
+Ich sandte beyde Producte an den Herrn Constantini. Er antwortete, daß er die kleinen Metallmassen nicht für Kupfer, so mit Silber vermischet, halte, indem selbige im Strich sich anders verhielten; er habe 6= 8= 9= und 10löthig Silber dagegen gestrichen, und einen grossen Unterschied an der Farbe gesehen. Diese hätten alle weiß mit mehr oder weniger Roth vermenget, ausgesehen, nachdem sie mehr oder weniger Zusatz vom Kupfer gehabt hätten; die Massulæ hingegen sähen im Strich bleichgelb aus; indessen könte er mit Gewißheit nicht sagen, was es für ein Metall wäre, zumalen da man wegen der Wenigkeit keine rechte Proben damit anstellen könte.
+
+Indessen hatte Er sich doch die Mühe genommen, diese kleinen Massulas zu untersuchen, und schrieb mir darüber folgenden Bericht:
+
+<vocab>Boraxglas, Löhtröhrchen, smaragdgrünes, Email, Massula, Häutchens, Probierstein, Constantini, 10löthig, Massulæ</vocab>
+
+--- Page 37 ---
+<lang>de</lang>
+<page-num>33</page-num>
+<header>Vierter Brief.</header>
+
+# Vierter Brief.
+
+> „ Von dem Examine, ſo mit dem unbekannten
+> „ Metall vorgenommen, und von deſſen Ausgang
+> „ ſtatte hiemit Raport ab. Sie ſchickten ſub Nr. 1
+> „ eine kleine grüne Maſſam, als das Metall mit <term>Borax</term>
+> „ geſchmolzen, und ſub Nr. 2 ein Körnchen Me-
+> „ tall, ſo bloß geſchmolzen war.
+>
+> „ Ich machte den Anfang mit Nr. 1. Ließ die-
+> „ ſelbe in einem kleinen Glaſe mit etwa ½ Unze Waſ-
+> „ ſer ſtark kochen, da ſie dann mit Zurücklaſſung
+> „ zwey Stückchen Metall und gar wenig gelbliche,
+> „ dem NB. Bleyglaſe ähnliche Materie, aufgelöſet
+> „ wurde. Das Waſſer, ſo nach dem Kochen übrig
+> „ geblieben war, hatte nichts grünes an ſich, ſchmecke-
+> „ te wie <term>Borax</term>, und ganz nicht kupferigt. In ein
+> „ Theil dieſes Waſſers goß ich einfachen <term>Salmiakgeiſt</term>.
+> „ Es kam aber keine blaue Farbe zum Vor-
+> „ ſchein, ſondern blieb hell und klar. In ein ander
+> „ Theil dieſes Waſſers goß ich zerfloſſenes <term>Weinſteinſalz</term>.
+> „ Es veränderte weder die Farbe, noch
+> „ <term>präcipitirte</term> ſich etwas. Hieraus konte ich nichts
+> „ ſchlieſſen, ſondern mußte zur Probe des Metalles
+> „ ſelbſt ſchreiten.
+>
+> „ Ich nahm das Körnchen Nr. 2, that ſelbiges in
+> „ ein ſauberes Gläſchen, und goß etliche Tropfen
+> „ <term>Scheidewaſſer</term> darauf; da wurde das Metall ſo-
+> „ gleich ſilberweiß, davon ſtark angegriffen und in et-
+> „ lichen Minuten <term>ſolviret</term>, mit Hinterlaſſung ſehr we-
+> „ niger weiſſen grumeuſen Materie Das Scheide-
+> „ waſſer als das Solvens hatte ſeine Farbe nicht ver-
+> „ ändert, blieb weiß und klar, und ſchmeckte nicht
+> „ kupferigt, nahm auch weder grüne noch blaue Far-
+> „ be vom <term>Salmiakgeiſte</term> und zerfloſſenen <term>Weinſteinſalze</term>
+> „ an ſich, und <term>präcipirte</term> ſich ebenfals nicht.
+
+<sig>C</sig>
+<meta>catchword: Die</meta>
+
+<vocab>Examine, Metall, Borax, Salmiakgeiſt, Weinſteinſalz, Scheidewaſſer, ſolviret, präcipitirte, grumeuſen</vocab>
+
+--- Page 38 ---
+<lang>de</lang>
+<page-num>34</page-num>
+<header>Alchymistische Briefe,</header>
+<meta>catchword: ret</meta>
+
+> ,, Die zurück gebliebene weiſse grumeuſe Materie
+> ,, edulcorirte ich und ließ ſie trocken werden: alsdann
+> ,, nahm ich etwas davon und hielt es mit einer Nadel
+> ,, in die blaue Flamme eines Lichts; da ſchmelzte es
+> ,, ſofort in ein Kügelchen und blieb an der Nadel hän=
+> ,, gen. Dieſes legte ich auf ſtark Papier und drück=
+> ,, te es mit einem Spatel nieder, da es ſich gar leicht
+> ,, auf dem Papier ausdehnen ließ, und ſah nicht an=
+> ,, ders aus, als Bley. Ich machte eine Gegenpro=
+> ,, be mit einem Stückchen gemeines Bley, welches
+> ,, ſich in allem eben ſo verhielt. Die Wenigkeit der
+> ,, Materie ließ nicht zu, mehrere Proben damit anzu=
+> ,, ſtellen. Inzwiſchen entſteht hieraus eine wahr=
+> ,, ſcheinliche Muthmaſſung, daß der eine Beſtand=
+> ,, theil dieſes Metalles Bley ſey.
+
+> ,, Die zwey Stückchen Metall, ſo nach der <term>So=</term>
+> ,, <term>lution</term> der grünen Maſſe Nr. 1 übergeblieben, da=
+> ,, von das eine ſo groß, als ein Mohnſaamenkörnchen,
+> ,, war, das andere aber kaum den ſechſten Theil da=
+> ,, von ausmachte, lieſſen ſich platt und dünne ſchla=
+> ,, gen, und ſchienen ziemlich malleable zu ſeyn, und
+> ,, hatten eine ſchöne, etwas ins röthliche ſpielende
+> ,, Goldfarbe. Ich goß abermal etwas <term>Scheidewaſ=</term>
+> ,, <term>ſer</term> darauf; es verhielt ſich aber nicht anders, als
+> ,, bey Nr. 2, auſſer, NB. daß keine weiſse grumeuſe
+> ,, Materie zum Vorſchein kam. Ich diluirte dieſe
+> ,, Solution mit dreymal ſo vieles gemeines Waſſer,
+> ,, und ſetzte in einen Theil davon einen blanken eiſer=
+> ,, nen Drath, der davon in einer Stunde roth wurde.
+> ,, In den andern Theil goß ich etwas von der <term>Blut=</term>
+> ,, <term>lauge</term>, die zur Bereitung des <term>Berlinerblaues</term> ge=
+> ,, braucht wird; da präcipitirten ſich braunrothe Flok=
+> ,, ken, wie ſolche auch zum Vorſchein kommen, wenn
+> ,, in <term>Aquaſort</term> ſolvirtes Kupfer gleicher Weiſe tracti=
+
+<vocab>Alchymie, Materie, edulcorirte, Bley, Solution, malleable, Scheidewaſſer, Blutlauge, Berlinerblau, präcipitirten, Aquaſort</vocab>
+
+--- Page 39 ---
+<lang>de</lang>
+<page-num>35</page-num>
+<header>Vierter Brief.</header>
+
+## Vierter Brief.
+
+> ,, ret wird; jedoch mit dem Unterschied, daß die So-
+> ,, lution des gemeinen Kupfers grün \*) wird, von die-
+> ,, sem Metall hingegen blieb solche hell und klar, und
+> ,, die auch mit keinen Reagentibus konte geändert wer-
+> ,, den, wie oben gemeldet. Aus diesen nun ist zu
+> ,, schliessen, daß der andere Bestandtheil Kup-
+> ,, fer sey.
+>
+> ,, Wolte man fragen: woher das Kupfer und
+> ,, Bley gekommen, da Sie weder das eine noch das
+> ,, andere dazu genommen haben? so muß gestehen,
+> ,, daß die Sache sehr abstruse ist; gleichwol aber,
+> ,, wenn Sie das Arcanum tartari cristallisatum aus
+> ,, dem holländischen Bleyzucker gemacht haben solten,
+> ,, würde die Ursache so verborgen nicht seyn, maassen
+> ,, dasselbe aus Bleyglätte, welches Kupferhaltig ist,
+> ,, präpariret wird: da denn, wenn durch die Präcipi-
+> ,, tation mit Laugensalz das Arcanum tartari daraus
+> ,, gemacht wird, es so genau nicht abgehen kan, daß
+> ,, nicht einige Atomen Bley und Kupfers in der So-
+> ,, lution bleiben solten. Solten Sie aber das Ar-
+> ,, canum tartari nicht aus Bleyzucker gemacht haben,
+> ,, so weiß mir nicht zu helfen. Auch ist es schwer zu
+> ,, erklären, warum weder blaue noch grüne Farben
+> ,, durch reagentia zum Vorschein gekommen sind \*\*).
+> ,, Warum aber bey der Solution der zwey Stück-
+> ,, chen Metall aus der grünen Masse Nr. 1 keine
+> ,, weisse grumose Materie zurück geblieben sey? hat
+> ,, wol der Borax verursachet, maassen etwas davon
+<sig>C 2</sig>
+<meta>catchword: ,, mit</meta>
+
+---
+
+\*) Eine Solution des Kupfers in einem reinen Salpeterspiritus wird nicht grün, sondern blau. — Anmerk. des Hrn. Meyers.
+
+\*\*) Dieses rühret wol von der allzugrossen Wenigkeit des solvirten Kupfers her. — Anmerk. des Hrn. M.
+
+<vocab>Kupfer, Bley, Solution, Arcanum tartari cristallisatum, Bleyzucker, Bleyglätte, Präcipitation, Laugensalz, Borax, Salpeterspiritus, Hr. Meyer</vocab>
+
+--- Page 40 ---
+<lang>de</lang>
+<page-num>36</page-num>
+<header>Alchymistische Briefe,</header>
+
+> ,, mit dem Bley zu Glase geworden ist, welches aber
+> ,, gemeldetes gelbes Pulver bedeutet. "
+
+So geschickt war der Herr Constantini, nicht allein eine Untersuchung mit so kleinen Partikeln anzustellen und zu beurtheilen, sondern auch deren Herkunft errathen zu können. Er hat es getroffen. Denn das zu dem Versuche gebrauchte <term>Arcanum tartari</term> war würklich mit dem holländischen <term>Bleyzucker</term> bereitet. Ich hatte damals für jemanden ein <term>Magisterium Saturni</term> in einer ziemlichen Menge bereiten müssen. Ich wählete dazu das holländische <term>Bleyzucker</term> und zum Niederschlag <term>Cristallos Sodae</term>. Die zurück bleibende Lauge wolte ich nicht weggießen, sondern bereitete daraus das <term>Arcanum tartari</term>. Damit ich aber verhüten möchte, daß mein Arcanum kein Bley enthielte, so übersetzte ich nicht allein die Lauge mit dem alkalischen Salze, welches ich hernach wieder mit destillirtem Essig sättigte, sondern lösete auch das Arcanum in Weingeist auf, filtrirte die Solution, und ließ das Arcanum in dem Weingeiste cristallisiren. Solches war überaus schön, und, meiner Meinung nach, ganz rein. Ich mußte aber bey diesem Versuche dennoch zu meiner Warnung erfahren, daß nicht allein Bley, sondern auch Kupfer darin enthalten war, so wenig es denn auch nur immer seyn möchte.
+
+Darin schien mir aber der Doctor Constantini zu irren, wenn er glaubte, daß das holländische <term>Bleyzucker</term> aus der <term>Bleyglätte</term> bereitet würde. Denn 1) so kan man nicht leicht aus der Glätte ein cristallisirtes <term>Beyzucker</term> bereiten, und 2) weiß ich, daß in Holland das Bleyzucker bey der Bereitung des <term>Bleyweisses</term> aus bloßem Bley als eine Zugabe erhalten wird, daher es denn eben komt, daß es so wolfeil ist.
+
+<sig>Es</sig>
+<meta>catchword: Es</meta>
+
+<vocab>Constantini, Arcanum tartari, Bleyzucker, Magisterium Saturni, Cristallos Sodae, Lauge, alkalischen Salze, destillirtem Essig, Weingeist, Bleyglätte, Bleyweisses</vocab>
+
+--- Page 41 ---
+<lang>de</lang>
+<page-num>37</page-num>
+<header>Vierter Brief.</header>
+<sig>C 3</sig>
+<meta>catchword: Fünf</meta>
+<vocab>Bleyzucker, Arcani tartari, Präcipitation, Vitriolöhl, Osnabrück, Joh. Fried. Meyer</vocab>
+
+## Vierter Brief.
+
+Es kan aber auch selbst das Bley etwas Kupfer ent-
+halten, und es enthält es gemeiniglich, wie ich mich
+erinnere irgendwo gelesen zu haben.
+
+Ob nun gleich dieses <term>Bleyzucker</term> zur Bereitung
+des <term>Arcani tartari</term> durch die blosse <term>Präcipitation</term> sich
+nicht wol schicken will, so kan man es doch sehr nützlich
+anwenden, und mit einem nicht caustischen <term>Vitriolöhl</term>
+und Wasser einen vortreflichen, starken, wenig kosten-
+den und viel reineren Essig, als der gemeine ist, dar-
+aus destilliren, womit man hernach auch das <term>Arca-</term>
+<term>num tartari</term> ganz sicher und absque labe bereiten kan.
+Dieser Essig ist ganz rein und mit <term>Vitriolöhl</term> nicht in-
+quiniret, wenn die Proportion recht eingerichtet ist.
+
+Ich empfehle mich Ihnen freundlichst ---
+
+Osnabrück,
+den 23<sup>ten</sup> May 1764.
+
+->Joh. Fried. Meyer.<-
+
+--- Page 42 ---
+<lang>de</lang>
+<page-num>38</page-num>
+<header>— ✥ —</header>
+<sig>C 3</sig>
+<meta>catchword: Glan-</meta>
+
+---
+
+## Fünfter Brief.
+
+---
+
+**N**achdem ich von der verschiedenen Bereitung des Konstantinischen Pulvers, welches man einen *Mercurium tartarifatum* nennen könnte, gehandelt habe: so wünschte ich nun auch von dessen Verhalten und nützlichen Anwendung vieles melden zu können. Ich kan aber sehr wenig davon sagen, indem ich damals schon mit der Untersuchung des Kalchs den Anfang gemacht hatte, welcher mir zu so vielen Gedanken Anlaß gab, daß ich bis auf eine andere Zeit die weitere Betrachtung dieses Pulvers aussetzte, welche ich auch jezo noch nicht aufgegeben habe.
+
+Unterdessen unterließ ich doch nicht, mit meinen verschiedenen Pulvern einige wenige Proben anzustellen, damit ich doch ihre Wirkung auch mit meinen eigenen Augen sehen möchte.
+
+Der erste Versuch war, daß ich ein weniges von den Pulvern, nach des Erfinders Anweisung, in silbernen Löffeln über einem Kohlenfeuer an einem offenen Orte verrauchen ließ. Die Löffel liefen davon mit einer Goldfarbe an. Ich muß gestehen, daß, wenn ich selbst diese Versuche zuerst angestellet hätte, ich nimmermehr daraus geschlossen haben würde, daß diese Anfärbung des Silbers für eine wahre Ueber-goldung anzusehen wäre: indem ich längst bemerket, daß auch ein leerer silberner Löffel über dem Feuer mit einer Goldfarbe anläuft, welche der mit dem Pulver hervorgebrachten Farbe nicht sehr unähnlich ist. Dennoch kan man an der Verschiedenheit der Farbe, des
+
+<vocab>Konstantinisches Pulver, Mercurium tartarifatum, Kalch, Silber, Ueber-goldung, Proben, Kohlenfeuer</vocab>
+
+<detected-images>
+[
+{"description": "Typographic horizontal ornament with a central floret and dashes", "type": "decorative", "bbox": {"x": 0.612, "y": 0.088, "width": 0.197, "height": 0.021}, "gallery_quality": 0.3, "museum_rationale": "Standard 18th-century typographic ornament used for section division."},
+{"description": "Decorative divider line consisting of a row of rosettes or asterisks", "type": "decorative", "bbox": {"x": 0.476, "y": 0.126, "width": 0.462, "height": 0.017}, "gallery_quality": 0.2, "museum_rationale": "Common printer's decorative line for visual separation."},
+{"description": "Ornamental woodcut drop cap letter N", "type": "decorative", "bbox": {"x": 0.468, "y": 0.218, "width": 0.082, "height": 0.065}, "gallery_quality": 0.5, "museum_rationale": "Typical decorative initial of the Fraktur tradition, used to mark the start of a new section."}
+]
+</detected-images>
+
+--- Page 43 ---
+<lang>de</lang>
+<page-num>39</page-num>
+<header>Alchymistische Briefe, Fünfter Brief.</header>
+<sig>C 4</sig>
+<meta>catchword: Gold-</meta>
+
+Glanzes, der <term>Dichtigkeit</term> und <term>Beständigkeit</term> der <term>Goldfarbe</term>, die der Löffel von dem verrauchenden <term>Pulver</term> erlanget, schon einigen Unterschied bemerken von der-jenigen <term>Goldfarbe</term>, die ein leerer Löffel blos von dem <term>Feuer</term> erhält. Man muß nur beyde Versuche zu-gleich anstellen und gegen einander halten.
+
+Es ist merkwürdig, daß das <term>Silber</term> nicht allein von dem <term>Feuer</term>, von unserm <term>Pulver</term>, und von dem *Sulphure aurato antimonii*, sondern auch von einem gekochten <term>Stockfisch</term>, und dem hartgekochten <term>Eyerweiß</term> mit einer starken <term>Goldfarbe</term> belegt wird, (unge-kochtes <term>Eyerweiß</term> färbt das <term>Silber</term> nicht.) Warum äussern diese einander so unähnliche Dinge, einerley Würkung an dem <term>Silber</term>, wenigstens was die Farbe betrift, wenn nicht mehreres dahinter stecket? und warum läuft das weisse <term>Zinn</term> von diesen Dingen nicht ebenfalls mit einer <term>Goldfarbe</term> an? Diese Fragen scheinen eines weitern Nachdenkens würdig zu seyn. Ich werde künftig Gelegenheit haben, sie weiter zu betrachten.
+
+Die <term>Goldfarbe</term>, die von der <term>Verrauchung</term> des <term>Pulvers</term> in dem Löffel entstehet, leget sich nicht allein auf die Oberfläche des <term>Silbers</term> an, sondern scheinet auch tiefer in dasselbe eindringen zu können. Denn als ich einmal etwas von dem <term>Pulver</term> (es war dasje-nige, welches mit dem *Seignettesalz* bereitet war,) in einem silbernen Löffel hatte verrauchen lassen, und alle <term>Goldfarbe</term> mit <term>Salz</term> und <term>Wasser</term> wieder davon abgerieben hatte, darauf den Löffel mit einem leinenen Tuche wieder abtrocknete, so erschien an dem Orte des Löffels, wo das <term>Pulver</term> gelegen hatte, und so weit es darin war ausgebreitet gewesen, aufs neue eine hohe und überaus schön glänzende und strahlende
+
+<vocab>Goldfarbe, Silber, Sulphure aurato antimonii, Stockfisch, Eyerweiß, Zinn, Verrauchung, Seignettesalz, Alchymie</vocab>
+
+--- Page 44 ---
+<lang>de</lang>
+<page-num>40</page-num>
+<header>Alchymistische Briefe,</header>
+
+Goldfarbe, die sich aber mit Salz abreiben ließ, und darauf nicht wieder zum Vorschein kam. Dieses Phänomen benahm mir allen Zweifel an der Wahrheit der Constantinischen Geschichte.
+
+Des Erfinders Art und Weise sein Pulver an das Silber und Bley anzubringen, kan unmöglich die beste und nützlichste seyn. Denn bey dieser Auftragung des <term>tingirenden Pulvers</term>, wird sich kaum der tausendste Theil der subtilen tingirenden Materie in diese Metalle einfangen können, und das allermeiste sich in die Luft verlieren müssen, zu geschweigen, daß es mit dieser Verrauchung des <term>Quecksilbers</term> eine ungesunde Arbeit ist.
+
+Ich versuchte daher auf eine andere Art dem Silber ein mehrers von der tingirenden Materie beyzubringen. Ich schüttete ½ <term>Dragme</term> von dem Pulver, welches mit <term>Tartaro tartarisato</term> gemacht war, in einen kleinen Schmelztiegel, legte ausgebrannt <term>Fadensilber</term> darüber, wovon der Tiegel voll ward; ich <term>lutirte</term> einen umgekehrten Tiegel darüber, ließ aber doch eine kleine Oeffnung. Ich setzte ihn in todte Kohlen, und ließ das Feuer von oben angehen, damit das Silber vorher heiß werden möchte, ehe das Pulver verrauchen könte. An der kleinen Oeffnung zeigte sich endlich ein Dampf, woraus ich schliessen konnte, daß das Pulver nunmehro verrauchte. Als der Dampf aufhörte, ließ ich alles kalt werden, und öfnete den Tiegel. Ich hätte gedacht, daß die Dünste des verrauchenden Pulvers, denen ich auf diese Art Millionen silberner Oberflächen vorgelegt hatte, das Silber würden gelb gefärbt haben; allein ich bekam es fast noch weisser wieder, als ich es eingelegt hatte. (Vielleicht ist hier die Ermangelung der freyen
+
+<meta>catchword: Luft</meta>
+<vocab>Goldfarbe, Constantinische Geschichte, Silber, Bley, tingirendes Pulver, Quecksilber, Tartaro tartarisato, Schmelztiegel, Fadensilber, lutiren</vocab>
+
+--- Page 45 ---
+<lang>de</lang>
+<page-num>41</page-num>
+<sig>C 5</sig>
+<meta>catchword: kroscop</meta>
+<vocab>Silber, Weinstein, Quecksilber, Mercurio, Mercurium animatum, Drachmen, Retorte, Residuum, Spiritus carminativus de tribus, Mikroscop</vocab>
+
+## Fünfter Brief.
+
+Luft Schuld daran, daß das Silber nicht ist tingiret worden; oder es ist einiger Unterschied unter den Pulvern.) Unter dem Silber fand ich das schwarze kohligte Pulver von dem verbranten <term>Weinstein</term>, in dem obern Tiegel aber einen Thau von <term>Quecksilber</term>. Diesen brachte ich in ein Kügelchen, als eine halbe Erbse groß zusammen, und ließ ihn in einem silbernen Löffel verrauchen; der Löffel ward davon in- und auswendig schön vergoldet, und man konnte an einigen Stellen des Löffels deutlich erkennen, daß er nicht mit einer blossen Farbe, sondern mit einem dichten gelben metallischen Wesen überzogen war. In dem Löffel blieb von dem verrauchten Quecksilber ein brauner tiefer Fleck zurück, und auf demselben ein wenig pomeranzenfarbiges Pulver. Dieses alles gefiel mir an diesem *Mercurio* nicht übel, und man kann ihn, wie es scheint, für einen *Mercurium animatum* halten, der also auf diese Weise leicht zu bereiten wäre.
+
+Nach diesem Versuche trieb ich 2 *Drachmen* von dem Pulver in einer kleinen *Retorte* stufenweise. Ich erhielt davon 1 *Drachme* lebendiges Quecksilber. Das vorgelegte Wasser war etwas gefärbt, und hatte, wie auch das kohligte *Residuum*, einen feinern Geruch wie Weinstein*spiritus*, fast so wie der *Spiritus carminativus de tribus*. Ich drückte das Quecksilber durch ein Tüchlein. Es war schön und hell, schien ein wenig zäher zu seyn, als das gemeine Quecksilber, jedoch am Rande sehr erhaben, und wohl flüßig.
+
+Einer Linse groß davon im silbernen Löffel verraucht, vergoldete den Löffel inwendig und auswendig, hinterließ einige Häuſlein im Löffel, welche durchs Mi-
+
+--- Page 46 ---
+<lang>de</lang>
+<page-num>42</page-num>
+<header>Alchymistische Briefe,</header>
+<meta>catchword: than,</meta>
+
+kroſcop als eine criſtalliniſche Germination auſſahen,
+gelb, bräunlich, und hin und wieder wie Gold glän-
+zend. Ich goß einige Tropfen **Aquaregis** in den Löf-
+fel, welches gelb grünlich wurde, und das meiſte Re-
+ſiduum ſolvirte, auch wo es herlief, die Goldfarbe des
+Löffels ſogleich hinweg nahm.
+
+Das übrige <term>Queckſilber</term> wog noch 48 Grane.
+Ich wolte es mit <term>Silber</term> amalgamiren, und nahm
+dazu Blatſilber (5 Blätter wogen 1 Gran.) Zur
+Probe, ob dieſes Silber auch Kupferartig wäre, über-
+goß ich es mit **Salmiakgeiſt**, welcher aber davon
+nicht blaulich wurde, ſondern ganz ungefärbt blieb.
+Es war alſo dieſes Silber rein.
+
+Nun nahm ich 25 Blat, alſo 5 Grane Silber,
+und vermiſchte damit das Queckſilber. Das **Amal-
+gama** hatte die Conſiſtenz eines Liniments, und war
+grau wie <term>Tutia</term>. Ich wuſch es durch Reiben mit
+Waſſer, bis es hell ward, ließ darauf das Queckſil-
+ber in einem eiſernen Löffel nach und nach gelinde über
+dem Feuer verrauchen. Das, was zurück blieb, war
+eine weiſſe Maſſe, unter dem Mikroſcop glänzend und
+wie gewachſen anzuſehen. Sie wog 6 Grane.
+
+Ich ließ dieſe kleine Maſſe mit <term>cryſtallis ſodæ</term> in
+ein Kügelchen zuſammen ſchmelzen. Dieſes hatte das
+vorige Gewicht des Silbers, und wog 5 Grane.
+
+Dieſes Silber ſolvirte ich in einem reinen **Salpe-
+terſpiritus**. Die Solution ließ einige wenige ſichtliche
+ſchwarze <term>Feces</term> fallen; ob dieſe aber güldiſch geweſen
+ſind, war mir, wegen der Wenigkeit, unmöglich zu
+beſtimmen. Vielleicht habe ich auch nicht wohl ge-
+
+<vocab>Queckſilber, Silber, Amalgamiren, Aquaregis, Salmiakgeiſt, Tutia, Mikroſcop, cryſtallis ſodæ, Salpeterſpiritus, Feces</vocab>
+
+--- Page 47 ---
+<lang>de</lang>
+<page-num>43</page-num>
+<meta>catchword: das</meta>
+
+### Fünfter Brief.
+
+than, daß ich das Amalgama gewaschen habe; viel-
+leicht habe ich daraus etwas weggenommen, welches
+hätte dabey bleiben müssen.
+
+Dieses sind die kleinen und wenigen vorläufigen
+Versuche, die ich mit den Pulvern anfänglich ange-
+stellt habe, und wobey ich doch wenigstens das Gold
+deutlich genug gesehen habe. Nachhero habe ich noch
+nichts weiter damit vorgenommen, woraus E. H. E.
+leicht erkennen können, daß ich keinen grossen Eifer
+bezeigt habe, einen weitern Nußen, als eine mehrere
+Erkenntniß daraus zu ziehen. Indessen halte ich die-
+sen Mercurium tartarisatum aller weitern Untersuchung
+und Betrachtung würdig; werde auch, so GOtt will,
+in dem bevorstehenden Winter, ein mehreres von den
+Pulvern bereiten, und dabey auch Achtung geben:
+ob das Pulver mit dem Borax etwa wegen des ein-
+gemischten Sedativsalzes vor den andern vorzüglicher
+sey. Könte man endlich zu einem Kunststückchen
+gelangen, ohne Jemandes Schaden und zu vieler an-
+dern Nußen, dadurch etwas zu erwerben, so wäre
+eine solche Bemühung ja nicht zu verwerfen.
+
+Es scheinet, daß durch diesen merkurialischen Prä-
+cipitat auf eine andere Weise, als nach des Erfin-
+ders Verfahren, eine nüzlichere und leichtere Erzeu-
+gung des Goldes könne hervorgebracht werden.
+Vielleicht könte man in einem etwas hohen erhizten
+silbernen Gefässe das Pulver verrauchen lassen, das
+erzeugte Gold mit Salze abreiben, und aus dem Salze
+wieder sammeln; dieses könte man auch mit dem Bley
+versuchen, wenn man es, nach des Erfinders Me-
+thode, mit der Goldfarbe hat belaufen lassen. Man
+könte das aus dem Pulver revivificirte Quecksilber,
+
+<vocab>Amalgama, Mercurium tartarisatum, Borax, Sedativsalz, Präcipitat, Quecksilber, Gold, Bley, Alchemie</vocab>
+
+--- Page 48 ---
+<lang>de</lang>
+<page-num>44</page-num>
+<header>Alchymistische Briefe,</header>
+
+das allerdings ein besonderes feuriges Mixtum ent-
+halten muß, mit Gold, Silber oder Bley amal-
+gamiren, digeriren, und allerhand Versuche viâ siccà
+damit anstellen. Da auch diese Pulver sich in Sal-
+peterspiritus auflösen, so könten auch viâ humida
+allerhand Experimente damit vorgenommen werden.
+
+Von der Möglichkeit der Transmutation des
+Quecksilbers in Gold, hat man so viel glaubwürdige
+Erzählungen, daß man ohnmöglich alle für lauter
+Fabeln halten kan. Die neueste Historie erzählet
+der berühmte Arzt in Frankfurt am Mayn, Doctor
+Burggrafe, in Nov. Actor. physico-med. pag. 310.
+Observ. LXXIX: da der wohlbekannte Materialist
+daselbst, Herr Joh. Mich. Koch, durch ein drey
+Aß schweres und wie ein Eisensafran aussehendes
+Pulver, welches ihm von einem Franzosen gegeben
+worden, aus 2 Unzen Quecksilber 6 1/4 Dragmen des
+besten Goldes bereitet hat. In dem Tractat: die
+Edelgebohrne Jungfer Alchimia, sind mehr Hi-
+storien von der Transmutation des Quecksilbers in
+Gold zu lesen.
+
+Meines Theils erkenne ich theoretisch, nach
+denen in meinem Tractat über den Kalch, 2c.
+von dem Quecksilber hin und wieder bereits ge-
+äusserten Gedanken, daß solches nach seiner elemen-
+tarischen Mischung dem Golde sehr nahe sey, und
+näher als dem Silber. Vielleicht haben auch eben
+deswegen die alten Philosophen dem Quecksilber den
+Nahmen desjenigen Planeten beygeleget, der der
+Sonne am nächsten stehet, und von ihr das meiste
+Licht erhält; dem Silber aber den Nahmen des-
+jenigen Planeten ertheilet, der der Erde am nächsten
+
+<meta>catchword: stehet,</meta>
+
+<vocab>Alchymistische Briefe, Transmutation, Quecksilber, Gold, Silber, viâ siccà, viâ humida, Doctor Burggrafe, Joh. Mich. Koch, Eisensafran, Alchimia, Kalch, Planeten</vocab>
+
+--- Page 49 ---
+<lang>de</lang>
+<page-num>45</page-num>
+<header>Fünfter Brief.</header>
+
+stehet, und von der Sonne viel weniger Licht er-
+hält, als der Mercur. Doch ich kan nicht sagen,
+ob diese Gedanken die Motiven der alten chymi-
+schen Täufer gewesen sind, und sie mögen immer
+Allusionen bleiben. Wenigstens lege ich sie kei-
+nesweges zum Grunde desjenigen, was ich im
+folgenden Schreiben von der Aehnlichkeit des Queck-
+silbers mit dem Golde, und von der Fähigkeit des
+Silbers, mehrere Lichttheilchen annehmen zu kön-
+nen, zu einiger Erklärung unsers Processes, mel-
+den werde.
+
+Ich bin — —
+
+Osnabrück,
+den 28<sup>ten</sup> Sept. 1764.
+
+->Joh. Fried. Meyer.<-
+
+<meta>catchword: Sechs-</meta>
+<vocab>Mercur, Gold, Quecksilber, Silber, Lichttheilchen, chymischen Täufer, Osnabrück, Joh. Fried. Meyer, Alchemie</vocab>
+
+--- Page 50 ---
+<lang>German</lang>
+<page-num>46</page-num>
+<meta>catchword: trockene,</meta>
+
+---
+
+---
+
+## Sechster Brief.
+
+### Seneca ad Lucilium.
+
+### Epist. XLV.
+
+> Qualescunque sunt libri mei, tu illos sic lege, tanquam verum quaeram adhuc, non sciam, et contumaciter quaeram. Non enim me cuiquam emancipavi, nullius nomen fero: Multum magnorum virorum judicio credo, aliquid et meo vindico. Nam illi quoque non inventa, sed quaerenda nobis reliquerunt.
+
+In den vorigen Briefen habe ich den Conſtanti-
+niſchen Proceß nach der Praxis einigermaßen
+unterſuchet. Es iſt nun noch übrig, daß ich
+ihn auch nach der Theorie, und zwar nach meinen
+jetzigen chymiſchen Grundſätzen betrachte.
+
+In dem fünften Briefe habe ich geſagt, daß das
+Queckſilber dem Golde ſehr nahe ſey, und näher als
+dem Silber. Will ich nun ſowol hievon, als zur
+Erklärung unſers Proceſſes etwas nur einigermaßen
+Wahrſcheinliches ſagen, ſo wird es nöthig ſeyn, daß
+ich zuerſt die allgemeinen Begriffe, die ich von den
+Metallen angenommen habe, anzeige.
+
+Ich nehme die Metalle überhaupt, ſie mögen
+ganze oder halbe, edle oder unedle Metalle ſeyn und
+genennet werden, für mineraliſche, ſchwere, dichte,
+
+<vocab>Conſtantiniſchen Proceß, chymiſchen Grundſätzen, Queckſilber, Metalle, mineraliſche</vocab>
+
+<detected-images>
+[{"description": "Decorative divider featuring a central star and horizontal bars", "type": "decorative", "bbox": {"x": 0.551, "y": 0.088, "width": 0.285, "height": 0.02}, "gallery_quality": 0.3, "museum_rationale": "A simple typographic ornament common in 18th-century German printing."},
+{"description": "A horizontal row of decorative floral fleurons", "type": "decorative", "bbox": {"x": 0.493, "y": 0.134, "width": 0.47, "height": 0.016}, "gallery_quality": 0.3, "museum_rationale": "Standard printer's ornaments used to demarcate sections of the text block."},
+{"description": "Large decorative woodcut initial 'I' with floral scrollwork motifs", "type": "decorative", "bbox": {"x": 0.492, "y": 0.464, "width": 0.062, "height": 0.059}, "gallery_quality": 0.6, "museum_rationale": "A stylized historiated initial typical of scientific and philosophical treatises from the Enlightenment era."}]
+</detected-images>
+
+--- Page 51 ---
+<lang>de</lang>
+<header>Alchymistische Briefe. Sechster Brief.</header>
+<page-num>47</page-num>
+
+trockene, glänzende und mehr oder weniger harte und
+ausdehnbare Körper an, die im Feuer mit einer dem
+Quecksilber ähnlichen Gestalt fliessen. Ich nehme sie
+für Körper an, denen keine organische Gefäße, wie
+den Thieren und Pflanzen gegeben sind oder gegeben
+werden, die folglich sich auch nicht aus einem Saa-
+men, wie die organischen Körper, erzeugen; sondern
+aus vielen Lichttheilchen, mehr oder wenigerm Was-
+ser, mehr oder wenigerm Erde, und so vieler reinen
+Luft oder <term>Acido pingui</term>, als zur Verbindung der übri-
+gen Elemente nöthig ist, auf verschiedene Art, Zahl,
+Maaß und Reinigkeit, aus diesen Elementen durch
+eine bloße Zusammensetzung entstanden sind, welche
+aber doch nicht von ohngefähr geschehen ist, sondern
+unter dem Willen und der Regierung eines höchst-
+weisen Wesens gestanden hat und noch stehet.
+
+## Anmerkung.
+
+Wenn ich hier die Erde mit unter die Ele-
+mente der metallischen Körper rechne, so thue
+ich solches noch mit denjenigen Zweifeln, die
+ich in dem Anhange meines Tractats S. 392
+und 404 bereits geäuſſert habe. Ich weiß noch
+nicht, ob zur Erzeugung der Metalle eine schon
+vorhin erzeugte und fertig da gewesene Erde in
+die Mischung der Metalle ist aufgenommen wor-
+den; und ob nicht wenigstens Gold, Quecksilber
+und Silber, blos aus dem Lichte, <term>acido pingui</term>
+und Wasser zusammen gesetzt sind. Kan gleich
+aus den Metallen eine Art Glas gemacht wer-
+den, welches, wenn es zum Pulver zerrieben ist,
+einen erdigten Körper, der einem Sande ähnlich
+ist,
+
+<meta>catchword: ist,</meta>
+
+<vocab>Alchymistische Briefe, Quecksilber, Lichttheilchen, Acido pingui, Metalle, Gold, Silber, Anmerkung, Tractat</vocab>
+
+--- Page 52 ---
+<lang>de</lang>
+<page-num>48</page-num>
+<header>Alchymistische Briefe,</header>
+
+ist, vorstellet; so bleibt es doch noch allemal eine Frage, ob dieser, dem Ansehen nach, erdigte Körper nicht erst durch das Feuer, theils durch eine Versetzung der elementarischen Metalltheilchen und theils durch eine neue Anlegung der Lichttheilchen und des <term>Acidi pinguis</term> aus dem Feuer, zu der glasigten und erdigten Gestalt sey gebracht worden. Auch sind nicht alle Dinge, die in dem Feuer eine dem Glase, Cristall oder Kieselstein ähnliche Gestalt annehmen, deswegen Erden, sondern bleiben von dem gemeinen Glase und Cristallsteinen sehr unterschieden; und obgleich zu dem gemeinen Glase würkliche Erden sind genommen worden, so bestehet es doch nicht aus denen blossen Erden, sondern es ist Licht und <term>Acidum pingue</term> aus dem Feuer hinzugekommen. Ein mit gutem Feuer geschmolzener Borax siehet einem Glase vollkommen ähnlich, und heisset daher Borax-Glas; dennoch ist er noch Borax, und das vermeynte Glas lasset sich in kochendem Wasser wieder auflösen. So siehet auch die <term>Scoria succinea</term> des <term>reguli antimonii martialis</term> einem Glase ähnlich, und ist dem ohngeachtet noch ein Salz. Ein Bleyglas wird durch ein zugesetztes <term>Phlogiston</term> wieder zu Bley, und ein <term>Vitrum Antimonii</term> wieder zum <term>Regulo</term>.
+
+Es sind aber die Metalle feurige oder lichtvolle Körper, die zwar, den Zink ausgenommen, nicht mit einer Flamme brennen können, aber doch, von allen andern Körpern in allen Reichen der Natur, am allermeisten von der Materie des Lichts in ihrer Grundmischung besitzen.
+
+<meta>catchword: Daß</meta>
+
+<vocab>Alchymistische Briefe, Acidi pinguis, Acidum pingue, Borax, Borax-Glas, Scoria succinea, reguli antimonii martialis, Phlogiston, Bleyglas, Vitrum Antimonii, Regulo, Zink</vocab>
+
+--- Page 53 ---
+<lang>de</lang>
+<page-num>49</page-num>
+<sig>D</sig>
+<meta>catchword: garn,</meta>
+<warning>There is slight bleed-through/ghosting of text from the reverse side of the page.</warning>
+
+## Sechster Brief.
+
+Daß sie die Materie des Lichts besitzen, beweise ich
+
+1) aus ihrer Abneigung von dem Wasser, welche eben sowohl an den Metallen, als an dem reinen Lichte wahrzunehmen ist, von welcher Abneigung ich in meinem Tractate ein mehreres gesagt habe. Kein Metall gehet eine innige Verbindung mit reinem Wasser ein; und ob sie sich gleich durch ein wässerigtes <term>Acidum</term> in ihre kleinste <term>partes integrantes</term> voneinander theilen lassen, so bleiben diese Theilchen doch noch, was sie vor der Zertheilung waren. Am deutlichsten sehen wir die Abneigung der Metalle von dem Wasser an dem Quecksilber, als welches, ob es gleich ein flüssiger Körper ist, und in seiner Grundmischung vieles Wasser besitzen muß, sich doch keinesweges mit Wasser verbinden will, obgleich durch die Kochung und Schüttelung des Quecksilbers mit Wasser, einige Theilchen dieses subtilen Körpers in die Zwischenräumchen des Wassers eintreten können.
+
+2) Aus den Farben, welche sie in und ausser dem Feuer in ihren Behandlungen mit andern Körpern zeigen, indem alle Farben von der Materie des Lichts herrühren.
+
+3) Aus ihrem Glanze, den sie bey einem auch geringen Lichte von sich zurück werfen; wie denn das reine Gold oft schon aus seiner <term>Matrice</term> mit dem hellesten Glanze in die Augen strahlet. Ich besitze ein kleines Stück eines Quarzes aus Ungarn,
+
+<vocab>Materie des Lichts, Abneigung von dem Wasser, Tractate, Acidum, partes integrantes, Zertheilung, Quecksilber, Grundmischung, Farben, Glanze, Gold, Matrice, Quarzes, Ungarn</vocab>
+
+--- Page 54 ---
+<lang>de</lang>
+<page-num>50</page-num>
+<header>Alchymistische Briefe,</header>
+<meta>catchword: 7)</meta>
+
+garn, in welchem eine sehr kleine Goldmasse, nicht
+mit einem matten gelben Schein, sondern mit ei-
+nem sehr hellen Glanze zu sehen ist.
+
+4) Aus ihrer mehrerern oder wenigern Feuer-
+beständigkeit. Gold und Silber werden zwar ge-
+meiniglich nur fix genennet, weil sie auch in ei-
+nem anhaltenden Feuer unverändert bleiben, indem
+keine Glut das reine Feuerwesen, nemlich das
+Licht, verbrennen und zerstöhren kan. Bey den
+unedlern Metallen aber brennet zwar wol ihr <term>Phlo-
+giston</term> aus, wodurch sie die metallische Gestalt ver-
+lieren; indessen bleibet doch in ihren <term>Crocis</term>, <term>Vitris</term>
+und <term>Kalchen</term> die specifike metallische Grundmischung
+noch allemal fix vorhanden, wie man an der <term>Re-
+duction</term> dieser Kalche leicht erkennen kan.
+
+5) Aus der starken Erhitzung, die sie durch
+Reiben und Schlagen erlangen, so daß sie da-
+durch glüend werden, unsern Augen ihre Lichttheil-
+chen sehen und sie unserm Gefühl als Feuer em-
+pfinden lassen. Also sagt man auch von dem
+Golde, daß es unter allen schmelzenden Metallen
+am heissesten seyn soll, warum? weil es vor al-
+len andern Metallen am meisten Lichttheilchen be-
+sizet.
+
+6) Aus der <term>Reduction</term> der Kalche der uned-
+lern Metalle und Halbmetalle, als welche ihre vo-
+rige metallische Gestalt und Beschaffenheit durch
+den Zusatz eines brennbaren Wesens, als welches
+reichlich Licht enthält, wieder erlangen.
+
+<vocab>Alchymie, Goldmasse, Feuerbeständigkeit, Phlogiston, Crocis, Vitris, Kalche, Reduction, Lichttheilchen</vocab>
+
+--- Page 55 ---
+<lang>de</lang>
+<page-num>51</page-num>
+<header>Sechster Brief.</header>
+
+# Sechster Brief.
+
+### 7) Aus der Dichtigkeit und Schwere der Metalle.
+
+Von allen diesen Beweisen habe ich hin und wieder in dem <term>Tractat über den Kalch</term> geredet, die Dichtigkeit und Schwere der Metalle aber am wenigsten in Betrachtung gezogen. Ich will es hier nachholen.
+
+Man hat bisher die Dichtigkeit, Schwere, und Ausdehnbarkeit der Metalle, besonders des <term>Goldes</term>, der Kleinheit ihrer Theilchen und daher erfolgenden <term>Contiguität</term> zugeschrieben, welches auch nicht unrecht ist. Man ist aber dabey stehen geblieben, und hat nicht weiter gefragt, woher die Kleinheit dieser Theilchen rühre.
+
+In der ganzen Natur ist kein Körper so dicht und schwer, als ein <term>Metall</term>, und derjenige Körper ist der dichteste, der aus den kleinsten Theilchen zusammen gesetzet ist; oder, um es besser zu sagen: dessen kleinste Theilchen von demjenigen Elemente am meisten enthalten, dessen Theilchen, in Ansehung der Theilchen der übrigen Elemente, die subtilesten sind.
+
+Nun ist die <term>Materie des Lichts</term> das subtileste Element. Da nun die Theilchen der Metalle vor andern Elementen am meisten von dem Lichte enthalten; so müssen auch ihre Theilchen näher und dichter, als in andern Körpern, können an einander gesetzet werden: und daher rühret die Dichtigkeit der Metalle <term>in Aggregato</term>.
+
+<sig>D 2</sig>
+<meta>catchword: Dies</meta>
+
+<vocab>Sechster Brief, Dichtigkeit, Schwere, Metalle, Gold, Contiguität, Materie des Lichts, Aggregato, Tractat über den Kalch</vocab>
+
+--- Page 56 ---
+<lang>de</lang>
+<page-num>52</page-num>
+<header>Alchymistische Briefe,</header>
+
+Diejenigen Körper, welche die kleinsten Theilchen besitzen und daher die dichtesten sind, sind folglich auch die schweresten, indem ihre kleineste Theilchen sich in dem <term>Aggregato</term> so nahe berühren und an einander setzen können, daß sie um so viel kleinere und engere <term>Poros</term> behalten, je subtiler die Theilchen sind, woraus die Körper zusammen gesetzet sind.
+
+Es sind also die <term>Metalle</term> darum die schweresten Körper, weil sie vor allen andern Körpern die engesten Zwischenräumlein haben, welches daher rühret, daß ihre kleinsten Theilchen größtentheils aus dem subtilesten Elemente, nemlich dem <term>Lichte</term>, bestehen.
+
+## Anmerkung.
+
+Aus diesem Grunde kan die Frage beantwortet werden, welche der Herr Professor Gmelin in Tübingen vor einiger Zeit in einer Dissertation an seinen Respondenten ergehen ließ: woher die vorzügliche Schwere des <term>Zimmet-Oehls</term> vor andern Oehlen herrühre? Ich antworte darauf: daß die Gewächse in den heissen Ländern, unter oder in der Nähe der Linie, viel mehr <term>Lichttheilchen</term> von der Sonne und aus der Atmosphäre in den heissen Zonen empfangen können, als die Gewächse in unsern kalten Gegenden. (Daher wird auch vielleicht das meiste <term>Gold</term> in den heissern Erdstrichen gefunden.) Folglich das
+
+<meta>catchword: Zim-</meta>
+
+<vocab>Metalle, Zimmet-Oehl, Gold, Lichttheilchen, Aggregato, Poros, Gmelin, Tübingen, Alchymie</vocab>
+
+--- Page 57 ---
+<lang>de</lang>
+<page-num>53</page-num>
+<header>Sechster Brief.</header>
+<sig>D 3</sig>
+<meta>catchword: gen</meta>
+
+## Sechster Brief.
+
+Zimmet- und Nelken-Oehl viel mehr von den subtilen Lichttheilchen besitzen können, als unsere hiesigen ätherischen Oehle; und daher rühret ihre mehrere Dichtigkeit, Schwere, und so feuriger Geschmack. Wiewol doch hiebey, und insbesondere bey dem feurigen Geschmack dieser Oehle, auch auf die innere verschiedene Structur der Gewächse, und auf die so mannigfaltige verschiedene elementarische Zusammensetzung ihrer Säfte zu sehen ist: indem nicht allein auch wir in unsern kältern Gegenden Pflanzen haben, aus welchen sich Oehle destilliren lassen, die an feurigem Geschmack das Zimmet- oder Nelken-Oehl übertreffen, als das Oehl aus dem Senfsaamen und Löffelkraut; sondern auch Ostindische Gewächse vorhanden sind, deren destillirte Oehle nicht so feurig, als obgedachte schmecken, z. E. die Oehle aus Cubeben, Pfeffer, Muscatenblumen, 2c. 2c.
+
+Es sind aber die Metalle an ihrer Dichtigkeit und Schwere einander nicht gleich. Das Gold ist der allerdichteste und schwereste Körper in der ganzen Natur, weil es unter allen andern aus den Elementen zusammengesetzten Körpern von dem subtilen Lichte am meisten enthält. Das Quecksilber enthält weniger Licht, als das Gold, und ist daher beynahe um den vierten Theil leichter; das Bley um den dritten Theil, und das Silber beynahe um die Hälfte leichter, als das Gold: wie solches aus denen von vielen Naturforschern bekantgemachten Untersuchungen und Berechnun-
+
+<vocab>Zimmet-Oehl, Nelken-Oehl, Lichttheilchen, ätherische Oehle, Senfsaamen, Löffelkraut, Cubeben, Pfeffer, Muscatenblumen, Gold, Quecksilber, Bley, Silber, Naturforscher</vocab>
+
+--- Page 58 ---
+<lang>de</lang>
+<page-num>54</page-num>
+<header>Alchymistische Briefe,</header>
+<meta>Catchword: nera-</meta>
+
+gen der verschiedenen Schwere der Körper erhellet. Die Metalle also, die nicht so dicht und schwer sind, als das Gold, müssen weniger reine Lichttheilchen, als dieses, besitzen.
+
+Denn die Metalle, die leichter als das Gold sind, enthalten in ihrer Grundmischung entweder nicht so viel reines Licht, als das Gold; oder sie enthalten, nebst dem reinen Licht, welches zu ihrer Grundmischung gehöret, auch noch ein vorhin aus den Elementen verschiedentlich zusammengesetztes *Compositum* und *Phlogiston*, welches nicht so subtil seyn kan, als das reine Licht im Golde.
+
+Das Gold scheinet blos die reine Materie des Lichts und kein vorhin zusammen gesetztes *Phlogiston* zu enthalten, auch von den übrigen Elementen an *Acido pingui* und Wasser nur so viel zu besitzen, als zur Zusammensetzung der Lichttheilchen nöthig gewesen ist. Darum ist es unter allen andern Körpern in der Welt der dichteste, schwereste, und feuerbeständigste Körper, und darum kan es sich vor allen andern Metallen am weitesten ausdehnen lassen, weil es aus den subtilesten Lichttheilchen zusammengesetzet ist. Haben diejenigen wol ungereimt gehandelt, welche die Sonne und das Gold durch einerley hieroglyphische Figur vorgestellet haben?
+
+Wenn ich von dem Golde sage, daß es unter allen Körpern und Metallen der schwereste sey, so widerspricht diesem Herr *Cronstedt* in seiner Mineral-
+
+<vocab>Gold, Phlogiston, Lichttheilchen, Acido pingui, Cronstedt, Alchymie, Mineralogie</vocab>
+
+--- Page 59 ---
+<lang>de</lang>
+<page-num>55</page-num>
+<header>Sechster Brief.</header>
+<sig>D 4</sig>
+<meta>catchword: tallen</meta>
+
+## Sechster Brief.
+
+neralogie S. 173. wenn er schreibet, daß die *Platina del pinto* schwerer als Gold, und also unter allen bekannten Körpern der schwereste sey. Hingegen saget Herr Marggraf in seinen teutschen Schriften 1. Th. S. 3. daß sie nach dem Golde der schwereste unter allen Körpern sey. Wer von beyden recht hat, kan ich nicht entscheiden, da ich von der Platina nichts besitze.
+
+Das Quecksilber ist dem Golde oder der Platina an der Dichtigkeit und Schwere am nächsten; und solte es dieserwegen unter den metallischen Körpern in den Mineralogien nicht allezeit diese dritte Stelle behaupten, und endlich einmal zwischen dem Golde oder der Platina und zwischen dem Bley einen *Locum fixum* erlangen können, da es bisher noch immer herumgeirret hat? Die Alten zählten das Quecksilber unter die Metalle, und gaben ihm unter sieben die letzte Stelle. Die neuern weisen ihm unter den Halbmetallen einen Platz an, und unter diesen ist es bald das erste und bald das letzte. Herr Prof. Vogel sonderte es in der Ersten Ausgabe seiner *Institut. Chemiae* sowohl von den halben als ganzen Metallen ab, und gab ihm unter den *Succis mineralibus* die erste Stelle. Er hat aber hernach in dem Practischen Mineral-System dem Quecksilber die erste Stelle unter den Halbmetallen wieder eingeräumet.
+
+Diese Ungewißheit rühret ohne Zweifel davon her, daß das Quecksilber ein flüßiger Körper ist. Seiner Flüßigkeit wegen aber kan er von den Me-
+
+<vocab>Platina del pinto, Gold, Marggraf, Quecksilber, Bley, Halbmetalle, Vogel, Institut. Chemiae, Succis mineralibus, Mineralogie</vocab>
+
+--- Page 60 ---
+<lang>de</lang>
+<page-num>56</page-num>
+<header>Alchymistische Briefe,</header>
+<meta>catchword: teste</meta>
+
+tallen nicht ausgeschlossen werden. Denn alle Metalle fliessen in einem grössern oder geringern Grad der Hitze, und dieses wiederfährt auch dem Quecksilber in dem allergeringsten Grad der Wärme. Deswegen bleibet es dennoch ein Metall. Ist es gleich in seinem geschmolzenen Zustande kein harter und unter dem Hammer ausdehnbarer Körper, als andere Metallen sind; so befinden sich doch diese mit ihm in gleichem Zustande, wenn sie in einer stärkern Hitze, als das Quecksilber zu seiner Schmelzung nöthig hat, im Feuer fliessen. Keines lässet sich alsdenn, so wenig als das Quecksilber, mit dem Hammer ausdehnen oder pulverisiren, und man kan die im Feuer fliessende Metalle eben sowohl, als das in minderer Wärme fliessende Quecksilber, in kleine Kügelchen zertheilen. Sein innerlicher Unterschied bestehet nur darin, daß es in seiner Grundmischung mehr Wasser, als andere Metalle, besitzet, und daher nicht allein wie Eis in der geringsten Wärme zu Wasser zerfliesset, sondern auch im Feuer alle andere metallische Körper an Flüchtigkeit übertrift.
+
+Dem ohngeachtet hat es, nach seiner innerlichen Zusammensetzung und daher rührenden Eigenschaften, eine grosse Aehnlichkeit mit dem Golde, und ist demselben, meiner Meinung nach, viel näher als dem Silber verwandt. Denn es besitzet sowohl, als das Gold, vor allen andern Metallen, von dem subtilesten Elemente, dem Lichte, am meisten. Daher ist es nach dem Golde der dichte-
+
+<vocab>Alchymie, Metalle, Quecksilber, Schmelzung, Flüchtigkeit, Gold, Silber</vocab>
+
+--- Page 61 ---
+<lang>de</lang>
+<page-num>57</page-num>
+<header>Sechster Brief.</header>
+<sig>D 5</sig>
+<meta>catchword: ches</meta>
+
+# Sechster Brief.
+
+teste und schwereste Körper. Daher ist es eben so schwer zu zerstöhren, als das Gold. Denn bisher entflichet das Quecksilber in allen bekannten Zusammensetzungen und Behandlungen, die man mit ihm vornimt, noch immer dem Feuer unverändert; Wenn es in Salpeterspiritus aufgelöset ist, so bringet diese Solution auf unserer Haut eben sowohl einen purpurfarbenen Flecken hervor, als eine Goldsolution; und warum verbindet sich das Quecksilber auch mit einem kalten Golde, vor allen andern Metallen, am fertigsten, als weil es ihm am nächsten verwandt ist?
+
+Nur ist das Quecksilber, nach seiner elementarischen Mischung, darin von dem Golde unterschieden,
+
+1) daß es mehr Wasser in seiner Mischung enthält, als das Gold besitzet, und daher flüchtig und flüssig ist,
+
+2) daß es auch etwas mehr <term>Acidum pingue</term>, als das Gold, zur Verbindung seiner Theilchen in seinen <term>Poris</term> besitzet, da seine <term>Pori</term> doch etwas weiter seyn müssen, als die <term>Pori</term> des Goldes: wie solches aus seiner mindern Schwere erhellet. Dieses mehrere <term>Acidum pingue</term> kan zu seiner Flüchtigkeit etwas beytragen.
+
+3) Daß es, neben der reinen Materie des Lichts, auch noch etwas subtiles anderweitig zusammengesetztes <term>Phlogiston</term> enthalten mag, wel-
+
+<vocab>Quecksilber, Gold, Salpeterspiritus, Solution, Acidum pingue, Pori, Phlogiston, elementarische Mischung</vocab>
+
+--- Page 62 ---
+<lang>de</lang>
+<page-num>58</page-num>
+<header>Alchymistische Briefe,</header>
+<meta>catchword: Was</meta>
+
+ches sich dadurch zu erkennen giebt, daß es etwas
+von einem flüchtigen Schwefelgeist liefert, wenn es
+mit Vitriolöhl kochend aufgelöset wird.
+
+4) Glaube ich mit Newton, daß die Lichttheil-
+chen nicht gleich-artig sind, nicht allein in Anse-
+hung der verschiedenen Farben, sondern auch in
+Betrachtung ihrer mindern oder mehrern Subtili-
+tät; und da könte es nun seyn, daß das Gold
+nur aus den allerfeinsten Lichttheilchen, das Queck-
+silber aber aus etwas minder feinen Lichttheilchen
+und mehrern Arten derselben zusammengesetzet sey.
+Ich werde diese Gedanken künftig weiter zu ent-
+wickeln suchen.
+
+Daß aber das Quecksilber nicht allein Wasser,
+und davon mehr als alle andere Metalle, in sei-
+ner Grundmischung besitze, solches habe ich in dem
+Tractat vom Kalch S. 396 u. f., aus den ähn-
+lichen Verhältnissen des Quecksilbers mit dem Was-
+ser, bereits geschlossen; wozu ich jetzt noch bey-
+füge, daß sich das Wasser wie das Quecksilber in
+eben solche kleine sphärische Kügelchen theilet, wenn
+man es von einer Höhe auf einen, mit dem Licht-
+vollen <term>Semine Lycopodii</term> bestreueten, Tisch herun-
+ter fallen lasset: Da alsdenn, wie bekannt ist,
+diese Wasserkügelchen sich an den hölzernen Tisch
+nicht anhängen, sondern, so gut als zertheiltes
+Quecksilber, auf dem Tische herum laufen, wenn
+sie nur durch einen geringen Hauch beweget wer-
+den: welche Wasserkügelchen aber nicht lange
+dauern, indem das Wasser bald verdünstet.
+
+<vocab>Schwefelgeist, Vitriolöhl, Lichttheilchen, Quecksilber, Gold, Tractat vom Kalch, Semine Lycopodii, Wasserkügelchen</vocab>
+
+--- Page 63 ---
+<lang>de</lang>
+<page-num>59</page-num>
+<header>Sechster Brief.</header>
+
+## Sechster Brief.
+
+Was müßte man nun thun, wenn man das <term>Quecksilber</term> in ein edleres und mehrgeltendes Metall, in <term>Gold</term>, verändern wolte? — Man müßte suchen, ihm sein überflüßiges Wasser zu benehmen, damit die in ihm zusammengesetzte Lichttheilchen nicht allein noch dichter zusammen drängen, sondern auch, und zwar mit den allerfeinesten Lichttheilchen vermehret würden. Wie und wodurch solte aber dieses geschehen und die Natur des <term>Queckssilbers</term> geändert werden können? Gewiß nicht durch eine, etliche hundertmal wiederholte, <term>Destillation</term>, noch durch eine, lange Zeit fortgesetzte, Schüttelung desselben. Beydes hat <term>Boerhave</term> vergeblich versucht. Auch kan es nicht geschehen durch <term>saure Salze</term> noch durch <term>laugenhafte</term>: indem die vielen Lichttheilchen des Quecksilbers den Eintrit der Salze in sein innigst eingemischtes Wasser verhindern, so daß die <term>sauren Geister</term> das Quecksilber zwar <term>solviren</term>, und in seine kleinste <term>Partes integrantes</term> trennen, aber nicht <term>resolviren</term> können, sondern diese getrenneten Theilchen in ihrer Grundmischung müssen unangegriffen lassen: weil sie es an der Seite der Lichttheilchen, woraus doch dieser schwere und dichte Körper wie das Gold wol mehrentheils bestehet, nicht angreifen können. Sondern es müßte geschehen durch ein subtiles, feuriges, lichtvolles <term>Mixtum</term>, welches nicht viel Wasser besässe, das Quecksilber an seiner Lichtseite angreifen, und sich mit dessen Lichttheilchen so genau verbinden könte, daß seine Wassertheilchen und einige annoch <term>phlogistische Theilchen</term> dadurch von ihm ausgeschieden, und deren Stelle durch die allersubtilesten Lichttheilchen ersetzet würden. Die-
+
+<meta>catchword: ses</meta>
+
+<vocab>Quecksilber, Gold, Boerhave, Destillation, saure Salze, laugenhaft, Partes integrantes, Mixtum, phlogistische Theilchen, Alchemie, Transmutation</vocab>
+
+--- Page 64 ---
+<lang>deu</lang>
+<page-num>60</page-num>
+<header>Alchymistische Briefe,</header>
+
+ses geschichet nun vielleicht bey dem <term>Constantini=
+schen Proceß</term> durch eine zarte lichtvolle Composi=
+tion, die entweder schon in dem <term>Weinstein</term> vor=
+handen, oder durch dessen Verbindung mit dem
+<term>Sublimat</term> und dem <term>alkalischen Salze</term> entstehet, und
+von solcher Subtilität ist, daß sie sich mit den
+Lichttheilchen des <term>Quecksilbers</term> verbinden kan: der=
+gleichen Compositionen mehrere möglich seyn kön=
+nen, wodurch hie und da die Veränderung des
+<term>Quecksilbers</term> in <term>Gold</term> ist bewirket worden.
+
+Auf eben die Art möchten auch andere glaub=
+würdige Erzählungen und Berichte von der mög=
+lichen Verbesserung der übrigen <term>Metalle</term> etwan kön=
+nen verstanden und erkläret werden. — —
+
+Dieses sind nun die Begriffe, wozu mir die
+<term>Constantinische Erfahrung</term>, und die Erkenntniß:
+daß das Licht ein wirklicher Bestandtheil, wie
+aller Körper, also auch der <term>Metalle</term> sey, Gele=
+genheit gegeben haben. Sie sind eine weitere
+Ausführung desjenigen, was ich schon in meinem
+Tractate S. 305 u. f., kurz gesagt habe. Ich
+glaube nicht, daß E. H. E. sie ganz verwerfen
+werden, ob wir gleich kein <term>Gold</term> dadurch gewin=
+nen. Mir wenigstens werden durch diese Begriffe
+sehr viele Dinge deutlich, die mir bey dem <term>Be=
+cherischen</term> und <term>Stahlischen Lehrgebäude</term> allezeit
+sehr dunkel geblieben sind.
+
+Ich könte diese Briefe, über die übrigen <term>Me=
+talle</term>, noch weiter fortzusetzen mich bemühen. Al=
+
+<meta>catchword: lein,</meta>
+
+<vocab>Constantinischer Proceß, Weinstein, Sublimat, alkalische Salze, Lichttheilchen, Quecksilber, Gold, Metalle, Becherisches Lehrgebäude, Stahlisches Lehrgebäude</vocab>
+
+--- Page 65 ---
+<lang>de</lang>
+<page-num>61</page-num>
+<header>letzter Brief.</header>
+<meta>visible foxing and staining on paper</meta>
+
+lein, es wird hiezu noch viel Erfahrung, Nach-
+denken und Zeit erfordert. Ich finde mich also
+genöthigt, fürerst eine lange Pause zu machen,
+und erwarte nun Ihre Gedanken über meine ganze
+Historie.
+
+Ich beharre ——
+
+Osnabrück,
+den 7<sup>ten</sup> Aug. 1765.
+
+->Joh. Fried. Meyer.<-
+
+---
+
+<vocab>Osnabrück, Historie, Joh. Fried. Meyer, Erfahrung, Pause</vocab>
+
+--- Page 66 ---
+<lang>None</lang>
+
+<warning>This page is blank, containing only faint bleed-through from the reverse side (verso) and foxing/staining due to age.</warning>
+
+<meta>blank leaf, foxing, bleed-through</meta>
+<vocab>blank page, foxing</vocab>
+
+--- Page 67 ---
+<lang>de</lang>
+<meta>The page exhibits significant foxing and brown staining across the surface. The text is printed in a German Fraktur typeface.</meta>
+
+# Druckfehler.
+
+Seite 32. Zeile 16. an statt : streichen, lies : strichen.
+
+<vocab>Druckfehler, Errata, Korrektur</vocab>
+
+--- Page 68 ---
+<lang>de</lang>
+<warning>The page is heavily foxed and contains extremely faint text in the upper center, likely a ghost image or a very light printing strike.</warning>
+
+# Dankſagung.
+
+->Gott ſey Lob und Ehr; um alle ſeine Güte,<-
+
+<vocab>Dankſagung, Lob, Ehr, Güte</vocab>
+
+--- Page 69 ---
+<lang>None</lang>
+<meta>This is a blank page. No text or illustrations are present on this folio.</meta>
+
+<vocab></vocab>
+
+--- Page 70 ---
+<lang>None</lang>
+<meta>Blank page</meta>
+<warning>This page is blank and contains no text, marginalia, or illustrations.</warning>
+
+--- Page 71 ---
+<lang>English</lang>
+<meta>image quality: clear; content: library shelfmarks and cataloging notations on a flyleaf</meta>
+
+<margin>
+126/10389
+KNET
+</margin>
+
+->cc RS<-
+
+->F II, 93 Wellc. II, 127<-
+
+->Hen 2758<-
+
+->C 749 a<-
+
+->19/11/90<-
+
+---
+
+## UBN 437
+
+<vocab>shelfmark, Wellcome Library, accession number, cataloging codes</vocab>
+
+--- Page 72 ---
+<lang>None</lang>
+<warning>This page is a blank flyleaf or endleaf; no legible text, inscriptions, or illustrations are present.</warning>
+
+<vocab>blank page, laid paper, chain lines, laid lines</vocab>

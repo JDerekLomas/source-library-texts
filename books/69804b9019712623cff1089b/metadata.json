@@ -1,0 +1,26 @@
+{
+  "id": "69804b9019712623cff1089b",
+  "title": "Der sich aller Welt zeigende König",
+  "display_title": "Der sich aller Welt zeigende König",
+  "author": "anonymous",
+  "language": "German",
+  "year": 1725,
+  "published": "1725",
+  "pages_count": 70,
+  "pages_with_ocr": 70,
+  "pages_with_translation": 70,
+  "source_url": "https://sourcelibrary.org/book/69804b9019712623cff1089b",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:29.859Z",
+  "_hashes": {
+    "ocr": "13d82622a56f7fbf",
+    "translation": "7d383c9362bb1ab2"
+  }
+}

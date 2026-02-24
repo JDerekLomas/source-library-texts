@@ -1,0 +1,28 @@
+{
+  "id": "69942ec0b2f6748db4abfbdb",
+  "title": "Erotemata (1484 incunabulum, Greek/Latin)",
+  "display_title": "Erotemata (1484 incunabulum, Greek/Latin)",
+  "author": "Manuel Chrysoloras",
+  "language": "Greek-Latin",
+  "year": 1484,
+  "published": "Unknown",
+  "pages_count": 72,
+  "pages_with_ocr": 72,
+  "pages_with_translation": 58,
+  "source_url": "https://sourcelibrary.org/book/69942ec0b2f6748db4abfbdb",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "ita-bnc-in2-00000942-001"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:28.091Z",
+  "_hashes": {
+    "ocr": "1a0c30ff16dca78a",
+    "translation": "6a3c736ee318d356"
+  }
+}

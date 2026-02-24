@@ -1,0 +1,28 @@
+{
+  "id": "6992cda043713c66ea637aa0",
+  "title": "三才圖會(四十一)",
+  "display_title": "三才圖會(四十一)",
+  "author": "王圻, 王思義",
+  "language": "Chinese",
+  "year": 1609,
+  "published": "1609",
+  "pages_count": 69,
+  "pages_with_ocr": 69,
+  "pages_with_translation": 56,
+  "source_url": "https://sourcelibrary.org/book/6992cda043713c66ea637aa0",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "02098308.cn"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:30.619Z",
+  "_hashes": {
+    "ocr": "2dc3aa077da4a918",
+    "translation": "b520fb5b26a62b5e"
+  }
+}

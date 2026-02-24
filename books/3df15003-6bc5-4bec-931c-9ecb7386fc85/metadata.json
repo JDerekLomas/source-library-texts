@@ -1,0 +1,28 @@
+{
+  "id": "3df15003-6bc5-4bec-931c-9ecb7386fc85",
+  "title": "Sidereus Nuncius",
+  "display_title": "Sidereus Nuncius (1610 Venice)",
+  "author": "Galileo Galilei",
+  "language": "Latin",
+  "year": 1610,
+  "published": "1610",
+  "pages_count": 72,
+  "pages_with_ocr": 72,
+  "pages_with_translation": 72,
+  "source_url": "https://sourcelibrary.org/book/3df15003-6bc5-4bec-931c-9ecb7386fc85",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "ita-bnc-pos-0000056-001"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:28.180Z",
+  "_hashes": {
+    "ocr": "d230bd63409530dc",
+    "translation": "73d31e8c6b5a88d5"
+  }
+}

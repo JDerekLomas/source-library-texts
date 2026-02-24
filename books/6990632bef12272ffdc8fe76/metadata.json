@@ -1,0 +1,28 @@
+{
+  "id": "6990632bef12272ffdc8fe76",
+  "title": "De viribus electricitatis in motu musculari commentarius",
+  "display_title": "De viribus electricitatis in motu musculari",
+  "author": "Luigi Galvani",
+  "language": "Latin",
+  "year": 1791,
+  "published": "Unknown",
+  "pages_count": 72,
+  "pages_with_ocr": 72,
+  "pages_with_translation": 58,
+  "source_url": "https://sourcelibrary.org/book/6990632bef12272ffdc8fe76",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "AloysiiGalvaniD00Galv"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:28.392Z",
+  "_hashes": {
+    "ocr": "f9b84b4e7bf48066",
+    "translation": "7479cf036692cc56"
+  }
+}

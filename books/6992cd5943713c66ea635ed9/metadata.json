@@ -1,0 +1,28 @@
+{
+  "id": "6992cd5943713c66ea635ed9",
+  "title": "武備志(三)",
+  "display_title": "武備志(三)",
+  "author": "茅元儀",
+  "language": "Chinese",
+  "year": 1621,
+  "published": "1621",
+  "pages_count": 75,
+  "pages_with_ocr": 75,
+  "pages_with_translation": 60,
+  "source_url": "https://sourcelibrary.org/book/6992cd5943713c66ea635ed9",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "02092261.cn"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:25.732Z",
+  "_hashes": {
+    "ocr": "15b470769e785fe2",
+    "translation": "2cdd0678c27142f0"
+  }
+}

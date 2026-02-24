@@ -1,0 +1,28 @@
+{
+  "id": "69935b348e28d8f4c5d3cb86",
+  "title": "Three Theological Treatises (Manuscript, 4 years after Ghazālī)",
+  "display_title": "Three Theological Treatises (Manuscript, 4 years after Ghazālī)",
+  "author": "Abū Ḥāmid al-Ghazālī",
+  "language": "Arabic",
+  "year": 1115,
+  "published": "1115",
+  "pages_count": 75,
+  "pages_with_ocr": 75,
+  "pages_with_translation": 60,
+  "source_url": "https://sourcelibrary.org/book/69935b348e28d8f4c5d3cb86",
+  "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "sehidalipasa-1712"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:25.026Z",
+  "_hashes": {
+    "ocr": "6289f766280d12e3",
+    "translation": "98196d2770d43eed"
+  }
+}

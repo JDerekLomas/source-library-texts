@@ -1,0 +1,26 @@
+{
+  "id": "69776915e832d9422ad6e0be",
+  "title": "Ratio disciplinae ordinisque ecclesiastici in unitate Fratrum Bohemorum",
+  "display_title": "Ratio disciplinae ordinisque ecclesiastici in unitate Fratrum Bohemorum",
+  "author": "[Comenius, Jan Amos]",
+  "language": "Latin",
+  "year": 1660,
+  "published": "1660",
+  "pages_count": 145,
+  "pages_with_ocr": 70,
+  "pages_with_translation": 6,
+  "source_url": "https://sourcelibrary.org/book/69776915e832d9422ad6e0be",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:29.307Z",
+  "_hashes": {
+    "ocr": "2c569767680f0576",
+    "translation": "3763a889fb2aecf4"
+  }
+}

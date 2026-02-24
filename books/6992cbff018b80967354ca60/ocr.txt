@@ -1,0 +1,1862 @@
+--- Page 1 ---
+<lang>Chinese</lang>
+<meta>Title slip (tiyào) on a traditional dark indigo cloth or paper cover; traditional Chinese stab binding (xianzhuang) visible on the right edge.</meta>
+
+<insert>
+
+# 新編直指算法統宗
+
+</insert>
+
+<vocab>新編, 直指, 算法, 統宗, Suanfa Tongzong, Cheng Dawei, mathematics, abacus, Ming Dynasty</vocab>
+
+<detected-images>
+[{"description": "Calligraphic titling label (tiyào) enclosed in a double border, affixed to a traditional dark indigo book cover.", "type": "decorative", "bbox": {"x": 0.051, "y": 0.034, "width": 0.219, "height": 0.727}, "gallery_quality": 0.7, "museum_rationale": "A characteristic example of late Ming/early Qing dynasty book design and titling conventions for scientific treatises."}]
+</detected-images>
+
+--- Page 2 ---
+<lang>zh-Hant</lang>
+
+<meta>This page is from the 12th volume of the "Suanfa Tongzong" (Systematic Treatise on Arithmetic) by Cheng Dawei, first published in 1592. It introduces the Gougu theorem (Pythagorean theorem).</meta>
+
+# 新編直指算法統宗卷之十二
+
+新安賓渠程大位汝思甫編集 <gloss>會孫 素亭光紳佩韋甫 較正 莓庵幼洪騖甫 忝閱</gloss>
+
+## 〇勾股第九章
+
+橫濶謂之勾，直長謂之股，兩隅斜去謂之弦。此章以勾股求弦之斜，勾弦求股之長，以股弦求勾之濶。求勾股中容方、容圓，求山之高、木之深、城之廣、路之遠，皆可知也。
+
+---
+
+<insert>
+### 勾股圖形
+
+斜為弦
+長為股
+短為勾
+</insert>
+
+勾股之形即今木匠曲尺之形也。勾是咫，股是尺。稍自尺頭至稍尾斜去是弦也。
+
+假如勾三尺股四尺弦即五尺也。
+
+<vocab>勾股, 算法統宗, 程大位, 弦, 股, 勾, 曲尺</vocab>
+
+<detected-images>
+[{"description": "A right-angled triangle diagram illustrating the Gougu theorem (Pythagorean theorem), with labels for the base (gou), altitude (gu), and hypotenuse (xian).", "type": "diagram", "bbox": {"x": 120, "y": 125, "width": 280, "height": 330}, "gallery_quality": 0.8, "museum_rationale": "This is a classic historical illustration of the Pythagorean theorem from a seminal Chinese mathematical text, showing the traditional terminology and visual representation used in the Ming dynasty."}]
+</detected-images>
+
+--- Page 3 ---
+<lang>zh</lang>
+<header>筭法統宗 卷十 下</header>
+
+<warning>The image is a high-contrast woodblock print; while some strokes are slightly broken due to ink quality, the characters remain legible.</warning>
+
+# 勾股名義 生變一十三名
+
+| | | | | | | | |
+|:---|:---|:---|:---|:---|:---|:---|:---|
+| **勾**<br>横曰勾 | **勾弦較**<br>勾弦相減 | **勾弦和**<br>勾與弦併 | **股**<br>直曰股 | **股弦和**<br>股與弦併 | **弦**<br>斜曰弦 | **弦和和**<br>弦與勾股和併 | **弦較較**<br>弦與勾股較相減 |
+| **勾股較**<br>勾股相減 | **勾股和**<br>勾與股併 | | **股弦較**<br>股弦相減 | | **弦較和**<br>弦與勾股較併 | **弦和較**<br>弦與勾股和相減 | |
+
+---
+
+# 勾股論說釋義
+
+<vocab>筭法統宗, 勾股名義, 勾, 股, 弦, 勾股較, 勾股和, 勾弦較, 勾弦和, 股弦較, 股弦和, 弦較和, 弦和和, 弦和較, 弦較較, 勾股論說釋義</vocab>
+
+--- Page 4 ---
+<lang>zh</lang>
+<page-num>十一</page-num>
+<sig>九章算 卷十二</sig>
+<meta>This page contains mathematical definitions and calculations related to the Pythagorean theorem (Gougu Theorem). It uses a specific example with a base (勾) of 27, height (股) of 36, and hypotenuse (弦) of 45.</meta>
+
+假如勾二十七步 股三十六步 弦四十五步
+其求勾 求股 求弦 容方 容圓 别具後圖
+
+勾股之法 ○橫曰勾 ○直曰股 ○斜之爲弦 ○勾二十七
+股三十六 相減其差九 日較 ○勾股相併得六十三 日和 ○
+股三十六 减弦四十五 之差九 日股弦較 ○勾二十七 减
+弦四十五 之差十八 日勾弦較 ○併勾股其六十三 减弦四十五 之差十八
+則日弦和較 ○弦四十五 减勾股之差九 其差三十六 日弦
+較較 ○股弦相併得八十一 則日股弦和 ○勾弦相併得
+七十二 日勾弦和 ○勾股之差九 併弦共五十四 則日弦較
+和 ○勾股併得六十三 <insert>併弦共一百○八</insert> 日弦和和 ○倍弦實<gloss>即弦自得</gloss>
+四千○五十 令减勾股和自乘得三千九百六十九 餘八十一 爲實平方
+
+---
+
+<vocab>勾 (Base), 股 (Height), 弦 (Hypotenuse), 較 (Difference), 和 (Sum), 弦和較, 弦較較, 股弦和, 勾弦和, 弦較和, 弦和和, 弦實 (Square of hypotenuse), 實平方 (Square root dividend), 九章算術 (Nine Chapters on the Mathematical Art)</vocab>
+
+--- Page 5 ---
+<lang>lzh</lang>
+<meta>Woodblock print of a classical Chinese mathematical text, specifically concerning the Gougu (Pythagorean) theorem. The page details procedures for finding sums and differences of triangle sides (base 勾, altitude 股, and hypotenuse 弦) using intermediate values called '實' (dividends/constants).</meta>
+
+開之得九爲勾股較〇前倍弦實減勾股較九自乗得
+八十一餘三千九百平方開之得六十爲勾股和〇併勾
+弦共八十除股自乗得一千二百得一十五爲勾弦較〇即
+勾弦之差一十五除股自乗得一千二百得八十爲勾弦和
+併得股弦共八十以除勾自乗得七百二十得九爲股弦
+較〇即股弦之差九除勾自乗得七百二十得八十爲股
+弦和〇勾股和六十自乗得三千六百減弦自乗得一
+千七百餘一千九百爲實以弦較較三十除之得六十三爲
+弦較和〇弦較和除前實得弦較較〇勾股之差九自
+乗得八十一以減弦自乗得一千九百爲實以
+
+<vocab>勾 (base), 股 (altitude), 弦 (hypotenuse), 勾股較 (difference of base and altitude), 勾股和 (sum of base and altitude), 勾弦之差 (difference of base and hypotenuse), 勾弦和 (sum of base and hypotenuse), 股弦共 (sum of altitude and hypotenuse), 弦較較 (difference of differences), 弦較和 (sum of differences), 實 (dividend/constant), 自乗 (square), 平方開之 (square root)</vocab>
+
+--- Page 6 ---
+<lang>lzh</lang>
+<page-num>三十</page-num>
+<header>算法統宗 卷十二</header>
+
+弦和和令一百八除之得六十爲弦和較〇弦和較除前實得
+弦和和〇勾七二十咸股弦較九共六三十即勾股和〇勾
+七二十咸勾股較九餘六三十即弦和較〇勾加弦較和五四
+共八一十即股弦和〇股三六十加勾弦較一八十共五四即弦
+較和〇股三六十咸勾弦較一八十餘一八十即勾弦較〇股加弦
+較較九共四五即弦〇勾股較九加股弦較九
+共一八十即勾弦較〇勾股較九咸股弦和八一十餘七二十即
+勾弦和〇勾股和六三十加股弦較九共七二十爲勾弦和
+〇股弦和八一十咸勾股和六三十餘一八十即勾弦較〇勾股
+較九加勾股和六三十共七二十半之爲股〇勾股和六三十
+
+<vocab>勾股定理, 弦和和, 弦和較, 勾股和, 股弦和, 勾弦較, 算法統宗, 程大位</vocab>
+
+--- Page 7 ---
+<lang>zh</lang>
+
+<meta>Chinese mathematical manuscript, vertical layout, right-to-left reading order, Gougu (Pythagorean) theorem problems</meta>
+
+# 勾股求弦 勾弦求股 股弦求勾 共歌
+
+<margin>
+勾股求弦各自乘 乘來相併要分明
+</margin>
+
+減勾股較九餘五十一折半爲勾 ○ 股弦較九加股弦和
+八十其八十九半之爲弦 ○ 股弦和八十減股弦較九餘七
+十一半之爲股 ○ 勾弦較八十加勾弦和七十共一百五十半之爲
+弦 ○ 勾弦和七十減勾弦較八十餘負一十半之爲勾 ○ 弦和和
+和較八十加弦和和令一百八其一百八十八半之爲和 ○ 弦和和
+令一百八減弦和較八十餘二十八半之爲弦 ○ 弦較較五十八加弦
+較和五十四共一百一十二半之爲弦 ○ 弦較和五十四減弦較較五十八
+餘負四半之爲較 ○ 變而通之神而明之存乎其人焉
+
+---
+
+<vocab>勾 (base), 股 (altitude), 弦 (hypotenuse), 較 (difference), 和 (sum), 折半 (halve), 負 (negative), 變而通之 (to transform and master)</vocab>
+
+--- Page 8 ---
+<lang>lzh</lang>
+<header>算法統宗 卷十三</header>
+<page-num>四</page-num>
+<meta>Woodblock print from "Suanfa Tongzong" (General Source of Computational Methods), vertical orientation with columnar formatting and mnemonic verse.</meta>
+
+| 開方便見弦之數 | 法術從來有見成 |
+| :--- | :--- |
+| ○勾弦求股要推詳 | 各自乘來各一張 |
+| 以少減多餘作實 | 實求股數要開方 |
+| 弦股求勾皆一例 | 算師熟記莫相忘 |
+
+---
+
+**勾股求弦法** 曰置勾自乘股自乘併二數以開平方法除之得弦數 <gloss>其勾自乘股自乘二數併之合弦自乘數故用開平方法除之即得弦斜數也</gloss>
+
+**勾弦求股法** 曰置弦自乘内減勾自乘餘以開平方法除之得股長數 <gloss>其弦自乘數内有一勾自乘一股自乘數今減去勾自乘數餘是股自乘數故用開平方法除之得股長數</gloss>
+
+**股弦求勾法** 曰置弦自乘内減股自乘餘以開平方法除之得勾濶數 <gloss>其弦自乘有一勾一股自乘數今減去股自乘數餘是勾自乘數故用開平方法除之得勾濶數</gloss>
+
+<vocab>勾 (base), 股 (height), 弦 (hypotenuse), 開平方 (square root), 算法統宗 (Suanfa Tongzong), 濶 (width)</vocab>
+
+--- Page 9 ---
+<lang>zh</lang>
+<meta>Woodblock print, vertical layout, mathematical treatise on the Gougu (Pythagorean) theorem and square root extraction.</meta>
+
+### 今有勾二十七尺股三十六尺問弦斜若干
+
+->答曰 弦斜四十五尺<-
+
+法曰置勾二十七尺自乘得七百二十九尺另以股三十六尺自乘得一
+千二百九十六尺二數併之得二千二十五尺 <gloss>今二乃合弦</gloss> 爲實自乘數以開平方
+法除之初商四十于左亦置四十于右爲方法左四對右四
+呼四四除實一千六餘實四百二十五却以下位初商方法
+十倍作八十爲廉法次商五于左位初商四十之次亦置五
+于右位廉法八十之次爲隅法左五對右八呼五八除實
+四百又左五對右五呼五五除實二十五恰盡得弦斜四十五尺
+
+---
+
+### 今有勾二十七尺弦四十五尺問股長若干
+
+<vocab>勾, 股, 弦, 實, 初商, 方法, 廉法, 隅法, 開平方, 自乘</vocab>
+
+--- Page 10 ---
+<lang>lzh</lang>
+<page-num>五</page-num>
+<header>算法統宗 卷十二</header>
+
+荅曰 股長三十六尺
+
+法曰置弦<gloss>四十</gloss>五尺自乘得<gloss>二千令二</gloss>内有一勾一股另以
+
+勾自乘得<gloss>七百二</gloss>十九尺二數相減餘<gloss>一千二百</gloss>九十六尺為實<gloss>是股自乘數</gloss>
+
+以開平方法除之初商<gloss>三</gloss>十于左位亦置<gloss>三</gloss>十于右位為方
+
+法左<gloss>三</gloss>對右<gloss>三</gloss>呼三三除實<gloss>九</gloss>百餘實<gloss>三</gloss>百<gloss>九</gloss>十六尺另以下位
+
+初商<gloss>三</gloss>十倍作<gloss>六</gloss>十為廉法次商<gloss>六</gloss>尺于左<gloss>三十</gloss>之次亦置<gloss>六</gloss>十于
+
+右廉法<gloss>六</gloss>十之次為隅法左<gloss>六</gloss>對右<gloss>六</gloss>呼六六除實<gloss>三</gloss>百六十
+
+又左<gloss>六</gloss>對右<gloss>六</gloss>呼六六除實<gloss>三十</gloss>六尺恰盡得股長<gloss>三</gloss>十六尺合問
+
+---
+
+今有股三十六尺弦四十五尺問勾濶若干
+
+荅曰 勾濶二十七尺
+
+<vocab>勾, 股, 弦, 算法統宗, 開平方法, 廉法, 隅法, 實, 荅, 方</vocab>
+
+--- Page 11 ---
+<lang>zh</lang>
+
+法曰置弦四十<gloss>五尺</gloss>自乘得<gloss>二千零二十五</gloss>内有一勾一股另以
+股自乘得<gloss>一千二百九十六尺</gloss>二數相減餘<gloss>七百二十九</gloss>是勾自乘數以開
+平方法除之初商<gloss>二十</gloss>于左亦置<gloss>二十</gloss>于右爲方法左二對
+右二呼二二除實<gloss>四百</gloss>餘實<gloss>三百二十九</gloss>尺却以下位初商<gloss>二十</gloss>倍
+作<gloss>四十</gloss>爲廉法次商<gloss>七尺</gloss>于左初商<gloss>二十</gloss>之次亦置<gloss>七尺</gloss>于右廉
+法<gloss>四十</gloss>之次爲隅法左<gloss>七</gloss>對右<gloss>四</gloss>呼<gloss>四七</gloss>除實<gloss>二百八十</gloss>又左
+<gloss>七</gloss>對右<gloss>七</gloss>呼<gloss>七七</gloss>除實<gloss>四十九</gloss>恰盡得勾濶<gloss>二十七</gloss>尺合問
+
+---
+
+## 勾股容方容圓共歌
+
+勾股容方法最良　　以勾乘股等相當
+併之勾股数爲法　　以法除實便知方
+
+<vocab>勾股, 弦, 平方法, 廉法, 隅法, 容方, 容圓</vocab>
+
+--- Page 12 ---
+<lang>lzh</lang>
+<meta>Woodblock print, traditional Chinese characters, mathematical treatise on Gougu (right-angled triangle) geometry.</meta>
+<vocab>勾股, 容圓, 容方, 實, 法, 弦, 畸, 厘, 毫</vocab>
+
+# ○勾股容圓法可知
+
+勾弦股數倂爲奇
+
+二數倂來爲法則
+
+勾股相乘倍實宜
+
+法除倍實爲圓數
+
+筭者詳之不用疑
+
+---
+
+今有勾二十七尺股三十六尺問中容方面徑若干
+
+荅曰 中容方面徑一十五尺 有畸
+
+---
+
+### 勾股容方
+
+<insert>
+圖
+</insert>
+
+<margin>
+股長三十六尺
+</margin>
+
+<margin>
+勾長二十七尺
+</margin>
+
+<gloss>方十五尺</gloss>
+<gloss>方十五尺</gloss>
+
+---
+
+法曰置勾股相乘得九百七十二尺爲
+
+實另以勾二十七尺倂股三十六尺共
+
+六十三爲法除之得中容方面
+
+徑一十五尺不盡二十七即四分二厘八毫
+
+今有勾二十七尺股三十六尺弦四十五尺問中容圓徑
+
+<detected-images>
+[{"description": "A geometric diagram depicting a right-angled triangle with an inscribed square (rong fang). The triangle is labeled with lengths for the height (gu), base (gou), and the side of the inscribed square.", "type": "diagram", "bbox": {"x": 0.178, "y": 0.125, "width": 0.288, "height": 0.342}, "gallery_quality": 0.8, "museum_rationale": "This is a classic example of traditional Chinese mathematical illustration from a woodblock-printed manual, demonstrating the application of the Pythagorean theorem (Gougu) to inscribed figures."}]
+</detected-images>
+
+--- Page 13 ---
+<lang>zh</lang>
+<page-num>六</page-num>
+<header>算法統宗 卷之十一</header>
+
+# 勾股容圓
+
+<margin>
+股長三十六尺
+勾闊二十七尺
+弦長四十五尺
+容圓徑十八尺
+</margin>
+
+若千
+
+答曰：中容圓徑一十八尺
+
+法曰：置勾二十七尺，股三十六尺，相乘得九百七十二尺，倍之得一千九百四十四尺為實。併勾、股、弦三共一百八為法。除實，得容圓徑一十八尺，合問。
+
+---
+
+# 又勾股容方
+
+<margin>
+今有勾股玉一塊，長一尺二寸，潤六寸。今欲截角為方，取印一顆，問方面若千？
+</margin>
+
+<margin>
+股長一尺二寸
+勾闊六寸
+</margin>
+
+<gloss>方四寸 勾四寸 股四寸</gloss>
+
+答曰：四寸
+
+法曰：置勾股相乘，得七十二寸為實。以勾股相併，得一十八為法。除之，即得。
+
+<vocab>算法統宗, 勾股, 容圓, 容方, 實, 法, 勾, 股, 弦, 合問</vocab>
+
+<detected-images>
+[{"description": "Diagram of a right-angled triangle with an inscribed circle, labeled with dimensions for the three sides (Gou, Gu, Hypotenuse) and the diameter of the circle. Features a small swastika symbol.", "type": "diagram", "bbox": {"x": 0.505, "y": 0.145, "width": 0.288, "height": 0.317}, "gallery_quality": 0.8, "museum_rationale": "Informative diagram from a classic Chinese mathematical treatise illustrating the 'Gougu' (Pythagorean) geometry used for calculating inscribed shapes."},
+{"description": "Diagram of a right-angled triangle with an inscribed square at its right-angle corner, with annotations for dimensions. Features a decorative scroll-like ornament above.", "type": "diagram", "bbox": {"x": 0.108, "y": 0.145, "width": 0.278, "height": 0.317}, "gallery_quality": 0.8, "museum_rationale": "Clear educational illustration of geometric division and area optimization in 16th-century Chinese mathematics."}]
+</detected-images>
+
+--- Page 14 ---
+<lang>lzh</lang>
+<page-num>七</page-num>
+<header>算法統宗</header>
+<sig>卷十二</sig>
+<meta>Vertical text, woodblock print. This page contains mathematical problems and mnemonic verses (songs) for solving right-angled triangle (Gou-Gu) problems from the "Suan Fa Tong Zong" by Cheng Dawei.</meta>
+
+若以圓徑十八尺用一尺二寸歸除得方徑十五尺
+
+若以方徑十五尺用一尺二寸乘之得圓徑十八尺
+
+---
+
+<insert>較求勾股弦共歌</insert>
+<gloss>較差也</gloss>
+<gloss>是股弦相差勾弦相差</gloss>
+
+股較求股勾自乘 股較自乘減勾盈
+
+減除勾餘爲實數 股較倍之爲法行
+
+法實相除爲股數 勾較求勾一樣成
+
+○弦較求弦勾自乘 弦較除之爲實情
+
+仍加弦較須折半 就得弦長數即成
+
+今有勾濶二十七步只云弦多股九步問股弦各若干
+
+荅曰 股三十六步 弦四十五步
+
+<vocab>勾, 股, 弦, 勾股定理, 圓徑, 方徑, 歸除, 實數, 法, 算法統宗, 程大位</vocab>
+
+--- Page 15 ---
+<lang>zh</lang>
+
+法曰置勾二十七<gloss>二十七</gloss>步自乘得七百二十九<gloss>七百二十九</gloss>步另以弦多股九<gloss>九</gloss>步爲股較
+自乘得八十一<gloss>八十一</gloss>二位相減餘六百四十八<gloss>六百四十八</gloss>步爲實倍較九步得一十八<gloss>一十八</gloss>
+爲法除之得股長三十六<gloss>三十六</gloss>步加較九<gloss>九</gloss>步得弦長四十五<gloss>四十五</gloss>步合問
+
+---
+
+->此是股較求股即股弦相差<-
+
+---
+
+一法名弦較求弦置勾<gloss>二十七</gloss>自乘得七百二十九<gloss>七百二十九</gloss>步爲實以弦較九<gloss>九</gloss>步
+爲法除之得股弦和八十一<gloss>八十一</gloss>步仍加弦較九<gloss>九</gloss>步得九十<gloss>九十</gloss>步折半得
+弦長四十五<gloss>四十五</gloss>步內減較九<gloss>九</gloss>步得股長三十六<gloss>三十六</gloss>步亦得
+
+---
+
+今有葭二莖生池中並根抄齊出水三尺引葭一莖斜去
+至岸九尺與水適平問水深若干
+答曰 水深一丈二尺
+
+<vocab>勾股定理, 勾, 股, 弦, 較, 葭, 水深, 實, 法</vocab>
+
+--- Page 16 ---
+<lang>zh</lang>
+<header>算法統宗</header>
+<sig>二卷</sig>
+<page-num>十二</page-num>
+
+# 股較求股圖
+
+<insert>
+出水三尺爲較
+岸
+葭
+引葭至岸爲弦
+水深一丈二尺爲股
+去岸九尺爲勾
+</insert>
+
+<margin>
+水深如股
+葭至岸如弦
+</margin>
+
+法曰置去岸九尺爲勾自乘得八十一以出水三尺爲股較自乘得九尺以減八十一餘七十二爲實以較二倍作六尺爲法除之得水深一丈二尺合問
+
+---
+
+今有勾九尺却將弦比股有餘三尺問弦股各若干
+
+->荅曰 弦一十五尺 股一十二尺<-
+
+法曰以勾九尺自乘得八十一爲實以多三尺爲法除之得二十七尺减去多三尺餘得二十四尺折半得股長一十二尺加入弦多三尺
+
+<vocab>算法統宗, 程大位, 勾股, 弦, 股, 勾, 股較, 葭, 水深</vocab>
+
+<detected-images>
+[{"description": "A woodblock diagram illustrating the 'reed in a pond' mathematical problem. It shows a cross-section of a pond with a reed growing from the center to a height above the water level. When the reed is pulled to the bank, it forms the hypotenuse (弦) of a right-angled triangle, where the distance to the bank is the shorter leg (勾) and the water depth is the longer leg (股). Annotations identify the corresponding sides of the triangle.", "type": "diagram", "bbox": {"x": 0.403, "y": 1.05, "width": 0.495, "height": 0.388}, "gallery_quality": 0.85, "museum_rationale": "This is a significant illustration from the Suanfa Tongzong (1592), one of the most important mathematical books of the Ming Dynasty. It visualizes the practical application of the Gougu (Pythagorean) theorem in a way that became standard in East Asian mathematics."}]
+</detected-images>
+
+--- Page 17 ---
+<lang>zh-Hant</lang>
+<meta>Woodblock print from a mathematical treatise, possibly Suanfa Tongzong (算法統宗) or similar, demonstrating the Gou-Gu (Pythagorean) theorem.</meta>
+<vocab>勾, 股, 弦, 實, 法, 丈, 尺</vocab>
+
+### 股較求股弦
+
+<margin>得弦一十七尺合問</margin>
+
+今有立木不知其高索不知其長垂索委地二尺引索去木八尺其索斜拄地適盡問木高索長各若干
+
+->答曰 木高一丈五尺 索長一丈七尺<-
+
+---
+
+<insert>
+與弦較求弦同
+<note>Diagram of a right-angled triangle representing a pole and rope problem</note>
+<margin>股不及弦二尺
+勾不及弦九尺</margin>
+*   **斜邊（索）**: 索長一丈七尺
+*   **直邊（木）**: 木高一丈五尺
+*   **底邊（勾）**: 去木八尺為勾
+</insert>
+
+---
+
+法曰置去木<gloss>八尺</gloss>為勾自乘得<gloss>六十四</gloss>以委地<gloss>二尺</gloss>為股較自乘得<gloss>四尺</gloss>以減<gloss>六十四</gloss>餘<gloss>六十</gloss>為實以較<gloss>二尺</gloss>倍作<gloss>四尺</gloss>為法除之得木高<gloss>一丈五尺</gloss>如股加較<gloss>二尺</gloss>得索長<gloss>一丈七尺</gloss>如弦問合
+
+若以弦較求弦法置去木<gloss>八尺</gloss>為勾自乘得<gloss>六十四</gloss>為實以
+
+<detected-images>
+[{"description": "A mathematical diagram of a right-angled triangle illustrating the 'Gou-Gu' (Pythagorean) theorem applied to a problem involving a standing pole and a rope. The diagram includes Chinese labels for the hypotenuse (rope length), height (pole), and base (distance from the pole).", "type": "diagram", "bbox": {"x": 0.237, "y": 0.158, "width": 0.385, "height": 0.301}, "gallery_quality": 0.8, "museum_rationale": "This diagram is a classic example of traditional Chinese mathematical illustration, showing how geometry was taught and visualized during the Ming or Qing dynasties."}]
+</detected-images>
+
+--- Page 18 ---
+<lang>zh</lang>
+<page-num>九</page-num>
+<header>算法統宗 卷之十</header>
+
+委地二尺如弦較爲法除之得三十加弦較二尺共得三十二折半得索長一丈二尺將弦內减去較二尺得木高一丈五尺即股
+
+---
+
+# 弦較求法
+
+<margin>
+<gloss>引簾去闊六尺之上</gloss>
+<gloss>門高爲股高一丈</gloss>
+<gloss>闊六尺爲勾</gloss>
+<gloss>離地</gloss>
+<gloss>離地五寸</gloss>
+</margin>
+
+今有廳門外懸簾下垂離地五寸引簾離闊六尺離地二尺五寸問簾高若干
+
+->答曰 簾高一丈<-
+
+法曰置去闊六尺爲勾自乘得三十六以離地二尺五寸减去原離地五寸餘二尺爲弦較除之得一十八尺加弦較二尺共得二十折半得簾高一丈合問
+
+---
+
+今有開門去闊一尺不合二寸問門廣若干
+
+<vocab>算法統宗, 弦較求法, 勾股定理, 簾高, 勾, 股, 弦</vocab>
+
+<detected-images>
+[{"description": "A mathematical diagram of a right-angled triangle illustrating the 'Gougu' (Pythagorean) theorem problem with text annotations and a swastika symbol.", "type": "diagram", "bbox": {"x": 0.208, "y": 0.138, "width": 0.354, "height": 0.315}, "gallery_quality": 0.75, "museum_rationale": "Typical Ming dynasty woodblock illustration for mathematical treatises, showing the practical application of geometry."}]
+</detected-images>
+
+--- Page 19 ---
+<lang>lzh</lang>
+
+# 股較求股
+
+<insert>
+**[Diagram: A double-leaf door shown slightly ajar, creating a trapezoidal opening for a Gougu (Pythagorean) theorem problem. Labels are placed within the diagram.]**
+不合<gloss>二</gloss>
+離闊
+股四尺九寸五分
+勾一十寸
+一尺 一尺
+</insert>
+
+答曰：門二扇廣九尺九寸
+
+法曰置去闊十<gloss>十</gloss>為勾自乘得一百<gloss>一百</gloss>以不合二<gloss>二</gloss>折半得一<gloss>一</gloss>為股較自乘得一<gloss>一</gloss>以減一百<gloss>一百</gloss>餘九十九<gloss>九十九</gloss>為實以較一<gloss>一</gloss>倍作二<gloss>二</gloss>為法除之得一扇門廣四尺九<gloss>四尺九</gloss>五分<gloss>五分</gloss>如股倍之得二扇門廣九尺九<gloss>九尺九</gloss>寸<gloss>寸</gloss>合問
+
+---
+
+今有墻高一丈斜倚二木于上木杪與墻頭齊其木根抵地却將木一根平卧于地其木杪抵墻脚此木根則過斜木根一尺問木長併去墻若干
+
+<vocab>股, 勾, 股較, 實, 法, 墻, 杪, 若干</vocab>
+
+<detected-images>
+[{"description": "A mathematical diagram of a double-leaf door with labels identifying the 'Gou' (base), 'Gu' (height/width), and the gap between the doors, used to illustrate a problem of right-angle triangles.", "type": "diagram", "bbox": {"x": 0.354, "y": 0.177, "width": 0.301, "height": 0.255}, "gallery_quality": 0.75, "museum_rationale": "This diagram is a characteristic example of traditional Chinese mathematical illustration from the Ming or Qing dynasties, specifically demonstrating the application of the Gougu (Pythagorean) theorem to practical architecture and measurement."}]
+</detected-images>
+
+--- Page 20 ---
+<lang>zh</lang>
+<vocab>弦較, 勾, 股, 弦, 圓木, 徑, 鋸, 鋸道, 墻, 丈, 尺, 寸</vocab>
+
+# 弦較求弦股
+
+**答曰木長五丈零五寸 去牆四丈九尺五寸**
+
+法曰依弦較求弦以墙高一丈爲勾勾自乘得一百以過斜木根一尺爲<term>弦較</term>除之如故一百加較一尺共得一百零一尺令折半得木長五丈零五寸如弦咸過斜木一尺餘五丈令如弦至墻四丈九尺五寸如股至墻四丈九尺五寸合問
+
+---
+
+今有圓木泥在壁中不知徑以鋸之深一寸鋸道長一尺問木徑若干
+
+**答曰 木徑二尺六寸**
+
+<detected-images>
+[{"description": "Geometric diagram illustrating a right triangle problem. A vertical line represents a wall (labeled '墙高一丈爲勾'), a horizontal line represents the ground (labeled '木根至墙股' and '木長平去地'), and a diagonal line represents a piece of wood (labeled '木長斜去弦'). A decorative leaf or fan element is positioned in the upper right. Labels include '弦較一尺' and '木根'.", "type": "diagram", "bbox": {"x": 345, "y": 145, "width": 425, "height": 315}, "gallery_quality": 0.8, "museum_rationale": "This is a classic example of late imperial Chinese mathematical illustration, showing the visual methods used to teach the Pythagorean theorem (Gougu theorem) and practical geometry in traditional 'Suan Fa' texts."}]
+</detected-images>
+
+--- Page 21 ---
+<lang>zh</lang>
+<header>算法統宗 卷十二</header>
+
+### 弦求較弦
+
+->弦求較弦<-
+
+法曰置鋸道<gloss>一尺</gloss>折半得<gloss>五寸</gloss>為勾自乘得<gloss>二尺五寸</gloss>為實以濇<gloss>一寸</gloss>為股較除之如故得<gloss>二尺五寸</gloss>為股加濇<gloss>一寸</gloss>共得木徑<gloss>二尺六寸</gloss>合問
+
+此如圓田中截去一弧矢田問原徑同法置鋸道<gloss>一尺</gloss>如弧矢之弦折半得<gloss>五寸</gloss>自乘得<gloss>二尺五寸</gloss>為實以濇<gloss>一寸</gloss>如矢為法除之得<gloss>二尺五寸</gloss>倂入矢濇<gloss>一寸</gloss>共<gloss>二尺六寸</gloss>為圓木原徑亦得
+
+---
+
+今有圓木徑二尺六寸鋸濇入木八寸問鋸道長若干
+
+<margin>此問與右圖式相同今數註入圖內徑左共之便覽</margin>
+答曰 鋸道長二尺四寸
+
+法曰以徑<gloss>二尺六寸</gloss>減濇<gloss>八寸</gloss>餘<gloss>一尺八寸</gloss>復以鋸濇<gloss>八寸</gloss>乘之得<gloss>一百<unclear>四十四寸</unclear></gloss>
+
+<vocab>算法統宗, 弦求較弦, 鋸道, 濇, 勾, 股, 圓木, 弧矢</vocab>
+
+<detected-images>
+[{"description": "A circular geometric diagram from the Suanfa Tongzong illustrating the relationship between a circle's diameter and its segments (chords and sagittas). The diagram includes labels for 'front' and 'back' views of a log, with measurements like 'Middle Diameter 2 feet 6 inches' and 'Saw Path 2 feet 4 inches' marked directly on the figure.", "type": "diagram", "bbox": {"x": 0.58, "y": 0.15, "width": 0.32, "height": 0.28}, "gallery_quality": 0.85, "museum_rationale": "Significant historical mathematical illustration from the Ming dynasty treatise 'Suanfa Tongzong', demonstrating advanced geometric calculation methods of the era."}]
+</detected-images>
+
+--- Page 22 ---
+<lang>zh</lang>
+<meta>The page is from a mathematical treatise, likely a commentary on the "Gougu" (Pythagorean) theorem. It features a word problem with two distinct methods of solution.</meta>
+
+四<gloss>四十</gloss>爲實以開平方法除之得<gloss>二十</gloss>寸倍之得<gloss>二尺</gloss>合問
+
+今有股長三十六步只云弦多勾十八步問勾弦各若干
+
+答曰 勾二十七步 弦四十五步
+
+法曰置股<gloss>三十六步</gloss>自乘得<gloss>一千二百九十六步</gloss>另以弦多勾<gloss>十八步</gloss>爲勾較自乘得<gloss>三百二十四步</gloss>二位相減餘<gloss>九百七十二步</gloss>爲實倍較<gloss>三十六</gloss>得<gloss>三十六步</gloss>爲法除之得勾<gloss>二十七步</gloss>加較<gloss>十八步</gloss>得弦長<gloss>四十五步</gloss>合問
+
+<margin>即勾弦相差</margin>
+
+〇一法名弦較求弦置股自乘得<gloss>一千二百九十六步</gloss>爲實以弦較<gloss>十八</gloss>爲法除之得勾弦和<gloss>七十二步</gloss>仍和較<gloss>一十八步</gloss>共<gloss>九十</gloss>折半得弦<gloss>四十五步</gloss>内減較<gloss>一十八步</gloss>餘<gloss>二十七步</gloss>即勾之數也
+
+<vocab>股, 弦, 勾, 爲實, 爲法, 開平方法, 弦較, 勾弦和, 勾弦相差, 自乘, 折半</vocab>
+
+--- Page 23 ---
+<lang>zh</lang>
+<header>算法統宗 卷十二</header>
+<page-num>十一</page-num>
+<meta>The text uses "令" as a placeholder or shorthand for zero (零) in numerical glosses.</meta>
+
+今有弦長四十五步只云股多勾九步問勾股各若干
+
+答曰 勾二十七步 股三十六步
+
+法曰置弦<gloss>四十五</gloss>自乘得<gloss>二千令二五</gloss>另以股多勾<gloss>九步</gloss>為勾
+股較自乘得<gloss>八十一步</gloss>二位相減餘<gloss>一千九百四十四</gloss>步加入弦自乘
+得<gloss>二千令二五</gloss>共<gloss>三千九百六十九</gloss>為實以開平方法除之得勾
+股相和<gloss>六十三步</gloss>加入差<gloss>九步</gloss>共得<gloss>七十二步</gloss>折半得股<gloss>三十六步</gloss>内减
+差<gloss>九步</gloss>餘得勾<gloss>二十七步</gloss>合問
+
+今有戸高多廣六尺八寸兩隅斜去十尺問高廣若干
+
+答曰 高九尺六寸 廣二尺八寸
+
+法曰置兩隅斜<gloss>十尺</gloss>如弦自乘得<gloss>一百尺</gloss>另以高多廣<gloss>六尺八寸</gloss>
+
+<vocab>算法統宗, 勾股, 弦, 開平方法, 勾股較, 實</vocab>
+
+--- Page 24 ---
+<lang>zh</lang>
+<vocab>勾, 股, 弦, 自乘, 實, 法, 開平方法, 丈, 尺, 寸, 分, 股別, 勾弦歌, 竹高, 折處</vocab>
+
+為勾股較自乘得四十九尺二位相減餘五十一尺加
+入斜自乘得一百其一百五十一為實以開平方法除
+之得勾股相和一丈二尺二分加入差七尺共得一丈九尺二寸二折半
+得高九尺六寸一分內减差七尺餘得廣二尺六寸一分合問<gloss>此二條即勾股相差</gloss>
+
+---
+
+## 股別勾弦歌 <gloss>附勾別即勾弦和 股弦和</gloss>
+
+股別勾弦 股自乘 勾弦自乘减股零
+折半酉為勾實積 勾弦為法最公平
+法除勾積為勾數 勾別股弦依此行
+
+---
+
+今有竹高一丈為風所折仆地稍尖去根三尺問折處高若干
+荅曰 高四尺五寸五分
+
+--- Page 25 ---
+<lang>zh</lang>
+<header>算法統宗 卷十二</header>
+<page-num>十一</page-num>
+<meta>Woodblock print, from the Suanfa Tongzong (算法統宗) by Cheng Dawei. Mathematical text focusing on Gou-Gu (Pythagorean) theorem applications.</meta>
+
+### 股別勾弦
+
+<insert>
+自勾弦和法相和
+折處高四尺五寸五分為股
+</insert>
+
+法日置去地三尺如勾自乘得九尺另以竹高一丈如股弦和為法除之得九寸以減股弦和丈餘九尺一寸折半得四尺五寸五分即是折處高股也
+
+---
+
+今有股長三十六步只云勾股相和七十二步問勾弦若干
+
+**苔日** 勾二十七步 弦四十五步
+
+法日置股三十六步自乘得一千二百九十六步另以勾弦和七十二步自乘得五千一百八十四步二位相減餘三千八百八十八步折半得一千九百四十四步為實以勾弦和七十二步為法除之得勾二十七步以減勾弦和餘得弦四十五步合問
+
+<vocab>算法統宗, 勾股, 勾, 股, 弦, 折處, 實, 法, 合問</vocab>
+
+<detected-images>
+[{"description": "A woodcut illustration depicting the classic 'Broken Bamboo' geometry problem. A bamboo stalk is shown bent, touching the ground at a distance from its base, forming a right-angled triangle. Labels indicate geometric terms such as 'break point' (折處) and measurements like 'height 3 chi' (高三尺).", "type": "diagram", "bbox": {"x": 0.56, "y": 0.13, "width": 0.35, "height": 0.32}, "gallery_quality": 0.8, "museum_rationale": "Classic example of traditional Chinese mathematical visualization from the Ming dynasty 'Suanfa Tongzong', illustrating the application of the Gou-Gu (Pythagorean) theorem to practical problems."}]
+</detected-images>
+
+--- Page 26 ---
+<lang>Chinese</lang>
+<page-num>157</page-num>
+<meta>The text is written in Classical Chinese, consisting of mathematical problems related to the "Gougu" (Pythagorean) theorem. Catchwords "千若" appear at the bottom of columns 3 and 9, likely serving as structural or navigational markers.</meta>
+<vocab>勾, 股, 弦, 自乘, 爲實, 爲法, 除之, 相减, 折半, 勾弦和, 合問</vocab>
+
+一法以股自乘得一千二百九十六步爲實以勾弦和七十二步爲法除之得勾弦相差一十八步仍加和七十二步共九十折半得弦
+四十五步内减差一十八步餘五十四步折半得勾亦得 <gloss>此乃勾弦和</gloss>
+
+---
+
+今有勾濶二十七步只云股弦相和八十一步問股弦
+<meta>catchword: 千若</meta>
+
+**答曰** 股三十六步 弦四十五步
+
+**法曰**置勾二十七步自乘得七百二十九另以股弦和八十一步自乘
+得六千五百六十一位相减餘五千八百三十二步折半得二千九百
+一十六步爲實以股弦和八十一步爲法除之得股長三十六步以减股弦
+和八十一步餘四十五步是弦合問
+
+---
+
+今有弦長四十五步只云勾股相和六十三步問勾股
+<meta>catchword: 千若</meta>
+
+--- Page 27 ---
+<lang>zh</lang>
+<header>算法統宗 卷十二</header>
+<page-num>十三</page-num>
+<meta>Vertical woodblock print layout with column dividers. Mathematical text from the Suanfa Tongzong (Unified Source of Computational Methods).</meta>
+
+答曰 勾二十七步 股三十六步
+
+法曰 置弦四十<gloss>五</gloss>步自乘得二千零二十五 另以勾股和六十三步自乘得三千九百六十九 二位相減餘一千九百四十四 再以弦自乘二千零二十五 內減去一千九百四十四 餘八十一 以開平方法除之得勾股相差九步 加入相和六十三步 共七十二步 折半得股三十六步 內減去差九步 餘得勾二十七步 合問
+
+<gloss>此是勾股相和</gloss>
+
+---
+
+## 勾弦較股弦較歌
+<gloss>此是勾弦差 又股弦差</gloss>
+
+> 勾弦股較法尤精
+> 勾乘股較二來因
+> 平方開見弦和數
+> 和加勾較股分明
+> 股較加和勾可見
+> 算師熟記看靈局
+
+<vocab>勾, 股, 弦, 合問, 開平方法, 勾弦較, 股弦較, 算法統宗, 步</vocab>
+
+--- Page 28 ---
+<lang>zh</lang>
+<page-num>七十二</page-num>
+<meta>平比 竟 六 [symbol] 七十二</meta>
+
+今有弦比勾餘四尺復將弦比股餘二尺問勾弦股各若干
+
+->答曰 勾六尺 股八尺 弦一丈<-
+
+### 勾股弦較
+
+<insert>
+卍
+弦一丈
+勾六尺
+股長八尺
+弦較二尺
+</insert>
+
+法曰以勾較四尺乘股較二尺得八尺倍之得十六尺為實以開平方法除之得四尺加入股較二尺得六尺為勾另外加入勾較四尺得八尺為股又問加入股較二尺得一丈為弦合
+
+---
+
+今有直田不知長濶只云隅斜比長多二步又云斜比濶多九步問長濶及斜各若干
+
+->答曰 長一十五步 濶八步 斜一十七步<-
+
+法曰置勾弦較九步以股弦較二步乘之得一十八步以二因之
+
+<vocab>勾, 股, 弦, 較, 實, 開平方法, 直田, 隅斜, 勾股弦較</vocab>
+
+<detected-images>
+[{"description": "A geometric diagram of a right-angled triangle labeled with mathematical terms from the Gougu (Pythagorean) theorem tradition, including 'Gou' (base), 'Gu' (altitude), and 'Xian' (hypotenuse).", "type": "diagram", "bbox": {"x": 0.444, "y": 0.117, "width": 0.306, "height": 0.298}, "gallery_quality": 0.8, "museum_rationale": "This diagram is a classic representation of traditional Chinese mathematics, specifically the Gougu theorem, showing technical labels and proportions used in the 17th-18th centuries."}]
+</detected-images>
+
+--- Page 29 ---
+<lang>zh-Hant</lang>
+<header>算法類編</header>
+<sig>第一</sig>
+<meta>Traditional Chinese woodblock print, mathematical treatise on the Gougu (Pythagorean) theorem.</meta>
+
+得<gloss>三十六</gloss>步為實以開平方法除之得弦和<gloss>六</gloss>步加勾較<gloss>九</gloss>步得股長<gloss>一十五</gloss>步另以弦和<gloss>六</gloss>步加股較<gloss>二</gloss>步得潤<gloss>八</gloss>步再加勾較<gloss>九</gloss>步得斜弦<gloss>一十七</gloss>步合問
+
+---
+
+### 今有勾弦和七十二步 股弦和八十一步 問勾股弦各若干
+
+### 答曰勾二十七步 股三十六步 弦四十五步
+
+### 法曰置勾弦和<gloss>七十二</gloss>步以股弦和<gloss>八十一</gloss>步相乘得五千八百<gloss>三十二步</gloss>
+倍之得一萬一千六百<gloss>六十四步</gloss>為實以開平方法除之得勾股弦和一百<gloss>八步</gloss>令以減股弦和<gloss>八十一</gloss>步餘得勾<gloss>二十七</gloss>步又置一百<gloss>八步</gloss>令內減勾弦和<gloss>七十二</gloss>步餘得股<gloss>三十六</gloss>步又置一百<gloss>八步</gloss>內令以減勾<gloss>二十七</gloss>步減股<gloss>三十六</gloss>步餘得弦<gloss>四十五</gloss>步
+
+此是勾弦和 又股弦和
+
+<vocab>勾股 (Gougu/Pythagorean), 弦 (Hypotenuse), 實 (Dividend/Radicand), 開平方法 (Square root extraction), 勾弦和 (Sum of base and hypotenuse), 股弦和 (Sum of altitude and hypotenuse)</vocab>
+
+--- Page 30 ---
+<lang>lzh</lang>
+<meta>The manuscript is written in Classical Chinese using Traditional Chinese characters, oriented in vertical columns and read from right to left. The content consists of two mathematical problems related to field area calculation and depth measurement using geometric principles (Gougu/Pythagorean theorem-related methods).</meta>
+
+### 今有直田積一百二十步廣不及縱七步問廣若干
+答曰　廣八步
+
+法曰置田積一百二十以四因之得四百八十以較步自乘得四十九相併得五百二十九以開平方法除之得勾股和二十三步加較步七共得三十折半得股長一十五內減較步七餘廣八步
+
+---
+
+### 今有井不知其深井徑五尺直立木五尺于井上從木末望井底人目入徑四寸問井深若干
+答曰　井深五丈七尺五寸
+
+法曰以井徑五尺除目入四寸餘四十六寸與木高五十寸相乘得二千三百寸為容方積以餘勾四寸為法除之
+
+<vocab>直田, 積, 廣, 縱, 勾股, 開平方法, 井深, 徑</vocab>
+
+--- Page 31 ---
+<lang>zh</lang>
+<page-num>十五</page-num>
+<header>算法統宗 卷十二</header>
+<meta>Woodblock print from Suanfa Tongzong (算法統宗), a late 16th-century Chinese mathematical treatise by Cheng Dawei. The page shows problems related to "Gougu" (right-angled triangle) geometry as applied to square cities (邑).</meta>
+
+# 算法統宗 卷十二
+
+今有邑不知大小四面居中開門西門外三十步有木一根出南門外七百五十步見木問邑方若干
+答曰邑方三百步
+法曰出南門外七百五十步為勾以西門外三十步相乘得二萬二千五百步為平方式開之得一百五十步為半邑之也即勾股方倍之為全邑方也
+
+---
+
+->○餘勾餘股求容方<-
+
+> 出南門外七百五十步
+> 南門
+> **邑**
+> **方三百步**
+> 西門
+> 北門
+> 木一根
+> 人目從此觀木根
+
+---
+
+今有邑方二百步四面居中開門東門外一十五步有木一様問出南門若干
+答曰六百六十六步六分步之一
+法曰半邑方為容方一百步自乘得一萬步為實以東門外一十五步為法除之合問
+
+<margin>此是容方與餘勾求餘股</margin>
+
+---
+
+->○容方餘勾求餘股<-
+
+> 六百六十六步六分步之一 南門
+> **邑**
+> **方二百步**
+> 西門
+> 北門
+> 東門
+> 木一根
+> 人目從此看東門外木
+
+---
+
+<vocab>算法統宗, 邑, 勾股, 容方, 平方式, 實, 法</vocab>
+
+<detected-images>
+[{"description": "Geometric diagram of a square city (town) showing a triangle of sightlines from the North gate to a tree outside the West gate, used to calculate dimensions using the Gougu (Pythagorean) theorem.", "type": "diagram", "bbox": {"x": 0.512, "y": 0.142, "width": 0.288, "height": 0.324}, "gallery_quality": 0.8, "museum_rationale": "An important representative of late Ming dynasty mathematical woodblock illustrations, showing the practical application of geometry in surveying."},
+{"description": "Geometric diagram illustrating the calculation of distance from a city gate to a tree, featuring an inscribed square within a triangle formation.", "type": "diagram", "bbox": {"x": 0.118, "y": 0.142, "width": 0.292, "height": 0.324}, "gallery_quality": 0.8, "museum_rationale": "Historical mathematical diagram from a foundational Chinese textbook on arithmetic and geometry."}]
+</detected-images>
+
+--- Page 32 ---
+<lang>zh</lang>
+<page-num>16</page-num>
+<header>海島算經卷上</header>
+
+# ○ 海島題解
+
+魏劉徽註九章重立差著於句股之下以闢世術夫度高測深非句股之法固無可知矣故以重表累矩旁求審察其窺望海島隔水望木是重表也其岸望谷深山望津廣是累矩也以海島去表爲之篇首因以名之實九章之遺法也後至唐李淳風而續算草宋楊輝釋名圖解以仲商賢之美本經題目廣遠難于引證學者今將孫子度影量竿題問於前引用詳解以驗海島之法亦循循誘入之意姑以一問其餘好學者自能觸類而考知矣
+
+<vocab>劉徽, 九章算術, 重立差, 句股, 海島算經, 李淳風, 楊輝</vocab>
+
+--- Page 33 ---
+<lang>lzh</lang>
+<header>第<unclear>百九</unclear><unclear>五</unclear></header>
+<meta>Woodblock print of a Chinese mathematical text, likely a version of or commentary on the Sunzi Suanjing (Mathematical Classic of Master Sun). Vertical columns read right to left.</meta>
+<warning>Faded ink and damage at the top edge of the page.</warning>
+
+假有立木不知高日影在地長五丈隨立一竿長一丈在
+
+邊影長一丈二尺五寸問立木高若干
+
+答曰  木高四丈
+
+法曰置立木影長<gloss>五丈</gloss>爲實以竿影長<gloss>一丈二尺五寸</gloss>爲法除之
+
+->合問<-
+
+今有立木不知高日影在地長四丈隨立一竿長一丈邊
+
+影長八尺問木高若干
+
+答曰  木高五丈
+
+法曰置木影長<gloss>四丈</gloss>爲實以竿影<gloss>八尺</gloss>爲法除之合問
+
+右二問乃孫子度影量竿之法
+
+<vocab>立木, 日影, 竿, 若干, 實, 法, 除之, 合問, 孫子</vocab>
+
+--- Page 34 ---
+<lang>lzh</lang>
+<page-num>七</page-num>
+<meta>卷上二</meta>
+
+# 遙望木竿歌
+
+> 望木須知立表竿 表離木處幾多寬
+> 
+> 退行表後參眸望 望表斜平木與竿
+> 
+> 表數減除人目數 餘表乘遠實相看
+> 
+> 退行之數為法則 法實相除加一竿
+
+假有木不知高從木脚量遠二十五尺立一丈表竿表後退行五尺用窺穴望表與木斜平其人窺穴高四尺問木高若干
+
+->荅曰木高四十尺<-
+
+法曰以表高<gloss>十尺</gloss>減去人目穴<gloss>四尺</gloss>餘<gloss>六尺</gloss>以乘表竿去木遠<gloss>二十五尺</gloss>得一百五十為實以退行<gloss>五尺</gloss>為法除之得三十加表<gloss>十尺</gloss>
+
+<vocab>遙望木竿歌, 表竿, 窺穴, 實, 法</vocab>
+
+--- Page 35 ---
+<lang>zh-Hant</lang>
+
+<meta>This page appears to be from a woodblock-printed Chinese mathematical treatise, likely concerning the "Gougu" (Pythagorean) theorem and its application in surveying. The text explains how to calculate the height of a tree using a staff (gnomon) and geometric properties of similar triangles. Image quality is fair, with some typical woodblock ink bleeding.</meta>
+
+高十得木高四十合問
+解曰木高如股三十尺是上節
+
+->### 股較求高之圖<-
+
+<insert>
+此乃取數推理湊方令兹式
+布亦三十丈
+弦之外勾股
+木高至表如股
+木高四丈
+木至二十五尺為勾表
+木頂斜至表末如弦
+至人目是餘弦
+弦之內勾股
+</insert>
+
+表高十尺减人目四尺餘六尺是餘股
+木至表末如勾二十五尺表後退行五尺是餘勾
+木頂斜至表末如弦表末斜至人目是餘弦
+弦之内外分二段勾股其勾中容橫股中容直二積皆同各一百五以餘勾五除
+横積一百五十得積外之股即木上三十加表高十尺即木高
+
+<vocab>股較 (Gu Jiao), 勾股 (Gougu), 弦 (Xian), 表 (Biao/Staff), 餘股 (Remaining Gu), 餘勾 (Remaining Gou), 餘弦 (Remaining Xian), 橫積 (Horizontal Area)</vocab>
+
+<detected-images>
+[{"description": "A geometric surveying diagram titled 'Diagram of Calculating Height via Differences in Gu'. It illustrates the line of sight from a person's eye through a staff to the top of a tree, creating similar right-angled triangles. The diagram includes a grid representing areas (mianji) used to solve the mathematical problem.", "type": "diagram", "bbox": {"x": 0.178, "y": 0.108, "width": 0.542, "height": 0.457}, "gallery_quality": 0.85, "museum_rationale": "This is a sophisticated example of early modern Chinese mathematical illustration, showing the visual reasoning behind the Gougu (Pythagorean) theorem as applied to practical surveying tasks like measuring the height of distant objects."}]
+</detected-images>
+
+--- Page 36 ---
+<lang>lzh</lang>
+<meta>Catchwords at bottom margin (right to left): 已上遥望木竿池</meta>
+<vocab>勾, 股, 弦, 直積, 方積, 濶, 表, 遥望木竿</vocab>
+
+四十以餘股六尺除直積一百五十得積外之勾二十五尺<gloss>即木至表</gloss>
+
+---
+
+->古人以題易名若非釋名則無以知其源<-
+
+今較還原法曰置弦內外二勾股木高四丈內除人目四尺
+餘股各三丈六尺爲長以遠二十五尺加退後五尺共三十爲濶相
+乘得方積一千八十尺今復將弦內外二股各長三十二勾
+各濶二十五尺相乘得方積七百五十另以下勾直長二十五
+濶六尺乘之得直積一百五十又以右邊股直尺三十以濶五尺乘之
+得直積亦一百五十再以餘勾五尺乘餘股六尺得積三十<gloss>四共</gloss>
+亦得一千八十尺較之以合前數而不差也是已上遥望木竿
+
+今立表三尺六寸退行二尺又立表三尺人目望其高處
+
+--- Page 37 ---
+<lang>lzh</lang>
+<header>等法編卷十一</header>
+<page-num>十六</page-num>
+
+### 又股較求高圖
+
+<insert>
+<gloss>此其人目於此望物</gloss>
+<gloss>高一丈一尺一寸</gloss>
+<gloss>折去三尺六寸</gloss>
+<gloss>三尺</gloss>
+<gloss>合九尺</gloss>
+<gloss>仰去二丈五尺</gloss>
+</insert>
+
+二表俱與參合自前表相去二丈五尺問高若干
+
+->答曰 高一丈一尺一寸<-
+
+法曰置遠二十五尺加入退行二尺共二十七尺以二表相減餘六寸乘之得一十六尺二寸為實却以退行二尺為法除之得八尺一寸加入後表三尺得高一丈一寸合問 <note>此處「一丈一寸」依算理應為「一丈一尺一寸」。</note>
+
+若依前法置前表三尺六寸減去後表三尺即是人目數餘六寸以乘遠去二丈五尺得一丈五尺為實以退行二尺為法除之得七尺五寸加入前表三尺六寸得共高一丈一尺一寸
+
+<vocab>股較, 求高, 表, 實, 法, 退行, 參合</vocab>
+
+<detected-images>
+[{"description": "A geometric diagram for a surveying problem, showing a right-angled triangle with two vertical measurement staffs (gnomons) placed along the base. It illustrates the 'gougu' method for determining height based on the difference in staff heights and distance. A decorative leaf-like element marks the target point.", "type": "diagram", "bbox": {"x": 0.08, "y": 0.118, "width": 0.54, "height": 0.316}, "gallery_quality": 0.8, "museum_rationale": "An important historical representation of traditional Chinese mathematical surveying techniques, reflecting the late Ming or early Qing mathematical tradition."}]
+</detected-images>
+
+--- Page 38 ---
+<lang>lzh</lang>
+<header>算法統宗卷十二</header>
+<page-num>九</page-num>
+<meta>image quality: clear</meta>
+<meta>source: Suanfa Tongzong (General Source of Computational Methods)</meta>
+
+# 勾股較求遠之圖
+
+<gloss>人目</gloss>
+<gloss>此望後表三尺六寸</gloss>
+<gloss>人目望前表對遠處一線</gloss>
+<gloss>後表三尺六寸</gloss>
+<gloss>前表三尺</gloss>
+<gloss>退行一尺八寸</gloss>
+<gloss>連九尺</gloss>
+<gloss>後表相去遠一十尺八寸</gloss>
+
+---
+
+今立表三尺退行一尺八寸又立表三尺六寸人目望其二表俱對遠處參合問遠若干
+
+->荅曰十尺零八寸<-
+
+### 法
+法曰置後表三尺六寸以退行一尺八寸乘之得六十四寸八分為實却以二表相減餘六寸為法除之得一十尺零八寸為後表相去之遠
+
+### 又法
+又法以前表三尺以退行一尺八寸乘之得五尺四寸為實却以二表相減餘六寸為法除之得九尺為前表相去之遠也
+
+---
+
+### 窺望海島歌
+
+> 望島知高法術奇　　立來二表並高低
+
+<vocab>算法統宗, 勾股, 立表, 前表, 後表, 退行, 實, 法, 窺望海島歌</vocab>
+
+<detected-images>
+[{"description": "A geometric diagram for a surveying problem using gnomons (poles). It illustrates the 'Gougu' (Pythagorean) method for calculating distance to a remote object. It features an eye, two vertical markers of different heights, and labeled lines of sight and distance.", "type": "diagram", "bbox": {"x": 260, "y": 108, "width": 558, "height": 313}, "gallery_quality": 0.85, "museum_rationale": "This is a significant historical representation of early Chinese mathematical surveying techniques from the 'Suanfa Tongzong', showing the practical application of similar triangles and the Gougu theorem."}]
+</detected-images>
+
+--- Page 39 ---
+<lang>lzh</lang>
+<page-num>一</page-num>
+<meta>Vertical woodblock print layout with mnemonic mathematical formulas and a surveying problem. The content describes the "Double Gnomon" method (重差法) for calculating height and distance, famously associated with the Sea Island Mathematical Manual (Haidao Suanjing).</meta>
+
+| | | | | |
+|:---|:---|:---|:---|:---|
+| 表間尺數乘高數 | 二表退行相減較 | 更將一表相加併 | 另置表間之尺數 | 前法除之知隔水 |
+| 以作實情更不疑 | 減餘為法以除之 | 海島巔高盡可知 | 以乘前表退行宜 | 水程遠近不差池 |
+
+---
+
+假如隔水望木有竿不知高立二表各長一丈前後参直相去一十五尺從前表退行五尺人目四尺窺望表與竿齊平復從後表退行八尺窺望亦與竿齊平問竿高隔水各若干
+
+答曰 竿高五丈四尺 隔水廣二丈五尺
+
+<vocab>海島 (Sea Island), 表 (Gnomon), 窺望 (Sight/Observation), 隔水 (Across water), 参直 (Aligned/in a straight line), 丈 (Zhang, unit of length), 尺 (Chi, unit of length)</vocab>
+
+--- Page 40 ---
+<lang>zh</lang>
+<page-num>二十二下</page-num>
+<header>九章算術卷十二</header>
+<sig>二十</sig>
+<meta>The text is a mathematical problem and its explanation from a Chinese woodblock print, likely a commentary on the 'Chong Cha' (Double Difference) method from the Sea Island Mathematical Manual (Haidao Suanjing) or the 'Jiuzhang Suanshu' (Nine Chapters on the Mathematical Art). The transcription preserves the original layout of the woodblock columns.</meta>
+
+法曰置表高十尺减人目四尺餘六尺以相去一十五尺乘之得九
+十尺為實另以前表退行五尺减去後表退行八尺餘三尺為法
+除實得三十加表高十尺得竿高四十尺另置相去一十
+五尺
+以前表退行五尺乘之得七十五尺
+仍以前法三尺除之得隔水廣
+二十五尺合問
+
+---
+
+解曰前表是第一圖以表望木後表是第二圖以表望
+木蓋總說人不知所以分作兩圖解曰以隔水望木為
+問設窺望海島為題以<term>重差</term>為術好事者引而伸之以
+發其餘也 〇 其前表去木遠乃<term>小股</term>中<term>容積</term>一段後表
+去木遠乃<term>大股</term>中<term>容積</term>一段以小容積减大容積其餘
+
+<vocab>重差, 竿高, 隔水廣, 小股, 大股, 容積, 海島, 窺望</vocab>
+
+--- Page 41 ---
+<lang>zh</lang>
+<header>勾股</header>
+<page-num>十六</page-num>
+<meta>The text is written in Classical Chinese. The image shows a mathematical/surveying diagram with accompanying explanatory text and glosses. The "不盡者..." text appears in the right margin.</meta>
+
+# 股較隔水望木之圖
+
+<insert>
+表上有三十尺
+此乃二表較數辨理湊方式
+以合總而不差故也
+</insert>
+
+<insert>
+人目參表
+人目參木
+五十二步半
+隔水竿高四十丈
+隔水闊二十三尺
+前表
+後表
+</insert>
+
+---
+
+<margin>不盡者乃前後表兩界之中名表間積所以古人以表</margin>
+
+高减 <gloss>人目</gloss> 餘 <gloss>六尺</gloss> 乘爲實
+以前圖小餘股 <gloss>五尺</gloss> 減後
+圖大餘股 <gloss>八尺三寸</gloss> 爲法
+除實得弦外之高卽木
+上筭 <gloss>三十尺</gloss> 加表高 <gloss>十尺</gloss> 得
+木高 <gloss>四十尺</gloss> ○本是大小
+積相减餘爲實以大小
+股相减餘爲法除實得
+弦外之高 <gloss>加表高十尺爲木高也</gloss>
+
+<vocab>股較, 隔水望木, 實, 法, 弦, 表, 筭, 勾股</vocab>
+
+<detected-images>
+[{"description": "A geometric surveying diagram illustrating the method of calculating a tree's height across water using two gnomons (measuring posts). It includes labeled components such as the tree (木), water (水), sighting lines (人目參木/表), and specific measurements.", "type": "diagram", "bbox": {"x": 128, "y": 88, "width": 688, "height": 458}, "gallery_quality": 0.85, "museum_rationale": "This is a significant historical illustration of early Chinese surveying techniques (Gougu geometry), showing the practical application of the Pythagorean theorem for height and distance measurement."}]
+</detected-images>
+
+--- Page 42 ---
+<lang>zh</lang>
+<vocab>海島, 表竿, 參合, 里, 丈, 尺, 人目, 表末</vocab>
+
+# 窺望海島之圖
+
+<margin>人目表末 人目表末 前表三丈 後表三丈 三尺 三尺 人目 人目 六十丈 五百丈 六十二丈</margin>
+
+今有海島不知其高遠立表竿三丈退行六十丈又立短
+表三尺人目望其二表俱
+與島峯參合復却退行五
+百丈又立表三丈退行六
+十二丈又立表三尺人目
+<insert>望其二表俱與島峯參合</insert>
+問海島高遠各若干
+答曰島高二里一百三
+十八丈
+島遠八十三里六丈
+
+<detected-images>
+[{"description": "A traditional Chinese mathematical diagram titled 'Kui Wang Haidao zhi Tu' (Figure of Gazing at a Sea Island). It illustrates the 'double-gnomon' method for surveying, featuring a mountain peak on the left and a series of observation points on a horizontal ground plane. Lines of sight are drawn from 'human eyes' (人目) through the tips of surveying rods (表末) to the peak. The diagram is annotated with distances and measurements in 'zhang' (丈) and 'chi' (尺).", "type": "diagram", "bbox": {"x": 0.057, "y": 0.08, "width": 0.82, "height": 0.44}, "gallery_quality": 0.9, "museum_rationale": "This is a significant historical scientific illustration from a classical Chinese mathematical text, likely an edition of the 'Haidao Suanjing' (Sea Island Mathematical Manual). It represents early geometric and trigonometric concepts in a clear, woodblock-printed format."}]
+</detected-images>
+
+--- Page 43 ---
+<lang>zh</lang>
+<page-num>二十二</page-num>
+<header>算法統宗 卷十二</header>
+<meta>Woodblock print from the Ming Dynasty work 'Suanfa Tongzong' (算法統宗) by Cheng Dawei. Text relates to surveying calculations for height and distance.</meta>
+
+# 算法統宗卷十二
+
+法曰置表高三丈減去短表三尺即是人目數也餘二丈七尺以表間相去五百丈乘之得一萬三千五百為實另置後表退行八十丈減去前表退行六十丈餘二十丈為法除之得六百七十五丈加入表高三丈共六百七十八丈以里法三百六十丈為法除之得島高一里一百一十八丈 〇 又置表間相去五百丈以前表退行六十丈乘之得三萬為實亦以前餘二十丈為法除之得一千五百丈以里法三百六十丈為法除之得島遠八十三丈 合問
+
+<insert>
+新編直指算法統宗卷之十二
+</insert>
+
+# 新編直指算法統宗卷之十二
+
+<vocab>算法統宗, 實, 法, 丈, 尺, 里法, 島高, 島遠, 合問, 程大位</vocab>
+
+<detected-images>
+[{"description": "A highly stylized, decorative title block in seal-script-style calligraphy, reading 'Xinbian Zhizhi Suanfa Tongzong Juanzhi Shier' (Newly Edited Direct Guidance to the Source of Algorithmic Methods, Volume 12).", "type": "decorative", "bbox": {"x": 0.165, "y": 0.165, "width": 0.13, "height": 0.69}, "gallery_quality": 0.8, "museum_rationale": "This is a fine example of late Ming dynasty book design, featuring ornate calligraphic woodblock carving intended for a title page or chapter heading."}]
+</detected-images>
+
+--- Page 44 ---
+<lang>zh</lang>
+<header>算法統宗 卷十三</header>
+<page-num>一</page-num>
+<warning>Slight fading and text cut-off on the left margin.</warning>
+<meta>Traditional Chinese woodblock print; vertical layout; preface to a mathematical treatise.</meta>
+
+# 新編直指算法統宗難題附集雜法序
+
+夫難題昉于永樂四年臨江劉仕隆公偕
+內閣諸君預修
+大典退公之暇編成難法附于九章通明之後及錢塘吳
+信民九章比類與諸家算法中詩詞歌括口號總集名
+曰難題難者難也然似難而實非難惟其詞語巧捏使
+<term>筭師</term>一時迷惑莫知措手不知難法皆不離于<term>九章</term>非
+九章之外其難題惟在乎立法立法既明則迎刃而破
+又何難之有哉今分列九章立法明辨附集雜法于統
+宗之後俾好事者共覽云
+
+<vocab>算法統宗, 難題, 永樂大典, 九章, 劉仕隆, 吳信民, 筭師</vocab>
+
+<detected-images>
+[{"description": "A diamond-shaped decorative printer's mark or emblem featuring Chinese characters, positioned at the base of the title column.", "type": "decorative", "bbox": {"x": 0.812, "y": 0.743, "width": 0.081, "height": 0.113}, "gallery_quality": 0.5, "museum_rationale": "Standard printer's mark typical of Ming/Qing dynasty woodblock printing, used to identify the series or publisher."}]
+</detected-images>
+
+--- Page 45 ---
+<lang>zh</lang>
+<vocab>難題目錄, 卷, 方田, 粟布, 衰分, 歌, 鳳棲梧, 雙搗練, 西江月, 梅氣清, 水仙子, 鷓鴣天</vocab>
+
+# ○難題目錄
+
+## 卷之十三
+
+**方田** <gloss>七問</gloss>
+
+**歌** <gloss>五</gloss>
+> 鳳棲梧 <gloss>一</gloss>
+> 雙搗練 <gloss>一</gloss>
+
+---
+
+**粟布** <gloss>二十三問</gloss>
+
+**歌** <gloss>八</gloss>
+> 西江月 <gloss>三</gloss>
+> 梅氣清 <gloss>一</gloss>
+> 水仙子 <gloss>一</gloss>
+
+## 卷之十四
+
+**衰分** <gloss>二十九問</gloss>
+
+**歌** <gloss>二十</gloss>
+> 西江月 <gloss>三</gloss>
+> 鷓鴣天 <gloss>一</gloss>
+> 水仙子 <gloss>一</gloss>
+
+## 卷之十五
+
+<margin>
+歌 <gloss>四</gloss>
+<gloss>二十</gloss>
+西江月 <gloss>三</gloss>
+</margin>
+
+--- Page 46 ---
+<lang>lzh</lang>
+<page-num>十一</page-num>
+<meta>Woodblock print style. Table of contents/index for a mathematical text (likely an edition of the Suanfa Tongzong or similar), listing chapters (based on the Nine Chapters on the Mathematical Art) followed by song/mnemonic counts. Left margin includes partial chapter title and folio number.</meta>
+<warning>The image contains significant background noise, ink bleed from the reverse side, and some blurred characters. Text in the far-left margin is partially obscured.</warning>
+
+| 少廣 一十五問 | | 商功 三問 | | 均輸 一十四問 | | 卷之十六 | 盈朒 一十三問 | | 方程 四問 |
+|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+| | 歌 八 | | 歌 二 | | 歌 十 | | | 歌 九 | |
+| | 西江月 六 | | 西江月 一 | | 西江月 二 | | | 西江月 二 | |
+| | 駐馬聽 一 | | | | 鳳棲梧 一 | | | 浪淘沙 一 | |
+| | | | | | 鷓鴣天 一 | | | 鷓鴣天 一 | |
+
+<vocab>少廣, 商功, 均輸, 盈朒, 方程, 歌, 西江月, 駐馬聽, 鳳棲梧, 鷓鴣天, 浪淘沙, 卷之十六, 問</vocab>
+
+--- Page 47 ---
+<lang>zh</lang>
+<meta>Historical table of contents in vertical format with grid lines. Text read from right to left.</meta>
+
+歌一
+->西江月 三<-
+
+---
+
+勾股十問
+
+---
+
+歌四
+->西江月 六<-
+
+---
+
+# 卷之十七
+## 附雜法 二十六
+
+---
+
+### 金蟬脫殼
+二字筭訣
+
+---
+
+寫筭 <gloss>即鋪地錦 因乘圖一</gloss>
+歸除圖二 <gloss>舊法九位圖</gloss>
+
+---
+
+一筆錦 <gloss>環積合總</gloss>
+<gloss>因歸乘除式四</gloss>
+縱橫定位分別九圖
+一掌金
+
+---
+
+五五圖
+六六圖
+
+---
+
+洛書縱橫圖
+花十六圖 <gloss>陽數一 陰數一</gloss>
+七七圖
+
+<vocab>勾股, 西江月, 卷之十七, 附雜法, 金蟬脫殼, 二字筭訣, 寫筭, 鋪地錦, 歸除圖, 一筆錦, 縱橫定位, 一掌金, 洛書縱橫圖, 花十六圖</vocab>
+
+--- Page 48 ---
+<lang>zh</lang>
+<meta>Woodblock print page from a Chinese mathematical or technical treatise. The layout is a vertical list of section or diagram titles organized into columns. Reading direction is right to left.</meta>
+
+| | | | | | |
+|:---|:---|:---|:---|:---|:---|
+| 八八圖 | 聚五圖 | 橫九圖 | 黃鍾五音相生圖 | 統紀曆年 | 孕推男女法 |
+| 九九圖 | 聚六圖 | 八陣圖 | | 袖中定位掌圖 <gloss>因乘一問 歸除二問</gloss> | 筭經源流 |
+| 百子圖 | 聚八圖 | 連環圖 | 律呂相生圖 | | |
+
+# 難題目錄 終
+
+<vocab>八八圖, 九九圖, 百子圖, 聚五圖, 聚六圖, 聚八圖, 橫九圖, 八陣圖, 連環圖, 黃鍾, 五音, 律呂, 統紀曆年, 袖中定位掌圖, 孕推男女法, 筭經源流, 難題目錄</vocab>
+
+--- Page 49 ---
+<lang>zh</lang>
+<header>算法統宗 卷十三</header>
+<page-num>三</page-num>
+<meta>Ming Dynasty woodblock illustration from the 'Suanfa Tongzong' (Systematic Treatise on Arithmetic) by Cheng Dawei. The page features a landscape scene illustrating the relationship between a teacher and his students.</meta>
+
+<insert>
+->師生問難<-
+</insert>
+
+<insert>
+顏顒而偉兒古而癯姿冠博帶所  
+學何殊字本蝌蚪究極六書幾窮  
+京垓始夫備餘六藝精二亦吾之  
+徒其隱于市或賓于渠松閒開卷  
+芝鹿自娛逸民之侶見者仰諸  
+湖隱汪少麻題
+</insert>
+
+<vocab>算法統宗, 師生問難, 汪少麻, 六書, 逸民, 京垓, 蝌蚪, 芝鹿</vocab>
+
+<detected-images>
+[{"description": "A refined woodcut illustration titled 'Teacher and Students Discussing Difficulties' (師生問難). A bearded master in scholarly robes sits atop a rock formation beneath a gnarled pine tree. He is attended by two young students; the student on the left presents an open book containing mathematical tables or diagrams, while the student on the right holds a calculating tool, possibly an abacus. A spotted deer and a lingzhi mushroom are depicted in the foreground, traditional symbols of wisdom and longevity.", "type": "woodcut", "bbox": {"x": 0.046, "y": 0.083, "width": 0.868, "height": 0.834}, "gallery_quality": 0.95, "museum_rationale": "This is an exceptional example of late Ming Dynasty book illustration, demonstrating high technical skill in woodblock carving and providing significant cultural context for the study of historical mathematics education in China."}]
+</detected-images>
+
+--- Page 50 ---
+<lang>zh-Hant</lang>
+<page-num>一四</page-num>
+<header>新編直指算法統宗卷之十三</header>
+<meta>image quality: clear woodblock print; catchword at bottom left obscured</meta>
+
+# 新編直指算法統宗卷之十三
+
+->新安 賓渠程大位汝思甫 集<-
+
+->曾孫 燕齋 <gloss>素亭</gloss> <gloss>允絳</gloss> <gloss>佩章</gloss> <gloss>甫</gloss> <gloss>閱正</gloss> <gloss>錫洪</gloss> <gloss>聲甫</gloss><-
+
+---
+
+## 難題方田一
+
+> **歌**：昨日丈量田地回，記得長步整三十。
+> 廣斜相併五十步，不知幾畝及分厘。
+
+**荅曰**：二畝
+
+**法曰**：置廣斜相併<gloss>五十步</gloss>自乘得二千五，另以長步<gloss>三十步</gloss>自乘得九百。二位相減，餘一千六，折半得八百爲實。以廣斜<gloss>五十步</gloss>爲法除之，得濶一十六。以乘長<gloss>三十步</gloss>得四百八十。以<unclear>二</unclear>
+
+<note>This page is from the "Suanfa Tongzong" (General Source of Computational Methods) by Cheng Dawei, a seminal Ming dynasty mathematical text. The problem solves for the area of a right-angled triangular or trapezoidal field given the length and the sum of the width and the hypotenuse using algebraic logic derived from the Pythagorean theorem (Gougu theorem).</note>
+
+<vocab>算法統宗, 程大位, 方田, 實, 法, 濶, 步, 畝, 廣斜</vocab>
+
+--- Page 51 ---
+<lang>lzh</lang>
+
+畝法<gloss>二</gloss>除之合問 <gloss>此是勾弦和</gloss>
+
+---
+
+## 歌
+
+三十八萬四千步　正長端的無差誤
+六絲二忽五微濶　不知共該多少畝
+
+---
+
+答曰一畝
+
+---
+
+法曰置長<gloss>三十八萬四千步</gloss>爲實以濶<gloss>六絲二忽五微</gloss>爲法乘之得<gloss>一百</gloss>四十<gloss>以畝法<gloss>二</gloss>除之合問</gloss> <gloss>此是直田長濶問積</gloss>
+
+---
+
+## 歌
+
+一段環田徑不知　二周相併是幽微
+皆知一畝無零積　一百六十不差池
+
+---
+
+<vocab>畝法, 勾弦和, 直田, 環田, 步, 絲, 忽, 微, 爲實, 爲法, 零積</vocab>
+
+--- Page 52 ---
+<lang>zh</lang>
+<page-num>五</page-num>
+<sig>算法統宗 卷十三</sig>
+
+->三般可以見端的　　只要賢家仔細推<-
+
+荅曰徑三步　外周八十九步　内周七十一步
+
+法曰通田<gloss>一得二百四</gloss>為實另以二周相併<gloss>一百六十</gloss>折
+半得<gloss>八十步</gloss>為法除之得徑三步<gloss>三〇</gloss>以步自乘得<gloss>九步</gloss>以減<gloss>八十</gloss>
+步餘<gloss>七十一步</gloss>為内周〇以減總<gloss>一百六十</gloss>餘得外周<gloss>八十九步</gloss>合問
+
+---
+
+### 鳳棲梧
+
+一段環田余久慮象說分明亦有誰人悟忘了二周併徑
+步人道二周不及為零處七十有餘單二步三事通知若
+日分明任五畝二分無零數立機真妙堪思慕<gloss>解愆内周不及外周七十二</gloss>
+
+荅曰徑一十二步　　内周六十八步<gloss>外周七十二</gloss>
+
+<vocab>算法統宗, 鳳棲梧, 環田, 徑, 内周, 外周</vocab>
+
+--- Page 53 ---
+<lang>lzh</lang>
+<meta>image quality: high, catchwords: none</meta>
+<vocab>畝法, 環田, 弧矢, 少廣, 雙搗練, 實, 法, 步</vocab>
+
+外周一百四十步
+
+法曰以畝法通田<gloss>二五畝</gloss>得<gloss>一千二百</gloss>倍之得<gloss>二千四百</gloss>
+爲實以不及<gloss>二七十步</gloss>以<gloss>六</gloss>除得徑<gloss>一十步</gloss>爲法除之得<gloss>二百零八</gloss>
+步以减不及<gloss>七十步</gloss>餘<gloss>一百三十六步</gloss>折半得內周<gloss>六十步</gloss>加不及
+七十步得外周合問 <gloss>此是環田問周徑</gloss>
+
+---
+
+弧矢問難已述七卷少廣章中故不重錄
+
+---
+
+### 雙搗練
+
+長十六濶十五不多不少恰一畝。內有八箇古墳墓。更有
+一條十字路。濶一步。每箇墓周六步。十字路濶一步。每畝
+價銀二両五。除了墓。除了路。問君該剩多少數。
+
+--- Page 54 ---
+<lang>zh</lang>
+<vocab>路墓地圖, 畆, 步, 墓, 分, 厘, 毫, 両, 錢, 十字路</vocab>
+
+# 路墓地圖
+
+---
+
+<margin>
+內入墓計二十四步
+內路計三十步
+</margin>
+答曰路占地二分二厘五毫
+剩地七分七厘五毫 該銀一両九錢三分七厘五毫
+
+法曰通田畆為二百四十步
+入墓箇以每箇周步自乘得三十六步以十二除之得三步八墓共積二十四步 又十字路
+一長一十六步 濶一十五步 共二百四十步
+除路
+長一十六步 濶一十五步 二共一三十步
+中心步一積三十步加墓共五十四步通共
+占地五十四步以畆法二百四十除之得二分二厘五毫為占地數以減去一畆餘剩地七分七厘五毫
+
+### 地價銀合問
+
+以每畆價銀二兩五錢乘之得剩
+
+<detected-images>
+[{"description": "A land surveying diagram depicting a rectangular plot of land (16x15 steps) containing a cross-shaped road and eight circular grave sites. The diagram includes numerical annotations in traditional Chinese for its dimensions and features.", "type": "diagram", "bbox": {"x": 0.174, "y": 0.188, "width": 0.315, "height": 0.218}, "gallery_quality": 0.75, "museum_rationale": "This diagram is a valuable primary source illustration of traditional Chinese applied mathematics and land management practices from the 16th-18th century, specifically showing the calculation of burial plot areas within agricultural mu."}]
+</detected-images>
+
+--- Page 55 ---
+<lang>zh</lang>
+<header>算法統宗 卷十五</header>
+<page-num>一十六</page-num>
+
+# 竿上安箍歌
+
+->圓圍三丈一高竿　　稍尖頭徑尺二寬<-
+->今有鐵箍徑九寸　　試問將來何處安<-
+
+答曰自上而下二丈二尺五寸
+
+法曰置竿高<gloss>三丈</gloss>為實以頭徑<gloss>一尺二寸</gloss>為法除之得<gloss>二尺五寸</gloss>以箍徑<gloss>九寸</gloss>乘之得自上而下<gloss>二丈二尺五寸</gloss>上安箍只離頭<gloss>七尺五寸</gloss>
+
+合問　　　<gloss>此如方錐作方臺問截高</gloss>
+
+---
+
+## 歌
+
+->今有直田不知畝　　長濶相和十七步<-
+->平不及長廿五尺　　請問田該多少數<-
+
+<vocab>算法統宗, 竿上安箍, 鐵箍, 方錐, 方臺, 截高, 直田, 畝, 步, 尺</vocab>
+
+--- Page 56 ---
+<lang>zh</lang>
+<warning>Some characters in the interlinear glosses are slightly cramped or faded, affecting legibility.</warning>
+
+答曰二分五厘　計六十步
+法曰置相和<gloss>一十五步</gloss>減不及<gloss>五步</gloss>餘<gloss>一十步</gloss>為長以濶<gloss>五步</gloss>相乘
+合問
+
+---
+
+->歌<-
+
+今有直田用較除　一百二十步無餘
+長濶相和該一百　問公三事幾何如
+
+答曰長六十步　濶四十步　較二十步
+
+法曰置較除<gloss>一百二十</gloss>減長濶相和<gloss>一百步</gloss>餘<gloss>二十</gloss>為較以減
+相和<gloss>一百步</gloss>餘<gloss>八十</gloss>折半得<gloss>四十步</gloss>為濶加較<gloss>二十</gloss>得長<gloss>六十</gloss>合
+問
+
+<vocab>直田, 較除, 相和, 濶, 折半, 合問</vocab>
+
+--- Page 57 ---
+<lang>zh</lang>
+<page-num>七</page-num>
+<header>算法統宗 卷之十三</header>
+<meta>Woodblock print from the "Suanfa Tongzong" (General Source of Computational Methods). The text describes arithmetic problems using rhymes, specifically a "surplus and deficit" (盈不足) type problem.</meta>
+
+# ◯ 難題粟布二
+
+## 啞子買肉歌
+
+> 啞子來買肉　　　難言錢數目　　　一斤少四十
+> 九兩多十六　　　試問能籌者　　　合與多少肉
+
+-> 答曰一十一兩　　每兩該錢八文 <-
+
+法曰置少<gloss>四十</gloss>加多<gloss>十六</gloss>共<gloss>五十六</gloss>為實以<gloss>一斤</gloss>十六減九<gloss>餘七</gloss>為法除之得八<gloss>文</gloss>入却以九<gloss>兩</gloss>因之得七十<gloss>二</gloss>加多<gloss>十六</gloss>共得原錢八<gloss>十八</gloss>入以八歸之得肉<gloss>一十一</gloss>兩合問
+
+<margin>
+解曰
+若買一斤少錢四十文
+若買九兩多錢一十六文
+</margin>
+
+# 老人問甲歌
+
+<vocab>難題, 粟布, 啞子買肉歌, 實, 法, 歸, 斤, 兩, 文</vocab>
+
+--- Page 58 ---
+<lang>zh</lang>
+<meta>vertical text, right-to-left</meta>
+<note>The character "入" is used consistently throughout the text as a numeral for "八" (eight), a convention often seen in specific historical mathematical manuscripts.</note>
+
+有一公公不記年 手持竹杖在門前
+借問公公年幾歲 家中數目記分明
+一兩入銖泥彈子 每歲罏中放一丸
+日久歲深經雨濕 綂然化作一泥團
+秤重入斤零入兩 加減方知得幾年
+
+->荅曰一百零二歲<-
+
+法曰置總<gloss>入斤</gloss>以每斤<gloss>三百入十四</gloss>乘之得<gloss>三千零七十二</gloss>爲實
+以每歲一兩<gloss>作二十四</gloss>加入<gloss>入銖</gloss>共<gloss>三十二</gloss>爲法除之合問
+
+---
+
+### 西江月
+
+白麵秤來四斤使油一斤相和今來有麵九斤多六兩五錢。
+
+<vocab>西江月, 斤, 兩, 銖, 泥彈子, 法曰</vocab>
+
+--- Page 59 ---
+<lang>zh-Hant</lang>
+<page-num>八</page-num>
+<header>算法統宗 卷十三</header>
+
+# 算法統宗 卷十三
+
+麵不結已用香油和合二斤十二無訛再添多少麵來和
+不會應須問我
+
+->答曰添麵一斤九兩五錢<-
+
+法曰用異乘同除法置今有油<gloss>十二兩</gloss>先將<gloss>十二</gloss>化為<gloss>七五</gloss>
+于<gloss>二</gloss>之次以乘原麵<gloss>四</gloss>斤得麵<gloss>一十斤</gloss>為實以原用油<gloss>一斤</gloss>為
+法除之如故仍得實麵<gloss>一十斤</gloss>減去已用麵<gloss>九斤六兩</gloss>餘為
+添麵<gloss>一斤九兩五錢</gloss>合問
+
+---
+
+### 楳氣清
+
+三石五斗粟會換芝麻三石足又有五斗五升蘇換來小
+麥量八斗今有小麥換粟米九石六斗無零數
+
+<vocab>算法統宗, 異乘同除法, 斤, 兩, 錢, 石, 斗, 升, 粟, 芝麻, 小麥</vocab>
+
+--- Page 60 ---
+<lang>zh</lang>
+<page-num>Unknown</page-num>
+<meta>Vertical text reading from right to left. The page contains a mathematical word problem concerning the exchange of grain (millet, sesame, wheat).</meta>
+
+解題曰假如有粟米<gloss>三石五斗</gloss>換芝蔴<gloss>三石</gloss>又如芝蔴<gloss>五斗五升</gloss>換
+折小麥<gloss>八斗</gloss>今却有小麥<gloss>九石六斗</gloss>要換粟米問該若干
+
+->答曰粟米七石七斗<-
+
+法曰合用異乘同乘法置今有小麥<gloss>九石六斗</gloss>以乘所問芝
+蔴<gloss>五斗五升</gloss>得<gloss>五石二斗八升</gloss>再以粟米<gloss>三石五斗</gloss>乘之得<gloss>一十八石四斗八升</gloss>為
+實又用異除同除法置所換芝蔴<gloss>三石</gloss>以乘小麥<gloss>八斗</gloss>得二
+<gloss>四斗</gloss>為法除之得粟米<gloss>七石七斗</gloss>合問
+解法曰置米<gloss>三石五斗</gloss>為實以換麻<gloss>三石</gloss>為法除之得麻每石
+換米<gloss>一石一斗六升六合</gloss>又云麻<gloss>五斗五升</gloss>換麥<gloss>八斗</gloss>置蔴<gloss>五斗五升</gloss>以每石
+折米<gloss>一石一斗六升六合</gloss>乘之得米<gloss>六斗四升一合有零</gloss>為實以換麥<gloss>八斗</gloss>為法除
+
+<vocab>粟米, 芝蔴, 小麥, 石, 斗, 升, 合, 實, 法, 乘, 除, 異乘同乘法, 異除同除法</vocab>
+
+--- Page 61 ---
+<lang>zh</lang>
+<page-num>九</page-num>
+<header>算法統宗 卷十三</header>
+
+之得麥每石折米<gloss>八斗有零</gloss>又云今有麥<gloss>九石六斗</gloss>換米問該幾
+何置麥<gloss>九石六斗</gloss>以麥每石折米<gloss>八斗併零</gloss>乘之得米<gloss>七石七斗</gloss>此乃
+用法之理是一乘一除理之然也蓋因除法多有畸零
+數之不盡故前法用總乘然後用總除真是大術矣
+
+->西江月<-
+
+甲銅九成二兩乙錫七色相同李銀舖內偶相逢各欲改
+成噐用其子未詳所以誤將一處銷鎔當時悶惱李三翁
+又把算師擾動
+
+答曰其銷鎔八成色金四兩
+甲該分二兩二錢五分　　折足色一兩八錢
+
+<vocab>算法統宗, 西江月, 畸零, 銷鎔, 折米, 算師, 足色</vocab>
+
+--- Page 62 ---
+<lang>zh</lang>
+<page-num>下</page-num>
+<meta>Woodblock print of a Classical Chinese mathematical text. It features a computational method (likely from a work such as the 'Suanfa Tongzong') concerning gold purity, followed by a recreational arithmetic problem presented in verse.</meta>
+
+# 乙該分一兩七錢五分 <gloss>折足色一兩四錢</gloss>
+
+法曰置甲金<gloss>二兩</gloss>折足色<gloss>一兩八錢</gloss> 〇乙金七成<gloss>二兩</gloss>折足色<gloss>一兩四錢</gloss>
+併之得足色<gloss>三兩二錢</gloss>以原金二共<gloss>四兩</gloss>歸之得入色就以
+八為法除甲<gloss>一兩八錢</gloss>得甲金<gloss>二兩二錢</gloss><gloss>五分</gloss> 〇亦以法<insert>入</insert>除乙<gloss>一兩</gloss>
+<gloss>四錢</gloss>得乙金<gloss>一兩七錢五分</gloss>合問
+
+---
+
+->歌<-
+
+肆中聽得語吟吟　　　　　薄酒名醨厚酒醇
+好酒一鉢醉三客　　　　　薄酒三鉢醉一人
+共同飲了一十九　　　　　三十三客醉醺醺
+試問高明能算士　　　　　幾多醇酒幾多醨
+
+---
+
+<vocab>足色, 醇, 醨, 算士, 鉢, 醺醺, 法, 歸之</vocab>
+
+--- Page 63 ---
+<lang>zh</lang>
+<page-num>卷十三</page-num>
+<header>算法新奇 <unclear>符</unclear> 卷十三</header>
+
+<margin>
+好酒三人飲一餅
+薄酒一三人飲一餅
+</margin>
+**答曰** 好酒十餅 薄酒九餅
+
+**解曰** 共三十人飲酒一十九餅
+
+**法曰** 列置問衰
+->一 <gloss>三人</gloss> 乂 一 <gloss>三餅</gloss><-
+->一 <gloss>三人</gloss> 乂 一 <gloss>三</gloss> <gloss>九</gloss> <gloss>三</gloss> <gloss>餅</gloss> <gloss>人</gloss> <gloss>先</gloss> <gloss>以</gloss> <gloss>右</gloss> <gloss>上</gloss> <gloss>餅</gloss> <gloss>一</gloss><-
+->一 <gloss>三人</gloss> 三十<-
+
+互乘左中一人得一人又以左上三人互乘右中三餅得九餅相減餘八為法 〇 另以右中三餅互乘左下三十人得九十人 〇 另以左上三人乘右中三餅得九餅再乘共酒一十九餅得一百七十一内減九十人餘八十一為實以法八除之得薄酒九餅以減總酒餘得好酒十餅合問
+
+---
+
+### 水仙子
+
+為商出外去經營將帶白銀去販參當初不記原銀錠
+
+<vocab>算法, 水仙子, 互乘, 法, 實, 餅, 酒, 銀錠</vocab>
+
+--- Page 64 ---
+<lang>zh</lang>
+<page-num>11</page-num>
+<meta>The text is a traditional Chinese mathematical word problem related to commercial calculations, specifically the purchase of ginseng (人參) involving brokerage fees (牙錢) and transport costs (脚錢). It uses units like Liang (兩), Qian (錢), Fen (分), and Ding (錠).</meta>
+
+只記得七錢七買六斤脚錢便使用三分總記用牙錢四
+錠是六分中取二分問先生服買數分明
+
+---
+
+->centered text<- 荅曰人參四萬三千五百斤 <-
+->centered text<- 原銀六千兩　牙錢二百兩 <-
+->centered text<- 脚錢二百一十七兩五錢 <-
+
+---
+
+解曰每人參<gloss>六斤</gloss>一價七錢七<gloss>分</gloss>又用脚錢<gloss>三分</gloss>牙錢<gloss>六分</gloss>中取二共
+牙錢<gloss>四錠</gloss>計兩二百乃是六十分中取二分也
+
+法曰置牙錢<gloss>四錠</gloss>以錠率<gloss>五十兩</gloss>乘之得<gloss>二百兩</gloss>以六十分取二分
+該得原銀<gloss>六千兩</gloss>減牙錢<gloss>二百兩</gloss>餘剩<gloss>五千八百兩</gloss>以買參<gloss>六斤</gloss>因
+之得<gloss>三萬四千八百斤</gloss>爲實却以價<gloss>七錢七分</gloss>併脚錢<gloss>三分</gloss>共<gloss>八錢</gloss>爲法
+
+<vocab>人參, 斤, 兩, 錢, 分, 牙錢, 脚錢, 錠</vocab>
+
+--- Page 65 ---
+<lang>zh</lang>
+<header>第<unclear>○</unclear>筭學統宗 卷十三</header>
+
+除之得參<gloss>四萬三千二百斤</gloss>以每六歸之得七千二百以參價<gloss>七錢</gloss>乘之得參價<gloss>五千〇四十兩</gloss>以减總銀<gloss>五千八百兩</gloss>餘得
+
+## 脚銀合問
+
+->歌<-
+
+->二丈四長尺八濶　　　四兩半銀休打脫<-
+
+->三丈六長尺六濶　　　該銀多少要交割<-
+
+**答曰六両**
+
+法曰用異乘同除法置今長<gloss>三丈六尺</gloss>濶<gloss>一尺六寸</gloss>相乘得<gloss>五丈七尺</gloss>
+六<gloss>寸</gloss>以乘賈銀<gloss>四兩五錢</gloss>得<gloss>二千五百九十二錢</gloss>為實以原長<gloss>二丈四尺</gloss>濶<gloss>一尺八寸</gloss>
+相乘得<gloss>四丈三尺二寸</gloss>為法除之合問
+
+<vocab>脚銀, 歌, 異乘同除法, 丈, 尺, 寸, 両, 錢, 斤, 賈銀</vocab>
+
+--- Page 66 ---
+<lang>zh-Hant</lang>
+<page-num>十三</page-num>
+<header>卷十七</header>
+<meta>Image contains two mathematical problems related to alloy fineness, written in verse (歌) with methods (法) and answers (答曰). The text is in Traditional Chinese.</meta>
+
+## 歌
+
+足色黃金整一斤　銀匠悞侵四兩銀
+
+斤兩雖然不曾耗　借問却該幾色金
+
+->答曰八色<-
+
+法曰置金<gloss>一十六</gloss>爲實，另以金加銀<gloss>四兩共二十</gloss>爲法除
+
+之合問
+
+---
+
+## 歌
+
+足色紋銀十二兩　欲傾八成預付量
+
+分兩雖然添得重　入銅多少得相當
+
+->答曰入銅三兩<-
+
+<vocab>足色, 紋銀, 八色, 悞侵, 斤, 兩, 實, 法, 入銅, 相當</vocab>
+
+--- Page 67 ---
+<lang>zh</lang>
+<warning>The right edge of the manuscript is partially cropped, affecting the first visible column. Some characters in mathematical results are faint or cramped.</warning>
+
+<unclear>...</unclear>
+法曰置紋銀<gloss>一十</gloss>
+<gloss>二兩</gloss>以入歸之得<gloss>一十</gloss>
+<gloss>五兩</gloss>減去原銀<gloss>一十</gloss>
+<gloss>二兩</gloss>餘
+入銅<gloss>三</gloss>兩合問
+
+---
+
+->歌<-
+
+一斤牛鹽換斤油　　五萬白鹽載一舟
+斤兩內除相為換　　須教二色一般等
+
+答曰各二萬<unclear>五千</unclear>斤
+
+法曰置總鹽<gloss>五萬</gloss>斤為實併鹽油共得<gloss>二</gloss>斤為法除之得
+各<gloss>二萬五千</gloss>斤合問
+
+---
+
+### 舖金問積歌
+
+皇城內丹墀中周圍有八里鋪金二寸深方寸十六兩秤
+
+<vocab>紋銀, 斤, 兩, 銅, 鹽, 油, 舖金, 皇城, 丹墀, 秤</vocab>
+
+--- Page 68 ---
+<lang>lzh</lang>
+
+來有一斤不知多少。數時來問緣因
+
+答曰金七百三十萬斤
+
+法曰置周<gloss>八里</gloss>以<gloss>四</gloss>歸之得每面<gloss>二里</gloss>自乘得<gloss>四里</gloss>又以每里<gloss>三百六十步</gloss>乘之得<gloss>一千四百四十步</gloss>以每步<gloss>二千五百</gloss>乘之得<gloss>三百六十萬寸</gloss>又以深<gloss>二寸</gloss>因之得<gloss>七百二十萬寸</gloss>即<gloss>七百二十萬金</gloss>也合問
+
+---
+
+### 西江月
+
+客向新街糴米共量八十四石一千二百七十知石價盡依鄉例雇覓小車搬運裝錢三百三十脚言家內缺振食只振原錢要米
+
+答曰客米六十六石六斗七升五合
+
+<vocab>糴米, 石, 斗, 升, 合, 里, 步, 西江月, 歸之, 自乘</vocab>
+
+--- Page 69 ---
+<lang>zh</lang>
+<page-num>十三</page-num>
+<header>算法統宗 卷十三</header>
+
+脚米一十七石三斗二升五合
+
+法曰<gloss>此乃就物抽出分之法</gloss>置米八十以價一千二百乘之得一十
+<gloss>九万六千六百八十文</gloss>為實 ○ 併石價脚錢共一千六百為法除實得
+客米數以减總米餘為脚米合問
+
+---
+
+# 難題十三首
+# 方田粟米問
+
+---
+
+新編直指算法統宗卷之十三
+
+<vocab>脚米, 抽出分之法, 實, 法, 難題, 方田粟米問, 算法統宗, 程大位</vocab>
+
+<detected-images>
+[{"description": "Large stylized seal script (篆書) headings for a new section of mathematical problems", "type": "decorative", "bbox": {"x": 0.176, "y": 0.182, "width": 0.354, "height": 0.654}, "gallery_quality": 0.85, "museum_rationale": "Striking examples of Ming dynasty woodblock typography, showcasing the use of archaic seal script for decorative chapter headings in scientific texts."}]
+</detected-images>

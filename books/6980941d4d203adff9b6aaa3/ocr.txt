@@ -1,0 +1,2300 @@
+--- Page 1 ---
+<lang>None</lang>
+<meta>Leather book binding, likely the front cover. The material is a dark reddish-brown leather with gold-tooled borders and blind-tooled decorative elements.</meta>
+
+<vocab>binding, leather, gold tooling, blind tooling, foliate, arabesque, medallion</vocab>
+
+<detected-images>
+[{"description": "Ornate leather book cover featuring a gold-tooled rectangular border, blind-tooled scrolling foliate designs in the four corners, and a central symmetrical arabesque medallion.", "type": "decorative", "bbox": {"x": 0.021, "y": 0.019, "width": 0.941, "height": 0.956}, "gallery_quality": 0.85, "museum_rationale": "A well-preserved and fine example of historical bookbinding craftsmanship, showcasing a combination of gold and blind tooling techniques with intricate symmetrical patterns."}]
+</detected-images>
+
+--- Page 2 ---
+<lang>Latin</lang>
+<meta>Pasted paper label on marbled paper binding with gold fillet</meta>
+
+<insert>
+M
+
+->**PHILOSOPHIA HERMETICA**<-
+</insert>
+
+<vocab>Philosophia Hermetica, Pelican in its piety, alchemy, Hermeticism, marbled paper, binding</vocab>
+
+<detected-images>
+[{"description": "Alchemical emblem on a pasted label featuring a 'Pelican in its piety' (a pelican piercing its own breast to feed its young with its blood) perched atop a cube decorated with four roses arranged in a cross. The scene is within an oval, surrounded by the Latin inscription 'PHILOSOPHIA HERMETICA'.", "type": "emblem", "bbox": {"x": 0.384, "y": 0.297, "width": 0.225, "height": 0.176}, "gallery_quality": 0.9, "museum_rationale": "This is a significant hermetic emblem, likely relating to Rosicrucian or alchemical traditions of the 17th or 18th century. The 'Pelican in its piety' is a well-known symbol for the Magnum Opus and self-sacrifice in spiritual transmutation."}]
+</detected-images>
+
+--- Page 3 ---
+<lang>None</lang>
+<meta>Marbled endpaper</meta>
+<warning>This page contains no text; it is a decorative marbled endpaper or pastedown.</warning>
+
+<vocab>marbled paper, endpaper, bookbinding, decorative arts</vocab>
+
+<detected-images>
+[{"description": "Decorative marbled paper endpaper featuring swirling patterns of red, ochre, and black, typical of historical bookbinding.", "type": "decorative", "bbox": {"x": 0.02, "y": 0.02, "width": 0.88, "height": 0.95}, "gallery_quality": 0.8, "museum_rationale": "A classic example of historical paper marbling techniques used in book production between the 17th and 19th centuries."}]
+</detected-images>
+
+--- Page 4 ---
+<lang>None</lang>
+<meta>Blank page; likely a flyleaf or endpaper. No text present.</meta>
+
+[Blank Page]
+
+<vocab></vocab>
+
+--- Page 5 ---
+<lang>None</lang>
+<meta>Blank flyleaf or endpaper at the beginning or end of a manuscript volume.</meta>
+
+[Blank Page]
+
+<vocab>blank page, flyleaf, endpaper, manuscript paper</vocab>
+
+--- Page 6 ---
+<lang>Unknown</lang>
+<page-num>3</page-num>
+<meta>This image appears to be a blank flyleaf or endpaper from a bound volume. There is a faint, handwritten numeral "3" in the upper-left corner.</meta>
+
+(Blank Page)
+
+<vocab>blank page, endpaper</vocab>
+
+--- Page 7 ---
+<lang>de</lang>
+<meta>Title page for a work by Valentin Weigel, printed in 1618. Features a heavy decorative woodcut border and a mix of Antiqua and Fraktur typefaces. Includes a faint handwritten annotation in the right margin.</meta>
+
+# LIBELLVS DISPV-
+# TATORIVS.
+### Das ist
+# Ein Disputation-
+## Büchlein / Spöttlicher Weyse
+->Schamroth zu machen / vnd zu widerlegen<-
+->alle Disputanten vnd gelehrten / die wider das<-
+->Liecht der Natur Studieren / vnd de ve-<-
+->ro modo cognoscendi nichts<-
+->wissen <insert>Theophras.</insert><-
+->Beschriben durch<-
+## M. VALENTINVM WEI-
+## GELIVM, Weyland gewesenen Pfar-
+### hern zur Zschopau Seli-
+### gen / etc.
+
+---
+
+->Gedruckt zu der Newenstadt bey Johan<-
+->Knuber / Im Jahr 1618.<-
+
+<vocab>Libellus Disputatorius, Disputation, Valentin Weigel, Zschopau, Liecht der Natur, Neustadt, Johan Knuber, Theophrastus Paracelsus</vocab>
+
+<detected-images>
+[{"description": "Ornate woodcut border with repeating foliate and geometric patterns", "type": "woodcut", "bbox": {"x": 0.113, "y": 0.1, "width": 0.771, "height": 0.835}, "gallery_quality": 0.7, "museum_rationale": "A characteristic 17th-century decorative woodcut border framing a title page, showing standard typographic ornamentation of the period."}, {"description": "Decorative typographic ornament or fleuron", "type": "decorative", "bbox": {"x": 0.422, "y": 0.674, "width": 0.138, "height": 0.067}, "gallery_quality": 0.3, "museum_rationale": "Minor printer's ornament used for spacing and visual balance."}, {"description": "Decorative woodcut divider with repeating scroll patterns", "type": "woodcut", "bbox": {"x": 0.119, "y": 0.844, "width": 0.758, "height": 0.082}, "gallery_quality": 0.5, "museum_rationale": "Typographic border element typical of early modern printing houses."}]
+</detected-images>
+
+--- Page 8 ---
+<lang>de</lang>
+<warning>The page consists almost entirely of ink show-through (bleed-through) from the reverse side. The text is mirrored and illegible. Only the provenance stamp at the bottom is transcribable.</warning>
+
+<meta>ink show-through, mirrored text, flyleaf, collector's mark</meta>
+
+<insert>
+-> **CHRISTOF • FRIEDRICH** <-
+-> BIBLIOTHEK IN <-
+-> <unclear>...</unclear> <-
+-> **LANDRECK** <-
+</insert>
+
+<vocab>Christof-Friedrich Landreck, Bibliothek, provenance, owner's stamp</vocab>
+
+<detected-images>
+[{"description": "Oval library stamp of Christof-Friedrich Landreck in purple/violet ink.", "type": "decorative", "bbox": {"x": 0.431, "y": 0.658, "width": 0.312, "height": 0.124}, "gallery_quality": 0.4, "museum_rationale": "A common 19th-century provenance mark identifying the book's previous owner and library."}]
+</detected-images>
+
+--- Page 9 ---
+<lang>de</lang>
+<header>Vorrede.</header>
+<sig>A ij</sig>
+<meta>catchword: auch</meta>
+
+# Dem Wohl Edlen/
+->Gestrengen vnd Ehrnvesten<-
+## Conrado von Börstell / Fürstlichen
+## Anhaltischen geheimen Landt : vnd Cammer-
+## Rath / auch Ober Hauptman Bernbürgischen
+## Theils/vnd Erbgesessen zu Gusten vnd Flax-
+## kaw / etc.
+
+# Wie auch gleichfals / Dem wol Edlen/
+## Gestrengen vnd Ehrnvesten Levin von Börstel /
+## Fürstlichen Anhaltischen Landt
+## Rath / etc.
+
+# So dann Dem wohl Edlen / Gestren-
+## gen / vnnd Ehrnvesten Ernesto von Börstelln/
+## Gebrüdern vnd respectivè Erbsassen zu We-
+## ster Egeln / etc.
+
+---
+
+->Meinen groß günstigen vielgeehrten Junck-<-
+->herrn / mächtigen Patronen vnd Fürderern seind mein<-
+->ganz willige dienste vnd gruß jederzeit<-
+->bevor / etc.<-
+
+---
+
+**W** Ohl Edel / Gestreng vnd Ehr-
+renveste / Großgünstige liebe Junck-
+herrn / es nennet der Weise Heyde
+**Plato** in seinem **Timæo** diese Welt nicht vnreiß-
+lich **Dei Patris ad genus humanum Epistolam**, wie
+
+<vocab>Vorrede, Conrado von Börstell, Levin von Börstel, Ernesto von Börstelln, Anhaltischen, geheimen Landt : vnd Cammerrath, Ober Hauptman, Bernbürgischen, Erbgesessen, Gusten, Flaxkaw, Plato, Timæo, Dei Patris ad genus humanum Epistolam</vocab>
+
+<detected-images>
+[{"description": "Large decorative woodcut initial 'W' featuring floral or scrollwork ornamentation.", "type": "decorative", "bbox": {"x": 0.12, "y": 0.72, "width": 0.13, "height": 0.09}, "gallery_quality": 0.3, "museum_rationale": "Standard printer's decorative initial of the period, adding typical aesthetic value to a 17th-century preface."}]
+</detected-images>
+
+--- Page 10 ---
+<lang>de</lang>
+<header>Vorrede.</header>
+<meta>catchword: temahlen</meta>
+
+# Vorrede.
+
+<margin>1. Histor Tripart. lib. 8. cap. 1.</margin>
+auch *Antonius Eremita* sonsten aller Bücher vnd *Præceptoren* entsatzt / gesagt / daß die Natur aller Creaturen sein Göttiges Buch were / *in quo scilicet verba Dei relegere, quoties liberet, liceret.*
+
+Wodurch sie die Reiche Mutter *Naturam* mit Lebendigen Farben außgestrichen / als die auß dem verborgenen Schoß ihrer *Arcanen* dem Menschen sein Liecht der massen ankündet / dadurch er *ab effectis* leicht *ad causam digrediren*, vnnd also *cooperante Lumine Gratiæ* auch *in hac mortalitate* seinen Schöpffer etlicher massen erblicken kan. Denn Gott der Allerhöchste hatt solche zwey Liechter / *Gratiæ* & *Naturæ*, Erstlich durch sein allgewaltiges Wort **FIAT**, auch nachmahls *per verbum incarnatum* mit so festen Adamantinischen Banden dermassen in vns befestiget / *conglutinirt* vnd vereinbahret / das freylich der Einfältige *Studiosus veritatis*, in sich selbsten Gottes wunderhand leichtsamb vermercken mag. Denn fürwar vnd anders nicht seind die beyde *Lumina* zwo Blutfreundin vnd natürliche Geschwistern / das ist / *Simplex Ratio* & *gratuita Dei patefactio.*
+
+Einmahl so beruhet das gantze fundament aller Weißheit in diesen beyden *cardinibus*, vnd *referirt* sich das eine auff das andere leicht / sin-
+
+<vocab>Antonius Eremita, Historia Tripartita, Natur als Buch Gottes, Liber Naturae, Lumen Gratiae, Lumen Naturae, Arcanum, FIAT, verbum incarnatum, Studiosus veritatis, Simplex Ratio, gratuita Dei patefactio</vocab>
+
+--- Page 11 ---
+<lang>de</lang>
+<header>Vorrede.</header>
+<sig>A iij</sig>
+<meta>catchword: auch</meta>
+
+temahlen nicht allein *politicè* ſondern auch *Theologicè* von der Sach zu reden / wenn ich einen Examinir / warumb er diß oder ſeines thue / Lehre / Predige : So muß mir ja dieſe Antwort begegnen / *quia juſtum bonumq; id eſſe vel naturæ inſtinctus , vel juſſum divinum oſtendit .* Darumb ſo ſeind je die *principia* des Chriſtlichen Glaubens vnd Lebens entweder *Natürlich* oder vnnatürlich.
+
+<margin>1. Cor. 2. 14.</margin>
+*Natürlich* nenne ich mit Paulo vnd *Cicerone* / *quæ vel â naturâ , arripuimus , hauſimus expreſſimus , vel ab hominibus animalibus didicimus , legimus , accepimus , adeoq; ad quæ partim docti & inſtituti, partim facti & imbuti ſumus .* Denn ob zwar durch die Sünde *mens hominis* heftig *contaminirt* ; ſo iſt aber doch ſo viel Liechts der Natur noch vbrig / Welches nicht allein *veritates theoricas & mechanicas* ( in Menſchlichen vnd natürlichen Künſten begriffen ) erkennen / Sondern auch das *Bonum , verumq; morale univerſe conſideratum* erlangen mag / *Exempli cauſâ , Deum eſſe colendum , parentes venerandos , liberos diligendos , &c.*
+
+<margin>Rom. 1. 19.</margin>
+Denn was hat der Apoſtel anders gewolt da er geſchrieben / τὸ γνωστὸν θεοῦ *etiam gentibus ex mundi ſtructurâ manifeſtum eſſe* ? So bezeugens
+
+<vocab>Vorrede, Paulo, Cicerone, Liecht der Natur, veritates theoricas, veritates mechanicas, Bonum, Apoſtel, principia</vocab>
+
+--- Page 12 ---
+<lang>de</lang>
+<header>Vorrede.</header>
+<warning>Page shows visible bleed-through from the reverse side; paper is aged with some foxing.</warning>
+
+auch die Historien vnd der Philosophen *Scripta*,
+das die Heyden keine *vulgarem*, Sondern viel=
+mehr *claram & illustrem Dei cognitionem* gehabt/
+vnd selbige nicht allein *per manus traditionem Iu=*
+*dæorum*, oder *per peculiarem DEI afflatum*, sondern
+gemeiniglich auch *per naturalis ingenij solertiam*
+vnd durch *manu duction* der gerechten *Philoso=*
+*phiae* zu hohen sachen kommen.
+
+Darzu denn *grande hoc mundi spectaculum*,
+sonderlich vnnd vor andern viel gethan. Von
+dieser arth nun der natürlichen *Principiorum* hat
+es an sich selbsten keinen streit noch zweiffel.
+Denn es muß ja ein vernünfftiger zugeben /
+das auch ausserhalb der Kirchen Christi in de=
+nen / so von Gott noch vnerleuchtet viel gründe
+seind das Menschliche Herz vnd gemüt Gött=
+licher Mysterien zu convinciren vnnd darumb zu
+erudiren. Aber von Christo vnd seinem Evan=
+gelio haben sie nichts gewisses. In der Gemein=
+schafft Christi aber / alda die Menschliche See=
+len volkömlicher *per Lumen Gratiæ* erleuchtet /
+vnd von allen deme / so zur Seelen Seeligkeit
+gehörig instruiret seind / informiren solche *Subluna=*
+*ria tanquam similitudines seu secundaria & succen-*
+*turiata argumenta* den recht geschaffenen glauben
+zu Gott vmb so viel Kräfftiger vnd gewisser.
+
+<meta>catchword: Was</meta>
+<vocab>Philosophie, Dei cognitio, Lumen Gratiæ, Mysterien, Evangelium, Principiorum, Sublunaria</vocab>
+
+--- Page 13 ---
+<lang>de</lang>
+<meta>catchword: Zu</meta>
+
+## Vorrede.
+
+<margin>Hebr. 1. 1</margin>
+Was dann die <term>Supernaturalia principia</term> anreicht / so seind die auch ausser allem zweiffel testificationes ipsius verissimi sapientissimi DEI welcher mannigfaltig / vnd in vielerley manier vorzeiten geredt hat mit vnsern Vätern durch die Propheten / vnd nun in diesen letzten Tagen mit vns geredt durch seinen Sohn / redet auch noch mit vns durch seine oragna vnd Werckzeuge <margin>Esa. 9. Psalm. 4</margin> von jhme durch seinen wunderbaren Rath / mirificirt, beruffen vnd illustrit, auff das biß ans Ende der Welt bestehet die aufferbauwung <margin>Ephes. 4 19.</margin> des Leibes Christi / Vnnd wir alle vollkommen werden in einem Sin vnd Glauben / <margin>Ephes. 5 27.</margin> auff das in vns nicht haffte einige **RVNTZEL** des Jrrthumbs noch **MACKEL** der vngottseligkeit.
+
+<margin>Psal. 119 105.</margin>
+Diese vnd dergleichen λόγοι θεόπνευστοι, als eine <term>Medicina animarum</term> vnd eine Leuchte unserer Füsse vnd eine Krafft Gottes zur Seligkeit allen / <margin>Rom. 16.</margin> die da Glauben / werden leyder heute zu Tage miserrimo planè fato nostro bößlichen vnd gleichsamb in <term>pomum Eridos</term> verkehret welche wie Helena auß Græcia / nun so viel lange Jahr Armer Christen Hertzen von der rechten bahn der Seligkeit abführen.
+
+<vocab>Supernaturalia principia, testificationes, oragna, mirificirt, illustrit, aufferbauwung, RVNTZEL, MACKEL, λόγοι θεόπνευστοι, Medicina animarum, pomum Eridos, Græcia</vocab>
+
+--- Page 14 ---
+<lang>de</lang>
+<header>Vorrede.</header>
+
+auch die Hiſtorien vnd der Philoſophen <term>Scripta</term>, das die Heyden keine <term>vulgarem</term>, Sondern viel- mehr <term>claram & illuſtrem Dei cognitionem</term> gehabt / vnd ſelbige nicht allein <term>per manus traditionem Iudæorum</term>, oder <term>per peculiarem DEI afflatum</term>, ſondern gemeiniglich auch <term>per naturalis ingenij ſolertiam</term> vnd durch <term>manu duction</term> der gerechten Philoſo- phiæ zu hohen ſachen kommen.
+
+Darzu denn <term>grande hoc mundi ſpectaculum</term>, ſonderlich vnnd vor andern viel gethan. Von dieſer arth nun der natuͤrlichen <term>Principiorum</term> hat es an ſich ſelbſten keinen ſtreit noch zweiffel. Denn es muß ja ein vernuͤnftiger zugeben / das auch auſſerhalb der Kirchen Chriſti in de- nen / ſo von Gott noch vnerleuchtet viel gruͤnde ſeind das Menſchliche Hertz vnd gemuͤt Goͤtte- licher Myſterien zu <term>convinciren</term> vnnd darumb zu <term>erudiren</term>. Aber von Chriſto vnd ſeinem <term>Evangelio</term> haben ſie nichts gewiſſes. In der Gemein- ſchafft Chriſti aber / alda die Menſchliche See- len vollkoͤmlicher <term>per Lumen Gratiæ</term> erleuchtet / vnd von allen deme / ſo zur Seelen Seeligkeit gehoͤrig inſtruiret ſeind / informiren ſolche <term>Sublunaria tanquam ſimilitudines ſeu ſecundaria & ſuccenturiata argumenta</term> den recht geſchaffenen glauben zu Gott vmb ſo viel Kraͤfftiger vnd gewiſſer.
+
+<meta>catchword: Was</meta>
+
+<vocab>Historien, Philosophen, Scripta, Heyden, Dei cognitionem, naturalis ingenij, Philosophiae, mundi spectaculum, Kirchen Christi, Mysterien, Lumen Gratiæ, Seelen Seeligkeit, Sublunaria</vocab>
+
+--- Page 15 ---
+<lang>de</lang>
+<header>Vorrede.</header>
+<meta>catchword: Zu</meta>
+
+# Vorrede.
+
+Was dann die Supernaturalia principia anreicht / so seind die auch ausser allem zweiffel testificationes ipsius verissimi sapientissimi DEI (wel<margin>Hebr. 1. 1</margin>cher mannigfaltig / vnd in vielerley manier vorzeiten geredt hat mit vnsern Vätern durch die Propheten / vnd nun in diesen letzten Tagen mit vns geredt durch seinen Sohn / redet auch noch mit vns durch seine organa vnd Werckzeuge <margin>Esa. 9. Psalm. 4</margin> von jhme durch seinen wunderbaren Rath / mirificirt, beruffen vnd illustrit, auff das biß ans <margin>Ephes. 4 13.</margin> Ende der Welt bestehet die aufferbauwung des Leibes Christi / Vnnd wir alle vollkommen werden in einem Sin vnd Glauben / <margin>Ephes. 5 27.</margin> auff das in vns nicht haffte einige **RUNTZEL** des Irrthumbs noch **MACKEL** der vngottseligkeit.
+
+Diese vnd dergleichen λόγοι θεόπνευστοι, als eine Medicina animarum vnd eine leuchte vnserer Füf= <margin>Pfal. 119 105.</margin> se vnd eine Krafft Gottes zur Seligkeit allen / die da Glauben / werden leyder heute zu Tage <margin>Rom. 1 16.</margin> miserrimo planè fato nostro bößlichen vnd gleichsamb in pomum Eridos verkehret welche wie Helena auß Græcia / nun so viel lange Jahr Armer Christen Hertzen von der rechten bahn der Seligkeit abführen.
+
+<vocab>Supernaturalia, testificationes, sapientissimi DEI, organa, λόγοι θεόπνευστοι, Medicina animarum, pomum Eridos, Helena, Græcia</vocab>
+
+--- Page 16 ---
+<lang>de</lang>
+<meta>catchword: auch</meta>
+
+### Vorrede.
+
+Zu erwegung alles dieſes iſt *M. Valent.*
+*Weigelius* Seliger durch erleuchtung Gottes
+zum heil ihrer viele auffgeſtanden / welcher
+durch ſeine Sinnreiche vnd Gottſelige *Scripta*,
+deren theils ſchon im Truck / theils noch folgen
+werden / in dem Liecht der Natur vnnd Genaden
+ſo weit kommen / daß er die groſſe mißbräuche
+der ehrgeitzigen / eigennützigen / vnnd hochtra-
+benden Welt verführer / Schrifft verfälſcher
+vnd *Seductoren* erkandt / *Taxiret* / am Tag ge-
+geben / vnnd davor *Chriſt*Brüderlichen ſeinen
+Nechſten verwarnet.
+
+   Weilen aber hin vnnd wieder / zwar nicht
+*publicè & aperto Marte*, ſondern in Winckel vnd
+vnter dem Hütlein vielfältig wider dieſen *Auto-*
+*rem ſuſurritt*, vnnd heimlich gemürmelt wird / ſo
+iſt doch aber Gottes handt ob ſolchen Schrif-
+ten in deme Augenſcheinlich zuvermercken / das
+auch keiner biß noch *Dato* ſich gegen jhme *pu-*
+*blicè* einzulaſſen jemals in Sinn ziehen dürfften /
+Dannenhero Herrn *Lutheri* Wort von ſeinen
+ſchrifften nicht vnfüglich hierher gar wol gezo-
+gen werden mögen / da er geſchrieben /
+> Iſt meine Lehre vnrecht / ſo wird ſie an jhme ſelbſt fallen vnd zugrunde ſincken / iſt ſie aber Recht / ſo hilfft kein *Calumniren* noch ſchandthieren /
+werden
+auch
+
+<vocab>Valentin Weigel, Martin Luther, Liecht der Natur, Scripta, Seductoren, Calumniren, Schrifft verfälſcher</vocab>
+
+--- Page 17 ---
+<lang>de</lang>
+<header>Vorrede.</header>
+<sig>B</sig>
+<meta>catchword: was</meta>
+
+auch weder Teuffel noch Menschen dagegen et-
+was vermögen.
+
+Demnach aber ehrnermelter Author seine
+Cavillanten, heimtückische Antagonisten vnd win-
+ckelfechter zweiffels frey in seinem Herzen schon
+zuvorhin gleichsamb <term>prævidirt</term> vnd gesehen / Als
+hat er zu dem ende gegenwertiges Büchlein sei-
+nen Christlichen Nachfolgern vnd <term>discipulis</term> zur
+Information verwarnung vnd nachrichtung ver-
+fertiget / vnd nach sich verlassen / damit Christ-
+gläubige <term>doctrinæ filij</term> hierauß allen Ignoranten
+vnd <term>Noctambulis</term> entgegen Tretten / dieselben
+<term>jronicè</term> ablegen / vnnd also die Stachlechte
+wolfahrt ihrer Pilgram : Vnnd Wander-
+schafft durch diesen <term>Zehrenthal</term> <term>ad civitatem Dei</term>
+<term>cujus Rex veritas, cujus Lex charitas cujus modus</term>
+<term>æternitas</term>, desto frewdiger vberwinden vnd voll-
+bringen möchte.
+
+Weilen aber auch Ew. Edel Streng. sampt
+vnd sonders nit allein aller Andechtigen Christ-
+seligen Heroischen Tugenden berühmet vnnd be-
+kandt / alß thue denen ich hiemit dieses Büch-
+lein auß guten Hertzen <term>Dediciren</term> vnnd zuschrei-
+ben / vnderdienstlich Bittendt solches als eine
+Trewgemeinete gab in besten zuerkennen / solches
+<term>cum discretione & judicio</term> zu durchlesen / vnd biß
+
+<vocab>Vorrede, Author, Cavillanten, Antagonisten, winckelfechter, prævidirt, discipulis, doctrinæ filij, Ignoranten, Noctambulis, jronicè, Zehrenthal, civitatem Dei, Dediciren, Trewgemeinete</vocab>
+
+--- Page 18 ---
+<lang>de</lang>
+<header>Vorrede.</header>
+<meta>catchword: IN</meta>
+<warning>Significant ink bleed-through from the reverse side of the page makes some background text visible, though the primary text remains legible.</warning>
+
+### Vorrede.
+
+was anders / mehrers vnd bessers hernach fol-
+ge großgünstig damit vor lieb vnd willen nehmen
+Das bleibe vmb dieselbe ich eussersten meines
+vermögens zu verdienen allezeit willig / vns al-
+lerseits hierneben Gottes Väterlicher <term>protection</term>
+empfehlend **Ex Musæo, Den 20. Januarij An-
+no 1618.**
+
+->**E. Edel Streng. vnd Ehrnv.**<-
+
+->**Vnderdienstwilliger.**<-
+
+->**ἀναγραμματικῶς.**<-
+
+->**Ionas à Strein. N. R. & P. C.**<-
+
+<vocab>Vorrede, protection, Musæo, ἀναγραμματικῶς, Ionas à Strein</vocab>
+
+<detected-images>
+[{"description": "Ornate woodcut tail-piece ornament featuring a central stylized face or mask surrounded by decorative scrollwork, garlands, and architectural flourishes.", "type": "decorative", "bbox": {"x": 0.431, "y": 0.572, "width": 0.353, "height": 0.276}, "gallery_quality": 0.6, "museum_rationale": "A standard but well-executed examples of early 17th-century printer's ornaments (fleuron/cul-de-lampe), illustrating contemporary book design aesthetics."}]
+</detected-images>
+
+--- Page 19 ---
+<lang>German</lang>
+<page-num>1</page-num>
+<sig>B ij</sig>
+<meta>catchword: flug</meta>
+<warning>Visible bleed-through from the reverse side of the page occasionally overlaps with the text.</warning>
+
+# IN
+# LIBELLVM DISPVTATORIVM.
+
+## Vorrede.
+
+Ich schreib allhier ein <term>Disputier-Büchlein</term> / aber nicht der meinung / als könte man die warheit durchs Disputieren erlangen vnd lernen / dann Natürliches / Menschliches Disputiren ist diesem Studio also nutz / Als der Teuffel der Heiligen Kirchen. Dahero auch Hieronimus einer auß den Alten Vätern in die Litaney gesetzt hat / > A Dialecticis libera nos Domine, Erlöse vns Herr von den Subtilen Disputieren / Vnnd ich sage mit warheit / wil jemand in diesem Studio fortkommen / der mus sich entschlagen alles widersprechens vnd Argumentierens / sonsten wird nichts drauß / man legt nur hon vnd Spott ein / mit solchen Nasenweisen Schülern / denn sie gedenckens mit ihren Phantastischen / Elenden / erdichten Argumenten / gleich zu meistern / vnd zu stoffen / vnd die warheit zukleinern / oder sich vber die Wegweiser zusetzen / vnd getrawen also dem nicht / der sie führen soll.
+
+Nun schreib ich (wie gemeldt) ein DisputierBüchlein nicht der meinung / als solte man durch viel Disputieren die Warheit lernen : Sondern das man den widersprechern wiederstehen möge / mit Kurtzen einfeltigen wartten vnd beweisen / wie viel grösser scharffe in Göttlicher Weißheit liege / als in aller Menschen Subtilsten
+
+<vocab>Disputier-Büchlein, Dialecticis, Hieronimus, Litaney, Wegweiser, Göttlicher Weißheit</vocab>
+
+<detected-images>
+[{"description": "Decorative historiated initial letter 'I' with floral and scrolling leaf motifs.", "type": "decorative", "bbox": {"x": 0.126, "y": 0.286, "width": 0.177, "height": 0.131}, "gallery_quality": 0.6, "museum_rationale": "Standard woodcut decorative initial characteristic of 17th-century German printing."}]
+</detected-images>
+
+--- Page 20 ---
+<lang>de</lang>
+<page-num>2</page-num>
+<meta>The text is written in Early New High German (Baroque style). Technical terms and names originally printed in Antiqua type are rendered here in italics to distinguish them from the primary Fraktur typeface. There is significant bleed-through from the reverse page.</meta>
+
+klugheit / vnd das alle Natürliche *Argumenta* zu rück ge=
+schlagen werden / mit solcher einfeltiger vnnd doch mech=
+tiger Antwort / wie der kleine verachte *David* den hohen
+Stolzen *Goliath* vberwand. Dann die Göttliche tor=
+heit ist Weiser als alle Menschen sind ꝛc. Vnd die Gött=
+liche schwachheit / ist stärker dann die Menschen sind /
+*1. Cor. 1..*
+
+## Was für ein Latein von nöthen vnd für zu halten sey deme / der da kommet die warheit zu lernen.
+
+Frage jhn / ob er vorhin wisse vnd könne / was er gedencke von dir zu lernen / oder nichts : Spricht er / ja / ich kan vnd Weiß es zuvor woll / denn ich habe auch *Studieret* / ich bin der vnd der / dieweil du aber dich vernehmen lest / als weistu ein gründlichen richtigen *Methodum* in kurtzer zeit zu hoher erkentnuß zu kommen / Vnd zu hohen dingen : So wolt ich nur etwas davon hören / vnd sehen was es wehre.
+
+Hierauff gib jhm baldt sein urlaub / vnnd sprich / kanstues zuvor / vnd meinest / du habests auch *Studieret* / vnd haltest dich also vorhin gelehrt / so darffstu von mir nichts hören noch lernen / Es were auch vnmüglich / Darümb bleibe du bey deiner Warheit / vnnd ich wil bey meiner bleiben. Spricht er aber / ich kan vnd weiß es nicht / ich hette aber ein verlangen die Warheit gründlich zulernen / das ich doch selbst recht wissen könt / wie ich zur Warheit kommen muß / damit ich von keinem andern verführt werde.
+
+Denn mich deucht es sey viel besser ein ding selber
+<meta>catchword: sehen /</meta>
+sehen /
+
+<vocab>Argumenta, David, Goliath, 1. Cor. 1., Latein, Methodum, Studieret, Warheit</vocab>
+
+--- Page 21 ---
+<lang>de</lang>
+<page-num>3</page-num>
+<sig>B iij</sig>
+<meta>catchword: nichts</meta>
+<warning>Page shows significant ink bleed-through from the verso side and some foxing/staining.</warning>
+
+stehen / befinden / als einem andern auff gut bereden glau=
+ben / vnd auff Menschlicher *Authoritet* beruhen: So sa=
+ge du drauff: Nun wolan ist es dein erste / meinen trewen
+vnterricht vnd wegweisung zufolgen / So fordere ich das
+von dir nothwendig / das du mir getrawest / glaubest / vnd
+zu trawest / vnd eben auffmerckest / was ich dir sage vnnd
+weise ohne alle widerrede / ohne alles *Disputieren* vnnd
+widersprechen. Dann so du woltest darwider *Argumen*=
+*gumentieren* / vnd klüglich *Disputieren* / so werestu gantz
+vngeschickt zu dieser lernung / vnd würdest vber dich selber
+bezeugen / das du es woltest besser wissen / als dein **Weg=**
+**weiser.**
+
+Mustu doch in allen Handwercken deinem Meister
+keine einrede thun / vnd ihn nicht Meistern / sonst würde
+er dir bald die Thür weisen. Dann wann du es woltest
+besser wissen als er / So wer er nicht dein Lehrmeister /
+vnd du dörffetest nichts von ihm lernen. Ists also in Leib=
+lichen Künsten vnd Handwercken / Wie viel mehr in die=
+sem aller heiligsten vnd Hochwichtigsten *Studio*, das v=
+ber alle Künste / Handwercke vnd *Faculteten* außgehet /
+vnd alle gelehrten in der gantzen Welt vbertrifft / das sind
+warhafftige vnd vnwidersprechliche Wort / vnnd ist es
+also.
+
+Es war ein Kunstreicher Lautenist / der hatte diesen
+brauch / so offt er einen annahme zu vnterrichten in der
+Kunst / fragte er ob derselbige auch sonst von jemands
+etwas gelernet hatte / vnnd ob er etwas schlagen künte ?
+So nun der sprach / Nein / ich habe mein Lebentlang nicht
+die Lauten angerühret / vnnd weiß gar nichts darauff zu=
+schlagen : So nahm er ihn an / vnd machte auß dem / der
+
+<vocab>Authoritet, Disputieren, Argumentieren, Wegweiser, Studio, Faculteten, Lautenist</vocab>
+
+--- Page 22 ---
+<lang>de</lang>
+<page-num>4</page-num>
+
+nichts kunte einen geschwinden / subtilen / behenden
+Meister. So aber einer sprach; Ja er kündte etliche
+Grieff auff der Lauten / vnnd hette von andern auch zu=
+vor etwas gelernet vnnd begrieffen ; So ließ er jn als=
+bald von sich vnd sprach / Auß dir kan ich nichts machen /
+du mußt hingehen vnnd von deines gleichen lernen / Ich
+kan vnnd wil dich weiter nichts lehren / denn es würde
+nichts auß dir / du würdest mir ein Schand vnnd Spott /
+vnd müssest doch nur ein Hümpler bleiben.
+
+Jedoch so du ein gantzes Jahr verzichen woltest / vnd
+aller deiner vorigen Künst vergessen / So hette ich eine
+Hoffnung zu dir / das du von mir auch etwas löbliches
+begreiffen möchtest. Also auch Christus nimmet Nico=
+demum nicht an zum Schüler / er entsage dann zuvor al=
+ler seiner Klugheit vnnd Wissenschafft. Auch wird
+Paulus zu keinem Apostel gemacht / er speye denn zuvor
+auß / vnnd entlerne alles / was er zu den Füßen Gamali=
+elis gelernet hatte.
+
+Man schüttet nicht Most in alte Schleuche / den er
+verdürbe doch : Man flicket auch nicht einen newen Lap=
+pen an ein alt Kleid / Den diß würde nur erger. Matth: am
+9. Capitel.
+
+## Durch welche weiß man die disputirenden Wi=
+## dersprecher vberwinden soll / die da verleugnen das
+## innerliche Zeugnuß / das da ist in allen / ei=
+## nem jeden Christen gar nötig
+## zu wissen.
+
+<meta>Catchword: Zwey</meta>
+<vocab>Lauten, Hümpler, Nicodemum, Wissenschafft, Gamalielis, Most, Schleuche, innerliche Zeugnuß</vocab>
+
+--- Page 23 ---
+<lang>de</lang>
+<meta>catchword: wolte/</meta>
+
+->❦<-
+
+# **Z**wey Stück werden erfordert / von einem der dabeÿ gert vnd gedenckt die Wahrheit zu lernen.
+<margin>1.</margin>
+Erstlich das Erkentnuß seiner selbst.
+Das ander ist / Gelassenheit.
+<margin>2.</margin>
+Wer diese zwey nicht hat / darff nicht gedencken / daß er möge zur Wahrheit kommen.
+
+Erkentnuß seiner selbst ist allhier / da einer zum Anfang vberzeuget wirdt / daß er bekennen muß / wie das Urtheil oder die Erkentnuß nicht auß den Büchern genommen werde ; Sondern im Menschen liege / vnd von innen herauß fliesse. Dann so die Wahrheit nicht in vns wehre / wie könten wir derselben Kundtschafft geben / vnd ja darzu sagen / so sie vns fürgesagt oder fürgeschrieben würde. Das sehen kömpt ja auß dem Auge / das hören auß dem Menschen / das <term>judicium</term> auß dem <term>judicante</term>, das ist / dß Urtheil kömmet auß dem Menschen / <term>intellectus</term> auß dem <term>intelligente</term>: Soll ich ein Buch verstehen / so muß der Verstandt in mir sein.
+
+Die <term>Gelassenheit</term> ist das ander nothwendige Stücke / deme der da wil die Wahrheit lernen / Nemlich / er muß lassen / nicht allein alle natürliche Sorge / vnnd fleischliche Ergötzung / Sondern auch Urlaub geben aller seiner Kunst / Weißheit / Klugheit / Gescheidenheit / Wiß / Geschwindigkeit / vnnd alles disputiren lassen anstehen / dem Wegweiser mit nichten widersprechen / weder in grossen noch in kleinen. Dann so einer nur wolte ein leiblich Handtwerck lernen / als so einer keme zu einem Tischer / vnd wolte von jhm das Handwerck lernen / so müste er ja den Meister folgen in allen stücken / vnd eben achtung auff jn geben. So er aber durch seinen Fürwitz dem Meister widersprechẽ
+
+<vocab>Erkentnuß, Gelassenheit, Wahrheit, judicium, intellectus, Handtwerck, Meister</vocab>
+
+<detected-images>
+[
+  {"description": "Decorative printer's ornament at the head of the page", "type": "decorative", "bbox": {"x": 0.448, "y": 0.086, "width": 0.038, "height": 0.027}, "gallery_quality": 0.3, "museum_rationale": "A simple typographic ornament common in 17th-century printing."},
+  {"description": "Large decorative initial Z at the beginning of the text", "type": "decorative", "bbox": {"x": 1.15, "y": 0.12, "width": 0.06, "height": 0.07}, "gallery_quality": 0.5, "museum_rationale": "A standard historiated or decorated initial 'Z' used to mark the start of the main text block."}
+]
+</detected-images>
+
+--- Page 24 ---
+<lang>German</lang>
+<page-num>4</page-num>
+<meta>catchword: Zwen</meta>
+<warning>There is significant ink bleed-through from the reverse side of the page, but the main text remains legible.</warning>
+
+nichts kunte einen geschwinden / subtilen / behenden Meister. So aber einer sprach; Ja er kundte etliche Grieff auff der Lauten / vnnd hette von andern auch zuvor etwas gelernt vnnd begrieffen ; So ließ er jn alsbald von sich vnd sprach / Auß dir kan ich nichts machen / du must hingehen vnnd von deines gleichen lernen / Ich kan vnnd wil dich weiter nichts lehren / denn es würde nichts auß dir / du würdest mir ein Schand vnnd Spott / vnd müssest doch nur ein Hümpler bleiben.
+
+Jedoch so du ein gantzes Jahr verziehen woltest / vnd aller deiner vorigen Kunst vergessen / So hette ich eine Hoffnung zu dir / das du von mir auch etwas löbliches begreiffen möchtest. Also auch Christus nimmet Nicodemum nicht an zum Schüler / er entsage dann zuvor aller seiner Klugheit vnnd Wissenschafft. Auch wird Paulus zu keinem Apostel gemacht / er speye denn zuvor auß / vnnd entlerne alles / was er zu den Füssen Gamalielis gelernet hatte.
+
+Man schüttet nicht Most in alte Schleuche / den er verdürbe doch : Man flicket auch nicht einen newen Lappen an ein alt Kleid / Den diß würde nur erger. Matth: am 9. Capitel.
+
+->Durch welche weiß man die disputirenden Widersprecher vberwinden soll / die da verleugnen das innerliche Zeugnuß / das da ist in allen / einem jeden Christen gar nötig zu wissen.<-
+
+<vocab>Grieff auff der Lauten, Hümpler, Nicodemus, Paulus, Gamalielis, innerliche Zeugnuß, Matth: am 9. Capitel</vocab>
+
+--- Page 25 ---
+<lang>de</lang>
+<warning>Some minor bleed-through from the verso page is visible, but the text remains legible.</warning>
+
+->§<-
+
+**Z**wey Stück werden erfordert / von einem der dabe-
+gert vnd gedenckt die Warheit zu lernen.
+<margin>1.</margin> Erstlich das Erkendtnüß seiner selbst.
+Das ander ist / Gelassenheit.
+<margin>2.</margin> Wer diese zwey nicht hat / darff nicht gedencken / daß
+er möge zur Warheit kommen.
+
+Erkendtnüß seiner selbst ist allhier / da einer zum An-
+fang vberzeuget wirdt / daß er bekennen muß / wie das Vr-
+theil oder die Erkentnüß nicht auß den Büchern genom-
+men werde; Sondern im Menschen liege / vnd von innen
+herauß fliesse. Dann so die Warheit nicht in vns wehre /
+wie könten wir derselben Kundtschafft geben / vnd ja dar-
+zu sagen / so sie vns fürgesagt oder fürgeschrieben würde.
+Das sehen kömpt ja auß dem Auge / das hören auß dem
+Menschen / das <term>judicium</term> auß dem <term>judicante</term>, das ist / dß
+Vrtheil kömmet auß dem Menschen / <term>intellectus</term> auß
+dem <term>intelligente</term>: Soll ich ein Buch verstehen / so muß
+der Verstandt in mir sein.
+
+Die Gelassenheit ist das ander nothwendige Stü-
+cke / deme der da wil die Warheit lernen / Nemlich / er muß
+lassen / nicht allein alle natürliche Sorge / vnnd fleischliche
+Ergetzung / Sondern auch Vrlaub geben aller seiner
+Kunst / Weißheit / Klugheit / Gescheidenheit / Wiß / Ge-
+schwindigkeit / vnnd alles disputiren lassen anstehen / dem
+Wegweiser mit nichten widersprechen / weder in grossen
+noch in kleinen. Dann so einer nur wolte ein leiblich Hand-
+werck lernen / als so einer keme zu einem Tischer / vnd wol-
+te von jhm das Handwerck lernen / so müste er ja den Mei-
+ster folgen in allen stücken / vnd eben achtung auff jn geben.
+So er aber durch seinen Fürwitz dem Meister widersprechẽ
+
+<meta>catchword: wolte/</meta>
+
+<vocab>Erkendtnüß, Gelassenheit, Warheit, judicium, intellectus, Handwerck, Fürwitz, Kundtschafft</vocab>
+
+<detected-images>
+[{"description": "Decorative woodcut drop-cap initial 'Z' featuring floral or scrollwork ornamentation.", "type": "decorative", "bbox": {"x": 0.115, "y": 0.125, "width": 0.065, "height": 0.082}, "gallery_quality": 0.6, "museum_rationale": "A typical example of early modern German typography and woodcut initial usage in philosophical or religious printing."}]
+</detected-images>
+
+--- Page 26 ---
+<lang>de</lang>
+<page-num>6</page-num>
+<meta>catchword: cum</meta>
+
+wolte / (alſo vnd ſo ſolte er den Hobel führen / alſo vnd ſo
+ſolte ers machen ) So würde bald der Meiſter ſprechen /
+troll dich von mir / du darffſt meines vnterrichtens nichts:
+Denn dieweil du es beſſer wilt können den ich / ſo darffſtu
+von mir nichts lernen. Viel mehr wil es nun ſein in der
+Weißheit / welche ſo *Subtil* in vns liegt / Das vnter
+Tauſendt Menſchen / oder Weltgelehrten kaum einer
+gefunden wird / der es erkennet. Da muß man gelaſſen
+ſein nicht allein dem Wegweiſer auff Erden: Sondern
+auch Gott im Himmel / auff das derſelbe Raum be kom=
+me / die Weißheit in vns zueröffnen / das wir vberzeuget
+werden / alle Erkentnuß flieſſe von innen herauß auß
+dem Menſchen / vnd werde nicht durch Bücher leſen / von
+auſſen zu hienein getragen / wie die Weltgelehrten traw=
+ren.
+
+Welcher nun lernen wil die Warheit in allen Facul=
+teten / vnd nicht dieſe zwey ſtücke in ſich hatt / Das iſt der
+nicht zugeben wil / Das alle erkentnuß auß dem Innern
+zeugnuß flieſſe / alſo das auch der gemeine vngelehrte
+Mann könne der Warheit kundſchafft geben / *etc.* Vnnd
+der ſich nicht laſſen will / *etc.*
+
+Demſelbigen gieb ſeinen vrlaub / vnd laſſe ihn ler=
+nen bey ſeines gleichen in der Finſternuß / da er muß be=
+trogen bleiben. Denn du würdeſt mit ihm Spot vnd vn=
+ehr einlegen / vnd gar nichts außrichten. Denn nicht ein
+jeder iſt der Warheit fähig / ſeind dünne geſeet / die do
+tüchtig ſeind.
+
+Wil jemand das innerere zeugnuß / Welches iſt zu=
+gleich in allen Menſchen / verleugnen / vnnd mit dir Diſ=
+putieren / oder dich durch ein *Argumentum Dialecti=*
+
+<vocab>Hobel, Meiſter, Weißheit, Weltgelehrten, Erkentnuß, Warheit, Innerere zeugnuß, Argumentum Dialecticum</vocab>
+
+--- Page 27 ---
+<lang>German</lang>
+<page-num>7</page-num>
+<sig>C</sig>
+<meta>
+catchword: nicht/
+image quality: visible bleed-through from verso page
+</meta>
+<warning>Significant ink bleed-through from the reverse side of the page makes some background characters visible through the paper.</warning>
+
+zum fragen / wie der Bawer möge ein Vrtheil fellen / der
+nicht studieret hat / vnd schleußt also.
+
+<margin>Syllogismus.</margin>
+Der nichts studiret hat / noch gelernet / der kan auch nichts richten / prüfen / noch vrtheilen.
+
+Der gemeine Mann oder der Bawer hat nichts gelernet / er hat nicht studiret.
+
+Derhalben kan er nicht judiciren vnd vrtheilen / noch der Warheit Kundtschafft geben.
+
+Darauß ein solcher disputant schliessen wil / das inner Zeugnuß / das Judicium sey nicht in Bawern / er möge die Warheit nicht vernehmen / noch derselben Kundtschafft geben / auch nicht vrtheilen könne / ob eine Sache recht oder vnrecht sey : Den er hat nichts studiret / nichts gelernet / etc. Daher muß er zu den Gelehrten gehen / vnd sein Vrtheil von jhnen holen vnd abkeuffen / vnd dasselbe allein haben vnd darauff bawen
+
+->Darauff antworte jhm also :<-
+
+<margin>R. ad Syllogismum propter substantiam.</margin>
+Ja es ist war / wer nichts gelernet hat / vnd ein Ding nicht studiret hat / der kan auch nichts vrtheilen. Aber ich wil dich auch eins fragen : Sagstu mir dasselbige / so wil ich dir auch Bericht geben / wie ein gemeiner Mann oder Bawer richten vnd vrtheilen könne die Warheit in allen Dingen / so sie jhm geprediget / oder auß einem guten Buche fürgelesen würde : Ich frage : Ist der Verstand im Menschen / oder ist er im Buche ? Das ist / fleust der Verstandt oder das Judicium auß dem Menschen / oder wird er auß dem Buch geholet vnd genommen ? Darauff muß er entweder gar stillschweigen / oder antwort geben / etc. Schweiget er still vnd spricht / Ich weiß es nicht / so sprich du mit Christo / Matth. 21. Wolan so sage ich dir auch
+nicht /
+
+<vocab>Bawer, Vrtheil, Syllogismus, Judicium, Gelehrten, Verstand, Matth. 21, Zeugnuß</vocab>
+
+--- Page 28 ---
+<lang>de</lang>
+<page-num>6</page-num>
+<meta>catchword: cum</meta>
+
+->6<-
+
+wolte / (also und so solte er den Hobel führen / also und so
+solte ers machen ) So würde bald der Meister sprechen /
+troll dich von mir / du darffst meines unterrichtens nichts:
+Dann dieweil du es besser wilt können den ich / so darffstu
+von mir nichts lernen. Viel mehr wil es nun sein in der
+Weißheit / welche so **Subtil** in uns liegt / Das unter
+Tausende Menschen / oder Weltgelehrten kaum einer
+gefunden wird / der es erkennet. Da muß man **gelassen**
+sein nicht allein dem Wegweiser auff Erden : Sondern
+auch Gott im Himmel / auff das derselbe Raum bekom-
+me / die Weißheit in uns zueröffnen / das wir überzeugt
+werden / alle Erkentnuß fliesse von innen herauß auß
+dem Menschen / und werde nicht durch Bücher lesen / von
+aussen zu hienein getragen / wie die Weltgelehrten traw-
+en.
+
+Welcher nun lernen wil die Warheit in allen Facul-
+teten / und nicht diese zwey stücke in sich hatt / Das ist der
+nicht zugeben wil / Das alle erkentnuß auß dem Innern
+zeugnuß fliesse / also das auch der gemeine ungelehrte
+Mann könne der Warheit kundschafft geben / etc. Unnd
+der sich nicht lassen will / etc.
+
+Demselbigen gieb seinen urlaub / und lasse ihn ler-
+nen bey seines gleichen in der Finsternuß / da er muß be-
+trogen bleiben. Denn du würdest mit jhm Spot und un-
+ehr einlegen / und gar nichts außrichten. Denn nicht ein
+jeder ist der Warheit fähig / seind dünne geseet / die do
+tüchtig seind.
+
+Wil jemand das innerere zeugnuß / Welches ist zu-
+gleich in allen Menschen / verleugnen / unnd mit dir Dis-
+putieren / oder dich durch ein *Argumentum Dialecti-*
+
+<vocab>Weißheit, Weltgelehrten, Erkentnuß, Warheit, Innern zeugnuß, Argumentum Dialecticum, gelassen</vocab>
+
+--- Page 29 ---
+<lang>deu</lang>
+<page-num>7</page-num>
+<sig>C</sig>
+<meta>catchword: nicht/</meta>
+
+cum fragen/wie der Bawer möge ein Vrtheil fellen / der
+nicht studieret hat/vnd schleußt also.
+
+<margin>Syllogismus.</margin>
+Der nichts studiret hat/noch gelernet / der kan auch nichts richten/prüfen/noch vrtheilen.
+
+Der gemeine Mann oder der Bawer hat nichts gelernet/er hat nicht studiret.
+
+Derhalben kan er nicht <term>judiciren</term> vnd vrtheilen/noch der Warheit Kundtschafft geben.
+
+Darauß ein solcher <term>disputant</term> schliessen wil/ das jnner Zeugnuß/das <term>Judicium</term> sey nicht in Bawern/er möge die Warheit nicht vernehmen / noch derselben Kundtschafft geben/auch nicht vrtheilen könne/ob eine Sache recht oder vnrecht sey : Den er hat nichts studiret / nichts gelernet/<term>etc.</term> Daher muß er zu den Gelehrten gehen / vnd sein Vrtheil von jhnen holen vnd abkeuffen / vnd dasselbe allein haben vnd darauff bawen
+
+->Darauff antworte jhm also :<-
+
+<margin>R. ad Syllogismum propter substantiam.</margin>
+Ja es ist war/wer nichts gelernet hat/ vnd ein Ding nicht studiret hat/der kan auch nichts vrtheilen. Aber ich wil dich auch eins fragen : Sagstu mir dasselbige/so wil ich dir auch Bericht geben / wie ein gemeiner Mann oder Bawer richten vnd vrtheilen könne die Warheit in allen Dingen/so sie jhm geprediget/oder auß einem guten Buche fürgelesen würde: Ich frage : Ist der Verstand im Menschen/oder ist er im Buche ? Das ist/fleußt der Verstandt oder das <term>Judicium</term> auß dem Menschen / oder wird er auß dem Buch geholet vnd genommen ? Darauff muß er entweder gar stillschweigen / oder antwort geben/ <term>etc.</term> Schweiget er still vnd spricht/ Ich weiß es nicht / so sprich du mit <term>Christo</term>/Matth. 21. Wolan so sage ich dir auch
+
+<vocab>Syllogismus, Bawer, Judicium, Verstand, Christo, Matth. 21, disputant, judiciren</vocab>
+
+--- Page 30 ---
+<lang>de</lang>
+<page-num>8</page-num>
+<meta>catchword: Buch/</meta>
+
+nicht / wie es komme / das ein vngelehrter Bawer könne Kundschafft geben der Warheit / vnd recht davon vrtheilen / so sie jhm fürgehalten wird / vnd laß jhn also gehen mit seiner stinckenden <term>Dialectica</term> : Denn er ists nicht würdig das er in der Warheit würde berichtet / darzu were es auch nicht müglich das ers fassete.
+
+<margin>
+Quatuor Argumenta Sophistica.
+</margin>
+So er aber antwortet : So muß er auff diese vier Wege nothwendig fallen / vnd auß denen vieren eines fürbringen / das kan er nicht vmbgehen / Als:
+
+<margin>
+1. Opinio: Intellectum sumi ex libris.
+</margin>
+Er wird sagen : Im Buch ist der Verstand / vnd die Kunst / die Weißheit / vnd das Handtwerck/etc. vnd auß dem Buche muß es genommen werden / gelesen vnd gelernet / darumb seynd Bücher geschrieben / das man darauß den Verstand nehme / lerne / hole / vnd also im Menschen die Erkeutnuß eintrage durch Bücher. Darumb auch Lehrer / <term>Doctores</term>, <term>Magistri</term>, <term>Professores</term>, vnñ Schulmeister sind / die den Menschen die Bücher erklären / fürlegen / vnd darauß den Verstand in die Menschen bringen.
+
+<margin>
+2. Ex homine provenire.
+</margin>
+Oder er wird sagen : Im Menschen ist der verstand / vnd auß dem Menschen muß er kommen in das Buch oder <term>Objectum</term>, denn das Buch verstehet ja nichts / der Mensch muß das Buch verstehen / dz Buch wird von den Menschen verstanden / darumb so ist der verstand im Menschen / vnd nicht im Buche / das Buch kan sich selber nicht lesen / sondern es wird vom Menschen gelesen.
+
+Das Gehöre kömmet ja auß dem Menschen von innen : Das sehen kömmet auß den Augen von jnnen : Also der Verstand fleust auß dem Menschen / das <term>Judicium</term> auß dem <term>Judicante</term> : Das ist / das Vrthel vber ein
+
+<vocab>Dialectica, Quatuor Argumenta Sophistica, Erkeutnuß, Magistri, Objectum, Judicium, Judicante, Vrthel</vocab>
+
+--- Page 31 ---
+<lang>German</lang>
+<page-num>9</page-num>
+
+<meta>image quality: good, slight foxing; script: Fraktur with Latin Antiqua citations</meta>
+
+9
+
+Buch / vber eine Sache / kömmet auß dem Menschen. Darumb wird der Verstand nicht auß den Büchern / sondern auß dem Menschen genommen: *Carens enim judicio judicare nequit. Carens intellectu intelligere nequit*, sagen auch die Weltgelehrten / das ist / Der kein vernimbst in jhme hat / der kan nichts vernehmen / der kein Auge im Kopffe hat / der kan nicht sehen. Das Buch verstehet nichts / der Mensch verstehet das Buch / das Buch siehet nichts / es ist todt / der Mensch siehet das Buch. Darumb ist das Gesichte / das Gehör / der Verstand vnd das *Judicium* im Menschen / vnd nicht im Buche.
+
+<margin>
+3.
+Intellectum in esse libro.
+</margin>
+Oder wird sagen: Der Verstand ist im Buche / vnd nicht im Menschen : Der Kemmerer der Königin auß Morenlandt / Act. 8. Laß den Esaiam vnd Verstand jhn nicht / so doch der Verstand im Buche war / der einer Außlegung bedorffte: Darumb sprach er zu Philippo: Wie sol ichs verstehen / so mirs niemand außleget? Dieweil nun der Verstand im Buche ist / vnd nicht im Menschen / so muß man den Verstand auß **GOTT** bitten / vnnd durchs Gebet von oben herab erlangen / das vns **GOtt** den Verstand eröffne. Also kömmet durchs Gebet der Verstand in den Menschen / welches auch alle Schrifftgelehrten sagen vnd bekennen : Man muß Gott vmb die Erleuchtung bitten / vmb den H. Geist / das man das Buch verstehen könne.
+
+<margin>
+4.
+Tùm in homine tùm in libro, intellectu latere simul.
+</margin>
+Oder wird sagen: Der Verstand ist beydes im Menschen vnd im Buch zugleich. Denn so der Mensch vnd das Buch zusammen kommen / do entspringet der verstand / vnd so man das Buch nit hette / so were man zum verstand nicht viel.
+
+<sig>C ij</sig>
+
+<vocab>Verstand, Buch, Mensch, Judicium, Erleuchtung, H. Geist, Morenlandt, Esaias, Philippo, intellectus</vocab>
+
+--- Page 32 ---
+<lang>de</lang>
+<page-num>10</page-num>
+
+nicht kommen/vnd so der Mensch den Verstand nicht hette/so köndte er das Buch nicht verstehen. Darauff folget/daß der Verstandt beydes im Menschen vnd im Buch sein müsse.
+
+Das seind nun die vier Wege / deren er einen nothwendig in seiner Antwort muß fürbringen / vnd mag sich dessen nicht erwehren.
+
+### Folget nun: Wie du jhm seine Antwort widerlegen solt / daß er Schamroht werde.
+
+### Zum Ersten.
+
+<margin>I.</margin>
+**Im Buch ist der Verstandt / die Erkentnuß / das Vrtheil: Vnd auß dem Buch muß es genommen vnd gelernet werden.**
+
+S Jehe/da ist der <term>Adversarius</term> gefangen / vnnd im Netze verwirret / das bezeuge mit jhm selber. Er spricht/der Verstandt werde auß dem Buch genommen/geholet/gelernet / vnd sey nicht im Menschen/Er müsse von aussen hinein getragen werden/in den Menschen auß dem Buche. Darauff lege jhm die <term>Biblia</term> für/ oder ein anders gutes Buch/ daß du weist gewiß / daß ers nicht verstehet / vnd sprich: Weil du Ja sagest / vnd nicht anders meinest/den der Verstandt lieg vnnd sey im Buch/ vnd komme von aussen in den Menschen/so lege mir diese Wort auß/vnd sage mir jhren rechten natürlichen Verstandt: So wird er ohne zweiffel sagen; *Ego non intelligo*. Darauff lache seiner vnd sprich: Siehe du bezeugest
+
+<meta>catchword: mit</meta>
+
+<vocab>Verstandt, Erkentnuß, Vrtheil, Adversarius, Biblia, Schamroht</vocab>
+
+<detected-images>
+[{"description": "Decorative woodcut initial letter S", "type": "decorative", "bbox": {"x": 0.282, "y": 0.551, "width": 0.081, "height": 0.068}, "gallery_quality": 0.4, "museum_rationale": "Standard decorative woodcut initial common in 16th-17th century printing."}]
+</detected-images>
+
+--- Page 33 ---
+<lang>de</lang>
+<page-num>11</page-num>
+
+mit dir selber / daß der Verstand nicht auß dem Buche ge-
+nommen werde / sonst könntestu ihn ja bald darauß lesen
+und haben / und diese *Materiam* verstehen. Also muß er
+mit Schambekennen / daß der Verstand im Menschen
+seyn müsse / soll er anders von der Warheit recht urtheilen.
+Entdecke ihm seinen Irrthumb weiter / und führe in redlich
+gen Schulen / und sprich : Du wilt den Verstand auß
+dem Buch setzen / unnd vermeinst die Bücher wircken den
+Verstand hinein in den Menschen / unnd verleugnest also
+das innere Zeugnuß / die zur Verdamnuß unnd andern zur
+verführung / Denn du irrest auff dreyerley Weise :
+
+<margin>
+Error.
+1.
+2.
+3.
+</margin>
+Erstlich : Wider die tägliche Erfahrung :
+Zum andern / wider das Liecht der Natur :
+Und zum dritten / wider das Liecht der Gnaden /
+wenn du sprichst der Verstand sey werde auß den Büchern
+genommen, und sey nicht im Menschen.
+
+<margin>
+1.
+*Contra*
+*quotidi-*
+*anam*
+*experi-*
+*entiam.*
+</margin>
+Wider die tägliche Erfahrung : Dann so der Ver-
+stand auß den Büchern solte genommen werden / so mü-
+sten nothwendig zehen Leser oder Zuhörer einen einigen /
+gewissen / gleichförmigen / Ungespaltenen Verstand dar-
+auß empfahen und erlangen / auß dem *Unico Objecto.*
+Aber wir erfahren das *Contrarium* und gegentheil / das
+ein jeder nach seinem Kopff / den Verstand nimmet auß
+dem einigen Buche ; So viel Köpffe / so vielfältiger Ver-
+standt / welches nicht geschehen könnte / so das Buch den
+Verstandt in den Menschen einwirckete / *pro diversitate
+lectorum diversus affectus seu intellectus ex Unico
+Libro profertur.* Das ist / Wie einer ein Auge bringet
+zum Buche / Also nimmet er auch den Verstand darauß.
+Nun gibts die Natur / das alle fünff Sinnen auß dem
+
+<sig>C iij</sig>
+<meta>catchword: Mens</meta>
+
+<vocab>Verstand, Liecht der Natur, Liecht der Gnaden, Unico Objecto, experientiam, intellectus, Materiam</vocab>
+
+--- Page 34 ---
+<lang>de</lang>
+<page-num>12</page-num>
+<vocab>Gegentwurff, Liecht der Natur, Verſtandt, Schöpffung, Schatten, Geiſt</vocab>
+
+Menſchen kommen in den Gegentwurff / das Gehör iſt im
+Menſchen / das ſchmecken / fühlen iſt im Menſchen / das
+ſehen gehet auß den Augen / das verſehen / das vrtheilen
+kómmet alles auß dem Auge / auß dem Menſchen / vnd iſt
+alles im Menſchen / es ſey nun verborgen oder offen-
+bar.
+
+<margin>
+2.
+Contra
+Lumen
+Naturæ.
+</margin>
+Zum andern / irreſtu wider das Liecht der Natur /
+das da bezeuget / wie alle ding von innen herauß kommen /
+vnd nichts von auſſen hinein / alles vom unſichtigen in das
+ſichtige / davon lieſ die Außlegung vber das Buch
+von der **Schöpffung**. Alle natürliche Bücher ſind ſicht-
+bar mit Buchſtaben geſchrieben / Lieber worauß ſind ſie
+geſchrieben? Warlich nicht auß andern Büchern / ſon-
+dern auß dem Liechte der Natur / das in vns allen iſt / vnd
+das Liecht der Natur iſt der rechte Verſtandt im Men-
+ſchen. Solte nun der Verſtand durch Bücher in den
+Menſchen eingetragen werden / vnd eingewickelt / ſo were
+es gantz wider das Liecht der Natur / vnd widerſinnes ge-
+handelt. Dann das Liecht der Natur iſt der Geiſt im Men-
+ſchen / auß welchem alle gute natürliche Bücher geſchrie-
+ben vnd gefloſſen ſind in den Buchſtaben: Der Buchſtab
+iſt der **Schatten**: Nun iſt es ja vnmüglich / das ein ſchat-
+ten ſol das Weſen wircken. Das innere kan von dem euſ-
+ſern nicht gewircket werden / das euſſere mag das innere
+nicht wircken. Ein gemahlter Mann an der Wandt iſt
+ein Bilde vnd Schatten / mag nicht den Lebendigen wir-
+cken oder machen / etc.
+
+Der Bawm wird nicht gemacht von **Schatten** / alſo
+wird der Verſtand nicht durch den Buchſtaben eingetra-
+gen oder gewircket : Er iſt zuvor im Menſchen / aber
+
+<meta>catchword: verbor-</meta>
+
+--- Page 35 ---
+<lang>German</lang>
+<page-num>13</page-num>
+<warning>The page shows significant ghosting/show-through from the text on the reverse side. The paper is slightly stained.</warning>
+
+verborgen. So du nun sagest / der verstand werde auß dem Buche genommen / so ists eben so viel als so ich spreche : Meine gemahlte Bildnuß an der Wandt hat mich gemacht / der ich doch eher gewesen bin / als das gemahlte. Das Liecht der Natur oder der Geist im Menschen helt sich gegen dem Buche / wie 1. gegen 2. die 2. kömmet wol auß dem 1. Aber das eine ist für sich selbst: Wer wolte nun sagen / das die 2. gemacht hetten das 1. als die blinden Weltgelehrten / die von innern Zeugnuß nichts wissen wollen / vnnd achten sich doch für scharffsinnige Leute. *Alteritas est defectus ab Unitate: Unitas est perfectio. Umbra non operatur Essentiam: Alteritas non operatur Unitatem.*
+
+So du aber sagest : Die Bücher erwecken gleichwol den Verstand im Menschen / scherffen das *Judicium*, vnd helffen gar viel : dann wann gute Bücher nicht wehren / so keme man nicht zum Verstand. Antwort : Das gebe ich zu / das durch Bücher der Verstand erwecket wird. Aber eben hiemit wirstu vberzeuget / das der Verstand zuvor im Menschen liege / in dem du sagest / Der Verstand werde erwecket durch gute Bücher. Dann was woltestu erwecken / so es nicht zuvor da were? Erweckestu es aber / so muß es zuvor in dir verborgen vnd schlaffend liegen. Wie könte man einen funcken Fewr erwecken / so er nicht zuvor da were in der Aschen?
+
+<margin>Studiren ist erwecken des so im mensche liegt.</margin>
+Darauß wird verstanden / das studiren oder lernen / das es nichts anders sey / als ein erweckung deß das im Menschen lieget verborgen : Was nun in dem allergelehrtesten
+liegt /
+
+<vocab>Verstand, Liecht der Natur, Weltgelehrten, Unitas, Alteritas, Judicium, Studium, Erweckung</vocab>
+
+--- Page 36 ---
+<lang>de</lang>
+<page-num>14</page-num>
+<meta>catchword: alte</meta>
+
+liegt/das liegt in den aller einfältigsten Bawren auch / sa=ge jhm die gründliche Warheit / Er wird dir Beyfall ge=ben.
+
+<margin>3. Contra lucem Gratiæ.</margin>
+3. Zum dritten/ irrestu auch wider das Liecht der Gna=den / so du sagest / der Verstand komme auß dem Buche in den Menschen / man könne den Verstand auß der Biblia nehmen / oder lernen vnd lesen (wie dann die hohen Schu=len vermeinen / man lese denn Glauben auß der Schrifft. Als setzestu den natürlichen Menschen / den Feind Gottes zum Meister der Heiligen Schrifft / daß er könne seinen Verstandt auß der Biblia nehmen / auß eigenen kräfften / etc. Also darff er nichts darzu. Die Schrifftgelehr=ten auff einen hauffen sagen / alle: Man nehme den Ver=stand auß der Biblia / vnd er sey nicht im Menschen / vnd eben damit sind sie wider sich selber. Dann / nehmen sie den Verstand auß der Biblia oder Schrifft / vnnd die Schrifft ist ein einiger Gegenwurff / den sie für sich ha=ben; Wie das dann ein jeder vnter jhnen / einen sondern Verstand auß seinem eigenem Kopff bringet / dann einer also / der ander also / das dritte aber anders die Biblia außlegt vnd verstehet. Daher dann so viel Secten vnnd Rotten kommen. Dieweil nun ein jeder auß seinem Kopff den Verstand zur Biblia bringet / So bezeugen sie mit jh=nen selbst / daß der Verstand auß dem Menschen fliesse / in dem er ist / vnd nicht auß dem Buche genommen werde. A=ber es solte mit der **H. Schrifft** nicht also zugehen / das auß dem natürlichen Menschen der Verstand keme / so wenig als auß dem Buchstaben: Sondern man sol durchs Gebet von Gott den Verstandt bitten / daß der **Newe Mensch** die Schrifft nur zum Zeugnüß lese / vnd nicht der
+alte
+
+<vocab>Biblia, Schrifft, Verstand, Liecht der Gnaden, Secten, Rotten, Newe Mensch, Zeugnüß, Contra lucem Gratiæ</vocab>
+
+--- Page 37 ---
+<lang>de</lang>
+<page-num>15</page-num>
+<sig>D</sig>
+<meta>catchword: allen.</meta>
+
+alte Mensch der ein Feind Gottes ist/1. Cor. 2. Rom. 8.
+Durchs Gebet/sag ich/muß der Verstand erwecket wer=
+den/der in vns / alsdann kan man recht die Schrifft lesen/
+vnd also ist der Verstand auch in vns ; Denn gleich wie
+auß dem natürlichen Geiste / gute natürliche Bücher ge=
+flossen sind/vnd ist der Verstand der Bücher in vns: Also
+ist die <term>Biblia</term> geschrieben auß dem heiligen Geiste / vnnd ist
+der H. Geist in vns. Der Buchstab oder die Schrifft ist
+ja ausser vns: Der Verstand aber deß Buchstabens ist in
+vns/denn der Geist ist ja in vns/auß dem sie geschrieben ist.
+Die Bibel ist ja nicht auß der Bibel geschrieben / sondern
+ohne mittel auß dem Geiste. Die Bibel kan man ver=
+brennen / den Geist aber nicht. Der Schatten mag nicht
+das Wesen machen / das letzte mag ja nicht das erste ma=
+chen / das ist / der Buchstab kan nicht den Verstand hinein
+tragen in den Menschen/er ist nicht drinn/drumb kan er jhn
+auch nicht von sich geben. Von innen muß der Verstand
+der Schrifft kommen auß dem Geiste/darauß der Buch=
+stab geflossen ist. Wie in 2. Petri am 1. gesagt wird:
+> Wir haben ein festes Prophetisch Wort / vnnd jhr thut
+> wol das jhr darauff achtet/als auff ein Liecht das da schei=
+> net in einen tunckeln Orth / biß der Tag anbreche/vnd der
+> Morgenstern auffgehe in ewren Hertzen / Vnd das sollet
+> jhr für das erste wissen / das keine Weissagung in der
+> Schrifft geschicht auß eigener Außlegung: Denn es ist
+> noch nie keine Weissagung auß menschlichem willen her=
+> für bracht / sondern die heiligen Menschen Gottes haben
+> geredt/getrieben von dem H. Geiste/etc.
+
+Do hörestu von wannen die Schrifft komme / vnd woher die Außlegung
+fliesse / Nemlich auß dem heiligen Geiste/welcher ist in vns
+allen.
+
+<vocab>Biblia, heiliger Geist, Schrifft, Außlegung, Weissagung, 2. Petri, Prophetisch Wort, Verstand</vocab>
+
+--- Page 38 ---
+<lang>de</lang>
+<page-num>16</page-num>
+<meta>catchword: Also:</meta>
+
+allen. Niemand erkennet Christum/er sey denn vom Vater gezogen / vnd gelehret / darumb fleusset die Erkäntnuß Christi von innen herauß/vom gläubigen Menschen/vnd nicht von aussen hinein: Daher die Kinder die fürnehmsten sind im Himmelreiche: Nun ist aber der Geist Gottes in vns/wie daß die Apostel vnd Christus gnugsam bezeugen: Derhalben gehet ja die Erkäntnuß von innen herauß/denn die Erleuchtung ist im Menschen: darumb ist die rechte Schul in vns/ darinne alle Propheten ihre Weißheit studiret vnd erlanget haben.
+
+->Zum Andern:<-
+
+<margin>II.</margin>Im Menschen ist der Verstandt / vnnd auß dem Menschen muß er kommen: das Buch verstehet nichts / der Mensch aber verstehet das Buch. *Judicium proficiscitur ex judicante, & non ex judicabili objecto.* Nun wolan / du bist der Mensch / hie ist das Buch / so lege mir nun dieses auß / vnnd nim den Verstand vber diese Ding so hie stehen auß dir/vnd sage mir/was das sey: Hierauff so wird er abermal nichts können / vnd sagen müssen: *Ego non intelligo.* Denn er ist noch nicht darin erwecket / der Verstand ist noch verborgen in jhme / vnd wird sich wundern wie es denen seyn müsse/gib jhm aber weitern Bericht vnd sprich: Du hast recht geredt / vnd hasts getroffen: Denn auß dem Auge gehet das sehen / vnd ist im Menschen/Auß dem Verstande gehet das verstehen / vnd ist im Menschē. <gloss>nasal bar indicating missing 'n'</gloss> *Intellectus est in intelligente, & judicium est in judicante & non in objecto judicabili.* Von innen gehet der Verstandt herauß in das Buch/vnd kömmet der Verstand mit dem Buch gantz vberein/ist recht geredt/ allein das man hier theile die natürliche Erkäntnuß von der vbernatürlichen.
+
+<vocab>Christum, Erkäntnuß, Geist Gottes, Propheten, Weißheit, Verstandt, Judicium, Intellectus</vocab>
+
+--- Page 39 ---
+<lang>de</lang>
+<page-num>17</page-num>
+
+<margin>
+Natürliche
+Wirck-
+dung
+Überna-
+türliche.
+</margin>
+Also die natürliche Erkentnuß gehet von innen herauß
+auß dem Menschen/ helt sich wircklich/ wircket in das Ob-
+jectum; Aber die vbernatürliche Erkentnuß gehet auch von
+innen herauß/ auß dem Menschen durch Gott/ vnd ist ein
+Göttlich Erkentnuß / helt sich aber leidlich. Denn der
+Mensch muß Gott tragen vnd leiden/ vnd nichts wircken:
+Do ist die Erkentnuß nicht vnser / sondern Gottes in vns.
+
+->Zum Dritten:<-
+<margin>III.</margin>
+
+Der Verstand ist nicht im Menschen/ sondern in der
+Bibel / denn viel lesen in der Heiligen Schrifft mit dem
+Kemmerer auß dem Morenland / Acto. 8. vñ verstehen sie doch
+nit. In der Bibel liegt der verstand verborgē vnd im Men=
+schen nicht / sondern durchs Gebet muß man jhn erlangen
+von Gott / das Er vns den Verstand eröffne / daß wir die
+Schrifft verstehen. Do ist auch zum theil recht geant=
+wortet / nemlich das der Verstand in der Biblia liege / ist
+war/ vnd das der Mensch durchs Gebet den Verstand er=
+langen müsse von Gott ist auch war/ Aber das darumb der
+verstand nicht solte im Menschen seyn/ vnd von innen her=
+auß fliessen / das ist vnrecht / vnd ein Irrthumb / das es aber
+ein irrthumb ist / geschiehet auß vnverstandt von dem Ge=
+bete / dz du vermeinest / Gott werde durchs Gebet erwecket
+oder beweget / vnd bedürffe vnserer erzehlung / dz doch nicht
+ist: sondern der Mensch muß durchs Gebet erwecket wer=
+den in der Göttlichē erleuchtung / welche in jm ist : Gott
+bleibet vnbeweglich / vnd wird durch vnser geschrey / gebet
+fasten nicht erwecket / Denn er hat nie geschlaffen: *Preces*
+*hominem adorantem excitant, & non Deum adoran-*
+*dum, qui semper vigilat.* Muß nun nicht Gott/ sondern
+der Mensch durchs Gebet erwecket werden / so folget/ daß
+
+<sig>D ij</sig>
+<meta>catchword: die</meta>
+
+<vocab>Erkentnuß, Verstand, Gebet, Gott, Biblia, Heiligen Schrifft, Kemmerer, Morenland, Acto. 8</vocab>
+
+--- Page 40 ---
+<lang>de</lang>
+<page-num>18</page-num>
+
+die Erkentnüß / oder die Erleuchtung erwecket wird/ die
+im Menschen ist: Wird also die Erkentnüß von innen her-
+auß / auß dem erleuchten Hertzen/ vnd nicht auß dem Bu-
+che erlanget vnd genommen. Daher der <term>Kämmerer auß 
+Morenlandt</term> den Spruch <term>Esaiae</term> verstünde nach dem er
+durch <term>Philippum</term> ward erleuchtet/ vnd durch eusseren vn-
+terricht im Verstand in jhm erwecket vnd erinnert.
+
+### Zum Vierten
+
+Der Verstand ist beydes im Menschen vnd im Bu-
+che : Denn so der / oder das Buch allein ist/ so ist noch kein
+Verstand da / wenn sie aber zusammen kommen / so ent-
+springet der Verstand oder das Vrtheil / vnd so man das
+Buch nicht hette / so were man zu dem Verstand nicht
+kommen / vnd so auch der Mensch den Verstand in jhm
+nicht hette / könte er auch das Buch nicht verstehen. Dar-
+auß folget / das der Verstand beydes im Menschen vnd
+auch im Buch sein müsse. Lege jhm abermal das Buch
+für / vnd sprich: Nun wolan du bist der Mensch / das ist das
+Buch / kömpt nun der Verstand zugleich auß dir vnd auß
+dem Buche / so leg mirs doch auß / vnd sage mir den Ver-
+stand / vnd sprich nicht mehr / *Ego non intelligo*: Kanstu
+es aber nicht / Woran fehlet es dann? Am Auge mangelt
+dirs / das du nicht sehen kanst. Dein *Oculus internus* ist
+dir nicht gereiniget / gelautert vnd erwecket / vnd sitzest in
+Blindheit vnd kanst nichts verstehen / es ist dir alles finster:
+Du kennest dich selber nicht / du bist zu deinem Schatz in dir
+nie geführet worden. Du hast aber ohne dein wissen gleich-
+wol zum theil recht geantwortet / denn es ist also / das der
+Verstand im Menschen liege / vnd auch vnter dem Buch-
+staben der Schrifft / aber im Menschen fürnemlich / denn
+auß dem Menschen ist er in die Buchstaben geflossen / vnd
+
+<vocab>Erkentnüß, Erleuchtung, Kämmerer auß Morenlandt, Esaiae, Philippus, Verstand, Oculus internus, Buchstaben der Schrifft</vocab>
+
+--- Page 41 ---
+<lang>de</lang>
+<page-num>19</page-num>
+
+vnd der Mensch kan die Erkentnuß oder den Verstand ha-
+ben auch ohne Schrifft / wie die Kinder haben / vnnd alle
+Propheten gehabt haben / welche auß ihrem Geist die Bi-
+blia geschrieben haben. Darauß folget abermals / das der
+Verstand vielmehr im Menschen seyn / als in den Bü-
+chern. Dann die Bücher können vergehen vnd auffhören /
+vnd der Mensch kan den Verstand in jhm behalten / vnd an-
+dere newe Bücher schreiben. Also kömmet der Ver-
+stand allemahl von jnnen auß dem Menschen / vnd nicht
+von aussen durch Bücher. Ob gleich die Bücher eine
+Anweisung geben / vnnd eine Erweckung / so erwecken sie
+doch nichts anders / als eben das / das zuvor im Menschen
+war verborgen. Dieweil nun der gemeine Mann vnnd
+Bawren auch Menschen seyn / so haben sie in jhnen eben
+das / das die Gelehrten haben / alleine / man gebe jhnen tre-
+we gute Wegweiser / die sie zum jnnern Zeugnuß führen /
+so werden sie Ja vnd Amen zu der Warheit sagen / denn
+sie lieget in jhnen / vnd alles Vrtheil liegt in jhnen. Sie
+seynd auch vielgeschickter zubefinden die Warheit / als eben
+die Schrifftgelehrten / wie zusehen ist / Matth. 7. 22. Jo-
+han. 7. Sie entsatzten sich vber seiner Rede: Es hat nie-
+kein Mensch also geredt wie dieser.
+
+### Weiter :
+
+Dein Widerpart spricht: Es kan ein Einfältiger
+Mann oder Bawer nichts prüfen noch vrtheilen / denn er
+hat nichts gelernet noch studieret : Wer nichts gelernet
+noch studieret hat / der hat auch kein Vrtheil in jhme / kan
+nichts richten noch prüfen : Die armen Leyen oder Baw-
+ren haben nichts gelernet noch studieret : Drumb mögen
+sie nichts prüfen noch vrtheilen / was recht oder falsch / was
+
+<sig>D iij</sig>
+<meta>catchword: war</meta>
+
+<vocab>Erkentnuß, Verstand, Schrifft, Biblia, Bücher, Gelehrten, Bawren, Zeugnuß, Warheit, Schrifftgelehrten, Widerpart, Leyen, Vrtheil</vocab>
+
+--- Page 42 ---
+<lang>German</lang>
+<page-num>20</page-num>
+<meta>catchword: seynd</meta>
+
+wahr oder erlogen sey. Darumb müssen sie ihr vrtheil bey
+den Gelehrten holen. <term>Concedo totum Argumentum</term>.
+Gibs jhm zu: Ja war ist es / wer ein ding nicht gelernet
+hat noch studieret / der kan nichts / weiß nichts / kan nichts
+prüfen / hat kein <term>Judicium</term>, &c <term>Refutatio per distinctio-
+nem</term>: Es ist aber zweyerley studiren vñ lernẽ: als dz eine nach
+ordnung der natur / nach dem angeboren natürlichen Lich-
+te. Das 2. Wider das Liecht der Natur auß der Fanta-
+sey: Der da nach ordnung der Natur lernet vnd studiret / der
+kan recht vrtheilen / richten / prüfen vnd erkennen was recht
+oder falsch sey / so es jm wird fürgehalten oder fürgeschrie-
+ben: der aber wider das Liecht der natur auß der phantasey
+lernet vnd studiret / vnd darzu daneben huret / bubet / frisset /
+seuffet / spielet / vnd sich selber durch Laster verfinstert / der
+kan nichts richten noch vrtheilen / er kan zu seinem eigenen
+Auge nicht kommen / er bleibet auff der <term>Authoritet</term> der
+Menschen / vnd beruhet auff ander Leute vberreden / das
+ist nun kein Gelehrter. Das erste studiren vnnd lernen
+auß dem Liecht der Natur / nach dem Liecht der Natur /
+do erwecket wird das jenige / das in vns lieget verborgen /
+Es seyn Künste / Sprachen / Handtwercke / <term>Faculteten</term> /
+ist die Erweckung von innen herauß durch den eusseren
+gegenwurff. Als der Knabe in der Schule / der lernet
+das ABC. Darnach das Buchstabieren oder die Sylla-
+ben / das lesen / das schreiben / es wird erwecket. Dann der
+die Buchstaben erfundẽ hat / war auch ein Mensch / vñ auß
+dem Liecht der natur ist das ABC. das ist alles buchstabi-
+ren / lesen / schreiben / rechnen / etc. herfür kommen / also singen
+vnd andere Künste / etc. welche hernachmals sind in die Bü-
+cher gefasset worden. Denn alle Bücher vnd Schrifften
+
+<vocab>Liecht der Natur, Lumen Naturae, ABC, Gelehrter, Künste, Sprachen, Handtwercke, Faculteten, Judicium, Refutatio per distinctionem</vocab>
+
+--- Page 43 ---
+<lang>de</lang>
+<page-num>21</page-num>
+<meta>catchword: aber</meta>
+
+<margin>Fructus Ignis.</margin>
+
+seynd hergeflossen auß dem natürlichen Liechte / das im Menschen ist / so fern sie nicht durch die phantasey oder verkehrung der Natur seynd gefelschet worden. Das nun ein Knabe lernet lesen / schreiben / rechnen / singen / Lateinisch / Griechisch / Hebreisch / Arabisch reden / ist daher / das es alles in ihme lieget verborgen / und wird in ihme erwecket / unnd fleusset von jnner herauß / und das einer lernet Handtwercke / subtile Künste / unnd allerley Künstliche Arbeit / als mahlen / Bildschnitzen / Sammet wircken / Seide sticken / im Gold un̄ Silber arbeiten / etc. ist alles zuvor in ihme von Mutterleibe an / und jetzt wird es erwecket / und lest sich sehen: Also lernet ein Bawer ackern / säen / egen und pflantzen: Ein Ertzknappe das Ertzhawen / backen / waschen / schmeltzen / unnd das alles nach der Natur angebung / das denn nicht mag geleugnet werden. Ein Knabe so er zum Jahren kommet / lernet er seine <term>Physica</term>, die 4. Element seynd als das Fewer / Wasser / Erde / Lufft / unnd das ein jedes Element seine Frucht oder Gewechse von ihme giebet in ein ander Element: Als die Erde giebet jhr Gewechse von sich in die Lufft: Das Wasser giebt seine Früchte und Gewächse in die Erden / denn auß dem muß wachsen die <term>Metalla</term>, <term>Mineralia</term>, Steine / und müssen im Erdreich gesucht und gefunden werden / deß Fewers frucht oder Gewächse sind hitze / kälte / Schnee / Regen / Donner / Reiff / Taw / Blitz / etc. unnd giebts auff Erden in die Lufft: Auch wird erkennet / daß die Elementa weder kalt / weder warm / weder trucken noch naß seyn / weder schwer noch leicht / sie stehen in der Temperatur / sind unzerbrechlich biß an den letzten Tag / unnd sind Geister / unnd sind das Leben aller Dinge. Die Corpora
+
+<vocab>Physica, Elementa, Metalla, Mineralia, Fructus Ignis, Geister, Liechte, Handtwercke, Ertzknappe, Bawer</vocab>
+
+--- Page 44 ---
+<lang>de</lang>
+<page-num>20</page-num>
+<meta>catchword: seynd</meta>
+
+wahr oder erlogen sey. Darumb müssen sie jhr vrtheil bey
+den Gelehrten holen. *Concedo totum Argumentum.*
+Gibs jhm zu : Ja war ist es / wer ein ding nicht gelernet
+hat noch studieret / der kan nichts / weiß nichts / kan nichts
+prüfen / hat kein *Judicium*, &c *Refutatio per distinctio-*
+*nem* : Es ist aber zweyerley studiren vñ lernē : als dʒ eine nach
+ordnung der natur / nach dem angebornen natürlĭchē Liech-
+te. Das 2. Wider das Liecht der Natur auß der Fanta-
+sey : Der da nach ordnung der Natur lernet vnd studiret / der
+kan recht vrtheilen / richten / prüfen vnd erkennen was recht
+oder falsch sey / so es jm wird fürgehalten oder fürgeschrie-
+ben : der aber wider das Liecht der natur auß der phantasey
+lernet vnd studiret / vnd darzu daneben huret / bubet / frisset /
+seuffet / spielet / vnd sich selber durch Laster verfinstert / der
+kan nichts richten noch vrtheilen / er kan zu seinem eigenen
+Auge nicht kommen / er bleibet auff der Authoritet der
+Menschen / vnd beruhet auff ander Leute vberreden / das
+ist nun kein Gelehrter. Das erste studiren vnnd lernen
+auß dem Liecht der Natur / nach dem Liecht der Natur /
+do erwecket wird das jenige / das in vns lieget verborgen /
+Es seyn Künste / Sprachen / Handtwercke / Faculteten /
+ist die Erweckung von innen herauß durch den eusseren
+gegenwurff. Als der Knabe in der Schule / der lernet
+das ABC. Darnach das Buchstabieren oder die Sylla-
+ben / das lesen / das schreiben / es wird erwecket. Dann der
+die Buchstaben erfundē hat / war auch ein Mensch / vñ auß
+dem Liecht der natur ist das ABC. das ist alles buchstabi-
+ren / lesen / schreiben / rechnen / etc. herfür komen / also singen
+vnd andere Künste / etc. welche hernachmals sind in die Bü-
+cher gefasset worden. Denn alle Bücher vnd Schrifften
+
+<vocab>Liecht der Natur, Phantasey, Gelehrter, studiren, ABC, Buchstabieren, Faculteten, Concedo totum Argumentum, Refutatio per distinctionem</vocab>
+
+--- Page 45 ---
+<lang>de</lang>
+<page-num>21</page-num>
+<meta>catchword: aber</meta>
+
+ſeynd hergefloſſen auß dem natuͤrlichen Liechte / das im
+Menſchen iſt / ſo fern ſie nicht durch die phantaſey oder
+verkehrung der Natur ſeynd gefelſchet worden. Das nun
+ein Knabe lernet leſen / ſchreiben / rechnen / ſingen / Latei-
+niſch / Griechiſch / Hebräiſch / Arabiſch reden / iſt daher / das
+es alles in jhme lieget verborgen / vnd wird in jhme erwe-
+cket / vnnd fleuſſet von inner herauß / vnd das einer lernet
+Handtwercke / ſubtile Künſte / vnnd allerley Künſtliche
+Arbeit / als mahlen / Bildſchnitzen / Sammet wircken /
+Seide ſticken / im Gold vñ Silber arbeiten / etc. iſt alles zu-
+vor in jhme von Mutterleibe an / vnd jetzt wird es erwecket /
+vnd leſt ſich ſehen : Alſo lernet ein Bawer ackern / ſäen / egen
+vnd pflantzen : Ein Ertzknappe das Ertzhauwen / backen / wa-
+ſchen / ſchmeltzen / vnnd das alles nach der Natur ange-
+bung / das denn nicht mag geleugnet werden. Ein Knabe
+ſo er zun Jahren kömmet / lernet er ſeine <term>Phyſica</term>, die 4.
+<term>Element</term> ſeyn als das <term>Fewer</term> / <term>Waſſer</term> / <term>Erde</term> / <term>Lufft</term> / vnnd
+das ein jedes Element ſeine Frucht oder Gewächſe von ih-
+me giebet in ein ander Element : Als die Erde giebet ihr
+Gewächſe von ſich in die Lufft : Das Waſſer giebt ſeine
+Früchte vnd Gewächſe in die Erden / denn auß dem muß
+wachſen die <term>Metalla</term>, <term>Mineralia</term>, <term>Steine</term> / vnd müſſen im
+Erdreich geſucht vnd gefunden werden / <margin>Fructus Ignis.</margin> deß Fewers frucht
+oder Gewächſe ſind hitze / kälte / Schnee / Regen / Donner /
+Reiff / Taw / Blitz / etc. vnnd giebts auff Erden in die
+Lufft : Auch wird erkennet / daß die <term>Elementa</term> weder kalt /
+weder warm / weder drucken noch naß ſeyn / weder ſchwer
+noch leicht / ſie ſtehen in der <term>Temperatur</term> / ſind vnzerbrech-
+lich biß an den letzten Tag / vnnd ſind <term>Geiſter</term> / vnnd
+ſind das <term>Leben aller Dinge</term>. Die <term>Corpora</term>
+
+<vocab>Phantaſey, Physica, Element, Fewer, Waſſer, Erde, Lufft, Metalla, Mineralia, Geiſter, Corpora, Fructus Ignis, Natur, Temperatur</vocab>
+
+--- Page 46 ---
+<lang>de</lang>
+<page-num>22</page-num>
+<meta>catchword: Morbi</meta>
+
+,, aber der <term>Elementen</term> / vnd die Gewächse so darauß wach-
+,, sen sind heiß / trucken / kalt / naß / Aber die <term>Elementa</term> selber
+,, sind weder heiß noch kalt / weder trucken noch naß / darumb
+,, haben sie die Gewalt zu hitzen / zu kälten / etc. Als: Das E-
+,, lement Fewer oder Himmel ist an jhm selber nicht heiß
+,, noch kalt / noch naß / noch trucken / etc. vnd gibt doch von
+,, sich Fewer / das da Häuser abbrennet / Schnee / Wasser /
+,, Steine / etc. Das Element Erde ist weder kalt noch trux-
+cken / weder heiß noch naß / vnd wachsen doch auß jhr hitzige
+brennende Kreuter / auch naß vnd kalt Gewächse / etc.
+Dieses alles ist das lernen vnd studieren nach der anwei-
+sung der Natur / vnd mit der Natur / vnd in der Natur /
+vnd nicht dawieder. Auß solcher <term>Physica</term> werden ge-
+schrieben die rechten Bücher von der Natur / vnd von
+den Elementen / vnd nicht die <term>Elementa</term> auß den Büchern.
+
+<margin>Res in omnib<sup>s</sup> facultatibus discuntur ab intra.</margin>
+Weiter lernet ein Knabe auß der Natur den Lauff deß
+Himmels / der 7. <term>Planeten</term> / darauß Tag vnd Nacht /
+Wochen / Monden / Jahr / etc. geordnet werden / darauß
+sich die andern <term>Corpora</term> endern / etc. vnd solch Erkentnuß
+ist hernach auch in die Bücher geschrieben : Also sind die-
+selben Bücher von dem Gestirne / vom Himmel : vnnd
+nicht das Gestirne vnd Himmel von Büchern / es were
+sonst wieder die Natur.
+
+<margin>Vom Præceptore aber werden sie nur in discēte ab extra erwecket.</margin>
+Also in der <term>Artzney</term> giebt das <term>Licht der Natur</term> zuer-
+kennen / das alle vnd jede Kranckheiten jhre eigene Heilung
+haben / das <term>separatio Puri ab Impuro</term> viel besser sey / als
+so man das gantze <term>Corpus</term> eingiebt / daß das <term>Arcanum</term>,
+<term>quintum esse</term>, <term>tinctura</term>, auß den Kräutern / Metalle / etc.
+treffliche hülffe thun / etc. das alle <term>Morbi</term> auß dem Sa-
+men wachsen / vnnd nicht auß den <term>Humoribus</term>, daß die
+
+<vocab>Elementen, Natur, Physica, Planeten, Corpora, Artzney, Licht der Natur, separatio Puri ab Impuro, Arcanum, quintum esse, tinctura, Morbi, Humoribus</vocab>
+
+--- Page 47 ---
+<lang>de</lang>
+<page-num>23</page-num>
+
+<term>Morbi</term> nicht durch kaltes oder warmes / als durch qualita-
+tes hingenommen werden / sondern per <term>Arcanum</term>, <term>quin-</term>
+<term>tum esse</term>, <term>Tincturas</term>, <term>Magisteria Specifica</term>, &c.
+
+Solche natürliche Erkäntnuß wird auch geschrieben
+zum Memorial in die Bücher / Denn nicht im Buche /
+sondern in der Natur wird es gelernet / vnd die Erkentnuß
+ist in vns.
+
+<margin>II.</margin> Also wird gelernet <term>Jurisprudentia</term> auß dem ange-
+bornen Liecht der Natur : Alles was jhr wollet / das euch
+die Leute thun sollen / das solt jhr ihnen auch thun : Das ist
+das ganze Gesetz vnd die Propheten auß den 10. Gebo-
+ten / auff new Testamentisch außgelegt / vnd nicht Mo-
+sisch. Sol das Recht recht seyn / vnd recht gelernet / ge-
+lehret / geführet werden / so kömmet <term>Jurisprudentia</term> mit
+Christo vberein / vnd ist Christlich / vnd nicht auß dem <term>Ju-</term>
+<term>stiniano</term>. Nach Ordnung der Natur vnd auß dem na-
+türlichen Liecht wird auch bezeuget / ein Ewiges vnendli-
+ches Gut / vnd wer dem Liecht nachgehet / der kömmet zu
+trefflichen hohen dingen / vnd durchsiehet alle dinge in kur-
+zer Zeit / wie vnsere <term>Formatorij libelli</term> bezeugen in denen
+die da folgen / etc. Dieweil aber das Liecht der Natur zu
+kurz ist / vnd zu schwach das vnendliche Gut zuerlangen /
+zuerfolgen / etc. So muß sie still stehen vnd auffhören / da
+<margin>III.</margin> kömmet zu <term>Theologia</term>, die da nicht auß der Natur vnnd
+in der Natur gelernet wird / sondern auß dem <term>H. Geiste</term> /
+der in vns ist : Also fleuſſet auch von jnnen her auß dem
+<term>H. Geiste</term> / darauß alle Schrifft geflossen ist / vnnd wird mit
+nichten von Buchstaben gelernet / es were wieder die Ord-
+nung deß Göttlichen Liechtes. Also ist gesagt von den er-
+sten lernen oder studieren / wie man gehe nach Ordnung
+
+<sig>E</sig>
+<meta>catchword: der</meta>
+
+<vocab>Jurisprudentia, Theologia, Liecht der Natur, Arcanum, Tincturas, Magisteria Specifica, Formatorij libelli, H. Geiste, Justiniano</vocab>
+
+--- Page 48 ---
+<lang>de</lang>
+<page-num>24</page-num>
+<meta>catchword: ihnen/</meta>
+
+der Natur in dem Liechte der Natur / vnd wie alle Erkent-
+nüß von innen herauß flieſſe. Darumb ſo einem einfel-
+tigen guten Herzen die Wahrheit fürgeſchrieben oder ge-
+prediget wird / ſo kan er vrtheilen vnd prüfen was recht o-
+der falſch iſt / vnd ſo ein Einfeltiger erwecket wird / ſo kan er
+auch erkennen / was wahr oder erlogen iſt : So er aber nicht
+erwecket wird / oder nichts lernen wil / ſo kan er auch nichts /
+vnnd bleibet nichts / Wer nichts lernet oder ſtudieret /
+der kan nicht vrtheilen / iſt leichtlich zu vberreden / ſonder-
+lich der da friſſet / ſeuffet / ſpielet / huret / ſich in Sorgen
+der Nahrung vertieffet : Doch bleibet allemal wahr / ſo die
+gründliche Wahrheit wird fürgehalten den Einfältigen /
+ſo können ſie Zeugnüß geben das dem alſo ſey / wie man
+ſaget / Die Einfältigen auch ſeynd gemeyniglich / ja alle-
+mal / geſchickter die warheit zuvernehmen vnd zu faſſen / als
+die ſiebenmal verfluchten Schriftgelehrten / die mit Lü-
+gen auſſgefüttert ſeyn / das iſt fürwar wahr.
+   Das ander ſtudieren vnd lernen gehet nun an die Welt-
+gelehrten / vnd alle hohe Schulen / da man wider die Na-
+tur lernet / vnd das Liecht der Natur verrücket vnd verkeh-
+ret durch die phantaſey / do man den Geiſt dempffet / das
+innere Zeugnüß verleugnet / do man beyde Liechter der
+Natur vnnd Gnaden im Menſchen gantz verleugnet /
+denn ſie wiſſen gar nichts von innern grunde in allen Kün-
+ſten / vnd in allen Faculteten / Sie geben alle ding vor von
+auſſen zu / das iſt / Sie meinen nicht anders / denn die Er-
+kentnüß liege nicht im Menſchen / ſie werde nur auß den
+Büchern hinein getragen / vnd ſehen nicht das alle Bücher
+auß dem Menſchen geſchrieben ſind / vnnd der Menſch
+nicht auß den Büchern. Es iſt alles gantz widerſinnes bey
+                                               ihnen /
+
+<vocab>Natur, Liechte der Natur, Erkentnüß, Einfeltigen, Wahrheit, Schriftgelehrten, Weltgelehrten, hohe Schulen, Gnaden, Faculteten</vocab>
+
+--- Page 49 ---
+<lang>German</lang>
+<page-num>25</page-num>
+<sig>C ij</sig>
+<meta>catchword: Wenn.</meta>
+
+ihnen/sie bereden sich untereinander selber / unnd gläuben
+alles auff gut bereden / beruhen auff den ansehen und Au-
+toritet der Menschen : Wer wolte aber gläuben das alle
+Weltgelehrte unnd Hohe Schulen wider beyde Liechte der
+Natur unnd der Gnaden wehren unnd handelten / so mans
+nicht öffentlich beweisete. Dann so bald die <term>Adolescentes</term>
+dahin kommen zu studieren und lernen / werden sie widersin-
+nes geführt wider das Licht der natur/ es gehet alles durch
+gut bereden zu ohne alles gründliches innerliches besin-
+den ? Weder der Professor noch der Student unnd <term>Disci-</term>
+<term>pul</term> befindens / es ist nur ein <term>Opinion</term>, eine <term>Persuasio</term>, eine
+<term>Phantasey</term> / ein blawer Dunst / Ihre ganze <term>Philosophia</term>
+auß dem blawen Philosopho <term>Aristotele</term> geflicket / unnd
+können sich nicht anders bereden lassen/beydes der Profes-
+sor, unnd auch der <term>Discipulus</term>, denn das die Erkenntnuß
+oder die Kunst fliesse auß den Büchern / unnd ist doch nicht
+wahr / ist widersinnes/ denn der Mensch ist für allen Bü-
+chern / unnd die Bücher sind auß dem Menschen / unnd der
+Mensch ist nicht auß den Büchern / Aber dahin kommen
+sie nimmermehr / daß sie sich dahin könten besinnen/ darauf
+doch aller Grund stehen muß.
+
+Darnach ihre <term>Physica</term> ist auch wieder das Liecht der
+Natur beschrieben / nur auß den finstern <term>opinionibus</term>,
+ohne alle <term>Experienz</term>. Sie sagen: Die <term>Elementa</term> sollen
+kalt/naß/warm/trucken seyn/und ist doch nicht wahr / deñ
+kein Element ist also : Die <term>Corpora</term> sind wol also unnd
+ihre Gewächse / unnd nicht die Elementa selber / noch
+glauben sie es einander zugefallen / Die <term>Corpora</term> o-
+der <term>Salia</term> haben sie beschrieben an statt der Element.
+
+<vocab>Natur, Gnaden, Adolescentes, Professor, Student, Discipul, Opinion, Persuasio, Phantasey, Philosophia, Aristotele, Erkenntnuß, Kunst, Physica, Experienz, Elementa, Corpora, Salia</vocab>
+
+--- Page 50 ---
+<lang>German</lang>
+<page-num>26</page-num>
+
+Wenn eine Kue die vom Saltz lebte / schreiben könte / saget <term>Theophrastus Paracelsus</term>, sie würde wunderlicher dinge schreiben / vnd besser denn die hohen Schulen / dann sie hette es selber gekostet vnd geschmeckt / sie aber gläuben dem Aristoteli, αὐτὸς ἔφα, der doch nie das <term>Liecht der Natur</term> erkandt / noch auß denselbigen geschrieben hat. Ist gleich als wenn die Theologi jhren fürgenommenen Doctoribus, Patribus vnd Prophetis gläuben / vnnd verwerffen Christum / das Liecht der Gnaden / das nie in jhnen hat geschienen / davon sie nie sind erleuchtet worden / darauß sie nie geschrieben haben. Dann nicht was wir wehlen / sondern was die beyde <term>Lumina</term> vns zuschicken / das sollen wir annehmen. Sie sagen / die <term>Meteora</term>, als Regen / Schnee / Donner / etc. kommen auß den <term>exhalationibus viscosis, humidis, calidis</term>, auß den Dünsten / vnd ist nicht wahr. Noch gläubets einer dem andern / Es kömmet nicht auß diesen Dingen / sondern auß den vnsichtigen <term>Astris</term>,
+
+<margin>NB. Das Gestirn am Firmamēt ist gegen dem Menschen als der schatten gegen dē Baum / Das Gestirn ist auß dem Geist entstanden. Der Geist ist im Mensche. Medicina.</margin>
+Sie sagen / das Gestirne am Himmel regiere / treibe den Menschen zu diesem oder jenem / vnd ist nicht wahr. Ist gleich als spreche ich: Das gemachte Bild herrschet vber den lebendigen Mann: Sie sehen vnd wissen nicht / das der Mensch am Himmel abgemahlet Schnee sey / vnnd das er mehr sey als das Gestirn / vnd alle Sternen in jhme habe.
+
+Also mit der <term>Medicin</term> wird auch widersinnisch gehandelt / vnd wider das <term>Liecht der Natur</term> verrücket / gestanden. felschet / gebrochen / vnd alles auff Lügen erfüllet. Als die <term>Morbi</term> sollen auß den <term>Humoribus</term> wachsen / vnnd sollen durch die <term>Scrupen</term>, <term>Pillen</term> / etc. hingenommen werden / etc. vnd wachsen doch alle <term>Morbi</term> auß den Samen oder auß
+
+<meta>catchword: den</meta>
+
+<vocab>Theophrastus Paracelsus, Aristoteli, Liecht der Natur, Lumina, Meteora, Astris, Medicin, Morbi, Humoribus, Scrupen, Firmament, αὐτὸς ἔφα</vocab>
+
+--- Page 51 ---
+<lang>de</lang>
+<page-num>27</page-num>
+<sig>E iij</sig>
+<meta>catchword: Schlacken</meta>
+
+den Astris. Sie geben das Kraut vnd andere ding ein mit dem *Corpore impuro*, gutes vnd böses zuhauff / doch allemal deß bösen mehr. Denn das *Perlin* vnd das *Arcanum* kan nicht wircken / dieweil nicht das vnreine *Corpus* davon separiret ist *per Alchimiam*, Ist alles widersinnisch. Sie wissen nichts *de separando puro ab impuro*, nichts *de distinctione Vitæ præsentis*. Siehe / welcher isset einen Kaphan mit Federn / ein Endte mit Federn / das Kalb mit der Haut / den Hasen mit dem Balge / oder vngekocht vnd rohe? Welcher isset das Korn mit den öhren? Wer trincket den Most mit den Hefen? Wer lest das Gold vnd Silber in den Schlacken? Was ist der Kaphan nütze mit den Federn / der Hase mit dem Balge / das Korn an den öhren / der Most in Hefen / das Goldt vnd Silber in den Schlacken. Daß lehret alles die Natur / das man scheiden sol / *purum ab impuro*. Man rupffet den Kaphanen / man thut das vnreine / das vnessige hinweg / vnnd weschet jhn auffs reineste / vnd setzet jhn zum Feuer das er koche vnnd zur Speyse bereitet werde. Man streiffet den Hasen vnnd machet jhn sauber von allen *sordibus*, vnnd thut jhn zum Feuer das er zur Speyse bereitet werde. Man drischet dʒ <note>Abbreviation for "das"</note> Korn / man mahlt es / darnach isset mans: Den Most lest man gehren / darnach ist er gesund. Die Schlacken scheidet man von Gold vnd Silber / durch die Kunst *Alchimiam*, alsdenn machet man güldene Geschir drauß / die man brauchen kan / Item Müntz vnd Geld / etc. vnd ohne die *separation* kan vns kein ding seinen Nutz geben. Also solten freylich alle *Medicamina* gescheiden werden / von jhren vnreinen *Corpore*, da solten die *Medici Alchimiam* können / daß sie die *Arcana* auß jhren
+<center>Schlacken</center>
+
+<vocab>Alchimia, Arcanum, separatio, Medicamina, Schlacken, Kaphan, öhren</vocab>
+
+--- Page 52 ---
+<lang>de</lang>
+<page-num>26</page-num>
+<meta>catchword: den</meta>
+
+Wenn eine Kue die vom Saltz lebte / schreiben könte / sa-
+get **Theophrastus Paracelsus**, sie würde wunderliches
+dinge schreiben / vnd besser denn die hohen Schulen / dann
+sie hette es selber gekostet vnd geschmeckt / sie aber gläuben
+dem **Aristoteli**, αὐτὸς ἔφα, der doch nie das Liecht der Na-
+tur erkandt / noch auß denselbigen geschrieben hat. Ist
+gleich als wenn die **Theologi** jhren fürgenommenen **Do-
+ctoribus, Patribus** vnd **Prophetis** gläuben / vnnd ver-
+werffen **Christum** / das Liecht der Gnaden / das nie in jhnen
+hat geschienen / davon sie nie sind erleuchtet worden / darauß
+sie nie geschrieben haben. Dann nicht was wir wehlen /
+sondern was die beyde **Lumina** vns zuschicken / das sollen
+wir annehmen. Sie sagen / die **Meteora**, als **Regen /
+Schnee / Donner / etc.** kommen auß den **exhalationibus
+viscosis, humidis, calidis**, auß den Dünsten / vnd ist nicht
+wahr. Noch gläubets einer dem andern / Es kömmet nicht
+auß diesen Dingen / sondern auß den vnsichtigen **Astris**,
+
+<margin>
+NB.
+Das Ge-
+stirn am
+Firmamēt
+ist gegen
+dem Men-
+schen als
+der schat-
+ten gegen
+dē Baum/
+Das Ge-
+stirn ist
+auß dem
+Geist ent-
+standen.
+Der Geist
+ist im
+Mensche.
+Medici-
+na.
+</margin>
+Sie sagen / das Gestirne am Himmel regiere / treibe den
+Menschen zu diesem oder jenem / vnd ist nicht wahr. Ist
+gleich als spreche ich: Das gemachte Bild herrschet vber
+den lebendigen Mann: Sie sehen vnd wissen nicht / das
+der Mensch am Himmel abgemahlet Schnee sey / vnnd
+das er mehr sey als das Gestirn / vnd alle Sternen in jhe-
+me habe.
+
+Also mit der **Medicin** wird auch widersinnisch ge-
+handelt / vnd wider das Liecht der Natur verrücket / ge-
+fälschet / gebrochen / vnd alles auff Lügen erfüllet. Als die
+**Morbi** sollen auß den **Humoribus** wachsen / vnnd sollen
+durch die **Scrupen, Pillen / etc.** hingenommen werden / etc.
+vnd wachsen doch alle **Morbi** auß den Samen oder auß
+den
+
+<vocab>Theophrastus Paracelsus, Aristoteles, αὐτὸς ἔφα, Lumina, Meteora, Astris, Medicina, Morbi, Humoribus, Firmament</vocab>
+
+--- Page 53 ---
+<lang>de</lang>
+<page-num>27</page-num>
+<sig>E iij</sig>
+<meta>Catchword: Schlacken</meta>
+
+den Astris. Sie geben das Kraut vnd andere ding ein mit dem *Corpore impuro*, gutes vnd böses zuhauff / doch allemal deß bösen mehr. Denn das Perlin vnd das *Arcanum* kan nicht wircken / dieweil nicht das vnreine *Corpus* davon separiret ist *per Alchimiam*, Ist alles widersinnisch. Sie wissen nichts *de separando puro ab impuro*, nichts *de distinctione Vitæ præsentis*. Siehe / welcher isset einen Kaphan mit Federn / ein Endte mit Federn / das Kalb mit der Haut / den Hasen mit dem Balge / oder vngekocht vnd rohe? Welcher isset das Korn mit den öhren? Wer trincket den Moßt mit den Hefen? Wer lest das Gold vnd Silber in den Schlacken? Was ist der Kaphan nütze mit den Federn / der Hase mit dem Balge / das Korn an den öhren / der Moßt in Hefen / das Goldt vnd Silber in den Schlacken. Daß lehret alles die Natur / das man scheiden sol / *purum ab impuro*. Man rupffet den Kaphaun / man thut das vnreine / das vnessige hinweg / vnnd weschet ihn auffs reineste / vnd setzet ihn zum Fewer das er koche vnnd zur Speyse bereitet werde. Man streiffet den Hasen vnnd machet ihn sauber von allen *sordibus*, vnnd thut ihn zum Fewer das er zur Speyse bereitet werde. Man drischet dʒ Korn / man mahlt es / darnach isset mans. Den Moßt lest man gehren / darnach ist er gesund. Die Schlacken scheidet man von Gold vnd Silber / durch die Kunst *Alchimiam*, alsdenn machet man güldene Geschir drauß / die man brauchen kan / Item Müntz vnd Geld / etc. vnd ohne die *separation* kan vns kein ding seinen Nutz geben. Also solten freylich alle *Medicamina* gescheiden werden / von jhren vnreinen *Corpore*, da solten die *Medici Alchimiam* können / daß sie die *Arcana* auß jhren
+
+<vocab>Alchimiam, Arcanum, separation, Medicamina, purum ab impuro, Schlacken, Kaphaun</vocab>
+
+--- Page 54 ---
+<lang>de</lang>
+<page-num>28</page-num>
+<meta>catchword: einge-</meta>
+
+Schlacken zuziehen wüsten / vnd alle dinge **ex vitâ præ-**
+**senti in ultimam materiam** zubringẽ. Aber wie **Theoph:**
+sagt: Sie haben den Dreck noch nicht erkant / ja sie sind
+nicht wert denselben zufressen von wegen der essentz die
+drinnen ist. Das <term>Quintum esse</term> ist eine kleine quantitet
+gegen dem **Corpori**; Als ein Kraut hat in jhme <term>Quintam
+essentiam</term>, auch <term>arcanum</term>, &c. Nun mag das **Q.**
+**Esse** eine Wunde heilen in 24. Stunden / so es mit dem
+**Corpore** kaum in 14. Tagen geschehen kan. Ein contra-
+ctur oder Lähme kan durch die reine <term>separatur</term> <term>Quintam
+essentiam</term> geheilet werden in 4. Tagen: Do man sonst
+durchs grobe **Corpus** das gar nicht vermag / ja die Läme
+muß bleiben biß in den Todt.
+
+<margin>Juris-
+ruden-
+ia.</margin>Die <term>Jurisprudentia</term> wird gantz wider das <term>Liecht der
+Natur</term> geführt / gelehret vnd profitiret: Auß den Heyden
+ist sie genommen / vnd Heydnisch wird sie gelehret von de-
+nen die gute Christen sein wollen. Denn die Juristen töd-
+ten ja die Sünder / welches wieder das angeborne <term>Liecht
+der Natur</term> ist / **Matth. 7.** Alles was jhr wollet / das euch
+die Leute thun sollen / das sollet jhr jhnen auch thun. Nun
+siehe wenn sie an deß Sünders statt weren / so wolten sie
+gerne das man mit Barmhertzigkeit gegen sie handelte / sie
+loß liesse / vnd zu Busse führete. Den Dieb hencken sie / ist
+das nicht wieder das <term>Liecht der Natur</term>? wieder die Zehen
+Gebot? Wieder Christum? Wieder das newe **Testa-**
+**ment**? Vnd wider jhr eigen Hertz vnd Gewissen? Do
+sie doch manchmal mehr Laster / mehr Sünden auff sich
+haben / als eben der arme Sünder / der da für jhren Au-
+gen sterben muß / vnd seiner Buß nicht erwarten kan.
+Sie haben **GOTT** in das 5. Gebot ein **Exception**
+
+<vocab>Quintum esse, essentia, arcanum, Jurisprudentia, Liecht der Natur, Theophrastus Paracelsus, Matth. 7</vocab>
+
+--- Page 55 ---
+<lang>de</lang>
+<page-num>29</page-num>
+
+eingeflochten / vnd Mosen mit Christo vermenget / vnnd
+Gott muß jhr Narr seyn / der da sagt : Ich wil nicht den
+Todt deß Sünders / etc. Item / Ich bin kommen zu suchē
+das verloren ist / vnd das vermūde zuheilen / etc. Aber
+Christus muß der weil *post principia* stehen / etc. Sie be=
+schirmen das Eigenthumb / sie reizen zu kriegen / zu rechte /
+zu fechten vmb das zeitliche. Sie sind voller Hoffart / vnd
+ist die ganze <term>Juristerey</term> nur *opinio populorum Arane-
+rum tela*, wie <term>Caprian</term> der Jurist selber saget / Das
+Recht wird nur durch wohn der Völcker regiert vnd gefü=
+ret. So manches Land / so manches Recht / nach demselbe
+handelt er: Liß <term>Theophrastū</term> den höcherleuchten Mañ in
+seiner Außlegung vber das 23. Cap. <term>Matthei</term>. Vber die 10.
+Gebot vñ vber den Psalter / do wirstu finden was <term>Jurispru-
+dentia</term> sey / vñ daß die Juristen beydes wider das Liecht der
+Natur vnd der Gnaden handeln / vnd daß das <term>Jus Christi</term>
+ganz auffgehoben sey / vnd alles nach dem Heyden <term>Justi-
+niano</term>, das ist / nach dem Teuffel geführet werde.
+
+<margin>Theo- logia.</margin> Deßgleichen studieret vnd lehret man auch <term>Theo-
+logiam</term>, das ist die heilige Schrifft wiedersinnisch / wieder
+das Liecht der Natur vnd das Liecht der Gnaden / Denn
+beydes der Professor vnd Auditor vermeinen / der verstand
+werde auß dem *Objecto* oder gegenwurff genossen / lesen
+also den Buchstaben der Schrifft her / vñ machen darnebē
+menschliche Außlegung nach dem natürlichen Weltgeiste /
+den sie an statt deß H. Geistes sezen. <term>Paulus</term> nennet die-
+sen Doctorem vnd Auditorem, *Animalem hominem*,
+den natürlichen Menschen / welcher ein Feind GOTTes
+ist. Dieser Feind Gottes / welcher ist der Stern Geist
+im Menschen / giebts klüglich für / wird Doctor, Bacca-
+
+<meta>catchword: laureus,</meta>
+
+<vocab>Juristerey, Theophrastus, Matthei, Jurisprudentia, Jus Christi, Justiniano, Theologia, Animalem hominem, Stern Geist, Liecht der Natur, Liecht der Gnaden</vocab>
+
+--- Page 56 ---
+<lang>de</lang>
+<page-num>30</page-num>
+<meta>catchword: die</meta>
+
+laureus, Magister, Professor, vñ Außleger der Schrifft/
+vnd zeucht die Propheten/ den Psalter/ die Evangelia/ etc.
+in natürliche Weltkünste/ in *Dialecticam*, *Rhetoricam*,
+vnd macht *Theologiam* zu einem Maulgeschwätz / dar-
+von er gar künstlich / stoltz vnnd prächtig disputieren kan :
+Darzu nehmen sie die *Patres* herfür / vnnd andere Men-
+schenbücher / vnnd setzen die *Terminos Theologiæ* auff
+Menschen. Nehmen ein *Jurament* von den *discipulis*,
+sie sollen sich nur halten an diese vnd diese Bücher / vnnd
+nichts weiter suchen noch fragen / vnd die besten *Autores*,
+die auß dem *Lumine Naturæ & Gratiæ* geschrieben ha-
+ben/ die machen sie der Jugend verdächtig / vernichten sie
+auffs aller schändlichste : Vnd mit solchen *Juramenten*
+stechen sie der Jugend die Augen auß / daß sie nicht sehen
+können was recht oder vnrecht sey : Also dempffen sie den
+Geist Gottis/ das er nicht herauff kommen kan : Also wird
+der Jugend das *Judicium* verfinstert vnd entzogen / daß
+sie alles verkehrter Weise ansehen muß / vnd allemal Lü-
+gen für Warheit / vnnd den LügenGeist für den heiligen
+Geist annimmet / damit sie bey ihrer Autoritet bleiben/
+vnd das geschicht alles im schein Christlicher Meynung
+vnnd warnung für den falschen Propheten / vnnd eben sie
+seynd es selber/ für denen die Jugend gewarnet seyn solte :
+Also ists nicht gnug daß sie auß Faulheit die Warheit nicht
+lernen : Sie müssen auch andere die es gerne lerneten da-
+von abhalten : Do wird bey jhnen nichts gemeldet das
+Liecht der Gnaden / Ja es wird gedempfft vnd gar ver-
+leugnet : Dieweil dann nun die *Theologia* gelehret vnd
+geführet wird/ durch den natürlichen Weltgeist/ 1. Cor. 2.
+Auß dem Buchstaben vnd auß den Büchern der Väter/
+
+<vocab>Theologia, Weltgeist, Jurament, Lumine Naturæ & Gratiæ, Judicium, Maulgeschwätz, Dialecticam, Rhetoricam, Magister, Professor</vocab>
+
+--- Page 57 ---
+<lang>de</lang>
+<page-num>31</page-num>
+<meta>catchword: eben</meta>
+<sig>F</sig>
+
+die Chriſtus nie zu Vätern geſetzt hat / vnnd auß dem ver-
+führischen Propheten vnd Poſtillenſchreibern / vnnd alſo
+einer dem andern zu gefallen gläubet / vnd ein jeder auff deß
+andern Außlegung vnd Meynung beruhet / mit eines an-
+dern Auge ſehen / vnd mit eines andern Ohre hören wil:
+So kömmet je lenger je gröſſere verführung in die Welt /
+vnd iſt keine beſſerung zuhoffen / alldieweil man nicht in den
+innern Menſchen kehret / vnd vom Vater höret in jhm ſel-
+ber / damit der Verſtand von innen herauß flieſſe in die Bü-
+cher / vnd nicht auß den Büchern in die Menſchen getra-
+gen werde.
+
+Darauff ſchleuß nun vnd ſage zu deinem Wieder-
+ſprecher: Es iſt wahr / wer nichts geſtudieret noch geler-
+net hat / der weiß nichts / kan auch nichts prüfen noch vr-
+theilen / Nemlich / alle Weltgelehrten haben nichts geler-
+net / auch nicht ſtudieret: Darumb können dieſelbigen auch
+nichts vrtheilen von der Warheit / ſie heiſſen die Warheit
+eine Lügen / Chriſtum einen Teuffel / jhr ſtudieren iſt nur
+ein *perſuaſio*, eine Beredung / wiederſinnes haben ſie ge-
+lernet / vnd ſich ſelbſt nie erkandt worauß ſie ſeynd / was ſie
+in ſich tragen / jhre Kunſt iſt eine Lufft eines Windes / wie
+ſie wol erfahren müſſen an jhrem Todtbette / vnnd am
+Jüngſten Tage / etc. Aber die andern einfältigen Leute
+befinden die Warheit in jhnen ſelbſt / ſo man ſie vnterwei-
+ſet / ſie laſſen ſich erwecken / ſie geben der Warheit Kund-
+ſchafft / denn ſie liegt in jhnen / vnd ſprechen zu Chriſto / Es
+hat nie kein Menſch alſo geredt: So dagegen die *Scribæ*
+ſprachen: Er iſt vnſinnig vnd hat den Teuffel.
+
+Es iſt in der Warheit kein vntüchtiger / vngeſchickter
+Volck vnter der Sonnen zur Warheit / zu Chriſto / als
+eben
+
+<vocab>Christus, Propheten, Postillenschreiber, innern Menschen, Weltgelehrten, Warheit, persuasio, Scribae, Teuffel</vocab>
+
+--- Page 58 ---
+<lang>de</lang>
+<page-num>32</page-num>
+
+eben die Literales literati, das ist / die Weltgelehrten /
+Act. 16. Marc. 1. Von diesen Gesellen ist je vnd je der
+Warheit widersprochen worden / seynd die Welt gestan-
+den hat / vnd ihr sind nie mehr gewesen / als jetzt zu dieser
+Zeit: Weh / weh vber sie.
+
+## Folgen noch mehr Exempla / wie du den Wieder-
+## sprechenden mit der Warheit begegnen solt.
+
+->I.<-
+->DE LITIGANDO IN FORO.<-
+
+Ein Wiederpart spricht: Kein Gelehrter wird es
+zugeben / das Rechten für Gericht vmb zeitliche
+Güter vnrecht sey / wie du fürgibst: Darumb
+frage ich dich: Kan auch ein Christ für Gerichte rechten?
+Darauff sprich: Ich wil dich auch eins fragen / berichte
+mich das / so wil ich dir denn sagen / dz ein Christ nicht rech-
+ten oder hadern sol vmb dz zeitliche für Gericht / nemlich:
+Kan auch einer gläubig seyn ohne das Leben Christi?
+So er spricht: Ich verstehe es nicht was du fragest: So
+antworte jhm / Ey wolan / so kan vnd wil ich dir auch nicht
+sagen / ob deine Frage recht sey oder nicht. Spricht er aber
+ja / der Glaube kan wol seyn ohne das Leben Christi.
+Darauff sage du Nein / es kan nicht seyn / denn die Son-
+ne ist nicht ohne Liecht / das Fewer nicht ohne Hitz /
+der Glaube ist nicht ohne das Leben C H R I S T I /
+Denn wer da gläubet in Jesum Christum / der wandelt
+auch in jhme / vnd ist nicht wieder jhn in keinem Dinge /
+Er lasset jhm vnrecht thun / wie C H Ristus / er weichet
+von seinem Rechten wie C H R I S T us / ehe er zancken
+
+<meta>catchword: wolte</meta>
+
+<vocab>Literales literati, Weltgelehrten, Wiederpart, Gericht, Leben Christi, Rechten, Gerichte</vocab>
+
+<detected-images>
+[{"description": "Decorative woodcut initial 'E'", "type": "decorative", "bbox": {"x": 0.274, "y": 0.402, "width": 0.091, "height": 0.064}, "gallery_quality": 0.4, "museum_rationale": "Standard typographical decorative initial common in 17th-century printing."}]
+</detected-images>
+
+--- Page 59 ---
+<lang>de</lang>
+<page-num>33</page-num>
+<sig>F ij</sig>
+<meta>catchword: DE</meta>
+
+wolte vmb das zeitliche / er ließ es ehe alles fahren / Rock
+vnd Hembde. Wer nun den Geist Christi nicht hat / der
+ist sein nicht werth / Rom. 8. 2. Cor. 13. Col. 1. der gehöret
+auch Christum nicht an / der möchte jimer hin kriegen / zan-
+cken vmb das zeitliche auff seine verdamnuß. In Summa /
+Wo der Glaub ist / da ist Christus vnd sein Leben. Liß das
+Büchlein vom seligen Leben. Item das Büchlein *de mo-*
+*do Triplici Tractandi vitam Christi.* Helt er aber an
+vnd spricht: Es wirds kein Gelehrter zugebẽ / so antworte
+*per distinctionem*, durch eine theilung der Gelehrten mit
+eim unterscheid: Ja es ist wahr / die Gelehrten so wieder
+Christum seynd vnd Feinde deß Glaubens vnd deß Creu-
+zes Christi / vnd gestudieret haben wiedersinnes / vnnd auff
+dem ansehen der Menschen beruhen / die mögens nim-
+mermehr zugeben: Aber die Gottesgelehrten / das ist / die
+Gläubigen Christen / die nach der Ordnung deß Liechts
+erwecket sind / geben es wol zu mit dem Apostel / der da sagt
+1. Cor. 6. Es ist schon ein feil unter euch / das jhr vmb das
+zeitliche krieget / rechtet / dann jhr gebet zuerkennen / das
+euch am Ewigen Himmelreich nicht so viel gelegen sey /
+als am vergänglichen / vnd ergert damit die Heyden: Die
+Gläubigen wissen das man Christo müsse nachfolgen / vnd
+nicht der Welt. Dieweil du nun solches nicht verstehest /
+so mangelt dirs am besten / vnd an dem einen / das da heisset
+**FIDES**, der Glaub / der dann ist das Leben Christi / das
+durch du soltest alles prüfen / vnd urtheilen / was recht oder
+vnrecht were. *Omnia de vita Christi docere po-*
+
+->*test;* Liß den Güldenen Griff<-
+->*Weigelij.*<-
+
+<vocab>Weigelij, Güldenen Griff, FIDES, Gottesgelehrten, Glaub, Christum, Triplici Tractandi vitam Christi</vocab>
+
+--- Page 60 ---
+<lang>de</lang>
+<page-num>34</page-num>
+<header>I I.</header>
+<meta>catchword: Krieget.</meta>
+
+## DE NON GERENDIS BELLIS.
+
+**K**rieg führen vmb das zeitliche Reichthumb vnd Güter ist nicht vnrecht / denn im alten Testament sind grosse Krieg darumb geführet worden : Darauff sag ich / Ich wil dich auch eins fragen : Ist die Zeit deß alten Testaments eins oder vnterscheidens / oder von wannen entspringet das kriegen? Auß der alten oder newen Geburt? Spricht er : Ich weiß es nicht. So sage / Wolan / so kan ich dir auch nichts auff dein fürbringen antworten. Spricht er aber : Auß der alten Geburt / auß Blut vnd Fleisch krieget man vmb deß Eigenthumbs willen. So gib die Antwort mit Paulo : Fleisch vnd Blut gehöret nicht in Himmel / kein Eigenthumb ist im Himmel / Die nun jhrem alten Menschen anhangen / vnd vmb das zeitliche Eigenthumb kriegen / vnd Blut vergiessen / die sind vom newen Testament außgemustert / fahren in die Finsternüß. Es heisset / Wer nicht alle dinge lasset auch sein eigen Leben vmb meines willen / der ist meiner nicht werth. Ob nun ich vnd du es gleich nicht glauben noch verstehen wollen / sondern eine Glosse drüber machen / lieget nichts dran / Gott wird sein new Testament vnserthalben nicht verfälschen : Das alte Testament war in der Nacht vnd Finsternüß / wir sind in Tag vnd in Liechte : Die Nacht ist vergangen / der Tag ist herbey kommen. Saget er aber : Die Christen auß der newen Geburt kriegen vmb das Eigenthum. Darauff sage bald : Nein / Dann der Newe Mensch vnter Christo hat keine Vrsache zu kriegen / so lest er jhme das seine nehmen vnd stehlen dazu : denn er siehet allein auffs Ewige / das kan jhm niemand nehmen.
+
+<vocab>Krieg, Altes Testament, Newes Testament, Reichthumb, Eigenthum, Fleisch und Blut, Paulus, Finsternüß, Christus</vocab>
+
+<detected-images>
+[{"description": "Decorative woodcut initial letter 'K' featuring traditional scrollwork and floral motifs typical of early modern typography.", "type": "decorative", "bbox": {"x": 0.267, "y": 0.173, "width": 0.08, "height": 0.073}, "gallery_quality": 0.5, "museum_rationale": "A standard example of early modern decorative book typography, serving as an ornate lead-in to a new chapter or section."}]
+</detected-images>
+
+--- Page 61 ---
+<lang>German</lang>
+<page-num>35</page-num>
+
+Krieget er aber vnd zancket vmb das Irrdische / so zeuget
+er vber sich / das er den Glauben verleugnet / vnd das er das
+Irrdische mehr liebe denn das Himlische : Also wer er a-
+ber kein Christ mehr / sondern ein Teuffels Kindt. Ließ
+vom vrsprung der Kriege. Ein Christ weiß den vrsprung
+deß alten vnd newen Testaments / deß eussern vnd innern
+Menschen / deß Buchstabens vnd deß Geistes / durch das-
+selbige Mittel das da heisset FIDES , wie zufinden ist
+im Büchlein vom Güldenen Grieff. Aber die Welt-
+gelehrten hangen an der Creatur / an dem alten Menschen /
+vermengen das alt vnd new Testament / Darumb ist mit
+jhnen nicht vberein zukommen : Es ist eitel Confusio ;
+Ignorato igitur Adamo & Christo ; Externo & inter-
+no homine non cognito, juxta proprietates, naturas,
+Originem & vitam eorum : Item, Veteris & novi Te-
+stamenti discrimine non observato, nulla prorsus
+Theologia est reliqua ; Ja sie kennen nicht primum
+Principium in Theologia, Welches ist Christus oder
+Fides, das ist / In dem man nicht weiß was Adam vnnd
+Christus sey nach jhrer Eigenschafft / Natur / Art / Vr-
+sprung vnd Leben : Dieweil man auch nicht erkennet / was
+der eussere vnd innere Mensch sey. Auch dieweil man nicht
+unterscheidet das alte vnd newe Testament / So darff man
+nicht hoffen etwas warhafftiges in der Theologia zufin-
+den bey allen Weltgelehrten. Aber Hoffart / Pracht /
+Hochmuth / stolz / Ehrgeitz / Vnzucht / Hurerey / fressen vnd
+sauffen bey jhnen zufinden.
+
+### III.
+
+**C**um non liceat bella gerere, quid ergo Magi-
+stratus ? Der Wiedersprecher saget ; Was were
+
+<sig>F iij</sig>
+<meta>catchword: die</meta>
+
+<vocab>Glaube, Teuffels Kindt, Kriege, Testament, FIDES, Güldenen Grieff, Weltgelehrten, Confusio, Adam, Christus, Theologia, Hochmuth, Ehrgeitz, Magistratus</vocab>
+
+--- Page 62 ---
+<lang>German</lang>
+<page-num>36</page-num>
+<meta>catchword: zancken/</meta>
+
+die Obrigkeit nütz / so man nicht solte kriegen noch rechten
+vmb das zeitliche.
+Darauff sage: Was were Christus Jesus nütze / vnd
+warumb wer Er in die Welt kommen / in den Todt gesand /
+so wir im newen Testament wolten der alten Creatur an-
+hangen / vnd vmb das zeitliche kriegen / vnnd darmit zum
+Teuffel fahren ? Du fragest mich / was die Obrigkeit
+nütz sey: Ich frage dich auch eins: Ist die Obrigkeit vber
+den Leib vnnd vber die Ewigen Güter ? spricht er / Ich
+weiß es nicht. So sage / wolan so kan ich dir auch nit sagē
+wozu die Obrigkeit nütze sey / so man nicht solte rechten.
+Spricht er aber: Die Obrigkeit ist gesetzt vber den Leib /
+vnd vber das Ewige nicht. So sage: Die Christen bleiben
+der Obrigkeit vnderthan / ohne allen Auffruhr / vnd lassen
+Obrigkeit Obrigkeit bleiben / vñ lassen rechten vnd kriegē /
+zancken vnd hassen vmb das zeitliche wer da wil / vnd sa-
+gen: Nehmen sie vns den Leib / Gut / Ehr / Kindt vnnd
+Weib / etc. So er aber spricht: Die Obrigkeit ist gesetzt v-
+ber den innern Menschen / vnd vber die himlischen Güter /
+so sage du mit Christo: *Vos autem non sic.* Ist die Obrig-
+keit gläubig vnd ein Christ / so bleibet sie auch vnter jhrem
+Meister Christo sampt den Vnderthanen / vnd weiß wol
+wie sie regieren sol / vnd warumb sie gesetzt sey / Nemlich
+nach dem Befehl jhres HERRN Christi / vnd nicht
+nach dem alten Testament. Ist sie aber vngläubig vnd
+ein Vnchrist / so ist sie Gott nichts nütze / sondn dem Teuf-
+fel / in deß Willen sie lebet / durch welchen sie herrschet.
+Die Christen aber bleiben in Gehorsamb / vnd lehnen sich
+nicht wieder sie auff / sie bekriegen sie nicht / sie tragen
+das Joch mit Sanfftmütigen Hertzen / also rechten /
+
+<vocab>Obrigkeit, Christus Jesus, Testament, Creatur, Teuffel, Auffruhr, Gehorsamb, Sanfftmütigen, rechten, kriegen</vocab>
+
+--- Page 63 ---
+<lang>de</lang>
+<page-num>37</page-num>
+
+zancken / hadern / kriegen / morden nicht die Chriſten / ſon-
+dern nur die Heyden vnd Vngläubigen / die MaulChri-
+ſten / die vom Reich Gottes vnd von Chriſto nichts halten
+noch wiſſen.
+
+### L I I I.
+
+-> Non verè dicis, ibi eſſe vitam & Imitationem Chriſti, <-
+-> ubi **FIDES** eſt. <-
+
+**E**in Widerpart ſpricht: Es kan nicht wahr ſeyn /
+wo der Glaub iſt / das do auch das Leben Chriſti
+ſey / vnd deſſelben Nachfolgung: Darauff ant-
+worte jhme: Es kan ja nicht anders ſeyn / wo die Sonne iſt /
+do iſt auch das Liecht / Jt: Wo man einheizet im Ofen / do
+iſts auch warm / etc. Du fragſt mich / ob der Glauben vnd
+das Leben Chriſti müſſen beyſammen ſeyn: Ich wil dich
+auch fragen / ſage mir was der Glaube ſey / Iſt er Gottes
+oder deß Menſchen werck? ſpricht er / Ich weiß es nicht :
+ſo ſage / Wolan ſo kan ich dir auch nicht ſagen noch bericht
+geben / wie der Glaub vnd das Leben Chriſti beyeinander
+ſind / denn du möchteſt es nicht verſtehen : Spricht er / Der
+Glaube iſt ein Menſchenwerck / wenn der Menſch gläubet
+an Chriſtum. So ſage du nein dazu auß dem 3. Artickel :
+Ich gläube das ich nicht auß eigener Vernunfft / etc. Do
+<margin>NB.</margin>der Menſch gläubet / do iſt wol der Glaube ohne das Le-
+ben Chriſti / aber dadurch bleibt man verdampt. Spricht
+er / der Glaub iſt Gottes Werck im Menſchen / eine Gabe
+Gottes / Eph. 2. ſo muß er bekennen / das der Glaub ſey ein
+ſolches Werck Gottes / do der Menſch jhm ſelber ent-
+nommen vnnd Gott gelaſſen / do er nicht mehr ſein ſelbſt
+
+<meta>catchword: ist/</meta>
+
+<vocab>MaulChristen, Glaub, Leben Christi, Nachfolgung, Liecht, Ofen, Vernunfft, verdampt, Gottes Werck, Gabe Gottes, Eph. 2, 3. Artickel</vocab>
+
+<detected-images>
+[{"description": "Decorative woodcut initial letter E featuring floral and foliage ornamentation", "type": "decorative", "bbox": {"x": 0.101, "y": 0.323, "width": 0.088, "height": 0.064}, "gallery_quality": 0.7, "museum_rationale": "A typical example of 17th-18th century German decorative printing initials, using a woodcut to highlight the start of a theological discourse."}]
+</detected-images>
+
+--- Page 64 ---
+<lang>de</lang>
+<page-num>38</page-num>
+<meta>catchword: der</meta>
+
+iß / sondern deß an den er gläubet / gleich wie ein Ungläu-
+biger auß dem Teuffel ist / vnd lebet im Teuffel / vnnd sie
+sind eins. Also ist der Gläubige auß Christo / vnd wandelt
+in Christo / vnd die beyde sind eins / Christus regieret in ih-
+me / da folget der Mensch Christo nach / als eine newe
+Creatur / vnnd helt sich nach der Art vnnd Eigenschaffe
+Christi / Auß diesem guten Bawm folgen die guten Früch-
+te / Auß diesem guten Fewer kömmet hitze / Auß der Son-
+nen kömmet der Schein / vnd ist vnmüglich / das nicht der
+Glaub vnd das Leben Christi solten beyeinander seyn / liß
+*de Vita Christi, &c.* Dieweil du aber solches nicht ver-
+stehen noch zulassen wilt / so giebestu aber Zeugnüß vber
+dich selber / das du keinen Glauben hast / ein VnChrist
+seyest. Darumb gehe hin vnd lerne erkennen was der
+Glaube sey : Alsdenn komme vnd disputire mit mir / so
+wirstu wol vernehmen / wie weit Warheit vnd Lügen /
+Liecht vnd Finsternüß / Tag vnd Nacht / Christus vnnd
+Teuffel / Gottesgelehrte vnd Weltgelehrte von einander
+seyn. Wage so viel dran / vnnd werde ein Christ / vnd kom
+darnach zu mir / was gilts wo du wirst wider mich seyn im
+geringsten Puncten.
+
+---
+
+### V.
+
+## DE SITU MUNDI.
+
+**E**in Widerpart meynet / Wir werden im Him-
+mel sitzen mit vnsern groben sichtbarn Leib / vnnd
+nicht in Leib vnnd Fleisch Christi. Darauff sag:
+Diese sichtbare Welt stehet nicht auff der tieffe in ihr selbst
+schwebende / sondern muß auff stützen gehalten werden / o-
+der von den Engeln getragen. Du fragst mich worauff
+
+<vocab>Teuffel, Christo, Creatur, de Vita Christi, Warheit, Lügen, Liecht, Finsternüß, Gottesgelehrte, Weltgelehrte, Puncten, De Situ Mundi</vocab>
+
+<detected-images>
+[{"description": "Decorative woodcut initial letter E with floral patterns.", "type": "decorative", "bbox": {"x": 0.273, "y": 0.722, "width": 0.091, "height": 0.071}, "gallery_quality": 0.6, "museum_rationale": "A standard example of a 17th-century woodcut decorative initial used in religious or philosophical printing."}]
+</detected-images>
+
+--- Page 65 ---
+<lang>de</lang>
+<page-num>39</page-num>
+<sig>G</sig>
+<meta>catchword: werde.</meta>
+
+der Leib im Himmel sitzen werde: Lieber sage mir zuvor/
+Worauff diese Welt stehet/ daß sie sich nicht zertheile/ und
+daß sie nicht falle? Spricht er: Die Engel müssen sie he=
+ben und tragen/ sonsten fiele sie nieder: So sprich/ So ist
+Gott nicht ein vollkommener Bawmeister/ das Er könte
+die Welt ohne Träger hinsetzen: So doch ein Zimmer=
+man eine Scheune bawet/ und darff keine Knechte darzu/
+die sein Gebäw heben oder tragen/ Die Erde tregt es/ etc.
+Spricht er aber: Ich weiß nicht worauff die Welt stehet/
+es ist mir zu hoch. So sage: So gehe hin und lerne zuvor
+das ABC. in dieser Schule: Worauff die Erde stehet
+daß sie nicht hienab falle/ und worauff die gantze Welt ste=
+he/ daß sie nirgend hinfalle: Darnach komme/ so wil ich
+dirs auch sagen/ Wo und wie die newen Leiber im Himmel
+sitzen werden. Wer nun diese Schuzerey nicht verstehet
+von der Erden und der gantzen Welt/ das doch leiblich
+sichtbar ist/ wie wolt er das unsichtbare/ himlische/ Geist=
+liche verstehen können. Dann durch die <term>Exercitia con-
+templationum</term> muß man das Auge erwecken und leu=
+tern/ Geistliche ding zuerkennen und zuverstehen.
+
+Mit disputieren wirstu nichts schaffen bey den blin=
+den Weltgelehrten/ und ist gleich als so einer viel reden wol=
+te von schönen lieblichen Blumen bey einem Blinden:
+Derhalben das du bald uberwindest/ und deinen Wiedersa=
+cher mit spöttlicher Wehre schlagest/ so gebrauch diese
+drey Wege: Erstlich so dich einer etwas fraget/ unnd be=
+gehret mit dir zu disputiren: So frage jhn ob der Ver=
+stand auß dem Menschen komme/ oder auß dem eusseren
+Gegenwurff/ das ist/ ob die Erkentnuß aller dingen von
+innen herauß fliesse/ oder von aussen zu hinein getragen
+
+<vocab>Bawmeister, ABC, Schuzerey, Exercitia contemplationum, Weltgelehrten, Wiedersacher, Gegenwurff, Erkentnuß</vocab>
+
+--- Page 66 ---
+<lang>de</lang>
+<page-num>40</page-num>
+<meta>catchword: selbsten</meta>
+
+werde. Darauff wird er sagen : Jch weiß es nicht / ich ver-
+stehe es nicht / so sage du zu jhme : Wolan so wil ich dir
+auch nicht auff dein fürnehmen antworten : denn surdo
+narratur Fabula , du köntest von mir nichts vernehmen.
+Spricht er aber / Auß dem Buche oder gegenwurff : Lege
+ihm ein Buch für / das du weist / das ers nicht verstehet /
+So ist er geschlagen. Spricht er aber : Auß dem
+Menschen muß der Verstand kommen / so ist er auch vber-
+wunden / oder muß sich schemen das er den Verstand nicht
+in jhme habe / vnd habe sich nicht recht erwecket / er habe
+wider die Ordnung der Natur studieret : Davon findestu
+gründlichen Bericht im Büchlein vom <term>Güldenen Griff</term>
+nach der leng vnd vberfluß.
+
+Zum andern zeuge ihm das zweyerley studieren oder
+lernen sey / das eine nach <term>Ordnung der Natur</term> von innen
+herauß / wie das <term>Liecht der Natur</term> außweiset / do man ei-
+nen beständigen vnbeweglichen Grund erlanget : Dz ander
+geschicht wider die <term>Ordnung der Natur</term> / do das Liecht ver-
+rücket vnd verkehret wird / do einer muß zugefallen gläu-
+ben / do einer auff den Sandt gegründet ist / Also sind zwey-
+erley Gelehrten / <term>Weltgelehrte</term> wider die Natur / vnd <term>Got-
+tesgelehrte</term> nach der Natur.
+
+Zum letzten klag vber seine Blindheit vnd Jammer/
+mer / das er sich selbst nicht kennet was er sey / worauß er
+gemacht sey / was er in jhme trage / etc. Denn er weiß von
+zweyerley Gelehrten nichts. So weiß er auch noch von
+seinem inwendigen Auge nichts / muß mit anderer Leu-
+te Augen sehen / mit anderer Leute Ohren hören / Auff
+anderer Leute opiniones sein Grund setzen / Dieweil
+er jhme dann von selbst nichts guts gönnet / vnnnd sich
+selbsten
+
+<vocab>Güldener Griff, Liecht der Natur, Ordnung der Natur, Weltgelehrte, Gottesgelehrte</vocab>
+
+--- Page 67 ---
+<lang>de</lang>
+<page-num>41</page-num>
+
+selbsten nicht kennen wil / was solte denn ein anderer mit jhm anfahen vnd außrichten. Darumb laß jhn gehen zu seines gleichen in die Schule der Blinden / vnnd fleuch sein vnnützes Geschwätz vnd disputieren / verwirff es als ein vntüchtiges fürnehmen / vnd beflecke dich nicht weiter mit jhm. Denn ob du gleich jhm die Warheit sagest / so kömestu doch mit jhm nicht vberein / er widerspricht dir doch / vnd tritt das Perlin mit Füssen / vnd heist dich einen Lügner / etc. nicht anders / denn wie die Phariseer den HErrn Christum theten. Denn derselben Feinde ist noch kein Ende / der Erdboden ist jhrer voll.
+
+->Sechs Stücke sind die den Wiedersprecher v-<-
+->berzeugen solten / das alle Erkentnuß aller Verstand / vnd<-
+->alle Weißheit muß in vns seyn / von jnnen herauß<-
+->quellende / vnd nicht auß dem Buch<-
+->genommen werde / etc.<-
+
+Erstlich die natürliche Schöpffung / damit in allen Geschöpffen bezeuget wird / das alle ding von jñen herauß fliessen in das sichtbare / Alle leibliche ding kommen auß dem vnleiblichen : Das sichtige auß dem vn- sichtigen : Die Birne auß dem Bawm / Alle Gewächse auß dem inwendigen Samen / alle Schrifft auß dem Geist.
+
+Zum 2. die alte Geburt auß Adam von der Erden / auß dem ein Ding wächst vnd gebohren wird / dasselbige bleibet auch in jme. Der Mensch kömmet auß dem *Limo Terræ*, dz ist / auß dẽ Erdenkloß / oder auß der welt / vñ die welt ist in
+
+<sig>G ij</sig>
+<meta>catchword: ihme :</meta>
+
+<vocab>Schule der Blinden, Phariseer, Erkentnuß, Weißheit, Schöpffung, Limo Terræ, Erdenkloß, Geist</vocab>
+
+<detected-images>
+[{"description": "Decorative initial letter 'E' with floral/foliage patterns.", "type": "decorative", "bbox": {"x": 0.125, "y": 0.574, "width": 0.081, "height": 0.072}, "gallery_quality": 0.4, "museum_rationale": "Standard decorative woodcut initial common in early modern European printing."}]
+</detected-images>
+
+--- Page 68 ---
+<lang>de</lang>
+<page-num>40</page-num>
+
+werde. Darauff wird er ſagen : Ich weiß es nicht / ich verſtehe es nicht / ſo ſage du zu jhme : Wolan ſo wil ich dir auch nicht auff dein fürnehmen antworten : denn ſurdo narratur Fabula, du könteſt von mir nichts vernehmen. Spricht er aber / Auß dem Buche oder gegenwurff : Lege jhm ein Buch für / das du weißt / das ers nicht verſtehet / So iſt er geſchlagen. Spricht er aber : Auß dem Menſchen muß der Verſtand kommen / ſo iſt er auch vberwunden / oder muß ſich ſchemen das er den Verſtand nicht in jhme habe / vnd habe ſich nicht recht erwecket / er habe wider die Ordnung der Natur ſtudieret : Davon findeſtu gründlichen Bericht im Büchlein vom Güldenen Griff nach der leng vnd vberfluß.
+
+Zum andern zeuge ihm das zweyerley ſtudieren oder lernen ſey / das eine nach Ordnung der Natur von jnnen herauß / wie das Liecht der Natur außweiſet / do man einen beſtendigen vnbeweglichen Grund erlanget: Dz ander geſchicht wider die Ordnung der Natur / do das Liecht verrücket vnd verkehret wird / do einer muß zugefallen gläuben / do einer auff den Sandt gegründet iſt / Alſo ſind zweyerley Gelehrten / Weltgelehrte wider die Natur / vnd Gottesgelehrte nach der Natur.
+
+Zum letzten klag vber ſeine Blindheit vnd Jammer / mer / das er ſich ſelbſt nicht kennet was er ſey / worauß er gemacht ſey / was er in jhme trage / etc. Denn er weiß von zweyerley Gelehrten nichts. So weiß er auch noch von ſeinem inwendigen Auge nichts / muß mit anderer Leute Augen ſehen / mit anderer Leute Ohren hören / Auff anderer Leute opiniones ſein Grund ſetzen / Dieweil er jhme dann nun ſelbſt nichts guts gönnet / vnnnd ſich
+<meta>catchword: ſelbſten</meta>
+
+<vocab>Güldenen Griff, Liecht der Natur, Weltgelehrte, Gottesgelehrte, inwendiges Auge, surdo narratur Fabula</vocab>
+
+--- Page 69 ---
+<lang>de</lang>
+<page-num>41</page-num>
+
+selbsten nicht kennen wil / was solte denn ein anderer mit jhm anfahen vnd außrichten. Darumb laß jhn gehen zu seines gleichen in die Schule der Blinden / vnnd fleuch sein vnnüzes Geschwäß vnd disputieren / verwirff es als ein vntüchtiges fürnehmen / vnd beflecke dich nicht weiter mit jhm. Denn ob du gleich jhm die Warheit sagest / so kömstu doch mit jhm nicht vberein / er widerspricht dir doch / vnd tritt das Perlin mit Füssen / vnd heist dich einen Lügner / etc. nicht anders / denn wie die Phariseer den **HErrn Christum** theten. Denn derselben Feinde ist noch kein Ende / der Erdboden ist ihrer voll.
+
+->Sechs Stücke sind die den Wiedersprecher v.<-
+->bezeugen solten / das alle Erkentnuß aller Verstand / vnd<-
+->alle Weißheit muß in vns seyn / von innen herauß<-
+->quellende / vnd nicht auß dem Buch<-
+->genommen werde / etc.<-
+
+**E**rstlich die natürliche Schöpffung / damit in allen Geschöpffen bezeuget wird / das alle ding von jñen herauß fliessen in das sichtbare / Alle leibliche ding kommen auß dem vnleiblichen : Das sichtige auß dem vnsichtigen : Die Birne auß dem Bawm / Alle Gewächse auß dem inwendigen Samen / alle Schrifft auß dem Geist.
+
+Zum 2. die alte Geburt auß **Adam** von der Erden / auß dem ein Ding wächst vnd gebohren wird / dasselbige bleibet auch in jme. Der Mensch kömmet auß dem <term>Limo Terræ</term>, dz ist / auß dē Erdenkloß / oder auß der welt / vñ die welt ist in
+
+<sig>G ij</sig>
+<meta>catchword: jhme:</meta>
+
+<vocab>Schule der Blinden, Wiedersprecher, Erkentnuß, Weißheit, Schöpffung, Limo Terræ, Erdenkloß, Adam, Phariseer</vocab>
+
+<detected-images>
+[{"description": "Decorative ornamental initial letter E", "type": "decorative", "bbox": {"x": 0.113, "y": 0.579, "width": 0.082, "height": 0.065}, "gallery_quality": 0.4, "museum_rationale": "A standard woodcut initial E used in early modern German typography for sectioning text."}]
+</detected-images>
+
+--- Page 70 ---
+<lang>ger</lang>
+<page-num>42</page-num>
+
+jhme : Auch ist er gemacht auß dem Gestirne deß Firma-
+<margin>|</margin> ments/vnd alle Sterne sind in jhme: Die Sterne aber im
+Menschen sind alle irrdische vergängliche Weißheit/auff
+Kunst/Handtwerck/Sprachen/etc. Also hat der Mensch
+die Erkentnäß in jhme zu allen Dingen / sie muß aber er-
+weckt werden. Liß das Büchlein vom Grunde der Weiß-
+heit vnd Künsten Theophrasti vnd *Boetium de Conso-
+latione Philosophiæ*.
+
+<margin>|</margin> Zum dritten/die newe Schöpffung durch den Sohn
+Gottes/oder die Wiedergeburth vom Himmel / das ein-
+blasen von Gott/die Ewige Seele sampt dem Geist vom
+Vater vnd Sohne / darauß alle Bücher gedictieret vnnd
+<margin>|</margin> geschrieben sind/so in der Welt seyn/2. Pet. 1. Es ist noch
+nie keine Weissagung (er redt von rechten gründlichen
+warhafftigen Büchern) auß menschlichen willen herfür
+bracht : Sondern die Heiligen Menschen Gottes haben
+geredt getrieben von dem Heyligen Geist/das ist/alle Bü-
+cher sind nicht auß den Büchern / sondern von innen auß
+dem Geiste geflossen / darumb lieget der Verstand im
+Menschen.
+
+<margin>|</margin> Zum vierdten/die natürliche Erfahrung bezeuget/das
+aller Verstand vnd Vrtheil vom Menschen fliesse von in-
+nen herauß. Denn das sehen kömmet auß dem Auge/das
+hören durch die Ohren/das verstehen auß dem Menschen /
+das fühlen von dem Menschen / etc. Wie das Büchlein
+von dem Güldenen Griff außweiset vnd erkläret.
+
+<margin>|</margin> Zum fünfften / die Ursache der geschriebenen Bü-
+cher bezeuget auch / das aller Verstand in vns verborgen
+liege. Denn wo sind die Bücher herkommen / als auß dem
+Menschen? Warumb sind sie geschrieben? als alleine
+
+<meta>catchword: das</meta>
+
+<vocab>Gestirne, Firmament, Weißheit, Erkentnäß, Theophrasti, Boetium de Consolatione Philosophiæ, Schöpffung, Wiedergeburth, Heyligen Geist, Verstand, natürliche Erfahrung, Güldenen Griff</vocab>
+
+--- Page 71 ---
+<lang>de</lang>
+<page-num>43</page-num>
+<sig>G iij</sig>
+<meta>catchword: den</meta>
+
+daß wir vmb vnser Blindheit / Schwachheit / vergessens-
+heit eine erweckung/ein Zeugnuß vnd Kundschafft eusser-
+lich hetten.
+
+Wehren wir im Paradiß blieben/oder weren wir al-
+le Propheten / so bedörfften wir keiner Bücher nicht/etc.
+Oder weren wir wie die vnmündigen Kinder / so dürfften
+wir weder Bücher noch Prediger.
+
+Zum sechsten vnd letzten / vberzeuget vns auch das
+Gebete/das der verstand in vns sey/vnd nicht erst auß dem
+Buche hienein getragen werde : Leget man dir ein Buch
+für/du sprichst : Ich verstehe es nicht/ich muß erst Gott
+vmb den Verstand bitten / das er mir den Verstand eröff-
+ne : Ich erwecke Gott nicht mit meinem Gebete/sondern
+ich muß mich erwecken/nemlich im Verstand/der in mir ist.
+So du nun erwecket bist / so verstehestu das Buch / vnnd
+der Verstand ist in vns/vnd kömmet nicht auß dem Buche.
+
+### Ein andere Frag :
+
+Die Apostel sind gantz mit dem Heiligen Geist erfül-
+let vnd besessen gewesen von jhme gelehret / gesalbet / er-
+leuchtet vnd ordiniret / also daß Gott selber auß jhnen ge-
+redt/gelehret/vnd Wunderwerck gethan hat : noch hat jh-
+nen Christus ein Ernsthafftiges Gebot geben / das sich ih-
+rer keiner nicht sollen **Doctor**, **Rabbi**, **Magister**, **Præ-**
+**ceptor** vnd Herre nennen lassen : Denn Christus mit sei-
+nen Aposteln vnd allen Christen suchen nicht die Ehre bey
+der Welt / hohe **Digniteten** / Würden / Titel vnd Nah-
+men/sondern sie seynd Feinde der Hoffart / vnd fliehen der
+Menschen Lob wo sie können vnd mögen / das ist vnwider-
+sprechlich wahr.
+
+Auß waser macht thun denn daß die Weltgelehrten in
+
+<vocab>Blindheit, Schwachheit, vergessensheit, Paradiß, Bücher, Prediger, Gebete, Verstand, Heiligen Geist, Doctor, Rabbi, Magister, Præceptor, Digniteten, Hoffart, Weltgelehrten</vocab>
+
+--- Page 72 ---
+<lang>de</lang>
+<page-num>44</page-num>
+
+den hohen Schulen / daß sie dʒ Gebot Christi hindan setzẽ /
+vñ trachten mit allem fleiß nach den höchsten digniteten / vñ
+lassen sich nennen Doctores der H. Schrifft / Professores
+der H. Schrifft / Magistros der H. schrifft / Præceptores
+der H. Schrifft / Ehrwürdige Väter / hochgelehrte Herrn
+vnnd wollen nichts desto minder die Freunde Christi seyn /
+vnd geben sich auß für die so an Christi statt sitzen / vnd an-
+dere zu lehren am geschicksten seyn. Christus saget: Ich
+bin ewer HErr / ihr aber seynd meine Knecht / vnd solt euch
+nicht lassen Herren heissen: Christus sagt: Ich bin ewer
+Meister / ihr aber meine Jünger / ihr solt euch nicht lassen
+Meister heissen. Christus sagt: Ich bin ewer Doctor / ewer
+Rabbi / ihr solt euch nicht lassen also heissen. Die Apostel
+redeten mit fewrigen Zungen allesampt / vnd waren die
+Gelehrtesten in der gantzen Welt / noch durffte sich keiner
+außgeben für einen Doctorem Theologiæ, deñ sie hetten
+Christo seine Ehre abgeschnitten / vnd hetten sich in ein
+frembd Ampt gesetzt / hettẽ wollen so viel seyn als Christus
+selbst. Nun sage mir / welcher Doctor in allẽ hohen Schu-
+len ist einem Apostel / auch in dem geringsten gleich: Trotʒ
+dem gantzen Europæ das es ein einigen darstelle. Warumb
+thun sie denn mehr denn die Apostel / in dem sie sich außge-
+ben für Doctores der H. Schrifft / vnd gefellet ihnen wol
+daß man sie damit titelt vnd kutzelt. Wenn sie wollen
+Doctores, Magistri vnd Herrn seyn in Göttlichen Sa-
+chen / wo bleibet Christus mit seinem Geist? Darumb sa-
+ge mir / auß waser Macht thun sie daß.
+
+### Ein ander modus dem hoffertigen Disputanten
+### das Maul zustopffen.
+
+<meta>catchword: Ob</meta>
+<vocab>Doctores, H. Schrifft, Apostel, Europa, Disputanten</vocab>
+
+--- Page 73 ---
+<lang>de</lang>
+<page-num>45</page-num>
+
+<margin>1.</margin> **O**B er zugebe / das nur ein einiger rechter natürlicher
+vnd warhafftiger Verstand der H. Schrifft sey / vnd
+<margin>2.</margin> nicht mehr. Ob er zugebe das alle Schrifften der Pro-
+pheten vnd Aposteln eben vnd schnurgleich in dem jenigen
+Sinne müsse verstanden vnd außgelegt werdẽ / in welchem
+sie sind geredt / gedictiret vnd geschrieben worden. <margin>3.</margin> Ob er
+zugebe / das ein *Interpres*, ein *Commentator* oder Auß-
+leger der Prophetischen vnd Apostolischen Bücher müsse
+eben so hoch erleuchtet vnd gelehrt seyn als die *Scriptores*,
+deren Text er sich vnterstehet zuerklären vnd außzulegen.
+<margin>4.</margin> Ob er wisse / worauß vnd woher gute nützliche Bücher ge-
+schrieben sind : Worauß haben die Propheten / die Evan-
+gelisten / die Aposteln / *etc.* ihre Bücher genommen vnd ge-
+macht. <margin>5.</margin> Ob er wisse / warumb vnd auß was Ursachen
+<margin>6.</margin> alle gute vnd nützliche Bücher geschrieben. Ob er wisse
+von wannen der Verstand guter Bücher herkomme.
+
+Hierauff handel mit jhme / in massen wie dich vorge-
+hendes Büchlein lehret / so wirstu jhn mit aller seiner hoffer-
+tigen stolzen *Erudition* vnd hültzern Kunst bald zu win-
+ckel treiben / zu schanden machen / das er sich schemen muß /
+das er bey all seinem studiren / noch nie das *primum prin-*
+*cipium de Modo cognoscendi* gelernet hat.
+
+## QUAESTIO:
+
+Adam hat durch seinen fall alle so in jm gelegen / das ist /
+seine nachkommen auch gefellet : Solchen fall aber hat er
+berewet / vnd do jhme die Verheissung worden / das deß
+Weibes Samen würde der Schlangen den Kopff zertre-
+ten / vnd jn also erretten / dieses hat er festiglich gegläubet.
+Nun ist die Frage / Ob er durch seinen Glauben an vnd in
+den verheissenen Weibes Samen auch allen Nach-
+kömlingen hinwieder geholffen ?
+
+<vocab>H. Schrifft, Scriptores, Erudition, Modo cognoscendi, QUAESTIO, Weibes Samen, Interpres, Commentator</vocab>
+
+<detected-images>
+[{"description": "Decorative woodcut initial 'O' featuring leafy ornamentation.", "type": "decorative", "bbox": {"x": 0.118, "y": 0.134, "width": 0.052, "height": 0.045}, "gallery_quality": 0.3, "museum_rationale": "A standard decorative woodcut initial typical of early modern European printing."}]
+</detected-images>
+
+--- Page 74 ---
+<lang>None</lang>
+<meta>Blank flyleaf or endpaper</meta>
+
+[This page is blank.]
+
+<vocab>blank page, flyleaf, endpaper</vocab>
+
+--- Page 75 ---
+<lang>Latin</lang>
+<page-num>87. 8o</page-num>
+
+<vocab>page number, octavo</vocab>
+
+--- Page 76 ---
+<lang>None</lang>
+<warning>This page is blank and contains no text or illustrations.</warning>
+<meta>Blank flyleaf or endpaper from a bound volume. Significant foxing and minor staining present. Leather binding and gold leaf detailing visible on the left edge.</meta>
+
+<vocab>blank page, flyleaf, endpaper, foxing</vocab>
+
+--- Page 77 ---
+<lang>German</lang>
+
+### MOISE
+# TABERNA-
+# CVLVM CVM
+## SUIS TRIBUS PAR-
+->tibus Zum<-
+->ΓΝΩ͂ΘΙ ΣΕΑΥΤΌΝ<-
+->Führende /<-
+
+->Auß Rechten Apostolischen Fundament<-
+->tractirt vnnd erkleret<-
+->Durch<-
+
+# M. VALENTINVM
+# VVEIGELIVM,
+
+->Weyland gewesenen<-
+->Pfarrherrn zur Zschopan in Meissen /<-
+->Zu besserer erklerung des <term>Nosce teipsum</term>,<-
+->vnd zu mehrer erkåndtnüß des lezten **Seculi**<-
+->**Spiritus Sancti**,<-
+->Beschrieben vnd<-
+
+---
+
+->Gedruckt zu der Newstatt Bey<-
+->Johan Knuber / Anno 1618.<-
+
+<vocab>Valentin Weigel, Moses, Tabernaculum, Nosce teipsum, Seculum Spiritus Sancti, Mysticism, Zschopau, Neustadt</vocab>
+
+<detected-images>
+[{"description": "Ornate woodcut border with repeating floral and scrollwork patterns framing the title page text.", "type": "decorative", "bbox": {"x": 0.038, "y": 0.042, "width": 0.825, "height": 0.821}, "gallery_quality": 0.75, "museum_rationale": "An excellent example of early 17th-century German typographic ornamentation, featuring a complex modular woodcut border typical of scholarly or mystical publications of the era."}]
+</detected-images>

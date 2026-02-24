@@ -1,0 +1,28 @@
+{
+  "id": "6990522f8d19cbc90d9d55ac",
+  "title": "De lamiis et phitonicis mulieribus",
+  "display_title": "De lamiis et phitonicis mulieribus",
+  "author": "Ulrich Molitor",
+  "language": "Latin",
+  "year": 1489,
+  "published": "Unknown",
+  "pages_count": 72,
+  "pages_with_ocr": 72,
+  "pages_with_translation": 50,
+  "source_url": "https://sourcelibrary.org/book/6990522f8d19cbc90d9d55ac",
+  "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "delamiisetphiton00moli"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:28.006Z",
+  "_hashes": {
+    "ocr": "cf5a4a32424abcd4",
+    "translation": "44a46213b815a886"
+  }
+}

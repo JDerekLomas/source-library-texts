@@ -1,0 +1,26 @@
+{
+  "id": "697a305570562c8f31560787",
+  "title": "Curieuse Gedancken, von der wahren Alchymia, insonderheit dessen Prima Materia, nebst völliger Anweisung zu Praeparirung des Lapidis Philosophorum und Universal-Medicin",
+  "display_title": "Curieuse Gedancken, von der wahren Alchymia, insonderheit dessen Prima Materia, nebst völliger Anweisung zu Praeparirung des Lapidis Philosophorum und Universal-Medicin",
+  "author": "Anonymous",
+  "language": "German",
+  "year": 1702,
+  "published": "1702",
+  "pages_count": 75,
+  "pages_with_ocr": 75,
+  "pages_with_translation": 75,
+  "source_url": "https://sourcelibrary.org/book/697a305570562c8f31560787",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:25.901Z",
+  "_hashes": {
+    "ocr": "ccbf0115bc8230ef",
+    "translation": "3fed8e846cd430a2"
+  }
+}

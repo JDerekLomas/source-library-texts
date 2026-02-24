@@ -1,0 +1,28 @@
+{
+  "id": "6991ead72f801130a473e94e",
+  "title": "Etudes sur la chevelure et le traite de peinture",
+  "display_title": "Etudes sur la chevelure et le traite de peinture",
+  "author": "Leonardo da Vinci",
+  "language": "Italian",
+  "year": 1651,
+  "published": "Unknown",
+  "pages_count": 76,
+  "pages_with_ocr": 76,
+  "pages_with_translation": 76,
+  "source_url": "https://sourcelibrary.org/book/6991ead72f801130a473e94e",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "etudessurlacheve00leon"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:24.512Z",
+  "_hashes": {
+    "ocr": "c2ee4f4ec80a4f6d",
+    "translation": "56acb40739393025"
+  }
+}

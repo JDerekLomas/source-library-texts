@@ -1,0 +1,2249 @@
+--- Page 1 ---
+<lang>Unknown</lang>
+<meta>front cover</meta>
+<warning>The image is of a book cover. The only text present is on a worn red label on the spine, which is heavily abraded and mostly illegible.</warning>
+
+<insert>
+<unclear>...</unclear>
+R
+<unclear>...</unclear>
+<unclear>...</unclear>
+</insert>
+
+<vocab>leather binding, book cover, spine label</vocab>
+
+<detected-images>
+[{"description": "Dark, textured leather-bound book cover with a fragment of a red spine label containing faint gold-tooled characters.", "type": "decorative", "bbox": {"x": 0.03, "y": 0.01, "width": 0.94, "height": 0.98}, "gallery_quality": 0.3, "museum_rationale": "A standard historical book binding showing typical wear and aging; while of historical interest as a physical object, it lacks significant artistic or illustrative merit."}]
+</detected-images>
+
+--- Page 2 ---
+<lang>Latin</lang>
+<meta>image quality: excellent; contains an inserted printed slip with a colored emblem</meta>
+
+<insert>
+A
+
+->**PHILOSOPHIA HERMETICA**<-
+</insert>
+
+<note>Faint pencil mark on the main page surface below the insert</note>
+<unclear>H - B</unclear>
+
+<vocab>Philosophia Hermetica, Pelican in its piety, Rosicrucianism, alchemy, esotericism</vocab>
+
+<detected-images>
+[{"description": "A colored hermetic emblem on a white insert. It depicts a pelican in its piety (feeding three chicks with blood from its breast) standing on a cubic plinth. The plinth features four red roses arranged around a saltire cross. Golden rays emanate from a point above the pelican. The scene is enclosed in an oval border with the motto 'PHILOSOPHIA HERMETICA'.", "type": "emblem", "bbox": {"x": 0.395, "y": 0.246, "width": 0.252, "height": 0.146}, "gallery_quality": 0.85, "museum_rationale": "A high-quality representation of alchemical and Rosicrucian symbolism. The pelican is a well-known symbol for the 'Great Work' and self-sacrifice, and the combination with the four roses suggests a specific esoteric lineage."}]
+</detected-images>
+
+--- Page 3 ---
+<lang>de</lang>
+
+<warning>The text on this page is extremely faint, appearing to be heavy bleed-through from the following leaf (recto) or a severely faded duplicate printing. A library stamp is present in the upper right corner.</warning>
+
+<note>The following transcription reflects the visible ghost text appearing on the page surface.</note>
+
+->Der<-
+-><unclear>hohe und weise</unclear><-
+
+# König
+
+->in seinem Purpur-Mantel /<-
+-><unclear>oder</unclear><-
+-><unclear>Die unschuldige</unclear> <unclear>Gedult</unclear> <unclear>unter</unclear> <unclear>einem</unclear><-
+-><unclear>fremden</unclear> <unclear>Urtheil</unclear> / <unclear>in</unclear> <unclear>Abbildung</unclear> <unclear>des</unclear><-
+-><unclear>Dörich</unclear> <unclear>Staats-Exempels</unclear> <unclear>der</unclear> <unclear>auf</unclear> <unclear>Thronen</unclear><-
+-><unclear>sitzenden</unclear> <unclear>Majestäten</unclear> / <unclear>aus</unclear> <unclear>vielen</unclear><-
+-><unclear>Geschicht-Büchern</unclear> <unclear>für</unclear><-
+-><unclear>Augen</unclear> <unclear>geleget</unclear><-
+-><unclear>Nunmehr</unclear> <unclear>zu</unclear> <unclear>Dienst</unclear> <unclear>einer</unclear> <unclear>Hoch-Edlen</unclear> <unclear>Welt</unclear><-
+-><unclear>frie- und druckfertig gemacht</unclear><-
+-><unclear>von</unclear><-
+-><unclear>Einem</unclear> <unclear>Liebhaber</unclear> <unclear>der</unclear> <unclear>Philosophie</unclear>.<-
+---
+-><unclear>Leipzig</unclear> <unclear>und</unclear> <unclear>Berlin</unclear> /<-
+-><unclear>Bey</unclear> <unclear>Johann</unclear> <unclear>Friderich</unclear> <unclear>Gleditschen</unclear>.<-
+->M DCC XV.<-
+
+<meta>The stamp in the upper right appears to be a heraldic seal, likely a library ownership mark, featuring an eagle. Faint traces of a rectangular stamp are visible in the lower right.</meta>
+
+<vocab>König, Purpur-Mantel, Leipzig, Berlin, 1715, Johann Friderich Gleditschen</vocab>
+
+<detected-images>
+[{"description": "Circular library stamp featuring a heraldic eagle, likely Prussian or similar institutional mark.", "type": "decorative", "bbox": {"x": 0.63, "y": 0.08, "width": 0.16, "height": 0.13}, "gallery_quality": 0.3, "museum_rationale": "An institutional provenance mark; provides context for the manuscript's history but lacks primary artistic value."}]
+</detected-images>
+
+--- Page 4 ---
+<lang>None</lang>
+<meta>Blank page, possibly a flyleaf or the verso of a title page, showing faint bleed-through from the following leaf.</meta>
+<warning>This page contains no text. A faint, circular/oval image is visible through the paper, likely bleed-through or a watermark from the other side.</warning>
+
+<vocab>blank page, flyleaf, bleed-through</vocab>
+
+<detected-images>
+[{"description": "Faint circular bleed-through of an emblem or portrait visible through the paper from the reverse side.", "type": "decorative", "bbox": {"x": 0.436, "y": 0.243, "width": 0.131, "height": 0.113}, "gallery_quality": 0.1, "museum_rationale": "The image is a faint bleed-through from another page and does not constitute a primary illustration for this page."}]
+</detected-images>
+
+--- Page 5 ---
+<lang>de</lang>
+<meta>Title page of an alchemical treatise published in 1725.</meta>
+
+<insert>
+<meta>Printer's or Alchemical Emblem: An oval device featuring an eagle beneath crossed tools (possibly hammers or laboratory tongs).</meta>
+</insert>
+
+### Der
+## Sich aller Welt zeigende
+# K<gloss>e</gloss>önig
+## In seinem Purpur-Mantel /
+->Das ist:<-
+->Die ohnverfälschte Warheit unserer<-
+->Chymischen Operation in Bereitung der<-
+->Universal-Tinctur, entdecket sich ohne ein-<-
+->zige dunkle Redens-Art aus zweyen<-
+->uhr-alten Manuscriptis, und offen-<-
+->bahret sich in seinem herrlichen<-
+->Geschmuck.<-
+
+->Welches zu Dienste seines bedürfftigen Nächst-<-
+->stens zum Druck befördern und an Tag<-
+->geben wollen<-
+
+### Ein Liebhaber der Philosophie.
+
+---
+
+### Franckfurt am Mayn /
+### Bey Johann Friderich Fleischer.
+### MDCCXXV.
+
+<insert>
+<meta>Library Ownership Stamp: A purple square stamp with Chinese characters reading "普林斯頓" (Princeton).</meta>
+</insert>
+
+<vocab>Chymische Operation, Universal-Tinctur, Manuscriptis, Liebhaber der Philosophie, Franckfurt am Mayn, Alchimie, Goldmachen</vocab>
+
+<detected-images>
+[
+{"description": "Oval alchemical or printer's emblem featuring an eagle and crossed tools.", "type": "emblem", "bbox": {"x": 0.622, "y": 0.076, "width": 0.176, "height": 0.141}, "gallery_quality": 0.7, "museum_rationale": "An interesting 18th-century alchemical or trade device showing heraldic and symbolic elements."},
+{"description": "Purple square library ownership stamp from Princeton University Library in Chinese characters.", "type": "decorative", "bbox": {"x": 0.706, "y": 0.743, "width": 0.089, "height": 0.084}, "gallery_quality": 0.3, "museum_rationale": "A modern institutional mark, of interest for provenance tracking but not original to the 1725 printing."}
+]
+</detected-images>
+
+--- Page 6 ---
+<lang>deu</lang>
+<warning>This page appears to be a blank verso or flyleaf. Almost all visible text is "show-through" or bleed-through from the reverse side, appearing as mirrored and faint. There is no original primary text on this side of the page, only institutional library stamps.</warning>
+
+<insert>
+[Circular library stamp in the upper left corner, likely "BIBLIOTHECA REGIA MONACENSIS"]
+</insert>
+
+<insert>
+[Square library stamp in the lower left corner, containing the monogram "BSB" for the Bayerische Staatsbibliothek]
+</insert>
+
+<meta>The mirrored text bleeding through from the recto includes the word "ORDNUNG" in large Fraktur-style lettering.</meta>
+
+<vocab>library stamps, bleed-through, show-through, flyleaf, verso</vocab>
+
+--- Page 7 ---
+<lang>German</lang>
+<page-num>3</page-num>
+<sig>A 2</sig>
+<meta>catchword: in</meta>
+
+# Est Lapis, quem honorant Sapientes.
+
+**D**emnach ich mir fürgenommen die **Practicam Lapidis benedicti Philosophorum** zu beschreiben / und so viel mir zugelassen / ihre **Parabeln** und figürliche Redens-Arten zu erklären / so will ich zuförderist / der sich auf das Studium unserer geheiligten Kunst zu legen vorgenommen hat / alles Ernstes ermahnet haben / sich vor Irrwegen vorzusehen / und den Weg der Warheit zu suchen.
+
+Es haben aber die wahren **Philosophi** nur einen einzigen Weg zu dieser unserer theuren Kunst zu kommen / welcher auß der geheiligten Natur zu erkennen / dessen Anfang ist die Gnad des **HErrn**; und das Ziel die Liebe des Nächsten : Das Licht quillet aus dem Willen des grossen Gottes / und die Wissenschaft ist eine volle Erkäntnuß der Natur. Ihre Praxis bestehet
+
+<vocab>Practicam Lapidis benedicti Philosophorum, Parabeln, Philosophi, Warheit, Erkäntnuß, Alchymia</vocab>
+
+<detected-images>
+[
+{"description": "Ornamental headpiece consisting of three rows of fleurons and geometric sun-like patterns.", "type": "decorative", "bbox": {"x": 0.048, "y": 0.126, "width": 0.575, "height": 0.089}, "gallery_quality": 0.6, "museum_rationale": "A standard but well-executed typographic ornament typical of 17th-18th century German printing."},
+{"description": "Decorative calligraphic initial letter 'D' with floral scrollwork.", "type": "decorative", "bbox": {"x": 0.046, "y": 0.316, "width": 0.132, "height": 0.098}, "gallery_quality": 0.5, "museum_rationale": "A common decorative initial used in early modern printing to mark the start of a main text block."}
+]
+</detected-images>
+
+--- Page 8 ---
+<lang>de</lang>
+<page-num>4</page-num>
+<meta>catchword: ley</meta>
+
+in dem Wiſſen/ wie man die <term>principia metallica</term> zerlegen / von ihrem angebohrnen Fluch frey machen / und in einer behörigen Gleichheit wieder vereinigen und unaufflöslich verbinden ſolle. Hiedurch wird das unvollkommene <term>perficirt</term>/ (vollkommen gemacht) und in einem ſolchen fix und Feuerbeſtändigen Leib gebracht/ daß es alles Feuer der Trübſal außſtehen / und ohnverhindert als ein geiſtlicher Cörper durch alle verſchloſſene Thüren der Natur eindringen mag. 
+
+> Venerabili utimini natura, ſaget Diomedes, quoniam non emendatur natura, cui nolite introducere aliquod extraneum vel alienum, nec pulverem, nec aquam, nec ullam aliam rem, quia diverſæ res Lapidem noſtrum non emendant.
+
+Muß alſo keines wegs in dieſer unſerer Kunſt auf viele Dinge geſehen / oder jetzo dieſes / bald aber ein anders pro <term>materia Lapidis</term> genommen und erwehlet/ vielweniger in unnatürlichen Sachen Zeit/ Koſten und Arbeit vergebens angewendet werden/ quia in rerum multitudine ars Noſtra non conſiſtit. (ut Geber ait)
+
+> Eſt enim res una, lapis unus, medicina una, in quâ totum myſterium conſiſtit & pendet, cui non addimus rem extraneam, niſi quod in ejus præparatione ſuperflua removeamus. Nam per eum & in eo ſunt omnia artis neceſſaria.
+
+Und ob ſchon vieler-
+
+<vocab>principia metallica, perficirt, materia Lapidis, Geber, Diomedes, Lapis, medicina, alchemy, transmutation, myſterium</vocab>
+
+<detected-images>
+[{"description": "Decorative fleurons flanking the page number", "type": "decorative", "bbox": {"x": 0.58, "y": 0.09, "width": 0.17, "height": 0.04}, "gallery_quality": 0.2, "museum_rationale": "Standard printer's ornaments (fleurons) used for page numbering layout."}]
+</detected-images>
+
+--- Page 9 ---
+<lang>de</lang>
+<page-num>5</page-num>
+<sig>A 3</sig>
+<meta>catchword: finden:</meta>
+
+ley Wege in denen Philosophischen Bü-
+chern gefunden werden / so solt du gleich-
+wohl wissen / daß nicht mehr als ein ein-
+ziger wahrer Weg seye. Diesem forsche
+vernünftig nach / und gehe nicht auf den
+blosen Buchstaben / sondern überlegs vor-
+hero / ob es der Natur gemäß komme / siehe
+auf die Concordanz der *Autorum*, und er-
+wege wohl / wo sie was verdunckelt geschrie-
+ben / dann in diesem all ihr Geheimnuß ver-
+borgen stecket. Das andere ist ein Um-
+schweiff nur / den Unwürdigen damit irr
+zu machen. Bät und lese fleissig / und übe
+dich mit der Faust / so wird dein *Labor* ge-
+segnet seyn. Aller wahren *Philosopho-*
+*rum* Schrifften sind einig / wann sie noch
+so *different* scheinen. Ihre vielen *Deno-*
+*minationes* und Benennungen kommen
+nicht so wohl auß der *Materia Lapidis*, als
+auß der Variation ihres *laboris* her; Denn
+der Anfang / das Mittel und das Ende /
+werden mercklich verändert / wannenhero
+sich auch die Nahmen ändern. Die *Mate-*
+*riam Lapidis*, und wo solche bekommen wer-
+de / verschweigen Sie / und so Sie selbige
+bemercken / so geschiehet es nur Bedeu-
+tungs-weiß / daß sie ein anderes *Subjectum*
+melden / ihr rechtes aber darunter verste-
+hen. Betrachtest du aber die *generation*
+der *animalien* recht / so wirst du selbtges
+
+<vocab>Philosophische Bücher, Concordanz der Autorum, Labor, Philosophorum, Materia Lapidis, Subjectum, generation der animalien, Alchemie</vocab>
+
+<detected-images>
+[{"description": "Typographical printer's ornaments flanking the page number in the header", "type": "decorative", "bbox": {"x": 0.279, "y": 0.106, "width": 0.383, "height": 0.046}, "gallery_quality": 0.2, "museum_rationale": "Standard decorative printer's marks common in 17th-18th century German publishing, not unique illustrations."}]
+</detected-images>
+
+--- Page 10 ---
+<lang>German</lang>
+<page-num>6</page-num>
+<meta>catchword: rament</meta>
+
+finden. *Nam omne generans naturaliter generat suum simile , quodque seminaveris, illud & metes ; non enim generatur ex homine nisi homo.* SOL führet nicht vergebens drey Buchstaben in seinem Wort/ und leget damit an Tag/ daß es das wahre Subjectum unserer **Hermetischen Kunst** seye; dann gewiß ist es ein *subjectum Super Omnia Lucens*. Magst du also das *corpus perfectum* gegen das *plusquamperfectum* wohl dimensiren und abmessen/ deinen *laborem* recht erwegen/ und im übrigen den Regeln der weisen Meister folgen/ die da schreiben: *quod parvus error in principio maximus in fine sit.* Von der *Natura Solis* aber wird folgendes gemeldet: *Sol est corpus perfectum, Dominus Lapidum, Rex & caput omnium aliorum, in igne non corrumpitur, nec minuitur, sed melioratur, in ea humiditate quæ non alteranda humectatur. Ejus complexio est temperata, & natura directa in caliditate, frigiditate, humiditate & siccitate, nil in eo superflui invenitur, non diminuitur: est enim essentiatum ex substantia subtilissima & clarissima argenti vivi & pauca Sulphuris, puri & mundi, rubedinis, fixi & clari, tingens ipsam argenti vivi substantiam.* Woraus dann erhellet/ (vornehmlich auch weiln der **Lapis Philosophorum** durch sein gleiches tempe-
+
+<vocab>Hermetische Kunst, SOL, Natura Solis, Lapis Philosophorum, corpus perfectum, plusquamperfectum, argenti vivi, Sulphur</vocab>
+
+--- Page 11 ---
+<lang>German, Latin</lang>
+<page-num>( 7 )</page-num>
+<sig>A 4</sig>
+<meta>catchword: Mer-</meta>
+
+rament alle sordes und Unreinigkeiten an
+animalisch, und metallischen Cörpern ab-
+fäget und hinweg nimmet / ) daß der <term>Lapis
+Philosophorum</term> materialischer Weiß und
+auch substantialiter auß dem <term>Corpore Solis</term>
+bereitet werden müsse. *Omnis enim Tin-
+ctura à suo simili procedere debet.* Gleich-
+wohl aber darf solches nicht sophistisch ge-
+schehen / sondern es muß das <term>Corpus Solis</term>
+gantz zerbrochen und in sein ersteres Wesen
+wieder gebracht werden / damit man aus
+demselben sein innerst und verborgenes her-
+auß wenden und sichtbar machen könne.
+Dieses aber ins Werck zu setzen / procedire
+also:
+
+℞. Fein und durch die <term>Quartirung</term> /
+oder das <term>Antimonium</term> gereinigtes Gold /
+solve es in <term>Aqua Regis</term>, dann ziehe die
+Aquosität davon biß zur Olität. Bringe
+ferner diese Olität in einen kühlen feuchten
+Keller durch gebührende Mittel zu durch-
+sichtigen Crystallen / die Crystallen mache
+weiters durch die <term>Putrefaction</term> und <term>Subli-
+mation</term> zu einem schönen gläntzenden und
+lebendig weissen <term>Mercurio</term>, so ist das <term>Corpus
+Solis</term> das erstemahl gebrochen / und die <term>Ma-
+teria prima</term> in *propinquam* gebracht. *Nam
+certum est omnes res de eo, & ex eo con-
+stare, in quod resolvitur, & omnia Metalla
+possunt reduci in Mercurium.* Ist also die
+
+<vocab>Lapis Philosophorum, Corpore Solis, Tinctura, Corpus Solis, Quartirung, Antimonium, Aqua Regis, Olität, Putrefaction, Sublimation, Mercurio, Materia prima</vocab>
+
+--- Page 12 ---
+<lang>de</lang>
+<page-num>8</page-num>
+<warning>Page shows some damp staining and minor foxing, particularly along the left margin and edge of the text block.</warning>
+<meta>catchword: in</meta>
+
+Mercurialische Substanz bey solchen Me-
+tallen der Anfang / und das erste Wesen.
+*Conversio autem cineris Metallorum in spi-*
+*ritum est fixum volatilisare* (das ist: Die
+Bereitung des Spiritus aus der Metallischen
+Aschen oder Crystallen / heißt das flüchtig
+gemachte fixe) *converte igitur cinerem Re-*
+*gis in spiritum ut fiat Mercurius*, so erlan-
+gest du den rechten Anfang unserer gebene-
+deyten Kunst. Dieser Mercurius ist die
+Wurzel / Mutter und Hauptquelle aller
+vollkommenen Metallen / in welchen allein
+die übergrossen Mysteria, die Menschli-
+chen Cörper damit zu curiren / und alle un-
+vollkommene Metalla dadurch zu reinigen
+und vollkommen zu machen / enthalten sind.
+Wannenhero die Philosophi auch gespro-
+chen / *est in Mercurio quicquid quærunt*
+*Sapientes.* Doch sollst du keines Wegs
+dir einbilden / daß ich hier von einem Mer-
+curio vulgi currente, der kein proprium
+agens in sich hat / meine Rede führe / son-
+dern ich ziehle auf ein *Corpus Metallorum*
+*perfectum*, woraus wir nachgehends den
+Mercurium der Weisen extrahiren. *Noster*
+*enim Mercurius est radix in arte Chymica,*
+*cùm in eo sint omnia Metalla.* Dann so
+balden man den Mercurium solis *per se* in
+einem bequemen Glaß præcipitiret / so er-
+langet man eine solche kostbare Medicin, die
+
+<vocab>Mercurialische Substanz, Spiritus, Mercurius, Mysteria, Philosophi, Mercurio vulgi currente, Corpus Metallorum perfectum, Mercurium der Weisen, arte Chymica, Mercurium solis, Medicin</vocab>
+
+--- Page 13 ---
+<lang>German</lang>
+<page-num>9</page-num>
+<sig>A 5</sig>
+<meta>catchword: als</meta>
+
+in ihrer geringsten Dosi alle Menschliche
+Schwachheits=Zufälle und Kranckheiten
+auß der Wurzel hebet / und den Menschen
+gantz erneuert und verjünget darstellet.
+Weilen nun das Gold eines so herrlichen
+Wesens ist / so brauchen es viele *Medici*
+bey ihren *Medicamentis* auch nur rohe und
+unbereitet / vornehmlich aber in denen *Mor-*
+*bis Chronicis*, als *Lepra*, und dergleichen /
+da es das Geblüt mit reiniget. Und solche
+Medicin dienet fürnehmlich darum auch
+dem Menschen / weil sie nach ihrer genauen
+Verwandtschafft mit dem Menschlichen
+Cörper einen Ursprung führet / dann der
+Mensch ist auß einem *APHAR Minha*
+*Adamah*, wie *Moses* schreibet / das ist aus
+dem Staub oder der Aschen einer rothen
+Erden erschaffen / woraus zuerst das Gold
+sein *primum ens* empfähet / und in solcher
+Betrachtung wird auch die *Luna* zu ei-
+nem *appropriato specifico*, wie sie dann
+weit nützlicher weder andere Dinge / die der
+Metallen Eygenschafften nicht in sich ha-
+ben / zu gebrauchen ist. *Ast sapienti sat ;*
+*qui enim destructionem auri ignorat , scit*
+*quidem quod difficilis sit , sed quam diffi-*
+*cilis, hoc ignorat.* Wie dann einhellig die
+*Philosophi* der Meynung sind / *quod me-*
+*lius sit aurum construere quam destruere ,*
+(daß es leichter seye ein Gold zu machen /
+
+<vocab>Gold, Medici, Medicamentis, Morbi Chronicis, Lepra, APHAR Minha Adamah, Moses, primum ens, Luna, appropriato specifico, Philosophi, Alchemy</vocab>
+
+--- Page 14 ---
+<lang>de</lang>
+<page-num>10</page-num>
+<header>❧ ( 10 ) ❧</header>
+
+als dasselbe zu zerstören.) Ist derowegen solcher *Mercurius* in seiner Würckung hoch zu halten/ und als ein sonderbahres *Donum Dei* zu betrachten. Wie behend aber solcher bereitet werden könte / stelle eines jeglichen Gedancken anheim. *Omnis festinatio ex parte Diaboli est*, dahero ein jeglicher prüfen mag / ob er zu solcher Arbeit geschickt seye / auch Zeit und Gedult habe es außzuführen. Die erste *Operation* in dieser unserer Philosophischen Arbeit ist die *Sublimation*, das ist / die *Destruction* oder Zerstörung / welche durch die *putrefaction* geschiehet. Hierdurch wird der Cörper wie eine Aschen gantz unansehnlich und todt / daß er ohne Bewegung da liget: so bald man aber diesen wieder aufferwecket / wird er weit bequemer zu einer edlen Tinctur, als das *Corpus* selbsten werden / das da unzerstöret in seiner vorigen Form geblieben. Dieses heissen die *Philosophi* ihren *Mercurium* der Weisen / eine spiritualische *Terram* oder Erden / die eingehet und zu einer Tinctur zu bringen ist. Dann unser *sublimiren* ist nichts anderster als eine flüchtigmachung eines Dings / da alle *feces* von demselbigen abgesondert und geschieden werden. Wie dann die *Philosophi*, und in *specie* unter solchen der *Hermes* gelehret / alle fixe Cörper erstlich außzujagen und flüchtig zu machen:
+
+<vocab>Mercurius, Donum Dei, Operation, Sublimation, Destruction, putrefaction, Tinctur, Corpus, Philosophi, Terram, sublimiren, feces, Hermes</vocab>
+
+<detected-images>
+[{"description": "Decorative printer's ornaments (fleurons) flanking the page number at the top of the page.", "type": "decorative", "bbox": {"x": 0.58, "y": 0.09, "width": 0.18, "height": 0.03}, "gallery_quality": 0.3, "museum_rationale": "Standard typographic ornaments (hedera) used for page layout in early modern printing."}]
+</detected-images>
+
+--- Page 15 ---
+<lang>German, Latin</lang>
+<page-num>11</page-num>
+<header>-> ❦ ( 11 ) ❦ <-</header>
+<meta>catchword: mehre</meta>
+
+machen: so dannerst/ wann sie von ihrer terrestrischen Unart entlediget sind/ wieder zu figiren und zu binden. Dahero sie geschrieben/ *fac fixum volatile, & volatile fixum*. Item: *nisi fiant corporea incorporea, & è contra, nihil operamini. Et hîc volumus, quodnon separentur ad invicem, sed mutuo figantur & remaneant simul.* Solches alles aber geschiehet durch die Philosophische Sublimation, wie es auch der **Geber** bezeuget/ wann er schreibt: *tota perfectio artis consistit in sublimatione, & in vase ac ignis regimine; quoniam in ipsa sublimatione sunt & habentur isti modi, ut patet, scil. non modo sublimatio, sed & destillatio, ascensio & descensio, congelatio, putrefactio, calcinatio, inceratio & tinctura alba & rubra ; unô igne, unô vase, unâ viâ cineraria, usque ad ejus finalem conservationem, de quibus Philosophi. Sed sensus obscurior fieret, multa enim scripserunt.*
+
+*Postquam autem materia fuerit putrefacta ad faciendum corpus spirituale.* (Mercurium) *quod tamen impossibile est, nisi in aëre per sublimationem Philosophicam & putrefactionem.* So nimm ermeldten <term>Mercurium Solis</term>, und trockne ihn auf warmen Sand in einer reinen Glaßschale/ damit alles rein bleibe/ träncke ihn ferner durch ein <term>semisch Leder</term> drey oder
+
+<vocab>Geber, Mercurium Solis, Philosophische Sublimation, putrefactio, calcinatio, semisch Leder, tinctura alba, tinctura rubra</vocab>
+
+--- Page 16 ---
+<lang>German</lang>
+<page-num>12</page-num>
+<meta>catchword: die</meta>
+<vocab>Arcana, Spagyro, Mercurium Philosophicum, Operationes, exaltiren, Mercurium Solis, Sphæram, Baln. Vap., Gradibus</vocab>
+
+mehrmahlen / damit alle Unreinigkeit davon komme / sublimire es alsdann 2 1. mal durch die <term>Arcana</term> des Philosophen / welche in dem Wein verborgen stecken / und von dem künstlichen <term>Spagyro</term> nach der Kunst herauß geschieden und bereitet werden müssen / über sich / so hast du den edlen <term>Mercurium Philosophicum</term>, mit welchem alle Philosophische <term>Operationes</term> angefangen und bereitet werden können. Ausser diesen Mercurium wird alle Mühe und Kosten vergebens seyn. Wilt du nun diese wahre Materi ferner weiters <term>exaltiren</term> / und zu höherer Vollkommenheit bringen / so thue deinen <term>Mercurium Solis</term> ohne weitern Zusatz in ein starck Crystallinen Glaß / welches nach dem Astrologischen Maaß abgemessen und formiret seyn soll / damit die Materi seine <term>Sphæram</term> darinnen in ihrem Herumlauff halten / und sich geräumlich bewegen könne. Sigillire es / und verwahre es wohl in dem zuschmelzen / und setze es in einer hölzernen Büchsen in das Philosophische Feuer (<term>Baln. Vap.</term>) regiere dieses Feuer nach seinen erforderenden <term>Gradibus</term>, biß sich der Mercurius anfähet anzulösen / (so in 8. oder 10. Tägen zu geschehen pfleget / ) und endlich vermittelst dieser vaporisch- und stäten Wärme gar in ein Philosophisches Wasser verkehret. Doch solt du mercken / daß
+
+<detected-images>
+[{"description": "Decorative fleurons/ornaments flanking the page number", "type": "decorative", "bbox": {"x": 0.58, "y": 0.1, "width": 0.2, "height": 0.03}, "gallery_quality": 0.2, "museum_rationale": "Simple typographic ornaments used for layout decoration around the pagination."}]
+</detected-images>
+
+--- Page 17 ---
+<lang>de</lang>
+<page-num>13</page-num>
+<meta>catchword: tioni-</meta>
+
+->( 13 )<-
+
+Die hölzerne Büchſe / worinnen das Glaß ſtehet / wol müſſe proportioniret werden / auff daß das <term>vaporiſche Feuer</term> durchdringen / und der Natur nach operiren könne. Nicht weniger ſoll der <term>Dreyfuß</term> in der Büchſen wol befeſtiget / und mit einer Baumwolle umwickelt ſeyn / damit das Glaß darinnen ruhen / und unbeweglich ſtehen möge. Halte mit dem <term>Balneo Vaporis</term> unverdroffen an / biß durch ſolche ſtäte Kochung dein <term>Mercurius Solis</term> zu einem klaren / durchſichtig, und Cryſtalliniſchen Waſſer geworden / von welchem herrlichen Waſſer die Philoſophi ſchreiben / *unica per totum aqua, quod fit coquendo, reco-quendo & iterum coquendo.* ( es iſt durch und durch ein Waſſer / welches durch das Kochen und Wiederkochen / und abermahliges Kochen erlanget wird. ) Du ſolt aber weder vor oder nach dein Glaß öffnen / ſondern das Werck alſo ſolvirt in ſeinem Glaß ſtehen laſſen / und mit dem <term>regimine ignis</term> anhalten / biß ich dir weiters ſagen werde / was zu thun ſeye. Hiervon ſchreiben die Philoſophi alſo : *Sufficit tibi ſemel Lapidem in noſtro vaſe ponere & includere, quouſque totum compleatur magiſterium.* Item alibi: *ſuper omne mirum eſt, quod uno igne, uno vaſe fiat deſtillatio, calcinatio, dealbatio, rubificatio, fuſio cum ſolu-*
+
+<vocab>vaporiſche Feuer, Dreyfuß, Balneo Vaporis, Mercurius Solis, regimine ignis, magiſterium, deſtillatio, calcinatio, dealbatio, rubificatio, fuſio, ſolutio</vocab>
+
+--- Page 18 ---
+<lang>German</lang>
+<page-num>14</page-num>
+<header>❦ ( 14 ) ❦</header>
+<meta>catchword: die</meta>
+
+tionibus. So nun die Materi in solchem Philosophisch und vaporischen Feuer gehalten wird / so erfolgt endlich eine warhaffte und radicale Aufflösung : und was sich *solviret* hat / das ist flüchtig / und erhebet sich allmählich in seine *Sphæram*, leget sich oben in den Circkel des Glases an wie ein Talck / und fliesset nicht wie ein gemeines Wasser / dahero es die Philosopi eine *solutionem remotam* geheissen. Muß also dieser Cörper in sich selbst gebrochen und *resolvirt* werden / wie die *Turba* besagt : Er *solvirt* sich selbst / er *sublimirt* sich selbst / er tödtet sich selbst / und machet sich wieder lebendig. *Nostra contritio non fit manibus, sed decoctione, vel putrefactione.* Und also wird allein die *solution* oder Aufflösung durch die *Putrefaction* vollbracht. Dann unserm Werck ist die *Putrefaction* höchst vonnöthen / weilen ohne solcher auch keines andern Dinges Leben / es seye in dem *animalisch*, *vegetabilisch* oder *mineralischen* Reich / hervor tretten und erlanget werden kan. Und wann es nicht in seine *Putrefaction* vor allem erst gebracht wird / so bleibet es *unsolvirt* / einfolglich auch untüchtig zu aller *transmutation* und Verwandlung. Was aber in diesem Werck die Fäulung oder *Putrefaction* verrichtet / ist nicht gnugsam auszusprechen ; dann hierdurch wird
+
+<vocab>Materi, Philosophisch, vaporischen Feuer, Aufflösung, solviret, Sphæram, solutionem remotam, resolvirt, Turba, sublimirt, Putrefaction, animalisch, vegetabilisch, mineralischen, unsolvirt, transmutation, Fäulung</vocab>
+
+--- Page 19 ---
+<lang>de</lang>
+<page-num>15</page-num>
+<meta>catchword: Dann</meta>
+<vocab>Scheidung derer Elementen, Aristoteles, Philosophi, Geist, Seel, Leib, propriè, sophicè, Lapis Noster, alchymia</vocab>
+
+die Scheidung derer Elementen / so auf
+keine andere Weise sonsten geschehen mag/
+vollkommen vollbracht / und die natürliche
+Wärme treibet sie empor / daß sich eines
+in das andere verkehren mag. Solche
+Scheidung ist eigentlich eine Veränderung
+ihrer Natur / da auß Wasser Lufft / auß
+Lufft Feuer / und auß Feuer wiederum eine
+Erden geneuert und bereitet wird. Wie
+dann Aristoteles schreibet : *Cùm habueris*
+*aquam ex aëre, & aërem ex igne, & ignem*
+*ex terra, tunc habebis plenam artem.*
+Darum auch die Elementa nur verändert/
+keines Wegs aber separirt und voneinan-
+der geschieden werden. Um ihrer Verän-
+derung wegen nennen es die *Philosophi*
+eine Scheidung / so ohne allen Zwietracht
+gantz allein durch die Natur geschiehet /
+dann ein jegliches eine gewisse Zeit hin-
+durch *dominiret* / und die Herrschafft füh-
+ret/ und beflissen ist/ seine Operation also zu
+vollbringen / daß was herrlichers hervor
+komme / und daraus werde. Werden
+also Geist/Seel und Leib nicht *propriè*, son-
+dern *sophicè* geschieden : dann der Geist
+fähret die Seele aus dem Cörper / und ist
+derselben Hauß/ als in welcher sie ihre Ru-
+he hat. Wie dann die Schaar der Philo-
+sophen meldet: *Quod Lapis Noster ex*
+*corpore, anima & spiritu constet.* Weilen
+
+<detected-images>
+[{"description": "Decorative printer's fleurons flanking the page number", "type": "decorative", "bbox": {"x": 0.224, "y": 0.088, "width": 0.232, "height": 0.024}, "gallery_quality": 0.3, "museum_rationale": "Standard typographic ornaments used in early modern printing to frame page numbers."}]
+</detected-images>
+
+--- Page 20 ---
+<lang>de</lang>
+<page-num>16</page-num>
+<meta>Catchword: ficiret. The page number is flanked by decorative floral ornaments.</meta>
+<vocab>Putrefaction, solution, Philosophische Aufflösung, Spiritu, Oleum, Vapor unctuosus, Lapis noster, argentum vivum, aqua Magisterii, aqua permanens, Quecksilber, Schöpffung, Corpus</vocab>
+
+Dann durch die stäte unauffhörliche Ko-
+chung und Putrefaction unsere wahre *solu-
+tion* und Philosophische Aufflösung zu ei-
+nem Wasser geschehen muß/ so haben es
+die Philosophi *unicam tantum aquam per
+totum*, oder ein einziges durchgehendes
+Wasser geheissen. Dann die Feuchtigkeit
+vom Geist oder *Spiritu* ist ein Wasser/und die
+Feuchtigkeit der Seelen ein *Oleum* oder
+Oel; dahero es auch heisset *Vapor unctuo-
+sus est Lapis noster* ( unser Stein ist ein
+öhlichter Dampff.) Ist also die Seele ein
+Band des Geistes/ gleich wie der Geist ein
+Band wiederum der Seelen ist. Noch
+dannoch ist dieses Band nichts gegen dem
+Band der Natur zu rechnen. Alles muß
+zu Wasser werden/ so man recht verfahren
+will. *Solvite corpora in argentum vivum
+nostrum, quod est aqua Magisterii, & fit
+aqua permanens*, sagen die Philosophi, das
+ist: Löset die Cörper in unser lebendiges
+Quecksilber auf/ welches das Wasser des
+Geheimnuß ist/ so bekommt ihr unser blei-
+bendes Wasser. Dann gleich wie bey der
+Schöpffung anfänglich alles Wasser
+war/ und der Geist **GOttes** oben auf dem
+Wasser schwebte/ also soll der Anfang un-
+sers Wercks auch ein Wasser seyn/ das ist/
+unser *Corpus* muß durch die *solution* und
+Aufflösung in ein Wasser gebracht/ putre-
+<meta>ficiret</meta>
+
+--- Page 21 ---
+<lang>de</lang>
+<page-num>17</page-num>
+<sig>B</sig>
+<meta>catchword: dick</meta>
+
+sciret/ und in seine Bewegung gebracht
+werden/ daß es also lang <term>circulire</term>/ auf und
+nieder steige/ biß es gantz <term>solviret</term> / und in ein
+schön durchsichtig Crystallinisches Wasser
+verkehret ist. Dann unsere gantze Arbeit ist
+nichts anders als eine Verwandlung der
+Erden in ein Wasser / und stäte Kochung /
+biß die Erde in die Fäulung tritt. Diese
+Erde faulet mit dem Wasser/ und reiniget
+sich / und wann dieses geschehen / so ist die
+gantze Kunst unserer Meisterschafft voll-
+bracht. Gleichwohl ist dieser unser <term>Stein</term>
+nur ein Vapor und Dunst/ den man eine
+Lufft nennet / dieser steiget nach und nach
+von dem corporischen <term>Mercurio</term> über sich in
+die Höhe/ und breitet sich in seine <term>Sphæram</term>
+aus/ fället auch wieder durch den Thau in
+das untere. Dahero ihn <term>Hermes</term> eine Lufft
+benahmet / *nam generatio geniti nostri fit
+in aëre, & nascens sapienter in aëre nascitur.*
+Item: *Alibi ascendit à terra in cœlum ite-
+rumque descendit in terram , acquirendo
+vim superiorum & inferiorum.* Aber durch
+die stäte Kochung und unauffhörliche Wär-
+me wird er durch das stätige Auf- und Ab-
+steigen immer etwas dicker / doch gehet es
+nicht behend zu / weilen der gantze Cörper
+erst in die Höhe seines Circuls muß. Dann
+wann erst dieser periodus verlauffen/ und zu
+Ende gebracht ist/ so beginnet es und fähet an
+
+<vocab>Alchemie, Mercurio, Hermes, Kochung, Fäulung, Stein, circulire, solviret, Sphæram, Tabula Smaragdina</vocab>
+
+--- Page 22 ---
+<lang>de</lang>
+<page-num>( 16 )</page-num>
+<meta>catchword: ficiret</meta>
+
+Dann durch die ståte unauffhörliche Ko-
+chung und <term>Putrefaction</term> unſere wahre <term>ſolution</term>
+und Philoſophiſche Auflöſung zu ei-
+nem Waſſer geſchehen muß / ſo haben es
+die <term>Philoſophi</term> <term>unicam tantum aquam per
+totum</term>, oder ein einziges durchgehendes
+Waſſer geheiſſen. Dann die Feuchtigkeit
+vom Geiſt oder <term>Spiritu</term> iſt ein Waſſer / und die
+Feuchtigkeit der Seelen ein <term>Oleum</term> oder
+Oel; dahero es auch heiſſet <term>Vapor unctuo-
+ſus eſt Lapis noſter</term> (unſer Stein iſt ein
+öhlichter Tupff.) Iſt alſo die Seele ein
+Band des Geiſtes / gleich wie der Geiſt ein
+Band wiederum der Seelen iſt. Noch
+dannoch iſt dieſes Band nichts gegen dem
+Band der Natur zu rechnen. Alles muß
+zu Waſſer werden / ſo man recht verfahren
+will. <term>Solvite corpora in argentum vivum
+noſtrum, quod eſt aqua Magiſterii, & fit
+aqua permanens</term>, ſagen die <term>Philoſophi</term>, das
+iſt: Löſet die Cörper in unſer lebendiges
+Queckſilber auf / welches das Waſſer des
+Geheimnuß iſt / ſo bekommt ihr unſer blei-
+bendes Waſſer. Dann gleich wie bey der
+Schöpffung anfänglich alles Waſſer
+war / und der Geiſt GOttes oben auf dem
+Waſſer ſchwebte / alſo ſoll der Anfang un-
+ſers Wercks auch ein Waſſer ſeyn / das iſt /
+unſer <term>Corpus</term> muß durch die <term>ſolution</term> und
+Auflöſung in ein Waſſer gebracht / putre-
+
+<vocab>Putrefaction, solution, Philosophi, Spiritu, Oleum, Lapis noster, argentum vivum, aqua Magisterii, aqua permanens, Corpus</vocab>
+
+<detected-images>
+[
+{"description": "Decorative floral fleuron ornament", "type": "decorative", "bbox": {"x": 0.547, "y": 0.088, "width": 0.045, "height": 0.028}, "gallery_quality": 0.2, "museum_rationale": "Simple printer's ornament flanking the page number in the header."},
+{"description": "Decorative floral fleuron ornament", "type": "decorative", "bbox": {"x": 0.722, "y": 0.088, "width": 0.045, "height": 0.028}, "gallery_quality": 0.2, "museum_rationale": "Simple printer's ornament flanking the page number in the header."}
+]
+</detected-images>
+
+--- Page 23 ---
+<lang>de</lang>
+<page-num>17</page-num>
+<header>❦ ( 17 ) ❧</header>
+<sig>B</sig>
+<meta>catchword: dick</meta>
+
+sciret / und in seine Bewegung gebracht
+werden / daß es also lang circulire / auf und
+nieder steige / biß es ganz solviret / und in ein
+schön durchsichtig <term>Crystallinisches Wasser</term>
+verkehret ist. Dann unsere ganze Arbeit ist
+nichts anders als eine Verwandlung der
+Erden in ein Wasser / und stäte Kochung /
+biß die Erde in die <term>Fäulung</term> tritt. Diese
+Erde faulet mit dem Wasser / und reiniget
+sich / und wann dieses geschehen / so ist die
+ganze Kunst unserer Meisterschafft voll-
+bracht. Gleichwohl ist dieser unser <term>Stein</term>
+nur ein Vapor und Dunst / den man eine
+Lufft nennet / dieser steiget nach und nach
+von dem corporischen <term>Mercurio</term> über sich in
+die Höhe / und breitet sich in seine <term>Sphæram</term>
+aus / fället auch wieder durch den Thau in
+das untere. Dahero ihn <term>Hermes</term> eine Lufft
+benahmet / *nam generatio geniti nostri fit*
+*in aëre, & nascens sapienter in aëre nascitur.*
+Item: *Alibi ascendit à terra in cœlum ite-*
+*rumque descendit in terram, acquirendo*
+*vim superiorum & inferiorum.* Aber durch
+die stäte Kochung und unauffhörliche Wär-
+me wird er durch das stätige Auf- und Ab-
+steigen immer etwas dicker / doch gehet es
+nicht behend zu / weilen der ganze Cörper
+erst in die Höhe seines Circuls muß. Dann
+wann erst dieser periodus verlauffen / und zu
+Ende gebracht ist / so beginnet es und fähet an
+
+->B<-
+
+<vocab>Crystallinisches Wasser, Fäulung, Stein, Mercurio, Sphæram, Hermes, Tabula Smaragdina, Alchimie, Kochung</vocab>
+
+--- Page 24 ---
+<lang>German</lang>
+<page-num>18</page-num>
+<meta>catchword: chen</meta>
+
+dick und braun zu werden: und ob es auch
+schon wäre/ daß sich noch etwas Corpora-
+lisches vermercken ließ / so verzehret es sich
+doch am Ende noch / und das Corpus wird
+durch und durch ein spiritualisches Wesen.
+Ich sage derohalben/daß diese Kunst nichts
+anderster seye / dann den Stein solviren /
+und wieder coaguliren / so allein durch die
+putrefaction verrichtet werden muß. *Artifex*
+*enim nostri operis primò debet lapidem*
+*solvere, deinde coagulare, quoniam opus*
+*nostrum nihil aliud est quam facere perfe-*
+*ctam solutionem & coagulationem , & nisi*
+*quodlibet vertatur in aquam, nullatenus*
+*pervenitur ad artem. Hæc enim ambo,*
+*scilicet solutio Corporis & Coagulatio Spi-*
+*ritus, erunt in operatione una, & non fit*
+*unum sine altero. Nam solvere Corpus &*
+*coagulare spiritus est opus Naturæ, sicque*
+*dissolvitur Aurum & Argentum in rebus*
+*radicalibus sui generis, & hæc humiditas*
+*dicitur Aqua permanens.*
+
+Ob nun wol die Solution und Coa-
+gulation unterschieden seyn/ und eines dem
+andern folget / so haben jedannoch selbige
+nur eine einzige Operation, nehmlich das
+medium der Wärme vonnöthen/ daß also
+die 2. principal - Elementa Wasser und
+Erden augenscheinlich demonstriret und
+vor Augen geleget werden können/als in wel-
+
+<vocab>Stein, solviren, coaguliren, putrefaction, Artifex, opus nostrum, solutionem, coagulationem, Aqua permanens, Aurum, Argentum, Elementa</vocab>
+
+--- Page 25 ---
+<lang>de</lang>
+<page-num>19</page-num>
+<sig>B 2</sig>
+<meta>catchword: zumah</meta>
+
+chen die 2. anderen unsichtbaren / Lufft und
+Feuer / verstehe das philosophische Feuer
+verborgen stecken. So man nun gewahr
+wird / daß sie sich coaguliret / und stille ste-
+hen / also nicht mehr auffsteigen / so kan man
+gewiß versichert seyn / daß die *Vera conjun-
+ctio Philosophica* geschehen; Dann es begin-
+net nun / und fähet an sich zu dicken / und die
+*Elementa* mit der *Anima* oder Seele fügen
+den Geist mit dem spiritualischen Cörper in
+eines zusammen / und verbinden sie / daß sie
+nimmermehr zu zertrennen seyn. Dieses ist
+so dann das rechte *Oleum incombustibile*,
+in welches wann man ein subtiles Silber-
+blech stecket / das Silber alsofort in Rhei-
+nisches Gold verwandelt wird. Es ist aber
+nicht nöthig / der Zeit noch das Glaß zu öff-
+nen / weilen es mit grösserm Nutzen kan und
+mag gebrauchet werden. Dieses *Oleum* ist
+unzerstörlich / und verlieret nichts mehr
+von seinen solarischen Theilen / dann es ist
+ein rein proportionirtes *Oleum*, deme kein
+Verzug oder Schaden im Feuer mehr ge-
+schehen mag. Es ist die aufgezogene
+Feuchtigkeit des Oeligen Theils / und die
+*Tinctur* der Beständigkeit / gehöret zu der
+Seelen / welche sich langsam und schwer
+außziehen lässet / und nur allgemach ihr
+Hauß oder *Corpus* verlässet. Muß dero-
+wegen gar subtil damit verfahren werden /
+
+<vocab>philosophisches Feuer, Vera conjunctio Philosophica, Elementa, Anima, Seele, Geist, Oleum incombustibile, Rheinisches Gold, solarische Theile, Tinctur der Beständigkeit, Corpus</vocab>
+
+<detected-images>
+[{"description": "Decorative typographic fleurons flanking the page number", "type": "decorative", "bbox": {"x": 0.212, "y": 0.084, "width": 0.207, "height": 0.033}, "gallery_quality": 0.2, "museum_rationale": "Standard printer's ornaments common in Early Modern typography."}]
+</detected-images>
+
+--- Page 26 ---
+<lang>German</lang>
+<page-num>18</page-num>
+<header>❧ ( 18 ) ❧</header>
+<meta>catchword: chen</meta>
+
+dick und braun zu werden: und ob es auch
+schon wäre/ daß sich noch etwas *Corpora-*
+lisches vermercken ließ / so verzehret es sich
+doch am Ende noch / und das *Corpus* wird
+durch und durch ein spiritualisches Wesen.
+Ich sage derohalben/daß diese Kunst nichts
+anderster seye / dann den **Stein** solviren /
+und wieder coaguliren / so allein durch die
+*putrefaction* verrichtet werden muß. *Artifex*
+*enim nostri operis primò debet lapidem*
+*solvere, deinde coagulare, quoniam opus*
+*nostrum nihil aliud est quam facere perfe-*
+*ctam solutionem & coagulationem, & nisi*
+*quodlibet vertatur in aquam, nullatenus*
+*pervenitur ad artem. Haec enim ambo,*
+*scilicet solutio Corporis & Coagulatio Spi-*
+*ritus, erunt in operatione una, & non fit*
+*unum sine altero. Nam solvere Corpus &*
+*coagulare spiritus est opus Naturae, sicque*
+*dissolvitur Aurum & Argentum in rebus*
+*radicalibus sui generis, & haec humiditas*
+*dicitur Aqua permanens.*
+
+Ob nun wol die *Solution* und *Coa-*
+*gulation* unterschieden seyn/ und eines dem
+andern folget / so haben iedannoch selbige
+nur eine einzige *Operation*, nehmlich das
+*medium* der Wärme vonnöthen/ daß also
+die 2. *principal-Elementa* Wasser und
+Erden augenscheinlich demonstriret und
+vor Augen geleget werden können/als in wel-
+
+<vocab>Stein, solviren, coaguliren, putrefaction, lapidem, Aqua permanens, Solution, Coagulation, principal-Elementa, Aurum, Argentum</vocab>
+
+--- Page 27 ---
+<lang>de</lang>
+<page-num>19</page-num>
+<header>❦ ( 19 ) ❧</header>
+
+chen die 2. anderen unsichtbaren/ Lufft und Feuer/ verstehe das philosophische Feuer verborgen stecken. So man nun gewahr wird/ daß sie sich coaguliret / und stille stehen/ also nicht mehr auffsteigen/ so kan man gewiß versichert seyn/ daß die *Vera conjunctio Philosophica* geschehen; dann es beginnet nun/ und fähet an sich zu dicken/ und die *Elementa* mit der *Anima* oder Seele fügen den Geist mit dem spiritualischen *Cörper* in eines zusammen / und verbinden sie/ daß sie nimmermehr zu zertrennen seyn. Dieses ist so dann das rechte *Oleum incombustibile*, in welches wann man ein subtiles Silber-blech stecket / das Silber alsofort in Rheinisches Gold verwandelt wird. Es ist aber nicht nöthig / der Zeit noch das Glaß zu öffnen/ weilen es mit grösserm Nutzen kan und mag gebrauchet werden. Dieses *Oleum* ist unzerstörlich / und verlieret nichts mehr von seinen solarischen Theilen/ dann es ist ein rein proportionirtes *Oleum*, deme kein Verzug oder Schaden im Feuer mehr geschehen mag. Es ist die außgezogene Feuchtigkeit des Oeligen Theils / und die *Tinctur* der Beständigkeit / gehöret zu der Seelen/ welche sich langsam und schwer außziehen lasset / und nur allgemach ihr Hauß oder *Corpus* verlasset. Muß derowegen gar subtil damit verfahren werden/
+
+<sig>B 2</sig>
+<meta>catchword: zumah</meta>
+
+<vocab>Vera conjunctio Philosophica, Oleum incombustibile, Elementa, Anima, spiritualischen Cörper, Rheinisches Gold, solarischen Theilen, Tinctur, Alchemie</vocab>
+
+--- Page 28 ---
+<lang>German, Latin</lang>
+<page-num>18</page-num>
+<meta>catchword: chen; alternating Fraktur and Antiqua (italicized) scripts</meta>
+
+dick und braun zu werden: und ob es auch
+ſchon wäre/ daß ſich noch etwas *Corpora-*
+liſches vermercken ließ / ſo verzehret es ſich
+doch am Ende noch/ und das *Corpus* wird
+durch und durch ein ſpiritualiſches Weſen.
+Ich ſage derohalben/daß dieſe Kunſt nichts
+anderſter ſeye/ dann den Stein *ſolviren*/
+und wieder *coaguliren*/ ſo allein durch die
+*putrefaction* verrichtet werden muß. *Artifex*
+*enim noſtri operis primò debet lapidem*
+*ſolvere, deinde coagulare, quoniam opus*
+*noſtrum nihil aliud eſt quam facere perfe-*
+*ctam ſolutionem & coagulationem, & niſi*
+*quodlibet vertatur in aquam, nullatenus*
+*pervenitur ad artem. Hæc enim ambo,*
+*ſcilicet ſolutio Corporis & Coagulatio Spi-*
+*ritus, erunt in operatione una, & non fit*
+*unum ſine altero. Nam ſolvere Corpus &*
+*coagulare ſpiritus eſt opus Naturæ, ſicque*
+*diſſolvitur Aurum & Argentum in rebus*
+*radicalibus ſui generis, & hæc humiditas*
+*dicitur Aqua permanens.*
+
+Ob nun wol die *Solution* und *Coa-*
+*gulation* unterſchieden ſeyn/ und eines dem
+andern folget / ſo haben iedannoch ſelbige
+nur eine eintzige Operation, nehmlich das
+*medium* der Wärme vonnöthen/ daß alſo
+die 2. *principal-Elementa* Waſſer und
+Erden augenſcheinlich demonſtriret und
+vor Augen geleget werden können/ als in wel-
+
+<vocab>Corpus, ſpiritualiſches Weſen, Stein, ſolviren, coaguliren, putrefaction, Artifex, lapidem, ſolutionem, coagulationem, Aqua permanens, Solution, Coagulation, medium, principal-Elementa, Waſſer, Erden</vocab>
+
+<detected-images>
+[{"description": "Decorative printer's ornaments (fleurons) flanking the page number at the top of the folio.", "type": "decorative", "bbox": {"x": 0.58, "y": 0.09, "width": 0.17, "height": 0.05}, "gallery_quality": 0.2, "museum_rationale": "Simple typographical ornaments typical of 17th-18th century printing, used to decorate the header area."}]
+</detected-images>
+
+--- Page 29 ---
+<lang>German</lang>
+<page-num>19</page-num>
+<sig>B 2</sig>
+<meta>catchword: zumah</meta>
+
+chen die 2. anderen unsichtbaren / Lufft und
+Feuer / verstehe das <term>philosophische Feuer</term>
+verborgen stecken. So man nun gewahr
+wird / daß sie sich <term>coaguliret</term> / und stille ste-
+hen / also nicht mehr auffsteigen / so kan man
+gewiß versichert seyn / daß die <term>Vera conjun-
+ctio Philosophica</term> geschehen; dann es begin-
+net nun / und fähet an sich zu dicken / und die
+Elementa mit der <term>Anima</term> oder Seele fügen
+den Geist mit dem spiritualischen <term>Cörper</term> in
+eines zusammen / und verbinden sie / daß sie
+nimmermehr zu zertrennen seyn. Dieses ist
+so dann das rechte <term>Oleum incombustibile</term>,
+in welches wann man ein subtiles Silber-
+blech stecket / das Silber alsofort in Rhei-
+nisches Gold verwandelt wird. Es ist aber
+nicht nöthig / der Zeit nach das Glaß zu öffe-
+nen / weilen es mit grösserm Nutzen kan und
+mag gebrauchet werden. Dieses <term>Oleum</term> ist
+unzerstörlich / und verlieret nichts mehr
+von seinen solarischen Theilen / dann es ist
+ein rein proportionirtes <term>Oleum</term>, deme kein
+Verzug oder Schaden im Feuer mehr ge-
+schehen mag. Es ist die ausgezogene
+Feuchtigkeit des Oeligen Theils / und die
+<term>Tinctur</term> der Beständigkeit / gehöret zu der
+Seelen / welche sich langsam und schwer
+ausziehen lässet / und nur allgemach ihr
+Hauß oder <term>Corpus</term> verlässet. Muß dero-
+wegen gar subtil damit verfahren werden /
+
+<vocab>Vera conjunctio Philosophica, Oleum incombustibile, Anima, Corpus, Alchemie, Transmutation, Tinctur, coaguliret</vocab>
+
+<detected-images>
+[{"description": "Small decorative printer's ornaments (fleurons) flanking the page number", "type": "decorative", "bbox": {"x": 222, "y": 89, "width": 208, "height": 33}, "gallery_quality": 0.3, "museum_rationale": "Standard typographic ornaments used in 17th-18th century printing to frame page numbers."}]
+</detected-images>
+
+--- Page 30 ---
+<lang>de, la</lang>
+<page-num>20</page-num>
+<meta>catchword: que,</meta>
+
+zumahlen auch das Corpus Solis gar einer gemässigten temperirten Complexion ist / so ohne Mühe und wahre media nicht leichtlich kan zerstöret werden. Wann du nun ein citrin-braun Oel im Glaß siehest / so wisse / daß sich seine eigene feurige Natur / das ist / sein Schwefel wieder hervor thue / welche damahls / da es zu einem Mercurio geworden / occultiret und verborgen war / sicque occultum manifestatur, & viceversa, und kommt wieder herfür / was das exterius auri gewesen / nehmlich Mercurius noster, quia exteriora argenti vivi Philosophorum & interiora argenti sunt exteriora auri, (Das ist / das äussere unsers Philosophischen Mercurii, und das Innere unsers Silbers / sind das äussere des Golds.) Wann du nun diß recht verstehest / so verstehest du eine grosse Heimlichkeit. Nam in occulto nostri Lapidis est caliditas & siccitas, & in manifesto frigiditas & humiditas. Quare oportet ( ut dicit Turba ) manifestum occultare & occultum manifestare, eo quod caliditas quæ est in occulto, est Elementum & Oleum. Siccum enim figit siccum, quia siccitas ignis tingit ; & quod est in manifesto, est humiditas & frigiditas, inter ista oportet habere proportionem, ut humiditas & frigiditas cum temperato caliditati & siccitati, ita ut non fugiant ab igne. Fac itaque,
+
+<vocab>Corpus Solis, Schwefel, Mercurius noster, Philosophischen Mercurii, Lapis Philosophorum, Turba Philosophorum, caliditas, siccitas, frigiditas, humiditas, alchymiæ</vocab>
+
+--- Page 31 ---
+<lang>German</lang>
+<page-num>21</page-num>
+<header>❧ ( 21 ) ❧</header>
+
+que, ut humiditas & frigiditas recipiat cali-
+ditatem, & siccitatem, quæ erat in occulto,
+ut fiant substantia una, nam frigiditas &
+humiditas est fumus aquosus & adustivus,
+qui corrumpit & parit nigritudinem, &
+ille <term>Lapis</term> est alterius virtutis & naturæ in
+occulto, & alterius in manifesto, sed integra
+commixtio, ejusdemque virtutis & naturæ;
+(Das ist/ das innerste unsers <term>Steins</term> ist heiß
+und trocken/ und das äussere Kalt und feucht.)
+Wannenhero man (nach Anleitung der
+<term>Turba</term>) das äussere hinein wenden/ und
+das innere dagegen herauß zu kehren sich
+bestreben solle. Dann das innere verborge-
+ne ist ein Feuer/ und ein <term>Element</term>/ das Oel.
+Das Trockne bindet das Trockne/ dann die
+Trockenheit des Feuers tingiret. Das sicht-
+bare ist die Feuchtigkeit und Kält/ muß also
+unter ihnen ein solches <term>Temperament</term> erwe-
+cket werden/ daß das Feuchte und Kalte mit
+dem Heiß- und Trocknen einstimmen/ und sel-
+bige weiters nicht vom Feuer fliehen. Ver-
+schaffe also/ daß das Kalte und Feuchte die
+Natur des Warmen und Trocknen / wel-
+ches verborgen war/ an sich nehme/ und mit
+ihme sich in eins vereinige. Dann die Kälte
+und Feuchtigkeit ist ein wässeriger Rauch
+und Brand/ das da zerstöret/ und die Fäu-
+lung causiret; Der <term>Stein</term> aber hat eine an-
+dere Natur und Tugend in seinem innern/
+
+<sig>B 3</sig>
+<meta>catchword: und</meta>
+
+<vocab>Lapis, Stein, Turba Philosophorum, Element, Temperament, Alchemy, humiditas, frigiditas, caliditas, siccitas</vocab>
+
+--- Page 32 ---
+<lang>ger</lang>
+<page-num>( 20 )</page-num>
+<meta>catchword: que,</meta>
+<vocab>Corpus Solis, Schwefel, Mercurius noster, Turba Philosophorum, Lapidis, caliditas, siccitas, frigiditas, humiditas, alchymy</vocab>
+
+zumahlen auch das *Corpus Solis* gar einer
+gemässigten temperirten Complexion ist /
+so ohne Mühe und wahre *media* nicht
+leichtlich kan zerstöret werden. Wann du
+<margin>|</margin> nun ein citrin-braun Oel im Glaß siehest /
+so wisse / daß sich seine eigene feurige Natur /
+das ist / sein Schwefel wieder hervor thue /
+welche damahls / da es zu einem *Mercurio*
+geworden / *occultiret* und verborgen war /
+*sicque occultum manifestatur, & viceversa,*
+und kommt wieder herfür / was das *exteri-*
+*us auri* gewesen / nehmlich *Mercurius no-*
+*ster, quia exteriora argenti vivi Philoſopho-*
+*rum & interiora argenti ſunt exteriora auri,*
+( das ist / das äussere unsers Philosophischen
+*Mercurii*, und das innere unsers Silbers /
+sind das äussere des Golds. ) Wann du
+nun diß recht verstehest / so verstehest du eine
+grosse Heimlichkeit. *Nam in occulto no-*
+*ſtri Lapidis eſt caliditas & ſiccitas, & in ma-*
+*nifeſto frigiditas & humiditas. Quare opor-*
+*tet ( ut dicit Turba ) manifeſtum occultare*
+*& occultum manifeſtare , eo quod calidi-*
+*tas quæ eſt in occulto, eſt Elementum &*
+*Oleum. Siccum enim figit ſiccum , quia*
+*ſiccitas ignis tingit ; & quod eſt in manife-*
+*ſto, eſt humiditas & frigiditas, inter iſta*
+*oportet habere proportionem, ut humiditas*
+*& frigiditas cum temperato caliditati & ſic-*
+*citati , ita ut non fugiant ab igne. Fac ita-*
+
+--- Page 33 ---
+<lang>German</lang>
+<page-num>21</page-num>
+<header>❧ ( 21 ) ❧</header>
+
+que, ut humiditas & frigiditas recipiat cali-
+ditatem, & siccitatem, quæ erat in occulto,
+ut fiant substantia una, nam frigiditas &
+humiditas est fumus aquosus & adustivus,
+qui corrumpit & parit nigritudinem, &
+ille Lapis est alterius virtutis & naturæ in
+occulto, & alterius in manifesto, sed integra
+commixtio, ejusdemque virtutis & naturæ;
+
+(Das ist/ das innerste unsers Steins ist heiß
+und trocken/ und das äussere Kalt und feucht.)
+Wannenhero man (nach Anleitung der
+Turba) das äussere hinein wenden/ und
+das innere dagegen herauß zu kehren sich
+bestreben solle. Dann das innere verborge-
+ne ist ein Feuer/ und ein Element/ das Oel.
+Das Trockne bindet das Trockne/ dann die
+Trockenheit des Feuers tingiret. Das sicht-
+bare ist die Feuchtigkeit und Kalt/ muß also
+unter ihnen ein solches Temperament erwe-
+cket werden/ daß das Feuchte und Kalte mit
+dem Heiß- und Trocknen einstimmen/ und sel-
+bige weiters nicht vom Feuer fliehen. Ver-
+schaffe also/ daß das Kalte und Feuchte die
+Natur des Warmen und Trocknen / wel-
+ches verborgen war/ an sich nehme/ und mit
+ihme sich in eins vereinige. Dann die Kälte
+und Feuchtigkeit ist ein wässeriger Rauch
+und Brand/ das da zerstöret/ und die Fäu-
+lung causiret; Der Stein aber hat eine an-
+dere Natur und Tugend in seinem innern/
+
+<sig>B 3</sig>
+<meta>catchword: und</meta>
+<vocab>humiditas, frigiditas, nigritudo, Lapis, Turba Philosophorum, Oel, Temperament, Fäulung, Stein</vocab>
+
+<detected-images>
+[{"description": "Decorative printer's ornaments (fleurons) in the header surrounding the page number.", "type": "decorative", "bbox": {"x": 0.281, "y": 0.096, "width": 0.185, "height": 0.032}, "gallery_quality": 0.3, "museum_rationale": "Standard typographic ornaments used in 17th-18th century printing to frame headers and provide visual balance."}]
+</detected-images>
+
+--- Page 34 ---
+<lang>de</lang>
+<page-num>20</page-num>
+<header>❦ ( 20 ) ❦</header>
+<meta>catchword: que,</meta>
+
+zumahlen auch das *Corpus Solis* gar einer gemäßigten temperirten *Complexion* ist / so ohne Mühe und wahre *media* nicht leichtlich kan zerstöret werden. Wann du nun ein citrin-braun Oel im Glaß siehest / so wisse / daß sich seine eigene feurige Natur / das ist / sein <term>Schwefel</term> wieder hervor thue / welche damahls / da es zu einem <term>Mercurio</term> geworden / *occultiret* und verborgen war / *sicque occultum manifestatur, & viceversa,* und kommt wieder herfür / was das *exterius auri* gewesen / nehmlich *Mercurius noster, quia exteriora argenti vivi Philosophorum & interiora argenti sunt exteriora auri,* ( das ist / das äussere unsers Philosophischen *Mercurii*, und das Innere unsers Silbers / sind das äussere des Golds. ) Wann du nun diß recht verstehest / so verstehest du eine grosse Heimlichkeit. *Nam in occulto nostri <term>Lapidis</term> est caliditas & siccitas, & in manifesto frigiditas & humiditas. Quare oportet ( ut dicit <term>Turba</term> ) manifestum occultare & occultum manifestare , eo quod caliditas quae est in occulto, est Elementum & Oleum. Siccum enim figit siccum , quia siccitas ignis tingit ; & quod est in manifesto, est humiditas & frigiditas, inter ista oportet habere proportionem, ut humiditas & frigiditas cum temperato caliditati & siccitati , ita ut non fugiant ab igne. Fac ita-*
+
+<vocab>Corpus Solis, Complexion, media, Schwefel, Mercurio, Mercurius noster, argenti vivi, Philosophorum, Lapidis, caliditas, siccitas, frigiditas, humiditas, Turba, Elementum, Oleum</vocab>
+
+--- Page 35 ---
+<lang>German, Latin</lang>
+<page-num>21</page-num>
+<meta>catchword: und</meta>
+<sig>B 3</sig>
+
+que, ut humiditas & frigiditas recipiat cali-
+ditatem, & siccitatem, quæ erat in occulto,
+ut fiant substantia una, nam frigiditas &
+humiditas est fumus aquosus & adustivus,
+qui corrumpit & parit nigritudinem, &
+ille <term>Lapis</term> est alterius virtutis & naturæ in
+occulto, & alterius in manifesto, sed integra
+commixtio, ejusdemque virtutis & naturæ;
+(Das ist/ das innerste unsers Steins ist heiß
+und trocken/und das äussere Kalt und feucht.)
+Wannenhero man (nach Anleitung der
+<term>Turba</term>) das äussere hinein wenden/ und
+das innere dagegen herauß zu kehren sich
+bestreben solle. Dann das innere verborge-
+ne ist ein Feuer/ und ein <term>Element</term>/ das <term>Oel</term>.
+Das Trockne bindet das Trockne/ dann die
+Trockenheit des Feuers <term>tingiret</term>. Das sicht-
+bare ist die Feuchtigkeit und Kält/ muß also
+unter ihnen ein solches <term>Temperament</term> erwe-
+cket werden/ daß das Feuchte und Kalte mit
+dem Heiß- und Trocknen einstimmen/ und sel-
+bige weiters nicht vom Feuer fliehen. Ver-
+schaffe also/ daß das Kalte und Feuchte die
+Natur des Warmen und Trocknen / wel-
+ches verborgen war/ an sich nehme/ und mit
+ihme sich in eins vereinige. Dann die Kälte
+und Feuchtigkeit ist ein wässeriger Rauch
+und Brand/ das da zerstöret/ und die Fäu-
+lung causiret; Der Stein aber hat eine an-
+dere Natur und Tugend in seinem innern/
+
+<vocab>Lapis, Turba, Element, Oel, Temperament, tingiret, nigritudinem, Fäulung, alchemy</vocab>
+
+--- Page 36 ---
+<lang>de</lang>
+<page-num>22</page-num>
+<meta>catchword: Seye</meta>
+
+und eine andere in ſeinem äuſſern Weſen /
+doch eine vollkommene Vermiſchung von
+eben ſolcher Natur und Eygenſchafft. Wie
+wohlen viel von dieſer Materi zu ſchreiben
+wäre / ſo muß gleichwohl um Kürze wegen
+anjezo abbrechen / und allein die <term>Praxin</term> zei-
+gen. Derowegen befleiſſige dich ſtätigſt
+einen gebührenden gleichen Grad eines va-
+poriſchen Feuers zu halten / und von 5. Tä-
+gen zu 5. Tagen jederzeit daſſelbe zu erneu-
+ern. Durch dieſes erlangeſt du das Citrin-
+braune Oel / ſo denen Granatſchalen nicht
+ungleich ſcheinet / und zuletzt oben ein Häut-
+gen gewinnet / dieſes fället zu Boden / doch
+entſtehet bald ein anders / ſo auch wieder zu
+Boden ſich ſetzet / gleich einem gelben leicht-
+und ſubtilen Sand / und dieſes agiret fort
+und fort / biß alles zu einem Pulver gewor-
+den. Laß mit dem regiment des Feuers
+ja nicht nach / ſondern procedire alſo lang /
+biß das Pulver grau / und nach und nach
+je länger je mehr ſchwarz werde / und das
+<margin>Caput Corvi.</margin> <term>Rabenhaupt</term> vollkommen da ſeye. Die
+Turba lehret : 
+> Sic ſoluta ſunt corpora per putrefactionem, & efficitur terra nigra, & cum videbis materiam denigratam, gaude, quia principium eſt operis tui; eſt enim nigrum albi & caput Corvi, qui nigredine noctis & diei claritate ſine alis volat. Haec eſt terra tenebroſa, de qua Philoſophi locuti.
+
+<vocab>Praxin, vaporiſchen Feuers, Citrin-braune Oel, Granatſchalen, Rabenhaupt, Caput Corvi, Turba, putrefactionem, terra nigra, terra tenebroſa, nigredo</vocab>
+
+--- Page 37 ---
+<lang>de</lang>
+<page-num>23</page-num>
+<header>❦ ( 23 ) ❦</header>
+
+Seye also beständig in deiner Arbeit/ trage
+Gedult/ und halte unermüdet mit Kochen
+an/ biß du endlichen die Tinctur über dem
+Wasser in schwarzer Farbe erlangest. So
+balden die Schwärtze auß dem Wasser
+hervor bricht/ so seye vergewissert / daß das
+ganze Corpus zerstöret / und flüssig seye/
+und daß nun das Feuer durch die Schwär-
+tze seine Flügel verbrenne / er werden ver-
+schiedene Farben auffsteigen / dann es wird
+sich eine Farb in die andere werffen / biß
+endlich die höchste Weisse wieder hervor
+tritt/ und sich sehen lasset. Diese Weißma-
+chung ist der Anfang unserer Meisterschafft/
+und das wahre Fundament des Cörpers/
+die einige fermentation, daß sichs nicht in
+eine andere Farbe begeben kan/ ohne allein
+in die höchste Röthe/ welches sein äusserstes
+Ziel ist. So nun diese Farbe eingetretten/
+so ist die gröste Mühe geendiget / und hat
+man ferner nichts mehr nöthig/ als daß
+man es in seiner beständigen Wärme erhal-
+te/ biß es endlichen wieder zur höchsten
+Weisse gekommen / da dann das höchste
+<margin>Terra foliata, seu Luna Philosophica.</margin>
+Elixir der Weisen bereitet ist/ welches alle
+unvollkommene Cörper in das feinest = und
+beständigste Silber/ so alles andere gewach-
+sene Silber an Gütigkeit weit übertriff/
+transmutiret und verwandlet. Dealbate igi-
+tur Latonam & rumpite libros, ne rum-
+
+<sig>B 4</sig>
+<meta>catchword: pantur</meta>
+
+<vocab>alchemy, nigredo, albedo, rubedo, transmutation, Elixir der Weisen, Terra foliata, Luna Philosophica</vocab>
+
+--- Page 38 ---
+<lang>de</lang>
+<page-num>24</page-num>
+<header>❦ ( 24 ) ❦</header>
+
+<margin>
+Luna
+fixa.
+</margin>
+pantur corda veſtra, quia ars noſtra levis eſt & levi indiget ſubſidio, (Das iſt / bringet nur die Latonam in die höchſte Weiſſe / und zerreiſſet alle Bücher dabey / damit eure Gemüther nicht irrig gemacht oder zerriſ- ſen werden / dann die Kunſt iſt ſchlecht / und brauchet eine geringe Hülffe. Dieſes trans- mutirte Silber hat nach ſeinem pondere das wahre pondus Auri, und beſtehet in allen ſeinen Proben als ein feines Gold / da- hero es die Philoſophi eine Lunam fixam be- nahmet. Dieweilen nun die Kunſt an ſich leicht ſeyn / und einer ſchlechten Hülffe be- dürffen ſolle / ſo wollen wir gar durchſuchen / worinnen ſolche Arbeit ſtecken möge. Dann ob dieſe weiſſe Medicin ſchon verfertiget worden / ſo mag ſie doch noch nicht alſo bloſſer Dings zu einer Metalliſchen trans- mutation gebraucht werden / es wäre dann / daß ſie vorhero durch ein bequemes Mittel darzu bereitet würde / daß ſie in die Cörper eintringen könne. Und ob ſchon alle über- flüſſige Feuchtigkeit / und das unreine We- ſen gänzlich von ihr genommen iſt / daß ſie nunmehr vollkommen clarificirt prangen kan / und vor allen andern Metallen den Vorzug behält / ſo vermiſchet ſie ſich ohne Bereitung deß Arcani doch mit keinem. Dann wäre es auch unräthlich / dieſe Tinctur ad album zu verbrauchen / da ſie doch
+
+<meta>catchword: doch</meta>
+
+<vocab>Latona, pondus Auri, Luna fixa, Philosophi, Medicin, transmutation, Arcani, Tinctur ad album</vocab>
+
+<detected-images>
+[{"description": "Typographic ornaments (fleurons) flanking the page number in the header.", "type": "decorative", "bbox": {"x": 0.519, "y": 0.088, "width": 0.224, "height": 0.033}, "gallery_quality": 0.2, "museum_rationale": "Common early modern printer's ornaments used for page decoration."}]
+</detected-images>
+
+--- Page 39 ---
+<lang>de</lang>
+<page-num>25</page-num>
+<sig>B 5</sig>
+<meta>catchword: In</meta>
+
+->( 25 )<-
+
+doch gar leichtlich in die Röthe verſetzet/ und
+zu einer <term>Tinctur ad rubrum</term> gebracht werden
+mag. Dann die weiſſe und rothe <term>Tinctur</term>
+entſpringen aus einer Wurzel / wie der
+weiſſe Meiſter <term>Arnoldus</term> ſpricht. Hierzu
+aber hat man weiters keinen beſondern
+Weg vonnöthen / ohne daß man allein die
+Zeit anwende/ und mit ſtätem Kochen fort-
+fahre. Das Feuer kan nun nichts verderben/
+*nam in illa albedine rubor eſt occultus.*
+Man hält einig und allein mit dem trocke-
+nen Feuer/ und der trockenen <term>Calcination</term>
+an/ biß es roth wie ein <term>Zinnober</term> wird/ und
+ſetzet ihm weiters keine Wäſſrigkeit / noch
+ſonſten etwas frembdes mehr bey. Und ſo
+es durch die Länge der Zeit immerhin in die-
+ſem trockenen Feuer gekochet wird/ wird
+es endlich in die höchſte Röthe tretten / fix
+und Feuer = beſtändig werden / daß man
+es zum rothen gebrauchen kan. Doch gehet
+vor dieſer Röthe erſt die <term>Citrin-gelbe Farb</term>
+her. Die <term>Turba</term> ſetzet folgendes in Verſen: <margin>citrinus.</margin>
+
+> Ut non candeſcat roſa, ſed luce luceſcat.
+> Totum ferveſcat, inſit & fervorem quie-
+> ſcat,
+> Donec ſplendorem tribuat, tollatque
+> nidorem,
+> Candida candorem generat, rubicunda
+> ruborem.
+
+<vocab>Tinctur, Arnoldus, Calcination, Zinnober, Turba, Citrin-gelbe Farb, albedine, rubor</vocab>
+
+<detected-images>
+[{"description": "Decorative printer's ornaments (fleurons) flanking the page number.", "type": "decorative", "bbox": {"x": 0.31, "y": 0.08, "width": 0.35, "height": 0.03}, "gallery_quality": 0.3, "museum_rationale": "Standard typographic ornaments typical of 17th-18th century printing, used here for page numbering decoration."}]
+</detected-images>
+
+--- Page 40 ---
+<lang>de</lang>
+<page-num>24</page-num>
+<header>❧ ( 24 ) ❧</header>
+<meta>catchword: doch</meta>
+
+pantur corda vestra, quia ars nostra levis est
+& levi indiget subsidio, ( Das ist/ bringet
+nur die <term>Latonam</term> in die höchste Weisse/ und
+zerreisset alle Bücher dabey / damit eure
+Gemüther nicht irrig gemacht oder zerris-
+sen werden/ dann die Kunst ist schlecht/ und
+brauchet eine geringe Hülffe. Dieses trans-
+mutirte Silber hat nach seinem <term>pondere</term>
+das wahre <term>pondus Auri</term>, und bestehet in
+allen seinen Proben als ein feines Gold/da-
+<margin>Luna fixa.</margin>
+hero es die <term>Philosophi</term> eine <term>Lunam fixam</term> be-
+nahmet. Dieweilen nun die Kunst an sich
+leicht seyn/ und einer schlechten Hülffe be-
+dürffen solle/ so wollen wir gar durchsuchen/
+worinnen solche Arbeit stecken möge. Dann
+ob diese weisse <term>Medicin</term> schon verfertiget
+worden / so mag sie doch noch nicht also
+blösser Dings zu einer Metallischen <term>trans-
+mutation</term> gebraucht werden / es wäre dann/
+daß sie vorhero durch ein bequemes Mittel
+darzu bereitet würde/ daß sie in die Cörper
+eindringen könne. Und ob schon alle über-
+flüssige Feuchtigkeit/ und das unreine We-
+sen gänglich von ihr genommen ist/ daß sie
+nunmehr vollkommen clarificirt prangen
+kan/ und vor allen andern Metallen den
+Vorzug behält/ so vermischet sie sich ohne
+Bereitung deß <term>Arcani</term> doch mit keinem.
+Dann wäre es auch ohnräthlich / diese
+<term>Tinctur ad album</term> zu verbrauchen/ da sie
+
+<vocab>Latona, pondus Auri, Gold, Luna fixa, Metallische Transmutation, Medicin, Arcanum, Tinctur ad album, Alchemy</vocab>
+
+--- Page 41 ---
+<lang>German</lang>
+<page-num>25</page-num>
+<header>❧ ( 25 ) ❧</header>
+
+doch gar leichtlich in die Röthe verſetzet / und zu einer <term>Tinctur ad rubrum</term> gebracht werden mag. Dann die weiſſe und rothe <term>Tinctur</term> entſpringen aus einer Wurzel / wie der weiſſe Meiſter **Arnoldus** ſpricht. Hierzu aber hat man weiters keinen beſondern Weg vonnöthen / ohne daß man allein die Zeit anwende / und mit ſtätem Kochen fortfahre. Das Feuer kan nun nichts verderben / *nam in illa albedine rubor eſt occultus*. Man hält einig und allein mit dem trockenen Feuer / und der trockenen <term>Calcination</term> an / biß es roth wie ein <term>Zinnober</term> wird / und ſetzet ihm weiters keine Wäſſrigkeit / noch ſonſten etwas frembdes mehr bey. Und ſo es durch die Länge der Zeit immerhin in dieſem trockenen Feuer gekochet wird / wird es endlich in die höchſte Röthe tretten / fix und Feuer-beſtändig werden / daß man es zum rothen gebrauchen kan. Doch gehet vor dieſer Röthe erſt die Citrin-gelbe Farb her.
+
+<margin>Color citrinus.</margin>
+Die **Turba** ſetzet folgendes in Verſen:
+
+> Ut non candeſcat roſa, ſed luce luceſcat.
+> Totum ferveſcat, inſit & fervorem quie-
+> &nbsp;&nbsp;&nbsp;&nbsp;ſcat,
+> Donec ſplendorem tribuat, tollatque
+> &nbsp;&nbsp;&nbsp;&nbsp;nidorem,
+> Candida candorem generat, rubicunda
+> &nbsp;&nbsp;&nbsp;&nbsp;ruborem.
+
+<sig>B 5</sig>
+<meta>catchword: In</meta>
+
+<vocab>Tinctur ad rubrum, Arnoldus, Calcination, Zinnober, Turba, Color citrinus, albedo, rubor</vocab>
+
+--- Page 42 ---
+<lang>de</lang>
+<page-num>26</page-num>
+<meta>catchword: wie</meta>
+
+In der Röthe muß es wenigstens einen Monath stehen / biß es auf die allerhöchste Rubin-Farb gebracht ist; alsdann wirst du dich der Röthe verwundern / und der glücklichen Endschafft deines Wercks um so mehr vergewissern können. So bald du es aber auß dem Glase genommen hast / so versuche es auf einem glüenden Silber-blech / flieset es ohne Rauch / so ist die Tin-ctur bereitet / und du hast einen solchen Schatz / für welchen du GOtt dem HErrn nicht gnugsam dancken magst. Dieses ist <margin>Tinctura.</margin> die gebenedeyete Tincktur, und der Schatz über alle irrdische Schätze / welcher die Menschlich- und Metallischen Cörper von ihren sordibus (Unrath) reiniget / neu ge-bieret / und vollkommen machet. Dieser Kö-nig stehet nun in seinem Schmuck mit einer Dreyfachen Crone gezieret. Er glänzet als ein Gold / leuchtet wie ein Carfunckel / und fliesset wie ein Wax / ihn kan kein Feuer beleidigen / dann er ist in demselben durchtringend / behält sein lebendig Queck-silber / und bestehet in dem Fluß unver-ändert.
+
+So du nun gedenckest damit die Metal-len zu tingiren / so gebe ihm vor allein einen ingreß, und procedire damit also:
+
+<margin>Fermen- tatio.</margin> Nimm der roth bereiteten Medicin, 1. Theil / setze ihm 1000. Theile Calcis Solis,
+
+<vocab>Rubin-Farb, Tincktur, Unrath, Carfunckel, Quecksilber, tingiren, ingreß, Fermentatio, Medicin, Calcis Solis</vocab>
+
+<detected-images>
+[{"description": "Typographic fleurons flanking the page number at the top of the folio.", "type": "decorative", "bbox": {"x": 0.548, "y": 0.084, "width": 0.237, "height": 0.04}, "gallery_quality": 0.2, "museum_rationale": "Standard printer's ornaments (fleurons) used for page layout decoration in early modern printing."}]
+</detected-images>
+
+--- Page 43 ---
+<lang>German</lang>
+<page-num>27</page-num>
+<meta>catchword: wird/</meta>
+
+->❧ ( 27 ) ❧<-
+
+wie es von dem Spagyrico bereitet worden/
+zu ſeinem ferment zu/ und treibe es zuſam=
+men auf einem glatten Marmor/ Agat oder
+Porphyr-Stein/ thue ſo dann ſolches alles
+in einen wol-verlutirten Tiegel / und ſtelle
+es in einen Wind-Ofen / der nicht allzu=
+groß ſeye / gib ihm gemächlich Feuer/ biß
+ſich alles vereiniget hat / ſo iſt die Tinctur
+ad Metalla fertig und bereitet/ Doch muß
+die rechte Zeit dabey in Acht genommen
+und obſervirt werden/ damit man das me=
+dium einzugehen nicht überſehen möge.
+Dann wann ſchon die Medicin zu ihrer
+vollkommenen Reiffe gebracht iſt/ ſo hat ſie
+gleichwol ohne ſolches Mittel nimmermehr
+keinen ingreſs (Eingang) weder ein perfect
+noch imperfectes Corpus zu verwandlen.
+Dieſe bleibet nur auf den geſchmolzenen
+Metallen wie ein Oel auf dem Waſſer ſte=
+hend/ und gehet nach und nach davon/ wo
+ihnen nicht ein ingreſs beygebracht und ge=
+geben würde / erwogen um eines penetri=
+renden Geiſtes wegen / es alle Vaſa durch=
+tringet/ und davon fliehet. So fern aber der
+Handgriff wol und recht obſervirt wird/ ſo
+verwandlet ſich dieſer unſer Philoſophiſcher
+Stein in ſeiner fermentation zu einer brü=
+chig und Glaſſformigen Maſſa, welche wann
+ein Theil davon auf 1000. Theile ander
+unvollkommen Metall im Fluß getragen
+wird/
+
+<vocab>Spagyrico, ferment, Marmor, Agat, Porphyr-Stein, Tiegel, Wind-Ofen, Tinctur ad Metalla, ingress, Philosophischer Stein, fermentation, Massa</vocab>
+
+<detected-images>
+[{"description": "Decorative printer's ornaments (fleurons) flanking the page number", "type": "decorative", "bbox": {"x": 0.28, "y": 0.088, "width": 0.435, "height": 0.038}, "gallery_quality": 0.3, "museum_rationale": "Simple typographic ornaments used to frame the page number, common in early modern printing but not of high artistic value."}]
+</detected-images>
+
+--- Page 44 ---
+<lang>de</lang>
+<page-num>❧ ( 28 ) ❦</page-num>
+
+wird / das allerbeständigst- und beste Gold
+giebet. Solte aber solches transmutirte Gold
+brüchig fallen / so muß man ihme noch etwas
+mehrers vom Metall zusetzen / biß die voll-
+kommene Geschmeidigkeit sich gefunden.
+Dannenhero / wann die hinein geworffene
+<term>Medicin</term> mit einem Metall im Tiegel ge-
+flossen / und eine halbe Stund mit ihme ge-
+spielet hat / so fahre mit einem eisernen
+Drat hinein / und was daran behangen ge-
+blieben / das schlage auf einem reinen Am-
+boß dünn / wann es nun noch ungeschmei-
+dig gefunden werden solte / so trage mehrers
+Metall darein / biß es vollkommen geschmei-
+dig worden. Doch ist auch dabey eine
+mensur in dem Schmelzen zu halten ; dann in
+solchem oben mehr dann unten Feuer requi-
+rirt wird / welches denen <term>Philosophis</term> be-
+kannt.
+
+Hiemit hat der günstige Leser ohne einzi-
+ge Dunckelheit die gantze <term>Spagyrische Kunst</term>
+eröffnet / wofür er seinem Schöpffer dan-
+cken / und seinem nothdürfftigen Nächsten
+mit Christlicher Liebe begegnen / und in sei-
+nen Nöthen beyspringen wolle / damit er
+nicht den Fluch und die Ewige Verdammn-
+nuß sich auf den Halß bürde.
+
+GOtt der Allmächtige aber gebe allen
+Söhnen der Kunst seinen Segen darzu.
+
+<meta>catchword: MULTI-</meta>
+
+<vocab>Gold, transmutirte Gold, Medicin, Tiegel, Amboß, mensur, Philosophis, Spagyrische Kunst, Schöpffer, Alchemie</vocab>
+
+--- Page 45 ---
+<lang>de</lang>
+<page-num>29</page-num>
+<header>( 29 )</header>
+<meta>catchword: sich; decorative initial D; fleurons around page number; text contains Early Modern High German with Latin alchemical terminology</meta>
+
+# MULTIPLICATIO
+## PHILOSOPHICA.
+
+**D**emnach wenig unter denen Philo-
+sophis gewesen / die die Multipli-
+cation gemeldet / so habe mir
+auch vorgenommen / so viel die
+Kürtze leiden wollen / hiervon einige Mel-
+dung zu thun. Zwar ist anfänglich kein
+Gewicht in unserem Opere vonnöthen /
+gleichwol aber will das Ende von uns um
+des <term>ingreß</term> oder <term>fermenti</term> wegen solches
+fordern. Belangend nun das Gewicht zur
+Philosophischen Multiplication, so nimm
+deiner unbereiteten <term>Medicin</term>, (Dann <term>absque
+fermento</term> ist es noch keine <term>Tinctur ad Metal-
+la</term>, sondern eine blosse <term>Medicin</term>) 1. Theil / die
+noch keinen <term>ingreß</term> empfangen / und 10. Theil
+des <term>Mercurii Solis</term>, der aber durch das <term>Arca-
+num Philosophorum</term> sublimirt und gereini-
+get ist / als wie am Anfang schon gelehret
+worden. Schließ das Glaß mit dem <term>Sigillo
+Hermetis</term> zu / und bringe es in sein hölzern Ge-
+schirr oder Büchse / procedire in allem wie
+am Anfang dieses Processes gelehret wor-
+den. Nach 5. Tagen sehet darnach / so wird es
+sich anfahen zu resolviren / dieses endiget
+sich
+
+<vocab>Multiplicatio Philosophica, Opere, ingreß, fermenti, Medicin, Tinctur ad Metalla, Mercurii Solis, Arcanum Philosophorum, Sigillo Hermetis</vocab>
+
+<detected-images>
+[
+  {"description": "Typographic fleurons flanking the page number at the top of the page.", "type": "decorative", "bbox": {"x": 0.191, "y": 0.089, "width": 0.246, "height": 0.038}, "gallery_quality": 0.3, "museum_rationale": "Standard decorative printer's marks used for framing page numbering."},
+  {"description": "Ornate woodcut decorative initial letter 'D' featuring foliate and scroll motifs.", "type": "decorative", "bbox": {"x": 0.046, "y": 0.237, "width": 0.106, "height": 0.085}, "gallery_quality": 0.6, "museum_rationale": "A characteristic example of Early Modern decorative typography, providing aesthetic transition into the main text body."}
+]
+</detected-images>
+
+--- Page 46 ---
+<lang>German</lang>
+<page-num>30</page-num>
+<header>( 30 )</header>
+<meta>catchword: gen.</meta>
+
+<margin>
+Solutio.
+
+Oleum incombustibile.
+</margin>
+ſich in 40. Tägen / und fänget ſo dann an dick= und bräunlichter zu werden / hierauff erfolget endlich das Oleum incombustibile, wovon in allem ſchon gemeldet worden.
+
+<margin>Caput Corvi.</margin>
+Nach dieſen 40. Tagen verwandelt ſich das Oleum zu einem gelben Sand / und wird zu einer Aſchenfarben Erde / und endlich ſchwartz ſo alles in 40. Tagen auch vollendet wird.
+
+<margin>Cauda Pavonis.</margin>
+Folgends darauf fähet die Veränderung der Farben an / welches einem Pfauenſchwantz verglichen wird / ſo auch 40. Tage dauren möchte.
+
+<margin>Terra foliata seu Regina.</margin>
+Hierauf tritt die Weiſſe ein / ſo der Weiſſen Elixir, <term>Terra foliata</term> (geblätterte Erden) Luna ; &c. welche die unvollkommene Metallen in ein rein beſtändig Silber transmutiren kan / genennet wird.
+
+<margin>Rex rubens.</margin>
+Nach ſolchem reinen und klaren Elixir fangen die Farben unter einer Citron-Gelbe und Röthe hervor zu brechen / biß endlichen der König in ſeinem vollkommenen Purpur hervor tritt / und ſich ſehen läſſet / dieſer iſt ſo hoch gläntzend / daß er auch des Nachts ſtrahlet / und einen Glantz von ſich ſchieſſet / wie die <term>Philoſophi</term> ſagen: 
+> Quod hic generatus ſit Rex, triplici diademate coronatus, fulgens ut ſol, lucens clarius Carbunculo, fluens ut Cera, perseverans in igne, penetrans & retinens argentum vivum, ipſumque in fluxum Leonem convertens.
+
+Dieſe vollenden auch den Lauff in 40. Tagen.
+
+<vocab>Solutio, Oleum incombustibile, Caput Corvi, Cauda Pavonis, Terra foliata, Regina, Rex rubens, Alchymia, transmutiren, Philosophi, Elixir</vocab>
+
+<detected-images>
+[
+  {"description": "Typographic ornaments (fleureons) flanking the page number, resembling stylized foliage or eagles.", "type": "decorative", "bbox": {"x": 0.584, "y": 0.088, "width": 0.222, "height": 0.039}, "gallery_quality": 0.3, "museum_rationale": "Standard printer's ornaments common in 18th-century German printing."},
+  {"description": "Faint, possibly later pencil sketch or doodle in the lower margin.", "type": "decorative", "bbox": {"x": 0.395, "y": 0.793, "width": 0.129, "height": 0.071}, "gallery_quality": 0.2, "museum_rationale": "A non-original addition or faint marginalia, potentially interesting for provenance research but visually low quality."}
+]
+</detected-images>
+
+--- Page 47 ---
+<lang>de</lang>
+<page-num>31</page-num>
+<meta>catchword: let</meta>
+
+gen. Wilt du nun ferner ihme ein ferment
+geben/ so nimm ein reines per Antimonium
+gegossenes Gold/ schlags dünn/ solvirs in
+seinem behörigen Wasser/ doch daß es mit
+dem Wasser wol verlutiret 14. Täge in <term>B. V.</term>
+oder fimo stehe/ dann ziehe es über den
+Helm/ gieß das <term>VR.</term> wieder auf den <term>Calcem Solis</term>,
+ziehe es aber ab/ das thue so offt/
+biß alles <term>☉</term> über den Helm gestiegen/ dann
+thue es wieder in Kolben/ und ziehe es nur
+<term>ad tertiam partem</term> ( auf das dritte Theil )
+ab/ stelle diesen im Kolben gebliebenen drit-
+ten Theil in Keller/ und laß zu Crystallen
+schieſſen. Diese abluire mit destillirtem
+Regenwasser/ und <term>præciptire</term> sie mit <term>☿io</term>
+<term>vivo</term>, den <term>Mercurium</term> laß über linder Wär-
+me in einem Tiegel davon rauchen/ so ist
+das <term>☉</term> in ein subtiles Pulver verkehret/ diß
+<term>reverberire</term> in einem Glaß/ das wol verlutirt
+ist/ 3. Tag und Nacht gelind/ so hast du
+das Gold recht bereitet. Dessen 1000. Theile
+zu 1. Theil der <term>Medicin</term> gesetzt/ und damit
+wie in der ersten <term>Præparation</term> verfahren/
+gibt ihr das rechte <term>Philosophische Ferment</term>,
+davon 1. Theil 1000. Theil andere Metal-
+len in das beste und beständigste Gold
+<term>transmutiret</term>. Wilt du sie das zweyte
+mahl <term>fermentiren</term> oder <term>multipliciren</term>/ so <term>tingiret</term>
+solche <term>Tinctur</term> zehenmahl zehen mehr.
+Und so solches zum drittenmahl wiederho-
+let
+
+<vocab>Antimonium, Gold, solvirs, B. V., fimo, Helm, VR., Calcem Solis, ☉, Kolben, Crystallen, schieſſen, Regenwasser, præciptire, ☿io vivo, Mercurium, Tiegel, Pulver, reverberire, Medicin, Præparation, Philosophische Ferment, transmutiret, multipliciren, Tinctur</vocab>
+
+--- Page 48 ---
+<lang>de</lang>
+<page-num>32</page-num>
+<meta>catchword: TIN-</meta>
+
+let wird / so multiplicirt es sich noch einst in
+sich selbsten / wie der *labor* entdecken wird.
+Ich schliesse hiermit / und sage: *Sapientes*
+*abscondunt sapientiam seu scientiam, os au-*
+*tem stulti confusione plenum est.* Zumahlen
+denen Unweisen nichts weiters zu offen-
+bahren erlaubet ist. Lebe wol / und
+lasse dich mit diesem be-
+gnügen.
+
+---
+
+# Folget das Büchlein:
+## TINCTURA ROSARUM
+->genannt.<-
+
+Dieses ist unweit Spanheim in einer alten
+Mauer auf Pergament mit güldenen
+Buchstaben gefunden worden / und soll
+von dem Abbt *Trithemio* noch her-
+rühren.
+
+<vocab>multiplicirt, labor, Sapientes abscondunt sapientiam, Spanheim, Abbt Trithemio, Tinctura Rosarum, Alchimia</vocab>
+
+<detected-images>
+[{"description": "Small typographic fleuron ornaments flanking the page number", "type": "decorative", "bbox": {"x": 0.581, "y": 0.096, "width": 0.257, "height": 0.025}, "gallery_quality": 0.3, "museum_rationale": "Standard printer's ornaments (fleurons) common in 17th and 18th-century European typography used to decorate headers."}]
+</detected-images>
+
+--- Page 49 ---
+<lang>de</lang>
+<page-num>33</page-num>
+<sig>C</sig>
+<meta>catchword: und</meta>
+
+# TINCTURA ROSARUM.
+
+->Im Namen der H. Drey-<-
+->einigkeit. Amen.<-
+
+Hier hebt sich an die aller-nam-
+hafteste Kunst der <term>Alchimia</term>,
+davon schreibt <term>Hermes</term>, <term>Aristo-
+teles</term>, und der <term>H. Thomas von
+Aquino</term>, und der <term>Herr Raymun-
+dus</term> / und <term>Meister Arnolff von dem Neun-
+dorff</term> / daß an unserm <term>Mercurio</term> und an <term>Gold</term>
+und <term>Silber</term> nichts möge vollbracht werden /
+und daß sie werde bracht in ihre erste <term>Ma-
+teri</term>.
+
+Primo, zu dem ersten so sublimire <term>Mer-
+curium</term> aus 3. Theil <term>Victriol</term>, und einem
+Theil <term>Salmiac</term>, und einem Theil rohen gu-
+ten <term>Weinstein</term> / die alle reib wol unterein-
+ander / und <term>impascir</term> den <term>Mercurium</term> darein /
+
+<vocab>Alchimia, Mercurio, Victriol, Salmiac, Weinstein, Hermes, Aristoteles, Thomas von Aquino, Raymundus, Meister Arnolff von dem Neundorff, impascir</vocab>
+
+<detected-images>
+[{"description": "A decorative horizontal band consisting of repeating floral and scrollwork motifs.", "type": "decorative", "bbox": {"x": 0.041, "y": 0.132, "width": 0.558, "height": 0.104}, "gallery_quality": 0.3, "museum_rationale": "Common printer's ornaments (frieze) typical of 17th-18th century German publications used for visual separation."}]
+</detected-images>
+
+--- Page 50 ---
+<lang>de</lang>
+<page-num>34</page-num>
+<header>( 34 )</header>
+
+und ſetz ihn zu ſublimiren / und ſo er geſub-
+limirt iſt / ſo nimm die feces, ſo auf dem
+Boden geblieben ſeynd / und zerſtoß ſie wol
+im Mörſel mit dem vor-geſublimirten Mer-
+curio wol vermiſcht / und ſetz ihn wiederum
+zu ſublimiren / und nach der Sublimirung
+(das iſt der Tractat Reinmundi, und die
+Lehre / die er thät dem König Eduardo von
+Engeland) ſo reib den geſublimirten Mer-
+curium wieder unter die feces, die an dem
+Boden blieben ſeynd / und ſublimier ihn
+mehr wie vor / das thue alſo zu zehenmahlen
+oder mehr allweg / den ſublimirten Mercuri-
+um wieder unter die feces gerieben / u. wieder
+davon geſublimirt / ſo iſt der Mercurius be-
+reit / und heiſt der <term>Vogel Hermetel</term>, und
+dann <term>Jung Hermogenis</term>, der in ihm hält
+gülden und ſilberne Federn / den Mercurium
+reibe gar klein / und thue ihn in ein Glaß / und
+ſetze ihn in das <term>Bad Mariæ</term>, oder in Roß-
+Miſt / ſein Monat mit dem halben / ſo ſol-
+virt ſich der Mercurius in ein Waſſer / und
+in dem Waſſer ſeynd 3. Elementen / Waſſer /
+Feuer und Lufft / und das erſte Element
+wird genannt der Lufft / und wird genannt
+unſer Waſſer / das da macht alle Corpora
+flüſſig als ein Gummi / und darum wird
+es geheiſſen ein Oel / und wir ſagen / daß in
+dem Oel verborgen iſt unſer Feuer / das da
+verbrennt und calcinirt und reſolvirt alle
+
+<meta>catchword: Me</meta>
+
+<vocab>sublimiren, feces, Mercurius, Tractat Reinmundi, König Eduardo von Engeland, Vogel Hermetel, Jung Hermogenis, Bad Mariæ, Roß-Mist, calcinirt, resolvirt</vocab>
+
+<detected-images>
+[{"description": "Decorative typographic fleurons flanking the page number in the header.", "type": "decorative", "bbox": {"x": 0.58, "y": 0.08, "width": 0.17, "height": 0.04}, "gallery_quality": 0.2, "museum_rationale": "Standard printer's ornaments used for page layout and decoration."}]
+</detected-images>
+
+--- Page 51 ---
+<lang>de</lang>
+<page-num>35</page-num>
+<sig>C 2</sig>
+<meta>Catchword: und</meta>
+<vocab>Corpora, solution, Raymundum, Luna, Aquafort, Balneum, resolution, Salmiacs, Sublimirens, Elixier, Gold, Silber</vocab>
+
+Metallische Corpora, und ist die wahre solution, als wir dann haben durch den H. Raymundum in seinem Text 2c. das behalt.
+
+Secundo, das andere Capitel/ nun nimm des vorbehaltenen Wassers II. Theil/ und II. Theil calcinirte <term>Luna</term>, die durch das gemeine <term>Aquafort</term> calcinirt ist/ und thue sie zusammen in ein Glaß wol vermacht/ und setz in das <term>Balneum</term> oder in Mist 1 1/2. Monat/ so solvirt sich die <term>Luna</term> in Wasser/ und wisse/ daß die solution bald geschicht/ und laß also stehen anderthalb Monat von der Erhebung des <term>Corporis</term>, und von des Geistes wegen.
+
+Tertio, das dritte Capitel/ wie du hast gethan mit der <term>Luna</term>, also solt du auch thun mit der <term>resolution</term> des Goldes/ das da calcinirt sey/ durch sein Wasser mit der Helffte des <term>Salmiacs</term>/ und setz es auch in das <term>Balneum</term> oder in Mist 1 1/2. Monat/ und laß darinnen stehen/ von des <term>Sublimirens</term> wegen/ und behalts.
+
+## Nun hebt sich an die wahre Elixier.
+
+Quarto, das vierdte Capitel. Nun nimm die 2. Wasser von dem Gold und von dem Silber/ die thue zusammen in ein Glaß/
+
+--- Page 52 ---
+<lang>de</lang>
+<page-num>36</page-num>
+<header>❦ ( 36 ) ❦</header>
+<meta>catchword: in</meta>
+
+und mache bald zu / so wird da eine wahre
+Vermehrung / und eine wahre Geburt / und
+wird geheissen unser Gold / und das Was-
+ser der Himmlischen Gnaden / unser Essig /
+unser Silber / und unser Magnet / und die
+zeigen 4. <term>Corper</term> / die werden geheissen Wol-
+cken / und die Schuch / die da außgezogen
+seynd in der <term>solution</term>, und werden geheissen
+unsere <term>Butter</term> / und die Natur <term>Lunæ</term>, das
+ist des Silbers / und wird geheissen das Ur-
+haub der weissen <term>Tinctur</term>, und von den
+zweyen Wassern soll genommen werden ei-
+ne gleiche Waage / das ist / eines so viel als
+des andern / und solt sie zusammen mischen /
+und damit sie geeinet werden miteinander /
+und die Zusammenfügung deren ist noth /
+dann man wird durch sie sehen grosse Wun-
+der / dann das Wasser wird geheissen der
+<term>Bugur</term> <note>The term 'Bugur' is transcribed as it appears in the text, although it may be an idiosyncratic variant of 'Bauer' (farmer) or 'Liquor', both common in alchemical symbolism.</note> und Geist / und die Natur des
+Goldes / und merck gar eben und wol / und die
+<term>Luna</term> allein gesolvirt / oder das Gold / so tin-
+girt es nicht / sie aber beyde zusammen
+vermischt / so <term>tingiren</term> alle Metall / und ob
+ihr eines allein tingirt / so tingirt es doch
+nicht mehr / dann als viel sein ist / und also
+setz die 2. Wasser gemischt miteinander zu
+<term>putrificiren</term> einen gantzen Monat in <term>Mist</term> /
+oder in das <term>Balneum</term>.
+
+### Das fünffte Capitel / nimm die Materi
+nach dem Monat aus dem Mist / und setz es
+
+<vocab>Gold, Silber, Magnet, solution, Butter, Lunæ, Tinctur, Bugur, Geist, tingiren, putrificiren, Balneum, Mist, Corper</vocab>
+
+<detected-images>
+[{"description": "Small decorative printer's fleurons flanking the page number in the header.", "type": "decorative", "bbox": {"x": 0.584, "y": 0.093, "width": 0.203, "height": 0.035}, "gallery_quality": 0.3, "museum_rationale": "Standard printer's ornaments (fleurons) typical of 17th-18th century book production, used here to frame the folio number."}]
+</detected-images>
+
+--- Page 53 ---
+<lang>de</lang>
+<page-num>( 37 )</page-num>
+<sig>C 3</sig>
+<meta>catchword: Wass-</meta>
+
+in das Balneum Mariæ mit ſeinem alembic
+und recipienten / und deſtillir / was da her-
+auß wolle gehen / und das ſich da deſtil-
+lirt / das iſt Waſſer / das Waſſer deſtillir
+in ihm ſelbſt zu ſiebenmahlen und behalts /
+und das Oel / das in der Deſtillation an dem
+Boden iſt blieben / das deſtillir im Sand
+in dem andern Grad des Feuers / ſo wird
+ein Oleum, das deſtillir für und für / dieweil
+es gehen will / und dieweil es deſtillirt / das
+behalt ſchon / dann das iſt das beſte gewon-
+nen Gut / das niemand außſprechen mag /
+und ſo das Oel gedeſtillirt iſt / ſo gib ihm
+das allergröſte Feuer / ſo ſublimirt ſich auf
+der <term>☩</term>. Göttl. Schwefel / den behalt / daß ihn
+der Lufft nicht ergreifft / nach der Element
+geheim / und das an dem Boden bleibt in
+dem Faß / das reib gar klein / und thue es in
+ein Glaß / und geuß darüber von dem erſten
+Waſſer / alſo daß es alle in ein wenig darüber
+gehe / und ſetze es in den Miſt zu putrifici-
+ren XX. Tage / darnach ſo nimm es her-
+auß von dem Miſt / und ſetze es zum deſtila-
+liren in den Sand / biß das Waſſer mit
+linder Wärme herauß gedeſtillirt iſt / ſo
+gib ihm hernach das allergröſte Feuer / ſo
+ſublimirt ſich mehr auf der <term>☩</term>. Göttl. und
+künſtl. Schweffel ſchneeweiß / den behalt
+zu dem erſten / und was an dem Boden
+bleibt / das Erdreich / da geuß mehr deß
+
+<vocab>Balneum Mariæ, alembic, recipienten, deſtilliren, Sand, Grad des Feuers, Oleum, Göttlicher Schwefel, Lufft, putrificiren, XX. Tage, Erdreich</vocab>
+
+--- Page 54 ---
+<lang>de</lang>
+<page-num>38</page-num>
+<header>❧ ( 38 ) ❧</header>
+<meta>catchword: ſo</meta>
+<vocab>Schweffel, Humm, Elementum, purificiren, deſtilliren, ſublimirt, Erdreich, Oel, Capitel</vocab>
+
+Waſſers drüber / und ſetze es zu purificiren
+X. Tage in Miſt/ darnach nimm es herauß/
+und ſetz es zu deſtilliren/ und ſo das Waſ-
+ſer gedeſtillirt iſt / ſo gib ihm mehr das
+allergröſte Feuer/ ſo ſublimirt ſich mehr auf
+☩. Göttl. Schweffel ſchneeweiß/ den thue
+zu dem erſten/ und behalt ihn/ und das Erd-
+reich/ ſo an dem Boden blieben iſt/ das iſt
+ſchwarz/ das thue davon/ dann es taugt
+nicht mehr ꝛc.
+
+### Das ſechſte Capitel
+
+nun nimm den Göttl. und den künſtlichen unſern weiſſen
+Schweffel/ und thue ihn in ein Glaß/ das
+wol hoch ſeye/ das man nennet Humm/ alſo
+nieden gemahlet iſt/ und feuchte es an mit
+ſeinem erſten Waſſer/ das da wird ge-
+nennt Elementum, das iſt eine rechte
+🝪🝪 Humm/ und vermach das Glaß
+oben wol/ und ſetze es auf gar kleine Wärm
+8. Tag und Nacht/ ſo verzehrt ſich das
+Waſſer in ſeinem erſten Erdreich/ dann ſo
+feucht es mehr an als vor/ und ſetz es mehr
+zu dauren in ſein warmes wol-geordnetes
+Bett/ und laß es 8. Tage ſtehen/ ſo iſt es aber
+trocken worden/ alſo thue ihm für und für
+von 8. Tagen zu 8. Tagen/ biß das Ele-
+ment des Waſſers ganz eintrocknet iſt/
+da heb darnach an/ und eintränck ab mit
+dem Oel/ als lang biß du es auch alles hin-
+ein getrocknet haſt/ und ſo das geſchehen iſt/
+
+<detected-images>
+[{"description": "Decorative printer's ornaments flanking the page number in the header.", "type": "decorative", "bbox": {"x": 0.552, "y": 0.084, "width": 0.235, "height": 0.038}, "gallery_quality": 0.3, "museum_rationale": "Standard typographic ornaments (fleurons) used for page layout and header decoration in early modern printing."}]
+</detected-images>
+
+--- Page 55 ---
+<lang>de</lang>
+<page-num>39</page-num>
+<sig>C 4</sig>
+<meta>catchword: und</meta>
+
+ſo haſt du eine weiſſe Materi, die da tingirt
+Mercurium, und alle Metall in gut Silber.
+
+Das ſiebende Capitel / und iſt das aller =
+letzt / ſo nun die weiſſe Tinctur bereit iſt / ſo
+nimm die weiſſe Tinctur, und ſetz ſie in ihr
+warmes Bett / und mehr die Wärme um
+ein Grad / das iſt / daß einer die Händ wol
+da erleiden mag / alſo laſſes ſtehen / biß es
+gelb wird; ſo das geſchicht / ſo laß es in der
+Wärme ſtehen / als lang biß es roth wird /
+als eine ſchöne rothe Roſen / und daß es das
+Feuer nicht fleucht / ſondern fleuſt als ein
+Wax / ſo iſt die Tinctur bereit.
+
+Der Tinctur nimm ein Theil / und wirff
+es auf hundert Theil Bley / das da geht in
+einem Tiegel / und laß wol flieſſen mitein =
+ander / ſo wird darauß auch eine Tinctur,
+die iſt auch Blutroth / der Tinctur nimm ein
+Theil / und wirff ſie auf das fünffhundert
+Theil Mercurii, oder welches Metall du
+wilt / es ſey Bley oder Zinn / oder Kupffer
+oder Silber in dem Fluß / ſo wird darauß
+gut Gold / das da beſteht in aller Prob.
+
+Lob GOtt den Allmächtigen / ſuchs nur /
+du findeſt es.
+
+Alſo ſo du tingirt haſt / und weiſt / daß die
+Tinctur bereit iſt / ſo ſetz ſie in den Miſt zu
+putrificiren / und ſo bald es geſolvirt iſt / ſo
+coagulire es wieder / ſo tingirt ein Theil
+fünffhundert Theil Bley oder Mercurii,
+
+<vocab>Materi, tingirt, Mercurium, Silber, Tinctur, Bley, Blutroth, Gold, Prob, putrificiren, coagulire, Fluß</vocab>
+
+--- Page 56 ---
+<lang>de</lang>
+<page-num>40</page-num>
+<header>❧ ( 40 ) ❧</header>
+
+und ist ein Tinckur noch/ und deß ein Theil
+tingirt tausend Theil Mercurii, oder welches
+Metall du wilt/ in gut Gold.
+
+**Nota.** Nun vermerck/ überließ alle Bü-
+cher der Philosophorum, so verstehest du sie
+alle/ so du das Büchlein wol überlesen hast/
+es sey die gantze Turba, Reymundum, Ari-
+stotelem, Hermetem, Rason, Pythagoram,
+Alanum, Arnoldum, Matthæum, de Ovi-
+lendo, und den H. Thoma von Aquino, und
+Johannem in dem Buch Mercuriorum
+Thecenenses, derer Schrifften verstehest du
+alle warlich / und ist der rechte
+Grund.
+
+---
+
+### Extract aus eines Chymici von Straßburg Handschrifft/ so zu Kaysers Rudolphi II. Zeiten floriret / und etlich mahl das Universal bereitet hat/ secundum Testamentum Basilii Valent.
+
+Er hat genommen Vitriol, ihn in filtrirten Regen ▽ solvirt / und ♂ ♁ lassen digeriren/ damit es die feces fallen lasse/ darnach per Chartam emporeticam filtriret / und das klare ad tertias evaporiren lassen/ da es in loco frigido anges
+
+<meta>catchword: ges</meta>
+
+<vocab>Tinckur, Mercurii, Philosophorum, Turba, Reymundum, Aristotelem, Hermetem, Rason, Pythagoram, Alanum, Arnoldum, Matthæum, de Ovilendo, H. Thoma von Aquino, Johannem, Mercuriorum Thecenenses, Straßburg, Rudolphi II., Basilii Valent., Vitriol, Regenwasser, Mars, Antimon, feces, Charta emporetica, evaporiren</vocab>
+
+<detected-images>
+[{"description": "Decorative woodcut initial letter 'E' featuring floral and scrollwork patterns, introducing the final section of the text.", "type": "decorative", "bbox": {"x": 0.428, "y": 0.598, "width": 0.125, "height": 0.108}, "gallery_quality": 0.6, "museum_rationale": "A characteristic example of early modern typography, this decorative initial adds aesthetic value to the technical alchemical text."}]
+</detected-images>
+
+--- Page 57 ---
+<lang>German</lang>
+<page-num>41</page-num>
+<sig>C 5</sig>
+<meta>catchword: tra-</meta>
+
+geſchoſſen / ſo er getrocknet ; dann iterum
+ſolvirt in omnibus partibus vel prius ali-
+quoties, donec ſemotis fecibus & terreſtri-
+tatibus, alienis ad quandam dulcedinem &
+ſummam viriditatem pervenit : Hoc
+Olum per <term>Retortam</term> deſtillavit more ſoli-
+to uſque ad <term>Olei rubicundi</term> aſcenſum, hat
+nachgehends alles laſſen kalt werden / und
+des andern Tags den <term>Spiritum</term> mit ſeinem
+<term>Phlegmate</term> in einen <term>Kolben</term> gegoſſen / &
+omne <term>phlegma</term> quam diligentiſſimè per
+deſtillationem ſepariret.
+
+Notandum, Dieſe Reinigung iſt höchſt-
+nöthig.
+
+In <term>fundo</term> hatte er ein ſehr ſchönes <term>Chaos</term>,
+ſo hochgelb und ſehr ſchwer geweſen / ge-
+funden. Dieſes zoge er nachmals per
+<term>alembicum</term> über / damit es gantz pur war.
+Alsdann verſigillirte er ſeine <term>Materia</term> in
+einer <term>Phiole</term>, ſo er zugeſchmelzet/ und in eine
+hölzerne Büchſen eingeſchloſſen / ſetzte es
+auf einen Dreyfuß ins <term>Balneum vaporo-</term>
+<term>ſum</term>, da hatte ſich dieſer <term>Spiritus</term> in ſich ſelbſt
+entzündet und auffgelöſet in eine ſchwartze
+Materi wie ein Pech/ nach etlicher Zeit ſich
+an Boden gelegt/ oben über war ein reiner
+<term>Spiritus</term> zu ſehen/ dieſen hatte er rein abge-
+goſſen/ das ſchwartze gummoſe aber wieder
+in die <term>Digestion</term> eingeſetzet / da iſt noch
+mehr <term>Spiritus</term> worden/ diß hat er alſo lang
+
+<vocab>Spiritus, Phlegma, Kolben, Deſtillation, Chaos, Alembicum, Materia, Phiole, Balneum vaporofum, Digestion</vocab>
+
+--- Page 58 ---
+<lang>de</lang>
+<page-num>42</page-num>
+<header>❦ ( 42 ) ❦</header>
+<meta>catchword: Olis</meta>
+
+tractiret / biß das schwarze eine röthlichte
+Erde worden. Die Spiritus goß er zusam-
+men / die Erde aber glüete oder trocknete er
+unter einer Muffel / daß sie ein rother Staub
+wurde; Auf diesen Staub goß er allen
+Spiritum wieder / und sazte sie wol ver-
+schlossen ins Balneum nieder / da wurde der
+Spiritus in kurzem hochroth / diesen goß er
+ab / und zog ihn *per Destillationem* über / da
+blieb eine sehr feurige Materi *in forma* eines
+rothen Oels / welche einem Rubin gleichte.
+Den separirten Spiritum aber hat er weiter
+auf die Erden gegossen / und zugeschmelzet
+in die Digestion gestellet / da hat er noch
+mehr Röthe extrahiret / welches er wieder
+abgegossen / destilliret / und das Oel zum
+vorigen gethan. Und diß hat er continuirt /
+biß keine Röthe sich mehr extrahiren
+wollen; so dann hat er das rothe Oel *per*
+*se* wol rectificirt / gereiniget / und den Spiri-
+tum mit dem Oel fleissig auffgehoben / die
+hinterstellige Erde hat er hernach unter der
+Muffel zum stärcksten calcinirt / auff das
+Calcinatum den auffgehobenen und abgezo-
+genen Spiritum gegossen / wol verschlossen
+in eine Wärme gestellet / und mit dem
+Spiritu das <term>⊖</term> <note>Alchemical symbol for salt (Sal)</note> auß der Erden gezogen / biß
+alles / *ut moris est*, heraus gewesen / *à quo*
+*per destillationem denuò separavit Spiri-*
+*tum*, und hatte 5. Loth Dieses Spiritus, deß
+
+<vocab>Spiritus, Muffel, Balneum, Destillation, Rubin, Digestion, calcinirt, Calcinatum, Sal (⊖), Loth</vocab>
+
+<detected-images>
+[{"description": "Decorative printer's ornaments (fleurons) flanking the page number in the header.", "type": "decorative", "bbox": {"x": 0.572, "y": 0.088, "width": 0.178, "height": 0.041}, "gallery_quality": 0.3, "museum_rationale": "Common typographic decorations used in 17th and 18th-century book printing."}]
+</detected-images>
+
+--- Page 59 ---
+<lang>de</lang>
+<page-num>43</page-num>
+<header>❧ ( 43 ) ☙</header>
+
+$\ominus$lis aber 1. Loth 1. Quintl. bekommen.
+Von welchen 5. Lothen Spiritus er 2½. Loth
+genommen und getheilet / die Helfft auffs
+$\odot$ in eine Phiole gegossen / verschlossen /
+und in B. M. digeriret / biß der Spiritus das
+$\odot$ auffgelöset / alsdann hat er auch den an-
+dern Theil von denen 2½. Lothen daran ge-
+gossen / damit ist es gantz schwartz worden.
+Dieses hat er etliche Tage zusammen in
+dem B. Mariæ stehen lassen / biß es nach wun-
+derbahrer Würckung der Natur sich gesetzet /
+und endlich trocken / ja gantz Kohlschwartz
+sich finden lassen. Dann hat ers aus dem
+Balneo genommen und in Asche gesetzet / zuge-
+feuret / de die in diem gradatim, da hat es
+angefangen erstlich unten / hernach oben et-
+was weißlicht zu scheinen / da er noch bes-
+ser Feuer gegeben / und so lang darinnen er-
+halten / vom 4. Julii nemlich biß auf den
+6. Augusti / donec ad perfectam & fixam
+albedinem pervenit , hats auf glüendem
+Blech probiret / und mit einem Gran 2½.
+Loth $\text{☿}$ii in $\text{☾}$ tingiret.
+
+Ferner hat er genommen diese weisse
+Tinctur, und die 2½. Loth des Spiritus, so zu-
+rücke geblieben / zur rothen Extraction, derer
+er 3. Loth gehabt / gegossen / in digestionem ge-
+setzt / biß sie sich miteinander wol vereiniget /
+Dann solche zusammen in 7. Theil getheilet /
+und 1. Theil davon auf die Weisse gegos-
+sen /
+
+<meta>catchword: sen /</meta>
+<vocab>Loth, Quintl, Spiritus, Phiole, B. M., Balneum Mariae, digeriret, Kohlschwartz, Balneo, gradatim, albedinem, tingiret, Tinctur, Extraction, digestionem, Solis, Salis</vocab>
+
+--- Page 60 ---
+<lang>de</lang>
+<page-num>42</page-num>
+<header>❦ ( 42 ) ❦</header>
+<meta>catchword: Olis</meta>
+
+tractiret / biß das schwarze eine röthlichte
+Erde worden. Die Spiritus goß er zusam-
+men / die Erde aber glüete oder trocknete er
+unter einer <term>Muffel</term> / daß sie ein rother Staub
+wurde; Auf diesen Staub goß er allen
+Spiritum wieder / und satzte sie wol ver-
+schlossen ins <term>Balneum</term> nieder / da wurde der
+Spiritus in kurzem hochroth / diesen goß er
+ab / und zog ihn *per Destillationem* über / da
+blieb eine sehr feurige Materi *in forma* eines
+rothen Oels / welche einem <term>Rubin</term> gleichte.
+Den separirten Spiritum aber hat er weiter
+auf die Erden gegossen / und zugeschmelzet
+in die <term>Digestion</term> gestellet / da hat er noch
+mehr Röthe extrahiret / welches er wieder
+abgegossen / destilliret / und das Oel zum
+vorigen gethan. Und diß hat er continuirt /
+biß keine Röthe sich mehr extrahiren
+wollen ; so dann hat er das rothe Oel *per*
+*se* wol rectificirt / gereiniget / und den Spiri-
+tum mit dem Oel fleissig auffgehoben / die
+hinterstelige Erde hat er hernach unter der
+Muffel zum stärcksten <term>calcinirt</term> / auff das
+<term>Calcinatum</term> den auffgehobenen und abgezo-
+genen Spiritum gegossen / wol verschlossen
+in eine Wärme gestellet / und mit dem
+Spiritu das <term>🜔</term> <note>Alchemical symbol for Salt</note> auß der Erden gezogen / biß
+alles / *ut moris est*, heraus gewesen / *à quo*
+*per destillationem denuò separavit Spiri-*
+*tum*, und hatte 5. <term>Loth</term> dieses Spiritus, deß
+
+<vocab>Spiritus, Muffel, Balneum, Destillationem, Rubin, Digestion, calcinirt, Calcinatum, Loth, Alchymy, Salt symbol</vocab>
+
+--- Page 61 ---
+<page-num>( 43 )</page-num>
+<lang>German</lang>
+<meta>
+Catchword: ſen/
+Image quality: Good, legible Fraktur script.
+</meta>
+
+Olis aber 1. Loth 1. Quintl. bekommen.
+Von welchen 5. Lothen Spiritus er 2 1/2. Loth
+genommeu und getheilet/ die Helfft auﬀs
+☉ in eine Phiole gegoſſen / verſchloſſen /
+und in B. M. digeriret / biß der Spiritus das
+☉ auﬀgelöſet/ alsdann hat er auch den an-
+dern Theil von denen 2 1/2. Lothen daran ge-
+goſſen/ damit iſt es gantz ſchwartz worden.
+Dieſes hat er etliche Tage zuſammen in
+dem B. Mariæ ſtehen laſſen/ biß es nach wun-
+derbahrer Würckung der Natur ſich geſetzet/
+und endlich trocken / ja gantz Kohlſchwartz
+ſich finden laſſen. Dann hat ers aus dem
+Balneo genommen und in Aſche geſetzet/ zuge-
+feuret/ *de die in diem gradatim*, da hat es
+angefangen erſtlich unten / hernach oben et-
+was weißlicht zu ſcheinen / da er noch beſ-
+ſer Feuer gegeben/ und ſo lang darinnen er-
+halten / vom 4. Julii nemlich biß auf den
+6. Auguſti / *donec ad perfectam & fixam
+albedinem pervenit*, hats auf glüendem
+Blech probiret / und mit einem Gran 2 1/2.
+Loth ☿ii in ☽ tingiret.
+
+Ferner hat er genommen dieſe weiſſe
+Tinctur, und die 2 1/2. Loth des Spiritus, ſo zu-
+rücke geblieben/ zur rothen Extraction, derer
+er 3. Loth gehabt/ gegoſſen/ *in digestionem* ge-
+ſetzt/ biß ſie ſich miteinander wol vereiniget/
+dann ſolche zuſammen in 7. Theil getheilet/
+und 1. Theil davon auf die Weiſſe gego-
+
+<vocab>Olis, Spiritus, B. M., Balneo, B. Mariæ, Kohlſchwartz, Tinctur, Extraction, digestionem, ☉ (Gold), ☽ (Silver), ☿ (Mercury), Loth, Quintl., Gran</vocab>
+
+<detected-images>
+[{"description": "Decorative typographic ornaments (fleuralons) flanking the page number at the top of the page.", "type": "decorative", "bbox": {"x": 0.28, "y": 0.09, "width": 0.44, "height": 0.04}, "gallery_quality": 0.3, "museum_rationale": "Standard 17th-18th century printer's ornaments used for page numbering layout."}]
+</detected-images>
+
+--- Page 62 ---
+<lang>de</lang>
+<page-num>44</page-num>
+<meta>catchword: die</meta>
+
+sen/ zugeschmoltzen / und in 10. Tägen zur
+Trocknen / und etlicher massen Röthen coa-
+guliret / daran wieder 1. Theil Oels gegoß-
+sen / aber wol coaguliret / & sic biß alle 7.
+Theil hinein sind. In der 4ten Coagula-
+tion hat es erst angefangen Gold zu tingi-
+ren / und zwar hat 1. Theil 10. Theil ☿ in
+☉ tingiret / in der 5ten 1. Theil 100. Theile /
+in der 6ten 1. Theil 1000. und in der 7.
+1. Theil 10000. Gl.
+
+### Aliud.
+
+->Per R. ♂. das ☽. in ☉. transmutiren.<-
+
+℞. 2. l. Croci ♁tis, per Acetum extra-
+hiret / darunter reibe aa. * fixi, setze es auf
+eine gläserne Tafel in Keller / wann es sich
+in ein ▽ resolvirt hat / so imbibire den ☿.
+subl. damit laß es verschlossen wol eintrock-
+nen / dann solvirs wieder auf der Glaß-
+Tafel / damit es zum Oel fliesse / diß coagu-
+lire verschlossen zu einem Stein / und pulve-
+risire es / dessen so viel auf die geflossene ☽.
+getragen / biß die schöne Goldfarb hervor-
+tritt / alsdann geschieden / findet man reich-
+lich ☉.
+
+### Item:
+
+->Ein Wasser zum ☉. ♀. und ☽. damit<-
+->zu tingiren / aus einem alten<-
+->Manuscr. de Anno 1492.<-
+
+℞. 4. ℔. Eyßenfeil / zerreib sie mit star-
+ckem Essig in einem eisern Mörsel / addendo
+
+<vocab>Coagulation, tingiren, Gold, Mercurius (☿), Sol (☉), Luna (☽), Mars (♂), Venus (♀), Antimonium (♁), Aqua (▽), Crocus Antimonii, Pfund (℔), Recipe (℞), transmutiren, Eyßenfeil, Acetum</vocab>
+
+--- Page 63 ---
+<lang>de</lang>
+<page-num>45</page-num>
+<meta>catchword: wie</meta>
+
+die Mutter von einem starcken Essig so ge-
+dörret ist/zerreibe es miteinander wie <term>Saltz</term>/
+dann stelle es an die Sonne/ laß trocknen/
+reibe es wieder mit vorigen Sachen ab /
+und stelle es an die Sonnen / das thue so
+offt / biß es ein gelb=roth Pulver werde/
+dann gieß ½. Maaß Schreibdinte darzu/
+destillirs <term>per retortam</term> 10. oder 12. mahl/
+allzeit mit deme was herüber gegangen / so
+du auf das <term>Caput mortuum</term> wieder giessen
+must/ rüttele es wol um/ und gieß allweg
+ein wenig Schreibdinte darzu/ so gehet zu-
+letzt ein roth Wasser heraus / welches <term>♀</term>.
+und <term>☽</term>. in <term>☉</term>. <term>tingiret</term> / wann sie glüend dar-
+innen abgelöschet werden. Bleibt beständig
+in allen Proben.
+
+## Den Vitriol reinigen/und in eine
+## Süßigkeit bringen.
+
+℞. <term>Vitrioli Ungarici nativi s. Cypriani</term>,
+stoß und <term>solvire</term> ihn in Regenwasser/ <term>filtrire</term>
+ihn <term>per chartam</term> warm/ setze ihn ferner in ei-
+nem Kolben-Glaß <term>cum alembico</term> ins <term>Bal-
+neum Mariæ</term>, doch daß es ja nicht in Sud
+komme/ sondern nur <term>digerire</term> und heiß seye/
+eben daß man eine Hand darinnen leiden
+möge/ wann es 2. Täg und Nächte also ge-
+standen/ so setzen sich bey 2. Finger dick <term>feces</term>,
+das klare gieß ab/ und laß es wie vor in
+<term>Baln. Mar.</term> <term>digeriren</term>/ so setzen sich abermahls
+<term>feces</term>, scheide sie davon/ wie vorhero / und
+
+<vocab>Mutter von einem starcken Essig, Schreibdinte, Caput mortuum, Vitriol, Vitrioli Ungarici, Balneum Mariæ, feces, tingiret</vocab>
+
+<detected-images>
+[{"description": "Printer's ornaments flanking the page number", "type": "decorative", "bbox": {"x": 0.203, "y": 0.096, "width": 0.245, "height": 0.027}, "gallery_quality": 0.3, "museum_rationale": "Standard typographic ornaments (fleurons) used for layout decoration around the folio number."}]
+</detected-images>
+
+--- Page 64 ---
+<lang>la</lang>
+<page-num>46</page-num>
+<meta>catchword: quo-</meta>
+<vocab>Vitriol, Martis, Chalybem, Purgatio, reductio, figulinum, mortario, carbones, cineres</vocab>
+
+wiederhole diese Arbeit zum drittemahl / so
+wird er gantz rein werden / laß zum Uberfluß
+das Lautere noch einen Wall auffthun und
+setze es wieder in das Baln. damit das was
+noch dabey seyn möchte / gar zu Boden
+falle / das lautere filtrire / und laß es <term>leniter</term>
+verrauchen / wann es eine Haut bekommt /
+so stelle es an einen kühlen Ort / damit es zu
+Crystallen schiesse / so bekommst du einen
+**Himmlisch- und süssen Vitriol.**
+
+### Purgatio & reductio Martis in Chalybem.
+#### Clemente Ludov. Egrano auct.
+
+Ante omnia curetur formari vas qua-
+dratum figulinum ex argillâ præparatâ, quæ
+in igne rimas nullas patiatur, crassitie pro-
+pemodum semidigiti aut ex laminis ferreis.
+Vas illud externè luto seu limo fornacum il-
+linatur & obducatur modicè ad præcaven-
+das rupturas aut fissuras, habeatque opercu-
+lum aptum ejusdem materiæ.
+
+Postea carbones, cujuscunque generis
+sint; contunde in mortario, & redige in pul-
+verem tenuissimum, qui percoletur. Colato
+pulveri adsperge cineres vulgares foci aut
+fornacis, ad crassitiem digiti unius, amboque
+probè misceantur, & aspersâ pauca aqua
+subigantur manibus, sic ut materia parum-
+per humectata digitisque compressa leviter
+
+<detected-images>
+[{"description": "Small decorative typographic fleurons flanking the page number", "type": "decorative", "bbox": {"x": 0.584, "y": 0.088, "width": 0.207, "height": 0.032}, "gallery_quality": 0.2, "museum_rationale": "Standard printer's ornaments used to frame the page number, not significant as standalone art."}]
+</detected-images>
+
+--- Page 65 ---
+<lang>Latin</lang>
+<page-num>47</page-num>
+<header>❦ ( 47 ) ❦</header>
+
+quodammodo cohæreat, neutiquam verò in globulos formari poſſit. Nur wie man den Zeug zu denen Capellen zu ſchlagen anfeuchtet.
+
+Tunc accipe virgas ferreas latas non quadratas craſſitie thalerorum Hiſpanicorum <insert>**flache eiſerne Stäbe**</insert> longitudinis talis, ut ad transverſum digitum undique latera interna vaſis prædicti non attingant; fiatque cum his & pulvere dicto, parumper madido, ſtratum ſuper ſtratum more vulgari, ſic ut maſſa pulveris ad transverſum digitum virgis ferreis interponatur; ultimoque pulvere & operculo cooperiatur, & probè circumcirca perlutetur. Vas cum Materia incluſa occluſum ſuperponatur tigillo argillaceo, ejusdem ambitus ſeu circumferentiæ; & indatur fornaci quadratæ ex lateribus, abſque ullo interpoſito luto, ſimpliciter ſuper focum culinæ compoſito, ita ut aëri in juncturis laterum ad ſuſcitandas prunas ſit pervia fornax, & interſtitio palmæ erectæ undique vas medium non attingat; ut locus ſit immittendis, & immiſſis prunis, quæ circumquaque indefinenter, æqualiter ardeant continuis horis 18. aut 20. ſemper novæ poſtponendæ.
+
+Tunc frigefactum vas aperiatur (quod quidem nihil immutatum apparebit) eximatur & in formam fabri ferrarii aut ſerarii
+
+<meta>catchword: mo-</meta>
+
+<vocab>virgas ferreas, thalerorum Hispanicorum, stratum super stratum, tigillo argillaceo, fornaci quadratæ, prunas, fabri ferrarii, serarii, Capellen, metallurgia</vocab>
+
+<detected-images>
+[{"description": "Typographic ornaments (fleurons) flanking the page number in the header.", "type": "decorative", "bbox": {"x": 0.205, "y": 0.085, "width": 0.295, "height": 0.051}, "gallery_quality": 0.3, "museum_rationale": "Standard printer's ornaments common in 17th and 18th-century publications."}]
+</detected-images>
+
+--- Page 66 ---
+<lang>deu; lat</lang>
+<page-num>48</page-num>
+<header>🙘 ( 48 ) 🙚</header>
+
+modicè candefactum aquâ restinguatur :
+iterumque candefiat, & malleis super incu-
+de in formam quadratam oblongam redi-
+gatur.
+Hac ignitione & restinctione & mallea-
+tione sæpius repetita, abit tandem in **Chaly-
+bem** purissimam & opt.
+Sed summa cautione opus est, ne in prin-
+cipio calor fabrilis nimis extendatur. Dann
+wann man ihm eine grosse **Schweiß-Hitze**
+gäbe / so zerführe es wie ein **Brey** : gleich
+wie ein **Kern-Stahl** / den man zu sehr
+schweisset / auch thut. Und darff man diesen
+**Stahl** nicht anderster / als wie den **Kern-
+Stahl** arbeiten.
+Diß soll **Nicol. Fincken Stahlkunst** seyn /
+& descripsi ex ipsius autographo Pra-
+gæ 1623. M. Septembr.
+
+### **Crystallen in Fluß treiben / und allerhand Edelgesteine darauß machen.**
+
+Stosse den **Crystallen** zart / thue ihn mit
+aa. <term>🜔</term> <term>🜕</term> das wol purificirt ist / in einem
+reinen **Schmelz-Tiegel** fliessen lassen / laß
+bey 8. **Stunden** im **Wind-Ofen** stehen und
+treiben / dann setze ihm eine **Farb** zu /
+laß es noch einst im frischen
+**Tiegel** fliessen.
+
+---
+
+->**E N D E.**<-
+
+<vocab>Chalybem, Nicol. Fincken, Stahlkunst, Kern-Stahl, Crystallen, Edelgesteine, Schmelz-Tiegel, Wind-Ofen, 🜔 (Sal), 🜕 (Nitrum)</vocab>
+
+<detected-images>
+[{"description": "Decorative fleurons (leaf-like typographic ornaments) flanking the page number at the top of the page.", "type": "decorative", "bbox": {"x": 0.58, "y": 0.09, "width": 0.32, "height": 0.04}, "gallery_quality": 0.3, "museum_rationale": "Simple typographic ornaments typical of 17th-century printing."}]
+</detected-images>
+
+--- Page 67 ---
+<lang>None</lang>
+<meta>Blank page; flyleaf or endpaper with no visible text.</meta>
+
+<vocab></vocab>
+
+--- Page 68 ---
+<lang>de</lang>
+<warning>The page is severely faded or exhibits significant bleed-through from the reverse side, making the majority of the text illegible. The transcription captures only the few discernable elements.</warning>
+<meta>image quality: faded, bleed-through</meta>
+
+<unclear>...</unclear>
+
+<unclear>...</unclear>
+
+<unclear>...</unclear>
+
+<unclear>... Confessionis Augsburgischer und allerlei ...</unclear>
+
+<unclear>...</unclear>
+
+<unclear>...</unclear>
+
+<unclear>...</unclear>
+
+->E N D E .<-
+
+->G. F. D. G.<-
+
+<vocab>Confessionis, Ende</vocab>
+
+--- Page 69 ---
+<lang>de</lang>
+<meta>Pencil annotations on a manuscript flyleaf; likely archival or bibliographic references.</meta>
+
+<insert>
+HBK 21
+36/2145
+ELT
+</insert>
+
+<insert>
+F I, 476 (EA v. 17III)
+Kopp II, 372 f.
+Sonst. o
+</insert>
+
+<insert>
+->UBN 7823<-
+</insert>
+
+<vocab>HBK, UBN, Kopp, archival shelfmark, bibliographic reference</vocab>
+
+--- Page 70 ---
+<lang>Unknown</lang>
+<warning>This image displays the front cover of a leather-bound book. There is no text on the main face of the cover; the only visible characters are fragmentary and located on a damaged red label on the spine (visible on the right edge).</warning>
+<meta>Binding: worn dark leather; Spine: red label with fragmentary gilt lettering.</meta>
+
+<margin>
+[On spine label:]
+<unclear>D</unclear>
+<unclear>K</unclear>
+<unclear>M</unclear>
+</margin>
+
+<vocab>leather binding, book cover, spine label</vocab>

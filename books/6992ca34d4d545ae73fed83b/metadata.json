@@ -1,0 +1,28 @@
+{
+  "id": "6992ca34d4d545ae73fed83b",
+  "title": "五百石洞天揮塵 (Wubai Shi Dongtian Huidun) Vol 1",
+  "display_title": "五百石洞天揮塵 (Wubai Shi Dongtian Huidun) Vol 1",
+  "author": "Unknown",
+  "language": "Chinese",
+  "year": 1550,
+  "published": "Unknown",
+  "pages_count": 75,
+  "pages_with_ocr": 75,
+  "pages_with_translation": 60,
+  "source_url": "https://sourcelibrary.org/book/6992ca34d4d545ae73fed83b",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "02110022.cn"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:25.243Z",
+  "_hashes": {
+    "ocr": "3926f6f13da2e4ca",
+    "translation": "f0c1711637b2d37c"
+  }
+}

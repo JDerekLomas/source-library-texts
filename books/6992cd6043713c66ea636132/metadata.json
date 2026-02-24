@@ -1,0 +1,28 @@
+{
+  "id": "6992cd6043713c66ea636132",
+  "title": "三才圖會(二十三)",
+  "display_title": "三才圖會(二十三)",
+  "author": "王圻, 王思義",
+  "language": "Chinese",
+  "year": 1609,
+  "published": "1609",
+  "pages_count": 69,
+  "pages_with_ocr": 69,
+  "pages_with_translation": 56,
+  "source_url": "https://sourcelibrary.org/book/6992cd6043713c66ea636132",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "02098290.cn"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:30.403Z",
+  "_hashes": {
+    "ocr": "e248cc43f318fa38",
+    "translation": "12b48118cdfd8f95"
+  }
+}

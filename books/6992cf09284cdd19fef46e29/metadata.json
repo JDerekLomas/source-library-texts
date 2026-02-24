@@ -1,0 +1,28 @@
+{
+  "id": "6992cf09284cdd19fef46e29",
+  "title": "考工記考辨",
+  "display_title": "考工記考辨",
+  "author": "王宗涑",
+  "language": "Chinese",
+  "year": 1850,
+  "published": "Unknown",
+  "pages_count": 74,
+  "pages_with_ocr": 74,
+  "pages_with_translation": 60,
+  "source_url": "https://sourcelibrary.org/book/6992cf09284cdd19fef46e29",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "02073714.cn"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:26.820Z",
+  "_hashes": {
+    "ocr": "fc81b8a62b17d8d4",
+    "translation": "77a2ac9313bee629"
+  }
+}

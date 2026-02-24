@@ -1,0 +1,28 @@
+{
+  "id": "699066802ec9f7db5717aac7",
+  "title": "The Secret Commonwealth of Elves, Fauns and Fairies",
+  "display_title": "The Secret Commonwealth of Elves, Fauns and Fairies",
+  "author": "Robert Kirk",
+  "language": "English",
+  "year": 1815,
+  "published": "Unknown",
+  "pages_count": 69,
+  "pages_with_ocr": 69,
+  "pages_with_translation": 69,
+  "source_url": "https://sourcelibrary.org/book/699066802ec9f7db5717aac7",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "the-secret-of-the-commonwealth-of-elves-fauns-and-fairies"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:30.076Z",
+  "_hashes": {
+    "ocr": "d67fe12dd7f2e90f",
+    "translation": "6c34925489d01ca0"
+  }
+}

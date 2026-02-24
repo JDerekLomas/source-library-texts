@@ -1,0 +1,28 @@
+{
+  "id": "6990618a322e01b1349a5136",
+  "title": "A Confirmation and Discovery of Witchcraft",
+  "display_title": "A Confirmation and Discovery of Witchcraft",
+  "author": "John Stearne",
+  "language": "English",
+  "year": 1648,
+  "published": "Unknown",
+  "pages_count": 68,
+  "pages_with_ocr": 68,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/6990618a322e01b1349a5136",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bim_early-english-books-1641-1700_a-confirmation-and-disco_stearne-john-of-lawsha_1648"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:29:31.226Z",
+  "_hashes": {
+    "ocr": "29862e8fbe05dcb7",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

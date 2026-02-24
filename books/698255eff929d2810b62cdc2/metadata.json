@@ -1,0 +1,26 @@
+{
+  "id": "698255eff929d2810b62cdc2",
+  "title": "Mytho-hermetisches Archiv. Ein periodisches Werk",
+  "display_title": "Mytho-hermetisches Archiv. Ein periodisches Werk",
+  "author": "Clavier Duplessis",
+  "language": "German",
+  "year": 1780,
+  "published": "1780",
+  "pages_count": 71,
+  "pages_with_ocr": 71,
+  "pages_with_translation": 71,
+  "source_url": "https://sourcelibrary.org/book/698255eff929d2810b62cdc2",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:28.674Z",
+  "_hashes": {
+    "ocr": "38e49da050f60a84",
+    "translation": "d863e1cb8941afd4"
+  }
+}

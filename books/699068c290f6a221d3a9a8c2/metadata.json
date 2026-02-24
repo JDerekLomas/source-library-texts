@@ -1,0 +1,28 @@
+{
+  "id": "699068c290f6a221d3a9a8c2",
+  "title": "Tatkala Bhrigu Prasna (Prasna Kalpa Vriksha)",
+  "display_title": "Tatkala Bhrigu Prasna (Prasna Kalpa Vriksha)",
+  "author": "Anonymous",
+  "language": "Sanskrit",
+  "year": 1900,
+  "published": "Unknown",
+  "pages_count": 71,
+  "pages_with_ocr": 71,
+  "pages_with_translation": 71,
+  "source_url": "https://sourcelibrary.org/book/699068c290f6a221d3a9a8c2",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "in.ernet.dli.2015.312513"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:28.835Z",
+  "_hashes": {
+    "ocr": "b4f01d4b65ac7829",
+    "translation": "a000937e52e99708"
+  }
+}

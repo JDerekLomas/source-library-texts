@@ -1,0 +1,28 @@
+{
+  "id": "c6d1eed0-e05a-4bb3-b7fe-e75f94ba4f07",
+  "title": "De Lapide Philosophorum",
+  "display_title": "Sendivogius: Novum Lumen Chymicum (1611)",
+  "author": "Michael Sendivogius",
+  "language": "Latin",
+  "year": 1604,
+  "published": "1604",
+  "pages_count": 74,
+  "pages_with_ocr": 74,
+  "pages_with_translation": 74,
+  "source_url": "https://sourcelibrary.org/book/c6d1eed0-e05a-4bb3-b7fe-e75f94ba4f07",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "hin-wel-all-00003011-001"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:26.989Z",
+  "_hashes": {
+    "ocr": "6231a66dfe11d2b5",
+    "translation": "ca7140f36e2c4941"
+  }
+}

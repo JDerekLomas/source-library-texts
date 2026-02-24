@@ -1,0 +1,28 @@
+{
+  "id": "6959334fb91a6184ea944821",
+  "title": "La Science des Mages et ses Applications Théoriques et Pratiques",
+  "display_title": "La Science des Mages et ses Applications Théoriques et Pratiques",
+  "author": "Papus (Gérard Encausse)",
+  "language": "French",
+  "year": 1892,
+  "published": "1892",
+  "pages_count": 75,
+  "pages_with_ocr": 75,
+  "pages_with_translation": 75,
+  "source_url": "https://sourcelibrary.org/book/6959334fb91a6184ea944821",
+  "license": "https://gallica.bnf.fr/html/und/conditions-dutilisation-des-contenus-de-gallica",
+  "doi": null,
+  "external_ids": {
+    "gallica": "bpt6k65434t"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:25.479Z",
+  "_hashes": {
+    "ocr": "ebc3dec83218d250",
+    "translation": "f0321cf23373a13f"
+  }
+}

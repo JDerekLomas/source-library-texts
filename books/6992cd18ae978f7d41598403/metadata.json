@@ -1,0 +1,28 @@
+{
+  "id": "6992cd18ae978f7d41598403",
+  "title": "三才圖會(四)",
+  "display_title": "三才圖會(四)",
+  "author": "王圻, 王思義",
+  "language": "Chinese",
+  "year": 1607,
+  "published": "1607",
+  "pages_count": 73,
+  "pages_with_ocr": 73,
+  "pages_with_translation": 59,
+  "source_url": "https://sourcelibrary.org/book/6992cd18ae978f7d41598403",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "02098271.cn"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:27.593Z",
+  "_hashes": {
+    "ocr": "f3274de85d766b2f",
+    "translation": "976de6aeab1999ae"
+  }
+}

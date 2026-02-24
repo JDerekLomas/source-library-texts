@@ -1,0 +1,28 @@
+{
+  "id": "69907cd45f855ec553e77a33",
+  "title": "Janma Pradeep (Natal Astrology)",
+  "display_title": "Janma Pradeep",
+  "author": "Unknown",
+  "language": "Sanskrit",
+  "year": 1800,
+  "published": "1800",
+  "pages_count": 74,
+  "pages_with_ocr": 74,
+  "pages_with_translation": 60,
+  "source_url": "https://sourcelibrary.org/book/69907cd45f855ec553e77a33",
+  "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "JanmaPradeepJyotish829GhaAlm4Shlf4DevanagariJyotisha"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:26.482Z",
+  "_hashes": {
+    "ocr": "e21f90ea6958f57a",
+    "translation": "eb1a56a6358dcd16"
+  }
+}

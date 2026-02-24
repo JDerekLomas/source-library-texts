@@ -1,0 +1,26 @@
+{
+  "id": "c1eb9995-02e3-45b3-afa1-c0a52fd5b646",
+  "title": "Geometrie practique",
+  "display_title": "Practical Geometry",
+  "author": "Bovelles, Charles de",
+  "language": "French",
+  "year": 1547,
+  "published": "1547",
+  "pages_count": 73,
+  "pages_with_ocr": 73,
+  "pages_with_translation": 73,
+  "source_url": "https://sourcelibrary.org/book/c1eb9995-02e3-45b3-afa1-c0a52fd5b646",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "mistral"
+  },
+  "synced_at": "2026-02-24T18:29:27.323Z",
+  "_hashes": {
+    "ocr": "59a3aebc779d4d76",
+    "translation": "f7aa078caa486259"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "69907cef5f855ec553e7846b",
+  "title": "Bhasha Sutikadhyaya of Varahamihira",
+  "display_title": "Bhasha Sutikadhyaya",
+  "author": "Varahamihira",
+  "language": "Sanskrit",
+  "year": 1800,
+  "published": "1800",
+  "pages_count": 73,
+  "pages_with_ocr": 73,
+  "pages_with_translation": 59,
+  "source_url": "https://sourcelibrary.org/book/69907cef5f855ec553e7846b",
+  "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "BhashaSutikadhyayaVarahMihir1185GhaAlm6Shlf1DevanagariJyotish"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:27.473Z",
+  "_hashes": {
+    "ocr": "ead81c8f567b8555",
+    "translation": "0c62078c113c6573"
+  }
+}

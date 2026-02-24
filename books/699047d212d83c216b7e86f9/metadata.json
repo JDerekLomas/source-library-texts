@@ -1,0 +1,28 @@
+{
+  "id": "699047d212d83c216b7e86f9",
+  "title": "Theory of Heat",
+  "display_title": "Theory of Heat",
+  "author": "James Clerk Maxwell",
+  "language": "English",
+  "year": 1871,
+  "published": "Unknown",
+  "pages_count": 340,
+  "pages_with_ocr": 69,
+  "pages_with_translation": 67,
+  "source_url": "https://sourcelibrary.org/book/699047d212d83c216b7e86f9",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "theoryheat03maxwgoog"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:29.979Z",
+  "_hashes": {
+    "ocr": "3c349907b4a11a63",
+    "translation": "0eb053cae49b249f"
+  }
+}

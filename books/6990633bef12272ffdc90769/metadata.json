@@ -1,0 +1,28 @@
+{
+  "id": "6990633bef12272ffdc90769",
+  "title": "De Deo Socratis",
+  "display_title": "De Deo Socratis",
+  "author": "Apuleius",
+  "language": "Latin",
+  "year": 1878,
+  "published": "1878",
+  "pages_count": 69,
+  "pages_with_ocr": 69,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/6990633bef12272ffdc90769",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "apuleiplatonici00ltgoog"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:29:30.125Z",
+  "_hashes": {
+    "ocr": "54530d1c5e24d987",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

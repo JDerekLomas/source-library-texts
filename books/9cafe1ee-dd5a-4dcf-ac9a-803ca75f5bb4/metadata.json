@@ -1,0 +1,28 @@
+{
+  "id": "9cafe1ee-dd5a-4dcf-ac9a-803ca75f5bb4",
+  "title": "Tractatus duo",
+  "display_title": "Drebbel: Tractatus duo (1628 Latin)",
+  "author": "Cornelius Drebbel; trans. Petrus Laurembergius",
+  "language": "Latin",
+  "year": 1621,
+  "published": "1621",
+  "pages_count": 69,
+  "pages_with_ocr": 69,
+  "pages_with_translation": 69,
+  "source_url": "https://sourcelibrary.org/book/9cafe1ee-dd5a-4dcf-ac9a-803ca75f5bb4",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bub_gb_7c7pB61grDgC"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:30.699Z",
+  "_hashes": {
+    "ocr": "3e0819b8bfb82f39",
+    "translation": "dee85b637792d3d7"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "69938ddad5a98fd66f42f5b9",
+  "title": "Hymnes Orphiques et Hymnes Homériques (MS Grec 2763)",
+  "display_title": "Hymnes Orphiques et Hymnes Homériques (MS Grec 2763)",
+  "author": "Orpheus; Homer; Callimachus",
+  "language": "Greek",
+  "year": null,
+  "published": "Unknown",
+  "pages_count": 69,
+  "pages_with_ocr": 69,
+  "pages_with_translation": 56,
+  "source_url": "https://sourcelibrary.org/book/69938ddad5a98fd66f42f5b9",
+  "license": "https://gallica.bnf.fr/html/und/conditions-dutilisation-des-contenus-de-gallica",
+  "doi": null,
+  "external_ids": {
+    "gallica": "btv1b10723217j"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:30.523Z",
+  "_hashes": {
+    "ocr": "75775d4b4e94f969",
+    "translation": "8f33f60d4186e13e"
+  }
+}

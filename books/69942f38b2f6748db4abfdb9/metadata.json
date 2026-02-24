@@ -1,0 +1,26 @@
+{
+  "id": "69942f38b2f6748db4abfdb9",
+  "title": "Philoponus Commentary on Aristotle Physics and Pseudo-Dionysius",
+  "display_title": "Barb.gr.591",
+  "author": "John Philoponus",
+  "language": "Greek",
+  "year": 1175,
+  "published": "1175",
+  "pages_count": 70,
+  "pages_with_ocr": 70,
+  "pages_with_translation": 56,
+  "source_url": "https://sourcelibrary.org/book/69942f38b2f6748db4abfdb9",
+  "license": "CC-BY-NC-4.0",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:28.988Z",
+  "_hashes": {
+    "ocr": "535af404dd46e442",
+    "translation": "0c81d8aa1ee2818e"
+  }
+}

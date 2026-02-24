@@ -1,0 +1,26 @@
+{
+  "id": "69906ed78a353648e1ed085f",
+  "title": "Ars Notoria sive Flores Aurei",
+  "display_title": "Vat.lat.6842",
+  "author": "Anonymous (pseudo-Solomonic)",
+  "language": "Latin",
+  "year": 1325,
+  "published": "1325",
+  "pages_count": 72,
+  "pages_with_ocr": 72,
+  "pages_with_translation": 71,
+  "source_url": "https://sourcelibrary.org/book/69906ed78a353648e1ed085f",
+  "license": "CC-BY-NC-4.0",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:28.306Z",
+  "_hashes": {
+    "ocr": "aa6200a23ed612de",
+    "translation": "218727ce4a09e019"
+  }
+}

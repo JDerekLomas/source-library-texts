@@ -1,0 +1,28 @@
+{
+  "id": "69942e9ad607f8e57e4b9960",
+  "title": "De Lapidum Virtutibus (Greek/Latin)",
+  "display_title": "De Lapidum Virtutibus (Greek/Latin)",
+  "author": "Michael Psellos",
+  "language": "Greek-Latin",
+  "year": 1606,
+  "published": "Unknown",
+  "pages_count": 76,
+  "pages_with_ocr": 76,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/69942e9ad607f8e57e4b9960",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "b30544397_0001"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:29:24.863Z",
+  "_hashes": {
+    "ocr": "e21f55f5939eaf90",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

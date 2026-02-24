@@ -1,0 +1,28 @@
+{
+  "id": "6992cabad4d545ae73fee83d",
+  "title": "五行大義 (Wuxing Dayi: Great Meaning of the Five Elements) Vol 1",
+  "display_title": "五行大義 (Wuxing Dayi: Great Meaning of the Five Elements) Vol 1",
+  "author": "Xiao Ji",
+  "language": "Chinese",
+  "year": null,
+  "published": "Unknown",
+  "pages_count": 76,
+  "pages_with_ocr": 76,
+  "pages_with_translation": 61,
+  "source_url": "https://sourcelibrary.org/book/6992cabad4d545ae73fee83d",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "02094362.cn"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:24.819Z",
+  "_hashes": {
+    "ocr": "bc6216f4ce3665d6",
+    "translation": "f637b5dbeb8c4734"
+  }
+}

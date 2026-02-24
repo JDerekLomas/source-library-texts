@@ -1,0 +1,28 @@
+{
+  "id": "699061a13d9181cce82fb707",
+  "title": "A Discourse of the Subtill Practises of Devilles by Witches",
+  "display_title": "A Discourse of the Subtill Practises of Devilles by Witches",
+  "author": "George Gifford",
+  "language": "English",
+  "year": 1587,
+  "published": "Unknown",
+  "pages_count": 71,
+  "pages_with_ocr": 71,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/699061a13d9181cce82fb707",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bim_early-english-books-1475-1640_a-discourse-of-the-p_gifford-geo_1587"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:29:28.884Z",
+  "_hashes": {
+    "ocr": "fa97bc57639a21b8",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

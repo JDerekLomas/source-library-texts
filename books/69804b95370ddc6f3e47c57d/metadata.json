@@ -1,0 +1,26 @@
+{
+  "id": "69804b95370ddc6f3e47c57d",
+  "title": "Kinder-Bett des Steins der Weisen",
+  "display_title": "Kinder-Bett des Steins der Weisen",
+  "author": "anonymous",
+  "language": "German",
+  "year": 1692,
+  "published": "1692",
+  "pages_count": 75,
+  "pages_with_ocr": 75,
+  "pages_with_translation": 75,
+  "source_url": "https://sourcelibrary.org/book/69804b95370ddc6f3e47c57d",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:25.158Z",
+  "_hashes": {
+    "ocr": "024c15b233874dbf",
+    "translation": "7090672368f38b0c"
+  }
+}

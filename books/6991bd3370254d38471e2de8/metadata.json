@@ -1,0 +1,28 @@
+{
+  "id": "6991bd3370254d38471e2de8",
+  "title": "The Solar Plexus, or Abdominal Brain",
+  "display_title": "The Solar Plexus, or Abdominal Brain",
+  "author": "Theron Q. Dumont (William Walker Atkinson)",
+  "language": "English",
+  "year": 1914,
+  "published": "Unknown",
+  "pages_count": 75,
+  "pages_with_ocr": 75,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/6991bd3370254d38471e2de8",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "solarplexusorab00dumogoog"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:29:25.071Z",
+  "_hashes": {
+    "ocr": "00d8450cd5df0330",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

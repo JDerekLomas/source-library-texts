@@ -1,0 +1,26 @@
+{
+  "id": "6992f3d6dc69844b023ff3d1",
+  "title": "三國志圖像 (Sanguo Zhi Tuxiang: Illustrated Romance of the Three Kingdoms)",
+  "display_title": "三國志圖像 (Sanguo Zhi Tuxiang: Illustrated Romance of the Three Kingdoms)",
+  "author": "Luo Guanzhong (羅貫中)",
+  "language": "Chinese",
+  "year": 1644,
+  "published": "1644-1735",
+  "pages_count": 127,
+  "pages_with_ocr": 76,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/6992f3d6dc69844b023ff3d1",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:29:24.126Z",
+  "_hashes": {
+    "ocr": "4bb8eef06a9e2688",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

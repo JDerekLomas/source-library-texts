@@ -1,0 +1,26 @@
+{
+  "id": "697c8e0f6000fdec2f130606",
+  "title": "Frawen Zimmer der Schwesteren des Rosinfarben Creutzes",
+  "display_title": "Frawen Zimmer der Schwesteren des Rosinfarben Creutzes",
+  "author": "anonymous",
+  "language": "German",
+  "year": 1620,
+  "published": "1620",
+  "pages_count": 68,
+  "pages_with_ocr": 68,
+  "pages_with_translation": 68,
+  "source_url": "https://sourcelibrary.org/book/697c8e0f6000fdec2f130606",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:30.920Z",
+  "_hashes": {
+    "ocr": "6e8f726dc520dbfc",
+    "translation": "a0a83062aad3f27c"
+  }
+}

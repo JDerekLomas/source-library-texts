@@ -1,0 +1,26 @@
+{
+  "id": "697b079aace11a36c66feec5",
+  "title": "Éloge de Court de Gébelin",
+  "display_title": "Éloge de Court de Gébelin",
+  "author": "Albon, Claude-Camille-François",
+  "language": "French",
+  "year": 1785,
+  "published": "1785",
+  "pages_count": 74,
+  "pages_with_ocr": 74,
+  "pages_with_translation": 74,
+  "source_url": "https://sourcelibrary.org/book/697b079aace11a36c66feec5",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:26.128Z",
+  "_hashes": {
+    "ocr": "4144a2377dd3de6b",
+    "translation": "fa1229c4960af40f"
+  }
+}

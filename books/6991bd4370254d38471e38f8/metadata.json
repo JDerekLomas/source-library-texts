@@ -1,0 +1,28 @@
+{
+  "id": "6991bd4370254d38471e38f8",
+  "title": "Rapport des commissaires sur le magnetisme animal",
+  "display_title": "Rapport des commissaires sur le magnetisme animal",
+  "author": "Benjamin Franklin, Bailly, Lavoisier et al.",
+  "language": "French",
+  "year": 1784,
+  "published": "Unknown",
+  "pages_count": 70,
+  "pages_with_ocr": 70,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/6991bd4370254d38471e38f8",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "b22324665"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:29:29.719Z",
+  "_hashes": {
+    "ocr": "7433812e0542c16c",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

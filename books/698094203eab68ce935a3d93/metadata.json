@@ -1,0 +1,26 @@
+{
+  "id": "698094203eab68ce935a3d93",
+  "title": "Libellus de executione eterne predestinationis",
+  "display_title": "Libellus de executione eterne predestinationis",
+  "author": "Staupitz, Johannes von",
+  "language": "Latin",
+  "year": 1517,
+  "published": "1517",
+  "pages_count": 72,
+  "pages_with_ocr": 72,
+  "pages_with_translation": 72,
+  "source_url": "https://sourcelibrary.org/book/698094203eab68ce935a3d93",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:27.744Z",
+  "_hashes": {
+    "ocr": "20bdcd3d3896ae4a",
+    "translation": "64600d9d86ec63da"
+  }
+}

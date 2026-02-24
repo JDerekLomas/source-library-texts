@@ -1,0 +1,26 @@
+{
+  "id": "6970e3669b09d309d780a27a",
+  "title": "Alchymistische Briefe",
+  "display_title": "Alchymistische Briefe",
+  "author": "[Meyer, Johann Friedrich]",
+  "language": "German",
+  "year": 1767,
+  "published": "1767",
+  "pages_count": 72,
+  "pages_with_ocr": 72,
+  "pages_with_translation": 72,
+  "source_url": "https://sourcelibrary.org/book/6970e3669b09d309d780a27a",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:27.921Z",
+  "_hashes": {
+    "ocr": "807233a6b4b572da",
+    "translation": "898acaed9e9a7d17"
+  }
+}

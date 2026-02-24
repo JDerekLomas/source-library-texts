@@ -1,0 +1,28 @@
+{
+  "id": "6992ca85d4d545ae73fee420",
+  "title": "黃帝內經太素 (Huangdi Neijing Taisu: Yellow Emperor Classic - Grand Basis) Vol 1",
+  "display_title": "黃帝內經太素 (Huangdi Neijing Taisu: Yellow Emperor Classic - Grand Basis) Vol 1",
+  "author": "attributed to Huangdi",
+  "language": "Chinese",
+  "year": 1924,
+  "published": "1924",
+  "pages_count": 77,
+  "pages_with_ocr": 77,
+  "pages_with_translation": 62,
+  "source_url": "https://sourcelibrary.org/book/6992ca85d4d545ae73fee420",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "02092666.cn"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:23.608Z",
+  "_hashes": {
+    "ocr": "8c216f7fe044211a",
+    "translation": "035d05e0edf6bf12"
+  }
+}

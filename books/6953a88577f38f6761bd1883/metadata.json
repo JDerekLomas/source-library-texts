@@ -1,0 +1,26 @@
+{
+  "id": "6953a88577f38f6761bd1883",
+  "title": "Armenian Psalter (Musée Arménien de France)",
+  "display_title": "France, Paris, Musée Arménien de France, fonds principal, Ms. 63 (intégral)",
+  "author": "Various",
+  "language": "Armenian",
+  "year": null,
+  "published": "Medieval",
+  "pages_count": 75,
+  "pages_with_ocr": 75,
+  "pages_with_translation": 75,
+  "source_url": "https://sourcelibrary.org/book/6953a88577f38f6761bd1883",
+  "license": "CC-BY-NC-4.0",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:25.650Z",
+  "_hashes": {
+    "ocr": "ecb3a3631d1f3a8c",
+    "translation": "e1490a7b420f881b"
+  }
+}

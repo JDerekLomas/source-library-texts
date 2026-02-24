@@ -1,0 +1,28 @@
+{
+  "id": "69528666ab34727b1f04c966",
+  "title": "Origin of Letters and Numerals (Sefer Yetzirah)",
+  "display_title": "The Origin of Letters and Numerals According to the Sefer Yetzirah",
+  "author": "Phineas Mordell",
+  "language": "English",
+  "year": 1914,
+  "published": "1914",
+  "pages_count": 76,
+  "pages_with_ocr": 76,
+  "pages_with_translation": 76,
+  "source_url": "https://sourcelibrary.org/book/69528666ab34727b1f04c966",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "originoflettersn00mord"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:24.302Z",
+  "_hashes": {
+    "ocr": "3f3a7815150d02e0",
+    "translation": "f7a1aab865e83c89"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "6836f8ee811c8ab472a49e36",
+  "title": "Tractatus duo. De natura elementorum. De quinta essentia",
+  "display_title": "Two Treatises: On the Nature of Elements & On the Fifth Essence",
+  "author": " Drebbel, Cornelius ",
+  "language": "Latin",
+  "year": 1628,
+  "published": "1628",
+  "pages_count": 69,
+  "pages_with_ocr": 69,
+  "pages_with_translation": 69,
+  "source_url": "https://sourcelibrary.org/book/6836f8ee811c8ab472a49e36",
+  "license": "publicdomain",
+  "doi": "10.5281/zenodo.18053504",
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:30.183Z",
+  "_hashes": {
+    "ocr": "9d981f1a02964ced",
+    "translation": "54b67f163bab3ca7"
+  }
+}

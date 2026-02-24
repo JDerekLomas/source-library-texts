@@ -1,0 +1,28 @@
+{
+  "id": "6952062aab34727b1f0432aa",
+  "title": "Pimander (Corpus Hermeticum)",
+  "display_title": "Pimander (Corpus Hermeticum)",
+  "author": "Hermes Trismegistus (trans. Marsilio Ficino)",
+  "language": "Latin",
+  "year": 1493,
+  "published": "1493",
+  "pages_count": 68,
+  "pages_with_ocr": 68,
+  "pages_with_translation": 68,
+  "source_url": "https://sourcelibrary.org/book/6952062aab34727b1f0432aa",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "gallica": "bpt6k58305g"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": null,
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:31.010Z",
+  "_hashes": {
+    "ocr": "d93d83f750b98204",
+    "translation": "4409a2dfbb30635c"
+  }
+}

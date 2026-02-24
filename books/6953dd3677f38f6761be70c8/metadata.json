@@ -1,0 +1,28 @@
+{
+  "id": "6953dd3677f38f6761be70c8",
+  "title": "Confessions of Al-Ghazali (Deliverance from Error)",
+  "display_title": "Confessions of Al-Ghazali (Deliverance from Error)",
+  "author": "Al-Ghazali",
+  "language": "Arabic-English",
+  "year": 1105,
+  "published": "Unknown",
+  "pages_count": 76,
+  "pages_with_ocr": 72,
+  "pages_with_translation": 72,
+  "source_url": "https://sourcelibrary.org/book/6953dd3677f38f6761be70c8",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "confessionsofalg00ghaziala"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:27.823Z",
+  "_hashes": {
+    "ocr": "fd7f4ef4f215b2d7",
+    "translation": "c2dba3df110eaedd"
+  }
+}
