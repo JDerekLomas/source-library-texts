@@ -1,0 +1,28 @@
+{
+  "id": "69529036b184004c526a17f8",
+  "title": "De claris selectisque mulieribus (1497 Ferrara)",
+  "display_title": "De claris selectisque mulieribus (1497 Ferrara)",
+  "author": "Giacomo Filippo Foresti",
+  "language": "Latin",
+  "year": 1497,
+  "published": "1497",
+  "pages_count": 361,
+  "pages_with_ocr": 361,
+  "pages_with_translation": 361,
+  "source_url": "https://sourcelibrary.org/book/69529036b184004c526a17f8",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "mdz": "bsb00067113"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": null,
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:25:59.423Z",
+  "_hashes": {
+    "ocr": "b190467a9de085ad",
+    "translation": "f1056af6c4372e42"
+  }
+}

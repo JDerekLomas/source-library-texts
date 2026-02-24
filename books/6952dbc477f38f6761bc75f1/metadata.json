@@ -1,0 +1,28 @@
+{
+  "id": "6952dbc477f38f6761bc75f1",
+  "title": "Opere di Giordano Bruno Nolano",
+  "display_title": "Works of Giordano Bruno the Nolan",
+  "author": "Giordano Bruno",
+  "language": "Italian",
+  "year": 1830,
+  "published": "1830",
+  "pages_count": 340,
+  "pages_with_ocr": 340,
+  "pages_with_translation": 340,
+  "source_url": "https://sourcelibrary.org/book/6952dbc477f38f6761bc75f1",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "operedigiordanob01brun"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:26:10.169Z",
+  "_hashes": {
+    "ocr": "6c07143fdd9dc8ac",
+    "translation": "1b7e7c1c09d48cfa"
+  }
+}

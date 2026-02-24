@@ -1,0 +1,28 @@
+{
+  "id": "695289bdab34727b1f04dc4d",
+  "title": "The way of perfection",
+  "display_title": "The way of perfection",
+  "author": "Teresa of Ávila",
+  "language": "English",
+  "year": 1911,
+  "published": "1911",
+  "pages_count": 346,
+  "pages_with_ocr": 346,
+  "pages_with_translation": 346,
+  "source_url": "https://sourcelibrary.org/book/695289bdab34727b1f04dc4d",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "wayofperfection00tere_0"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:26:06.808Z",
+  "_hashes": {
+    "ocr": "4aead4ecef095261",
+    "translation": "027a1ae471b96ca2"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "6952d0c777f38f6761bc59f6",
+  "title": "Arcana arcanissima",
+  "display_title": "Secrets of Secrets (Egyptian-Greek hieroglyphics)",
+  "author": "Maier, Michael",
+  "language": "Latin",
+  "year": 1614,
+  "published": "1614",
+  "pages_count": 322,
+  "pages_with_ocr": 322,
+  "pages_with_translation": 322,
+  "source_url": "https://sourcelibrary.org/book/6952d0c777f38f6761bc59f6",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "arcanaarcanissim00maie"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:26:22.469Z",
+  "_hashes": {
+    "ocr": "8b0cf927e02754f2",
+    "translation": "06c709eb3f626365"
+  }
+}

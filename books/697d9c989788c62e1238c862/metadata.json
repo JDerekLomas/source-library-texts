@@ -1,0 +1,26 @@
+{
+  "id": "697d9c989788c62e1238c862",
+  "title": "Der hermetische Nord-Stern",
+  "display_title": "Der hermetische Nord-Stern",
+  "author": "anonymous",
+  "language": "German",
+  "year": 1771,
+  "published": "1771",
+  "pages_count": 333,
+  "pages_with_ocr": 333,
+  "pages_with_translation": 7,
+  "source_url": "https://sourcelibrary.org/book/697d9c989788c62e1238c862",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:26:14.286Z",
+  "_hashes": {
+    "ocr": "75ad2e65fbafcac4",
+    "translation": "39432c0d24f9a8c8"
+  }
+}

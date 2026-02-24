@@ -1,0 +1,28 @@
+{
+  "id": "69906821249ce014347d5660",
+  "title": "Bhrigu Samhita Yogavali",
+  "display_title": "Bhrigu Samhita Yogavali",
+  "author": "Nandalal Sastri",
+  "language": "Sanskrit",
+  "year": 1920,
+  "published": "Unknown",
+  "pages_count": 343,
+  "pages_with_ocr": 343,
+  "pages_with_translation": 343,
+  "source_url": "https://sourcelibrary.org/book/69906821249ce014347d5660",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "Bhrigu_Samhita_Yogavali_-_Nandalal_Sastri_1910_Khemraj"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:26:08.981Z",
+  "_hashes": {
+    "ocr": "be0e5db81ffbaa9d",
+    "translation": "1c8acfd930f521bf"
+  }
+}

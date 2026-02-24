@@ -1,0 +1,26 @@
+{
+  "id": "697722eb7e1d5a07ae945894",
+  "title": "Bibliotheca anti-trinitariorum",
+  "display_title": "Bibliotheca anti-trinitariorum",
+  "author": "Sand, Christoph",
+  "language": "Latin",
+  "year": 1684,
+  "published": "1684",
+  "pages_count": 330,
+  "pages_with_ocr": 330,
+  "pages_with_translation": 7,
+  "source_url": "https://sourcelibrary.org/book/697722eb7e1d5a07ae945894",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:26:16.669Z",
+  "_hashes": {
+    "ocr": "04e3650da6b79dcf",
+    "translation": "5d126cfb65249347"
+  }
+}

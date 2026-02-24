@@ -1,0 +1,28 @@
+{
+  "id": "17c0e140-78f4-420f-98b3-01bf7dbb683a",
+  "title": "De re aedificatoria",
+  "display_title": "Alberti: De re aedificatoria (1512 Paris)",
+  "author": "Leon Battista Alberti",
+  "language": "Latin",
+  "year": 1485,
+  "published": "1485",
+  "pages_count": 380,
+  "pages_with_ocr": 380,
+  "pages_with_translation": 380,
+  "source_url": "https://sourcelibrary.org/book/17c0e140-78f4-420f-98b3-01bf7dbb683a",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bub_gb_nJIqYfOjJIEC"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:25:51.498Z",
+  "_hashes": {
+    "ocr": "a993ceb3b7c0e281",
+    "translation": "6ace2962a466cb4a"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "93c0e5f5-40e5-4f9a-b07b-1d67ed2d05a2",
+  "title": "Orbis Sensualium Pictus",
+  "display_title": "Orbis Sensualium Pictus (1659 First English)",
+  "author": "Jan Amos Comenius",
+  "language": "Latin/English",
+  "year": 1658,
+  "published": "1658",
+  "pages_count": 353,
+  "pages_with_ocr": 352,
+  "pages_with_translation": 351,
+  "source_url": "https://sourcelibrary.org/book/93c0e5f5-40e5-4f9a-b07b-1d67ed2d05a2",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bim_early-english-books-1641-1700_joh-amos-commenii-orbi_comenius-johann-amos_1659"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:26:05.888Z",
+  "_hashes": {
+    "ocr": "8392ccb1ce716104",
+    "translation": "65b46205c2d46f21"
+  }
+}

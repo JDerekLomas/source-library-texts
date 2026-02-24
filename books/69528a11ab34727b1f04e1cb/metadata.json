@@ -1,0 +1,28 @@
+{
+  "id": "69528a11ab34727b1f04e1cb",
+  "title": "The Key to Theosophy",
+  "display_title": "The Key to Theosophy",
+  "author": "Helena Blavatsky",
+  "language": "English",
+  "year": 1889,
+  "published": "1889",
+  "pages_count": 352,
+  "pages_with_ocr": 352,
+  "pages_with_translation": 344,
+  "source_url": "https://sourcelibrary.org/book/69528a11ab34727b1f04e1cb",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "thekeytotheosoph00blavuoft"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:26:05.512Z",
+  "_hashes": {
+    "ocr": "50fff92d96e274e0",
+    "translation": "05e5c857d03916a4"
+  }
+}

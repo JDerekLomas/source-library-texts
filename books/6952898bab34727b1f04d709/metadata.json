@@ -1,0 +1,28 @@
+{
+  "id": "6952898bab34727b1f04d709",
+  "title": "La chymie charitable et facile en faveur des dames",
+  "display_title": "La chymie charitable et facile en faveur des dames",
+  "author": "Marie Meurdrac",
+  "language": "French",
+  "year": 1666,
+  "published": "1666",
+  "pages_count": 371,
+  "pages_with_ocr": 371,
+  "pages_with_translation": 371,
+  "source_url": "https://sourcelibrary.org/book/6952898bab34727b1f04d709",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "gallica": "bpt6k108042h"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": null,
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:25:54.181Z",
+  "_hashes": {
+    "ocr": "f7b88d4c296379a2",
+    "translation": "80ed032252dad978"
+  }
+}

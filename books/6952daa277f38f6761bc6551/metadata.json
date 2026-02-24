@@ -1,0 +1,28 @@
+{
+  "id": "6952daa277f38f6761bc6551",
+  "title": "De Occulta Philosophia Libri Tres",
+  "display_title": "Three Books of Occult Philosophy",
+  "author": "Heinrich Cornelius Agrippa von Nettesheim",
+  "language": "Latin",
+  "year": 1533,
+  "published": "1533",
+  "pages_count": 370,
+  "pages_with_ocr": 370,
+  "pages_with_translation": 363,
+  "source_url": "https://sourcelibrary.org/book/6952daa277f38f6761bc6551",
+  "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "DeOccultaPhilosophiaLoc1533"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:25:54.798Z",
+  "_hashes": {
+    "ocr": "0d679bc195904c22",
+    "translation": "ecacfaab0694f427"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "690c44f3e0787282ad593d7d",
+  "title": "Kirchen- oder Haus-Postill, über die Sonntags- und fürnehmste Fest-Evangelien durchs gantze Jahr",
+  "display_title": "Church or Home Postil: On the Gospels for Sundays and Principal Feasts Throughout the Entire Year",
+  "author": "Weigel, Valentin",
+  "language": "German",
+  "year": 1700,
+  "published": "1700",
+  "pages_count": 336,
+  "pages_with_ocr": 336,
+  "pages_with_translation": 334,
+  "source_url": "https://sourcelibrary.org/book/690c44f3e0787282ad593d7d",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:26:12.615Z",
+  "_hashes": {
+    "ocr": "e8dd0238faea380a",
+    "translation": "6272d9129aa65153"
+  }
+}

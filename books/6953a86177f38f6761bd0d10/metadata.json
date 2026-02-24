@@ -1,0 +1,28 @@
+{
+  "id": "6953a86177f38f6761bd0d10",
+  "title": "Monumenta Sacra Inedita (Tischendorf)",
+  "display_title": "Monumenta Sacra Inedita (Tischendorf)",
+  "author": "Constantin von Tischendorf",
+  "language": "Greek",
+  "year": 1855,
+  "published": "Unknown",
+  "pages_count": 347,
+  "pages_with_ocr": 347,
+  "pages_with_translation": 346,
+  "source_url": "https://sourcelibrary.org/book/6953a86177f38f6761bd0d10",
+  "license": "http://creativecommons.org/licenses/publicdomain/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "Tischendorf.iv.monumentaSacraInedita.newcollection.subscript.6vols.1857-1870"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:26:06.470Z",
+  "_hashes": {
+    "ocr": "5471b586c2ab351a",
+    "translation": "300b30bb02d21b0b"
+  }
+}

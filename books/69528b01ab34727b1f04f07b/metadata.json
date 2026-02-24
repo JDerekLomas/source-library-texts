@@ -1,0 +1,28 @@
+{
+  "id": "69528b01ab34727b1f04f07b",
+  "title": "Das fliessende Licht der Gottheit (The Flowing Light of the Godhead)",
+  "display_title": "Das fliessende Licht der Gottheit (The Flowing Light of the Godhead)",
+  "author": "Mechthild of Magdeburg",
+  "language": "German",
+  "year": 1869,
+  "published": "1869",
+  "pages_count": 324,
+  "pages_with_ocr": 324,
+  "pages_with_translation": 319,
+  "source_url": "https://sourcelibrary.org/book/69528b01ab34727b1f04f07b",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bub_gb_TiQDAAAAQAAJ"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:26:21.532Z",
+  "_hashes": {
+    "ocr": "2316bff28b5a0abc",
+    "translation": "3a4934c02381e04c"
+  }
+}

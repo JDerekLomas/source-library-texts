@@ -1,0 +1,28 @@
+{
+  "id": "695201c3ab34727b1f041b02",
+  "title": "De Restituta utriusque medicinae vera praxi",
+  "display_title": "De Restituta utriusque medicinae vera praxi",
+  "author": "Theophrastus Paracelsus (ed. Gerard Dorn)",
+  "language": "Latin",
+  "year": 1578,
+  "published": "1578",
+  "pages_count": 330,
+  "pages_with_ocr": 330,
+  "pages_with_translation": 292,
+  "source_url": "https://sourcelibrary.org/book/695201c3ab34727b1f041b02",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "gallica": "bpt6k6531337m"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": null,
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:26:17.611Z",
+  "_hashes": {
+    "ocr": "5482cf2c4efb00de",
+    "translation": "106127632fe76fa3"
+  }
+}

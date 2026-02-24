@@ -1,0 +1,28 @@
+{
+  "id": "69905f5340bc3a0478efc535",
+  "title": "Panchasiddhantika",
+  "display_title": "Panchasiddhantika",
+  "author": "Varahamihira",
+  "language": "Sanskrit",
+  "year": 1889,
+  "published": "1889",
+  "pages_count": 330,
+  "pages_with_ocr": 330,
+  "pages_with_translation": 330,
+  "source_url": "https://sourcelibrary.org/book/69905f5340bc3a0478efc535",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "wg1078"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:26:18.341Z",
+  "_hashes": {
+    "ocr": "fe7458252fd0e0d5",
+    "translation": "34d3ec7159c07147"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "6955845f57e3b773024f9144",
+  "title": "The Book of Fenagh (Leabhar Fhianach)",
+  "display_title": "The Book of Fenagh (Leabhar Fhianach)",
+  "author": "Dublin Irish Texts Society",
+  "language": "English",
+  "year": 1916,
+  "published": "Unknown",
+  "pages_count": 478,
+  "pages_with_ocr": 360,
+  "pages_with_translation": 198,
+  "source_url": "https://sourcelibrary.org/book/6955845f57e3b773024f9144",
+  "license": "http://creativecommons.org/licenses/by-nc-sa/2.5/scotland/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bookoffenaghinir00dubl"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:26:00.697Z",
+  "_hashes": {
+    "ocr": "b5c3fb1094222779",
+    "translation": "8ab07e96d5daca46"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "6975158ba88d83c830d99e26",
+  "title": "Der aufgezogne Vorhang der Freijmaurereij",
+  "display_title": "Der aufgezogne Vorhang der Freijmaurereij",
+  "author": "[Wierz, Johann Jacob]",
+  "language": "German",
+  "year": 1790,
+  "published": "1790",
+  "pages_count": 376,
+  "pages_with_ocr": 376,
+  "pages_with_translation": 5,
+  "source_url": "https://sourcelibrary.org/book/6975158ba88d83c830d99e26",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:25:52.497Z",
+  "_hashes": {
+    "ocr": "d572760d6b6d0724",
+    "translation": "6ee5ac1e3773a53c"
+  }
+}

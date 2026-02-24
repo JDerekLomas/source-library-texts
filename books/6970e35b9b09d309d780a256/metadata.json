@@ -1,0 +1,26 @@
+{
+  "id": "6970e35b9b09d309d780a256",
+  "title": "Der äussere und innere güldene Augen-Spiegel",
+  "display_title": "Der äussere und innere güldene Augen-Spiegel",
+  "author": "Anonymous",
+  "language": "German",
+  "year": 1713,
+  "published": "1713",
+  "pages_count": 358,
+  "pages_with_ocr": 358,
+  "pages_with_translation": 350,
+  "source_url": "https://sourcelibrary.org/book/6970e35b9b09d309d780a256",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:26:02.894Z",
+  "_hashes": {
+    "ocr": "66c966359adc7080",
+    "translation": "454e683f5d9c5119"
+  }
+}

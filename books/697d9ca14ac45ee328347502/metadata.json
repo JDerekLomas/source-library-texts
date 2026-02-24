@@ -1,0 +1,26 @@
+{
+  "id": "697d9ca14ac45ee328347502",
+  "title": "Der hermetische Philosophus, oder Haupt-Schlüssel",
+  "display_title": "Der hermetische Philosophus, oder Haupt-Schlüssel",
+  "author": "anonymous",
+  "language": "German",
+  "year": 1709,
+  "published": "1709",
+  "pages_count": 383,
+  "pages_with_ocr": 383,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/697d9ca14ac45ee328347502",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:25:48.293Z",
+  "_hashes": {
+    "ocr": "c32a771fb51a5ee5",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "6952db5777f38f6761bc7519",
+  "title": "Prodromus Coptus sive Aegyptiacus",
+  "display_title": "Coptic Forerunner: On the Egyptian Language",
+  "author": "Athanasius Kircher",
+  "language": "Latin",
+  "year": 1636,
+  "published": "1636",
+  "pages_count": 368,
+  "pages_with_ocr": 368,
+  "pages_with_translation": 368,
+  "source_url": "https://sourcelibrary.org/book/6952db5777f38f6761bc7519",
+  "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bub_gb_r0uxhLmltfQC"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:25:56.111Z",
+  "_hashes": {
+    "ocr": "180913bebc9949f0",
+    "translation": "4583e26477d129d4"
+  }
+}

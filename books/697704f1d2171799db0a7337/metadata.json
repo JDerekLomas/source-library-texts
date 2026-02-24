@@ -1,0 +1,26 @@
+{
+  "id": "697704f1d2171799db0a7337",
+  "title": "Beschryvinghe van Albrecht Durer, van de menschelijcke Proportion",
+  "display_title": "Beschryvinghe van Albrecht Durer, van de menschelijcke Proportion",
+  "author": "Dürer, Albrecht",
+  "language": "Dutch",
+  "year": 1622,
+  "published": "1622",
+  "pages_count": 329,
+  "pages_with_ocr": 328,
+  "pages_with_translation": 4,
+  "source_url": "https://sourcelibrary.org/book/697704f1d2171799db0a7337",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:26:19.735Z",
+  "_hashes": {
+    "ocr": "f6a21d7199c54bec",
+    "translation": "4c9dc3d0e84039f5"
+  }
+}

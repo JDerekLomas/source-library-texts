@@ -1,0 +1,28 @@
+{
+  "id": "912cf0da-035c-425b-8975-e5a195a47767",
+  "title": "De Mysteriis Aegyptiorum",
+  "display_title": "Iamblichus De Mysteriis (1497 Aldine)",
+  "author": "Iamblichus; Proclus; Porphyry; trans. Marsilio Ficino",
+  "language": "Latin",
+  "year": 1497,
+  "published": "1497",
+  "pages_count": 381,
+  "pages_with_ocr": 381,
+  "pages_with_translation": 381,
+  "source_url": "https://sourcelibrary.org/book/912cf0da-035c-425b-8975-e5a195a47767",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "A335081"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:25:50.398Z",
+  "_hashes": {
+    "ocr": "0d2e560a64dd646d",
+    "translation": "2d2b3fa2999d2197"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "695234ddab34727b1f044cd2",
+  "title": "The Hermetic Museum (Vol. 1)",
+  "display_title": "The Hermetic Museum (Vol. 1)",
+  "author": "Various (trans. A.E. Waite)",
+  "language": "English",
+  "year": 1893,
+  "published": "1893",
+  "pages_count": 380,
+  "pages_with_ocr": 380,
+  "pages_with_translation": 380,
+  "source_url": "https://sourcelibrary.org/book/695234ddab34727b1f044cd2",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "b24927363_0001"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:25:50.890Z",
+  "_hashes": {
+    "ocr": "69b078c378600840",
+    "translation": "0de50c3037b8c691"
+  }
+}

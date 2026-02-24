@@ -1,0 +1,28 @@
+{
+  "id": "69906304e7b7642c081dd7a9",
+  "title": "Prasna Marga",
+  "display_title": "Prasna Marga",
+  "author": "Nilakantha",
+  "language": "Sanskrit",
+  "year": 1649,
+  "published": "Unknown",
+  "pages_count": 347,
+  "pages_with_ocr": 344,
+  "pages_with_translation": 344,
+  "source_url": "https://sourcelibrary.org/book/69906304e7b7642c081dd7a9",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "prasnamarga035823mbp"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:26:08.186Z",
+  "_hashes": {
+    "ocr": "1a7a0f2c6abafeaf",
+    "translation": "5191cf64e07256dd"
+  }
+}

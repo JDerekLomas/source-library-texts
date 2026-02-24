@@ -1,0 +1,26 @@
+{
+  "id": "697773f2e832d9422ad6e0ce",
+  "title": "Das Buch Hiob",
+  "display_title": "Das Buch Hiob",
+  "author": "Sander, Heinrich",
+  "language": "German",
+  "year": 1780,
+  "published": "1780",
+  "pages_count": 344,
+  "pages_with_ocr": 344,
+  "pages_with_translation": 5,
+  "source_url": "https://sourcelibrary.org/book/697773f2e832d9422ad6e0ce",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:26:07.685Z",
+  "_hashes": {
+    "ocr": "aa3d06f8c7aece66",
+    "translation": "39970ee9d4431f51"
+  }
+}

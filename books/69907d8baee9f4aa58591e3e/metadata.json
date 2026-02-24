@@ -1,0 +1,28 @@
+{
+  "id": "69907d8baee9f4aa58591e3e",
+  "title": "Narpati Jayacharya (Royal Astrology)",
+  "display_title": "Narpati Jayacharya",
+  "author": "Unknown",
+  "language": "Sanskrit",
+  "year": 1800,
+  "published": "1800",
+  "pages_count": 334,
+  "pages_with_ocr": 334,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/69907d8baee9f4aa58591e3e",
+  "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "NarpatiJayacharya5451Alm25Shlf1GhaDevanagariJyotish"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:26:14.030Z",
+  "_hashes": {
+    "ocr": "08decd239dd7d0a9",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

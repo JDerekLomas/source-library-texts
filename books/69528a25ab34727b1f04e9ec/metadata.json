@@ -1,0 +1,28 @@
+{
+  "id": "69528a25ab34727b1f04e9ec",
+  "title": "The Perfect Way: Or, The Finding of Christ",
+  "display_title": "The Perfect Way: Or, The Finding of Christ",
+  "author": "Anna Kingsford",
+  "language": "English",
+  "year": 1882,
+  "published": "1882",
+  "pages_count": 387,
+  "pages_with_ocr": 387,
+  "pages_with_translation": 387,
+  "source_url": "https://sourcelibrary.org/book/69528a25ab34727b1f04e9ec",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "perfectwayorfin01maitgoog"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:25:44.873Z",
+  "_hashes": {
+    "ocr": "c29a7c44ca8f96d4",
+    "translation": "4e8d9d772872264b"
+  }
+}

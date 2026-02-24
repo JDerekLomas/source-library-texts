@@ -1,0 +1,28 @@
+{
+  "id": "699066f5249ce014347d21b6",
+  "title": "Ramala Shastra (Geomancy)",
+  "display_title": "Ramala Shastra (Geomancy)",
+  "author": "Balakrishna Malhara Lada",
+  "language": "Sanskrit",
+  "year": 1700,
+  "published": "Unknown",
+  "pages_count": 384,
+  "pages_with_ocr": 384,
+  "pages_with_translation": 384,
+  "source_url": "https://sourcelibrary.org/book/699066f5249ce014347d21b6",
+  "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "TugV_ramala-shastra-by-balakrishna-malhara-lada-marathi-shri-ram-tattva-printing-press"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:25:47.364Z",
+  "_hashes": {
+    "ocr": "fe98248a9eee71bc",
+    "translation": "f831af23d0265849"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "695207e4ab34727b1f043cf6",
+  "title": "Artis auriferae quam chemiam vocant",
+  "display_title": "The Art of Gold-Making (Alchemy Anthology)",
+  "author": "Various (Turba Philosophorum, Pseudo-Lull, Albertus Magnus, etc.)",
+  "language": "Latin",
+  "year": 1609,
+  "published": "1609",
+  "pages_count": 361,
+  "pages_with_ocr": 361,
+  "pages_with_translation": 361,
+  "source_url": "https://sourcelibrary.org/book/695207e4ab34727b1f043cf6",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "gallica": "bpt6k56090007"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:25:59.010Z",
+  "_hashes": {
+    "ocr": "1af59e33c55be25b",
+    "translation": "3e32abec6bf68f02"
+  }
+}

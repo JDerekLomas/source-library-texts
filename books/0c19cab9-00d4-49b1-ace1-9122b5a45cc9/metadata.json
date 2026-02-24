@@ -1,0 +1,28 @@
+{
+  "id": "0c19cab9-00d4-49b1-ace1-9122b5a45cc9",
+  "title": "De Occulta Philosophia Libri Tres (1533)",
+  "display_title": "Three Books of Occult Philosophy (1533 Latin)",
+  "author": "Heinrich Cornelius Agrippa",
+  "language": "Latin",
+  "year": 1533,
+  "published": "1533",
+  "pages_count": 382,
+  "pages_with_ocr": 382,
+  "pages_with_translation": 378,
+  "source_url": "https://sourcelibrary.org/book/0c19cab9-00d4-49b1-ace1-9122b5a45cc9",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "McGillLibrary-osl_henrici-cornelii-agrippae_folioA279o1533-19978"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:25:49.243Z",
+  "_hashes": {
+    "ocr": "7e06e8c594e46c27",
+    "translation": "5d86ecdabfeb70bd"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "69907971b621b177c1af74df",
+  "title": "Surya Siddhanta with Ranganatha Commentary",
+  "display_title": "Surya Siddhanta (Ranganatha)",
+  "author": "Ranganatha (comm.); RC Panday (ed.)",
+  "language": "Sanskrit",
+  "year": 1900,
+  "published": "1900",
+  "pages_count": 387,
+  "pages_with_ocr": 387,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/69907971b621b177c1af74df",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "surya-siddhanta"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:25:45.369Z",
+  "_hashes": {
+    "ocr": "ee930438d959c38f",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

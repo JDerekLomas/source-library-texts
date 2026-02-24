@@ -1,0 +1,28 @@
+{
+  "id": "69520714ab34727b1f043564",
+  "title": "De mysteriis Aegyptiorum, Chaldaeorum, Assyriorum",
+  "display_title": "On the Mysteries of the Egyptians, Chaldeans, and Assyrians",
+  "author": "Iamblichus (trans. Marsilio Ficino)",
+  "language": "Latin",
+  "year": 1497,
+  "published": "1497",
+  "pages_count": 374,
+  "pages_with_ocr": 374,
+  "pages_with_translation": 374,
+  "source_url": "https://sourcelibrary.org/book/69520714ab34727b1f043564",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "gallica": "bpt6k585129"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:25:53.299Z",
+  "_hashes": {
+    "ocr": "6aa0d38f6d7ae0b3",
+    "translation": "2527cc2f61f8a972"
+  }
+}

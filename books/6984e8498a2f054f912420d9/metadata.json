@@ -1,0 +1,26 @@
+{
+  "id": "6984e8498a2f054f912420d9",
+  "title": "Philosophiae et medicinae utriusque universae, compendium",
+  "display_title": "Philosophiae et medicinae utriusque universae, compendium",
+  "author": "Paracelsus, Theophrastus",
+  "language": "Latin",
+  "year": 1568,
+  "published": "1568",
+  "pages_count": 448,
+  "pages_with_ocr": 383,
+  "pages_with_translation": 6,
+  "source_url": "https://sourcelibrary.org/book/6984e8498a2f054f912420d9",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:25:48.621Z",
+  "_hashes": {
+    "ocr": "88384d34501c8911",
+    "translation": "6d9158aef2310867"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "6991eabc2f801130a473e2bc",
+  "title": "I manoscritti di Leonardo da Vinci: Dell'anatomia, fogli A",
+  "display_title": "I manoscritti di Leonardo da Vinci: Dell'anatomia, fogli A",
+  "author": "Leonardo da Vinci (ed. Sabachnikoff & Piumati)",
+  "language": "Italian",
+  "year": 1901,
+  "published": "Unknown",
+  "pages_count": 358,
+  "pages_with_ocr": 358,
+  "pages_with_translation": 358,
+  "source_url": "https://sourcelibrary.org/book/6991eabc2f801130a473e2bc",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "imanoscrittidile00leon_0"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:26:02.412Z",
+  "_hashes": {
+    "ocr": "9489e9510bc45bcb",
+    "translation": "532b235e8e07d17b"
+  }
+}

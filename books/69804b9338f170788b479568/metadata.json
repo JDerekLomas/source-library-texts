@@ -1,0 +1,26 @@
+{
+  "id": "69804b9338f170788b479568",
+  "title": "Kern der Alchymie",
+  "display_title": "Kern der Alchymie",
+  "author": "[Starkey, George]",
+  "language": "German",
+  "year": 1685,
+  "published": "1685",
+  "pages_count": 362,
+  "pages_with_ocr": 362,
+  "pages_with_translation": 5,
+  "source_url": "https://sourcelibrary.org/book/69804b9338f170788b479568",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:25:57.611Z",
+  "_hashes": {
+    "ocr": "f1406be1570e8b8d",
+    "translation": "ae896237be0af152"
+  }
+}

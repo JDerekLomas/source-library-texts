@@ -1,0 +1,28 @@
+{
+  "id": "69528aaeab34727b1f04ef1d",
+  "title": "Les sept méditations de Sainte Thérèse sur le Pater",
+  "display_title": "Les sept méditations de Sainte Thérèse sur le Pater",
+  "author": "Teresa of Ávila",
+  "language": "French",
+  "year": 1601,
+  "published": "1601",
+  "pages_count": 349,
+  "pages_with_ocr": 349,
+  "pages_with_translation": 349,
+  "source_url": "https://sourcelibrary.org/book/69528aaeab34727b1f04ef1d",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "gallica": "bpt6k1519338x"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": null,
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:26:06.098Z",
+  "_hashes": {
+    "ocr": "4ecb094851ce9803",
+    "translation": "a792af7804749088"
+  }
+}

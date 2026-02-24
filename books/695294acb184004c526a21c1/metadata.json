@@ -1,0 +1,28 @@
+{
+  "id": "695294acb184004c526a21c1",
+  "title": "Sylva sylvarum: or A naturall historie. In ten centuries",
+  "display_title": "Sylva Sylvarum (1631 English edition)",
+  "author": "Bacon, Francis",
+  "language": "English",
+  "year": 1631,
+  "published": "1631",
+  "pages_count": 338,
+  "pages_with_ocr": 338,
+  "pages_with_translation": 338,
+  "source_url": "https://sourcelibrary.org/book/695294acb184004c526a21c1",
+  "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "baconsylvasylvarum"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:26:10.709Z",
+  "_hashes": {
+    "ocr": "bbedefb1cfe11114",
+    "translation": "d60b9c2dc6c9182f"
+  }
+}

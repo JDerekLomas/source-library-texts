@@ -1,0 +1,28 @@
+{
+  "id": "694b3a03ffae839f0ec62004",
+  "title": "Jordani Bruni Nolani opera latine conscripta publicis sumptibus edita",
+  "display_title": "The Latin Works of Giordano Bruno",
+  "author": "Bruno, Giordano, 1548-1600",
+  "language": "Latin",
+  "year": 1879,
+  "published": "1879",
+  "pages_count": 386,
+  "pages_with_ocr": 386,
+  "pages_with_translation": 362,
+  "source_url": "https://sourcelibrary.org/book/694b3a03ffae839f0ec62004",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "jordanibruninola2pt2brun"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:25:46.063Z",
+  "_hashes": {
+    "ocr": "eec7a7e2dc6215ab",
+    "translation": "e54f8fff6067fcac"
+  }
+}

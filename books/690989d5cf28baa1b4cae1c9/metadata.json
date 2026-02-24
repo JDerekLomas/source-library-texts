@@ -1,0 +1,26 @@
+{
+  "id": "690989d5cf28baa1b4cae1c9",
+  "title": "Pymander. Asclepius. De mysteriis Aegyptiorum. In Platonicum Alcibiadem, de anima & daemone. De sacrificio",
+  "display_title": "Pymander. Asclepius. On the Mysteries of the Egyptians. On Plato's Alcibiades, on the Soul and the Daemon. On Sacrifice.",
+  "author": "Hermes Trismegistus|Jamblichus|Proclus",
+  "language": "Latin",
+  "year": 1532,
+  "published": "1532",
+  "pages_count": 336,
+  "pages_with_ocr": 336,
+  "pages_with_translation": 335,
+  "source_url": "https://sourcelibrary.org/book/690989d5cf28baa1b4cae1c9",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:26:12.942Z",
+  "_hashes": {
+    "ocr": "e0c1723b4d9d36c8",
+    "translation": "85d3a6c539ee1383"
+  }
+}

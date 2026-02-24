@@ -1,0 +1,26 @@
+{
+  "id": "697b079a086dd98fdbf8aa98",
+  "title": "Enchiridion ethicum",
+  "display_title": "Enchiridion ethicum",
+  "author": "More, Henry",
+  "language": "Latin",
+  "year": 1695,
+  "published": "1695",
+  "pages_count": 376,
+  "pages_with_ocr": 376,
+  "pages_with_translation": 7,
+  "source_url": "https://sourcelibrary.org/book/697b079a086dd98fdbf8aa98",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:25:52.659Z",
+  "_hashes": {
+    "ocr": "e62cdd2a4b5f6728",
+    "translation": "ec1a8608b2c2bc1e"
+  }
+}

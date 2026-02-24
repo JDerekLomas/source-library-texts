@@ -1,0 +1,28 @@
+{
+  "id": "6952dc0077f38f6761bc7792",
+  "title": "Philosophy Reformed and Improved",
+  "display_title": "Philosophy Reformed: Four Profound Tractates",
+  "author": "Paracelsus",
+  "language": "English",
+  "year": 1657,
+  "published": "1657",
+  "pages_count": 322,
+  "pages_with_ocr": 322,
+  "pages_with_translation": 322,
+  "source_url": "https://sourcelibrary.org/book/6952dc0077f38f6761bc7792",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "philosophyrefor00paragoog"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:26:22.065Z",
+  "_hashes": {
+    "ocr": "e19ec8f4ffde61f2",
+    "translation": "2485b16d3bc31928"
+  }
+}

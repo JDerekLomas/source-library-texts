@@ -1,0 +1,28 @@
+{
+  "id": "6952d08677f38f6761bc5477",
+  "title": "Amphitheatrum sapientiae aeternae",
+  "display_title": "Amphitheatre of Eternal Wisdom (1609)",
+  "author": "Khunrath, Heinrich",
+  "language": "Latin",
+  "year": 1609,
+  "published": "1609",
+  "pages_count": 337,
+  "pages_with_ocr": 337,
+  "pages_with_translation": 335,
+  "source_url": "https://sourcelibrary.org/book/6952d08677f38f6761bc5477",
+  "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bub_gb_S-dWEySknaAC"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:26:11.599Z",
+  "_hashes": {
+    "ocr": "7fb21539ffdbc38b",
+    "translation": "c2e1fb2dcd570041"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "69528b14ab34727b1f04f20a",
+  "title": "Le livre des visions et instructions de la bienheureuse Angèle de Foligno",
+  "display_title": "Le livre des visions et instructions de la bienheureuse Angèle de Foligno",
+  "author": "Angela of Foligno",
+  "language": "French",
+  "year": 1921,
+  "published": "1921",
+  "pages_count": 360,
+  "pages_with_ocr": 360,
+  "pages_with_translation": 360,
+  "source_url": "https://sourcelibrary.org/book/69528b14ab34727b1f04f20a",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "lelivredesvision00ange"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:26:01.053Z",
+  "_hashes": {
+    "ocr": "c01d875a03c973be",
+    "translation": "73f112e6a3ed7428"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "6970e35c9b09d309d780a25a",
+  "title": "Aglais",
+  "display_title": "Aglais",
+  "author": "Eckartshausen, Karl von",
+  "language": "German",
+  "year": 1787,
+  "published": "1787",
+  "pages_count": 356,
+  "pages_with_ocr": 356,
+  "pages_with_translation": 335,
+  "source_url": "https://sourcelibrary.org/book/6970e35c9b09d309d780a25a",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:26:03.216Z",
+  "_hashes": {
+    "ocr": "f953c0b9498131e6",
+    "translation": "d863e0c77baedc46"
+  }
+}

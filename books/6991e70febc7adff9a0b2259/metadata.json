@@ -1,0 +1,26 @@
+{
+  "id": "6991e70febc7adff9a0b2259",
+  "title": "Codex Forster II",
+  "display_title": "Codex Forster II (National Art Library, Museum no. MSL/1876/Forster/141/II)",
+  "author": "Leonardo da Vinci",
+  "language": "Italian",
+  "year": 1495,
+  "published": "1495",
+  "pages_count": 324,
+  "pages_with_ocr": 324,
+  "pages_with_translation": 324,
+  "source_url": "https://sourcelibrary.org/book/6991e70febc7adff9a0b2259",
+  "license": "unknown",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:26:21.123Z",
+  "_hashes": {
+    "ocr": "209541a484af951e",
+    "translation": "0dfdc9482c48b84b"
+  }
+}

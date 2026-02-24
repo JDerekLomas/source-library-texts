@@ -1,0 +1,28 @@
+{
+  "id": "69568909be7c607c5f03c44d",
+  "title": "Hieronymi Mercurialis De arte gymnastica libri sex",
+  "display_title": "Six Books of Girolamo Mercuriale on the Art of Gymnastics",
+  "author": "Mercuriale, Girolamo, 1530-1606",
+  "language": "Latin",
+  "year": 1587,
+  "published": "1587",
+  "pages_count": 360,
+  "pages_with_ocr": 360,
+  "pages_with_translation": 347,
+  "source_url": "https://sourcelibrary.org/book/69568909be7c607c5f03c44d",
+  "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "ARes20309"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:26:00.437Z",
+  "_hashes": {
+    "ocr": "a3fd6574353bc91a",
+    "translation": "e5b45adf098be8d4"
+  }
+}

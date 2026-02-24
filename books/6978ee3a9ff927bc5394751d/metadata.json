@@ -1,0 +1,26 @@
+{
+  "id": "6978ee3a9ff927bc5394751d",
+  "title": "Chymische Werke",
+  "display_title": "Chymische Werke",
+  "author": "Flamel, Nicolas",
+  "language": "German",
+  "year": 1751,
+  "published": "1751",
+  "pages_count": 341,
+  "pages_with_ocr": 341,
+  "pages_with_translation": 1,
+  "source_url": "https://sourcelibrary.org/book/6978ee3a9ff927bc5394751d",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:26:09.318Z",
+  "_hashes": {
+    "ocr": "6b9e062b7c7920ba",
+    "translation": "6f452474b2243dcd"
+  }
+}

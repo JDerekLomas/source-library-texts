@@ -1,0 +1,26 @@
+{
+  "id": "697a3055b43fe17045043be2",
+  "title": "Le cueur de philosophie",
+  "display_title": "Le cueur de philosophie",
+  "author": "anonymous",
+  "language": "French",
+  "year": 1534,
+  "published": "1534",
+  "pages_count": 342,
+  "pages_with_ocr": 342,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/697a3055b43fe17045043be2",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:26:09.157Z",
+  "_hashes": {
+    "ocr": "59e06068f59281b8",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

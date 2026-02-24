@@ -1,0 +1,26 @@
+{
+  "id": "6970e35b9b09d309d780a258",
+  "title": "Af-beeldingen van sommighe in Godts-woort ervarene mannen",
+  "display_title": "Af-beeldingen van sommighe in Godts-woort ervarene mannen",
+  "author": "Verheiden, Jacobus",
+  "language": "Dutch",
+  "year": 1603,
+  "published": "1603",
+  "pages_count": 329,
+  "pages_with_ocr": 329,
+  "pages_with_translation": 254,
+  "source_url": "https://sourcelibrary.org/book/6970e35b9b09d309d780a258",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:26:18.914Z",
+  "_hashes": {
+    "ocr": "5b990b47e922c425",
+    "translation": "948f6ed4f6186c6a"
+  }
+}

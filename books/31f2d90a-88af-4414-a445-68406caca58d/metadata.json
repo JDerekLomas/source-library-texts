@@ -1,0 +1,28 @@
+{
+  "id": "31f2d90a-88af-4414-a445-68406caca58d",
+  "title": "Astronomia Nova",
+  "display_title": "Kepler: Astronomia Nova (1609 Prague)",
+  "author": "Johannes Kepler",
+  "language": "Latin",
+  "year": 1609,
+  "published": "1609",
+  "pages_count": 388,
+  "pages_with_ocr": 388,
+  "pages_with_translation": 388,
+  "source_url": "https://sourcelibrary.org/book/31f2d90a-88af-4414-a445-68406caca58d",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "Astronomianovaa00Kepl"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:25:44.001Z",
+  "_hashes": {
+    "ocr": "1b51f2ced41554b4",
+    "translation": "218648d6a990eda8"
+  }
+}

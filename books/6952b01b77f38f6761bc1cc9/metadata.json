@@ -1,0 +1,28 @@
+{
+  "id": "6952b01b77f38f6761bc1cc9",
+  "title": "Opuscula",
+  "display_title": "Works (1496 Bologna incunabulum)",
+  "author": "Pico della Mirandola, Giovanni",
+  "language": "Latin",
+  "year": 1496,
+  "published": "1496",
+  "pages_count": 361,
+  "pages_with_ocr": 361,
+  "pages_with_translation": 361,
+  "source_url": "https://sourcelibrary.org/book/6952b01b77f38f6761bc1cc9",
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "doi": null,
+  "external_ids": {
+    "mdz": "bsb00068573"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": null,
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:25:59.926Z",
+  "_hashes": {
+    "ocr": "39351d8481aa0b47",
+    "translation": "0cb205b4651aa5e6"
+  }
+}

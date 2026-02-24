@@ -1,0 +1,28 @@
+{
+  "id": "f20894c1-495f-4afe-815b-e8bf3c8938a5",
+  "title": "I Quattro Libri dell'Architettura",
+  "display_title": "Palladio: Quattro Libri (1616 Venice)",
+  "author": "Andrea Palladio",
+  "language": "Italian",
+  "year": 1570,
+  "published": "1570",
+  "pages_count": 336,
+  "pages_with_ocr": 336,
+  "pages_with_translation": 336,
+  "source_url": "https://sourcelibrary.org/book/f20894c1-495f-4afe-815b-e8bf3c8938a5",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "quattrolibridell00pall"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:26:12.011Z",
+  "_hashes": {
+    "ocr": "c80ada2de3b9d959",
+    "translation": "a9d11a7ad75751f9"
+  }
+}

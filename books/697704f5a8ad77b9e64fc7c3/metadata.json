@@ -1,0 +1,26 @@
+{
+  "id": "697704f5a8ad77b9e64fc7c3",
+  "title": "Betrachtungen ueber Lessings Bruchstücken",
+  "display_title": "Betrachtungen ueber Lessings Bruchstücken",
+  "author": "Fleischer, Adam Siegismund",
+  "language": "German",
+  "year": 1786,
+  "published": "1786",
+  "pages_count": 386,
+  "pages_with_ocr": 386,
+  "pages_with_translation": 7,
+  "source_url": "https://sourcelibrary.org/book/697704f5a8ad77b9e64fc7c3",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:25:46.458Z",
+  "_hashes": {
+    "ocr": "7a53f87241bd86ec",
+    "translation": "55bf5939faaa9f07"
+  }
+}

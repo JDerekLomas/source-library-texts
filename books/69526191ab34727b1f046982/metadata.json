@@ -1,0 +1,28 @@
+{
+  "id": "69526191ab34727b1f046982",
+  "title": "Alchemiae Gebri Arabis",
+  "display_title": "Alchemiae Gebri cum Lull et Bacon",
+  "author": "Jabir ibn Hayyan (Geber)",
+  "language": "Latin",
+  "year": 1545,
+  "published": "1545",
+  "pages_count": 330,
+  "pages_with_ocr": 330,
+  "pages_with_translation": 264,
+  "source_url": "https://sourcelibrary.org/book/69526191ab34727b1f046982",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "alchemiaegebriar00jabi"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:26:16.374Z",
+  "_hashes": {
+    "ocr": "e155c634eba3eecd",
+    "translation": "1a9f2245c07af861"
+  }
+}

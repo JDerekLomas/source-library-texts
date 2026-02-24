@@ -1,0 +1,26 @@
+{
+  "id": "697d9c999788c62e1238c87e",
+  "title": "The great mystery of godliness",
+  "display_title": "The great mystery of godliness",
+  "author": "Hall, Joseph",
+  "language": "English",
+  "year": 1659,
+  "published": "1659",
+  "pages_count": 362,
+  "pages_with_ocr": 358,
+  "pages_with_translation": 5,
+  "source_url": "https://sourcelibrary.org/book/697d9c999788c62e1238c87e",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:26:01.956Z",
+  "_hashes": {
+    "ocr": "26af8ae270d2dd72",
+    "translation": "1178651a6450272e"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "69907d8faee9f4aa58592471",
+  "title": "Siddhanta Kaustubha of Jagannatha",
+  "display_title": "Siddhanta Kaustubha",
+  "author": "Jagannatha",
+  "language": "Sanskrit",
+  "year": 1800,
+  "published": "1800",
+  "pages_count": 372,
+  "pages_with_ocr": 372,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/69907d8faee9f4aa58592471",
+  "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "SiddhantaKaustubhaShriJagannatha2857GhaAlm13Shlf1DevanagariJyotish"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:25:53.521Z",
+  "_hashes": {
+    "ocr": "769734b3c64ec835",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

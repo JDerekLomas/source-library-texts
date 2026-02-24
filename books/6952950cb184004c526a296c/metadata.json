@@ -1,0 +1,28 @@
+{
+  "id": "6952950cb184004c526a296c",
+  "title": "The Essayes or Covnsels, Civill and Morall",
+  "display_title": "Essays (1625 edition)",
+  "author": "Bacon, Francis",
+  "language": "English",
+  "year": 1625,
+  "published": "1625",
+  "pages_count": 363,
+  "pages_with_ocr": 363,
+  "pages_with_translation": 363,
+  "source_url": "https://sourcelibrary.org/book/6952950cb184004c526a296c",
+  "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "essays-bacon"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:25:57.384Z",
+  "_hashes": {
+    "ocr": "0efb4c50bcc6d796",
+    "translation": "254d8980de5bb678"
+  }
+}

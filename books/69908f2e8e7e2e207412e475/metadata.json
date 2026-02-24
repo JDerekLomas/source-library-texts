@@ -1,0 +1,28 @@
+{
+  "id": "69908f2e8e7e2e207412e475",
+  "title": "Sarvartha Chintamani (Punjab University Manuscript 1221)",
+  "display_title": "Sarvartha Chintamani (Punjab University Manuscript 1221)",
+  "author": "Venkatesh Daivajna",
+  "language": "Sanskrit",
+  "year": null,
+  "published": "Unknown",
+  "pages_count": 343,
+  "pages_with_ocr": 343,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/69908f2e8e7e2e207412e475",
+  "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "sarvarthachintamanimssno1221sanskritalm9shelf3panjabuni"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:26:08.364Z",
+  "_hashes": {
+    "ocr": "f6e676cf0757acab",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

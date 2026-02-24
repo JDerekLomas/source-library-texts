@@ -1,0 +1,26 @@
+{
+  "id": "6953b56577f38f6761bd979d",
+  "title": "Kitab al-Bulhan Bodleian Library MS. Bodl. Or. 133",
+  "display_title": "Book of Wonders",
+  "author": "Abd al-Hasan al-Isfahani",
+  "language": "Arabic",
+  "year": 1400,
+  "published": "c. 1400 (Jalayirid Baghdad)",
+  "pages_count": 366,
+  "pages_with_ocr": 366,
+  "pages_with_translation": 338,
+  "source_url": "https://sourcelibrary.org/book/6953b56577f38f6761bd979d",
+  "license": "CC-BY-NC-4.0",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:25:56.774Z",
+  "_hashes": {
+    "ocr": "91726e348b667305",
+    "translation": "ecea524a8e65e19d"
+  }
+}

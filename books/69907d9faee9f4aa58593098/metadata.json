@@ -1,0 +1,28 @@
+{
+  "id": "69907d9faee9f4aa58593098",
+  "title": "Siddhanta Shiromani Goladhyaya Vasana Bhashya",
+  "display_title": "Siddhanta Shiromani Vasana Bhashya",
+  "author": "Chintamani",
+  "language": "Sanskrit",
+  "year": 1800,
+  "published": "1800",
+  "pages_count": 370,
+  "pages_with_ocr": 370,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/69907d9faee9f4aa58593098",
+  "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "SiddhantaShiromaniGoladhyayaVasanaBhashyaSriChintamani2952GhaAlm13Shlf1DevanagariJyotish"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:25:54.947Z",
+  "_hashes": {
+    "ocr": "81e9f5aacd38b9f0",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

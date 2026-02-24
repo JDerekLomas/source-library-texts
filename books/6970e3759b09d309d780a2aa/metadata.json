@@ -1,0 +1,26 @@
+{
+  "id": "6970e3759b09d309d780a2aa",
+  "title": "De anatomia triplici in partes tres diuisa",
+  "display_title": "De anatomia triplici in partes tres diuisa",
+  "author": "Fludd, Robert",
+  "language": "Latin",
+  "year": 1623,
+  "published": "1623",
+  "pages_count": 354,
+  "pages_with_ocr": 354,
+  "pages_with_translation": 324,
+  "source_url": "https://sourcelibrary.org/book/6970e3759b09d309d780a2aa",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:26:04.274Z",
+  "_hashes": {
+    "ocr": "f990f33bcbcda578",
+    "translation": "31b95c1f3ebb475d"
+  }
+}
