@@ -1,0 +1,26 @@
+{
+  "id": "697d9c999788c62e1238c87a",
+  "title": "Hieroglyphica of merkbeelden der oude volkeren",
+  "display_title": "Hieroglyphica of merkbeelden der oude volkeren",
+  "author": "Hooghe, Romeyn de",
+  "language": "Dutch",
+  "year": 1735,
+  "published": "1735",
+  "pages_count": 730,
+  "pages_with_ocr": 729,
+  "pages_with_translation": 1,
+  "source_url": "https://sourcelibrary.org/book/697d9c999788c62e1238c87a",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:22:21.891Z",
+  "_hashes": {
+    "ocr": "857266eb1aec9f04",
+    "translation": "774bd334c9d5db76"
+  }
+}

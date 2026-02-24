@@ -1,0 +1,28 @@
+{
+  "id": "69520603ab34727b1f042f59",
+  "title": "Theologia platonica de immortalitate animorum",
+  "display_title": "Theologia platonica de immortalitate animorum",
+  "author": "Marsilio Ficino",
+  "language": "Latin",
+  "year": 1559,
+  "published": "1559",
+  "pages_count": 787,
+  "pages_with_ocr": 787,
+  "pages_with_translation": 787,
+  "source_url": "https://sourcelibrary.org/book/69520603ab34727b1f042f59",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "gallica": "bpt6k853963n"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": null,
+    "translation_model": "gemini-2.5-flash"
+  },
+  "synced_at": "2026-02-24T18:22:07.083Z",
+  "_hashes": {
+    "ocr": "02f158ce507c735d",
+    "translation": "51e404621be98c12"
+  }
+}

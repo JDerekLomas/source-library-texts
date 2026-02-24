@@ -1,0 +1,28 @@
+{
+  "id": "25dfd63a-8080-4864-aa79-a0fcb1c76102",
+  "title": "Comento sopra la Commedia di Dante",
+  "display_title": "Landino: Dante Commentary (1481 Florence)",
+  "author": "Cristoforo Landino",
+  "language": "Italian",
+  "year": 1481,
+  "published": "1481",
+  "pages_count": 748,
+  "pages_with_ocr": 731,
+  "pages_with_translation": 731,
+  "source_url": "https://sourcelibrary.org/book/25dfd63a-8080-4864-aa79-a0fcb1c76102",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "b.-r.-341-jpeg"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:22:21.328Z",
+  "_hashes": {
+    "ocr": "d6264a761ff48959",
+    "translation": "8598a523c7d3af74"
+  }
+}

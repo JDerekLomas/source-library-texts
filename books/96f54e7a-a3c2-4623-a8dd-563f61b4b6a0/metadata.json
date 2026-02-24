@@ -1,0 +1,28 @@
+{
+  "id": "96f54e7a-a3c2-4623-a8dd-563f61b4b6a0",
+  "title": "Trattato dell'arte della pittura",
+  "display_title": "Lomazzo: Trattato (1584 Milan)",
+  "author": "Giovanni Paolo Lomazzo",
+  "language": "Italian",
+  "year": 1584,
+  "published": "1584",
+  "pages_count": 752,
+  "pages_with_ocr": 752,
+  "pages_with_translation": 752,
+  "source_url": "https://sourcelibrary.org/book/96f54e7a-a3c2-4623-a8dd-563f61b4b6a0",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bub_gb_k16wKRtVntsC"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:22:15.400Z",
+  "_hashes": {
+    "ocr": "8187fd8438e7e86a",
+    "translation": "7547d4289cc5f35f"
+  }
+}

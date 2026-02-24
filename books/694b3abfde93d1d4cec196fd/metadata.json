@@ -1,0 +1,28 @@
+{
+  "id": "694b3abfde93d1d4cec196fd",
+  "title": "Marsilij Ficini ... Opera & quae hactenus extitêre, & quae in lucem nunc primùm prodiêre omnia, ... in duos tomos digesta, ... Vnà cum Gnomologia, hoc est, Sententiarum ex iisdem operibus collectarum farragine copiosissima,per Adamum Henricum Petri ..",
+  "display_title": "The Complete Works of Marsilio Ficino",
+  "author": "Marsilio Ficino",
+  "language": "Latin",
+  "year": 1561,
+  "published": "1561",
+  "pages_count": 1025,
+  "pages_with_ocr": 1025,
+  "pages_with_translation": 1025,
+  "source_url": "https://sourcelibrary.org/book/694b3abfde93d1d4cec196fd",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bub_gb_t187zmOeqAYC"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:21:06.208Z",
+  "_hashes": {
+    "ocr": "2812215be3b45386",
+    "translation": "cc54daaea4684769"
+  }
+}

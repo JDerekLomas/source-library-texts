@@ -1,0 +1,28 @@
+{
+  "id": "6ff1a28b-f7cd-4fcd-8d08-77d2f7818be1",
+  "title": "De Humani Corporis Fabrica",
+  "display_title": "Vesalius: De Humani Corporis Fabrica (1555)",
+  "author": "Andreas Vesalius",
+  "language": "Latin",
+  "year": 1543,
+  "published": "1543",
+  "pages_count": 898,
+  "pages_with_ocr": 897,
+  "pages_with_translation": 863,
+  "source_url": "https://sourcelibrary.org/book/6ff1a28b-f7cd-4fcd-8d08-77d2f7818be1",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "andreaevesalijbr00vesa"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:21:41.658Z",
+  "_hashes": {
+    "ocr": "bc4c78ed1fe015e8",
+    "translation": "e757ddada4d6efb9"
+  }
+}

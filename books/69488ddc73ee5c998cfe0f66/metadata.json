@@ -1,0 +1,28 @@
+{
+  "id": "69488ddc73ee5c998cfe0f66",
+  "title": "Epistolarum medicinalium tomus primus",
+  "display_title": "Medical Letters, Volume One",
+  "author": "Niccolò Massa",
+  "language": "Latin",
+  "year": 1558,
+  "published": "1558",
+  "pages_count": 763,
+  "pages_with_ocr": 763,
+  "pages_with_translation": 763,
+  "source_url": "https://sourcelibrary.org/book/69488ddc73ee5c998cfe0f66",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bub_gb_NXkKU8Yxn5cC"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:22:10.910Z",
+  "_hashes": {
+    "ocr": "afa4097f52e46c04",
+    "translation": "2c4c1e1ef6171ea0"
+  }
+}

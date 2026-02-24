@@ -1,0 +1,26 @@
+{
+  "id": "69751591233423aeec9e88f6",
+  "title": "Auserlesene Lebensbeschreibungen heiliger Seelen",
+  "display_title": "Auserlesene Lebensbeschreibungen heiliger Seelen",
+  "author": "Tersteegen, Gerhard",
+  "language": "German",
+  "year": 1784,
+  "published": "1784-86",
+  "pages_count": 1110,
+  "pages_with_ocr": 1110,
+  "pages_with_translation": 7,
+  "source_url": "https://sourcelibrary.org/book/69751591233423aeec9e88f6",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:20:51.385Z",
+  "_hashes": {
+    "ocr": "8ec00cdb9a4d2d13",
+    "translation": "072e287fcb847d9a"
+  }
+}

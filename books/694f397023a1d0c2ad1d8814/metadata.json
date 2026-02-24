@@ -1,0 +1,28 @@
+{
+  "id": "694f397023a1d0c2ad1d8814",
+  "title": "Platonis Opera a Marsilio Ficino traducta",
+  "display_title": "Complete Works of Plato, translated by Marsilio Ficino (1518)",
+  "author": "Plato; Ficino, Marsilio (translator)",
+  "language": "Latin",
+  "year": 1518,
+  "published": "1518",
+  "pages_count": 796,
+  "pages_with_ocr": 796,
+  "pages_with_translation": 793,
+  "source_url": "https://sourcelibrary.org/book/694f397023a1d0c2ad1d8814",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bub_gb_QOkjvOBiQAUC"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:22:05.048Z",
+  "_hashes": {
+    "ocr": "1e7c202dff761d31",
+    "translation": "51f08551dbe166dc"
+  }
+}

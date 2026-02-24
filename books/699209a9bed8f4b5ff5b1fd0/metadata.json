@@ -1,0 +1,28 @@
+{
+  "id": "699209a9bed8f4b5ff5b1fd0",
+  "title": "Rig-Veda-Sanhita: Sacred Hymns of the Brahmans (Vol. 3)",
+  "display_title": "Rig-Veda-Sanhita: Sacred Hymns of the Brahmans (Vol. 3)",
+  "author": "Max Müller (ed.) / Sayana (commentary)",
+  "language": "Sanskrit",
+  "year": 1856,
+  "published": "Unknown",
+  "pages_count": 1062,
+  "pages_with_ocr": 1057,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/699209a9bed8f4b5ff5b1fd0",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "rigvedasanhitasa03syaauoft"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:20:57.921Z",
+  "_hashes": {
+    "ocr": "d1446ee73274a875",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

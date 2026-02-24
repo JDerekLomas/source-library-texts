@@ -1,0 +1,26 @@
+{
+  "id": "697d9c99f2b56306a9ec9614",
+  "title": "Gynaeceum haeretico fanaticum, oder Historie und Beschreibung der falschen Prophetinnen",
+  "display_title": "Gynaeceum haeretico fanaticum, oder Historie und Beschreibung der falschen Prophetinnen",
+  "author": "Feustking, Johann Heinrich",
+  "language": "German",
+  "year": 1704,
+  "published": "1704",
+  "pages_count": 875,
+  "pages_with_ocr": 875,
+  "pages_with_translation": 3,
+  "source_url": "https://sourcelibrary.org/book/697d9c99f2b56306a9ec9614",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:21:46.807Z",
+  "_hashes": {
+    "ocr": "9a23e64279faee8b",
+    "translation": "4d09965e72e674db"
+  }
+}

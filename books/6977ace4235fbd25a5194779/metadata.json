@@ -1,0 +1,26 @@
+{
+  "id": "6977ace4235fbd25a5194779",
+  "title": "Celtic researches, on the origin, traditions & language of the ancient Britons",
+  "display_title": "Celtic researches, on the origin, traditions & language of the ancient Britons",
+  "author": "Davies, Edward",
+  "language": "English",
+  "year": 1804,
+  "published": "1804",
+  "pages_count": 762,
+  "pages_with_ocr": 761,
+  "pages_with_translation": 7,
+  "source_url": "https://sourcelibrary.org/book/6977ace4235fbd25a5194779",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:22:11.496Z",
+  "_hashes": {
+    "ocr": "d7dc5ecd300c0a5c",
+    "translation": "514f3b66fe3d1c51"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "697d9c99f2b56306a9ec961c",
+  "title": "Histoire de la vie de Messire Philippes de Mornay",
+  "display_title": "Histoire de la vie de Messire Philippes de Mornay",
+  "author": "Unknown",
+  "language": "French",
+  "year": 1647,
+  "published": "1647",
+  "pages_count": 1028,
+  "pages_with_ocr": 1028,
+  "pages_with_translation": 4,
+  "source_url": "https://sourcelibrary.org/book/697d9c99f2b56306a9ec961c",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:21:01.136Z",
+  "_hashes": {
+    "ocr": "f81b26a85964a07d",
+    "translation": "89debb615d89018e"
+  }
+}

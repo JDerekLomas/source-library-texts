@@ -1,0 +1,26 @@
+{
+  "id": "6974b63d19126e775cf6d7d3",
+  "title": "Apostolisches Licht und Recht",
+  "display_title": "Apostolisches Licht und Recht",
+  "author": "Lange, Joachim",
+  "language": "German",
+  "year": 1733,
+  "published": "1733",
+  "pages_count": 1814,
+  "pages_with_ocr": 1814,
+  "pages_with_translation": 8,
+  "source_url": "https://sourcelibrary.org/book/6974b63d19126e775cf6d7d3",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:20:20.512Z",
+  "_hashes": {
+    "ocr": "32834db5db7bfe24",
+    "translation": "9bdeb006532a5bf9"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "69907d91aee9f4aa585927e1",
+  "title": "Siddhanta Sara Kaustubha of Jagannatha",
+  "display_title": "Siddhanta Sara Kaustubha",
+  "author": "Jagannatha",
+  "language": "Sanskrit",
+  "year": 1800,
+  "published": "1800",
+  "pages_count": 1890,
+  "pages_with_ocr": 1885,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/69907d91aee9f4aa585927e1",
+  "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "SiddhantaSaraKaustubhShriJagannatha2792GhaAlm12Shlf4DevanagariJyotish"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:20:17.855Z",
+  "_hashes": {
+    "ocr": "c57153a5dd97d1c2",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

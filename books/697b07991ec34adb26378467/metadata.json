@@ -1,0 +1,26 @@
+{
+  "id": "697b07991ec34adb26378467",
+  "title": "De eruditione solida specialiora",
+  "display_title": "De eruditione solida specialiora",
+  "author": "Poiret, Pierre",
+  "language": "Latin",
+  "year": 1707,
+  "published": "1707",
+  "pages_count": 1017,
+  "pages_with_ocr": 950,
+  "pages_with_translation": 3,
+  "source_url": "https://sourcelibrary.org/book/697b07991ec34adb26378467",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:21:21.292Z",
+  "_hashes": {
+    "ocr": "111c9e462cbdca61",
+    "translation": "c6d61082f5e36c25"
+  }
+}

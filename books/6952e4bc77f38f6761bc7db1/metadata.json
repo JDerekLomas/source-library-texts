@@ -1,0 +1,28 @@
+{
+  "id": "6952e4bc77f38f6761bc7db1",
+  "title": "Biblia Hebraica",
+  "display_title": "Biblia Hebraica: Hebrew Bible with Critical Annotations",
+  "author": "Various (ed. Michaelis)",
+  "language": "Hebrew",
+  "year": 1720,
+  "published": "1720",
+  "pages_count": 1766,
+  "pages_with_ocr": 1766,
+  "pages_with_translation": 1766,
+  "source_url": "https://sourcelibrary.org/book/6952e4bc77f38f6761bc7db1",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bibliahebraicaex1720mich"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-2.5-flash"
+  },
+  "synced_at": "2026-02-24T18:20:24.909Z",
+  "_hashes": {
+    "ocr": "e90aa6a12da9c2c1",
+    "translation": "2dc96715b38229a7"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "69906a531cf6ed5fbc8f5096",
+  "title": "Siddhanta Tattva Viveka",
+  "display_title": "Siddhanta Tattva Viveka",
+  "author": "Kamalakara Bhatta",
+  "language": "Sanskrit",
+  "year": 1658,
+  "published": "Unknown",
+  "pages_count": 1418,
+  "pages_with_ocr": 1418,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/69906a531cf6ed5fbc8f5096",
+  "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "siddhantatattvavivekabhattakamalakarasheshavasanaglosssudhakaradvivedimuralidhar_484_w"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:20:32.600Z",
+  "_hashes": {
+    "ocr": "61211ce77db584a2",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

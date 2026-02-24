@@ -1,0 +1,28 @@
+{
+  "id": "699068ea2e4efe9106769e41",
+  "title": "Brihat Parashara Hora Shastram Uttara Khanda",
+  "display_title": "Brihat Parashara Hora Shastram Uttara Khanda",
+  "author": "Parashara; Khemraj ed.",
+  "language": "Sanskrit",
+  "year": 1926,
+  "published": "Unknown",
+  "pages_count": 2143,
+  "pages_with_ocr": 2143,
+  "pages_with_translation": 2009,
+  "source_url": "https://sourcelibrary.org/book/699068ea2e4efe9106769e41",
+  "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "BrihatParasharHoraShastramUttaraKhandKhemraj1932ShriKrishnaMuseumKurukshetra"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:20:17.021Z",
+  "_hashes": {
+    "ocr": "f4a7cf333975ca7b",
+    "translation": "08eea543f58b1bd3"
+  }
+}

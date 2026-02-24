@@ -1,0 +1,28 @@
+{
+  "id": "6952b03577f38f6761bc211a",
+  "title": "Opera omnia",
+  "display_title": "Complete Works (1557 Basel edition)",
+  "author": "Pico della Mirandola, Giovanni",
+  "language": "Latin",
+  "year": 1557,
+  "published": "1557",
+  "pages_count": 797,
+  "pages_with_ocr": 797,
+  "pages_with_translation": 797,
+  "source_url": "https://sourcelibrary.org/book/6952b03577f38f6761bc211a",
+  "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bub_gb_nBiG1zAsseQC"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:22:02.512Z",
+  "_hashes": {
+    "ocr": "0563665c75049c09",
+    "translation": "7e9a3b4bba767201"
+  }
+}

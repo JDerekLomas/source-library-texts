@@ -1,0 +1,28 @@
+{
+  "id": "6952d05477f38f6761bc511e",
+  "title": "Basilica chymica",
+  "display_title": "Basilica Chymica (BSB/Hartmann edition)",
+  "author": "Croll, Oswald",
+  "language": "Latin",
+  "year": 1609,
+  "published": "1609",
+  "pages_count": 856,
+  "pages_with_ocr": 856,
+  "pages_with_translation": 856,
+  "source_url": "https://sourcelibrary.org/book/6952d05477f38f6761bc511e",
+  "license": "https://rightsstatements.org/vocab/NoC-NC/1.0/",
+  "doi": null,
+  "external_ids": {
+    "mdz": "bsb10252718"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": null,
+    "translation_model": "gemini-2.5-flash"
+  },
+  "synced_at": "2026-02-24T18:21:52.876Z",
+  "_hashes": {
+    "ocr": "c50e8e53225a3f5d",
+    "translation": "72a8039023516a37"
+  }
+}

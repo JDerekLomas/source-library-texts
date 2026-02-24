@@ -1,0 +1,28 @@
+{
+  "id": "6952949cb184004c526a1ea2",
+  "title": "Sylva sylvarum",
+  "display_title": "Forest of Forests (Natural History)",
+  "author": "Bacon, Francis",
+  "language": "Latin",
+  "year": 1648,
+  "published": "1648",
+  "pages_count": 798,
+  "pages_with_ocr": 798,
+  "pages_with_translation": 798,
+  "source_url": "https://sourcelibrary.org/book/6952949cb184004c526a1ea2",
+  "license": "https://rightsstatements.org/vocab/NoC-NC/1.0/",
+  "doi": null,
+  "external_ids": {
+    "mdz": "bsb11271812"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": null,
+    "translation_model": "gemini-2.5-flash"
+  },
+  "synced_at": "2026-02-24T18:22:01.240Z",
+  "_hashes": {
+    "ocr": "52fba5d0801dc506",
+    "translation": "70dbe2f1f275b1b8"
+  }
+}

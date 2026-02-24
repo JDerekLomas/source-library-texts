@@ -1,0 +1,26 @@
+{
+  "id": "6976f5fb7b4366f057e0e974",
+  "title": "Basilica chymica",
+  "display_title": "Basilica chymica",
+  "author": "Crollius, Oswaldus",
+  "language": "Latin",
+  "year": 1658,
+  "published": "1658",
+  "pages_count": 892,
+  "pages_with_ocr": 892,
+  "pages_with_translation": 5,
+  "source_url": "https://sourcelibrary.org/book/6976f5fb7b4366f057e0e974",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:21:42.395Z",
+  "_hashes": {
+    "ocr": "7bed74845bce6ada",
+    "translation": "1948c40ba872ed14"
+  }
+}

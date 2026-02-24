@@ -1,0 +1,28 @@
+{
+  "id": "69528a19ab34727b1f04e629",
+  "title": "The Secret Doctrine: Synthesis of Science, Religion and Philosophy Vol. 2",
+  "display_title": "The Secret Doctrine: Synthesis of Science, Religion and Philosophy Vol. 2",
+  "author": "Helena Blavatsky",
+  "language": "English",
+  "year": 1888,
+  "published": "1888",
+  "pages_count": 870,
+  "pages_with_ocr": 868,
+  "pages_with_translation": 865,
+  "source_url": "https://sourcelibrary.org/book/69528a19ab34727b1f04e629",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "secretdoctrinesy02blav"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:21:47.870Z",
+  "_hashes": {
+    "ocr": "accd8fa2ea9e3aa5",
+    "translation": "f8e67010c1c454fc"
+  }
+}

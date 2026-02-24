@@ -1,0 +1,28 @@
+{
+  "id": "6953e52177f38f6761beffa2",
+  "title": "Oeuvres de Descartes Vol. VI (La Géométrie)",
+  "display_title": "Oeuvres de Descartes Vol. VI (La Géométrie)",
+  "author": "René Descartes",
+  "language": "French",
+  "year": 1902,
+  "published": "1902",
+  "pages_count": 758,
+  "pages_with_ocr": 758,
+  "pages_with_translation": 606,
+  "source_url": "https://sourcelibrary.org/book/6953e52177f38f6761beffa2",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "uvresdedescartes06desc"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:22:13.563Z",
+  "_hashes": {
+    "ocr": "b12325be2084c43c",
+    "translation": "6f6fac59cb42d37a"
+  }
+}

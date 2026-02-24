@@ -1,0 +1,26 @@
+{
+  "id": "6975158ea88d83c830d99e40",
+  "title": "Aurora. That is, the day-spring",
+  "display_title": "Aurora. That is, the day-spring",
+  "author": "Boehme, Jacob",
+  "language": "English",
+  "year": 1656,
+  "published": "1656",
+  "pages_count": 726,
+  "pages_with_ocr": 726,
+  "pages_with_translation": 415,
+  "source_url": "https://sourcelibrary.org/book/6975158ea88d83c830d99e40",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:22:22.680Z",
+  "_hashes": {
+    "ocr": "41e611e97511bf1d",
+    "translation": "9237650a3678b9c9"
+  }
+}

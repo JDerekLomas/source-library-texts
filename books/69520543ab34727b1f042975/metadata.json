@@ -1,0 +1,28 @@
+{
+  "id": "69520543ab34727b1f042975",
+  "title": "Iter extaticum II (Mundus subterraneus prodromus)",
+  "display_title": "Iter extaticum II (Mundus subterraneus prodromus)",
+  "author": "Athanasius Kircher",
+  "language": "Latin",
+  "year": 1657,
+  "published": "1657",
+  "pages_count": 770,
+  "pages_with_ocr": 770,
+  "pages_with_translation": 770,
+  "source_url": "https://sourcelibrary.org/book/69520543ab34727b1f042975",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "gallica": "bpt6k134385k"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-2.5-flash"
+  },
+  "synced_at": "2026-02-24T18:22:08.774Z",
+  "_hashes": {
+    "ocr": "773a458145390ddf",
+    "translation": "07e8bb2f3bfd0336"
+  }
+}

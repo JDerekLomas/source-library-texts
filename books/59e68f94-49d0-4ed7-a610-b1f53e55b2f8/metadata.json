@@ -1,0 +1,28 @@
+{
+  "id": "59e68f94-49d0-4ed7-a610-b1f53e55b2f8",
+  "title": "Canon Medicinae",
+  "display_title": "Avicenna: Canon Medicinae (c.1280 MS)",
+  "author": "Avicenna (Ibn Sina); trans. Gerard of Cremona",
+  "language": "Latin",
+  "year": null,
+  "published": null,
+  "pages_count": 718,
+  "pages_with_ocr": 717,
+  "pages_with_translation": 199,
+  "source_url": "https://sourcelibrary.org/book/59e68f94-49d0-4ed7-a610-b1f53e55b2f8",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "4444103.med.yale.edu"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:22:30.577Z",
+  "_hashes": {
+    "ocr": "c8d1673de3c12826",
+    "translation": "b0abea72a2d117aa"
+  }
+}

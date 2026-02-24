@@ -1,0 +1,28 @@
+{
+  "id": "6952855fab34727b1f04b383",
+  "title": "Ortus Medicinae",
+  "display_title": "Ortus Medicinae (Origin of Medicine)",
+  "author": "Jan Baptist van Helmont",
+  "language": "Latin",
+  "year": 1648,
+  "published": "1648",
+  "pages_count": 849,
+  "pages_with_ocr": 849,
+  "pages_with_translation": 849,
+  "source_url": "https://sourcelibrary.org/book/6952855fab34727b1f04b383",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "BIUSante_pharma_011695x01"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:21:54.416Z",
+  "_hashes": {
+    "ocr": "8d4818e13bb07cd3",
+    "translation": "7a6f27e1cd5f4fab"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "69528662ab34727b1f04c6f8",
+  "title": "De Harmonia Mundi",
+  "display_title": "De Harmonia Mundi Totius",
+  "author": "Francesco Giorgi (Zorzi)",
+  "language": "Latin",
+  "year": 1525,
+  "published": "1525",
+  "pages_count": 975,
+  "pages_with_ocr": 975,
+  "pages_with_translation": 975,
+  "source_url": "https://sourcelibrary.org/book/69528662ab34727b1f04c6f8",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bub_gb_shCT1ePhvjQC"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:21:17.987Z",
+  "_hashes": {
+    "ocr": "858dbb26b28fe0dc",
+    "translation": "57c29b68f854a737"
+  }
+}

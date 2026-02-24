@@ -1,0 +1,28 @@
+{
+  "id": "695203a5ab34727b1f041c53",
+  "title": "Musaeum hermeticum reformatum et amplificatum",
+  "display_title": "Musaeum hermeticum reformatum et amplificatum",
+  "author": "Various (Sendivogius, Philalethes, etc.)",
+  "language": "Latin",
+  "year": 1678,
+  "published": "1678",
+  "pages_count": 882,
+  "pages_with_ocr": 882,
+  "pages_with_translation": 882,
+  "source_url": "https://sourcelibrary.org/book/695203a5ab34727b1f041c53",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "gallica": "bpt6k5699041n"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": null,
+    "translation_model": "gemini-2.5-flash"
+  },
+  "synced_at": "2026-02-24T18:21:44.597Z",
+  "_hashes": {
+    "ocr": "aabf19f73e8faf96",
+    "translation": "603a90d879d90590"
+  }
+}

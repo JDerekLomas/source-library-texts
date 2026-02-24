@@ -1,0 +1,28 @@
+{
+  "id": "69520767ab34727b1f043814",
+  "title": "De harmonia mundi totius cantica tria",
+  "display_title": "On the Harmony of the Whole World",
+  "author": "Francesco Giorgi (Giorgio Veneto)",
+  "language": "Latin",
+  "year": 1545,
+  "published": "1545",
+  "pages_count": 1080,
+  "pages_with_ocr": 1080,
+  "pages_with_translation": 1080,
+  "source_url": "https://sourcelibrary.org/book/69520767ab34727b1f043814",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "gallica": "bpt6k670524"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-2.5-flash"
+  },
+  "synced_at": "2026-02-24T18:20:56.667Z",
+  "_hashes": {
+    "ocr": "5a25ae13040ec7ac",
+    "translation": "c6cc8b77b4511b4f"
+  }
+}

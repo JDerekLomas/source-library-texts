@@ -1,0 +1,26 @@
+{
+  "id": "6975158da88d83c830d99e38",
+  "title": "Aureum vellus oder guldin Schatz und Kunst-Kammer",
+  "display_title": "Aureum vellus oder guldin Schatz und Kunst-Kammer",
+  "author": "Trissmosin, Salomon",
+  "language": "German",
+  "year": 1708,
+  "published": "1708",
+  "pages_count": 900,
+  "pages_with_ocr": 900,
+  "pages_with_translation": 579,
+  "source_url": "https://sourcelibrary.org/book/6975158da88d83c830d99e38",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:21:39.633Z",
+  "_hashes": {
+    "ocr": "e05b735c403960d8",
+    "translation": "9c71a92dfe322e6d"
+  }
+}

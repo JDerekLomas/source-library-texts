@@ -1,0 +1,28 @@
+{
+  "id": "6952e45477f38f6761bc79e0",
+  "title": "Alchymia Triumphans",
+  "display_title": "Alchymia Triumphans: Defense of Alchemy Against the Parisian Faculty",
+  "author": "Andreas Libavius",
+  "language": "Latin",
+  "year": 1607,
+  "published": "1607",
+  "pages_count": 937,
+  "pages_with_ocr": 937,
+  "pages_with_translation": 937,
+  "source_url": "https://sourcelibrary.org/book/6952e45477f38f6761bc79e0",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "BIUSante_pharma_res011262"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:21:25.377Z",
+  "_hashes": {
+    "ocr": "fe13446ee2fccb83",
+    "translation": "8c05a360b72442d3"
+  }
+}

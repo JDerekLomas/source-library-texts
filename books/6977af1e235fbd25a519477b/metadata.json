@@ -1,0 +1,26 @@
+{
+  "id": "6977af1e235fbd25a519477b",
+  "title": "Censura celebriorum authorum",
+  "display_title": "Censura celebriorum authorum",
+  "author": "Blount, Thomas Pope",
+  "language": "Latin",
+  "year": 1696,
+  "published": "1696",
+  "pages_count": 1286,
+  "pages_with_ocr": 1285,
+  "pages_with_translation": 8,
+  "source_url": "https://sourcelibrary.org/book/6977af1e235fbd25a519477b",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:20:33.847Z",
+  "_hashes": {
+    "ocr": "09f734910b7d726f",
+    "translation": "2a1b9141659f25d1"
+  }
+}

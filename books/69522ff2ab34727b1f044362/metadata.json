@@ -1,0 +1,28 @@
+{
+  "id": "69522ff2ab34727b1f044362",
+  "title": "Arbor scientiae",
+  "display_title": "The Tree of Science",
+  "author": "Ramon Llull",
+  "language": "Latin",
+  "year": 1515,
+  "published": "1515",
+  "pages_count": 723,
+  "pages_with_ocr": 723,
+  "pages_with_translation": 723,
+  "source_url": "https://sourcelibrary.org/book/69522ff2ab34727b1f044362",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "gallica": "bpt6k1520048r"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": null,
+    "translation_model": "gemini-2.5-flash"
+  },
+  "synced_at": "2026-02-24T18:22:25.554Z",
+  "_hashes": {
+    "ocr": "d9cd267404ef0717",
+    "translation": "c3356b31c6aa761a"
+  }
+}

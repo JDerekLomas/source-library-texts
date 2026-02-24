@@ -1,0 +1,28 @@
+{
+  "id": "6958e897d3a89283348144a2",
+  "title": "Stirpium icones et sciagraphia",
+  "display_title": "Stirpium icones et sciagraphia",
+  "author": "Dominicus Chabrae",
+  "language": "Latin",
+  "year": 1678,
+  "published": "1678",
+  "pages_count": 768,
+  "pages_with_ocr": 768,
+  "pages_with_translation": 615,
+  "source_url": "https://sourcelibrary.org/book/6958e897d3a89283348144a2",
+  "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bub_gb_wtYlHw69kg8C"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:22:10.008Z",
+  "_hashes": {
+    "ocr": "13ebda7ca7c68735",
+    "translation": "24771ba8c07664e1"
+  }
+}

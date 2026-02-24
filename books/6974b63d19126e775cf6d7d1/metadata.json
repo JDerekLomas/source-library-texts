@@ -1,0 +1,26 @@
+{
+  "id": "6974b63d19126e775cf6d7d1",
+  "title": "Apostolische oudheden",
+  "display_title": "Apostolische oudheden",
+  "author": "Cave, William",
+  "language": "Dutch",
+  "year": 1698,
+  "published": "1698",
+  "pages_count": 1028,
+  "pages_with_ocr": 1028,
+  "pages_with_translation": 2,
+  "source_url": "https://sourcelibrary.org/book/6974b63d19126e775cf6d7d1",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:21:02.516Z",
+  "_hashes": {
+    "ocr": "8a47abbb75fb338e",
+    "translation": "246cd3db506c293f"
+  }
+}

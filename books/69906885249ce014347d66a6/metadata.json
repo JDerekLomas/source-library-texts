@@ -1,0 +1,28 @@
+{
+  "id": "69906885249ce014347d66a6",
+  "title": "Siddhanta Panchangamu",
+  "display_title": "Siddhanta Panchangamu",
+  "author": "Anonymous",
+  "language": "Telugu",
+  "year": 1900,
+  "published": "Unknown",
+  "pages_count": 1480,
+  "pages_with_ocr": 1480,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/69906885249ce014347d66a6",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "in.ernet.dli.2015.370426"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:20:32.008Z",
+  "_hashes": {
+    "ocr": "4ef2a4dd9bf7ca59",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

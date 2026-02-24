@@ -1,0 +1,26 @@
+{
+  "id": "69772b6b47dc849429ffb22e",
+  "title": "Bibliotheca chemica curiosa",
+  "display_title": "Bibliotheca chemica curiosa",
+  "author": "Manget, Jean Jacques",
+  "language": "Latin",
+  "year": 1702,
+  "published": "1702",
+  "pages_count": 1154,
+  "pages_with_ocr": 1149,
+  "pages_with_translation": 4,
+  "source_url": "https://sourcelibrary.org/book/69772b6b47dc849429ffb22e",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:20:45.665Z",
+  "_hashes": {
+    "ocr": "212895abbf9144d9",
+    "translation": "02d2c48a0465c44e"
+  }
+}

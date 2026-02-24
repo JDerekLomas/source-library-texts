@@ -1,0 +1,26 @@
+{
+  "id": "6975158ca88d83c830d99e2e",
+  "title": "De augustissimo corporis et sanguinis dominici sacramento sex libris distincta Dissertatio",
+  "display_title": "De augustissimo corporis et sanguinis dominici sacramento sex libris distincta Dissertatio",
+  "author": "Marcellius, Henricus",
+  "language": "Latin",
+  "year": 1655,
+  "published": "1655",
+  "pages_count": 1284,
+  "pages_with_ocr": 1284,
+  "pages_with_translation": 4,
+  "source_url": "https://sourcelibrary.org/book/6975158ca88d83c830d99e2e",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:20:35.306Z",
+  "_hashes": {
+    "ocr": "30206b807a931f47",
+    "translation": "4d6f50887993033a"
+  }
+}

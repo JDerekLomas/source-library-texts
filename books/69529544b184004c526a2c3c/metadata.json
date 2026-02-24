@@ -1,0 +1,28 @@
+{
+  "id": "69529544b184004c526a2c3c",
+  "title": "Sylva Sylvarum, Sive Historia Naturalis",
+  "display_title": "Sylva Sylvarum (Latin edition)",
+  "author": "Bacon, Francis",
+  "language": "Latin",
+  "year": 1648,
+  "published": "1648",
+  "pages_count": 792,
+  "pages_with_ocr": 792,
+  "pages_with_translation": 792,
+  "source_url": "https://sourcelibrary.org/book/69529544b184004c526a2c3c",
+  "license": "https://rightsstatements.org/vocab/NoC-NC/1.0/",
+  "doi": null,
+  "external_ids": {
+    "mdz": "bsb10130641"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": null,
+    "translation_model": "gemini-2.5-flash"
+  },
+  "synced_at": "2026-02-24T18:22:05.977Z",
+  "_hashes": {
+    "ocr": "08f1def4ed3d5b56",
+    "translation": "e2b0a5030ecf51c1"
+  }
+}

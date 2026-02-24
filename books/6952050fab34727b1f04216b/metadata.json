@@ -1,0 +1,28 @@
+{
+  "id": "6952050fab34727b1f04216b",
+  "title": "Musurgia universalis Tomus I",
+  "display_title": "Musurgia universalis Tomus I",
+  "author": "Athanasius Kircher",
+  "language": "Latin",
+  "year": 1650,
+  "published": "1650",
+  "pages_count": 751,
+  "pages_with_ocr": 751,
+  "pages_with_translation": 751,
+  "source_url": "https://sourcelibrary.org/book/6952050fab34727b1f04216b",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "gallica": "bpt6k1280287g"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": null,
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:22:16.232Z",
+  "_hashes": {
+    "ocr": "e61851c40435de1d",
+    "translation": "c595ada78bfc56d8"
+  }
+}

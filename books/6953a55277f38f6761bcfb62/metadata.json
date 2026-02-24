@@ -1,0 +1,28 @@
+{
+  "id": "6953a55277f38f6761bcfb62",
+  "title": "Corpus Scriptorum Historiae Byzantinae Vol. 14",
+  "display_title": "Corpus Byzantinae Vol. 14",
+  "author": "Niebuhr (ed.)",
+  "language": "Greek",
+  "year": 1828,
+  "published": "1828",
+  "pages_count": 1028,
+  "pages_with_ocr": 1024,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/6953a55277f38f6761bcfb62",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "corpusscriptorum14niebuoft"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:21:07.259Z",
+  "_hashes": {
+    "ocr": "afe3e76d636994a3",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

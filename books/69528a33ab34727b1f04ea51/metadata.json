@@ -1,0 +1,28 @@
+{
+  "id": "69528a33ab34727b1f04ea51",
+  "title": "L'opere della serafica santa Caterina da Siena",
+  "display_title": "L'opere della serafica santa Caterina da Siena",
+  "author": "Catherine of Siena",
+  "language": "Italian",
+  "year": 1707,
+  "published": "1707",
+  "pages_count": 858,
+  "pages_with_ocr": 858,
+  "pages_with_translation": 858,
+  "source_url": "https://sourcelibrary.org/book/69528a33ab34727b1f04ea51",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "loperedellasera00conggoog"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:21:51.226Z",
+  "_hashes": {
+    "ocr": "bb8ab50f9d862b0c",
+    "translation": "8ad3c3045fa4a716"
+  }
+}

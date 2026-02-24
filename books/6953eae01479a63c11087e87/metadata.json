@@ -1,0 +1,28 @@
+{
+  "id": "6953eae01479a63c11087e87",
+  "title": "Oeuvres de Descartes Vol. XI (Le Monde)",
+  "display_title": "Oeuvres de Descartes Vol. XI (Le Monde)",
+  "author": "Rene Descartes",
+  "language": "French",
+  "year": 1909,
+  "published": "1909",
+  "pages_count": 804,
+  "pages_with_ocr": 804,
+  "pages_with_translation": 749,
+  "source_url": "https://sourcelibrary.org/book/6953eae01479a63c11087e87",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "uvresdedescartes11desc"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:21:58.345Z",
+  "_hashes": {
+    "ocr": "d87246274e1ee579",
+    "translation": "b76e3af43450a7bd"
+  }
+}

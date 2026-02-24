@@ -1,0 +1,26 @@
+{
+  "id": "6978ee3af4d5bdc7b3df604c",
+  "title": "Chymische Schriften",
+  "display_title": "Chymische Schriften",
+  "author": "Basilius Valentinus",
+  "language": "German",
+  "year": 1677,
+  "published": "1677",
+  "pages_count": 1016,
+  "pages_with_ocr": 1016,
+  "pages_with_translation": 695,
+  "source_url": "https://sourcelibrary.org/book/6978ee3af4d5bdc7b3df604c",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:21:09.236Z",
+  "_hashes": {
+    "ocr": "44983fc54618e9e3",
+    "translation": "f451b2122aea5820"
+  }
+}

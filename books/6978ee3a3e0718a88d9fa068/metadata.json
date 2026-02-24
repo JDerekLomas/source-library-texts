@@ -1,0 +1,26 @@
+{
+  "id": "6978ee3a3e0718a88d9fa068",
+  "title": "Le chretien reel",
+  "display_title": "Le chretien reel",
+  "author": "[Saint-Jure, Jean Baptiste]",
+  "language": "French",
+  "year": 1701,
+  "published": "1701-2",
+  "pages_count": 862,
+  "pages_with_ocr": 862,
+  "pages_with_translation": 83,
+  "source_url": "https://sourcelibrary.org/book/6978ee3a3e0718a88d9fa068",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:21:49.011Z",
+  "_hashes": {
+    "ocr": "473f73b6858d3584",
+    "translation": "3803f92981ff45cd"
+  }
+}

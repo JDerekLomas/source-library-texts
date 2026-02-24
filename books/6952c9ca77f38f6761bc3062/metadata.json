@@ -1,0 +1,28 @@
+{
+  "id": "6952c9ca77f38f6761bc3062",
+  "title": "Plotini Enneades",
+  "display_title": "Enneads (1580 Basel editio princeps)",
+  "author": "Plotinus | Ficino, Marsilio (trans.)",
+  "language": "Greek",
+  "year": 1580,
+  "published": "1580",
+  "pages_count": 860,
+  "pages_with_ocr": 860,
+  "pages_with_translation": 860,
+  "source_url": "https://sourcelibrary.org/book/6952c9ca77f38f6761bc3062",
+  "license": "https://rightsstatements.org/vocab/NoC-NC/1.0/",
+  "doi": null,
+  "external_ids": {
+    "mdz": "bsb11054286"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": null,
+    "translation_model": "gemini-2.5-flash"
+  },
+  "synced_at": "2026-02-24T18:21:50.171Z",
+  "_hashes": {
+    "ocr": "5877745ab3815dcd",
+    "translation": "a44a4145380dc791"
+  }
+}

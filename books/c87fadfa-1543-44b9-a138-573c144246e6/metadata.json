@@ -1,0 +1,28 @@
+{
+  "id": "c87fadfa-1543-44b9-a138-573c144246e6",
+  "title": "Musaeum Hermeticum",
+  "display_title": "Musaeum Hermeticum (1677 Edition)",
+  "author": "Various; ed. Luca Jennis",
+  "language": "Latin",
+  "year": 1678,
+  "published": "1678",
+  "pages_count": 904,
+  "pages_with_ocr": 904,
+  "pages_with_translation": 904,
+  "source_url": "https://sourcelibrary.org/book/c87fadfa-1543-44b9-a138-573c144246e6",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "musaeumhermeticu00meri"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:21:37.781Z",
+  "_hashes": {
+    "ocr": "8dad1f5df70998e3",
+    "translation": "c61e3a27587e69e3"
+  }
+}

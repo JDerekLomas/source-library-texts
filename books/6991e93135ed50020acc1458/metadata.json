@@ -1,0 +1,28 @@
+{
+  "id": "6991e93135ed50020acc1458",
+  "title": "The Notebooks of Leonardo da Vinci",
+  "display_title": "The Notebooks of Leonardo da Vinci",
+  "author": "Leonardo da Vinci (ed. Jean Paul Richter)",
+  "language": "English",
+  "year": 1883,
+  "published": "Unknown",
+  "pages_count": 1272,
+  "pages_with_ocr": 1272,
+  "pages_with_translation": 1272,
+  "source_url": "https://sourcelibrary.org/book/6991e93135ed50020acc1458",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "noteboo00leon"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:20:36.389Z",
+  "_hashes": {
+    "ocr": "4629e39ca78a6932",
+    "translation": "a1ffc510ed9b359a"
+  }
+}

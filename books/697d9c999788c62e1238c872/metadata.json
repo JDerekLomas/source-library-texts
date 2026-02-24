@@ -1,0 +1,26 @@
+{
+  "id": "697d9c999788c62e1238c872",
+  "title": "Hierolexicon",
+  "display_title": "Hierolexicon",
+  "author": "Macromelitensis, Dominicus",
+  "language": "Latin",
+  "year": 1677,
+  "published": "1677",
+  "pages_count": 938,
+  "pages_with_ocr": 938,
+  "pages_with_translation": 4,
+  "source_url": "https://sourcelibrary.org/book/697d9c999788c62e1238c872",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:21:24.390Z",
+  "_hashes": {
+    "ocr": "2675baa6408bf4b5",
+    "translation": "5adbf68e444b60a8"
+  }
+}

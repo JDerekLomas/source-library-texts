@@ -1,0 +1,28 @@
+{
+  "id": "c62120da-38f1-441a-9f1b-2e698c0c887c",
+  "title": "Turba Philosophorum",
+  "display_title": "Turba Philosophorum (1572 Basel)",
+  "author": "Various; ed. P. Perna",
+  "language": "Latin",
+  "year": 1572,
+  "published": "1572",
+  "pages_count": 748,
+  "pages_with_ocr": 748,
+  "pages_with_translation": 748,
+  "source_url": "https://sourcelibrary.org/book/c62120da-38f1-441a-9f1b-2e698c0c887c",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "hin-wel-all-00002028-001"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:22:16.984Z",
+  "_hashes": {
+    "ocr": "94272ca0d354b6fd",
+    "translation": "60f1313dc0f3d7e7"
+  }
+}

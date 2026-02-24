@@ -1,0 +1,26 @@
+{
+  "id": "69751588a88d83c830d99e18",
+  "title": "Artis cabalisticae. Tomus I",
+  "display_title": "Artis cabalisticae. Tomus I",
+  "author": "Pistorius, Johannes",
+  "language": "Latin",
+  "year": 1587,
+  "published": "1587",
+  "pages_count": 1138,
+  "pages_with_ocr": 1138,
+  "pages_with_translation": 1109,
+  "source_url": "https://sourcelibrary.org/book/69751588a88d83c830d99e18",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:20:49.040Z",
+  "_hashes": {
+    "ocr": "668d82895ab7f82b",
+    "translation": "297395e0bb40cc9e"
+  }
+}

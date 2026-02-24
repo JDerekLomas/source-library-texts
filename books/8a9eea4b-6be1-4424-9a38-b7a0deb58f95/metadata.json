@@ -1,0 +1,28 @@
+{
+  "id": "8a9eea4b-6be1-4424-9a38-b7a0deb58f95",
+  "title": "Opera Omnia Medico-Chemico-Chirurgica",
+  "display_title": "Paracelsus: Complete Works (Latin)",
+  "author": "Paracelsus",
+  "language": "Latin",
+  "year": 1658,
+  "published": "1658",
+  "pages_count": 929,
+  "pages_with_ocr": 929,
+  "pages_with_translation": 929,
+  "source_url": "https://sourcelibrary.org/book/8a9eea4b-6be1-4424-9a38-b7a0deb58f95",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bub_gb_fAA6Advd-pMC"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:21:27.359Z",
+  "_hashes": {
+    "ocr": "4c62064e3169eba8",
+    "translation": "51ea2663c0158a28"
+  }
+}

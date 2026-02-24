@@ -1,0 +1,26 @@
+{
+  "id": "6974b642457dd8909910b9e5",
+  "title": "Opus de arcanis catholicae veritatis. De arte cabalistica",
+  "display_title": "Opus de arcanis catholicae veritatis. De arte cabalistica",
+  "author": "Columna, Petrus (Galatinus)|Reuchlin, Johann",
+  "language": "Latin",
+  "year": 1550,
+  "published": "1550",
+  "pages_count": 948,
+  "pages_with_ocr": 948,
+  "pages_with_translation": 635,
+  "source_url": "https://sourcelibrary.org/book/6974b642457dd8909910b9e5",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:21:22.786Z",
+  "_hashes": {
+    "ocr": "78cc5885f3b2271b",
+    "translation": "96e287ed8c8ce30f"
+  }
+}

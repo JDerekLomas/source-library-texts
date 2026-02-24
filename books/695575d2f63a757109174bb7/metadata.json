@@ -1,0 +1,28 @@
+{
+  "id": "695575d2f63a757109174bb7",
+  "title": "Harmonie Universelle (Tome II)",
+  "display_title": "Harmonie Universelle (Tome II)",
+  "author": "Marin Mersenne",
+  "language": "French",
+  "year": 1637,
+  "published": "1637",
+  "pages_count": 804,
+  "pages_with_ocr": 804,
+  "pages_with_translation": 796,
+  "source_url": "https://sourcelibrary.org/book/695575d2f63a757109174bb7",
+  "license": "https://gallica.bnf.fr/html/und/conditions-dutilisation-des-contenus-de-gallica",
+  "doi": null,
+  "external_ids": {
+    "gallica": "bpt6k54710466"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:21:59.539Z",
+  "_hashes": {
+    "ocr": "c0940dfbefc9fe8e",
+    "translation": "b311bd5616988398"
+  }
+}

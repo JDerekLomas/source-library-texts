@@ -1,0 +1,28 @@
+{
+  "id": "6952dac677f38f6761bc683a",
+  "title": "Utriusque Cosmi Historia Vol. 1",
+  "display_title": "History of Both Worlds: Macrocosm",
+  "author": "Robert Fludd",
+  "language": "Latin",
+  "year": 1617,
+  "published": "1617",
+  "pages_count": 1036,
+  "pages_with_ocr": 1036,
+  "pages_with_translation": 1036,
+  "source_url": "https://sourcelibrary.org/book/6952dac677f38f6761bc683a",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "utriusquecosmima01flud"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:20:59.003Z",
+  "_hashes": {
+    "ocr": "b736c25a5248039a",
+    "translation": "0abfba1421e06060"
+  }
+}

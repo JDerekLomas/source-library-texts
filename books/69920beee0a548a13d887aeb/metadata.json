@@ -1,0 +1,28 @@
+{
+  "id": "69920beee0a548a13d887aeb",
+  "title": "Rig-Veda-Sanhita (Vol. 5)",
+  "display_title": "Rig-Veda-Sanhita (Vol. 5)",
+  "author": "Max Müller (ed.) / Sayana (commentary)",
+  "language": "Sanskrit",
+  "year": 1869,
+  "published": "Unknown",
+  "pages_count": 1086,
+  "pages_with_ocr": 1086,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/69920beee0a548a13d887aeb",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "rigvedasanhitasa05mull"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:20:54.121Z",
+  "_hashes": {
+    "ocr": "0e7ed221c631107e",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

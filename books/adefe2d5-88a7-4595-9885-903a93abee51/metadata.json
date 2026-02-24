@@ -1,0 +1,28 @@
+{
+  "id": "adefe2d5-88a7-4595-9885-903a93abee51",
+  "title": "Divini Platonis Opera omnia",
+  "display_title": "Plato: Complete Works (Ficino Translation)",
+  "author": "Plato; trans. Marsilio Ficino",
+  "language": "Latin",
+  "year": 1590,
+  "published": "1590",
+  "pages_count": 916,
+  "pages_with_ocr": 916,
+  "pages_with_translation": 912,
+  "source_url": "https://sourcelibrary.org/book/adefe2d5-88a7-4595-9885-903a93abee51",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "diviniplatonisop00plat"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:21:34.958Z",
+  "_hashes": {
+    "ocr": "185a447ebce5821e",
+    "translation": "9f6f0dab5ce865a9"
+  }
+}

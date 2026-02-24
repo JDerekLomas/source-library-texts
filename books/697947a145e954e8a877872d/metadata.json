@@ -1,0 +1,26 @@
+{
+  "id": "697947a145e954e8a877872d",
+  "title": "Commentarius in Currum triumphalem antimonii Basilii Valentini",
+  "display_title": "Commentarius in Currum triumphalem antimonii Basilii Valentini",
+  "author": "Kerckring, Theodor",
+  "language": "Latin",
+  "year": 1671,
+  "published": "1671",
+  "pages_count": 806,
+  "pages_with_ocr": 806,
+  "pages_with_translation": 272,
+  "source_url": "https://sourcelibrary.org/book/697947a145e954e8a877872d",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:21:57.715Z",
+  "_hashes": {
+    "ocr": "89dff8bce0462e46",
+    "translation": "bec25be64ba28d23"
+  }
+}

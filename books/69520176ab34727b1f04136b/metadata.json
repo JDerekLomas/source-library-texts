@@ -1,0 +1,28 @@
+{
+  "id": "69520176ab34727b1f04136b",
+  "title": "Utriusque cosmi majoris scilicet et minoris metaphysica, physica atque technica historia",
+  "display_title": "Utriusque cosmi majoris scilicet et minoris metaphysica, physica atque technica historia",
+  "author": "Robert Fludd",
+  "language": "Latin",
+  "year": 1617,
+  "published": "1617-1618",
+  "pages_count": 848,
+  "pages_with_ocr": 848,
+  "pages_with_translation": 848,
+  "source_url": "https://sourcelibrary.org/book/69520176ab34727b1f04136b",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "gallica": "bpt6k61073880"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-2.5-flash"
+  },
+  "synced_at": "2026-02-24T18:21:57.035Z",
+  "_hashes": {
+    "ocr": "f4ece8d6bab8e134",
+    "translation": "4242e9fdfb91ea7f"
+  }
+}
