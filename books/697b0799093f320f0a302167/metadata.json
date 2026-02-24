@@ -1,0 +1,26 @@
+{
+  "id": "697b0799093f320f0a302167",
+  "title": "Einige Originalschriften des Illuminatenordens",
+  "display_title": "Einige Originalschriften des Illuminatenordens",
+  "author": "[Zwack, Franz Xaver von]",
+  "language": "German",
+  "year": 1787,
+  "published": "1787",
+  "pages_count": 468,
+  "pages_with_ocr": 468,
+  "pages_with_translation": 5,
+  "source_url": "https://sourcelibrary.org/book/697b0799093f320f0a302167",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:24:39.442Z",
+  "_hashes": {
+    "ocr": "6bf5c07f561f307e",
+    "translation": "1de340b96f59613d"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "697b079940232b96c794c2c9",
+  "title": "Essais de theodicée sur la bonté de Dieu",
+  "display_title": "Essais de theodicée sur la bonté de Dieu",
+  "author": "Leibnitz, Gottfried Wilhelm von",
+  "language": "French",
+  "year": 1734,
+  "published": "1734",
+  "pages_count": 492,
+  "pages_with_ocr": 477,
+  "pages_with_translation": 5,
+  "source_url": "https://sourcelibrary.org/book/697b079940232b96c794c2c9",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:24:35.852Z",
+  "_hashes": {
+    "ocr": "06b5996a42f58363",
+    "translation": "76b5ba1bb7f89dc7"
+  }
+}

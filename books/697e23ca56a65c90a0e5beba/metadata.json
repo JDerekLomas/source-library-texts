@@ -1,0 +1,26 @@
+{
+  "id": "697e23ca56a65c90a0e5beba",
+  "title": "Les images ou tableaus de platte peinture de Philostrate Lemnien",
+  "display_title": "Les images ou tableaus de platte peinture de Philostrate Lemnien",
+  "author": "Philostratus",
+  "language": "French",
+  "year": 1602,
+  "published": "1602",
+  "pages_count": 1468,
+  "pages_with_ocr": 510,
+  "pages_with_translation": 6,
+  "source_url": "https://sourcelibrary.org/book/697e23ca56a65c90a0e5beba",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:24:18.501Z",
+  "_hashes": {
+    "ocr": "d0c8bf21e8d7f6ed",
+    "translation": "0362eb6040ab3f11"
+  }
+}

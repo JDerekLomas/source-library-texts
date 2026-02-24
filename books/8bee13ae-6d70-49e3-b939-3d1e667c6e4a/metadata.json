@@ -1,0 +1,28 @@
+{
+  "id": "8bee13ae-6d70-49e3-b939-3d1e667c6e4a",
+  "title": "Theatrum Chemicum Britannicum",
+  "display_title": "Theatrum Chemicum Britannicum",
+  "author": "Elias Ashmole (compiler)",
+  "language": "English",
+  "year": 1652,
+  "published": "1652",
+  "pages_count": 524,
+  "pages_with_ocr": 524,
+  "pages_with_translation": 524,
+  "source_url": "https://sourcelibrary.org/book/8bee13ae-6d70-49e3-b939-3d1e667c6e4a",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "theatrumchemicum00ashm"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:23:58.737Z",
+  "_hashes": {
+    "ocr": "4b78758d6ca9d462",
+    "translation": "18c10e2bb7b926bb"
+  }
+}

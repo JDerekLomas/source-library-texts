@@ -1,0 +1,26 @@
+{
+  "id": "697e23c8afb300a993b89f08",
+  "title": "Historie der Christenen, die men gemeenlyk Waldensen noemt",
+  "display_title": "Historie der Christenen, die men gemeenlyk Waldensen noemt",
+  "author": "Schagen, Marten",
+  "language": "Dutch",
+  "year": 1765,
+  "published": "1765",
+  "pages_count": 488,
+  "pages_with_ocr": 488,
+  "pages_with_translation": 4,
+  "source_url": "https://sourcelibrary.org/book/697e23c8afb300a993b89f08",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:24:33.331Z",
+  "_hashes": {
+    "ocr": "40c3f410303f22af",
+    "translation": "b0d0cc0f540f189b"
+  }
+}

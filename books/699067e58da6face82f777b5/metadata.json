@@ -1,0 +1,28 @@
+{
+  "id": "699067e58da6face82f777b5",
+  "title": "The Commentaries of Proclus on the Timaeus of Plato",
+  "display_title": "Commentary on the Timaeus",
+  "author": "Proclus (Thomas Taylor, trans.)",
+  "language": "English",
+  "year": 1820,
+  "published": "Unknown",
+  "pages_count": 496,
+  "pages_with_ocr": 492,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/699067e58da6face82f777b5",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "proclusontimaeus02procuoft"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:24:30.267Z",
+  "_hashes": {
+    "ocr": "9e87f77b84021d9b",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

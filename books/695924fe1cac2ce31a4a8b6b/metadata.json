@@ -1,0 +1,28 @@
+{
+  "id": "695924fe1cac2ce31a4a8b6b",
+  "title": "道藏精华 (Daozang Jinghua - Essence of Taoist Canon)",
+  "display_title": "道藏精华 (Daozang Jinghua - Essence of Taoist Canon)",
+  "author": "Various Taoist Masters",
+  "language": "Chinese",
+  "year": 1922,
+  "published": "Unknown",
+  "pages_count": 463,
+  "pages_with_ocr": 463,
+  "pages_with_translation": 463,
+  "source_url": "https://sourcelibrary.org/book/695924fe1cac2ce31a4a8b6b",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "daozang-jinghua"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": null,
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:24:43.536Z",
+  "_hashes": {
+    "ocr": "f566084682fe6c16",
+    "translation": "69c37f977df8f221"
+  }
+}

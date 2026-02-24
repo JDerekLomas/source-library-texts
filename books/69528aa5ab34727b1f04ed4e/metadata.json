@@ -1,0 +1,28 @@
+{
+  "id": "69528aa5ab34727b1f04ed4e",
+  "title": "Vie de sainte Thérèse écrite par elle-même",
+  "display_title": "Vie de sainte Thérèse écrite par elle-même",
+  "author": "Teresa of Ávila",
+  "language": "French",
+  "year": 1857,
+  "published": "1857",
+  "pages_count": 462,
+  "pages_with_ocr": 462,
+  "pages_with_translation": 462,
+  "source_url": "https://sourcelibrary.org/book/69528aa5ab34727b1f04ed4e",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "gallica": "bpt6k9606859h"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": null,
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:24:43.927Z",
+  "_hashes": {
+    "ocr": "5b99bc902dab4bea",
+    "translation": "98bd6218d521ba92"
+  }
+}

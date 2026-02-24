@@ -1,0 +1,26 @@
+{
+  "id": "697c8e0f150e68b9f40701fc",
+  "title": "Fortgesetzte nichtige Vorurtheile",
+  "display_title": "Fortgesetzte nichtige Vorurtheile",
+  "author": "Engelschall, Carl Gottfried",
+  "language": "German",
+  "year": 1719,
+  "published": "17[19?]",
+  "pages_count": 510,
+  "pages_with_ocr": 510,
+  "pages_with_translation": 6,
+  "source_url": "https://sourcelibrary.org/book/697c8e0f150e68b9f40701fc",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:24:16.727Z",
+  "_hashes": {
+    "ocr": "f94b3c89ca135d8e",
+    "translation": "1f8d2fbe2b94dbf9"
+  }
+}

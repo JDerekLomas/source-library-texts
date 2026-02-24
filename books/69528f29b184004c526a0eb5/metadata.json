@@ -1,0 +1,28 @@
+{
+  "id": "69528f29b184004c526a0eb5",
+  "title": "De claris mulieribus (14th c. Italian translation, ed. Tosti 1841)",
+  "display_title": "De claris mulieribus (14th c. Italian translation, ed. Tosti 1841)",
+  "author": "Giovanni Boccaccio (trans. Donato da Casentino)",
+  "language": "Italian",
+  "year": 1841,
+  "published": "1841",
+  "pages_count": 510,
+  "pages_with_ocr": 510,
+  "pages_with_translation": 510,
+  "source_url": "https://sourcelibrary.org/book/69528f29b184004c526a0eb5",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "volgarizzamento00casegoog"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:24:19.455Z",
+  "_hashes": {
+    "ocr": "22705283756fb342",
+    "translation": "1efe6cba415201f3"
+  }
+}

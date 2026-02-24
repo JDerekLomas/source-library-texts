@@ -1,0 +1,28 @@
+{
+  "id": "6952db5477f38f6761bc7402",
+  "title": "Itinerarium Exstaticum",
+  "display_title": "The Ecstatic Journey: A Voyage Through the Celestial Realms",
+  "author": "Athanasius Kircher",
+  "language": "Latin",
+  "year": 1656,
+  "published": "1656",
+  "pages_count": 501,
+  "pages_with_ocr": 501,
+  "pages_with_translation": 501,
+  "source_url": "https://sourcelibrary.org/book/6952db5477f38f6761bc7402",
+  "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bub_gb_LYHDdZImrfAC"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:24:25.217Z",
+  "_hashes": {
+    "ocr": "b0ef15dc89836ebc",
+    "translation": "7640c5630a0d6d00"
+  }
+}

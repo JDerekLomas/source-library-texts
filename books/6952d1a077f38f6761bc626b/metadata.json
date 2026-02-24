@@ -1,0 +1,28 @@
+{
+  "id": "6952d1a077f38f6761bc626b",
+  "title": "Ad Vitellionem Paralipomena (Astronomiae Pars Optica)",
+  "display_title": "Optics (foundations of modern optics)",
+  "author": "Kepler, Johannes",
+  "language": "Latin",
+  "year": 1604,
+  "published": "1604",
+  "pages_count": 506,
+  "pages_with_ocr": 506,
+  "pages_with_translation": 506,
+  "source_url": "https://sourcelibrary.org/book/6952d1a077f38f6761bc626b",
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "doi": null,
+  "external_ids": {
+    "mdz": "bsb00007828"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": null,
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:24:23.831Z",
+  "_hashes": {
+    "ocr": "908897e3e8409538",
+    "translation": "0947ed353208c508"
+  }
+}

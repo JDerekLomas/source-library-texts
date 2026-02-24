@@ -1,0 +1,26 @@
+{
+  "id": "6970e3539b09d309d780a23e",
+  "title": "[Greek: Peri apoches empsychon biblia tessara] De abstinentia ab esu animalium",
+  "display_title": "[Greek: Peri apoches empsychon biblia tessara] De abstinentia ab esu animalium",
+  "author": "Porphyrius",
+  "language": "Latin",
+  "year": 1767,
+  "published": "1767",
+  "pages_count": 462,
+  "pages_with_ocr": 462,
+  "pages_with_translation": 452,
+  "source_url": "https://sourcelibrary.org/book/6970e3539b09d309d780a23e",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:24:45.448Z",
+  "_hashes": {
+    "ocr": "8392b2c445562246",
+    "translation": "b80a9f41ac829d3d"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "6952ca2e77f38f6761bc34d9",
+  "title": "The Six Books of Proclus on the Theology of Plato",
+  "display_title": "Platonic Theology (Thomas Taylor trans.)",
+  "author": "Proclus | Taylor, Thomas (trans.)",
+  "language": "English",
+  "year": 1816,
+  "published": "1816",
+  "pages_count": 517,
+  "pages_with_ocr": 517,
+  "pages_with_translation": 517,
+  "source_url": "https://sourcelibrary.org/book/6952ca2e77f38f6761bc34d9",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "sixbooksproclus00unkngoog"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": null,
+    "translation_model": "gemini-2.5-flash"
+  },
+  "synced_at": "2026-02-24T18:24:00.741Z",
+  "_hashes": {
+    "ocr": "585fd214d0a8fb81",
+    "translation": "62788d8cd93e9d39"
+  }
+}

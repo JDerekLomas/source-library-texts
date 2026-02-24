@@ -1,0 +1,28 @@
+{
+  "id": "6952db2477f38f6761bc70c4",
+  "title": "Saducismus Triumphatus",
+  "display_title": "Saducismus Triumphatus: Evidence Concerning Witches and Apparitions",
+  "author": "Joseph Glanvill",
+  "language": "English",
+  "year": 1681,
+  "published": "1681",
+  "pages_count": 498,
+  "pages_with_ocr": 498,
+  "pages_with_translation": 498,
+  "source_url": "https://sourcelibrary.org/book/6952db2477f38f6761bc70c4",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "saducismustriump00glan"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:24:26.931Z",
+  "_hashes": {
+    "ocr": "7c337d6cab457260",
+    "translation": "0573d5398de8ce4e"
+  }
+}

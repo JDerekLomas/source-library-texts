@@ -1,0 +1,26 @@
+{
+  "id": "697d9c999788c62e1238c86c",
+  "title": "Harmoniae inperscrutabilis chymico-philosophicae",
+  "display_title": "Harmoniae inperscrutabilis chymico-philosophicae",
+  "author": "[Grasshoff, Johann]",
+  "language": "Latin",
+  "year": 1625,
+  "published": "1625",
+  "pages_count": 704,
+  "pages_with_ocr": 510,
+  "pages_with_translation": 5,
+  "source_url": "https://sourcelibrary.org/book/697d9c999788c62e1238c86c",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:24:17.418Z",
+  "_hashes": {
+    "ocr": "a51fc5fb91e5c39e",
+    "translation": "a9249f97567a7eb8"
+  }
+}

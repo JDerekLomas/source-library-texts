@@ -1,0 +1,26 @@
+{
+  "id": "697d9c9b971fd6d8096654dc",
+  "title": "Der von Gott erleuchtete Fuehrer [...] vorgestellt in einen Auszug aus denen Schrifften des Hn. Bertot",
+  "display_title": "Der von Gott erleuchtete Fuehrer [...] vorgestellt in einen Auszug aus denen Schrifften des Hn. Bertot",
+  "author": "[Guyon, Jeanne-Marie]",
+  "language": "German",
+  "year": 1740,
+  "published": "1740-1741",
+  "pages_count": 488,
+  "pages_with_ocr": 488,
+  "pages_with_translation": 8,
+  "source_url": "https://sourcelibrary.org/book/697d9c9b971fd6d8096654dc",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:24:33.088Z",
+  "_hashes": {
+    "ocr": "896ba2bf85065879",
+    "translation": "31ca6594d6f9d7db"
+  }
+}

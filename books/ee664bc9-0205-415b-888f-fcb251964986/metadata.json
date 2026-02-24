@@ -1,0 +1,28 @@
+{
+  "id": "ee664bc9-0205-415b-888f-fcb251964986",
+  "title": "Lehigh Codex",
+  "display_title": "Lehigh Codex (15th c. Naples Alchemical MS)",
+  "author": "Arnold of Brussels (compiler)",
+  "language": "Latin",
+  "year": 1489,
+  "published": "1489",
+  "pages_count": 482,
+  "pages_with_ocr": 482,
+  "pages_with_translation": 468,
+  "source_url": "https://sourcelibrary.org/book/ee664bc9-0205-415b-888f-fcb251964986",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "lehigh_codex_010"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:24:35.167Z",
+  "_hashes": {
+    "ocr": "170781005e1e3ba5",
+    "translation": "2743437924b32227"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "69529509b184004c526a2793",
+  "title": "Historia vitae et mortis",
+  "display_title": "History of Life and Death",
+  "author": "Bacon, Francis",
+  "language": "Latin",
+  "year": 1623,
+  "published": "1623",
+  "pages_count": 472,
+  "pages_with_ocr": 472,
+  "pages_with_translation": 472,
+  "source_url": "https://sourcelibrary.org/book/69529509b184004c526a2793",
+  "license": "https://rightsstatements.org/vocab/NoC-NC/1.0/",
+  "doi": null,
+  "external_ids": {
+    "mdz": "bsb10367676"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": null,
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:24:37.621Z",
+  "_hashes": {
+    "ocr": "8e8169533883b062",
+    "translation": "166968496d9e876e"
+  }
+}

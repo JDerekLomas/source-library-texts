@@ -1,0 +1,26 @@
+{
+  "id": "697e23c3eae9ff63cff4df6c",
+  "title": "L'Hydre morbifique exterminée par l'Hercule chymique",
+  "display_title": "L'Hydre morbifique exterminée par l'Hercule chymique",
+  "author": "Planis Campy, David de",
+  "language": "French",
+  "year": 1628,
+  "published": "1628",
+  "pages_count": 739,
+  "pages_with_ocr": 515,
+  "pages_with_translation": 2,
+  "source_url": "https://sourcelibrary.org/book/697e23c3eae9ff63cff4df6c",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:24:01.664Z",
+  "_hashes": {
+    "ocr": "c63d9a914c4e5e0d",
+    "translation": "e404cf1e5abf1c42"
+  }
+}

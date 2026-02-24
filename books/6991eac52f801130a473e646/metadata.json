@@ -1,0 +1,28 @@
+{
+  "id": "6991eac52f801130a473e646",
+  "title": "Frammenti letterari e filosofici",
+  "display_title": "Frammenti letterari e filosofici",
+  "author": "Leonardo da Vinci (ed. Edmondo Solmi)",
+  "language": "Italian",
+  "year": 1922,
+  "published": "Unknown",
+  "pages_count": 482,
+  "pages_with_ocr": 481,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/6991eac52f801130a473e646",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "LeonardoFrammenti"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:24:35.347Z",
+  "_hashes": {
+    "ocr": "dee59ef20bae0887",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "697e23cad41bbe1bad72f53c",
+  "title": "Important truths. With extracts from the way to Christ by Jacob Boehme",
+  "display_title": "Important truths. With extracts from the way to Christ by Jacob Boehme",
+  "author": "Unknown",
+  "language": "English",
+  "year": 1769,
+  "published": "1769",
+  "pages_count": 467,
+  "pages_with_ocr": 465,
+  "pages_with_translation": 3,
+  "source_url": "https://sourcelibrary.org/book/697e23cad41bbe1bad72f53c",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:24:41.454Z",
+  "_hashes": {
+    "ocr": "8a04994c4a308b19",
+    "translation": "e94a32a33bd4b6df"
+  }
+}

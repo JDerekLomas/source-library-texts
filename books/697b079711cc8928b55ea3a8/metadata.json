@@ -1,0 +1,26 @@
+{
+  "id": "697b079711cc8928b55ea3a8",
+  "title": "[Greek] Ecclesiasticae historiae",
+  "display_title": "[Greek] Ecclesiasticae historiae",
+  "author": "Eusebius Caesariensis",
+  "language": "Greek",
+  "year": 1544,
+  "published": "1544",
+  "pages_count": 1319,
+  "pages_with_ocr": 510,
+  "pages_with_translation": 2,
+  "source_url": "https://sourcelibrary.org/book/697b079711cc8928b55ea3a8",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:24:11.184Z",
+  "_hashes": {
+    "ocr": "49efa9c1a775b47a",
+    "translation": "a73e9b5372cf3d66"
+  }
+}

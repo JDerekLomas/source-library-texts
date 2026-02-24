@@ -1,0 +1,26 @@
+{
+  "id": "6988a59f8f2b65d11145d732",
+  "title": "De secretis mulierum. De virtutibus herbarum, lapidum, et animalium. De mirabilibus mundi. De falconibu, asturibus, et accipitribus",
+  "display_title": "On the secrets of women. On the virtues of herbs, stones, and animals. On the wonders of the world. On falcons, goshawks, and hawks.",
+  "author": "Albertus Magnus",
+  "language": "Latin",
+  "year": 1596,
+  "published": "1596",
+  "pages_count": 526,
+  "pages_with_ocr": 526,
+  "pages_with_translation": 513,
+  "source_url": "https://sourcelibrary.org/book/6988a59f8f2b65d11145d732",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:23:58.267Z",
+  "_hashes": {
+    "ocr": "2a9871871368eb7a",
+    "translation": "52866550009eee4c"
+  }
+}

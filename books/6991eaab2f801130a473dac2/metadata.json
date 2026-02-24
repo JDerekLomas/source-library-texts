@@ -1,0 +1,28 @@
+{
+  "id": "6991eaab2f801130a473dac2",
+  "title": "Les manuscrits de Leonard de Vinci, Vol. 3",
+  "display_title": "Les manuscrits de Leonard de Vinci, Vol. 3",
+  "author": "Leonardo da Vinci (ed. Ravaisson-Mollien)",
+  "language": "French",
+  "year": 1884,
+  "published": "Unknown",
+  "pages_count": 464,
+  "pages_with_ocr": 464,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/6991eaab2f801130a473dac2",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "lesmanuscritsdel03lo"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:24:41.924Z",
+  "_hashes": {
+    "ocr": "6517a00a073a95ec",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

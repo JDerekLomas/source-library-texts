@@ -1,0 +1,28 @@
+{
+  "id": "69920bc6e0a548a13d885667",
+  "title": "Codex Sinaiticus: Old Testament (Facsimile)",
+  "display_title": "Codex Sinaiticus: Old Testament (Facsimile)",
+  "author": "Helen & Kirsopp Lake",
+  "language": "English",
+  "year": 1911,
+  "published": "Unknown",
+  "pages_count": 527,
+  "pages_with_ocr": 526,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/69920bc6e0a548a13d885667",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "per_the-ancient-biblical-manuscripts_codex-sinaiticus-the-ol_helen-and-kirsopp-lake"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:23:57.691Z",
+  "_hashes": {
+    "ocr": "1c8880aaa1eb2a72",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

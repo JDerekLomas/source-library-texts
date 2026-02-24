@@ -1,0 +1,26 @@
+{
+  "id": "697b079addee0ea10ea898dc",
+  "title": "Expositio in Apocalipsim",
+  "display_title": "Expositio in Apocalipsim",
+  "author": "Joachim of Fiore",
+  "language": "Latin",
+  "year": 1527,
+  "published": "1527",
+  "pages_count": 780,
+  "pages_with_ocr": 508,
+  "pages_with_translation": 6,
+  "source_url": "https://sourcelibrary.org/book/697b079addee0ea10ea898dc",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:24:22.140Z",
+  "_hashes": {
+    "ocr": "528fd111eddefee2",
+    "translation": "b0ba7fb76b0a8d20"
+  }
+}

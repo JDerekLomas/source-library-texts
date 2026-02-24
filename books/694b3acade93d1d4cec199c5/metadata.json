@@ -1,0 +1,28 @@
+{
+  "id": "694b3acade93d1d4cec199c5",
+  "title": "Epistolae",
+  "display_title": "The Letters of Marsilio Ficino",
+  "author": "Ficino, Marsilio, 1433-1499",
+  "language": "Latin",
+  "year": 1497,
+  "published": "1497",
+  "pages_count": 496,
+  "pages_with_ocr": 496,
+  "pages_with_translation": 496,
+  "source_url": "https://sourcelibrary.org/book/694b3acade93d1d4cec199c5",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "epistolaemarsili00fici"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-2.5-flash"
+  },
+  "synced_at": "2026-02-24T18:24:29.200Z",
+  "_hashes": {
+    "ocr": "694bdd744afe5969",
+    "translation": "41336480ac752bfb"
+  }
+}

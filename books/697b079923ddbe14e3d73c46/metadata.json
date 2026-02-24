@@ -1,0 +1,26 @@
+{
+  "id": "697b079923ddbe14e3d73c46",
+  "title": "Entdecktes Judenthum",
+  "display_title": "Entdecktes Judenthum",
+  "author": "Eisenmenger, Johann Andreas",
+  "language": "German",
+  "year": 1711,
+  "published": "1711",
+  "pages_count": 1208,
+  "pages_with_ocr": 509,
+  "pages_with_translation": 7,
+  "source_url": "https://sourcelibrary.org/book/697b079923ddbe14e3d73c46",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:24:21.690Z",
+  "_hashes": {
+    "ocr": "259392df7b529134",
+    "translation": "bcc7ef7ad590a42f"
+  }
+}

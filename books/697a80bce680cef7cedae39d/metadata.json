@@ -1,0 +1,26 @@
+{
+  "id": "697a80bce680cef7cedae39d",
+  "title": "Dissertationum ad historiam ecclesiasticam pertinentium volumen",
+  "display_title": "Dissertationum ad historiam ecclesiasticam pertinentium volumen",
+  "author": "Mosheim, Johann Lorenz von",
+  "language": "Latin",
+  "year": 1733,
+  "published": "1733",
+  "pages_count": 806,
+  "pages_with_ocr": 510,
+  "pages_with_translation": 5,
+  "source_url": "https://sourcelibrary.org/book/697a80bce680cef7cedae39d",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:24:19.015Z",
+  "_hashes": {
+    "ocr": "a03c98fbcb979fd3",
+    "translation": "71e670d8f5ba07df"
+  }
+}

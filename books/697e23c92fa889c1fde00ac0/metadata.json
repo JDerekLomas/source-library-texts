@@ -1,0 +1,26 @@
+{
+  "id": "697e23c92fa889c1fde00ac0",
+  "title": "Historie der Reformatie",
+  "display_title": "Historie der Reformatie",
+  "author": "Brandt, Geeraert",
+  "language": "Dutch",
+  "year": 1677,
+  "published": "1677",
+  "pages_count": 1276,
+  "pages_with_ocr": 510,
+  "pages_with_translation": 4,
+  "source_url": "https://sourcelibrary.org/book/697e23c92fa889c1fde00ac0",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:24:12.560Z",
+  "_hashes": {
+    "ocr": "5461166cf757b981",
+    "translation": "945b8b67114871bf"
+  }
+}

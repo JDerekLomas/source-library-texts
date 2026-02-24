@@ -1,0 +1,26 @@
+{
+  "id": "68d5571a110616ec557a3708",
+  "title": "Astronomicon libri VIII",
+  "display_title": "Eight Books on Astronomy",
+  "author": "Julius Firmicus Maternus",
+  "language": "Latin",
+  "year": 1533,
+  "published": "1533",
+  "pages_count": 497,
+  "pages_with_ocr": 497,
+  "pages_with_translation": 497,
+  "source_url": "https://sourcelibrary.org/book/68d5571a110616ec557a3708",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:24:28.187Z",
+  "_hashes": {
+    "ocr": "7ae9b94895d4c8f7",
+    "translation": "a071f5c8a1c002c2"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "69528622ab34727b1f04c566",
+  "title": "Cabalistarum Selectiora Dogmata",
+  "display_title": "Cabalistarum Selectiora Dogmata",
+  "author": "Giovanni Pico della Mirandola; Archangelus de Burgonovo",
+  "language": "Latin",
+  "year": 1569,
+  "published": "1569",
+  "pages_count": 463,
+  "pages_with_ocr": 463,
+  "pages_with_translation": 463,
+  "source_url": "https://sourcelibrary.org/book/69528622ab34727b1f04c566",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bub_gb_5aKmXIvCK24C"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:24:42.462Z",
+  "_hashes": {
+    "ocr": "083dda510d4de838",
+    "translation": "cb4befdc680ca409"
+  }
+}

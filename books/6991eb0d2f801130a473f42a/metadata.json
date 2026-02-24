@@ -1,0 +1,28 @@
+{
+  "id": "6991eb0d2f801130a473f42a",
+  "title": "Leonardo da Vinci: der Denker, Forscher und Poet",
+  "display_title": "Leonardo da Vinci: der Denker, Forscher und Poet",
+  "author": "Leonardo da Vinci",
+  "language": "German",
+  "year": 1900,
+  "published": "Unknown",
+  "pages_count": 506,
+  "pages_with_ocr": 503,
+  "pages_with_translation": 486,
+  "source_url": "https://sourcelibrary.org/book/6991eb0d2f801130a473f42a",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "leonardodavincid00leon"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:24:24.750Z",
+  "_hashes": {
+    "ocr": "b0914d057d13486a",
+    "translation": "9df446f09a5ef481"
+  }
+}

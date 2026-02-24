@@ -1,0 +1,26 @@
+{
+  "id": "6970e36e9b09d309d780a294",
+  "title": "Alphabetische naamlyst der voornaamste Ketteren",
+  "display_title": "Alphabetische naamlyst der voornaamste Ketteren",
+  "author": "Unknown",
+  "language": "Dutch",
+  "year": 1751,
+  "published": "1751",
+  "pages_count": 476,
+  "pages_with_ocr": 476,
+  "pages_with_translation": 190,
+  "source_url": "https://sourcelibrary.org/book/6970e36e9b09d309d780a294",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:24:36.859Z",
+  "_hashes": {
+    "ocr": "3ab9228cf0d06ff6",
+    "translation": "b017f9e560ef8ae6"
+  }
+}

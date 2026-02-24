@@ -1,0 +1,26 @@
+{
+  "id": "6909ec3ecf28baa1b4cb09c3",
+  "title": "In quatuor Evangelia enarrationes luculentissimae",
+  "display_title": "Most Lucid Expositions on the Four Gospels",
+  "author": "Theophylactus of Ochrid",
+  "language": "Latin",
+  "year": 1540,
+  "published": "1540",
+  "pages_count": 511,
+  "pages_with_ocr": 511,
+  "pages_with_translation": 432,
+  "source_url": "https://sourcelibrary.org/book/6909ec3ecf28baa1b4cb09c3",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:24:06.928Z",
+  "_hashes": {
+    "ocr": "a02d8141068d5e50",
+    "translation": "fa4bebd870c7d0ed"
+  }
+}

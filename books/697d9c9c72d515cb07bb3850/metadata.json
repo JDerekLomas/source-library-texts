@@ -1,0 +1,26 @@
+{
+  "id": "697d9c9c72d515cb07bb3850",
+  "title": "Güldene Send-Schreiben derer alten Christen",
+  "display_title": "Güldene Send-Schreiben derer alten Christen",
+  "author": "Arnold, Gottfried",
+  "language": "German",
+  "year": 1723,
+  "published": "1723",
+  "pages_count": 772,
+  "pages_with_ocr": 509,
+  "pages_with_translation": 5,
+  "source_url": "https://sourcelibrary.org/book/697d9c9c72d515cb07bb3850",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:24:21.247Z",
+  "_hashes": {
+    "ocr": "cde9ee91ff9c4362",
+    "translation": "f610d9ffd73fd2be"
+  }
+}

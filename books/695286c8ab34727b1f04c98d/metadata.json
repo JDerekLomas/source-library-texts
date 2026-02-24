@@ -1,0 +1,28 @@
+{
+  "id": "695286c8ab34727b1f04c98d",
+  "title": "Theatrum Chemicum Vol I",
+  "display_title": "Theatrum Chemicum Volumen Primum",
+  "author": "Lazarus Zetzner (ed.)",
+  "language": "Latin",
+  "year": 1659,
+  "published": "1659",
+  "pages_count": 833,
+  "pages_with_ocr": 500,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/695286c8ab34727b1f04c98d",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "BIUSante_pharma_res011287x01"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:24:25.569Z",
+  "_hashes": {
+    "ocr": "fd981448ed8e3e9e",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

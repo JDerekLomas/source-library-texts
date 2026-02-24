@@ -1,0 +1,26 @@
+{
+  "id": "697e23c2eae9ff63cff4df62",
+  "title": "De historie vanden Waldensen",
+  "display_title": "De historie vanden Waldensen",
+  "author": "Perrin, Jean Paul",
+  "language": "Dutch",
+  "year": 1624,
+  "published": "1624",
+  "pages_count": 694,
+  "pages_with_ocr": 510,
+  "pages_with_translation": 1,
+  "source_url": "https://sourcelibrary.org/book/697e23c2eae9ff63cff4df62",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:24:07.507Z",
+  "_hashes": {
+    "ocr": "1620a56bf62df1f1",
+    "translation": "145e346d6bc3df7e"
+  }
+}

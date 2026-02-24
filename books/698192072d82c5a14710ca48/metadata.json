@@ -1,0 +1,26 @@
+{
+  "id": "698192072d82c5a14710ca48",
+  "title": "Menippus, sive, dialogorum satyricorum",
+  "display_title": "Menippus, sive, dialogorum satyricorum",
+  "author": "Andreae, Johann Valentin",
+  "language": "Latin",
+  "year": 1669,
+  "published": "1669",
+  "pages_count": 466,
+  "pages_with_ocr": 466,
+  "pages_with_translation": 457,
+  "source_url": "https://sourcelibrary.org/book/698192072d82c5a14710ca48",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:24:40.514Z",
+  "_hashes": {
+    "ocr": "51f182c62ee0c662",
+    "translation": "15ea072fd7090d7c"
+  }
+}

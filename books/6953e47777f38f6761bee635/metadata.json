@@ -1,0 +1,28 @@
+{
+  "id": "6953e47777f38f6761bee635",
+  "title": "Dialogo sopra i due massimi sistemi del mondo (1632)",
+  "display_title": "Dialogo sopra i due massimi sistemi del mondo (1632)",
+  "author": "Galileo Galilei",
+  "language": "Italian",
+  "year": 1635,
+  "published": "1635",
+  "pages_count": 520,
+  "pages_with_ocr": 520,
+  "pages_with_translation": 506,
+  "source_url": "https://sourcelibrary.org/book/6953e47777f38f6761bee635",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "dialogodigalileo00gali"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:23:59.889Z",
+  "_hashes": {
+    "ocr": "3c40359e7ec0f451",
+    "translation": "4c7fcc7b36f9f231"
+  }
+}

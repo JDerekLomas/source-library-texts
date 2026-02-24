@@ -1,0 +1,26 @@
+{
+  "id": "697d9c9e971fd6d8096654e6",
+  "title": "Gülden Kleinodt der Kinder Gottes",
+  "display_title": "Gülden Kleinodt der Kinder Gottes",
+  "author": "Sonthom, Emanuel",
+  "language": "German",
+  "year": 1634,
+  "published": "1634",
+  "pages_count": 842,
+  "pages_with_ocr": 510,
+  "pages_with_translation": 1,
+  "source_url": "https://sourcelibrary.org/book/697d9c9e971fd6d8096654e6",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:24:09.334Z",
+  "_hashes": {
+    "ocr": "9ff991dee84be8d9",
+    "translation": "b508da460d3d9a27"
+  }
+}

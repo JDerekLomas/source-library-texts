@@ -1,0 +1,26 @@
+{
+  "id": "6978ee3af4d5bdc7b3df604a",
+  "title": "Christus de wegh, de waarheidt, ende het leven",
+  "display_title": "Christus de wegh, de waarheidt, ende het leven",
+  "author": "Brown, John",
+  "language": "Dutch",
+  "year": 1680,
+  "published": "1680",
+  "pages_count": 462,
+  "pages_with_ocr": 462,
+  "pages_with_translation": 173,
+  "source_url": "https://sourcelibrary.org/book/6978ee3af4d5bdc7b3df604a",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:24:44.506Z",
+  "_hashes": {
+    "ocr": "e46e65b91dd81f28",
+    "translation": "55b99daa9dc5f65b"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "697b07993db05804f2b82140",
+  "title": "Erklaerte Offenbarung Johannis",
+  "display_title": "Erklaerte Offenbarung Johannis",
+  "author": "Bengel, Johann Albrecht",
+  "language": "German",
+  "year": 1773,
+  "published": "1773",
+  "pages_count": 1396,
+  "pages_with_ocr": 510,
+  "pages_with_translation": 1,
+  "source_url": "https://sourcelibrary.org/book/697b07993db05804f2b82140",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:24:17.960Z",
+  "_hashes": {
+    "ocr": "57dace39777c1838",
+    "translation": "bf89cf7a5d80c83e"
+  }
+}

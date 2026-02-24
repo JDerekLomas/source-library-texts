@@ -1,0 +1,28 @@
+{
+  "id": "695aa9ddbe4023bd34bd7448",
+  "title": "Heronis Alexandrini Opera quae supersunt omnia Vol. 4 - Definitiones (Teubner 1912)",
+  "display_title": "Heronis Alexandrini Opera quae supersunt omnia Vol. 4 - Definitiones (Teubner 1912)",
+  "author": "Hero of Alexandria; Johann Ludwig Heiberg (ed.)",
+  "language": "Greek",
+  "year": 1912,
+  "published": "Unknown",
+  "pages_count": 488,
+  "pages_with_ocr": 488,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/695aa9ddbe4023bd34bd7448",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "heronisalexandri0004hero"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:24:32.823Z",
+  "_hashes": {
+    "ocr": "10783f4b6a87e6c9",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

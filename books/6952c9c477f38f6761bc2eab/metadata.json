@@ -1,0 +1,28 @@
+{
+  "id": "6952c9c477f38f6761bc2eab",
+  "title": "Dialoghi d amore",
+  "display_title": "Dialogues of Love",
+  "author": "Leone Ebreo (Judah Abravanel)",
+  "language": "Italian",
+  "year": 1535,
+  "published": "1535",
+  "pages_count": 491,
+  "pages_with_ocr": 491,
+  "pages_with_translation": 491,
+  "source_url": "https://sourcelibrary.org/book/6952c9c477f38f6761bc2eab",
+  "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bub_gb_FaDwqha7yWUC"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:24:31.014Z",
+  "_hashes": {
+    "ocr": "a2f5a798c4454be8",
+    "translation": "b1fbd88b15b6f7c1"
+  }
+}

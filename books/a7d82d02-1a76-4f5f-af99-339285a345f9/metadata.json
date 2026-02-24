@@ -1,0 +1,28 @@
+{
+  "id": "a7d82d02-1a76-4f5f-af99-339285a345f9",
+  "title": "Hypnerotomachia Poliphili",
+  "display_title": "Hypnerotomachia Poliphili (1499 Aldine)",
+  "author": "Francesco Colonna",
+  "language": "Italian/Latin",
+  "year": 1499,
+  "published": "1499",
+  "pages_count": 468,
+  "pages_with_ocr": 468,
+  "pages_with_translation": 468,
+  "source_url": "https://sourcelibrary.org/book/a7d82d02-1a76-4f5f-af99-339285a345f9",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "A336080v1"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-2.5-flash"
+  },
+  "synced_at": "2026-02-24T18:24:40.017Z",
+  "_hashes": {
+    "ocr": "90febd57f81ecf23",
+    "translation": "e3ab64b2583c63ef"
+  }
+}

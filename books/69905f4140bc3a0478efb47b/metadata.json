@@ -1,0 +1,28 @@
+{
+  "id": "69905f4140bc3a0478efb47b",
+  "title": "Brihat Samhita",
+  "display_title": "Brihat Samhita",
+  "author": "Varahamihira",
+  "language": "Sanskrit",
+  "year": 1926,
+  "published": "1926",
+  "pages_count": 468,
+  "pages_with_ocr": 468,
+  "pages_with_translation": 468,
+  "source_url": "https://sourcelibrary.org/book/69905f4140bc3a0478efb47b",
+  "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "varahi-brihat-samhita-1933-lakshmi-venkateshwar-press"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:24:39.109Z",
+  "_hashes": {
+    "ocr": "59bd41553c5eff54",
+    "translation": "626e0ca8ec07e52e"
+  }
+}

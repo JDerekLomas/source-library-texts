@@ -1,0 +1,26 @@
+{
+  "id": "697b079711cc8928b55ea39e",
+  "title": "An essay of the wonders of God",
+  "display_title": "An essay of the wonders of God",
+  "author": "Espagnet, Jean d'",
+  "language": "English",
+  "year": 1662,
+  "published": "1662",
+  "pages_count": 488,
+  "pages_with_ocr": 488,
+  "pages_with_translation": 1,
+  "source_url": "https://sourcelibrary.org/book/697b079711cc8928b55ea39e",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:24:32.422Z",
+  "_hashes": {
+    "ocr": "69d72f06afabf48b",
+    "translation": "a77802197cb9ce9e"
+  }
+}

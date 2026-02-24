@@ -1,0 +1,26 @@
+{
+  "id": "697c8e0f0db04f9b26df0d09",
+  "title": "Fortuita",
+  "display_title": "Fortuita",
+  "author": "Tollius, Jacobus",
+  "language": "Latin",
+  "year": 1687,
+  "published": "1687",
+  "pages_count": 482,
+  "pages_with_ocr": 481,
+  "pages_with_translation": 1,
+  "source_url": "https://sourcelibrary.org/book/697c8e0f0db04f9b26df0d09",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:24:35.589Z",
+  "_hashes": {
+    "ocr": "930748ea94e6b626",
+    "translation": "9b8e4b712a57611c"
+  }
+}

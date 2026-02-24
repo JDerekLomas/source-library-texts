@@ -1,0 +1,26 @@
+{
+  "id": "697b079ae303c59b5d833abc",
+  "title": "Exercitia",
+  "display_title": "Exercitia",
+  "author": "Tauler, Johannes",
+  "language": "Latin",
+  "year": 1607,
+  "published": "1607",
+  "pages_count": 523,
+  "pages_with_ocr": 510,
+  "pages_with_translation": 4,
+  "source_url": "https://sourcelibrary.org/book/697b079ae303c59b5d833abc",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:24:17.665Z",
+  "_hashes": {
+    "ocr": "cf49db1f18954cff",
+    "translation": "8de3e87daefea8aa"
+  }
+}

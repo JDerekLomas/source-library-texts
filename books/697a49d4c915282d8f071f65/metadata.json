@@ -1,0 +1,26 @@
+{
+  "id": "697a49d4c915282d8f071f65",
+  "title": "Dialogi di amore",
+  "display_title": "Dialogi di amore",
+  "author": "Abrabanel, Jehuda",
+  "language": "Italian",
+  "year": 1541,
+  "published": "1541",
+  "pages_count": 516,
+  "pages_with_ocr": 516,
+  "pages_with_translation": 8,
+  "source_url": "https://sourcelibrary.org/book/697a49d4c915282d8f071f65",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:24:01.180Z",
+  "_hashes": {
+    "ocr": "d5d61733e2abe493",
+    "translation": "6d3763f65801080a"
+  }
+}
