@@ -1,0 +1,28 @@
+{
+  "id": "695aa9dabe4023bd34bd722f",
+  "title": "Heronis Alexandrini Opera quae supersunt omnia Vol. 4 (Teubner 1899)",
+  "display_title": "Heronis Alexandrini Opera quae supersunt omnia Vol. 4 (Teubner 1899)",
+  "author": "Hero of Alexandria; Johann Ludwig Heiberg (ed.)",
+  "language": "Greek",
+  "year": 1899,
+  "published": "Unknown",
+  "pages_count": 536,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 9,
+  "source_url": "https://sourcelibrary.org/book/695aa9dabe4023bd34bd722f",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "heronisalexandri04hero"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:25.526Z",
+  "_hashes": {
+    "ocr": "067e8fe8ca931404",
+    "translation": "ad3c60560d8c47a4"
+  }
+}

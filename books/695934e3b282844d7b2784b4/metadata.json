@@ -1,0 +1,28 @@
+{
+  "id": "695934e3b282844d7b2784b4",
+  "title": "Theosophia Revelata - Aurora, oder Morgenröthe (Vol. 1)",
+  "display_title": "Theosophia Revelata - Aurora, oder Morgenröthe (Vol. 1)",
+  "author": "Jakob Böhme",
+  "language": "German",
+  "year": 1730,
+  "published": "Unknown",
+  "pages_count": 312,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 3,
+  "source_url": "https://sourcelibrary.org/book/695934e3b282844d7b2784b4",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "McGillLibrary-rbsc_theosophia-revelata_BV5080B71730_v1-21804"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:17.292Z",
+  "_hashes": {
+    "ocr": "66fc56dbee6ad36c",
+    "translation": "7905053f1894b1e0"
+  }
+}

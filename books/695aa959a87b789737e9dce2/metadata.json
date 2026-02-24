@@ -1,0 +1,28 @@
+{
+  "id": "695aa959a87b789737e9dce2",
+  "title": "Ocellus Lucanus De universi natura (Vizzani 1646)",
+  "display_title": "Ocellus Lucanus De universi natura (Vizzani 1646)",
+  "author": "Ocellus Lucanus; Carlo Emanuele Vizzani (ed.)",
+  "language": "Greek",
+  "year": 1646,
+  "published": "Unknown",
+  "pages_count": 407,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 7,
+  "source_url": "https://sourcelibrary.org/book/695aa959a87b789737e9dce2",
+  "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bub_gb_MbtaOhjP3ncC"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:17.790Z",
+  "_hashes": {
+    "ocr": "d79f3971b7424337",
+    "translation": "cc1497a8766958fb"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "695aa9c7be4023bd34bd6f13",
+  "title": "Heronis Geometricorum et Stereometricorum reliquiae (Hultsch 1864)",
+  "display_title": "Heronis Geometricorum et Stereometricorum reliquiae (Hultsch 1864)",
+  "author": "Hero of Alexandria; Friedrich Hultsch (ed.)",
+  "language": "Latin",
+  "year": 1864,
+  "published": "1864",
+  "pages_count": 393,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 4,
+  "source_url": "https://sourcelibrary.org/book/695aa9c7be4023bd34bd6f13",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "heronisalexandr00hultgoog"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:25.194Z",
+  "_hashes": {
+    "ocr": "6c3f4dffffb4a989",
+    "translation": "70902c95ce852301"
+  }
+}

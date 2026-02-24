@@ -1,0 +1,28 @@
+{
+  "id": "6958e964813ea03889c32667",
+  "title": "Ornithologiae: de avibus historiae libri XII",
+  "display_title": "Ornithologiae: de avibus historiae libri XII",
+  "author": "Ulisse Aldrovandi",
+  "language": "Latin",
+  "year": 1599,
+  "published": "Unknown",
+  "pages_count": 956,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 9,
+  "source_url": "https://sourcelibrary.org/book/6958e964813ea03889c32667",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "vlyssisaldrouan00aldrgoog"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:18.918Z",
+  "_hashes": {
+    "ocr": "61b2817985b66384",
+    "translation": "787512fafb4528fa"
+  }
+}

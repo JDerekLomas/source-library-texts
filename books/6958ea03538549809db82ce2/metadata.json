@@ -1,0 +1,28 @@
+{
+  "id": "6958ea03538549809db82ce2",
+  "title": "Mesue cum expositione super canones universales et antidotarium",
+  "display_title": "Mesue cum expositione super canones universales et antidotarium",
+  "author": "Johannes Mesue",
+  "language": "Latin",
+  "year": 1500,
+  "published": "1500",
+  "pages_count": 672,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 5,
+  "source_url": "https://sourcelibrary.org/book/6958ea03538549809db82ce2",
+  "license": "https://rightsstatements.org/vocab/NoC-NC/1.0/",
+  "doi": null,
+  "external_ids": {
+    "mdz": "bsb11200019"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:19.294Z",
+  "_hashes": {
+    "ocr": "3d4489501635917c",
+    "translation": "3c9e2f596fbb7859"
+  }
+}

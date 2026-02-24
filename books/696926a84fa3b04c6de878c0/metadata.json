@@ -1,0 +1,28 @@
+{
+  "id": "696926a84fa3b04c6de878c0",
+  "title": "Epistolae (Ficino Letters, 1497 with marginalia)",
+  "display_title": "Epistolae (Ficino Letters, 1497 with marginalia)",
+  "author": "Marsilio Ficino",
+  "language": "Latin",
+  "year": 1497,
+  "published": "1497",
+  "pages_count": 518,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 2,
+  "source_url": "https://sourcelibrary.org/book/696926a84fa3b04c6de878c0",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "ita-bnc-in2-00001355-001"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:22.204Z",
+  "_hashes": {
+    "ocr": "7083803eabdd8ed0",
+    "translation": "226094a109889824"
+  }
+}

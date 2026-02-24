@@ -1,0 +1,28 @@
+{
+  "id": "695936633b43cb6630c91735",
+  "title": "Le Dragon Rouge, ou L'Art de Conjurer les Esprits",
+  "display_title": "Le Dragon Rouge, ou L'Art de Conjurer les Esprits",
+  "author": "M. Robville",
+  "language": "French",
+  "year": 1750,
+  "published": "Unknown",
+  "pages_count": 116,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 5,
+  "source_url": "https://sourcelibrary.org/book/695936633b43cb6630c91735",
+  "license": "https://gallica.bnf.fr/html/und/conditions-dutilisation-des-contenus-de-gallica",
+  "doi": null,
+  "external_ids": {
+    "gallica": "bpt6k5849675m"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:21.891Z",
+  "_hashes": {
+    "ocr": "89a44f804af25a94",
+    "translation": "68ed54e9b2988644"
+  }
+}

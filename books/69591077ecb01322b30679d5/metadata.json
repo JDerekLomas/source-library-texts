@@ -1,0 +1,28 @@
+{
+  "id": "69591077ecb01322b30679d5",
+  "title": "The History of Japan Vol. 1",
+  "display_title": "The History of Japan Vol. 1",
+  "author": "Engelbert Kaempfer",
+  "language": "Latin",
+  "year": 1727,
+  "published": "Unknown",
+  "pages_count": 542,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 5,
+  "source_url": "https://sourcelibrary.org/book/69591077ecb01322b30679d5",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "historyofjapangi01kaem"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:20.218Z",
+  "_hashes": {
+    "ocr": "a2c29b081cec78bd",
+    "translation": "e2f404d21e3dd334"
+  }
+}

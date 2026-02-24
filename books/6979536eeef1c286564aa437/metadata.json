@@ -1,0 +1,26 @@
+{
+  "id": "6979536eeef1c286564aa437",
+  "title": "Compendium alchymist. novum, sive Pandora explicata & figuris illustrata. Das ist, die edelste Gabe Gottes. Lexicon alchymisticum novum",
+  "display_title": "Compendium alchymist. novum, sive Pandora explicata & figuris illustrata. Das ist, die edelste Gabe Gottes. Lexicon alchymisticum novum",
+  "author": "Faust, Johannes Michael",
+  "language": "Latin",
+  "year": 1706,
+  "published": "1706",
+  "pages_count": 1377,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 1,
+  "source_url": "https://sourcelibrary.org/book/6979536eeef1c286564aa437",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:18.188Z",
+  "_hashes": {
+    "ocr": "063b1b0d8cef0b2a",
+    "translation": "b221f29de672976b"
+  }
+}

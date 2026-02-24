@@ -1,0 +1,28 @@
+{
+  "id": "695935a27d14807348773858",
+  "title": "Secrets Merveilleux de la Magie Naturelle du Petit Albert",
+  "display_title": "Secrets Merveilleux de la Magie Naturelle du Petit Albert",
+  "author": "Pseudo-Albertus Magnus",
+  "language": "French",
+  "year": 1706,
+  "published": "Unknown",
+  "pages_count": 198,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 5,
+  "source_url": "https://sourcelibrary.org/book/695935a27d14807348773858",
+  "license": "https://gallica.bnf.fr/html/und/conditions-dutilisation-des-contenus-de-gallica",
+  "doi": null,
+  "external_ids": {
+    "gallica": "bpt6k5579947f"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:23.895Z",
+  "_hashes": {
+    "ocr": "b16920356e50776a",
+    "translation": "9979c96a73a6b817"
+  }
+}

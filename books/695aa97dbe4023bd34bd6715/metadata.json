@@ -1,0 +1,28 @@
+{
+  "id": "695aa97dbe4023bd34bd6715",
+  "title": "Heronis Alexandrini Opera quae supersunt omnia Vol. 1 (Teubner 1899)",
+  "display_title": "Heronis Alexandrini Opera quae supersunt omnia Vol. 1 (Teubner 1899)",
+  "author": "Hero of Alexandria; Wilhelm Schmidt (ed.)",
+  "language": "Greek",
+  "year": 1899,
+  "published": "Unknown",
+  "pages_count": 606,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 9,
+  "source_url": "https://sourcelibrary.org/book/695aa97dbe4023bd34bd6715",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "heronisalexandri01hero"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:24.169Z",
+  "_hashes": {
+    "ocr": "7591df469c7ff096",
+    "translation": "6c63a3b260188ba0"
+  }
+}

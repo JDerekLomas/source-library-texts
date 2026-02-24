@@ -1,0 +1,28 @@
+{
+  "id": "6953a88877f38f6761bd18cf",
+  "title": "Digenes Akrites (Greek Epic)",
+  "display_title": "Digenes Akrites (Greek Epic)",
+  "author": "Anonymous (Byzantine)",
+  "language": "Greek",
+  "year": 1100,
+  "published": "Unknown",
+  "pages_count": 262,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6953a88877f38f6761bd18cf",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "DigenesAkritesGreekEnglish"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:18.431Z",
+  "_hashes": {
+    "ocr": "29b861959d85c137",
+    "translation": "9d29973a515d1ec2"
+  }
+}

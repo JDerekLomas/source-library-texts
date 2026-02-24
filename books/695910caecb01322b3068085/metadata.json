@@ -1,0 +1,28 @@
+{
+  "id": "695910caecb01322b3068085",
+  "title": "De Indiae utriusque re naturali et medica",
+  "display_title": "De Indiae utriusque re naturali et medica",
+  "author": "Willem Piso",
+  "language": "Latin",
+  "year": 1658,
+  "published": "1658",
+  "pages_count": 636,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 6,
+  "source_url": "https://sourcelibrary.org/book/695910caecb01322b3068085",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "gulielmipisonism00piso"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:20.376Z",
+  "_hashes": {
+    "ocr": "55fe826b53119aef",
+    "translation": "a2d7515e6ef4002e"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "697a3055f757bfc134c75d9f",
+  "title": "Cours de chymie, oder: der vollkommene Chymist",
+  "display_title": "Cours de chymie, oder: der vollkommene Chymist",
+  "author": "Lemery, Nicolas",
+  "language": "German",
+  "year": 1698,
+  "published": "1698",
+  "pages_count": 1234,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 3,
+  "source_url": "https://sourcelibrary.org/book/697a3055f757bfc134c75d9f",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:24.538Z",
+  "_hashes": {
+    "ocr": "617c05824c988f84",
+    "translation": "b9d58f52591eb12c"
+  }
+}

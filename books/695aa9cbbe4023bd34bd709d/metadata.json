@@ -1,0 +1,28 @@
+{
+  "id": "695aa9cbbe4023bd34bd709d",
+  "title": "Heronis Alexandrini Opera quae supersunt omnia Vol. 3 (Teubner 1899)",
+  "display_title": "Heronis Alexandrini Opera quae supersunt omnia Vol. 3 (Teubner 1899)",
+  "author": "Hero of Alexandria; Hermann Schöne (ed.)",
+  "language": "Greek",
+  "year": 1899,
+  "published": "Unknown",
+  "pages_count": 400,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 9,
+  "source_url": "https://sourcelibrary.org/book/695aa9cbbe4023bd34bd709d",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "heronisalexandri03hero"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:25.274Z",
+  "_hashes": {
+    "ocr": "744e702614a9f0e0",
+    "translation": "0277b5e559f0ee6b"
+  }
+}

@@ -1,0 +1,188 @@
+--- Page 1 ---
+<lang>None</lang>
+<page-type>blank</page-type>
+<meta>The image displays a dark, textured surface with a fine, fabric-like grain, likely representing the front or back cover of a bound manuscript or a black protective flyleaf.</meta>
+<vocab></vocab>
+
+--- Page 2 ---
+<lang>English</lang>
+<page-type>text</page-type>
+<meta>Modern institutional digitization credit page</meta>
+
+<image-desc>A large, faint grey watermark in the center of the page depicting a stylized classical building with four columns and a triangular pediment, the logo of the Internet Archive.</image-desc>
+
+->Digitized by the Internet Archive<-
+->in 2011 with funding from<-
+->University of Toronto<-
+
+->https://archive.org/details/hexaglotbibleco05rich<-
+
+<vocab>Internet Archive, University of Toronto, digitization, hexaglot bible</vocab>
+
+--- Page 3 ---
+<lang>English</lang>
+<page-type>blank</page-type>
+<meta>Institutional library stamp in top right corner</meta>
+
+<insert>
+->The Institute of Mediaeval Studies<-
+->**LIBRARY**<-
+->Toronto, Ontario<-
+</insert>
+
+<vocab>The Institute of Mediaeval Studies, Toronto, Library</vocab>
+
+--- Page 4 ---
+<lang>None</lang>
+<page-type>blank</page-type>
+
+<vocab></vocab>
+
+--- Page 5 ---
+<lang>N/A</lang>
+<page-type>blank</page-type>
+<warning>This page appears to be blank. There are very faint traces of ghosting or bleed-through from the reverse side of the leaf, but no legible text is present on this surface.</warning>
+<vocab></vocab>
+
+--- Page 6 ---
+<lang>lat</lang>
+<page-type>title-page</page-type>
+
+<image-desc>Title page within a double-line red rectangular border. The main title and the editor's name are printed in red ink, while the rest of the text is in black.</image-desc>
+
+# Biblia Hexaglotta;
+
+->CONTINENTIA<-
+
+## SCRIPTURAS SACRAS
+
+## VETERIS ET NOVI TESTAMENTI;
+
+->SCILICET :<-
+
+### TEXTUS ORIGINALES,
+
+->UNA CUM VERSIONIBUS PROBATISSIMIS, SEPTUAGINTA, SYRIACA (NOVI<-
+->TESTAMENTI), VULGATA, ANGLICANA, GERMANICA, ET GALLICA ;<-
+->PARALLELO ORDINE POSITOS.<-
+->(*..* Cuique tomo Veteris Testamenti Annotationes Masoreticæ additæ sunt.)<-
+
+---
+
+### EDIDIT EDUARDUS RICHES DE LEVANTE, A.M., Ph.D.,
+->ALUMNIS LITERARUM SACRARUM ADJUTORIBUS.<-
+
+---
+
+->*Opus totum in sex tomos tributum.*<-
+
+### TOMUS V.—EVANGELIA.
+
+---
+
+->NEO EBORACI:<-
+### APUD FUNK ET WAGNALLS,
+->IN VIA DICTA LAFAYETTE PLACE,<-
+->MDCCCCI<-
+
+<vocab>Biblia Hexaglotta, Scripturas Sacras, Veteris et Novi Testamenti, Septuaginta, Syriaca, Vulgata, Anglicana, Germanica, Gallica, Annotationes Masoreticæ, Eduardus Riches de Levante, Evangelia, Funk et Wagnalls, Neo Eboraci</vocab>
+
+--- Page 7 ---
+<lang>English</lang>
+<page-type>title-page</page-type>
+<meta>Title and editor lines printed in red-orange ink. Double-line red border around the text block.</meta>
+
+### The
+# **Hexaglot Bible;**
+
+->COMPRISING THE<-
+
+## **HOLY SCRIPTURES**
+
+->OF THE<-
+
+## **OLD AND NEW TESTAMENTS**
+
+->IN THE<-
+
+### **ORIGINAL TONGUES;**
+
+->TOGETHER WITH<-
+
+->THE SEPTUAGINT, THE SYRIAC (OF THE NEW TESTAMENT), THE VULGATE, THE AUTHORIZED ENGLISH, AND GERMAN, AND THE MOST APPROVED FRENCH VERSIONS;<-
+
+->*ARRANGED IN PARALLEL COLUMNS.*<-
+
+->(*_* The Masoretic Notes are appended to each Volume of the Old Testament.)<-
+
+### **EDITED BY THE REV. EDWARD RICHES DE LEVANTE, A.M., Ph.D.,**
+
+->ASSISTED BY COMPETENT BIBLICAL SCHOLARS.<-
+
+->*In Six Volumes.*<-
+
+### **VOL. V.—THE GOSPELS.**
+
+---
+
+->*NEW YORK:*<-
+
+### **FUNK & WAGNALLS COMPANY,**
+
+->30 LAFAYETTE PLACE<-
+
+### **1901**
+
+<vocab>Hexaglot Bible, Septuagint, Syriac, Vulgate, Masoretic Notes, Edward Riches De Levante, Funk & Wagnalls Company, parallel columns</vocab>
+
+--- Page 8 ---
+<lang>English</lang>
+<page-type>blank</page-type>
+<meta>Institutional library stamps on a flyleaf. Faint ghosting of text from a facing page is visible but not transcribed.</meta>
+
+-><insert>The Institute of Mediaeval Studies
+**LIBRARY**
+Toronto, Ontario</insert><-
+
+-><insert>MAY 2 1977</insert><-
+
+<vocab>The Institute of Mediaeval Studies, Toronto, library stamp, 1977</vocab>
+
+--- Page 9 ---
+<lang>Latin</lang>
+<page-type>title-page</page-type>
+<meta>Double red border line frames the page. Faint ghosting/bleed-through of Greek text "KATA MATΘAION" is visible from the reverse side of the leaf.</meta>
+
+## SEC. MATTHÆUM.
+
+<vocab>SEC. MATTHÆUM, Evangelium, Matthew</vocab>
+
+--- Page 10 ---
+<lang>lat</lang>
+<page-type>text</page-type>
+<page-num>2</page-num>
+<sig>A</sig>
+
+# BIBLIA HEXAGLOTTA.
+
+## EVANGELIUM SECUNDUM MATTHÆUM.
+
+---
+
+### KATA MAΘΘAION, KEΦ. α'.
+
+1 ΒΙΒΛΟΣ γενέσεως Ἰησοῦ Χριστοῦ υἱοῦ Δαυεὶδ υἱοῦ Ἀβραάμ. 2 Ἀβραὰμ ἐγέννησεν τὸν Ἰσαάκ, Ἰσαάκ δὲ ἐγέννησεν τὸν Ἰακώβ, Ἰακώβ δὲ ἐγέννησεν τὸν Ἰούδαν καὶ τοὺς ἀδελφοὺς αὐτοῦ, 3 Ἰούδας δὲ ἐγέννησεν τὸν Φαρὲς καὶ τὸν Ζαρὰ ἐκ τῆς Θάμαρ, Φαρὲς δὲ ἐγέννησεν τὸν Ἑσρώμ, Ἑσρώμ δὲ ἐγέννησεν τὸν Ἀράμ, 4 Ἀράμ δὲ ἐγέννησεν τὸν Ἀμιναδάβ, Ἀμιναδὰβ δὲ ἐγέννησεν τὸν Ναασσών, Ναασσὼν δὲ ἐγέννησεν τὸν Σαλμών, 5 Σαλμὼν δὲ ἐγέννησεν τὸν Βοὲς ἐκ τῆς Ῥαχάβ, Βοὲς δὲ ἐγέννησεν τὸν Ἰωβὴδ ἐκ τῆς Ῥούθ, Ἰωβὴδ δὲ ἐγέννησεν τὸν Ἰεσσαί, 6 Ἰεσσαί δὲ ἐγέννησεν τὸν Δαυεὶδ τὸν βασιλέα. Δαυεὶδ δὲ ἐγέννησεν τὸν Σολομῶνα ἐκ τῆς τοῦ Οὐρίου, 7 Σολομὼν δὲ ἐγέννησεν τὸν Ῥοβοάμ, Ῥοβοὰμ δὲ ἐγέννησεν τὸν Ἀβιά, Ἀβιὰ δὲ ἐγέννησεν τὸν Ἀσάφ, 8 Ἀσὰφ δὲ ἐγέννησεν τὸν Ἰωσαφάτ, Ἰωσαφὰτ δὲ ἐγέννησεν τὸν Ἰωράμ, Ἰωράμ δὲ ἐγέννησεν τὸν Ὀζείαν, 9 Ὀζείας δὲ ἐγέννησεν τὸν Ἰωάθαμ, Ἰωάθαμ δὲ ἐγέννησεν τὸν Ἄχαζ, Ἄχαζ δὲ ἐγέννησεν τὸν Ἑζεκίαν, 10 Ἑζεκίαν δὲ ἐγέννησεν τὸν Μανασσῆ, Μανασσῆς δὲ ἐγέννησεν τὸν Ἀμώς, Ἀμώς δὲ ἐγέννησεν τὸν Ἰωσείαν, 11 Ἰωσείας δὲ ἐγέννησεν τὸν Ἰεχονίαν καὶ τοὺς ἀδελφοὺς αὐτοῦ ἐπὶ τῆς μετοικεσίας Βαβυλῶνος.
+
+---
+
+### ܀ ܡܰܬ݁ܰܝ ܆ ܨܚܳܚܳܐ ܐ ܀
+
+1 ܟ݁ܬ݂ܳܒ݂ܳܐ ܕ݁ܝܰܠܕ݁ܶܗ ܕ݁ܝܶܫܽܘܥ ܡܫܺܝܚܳܐ ܆ ܒ݁ܪܶܗ ܕ݁ܕ݂ܰܘܺܝܕ݂ ܆ ܒ݁ܪܶܗ ܕ݁ܰܐܒ݂ܪܳܗܳܡ܂ 2 ܐܰܒ݂ܪܳܗܳܡ ܐܰܘܠܶܕ݂ ܠܺܐܝܣܚܳܩ ܆ ܐܺܝܣܚܳܩ ܐܰܘܠܶܕ݂ ܠܝܰܥܩܽܘܒ݂ ܆ ܝܰܥܩܽܘܒ݂ ܐܰܘܠܶܕ݂ ܠܺܝܗܽܘܕ݂ܳܐ ܘܠܰܐܚܰܘܗ݂ܝ ܂ 3 ܝܺܗܽܘܕ݂ܳܐ ܐܰܘܠܶܕ݂ ܠܦ݂ܶܪܨ ܘܰܠܙܰܪܰܚ ܡܶܢ ܬ݁ܳܡܳܪ ܂ ܦ݁ܶܪܨ ܐܰܘܠܶܕ݂ ܠܚܶܨܪܽܘܢ ܆ ܚܶܨܪܽܘܢ ܐܰܘܠܶܕ݂ ܠܳܐܪܳܡ ܂ 4 ܐܳܪܳܡ ܐܰܘܠܶܕ݂ ܠܥܰܡܺܝܢܳܕ݂ܳܒ݂ ܆ ܥܰܡܺܝܢܳܕ݂ܳܒ݂ ܐܰܘܠܶܕ݂ ܠܢܰܚܫܽܘܢ ܆ ܢܰܚܫܽܘܢ ܐܰܘܠܶܕ݂ ܠܣܰܠܡܽܘܢ ܂ 5 ܣܰܠܡܽܘܢ ܐܰܘܠܶܕ݂ ܠܒ݂ܳܥܳܙ ܡܶܢ ܪܳܚܳܒ݂ ܂ ܒ݁ܳܥܳܙ ܐܰܘܠܶܕ݂ ܠܥܽܘܒ݂ܶܝܕ݂ ܡܶܢ ܪܳܥܽܘܬ݂ ܂ ܥܽܘܒ݂ܶܝܕ݂ ܐܰܘܠܶܕ݂ ܠܺܝܫܰܝ ܂ 6 ܐܺܝܫܰܝ ܐܰܘܠܶܕ݂ ܠܕ݂ܰܘܺܝܕ݂ ܡܰܠܟ݁ܳܐ ܂ ܕ݁ܰܘܺܝܕ݂ ܐܰܘܠܶܕ݂ ܠܫܠܶܝܡܽܘܢ ܡܶܢ ܐܰܢ݉ܬ݁ܬ݂ܶܗ ܕ݁ܽܐܘܪܺܝܳܐ ܂ 7 ܫܠܶܝܡܽܘܢ ܐܰܘܠܶܕ݂ ܠܪܳܚܒ݂ܰܥܳܡ ܂ ܪܳܚܒ݂ܰܥܳܡ ܐܰܘܠܶܕ݂ ܠܰܐܒ݂ܺܝܳܐ ܂ ܐܰܒ݂ܺܝܳܐ ܐܰܘܠܶܕ݂ ܠܳܐܣܳܐ ܂ 8 ܐܳܣܳܐ ܐܰܘܠܶܕ݂ ܠܺܝܗܽܘܫܳܦ݂ܳܛ ܆ ܝܺܗܽܘܫܳܦ݂ܳܛ ܐܰܘܠܶܕ݂ ܠܝܽܘܪܳܡ ܂ ܝܽܘܪܳܡ ܐܰܘܠܶܕ݂ ܠܥܽܘܙܺܝܳܐ ܂ 9 ܥܽܘܙܺܝܳܐ ܐܰܘܠܶܕ݂ ܠܝܽܘܬ݂ܳܡ ܂ ܝܽܘܬ݂ܳܡ ܐܰܘܠܶܕ݂ ܠܳܐܚܳܙ ܂ ܐܳܚܳܙ ܐܰܘܠܶܕ݂ ܠܚܶܙܰܩܝܳܐ ܂ 10 ܚܶܙܰܩܝܳܐ ܐܰܘܠܶܕ݂ ܠܡܰܢܰܫܶܐ ܂ ܡܰܢܰܫܶܐ ܐܰܘܠܶܕ݂ ܠܳܐܡܽܘܢ ܂ ܐܳܡܽܘܢ ܐܰܘܠܶܕ݂ ܠܝܽܘܫܺܝܳܐ ܂ 11 ܝܽܘܫܺܝܳܐ ܐܰܘܠܶܕ݂ ܠܝܽܘܟ݂ܰܢܝܳܐ ܘܠܰܐܚܰܘܗ݂ܝ ܒ݁ܓ݂ܳܠܽܘܬ݂ܳܐ ܕ݁ܒ݂ܳܒ݂ܶܠ ܂
+
+---
+
+### SEC. MATTHÆUM, CAPUT I.
+
+1 LIBER generationis Jesu Christi filii David filii Abraham. 2 Abraham genuit Isaac, Isaac autem genuit Jacob, Jacob autem genuit Judam et fratres ejus. 3 Judas autem genuit Phares et Zarad de Thamar, Phares autem genuit Esrom, Esrom autem genuit Aram, 4 Aram autem genuit Aminadab, Aminadab autem genuit Naasson, Naasson autem genuit Salmon, 5 Salmon autem genuit Booz de Racab, Booz genuit Obeth ex Ruth, Obeth autem genuit Jesse, Jesse autem genuit David regem. 6 David autem rex genuit Salomonem ex ea quæ fuit Uriæ, 7 Salomon autem genuit Roboam, Roboam autem genuit Abiam, Abia autem genuit Asa, 8 Asa autem genuit Josaphat, Josaphat autem genuit Joram, Joram autem genuit Oziam, 9 Ozias autem genuit Joatham, Joatham autem genuit Achaz, Achaz autem genuit Ezechiam, 10 Ezechias autem genuit Manassem, Manasses autem genuit Amon, Amon autem genuit Josiam, 11 Josias autem genuit Jechoniam et fratres ejus in transmigrationem Babylonis.
+
+<vocab>Biblia Hexaglotta, Evangelium secundum Matthæum, Matthew 1, genealogy, genealogy of Jesus Christ, Ancient Greek, Syriac, Latin</vocab>

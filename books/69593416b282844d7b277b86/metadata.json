@@ -1,0 +1,28 @@
+{
+  "id": "69593416b282844d7b277b86",
+  "title": "Utriusque Cosmi Historia - Philosophia Sacra et Meteorologia Cosmica",
+  "display_title": "Utriusque Cosmi Historia - Philosophia Sacra et Meteorologia Cosmica",
+  "author": "Robert Fludd",
+  "language": "Latin",
+  "year": 1626,
+  "published": "1626",
+  "pages_count": 316,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 8,
+  "source_url": "https://sourcelibrary.org/book/69593416b282844d7b277b86",
+  "license": "https://rightsstatements.org/vocab/NoC-NC/1.0/",
+  "doi": null,
+  "external_ids": {
+    "mdz": "bsb10870855"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:23.823Z",
+  "_hashes": {
+    "ocr": "35a23e65aa24c99d",
+    "translation": "3fdaebbcca02a7c0"
+  }
+}

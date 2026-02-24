@@ -1,0 +1,28 @@
+{
+  "id": "695aa97abe4023bd34bd65b7",
+  "title": "Ocellus Lucanus en Grec et en François (D'Argens 1762)",
+  "display_title": "Ocellus Lucanus en Grec et en François (D'Argens 1762)",
+  "author": "Ocellus Lucanus; Marquis d'Argens (trans.)",
+  "language": "Greek-French",
+  "year": 1762,
+  "published": "Unknown",
+  "pages_count": 349,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 4,
+  "source_url": "https://sourcelibrary.org/book/695aa97abe4023bd34bd65b7",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "ocelluslucanuse00dgoog"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:23.979Z",
+  "_hashes": {
+    "ocr": "e9af9e7339b4e0b2",
+    "translation": "2c5953daeada9ac5"
+  }
+}

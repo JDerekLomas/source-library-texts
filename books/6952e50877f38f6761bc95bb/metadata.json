@@ -1,0 +1,28 @@
+{
+  "id": "6952e50877f38f6761bc95bb",
+  "title": "The Hexaglot Bible",
+  "display_title": "Hexaglot Bible: Hebrew, Septuagint, Vulgate, Syriac, English, German, French",
+  "author": "Various",
+  "language": "Multiple (Hebrew, Greek, Latin, Syriac, Arabic, Ethiopic)",
+  "year": 1901,
+  "published": "1901",
+  "pages_count": 710,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6952e50877f38f6761bc95bb",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "hexaglotbibleco05rich"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:25.623Z",
+  "_hashes": {
+    "ocr": "b75fa0313cc76d2d",
+    "translation": "6b54487d97818c32"
+  }
+}

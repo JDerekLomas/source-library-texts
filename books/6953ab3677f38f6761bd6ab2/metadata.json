@@ -1,0 +1,26 @@
+{
+  "id": "6953ab3677f38f6761bd6ab2",
+  "title": "Sefer Raziel (Liber Secretorum Dei)",
+  "display_title": "Reg.lat.1300",
+  "author": "Raziel (attributed)",
+  "language": "Latin",
+  "year": 1250,
+  "published": "Medieval",
+  "pages_count": 444,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6953ab3677f38f6761bd6ab2",
+  "license": "CC-BY-NC-4.0",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:17.461Z",
+  "_hashes": {
+    "ocr": "e7f95a90fb3775dd",
+    "translation": "8d7b175ffce7323b"
+  }
+}

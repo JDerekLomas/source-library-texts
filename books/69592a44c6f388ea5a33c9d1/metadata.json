@@ -1,0 +1,28 @@
+{
+  "id": "69592a44c6f388ea5a33c9d1",
+  "title": "Aesopus: Fabulae",
+  "display_title": "Aesopus: Fabulae",
+  "author": "Aesop / Heinrich Steinhöwel",
+  "language": "Latin",
+  "year": 1476,
+  "published": "1476",
+  "pages_count": 580,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 7,
+  "source_url": "https://sourcelibrary.org/book/69592a44c6f388ea5a33c9d1",
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "doi": null,
+  "external_ids": {
+    "mdz": "bsb00024825"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:21.186Z",
+  "_hashes": {
+    "ocr": "880d0ab463d63672",
+    "translation": "465650a8903dbfdd"
+  }
+}

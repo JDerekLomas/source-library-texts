@@ -1,0 +1,28 @@
+{
+  "id": "6958eacd538549809db83318",
+  "title": "Herbarium Amboinense Vol. 4",
+  "display_title": "Herbarium Amboinense Vol. 4",
+  "author": "Georg Eberhard Rumphius",
+  "language": "Dutch",
+  "year": 1743,
+  "published": "Unknown",
+  "pages_count": 480,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 9,
+  "source_url": "https://sourcelibrary.org/book/6958eacd538549809db83318",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "mobot31753000819463"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:19.614Z",
+  "_hashes": {
+    "ocr": "dcf03bcd822f0e0c",
+    "translation": "46520bf8a01f1e4a"
+  }
+}

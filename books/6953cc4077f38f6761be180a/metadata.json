@@ -1,0 +1,28 @@
+{
+  "id": "6953cc4077f38f6761be180a",
+  "title": "Zenon Papyri Vol. III - Cairo Museum",
+  "display_title": "Zenon Papyri Vol. III - Cairo Museum",
+  "author": "Campbell Cowan Edgar",
+  "language": "Greek",
+  "year": 1928,
+  "published": "Unknown",
+  "pages_count": 185,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6953cc4077f38f6761be180a",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "EdgarZenonIII1928"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:21.270Z",
+  "_hashes": {
+    "ocr": "8205bc8831cb70fc",
+    "translation": "69c61082f4b67815"
+  }
+}

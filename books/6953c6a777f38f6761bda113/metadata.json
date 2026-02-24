@@ -1,0 +1,28 @@
+{
+  "id": "6953c6a777f38f6761bda113",
+  "title": "Ikhwan al-Safa (Brethren of Purity) - Dowson Translation",
+  "display_title": "Ikhwan al-Safa (Brethren of Purity) - Dowson Translation",
+  "author": "Ikhwan al-Safa; tr. John Dowson",
+  "language": "English",
+  "year": 1869,
+  "published": "1869",
+  "pages_count": 276,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6953c6a777f38f6761bda113",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "ikhwnussaf00ikhw"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:16.406Z",
+  "_hashes": {
+    "ocr": "c7574ed9354bc777",
+    "translation": "774ed0dc5d7585d7"
+  }
+}

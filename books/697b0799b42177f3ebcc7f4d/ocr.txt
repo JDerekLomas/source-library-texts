@@ -1,0 +1,148 @@
+--- Page 1 ---
+<lang>zxx</lang>
+<page-type>blank</page-type>
+
+<image-desc>
+The front cover of a leather-bound book, likely dating from the 17th or 18th century. The binding is made of dark burgundy or reddish-brown leather with elaborate gold-tooled (gilt) decorations. A decorative gilt border featuring a scrolling wave and dot pattern runs along the outer edges of the cover. Each of the four corners is accented with a square-shaped gilt stamp containing a stylized floral motif. In the center of the page is a large, vertical, symmetrical ornament with intricate scrollwork and floral designs. The spine of the book is visible on the left side, showing four raised bands and a small, partially legible gilded label.
+</image-desc>
+
+<vocab>binding, leather, gilt, gold-tooling, scrollwork, floral ornament, raised bands</vocab>
+
+--- Page 2 ---
+<lang>None</lang>
+<page-type>blank</page-type>
+
+<image-desc>
+The image shows the front cover of a historical leather-bound book. The binding is made of dark burgundy or reddish-brown leather with a visible fine grain. It is decorated with intricate gold-tooled (gilt) designs:
+- A decorative border runs along the outer edges, featuring a repeating motif of stylized leaves or waves.
+- Each of the four corners is stamped with an identical square-shaped fleuron containing internal scrollwork.
+- A large, elongated vertical centerpiece is positioned in the middle, consisting of a symmetrical arrangement of floral and foliate scrollwork motifs.
+- The left side shows the spine of the volume with four distinct raised bands and a small, illegible gold-stamped label in one of the compartments.
+</image-desc>
+
+<vocab>binding, gold-tooling, gilt, leather, fleuron, scrollwork</vocab>
+
+--- Page 3 ---
+```markdown
+<lang>Latin</lang>
+<page-type>title-page</page-type>
+<meta>Pasted white label on a marbled paper binding. The marbled pattern consists of swirls in shades of brown, red, black, and grey.</meta>
+
+<insert>
+R
+
+<image-desc>A circular emblem centered on the label. Inside a blue oval bordered by a green wreath, a white pelican is depicted in her piety, feeding her young with blood from her breast. Golden rays of light shine down upon the nest from the top of the oval. The nest sits on a square shield containing four red roses. The text "PHILOSOPHIA HERMETICA" is printed in a circular fashion surrounding the central emblem.</image-desc>
+
+->PHILOSOPHIA<-
+->HERMETICA<-
+</insert>
+
+<vocab>Philosophia Hermetica, Pelican in her piety, alchemy, Rosicrucian, roses</vocab>
+```
+
+--- Page 4 ---
+<lang>None</lang>
+<page-type>illustration</page-type>
+
+<image-desc>
+A decorative marbled endpaper, likely the front pastedown or flyleaf of a historical book. The pattern is a "Turkish" or "Stone" marbled design featuring fluid, swirling organic shapes. The color palette consists of deep terracotta red, muted slate grey, ochre, and dark brown. On the right side of the image, the gilded fore-edge of the book block is visible, along with the inner margin of the dark leather binding. There is no legible text on this page.
+</image-desc>
+
+<vocab>marbled paper, endpaper, gilding, bookbinding, book block</vocab>
+
+--- Page 5 ---
+<lang>None</lang>
+<page-type>blank</page-type>
+<page-num></page-num>
+<vocab></vocab>
+
+--- Page 6 ---
+<lang>None</lang>
+<page-type>blank</page-type>
+<warning>The page is blank and contains some water staining or discoloration at the top.</warning>
+
+<vocab></vocab>
+
+--- Page 7 ---
+<lang>None</lang>
+<page-type>blank</page-type>
+<meta>Water staining visible at the top of the page; minor foxing.</meta>
+
+<image-desc>A blank page of aged, cream-colored paper from a bound manuscript. On the far left, a portion of the dark brown leather binding is visible. The paper exhibits a large, faint yellowish water stain at the top and several small dark foxing spots scattered across the surface.</image-desc>
+
+<vocab></vocab>
+
+--- Page 8 ---
+<lang>de</lang>
+<page-type>title-page</page-type>
+<warning>Foxing and staining throughout, particularly on the right side; text in the central paragraph is partially obscured by smudging.</warning>
+
+# ECHO
+### Der von GOtt hocherleuchten Fraternitet, / dess löblichen Ordens R. C.
+->Das ist:<-
+# EXemplarischer / Beweiß /
+
+## Das nicht allein das jenige / was itzt in der **Fama** und **Confession** / der Fraternitet R. C. <unclear>außgebotten / warhafftig /</unclear> unnd war sey / sondern schon für neunzehen / und mehr Jaren solche **Magnalia DEI**, etlichen Got- / tesfürchtigen Leuten / mitgetheilet gewesen / und von jhren Privatschrifften depraedi- / ciret worden.
+
+### Wie dessen ein fürtrefflich **Magisch Scri-** / **ptum** unnd **Tractätlein** / der Hochlöblichen Fraterni- / tet R. C. dediciret und offentlich durch den / Druck evulgiret wird.
+
+->Durch des Deutschen **Aveceß** Laut.<-
+
+<image-desc>A circular diagram centered on the lower half of the page. In the middle of the circle, the vowels A, E, I, O, V are arranged in a cross-like formation (A and E at the top, I in the center, and O and V at the bottom). Surrounding the vowels is a circular arrangement of numbers and symbols, including 9, +, 1, 2, 0, 7, 3, 2, 1, 8, 4, and 1, interspersed with small dots. The entire title page is enclosed within a decorative border made of interlocking oval links.</image-desc>
+
+---
+
+->Erstlich Gedruckt zu **Dantzig** / bey **Andrea** / **Hünefeldts** / Anno 1616.<-
+
+<vocab>ECHO, Fraternitet R. C., Rosicrucians, Fama Fraternitatis, Confessio Fraternitatis, Magnalia DEI, Magisch Scriptum, Aveceß, Dantzig, Andrea Hünefeldt, 1616</vocab>
+
+--- Page 9 ---
+<lang>la</lang>
+<page-type>frontispiece</page-type>
+<warning>A large white stain or paper abrasion obscures the center of the woodcut illustration.</warning>
+<meta>Handwritten archival notes at bottom: "M44" in a circle and "2A-"</meta>
+
+->1, Tim. 2. v. 5.<-
+
+<image-desc>A woodcut engraving depicting a young Christ figure standing triumphantly upon a multi-headed dragon or beast. He pierces the beast with a long staff and holds a banner topped with a cross (a vexillum) in his left hand. The word "CHRISTVS" is inscribed within his nimbus (halo). The layout places text around the image to identify him as the mediator between God and Man.</image-desc>
+
+DE- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ho-
+UM. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; mi-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; nem
+
+### INTER
+
+->Septum &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; tigni<-
+->solvit.<-
+
+->Ad Ephes. 2. v. 14.<-
+
+---
+
+## TERTVLLIANVS.
+
+> Sapiens nullus, nisi seculo stultus fiat.
+
+<vocab>Christus, Deum, Hominem, Tertullianus, Timotheus, Ephesus, mediator, woodcut</vocab>
+
+--- Page 10 ---
+<lang>de</lang>
+<page-type>preface</page-type>
+<sig>A ij</sig>
+<meta>catchword: lich</meta>
+
+<image-desc>A horizontal woodcut vignette at the top of the page depicting symmetrical scrolling foliage and floral motifs.</image-desc>
+
+# An die Hoch-
+## erleuchte Brüderschafte
+### deß Hochlöblichen Ordens R. C.
+
+-> zu GOttes Ehren / vnserm selbst eige= <-
+-> nen Heil / vnnd Liebe des Nechsten / Durch <-
+-> Christum Jesum vnsern Erlöser vnnd <-
+-> Seligmacher / Amen. <-
+
+<image-desc>A large ornamental woodcut initial 'I' contained within a circle decorated with intricate knotwork patterns.</image-desc>
+Ihr Hochgelehrte Männer Gottes / Wie Glückselig ist diese jtzige gegenwertige Zeit / in welcher ihr / durch die Liebe deß Allerhöchsten / So mehr als gezwungen / euch mit ewrem von Gott dem Allmächtigen verlehenen Pfunde / dem thewer erkaufften Heufflein zum trost / müsset herfür thun / vn̄ dieselben / vber Menschliche vernunfft hohe Gaben / nit allein hohen Fürstl. Personē vnd den gelehrten / sondern fürnemlich
+
+<vocab>Brüderschafte, Ordens R. C., Rosicrucian, Christum Jesum, Gott dem Allmächtigen, Pfunde</vocab>

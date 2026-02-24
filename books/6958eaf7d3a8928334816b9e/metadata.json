@@ -1,0 +1,28 @@
+{
+  "id": "6958eaf7d3a8928334816b9e",
+  "title": "Description des plantes de l Amerique",
+  "display_title": "Description des plantes de l Amerique",
+  "author": "Charles Plumier",
+  "language": "French",
+  "year": 1693,
+  "published": "Unknown",
+  "pages_count": 218,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6958eaf7d3a8928334816b9e",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "mobot31753000819877"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:19.694Z",
+  "_hashes": {
+    "ocr": "6e89900b2a1f1b5c",
+    "translation": "d5b854a9e910c9d9"
+  }
+}

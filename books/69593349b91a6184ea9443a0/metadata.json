@@ -1,0 +1,28 @@
+{
+  "id": "69593349b91a6184ea9443a0",
+  "title": "Traité méthodique de science occulte",
+  "display_title": "Traité méthodique de science occulte",
+  "author": "Papus (Gérard Encausse)",
+  "language": "French",
+  "year": 1891,
+  "published": "1891",
+  "pages_count": 1152,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/69593349b91a6184ea9443a0",
+  "license": "https://gallica.bnf.fr/html/und/conditions-dutilisation-des-contenus-de-gallica",
+  "doi": null,
+  "external_ids": {
+    "gallica": "bpt6k9444085"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:30:23.750Z",
+  "_hashes": {
+    "ocr": "da113d27d4059808",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

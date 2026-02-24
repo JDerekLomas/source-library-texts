@@ -1,0 +1,28 @@
+{
+  "id": "6958ea4dd3a892833481514e",
+  "title": "De historia plantarum libri decem (Graece et Latine)",
+  "display_title": "De historia plantarum libri decem (Graece et Latine)",
+  "author": "Theophrastus",
+  "language": "Greek",
+  "year": 1644,
+  "published": "1644",
+  "pages_count": 1318,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 1,
+  "source_url": "https://sourcelibrary.org/book/6958ea4dd3a892833481514e",
+  "license": "https://rightsstatements.org/vocab/NoC-NC/1.0/",
+  "doi": null,
+  "external_ids": {
+    "mdz": "bsb10209797"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:19.420Z",
+  "_hashes": {
+    "ocr": "d7dd1fa7a6f57963",
+    "translation": "452dcda4b309372f"
+  }
+}

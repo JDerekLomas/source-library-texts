@@ -1,0 +1,28 @@
+{
+  "id": "6958e96f813ea03889c33051",
+  "title": "Monstrorum historia",
+  "display_title": "Monstrorum historia",
+  "author": "Ulisse Aldrovandi",
+  "language": "Latin",
+  "year": 1642,
+  "published": "1642",
+  "pages_count": 960,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 6,
+  "source_url": "https://sourcelibrary.org/book/6958e96f813ea03889c33051",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "vlyssisaldrouan00aldra"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:19.008Z",
+  "_hashes": {
+    "ocr": "c8097f44179d8f85",
+    "translation": "1ba468170b088069"
+  }
+}

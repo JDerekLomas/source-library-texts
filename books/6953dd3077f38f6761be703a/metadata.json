@@ -1,0 +1,28 @@
+{
+  "id": "6953dd3077f38f6761be703a",
+  "title": "Alchemy of Happiness",
+  "display_title": "Alchemy of Happiness",
+  "author": "Al-Ghazali",
+  "language": "Arabic-English",
+  "year": 1873,
+  "published": "1873",
+  "pages_count": 141,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6953dd3077f38f6761be703a",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "alchemyhappines00homegoog"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:20.291Z",
+  "_hashes": {
+    "ocr": "89db9109bcc06a45",
+    "translation": "2156050b880e6875"
+  }
+}

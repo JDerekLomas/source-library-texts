@@ -1,0 +1,26 @@
+{
+  "id": "6977413fd3c5725511424d63",
+  "title": "Bibliotheca mysticorum selecta",
+  "display_title": "Bibliotheca mysticorum selecta",
+  "author": "Poiret, Pierre",
+  "language": "Latin",
+  "year": 1708,
+  "published": "1708",
+  "pages_count": 415,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 5,
+  "source_url": "https://sourcelibrary.org/book/6977413fd3c5725511424d63",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:23.040Z",
+  "_hashes": {
+    "ocr": "b590bc3be0f22198",
+    "translation": "3e6cc71343a4136a"
+  }
+}

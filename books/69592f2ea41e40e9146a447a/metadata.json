@@ -1,0 +1,28 @@
+{
+  "id": "69592f2ea41e40e9146a447a",
+  "title": "Introductiones Apotelesmaticae in Chyromantiam, Physiognomiam, Astrologiam",
+  "display_title": "Introductiones Apotelesmaticae in Chyromantiam, Physiognomiam, Astrologiam",
+  "author": "Johannes ab Indagine",
+  "language": "Latin",
+  "year": 1522,
+  "published": "1522",
+  "pages_count": 159,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 3,
+  "source_url": "https://sourcelibrary.org/book/69592f2ea41e40e9146a447a",
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "doi": null,
+  "external_ids": {
+    "mdz": "bsb00085171"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:16.329Z",
+  "_hashes": {
+    "ocr": "1bd4e5ecaec15d3a",
+    "translation": "239648f2d655d08f"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "6953cc1077f38f6761be0f99",
+  "title": "Book of Kells Latin Text with Variants (Codex Kenanensis)",
+  "display_title": "Book of Kells Latin Text with Variants (Codex Kenanensis)",
+  "author": "Thomas Kingsmill Abbott",
+  "language": "Latin",
+  "year": 1884,
+  "published": "1884",
+  "pages_count": 502,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6953cc1077f38f6761be0f99",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "evangeliorumvers02abbo"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:16.656Z",
+  "_hashes": {
+    "ocr": "511e36cde697924f",
+    "translation": "00c159186d129b72"
+  }
+}

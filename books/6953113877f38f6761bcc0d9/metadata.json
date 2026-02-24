@@ -1,0 +1,28 @@
+{
+  "id": "6953113877f38f6761bcc0d9",
+  "title": "Oracula Sibyllina (Greek Text)",
+  "display_title": "Sibylline Oracles (Greek)",
+  "author": "Charles Alexandre (ed.)",
+  "language": "Greek",
+  "year": 1856,
+  "published": "1856",
+  "pages_count": 491,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6953113877f38f6761bcc0d9",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "oraculasibyllin00alexgoog"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:25.445Z",
+  "_hashes": {
+    "ocr": "2dbe1b623ddc0acd",
+    "translation": "6be7fb69fadfe810"
+  }
+}

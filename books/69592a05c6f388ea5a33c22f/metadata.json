@@ -1,0 +1,28 @@
+{
+  "id": "69592a05c6f388ea5a33c22f",
+  "title": "Magia naturalis das ist, Kunst und Wunderbuch",
+  "display_title": "Magia naturalis das ist, Kunst und Wunderbuch",
+  "author": "Wolfgang Hildebrand",
+  "language": "German",
+  "year": 1616,
+  "published": "1616",
+  "pages_count": 802,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 6,
+  "source_url": "https://sourcelibrary.org/book/69592a05c6f388ea5a33c22f",
+  "license": "https://rightsstatements.org/vocab/NoC-NC/1.0/",
+  "doi": null,
+  "external_ids": {
+    "mdz": "bsb11256277"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:21.103Z",
+  "_hashes": {
+    "ocr": "50b4bc679a074f15",
+    "translation": "687eff2d3786d31a"
+  }
+}

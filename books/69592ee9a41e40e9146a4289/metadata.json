@@ -1,0 +1,28 @@
+{
+  "id": "69592ee9a41e40e9146a4289",
+  "title": "Ars Notoria: The Notory Art of Solomon",
+  "display_title": "Ars Notoria: The Notory Art of Solomon",
+  "author": "Robert Turner",
+  "language": "Latin",
+  "year": 1584,
+  "published": "1584",
+  "pages_count": 179,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 9,
+  "source_url": "https://sourcelibrary.org/book/69592ee9a41e40e9146a4289",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bim_early-english-books-1641-1700_ars-notoria-the-notory-_turner-robert_1657"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:16.864Z",
+  "_hashes": {
+    "ocr": "8e44510523e22a8d",
+    "translation": "24b13c40f0549ce7"
+  }
+}

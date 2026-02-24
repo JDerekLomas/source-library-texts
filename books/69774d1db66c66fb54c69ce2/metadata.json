@@ -1,0 +1,26 @@
+{
+  "id": "69774d1db66c66fb54c69ce2",
+  "title": "Bibliothèque des philosophes (chymiques)",
+  "display_title": "Bibliothèque des philosophes (chymiques)",
+  "author": "[Salmon, William]",
+  "language": "French",
+  "year": 1672,
+  "published": "1672-1678",
+  "pages_count": 508,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 7,
+  "source_url": "https://sourcelibrary.org/book/69774d1db66c66fb54c69ce2",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:23.204Z",
+  "_hashes": {
+    "ocr": "c8916e5f177af17b",
+    "translation": "596cea517c9a6eea"
+  }
+}

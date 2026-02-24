@@ -1,0 +1,28 @@
+{
+  "id": "6953a92e77f38f6761bd5646",
+  "title": "Institutions de Cassien",
+  "display_title": "Institutions de Cassien",
+  "author": "John Cassian",
+  "language": "Latin",
+  "year": 1872,
+  "published": "1872",
+  "pages_count": 322,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6953a92e77f38f6761bd5646",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "institutionsdeca00cass"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:17.544Z",
+  "_hashes": {
+    "ocr": "3aff72d18b155ffc",
+    "translation": "dec6102b4f7796bb"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "69592556aecc3a7338f95d5e",
+  "title": "Compendium Maleficarum (illustrated witchcraft manual)",
+  "display_title": "Compendium Maleficarum (illustrated witchcraft manual)",
+  "author": "Francesco Maria Guazzo",
+  "language": "Latin",
+  "year": 1626,
+  "published": "1626",
+  "pages_count": 426,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 4,
+  "source_url": "https://sourcelibrary.org/book/69592556aecc3a7338f95d5e",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "b33351491"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:20.634Z",
+  "_hashes": {
+    "ocr": "55c553fd92c4bedc",
+    "translation": "8e3c096a0e463fa5"
+  }
+}

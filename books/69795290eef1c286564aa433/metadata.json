@@ -1,0 +1,26 @@
+{
+  "id": "69795290eef1c286564aa433",
+  "title": "A compendious view of the grounds of the teutonick philosophy",
+  "display_title": "A compendious view of the grounds of the teutonick philosophy",
+  "author": "Boehme, Jacob",
+  "language": "English",
+  "year": 1770,
+  "published": "1770",
+  "pages_count": 426,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 7,
+  "source_url": "https://sourcelibrary.org/book/69795290eef1c286564aa433",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:24.702Z",
+  "_hashes": {
+    "ocr": "7c2f41a71415fcf0",
+    "translation": "8ad7a6d2fd713292"
+  }
+}

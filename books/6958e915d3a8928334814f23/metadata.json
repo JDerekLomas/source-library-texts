@@ -1,0 +1,28 @@
+{
+  "id": "6958e915d3a8928334814f23",
+  "title": "Hortus Regius Blesensis auctus",
+  "display_title": "Hortus Regius Blesensis auctus",
+  "author": "Robert Morison",
+  "language": "Latin",
+  "year": 1669,
+  "published": "1669",
+  "pages_count": 554,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 2,
+  "source_url": "https://sourcelibrary.org/book/6958e915d3a8928334814f23",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "b30330087"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:18.826Z",
+  "_hashes": {
+    "ocr": "166bacc27d9de05a",
+    "translation": "465e9dfdd3ed97ec"
+  }
+}

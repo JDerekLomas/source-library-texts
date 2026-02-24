@@ -1,0 +1,26 @@
+{
+  "id": "6953ab4577f38f6761bd6c6f",
+  "title": "Picatrix Fragment, Steganographia, Paracelsus & Chemical Secrets",
+  "display_title": "Reg.lat.1344",
+  "author": "Trithemius; Picatrix; Paracelsus",
+  "language": "Latin",
+  "year": 1650,
+  "published": "16th-17th century",
+  "pages_count": 314,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6953ab4577f38f6761bd6c6f",
+  "license": "CC-BY-NC-4.0",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:17.379Z",
+  "_hashes": {
+    "ocr": "4d5e0845424348e7",
+    "translation": "eb86122ffe9ee39d"
+  }
+}

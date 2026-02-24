@@ -1,0 +1,28 @@
+{
+  "id": "6958eb01d3a8928334816e8e",
+  "title": "Catalogus plantarum Jamaica (Prodromus)",
+  "display_title": "Catalogus plantarum Jamaica (Prodromus)",
+  "author": "Hans Sloane",
+  "language": "Latin",
+  "year": 1696,
+  "published": "Unknown",
+  "pages_count": 281,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6958eb01d3a8928334816e8e",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "mobot31753000814233"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:19.966Z",
+  "_hashes": {
+    "ocr": "48f21bc0d54d8f6a",
+    "translation": "2eefd4a3502f65ee"
+  }
+}

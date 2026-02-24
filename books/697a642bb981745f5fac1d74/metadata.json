@@ -1,0 +1,26 @@
+{
+  "id": "697a642bb981745f5fac1d74",
+  "title": "De diis Syris syntagmata II",
+  "display_title": "De diis Syris syntagmata II",
+  "author": "Selden, John",
+  "language": "Latin",
+  "year": 1680,
+  "published": "1680",
+  "pages_count": 886,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 5,
+  "source_url": "https://sourcelibrary.org/book/697a642bb981745f5fac1d74",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:17.213Z",
+  "_hashes": {
+    "ocr": "953756942f35ccb1",
+    "translation": "e8aca3577214b184"
+  }
+}

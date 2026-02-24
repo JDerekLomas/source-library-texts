@@ -1,0 +1,28 @@
+{
+  "id": "69593459b282844d7b277fa8",
+  "title": "Theosophia Practica - Volume II",
+  "display_title": "Theosophia Practica - Volume II",
+  "author": "Johann Georg Gichtel",
+  "language": "German",
+  "year": 1722,
+  "published": "1722",
+  "pages_count": 850,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 6,
+  "source_url": "https://sourcelibrary.org/book/69593459b282844d7b277fa8",
+  "license": "https://rightsstatements.org/vocab/NoC-NC/1.0/",
+  "doi": null,
+  "external_ids": {
+    "mdz": "bsb10263001"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:17.039Z",
+  "_hashes": {
+    "ocr": "33a06e815c2a0f15",
+    "translation": "2ec8c03a9ac8b8fd"
+  }
+}

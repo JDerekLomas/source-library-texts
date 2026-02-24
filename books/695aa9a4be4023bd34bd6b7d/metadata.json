@@ -1,0 +1,28 @@
+{
+  "id": "695aa9a4be4023bd34bd6b7d",
+  "title": "De gli avtomati, Machine se moventi (Baldi 1589)",
+  "display_title": "De gli avtomati, Machine se moventi (Baldi 1589)",
+  "author": "Hero of Alexandria; Bernardino Baldi (trans.)",
+  "language": "Italian",
+  "year": 1589,
+  "published": "Unknown",
+  "pages_count": 104,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 6,
+  "source_url": "https://sourcelibrary.org/book/695aa9a4be4023bd34bd6b7d",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "degliavtomatioue00hero"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:25.106Z",
+  "_hashes": {
+    "ocr": "84bcfc75a43ab979",
+    "translation": "c048d12585741ea9"
+  }
+}

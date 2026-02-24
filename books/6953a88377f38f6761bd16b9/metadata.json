@@ -1,0 +1,28 @@
+{
+  "id": "6953a88377f38f6761bd16b9",
+  "title": "De Administrando Imperio",
+  "display_title": "De Administrando Imperio",
+  "author": "Constantine VII Porphyrogennetos",
+  "language": "Greek",
+  "year": 950,
+  "published": "Unknown",
+  "pages_count": 457,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6953a88377f38f6761bd16b9",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "porphyrogenitus-1967-dai"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:25.034Z",
+  "_hashes": {
+    "ocr": "0f0f271398553d94",
+    "translation": "e6621875ab507814"
+  }
+}

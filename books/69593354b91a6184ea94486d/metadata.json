@@ -1,0 +1,28 @@
+{
+  "id": "69593354b91a6184ea94486d",
+  "title": "L'Occultisme et le Spiritualisme",
+  "display_title": "L'Occultisme et le Spiritualisme",
+  "author": "Papus (Gérard Encausse)",
+  "language": "French",
+  "year": 1902,
+  "published": "Unknown",
+  "pages_count": 190,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 9,
+  "source_url": "https://sourcelibrary.org/book/69593354b91a6184ea94486d",
+  "license": "https://gallica.bnf.fr/html/und/conditions-dutilisation-des-contenus-de-gallica",
+  "doi": null,
+  "external_ids": {
+    "gallica": "bpt6k1141453"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:22.358Z",
+  "_hashes": {
+    "ocr": "e26ec82ea8e139ba",
+    "translation": "8934b95504dfd5d6"
+  }
+}

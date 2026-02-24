@@ -1,0 +1,28 @@
+{
+  "id": "695aa95dbe4023bd34bd62e3",
+  "title": "Ocellus Lucanus On the Nature of the Universe (Taylor 1831)",
+  "display_title": "Ocellus Lucanus On the Nature of the Universe (Taylor 1831)",
+  "author": "Ocellus Lucanus; Thomas Taylor (trans.); Taurus; Firmicus Maternus; Proclus",
+  "language": "English",
+  "year": 1831,
+  "published": "1831",
+  "pages_count": 124,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 3,
+  "source_url": "https://sourcelibrary.org/book/695aa95dbe4023bd34bd62e3",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "ocelluslucanuson00taylrich"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:18.259Z",
+  "_hashes": {
+    "ocr": "aa7226acd98d7b41",
+    "translation": "b72ac44d4fa0fef4"
+  }
+}

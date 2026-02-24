@@ -1,0 +1,28 @@
+{
+  "id": "69593410b282844d7b277966",
+  "title": "Arcana Arcanissima Hieroglyphica Aegyptio-Graeca",
+  "display_title": "Arcana Arcanissima Hieroglyphica Aegyptio-Graeca",
+  "author": "Michael Maier",
+  "language": "Latin",
+  "year": 1614,
+  "published": "1614",
+  "pages_count": 328,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 2,
+  "source_url": "https://sourcelibrary.org/book/69593410b282844d7b277966",
+  "license": "https://rightsstatements.org/vocab/NoC-NC/1.0/",
+  "doi": null,
+  "external_ids": {
+    "mdz": "bsb11423535"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:16.952Z",
+  "_hashes": {
+    "ocr": "885c408d506e0ee0",
+    "translation": "1a8fb5d1fc32a50f"
+  }
+}

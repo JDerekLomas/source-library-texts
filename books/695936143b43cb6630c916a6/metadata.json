@@ -1,0 +1,28 @@
+{
+  "id": "695936143b43cb6630c916a6",
+  "title": "The Book of the Goetia of Solomon the King (Crowley/Mathers)",
+  "display_title": "The Book of the Goetia of Solomon the King (Crowley/Mathers)",
+  "author": "S.L. MacGregor Mathers / Aleister Crowley",
+  "language": "German",
+  "year": 1925,
+  "published": "1925",
+  "pages_count": 120,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 8,
+  "source_url": "https://sourcelibrary.org/book/695936143b43cb6630c916a6",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "ac_goetia"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:21.964Z",
+  "_hashes": {
+    "ocr": "3a9662b05fadc78d",
+    "translation": "cd53d7426beb2bfd"
+  }
+}

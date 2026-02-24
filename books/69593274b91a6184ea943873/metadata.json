@@ -1,0 +1,28 @@
+{
+  "id": "69593274b91a6184ea943873",
+  "title": "Dogme et rituel de la haute magie - Tome 1: Dogme",
+  "display_title": "Dogme et rituel de la haute magie - Tome 1: Dogme",
+  "author": "Eliphas Lévi",
+  "language": "French",
+  "year": 1861,
+  "published": "1861",
+  "pages_count": 384,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 9,
+  "source_url": "https://sourcelibrary.org/book/69593274b91a6184ea943873",
+  "license": "https://gallica.bnf.fr/html/und/conditions-dutilisation-des-contenus-de-gallica",
+  "doi": null,
+  "external_ids": {
+    "gallica": "bpt6k205564w"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:16.166Z",
+  "_hashes": {
+    "ocr": "6094c6db7d40bee4",
+    "translation": "9bb2b81991e3ff0d"
+  }
+}

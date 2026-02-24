@@ -1,0 +1,28 @@
+{
+  "id": "6953ce6177f38f6761be3a7b",
+  "title": "Epictetus Discourses Vol. 2 (Books 3-4) & Encheiridion",
+  "display_title": "Epictetus Discourses Vol. 2 (Books 3-4) & Encheiridion",
+  "author": "Epictetus",
+  "language": "Greek",
+  "year": 1898,
+  "published": "1898",
+  "pages_count": 584,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6953ce6177f38f6761be3a7b",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "L218EpictetusFiscoursesII34Encheiridion"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:20.918Z",
+  "_hashes": {
+    "ocr": "745ffec44230c821",
+    "translation": "78689f6b1941a871"
+  }
+}

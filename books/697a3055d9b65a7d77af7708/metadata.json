@@ -1,0 +1,26 @@
+{
+  "id": "697a3055d9b65a7d77af7708",
+  "title": "Confessionis Waldensicae",
+  "display_title": "Confessionis Waldensicae",
+  "author": "Heidenrichius, Johannes",
+  "language": "Latin",
+  "year": 1602,
+  "published": "1602",
+  "pages_count": 458,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 4,
+  "source_url": "https://sourcelibrary.org/book/697a3055d9b65a7d77af7708",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:24.419Z",
+  "_hashes": {
+    "ocr": "31be7cd36d42bf94",
+    "translation": "d714a0aa7db9fea8"
+  }
+}

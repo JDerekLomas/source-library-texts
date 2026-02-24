@@ -1,0 +1,26 @@
+{
+  "id": "697751fccb3de08f8055b176",
+  "title": "Biblisch Namen Buch",
+  "display_title": "Biblisch Namen Buch",
+  "author": "Heyden, Johann",
+  "language": "German",
+  "year": 1567,
+  "published": "1567",
+  "pages_count": 1026,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 5,
+  "source_url": "https://sourcelibrary.org/book/697751fccb3de08f8055b176",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:22.849Z",
+  "_hashes": {
+    "ocr": "16829c9989d8f9c5",
+    "translation": "a6a580b1f9e8efde"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "6953a88c77f38f6761bd19d6",
+  "title": "Novum Testamentum Graece (Tischendorf)",
+  "display_title": "Novum Testamentum Graece (Tischendorf)",
+  "author": "Constantin von Tischendorf",
+  "language": "Greek",
+  "year": 1877,
+  "published": "1877",
+  "pages_count": 479,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6953a88c77f38f6761bd19d6",
+  "license": "http://creativecommons.org/licenses/publicdomain/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "Tischendorf.I.GreekNewTestament.NovumTestamentumGraece.various"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:17.628Z",
+  "_hashes": {
+    "ocr": "30c7fe2cbc0ab42c",
+    "translation": "626a40885b37deb3"
+  }
+}

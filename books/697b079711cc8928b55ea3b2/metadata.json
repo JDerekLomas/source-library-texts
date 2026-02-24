@@ -1,0 +1,26 @@
+{
+  "id": "697b079711cc8928b55ea3b2",
+  "title": "Duplex confessio Valdensium",
+  "display_title": "Duplex confessio Valdensium",
+  "author": "Unknown",
+  "language": "Latin",
+  "year": 1512,
+  "published": "1512",
+  "pages_count": 420,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 2,
+  "source_url": "https://sourcelibrary.org/book/697b079711cc8928b55ea3b2",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:24.089Z",
+  "_hashes": {
+    "ocr": "7fc137c398bdc303",
+    "translation": "c3128357406a21b7"
+  }
+}

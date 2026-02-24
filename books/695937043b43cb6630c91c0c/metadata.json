@@ -1,0 +1,28 @@
+{
+  "id": "695937043b43cb6630c91c0c",
+  "title": "La Magie Naturelle (Secrets et Miracles de Nature)",
+  "display_title": "La Magie Naturelle (Secrets et Miracles de Nature)",
+  "author": "Giambattista della Porta",
+  "language": "Latin",
+  "year": 1607,
+  "published": "1607",
+  "pages_count": 597,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 6,
+  "source_url": "https://sourcelibrary.org/book/695937043b43cb6630c91c0c",
+  "license": "https://gallica.bnf.fr/html/und/conditions-dutilisation-des-contenus-de-gallica",
+  "doi": null,
+  "external_ids": {
+    "gallica": "bpt6k857218r"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:21.744Z",
+  "_hashes": {
+    "ocr": "2c431336de70504e",
+    "translation": "f9a4c25a29e7a530"
+  }
+}

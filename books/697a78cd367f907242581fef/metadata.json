@@ -1,0 +1,26 @@
+{
+  "id": "697a78cd367f907242581fef",
+  "title": "Dissertatio historico-critica de antiquis, novis manichaeis",
+  "display_title": "Dissertatio historico-critica de antiquis, novis manichaeis",
+  "author": "Alticotius, Laurentius",
+  "language": "Latin",
+  "year": 1763,
+  "published": "1763",
+  "pages_count": 272,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 5,
+  "source_url": "https://sourcelibrary.org/book/697a78cd367f907242581fef",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:17.123Z",
+  "_hashes": {
+    "ocr": "8df9d1ab02c85ae4",
+    "translation": "f1a5cd725fbc88d5"
+  }
+}

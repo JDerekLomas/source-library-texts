@@ -1,0 +1,28 @@
+{
+  "id": "6953ce7b77f38f6761be43fe",
+  "title": "Seneca Epistulae Morales Vol. 3 (Letters 93-124)",
+  "display_title": "Seneca Epistulae Morales Vol. 3 (Letters 93-124)",
+  "author": "Seneca",
+  "language": "Latin",
+  "year": 1925,
+  "published": "1925",
+  "pages_count": 699,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6953ce7b77f38f6761be43fe",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "L077SenecaVIEpistles93124"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:20.723Z",
+  "_hashes": {
+    "ocr": "1d8fa71203f47486",
+    "translation": "c07f3eb4af2aa0c9"
+  }
+}

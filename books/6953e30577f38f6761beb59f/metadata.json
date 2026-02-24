@@ -1,0 +1,28 @@
+{
+  "id": "6953e30577f38f6761beb59f",
+  "title": "Kularnava Tantra - English Translation (Arthur Avalon)",
+  "display_title": "Kularnava Tantra - English Translation (Arthur Avalon)",
+  "author": "Arthur Avalon (John Woodroffe)",
+  "language": "Sanskrit-English",
+  "year": 1917,
+  "published": "Unknown",
+  "pages_count": 132,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6953e30577f38f6761beb59f",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "ArthurAvalonKularnavaTantraEng"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:19.179Z",
+  "_hashes": {
+    "ocr": "60c539c26452d641",
+    "translation": "bf4204cb26b19048"
+  }
+}
