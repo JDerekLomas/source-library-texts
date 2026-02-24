@@ -1,0 +1,28 @@
+{
+  "id": "6990647eef12272ffdc92999",
+  "title": "Siddhanta Shiromani with Surya Siddhanta Tika (Gudarth Prakashaka)",
+  "display_title": "Siddhanta Shiromani with Surya Siddhanta Tika (Gudarth Prakashaka)",
+  "author": "Bhaskaracharya II; Laxmi Nath",
+  "language": "Sanskrit",
+  "year": 1750,
+  "published": "Unknown",
+  "pages_count": 3937,
+  "pages_with_ocr": 3937,
+  "pages_with_translation": 3792,
+  "source_url": "https://sourcelibrary.org/book/6990647eef12272ffdc92999",
+  "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "SiddhantaShiromaniSuryaSiddhantaTikaGudarthPrakashakaShriLaxmiNathShriVishwanath"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:19:19.531Z",
+  "_hashes": {
+    "ocr": "aa282e87e6bf00c3",
+    "translation": "0a0b7fcbcf64e816"
+  }
+}

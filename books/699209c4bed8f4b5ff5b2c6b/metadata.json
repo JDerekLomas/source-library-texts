@@ -1,0 +1,28 @@
+{
+  "id": "699209c4bed8f4b5ff5b2c6b",
+  "title": "Biblia Polyglotta Complutensis",
+  "display_title": "Biblia Polyglotta Complutensis",
+  "author": "Cardinal Cisneros (patron)",
+  "language": "Latin",
+  "year": 1517,
+  "published": "Unknown",
+  "pages_count": 3043,
+  "pages_with_ocr": 3040,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/699209c4bed8f4b5ff5b2c6b",
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "complutensian_polyglot_bible"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:19:26.671Z",
+  "_hashes": {
+    "ocr": "1e4c407194cc0672",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

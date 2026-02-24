@@ -1,0 +1,28 @@
+{
+  "id": "6952caa077f38f6761bc408b",
+  "title": "Complete Works of Plato",
+  "display_title": "Complete Plato (Thomas Taylor trans.)",
+  "author": "Plato | Taylor, Thomas (trans.)",
+  "language": "English",
+  "year": 1804,
+  "published": "1804",
+  "pages_count": 2850,
+  "pages_with_ocr": 2850,
+  "pages_with_translation": 2850,
+  "source_url": "https://sourcelibrary.org/book/6952caa077f38f6761bc408b",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "PlatoThomasTaylor"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:19:30.830Z",
+  "_hashes": {
+    "ocr": "a610d471acff5e90",
+    "translation": "12db324a8c14de9f"
+  }
+}

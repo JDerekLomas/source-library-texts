@@ -1,0 +1,28 @@
+{
+  "id": "69907c455f855ec553e72c96",
+  "title": "Siddhanta Sarvabhauma Purvardha",
+  "display_title": "Siddhanta Sarvabhauma (Part 1)",
+  "author": "Munisvara",
+  "language": "Sanskrit",
+  "year": 1800,
+  "published": "1800",
+  "pages_count": 2202,
+  "pages_with_ocr": 2201,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/69907c455f855ec553e72c96",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "SiddhantaSarvabhaumashayaHPurvardhaShriMunisvara2855GhaAlm13Shlf1DevanagariJyotish"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:19:31.609Z",
+  "_hashes": {
+    "ocr": "84dd4dcc44e76bca",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

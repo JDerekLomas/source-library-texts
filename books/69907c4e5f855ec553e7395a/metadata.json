@@ -1,0 +1,28 @@
+{
+  "id": "69907c4e5f855ec553e7395a",
+  "title": "Jyotirvidabharanam of Kalidasa",
+  "display_title": "Jyotirvidabharanam (Kalidasa)",
+  "author": "Kalidasa",
+  "language": "Sanskrit",
+  "year": 1800,
+  "published": "1800",
+  "pages_count": 2937,
+  "pages_with_ocr": 2936,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/69907c4e5f855ec553e7395a",
+  "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "JyotirvidAbharanamKalidas846GhaAlm4Shlf5DevanagariJyotish"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:19:27.626Z",
+  "_hashes": {
+    "ocr": "204a742dea4bc4e0",
+    "translation": "e3b0c44298fc1c14"
+  }
+}
