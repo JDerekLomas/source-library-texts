@@ -1,0 +1,28 @@
+{
+  "id": "695230c6ab34727b1f044784",
+  "title": "Corpus Hermeticum (Greek manuscript)",
+  "display_title": "Corpus Hermeticum with Pneumatica and Ocellus Lucanus",
+  "author": "Hermes Trismegistus (attrib.) | Hero of Alexandria",
+  "language": "Greek",
+  "year": 1530,
+  "published": "1530-1539",
+  "pages_count": 284,
+  "pages_with_ocr": 284,
+  "pages_with_translation": 284,
+  "source_url": "https://sourcelibrary.org/book/695230c6ab34727b1f044784",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "gallica": "btv1b10509612q"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:26:51.528Z",
+  "_hashes": {
+    "ocr": "33cba99d456808d8",
+    "translation": "6a14966cd054dbdf"
+  }
+}

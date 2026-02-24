@@ -1,0 +1,26 @@
+{
+  "id": "6978ee3a598a6361bba7fbaf",
+  "title": "Chimia sive traditio summae perfectionis. Medulla alchimiae",
+  "display_title": "Chimia sive traditio summae perfectionis. Medulla alchimiae",
+  "author": "Geber",
+  "language": "Latin",
+  "year": 1668,
+  "published": "1668",
+  "pages_count": 318,
+  "pages_with_ocr": 318,
+  "pages_with_translation": 4,
+  "source_url": "https://sourcelibrary.org/book/6978ee3a598a6361bba7fbaf",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:26:29.396Z",
+  "_hashes": {
+    "ocr": "7bd4660a97356a37",
+    "translation": "ccd60e71a30cc5be"
+  }
+}

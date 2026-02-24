@@ -1,0 +1,28 @@
+{
+  "id": "6952dac277f38f6761bc66b0",
+  "title": "De Symmetria Partium Humanorum Corporum",
+  "display_title": "On the Symmetry of Human Bodies",
+  "author": "Albrecht Dürer",
+  "language": "Latin",
+  "year": 1532,
+  "published": "1532",
+  "pages_count": 290,
+  "pages_with_ocr": 290,
+  "pages_with_translation": 290,
+  "source_url": "https://sourcelibrary.org/book/6952dac277f38f6761bc66b0",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "albertidurericla00drer"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:26:47.698Z",
+  "_hashes": {
+    "ocr": "e7db2fe230461e51",
+    "translation": "d56fc1059711a5ef"
+  }
+}

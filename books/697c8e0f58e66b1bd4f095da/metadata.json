@@ -1,0 +1,26 @@
+{
+  "id": "697c8e0f58e66b1bd4f095da",
+  "title": "The fifth book of the authour...of the becoming man",
+  "display_title": "The fifth book of the authour...of the becoming man",
+  "author": "Boehme, Jacob",
+  "language": "English",
+  "year": 1659,
+  "published": "1659",
+  "pages_count": 318,
+  "pages_with_ocr": 318,
+  "pages_with_translation": 9,
+  "source_url": "https://sourcelibrary.org/book/697c8e0f58e66b1bd4f095da",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:26:30.287Z",
+  "_hashes": {
+    "ocr": "73331405ef45612c",
+    "translation": "e23bf6fdec0adb75"
+  }
+}

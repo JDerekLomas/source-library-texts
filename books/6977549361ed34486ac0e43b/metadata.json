@@ -1,0 +1,26 @@
+{
+  "id": "6977549361ed34486ac0e43b",
+  "title": "Blumenlese",
+  "display_title": "Blumenlese",
+  "author": "Boehme, Jacob",
+  "language": "German",
+  "year": 1819,
+  "published": "1819",
+  "pages_count": 296,
+  "pages_with_ocr": 296,
+  "pages_with_translation": 6,
+  "source_url": "https://sourcelibrary.org/book/6977549361ed34486ac0e43b",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:26:44.451Z",
+  "_hashes": {
+    "ocr": "da0cedf60d6cbdf3",
+    "translation": "c175b43b572a973b"
+  }
+}

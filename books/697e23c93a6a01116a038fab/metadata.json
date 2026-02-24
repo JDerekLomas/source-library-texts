@@ -1,0 +1,26 @@
+{
+  "id": "697e23c93a6a01116a038fab",
+  "title": "The historie of the heretics of the first two centuries after Christ",
+  "display_title": "The historie of the heretics of the first two centuries after Christ",
+  "author": "Lardner, Nathaniel",
+  "language": "English",
+  "year": 1780,
+  "published": "1780",
+  "pages_count": 550,
+  "pages_with_ocr": 314,
+  "pages_with_translation": 2,
+  "source_url": "https://sourcelibrary.org/book/697e23c93a6a01116a038fab",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:26:32.412Z",
+  "_hashes": {
+    "ocr": "76b9bc60ddcf2e27",
+    "translation": "003513f5a4ccf0f0"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "699066de249ce014347d1e4c",
+  "title": "Surya Siddhanta with Gudhartha Prakash",
+  "display_title": "Surya Siddhanta with Gudhartha Prakash",
+  "author": "Ranganatha; Baladeva Prasad Mishra (comm.)",
+  "language": "Sanskrit",
+  "year": 1603,
+  "published": "Unknown",
+  "pages_count": 272,
+  "pages_with_ocr": 272,
+  "pages_with_translation": 272,
+  "source_url": "https://sourcelibrary.org/book/699066de249ce014347d1e4c",
+  "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "FlVG_shri-surya-siddhanta-with-gudhartha-prakash-sanskrit-tika-by-pt.-baladeva-prasad-mishra-1913-kh"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:26:57.584Z",
+  "_hashes": {
+    "ocr": "9dd9fdc3d7cb03db",
+    "translation": "ea64ca5d449509e6"
+  }
+}

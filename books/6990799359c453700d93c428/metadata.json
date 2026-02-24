@@ -1,0 +1,28 @@
+{
+  "id": "6990799359c453700d93c428",
+  "title": "Surya Siddhanta Gudartha Prakasika",
+  "display_title": "Surya Siddhanta Gudartha Prakasika",
+  "author": "Ranganatha (comm.); Baladev Prasad Mishra (ed.)",
+  "language": "Sanskrit",
+  "year": 1900,
+  "published": "1900",
+  "pages_count": 317,
+  "pages_with_ocr": 316,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/6990799359c453700d93c428",
+  "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "suryasiddhantagudarthaprakasikaranganathaed.baladevprasadmishra_410_D"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:26:31.438Z",
+  "_hashes": {
+    "ocr": "29c14b121986d9a4",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "697e23ca05adde1df98f104f",
+  "title": "Iambichus liber primus",
+  "display_title": "Iambichus liber primus",
+  "author": "Augurellus, Johannes Aurelius",
+  "language": "Latin",
+  "year": 1505,
+  "published": "1505",
+  "pages_count": 312,
+  "pages_with_ocr": 312,
+  "pages_with_translation": 285,
+  "source_url": "https://sourcelibrary.org/book/697e23ca05adde1df98f104f",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:26:33.510Z",
+  "_hashes": {
+    "ocr": "c7520435519410b5",
+    "translation": "460273838a3cf529"
+  }
+}

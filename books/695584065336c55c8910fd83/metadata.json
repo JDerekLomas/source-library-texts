@@ -1,0 +1,28 @@
+{
+  "id": "695584065336c55c8910fd83",
+  "title": "Ancient Laws of Ireland (Brehon Laws)",
+  "display_title": "Ancient Laws of Ireland (Brehon Laws)",
+  "author": "Government of Ireland Commissioners",
+  "language": "Irish/English",
+  "year": 1865,
+  "published": "Unknown",
+  "pages_count": 659,
+  "pages_with_ocr": 306,
+  "pages_with_translation": 305,
+  "source_url": "https://sourcelibrary.org/book/695584065336c55c8910fd83",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "ancientlawsirel02hancgoog"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:26:39.494Z",
+  "_hashes": {
+    "ocr": "dba1efd4032663ea",
+    "translation": "1b002261c60f2e8c"
+  }
+}

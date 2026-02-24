@@ -1,0 +1,26 @@
+{
+  "id": "6977c24948f877905d75d69b",
+  "title": "A childe of light",
+  "display_title": "A childe of light",
+  "author": "Goodwin, Thomas",
+  "language": "English",
+  "year": 1643,
+  "published": "1643",
+  "pages_count": 280,
+  "pages_with_ocr": 280,
+  "pages_with_translation": 218,
+  "source_url": "https://sourcelibrary.org/book/6977c24948f877905d75d69b",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:26:52.769Z",
+  "_hashes": {
+    "ocr": "6ef6aafd78707d48",
+    "translation": "625e749ea63843ac"
+  }
+}

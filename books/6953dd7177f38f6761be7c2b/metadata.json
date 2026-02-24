@@ -1,0 +1,28 @@
+{
+  "id": "6953dd7177f38f6761be7c2b",
+  "title": "Mystics of the Renaissance - Eckhart, Tauler, Paracelsus, Boehme, Bruno",
+  "display_title": "Mystics of the Renaissance - Eckhart, Tauler, Paracelsus, Boehme, Bruno",
+  "author": "Rudolf Steiner",
+  "language": "German-English",
+  "year": 1911,
+  "published": "1911",
+  "pages_count": 306,
+  "pages_with_ocr": 306,
+  "pages_with_translation": 306,
+  "source_url": "https://sourcelibrary.org/book/6953dd7177f38f6761be7c2b",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "mysticsofrenais00stei"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v2.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:26:38.953Z",
+  "_hashes": {
+    "ocr": "ed784c1c50620519",
+    "translation": "c9f5c19ef8e9c8a8"
+  }
+}

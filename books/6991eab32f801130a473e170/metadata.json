@@ -1,0 +1,28 @@
+{
+  "id": "6991eab32f801130a473e170",
+  "title": "Codex Trivulzianus",
+  "display_title": "Codex Trivulzianus",
+  "author": "Leonardo da Vinci (ed. Luca Beltrami)",
+  "language": "Italian",
+  "year": 1891,
+  "published": "Unknown",
+  "pages_count": 330,
+  "pages_with_ocr": 306,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/6991eab32f801130a473e170",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "ilcodicedileonar00leonuoft"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:26:39.093Z",
+  "_hashes": {
+    "ocr": "5ce988a4b73fc0eb",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "6984e8498a2f054f912420b9",
+  "title": "Opera, quae quidem extant, omnia",
+  "display_title": "Opera, quae quidem extant, omnia",
+  "author": "Leo I (Magnus)",
+  "language": "Latin",
+  "year": 1546,
+  "published": "1546",
+  "pages_count": 424,
+  "pages_with_ocr": 286,
+  "pages_with_translation": 7,
+  "source_url": "https://sourcelibrary.org/book/6984e8498a2f054f912420b9",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:26:49.013Z",
+  "_hashes": {
+    "ocr": "36cf0333200575dc",
+    "translation": "7cce18e2d17298c1"
+  }
+}

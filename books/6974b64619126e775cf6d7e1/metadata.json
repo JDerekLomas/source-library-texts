@@ -1,0 +1,26 @@
+{
+  "id": "6974b64619126e775cf6d7e1",
+  "title": "[Greek] Argonauticon libri IIII",
+  "display_title": "[Greek] Argonauticon libri IIII",
+  "author": "Apollonius Rhodius",
+  "language": "Greek",
+  "year": 1574,
+  "published": "1574",
+  "pages_count": 302,
+  "pages_with_ocr": 302,
+  "pages_with_translation": 232,
+  "source_url": "https://sourcelibrary.org/book/6974b64619126e775cf6d7e1",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:26:41.432Z",
+  "_hashes": {
+    "ocr": "a82ef5f35c09809c",
+    "translation": "ebc3e7777dc24b65"
+  }
+}

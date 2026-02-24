@@ -1,0 +1,28 @@
+{
+  "id": "69520600ab34727b1f042e3c",
+  "title": "De Triplici vita",
+  "display_title": "De Triplici vita",
+  "author": "Marsilio Ficino",
+  "language": "Latin",
+  "year": 1489,
+  "published": "1489",
+  "pages_count": 284,
+  "pages_with_ocr": 284,
+  "pages_with_translation": 284,
+  "source_url": "https://sourcelibrary.org/book/69520600ab34727b1f042e3c",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "gallica": "bpt6k87276589"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": null,
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:26:50.954Z",
+  "_hashes": {
+    "ocr": "c0419207054b9832",
+    "translation": "00f8829422f5a586"
+  }
+}

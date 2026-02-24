@@ -1,0 +1,28 @@
+{
+  "id": "69528b19ab34727b1f04f2fe",
+  "title": "The Book of Divine Consolation of the Blessed Angela of Foligno",
+  "display_title": "The Book of Divine Consolation of the Blessed Angela of Foligno",
+  "author": "Angela of Foligno",
+  "language": "English",
+  "year": 1909,
+  "published": "1909",
+  "pages_count": 318,
+  "pages_with_ocr": 318,
+  "pages_with_translation": 318,
+  "source_url": "https://sourcelibrary.org/book/69528b19ab34727b1f04f2fe",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "BookOfDivineConsolation"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:26:30.004Z",
+  "_hashes": {
+    "ocr": "1eb832d173634e0a",
+    "translation": "a81e489999abd8ae"
+  }
+}

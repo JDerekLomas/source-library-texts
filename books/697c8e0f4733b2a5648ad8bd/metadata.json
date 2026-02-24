@@ -1,0 +1,26 @@
+{
+  "id": "697c8e0f4733b2a5648ad8bd",
+  "title": "Gott",
+  "display_title": "Gott",
+  "author": "Herder, Johann Gottfried von",
+  "language": "German",
+  "year": 1787,
+  "published": "1787",
+  "pages_count": 290,
+  "pages_with_ocr": 290,
+  "pages_with_translation": 5,
+  "source_url": "https://sourcelibrary.org/book/697c8e0f4733b2a5648ad8bd",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:26:48.165Z",
+  "_hashes": {
+    "ocr": "97ab40d8019d184e",
+    "translation": "9c060b129616a821"
+  }
+}

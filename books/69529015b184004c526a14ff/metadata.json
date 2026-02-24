@@ -1,0 +1,28 @@
+{
+  "id": "69529015b184004c526a14ff",
+  "title": "Von etlichen frowen (c.1474 Ulm - German translation)",
+  "display_title": "Von etlichen frowen (c.1474 Ulm - German translation)",
+  "author": "Giovanni Boccaccio (German trans.)",
+  "language": "German",
+  "year": 1474,
+  "published": "1474",
+  "pages_count": 309,
+  "pages_with_ocr": 309,
+  "pages_with_translation": 309,
+  "source_url": "https://sourcelibrary.org/book/69529015b184004c526a14ff",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "mdz": "bsb00025586"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": null,
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:26:37.237Z",
+  "_hashes": {
+    "ocr": "1e50cd82a78baf7a",
+    "translation": "ff726fc94a7b78b8"
+  }
+}

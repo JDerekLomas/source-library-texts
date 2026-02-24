@@ -1,0 +1,28 @@
+{
+  "id": "4adda30b-b8da-4e16-ad21-9f14bf286a23",
+  "title": "Naturall Philosophie Reformed",
+  "display_title": "Naturall Philosophie Reformed by Divine Light (1651)",
+  "author": "Jan Amos Comenius",
+  "language": "English",
+  "year": 1651,
+  "published": "1651",
+  "pages_count": 308,
+  "pages_with_ocr": 308,
+  "pages_with_translation": 308,
+  "source_url": "https://sourcelibrary.org/book/4adda30b-b8da-4e16-ad21-9f14bf286a23",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "naturallphilosop00come"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:26:38.352Z",
+  "_hashes": {
+    "ocr": "348d8343edd18e4e",
+    "translation": "12eac221f40505be"
+  }
+}

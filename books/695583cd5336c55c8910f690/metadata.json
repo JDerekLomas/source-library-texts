@@ -1,0 +1,28 @@
+{
+  "id": "695583cd5336c55c8910f690",
+  "title": "Irische Texte mit Wörterbuch Vol. I",
+  "display_title": "Irische Texte mit Wörterbuch Vol. I",
+  "author": "Ernst Windisch / Whitley Stokes",
+  "language": "Irish/English",
+  "year": 1901,
+  "published": "1901",
+  "pages_count": 918,
+  "pages_with_ocr": 308,
+  "pages_with_translation": 199,
+  "source_url": "https://sourcelibrary.org/book/695583cd5336c55c8910f690",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "irischetextemitw01winduoft"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:26:38.121Z",
+  "_hashes": {
+    "ocr": "cff6e0bdda259e65",
+    "translation": "069e7e6046a7f401"
+  }
+}

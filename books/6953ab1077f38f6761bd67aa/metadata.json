@@ -1,0 +1,26 @@
+{
+  "id": "6953ab1077f38f6761bd67aa",
+  "title": "Corpus Hermeticum (Pimander & Asclepius)",
+  "display_title": "Ott.lat.2074",
+  "author": "Hermes Trismegistus",
+  "language": "Latin",
+  "year": 1450,
+  "published": "15th century",
+  "pages_count": 319,
+  "pages_with_ocr": 319,
+  "pages_with_translation": 319,
+  "source_url": "https://sourcelibrary.org/book/6953ab1077f38f6761bd67aa",
+  "license": "CC-BY-NC-4.0",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:26:29.255Z",
+  "_hashes": {
+    "ocr": "1f8d7cdb01a67d3c",
+    "translation": "ce2127bda19bc199"
+  }
+}

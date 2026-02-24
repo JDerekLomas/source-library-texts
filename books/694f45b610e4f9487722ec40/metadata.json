@@ -1,0 +1,28 @@
+{
+  "id": "694f45b610e4f9487722ec40",
+  "title": "Elementa (Elements)",
+  "display_title": "Elementa (Elements)",
+  "author": "Euclid",
+  "language": "Latin",
+  "year": 1482,
+  "published": "1482",
+  "pages_count": 278,
+  "pages_with_ocr": 278,
+  "pages_with_translation": 278,
+  "source_url": "https://sourcelibrary.org/book/694f45b610e4f9487722ec40",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "preclarissimusli00eucl"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": null,
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:26:53.730Z",
+  "_hashes": {
+    "ocr": "ebcb132fecd89024",
+    "translation": "0ad15d43c972f321"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "697c8e0f150e68b9f40701f8",
+  "title": "Gebet-Buechlein",
+  "display_title": "Gebet-Buechlein",
+  "author": "Unknown",
+  "language": "German",
+  "year": 1806,
+  "published": "1806",
+  "pages_count": 302,
+  "pages_with_ocr": 302,
+  "pages_with_translation": 236,
+  "source_url": "https://sourcelibrary.org/book/697c8e0f150e68b9f40701f8",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:26:42.505Z",
+  "_hashes": {
+    "ocr": "866daf1faaf25d97",
+    "translation": "770f2b3adbb2580b"
+  }
+}

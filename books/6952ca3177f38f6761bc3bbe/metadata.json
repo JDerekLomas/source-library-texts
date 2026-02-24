@@ -1,0 +1,28 @@
+{
+  "id": "6952ca3177f38f6761bc3bbe",
+  "title": "Sancti Dionysii Areopagitae opera omnia",
+  "display_title": "Complete Works of Pseudo-Dionysius",
+  "author": "Pseudo-Dionysius the Areopagite",
+  "language": "Latin",
+  "year": 1634,
+  "published": "1634",
+  "pages_count": 321,
+  "pages_with_ocr": 321,
+  "pages_with_translation": 321,
+  "source_url": "https://sourcelibrary.org/book/6952ca3177f38f6761bc3bbe",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "sanctidionysiia00cordgoog"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:26:25.860Z",
+  "_hashes": {
+    "ocr": "feef5e5f3eec71d5",
+    "translation": "ca7a2e44889b2be6"
+  }
+}

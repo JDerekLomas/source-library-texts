@@ -1,0 +1,28 @@
+{
+  "id": "695583f05336c55c8910fc04",
+  "title": "Carmina Gadelica: Hymns and Incantations of the Western Highlands",
+  "display_title": "Carmina Gadelica: Hymns and Incantations of the Western Highlands",
+  "author": "Alexander Carmichael",
+  "language": "English",
+  "year": 1900,
+  "published": "Unknown",
+  "pages_count": 382,
+  "pages_with_ocr": 301,
+  "pages_with_translation": 200,
+  "source_url": "https://sourcelibrary.org/book/695583f05336c55c8910fc04",
+  "license": "http://creativecommons.org/licenses/by-nc-sa/2.5/scotland/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "carminagadelicah04carm"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:26:42.754Z",
+  "_hashes": {
+    "ocr": "c01f6b4d80754f9c",
+    "translation": "f8b6f6780627a2a9"
+  }
+}

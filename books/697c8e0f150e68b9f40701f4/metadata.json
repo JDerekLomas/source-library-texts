@@ -1,0 +1,26 @@
+{
+  "id": "697c8e0f150e68b9f40701f4",
+  "title": "Gloria mundi. Sonsten Paradiess-Taffel",
+  "display_title": "Gloria mundi. Sonsten Paradiess-Taffel",
+  "author": "anonymous",
+  "language": "Latin-German",
+  "year": 1692,
+  "published": "1692",
+  "pages_count": 275,
+  "pages_with_ocr": 275,
+  "pages_with_translation": 4,
+  "source_url": "https://sourcelibrary.org/book/697c8e0f150e68b9f40701f4",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:26:56.502Z",
+  "_hashes": {
+    "ocr": "92fb1488eeed1c4a",
+    "translation": "0ea41e4ddb5c7682"
+  }
+}

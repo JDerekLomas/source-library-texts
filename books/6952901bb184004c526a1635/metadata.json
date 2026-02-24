@@ -1,0 +1,28 @@
+{
+  "id": "6952901bb184004c526a1635",
+  "title": "Von etlichen frowen (1479 Augsburg - German translation)",
+  "display_title": "Von etlichen frowen (1479 Augsburg - German translation)",
+  "author": "Giovanni Boccaccio (German trans.)",
+  "language": "German",
+  "year": 1479,
+  "published": "1479",
+  "pages_count": 302,
+  "pages_with_ocr": 302,
+  "pages_with_translation": 302,
+  "source_url": "https://sourcelibrary.org/book/6952901bb184004c526a1635",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "mdz": "bsb00025587"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": null,
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:26:41.693Z",
+  "_hashes": {
+    "ocr": "dc6d16d724e082df",
+    "translation": "4fb89dbd2a442705"
+  }
+}

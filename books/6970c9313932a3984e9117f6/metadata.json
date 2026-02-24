@@ -1,0 +1,26 @@
+{
+  "id": "6970c9313932a3984e9117f6",
+  "title": "Abhandlung von freier Untersuchung des Canon",
+  "display_title": "Abhandlung von freier Untersuchung des Canon",
+  "author": "Semler, Johann Salomo",
+  "language": "German",
+  "year": 1771,
+  "published": "1771",
+  "pages_count": 320,
+  "pages_with_ocr": 320,
+  "pages_with_translation": 310,
+  "source_url": "https://sourcelibrary.org/book/6970c9313932a3984e9117f6",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:26:26.129Z",
+  "_hashes": {
+    "ocr": "ccab52f60bba6ce1",
+    "translation": "fb121a3487d0e6da"
+  }
+}

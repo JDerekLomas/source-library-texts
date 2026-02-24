@@ -1,0 +1,28 @@
+{
+  "id": "695201adab34727b1f0419c7",
+  "title": "Philosophia sacra et vere christiana seu Meteorologia cosmica",
+  "display_title": "Philosophia sacra et vere christiana seu Meteorologia cosmica",
+  "author": "Robert Fludd",
+  "language": "Latin",
+  "year": 1626,
+  "published": "1626",
+  "pages_count": 314,
+  "pages_with_ocr": 314,
+  "pages_with_translation": 314,
+  "source_url": "https://sourcelibrary.org/book/695201adab34727b1f0419c7",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "gallica": "bpt6k1247982"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": null,
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:26:32.872Z",
+  "_hashes": {
+    "ocr": "fe1a3b8aea08bcfb",
+    "translation": "d18137eb5339df26"
+  }
+}

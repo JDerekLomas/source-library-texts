@@ -1,0 +1,26 @@
+{
+  "id": "6978ee3a586230b8def021c7",
+  "title": "Christosophia oder der Weg zu Christo",
+  "display_title": "Christosophia oder der Weg zu Christo",
+  "author": "Boehme, Jacob",
+  "language": "German",
+  "year": 1730,
+  "published": "1730",
+  "pages_count": 313,
+  "pages_with_ocr": 313,
+  "pages_with_translation": 8,
+  "source_url": "https://sourcelibrary.org/book/6978ee3a586230b8def021c7",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:26:33.026Z",
+  "_hashes": {
+    "ocr": "56ad8ab6fbf3c14f",
+    "translation": "e72efbf0756c2066"
+  }
+}

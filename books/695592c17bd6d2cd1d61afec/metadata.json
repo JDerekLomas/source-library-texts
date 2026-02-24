@@ -1,0 +1,28 @@
+{
+  "id": "695592c17bd6d2cd1d61afec",
+  "title": "Ramon Llull Ars Magna Generalis et Ultima (1517)",
+  "display_title": "Ramon Llull Ars Magna Generalis et Ultima (1517)",
+  "author": "Ramon Llull / Bernardus de Lavinheta",
+  "language": "Latin",
+  "year": 1523,
+  "published": "1523",
+  "pages_count": 286,
+  "pages_with_ocr": 286,
+  "pages_with_translation": 276,
+  "source_url": "https://sourcelibrary.org/book/695592c17bd6d2cd1d61afec",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "illuminatisacrep00llul"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:26:50.557Z",
+  "_hashes": {
+    "ocr": "d86b3a7d27bba1b0",
+    "translation": "61a07b1ca3baff5f"
+  }
+}

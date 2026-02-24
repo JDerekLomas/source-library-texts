@@ -1,0 +1,28 @@
+{
+  "id": "695294d8b184004c526a23f1",
+  "title": "The twoo bookes of Francis Bacon. Of the proficience and aduancement of learning",
+  "display_title": "The Advancement of Learning (1605 first edition)",
+  "author": "Bacon, Francis",
+  "language": "English",
+  "year": 1605,
+  "published": "1605",
+  "pages_count": 338,
+  "pages_with_ocr": 316,
+  "pages_with_translation": 308,
+  "source_url": "https://sourcelibrary.org/book/695294d8b184004c526a23f1",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "twoobookesoffran00baco"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:26:31.086Z",
+  "_hashes": {
+    "ocr": "98d157367133c160",
+    "translation": "634dff1c93fd977b"
+  }
+}

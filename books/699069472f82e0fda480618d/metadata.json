@@ -1,0 +1,28 @@
+{
+  "id": "699069472f82e0fda480618d",
+  "title": "Brihat Samhita (Kern 1865 ed.)",
+  "display_title": "Brihat Samhita (Kern 1865 ed.)",
+  "author": "Varahamihira; ed. H. Kern",
+  "language": "Sanskrit",
+  "year": 1865,
+  "published": "Unknown",
+  "pages_count": 297,
+  "pages_with_ocr": 297,
+  "pages_with_translation": 297,
+  "source_url": "https://sourcelibrary.org/book/699069472f82e0fda480618d",
+  "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "brihatsamhitavarahamihirabruhatkernh.asiaticsociety1865_754_d"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:26:43.440Z",
+  "_hashes": {
+    "ocr": "709dd14dc1b37583",
+    "translation": "3775f8592fcb7902"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "69528cf1ab34727b1f04f65d",
+  "title": "Les nobles et cleres dames (De claris mulieribus)",
+  "display_title": "Les nobles et cleres dames (De claris mulieribus)",
+  "author": "Giovanni Boccaccio",
+  "language": "French",
+  "year": 1493,
+  "published": "1493",
+  "pages_count": 309,
+  "pages_with_ocr": 309,
+  "pages_with_translation": 309,
+  "source_url": "https://sourcelibrary.org/book/69528cf1ab34727b1f04f65d",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "gallica": "btv1b8626778b"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": null,
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:26:37.505Z",
+  "_hashes": {
+    "ocr": "c2cfb49542aec45f",
+    "translation": "4491145c35d2810d"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "697711607e1d5a07ae945879",
+  "title": "[Hebrew:] Chamisha chumshe Torah",
+  "display_title": "[Hebrew:] Chamisha chumshe Torah",
+  "author": "Unknown",
+  "language": "Hebrew",
+  "year": 1635,
+  "published": "1635",
+  "pages_count": 320,
+  "pages_with_ocr": 320,
+  "pages_with_translation": 298,
+  "source_url": "https://sourcelibrary.org/book/697711607e1d5a07ae945879",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:26:27.575Z",
+  "_hashes": {
+    "ocr": "d7eb4aea55520c2c",
+    "translation": "1c5d9d29aa65bc1e"
+  }
+}

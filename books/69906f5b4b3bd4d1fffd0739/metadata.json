@@ -1,0 +1,26 @@
+{
+  "id": "69906f5b4b3bd4d1fffd0739",
+  "title": "Bestiary (MS. Bodley 764)",
+  "display_title": "Bodleian Library MS. Bodl. 764",
+  "author": "Anonymous",
+  "language": "Latin",
+  "year": 1240,
+  "published": "1240",
+  "pages_count": 298,
+  "pages_with_ocr": 298,
+  "pages_with_translation": 221,
+  "source_url": "https://sourcelibrary.org/book/69906f5b4b3bd4d1fffd0739",
+  "license": "CC-BY-NC-4.0",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:26:43.019Z",
+  "_hashes": {
+    "ocr": "cd61d21d71634624",
+    "translation": "f87e0ea52d8c07e9"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "6952b01e77f38f6761bc1e33",
+  "title": "Opuscula cum Vita",
+  "display_title": "Works with Life (1498 Venice incunabulum)",
+  "author": "Pico della Mirandola, Giovanni",
+  "language": "Latin",
+  "year": 1498,
+  "published": "1498",
+  "pages_count": 303,
+  "pages_with_ocr": 303,
+  "pages_with_translation": 303,
+  "source_url": "https://sourcelibrary.org/book/6952b01e77f38f6761bc1e33",
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "doi": null,
+  "external_ids": {
+    "mdz": "bsb00078049"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": null,
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:26:40.490Z",
+  "_hashes": {
+    "ocr": "906be19537644b1f",
+    "translation": "c41c344170553be1"
+  }
+}

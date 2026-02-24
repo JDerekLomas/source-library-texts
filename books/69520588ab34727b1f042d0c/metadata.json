@@ -1,0 +1,28 @@
+{
+  "id": "69520588ab34727b1f042d0c",
+  "title": "De gli eroici furori",
+  "display_title": "Of Heroic Frenzies",
+  "author": "Giordano Bruno",
+  "language": "Italian",
+  "year": 1585,
+  "published": "1585",
+  "pages_count": 294,
+  "pages_with_ocr": 294,
+  "pages_with_translation": 294,
+  "source_url": "https://sourcelibrary.org/book/69520588ab34727b1f042d0c",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "gallica": "bpt6k8706241s"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:26:45.880Z",
+  "_hashes": {
+    "ocr": "0cd540e0385e6218",
+    "translation": "35c84180cfc7c261"
+  }
+}

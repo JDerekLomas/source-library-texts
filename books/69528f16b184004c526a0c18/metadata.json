@@ -1,0 +1,28 @@
+{
+  "id": "69528f16b184004c526a0c18",
+  "title": "De mulieribus claris (1506 Venice edition)",
+  "display_title": "De mulieribus claris (1506 Venice edition)",
+  "author": "Giovanni Boccaccio",
+  "language": "Latin",
+  "year": 1506,
+  "published": "1506",
+  "pages_count": 320,
+  "pages_with_ocr": 320,
+  "pages_with_translation": 320,
+  "source_url": "https://sourcelibrary.org/book/69528f16b184004c526a0c18",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "gpl_6155642"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:26:26.951Z",
+  "_hashes": {
+    "ocr": "1356083f2c6a179b",
+    "translation": "cfd5fe54c832abc1"
+  }
+}

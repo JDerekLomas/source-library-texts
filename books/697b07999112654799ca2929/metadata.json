@@ -1,0 +1,26 @@
+{
+  "id": "697b07999112654799ca2929",
+  "title": "Essai sur les accusations intentées aux Templiers",
+  "display_title": "Essai sur les accusations intentées aux Templiers",
+  "author": "Nicolai, Friedrich",
+  "language": "French",
+  "year": 1783,
+  "published": "1783",
+  "pages_count": 284,
+  "pages_with_ocr": 284,
+  "pages_with_translation": 5,
+  "source_url": "https://sourcelibrary.org/book/697b07999112654799ca2929",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:26:51.248Z",
+  "_hashes": {
+    "ocr": "eaafb130090c1b35",
+    "translation": "24f97e548cf08e31"
+  }
+}

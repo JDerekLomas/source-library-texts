@@ -1,0 +1,26 @@
+{
+  "id": "697a8014e680cef7cedae395",
+  "title": "Dissertatio politico-iuridica, de majestate in genere",
+  "display_title": "Dissertatio politico-iuridica, de majestate in genere",
+  "author": "Besold, Christoph",
+  "language": "Latin",
+  "year": 1625,
+  "published": "1625",
+  "pages_count": 276,
+  "pages_with_ocr": 276,
+  "pages_with_translation": 9,
+  "source_url": "https://sourcelibrary.org/book/697a8014e680cef7cedae395",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:26:56.316Z",
+  "_hashes": {
+    "ocr": "8328d35c4420b13d",
+    "translation": "240d8ff471448ea6"
+  }
+}

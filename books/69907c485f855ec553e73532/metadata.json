@@ -1,0 +1,28 @@
+{
+  "id": "69907c485f855ec553e73532",
+  "title": "Siddhanta Sarvabhauma Uttarardha",
+  "display_title": "Siddhanta Sarvabhauma (Part 2)",
+  "author": "Munisvara",
+  "language": "Sanskrit",
+  "year": 1800,
+  "published": "1800",
+  "pages_count": 302,
+  "pages_with_ocr": 302,
+  "pages_with_translation": 242,
+  "source_url": "https://sourcelibrary.org/book/69907c485f855ec553e73532",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "SiddhantaSarvabhaumashayaHUttarardhaShriMunisvara2856GhaAlm13Shlf1DevanagariJyotish"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:26:42.224Z",
+  "_hashes": {
+    "ocr": "22bbefa91e84b184",
+    "translation": "c8853a8b43d97f45"
+  }
+}

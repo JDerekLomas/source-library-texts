@@ -1,0 +1,28 @@
+{
+  "id": "69527313ab34727b1f048b15",
+  "title": "Opera Latine Conscripta",
+  "display_title": "Jordani Bruni Nolani Opera Latine Conscripta",
+  "author": "Giordano Bruno",
+  "language": "Latin",
+  "year": 1886,
+  "published": "1886",
+  "pages_count": 273,
+  "pages_with_ocr": 273,
+  "pages_with_translation": 273,
+  "source_url": "https://sourcelibrary.org/book/69527313ab34727b1f048b15",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "jordanibruninol06brungoog"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:26:57.037Z",
+  "_hashes": {
+    "ocr": "02c96b96701537f7",
+    "translation": "f29f59e7d39ad95a"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "69906d8764d44bd0a0ef5b19",
+  "title": "Muhurta Chintamani Tika (Vaidyanath 1871)",
+  "display_title": "Muhurta Chintamani Tika (Vaidyanath 1871)",
+  "author": "Vaidyanath",
+  "language": "Sanskrit",
+  "year": 1871,
+  "published": "Unknown",
+  "pages_count": 310,
+  "pages_with_ocr": 310,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/69906d8764d44bd0a0ef5b19",
+  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "jgny_muhurta-chintamani-tika-by-vaidyanath-1871-kriti-kant-manuscript-collection"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:26:36.957Z",
+  "_hashes": {
+    "ocr": "05ab120633f263a4",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

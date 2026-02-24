@@ -1,0 +1,26 @@
+{
+  "id": "690c4d40e0787282ad59401f",
+  "title": "Medulla animae, das ist, von Vollkommenheit aller Tugenden",
+  "display_title": "The Marrow of the Soul, that is, of the Perfection of all Virtues",
+  "author": "Tauler, Johannes",
+  "language": "German",
+  "year": 1672,
+  "published": "1672",
+  "pages_count": 307,
+  "pages_with_ocr": 307,
+  "pages_with_translation": 307,
+  "source_url": "https://sourcelibrary.org/book/690c4d40e0787282ad59401f",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:26:38.720Z",
+  "_hashes": {
+    "ocr": "bd55f5f1d46714d5",
+    "translation": "2fa0f29c1b5740ca"
+  }
+}

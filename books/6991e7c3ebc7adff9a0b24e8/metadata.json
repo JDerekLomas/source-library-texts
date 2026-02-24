@@ -1,0 +1,28 @@
+{
+  "id": "6991e7c3ebc7adff9a0b24e8",
+  "title": "Les Manuscrits de Leonardo da Vinci, Vol. I (Manuscript A)",
+  "display_title": "Les Manuscrits de Leonardo da Vinci, Vol. I (Manuscript A)",
+  "author": "Leonardo da Vinci",
+  "language": "French",
+  "year": 1881,
+  "published": "Unknown",
+  "pages_count": 320,
+  "pages_with_ocr": 319,
+  "pages_with_translation": 256,
+  "source_url": "https://sourcelibrary.org/book/6991e7c3ebc7adff9a0b24e8",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "lesmanuscritsdel01lo"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:26:28.408Z",
+  "_hashes": {
+    "ocr": "46b5cb72527a8189",
+    "translation": "716d2d02a6bdbe84"
+  }
+}

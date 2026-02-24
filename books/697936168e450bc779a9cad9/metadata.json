@@ -1,0 +1,26 @@
+{
+  "id": "697936168e450bc779a9cad9",
+  "title": "A collection of several philosophical writings",
+  "display_title": "A collection of several philosophical writings",
+  "author": "More, Henry",
+  "language": "English",
+  "year": 1662,
+  "published": "1662",
+  "pages_count": 318,
+  "pages_with_ocr": 317,
+  "pages_with_translation": 4,
+  "source_url": "https://sourcelibrary.org/book/697936168e450bc779a9cad9",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:26:30.589Z",
+  "_hashes": {
+    "ocr": "e14313b245efbb43",
+    "translation": "d938a64ec9cb0d65"
+  }
+}

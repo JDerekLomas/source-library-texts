@@ -1,0 +1,28 @@
+{
+  "id": "69528702ab34727b1f04cf65",
+  "title": "Der Weg zu Christo",
+  "display_title": "Der Weg zu Christo",
+  "author": "Jakob Böhme",
+  "language": "German",
+  "year": 1635,
+  "published": "1635",
+  "pages_count": 279,
+  "pages_with_ocr": 279,
+  "pages_with_translation": 279,
+  "source_url": "https://sourcelibrary.org/book/69528702ab34727b1f04cf65",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "10260436bsb"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:26:53.317Z",
+  "_hashes": {
+    "ocr": "b60084463c54deda",
+    "translation": "f80db2f0b91365ad"
+  }
+}

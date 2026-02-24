@@ -1,0 +1,28 @@
+{
+  "id": "699060198cbcc9a4dba2c10a",
+  "title": "Saravali",
+  "display_title": "Saravali",
+  "author": "Kalyana Varma",
+  "language": "Sanskrit",
+  "year": 850,
+  "published": "Unknown",
+  "pages_count": 270,
+  "pages_with_ocr": 270,
+  "pages_with_translation": 270,
+  "source_url": "https://sourcelibrary.org/book/699060198cbcc9a4dba2c10a",
+  "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "SaravaliKalyanVerma834GhaAlm4Shlf4DevanagariJyothisha"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:26:58.444Z",
+  "_hashes": {
+    "ocr": "bdbd5a8180fc5834",
+    "translation": "fd479c4a41a5cd9c"
+  }
+}

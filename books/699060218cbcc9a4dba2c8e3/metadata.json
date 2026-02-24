@@ -1,0 +1,28 @@
+{
+  "id": "699060218cbcc9a4dba2c8e3",
+  "title": "Tajika Nilakanthi",
+  "display_title": "Tajika Nilakanthi",
+  "author": "Nilakantha",
+  "language": "Sanskrit",
+  "year": 1587,
+  "published": "Unknown",
+  "pages_count": 288,
+  "pages_with_ocr": 288,
+  "pages_with_translation": 288,
+  "source_url": "https://sourcelibrary.org/book/699060218cbcc9a4dba2c8e3",
+  "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "tajika_nilakanthi"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:26:48.617Z",
+  "_hashes": {
+    "ocr": "9bc71155d2c0ec29",
+    "translation": "3fd20b04ffa1dbe9"
+  }
+}

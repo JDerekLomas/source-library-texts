@@ -1,0 +1,28 @@
+{
+  "id": "695258d1ab34727b1f045aed",
+  "title": "Magia naturalis sive de miraculis rerum naturalium",
+  "display_title": "Natural Magic, or On the Miracles of Natural Things",
+  "author": "Giambattista della Porta",
+  "language": "Latin",
+  "year": 1560,
+  "published": "1560",
+  "pages_count": 321,
+  "pages_with_ocr": 321,
+  "pages_with_translation": 317,
+  "source_url": "https://sourcelibrary.org/book/695258d1ab34727b1f045aed",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "B-001-003-709"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:26:25.513Z",
+  "_hashes": {
+    "ocr": "21a43d8789d24c1b",
+    "translation": "2b7e6cb7161f9ce8"
+  }
+}

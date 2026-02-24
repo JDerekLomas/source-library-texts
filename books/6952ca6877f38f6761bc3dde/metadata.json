@@ -1,0 +1,28 @@
+{
+  "id": "6952ca6877f38f6761bc3dde",
+  "title": "In primum Euclidis elementorum librum commentaria",
+  "display_title": "Commentary on Euclid Book I",
+  "author": "Proclus",
+  "language": "Latin",
+  "year": 1560,
+  "published": "1560",
+  "pages_count": 314,
+  "pages_with_ocr": 314,
+  "pages_with_translation": 314,
+  "source_url": "https://sourcelibrary.org/book/6952ca6877f38f6761bc3dde",
+  "license": "https://rightsstatements.org/vocab/NoC-NC/1.0/",
+  "doi": null,
+  "external_ids": {
+    "mdz": "bsb10139882"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": null,
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:26:31.869Z",
+  "_hashes": {
+    "ocr": "0d93e2cf3aac42ef",
+    "translation": "08cc3e29bd898488"
+  }
+}

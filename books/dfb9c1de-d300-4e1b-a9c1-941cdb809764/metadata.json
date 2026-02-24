@@ -1,0 +1,28 @@
+{
+  "id": "dfb9c1de-d300-4e1b-a9c1-941cdb809764",
+  "title": "Ars Magna Generalis",
+  "display_title": "Llull: Ars Magna Generalis (1517)",
+  "author": "Ramon Llull; ed. Bernardus la Vinheta",
+  "language": "Latin",
+  "year": 1517,
+  "published": "1517",
+  "pages_count": 286,
+  "pages_with_ocr": 286,
+  "pages_with_translation": 286,
+  "source_url": "https://sourcelibrary.org/book/dfb9c1de-d300-4e1b-a9c1-941cdb809764",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bub_gb_rG_yINh8V1gC"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:26:49.670Z",
+  "_hashes": {
+    "ocr": "c8b130ee065be8a3",
+    "translation": "6236bde919ae24f4"
+  }
+}

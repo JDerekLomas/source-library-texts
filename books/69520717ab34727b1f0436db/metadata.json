@@ -1,0 +1,28 @@
+{
+  "id": "69520717ab34727b1f0436db",
+  "title": "De incertitudine et vanitate scientiarum et artium",
+  "display_title": "On the Uncertainty and Vanity of the Sciences and Arts",
+  "author": "Heinrich Cornelius Agrippa",
+  "language": "Latin",
+  "year": 1531,
+  "published": "1531",
+  "pages_count": 312,
+  "pages_with_ocr": 312,
+  "pages_with_translation": 312,
+  "source_url": "https://sourcelibrary.org/book/69520717ab34727b1f0436db",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "gallica": "bpt6k52599r"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:26:34.205Z",
+  "_hashes": {
+    "ocr": "de614b5503c37471",
+    "translation": "6b98dd3a47bb4bd0"
+  }
+}

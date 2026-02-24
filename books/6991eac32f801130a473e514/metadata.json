@@ -1,0 +1,28 @@
+{
+  "id": "6991eac32f801130a473e514",
+  "title": "Del moto e misura dell'acqua",
+  "display_title": "Del moto e misura dell'acqua",
+  "author": "Leonardo da Vinci",
+  "language": "Italian",
+  "year": 1923,
+  "published": "Unknown",
+  "pages_count": 304,
+  "pages_with_ocr": 304,
+  "pages_with_translation": 304,
+  "source_url": "https://sourcelibrary.org/book/6991eac32f801130a473e514",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "delmotoemisurad00leongoog"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:26:39.724Z",
+  "_hashes": {
+    "ocr": "beabe9864d80f1e6",
+    "translation": "c07b9bbd70a32f78"
+  }
+}

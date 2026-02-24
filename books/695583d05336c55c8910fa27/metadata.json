@@ -1,0 +1,28 @@
+{
+  "id": "695583d05336c55c8910fa27",
+  "title": "The Dean of Lismore Book (16th c. Gaelic Poetry Manuscript)",
+  "display_title": "The Dean of Lismore Book (16th c. Gaelic Poetry Manuscript)",
+  "author": "James MacGregor / Thomas Maclauchlan / W.F. Skene",
+  "language": "Irish/English",
+  "year": 1862,
+  "published": "Unknown",
+  "pages_count": 476,
+  "pages_with_ocr": 310,
+  "pages_with_translation": 310,
+  "source_url": "https://sourcelibrary.org/book/695583d05336c55c8910fa27",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "deanoflismoresbo00macluoft"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:26:35.992Z",
+  "_hashes": {
+    "ocr": "c9b1a2b898197ba2",
+    "translation": "126ca74063a963eb"
+  }
+}

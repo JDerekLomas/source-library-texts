@@ -1,0 +1,28 @@
+{
+  "id": "69907ceb5f855ec553e7801f",
+  "title": "Pati Ganita with Tika of Sridharacharya",
+  "display_title": "Pati Ganita (Sridharacharya)",
+  "author": "Sridharacharya",
+  "language": "Sanskrit",
+  "year": 1800,
+  "published": "1800",
+  "pages_count": 311,
+  "pages_with_ocr": 311,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/69907ceb5f855ec553e7801f",
+  "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "PatiiGanitaWithTikaSridharacharya3074GhaAlm14Shlf1DevanagariJyotish"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:26:34.460Z",
+  "_hashes": {
+    "ocr": "76ec2e2c16fe6c25",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

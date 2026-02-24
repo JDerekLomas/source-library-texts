@@ -1,0 +1,28 @@
+{
+  "id": "6953a8b277f38f6761bd365c",
+  "title": "Codex Sinaiticus (Tischendorf Facsimile)",
+  "display_title": "Codex Sinaiticus (Tischendorf Facsimile)",
+  "author": "Constantin von Tischendorf",
+  "language": "Greek",
+  "year": 1860,
+  "published": "1860",
+  "pages_count": 295,
+  "pages_with_ocr": 294,
+  "pages_with_translation": 294,
+  "source_url": "https://sourcelibrary.org/book/6953a8b277f38f6761bd365c",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "codexsinaiticus_201907"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:26:45.355Z",
+  "_hashes": {
+    "ocr": "9b7fb9fe4096a587",
+    "translation": "4ad128a817f8a751"
+  }
+}

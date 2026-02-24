@@ -1,0 +1,26 @@
+{
+  "id": "6974b649457dd8909910b9fd",
+  "title": "Arte del ben pensare e contemplare la Passione",
+  "display_title": "Arte del ben pensare e contemplare la Passione",
+  "author": "[Pietro da Lucca]",
+  "language": "Italian",
+  "year": 1527,
+  "published": "1527",
+  "pages_count": 280,
+  "pages_with_ocr": 280,
+  "pages_with_translation": 213,
+  "source_url": "https://sourcelibrary.org/book/6974b649457dd8909910b9fd",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:26:53.081Z",
+  "_hashes": {
+    "ocr": "fe25e614de7c3b8a",
+    "translation": "dee136956691723a"
+  }
+}

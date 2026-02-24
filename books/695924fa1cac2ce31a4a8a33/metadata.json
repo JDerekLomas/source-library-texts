@@ -1,0 +1,28 @@
+{
+  "id": "695924fa1cac2ce31a4a8a33",
+  "title": "道藏 (Daozang - Taoist Canon)",
+  "display_title": "道藏 (Daozang - Taoist Canon)",
+  "author": "Various Taoist Masters",
+  "language": "Chinese",
+  "year": 1445,
+  "published": "1445",
+  "pages_count": 311,
+  "pages_with_ocr": 311,
+  "pages_with_translation": 311,
+  "source_url": "https://sourcelibrary.org/book/695924fa1cac2ce31a4a8a33",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "daozang_202302"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": null,
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:26:35.244Z",
+  "_hashes": {
+    "ocr": "f8740d5867436925",
+    "translation": "628a26b8878b2357"
+  }
+}

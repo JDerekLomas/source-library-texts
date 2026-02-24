@@ -1,0 +1,28 @@
+{
+  "id": "6964ce464a0a952bda4caf91",
+  "title": "De consolatione philosophiae",
+  "display_title": "The Consolation of Philosophy",
+  "author": "Boethius",
+  "language": "Latin",
+  "year": 1501,
+  "published": "1501",
+  "pages_count": 294,
+  "pages_with_ocr": 294,
+  "pages_with_translation": 207,
+  "source_url": "https://sourcelibrary.org/book/6964ce464a0a952bda4caf91",
+  "license": null,
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "b24862617"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": null,
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:26:45.536Z",
+  "_hashes": {
+    "ocr": "e678e6e720609786",
+    "translation": "95ca5611c453b1f0"
+  }
+}

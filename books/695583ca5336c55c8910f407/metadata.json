@@ -1,0 +1,28 @@
+{
+  "id": "695583ca5336c55c8910f407",
+  "title": "Silva Gadelica: A Collection of Tales in Irish Vol. II (English)",
+  "display_title": "Silva Gadelica: A Collection of Tales in Irish Vol. II (English)",
+  "author": "Standish Hayes O Grady",
+  "language": "English",
+  "year": 1892,
+  "published": "Unknown",
+  "pages_count": 648,
+  "pages_with_ocr": 310,
+  "pages_with_translation": 199,
+  "source_url": "https://sourcelibrary.org/book/695583ca5336c55c8910f407",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "silvagadelicaixx02ogra"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:26:35.649Z",
+  "_hashes": {
+    "ocr": "b0ec6a94efc5a0fc",
+    "translation": "bdd190beebc7d97a"
+  }
+}
