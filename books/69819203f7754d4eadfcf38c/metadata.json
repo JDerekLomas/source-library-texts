@@ -1,0 +1,26 @@
+{
+  "id": "69819203f7754d4eadfcf38c",
+  "title": "The life of the great Picus prince of Mirandula",
+  "display_title": "The life of the great Picus prince of Mirandula",
+  "author": "More, Thomas",
+  "language": "English",
+  "year": 1720,
+  "published": "1720",
+  "pages_count": 102,
+  "pages_with_ocr": 100,
+  "pages_with_translation": 73,
+  "source_url": "https://sourcelibrary.org/book/69819203f7754d4eadfcf38c",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:45.852Z",
+  "_hashes": {
+    "ocr": "d44aa5e4a91f167e",
+    "translation": "6b315b2745bea895"
+  }
+}

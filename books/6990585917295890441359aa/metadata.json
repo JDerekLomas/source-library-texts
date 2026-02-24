@@ -1,0 +1,28 @@
+{
+  "id": "6990585917295890441359aa",
+  "title": "Tentamen novae theoriae musicae",
+  "display_title": "Tentamen novae theoriae musicae",
+  "author": "Leonhard Euler",
+  "language": "Latin",
+  "year": 1739,
+  "published": "Unknown",
+  "pages_count": 312,
+  "pages_with_ocr": 100,
+  "pages_with_translation": 93,
+  "source_url": "https://sourcelibrary.org/book/6990585917295890441359aa",
+  "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bub_gb_aekmN1V98GcC"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:44.783Z",
+  "_hashes": {
+    "ocr": "0b88630fdaeb2ca5",
+    "translation": "4876dda45bb3845c"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "699052328d19cbc90d9d55f6",
+  "title": "Formicarius",
+  "display_title": "Formicarius",
+  "author": "Johannes Nider",
+  "language": "Latin",
+  "year": 1475,
+  "published": "Unknown",
+  "pages_count": 471,
+  "pages_with_ocr": 100,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/699052328d19cbc90d9d55f6",
+  "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bub_gb_Wc9WEqgqjZQC"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:28:42.157Z",
+  "_hashes": {
+    "ocr": "24f9befa18393451",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

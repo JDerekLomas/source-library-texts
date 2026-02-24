@@ -1,0 +1,28 @@
+{
+  "id": "6991d6808c1030b12444b7d8",
+  "title": "The Spirit of Prayer, Part I",
+  "display_title": "The Spirit of Prayer, Part I",
+  "author": "William Law",
+  "language": "English",
+  "year": 1749,
+  "published": "Unknown",
+  "pages_count": 102,
+  "pages_with_ocr": 100,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/6991d6808c1030b12444b7d8",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bim_eighteenth-century_the-spirit-of-prayer-or_law-william_1749"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:28:47.980Z",
+  "_hashes": {
+    "ocr": "c9b590d57b29dbb7",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

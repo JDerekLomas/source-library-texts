@@ -1,0 +1,26 @@
+{
+  "id": "6988a5a24dc12b4588052a2c",
+  "title": "Sanctorum, et martyrum Christi icones ... Der Heiligen ... Bildnussen",
+  "display_title": "Sanctorum, et martyrum Christi icones ... Der Heiligen ... Bildnussen",
+  "author": "Unknown",
+  "language": "Latin-German",
+  "year": 1558,
+  "published": "1558",
+  "pages_count": 111,
+  "pages_with_ocr": 100,
+  "pages_with_translation": 5,
+  "source_url": "https://sourcelibrary.org/book/6988a5a24dc12b4588052a2c",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:42.508Z",
+  "_hashes": {
+    "ocr": "1990ab5cd723b14f",
+    "translation": "417f25f834e40199"
+  }
+}

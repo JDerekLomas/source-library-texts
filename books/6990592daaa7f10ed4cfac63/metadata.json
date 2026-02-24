@@ -1,0 +1,28 @@
+{
+  "id": "6990592daaa7f10ed4cfac63",
+  "title": "Philosophiae naturalis theoria redacta ad unicam legem virium in natura existentium",
+  "display_title": "Philosophiae naturalis theoria redacta ad unicam legem virium in natura existentium",
+  "author": "Ruggero Giuseppe Boscovich",
+  "language": "Latin",
+  "year": 1758,
+  "published": "Unknown",
+  "pages_count": 384,
+  "pages_with_ocr": 100,
+  "pages_with_translation": 95,
+  "source_url": "https://sourcelibrary.org/book/6990592daaa7f10ed4cfac63",
+  "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bub_gb_4jaq51Vt7oIC"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:40.105Z",
+  "_hashes": {
+    "ocr": "a66648dc60ab488e",
+    "translation": "c827a605ef42808b"
+  }
+}

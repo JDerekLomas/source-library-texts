@@ -1,0 +1,26 @@
+{
+  "id": "6988a59f4faa6559b7ce93ab",
+  "title": "Sehr geheim gehaltene, und nunmehro frey entdeckte experimentirte Kunst-Stücke",
+  "display_title": "Sehr geheim gehaltene, und nunmehro frey entdeckte experimentirte Kunst-Stücke",
+  "author": "[Jugel, Johann Gottfried]",
+  "language": "German",
+  "year": 1755,
+  "published": "1755",
+  "pages_count": 286,
+  "pages_with_ocr": 100,
+  "pages_with_translation": 91,
+  "source_url": "https://sourcelibrary.org/book/6988a59f4faa6559b7ce93ab",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:47.211Z",
+  "_hashes": {
+    "ocr": "7ef53df3c7215cdb",
+    "translation": "5978a3bea0d1b629"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "6988a5a2697c2f799c5c6c1d",
+  "title": "Saturn, Mercur, und Hercules, drey morgenländische Allegorien",
+  "display_title": "Saturn, Mercur, und Hercules, drey morgenländische Allegorien",
+  "author": "Court de Gébelin, Antoine",
+  "language": "German",
+  "year": 1789,
+  "published": "1789",
+  "pages_count": 554,
+  "pages_with_ocr": 100,
+  "pages_with_translation": 93,
+  "source_url": "https://sourcelibrary.org/book/6988a5a2697c2f799c5c6c1d",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:38.105Z",
+  "_hashes": {
+    "ocr": "e4d96cec7ba6d6cd",
+    "translation": "5c891aab00821f67"
+  }
+}

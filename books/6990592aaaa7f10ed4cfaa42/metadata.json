@@ -1,0 +1,28 @@
+{
+  "id": "6990592aaaa7f10ed4cfaa42",
+  "title": "Procli Diadochi In Platonis Timaeum commentaria, vol. II",
+  "display_title": "Procli Diadochi In Platonis Timaeum commentaria, vol. II",
+  "author": "Proclus (ed. Ernst Diehl)",
+  "language": "Greek",
+  "year": 1904,
+  "published": "Unknown",
+  "pages_count": 543,
+  "pages_with_ocr": 100,
+  "pages_with_translation": 96,
+  "source_url": "https://sourcelibrary.org/book/6990592aaaa7f10ed4cfaa42",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "proclidiadochii04procgoog"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:39.915Z",
+  "_hashes": {
+    "ocr": "9b1d2e8af82fbd9e",
+    "translation": "6a466acd57a36330"
+  }
+}

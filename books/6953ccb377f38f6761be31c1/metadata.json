@@ -1,0 +1,28 @@
+{
+  "id": "6953ccb377f38f6761be31c1",
+  "title": "Voynich Manuscript - High Resolution Scans",
+  "display_title": "Voynich Manuscript - High Resolution Scans",
+  "author": "Beinecke Library, Yale University",
+  "language": "English",
+  "year": null,
+  "published": "Unknown",
+  "pages_count": 100,
+  "pages_with_ocr": 100,
+  "pages_with_translation": 100,
+  "source_url": "https://sourcelibrary.org/book/6953ccb377f38f6761be31c1",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "voynich"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:37.293Z",
+  "_hashes": {
+    "ocr": "4ee304d0db6bae2b",
+    "translation": "6d67ebad4551d2e3"
+  }
+}

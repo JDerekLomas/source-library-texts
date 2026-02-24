@@ -1,0 +1,28 @@
+{
+  "id": "698fb7926b95eeda7d2d3406",
+  "title": "Versuch die Metamorphose der Pflanzen zu erklären",
+  "display_title": "Versuch die Metamorphose der Pflanzen zu erklären",
+  "author": "Johann Wolfgang von Goethe",
+  "language": "German",
+  "year": 1790,
+  "published": "1790",
+  "pages_count": 100,
+  "pages_with_ocr": 100,
+  "pages_with_translation": 94,
+  "source_url": "https://sourcelibrary.org/book/698fb7926b95eeda7d2d3406",
+  "license": "https://rightsstatements.org/vocab/NoC-NC/1.0/",
+  "doi": null,
+  "external_ids": {
+    "mdz": "bsb10858620"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:38.757Z",
+  "_hashes": {
+    "ocr": "615bf59ebddbe617",
+    "translation": "ee29683bb2a48e18"
+  }
+}

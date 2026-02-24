@@ -1,0 +1,28 @@
+{
+  "id": "69904dd67d19f3f2aac1d49d",
+  "title": "Utriusque Cosmi Historia",
+  "display_title": "Utriusque Cosmi Historia (1617)",
+  "author": "Robert Fludd",
+  "language": "Latin",
+  "year": 1617,
+  "published": "Unknown",
+  "pages_count": 220,
+  "pages_with_ocr": 100,
+  "pages_with_translation": 94,
+  "source_url": "https://sourcelibrary.org/book/69904dd67d19f3f2aac1d49d",
+  "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bub_gb_HNrzHpA-ADEC"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:37.934Z",
+  "_hashes": {
+    "ocr": "001ad6f434169d9d",
+    "translation": "0a6915a0db1f7333"
+  }
+}

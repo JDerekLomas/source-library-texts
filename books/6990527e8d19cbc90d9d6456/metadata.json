@@ -1,0 +1,28 @@
+{
+  "id": "6990527e8d19cbc90d9d6456",
+  "title": "De Perenni Philosophia libri X",
+  "display_title": "On the Perennial Philosophy",
+  "author": "Agostino Steuco",
+  "language": "Latin",
+  "year": 1540,
+  "published": "Unknown",
+  "pages_count": 625,
+  "pages_with_ocr": 100,
+  "pages_with_translation": 99,
+  "source_url": "https://sourcelibrary.org/book/6990527e8d19cbc90d9d6456",
+  "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bub_gb_LYyfsDlH2tcC"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:43.427Z",
+  "_hashes": {
+    "ocr": "3385c3dff8439be6",
+    "translation": "296d3485572cb560"
+  }
+}

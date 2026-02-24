@@ -1,0 +1,26 @@
+{
+  "id": "6970e3559b09d309d780a244",
+  "title": "De l'admirable pouvoir et puissance de l'art",
+  "display_title": "De l'admirable pouvoir et puissance de l'art",
+  "author": "Bacon, Roger",
+  "language": "French",
+  "year": 1557,
+  "published": "1557",
+  "pages_count": 100,
+  "pages_with_ocr": 100,
+  "pages_with_translation": 100,
+  "source_url": "https://sourcelibrary.org/book/6970e3559b09d309d780a244",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:48.267Z",
+  "_hashes": {
+    "ocr": "8a4544b0a19b712f",
+    "translation": "33227f0aa43f2703"
+  }
+}

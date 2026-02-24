@@ -1,0 +1,26 @@
+{
+  "id": "6988a5a163409d3be003e1ca",
+  "title": "The remainder of books. Englished by John Sparrow",
+  "display_title": "The remainder of books. Englished by John Sparrow",
+  "author": "Böhme, Jacob",
+  "language": "English",
+  "year": 1662,
+  "published": "1662",
+  "pages_count": 550,
+  "pages_with_ocr": 100,
+  "pages_with_translation": 93,
+  "source_url": "https://sourcelibrary.org/book/6988a5a163409d3be003e1ca",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:37.194Z",
+  "_hashes": {
+    "ocr": "eea60c4568963d09",
+    "translation": "4ea1296ef029950c"
+  }
+}

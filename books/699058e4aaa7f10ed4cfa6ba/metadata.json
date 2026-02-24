@@ -1,0 +1,28 @@
+{
+  "id": "699058e4aaa7f10ed4cfa6ba",
+  "title": "De Musica libri tres",
+  "display_title": "De Musica libri tres",
+  "author": "Aristides Quintilianus",
+  "language": "Greek",
+  "year": 1652,
+  "published": "Unknown",
+  "pages_count": 183,
+  "pages_with_ocr": 100,
+  "pages_with_translation": 90,
+  "source_url": "https://sourcelibrary.org/book/699058e4aaa7f10ed4cfa6ba",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "demusicanuncpri00quingoog"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:40.949Z",
+  "_hashes": {
+    "ocr": "f8474d598ee1bd70",
+    "translation": "a6a951b91fd1003a"
+  }
+}

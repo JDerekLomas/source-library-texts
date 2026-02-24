@@ -1,0 +1,28 @@
+{
+  "id": "6955742ef63a757109173030",
+  "title": "Musici Scriptores Graeci",
+  "display_title": "Musici Scriptores Graeci",
+  "author": "Karl von Jan (ed.); Aristotle; Euclid; Nicomachus; Cleonides; Bacchius; Gaudentius; Alypius",
+  "language": "Greek",
+  "year": 1895,
+  "published": "1895",
+  "pages_count": 618,
+  "pages_with_ocr": 100,
+  "pages_with_translation": 100,
+  "source_url": "https://sourcelibrary.org/book/6955742ef63a757109173030",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "musiciscriptoresjank"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:46.857Z",
+  "_hashes": {
+    "ocr": "7ce7e8a02df60987",
+    "translation": "906e018991e45ff9"
+  }
+}

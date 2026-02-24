@@ -1,0 +1,28 @@
+{
+  "id": "6992cdfe00f13b15f3ca3b1f",
+  "title": "本草綱目拾遺(一)",
+  "display_title": "本草綱目拾遺(一)",
+  "author": "趙學敏",
+  "language": "Chinese",
+  "year": 1765,
+  "published": "1765",
+  "pages_count": 99,
+  "pages_with_ocr": 99,
+  "pages_with_translation": 80,
+  "source_url": "https://sourcelibrary.org/book/6992cdfe00f13b15f3ca3b1f",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "02093038.cn"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:51.232Z",
+  "_hashes": {
+    "ocr": "57d9a28c0218e51b",
+    "translation": "61a70e6aefe2c73a"
+  }
+}

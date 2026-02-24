@@ -1,0 +1,28 @@
+{
+  "id": "6990595eaaa7f10ed4cfade7",
+  "title": "Tertium Organum: The Third Canon of Thought",
+  "display_title": "Tertium Organum: The Third Canon of Thought",
+  "author": "P.D. Ouspensky",
+  "language": "English",
+  "year": 1912,
+  "published": "Unknown",
+  "pages_count": 364,
+  "pages_with_ocr": 100,
+  "pages_with_translation": 93,
+  "source_url": "https://sourcelibrary.org/book/6990595eaaa7f10ed4cfade7",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "tertiumorganumth0000pdou_o0p8"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:40.258Z",
+  "_hashes": {
+    "ocr": "4009f1153ff76795",
+    "translation": "9385865e756f588a"
+  }
+}

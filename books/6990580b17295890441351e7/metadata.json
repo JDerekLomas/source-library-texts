@@ -1,0 +1,28 @@
+{
+  "id": "6990580b17295890441351e7",
+  "title": "Die Akustik",
+  "display_title": "Die Akustik",
+  "author": "Ernst Florens Friedrich Chladni",
+  "language": "German",
+  "year": 1802,
+  "published": "Unknown",
+  "pages_count": 381,
+  "pages_with_ocr": 100,
+  "pages_with_translation": 95,
+  "source_url": "https://sourcelibrary.org/book/6990580b17295890441351e7",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "10908814bsb"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:44.255Z",
+  "_hashes": {
+    "ocr": "d8161d648b865ac0",
+    "translation": "7a33ec4c7f645521"
+  }
+}

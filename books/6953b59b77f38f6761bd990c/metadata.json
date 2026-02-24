@@ -1,0 +1,26 @@
+{
+  "id": "6953b59b77f38f6761bd990c",
+  "title": "Book of Curiosities (Kitab Gharaib al-funun)",
+  "display_title": "Bodleian Library MS. Arab. c. 90",
+  "author": "Anonymous (Egypt)",
+  "language": "Arabic",
+  "year": 1020,
+  "published": "12th-13th century (copy of 1020-1050 original)",
+  "pages_count": 99,
+  "pages_with_ocr": 99,
+  "pages_with_translation": 99,
+  "source_url": "https://sourcelibrary.org/book/6953b59b77f38f6761bd990c",
+  "license": "CC-BY-NC-4.0",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:49.082Z",
+  "_hashes": {
+    "ocr": "5e0890bf1eec5bd5",
+    "translation": "273d0e841954c512"
+  }
+}

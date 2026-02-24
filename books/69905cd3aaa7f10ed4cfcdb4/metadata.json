@@ -1,0 +1,28 @@
+{
+  "id": "69905cd3aaa7f10ed4cfcdb4",
+  "title": "Philosophie spiritualiste. Le Livre des Esprits: contenant les principes de la doctrine spirite",
+  "display_title": "Le Livre des Esprits",
+  "author": "Allan Kardec",
+  "language": "French",
+  "year": 1857,
+  "published": "Unknown",
+  "pages_count": 527,
+  "pages_with_ocr": 99,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/69905cd3aaa7f10ed4cfcdb4",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "philosophiespir00kardgoog"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:28:50.522Z",
+  "_hashes": {
+    "ocr": "9c58080442a119ea",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

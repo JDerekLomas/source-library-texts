@@ -1,0 +1,28 @@
+{
+  "id": "69905e3c2fd6a039938a1980",
+  "title": "Introductorium in Astronomiam",
+  "display_title": "Introductorium in Astronomiam",
+  "author": "Abu Ma'shar (Albumasar)",
+  "language": "Arabic",
+  "year": 1489,
+  "published": "Unknown",
+  "pages_count": 142,
+  "pages_with_ocr": 100,
+  "pages_with_translation": 92,
+  "source_url": "https://sourcelibrary.org/book/69905e3c2fd6a039938a1980",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "gpl_1792861"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:41.631Z",
+  "_hashes": {
+    "ocr": "7a8d76674afd7655",
+    "translation": "7541593c9cb85f5d"
+  }
+}

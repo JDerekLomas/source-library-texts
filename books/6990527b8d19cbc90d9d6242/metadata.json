@@ -1,0 +1,28 @@
+{
+  "id": "6990527b8d19cbc90d9d6242",
+  "title": "Opus Majus ad Clementem Quartum",
+  "display_title": "Opus Majus",
+  "author": "Roger Bacon",
+  "language": "Latin",
+  "year": 1733,
+  "published": "Unknown",
+  "pages_count": 530,
+  "pages_with_ocr": 100,
+  "pages_with_translation": 95,
+  "source_url": "https://sourcelibrary.org/book/6990527b8d19cbc90d9d6242",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "b30452028"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:43.176Z",
+  "_hashes": {
+    "ocr": "ffb328cab5794774",
+    "translation": "1140bd29ef8c2b65"
+  }
+}

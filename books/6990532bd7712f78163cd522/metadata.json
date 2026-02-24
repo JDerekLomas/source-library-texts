@@ -1,0 +1,28 @@
+{
+  "id": "6990532bd7712f78163cd522",
+  "title": "Tetrabiblos syntaxis (Quadripartitum)",
+  "display_title": "Tetrabiblos",
+  "author": "Claudius Ptolemy",
+  "language": "Greek",
+  "year": 1484,
+  "published": "Unknown",
+  "pages_count": 272,
+  "pages_with_ocr": 100,
+  "pages_with_translation": 96,
+  "source_url": "https://sourcelibrary.org/book/6990532bd7712f78163cd522",
+  "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "ARes43420"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:43.620Z",
+  "_hashes": {
+    "ocr": "1493bc46a16a2db2",
+    "translation": "8003cab4a8dbdcc9"
+  }
+}

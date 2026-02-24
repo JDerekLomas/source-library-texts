@@ -1,0 +1,28 @@
+{
+  "id": "6959109eecb01322b3067e4b",
+  "title": "Flora Japonica",
+  "display_title": "Flora Japonica",
+  "author": "Carl Peter Thunberg",
+  "language": "Latin",
+  "year": 1784,
+  "published": "1784",
+  "pages_count": 100,
+  "pages_with_ocr": 100,
+  "pages_with_translation": 100,
+  "source_url": "https://sourcelibrary.org/book/6959109eecb01322b3067e4b",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "mobot31753002702162"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:45.335Z",
+  "_hashes": {
+    "ocr": "3b841dff0360dfb6",
+    "translation": "2fe3d24461d225a3"
+  }
+}

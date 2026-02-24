@@ -1,0 +1,28 @@
+{
+  "id": "695593007bd6d2cd1d61b928",
+  "title": "Thomas Vaughan Anthroposophia Theomagica (1650)",
+  "display_title": "Thomas Vaughan Anthroposophia Theomagica (1650)",
+  "author": "Thomas Vaughan",
+  "language": "English",
+  "year": 1735,
+  "published": "1735",
+  "pages_count": 100,
+  "pages_with_ocr": 100,
+  "pages_with_translation": 100,
+  "source_url": "https://sourcelibrary.org/book/695593007bd6d2cd1d61b928",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "anthroposophiath00vaug"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:45.747Z",
+  "_hashes": {
+    "ocr": "46cfea316ee0f796",
+    "translation": "c816724875dc4774"
+  }
+}

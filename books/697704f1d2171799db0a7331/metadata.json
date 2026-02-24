@@ -1,0 +1,26 @@
+{
+  "id": "697704f1d2171799db0a7331",
+  "title": "Beschreibung des Christus in uns",
+  "display_title": "Beschreibung des Christus in uns",
+  "author": "Wernsdorf, Gottlieb",
+  "language": "German",
+  "year": 1727,
+  "published": "1727",
+  "pages_count": 100,
+  "pages_with_ocr": 100,
+  "pages_with_translation": 100,
+  "source_url": "https://sourcelibrary.org/book/697704f1d2171799db0a7331",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:46.158Z",
+  "_hashes": {
+    "ocr": "bcf73bec233624a2",
+    "translation": "5428373478d1cd3e"
+  }
+}

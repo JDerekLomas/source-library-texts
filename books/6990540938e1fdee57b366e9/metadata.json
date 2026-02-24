@@ -1,0 +1,28 @@
+{
+  "id": "6990540938e1fdee57b366e9",
+  "title": "Elementary Principles in Statistical Mechanics",
+  "display_title": "Elementary Principles in Statistical Mechanics",
+  "author": "Josiah Willard Gibbs",
+  "language": "English",
+  "year": 1902,
+  "published": "Unknown",
+  "pages_count": 240,
+  "pages_with_ocr": 100,
+  "pages_with_translation": 91,
+  "source_url": "https://sourcelibrary.org/book/6990540938e1fdee57b366e9",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "elementaryprinci00gibbrich"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:42.070Z",
+  "_hashes": {
+    "ocr": "4ab4efa54cc1b0df",
+    "translation": "6dffab5a1d8d320b"
+  }
+}

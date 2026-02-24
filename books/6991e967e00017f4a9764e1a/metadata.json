@@ -1,0 +1,28 @@
+{
+  "id": "6991e967e00017f4a9764e1a",
+  "title": "Il codice sul volo degli uccelli (Codex on the Flight of Birds)",
+  "display_title": "Il codice sul volo degli uccelli (Codex on the Flight of Birds)",
+  "author": "Leonardo da Vinci",
+  "language": "Italian",
+  "year": 1893,
+  "published": "Unknown",
+  "pages_count": 100,
+  "pages_with_ocr": 100,
+  "pages_with_translation": 80,
+  "source_url": "https://sourcelibrary.org/book/6991e967e00017f4a9764e1a",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "IManoscrittiDiLeonardoDaVinci"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:45.630Z",
+  "_hashes": {
+    "ocr": "04df392d66b42603",
+    "translation": "2f7a9ae0b75ed8e5"
+  }
+}

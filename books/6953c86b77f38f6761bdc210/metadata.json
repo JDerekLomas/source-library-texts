@@ -1,0 +1,28 @@
+{
+  "id": "6953c86b77f38f6761bdc210",
+  "title": "Shiva Samhita (Sanskrit with English)",
+  "display_title": "Shiva Samhita (Sanskrit with English)",
+  "author": "Svatmarama / S.C. Vasu",
+  "language": "Sanskrit",
+  "year": 1887,
+  "published": "Unknown",
+  "pages_count": 100,
+  "pages_with_ocr": 100,
+  "pages_with_translation": 100,
+  "source_url": "https://sourcelibrary.org/book/6953c86b77f38f6761bdc210",
+  "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "sacredbooksofthehindusvol15sivasamhitawithsanskrittextscvasu1914_202002"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:46.036Z",
+  "_hashes": {
+    "ocr": "cb27bc483bc93baf",
+    "translation": "7076af1e769ab33d"
+  }
+}

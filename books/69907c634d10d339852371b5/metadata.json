@@ -1,0 +1,28 @@
+{
+  "id": "69907c634d10d339852371b5",
+  "title": "Jataka Bharanam of Dhundiraja",
+  "display_title": "Jataka Bharanam (Dhundiraja)",
+  "author": "Dhundiraja",
+  "language": "Sanskrit",
+  "year": 1800,
+  "published": "1800",
+  "pages_count": 100,
+  "pages_with_ocr": 100,
+  "pages_with_translation": 80,
+  "source_url": "https://sourcelibrary.org/book/69907c634d10d339852371b5",
+  "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "jatakabharanamdhundiraja1190ghaalm6shlf1devanagarijyotish"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:47.810Z",
+  "_hashes": {
+    "ocr": "2c7f21bfa4096e03",
+    "translation": "c450493a632e089d"
+  }
+}

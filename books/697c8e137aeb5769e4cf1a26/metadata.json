@@ -1,0 +1,26 @@
+{
+  "id": "697c8e137aeb5769e4cf1a26",
+  "title": "[Hebrew: Sod reqeva ve serefa] Das Geheimnuss der Verwesung und Verbrennung aller Dinge",
+  "display_title": "[Hebrew: Sod reqeva ve serefa] Das Geheimnuss der Verwesung und Verbrennung aller Dinge",
+  "author": "[Loen, Johann Michael von?]",
+  "language": "Hebrew-German",
+  "year": 1729,
+  "published": "1729",
+  "pages_count": 100,
+  "pages_with_ocr": 100,
+  "pages_with_translation": 100,
+  "source_url": "https://sourcelibrary.org/book/697c8e137aeb5769e4cf1a26",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:45.451Z",
+  "_hashes": {
+    "ocr": "16cadfbafa87168c",
+    "translation": "7d4c152da1cfb5df"
+  }
+}

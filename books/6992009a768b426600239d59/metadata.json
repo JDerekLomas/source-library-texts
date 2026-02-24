@@ -1,0 +1,28 @@
+{
+  "id": "6992009a768b426600239d59",
+  "title": "The Gutenberg Bible",
+  "display_title": "The Gutenberg Bible",
+  "author": "Johann Gutenberg",
+  "language": "Latin",
+  "year": 1455,
+  "published": "Unknown",
+  "pages_count": 100,
+  "pages_with_ocr": 100,
+  "pages_with_translation": 80,
+  "source_url": "https://sourcelibrary.org/book/6992009a768b426600239d59",
+  "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "thegutembergbible"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:37.580Z",
+  "_hashes": {
+    "ocr": "a28302766eb43b89",
+    "translation": "32f5aa1941554876"
+  }
+}

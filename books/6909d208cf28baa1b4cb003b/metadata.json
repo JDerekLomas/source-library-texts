@@ -1,0 +1,26 @@
+{
+  "id": "6909d208cf28baa1b4cb003b",
+  "title": "Philaletha illustratus",
+  "display_title": "The Lover of Truth Illustrated",
+  "author": "Faust, Johannes Michael",
+  "language": "Latin",
+  "year": 1728,
+  "published": "1728",
+  "pages_count": 99,
+  "pages_with_ocr": 99,
+  "pages_with_translation": 95,
+  "source_url": "https://sourcelibrary.org/book/6909d208cf28baa1b4cb003b",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:50.313Z",
+  "_hashes": {
+    "ocr": "41ed0f76c7d0551f",
+    "translation": "55e4b1e278b22a19"
+  }
+}

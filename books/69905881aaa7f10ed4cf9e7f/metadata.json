@@ -1,0 +1,28 @@
+{
+  "id": "69905881aaa7f10ed4cf9e7f",
+  "title": "Der sensitive Mensch und sein Verhalten zum Ode",
+  "display_title": "Der sensitive Mensch und sein Verhalten zum Ode",
+  "author": "Karl von Reichenbach",
+  "language": "German",
+  "year": 1854,
+  "published": "Unknown",
+  "pages_count": 908,
+  "pages_with_ocr": 100,
+  "pages_with_translation": 95,
+  "source_url": "https://sourcelibrary.org/book/69905881aaa7f10ed4cf9e7f",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "b28126816_0001"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:44.997Z",
+  "_hashes": {
+    "ocr": "56ed4937126595f3",
+    "translation": "36ee63c07efc8af8"
+  }
+}

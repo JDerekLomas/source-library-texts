@@ -1,0 +1,26 @@
+{
+  "id": "6988a5a159f3a9c9513f9f17",
+  "title": "Rosarium mysticum animae fidelis",
+  "display_title": "Rosarium mysticum animae fidelis",
+  "author": "anonymous",
+  "language": "Latin",
+  "year": 1531,
+  "published": "1531",
+  "pages_count": 136,
+  "pages_with_ocr": 100,
+  "pages_with_translation": 48,
+  "source_url": "https://sourcelibrary.org/book/6988a5a159f3a9c9513f9f17",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:37.405Z",
+  "_hashes": {
+    "ocr": "bba252d4fb47d8f7",
+    "translation": "d3e643ac279c8404"
+  }
+}

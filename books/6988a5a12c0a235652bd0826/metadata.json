@@ -1,0 +1,26 @@
+{
+  "id": "6988a5a12c0a235652bd0826",
+  "title": "De secretis adeptorum",
+  "display_title": "De secretis adeptorum",
+  "author": "Weidenfeld, Johann Seger von",
+  "language": "Latin",
+  "year": 1685,
+  "published": "1685",
+  "pages_count": 712,
+  "pages_with_ocr": 100,
+  "pages_with_translation": 97,
+  "source_url": "https://sourcelibrary.org/book/6988a5a12c0a235652bd0826",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:36.965Z",
+  "_hashes": {
+    "ocr": "ac9185d5c27ef2fd",
+    "translation": "76f4e967263829ce"
+  }
+}

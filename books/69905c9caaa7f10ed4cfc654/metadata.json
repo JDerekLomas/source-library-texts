@@ -1,0 +1,28 @@
+{
+  "id": "69905c9caaa7f10ed4cfc654",
+  "title": "A History of the New Thought Movement",
+  "display_title": "A History of the New Thought Movement",
+  "author": "Horatio W. Dresser",
+  "language": "English",
+  "year": 1919,
+  "published": "Unknown",
+  "pages_count": 380,
+  "pages_with_ocr": 100,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/69905c9caaa7f10ed4cfc654",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "historyofnewthou00dresuoft"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:28:41.041Z",
+  "_hashes": {
+    "ocr": "268f51b20cdea1b9",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

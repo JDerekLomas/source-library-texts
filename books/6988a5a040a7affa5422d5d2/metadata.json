@@ -1,0 +1,26 @@
+{
+  "id": "6988a5a040a7affa5422d5d2",
+  "title": "Ueber Religion, Freydenkerey und Aufklaerung",
+  "display_title": "Ueber Religion, Freydenkerey und Aufklaerung",
+  "author": "Eckartshausen, Karl von",
+  "language": "German",
+  "year": 1786,
+  "published": "1786",
+  "pages_count": 222,
+  "pages_with_ocr": 100,
+  "pages_with_translation": 91,
+  "source_url": "https://sourcelibrary.org/book/6988a5a040a7affa5422d5d2",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:47.531Z",
+  "_hashes": {
+    "ocr": "d23a1c0ec3908361",
+    "translation": "071abf7485cfae56"
+  }
+}

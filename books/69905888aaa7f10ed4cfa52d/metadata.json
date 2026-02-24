@@ -1,0 +1,28 @@
+{
+  "id": "69905888aaa7f10ed4cfa52d",
+  "title": "The Edinburgh Lectures on Mental Science",
+  "display_title": "The Edinburgh Lectures on Mental Science",
+  "author": "Thomas Troward",
+  "language": "English",
+  "year": 1904,
+  "published": "Unknown",
+  "pages_count": 156,
+  "pages_with_ocr": 99,
+  "pages_with_translation": 96,
+  "source_url": "https://sourcelibrary.org/book/69905888aaa7f10ed4cfa52d",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "edinburghlectur00trow"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:49.820Z",
+  "_hashes": {
+    "ocr": "91f79f2588583e26",
+    "translation": "4cdd51dd01e719aa"
+  }
+}

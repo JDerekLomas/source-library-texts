@@ -1,0 +1,28 @@
+{
+  "id": "69905c90aaa7f10ed4cfc33f",
+  "title": "Science and Health with Key to the Scriptures",
+  "display_title": "Science and Health with Key to the Scriptures",
+  "author": "Mary Baker Eddy",
+  "language": "English",
+  "year": 1875,
+  "published": "Unknown",
+  "pages_count": 618,
+  "pages_with_ocr": 99,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/69905c90aaa7f10ed4cfc33f",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "isbn_9781378541272"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:28:50.607Z",
+  "_hashes": {
+    "ocr": "8a396bc80b25c786",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

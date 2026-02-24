@@ -1,0 +1,28 @@
+{
+  "id": "69905cd7aaa7f10ed4cfcfc5",
+  "title": "Die Philosophie der Mystik",
+  "display_title": "Die Philosophie der Mystik",
+  "author": "Carl du Prel",
+  "language": "German",
+  "year": 1885,
+  "published": "Unknown",
+  "pages_count": 570,
+  "pages_with_ocr": 100,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/69905cd7aaa7f10ed4cfcfc5",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "diephilosophied00prelgoog"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:28:41.741Z",
+  "_hashes": {
+    "ocr": "126d479452185e15",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

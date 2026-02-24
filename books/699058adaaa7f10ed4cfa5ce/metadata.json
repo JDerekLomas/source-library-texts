@@ -1,0 +1,28 @@
+{
+  "id": "699058adaaa7f10ed4cfa5ce",
+  "title": "The Kybalion: A Study of the Hermetic Philosophy of Ancient Egypt and Greece",
+  "display_title": "The Kybalion: A Study of the Hermetic Philosophy of Ancient Egypt and Greece",
+  "author": "Three Initiates",
+  "language": "English",
+  "year": 1908,
+  "published": "Unknown",
+  "pages_count": 234,
+  "pages_with_ocr": 99,
+  "pages_with_translation": 90,
+  "source_url": "https://sourcelibrary.org/book/699058adaaa7f10ed4cfa5ce",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "kybalionstudyofh00init"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:49.699Z",
+  "_hashes": {
+    "ocr": "fbc91e9352b58044",
+    "translation": "1a450a711a447fdd"
+  }
+}

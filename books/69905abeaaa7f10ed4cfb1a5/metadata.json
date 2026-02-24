@@ -1,0 +1,28 @@
+{
+  "id": "69905abeaaa7f10ed4cfb1a5",
+  "title": "Opera Mathematica, Volumen Tertium (Ptolemy Harmonics, Porphyry, Bryennius)",
+  "display_title": "Opera Mathematica, Volumen Tertium",
+  "author": "John Wallis",
+  "language": "Latin",
+  "year": 1699,
+  "published": "Unknown",
+  "pages_count": 1230,
+  "pages_with_ocr": 99,
+  "pages_with_translation": 94,
+  "source_url": "https://sourcelibrary.org/book/69905abeaaa7f10ed4cfb1a5",
+  "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bub_gb_QQjv6qFa-QoC"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:48.815Z",
+  "_hashes": {
+    "ocr": "a853bd7225ec5fbd",
+    "translation": "ca98edd3af3a883e"
+  }
+}

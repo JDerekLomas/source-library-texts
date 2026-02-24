@@ -1,0 +1,26 @@
+{
+  "id": "6988a5a2c9cb59aebe69eda0",
+  "title": "La religion des Gaulois",
+  "display_title": "La religion des Gaulois",
+  "author": "[Martin, Jacques]",
+  "language": "French",
+  "year": 1727,
+  "published": "1727",
+  "pages_count": 600,
+  "pages_with_ocr": 100,
+  "pages_with_translation": 88,
+  "source_url": "https://sourcelibrary.org/book/6988a5a2c9cb59aebe69eda0",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:37.754Z",
+  "_hashes": {
+    "ocr": "e4e95b125bf390dd",
+    "translation": "6d67c5bae09112dd"
+  }
+}

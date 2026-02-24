@@ -1,0 +1,28 @@
+{
+  "id": "69905b47aaa7f10ed4cfbadd",
+  "title": "A Late Discourse Made in a Solemne Assembly of Nobles and Learned Men at Montpellier, Touching the Cure of Wounds by the Powder of Sympathy",
+  "display_title": "Discourse on the Powder of Sympathy",
+  "author": "Kenelm Digby",
+  "language": "English",
+  "year": 1658,
+  "published": "Unknown",
+  "pages_count": 171,
+  "pages_with_ocr": 100,
+  "pages_with_translation": 97,
+  "source_url": "https://sourcelibrary.org/book/69905b47aaa7f10ed4cfbadd",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bim_early-english-books-1641-1700_a-late-discourse-made-in_digby-sir-kenelm_1664"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:40.690Z",
+  "_hashes": {
+    "ocr": "5baa46cbd06d37b4",
+    "translation": "87114c5f34a4c1a4"
+  }
+}

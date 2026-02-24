@@ -1,0 +1,28 @@
+{
+  "id": "6990581117295890441354f2",
+  "title": "Abhandlung ueber die Entdeckung des thierischen Magnetismus",
+  "display_title": "Abhandlung über die Entdeckung des thierischen Magnetismus",
+  "author": "Franz Anton Mesmer",
+  "language": "German",
+  "year": 1781,
+  "published": "Unknown",
+  "pages_count": 201,
+  "pages_with_ocr": 100,
+  "pages_with_translation": 96,
+  "source_url": "https://sourcelibrary.org/book/6990581117295890441354f2",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "10287663bsb"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:44.479Z",
+  "_hashes": {
+    "ocr": "cbe8fefb8072c298",
+    "translation": "94662f213abc70d7"
+  }
+}

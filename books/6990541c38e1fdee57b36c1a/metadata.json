@@ -1,0 +1,28 @@
+{
+  "id": "6990541c38e1fdee57b36c1a",
+  "title": "L'automatisme psychologique",
+  "display_title": "L'automatisme psychologique",
+  "author": "Pierre Janet",
+  "language": "French",
+  "year": 1889,
+  "published": "Unknown",
+  "pages_count": 436,
+  "pages_with_ocr": 100,
+  "pages_with_translation": 100,
+  "source_url": "https://sourcelibrary.org/book/6990541c38e1fdee57b36c1a",
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "pierre-janet-l-automatisme-psychologique-1903"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:44.039Z",
+  "_hashes": {
+    "ocr": "ba597bebe73972c1",
+    "translation": "d8c90014f95251f5"
+  }
+}

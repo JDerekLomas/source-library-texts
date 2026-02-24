@@ -1,0 +1,28 @@
+{
+  "id": "699052538d19cbc90d9d5f17",
+  "title": "L'incredulite et mescreance du sortilege plainement convaincue",
+  "display_title": "L'incredulite et mescreance du sortilege plainement convaincue",
+  "author": "Pierre de Lancre",
+  "language": "French",
+  "year": 1612,
+  "published": "Unknown",
+  "pages_count": 805,
+  "pages_with_ocr": 100,
+  "pages_with_translation": 97,
+  "source_url": "https://sourcelibrary.org/book/699052538d19cbc90d9d5f17",
+  "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bub_gb__hdsU7lWjXoC"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:38.667Z",
+  "_hashes": {
+    "ocr": "ac56bbc21a21f370",
+    "translation": "cce92e6413ecbcbf"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "69905ac4aaa7f10ed4cfb814",
+  "title": "De Sympathia et Antipathia Rerum",
+  "display_title": "De Sympathia et Antipathia Rerum",
+  "author": "Girolamo Fracastoro",
+  "language": "Latin",
+  "year": 1546,
+  "published": "Unknown",
+  "pages_count": 184,
+  "pages_with_ocr": 100,
+  "pages_with_translation": 99,
+  "source_url": "https://sourcelibrary.org/book/69905ac4aaa7f10ed4cfb814",
+  "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bub_gb_B6Ga-EFbdHwC"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:40.564Z",
+  "_hashes": {
+    "ocr": "6b7f8d669d06e331",
+    "translation": "cc6ead5a59b853ff"
+  }
+}

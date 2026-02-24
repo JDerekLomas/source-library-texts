@@ -1,0 +1,28 @@
+{
+  "id": "69592fb8a41e40e9146a4943",
+  "title": "Traité dalchimie (16th c. Manuscript)",
+  "display_title": "Traité dalchimie (16th c. Manuscript)",
+  "author": "Anonymous",
+  "language": "French",
+  "year": 1550,
+  "published": "Unknown",
+  "pages_count": 99,
+  "pages_with_ocr": 99,
+  "pages_with_translation": 99,
+  "source_url": "https://sourcelibrary.org/book/69592fb8a41e40e9146a4943",
+  "license": "https://gallica.bnf.fr/html/und/conditions-dutilisation-des-contenus-de-gallica",
+  "doi": null,
+  "external_ids": {
+    "gallica": "btv1b10038035t"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:49.172Z",
+  "_hashes": {
+    "ocr": "0059a968ff25553a",
+    "translation": "2d702690c3c4d02f"
+  }
+}

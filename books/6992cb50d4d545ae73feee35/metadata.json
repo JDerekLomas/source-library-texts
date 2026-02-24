@@ -1,0 +1,28 @@
+{
+  "id": "6992cb50d4d545ae73feee35",
+  "title": "八十四相大悲咒 (Illustrated Great Compassion Mantra in 84 Aspects)",
+  "display_title": "八十四相大悲咒 (Illustrated Great Compassion Mantra in 84 Aspects)",
+  "author": "Unknown",
+  "language": "Chinese",
+  "year": 1550,
+  "published": "Unknown",
+  "pages_count": 99,
+  "pages_with_ocr": 99,
+  "pages_with_translation": 80,
+  "source_url": "https://sourcelibrary.org/book/6992cb50d4d545ae73feee35",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "gsyps84xiangdabeizhou"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:51.320Z",
+  "_hashes": {
+    "ocr": "5db344c8157544e4",
+    "translation": "bf2d5281aa2bfbd1"
+  }
+}

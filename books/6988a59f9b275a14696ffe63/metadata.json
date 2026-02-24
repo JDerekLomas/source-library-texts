@@ -1,0 +1,26 @@
+{
+  "id": "6988a59f9b275a14696ffe63",
+  "title": "Le renouvellement de l'esprit evangelique",
+  "display_title": "Le renouvellement de l'esprit evangelique",
+  "author": "Bourignon, Antoinette",
+  "language": "French",
+  "year": 1679,
+  "published": "1679-1682",
+  "pages_count": 792,
+  "pages_with_ocr": 100,
+  "pages_with_translation": 95,
+  "source_url": "https://sourcelibrary.org/book/6988a59f9b275a14696ffe63",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:47.067Z",
+  "_hashes": {
+    "ocr": "822a8474c88024c1",
+    "translation": "61544cd61583de57"
+  }
+}

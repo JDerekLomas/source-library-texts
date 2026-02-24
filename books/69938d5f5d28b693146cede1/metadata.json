@@ -1,0 +1,28 @@
+{
+  "id": "69938d5f5d28b693146cede1",
+  "title": "Dionysiaca (Editio Princeps)",
+  "display_title": "Dionysiaca (Editio Princeps)",
+  "author": "Nonnus of Panopolis",
+  "language": "Greek",
+  "year": 1569,
+  "published": "1569",
+  "pages_count": 984,
+  "pages_with_ocr": 100,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/69938d5f5d28b693146cede1",
+  "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bub_gb_Pyg8AAAAcAAJ_2"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:28:46.300Z",
+  "_hashes": {
+    "ocr": "c35713ef54355867",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

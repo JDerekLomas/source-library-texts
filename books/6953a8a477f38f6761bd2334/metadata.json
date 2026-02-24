@@ -1,0 +1,28 @@
+{
+  "id": "6953a8a477f38f6761bd2334",
+  "title": "Greek Old Testament (Tischendorf)",
+  "display_title": "Greek Old Testament (Tischendorf)",
+  "author": "Constantin von Tischendorf",
+  "language": "Greek",
+  "year": 1877,
+  "published": "1877",
+  "pages_count": 4369,
+  "pages_with_ocr": 100,
+  "pages_with_translation": 100,
+  "source_url": "https://sourcelibrary.org/book/6953a8a477f38f6761bd2334",
+  "license": "http://creativecommons.org/licenses/publicdomain/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "Tischendorf.ii.greekOldTestament.10Volumes.var.ed.1835-1880_112"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:43.000Z",
+  "_hashes": {
+    "ocr": "5744f4f2062ba5a4",
+    "translation": "9dcbb93025d144b8"
+  }
+}

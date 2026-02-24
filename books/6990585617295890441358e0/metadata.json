@@ -1,0 +1,28 @@
+{
+  "id": "6990585617295890441358e0",
+  "title": "Trattato di musica secondo la vera scienza dell armonia",
+  "display_title": "Trattato di musica secondo la vera scienza dell'armonia",
+  "author": "Giuseppe Tartini",
+  "language": "Italian",
+  "year": 1754,
+  "published": "Unknown",
+  "pages_count": 200,
+  "pages_with_ocr": 100,
+  "pages_with_translation": 94,
+  "source_url": "https://sourcelibrary.org/book/6990585617295890441358e0",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "trattatodimusica00tart"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:44.653Z",
+  "_hashes": {
+    "ocr": "7e13ae600da465e2",
+    "translation": "b0d24d9ddbcff3f6"
+  }
+}

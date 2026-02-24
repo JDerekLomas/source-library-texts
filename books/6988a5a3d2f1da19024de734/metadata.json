@@ -1,0 +1,26 @@
+{
+  "id": "6988a5a3d2f1da19024de734",
+  "title": "Scriptorum ecclesiasticorum historia literaria",
+  "display_title": "Scriptorum ecclesiasticorum historia literaria",
+  "author": "Cave, William",
+  "language": "Latin",
+  "year": 1688,
+  "published": "1688-1698",
+  "pages_count": 1075,
+  "pages_with_ocr": 99,
+  "pages_with_translation": 95,
+  "source_url": "https://sourcelibrary.org/book/6988a5a3d2f1da19024de734",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:51.146Z",
+  "_hashes": {
+    "ocr": "2e4a702facf54881",
+    "translation": "5ea521797bf4d5ca"
+  }
+}

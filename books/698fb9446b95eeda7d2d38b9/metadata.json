@@ -1,0 +1,28 @@
+{
+  "id": "698fb9446b95eeda7d2d38b9",
+  "title": "Disquisitionum Magicarum Libri Sex",
+  "display_title": "Disquisitionum Magicarum Libri Sex",
+  "author": "Martin Del Rio",
+  "language": "Latin",
+  "year": 1603,
+  "published": "1603",
+  "pages_count": 884,
+  "pages_with_ocr": 100,
+  "pages_with_translation": 94,
+  "source_url": "https://sourcelibrary.org/book/698fb9446b95eeda7d2d38b9",
+  "license": "https://rightsstatements.org/vocab/NoC-NC/1.0/",
+  "doi": null,
+  "external_ids": {
+    "mdz": "bsb10944276"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:39.125Z",
+  "_hashes": {
+    "ocr": "9bba5eda46361ac2",
+    "translation": "ab95462173cb1231"
+  }
+}

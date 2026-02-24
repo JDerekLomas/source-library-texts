@@ -1,0 +1,28 @@
+{
+  "id": "69905f1140bc3a0478efa1d3",
+  "title": "The Timaeus of Plato, Edited with Introduction and Notes",
+  "display_title": "Timaeus (Greek text with commentary)",
+  "author": "Plato (ed. R.D. Archer-Hind)",
+  "language": "Greek",
+  "year": 1888,
+  "published": "Unknown",
+  "pages_count": 380,
+  "pages_with_ocr": 100,
+  "pages_with_translation": 97,
+  "source_url": "https://sourcelibrary.org/book/69905f1140bc3a0478efa1d3",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "timaeusofplato00platiala"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:41.210Z",
+  "_hashes": {
+    "ocr": "594111a72bc8c999",
+    "translation": "bee5f5910150f34e"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "695575ba57e3b773024f23d1",
+  "title": "Traité de l harmonie",
+  "display_title": "Traité de l harmonie",
+  "author": "Jean-Philippe Rameau",
+  "language": "French",
+  "year": 1722,
+  "published": "1722",
+  "pages_count": 496,
+  "pages_with_ocr": 100,
+  "pages_with_translation": 100,
+  "source_url": "https://sourcelibrary.org/book/695575ba57e3b773024f23d1",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "traitdelharmonie00rame"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:47.730Z",
+  "_hashes": {
+    "ocr": "0a32b9fbfaa19f42",
+    "translation": "c08e8fdf4089052b"
+  }
+}

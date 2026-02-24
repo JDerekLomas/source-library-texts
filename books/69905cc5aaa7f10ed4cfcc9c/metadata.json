@@ -1,0 +1,28 @@
+{
+  "id": "69905cc5aaa7f10ed4cfcc9c",
+  "title": "Essays",
+  "display_title": "Essays (including The Over-Soul)",
+  "author": "Ralph Waldo Emerson",
+  "language": "English",
+  "year": 1841,
+  "published": "Unknown",
+  "pages_count": 278,
+  "pages_with_ocr": 100,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/69905cc5aaa7f10ed4cfcc9c",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "essays04emer"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:28:41.463Z",
+  "_hashes": {
+    "ocr": "226a81b5b9c3ccf5",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

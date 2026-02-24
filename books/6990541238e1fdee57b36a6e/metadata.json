@@ -1,0 +1,28 @@
+{
+  "id": "6990541238e1fdee57b36a6e",
+  "title": "Wandlungen und Symbole der Libido",
+  "display_title": "Wandlungen und Symbole der Libido",
+  "author": "Carl Gustav Jung",
+  "language": "German",
+  "year": 1912,
+  "published": "1912",
+  "pages_count": 426,
+  "pages_with_ocr": 99,
+  "pages_with_translation": 98,
+  "source_url": "https://sourcelibrary.org/book/6990541238e1fdee57b36a6e",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "Jung_1912_Wandlungen"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:50.024Z",
+  "_hashes": {
+    "ocr": "3a77a2d403b47c5b",
+    "translation": "ed638585388a05fe"
+  }
+}

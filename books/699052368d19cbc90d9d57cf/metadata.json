@@ -1,0 +1,28 @@
+{
+  "id": "699052368d19cbc90d9d57cf",
+  "title": "Tractatus de confessionibus maleficorum et sagarum",
+  "display_title": "Tractatus de confessionibus maleficorum et sagarum",
+  "author": "Peter Binsfeld",
+  "language": "Latin",
+  "year": 1589,
+  "published": "Unknown",
+  "pages_count": 697,
+  "pages_with_ocr": 100,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/699052368d19cbc90d9d57cf",
+  "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bub_gb_sC0R5IOoPQ8C"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:28:42.255Z",
+  "_hashes": {
+    "ocr": "ca4d971e17fcf5ec",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

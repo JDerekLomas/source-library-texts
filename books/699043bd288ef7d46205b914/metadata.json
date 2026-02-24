@@ -1,0 +1,28 @@
+{
+  "id": "699043bd288ef7d46205b914",
+  "title": "Antipalus Maleficiorum",
+  "display_title": "Antipalus Maleficiorum",
+  "author": "Johannes Trithemius",
+  "language": "Latin",
+  "year": 1508,
+  "published": "1508",
+  "pages_count": 154,
+  "pages_with_ocr": 100,
+  "pages_with_translation": 100,
+  "source_url": "https://sourcelibrary.org/book/699043bd288ef7d46205b914",
+  "license": "https://rightsstatements.org/vocab/NoC-NC/1.0/",
+  "doi": null,
+  "external_ids": {
+    "mdz": "bsb11297338"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:39.262Z",
+  "_hashes": {
+    "ocr": "cd13bc4b8b10b710",
+    "translation": "61dd30e215cf1b79"
+  }
+}

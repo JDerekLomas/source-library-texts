@@ -1,0 +1,28 @@
+{
+  "id": "69905cc1aaa7f10ed4cfcb10",
+  "title": "The Perfect Way; or, The Finding of Christ",
+  "display_title": "The Perfect Way",
+  "author": "Anna Kingsford and Edward Maitland",
+  "language": "English",
+  "year": 1882,
+  "published": "Unknown",
+  "pages_count": 394,
+  "pages_with_ocr": 100,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/69905cc1aaa7f10ed4cfcb10",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "perfectwayorfind00king_0"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:28:41.375Z",
+  "_hashes": {
+    "ocr": "57eef25d0425f214",
+    "translation": "e3b0c44298fc1c14"
+  }
+}
