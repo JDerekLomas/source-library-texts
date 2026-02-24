@@ -1,0 +1,28 @@
+{
+  "id": "69482afb914d007380634d28",
+  "title": "De verbo mirifico",
+  "display_title": "On the Wonder-Working Word",
+  "author": "Johannes Reuchlin",
+  "language": "Latin",
+  "year": 1494,
+  "published": "1494",
+  "pages_count": 131,
+  "pages_with_ocr": 131,
+  "pages_with_translation": 119,
+  "source_url": "https://sourcelibrary.org/book/69482afb914d007380634d28",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bub_gb_lS_ozB8_LlQC"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:13.923Z",
+  "_hashes": {
+    "ocr": "729e6e6f07577e71",
+    "translation": "8de4d339eb6829c3"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "6991ead32f801130a473e82a",
+  "title": "Fragments: etudes anatomiques (Windsor)",
+  "display_title": "Fragments: etudes anatomiques (Windsor)",
+  "author": "Leonardo da Vinci",
+  "language": "Italian",
+  "year": 1911,
+  "published": "Unknown",
+  "pages_count": 146,
+  "pages_with_ocr": 146,
+  "pages_with_translation": 146,
+  "source_url": "https://sourcelibrary.org/book/6991ead32f801130a473e82a",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "fragmentsetudesa00leon"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:06.871Z",
+  "_hashes": {
+    "ocr": "fded4144fd18c866",
+    "translation": "ff56330827616439"
+  }
+}

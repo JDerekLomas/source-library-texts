@@ -1,0 +1,28 @@
+{
+  "id": "69907da8b91bcb2db3f6d76c",
+  "title": "Samar Sara Tika (Military Astrology)",
+  "display_title": "Samar Sara Tika",
+  "author": "Unknown",
+  "language": "Sanskrit",
+  "year": 1800,
+  "published": "1800",
+  "pages_count": 131,
+  "pages_with_ocr": 131,
+  "pages_with_translation": 105,
+  "source_url": "https://sourcelibrary.org/book/69907da8b91bcb2db3f6d76c",
+  "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "SamarSaraTikaAlm28Shlf4629158G1DevanagariJyotish"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:14.219Z",
+  "_hashes": {
+    "ocr": "68b90907924ca30a",
+    "translation": "9057cf3336970938"
+  }
+}

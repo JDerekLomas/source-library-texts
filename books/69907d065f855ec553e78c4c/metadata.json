@@ -1,0 +1,28 @@
+{
+  "id": "69907d065f855ec553e78c4c",
+  "title": "Tithi Nirnaya Deepika of Ram Dev Mishra",
+  "display_title": "Tithi Nirnaya Deepika",
+  "author": "Ram Dev Mishra",
+  "language": "Sanskrit",
+  "year": 1800,
+  "published": "1800",
+  "pages_count": 153,
+  "pages_with_ocr": 153,
+  "pages_with_translation": 123,
+  "source_url": "https://sourcelibrary.org/book/69907d065f855ec553e78c4c",
+  "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "TithiNirnayDeepikaRamDevMishraAlm28Shlf663633GDevanagariJyotish"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:04.079Z",
+  "_hashes": {
+    "ocr": "7be7f95e78623cd5",
+    "translation": "12035feff9caea04"
+  }
+}

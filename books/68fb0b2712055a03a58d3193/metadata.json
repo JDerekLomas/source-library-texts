@@ -1,0 +1,26 @@
+{
+  "id": "68fb0b2712055a03a58d3193",
+  "title": "Liber egregius de unitate ecclesia",
+  "display_title": "The Excellent Book on the Unity of the Church",
+  "author": "Hus, Johannes",
+  "language": "Latin",
+  "year": 1520,
+  "published": "1520",
+  "pages_count": 127,
+  "pages_with_ocr": 127,
+  "pages_with_translation": 127,
+  "source_url": "https://sourcelibrary.org/book/68fb0b2712055a03a58d3193",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:15.737Z",
+  "_hashes": {
+    "ocr": "6a6b2d4e83c8e3e5",
+    "translation": "598adcad5eb44662"
+  }
+}

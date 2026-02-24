@@ -1,0 +1,26 @@
+{
+  "id": "6909b22fcf28baa1b4caf185",
+  "title": "Philosophia pia",
+  "display_title": "Pious Philosophy",
+  "author": "Glanvill, Joseph",
+  "language": "Latin",
+  "year": 1671,
+  "published": "1671",
+  "pages_count": 130,
+  "pages_with_ocr": 130,
+  "pages_with_translation": 130,
+  "source_url": "https://sourcelibrary.org/book/6909b22fcf28baa1b4caf185",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:14.976Z",
+  "_hashes": {
+    "ocr": "9a8151c8ea163e0e",
+    "translation": "7515bf08bc526c8c"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "6909cd99cf28baa1b4cafdf1",
+  "title": "Vier Tractaetlein",
+  "display_title": "Four Little Treatises",
+  "author": "Pordage, John",
+  "language": "German",
+  "year": 1704,
+  "published": "1704",
+  "pages_count": 147,
+  "pages_with_ocr": 147,
+  "pages_with_translation": 147,
+  "source_url": "https://sourcelibrary.org/book/6909cd99cf28baa1b4cafdf1",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:06.582Z",
+  "_hashes": {
+    "ocr": "2b310275f38f9702",
+    "translation": "c43f39e6ee06690c"
+  }
+}

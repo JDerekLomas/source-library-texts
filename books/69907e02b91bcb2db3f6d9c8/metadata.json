@@ -1,0 +1,28 @@
+{
+  "id": "69907e02b91bcb2db3f6d9c8",
+  "title": "JyotishSamgraha990GhaAlm5Shlf3DevanagariJyotisham",
+  "display_title": "JyotishSamgraha990GhaAlm5Shlf3DevanagariJyotisham",
+  "author": "Unknown",
+  "language": "Sanskrit",
+  "year": null,
+  "published": "Unknown",
+  "pages_count": 156,
+  "pages_with_ocr": 156,
+  "pages_with_translation": 125,
+  "source_url": "https://sourcelibrary.org/book/69907e02b91bcb2db3f6d9c8",
+  "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "JyotishSamgraha990GhaAlm5Shlf3DevanagariJyotisham"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:02.030Z",
+  "_hashes": {
+    "ocr": "822f9e49e0eeb2e2",
+    "translation": "7ce61bf01f4846c7"
+  }
+}

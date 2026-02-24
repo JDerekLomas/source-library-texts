@@ -1,0 +1,28 @@
+{
+  "id": "695258b9ab34727b1f045731",
+  "title": "The Tree of Faith",
+  "display_title": "The Tree of Faith, or The Tree of Life",
+  "author": "Jane Lead",
+  "language": "English",
+  "year": 1696,
+  "published": "1696",
+  "pages_count": 126,
+  "pages_with_ocr": 126,
+  "pages_with_translation": 126,
+  "source_url": "https://sourcelibrary.org/book/695258b9ab34727b1f045731",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "TreeOfFaithOriginalBook"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:16.264Z",
+  "_hashes": {
+    "ocr": "a9589f7c9033d5dc",
+    "translation": "4f638c4a72f95dbf"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "695286feab34727b1f04cf28",
+  "title": "Alle Theosophische Wercken",
+  "display_title": "Jakob Böhme: Alle Theosophische Wercken (Complete Works)",
+  "author": "Jakob Böhme",
+  "language": "German",
+  "year": 1682,
+  "published": "1682",
+  "pages_count": 155,
+  "pages_with_ocr": 155,
+  "pages_with_translation": 155,
+  "source_url": "https://sourcelibrary.org/book/695286feab34727b1f04cf28",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "10260362bsb"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:02.763Z",
+  "_hashes": {
+    "ocr": "a07e9975837ae9b6",
+    "translation": "9bb955e40159399c"
+  }
+}

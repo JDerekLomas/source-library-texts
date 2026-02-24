@@ -1,0 +1,26 @@
+{
+  "id": "6970e3519b09d309d780a238",
+  "title": "Abrahami patriarchae liber Jezirah",
+  "display_title": "Abrahami patriarchae liber Jezirah",
+  "author": "Postel, Guillaume",
+  "language": "Hebrew",
+  "year": 1552,
+  "published": "1552",
+  "pages_count": 132,
+  "pages_with_ocr": 132,
+  "pages_with_translation": 118,
+  "source_url": "https://sourcelibrary.org/book/6970e3519b09d309d780a238",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:13.642Z",
+  "_hashes": {
+    "ocr": "abfc1c3ecba82041",
+    "translation": "0799739f5c537986"
+  }
+}

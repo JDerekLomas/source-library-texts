@@ -1,0 +1,28 @@
+{
+  "id": "69906737249ce014347d3654",
+  "title": "Jotida Chintamani 200",
+  "display_title": "Jotida Chintamani 200",
+  "author": "Uromarishi",
+  "language": "Tamil",
+  "year": 1889,
+  "published": "1889",
+  "pages_count": 160,
+  "pages_with_ocr": 160,
+  "pages_with_translation": 160,
+  "source_url": "https://sourcelibrary.org/book/69906737249ce014347d3654",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "dli.rmrl.011674"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:00.602Z",
+  "_hashes": {
+    "ocr": "f308bc904ec27954",
+    "translation": "8a9efce24f95b006"
+  }
+}

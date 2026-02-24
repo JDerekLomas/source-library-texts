@@ -1,0 +1,28 @@
+{
+  "id": "6953aeae77f38f6761bd8524",
+  "title": "Demotic Magical Papyrus of London and Leiden Vol. 3",
+  "display_title": "Demotic Magical Papyrus of London and Leiden Vol. 3",
+  "author": "F. Ll. Griffith & Herbert Thompson",
+  "language": "Demotic",
+  "year": 1904,
+  "published": "Unknown",
+  "pages_count": 172,
+  "pages_with_ocr": 157,
+  "pages_with_translation": 157,
+  "source_url": "https://sourcelibrary.org/book/6953aeae77f38f6761bd8524",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "demoticmagicalpa03grifuoft"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:01.460Z",
+  "_hashes": {
+    "ocr": "07fd76d786e51266",
+    "translation": "f9813546c02e2c28"
+  }
+}

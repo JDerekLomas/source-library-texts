@@ -1,0 +1,28 @@
+{
+  "id": "6952306eab34727b1f0446ea",
+  "title": "Secretum secretorum ad Alexandrum Magnum",
+  "display_title": "The Secret of Secrets to Alexander the Great",
+  "author": "Pseudo-Aristotle (ed. Francesco Storella)",
+  "language": "Latin",
+  "year": 1555,
+  "published": "1555",
+  "pages_count": 153,
+  "pages_with_ocr": 153,
+  "pages_with_translation": 153,
+  "source_url": "https://sourcelibrary.org/book/6952306eab34727b1f0446ea",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "gallica": "bpt6k608817"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:03.665Z",
+  "_hashes": {
+    "ocr": "d734000ab33eb1b1",
+    "translation": "d79990419759fb5b"
+  }
+}

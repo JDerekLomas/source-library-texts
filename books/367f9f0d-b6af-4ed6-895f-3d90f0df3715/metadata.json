@@ -1,0 +1,28 @@
+{
+  "id": "367f9f0d-b6af-4ed6-895f-3d90f0df3715",
+  "title": "Dioptrice",
+  "display_title": "Kepler: Dioptrice (1611 First Edition)",
+  "author": "Johannes Kepler",
+  "language": "Latin",
+  "year": 1611,
+  "published": "1611",
+  "pages_count": 126,
+  "pages_with_ocr": 126,
+  "pages_with_translation": 126,
+  "source_url": "https://sourcelibrary.org/book/367f9f0d-b6af-4ed6-895f-3d90f0df3715",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "dioptricesevdemo00kepl"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:16.469Z",
+  "_hashes": {
+    "ocr": "121b1ac00a51f6b2",
+    "translation": "f5cf3890c57783e1"
+  }
+}

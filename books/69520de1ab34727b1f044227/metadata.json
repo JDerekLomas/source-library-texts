@@ -1,0 +1,28 @@
+{
+  "id": "69520de1ab34727b1f044227",
+  "title": "Pseudo-Dionysius Areopagita (Ficino translation)",
+  "display_title": "Celestial Hierarchy / Divine Names (Ficino)",
+  "author": "Pseudo-Dionysius (trans. Marsilio Ficino)",
+  "language": "Latin",
+  "year": 1501,
+  "published": "1501-1600",
+  "pages_count": 142,
+  "pages_with_ocr": 142,
+  "pages_with_translation": 142,
+  "source_url": "https://sourcelibrary.org/book/69520de1ab34727b1f044227",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "gallica": "btv1b9076591n"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:08.635Z",
+  "_hashes": {
+    "ocr": "7cab0b98273fbe48",
+    "translation": "b370110f9ee98bff"
+  }
+}

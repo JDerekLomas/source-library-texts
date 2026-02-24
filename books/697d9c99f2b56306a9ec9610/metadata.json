@@ -1,0 +1,26 @@
+{
+  "id": "697d9c99f2b56306a9ec9610",
+  "title": "Hermetischer Rosenkrantz, das ist: vier schöne, ausserlesene chymische Tractätlein. Von der geheimen Kunst, und Stein der Weisen, geheimes Buch. Compendium alchimiae. Erklärung über den Commentarium Hortulani. Tractat vom Stein der Weisen",
+  "display_title": "Hermetischer Rosenkrantz, das ist: vier schöne, ausserlesene chymische Tractätlein. Von der geheimen Kunst, und Stein der Weisen, geheimes Buch. Compendium alchimiae. Erklärung über den Commentarium Hortulani. Tractat vom Stein der Weisen",
+  "author": "anonymous|Artephius|Hortulanus|Arnaldus de Villanova|Bernhardus Trevisanus",
+  "language": "German",
+  "year": 1682,
+  "published": "1682",
+  "pages_count": 132,
+  "pages_with_ocr": 132,
+  "pages_with_translation": 103,
+  "source_url": "https://sourcelibrary.org/book/697d9c99f2b56306a9ec9610",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:12.941Z",
+  "_hashes": {
+    "ocr": "e0f01508cd134376",
+    "translation": "7661175b546cc399"
+  }
+}

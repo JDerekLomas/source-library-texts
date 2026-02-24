@@ -1,0 +1,26 @@
+{
+  "id": "6984e8498a2f054f912420c7",
+  "title": "Philosophie naturelle de trois anciens philosophes",
+  "display_title": "Philosophie naturelle de trois anciens philosophes",
+  "author": "Artephius|Flamel, Nicolas|Synesius",
+  "language": "French",
+  "year": 1682,
+  "published": "1682",
+  "pages_count": 132,
+  "pages_with_ocr": 132,
+  "pages_with_translation": 100,
+  "source_url": "https://sourcelibrary.org/book/6984e8498a2f054f912420c7",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:13.330Z",
+  "_hashes": {
+    "ocr": "a274bfcea7e0bdaf",
+    "translation": "0cfb60772f715d8f"
+  }
+}

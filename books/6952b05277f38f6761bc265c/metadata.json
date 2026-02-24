@@ -1,0 +1,28 @@
+{
+  "id": "6952b05277f38f6761bc265c",
+  "title": "Quaestiones Camaldulenses",
+  "display_title": "Camaldulensian Disputations (on active vs contemplative life)",
+  "author": "Landino, Cristoforo",
+  "language": "Latin",
+  "year": 1507,
+  "published": "1507",
+  "pages_count": 152,
+  "pages_with_ocr": 152,
+  "pages_with_translation": 152,
+  "source_url": "https://sourcelibrary.org/book/6952b05277f38f6761bc265c",
+  "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bub_gb_RkoOakkhm8MC"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:04.959Z",
+  "_hashes": {
+    "ocr": "b06e6938fcf889da",
+    "translation": "555e6390ff4e590e"
+  }
+}

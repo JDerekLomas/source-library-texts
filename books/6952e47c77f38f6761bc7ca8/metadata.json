@@ -1,0 +1,28 @@
+{
+  "id": "6952e47c77f38f6761bc7ca8",
+  "title": "Alchymia",
+  "display_title": "Alchymia: Comprehensive Treatise on Alchemy",
+  "author": "Andreas Libavius",
+  "language": "Latin",
+  "year": 1597,
+  "published": "1597",
+  "pages_count": 155,
+  "pages_with_ocr": 155,
+  "pages_with_translation": 155,
+  "source_url": "https://sourcelibrary.org/book/6952e47c77f38f6761bc7ca8",
+  "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bub_gb_0WfRikJt9yQC"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:03.157Z",
+  "_hashes": {
+    "ocr": "7fc621c9d9feabcf",
+    "translation": "3ceef5471d262ede"
+  }
+}

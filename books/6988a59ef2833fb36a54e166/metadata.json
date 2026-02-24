@@ -1,0 +1,26 @@
+{
+  "id": "6988a59ef2833fb36a54e166",
+  "title": "Der Röm. Spanischen Cantzley Nachtrab: Sinceratio Sincerationum. Oder unteutsche betrugliche Zweyzungigkeit",
+  "display_title": "Der Röm. Spanischen Cantzley Nachtrab: Sinceratio Sincerationum. Oder unteutsche betrugliche Zweyzungigkeit",
+  "author": "Anonymous",
+  "language": "German",
+  "year": 1624,
+  "published": "1624",
+  "pages_count": 139,
+  "pages_with_ocr": 139,
+  "pages_with_translation": 132,
+  "source_url": "https://sourcelibrary.org/book/6988a59ef2833fb36a54e166",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:09.554Z",
+  "_hashes": {
+    "ocr": "7a510f10740bb64f",
+    "translation": "d53a170dff5be77b"
+  }
+}

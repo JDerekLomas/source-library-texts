@@ -1,0 +1,28 @@
+{
+  "id": "6990665e2ec9f7db5717a1dd",
+  "title": "Lagna Chandrika",
+  "display_title": "Lagna Chandrika",
+  "author": "Unknown",
+  "language": "Sanskrit",
+  "year": 1895,
+  "published": "1895",
+  "pages_count": 145,
+  "pages_with_ocr": 145,
+  "pages_with_translation": 145,
+  "source_url": "https://sourcelibrary.org/book/6990665e2ec9f7db5717a1dd",
+  "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "lagnachandrika1896withsharadanoteskhemrajpublishers"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:07.450Z",
+  "_hashes": {
+    "ocr": "cc1df4db42fcd4a7",
+    "translation": "1a69c9845c604d2e"
+  }
+}

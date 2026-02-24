@@ -1,0 +1,26 @@
+{
+  "id": "6970e3629b09d309d780a26e",
+  "title": "Alchimyspiegel: oder kurz entworffene Practick, der gantzen chimischen Kunst",
+  "display_title": "Alchimyspiegel: oder kurz entworffene Practick, der gantzen chimischen Kunst",
+  "author": "[Morienus]",
+  "language": "German",
+  "year": 1597,
+  "published": "1597",
+  "pages_count": 134,
+  "pages_with_ocr": 134,
+  "pages_with_translation": 126,
+  "source_url": "https://sourcelibrary.org/book/6970e3629b09d309d780a26e",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:11.794Z",
+  "_hashes": {
+    "ocr": "2f34ece9b80c03c4",
+    "translation": "c99fc4b42ba793a0"
+  }
+}

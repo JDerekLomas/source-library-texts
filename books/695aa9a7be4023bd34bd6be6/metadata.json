@@ -1,0 +1,28 @@
+{
+  "id": "695aa9a7be4023bd34bd6be6",
+  "title": "Gli artificiosi e curiosi moti spiritali (Aleotti 1647)",
+  "display_title": "Gli artificiosi e curiosi moti spiritali (Aleotti 1647)",
+  "author": "Hero of Alexandria; Giovanni Batista Aleotti (trans.)",
+  "language": "Greek",
+  "year": 1647,
+  "published": "Unknown",
+  "pages_count": 136,
+  "pages_with_ocr": 136,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/695aa9a7be4023bd34bd6be6",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "gliartificiosiec00hero"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:28:10.786Z",
+  "_hashes": {
+    "ocr": "6e99e2832d7eea34",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

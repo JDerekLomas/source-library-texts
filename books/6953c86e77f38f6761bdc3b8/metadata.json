@@ -1,0 +1,28 @@
+{
+  "id": "6953c86e77f38f6761bdc3b8",
+  "title": "Lives of Alchemystical Philosophers",
+  "display_title": "Lives of Alchemystical Philosophers",
+  "author": "Arthur Edward Waite",
+  "language": "English",
+  "year": 1888,
+  "published": "1888",
+  "pages_count": 332,
+  "pages_with_ocr": 135,
+  "pages_with_translation": 130,
+  "source_url": "https://sourcelibrary.org/book/6953c86e77f38f6761bdc3b8",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "livesofalchemyst00wait"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:11.188Z",
+  "_hashes": {
+    "ocr": "cd4bfef8a3d45f3d",
+    "translation": "a50197c0ec886fc8"
+  }
+}

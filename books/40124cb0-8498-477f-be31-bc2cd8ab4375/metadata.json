@@ -1,0 +1,28 @@
+{
+  "id": "40124cb0-8498-477f-be31-bc2cd8ab4375",
+  "title": "Manly Palmer Hall Alchemical Manuscripts",
+  "display_title": "Manly Palmer Hall Collection of Alchemical Manuscripts",
+  "author": "Various",
+  "language": "Latin/German/English",
+  "year": null,
+  "published": null,
+  "pages_count": 146,
+  "pages_with_ocr": 146,
+  "pages_with_translation": 146,
+  "source_url": "https://sourcelibrary.org/book/40124cb0-8498-477f-be31-bc2cd8ab4375",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "manlypalmerhabox4v3hall"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:06.726Z",
+  "_hashes": {
+    "ocr": "ed5c1dc5e44e36a4",
+    "translation": "0c621f8b8cae1e29"
+  }
+}

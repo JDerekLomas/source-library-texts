@@ -1,0 +1,26 @@
+{
+  "id": "6970e36d9b09d309d780a28e",
+  "title": "De allerverborgenste geheimen van de hoofdgraden der metzelary",
+  "display_title": "De allerverborgenste geheimen van de hoofdgraden der metzelary",
+  "author": "[Köppen, Karl Friedrich]",
+  "language": "Dutch",
+  "year": 1786,
+  "published": "1786",
+  "pages_count": 138,
+  "pages_with_ocr": 138,
+  "pages_with_translation": 127,
+  "source_url": "https://sourcelibrary.org/book/6970e36d9b09d309d780a28e",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:09.898Z",
+  "_hashes": {
+    "ocr": "19a21672d3a710b8",
+    "translation": "79cf521e777df9f0"
+  }
+}

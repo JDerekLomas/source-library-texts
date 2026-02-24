@@ -1,0 +1,28 @@
+{
+  "id": "69907d86aee9f4aa58591b7b",
+  "title": "Shambhu Hora Prakash of Punyaraja",
+  "display_title": "Shambhu Hora Prakash",
+  "author": "Punyaraja",
+  "language": "Sanskrit",
+  "year": 1800,
+  "published": "1800",
+  "pages_count": 153,
+  "pages_with_ocr": 153,
+  "pages_with_translation": 153,
+  "source_url": "https://sourcelibrary.org/book/69907d86aee9f4aa58591b7b",
+  "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "ShambhuHoraPrakashPunyaraja827GhaAlm4Shlf4DevanagariJyotish"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:04.339Z",
+  "_hashes": {
+    "ocr": "f9dc2e617d3796dc",
+    "translation": "7a6144811c72c4fe"
+  }
+}

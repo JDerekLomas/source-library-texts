@@ -1,0 +1,28 @@
+{
+  "id": "695294dbb184004c526a272b",
+  "title": "New Atlantis",
+  "display_title": "New Atlantis (utopian novel)",
+  "author": "Bacon, Francis",
+  "language": "English",
+  "year": 1627,
+  "published": "1627",
+  "pages_count": 138,
+  "pages_with_ocr": 138,
+  "pages_with_translation": 138,
+  "source_url": "https://sourcelibrary.org/book/695294dbb184004c526a272b",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "fnewatlantis00baco"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:10.332Z",
+  "_hashes": {
+    "ocr": "ccd55ad03a6535bb",
+    "translation": "b61db56d9e264249"
+  }
+}

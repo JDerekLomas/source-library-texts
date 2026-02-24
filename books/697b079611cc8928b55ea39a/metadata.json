@@ -1,0 +1,26 @@
+{
+  "id": "697b079611cc8928b55ea39a",
+  "title": "In nomine Jesu. Das ewige Evangelium",
+  "display_title": "In nomine Jesu. Das ewige Evangelium",
+  "author": "Breckling, Friedrich",
+  "language": "Latin-German",
+  "year": 1660,
+  "published": "1660",
+  "pages_count": 161,
+  "pages_with_ocr": 161,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/697b079611cc8928b55ea39a",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:00.053Z",
+  "_hashes": {
+    "ocr": "822cdeea91ee6e50",
+    "translation": "e3cfcbc55da0facf"
+  }
+}

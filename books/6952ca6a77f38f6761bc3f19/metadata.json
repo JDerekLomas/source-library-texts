@@ -1,0 +1,28 @@
+{
+  "id": "6952ca6a77f38f6761bc3f19",
+  "title": "Elementa theologica et physica",
+  "display_title": "Elements of Theology and Physics",
+  "author": "Proclus",
+  "language": "Greek",
+  "year": 1618,
+  "published": "1618",
+  "pages_count": 152,
+  "pages_with_ocr": 152,
+  "pages_with_translation": 152,
+  "source_url": "https://sourcelibrary.org/book/6952ca6a77f38f6761bc3f19",
+  "license": "https://rightsstatements.org/vocab/NoC-NC/1.0/",
+  "doi": null,
+  "external_ids": {
+    "mdz": "bsb10150960"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": null,
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:04.546Z",
+  "_hashes": {
+    "ocr": "73a3dd6eec71e808",
+    "translation": "4d57a9b58d5a603c"
+  }
+}

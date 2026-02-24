@@ -1,0 +1,28 @@
+{
+  "id": "6991eaf92f801130a473ee76",
+  "title": "Notes et dessins sur le coeur et sa constitution anatomique",
+  "display_title": "Notes et dessins sur le coeur et sa constitution anatomique",
+  "author": "Leonardo da Vinci",
+  "language": "Italian",
+  "year": 1880,
+  "published": "Unknown",
+  "pages_count": 130,
+  "pages_with_ocr": 130,
+  "pages_with_translation": 130,
+  "source_url": "https://sourcelibrary.org/book/6991eaf92f801130a473ee76",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "gri_33125006006791"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:14.348Z",
+  "_hashes": {
+    "ocr": "4c60d7737be9f538",
+    "translation": "9a5a8407ea4a8bb9"
+  }
+}

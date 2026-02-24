@@ -1,0 +1,28 @@
+{
+  "id": "6991eae32f801130a473eb78",
+  "title": "Notes et croquis sur l'anatomie du cheval, Vol. 2",
+  "display_title": "Notes et croquis sur l'anatomie du cheval, Vol. 2",
+  "author": "Leonardo da Vinci",
+  "language": "Italian",
+  "year": 1880,
+  "published": "Unknown",
+  "pages_count": 158,
+  "pages_with_ocr": 158,
+  "pages_with_translation": 157,
+  "source_url": "https://sourcelibrary.org/book/6991eae32f801130a473eb78",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "gri_33125017557790"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:00.872Z",
+  "_hashes": {
+    "ocr": "6e14590954160e41",
+    "translation": "35bd07f54e0e33e9"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "699066532ec9f7db5717a012",
+  "title": "Shiva Svarodaya",
+  "display_title": "Shiva Svarodaya",
+  "author": "Unknown",
+  "language": "Sanskrit",
+  "year": 1898,
+  "published": "1898",
+  "pages_count": 145,
+  "pages_with_ocr": 145,
+  "pages_with_translation": 145,
+  "source_url": "https://sourcelibrary.org/book/699066532ec9f7db5717a012",
+  "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "ShivaSvarodayaWithHindiTranslation1899KhemrajShriKrishnaDas"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:07.266Z",
+  "_hashes": {
+    "ocr": "2bdc1121da0709a3",
+    "translation": "2786c912aef6d85d"
+  }
+}

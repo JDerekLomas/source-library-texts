@@ -1,0 +1,26 @@
+{
+  "id": "6978ee37a87012956d883ada",
+  "title": "Of Christs testaments",
+  "display_title": "Of Christs testaments",
+  "author": "Boehme, Jacob",
+  "language": "English",
+  "year": 1652,
+  "published": "1652",
+  "pages_count": 163,
+  "pages_with_ocr": 163,
+  "pages_with_translation": 146,
+  "source_url": "https://sourcelibrary.org/book/6978ee37a87012956d883ada",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:27:59.720Z",
+  "_hashes": {
+    "ocr": "995fa724dc7d300b",
+    "translation": "895203569a302e9a"
+  }
+}

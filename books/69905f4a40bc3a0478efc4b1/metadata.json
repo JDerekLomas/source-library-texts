@@ -1,0 +1,28 @@
+{
+  "id": "69905f4a40bc3a0478efc4b1",
+  "title": "Aryabhatiya with Bhatadipika of Paramesvara",
+  "display_title": "Aryabhatiya with Bhatadipika of Paramesvara",
+  "author": "Aryabhata",
+  "language": "Sanskrit",
+  "year": 1431,
+  "published": "Unknown",
+  "pages_count": 130,
+  "pages_with_ocr": 130,
+  "pages_with_translation": 130,
+  "source_url": "https://sourcelibrary.org/book/69905f4a40bc3a0478efc4b1",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "aryabhatiyawithc00arya"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:14.648Z",
+  "_hashes": {
+    "ocr": "2a5d0f732bb893dd",
+    "translation": "2c661dc125584dba"
+  }
+}

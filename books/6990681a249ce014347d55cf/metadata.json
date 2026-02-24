@@ -1,0 +1,28 @@
+{
+  "id": "6990681a249ce014347d55cf",
+  "title": "Muhurta Kalpa Druma",
+  "display_title": "Muhurta Kalpa Druma",
+  "author": "Viththala Dikshit",
+  "language": "Sanskrit",
+  "year": 1900,
+  "published": "Unknown",
+  "pages_count": 138,
+  "pages_with_ocr": 138,
+  "pages_with_translation": 138,
+  "source_url": "https://sourcelibrary.org/book/6990681a249ce014347d55cf",
+  "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "LIkA_muhurta-kalpa-drum-of-viththala-dikshit-with-krishnashankar-keshav-1935-nirnay-sagar-press"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:10.189Z",
+  "_hashes": {
+    "ocr": "fba5cd5e44d099dc",
+    "translation": "eba9e3fbebd63318"
+  }
+}

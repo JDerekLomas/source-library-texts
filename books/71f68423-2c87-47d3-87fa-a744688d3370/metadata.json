@@ -1,0 +1,28 @@
+{
+  "id": "71f68423-2c87-47d3-87fa-a744688d3370",
+  "title": "Chymische Hochzeit",
+  "display_title": "Chemical Wedding (1616 Strassburg)",
+  "author": "Johann Valentin Andreae",
+  "language": "German",
+  "year": 1616,
+  "published": "1616",
+  "pages_count": 152,
+  "pages_with_ocr": 152,
+  "pages_with_translation": 152,
+  "source_url": "https://sourcelibrary.org/book/71f68423-2c87-47d3-87fa-a744688d3370",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "chymischehochzei00rose"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:05.307Z",
+  "_hashes": {
+    "ocr": "7ed83c13a12f946a",
+    "translation": "1ecd4ea0bddf37e1"
+  }
+}

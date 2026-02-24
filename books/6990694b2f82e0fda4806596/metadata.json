@@ -1,0 +1,28 @@
+{
+  "id": "6990694b2f82e0fda4806596",
+  "title": "Brihat Samhita Vivritti (Manuscript)",
+  "display_title": "Brihat Samhita Vivritti (Manuscript)",
+  "author": "Varahamihira",
+  "language": "Sanskrit",
+  "year": 966,
+  "published": "966",
+  "pages_count": 164,
+  "pages_with_ocr": 164,
+  "pages_with_translation": 164,
+  "source_url": "https://sourcelibrary.org/book/6990694b2f82e0fda4806596",
+  "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "BrihatSamhitaVivrittiVarahMihir4979Alm22Shlf4DevanagariJyotisha"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:27:59.267Z",
+  "_hashes": {
+    "ocr": "fc5745de9b8b092d",
+    "translation": "ce865517e2274eff"
+  }
+}

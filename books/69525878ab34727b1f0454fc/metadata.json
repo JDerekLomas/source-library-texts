@@ -1,0 +1,28 @@
+{
+  "id": "69525878ab34727b1f0454fc",
+  "title": "Messages to the Philadelphian Society",
+  "display_title": "1st and 2nd Message to the Philadelphian Society",
+  "author": "Jane Lead",
+  "language": "English",
+  "year": 1696,
+  "published": "1696",
+  "pages_count": 126,
+  "pages_with_ocr": 126,
+  "pages_with_translation": 126,
+  "source_url": "https://sourcelibrary.org/book/69525878ab34727b1f0454fc",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "1stAnd2ndMessageToThePhiladelphianSociety"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:16.723Z",
+  "_hashes": {
+    "ocr": "295b758f457fe12e",
+    "translation": "f4a4de7b3ee77d49"
+  }
+}

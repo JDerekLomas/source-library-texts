@@ -1,0 +1,28 @@
+{
+  "id": "694f8f18077e0c701da643b2",
+  "title": "Sphaera mundi",
+  "display_title": "Sphaera Mundi (1482 Ratdolt Edition)",
+  "author": "Johannes de Sacro Busto (Sacrobosco)",
+  "language": "Latin",
+  "year": 1482,
+  "published": "1482",
+  "pages_count": 132,
+  "pages_with_ocr": 132,
+  "pages_with_translation": 129,
+  "source_url": "https://sourcelibrary.org/book/694f8f18077e0c701da643b2",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "ita-bnc-in2-00001154-001"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:13.122Z",
+  "_hashes": {
+    "ocr": "5ae7c792d5792263",
+    "translation": "ae393abce62306f8"
+  }
+}

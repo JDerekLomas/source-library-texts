@@ -1,0 +1,26 @@
+{
+  "id": "697c8e11847588071851a998",
+  "title": "Das Geheimniss der Bosheit",
+  "display_title": "Das Geheimniss der Bosheit",
+  "author": "[Stattler, Benedikt]",
+  "language": "German",
+  "year": 1787,
+  "published": "1787",
+  "pages_count": 127,
+  "pages_with_ocr": 127,
+  "pages_with_translation": 5,
+  "source_url": "https://sourcelibrary.org/book/697c8e11847588071851a998",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:16.140Z",
+  "_hashes": {
+    "ocr": "4ec788633a084038",
+    "translation": "db50e422b3de7d89"
+  }
+}

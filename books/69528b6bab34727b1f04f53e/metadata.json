@@ -1,0 +1,28 @@
+{
+  "id": "69528b6bab34727b1f04f53e",
+  "title": "An Introduction to Yoga",
+  "display_title": "An Introduction to Yoga",
+  "author": "Annie Besant",
+  "language": "English",
+  "year": 1908,
+  "published": "1908",
+  "pages_count": 144,
+  "pages_with_ocr": 144,
+  "pages_with_translation": 144,
+  "source_url": "https://sourcelibrary.org/book/69528b6bab34727b1f04f53e",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "in.ernet.dli.2015.201363"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:07.604Z",
+  "_hashes": {
+    "ocr": "8ca7990f85a49c0f",
+    "translation": "166d5ab096280ca3"
+  }
+}

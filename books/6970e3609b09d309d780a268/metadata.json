@@ -1,0 +1,26 @@
+{
+  "id": "6970e3609b09d309d780a268",
+  "title": "De alchimia libri tres. Liber investigationis. Liber trium verborum. Epistola",
+  "display_title": "De alchimia libri tres. Liber investigationis. Liber trium verborum. Epistola",
+  "author": "Geber",
+  "language": "Latin",
+  "year": 1531,
+  "published": "1531",
+  "pages_count": 134,
+  "pages_with_ocr": 134,
+  "pages_with_translation": 129,
+  "source_url": "https://sourcelibrary.org/book/6970e3609b09d309d780a268",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:12.270Z",
+  "_hashes": {
+    "ocr": "080650cc95a11e9b",
+    "translation": "71ca79eb7f4ac27f"
+  }
+}

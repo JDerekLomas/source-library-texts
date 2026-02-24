@@ -1,0 +1,28 @@
+{
+  "id": "69525f60ab34727b1f0463e5",
+  "title": "Theosophia revelata (Vol. 5)",
+  "display_title": "Theosophia revelata (Vol. 5)",
+  "author": "Jakob Böhme",
+  "language": "German",
+  "year": 1730,
+  "published": "1730",
+  "pages_count": 158,
+  "pages_with_ocr": 158,
+  "pages_with_translation": 134,
+  "source_url": "https://sourcelibrary.org/book/69525f60ab34727b1f0463e5",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "theosophiarevela05bohm"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:01.045Z",
+  "_hashes": {
+    "ocr": "c31115ead96f741d",
+    "translation": "f45d052573f5f10c"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "69907c755f855ec553e75918",
+  "title": "Bhasha Svarodaya",
+  "display_title": "Bhasha Svarodaya",
+  "author": "Unknown",
+  "language": "Sanskrit",
+  "year": 1800,
+  "published": "1800",
+  "pages_count": 130,
+  "pages_with_ocr": 129,
+  "pages_with_translation": 104,
+  "source_url": "https://sourcelibrary.org/book/69907c755f855ec553e75918",
+  "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "BhashaSvarodaya1036GhaAlm5Shlf4DevanagariJyotish"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:15.230Z",
+  "_hashes": {
+    "ocr": "87effc9059fd2620",
+    "translation": "4fe4136647ee2118"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "6980941fc4809d9906d9b575",
+  "title": "Libellus dialogorum, sive colloquia",
+  "display_title": "Libellus dialogorum, sive colloquia",
+  "author": "Glauber, Johann Rudolph",
+  "language": "Latin",
+  "year": 1663,
+  "published": "1663",
+  "pages_count": 134,
+  "pages_with_ocr": 134,
+  "pages_with_translation": 114,
+  "source_url": "https://sourcelibrary.org/book/6980941fc4809d9906d9b575",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:12.758Z",
+  "_hashes": {
+    "ocr": "4d6d4b904683b0a4",
+    "translation": "87335fbf23fadd59"
+  }
+}

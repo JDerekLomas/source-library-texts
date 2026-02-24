@@ -1,0 +1,28 @@
+{
+  "id": "69906a671cf6ed5fbc8f58a2",
+  "title": "Gobhila Graha Sutram",
+  "display_title": "Gobhila Graha Sutram",
+  "author": "Gobhila",
+  "language": "Sanskrit",
+  "year": 1906,
+  "published": "1906",
+  "pages_count": 127,
+  "pages_with_ocr": 127,
+  "pages_with_translation": 101,
+  "source_url": "https://sourcelibrary.org/book/69906a671cf6ed5fbc8f58a2",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "in.ernet.dli.2015.406510"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:16.048Z",
+  "_hashes": {
+    "ocr": "48d83ff9a4ef175d",
+    "translation": "a5847ccc56f87ec9"
+  }
+}

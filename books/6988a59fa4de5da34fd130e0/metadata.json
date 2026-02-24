@@ -1,0 +1,26 @@
+{
+  "id": "6988a59fa4de5da34fd130e0",
+  "title": "[Hebrew: Sha'arei zedek]",
+  "display_title": "[Hebrew: Sha'arei zedek]",
+  "author": "Gikatilla, Joseph ben Abraham",
+  "language": "Hebrew",
+  "year": 1561,
+  "published": "1561",
+  "pages_count": 134,
+  "pages_with_ocr": 134,
+  "pages_with_translation": 94,
+  "source_url": "https://sourcelibrary.org/book/6988a59fa4de5da34fd130e0",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:12.584Z",
+  "_hashes": {
+    "ocr": "fc1fc8d671d3a6bf",
+    "translation": "9ddd24708c7c6d80"
+  }
+}

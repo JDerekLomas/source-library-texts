@@ -1,0 +1,28 @@
+{
+  "id": "69905f4940bc3a0478efc423",
+  "title": "Phaladeepika",
+  "display_title": "Phaladeepika",
+  "author": "Mantreswara",
+  "language": "Sanskrit",
+  "year": 1250,
+  "published": "Unknown",
+  "pages_count": 140,
+  "pages_with_ocr": 140,
+  "pages_with_translation": 140,
+  "source_url": "https://sourcelibrary.org/book/69905f4940bc3a0478efc423",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "Phaladeepika1stEd.ByVSubrahmanyaSastri"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:09.366Z",
+  "_hashes": {
+    "ocr": "e054b8acb9b8f89e",
+    "translation": "d01d755d94713b45"
+  }
+}

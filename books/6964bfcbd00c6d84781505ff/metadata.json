@@ -1,0 +1,28 @@
+{
+  "id": "6964bfcbd00c6d84781505ff",
+  "title": "Philonis Alexandrini libellus De opificio mundi",
+  "display_title": "Philonis Alexandrini libellus De opificio mundi",
+  "author": "Philo of Alexandria; ed. Leopold Cohn",
+  "language": "Latin",
+  "year": 1889,
+  "published": null,
+  "pages_count": 126,
+  "pages_with_ocr": 126,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/6964bfcbd00c6d84781505ff",
+  "license": null,
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "philonisalexand00philgoog"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": null,
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:28:16.600Z",
+  "_hashes": {
+    "ocr": "2d07993c04a76c1d",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

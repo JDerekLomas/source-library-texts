@@ -1,0 +1,26 @@
+{
+  "id": "698255eeba3a154c96ca0660",
+  "title": "Moses deus Aaronis, sive potestas atque officium principium in sacris",
+  "display_title": "Moses deus Aaronis, sive potestas atque officium principium in sacris",
+  "author": "Riper, Albert",
+  "language": "Latin",
+  "year": 1717,
+  "published": "1717",
+  "pages_count": 147,
+  "pages_with_ocr": 147,
+  "pages_with_translation": 9,
+  "source_url": "https://sourcelibrary.org/book/698255eeba3a154c96ca0660",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:06.125Z",
+  "_hashes": {
+    "ocr": "24be9b90532f924c",
+    "translation": "b55101feba0155f8"
+  }
+}

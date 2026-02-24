@@ -1,0 +1,26 @@
+{
+  "id": "697953e3eef1c286564aa439",
+  "title": "The complaint, and the consolation; or night thoughts",
+  "display_title": "The complaint, and the consolation; or night thoughts",
+  "author": "Young, Edward",
+  "language": "English",
+  "year": 1797,
+  "published": "1797",
+  "pages_count": 144,
+  "pages_with_ocr": 143,
+  "pages_with_translation": 106,
+  "source_url": "https://sourcelibrary.org/book/697953e3eef1c286564aa439",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:08.158Z",
+  "_hashes": {
+    "ocr": "9a18bfd99d17b4fe",
+    "translation": "4f3cf1bb38bfb1d5"
+  }
+}

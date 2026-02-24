@@ -1,0 +1,28 @@
+{
+  "id": "6990795bb621b177c1af684d",
+  "title": "Jataka Alankara with Tika",
+  "display_title": "Jataka Alankara with Tika",
+  "author": "Krishna Daya Bharana",
+  "language": "Sanskrit",
+  "year": 1865,
+  "published": "1865",
+  "pages_count": 137,
+  "pages_with_ocr": 137,
+  "pages_with_translation": 110,
+  "source_url": "https://sourcelibrary.org/book/6990795bb621b177c1af684d",
+  "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "jataka-alankara-with-tika-by-krishna-daya-bharana-sanskrit-printed-jangamwadi-math-collection"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:10.699Z",
+  "_hashes": {
+    "ocr": "cc86eb0550b4a1d7",
+    "translation": "bcd2c55f03deb9ad"
+  }
+}

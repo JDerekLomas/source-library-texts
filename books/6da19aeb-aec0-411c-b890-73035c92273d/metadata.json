@@ -1,0 +1,28 @@
+{
+  "id": "6da19aeb-aec0-411c-b890-73035c92273d",
+  "title": "Fama Fraternitatis",
+  "display_title": "Fama Fraternitatis (1615 Danzig)",
+  "author": "Johann Valentin Andreae (attr.)",
+  "language": "German",
+  "year": 1614,
+  "published": "1614",
+  "pages_count": 152,
+  "pages_with_ocr": 152,
+  "pages_with_translation": 152,
+  "source_url": "https://sourcelibrary.org/book/6da19aeb-aec0-411c-b890-73035c92273d",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "famafraternitati00andr"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:05.098Z",
+  "_hashes": {
+    "ocr": "95c0e5194e906d9c",
+    "translation": "92d1e83e1dfd8120"
+  }
+}

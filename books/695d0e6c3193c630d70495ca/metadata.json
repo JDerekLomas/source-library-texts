@@ -1,0 +1,28 @@
+{
+  "id": "695d0e6c3193c630d70495ca",
+  "title": "Tractatus de immortalitate animae",
+  "display_title": "Tractatus de immortalitate animae",
+  "author": "Pietro Pomponazzi",
+  "language": "Latin",
+  "year": 1600,
+  "published": "1600",
+  "pages_count": 159,
+  "pages_with_ocr": 159,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/695d0e6c3193c630d70495ca",
+  "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bub_gb_mYscjn1DkX4C"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:28:00.779Z",
+  "_hashes": {
+    "ocr": "ab6ffd57c7e12afd",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

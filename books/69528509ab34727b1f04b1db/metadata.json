@@ -1,0 +1,28 @@
+{
+  "id": "69528509ab34727b1f04b1db",
+  "title": "Private Diary of Dr. John Dee",
+  "display_title": "The Private Diary of Dr. John Dee",
+  "author": "John Dee",
+  "language": "English",
+  "year": 1842,
+  "published": "1842",
+  "pages_count": 153,
+  "pages_with_ocr": 153,
+  "pages_with_translation": 153,
+  "source_url": "https://sourcelibrary.org/book/69528509ab34727b1f04b1db",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "privatediarydrj00phigoog"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:03.917Z",
+  "_hashes": {
+    "ocr": "d58f81cc1baf4f91",
+    "translation": "bfc827bde51007bf"
+  }
+}

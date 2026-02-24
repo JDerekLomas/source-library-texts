@@ -1,0 +1,26 @@
+{
+  "id": "697b079931eb6dd07b7c2311",
+  "title": "Elucidarius [...] Das ist: ein edles Büchlein",
+  "display_title": "Elucidarius [...] Das ist: ein edles Büchlein",
+  "author": "Christophorus Parisiensis",
+  "language": "German",
+  "year": 1608,
+  "published": "1608",
+  "pages_count": 140,
+  "pages_with_ocr": 140,
+  "pages_with_translation": 6,
+  "source_url": "https://sourcelibrary.org/book/697b079931eb6dd07b7c2311",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:09.189Z",
+  "_hashes": {
+    "ocr": "28212d3941a0be09",
+    "translation": "7db3731eaae783f3"
+  }
+}

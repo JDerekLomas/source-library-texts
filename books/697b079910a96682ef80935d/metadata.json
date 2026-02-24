@@ -1,0 +1,26 @@
+{
+  "id": "697b079910a96682ef80935d",
+  "title": "An enquiry into the patriarchal and druidical religion, temples, etc",
+  "display_title": "An enquiry into the patriarchal and druidical religion, temples, etc",
+  "author": "Cooke, William",
+  "language": "English",
+  "year": 1754,
+  "published": "1754",
+  "pages_count": 149,
+  "pages_with_ocr": 146,
+  "pages_with_translation": 2,
+  "source_url": "https://sourcelibrary.org/book/697b079910a96682ef80935d",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:07.005Z",
+  "_hashes": {
+    "ocr": "17ee050292bced89",
+    "translation": "c81f6a12455280db"
+  }
+}

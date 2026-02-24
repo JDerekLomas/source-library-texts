@@ -1,0 +1,26 @@
+{
+  "id": "6988a5a077951571d9158ece",
+  "title": "Reipublicae christianopolitanae descriptio",
+  "display_title": "Description of the Republic of Christianopolis",
+  "author": "[Andreae, Johann Valentin]",
+  "language": "Latin",
+  "year": 1619,
+  "published": "1619",
+  "pages_count": 156,
+  "pages_with_ocr": 156,
+  "pages_with_translation": 146,
+  "source_url": "https://sourcelibrary.org/book/6988a5a077951571d9158ece",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:02.478Z",
+  "_hashes": {
+    "ocr": "bb1c2ffb241ecb62",
+    "translation": "094d5c41b374d8f5"
+  }
+}

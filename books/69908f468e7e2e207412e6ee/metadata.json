@@ -1,0 +1,28 @@
+{
+  "id": "69908f468e7e2e207412e6ee",
+  "title": "Jataka Parijata (1922 Edition)",
+  "display_title": "Jataka Parijata (1922 Edition)",
+  "author": "Vaidyanatha Dikshita",
+  "language": "Sanskrit",
+  "year": 1922,
+  "published": "Unknown",
+  "pages_count": 134,
+  "pages_with_ocr": 134,
+  "pages_with_translation": 108,
+  "source_url": "https://sourcelibrary.org/book/69908f468e7e2e207412e6ee",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "in.ernet.dli.2015.312156"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:11.977Z",
+  "_hashes": {
+    "ocr": "3d5d9b6180b400fc",
+    "translation": "b87f44e3318eccde"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "6909a8c1cf28baa1b4caee49",
+  "title": "Echo der von Gott hocherleuchten Fraternitet dess löblichen Ordens R.C.",
+  "display_title": "Echo of the Fraternity, highly enlightened by God, of the laudable Order of the R.C.",
+  "author": "[Sperber, Julius]",
+  "language": "German",
+  "year": 1616,
+  "published": "1616",
+  "pages_count": 143,
+  "pages_with_ocr": 143,
+  "pages_with_translation": 143,
+  "source_url": "https://sourcelibrary.org/book/6909a8c1cf28baa1b4caee49",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:08.348Z",
+  "_hashes": {
+    "ocr": "cb3c065f7c1aabdd",
+    "translation": "21b4696cb9a082d2"
+  }
+}

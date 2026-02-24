@@ -1,0 +1,26 @@
+{
+  "id": "6970e35e9b09d309d780a262",
+  "title": "De alchemia dialogi duo. Sententia. Lignum vitae",
+  "display_title": "De alchemia dialogi duo. Sententia. Lignum vitae",
+  "author": "[Bracesco, Giovanni]|Geber|Lull, Ramón",
+  "language": "Latin",
+  "year": 1548,
+  "published": "1548",
+  "pages_count": 156,
+  "pages_with_ocr": 156,
+  "pages_with_translation": 148,
+  "source_url": "https://sourcelibrary.org/book/6970e35e9b09d309d780a262",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:02.194Z",
+  "_hashes": {
+    "ocr": "18c2d560ad921bf5",
+    "translation": "6321ccd23ffa03ed"
+  }
+}

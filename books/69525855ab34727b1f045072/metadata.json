@@ -1,0 +1,28 @@
+{
+  "id": "69525855ab34727b1f045072",
+  "title": "Lumen de Lumine",
+  "display_title": "Lumen de Lumine, or A New Magicall Light",
+  "author": "Thomas Vaughan",
+  "language": "English",
+  "year": 1651,
+  "published": "1651",
+  "pages_count": 126,
+  "pages_with_ocr": 126,
+  "pages_with_translation": 126,
+  "source_url": "https://sourcelibrary.org/book/69525855ab34727b1f045072",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "lumendelumineorn00vaug"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:16.888Z",
+  "_hashes": {
+    "ocr": "93a01fd31b8d916d",
+    "translation": "cf024fa236f23147"
+  }
+}

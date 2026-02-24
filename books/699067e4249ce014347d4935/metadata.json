@@ -1,0 +1,28 @@
+{
+  "id": "699067e4249ce014347d4935",
+  "title": "Dialogue de la Lycanthropie ou Transformation d'Hommes en Loups",
+  "display_title": "Dialogue de la Lycanthropie ou Transformation d'Hommes en Loups",
+  "author": "Claude Prieur",
+  "language": "French",
+  "year": 1596,
+  "published": "Unknown",
+  "pages_count": 160,
+  "pages_with_ocr": 160,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/699067e4249ce014347d4935",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "hin-wel-all-00002784-001"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:28:00.692Z",
+  "_hashes": {
+    "ocr": "55f5ee618c4059f0",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

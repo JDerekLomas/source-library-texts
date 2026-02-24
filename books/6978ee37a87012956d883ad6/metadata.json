@@ -1,0 +1,26 @@
+{
+  "id": "6978ee37a87012956d883ad6",
+  "title": "Ein christlich Bedencken: Von dem gemeynen Geschrey",
+  "display_title": "Ein christlich Bedencken: Von dem gemeynen Geschrey",
+  "author": "[Maier, Georg]",
+  "language": "German",
+  "year": 1558,
+  "published": "1558",
+  "pages_count": 132,
+  "pages_with_ocr": 132,
+  "pages_with_translation": 103,
+  "source_url": "https://sourcelibrary.org/book/6978ee37a87012956d883ad6",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:13.494Z",
+  "_hashes": {
+    "ocr": "7acf3f1e5f1b8cf1",
+    "translation": "a0da5f511ebb9a98"
+  }
+}
