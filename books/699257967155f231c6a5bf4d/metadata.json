@@ -1,0 +1,28 @@
+{
+  "id": "699257967155f231c6a5bf4d",
+  "title": "Niyamasara: The Perfect Law",
+  "display_title": "Niyamasara: The Perfect Law",
+  "author": "Kundakunda (trans. Uggar Sain)",
+  "language": "Sanskrit",
+  "year": 1917,
+  "published": "Unknown",
+  "pages_count": 86,
+  "pages_with_ocr": 86,
+  "pages_with_translation": 69,
+  "source_url": "https://sourcelibrary.org/book/699257967155f231c6a5bf4d",
+  "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "Niyamsara"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:11.569Z",
+  "_hashes": {
+    "ocr": "a5d827a0b3dd15ed",
+    "translation": "6b20fe83d6a3262c"
+  }
+}

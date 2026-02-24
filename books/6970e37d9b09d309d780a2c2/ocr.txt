@@ -1,0 +1,2513 @@
+--- Page 1 ---
+<lang>N/A</lang>
+<meta>Leather book cover, likely front or back board</meta>
+<warning>The leather surface is worn, stained, and shows minor abrasions. There is a small puncture or deep indentation near the bottom right edge.</warning>
+
+[This page consists of a blank, brown leather book cover. It features a triple-line blind-tooled border running along the perimeter of the board. There is no written text or printed matter present on this surface.]
+
+<vocab>leather binding, blind-tooled, book board, manuscript cover</vocab>
+
+<detected-images>
+[{"description": "Brown leather book cover with triple-line blind-tooled borders", "type": "decorative", "bbox": {"x": 0.03, "y": 0.02, "width": 0.94, "height": 0.96}, "gallery_quality": 0.4, "museum_rationale": "Provides material context for the manuscript, demonstrating a standard early modern binding style with simple blind-tooling."}]
+</detected-images>
+
+--- Page 2 ---
+<lang>Latin</lang>
+<meta>Inside front cover with pasted bookplate label.</meta>
+
+R
+
+->PHILOSOPHIA HERMETICA<-
+
+<vocab>Philosophia Hermetica, Pelican in her piety, Rosicrucian, Alchemy, Bookplate</vocab>
+
+<detected-images>
+[{"description": "A circular Hermetic emblem featuring a pelican in her piety feeding her young from her own breast, a traditional symbol of sacrifice and the alchemical work. Below the pelican is a shield featuring four roses. The entire scene is enclosed in a green border and surrounded by the inscription 'PHILOSOPHIA HERMETICA'.", "type": "emblem", "bbox": {"x": 0.372, "y": 0.355, "width": 0.257, "height": 0.224}, "gallery_quality": 0.85, "museum_rationale": "This bookplate contains a high-quality rendering of late-period Hermetic and Rosicrucian iconography. The combination of the pelican and the roses is a significant marker of Western esoteric traditions, particularly the Rose Cross tradition."}]
+</detected-images>
+
+--- Page 3 ---
+<lang>English</lang>
+<vocab>Anthroposophia Theomagica, Eugenius Philalethes, Thomas Vaughan, Proto-Chimiſtry, alchemical, Zoroaster, Audi Ignis Vocem, London, 1650</vocab>
+
+# ANTHROPOSOPHIA THEOMAGICA:
+
+->*Or*<-
+
+->A Diſcourſe of the Nature of<-
+->Man and his ſtate after death;<-
+->Grounded on his Creator's Proto-<-
+->Chimiſtry, and verifi'd by a practicall<-
+->Examination of Principles in<-
+->the Great World.<-
+
+---
+
+### By *Eugenius Philalethes.*
+
+---
+
+->*Dan:*<-
+->Many ſhall run to and fro, and know-<-
+->ledge ſhall be increaſed.<-
+
+->*Zoroaſter in Oracul.*<-
+->Audi Ignis Vocem.<-
+
+---
+
+->L O N D O N,<-
+->Printed by *T. W* For *H. Blunden* at the<-
+->Caſtle in *Corn-hill.* 1650.<-
+
+<detected-images>
+[{"description": "Decorative border composed of fleurons (typographical ornaments) framing the entire title page text.", "type": "decorative", "bbox": {"x": 0.076, "y": 0.053, "width": 0.778, "height": 0.846}, "gallery_quality": 0.3, "museum_rationale": "A standard examples of 17th-century decorative fleuron borders used in English book printing."}]
+</detected-images>
+
+--- Page 4 ---
+<lang>English</lang>
+<meta>This page is the verso of a title page. The text visible is mirrored show-through (bleed-through) from the recto side. A circular library stamp is present in the center.</meta>
+<warning>The text on this page is mirrored and represents show-through from the reverse side of the leaf.</warning>
+
+<note>The following is a transcription of the mirrored text visible through the paper, representing the title page on the recto side of this leaf.</note>
+
+# ANTHROPOSOPHIA
+## THEOMAGICA:
+### OR
+### A Discourse of the Nature of
+### Man and his state after death,
+
+Grounded on his Creator's Proto-
+Chemistry, and verifi'd by a practical
+Examination of Principles in
+the Great World.
+
+---
+->By Eugenius Philalethes.<-
+---
+
+Dan: 12. 4.
+> Many shall run to and fro, and know-
+> ledge shall be increased.
+
+*Sapere in Voto.*
+*Audi ignis vocem.*
+
+---
+
+**LONDON,**
+Printed by T.W. for H. Blunden
+at the Castle in Corn-hill.
+1650.
+
+<vocab>Anthroposophia Theomagica, Eugenius Philalethes, Thomas Vaughan, Alchemy, Hermeticism, Daniel 12:4, London 1650</vocab>
+
+<detected-images>
+[{"description": "Faint circular library stamp", "type": "decorative", "bbox": {"x": 0.405, "y": 0.415, "width": 0.205, "height": 0.125}, "gallery_quality": 0.2, "museum_rationale": "An institutional ownership mark typical for digitized library collections."}]
+</detected-images>
+
+--- Page 5 ---
+<lang>Latin</lang>
+<meta>catchword: Au-</meta>
+
+# Illustrissimis, & vere Re-
+
+->natis Fratribus R. C. πρωτοτόκων<-
+->Ecclesiæ in tumultuoſo hoc Sæ-<-
+->culo Apoſtolis Pacificis, Salu-<-
+->tem à Centro Salutis.<-
+
+*Q uum in ſummum Altare ſummo tantum Pontifici Jus ſit, audens nimis hoc Libum, nec ſine ſacrilegio Vobis obtrudi videatur; habet & pietas ſuos Cancellos: Qui accedit injuſſus,*
+
+<vocab>Illustrissimis, Fratribus R. C., πρωτοτόκων, Ecclesiæ, Apostolis Pacificis, Centro Salutis, Pontifici, Libum, Cancellos</vocab>
+
+<detected-images>
+[
+  {"description": "Three rows of repeating decorative fleur-de-lis type ornaments acting as a headpiece.", "type": "decorative", "bbox": {"x": 0.148, "y": 0.155, "width": 0.701, "height": 0.158}, "gallery_quality": 0.5, "museum_rationale": "Standard printer's ornaments of the period, used for layout structure."},
+  {"description": "Decorative woodcut initial letter 'Q' featuring foliage and a central floral motif within a square border.", "type": "decorative", "bbox": {"x": 0.133, "y": 0.625, "width": 0.283, "height": 0.174}, "gallery_quality": 0.75, "museum_rationale": "A well-executed example of a 17th-century decorative woodcut initial, typical of high-quality scholarly or theological printing."}
+]
+</detected-images>
+
+--- Page 6 ---
+<lang>Latin</lang>
+<meta>show-through, catchword: Colle-</meta>
+<warning>Significant show-through/ghosting from the reverse side of the page is visible throughout the text.</warning>
+
+Adaciæ, *non* Obsequii *reus est. Allusit*
+*Istis olim Poetarum illa* gigantomachia,
+*quæ* Coelum *etiam expugnare molieba-*
+*tur. Nec desunt hac nostra Ætate fatui*
+*quidam, & palustres* Igniculi, *qui Stel-*
+*las se somniant, & soli a latere credun-*
+*tur.* Abfit Engenio *fastus iste, &* Cli-
+*max ambitionis! Hoc est,*
+
+->---- imponere Pelion Ossæ.<-
+
+Ego, Fratres Nobilissimi, in
+Sacrarii vestibulo, nec ad Aram Far hoc
+meum, Sed in Limine modestius expono.
+Vellem (si mihi in Censum accessissent)
+Talia vobis offerre,
+
+->---- Quæ fæcula Posterique possint<-
+->Arpinis quoque comparare Chartis.<-
+
+Sed non est quod desperem. Prodeant
+forsan in Novissimis, Qui faculam hanc
+meam præferent vel Solibus tusculanis.
+Atque hac quidem ratione Marci Tullii
+
+<vocab>gigantomachia, Pelion, Ossæ, Arpinis, Solibus tusculanis, Marci Tullii, Adaciæ, Engenio</vocab>
+
+--- Page 7 ---
+<lang>la</lang>
+<meta>catchword: nere</meta>
+
+Collega sum, quod in eandem Immorta-
+tem tendit noster Consulatus. Peragra-
+vi Ego, Quod Apes factitant, (*non ille*
+*Quintiliani in Area venenata*) Floscu-
+culos Coelestes libaturus, & Qui suavia
+sua ex *Aromatum Montibus* attrax-
+erunt. Si quid mihi *Mellificii* est,
+Ego vobis *Favum* hunc, & *alveare*
+Solent tamen *Rosae* in aliquorum sinu
+sordescere : sordescet forsan & hic
+noster *Manipulus*, quoniam meae
+*Messis* est. Fateor, *Errata Eu-*
+*genii* sunt, Caetera *Veritatis*. Sed
+quorsum haec *Veritati Testimonium*,
+Vobis etiam astantibus, Quibus in
+propatulo est triplex illud *Spiritus*,
+*Aquae, & sanguinis Martyrium*?
+Supervacanea est haec, non auxilia-
+ris *Vocula* : *Qui silet ad Coelum*
+*sapit*. Accipite ergo ( *F. Illustrif-*
+*simi* ) *Quadrantem* hunc meum non
+*Qualem Vobis offerre Debui, sed*
+*Qualem potui*. *Mens mihi pro Mu-*
+
+<vocab>Quintilianus, Consulatus, Mellificium, Favus, Alveare, Spiritus, Aquae, Sanguinis Martyrium, Quadrans</vocab>
+
+--- Page 8 ---
+<lang>lat</lang>
+<meta>catchword: Siste</meta>
+
+nere est. *Hoc etiam praefari voluit paupertas , Nolite Rem ipsam ex- pendere, sed Obsequium*
+
+->*Oxonii*<-
+->48.<-
+
+->*Oratoris Vestri*<-
+
+# E. P.
+
+---
+
+### Errata.
+->Second part.<-
+
+| Pa. | li. | Read | Pa. | li. | Read |
+|:---|:---|:---|:---|:---|:---|
+| 2 | 18 | rambl'd | 3 | 10 | whereon |
+| 9 | 29 | Demoniũ | 4 | 29 | Finihabia |
+| 12 | 3 | paulo post | 21 | 5 | Iodims |
+| 29 | 26 | this fire | 40 | 17 | ad dextrã |
+| 64 | 13 | I carve | 48 | 20 | per mistos |
+
+---
+
+<vocab>Oxonii, Oratoris, Errata, Demoniũ, Finihabia, Iodims, ad dextrã, per mistos</vocab>
+
+--- Page 9 ---
+<lang>English</lang>
+<sig>B</sig>
+<meta>catchword: exclud-</meta>
+
+## The Author to the Reader.
+
+I Looke on this *Life* as the *progress* of an *Essence Royall*: The *Soule* but quits her Courte to see the Countrey. *Heauen* hath in it a *Scæne* of *earth*; and had she bin contented with *Ideas* she had not travelled beyond the *Mapp*. But excellent patterns commend their *Mimes*, *Nature* that was so fair in the *type*, could not be a *slut* in the *Ana-glyph*. This makes her ramble hither to examine the *meddall* by the *Flaske*, but whiles she scanns their *Symmetrie*, she formes it. Thus her descent speaks her *Originall*: God in love with his owne *Beauty*, frames a *Glasse* to view it by reflection; but the frailety of the matter
+
+<vocab>Essence Royall, Anaglyph, meddall, Flaske, Symmetrie, Originall, Scæne, Mimes</vocab>
+
+<detected-images>
+[
+  {"description": "Row of nine decorative printer's fleurons or floral ornaments used as a headpiece.", "type": "decorative", "bbox": {"x": 0.085, "y": 0.088, "width": 0.745, "height": 0.065}, "gallery_quality": 0.4, "museum_rationale": "Standard 17th-century typographic ornaments used to head a new section of text."},
+  {"description": "Decorative woodcut initial letter 'I' featuring scrolling foliage, leaves, and shaded floral motifs.", "type": "decorative", "bbox": {"x": 0.083, "y": 0.258, "width": 0.335, "height": 0.228}, "gallery_quality": 0.65, "museum_rationale": "A well-executed example of an early modern historiated or decorative initial, characteristic of the period's book production."}
+]
+</detected-images>
+
+--- Page 10 ---
+<lang>English</lang>
+<warning>Slight blurring on the left margin and significant bleed-through (ghosting) from the text on the reverse side of the page.</warning>
+<meta>catchword: fol.</meta>
+
+## The Author to
+
+excluding *eternity*, the *composure* was subject to *dissolution*. *Ignorance* gave this *release* the name of *Death*, but properly it is the *Soules Birth*, and a charter that makes for her *Liberty*; she hath severall *waies* to *breake up house*, but her *best* is without a *disease*. This is her *mysticall walke*, an exit only to *returne*. When she takes air at this door, it is without prejudice to her *Tenement*. The Magicians tell me *Anima unius entis egreditur, & aliud ingreditur*, some have examin'd this, and state it an *expence of Influences*, as if the Soul exercised her *Royalty* at the *eye*, or had some *blinde Jurisdiction* in the *Pores*. But this is to measure *magicall Positions* by the *flight superficiall strictures* of the *common Phylosophy*. It is an age of *Intellectuall slaveries*; If they meet any thing extraordinary, they prune it commonly with *distinctions*, or dawb it with *false Glosses*, till it look like the *Traditions of Aristotle*. *His*
+
+<vocab>eternity, dissolution, Soules Birth, Magicians, Anima, Influences, Phylosophy, Aristotle, Hermeticism</vocab>
+
+--- Page 11 ---
+<lang>English</lang>
+<header>the Reader.</header>
+<sig>B 2</sig>
+
+followers are so confident of his principles they seek not to *understand* what *others* speak, but to make others speak what they understand. It is in *Nature*, as it is in *Religion*; we are still hammering of old elements, but seek not the *America* that lyes beyond them. The *Apostle*
+<margin>Hebr.</margin>
+tells us of *leaving the first principles of the Doctrine of Christ, and going on to perfection : Not laying again the foundation of Repentance from dead works, and of faith towards God; of the Doctrine of Baptism, and laying on of Hands, of Resurrection, and the eternall Judgement; Then he speaks of Illumination, of Tasting of the Heavenly gift, of being partakers of the Holy Ghost, of Tasting of the good word of God, and the powers of the world to come.* Now if I should question any *Sect* (for there is no Communion in *Christendom*) whither these later *Intimations* drive? They can but return me to the first *Rudiments*, or produce some *emptie* pretence
+
+<vocab>America, Apostle, Christ, Baptism, Resurrection, Christendom, Sect, Illumination</vocab>
+
+--- Page 12 ---
+<lang>English</lang>
+<header>The Author to</header>
+<meta>catchword: for</meta>
+
+of *spirit*. Our *Naturall Philosophers*
+are much of a *Cast* with *Figure-fling-*
+*ers* : These step into the prerogative of
+Prophets, and *Antedate* events in confi-
+gurations, and motions. This is a con-
+sequence of as much reason, as if I saw
+the *Suede* exercising, and would finde
+his *Designes* in his *postures*.
+
+<margin>L. Verulam in his N. A.</margin>
+*Friar Bacon* walk'd in *Ox-*
+*ford* between two steeples,
+but he that would have discovered his
+Thoughts, by his steps, had been more his
+*Fool*, then his *Fellow*. The *Peripate-*
+*ticks* when they define the *Soul*, or some
+*Inferior Principle*, describe it onely by
+outward circumstances, which every
+childe can do, but they state nothing
+*Essentially*. Thus they dwel altogether
+in the Face, their *Indeavours* are meer
+*Titillations*, & their *Acquaintance* with
+*Nature* is not at the heart. Notwith-
+standing I acknowledge the *School-*
+*men ingenious* : They conceive their
+*Principles irregular*, and prescribe rules
+
+<vocab>Natural Philosophers, Figure-flingers, Lord Verulam, Francis Bacon, Friar Bacon, Roger Bacon, Peripateticks, Soul, Schoolmen, Nova Atlantis</vocab>
+
+--- Page 13 ---
+<lang>English</lang>
+<header>the Reader.</header>
+
+# the Reader.
+
+for *Method*, though they want *Matter*. Their *Philoſophie* is like a *Church*, that is all diſcipline, and no *Doctrine*: For bate me their *prolegomena*, their form of *Arguing*, their *Reciting* of *Different Opinions*, with ſeverall other *digreſſions*, and the ſubſtance of theſe *Toſtati* will ſcarce amount to a *Mercury*. Beſides, their *Ariſtotle* is a Poet in text his principles are but *Fancies*, and they ſtand more on our *Conceſſions*, then his Bottom. Hence it is that his followers, notwithstanding the *Aſſistance* of ſo many Ages, can fetch nothing out of him but *Notions*: And theſe indeed they uſe, as *He* ſayeth *Lycophron* did his *Epithets*,
+<margin>Arift. Rhet.</margin>
+*Non ut Condimentis*, *ſed ut Cibis*; Their *Compoſitions* are a meer *Tympanie* of *Termes*. It is better then a Fight in *Quixot*, to obſerve what *Duels*, and *Digladiations* they have about Him. one will make him ſpeak *Senſe*, another *Non ſenſe*, and a third both, *Aquinas* palps him gently, *Scotus* makes him
+
+<sig>B 3</sig>
+<meta>catchword: winch,</meta>
+
+<vocab>Prolegomena, Toſtati, Mercury, Aristotle, Lycophron, Tympanie, Quixot, Digladiations, Aquinas, Scotus</vocab>
+
+--- Page 14 ---
+<lang>English</lang>
+<header>The Author to</header>
+
+->The Author to<-
+
+winch, and he is taught like an *Ape* to
+shew severall tricks. If we look on his
+*adversaries*, the least amongst them
+hath foyld him, but *Telesius* knock'd
+him in the head, and *Campanella* hath
+quite discomposed him. But as that *bald*
+*haunter* of the *circus* had his scull so
+steel'd with use, it shiver'd all the tyles
+were thrown at it, so this *Aristotle*
+thrives by scuffles, and the world cryes
+him up, when trueth cryes him down.
+The *Peripatetickes* look on *God*, as they
+do on *Carpenters*, who build with stone
+and *Timber*, without any infusion of
+life. But the world, which is *Gods* buil-
+ding, is full of *Spirit*, *quick*, and *living*.
+This *Spirit* is the cause of multiplica-
+tion, of severall perpetuall productions
+of minerals, vegetables, and creatures in-
+gendred by putrefaction: All which are
+manifest, infallible Arguments of life.
+Besides, the *Texture* of the universe
+clearly discovers its animation. The
+*Earth* which is the visible natural *Ba*-
+
+<meta>catchword: sis</meta>
+<vocab>Ape, Telesius, Campanella, Aristotle, Peripatetickes, God, Spirit, minerals, vegetables, putrefaction, Texture, Earth</vocab>
+
+--- Page 15 ---
+<lang>English</lang>
+<header>To the Reader.</header>
+<sig>B 4</sig>
+<meta>catchword: in</meta>
+
+sis of it , represents the *Grosse* , *carnall*
+*parts*. The *Element of Water* answers
+to the blood, for in it the *Pulse* of the
+*Great world beates*; this most men call
+the *Flux* and *Reflux*, but they know
+not the true cause of it. The *Aire* is the
+outward refreshing spirit, where this
+vast creature breathes, though invisibly,
+yet not altogether insensibly. The *In-*
+*terstellar skies* are his *vitall*, ætherall
+*waters*, and the *Stars* his *animall sensu-*
+*all Fire*. Thou wilt tell me perhaps, this
+is *new Philosophy* and that of *Aristotle*
+is *old*. It is indeed, but in the same sence
+as *Religion* is at *Rome*. It is not the pri-
+mitive *Trueth* of the *Creation*, nor the
+*Ancient*, reall *Theosophie* of the *He-*
+*brewes* and *Egyptians*, but a certaine *pre-*
+*ternaturall upstart*, a *vomit of Aristotle*,
+which his followers with so much dili-
+gence lick up, and swallow. I present
+thee not here with any clamorous oppo-
+sition of their *Patron*, but a positive
+*expresse of Principles* as I finde them
+
+<vocab>Grosse parts, Element of Water, Pulse, Great world, Flux and Reflux, Aire, Interstellar skies, Stars, animall sensuall Fire, new Philosophy, Aristotle, Religion at Rome, Trueth of the Creation, Theosophie, Hebrews, Egyptians, preternaturall upstart</vocab>
+
+--- Page 16 ---
+<lang>English</lang>
+<meta>catchword: vice</meta>
+
+# The Author to
+
+in *Nature*. I may ſay of them as *Mo-*
+*ſes* ſaid of the *Fiat*: *Theſe are the Ge-*
+*nerations of the Heavens, and of the*
+*Earth, in the day that the Lord God*
+*made the Heavens and the Earth*.
+They are things *extra Intellectum*,
+ſenſible practicall *Truths*, not meer
+Vagaries and Rambles of the *Brain*.
+I would not have you look on my *En-*
+*deavours* as a *deſigne* of *Captivity*: I in-
+tend not the *Conqueſt*, but the *Exerciſe*
+of thy *Reaſon*, not that thou ſhouldeſt
+ſweare *Allegeance* to my *Dictates*, but
+compare my *Concluſions* with *Nature*,
+and examine their *Correſpondency*.
+Be pleaſed to conſider, that *Obſtinacy*
+inſlaves the *Soule*, and clips the wings
+which *God* gave her for *flight*, and
+*Diſcovery*. If thou wilt not quit thy
+*Ariſtotle*, let not any prejudice hin-
+der thy further ſearch; *Great is their*
+*Number who perhaps had attain'd to*
+*perfection, had they not already thought*
+*themſelves perfect*. This is my *Ad-*
+
+<vocab>Nature, Fiat, extra Intellectum, Aristotle, Reason, Obstinacy</vocab>
+
+--- Page 17 ---
+<lang>English</lang>
+<header>the Reader .</header>
+<meta>Catchword on the preceding page would have been 'vice'</meta>
+<meta>Significant ghosting/bleed-through from the following page is visible on the paper surface</meta>
+
+vice, but how wellcome to thee I know not . If thou wilt *kick and fling*, I shall say with the Cardinall , *etiam Asinus meus recalcitrat* : for I value no mans Censure . It is an Age wherein **Trueth** is neere a *Miscarriage*, and it is enough for me that I have appeared thus far for it, in a Day of *Necessity* .
+
+->E. P.<-
+
+---
+
+---
+
+<vocab>Cardinall, Censure, Trueth, Miscarriage, Necessity, E. P., Latin</vocab>
+
+--- Page 18 ---
+<lang>English</lang>
+
+<warning>This page suffers from extreme ink bleed-through (show-through) from the preceding leaf. The mirrored text at the top is the reverse of a "To the Reader" preface from the previous page. The intended text on this page is located in the middle and bottom half, but it is extremely faded and difficult to discern.</warning>
+
+->E. P.<-
+
+---
+
+---
+
+<unclear>...</unclear> read <unclear>...</unclear> of the <unclear>...</unclear> than the <unclear>...</unclear>
+<unclear>...</unclear> after <unclear>...</unclear> confer with <unclear>...</unclear>
+and examine their <unclear>...</unclear>
+is <unclear>...</unclear> and <unclear>...</unclear>
+related <unclear>...</unclear>
+the <unclear>...</unclear>
+their <unclear>...</unclear>
+Warrant <unclear>...</unclear>
+<unclear>...</unclear> the <unclear>...</unclear> they <unclear>...</unclear>
+themselves <unclear>...</unclear> This is <unclear>...</unclear>
+
+<vocab>E. P., Warrant</vocab>
+
+--- Page 19 ---
+<lang>English</lang>
+<page-num>1</page-num>
+<meta>catchword: had; bleed-through/ghost text from verso visible at top including mirrored words "Anthropologia" and "had"</meta>
+
+# ANTHROPOSOPHIA
+
+## THEOMAGICA
+
+WHEN I found out this *Trueth*, That *Man* in his *Originall* was a *Branch* planted in *God* and that there was a continuall *Influxe* from the *Stock* to the *Sion*, I was much troubl'd at his *Corruptions*, and wonder'd his *Fruits* were not *correspondent* to his *Roote*. But when I was told he had tasted of an other *Tree*, my admiration was quickly off, it being my chiefe care to re-duce him to his first *Simplicitie*, and separate his *Mixtures* of *Good* and *Evill*. But his *Fall*
+
+<vocab>Anthroposophia, Theomagica, Trueth, Originall, Influxe, Sion, Simplicitie, Thomas Vaughan, Alchemy, Hermeticism</vocab>
+
+<detected-images>
+[
+  {"description": "Decorative woodcut border composed of three rows of repeating fleuron ornaments", "type": "decorative", "bbox": {"x": 0.045, "y": 0.188, "width": 0.748, "height": 0.172}, "gallery_quality": 0.6, "museum_rationale": "A characteristic example of 17th-century typographic layout using woodcut fleurons to create a decorative header border."},
+  {"description": "Decorative woodcut initial letter 'W' with floral and foliate scrolling patterns", "type": "decorative", "bbox": {"x": 0.042, "y": 0.542, "width": 0.339, "height": 0.213}, "gallery_quality": 0.8, "museum_rationale": "A well-executed historiated initial letter 'W' in the style of Early Modern English printing, featuring intricate woodcut detail with vine and leaf motifs."}
+]
+</detected-images>
+
+--- Page 20 ---
+<lang>English</lang>
+<page-num>2</page-num>
+<header>Anthropofophia</header>
+<meta>catchword: Inquisition</meta>
+
+had fo bruifed him in his beft part, that his Soule had not knowledge left to ftudie him a Cure, his Punifhment prefently followed his Trefpaffe:
+<margin>C. Agrip. de vanit Scient.</margin>
+*Velata funt omnia, intravitq; oblivio mater Ignorantiæ.* This *Lethe* remained not in his body, but paffing together with his *Nature*, made his Pofterity her Chanell imperfections, an eafy *Inheritance*, but Vertue feldome finds any Heires. *Man* had at the Firft, and fo have all Souls before their Entrance to the *Body*, an explicit methodicall Knowledge, but they are noe fooner *Veffel'd* but that Liberty is loft, and nothing remaines but a Vaft confufed Notion of the Creature. Thus had I only left a Capacity without Power, and a Will to doe that, which was far enough above me. In this Perplexity I ftudied feverall *Arts*, and ramel'd over all thofe *Inventions* which the folly of man call'd *Sciences*; But thefe Indeavours for-ting not to my purpofe. I quitted this Booke-bufineffe, and thought it a better courfe to ftudy *Nature* then *Opinion*. Hereupon I confidered with my felfe that Man was not the Primitive immediate worke of God, But the *World*, out of which he was made. And to regulate my ftudies in point of *Methode*, I judg'd it convenient to examine his Principles firft, and not *him*. But the World in generall being too large for
+
+<vocab>Anthroposophia, Cornelius Agrippa, Lethe, Nature, Sciences, Methode</vocab>
+
+--- Page 21 ---
+<lang>English</lang>
+<page-num>3</page-num>
+<header>Theomagica.</header>
+
+*Inquiſition*, I reſolv'd to take Part for the Whole, and to give a gueſſe at the Frame by *Proportion*. To perfect this my *Eſſay*, I tooke to taske the Fruits of one *Spring*. Here I obſerved a great many *Vegetables* freſh, and beautious in their *Time*, but when I looked back on their *Originall*, they were no ſuch things as *Vegetables*. This *Obſervation* I apply'd to the *World*, and gained by it this *Inference*: *That the World in the beginning was no ſuch thing as it is, but ſome other ſeed or matter out of which that Fabricke which I now behold, did ariſe*. But reſting not here, I drove my *Concluſion* further, I conceav'd thoſe ſeeds whereof *Vegetables* did ſprung, muſt be ſomething elſe at firſt then Seeds, as having ſome *praexiſtent* matter whereof they were made, but what that matter ſhould be I could not gueſſe. Here was I forc'd to leave off *Speculation*, and come up to *Experience*. Whiles I ſought the World, I went beyond it, and I was now in *Queſt* of a *Subſtance*, which without *Art* I could not ſee. Nature wrapps this moſt ſtrangly in her very boſome, neither doth ſhe expoſe it to any thing but her owne *Vitall Celeſtiall Breath*, But in reſpect that God Almighty is the only proper immediate *Agent* which actuates this matter,
+
+as well inthe worke of *Generation* as formerly in his *Creation*, it will not be amiſſe to ſpeake
+
+<meta>catchword: ſomething</meta>
+
+<vocab>Theomagica, Inquisition, Vegetables, Inference, Fabricke, Speculation, Experience, Vitall Celeſtiall Breath, Agent, Generation, Creation</vocab>
+
+--- Page 22 ---
+<lang>English</lang>
+<page-num>4</page-num>
+<header>neomagica</header>
+<meta>likely source: Anthrosophia Theomagica (1650) by Thomas Vaughan</meta>
+<meta>catchword: did</meta>
+
+something of Him, that we may know the
+*Cause* by his *Creatures*, and the *Creatures*
+by their *Cause*.
+
+> *My God, my Life!* whose *Essence* man
+> Is no way fit to *Know*, or *Scan*;
+> But should aproach thy *Court* a *Guest*
+> In *Thoughts* more low, then his *Request*.
+> When I consider, how I stray,
+> Methinks 'tis *Pride* in mee to *Pray*.
+> How dare I speake to *Heaven*, nor feare
+> In all my *Sinns* to court thy *Eare*?
+> But as I looke on *Moles* that *Lurke*
+> In blind *Intrenchments*, and there worke
+> Their owne darke *Prisons* to repaire,
+> Heaving the *Earth* to take in *Aire*:
+> So view my fetterd *Soule*, that must
+> Struggle with this her *Load of Dust*
+> Meet her *Addresse*, and add one *Ray*
+> To this mew'd *Parcell* of thy *Day*
+> She would though here imprison'd, see
+> Through all her *Dirt* thy *Throne* and *Thee*.
+> *Lord* guide her out of this sad *Night*
+> And say once more, *Let there be Light.*
+
+---
+
+It is *Gods* own positive truth: <margin>Efdr.</margin> *In the*
+*Beginning* That is, In that dead silence,
+in that horrible & empty *Darknes* when
+as yet nothing was fashioned, then (saith the lord)
+
+<vocab>Anthrosophia Theomagica, Thomas Vaughan, Esdras, Creation, Devotional Poetry, Essence, Souls, Light</vocab>
+
+--- Page 23 ---
+<lang>English</lang>
+<page-num>5</page-num>
+<header>Theomagica.</header>
+<meta>catchword: to; small ink stain or hole on the word "Æternall"</meta>
+
+# Theomagica.
+
+did I consider these things, and they all were
+made through me alone, and through none other,
+By me also shall they be ended and by none other.
+That Meditation, forerunns every Solemne
+Work, is a thing so well known to man, that
+he needs no further Demonstration of it then
+his own Practice: That there is also in God
+something *Analogicall* to it, from whence Man
+derived this Customary Notion of his; As it is
+most agreeable to *Reason*, so withall is it very
+sutable to Providence. *Dii* (saith *Iamblichus*)
+*concipiunt in se totum opus, antequam parturi-*
+*unt.* And the Spirit here to *Esdras*. *Then did*
+*I consider these things*, He consider'd them
+first and made them afterwards. God in his *Æ-*
+*ternall Idea*, foresaw *That*, whereof as yet
+there was no *Materiall Copy*; The goodnes and
+Beauty of the one, mov'd him to create the o-
+ther, and truly the Image of this *Prototype*
+being imbosom'd in the *Second* made Him so
+much in love with his *Creature*, that when
+Sin had defac'd it, He restor'd it by the suffer-
+ings of that *Patterne* by which at first it was
+made. *Dyonisius* the *Areopagite*, who lived in
+the Primitive Times, and received the Myste-
+ries of Divinity immediately from the *A-*
+*postles*, stiles God the Father, sometimes *Arca-*
+*num Divinitatis*, sometimes *Occultum illud su-*
+*persubstantiale* and elsewhere he compares him
+
+<vocab>Theomagica, Meditation, Iamblichus, Esdras, Æternall Idea, Prototype, Dyonisius the Areopagite, Arcanum Divinitatis, Occultum illud supersubstantiale</vocab>
+
+--- Page 24 ---
+<lang>English</lang>
+<page-num>6</page-num>
+<header>Anthropofophia</header>
+<warning>Small brown stain on the left margin near the middle of the page.</warning>
+
+to a *Roote*, whoſe *Flowres* are the *Second* and
+*Third Perſon*. This is true; For God the Fa-
+ther is the *Baſis* or ſupernaturall Foundation of
+his *Creatures*; God the Son, is the *Patterne* in
+whoſe expreſſe Image they were made: And
+God the Holy Ghoſt is *Spiritus Opifex*, or the
+*Agent*, who fram'd the creature in a juſt *ſym-*
+*metrie* to his *Type*. This Conſideration or type
+God hath ſince uſed in the performance of *in-*
+*feriour works*. Thus in the Inſtitution of his
+*Temple* he commands *Moſes* to the *Mount*,
+where the *Divine Spirit* ſhews him the *Idea*
+of the *future Fabrick*; *And let them*
+<margin>Exod.</margin>
+> *make me a Sanctuary that I may dwell amongſt them, according to all that I ſhew thee, after the pattern of the* Tabernacle, *&* *the pattern of all the* Inſtruments *thereof, even ſo ſhall you make it.*
+
+Thus the *Divine mind* doth
+inſtruct us *porrigendo Ideas quadam extenſione*
+*ſui extra ſe*, and ſometimes more particularly
+*in dreames*. To *Nebuchadnezzar* he preſents a
+*Tree* ſtrong and high, reaching to the *Hea-*
+*vens*, and the ſight thereof to the ends of the
+*Earth*, To *Pharaoh* he ſhews ſeven *Ears* of
+*Corn*; To *Joſeph* he appears in ſheafes, and then
+reſembles the *Sun, Moon and Stars*. To con-
+clude he may expreſſe himſelfe by what he will,
+for in him are innumerable, eternall *Prototypes*,
+and he is the true *Fountain*, and *Treaſury of*
+
+<meta>catchword: Formes</meta>
+
+<vocab>Anthropofophia, Trinity, Spiritus Opifex, Type, Moſes, Idea, Sanctuary, Tabernacle, Nebuchadnezzar, Pharaoh, Joſeph, Prototypes, Formes</vocab>
+
+--- Page 25 ---
+<lang>English</lang>
+<page-num>7</page-num>
+<header>Theomagica.</header>
+
+*Forms.* But that we may come at last to the
+scope proposed : *God the Father* is the *Meta-*
+*physicall, supercelestiall Sun*, The *second Person*
+is the *light*, and the *Third* is *Amor igneus*, or a
+*Divine heat* proceeding from *Both*. Now with-
+out the presence of this *Heat* there is no *Rece-*
+*ption* of the *Light*, and by Consequence no *In-*
+*flux* from the Father of *Lights*. For this *Amor*
+is the *Medium* which unites the *Lover* to that
+which is *beloved*, & probably tis the *Platonicks*
+*Dæmon magnus*, *Qui conjungit nos spiritum*
+*præfecturis*. I could speak much more of the
+*Offices* of this *Loving spirit*, but these are
+*Magnalia Dei, & Naturæ*, and require not
+our *Discusse*, so much as our reverence. Here
+also I might speak of that *supernaturall Gene-*
+*ration*, whereof *Trismegistus*: *Monas gignit*
+*Monaden, & in se suum reflectit Ardorem*. But
+I leave this to the Almighty God as his own *Es-*
+*sentiall, Centrall mystery*. It is my onely Inten-
+tion in this place to handle *Exterior Actions*,
+or the Processe of the *Trinity* from the *Center*
+to the *Circumference*: And that I may the bet-
+ter do it, you are to understand, that *God* before
+his work of *Creation* was wrapp'd up, and con-
+tracted in himself. In this state the *Egyptians*
+stile him *Monas solitaria*, and the *Cabalists A-*
+*leph tenebrosum*: But when the decreed Instant
+of *Creation* came, then appeared *Aleph Luci-*
+
+<sig>C</sig>
+<meta>catchword: dum</meta>
+
+<vocab>Theomagica, Trinity, Amor igneus, Platonicks, Dæmon magnus, Magnalia Dei, Trismegistus, Monas solitaria, Cabalists, Aleph tenebrosum, Aleph Lucidum</vocab>
+
+--- Page 26 ---
+<lang>English</lang>
+<page-num>8</page-num>
+<header>Anthroposophia</header>
+<meta>catchword: illo,</meta>
+
+### Anthroposophia
+
+*dum*, and the first Emanation was that of the *holyGhost into the bosom of the matter.* Thus we
+
+<margin>*Gen.*</margin> read, that *Darknes was upon the face of the deep, and the spirit of God moved upon the face of the waters.* Here you are to observe, that *notwithstanding* this processe of the third person, yet was there *no light*, but *darkneſſe* on the face of the deep, *Illumination* properly being the Office of the second, wherefore God also when the matter was prepared by *Love* for *Light*, gives out his *Fiat Lux*, which was no *Creation*, as most think, but an *Emanation* of the *Word*, in whom was *life*, and that *life is the light of Men.* This is that light whereof *Saint John* speaks, that *it shines in the darkneſſe, and the darkneſſe comprehended it not.* But lest I seem to be singular in this point, I will give you more evidence. *Pimandras* informing *Trismegiſtus* in the work of the *Creation* tells him the self-same thing. *Lumen illud Ego ſum, Mens, Deus Tuus, antiquior quam natura humida, quæ ex umbra effulſit.* And *Georgius Venetus* in his Book *de Harmonia mundi : Omne quod vivit, propter incluſum calorem vivit, Indè colligitur Caloris naturam vim habere in ſe vitalem, in Mundo paſſim diffuſam : imo omnia ex Igne facta eſſe teſtatur Zoroaſtres, dum ait, Omnia ſub Igne uno genita ſunt, Igne quippe*
+
+<vocab>Anthroposophia, Emanation, holyGhost, Genesis, Fiat Lux, Saint John, Pimandras, Trismegistus, Georgius Venetus, de Harmonia mundi, Zoroastres, Caloris, Igne</vocab>
+
+--- Page 27 ---
+<lang>Latin, English</lang>
+<page-num>9</page-num>
+<header>Theomagica.</header>
+<sig>C 2</sig>
+<meta>catchword: ſum</meta>
+
+*illo, quem Deus Igneæ eſſentiæ Habitator, (ut Plato ait) ineſſe juſſit materiæ Cæli, & Terræ jam creatæ, rudi & informi : ut vitam præſtaret, & formam. Hinc illis productis ſtatim ſubintulit Opifex, ſit Lux : pro quo Mendoſa Traductio habet Fiat lux, Non enim facta eſt Lux, ſed Rebus adhuc obſcuris communicata, & inſita : ut in ſuis Formis Claræ, & ſplendentes fierent.* But to proceed : No ſooner had the Divine Light pierced the Boſom of the Matter, but the *Idea*, or Pattern of the whole Material World appeared in thoſe primitive waters, like an *Image in a Glaſſe* : by this Pattern it was that the Holy Ghost fram’d and modelled the Univerſal Structure. This Myſtery or appearance of the *Idea* is excellently manifested in the *Magicall Analyſis* of Bodies : ( For he that knows how to imitate the *Proto-Chymiſtrie* of the Spirit, by Separation of the Principles wherein the Life is Imprisoned, may see the Impreſſe of it Experimentally in the outward naturall veſtiments. But leſt you should think this my Invention, and no Practicall Trueth, I will give you another Mans testimony. *Quid quæſo dicerent hi tanti Philoſophi,* (ſaith one) *ſi Plantam quaſi Momento naſci in vitreo vaſe viderent, cum ſuis ad Vivum Coloribus, & rurſum interire, & renaſci, idque quoties, & quando luberet? Credo Demonum Arte Magica inclu-*
+
+<vocab>Theomagica, Opifex, Fiat lux, Magicall Analyſis, Proto-Chymiſtrie, Plato</vocab>
+
+--- Page 28 ---
+<lang>English</lang>
+<page-num>10</page-num>
+<header>Anthroposophia</header>
+
+*sum dicerent illudere sensibus humanis.* They are the words of *Doctor Marci* in his *Defensio Idearum Operatricium*. But you are to be admonished, there is a twofold *Idea* : Divine, and Naturall. The Naturall is a fiery invisible, created Spirit, and properly a meer Inclosure, or vestiment of the true *One*. Hence the *Platonicks* called it *Nimbus Numinis Descendentis*. *Zoroaster*, and some other Philosophers think it is *Anima Mundi*, but by their leave they are mistaken there is a wide difference betwixt *Anima* and *Spiritus*. But the *Idea* I speak of here, is the true, primitive exemplar one, and a pure Influence of the Almighty. This *Idea* before the *Coagulation* of the seminall principles to a grosse, outward *Fabrick*, which is the *End of Generation*, impresseth in the Vital, Ethereall Principles a Modell, or Pattern, after which the *Body* is to be framed, and this is the first inward production, or Draught of the Creature. This is it which the *Divine Spirit* intimates to us in
+<margin>*Gen.*</margin>
+that Scripture where he saith, *That God Created every plant of the field before it was in the ground, and every herb of the field before it grew*. But notwithstanding this presence of the *Idea* in the *Matter*, yet the Creation was not performed *Extramittendo aliquid de Essentia Idea*, for it is *God*, that Comprehends his Creature, and not the Creature *God*.
+
+<meta>catchword: Thus</meta>
+
+<vocab>Anthroposophia, Doctor Marci, Defensio Idearum Operatricium, Platonicks, Nimbus Numinis Descendentis, Zoroaster, Anima Mundi, Spiritus, Coagulation, Generation, Genesis, Essence</vocab>
+
+--- Page 29 ---
+<lang>en</lang>
+<page-num>11</page-num>
+<header>Theomagica.</header>
+
+Thus farre have I handl'd this primitive *supernaturall part of the Creation*. I must confesse it is but short in respect of that which may be spoken, but I am confident it is more then formerly hath been discovered. Some Authors having not searched so deeply into the Centre of Nature, & others not willing to publish such *Spiritual mysteries*. I am now come to the *gross work* or *mechanicks of the Spirit*, namely the *se-paration* of *severall substances* from the same *Masse*: but in the first place I shal examine that *Limbus* or *Huddle of Matter* wherein all things were so strangely contained. It is the opinion of some men, and those learned, That this *sluggish empty Rudiment* of the Creature was no created thing. I must confesse the Point is obscure as the thing it self, and to state it with Sobriety, except a man were illuminated with the same *Light* that this *Chaos* was at first, is altogether impossible. For how can we judge of a *Nature* different from our own, whose *Species* also was so remote from any thing now existent, that it is impossible for *Fancy* to apprehend, much more for *Reason* to define it. If it be created, I conceive it the *Effect* of the *Divine imagination* acting beyond it self in *Contemplation* of that which was to come, and producing this *Passive darknesse* for a *Subject* to work upon in the *Circumfe-*
+
+<sig>C 3</sig>
+<meta>catchword: rence</meta>
+
+<vocab>Theomagica, supernaturall part of the Creation, Spiritual mysteries, gross work, mechanicks of the Spirit, Limbus, Huddle of Matter, sluggish empty Rudiment, Chaos, Divine imagination, Passive darknesse</vocab>
+
+--- Page 30 ---
+<lang>en</lang>
+<page-num>32</page-num>
+<header>Anthroposophia</header>
+<meta>catchword: Active</meta>
+
+-rence. *Trismegistus* having first exprest his *Vision* of *Light*, describes the *Matter* in its primitive state thus. *Et paulopost* (saith he) *Tenebrae deorsum ferebantur, partim trepidandae, ac tristes effectae, tortuose terminatae: uti imaginarer me vidisse commutatas Tenebras in humidam quandam Naturam ultra quam dici potest agitatam, & velut ab igne fumum evomere, ac sonum aliquem edere inenunciabilem, & lugubrem,* Certainly these *Tenebrae* he speaks of, or *Fuliginous spawne* of *Nature*, were the first created *Matter*, for that Water we read of in *Genesis* was a *Product* or secondary Substance. Here also he seemes to agree further with the *Mosaicall Tradition*: For this *Fumus* which ascended after the *Transmutation*, can be nothing else but that *Darknesse* which was upon the *Face* of the *Deep*. But to expresse the particular *Mode* or way of the *Creation*, you are to understand, that in the *Matter* there was a horrible confused *Qualme*, or stupifying spirit of *Moysture*, Cold and *Darknesse*; In the opposite Principle of *Light* there was *Heate*, and the *Effect* of it *Siccitie*; For these two are no *Elementall* qualities as the *Galenists* and my *Peripateticks* suppose: But they are (if I may say so) the Hands of the divine Spirit by which He did work upon the *Matter*, applying every *Agent* to his proper *Patient*. These two are
+
+<vocab>Trismegistus, Matter, Light, Genesis, Mosaicall Tradition, Darknesse, Qualme, Moysture, Heate, Siccitie, Galenists, Peripateticks</vocab>
+
+--- Page 31 ---
+<lang>English</lang>
+<page-num>13</page-num>
+<header>Theomagica. 13</header>
+
+<margin>Gen.</margin>
+*Active* and *Masculine*, Those of *Moysture* and
+*Cold* are *Passive* and *Fœminine*. Now as soon
+as the *holy Ghost* and the *Word* (for it was not
+the one nor the other, but both, *Mens opifex una*
+*cum Verbo*, as *Trismegistus* hath it; I omit
+that Speech, *Let us make man*, which
+effectually proves their *Union* in the
+Work) had applyed themselves to
+the matter, there was extracted from the Bo-
+some of it a *thin Spirituall Cœlestiall substance*,
+which receiving a *Tincture* of *Heat* and *Light*
+proceeding from the *Divine Treasuries*, became
+a *pure sincere innoxious Fire*. Of this the Bo-
+dyes of *Angels* consist, as also the *Empyreall*
+*Heaven*, where *Intellectuall Essences* have
+their Residence. This was *primum Matrimo-*
+*nium Dei, & Naturæ*, the First and best of
+Compositions. This *Extract* being thus settled
+above, and separated from the *Masse*, retain'd
+in it a *vast portion of light*, and made the first
+Day without a Sun. But the *Splendour* of the
+*Word*, expelling the *Darkenes* downwards it
+became more settl'd, and compact towards the
+Centre, and made a *Horrible thick Night*.
+Thus God (as the *Hebrew* hath it) was be-
+tweene the *Light* and the *Darknesse*, for the
+*Spirit* remained still on the Face of the *Infe-*
+*rior portion* to extract more from it. In the
+second separation was educed *Aer agilis*, as
+
+<sig>C 4</sig>
+<meta>catchword: Trisme-</meta>
+
+<vocab>Theomagica, Trismegistus, Genesis, Empyreall Heaven, Intellectual Essences, Aer agilis, holy Ghost, Divine Treasuries, Alchemy, Creation</vocab>
+
+--- Page 32 ---
+<lang>English</lang>
+<page-num>14</page-num>
+<header>Anthroposophia</header>
+
+*Trismegistus* calls it; a Spirit not ſo refined as
+the former, but vitall, and in the next degree to
+it. This was extracted in ſuch abundance that
+it fill'd all the ſpace from the *Maſſe* to the *Em-
+pyreall Heaven*, under which it was condens'd
+to a water, but of a different conſtitution from
+the Elementall, and this is the Body of the *In-
+ter-ſtellar skie*. But my *Peripateticks* follow-
+ing the Principles of *Aristotle* and *Ptolomie*,
+have imagin'd ſo many wheeles therewith their
+ſmall diminutive *Epicycles* that they have turn'd
+that regular *Fabrick* to a rumbling Confuſed
+*Labyrinth*. The Inferior portion of this ſecond
+Extract from the *Moon* to the *Earth* remained
+*Air* ſtill, partly to divide the inferior and ſupe-
+rior waters, but chiefly for the Reſpiration, and
+Nourishment of the Creatures. This is that
+which is properly called the Firmament, as it is
+plain out of *Eſdras*; *On the Second Day thou
+didſt create the Spirit of the Firmament*; for
+it is *Ligamentum totius Naturæ*, and in the
+outward Geometricall compoſure it anſwers to
+*Natura media*, for it is ſpread through all
+Things, hinders Vacuity, and keeps all the parts
+of nature in a firm, invincible union.
+
+<margin>
+Auth.
+Philos
+Restit.
+</margin>
+This is *Cribrum Naturæ*, as one
+wittily calls it, a thing appointed
+for moſt ſecret and mysterious of-
+fices, but we ſhall ſpeak further of it
+
+<meta>catchword: when</meta>
+
+<vocab>Trismegistus, Empyreall Heaven, Inter-ſtellar skie, Peripateticks, Aristotle, Ptolomie, Epicycles, Eſdras, Firmament, Ligamentum totius Naturæ, Natura media, Cribrum Naturæ</vocab>
+
+--- Page 33 ---
+<lang>English</lang>
+<page-num>15</page-num>
+<header>Theomagica.</header>
+
+when we come to handle the Elements particu-
+larly. Nothing now remained but the two infe-
+rior principles,as we commonly cal them earth
+and water. The earth was an impure Sulphure-
+ous *ſubſidence*, or *caput mortuum* of the Creati-
+on. The water alſo was Phlegmatick,crude,and
+raw, not ſo vitall as the former Extractions.
+But the *Divine Spirit* to make his work per-
+fect, moving alſo upon theſe,imparted to them
+Life and Heate, and made them fit for future
+Productions. The Earth was ſo overcaſt, and
+Mantl’d with the Water, that no part thereof
+was to be ſeen: But that it might be the more
+immediatly expoſed to the *Cælestiall Influen-*
+*ces*, which are the cauſe of *Vegetation*,the Spirit
+<margin>Job.</margin> orders a retreat of the waters, *breaks*
+*up for them his decreed place, and*
+*ſets them Bars and Doors.* The Light as yet
+was not confined, but reteining his vaſt Flux,
+and primitive *liberty*,equally poſſeſt the whole
+Creature. On the Fourth Day it was collected
+to a Sun, and taught to know his Fountain.
+The darkneſſe,whence proceed the corruptions,
+and conſequently the death of the Creature,
+was impriſoned in the *Centre*, but breaks out
+ſtill when the *Day* gives it Leave, and like a
+baffl’d Gyant thruſts his head out of doors in the
+Abſence of his *Adverſary*. Thus *Nature* is a
+Lady whose face is beauteous, but not without
+
+<sig>a</sig>
+
+<vocab>Elements, inferior principles, earth, water, Sulphureous ſubſidence, caput mortuum, Phlegmatick, Divine Spirit, Cælestiall Influences, Vegetation, Job, Light, Sun, Fountain, darkneſſe, Centre, Nature</vocab>
+
+--- Page 34 ---
+<lang>en</lang>
+<page-num>16</page-num>
+<header>Anthropofophia</header>
+
+a *Black-bag*. Howſoever when it ſhall pleaſe God more perfectly to refine his *Creatures*, this *Tincture* ſhall be expelled quite beyond them, and then it will be an *Outward darkneſſe*, from which *Good Lord deliver us?*
+
+Thus have I given you a Curſorie, and ſhort *Expreſſe* of the *Creation* in generall: I ſhall now deſcend to a more particular Examination of *Nature*, and eſpecially her *Inferior, Elementall parts*, through which *Man* paſſeth daily, and from which he cannot be ſeparated. I was about to deſiſt in this place to prevent all future Occlamations; for when a *Peripatetick* findes here but *Three*, nay but *two genuine Elements, Earth, and Water*, for the *Air* is ſomething more: will he not cry out I have committed *Sacrilege* againſt *Nature*, and ſtole the fire from her *Altar*? This is Noiſe indeed: but till They take Coach in a cloud, and diſcover that *Idol* they prefer next to the *Moon*, I am reſolved to continue in my *Hereſie*. I am not onely of *Opinion*, but I am ſure there is no ſuch *principle* in *Nature*. The *Fire* which ſhe uſeth, is *Horizon Corporeorum, & Incorporeorum, Nexus utriuſque Mundi, & Sigillum Spiritus ſancti*. It is no *Chymæra*, no *Commentitious Quirck*, like that of the School-men. I ſhall therefore Requeſt my Friends the *Peripateticks* to return their fourth Element to *Ariſtotle*, that
+
+<meta>catchword: he</meta>
+
+<vocab>Creation, Nature, Elementall parts, Peripatetick, Earth, Water, Air, Fire, Horizon Corporeorum, Incorporeorum, Nexus utriusque Mundi, Sigillum Spiritus sancti, Chymæra, Aristotle</vocab>
+
+--- Page 35 ---
+<lang>English</lang>
+<page-num>17</page-num>
+<header>Theomagica.</header>
+
+he may present it to *Alexander* the *Great* as
+the first part of a *new world*, for there is no such
+Thing in the *Old*.
+To proceed then : The *Earth* (as you were
+told before) being the *Subsidence*, or *Remains*
+of that *Primitive Masse*, which **God** formed
+out of *Darknesse*, must needs be a faculent im-
+pure *Body*: for the *Extractions* which the *Di-
+vine Spirit* made, were *pure*, *oleous*, *æthereall
+substances*: but the *Crude*, *phlegmatick*, *indi-
+gested humors* settled like *Lees* towards the
+*Centre*. The *Earth* is *spungie*, *porous*, and *mag-
+neticall*, of *Composition loose*, the better to take
+in the severall *Influences* of *Heat*, *Rains*, and
+*Dewes* for the *Nurture*, and *Conservation* of her
+*Products*. In her is the *Principall Residence* of
+that *Matrix*, which attracts and receives the
+*sperm* from the *Masculine part* of the world;
+she is *Natures Ætna*: here *Vulcan* doth exer-
+cise himself, not that *limping*, *Poetical one*, which
+halted after his fal, but a *pure*, *Cælestial*, *plastick
+fire* we have *astronomy* here under our feet, the
+*stars* are resident with us, & abundance of *Jew-
+els* and *Pantauras*, she is the *nurse* and *Recepta-
+cle* of all things, for the *superior Natures* ingulph
+themselves into *her*; what she receives this *Age*,
+she discovers to the *next*, and like a faithfull
+*treasurer* conceales no part of her *Accounts*,
+*Her proper*, *Congeneall Quality* is *Cold*.
+
+<meta>catchword: I am</meta>
+<vocab>Alexander the Great, Primitive Masse, Divine Spirit, Matrix, Natures Ætna, Vulcan, Pantauras, superior Natures</vocab>
+
+--- Page 36 ---
+<lang>English</lang>
+<page-num>18</page-num>
+<header>Anthropofophia</header>
+<meta>catchword: do</meta>
+
+I am now to fpeak of the *Water*. This is the firft Element we read of in *Scripture*, the moft *Ancient* of *Principles*, and the *Mother* of all Things amongft vifibles. Without the Mediation of this, the *Earth* can receive no bleffing at all, for moyfture is the proper caufe of mixture and *Fufion*. The water hath feverall complexions according to the feverall parts of the *Creature*. Here below, and in the circumference of all things it is volatil, crude, and raw. For this very Caufe *Nature* makes it no part of her provifion, but fhe rectifies it firft, exhaling it up with her *Heat*, and then condenfing it to *Rains* and *Dews*, in which State fhe makes ufe of it for Nourifhment. Some where it is Interior, vitall, and Cœleftiall, expofed to the *Breath* of the firft *Agent*, and ftirred with *Spirituall*, æternall *Windes*. In this condition it is *Natures Wanton*, *Fœmina Salaciffima* as One calls it. This is that *Psyche* of *Apuleius*, and the *Fire of Nature* is her *Cupid*. He that hath feen Them both in the fame Bed, will confeffe that *love rules All*. But to fpeak fomething of our *Common Elemental water*: It is not altogether contemptible, there are hidden Treafures in it, but fo inchanted we can not fee them, for all the cheft is tranfparent. *Spiritus Aquæ Invifibilis congelatus melior eft quam Terra Univerfa*, faith the noble, and learned *Sendivow*. I
+
+<vocab>Water, Scripture, Earth, Fusion, Nature, Heat, Rains, Dews, Spirituall Windes, Fœmina Salacissima, Psyche of Apuleius, Cupid, Common Elemental water, Spiritus Aquæ Invisibilis, Sendivow</vocab>
+
+--- Page 37 ---
+<lang>English</lang>
+<page-num>19</page-num>
+<header>Theomagica.</header>
+<meta>catchword: it,</meta>
+
+do not advice the Reader to take this *Phelgm*
+to task, as if he could Extract a *Venus* from the
+Sea, but I wish him to study water, that he may
+know the *Fire*.
+
+&nbsp;&nbsp;&nbsp;&nbsp;I have now handled the *Two Elements*, and
+more I cannot finde : I know the *Peripate-*
+*ticks* pretend to four, and with the help of
+their Masters *Quintessence* to a fift Principle. I
+shall at leasure diminish their stock, but the
+thing to be now spoken of, is Air. This is no
+Element, but a certain miraculous *Herma-*
+*phrodit*, the Cement of two worlds, and a Med-
+ley of Extremes. It is natures Common Place,
+her Index, where you may finde all that ever
+she did, or intends to do. This is the worlds
+*Panegyrick*: The Excursions of both Globes
+meet here, and I may call it the Rendezvous. In
+this are innumerable Magicall Forms of Men
+and Beasts, Fish and Fowle, Trees, Herbs, and
+all creeping Things. This is *Mare Rerum in-*
+*visibilium*, for all the conceptions *in sinu supe-*
+*rioris Naturæ* wrap themselves in this *Tiffany*,
+before they imbark in the shell. It retaines the
+species of all things whatsoever, and is the Im-
+mediate Receptacle of Spirits after Dissolution,
+whence they passe to a *Superior Limbus*. I
+should amaze the Reader if I did relate the se-
+verall offices of this *Body*, but it is the *Magici-*
+*ans Backdoor*, and none but Friends come in at
+
+<vocab>Theomagica, Phelgm, Venus, Fire, Elements, Peripateticks, Quintessence, Air, Hermaphrodit, Panegyrick, Magicall Forms, Mare Rerum invisibilium, Tiffany, Dissolution, Superior Limbus, Magicians Backdoor</vocab>
+
+--- Page 38 ---
+<lang>English</lang>
+<page-num>20</page-num>
+<header>Anthropofophia</header>
+<meta>catchword: of</meta>
+
+it. I ſhall ſpeak nothing more, onely This I
+would have you know : The Air is *Corpus vitæ*
+<margin>C. Ag.</margin> *ſpiritus noſtri ſenſitivi*, our Animal
+Oyl, the Fuell of the Vital, Sen-
+ſuall fire, without which we cannot
+ſubſiſt a Minute.
+
+I am now come to the Fourth, and laſt ſub-
+ſtance, the Higheſt *in Scala Naturæ*. There is
+no Fift principle, no <term>Quinteſſence</term>, as *Ariſtotle*
+dream’d, but God Almighty. This *Fourth Eſ-*
+*ſence* is a moyeſt, ſilent Fire. This Fire paſſeth
+thorough all things in the world, and it is Na-
+tures Chariot, in this ſhe rides; when ſhe moves
+this moves, and when ſhe ſtands this ſtands,
+like the wheeles in *Ezekiel* whose Motion de-
+pended on that of the ſpirit. This is the Mask,
+and skreen of the Almighty, whereſoever he is,
+this Train of Fire attends Him. Thus he ap-
+pears to *Moſes* in the Buſh, but it was in *Fire*.
+The Prophet ſees him break out at the North,
+but like a Fire catching it ſelf. At *Horeb* he is
+attended with a mighty ſtrong winde rending
+the Rocks to pieces, but after this comes the
+*Fire* and with it a ſtill ſmall voice. *Eſdras* alſo
+defines Him a God, whose Service is Conver-
+ſant in Winde and Fire. This Face is the *veſti-*
+*ment* of the Divine Majeſty, his Back-parts
+which he ſhewed to *Moſes*, but his naked Roy-
+all Eſſence none can ſee, and Live; The Glory
+
+<vocab>Anthropofophia, Cornelius Agrippa, C. Ag., Corpus vitæ spiritus nostri sensitivi, Scala Naturæ, Quinteſſence, Aristotle, Ezekiel, Moses, Horeb, Esdras, Fire</vocab>
+
+--- Page 39 ---
+<lang>en</lang>
+<page-num>21</page-num>
+<header>Theomagica.</header>
+<meta>catchword: super.or</meta>
+
+of his presence would swallow up the *Natural*
+*man*, and make him altogether *spirituall*. Thus
+*Moses his Face*, after conference with him,
+shines, and from this *small Tincture* we may
+guesse at our Future estate in the *Regeneration*.
+But I have touch'd the *Veyle*, and must return
+to the *outer Court* of the *Sanctuary*.
+
+I have now in some measure performed that
+which at first I promised, an *Exposition* of the
+world and the parts thereof: But in respect of my
+affection to *Truth*, and the dominion I wish
+*Her*, I shall be somewhat more particular in
+the examination of *Nature*, and proceed to a
+further discovery of her riches. I advise the rea-
+der to be diligent and curious in this *subsequent*
+part of the *Discourse*, That having once attai-
+ned to the *Fundamentals of Science*, he may the
+better understand her *superstructures*.
+
+Know then, that every Element is *threefold*,
+this *Triplicity* being the expresse Image of their
+*Author*, and a Seal he hath laid upon his *Crea-*
+*ture*. There is nothing on Earth, though never
+so simple, so vile, and abject in the sight of man,
+but it bears witnesse of God, even to that *ab-*
+*struse Mystery*, his *Unity* and *Trinity*. Every
+Compound whatsoever is Three in One and
+One in Three. The basest *Reptill* even in his
+outward Symmetry testifies of his *Author*, his
+severall proportions answering to their eternall
+->super.or<-
+
+<vocab>Regeneration, Moses, Sanctuary, Exposition of the world, Fundamentals of Science, Triplicity, Unity and Trinity, Reptill</vocab>
+
+--- Page 40 ---
+<lang>English</lang>
+<page-num>22</page-num>
+<header>Anthropofophia</header>
+<meta>catchword: reftriall</meta>
+
+ſuperior *Prototype*. Now Man hath the uſe of
+all theſe creatures, God having furniſhed him
+with a *living Library* wherein to imploy him-
+ſelf; But he neglecting the works of his Cre-
+ator, proſecutes the Inventions of the Creature ;
+Laps up the *Vomits* of *Ariftotle* and other *il-*
+*literate Ethnick s*, Men as concerning the Faith,
+*Reprobate*, and in the Law of Nature altoge-
+ther unſkilfull : Scribling, Blaſphemous *A-*
+*theiſts*, *Quorum Animas* (as *Agrippa* hath it)
+*diſtrahi, & torqueri audiunt, Videntque Inferi*.
+He is much troubled at thoſe *Myſteries* of the
+*Trinity*, and the *Incarnation*, one Denies, ano-
+ther Grants them : But if they did once ſee the
+*Light of Nature*, they might find thoſe Myſte-
+ries by *Reaſon*, which are now above their
+*Faith*: When I ſpeak of a *Naturall Tripli-*
+*city*, I ſpeak not of *Kitchin-ſtuffe*, thoſe three
+*Pot-Principles Water, Oyle and Earth*, or as
+ſome Colliers call them *Mercury Sulphur and*
+*ſalt*, But I ſpeak of *Celeſtiall hidden Na-*
+*tures* known onely to abſolute *Magicians*,
+whoſe eyes are in the *Center*, not in the *Circum-*
+*ference*: and in this ſence every Element is
+**Threefold**. For example, there is a threefold
+Earth: firſt, there is *terra Elementaris*, then there
+is *terra Cœleftis*, and laſtly, *terra ſpiritualis*.
+The Influences of the *ſpirituall Earth* by me-
+diation of the *cœleſtiall* are united to the *ter-*
+
+<vocab>Anthropofophia, Prototype, living Library, Aristotle, Ethnick s, Agrippa, Light of Nature, Naturall Triplicity, Pot-Principles, Mercury Sulphur and ſalt, Magicians, terra Elementaris, terra Cœleftis, terra ſpiritualis</vocab>
+
+--- Page 41 ---
+<lang>English</lang>
+<page-num>23</page-num>
+<header>Theomagica.</header>
+<sig>D</sig>
+<meta>catchword: amongſt</meta>
+
+reſtrial, and are the true Cauſe of Life and *Ve-*
+*getation*. Theſe Three are the *Fundanientalls*
+of *Art* and *Nature*. The *Firſt* is a viſible, *Tan-*
+*gible* ſubſtance pure, *fixed*, and *Incorruptible* of
+Quality *Cold*, but by *Application* of a *Superior*
+*Agent*, *Drie*, and by Conſequence a fit *Recep-*
+*tacle* of *Moysture*. This is *Aleph Creatum*,
+the true *Terra Adama*, the *Basis* of every
+Building in *Heaven*, and *Earth*. It anſwers to
+*God the Father*, being the *Naturall Founda-*
+*tion* of the *Creature*, as *He* is the *Supernatu-*
+*rall*: without this *Nothing* can be perfected
+in *Magick*. The *Second Principle* is the in-
+fallible *Magnet*, the *Mystery of Union*. By
+this all Things may be attracted whether *Phy-*
+*sicall*, or *Metaphysicall*, be the diſtance never
+ſo great. This is *Jacobs Ladder*: without this
+there is no *Ascent*, or *Descent* either *Influen-*
+*tiall*, or *Personall*. The abſence of *This* I con-
+ceive to be that *Gulph* between *Abraham*, and
+*Dives*. This anſwers to *God the Son*, for it is
+that which mediates between *Extremes*, and
+makes *Inferiors* and *Superiors* communicate.
+But there is not *One* in ten thouſand knows ei-
+ther the *Substance*, or the *use* of this *Nature*.
+The *third Principle* is properly no *Principle*, It
+is not *Ex Quo*, but *per Quod omnia*. This can
+do all in all, and the Faculties thereof are not
+to be expreſt. It anſwers to the *Holy Ghost*, for
+
+<vocab>Theomagica, Vegetation, Fundanientalls, Aleph Creatum, Terra Adama, God the Father, God the Son, Holy Ghost, Magick, Magnet, Mystery of Union, Jacobs Ladder, Abraham, Dives, Ex Quo, per Quod omnia</vocab>
+
+--- Page 42 ---
+<lang>English</lang>
+<page-num>24</page-num>
+<header>Anthroposophia</header>
+
+amongst Naturalls it is the onely Agent, and
+Artificer. Now He that knows these three per-
+fectly, with their severall Graduations, or an-
+nexed Links, which differ not in Substance, but
+Complexion : He that can reduce their impuri-
+ties to one sincere Consistence, and their Multi-
+plicities to a Spirituall, Essentiall simplicity, he
+is an absolute compleat *<term>Magician</term>*, and in full
+possibility to all strange, miraculous Perfor-
+mances. In the second place you are to learn,
+that Every Element is twofold. This Duplici-
+ty, or Confusion is that *<term>Binarius</term>* whereof *<term>A-</term>*
+*<term>grippa</term> in <term>Scalis Numerorum</term>*, as also both
+himself and *<term>Trithemius</term>* in their *Epistles*. O-
+ther Authors who dealt in this Science, were
+*Pragmaticall Scriblers*, and understood not
+this *<term>Secretum Tenebrarum</term>*. This is it in which
+the Creature prævaricates, and falls from his
+first Harmonicall Vnity. You must therefore
+*subtrahere <term>Binarium</term>*, and then the Magicians
+*<term>Ternarius</term>* may be reduced per *<term>Quaternarium</term>*
+*in <term>Monaden Simplicissimam</term>*, and by Conse-
+quence in *<term>Metaphysicam</term> cum supremâ <term>Mo-</term>*
+*<term>nade Unionem</term>*.
+
+The Sun, and Moon are two Magicall prin-
+ciples the One active, the other passive, this
+*Masculine*, that *Fœminine*. As they move, so
+move the wheeles of *Corruption*, and *Genera-*
+*tion* : They mutually dissolve, and compound,
+
+<meta>catchword: but</meta>
+
+<vocab>Naturalls, Agent, Artificer, Magician, Element, Binarius, Agrippa, Scalis Numerorum, Trithemius, Secretum Tenebrarum, Harmonicall Vnity, Ternarius, Quaternarium, Monaden Simplicissimam, Metaphysicam, Monade Unionem, Sun, Moon, Masculine, Fœminine, Corruption, Generation</vocab>
+
+--- Page 43 ---
+<lang>English</lang>
+<page-num>25</page-num>
+<header>Theomagica.</header>
+
+but properly the moon is *Organum Transmu-tationis inferioris materiæ*. These Two Luminaries are multiplied and fructifie in every one particular Generation. There is not a Compound in all Nature but hath in it a little Sun, and a little Moon. The little Sun is *Filius solis Cælestis*, The little Moon is *Filia Lunæ Cælestis*. What offices soever the two great Luminaries perform for the Conservation of the great world in Generall, These two little Luminaries perform the like for the Conservation of their small Cask, or *Microcosm* in particular. They are *Mimulæ Majoris Animalis*, Heaven and Earth in a lesser *Character*. God like a wise *Architect*, sits in the Center of All, repaires the Ruines of his Building, composeth all Disorders, and continues his Creature in his first, primitive *Harmony*. The Invisible, Centrall *Moon* is *Iela illa rivosa, & Multifontana*, at whose top sit *Iove*, and *Iuno* in a Throne of Gold, *Iuno* is an incombustible, ævitærnall *Oyl*, and therefore a fit Receptacle of *Fire*. This *Fire* is her *Iove*, the little Sun we spoke of formerly. These are the true Principles of the stone, these are the Philosophers *Sol* & *Luna*, not *Gold* and *Silver*, as some *Mountebanks* and *Carbonadoes* would have it. But in respect I have proceeded thus far, I will give you a true Receipt of the Medicine.
+
+<sig>D 2</sig>
+<meta>catchword: Rc.</meta>
+
+<vocab>Theomagica, Organum Transmutationis, Filius solis Cælestis, Filia Lunæ Cælestis, Microcosm, Mimulæ Majoris Animalis, Architect, Harmony, Iela illa rivosa, Iove, Iuno, Sol & Luna, Carbonadoes, Medicine</vocab>
+
+--- Page 44 ---
+<lang>English</lang>
+<page-num>26</page-num>
+<header>Anthroposophia</header>
+
+*Rc. Limi Cœleſtis partes decem. Separetur*
+*Maſculus a Fœminâ, uterq; porro à Terrâ ſuâ,*
+*phyſicè tamen & citra omnē violentiā Separata*
+*proportione debitâ, harmonicâ, & vitali conjunge:*
+*ſtatimq; Anima deſcendēs a ſphærâ pyroplaſtica,*
+*mortuū ſuum, & relictum Corpus amplexu miri-*
+*fico reſtaurabit. Conjuncta foveantur Igne na-*
+*turali in perfectum matrimonium ſpiritus, &*
+*Corporis. Procedas Artificio Vulcanico-Ma-*
+*gico, quouſque exaltentur in Quintam Rotam*
+*Metaphyſicam. Hæc eſt Illa, de Quâ tot ſcri-*
+*billarunt, tam Pauci noverunt, Medicina.*
+
+It is a ſtrange thing to conſider, That there
+are in Nature incorruptible, immortall princi-
+ples. Our ordinary *Kitchin* fire, which in ſome
+meaſure is an Enemy to all compoſitions, not-
+withſtanding doth not ſo much deſtroy, as pu-
+rifie ſome parts. This is clear out of the *Aſhes*
+*of Vegetables*; for although their weaker exte-
+rior Elements expire by violence of the fire, yet
+their Earth cannot be deſtroyed, but *Vitrified*.
+The *Fuſion* and *Tranſparency* of this ſubſtance
+is occaſioned by the <term>Radicall moyſture</term>, or <term>Se-</term>
+<term>minall water</term> of the *Compound*. This water
+reſiſts the fury of the Fire, and cannot poſſibly be
+vanquiſhed. *In hac Aquâ* (ſayth the learned
+*Severine*) *Roſa latet in Hieme*. These two
+principles are never ſeparated, for Nature pro-
+ceedes not ſo far in her Diſſolutions. When
+
+<meta>catchword: Death</meta>
+
+<vocab>Anthroposophia, Limi Coelestis, pyroplastica, Artificio Vulcanico-Magico, Quintam Rotam Metaphysicam, Vitrified, Radicall moysture, Seminall water, Severine, Rosa latet in Hieme</vocab>
+
+--- Page 45 ---
+<lang>en</lang>
+<page-num>27</page-num>
+<header>Theomagica.</header>
+
+Death hath done her worst, there is an *Union*
+between these *two*, and out of them shall God
+*raise* us at the last day, and restore us to a *spiri-*
+*all constitution*. Besides, there remaines in them
+that *primitive, universal Tincture* of the *Fire*:
+this is still busie after Death, brings nature again
+into *Play*, produceth *wormes*, and other *inferi-*
+*our Generations*. I do not conceive there shall
+be a Resurrection of *every Species*, but rather
+their *Terrestrial* parts together with the element
+of Water (*for there shall be no more*
+<margin>Revel.</margin>
+*Sea*) shalbe united in one mixture with
+the Earth, and fix'd to a pure *Diapha-*
+*nous substance*. This is Saint Johns *Chrystall-*
+*gold*, a *Fundamentall* of the new *Jerusalem*, so
+called not in respect of Colour, but constituti-
+on. Their *Spirits* I suppose, shall be reduced
+to their first *Limbus*, a *sphere* of pure, *ethereall*
+*fire*, like rich *Eternall Tapestry* spread under the
+*Throne of God*. Thus *Reader*, have I made a
+plenary, but short Inquisition into the Mysteries
+of *Nature*; It is more then hitherto hath been
+discovered and therefore I expect the *more Op-*
+*position*. I know my Reward is Calumnie, but
+he that hath already condemn'd the Vanity of
+Opinion, is not like to respect that of Censure. I
+shal now put the Creatures to their just use, and
+from this shallow Contemplation ascend to
+Mine, and their Author.
+
+<sig>D 3</sig>
+<meta>catchword: Lord</meta>
+
+<vocab>Union, Tincture, Fire, Resurrection, Terrestrial, Diaphanous, Jerusalem, Limbus, Ethereall, Nature</vocab>
+
+--- Page 46 ---
+<lang>English</lang>
+<page-num>28</page-num>
+<header>Anthroposophia</header>
+<meta>catchword: ken</meta>
+<warning>Significant bleed-through from the reverse side of the page; text remains legible.</warning>
+
+Lord God! This was a *stone*,
+as hard as any *One*
+Thy *Laws* in *Nature* fram'd :
+Tis now a *springing Well*,
+and many *Drops* can tell,
+Since it by *Art* was tam'd.
+
+My *God*! my *Heart* is so,
+'tis all of *Flint*, and no
+*Extract* of *Teares* will yeeld :
+*Dissolve* it with thy *Fire*,
+that something may aspire,
+And grow up in my *Field*,
+
+Bare *Teares* Ile not intreat,
+but let thy *Spirits* seate
+Upon those *Waters* bee,
+Then I *new form'd* with *Light*
+shall move without all *Night*,
+Or *Excentricity*.
+
+It is requisite now, if we follow that *Methode* which *God* himselfe is *Author* of, to examine the nature, and *Composition* of *Man*, having already describ'd those *Elements*, or *Principles* whereof he was made, and consists. *Man*, if we look on his materiall parts, was taken out of the great *World*, as woman was taken
+
+<vocab>Anthroposophia, Nature, Art, Flint, Teares, Spirits, Waters, Light, Excentricity, Methode, Composition, Man, Elements, Principles, World</vocab>
+
+--- Page 47 ---
+<lang>English</lang>
+<page-num>29</page-num>
+<header>Theomagica.</header>
+<sig>D 4</sig>
+<meta>catchword: sic</meta>
+
+ken out of *Man*. I ſhall therefore to avoyd re-
+petitions, refer the Reader to the former part
+of this *Diſcourſe*, where if things be rightly
+underſtood, he cannot be ignorant in his *mate-*
+*riall Frame*, or *Compoſure*. We read in *Geneſis*
+that God made him out of the *Earth*; This is a
+great *Myſtery*: For it was not the common
+*Pot-clay*, but an other thing and that of a far
+better nature. He that knowes this, knowes the
+ſubject of the *Philoſophicall medicine*, and by
+conſequence what deſtroyes or preſerves the
+*Temperament* of *Man*, In this are Principles
+*homogeneall* with his life, ſuch as can reſtore
+his *Decayes* and reduce his Diſorders to a *Har-*
+*mony*. They that are ignorant in this point, are
+not competent *Judges* of *Life* and *Death*, but
+*Quacks* and *Piſſ-pot Doctors*. The learned *A-*
+*rias Montanus* calls this matter *Multiplicis*
+*Terræ particula ſingularis*, If theſe words be
+well examined, you may poſſibly find it out,
+and ſo much for his *Body*. His *Soule* is an *Eſ-*
+*fence* not to be found in the *Texture* of the
+great world, & therfore meerly *Divine* & *Super-*
+*naturall*. *Montanus* calls it *divini ſpiritus au-*
+*ra*, & *vitæ Divinæ Halitus*. He ſeemes alſo to
+make the Creation of *Man* a little *Incarnation*,
+as if God in this worke had *multiplyed him-*
+*ſelfe*. *Adam* (ſaith he) received his *Soule ex*
+*admiranda ſingulariq; Dei Inſpiratione, & ut*
+
+<vocab>Theomagica, Arias Montanus, Genesis, Philosophical medicine, Multiplicis Terræ particula singularis, divini spiritus aura, vitae Divinae Halitus, Adam, Soul, Incarnation</vocab>
+
+--- Page 48 ---
+<lang>English</lang>
+<page-num>30</page-num>
+<header>Anthroposophia</header>
+<meta>catchword: knowes</meta>
+
+*sic loqui sit fas, Fructificatione. S. Luke* also 
+tells us the same thing; For he makes *Adam* the 
+son of God, not in respect of the exterior *Act* 
+of Creation, but by way of *Descent*; and this 
+*S. Paul* confirmes in the words of *Aratus, For*
+
+->*we also are his Generation.*<-
+
+The Soul of 
+<margin>*Act.*</margin> man consists chiefly of two Portions *Ru-
+ach*, and *Nephes*, *inferior* and *superior*, the 
+*superior* is Masculine and Eternall, the *inferior* 
+*Foeminine* and *Mortall*. In these two consists our 
+*spirituall generation.*
+
+<margin>*Arias Mont.*</margin>
+> *Ut autem in Caeteris ani-
+mantibus, atque etiam in ipso homine
+Maris ac Foemina conjunctio Fructum 
+propagationemq. spectabat naturæ sin-
+gulorum dignam: ita in homine ipso 
+illa Maris ac Foeminæ interior, arcanaque soci-
+etas, hoc est animi atque animæ Copulatio ad fru-
+ctum vitæ Divinæ idoneum producendum com-
+parabatur. Atque huc illa Arcana benedictio & 
+fecunditas concessa, huc illa declarata Facultas 
+& monitio spectat, Crescite, & multiplicamini, 
+& replete Terram, & subjicite illam, & Domi-
+namini.*
+
+Out of this, and some former passa-
+ges, the understanding Reader may learn, That 
+Marriage is a Comment on Life, a meer Hierogly-
+phick, or outward representation of our in-
+ward vitall Composition. For *Life* is nothing 
+els but an Union of *Male* and *Foemale* Princi-
+ples, and he that perfectly knowes this secret,
+
+<vocab>Anthroposophia, S. Luke, Adam, S. Paul, Aratus, Ruach, Nephes, Arias Montano, Hieroglyphick, Masculine, Foeminine, Union</vocab>
+
+--- Page 49 ---
+<lang>English</lang>
+<page-num>31</page-num>
+<header>Theomagica.</header>
+<meta>catchword: his</meta>
+
+knowes the *Mysteries* of *Marriage*, both *Spi-*
+*rituall* and *Naturall*, and how he ought to
+use a Wife. *Matrimony* is no ordinary triviall
+busines, but in a moderate fence *Sacramentall*.
+It is a visible signe of our invisible *Union* to
+*Christ*, which *S. Paul* calls a *Great mystery*,
+and if the thing signified be so Reverend, the
+signature is no *ex tempore*, contemptible *A-*
+*gend*. But of this elsewhere. When *God* had
+thus finished his last, and most excellent *Crea-*
+*ture*, he appointed his Residence in *Eden*, made
+him his *Vice-Roy*, and gave him a full juris-
+diction over all his *Works*; That as the whole
+man consisted of *Body*, and *Spirit*, so the *Infe-*
+*riour Earthly Creatures* might be subject to the
+one, and the *superiour intellectuall Essences*
+might minister to the other. But this Royalty
+continued not long, for presently upon his pre-
+ferment there was a *Faction* in the Heavenly
+*Court*, and the *Angels* scorning to attend this
+piece of *Clay*, contrived how to supplant him.
+The first in this plot was *Lucifer*, *Montanus* tells
+me his name was *Hilel*. He casts about to Nulli-
+fie that which *God* had Inacted, that so at once
+he might overreach him and his Creature. This
+Pollicy he imparts to some others of the *Hie-*
+*rarchy*, and strengthens himself with *Conspi-*
+*rators*. But there is no Counsel against *God*.
+The mischief is no sooner hatched but he and
+->his<-
+
+<vocab>Marriage, Eden, Vice-Roy, Lucifer, Montanus, Hilel, Hierarchy, Sacramentall, Matrimony</vocab>
+
+--- Page 50 ---
+<lang>English</lang>
+<page-num>32</page-num>
+<header>Anthroposophia</header>
+
+his Confederates are expell’d from *Light* to
+*Darkneſſe*, and thus Rebellion is as the ſinne of
+*Witchcraft*, A Witch is a Rebel in Phyſicks, and
+a Rebell is a Witch in Polliticks: The one acts
+againſt *Nature*, the other againſt *Order*, the
+Rule of it: But both are in League with the *Di-*
+*vell* as the firſt Father of *Diſcord* and *Sorcerie*.
+*Satan* being thus ejected, as the condition of
+*Reprobates* is, became more hardned in his
+*Reſolutions*, and to bring his malice about, ar-
+rives by permiſſion at *Eden*. Here he makes
+*Woman* his Inſtrument to tempt *Man*, and o-
+verthrowes him by the ſame Meanes that *God*
+made for an help to him. *Adam* having thus
+tranſgreſt the Commandement, was expoſed to
+the Laſh, and in him his Poſterity. But here
+lyes the Knot: How can we poſſibly learne his
+Diſease, if we know not the immediate *Effici-*
+*ent* of it? If I queſtion our *Divines* what the
+*Forbidden Fruit* was, I may be long enough
+without an anſwer, Search all the *Schoolemen*
+from *Ramus* to *Peter Hiſpan*, and they have no
+*Logick* in the point. What ſhall we doe in this
+Caſe? To ſpeake any thing contrary to the *ſting*
+of *Ariſtotle* (though perhaps we hit the *Mark*)
+is to expoſe our ſelves to the common Hue;
+But in respect I prefer a private *Trueth* to a
+publick *Errour*, I will proceed. And now Rea-
+der *Arrige Aures*, come on without preju-
+
+<meta>catchword: dice,</meta>
+
+<vocab>Anthroposophia, Rebellion, Witchcraft, Satan, Eden, Adam, Forbidden Fruit, Schoolemen, Ramus, Peter Hispan, Aristotle, Arrige Aures</vocab>
+
+--- Page 51 ---
+<lang>English</lang>
+<page-num>33</page-num>
+<header>Theomagica.</header>
+<meta>catchword: of</meta>
+
+dice, and I will tell thee that which never
+hitherto hath been discovered.
+
+That which I now write must needs appeare
+very strange, and Incredible to the common
+man, whose knowledg sticks in the Barke of
+*Allegories*, and *Mysticall speeches*, never ap-
+prehending that which is signified by them un-
+to us. This I say must needs sound strange,
+with such as understand the Scriptures in the
+Litterall plaine sence, considering not the scope
+and *Intention* of the *Divine spirit*, by whom
+they were first penned and delivered. Howso-
+ever *Origen* being *Vnus de multis*, and in the
+judgement of many wise men, the most learned
+of the Fathers, durst never trust himselfe in this
+point, But alwaies in those Scriptures
+where his *Reason* could not satisfie, con-
+cluded a *Mystery*.
+
+Certainly if it be once granted (as some
+stick not to affirm) that the *Tree of knowledge*
+was a *Vegetable*, and *Eden* a *Garden*; it may be
+very well inferred, that the tree of life being de-
+scribed *in eodem Genere*, as the School-men ex-
+presse it, was a *Vegetable* also. But how dero-
+gatory this is to the power of *God*, to the *Me-*
+*rits*, and *Passion* of *Jesus Christ*, whose *Gift*
+eternall life is, let any indifferent *Christian*
+judge. Here then we have a certain intrance in-
+to *Paradise*, where we may search out this tree
+
+<vocab>Allegories, Mystical speeches, Origen, Divine spirit, Tree of knowledge, Eden, Garden, Tree of life, School-men, Jesus Christ, Paradise</vocab>
+
+--- Page 52 ---
+<lang>English</lang>
+<page-num>34</page-num>
+<header>Anthroposophia</header>
+
+of *knowledge*; and (happily) learn what it is. For seeing it must be granted, that by the tree of *life* is figured the *Divine Spirit* (for *it is the Spirit that quickeneth, and shall one day translate us from Corruption to Incorruption*) it will be no indiscret *Inference* on the *Contrary*, that by the *tree of knowledge* is signified some *sensual Nature* repugnant to the *Spiritual*, wherein our worldly sinfull *Affections*, as *lust*, *anger, and the rest* have their *seat, and predominate*.
+
+I will now digresse a while; but not much from the purpose, whereby it may appear unto the Reader that the *letter* is no sufficient *Expositor* of *Scripture*, and that there is a great deal of difference between the *sound* and the *sense* of the *Text*. *Dionysius* the *Areopagit* in his *Epistle to Titus* gives him this *Caveat*. *Et hoc præterea Operæ pretium est cognoscere: Duplicem esse Theologorum Traditionem, Arcanam Alteram, ac mysticam: Alteram vero manifestam, & notiorem.* And in his Book of the *Ecclesiastical Hierarchie* written to *Timotheus*, he affirms, that in the *primitive, Apostolical times*, wherein he also lived, the mysteries of *Divinity* were delivered *partim scriptis, partim non scriptis Institutionibus*. Some things he confesseth were written in the *Theological Books*, and such are the *Common Doctrinals* of the *Church*
+
+<meta>catchword: now;</meta>
+
+<vocab>Anthroposophia, Divine Spirit, tree of knowledge, tree of life, Dionysius the Areopagite, Epistle to Titus, Ecclesiastical Hierarchie, Arcanam, mysticam, Divinity</vocab>
+
+--- Page 53 ---
+<lang>en</lang>
+<page-num>35</page-num>
+<header>Theomagica.</header>
+
+now; in which notwithſtanding (as Saint *Peter*
+ſaith) *there are many things hard to be under-*
+ſtood. Some things again *Ex animo in ani-*
+*mum medio quidem intercurrente verbo corpo-*
+*rali, ſed quod Carnis penitus excederat ſenſum,*
+*ſine literis transfuſa ſunt.* And certainly this
+*Orall Tradition* was the *Cauſe* that in the ſub-
+ſequent ages of the Church all the *myſteries*
+of *Divinity* were loſt. Nay, this very day there is
+not one amongſt all our *School-Doctors*, or late
+*Ex-Temporaries* that knows what is repreſent-
+ed unto us by the outward Element of *Water*
+in *Baptiſm*. True indeed: They tell us it beto-
+kens the *waſhing away of ſin*, which we grant
+them; but this is not the *ful ſignification* for
+which it was *ordained*. It hath been the Com-
+mon errour of all times to miſtake *ſignum* for
+*ſignatum*, the *ſhel* for the *Kernel*; yet to pre-
+vent this, it was, that *Dionyſius* wrote his book
+of the *Cœleſtial Hierarchie*, and eſpecially his
+*Theologia ſignificativa*, of which there is ſuch
+frequent mention made in his works. Verily
+our *Saviour Himſelf* who is bleſſed for ever-
+more, did ſometimes ſpeak in *parables*, and
+commanded further that *Pearles* ſhould not be
+caſt forth unto *ſwine*, for it is not *given to all*
+*men to know the myſteries of the Kingdom of*
+*Heaven*. Suppoſing then (as it is moſt true)
+that amongſt other *myſtical ſpeeches* contained
+in
+
+<meta>catchword: in</meta>
+<vocab>Theomagica, Saint Peter, Orall Tradition, School-Doctors, Baptism, Dionyſius, Cœleſtial Hierarchie, Theologia ſignificativa, parables, mysteries of the Kingdom of Heaven</vocab>
+
+--- Page 54 ---
+<lang>English</lang>
+<page-num>36</page-num>
+<header>Anthroposophia</header>
+
+in *Scripture*, this of the *Garden of Eden*, and the *Trees* in it, is *one*: I shall proceede to the *Exposition* of it in some measure, concealing the particulars notwithstanding.
+
+     Man in the beginning (I mean the substantiall inward *Man*) both in, and after his *Creation* for some short time, was a pure *intellectual Essence*, free from all fleshly, sensuall *Affections*. In this state the *Anima*, or *sensitive Nature* did not prevail over the *spiritual*, as it doth now in us. For the superior *Mentall* part of *Man* was united to God *per Contactum Essentialem*, and the *Divine light* being received in, and conveyed to the inferior portions of the *Soul* did mortifie all carnall desires, insomuch that in *Adam* the sensitive *Faculties* were scarce at all imployed, the *spirituall* prevailing over them in him, as they do over the *Spirituall* now in us. Hence we read in *Scripture*, that during the state of *Innocence* he did not know that he was naked: but no sooner eats he of the *tree of knowledge* but he saw his *nakednesse*, and was ashamed of it; Wherefore also he hides himself amongst the *Trees of the Garden*, and when God calls to him, he replies; <margin>Gen.</margin> *I heard thy voice in the Garden, and I was afraid because I was naked, and I hid my self.* But God knowing his former state, answers him with a *Question*. *Who told thee that Thou wast*
+
+<meta>catchword: naked?</meta>
+<vocab>Garden of Eden, Man, intellectual Essence, Anima, sensitive Nature, Contactum Essentialem, Divine light, Adam, state of Innocence, tree of knowledge</vocab>
+
+--- Page 55 ---
+<lang>en</lang>
+<page-num>37</page-num>
+<header>Theomagica.</header>
+
+*naked? Hast thou eaten of the tree, whereof I commanded thee thou shouldest not eat?* Here we see a Twofold state of Man: his first, and best in the spiritual substantiall union of his Intellectuall parts to God, and the Mortification of his athereall, sensitive Nature, wherein the fleshly sinfull *Affections* had their *Residence*. His second, or his *Fall* in the eating of the forbidden fruit which did cast asleep his *Intellectuall Faculties*, but did stir up, and exalt the *Sensuall*. 
+
+<margin>Gen.</margin>
+> For (sayth the Serpent) *God doth know that in the Day you eat thereof, then your eyes shall be opened, and you shall be as Gods knowing Good, and Evill. And when the woman saw that the Tree was good for food, and that it was pleasant to the eyes, and a tree to be desired to make one wise; She took of the Fruit thereof, and did eat, and gave also unto her husband, with her, and he did eat; And the Eyes of them both were opened, and they knew that they were naked.*
+
+Thus we see the sensuall faculties revived in our first Parents, and brought *de potentia in actum* as the *School-men* speak, by vertue of this forbidden Fruit. Neither did this Eating suppresse the *Intellectuall* powers in *Adam* onely, but in all his Generations after him for the Influence of this Fruit past together with his *Nature* into his posterity. We are all born like *Moses* with a Veil over the Face :
+
+<vocab>Theomagica, Twofold state of Man, Intellectuall parts, Mortification, athereall nature, forbidden fruit, Intellectuall Faculties, Sensuall, de potentia in actum, School-men, Adam, Moses, Veil over the Face, Genesis</vocab>
+
+--- Page 56 ---
+<lang>English</lang>
+<page-num>38</page-num>
+<header>Anthroposophia</header>
+<meta>catchword: of</meta>
+
+Face : This is it, which hinders the prospect of that Intellectual shining light, which God hath placed in us And to tell a Trueth that concernes all Mankinde, the greatest Mystery both in *Divinity*, and *Philosophie* is, *How to remove it.*
+
+It will not be amisse to speak something in this place of the Nature, and Constitution of Man, to make that more plain which already hath been spoken.
+
+As the great World consists of Three parts, the *Elemental*, the *Cœlestial*, and the *Spiritual*, above all which God himself is seated in that Infinite, inaccessible *Light*, which streames from his own *Nature*; Even so man hath in him his Earthly, Elemental parts, together with the *Cœlestial*, & *Angelical natures*, in the Center of all which moves, and shines the *Divine Spirit*. The sensuall, *Cœlestial*, *æthereal part of Man* is that whereby we do move, see, feel, taste, and smell; and have a Commerce with all *material Objects* whatsoever. It is the same in *us* as in *Beasts*, and it is derived from Heaven, where it is predominant, to all the inferiour Earthly Creatures. In plain Terms it is part of *Anima Mundi*, commonly called *Anima media*, because the Influences of the *Divine Nature* are conveyed thorough *it* to the more material parts of the creature, with which
+
+<vocab>Anthroposophia, Intellectual light, Divinity, Philosophie, Nature and Constitution of Man, Elemental, Cœlestial, Spiritual, Infinite Light, Divine Spirit, æthereal part of Man, material Objects, Anima Mundi, Anima media, Divine Nature</vocab>
+
+--- Page 57 ---
+<lang>English</lang>
+<page-num>39</page-num>
+<header>Theomagica.</header>
+<sig>E</sig>
+<meta>catchword: Eye</meta>
+
+of themselves they have no proportion. By meanes of this *Anima Media*, or the æthereal *Nature* : *Man* is made subject to the Influence of Stars, and is partly dispos’d of by the *Cælestial harmony*. For this middle spirit (middle I mean between both Extreames, and not that which actually unites the whole together) aswell that which is in the outward Heaven, as that which is in *Man*, is of a fruitfull insinuating nature, and carried with a strong desire to multiply it self, so that the *Cælestiall Form* stirs up, and excites the *Elementall*. For this Spirit is in *Man*, in Beasts, in Vegetables, in Minerals : and in every thing it is the *mediate Cause* of Composition and Multiplication. Neither should any wonder that I affirm this spirit to be in Minerals, because the Operations of it are not discerned there. For shall we conclude therefore, that there is no inward Agent that actuats, and specifies those passive, indefinite Principles whereof they are compounded? Tell me not now of blind *Peripateticall Formes*, and *Qualities*. A Form is that which *Aristotle* could not define substantially, nor any of his followers after Him, and therefore they are not competent Judges of it. But I beseech you, are not the faculties of this Spirit supprest in Man also when the *Organs* are Corrupted, as it appeareth in those that are blind? But notwithstanding the
+
+<vocab>Anima Media, Nature, Cælestial harmony, Cælestiall Form, Elementall, mediate Cause, Peripateticall Formes, Aristotle, Organs</vocab>
+
+--- Page 58 ---
+<lang>English</lang>
+<page-num>40</page-num>
+<header>Anthroposophia</header>
+<sig>E</sig>
+<meta>catchword: of</meta>
+
+Eye onely is deſtroyed, and not the *Viſible* power, for that remaines, as it is plain in their *dreames*. Now this *Viſion* is performed by a reflexion of the *Viſuall Radii* in their inward, proper *Cell*: For Nature imployes her gifts only where ſhe findes a *Conveniencie*, and fit *diſpoſition of Organs*, which being not in *Mineralls*, we may not expect ſo cleare an *Expreſſion* of the naturall *Powers* in them. Notwithſtanding in the Flowers of ſeverall *vegetables* (which in ſome ſort repreſent the *Eyes*) there is a more Subtile, acute perception of heat and cold, and other *Cœleſtiall Influences* then in any other part. This is manifeſt in thoſe *Herbs* which open at the riſing, and ſhut towards the *Sun-ſet*: which motion is cauſed by the Spirit being ſenſible of the approach and departure of the *Sun*. For indeed the Flowers are (as it were) the ſpring of the Spirit, where it breakes forth, and ſtreames, as it appeares by the *Odours* that are more *Cœleſtiall*, and comfortable there. Again, this is more evident in the *Plantanimals*, as the *Vegetable Lambe*, the *Arbor Caſta*, and ſeverall others. But this will not ſink with any, but ſuch as have ſeen this ſpirit ſeparated from his Elements, where I leave it for this time.
+
+Next to this *ſenſuall Nature of Man*, is the *Angelicall, or rationall ſpirit*. This Spirit adheres ſometimes to the *mens* or *ſuperior portion* of
+
+<vocab>Anthroposophia, Viſuall Radii, Plantanimals, Vegetable Lambe, Arbor Caſta, Angelicall ſpirit, mens, Cœleſtiall</vocab>
+
+--- Page 59 ---
+<lang>English</lang>
+<page-num>41</page-num>
+<header>Theomagica.</header>
+<sig>E 2</sig>
+<meta>catchword: world</meta>
+
+of the *Soul*, and then It is filled with the *divine*
+*Light*, but most commonly it descends into the
+*æthereal inferior portion*, which *Saint Paul* calls
+*Homo animalis*, where it is altered by the *Cæ-*
+lestiall influences, and diversly distracted with
+the irregular *Affections*, and *Passions* of the *sen-*
+*suall Nature*.
+
+Lastly, above the *Rationall Spirit* is the
+*Mens*, or *intelligentia abscondita*, commonly
+called *intellectus illustratus*, and of *Moses spi-*
+*raculum Vitarum*. This is that *Spirit* which
+God himselfe breathed into Man, and by which
+Man is united again to God. Now as the *Di-*
+*vine Light*, flowing into the *mens*, did assimu-
+late & convert the inferior portions of the Soul
+to God; so on the contrary the *Tree of Know-*
+ledge did obscure, and darken the superior por-
+tions, but awak'd and stir'd up the *Animal sin-*
+*full Nature*. The sum of all is this. Man, as
+long as he continued in his union to God, knew
+the good only, that is, the things that were of
+God: But as soon as he stretched forth his hand,
+and did eate of the Forbidden Fruit, that is
+the *Anima media*, or Spirit of the greater
+world presently upon his disobedience & trans-
+gression of the Commandement, his Union to
+the *divine nature* was dissolved, and his Spirit
+being united to the spirit of the world, he knew
+the Evill only, that is the things that were of the
+
+<vocab>Theomagica, Soul, divine Light, æthereal inferior portion, Saint Paul, Homo animalis, Affections, Passions, sensuall Nature, Rationall Spirit, Mens, intelligentia abscondita, intellectus illustratus, Moses, spiraculum Vitarum, Tree of Knowledge, Animal sinfull Nature, Forbidden Fruit, Anima media, Commandement</vocab>
+
+--- Page 60 ---
+<lang>English</lang>
+<page-num>42</page-num>
+<header>Anthroposophia</header>
+
+world. True it is, he knew the Good and the
+Evill, but the Evill in a far greater measure then
+the Good.
+
+Some sparks of Grace were left and though
+the perfection of Innocence was lost upon his
+Fall from the Divine Light, yet Conscience re-
+mained still with him, partly to direct, partly to
+punish. Thus you see that this *Anima Media*
+or middle Spirit is figured by the Tree of know-
+ledge, but he that knows why the Tree of Life
+is sayd to be in the middest of the Garden, and
+to grow out of the Ground, will more fully un-
+derstand that which we have spoken. We see
+moreover that the Faculties ascribed to the
+Tree of Knowledge are to be found only in the
+Middle Nature. First, it is said to be a *Tree to*
+*be desired to make one wise*, but it was Fleshly
+sensuall Wisdom the Wisdom of this world, and
+not of God. Secondly it is sayd to *be good for*
+*Food, and pleasant to the Eyes*. So is the Middle
+Nature also; For it is the onely medicine to
+repair the Decayes of the Naturall Man, and to
+continue our Bodies in their primitive strength,
+and Integrity.
+
+Lastly, that I may speake something for my
+self: This is no new unheard-of fansie, as the
+understanding Reader may gather out of *Tris-*
+*megistus*. Nay, I am verily of opinion, that the
+Egyptians received this knowledge from the
+
+<meta>catchword: Hebrews</meta>
+<vocab>Anima Media, Tree of Knowledge, Tree of Life, Middle Nature, Trismegistus, Egyptians, Hebrews, Conscience, sparks of Grace</vocab>
+
+--- Page 61 ---
+<lang>English</lang>
+<page-num>43</page-num>
+<header>Theomagica.</header>
+<sig>E 3</sig>
+<meta>catchword: Trans-</meta>
+
+*Hebrews* who lived a long time amongst them. as it appears out of *Scripture*, and that they delivered it over to the *Grecians*. This is plain out of *Iamblicus* in his booke *de Mysteriis*, where he hath these words.
+
+> *Contemplabilis in se Intellectus Homo, erat quondam Deorum contemplationi conjunctus : deinde vero alteram ingressus est Animam, circa humanam Formae Speciem contemperatam, atq; propterea in ipso Necessitatis, Fatique Vinculo est alligatus.*
+
+And what else I beseech you, is signified unto us in that poeticall fable of *Prometheus*? That he should steale a certaine fire from *Heaven*, for which Trespasse afterwards, *God* punished the World with a great many Diseases, and Mortality.
+
+But some body may reply: Seeing that *God* made all Things very good, as it appears in his *Review of the Creatures* on the *sixth day*; how could it be a sin in *Adam* to eat that which in it self was good? Verily the sin was not grounded in the Nature of that which he did eate, but it was the Inference of the Commandment, in as much as he was forbidden to eate it. And this is that which *Saint Paul* tels us, That he had not known sin, had it not been for the law; And again in another place, The strength of sin is the law. But presently upon the Disobedience of the first Man, and his
+
+<vocab>Hebrews, Grecians, Scripture, Iamblicus, de Mysteriis, Prometheus, Adam, Saint Paul, Theomagica, original sin, Prometheus myth</vocab>
+
+--- Page 62 ---
+<lang>English</lang>
+<page-num>44</page-num>
+<header>Anthroposophia</header>
+<meta>catchword: into</meta>
+
+Transgression of the Commandement the creature was made subject to Vanity : For the curse followed, and the impure seeds were joyned with the pure and they reigne to this houre in our bodies, and not in us alone, but in every other Naturall Thing . Hence it is we read in Scripture, *That the Heavens them-*
+<margin>Job.</margin> *selves are not clean in his sight.* And to this alludes the Apostle in that speech of his to the *Colossians, That it pleased the Father to reconcile all things to himselfe by Christ, whether they be things in Earth, or things in Heaven.* And here you are to observe, that *Cornelius Agrippa* mistook the act of Generation for Originall sin, which indeed was the effect of it, and this is the only point wherein he hath miscarried.
+
+I have now done, only a word more concerning the Situation of *Paradise*, and the rather because of the diversitie of Opinions concerning that place, and the absurdity of them. Saint *Paul* in his second Epistle to the *Corinthians* discovers it in these words, *I knew a man in Christ above fourteen yeares ago (whether in the body or out of the body, I cannot tell, God knoweth:) such a one caught up to the third Heaven. And I knew such a man (whether in the body or out of the body, I cannot tell, God knoweth) how that he was caught up*
+
+<vocab>Anthroposophia, transgression, vanity, original sin, Cornelius Agrippa, Paradise, Apostle, Colossians, Paul, Corinthians, Job</vocab>
+
+--- Page 63 ---
+<lang>English</lang>
+<page-num>45</page-num>
+<header>heomagica.</header>
+<sig>E 4</sig>
+<meta>catchword: Indumento</meta>
+<warning>The top of the page is slightly cropped, cutting off the start of the header. Faint ink bleed-through is visible from the reverse side. Fragments of text from the facing page are visible on the far left.</warning>
+
+into Paradise. Here you see that Paradise and
+the third Heaven, are convertible Tearms, so
+that the one discovers the other. Much more I
+could have said concerning the *Tree of Know-*
+*ledge* being in it selfe a large and very mysticall
+subject; but for my part I rest contented with
+my owne particular apprehension, and desire
+not to inlarge it any further : Neither had I
+committed this much to paper, but out of my
+love to the Trueth, and that I would not have
+these thoughts altogether to perish.
+
+You see now, if you be not *Durissimæ Cer-*
+*vicis Homines*, how man fell, and by Conse-
+quence you may guesse by what meanes he is to
+rise. He must be united to the Divine Light, from
+whence by disobedience he was separated. A
+Flash, or Tincture of this must come, or he can
+no more discerne things spiritually, then he can
+distinguish Colours naturally without the light
+of the Sun. This light descends, and is united
+to him by the same meanes as his Soule was at
+first. I speake not here of the Symbollicall ex-
+teriour Descent from the *Prototypicall-planets*
+to the created spheres, and thence *in noctem cor-*
+*poris* : But I speake of that most secret and si-
+lent Laps of the Spirit *per formarum naturali-*
+*um Seriem*, and this is a *Mystery* not easily ap-
+prehended. It is a *Cabalistical maxime*, *Nulla*
+*res spiritualis descendens inferius operatur sine*
+
+<vocab>Paradise, Tree of Knowledge, Divine Light, Tincture, Prototypicall-planets, in noctem corporis, Cabalistical maxime, Indumento</vocab>
+
+--- Page 64 ---
+<lang>English</lang>
+<page-num>46</page-num>
+<header>Anthropofophia</header>
+
+*Indumento*. Confider well of it with your
+ſelves, and take heed you wander not in the
+Circumference. The Soul of man, whiles ſhe
+is in the Body is like a *Candle* ſhut up in a dark-
+Lanthorn, or a Fire that is almoſt ſtifl'd for want
+of *Aire*. Spirits (ſay the *Platonicks*)
+<margin>
+*Pocl.*
+*de ani.*
+</margin>
+when they are *in ſua patria*, are like
+the Inhabitants of green Fields, who
+live perpetually amongſt Flowers, in a
+Spicy odorous *aire*: But here below, *in Sphærâ*
+*Generationis*, They mourn becauſe of darknes,
+and ſolitude, like people lockt up in a Peſt-
+houſe. *Hinc metuunt, cupiuntque dolent, &c.*
+This is it makes the Soule ſubject to ſo many
+Paſſions, to ſuch a *Proteus* of Humours. Now
+ſhe flouriſhes, now ſhe withers, now a ſmile,
+now a Tear. And when ſhe hath plaid out
+her ſtock, then comes a Repetition of the ſame
+fancies, till at laſt ſhe cries out with *Seneca*,
+*Quouſque eadem?* This is occaſioned by her
+vaſt, and infinite Capacity, which is ſattisfied
+with nothing but God, from whom at firſt ſhe
+deſcended. It is miraculous to conſider how
+ſhe ſtruggles with her Chaynes when man is in
+Extremity; how ſhe falſifies with *Fortune*;
+what pomp, what pleaſure, what a *Paradiſe*
+doth ſhe propoſe to her ſelfe? ſhe ſpans King-
+domes in a Thought, and enjoyes all that in-
+wardly, which ſhe miſſeth outwardly. In her
+
+<meta>catchword: are</meta>
+<vocab>Anthropofophia, Soul, Candle, Lanthorn, Platonicks, Proclus, de anima, Sphæra Generationis, Proteus, Seneca, Fortune, Paradise</vocab>
+
+--- Page 65 ---
+<lang>English</lang>
+<page-num>47</page-num>
+<header>Theomagica.</header>
+<meta>catchword: thing</meta>
+
+are Patterns and Notions of all things in the world. If she but fancies her selfe in the midst of the Sea, presently she is there, and heares the rushing of the Billowes. She makes an invisible voyage from one place to an other, and presents to her selfe things absent, as if they were present. The dead live to her, there is no Grave can hide them from her thoughts . Now shee is here in Dirt and Mire, and in a trice above the Moone:
+
+->*Celsior exurgit pluviis, auditque ruentes*<-
+->*Sub pedibus Nimbos, & cæca Tonitrua calcat.*<-
+
+But this is nothing. If she were once out of the Body, she could act all that which she imagin'd. *In momento* (saith *Agrippa*) *quicquid cupit, assequeretur*. In this state she can *movere Humores majores Animalis*, make generall Commotions in the *Two Spheres* of *air & water*, and alter the complexions of times. Neither is this a Fable, but the unanimous Tenent of the *Arabians*, with the two Princes *Avicebron* and *Avicen*. She hath then an absolute power in miraculous, and more then Naturall Transmutations. She can in an instant transfer her own vessel from one place to an other. She can (*per unionem cum virtute universali*) infuse, & communicate her thoughts to the absent, be the distance never so great: Neither is there any
+
+<vocab>Theomagica, Agrippa, Avicebron, Avicen, Arabians, Transmutations, virtute universali, Billowes</vocab>
+
+--- Page 66 ---
+<lang>English</lang>
+<page-num>48</page-num>
+<header>Anthroposophia</header>
+<meta>catchword: ration</meta>
+
+thing under the Sun but she may know it, and
+remaining onely in one place, she can acquaint
+her selfe with the actions of all places whatso-
+ever. I omit to speak of her *Magnet*, where-
+with she can attract all things as well *Spiritu-*
+*all, as Naturall*. Finally, *Nullum*
+<margin>Cor. Agr.</margin> *opus est in tota Natura serie tam*
+*arduum, tam excellens, tam deniq;*
+*miraculosum, quod anima humana Divinita-*
+*tis suæ Originem consecuta, Quam vocant Ma-*
+*gi animam stantem, & non cadentem, proprijs*
+*viribus, absque omni Externo adminiculo non*
+*queat efficere*. But who is he *inter tot millia*
+*Philosophantium*, that knows her Nature sub-
+stantially, and the Genuine specificall use there-
+of? This is *Abrahams secretum*
+<margin>Sepher . Tetz.</margin> *magnum, maxime mirabile, & oc-*
+*cultissimum sex annulis sigillatum,*
+*& ex eis exeunt Ignis, Aqua, & A-*
+*er, Quæ dividuntur in Mares, & Fœminas*. We
+should therfore pray continually, That God
+would open our eyes whereby we might see to
+imploy that Talent, which he hath bestowed
+upon us, but lies buried now in the Ground and
+doth not fructifie at all. He it is, to whom we
+must be united *Contactu essentiali*, and then we
+shall know all things *revelatâ facie, per claram*
+*in Diuino Lumine Visionem*. This Influx from
+Him is the true, proper Efficient of our Regene-
+
+<vocab>Anthroposophia, Magnet, Cornelius Agrippa, Sepher Yetzirah, Sepher Tetz, Abraham, Regeneration, Contactu essentiali, Divino Lumine</vocab>
+
+--- Page 67 ---
+<lang>en</lang>
+<page-num>49</page-num>
+<header>ma magica.</header>
+<sig>A</sig>
+<meta>visible bleed-through from the verso page; strikeout over Greek text in line 1</meta>
+
+ration, that <gloss><del>σπέρμα</del></gloss> of Saint *John*, the seed of
+God which remaines in us. If this be once ob-
+tained, we need not serve under *Aristotle* or
+*Galen*, nor trouble our selves with foolish *Vi-*
+*trums* and *Ergo's*, for his *Unction* will instruct
+us in all things. But indeed the *Doctrine* of the
+*Schoolmen*, which in a manner makes God and
+Nature contraries, hath so weakened our con-
+fidence towards Heaven, that we look upon all
+Receptions from thence as impossibillities. But
+if things were well weighed, and this Cloud of
+Tradition remov'd, we should quickly finde
+that God is more ready to give, then we are to
+receive. For He made Man (as it were) for his
+Play-fellow, that he might survey and examin
+his workes. The inferiour Creatures he made
+not for themselves, but his own glory: which
+glory he could not receive from any thing so
+perfectly as from Man, who having in him the
+Spirit of discretion, might judge of the beauty
+of the Creature, and consequently praise the
+Creatour. Wherfore also God gave him the
+use of all his Works, and in *Paradise* how
+familiar is he, or rather how doth he play with
+*Adam*? <margin>*Gen.*</margin> *Out of the Ground* (faith
+the Scripture) *the Lord God formed*
+*every Beast of the Field, and every fowl*
+*of the air, and brought them unto* *Adam* *to see*
+*what he would call them; and whatsoever*
+
+<vocab>Aristotle, Galen, Schoolmen, Unction, seed of God, Thomas Vaughan, Anima Magica Abscondita, Genesis, Adam, Paradise</vocab>
+
+--- Page 68 ---
+<lang>English</lang>
+<page-num>50</page-num>
+<header>Anthroposophia</header>
+<sig>A</sig>
+<meta>catchword: con-</meta>
+
+*Adam* called *every living Creature*, that was *the Name thereof*. These were the Books which God ordained for *Adam* and for us his Posterity, not the Quintessence of *Aristotle*, nor the Temperament of *Galen* the *Anti-Christ* . But this is *irritare Crabones* : Now will the *Peripateticks* brand me with their *contra Principia* and the Schoole-Divines with a *Tradatur satana*. I know I shall be hated of most for my paines, and perhaps scoff’d at like *Pithagoras* in *Lucian* . *Quis emet Eugenium? Quis super Hominem esse vult? Quis scire Universi Harmoniam, & reviviscere denuò?* But because according to their own Master <gloss>ὁρκὸς τὸ τιμιωτατον ἐστι</gloss> and that an Affirmative of this Nature cannot fall to the ground with a Christian, I will come to my Oath. I do therefore protest before my glorious God, I have not written this out of malice, but out of Zeale and affection to the Trueth of my Creatour. Let them take heed then, least whiles they contemn Mysteries, they violate the Majesty of God in his Creatures, and trample the Blood of the Covenant under Foot. But shall I not be counted a Conjurer seeing I follow the Principles of *Cornelius Agrippa*, that Grand *Archimagus*, as the antichristian *Jesuits* call Him? He indeed is my Author, and next to God I owe all that I have unto Him . why should I be asham’d to
+
+<vocab>Anthroposophia, Adam, Aristotle, Galen, Peripateticks, Pythagoras, Lucian, Cornelius Agrippa, Archimagus, Jesuits, Tradatur satana, contra Principia, irritare Crabones</vocab>
+
+--- Page 69 ---
+<lang>English</lang>
+<page-num>51</page-num>
+<header>Theomagica.</header>
+<warning>Moderate bleed-through of text from the verso side is visible in the lower half of the page.</warning>
+
+<margin>
+*In Crisi Sua ad Causam desperatam Gisberti Voe.*
+</margin>
+confeffe it? He was , Reader , By Extraction
+Noble . By Religion a Proteftant , as it ap-
+peares out of his owne writings , befides the
+late , but malicious Teftimony of
+*Fromondus*, a learned Papift. For
+his Courfe of Life, a Man famous
+in his Perfon both for Actions of
+War , and Peace. A Favorit to the
+greateft Princes of his Time , and
+the juft Wonder of all learned
+men. Laftly He was one that car-
+ried himfelfe above the Miferies he was borne
+to , and made Fortune know Man might be her
+Mafter . This is anfwer enough to a few So-
+phifters, and in defiance to all Calumnies, thus
+I falute his Memory.
+
+---
+
+---
+
+<vocab>Fromondus, Protestant, Papist, Sophisters, Gisbertus Voetius, Extraction, Theomagica, Calumnies</vocab>
+
+--- Page 70 ---
+<lang>lat</lang>
+<warning>Significant bleed-through from the reverse side of the page is visible, particularly at the top where "Sigismund I" and a page number "12" appear faintly.</warning>
+
+Henricus Cornelius Agrippa ab Nettesheim
+Armatæ Militiæ Eques Auratus, Max.
+Cæsaris à Conciliis, & Archivis Judiciarius,
+Utriusque Juris, & Medicinæ Doctor.
+
+<vocab>Henricus Cornelius Agrippa ab Nettesheim, Eques Auratus, Cæsaris à Conciliis, Archivis Judiciarius, Utriusque Juris Doctor, Medicinæ Doctor, Renaissance polymath, occultism</vocab>
+
+<detected-images>
+[{"description": "Engraved profile portrait of Heinrich Cornelius Agrippa von Nettesheim (1486–1535), depicted facing right, wearing a soft scholar's cap and heavy robes.", "type": "portrait", "bbox": {"x": 0.156, "y": 0.101, "width": 0.795, "height": 0.651}, "gallery_quality": 0.85, "museum_rationale": "A high-quality 16th or 17th-century copperplate engraving of the famous German polymath, physician, legal scholar, and occult writer Agrippa. The portrait capture fine details of his features and contemporary academic dress."}]
+</detected-images>
+
+--- Page 71 ---
+<lang>lat</lang>
+<page-num>53</page-num>
+<header>Theomagica. 53</header>
+<warning>Visible bleed-through/ghosting from the reverse side of the leaf.</warning>
+
+Pinge Duos Angues. Hic est Agrippa, Supernis
+*Demissa Fax ab Ignibus.*
+Cœli magnum Instar: nec in ullo Sydere fulfit
+Natura plenior Deo.
+O si Sacratus tanto Spiramine Lychnus,
+*Lustraret Aureus Solum!*
+Sed nimis offensæ sancta indignatio Flammæ
+*Æona Cœlitum fubit.*
+
+---
+
+*Quid Domine inspersum lector mirabere fucum*
+*Nec cernis quam fit Fœmina, falsa Venus.*
+*Sanctã oculis salvere umbrã, faciemq; jubeto,*
+*Totus & in magnum dirige Cornelium.*
+*Illius ut dicas te hasisse in Vultibus; Ætas*
+*Cui vel nulla dedit, nec dabit ulla Parem.*
+
+---
+
+Great, glorious *Pen-Man*! whom I should not name,
+Lest I might Seem to measure Thee by *Fame*;
+Natures *Apostle*, and her Choice *High Priest*,
+Her *Mysticall*, and bright *Evangelist*.
+How am I rapt when I contemplate Thee,
+And winde my self above *All* that I see!
+The Spirits of thy *Lines* infuse a *Fire*
+Like the *worlds Soul*, which makes me thus aspire:
+I am *unbodi'd* by thy Books, and Thee,
+And in thy Papers finde my *Extasie*.
+
+<meta>catchword: Or</meta>
+<vocab>Theomagica, Agrippa, Cornelius, Pen-Man, Natures Apostle, Extasie</vocab>
+
+--- Page 72 ---
+<lang>English</lang>
+<page-num>54</page-num>
+<header>Anthroposophia</header>
+
+Or if I please but to descend a strain,
+Thy *Elements* do *skreen* my *Soul* again.
+I can *undresse* my *Self* by thy bright *Glasse*,
+And then *resume* th’ *Inclosure*, as I was.
+Now I am *Earth*, and now a *Star*, and then
+A *Spirit* : now a *Star*, and *Earth* agen.
+Or if I will but *ramasse* all that be,
+In the least moment I *ingrosse* all *Three*.
+I span the *Heav’n* and *Earth*, and things above,
+And which is more, joyn *Natures* with their *Love*.
+He Crowns my *Soul* with *Fire*, and there doth shine
+But like the *Rain-bow* in a *Cloud* of mine.
+Yet there’s a *Law* by which I *discompose*
+The *Ashes*, and the *Fire* it self *disclose*,
+But in his *Emrald* still He doth appear,
+They are but *Grave-clo hes* which he scatters here.
+Who sees this *Fire* without his *Mask*. his *Eye*
+must needs be *swallow’d* by the *Light*, and die.
+
+These are the *Mysteries* for which I wept
+Glorious *Agrippa*, where thy *Language* slept,
+where thy dark *Texture* made me wander far,
+Whiles through that pathles Night, I trac’d the *star*,
+But I have found those *Mysteries*, for which
+Thy *Book* was more then thrice-pil’d o’re with *Pitch*.
+Now a new *East* beyond the *stars* I see
+where breaks the *Day* of thy *Divinitie* :
+*Heav’n* states a *Commerce* here with *Man*, had He
+but gratefull *Hands* to take, and *Eyes* to see.
+
+Hence you fond *School-men*, that high trueths deride,
+And with no *Arguments* but *Noyse*, and *Pride*;
+You that damn *all* but what your *Selves* invent,
+And yet finde nothing by *Experiment*.
+Your *Fate* is written by an *unseen Hand*,
+But his *Three Books* with the *Three worlds* shall stand.
+
+<meta>catchword: Thus</meta>
+
+<vocab>Anthroposophia, Agrippa, alchemical poetry, Three Books of Occult Philosophy, School-men, elements, soul, macrocosm, microcosm</vocab>
+
+--- Page 73 ---
+<lang>English</lang>
+<page-num>55</page-num>
+<header>Theomagica.</header>
+<sig>F</sig>
+<meta>catchword: breathing; some bleed-through visible from the reverse page</meta>
+
+Thus far Reader I have handl'd the compo-
+sure and Royalty of Man; I shall now speak
+something of his *Dissolution*, and close up my
+Discourse, as he doth his Life, with *Death*.
+*Death* is *Recessus vitæ in Absconditum*: not
+the *Annihilation* of any one Particle, but a Re-
+treat of hidden Natures to the same State they
+were in, before they were Manifested. This is
+occasioned by the *Disproportion*, and inequality
+of the Matter: For when the *Harmony* is bro-
+ken by the *Excesse* of any one Principle, the vi-
+tall *twist* (without a timely *Reduction* of the
+first *Unity*) Disbands, and unravells. In this
+*Recesse* the severall Ingredients of Man return
+to those severall Elements; from whence they
+came at first in their accesse to a *Compound*;
+For to thinke that God creates any thing *ex*
+*nihilo* in the work of Generation is a pure,
+*Metaphysicall Whymsey*. Thus the *Earthly*
+parts, as we see by experience, return to the
+*Earth*, the *Coelestial* to a Superiour, heavenly
+*Limbus*, and the Spirit to God that gave it.
+Neither should any wonder that I affirm the
+Spirit of the living God to be in Man, when
+God himself doth acknowledge it for his own,
+<margin>Gen.</margin> *My spirit* (saith he) *shall not alwaies be*
+sheathed (for so the Hebrew signifies) in
+man, for that he also is flesh, yet his dayes
+shall be an hundred and twenty years. Besides, the
+
+<vocab>Theomagica, Dissolution, Death, Recessus vitæ in Absconditum, Annihilation, hidden Natures, Disproportion, Harmony, Excesse, vitall twist, Reduction, first Unity, severall Ingredients, Compound, ex nihilo, Metaphysicall Whymsey, Earthly parts, Coelestial, heavenly Limbus, Spirit of the living God, Hebrew signifies, Gen.</vocab>
+
+--- Page 74 ---
+<lang>English</lang>
+<page-num>56</page-num>
+<header>Anthroposophia</header>
+<meta>catchword: through</meta>
+
+breathing: of it into *Adam* proves it proceeded from God, and therefore the Spirit of God. Thus *Christ* breathed on his Apostles, and they received the *Holy Ghost*. In *Ezechiel* the Spirit comes from the *Four Winds*, and Breathes upon the Slain, that they might live. Now this Spirit was the Spirit of Life, the same with that Breath of Life, which was breathed into the *First Man*, and he became a *Living Soul*: but without doubt the Breath, or Spirit of Life is the *Spirit of God*. Neither is this Spirit in Man alone, but in all the *Great World* though after an other manner : For God breathes continually, and passeth through all things like an *Air that refresheth* : wherefore also he is called of *Pythagoras* ψύχωσις τῶν ὅλων, *Animatio universorum*. Hence it is that God in Scripture hath severall names according to those severall Offices he performes in the Preservation of his Creature. *Quin etiam* (saith the *Areopagite*) *in mentibus ipsum inesse dicunt, atq; in Animis, & in corporibus, & in Cælo esse, atq; in Terra, ac simul in seipso ; Eundem in Mundo esse, circa mundum, supra mundum, supra Cælum, superiorem Essentiâ, Solem, stellam, Ignem, Aquam, Spiritum, Rorem, Nebulam, Ipsum Lapidem, Petram, Omnia esse quæ sunt, & nihil eorum quæ sunt.* And most certain it is, because of his secret passage, and Penetration
+
+<vocab>Anthroposophia, Adam, Christ, Holy Ghost, Ezechiel, Four Winds, Spirit of God, Pythagoras, ψύχωσις τῶν ὅλων, Animatio universorum, Areopagite</vocab>
+
+--- Page 75 ---
+<lang>English</lang>
+<page-num>57</page-num>
+<header>Theomagica.</header>
+
+through all, that other simile in *Dionysius* was
+given him. *Adam etiam* (faith he) *& quod*
+*omnium vilissimum esse, & magis absurdum*
+*videtur : Ipsum sibi vermis speciem adhibere,*
+*ab iis , Qui in rebus Divinis multum , diuque*
+*versati sunt, esse traditum.* Now this Figura-
+tive kind of speech, with its variety of appella-
+tions, is not only proper to Holy Writt, but the
+*Ægyptians* also (as *Plutarch* tells me) call'd *I-*
+*sis*, or the more secret part of Nature , *Myri-*
+*onymos ,* and certainly that the same thing,
+should have a Thousand Names, is no news
+to such, as have studied the Philosophers Stone.
+But to return thither whence we have digres-
+sed. I told you the severall Principles of Man
+in his *Dissolution* , part, as sometimes Friends
+do, several wayes. Earth to earth, as our *Li-*
+*turgie* hath it, and Heaven to Heaven, accor-
+ding to that of *Lucretius.*
+
+> *Cedit item retrò de Terrâ quod fuit ante,*
+> *In Terram : & quod missum est ex Ætheris Oris,*
+> *Id rursum Cœli fulgentia Templa receptant.*
+
+But more expressly the Divine *Virgil* speak-
+ing of his Bees.
+
+> *His Quidam signis, atque hæc Exempla secuti*
+> *Esse Apibus partem Divinæ Mentis, & Haustus*
+
+<sig>F 2</sig>
+<meta>catchword: Æthereos</meta>
+
+<vocab>Theomagica, Dionysius, Adam, Plutarch, Isis, Myrionymos, Philosophers Stone, Lucretius, Virgil, Bees, Dissolution, Georgics, De Rerum Natura</vocab>
+
+--- Page 76 ---
+<lang>lat, eng</lang>
+<page-num>58</page-num>
+<header>Anthroposophia</header>
+
+> *Æthereos dixere : Deum namque ire per Omnes*
+> *Terraſque Tractuſque Maris, Cœlumque profundum.*
+> *Hinc Pecudes, Armenta, Viros, Genus omne Ferarum,*
+> *Quemque ſibi tenues Naſcentem arceſſere Vitas.*
+> *Scilicet huc reddi deindè, ac reſoluta referri*
+> *Omnia : nec Morti eſſe locum ; Sed Viva volare*
+> *Syderis in Numerum, atque alto Succedere Cœlo.*
+
+This Vaniſh or aſcent of the inward *Æthereall* Principles doth not preſently follow their ſeparation : For that part of man which <term>Paracelſus</term> calls <term>Homo Sydereus</term>, and more appoſitly <term>Brutum hominis</term> : but <term>Agrippa</term> <term>Idolum</term>, and <term>Virgil</term>
+
+> *Æthereū ſenſum, atq; Aurai Simplicis Ignē ;*
+
+This Part I ſay, which is the <term>Aſtral Man</term> hovers ſometimes about the *Dormitories* of the Dead, and that becauſe of the <term>Magnetiſm</term>, or <term>Sympathie</term> which is between him and the <term>Radical, vital moyſture</term>. In this <term>Idolum</term> is the ſeat of the Imagination, and it retaines after Death an Impreſſe of thoſe paſſions, and Affections to which it was ſubject in the Body. This makes Him haunt thoſe Places, where the whole Man hath been moſt Converſant, and imitate the actions, and geſtures of Life. This <term>Magnetiſm</term> is excellently confirmed by that
+
+<meta>memo-</meta>
+
+<vocab>Anthroposophia, Homo Sydereus, Brutum hominis, Idolum, Astral Man, Magnetism, Sympathie, Radical vital moysture, Paracelsus, Agrippa, Virgil</vocab>
+
+--- Page 77 ---
+<lang>English</lang>
+<page-num>59</page-num>
+<header>Theomagica.</header>
+
+memorable accident at *Paris*, which Dr. *Flud* proves to be true by the teſtimonies of great, and learned Men. *Agrippa* alſo ſpeaking of the apparitions of the Dead, hath these words. *Sed & Ipſe Ego, quæ meis Oculis vidi, & manibus tetigi, hoc loci referre nolo, nè me ob Rerum ſtupendam Admirationem de Mendacio ab Incredulis argui contingat.* But this Scæne exceedes not the Circuit of One year, for when the Body begins fully to corrupt, the Spirit returnes to his Originall Element. These Apparitions have made a great noise in the world, not without ſome benefit to the *Pope*; But I ſhal reſerve all for my great work, where I ſhall more fully handle these myſteries.
+
+I am now to ſpeak of Man as he is ſubject to a Supernatural Judgement: And to be ſhort, my Sentiment is this. I conceive there are besides the Empyræall Heaven, two inferior Manſions, or Receptacles of Spirits. The One is that which Our Saviour calls σκότος ἐξώτερον, and this is it whence there is no Redemption: ὅθεν ἔποτε ἐκβαίνουιν, *unde Animæ nunquam egrediuntur*, as the Divine *Plato* hath it. The Other I ſuppoſe, is ſomewhat anſwerable to the *Elyſian Fields*, ſome delicate, pleaſant Region, the Suburbs of *Heaven* as it were: Thoſe Seven mighty Mountaines, whereupon there grow Roses
+
+<sig>F 3</sig>
+<meta>catchword: and</meta>
+<vocab>Dr. Flud, Robert Fludd, Agrippa, Apparitions, Pope, Empyræall Heaven, Plato, Elyſian Fields, σκότος ἐξώτερον, outer darkness</vocab>
+
+--- Page 78 ---
+<lang>English</lang>
+<page-num>60</page-num>
+<header>Anthropoſophia</header>
+
+and Lilies, or the Outgoings of Paradiſe in Eſ-
+dras. Such was that Place, where the Oracle
+told Amelius the ſoul of Plotinus was.
+
+> *Ubi Amicitia est, ubi Cupido viſu mollis,*
+> *Pura plenus Lætitia, & sempiternis Rivis*
+> *Ambroſiis irrigatus à Deo : unde ſunt Amorū*
+> *Retinacula, Dulcis Spiritus, & Tranquillus Æ-*
+> *Aurei Generis magni Jovis. (ther*
+
+Stellatus ſuppoſeth there is a Succeſſive, gra-
+dual aſcent of the Soul according to the proceſs
+of Expiation, and he makes her Inter-Reſidence
+in the Moon. But let it be where it will, my O-
+pinion is, That this middlemoſt manſion is ap-
+pointed for ſuch Souls, whose whole man hath
+not perfectly repented in this world : But not-
+withſtanding they are *de Salvandorum numero*,
+and reserved in this place to a further Repent-
+ance in the ſpirit, for those Offences they com-
+mitted in the Flesh. I do not here maintain that
+*Ignis Fatuus* of Purgatory, or any ſuch paint-
+ed, imaginary *Tophet*, but that which I ſpeak of
+(if I am not much mistaken) I have a ſtrong
+Scripture for. It is that of *Saint Peter*, where he
+ſpeaks of Chriſt being *put to death in the flesh,*
+*but Quickned by the spirit; By which also he*
+
+<meta>catchword: went</meta>
+
+<vocab>Esdras, Amelius, Plotinus, Stellatus, Moon, Purgatory, Tophet, Saint Peter, Expiation, de Salvandorum numero, Ignis Fatuus, Anthropoſophia</vocab>
+
+--- Page 79 ---
+<lang>English</lang>
+<page-num>61</page-num>
+<header>Theomagica.</header>
+
+*went, and preached unto the* spirits *that were in*
+Prison : *which sometimes were disobedient when*
+*once the long-suffering of* God *waited in the*
+Dayes *of* Noah, *while the* Ark *was a prepa-*
+*ring, wherein* Few, *that is, eight souls were sa-*
+*ved by* Water. These spirits were the souls of
+those who perished in the Floud, and were re-
+served in this place till Christ should come, and
+preach Repentance unto them. I know Scaliger
+thinks to evade this Construction with his *Qui*
+*Tunc*, That they were then alive, namely before
+the Floud, when they were preached unto. But
+I shall overthrow this single Non-sense with
+Three solid Reasons drawn out of the Body of
+the Text. First, it is not said that the spirit it self
+precisely preached unto them, but He who went
+thither by the Spirit, namely Christ in the Hy-
+postaticall union of his Soul and Godhead,
+which union was not before the Floud, when
+these Dead did live. Secondly, it is written that
+he preached unto spirits, not to Men : to those
+which were in Prison, not to those which were
+*in vivis*, τοῖς ἐν φυλακῇ πνεύμασι, which is quite
+contrary to Scaliger; and this Exposi-
+<margin>Cap. 4. ver. 6.</margin>
+tion the Apostle confirms in another
+place, νεκροῖς εὐηγγελίσθη, the Dead
+were preached to, not the living.
+Thirdly, the Apostle sayes, These spirits were
+but sometimes disobedient, and withall tells us
+
+<sig>F 4</sig>
+<meta>catchword: when,</meta>
+
+<vocab>Noah, Ark, Christ, Hypostaticall union, Scaliger, spirits in prison, Floud, Apostle, Greek, Latin, theology</vocab>
+
+--- Page 80 ---
+<lang>English</lang>
+<page-num>62</page-num>
+<header>Anthroposophia</header>
+
+when namely in the Dayes of *Noah* : whence
+I gather they were not disobedient at this time
+of preaching , and this is plain out of the subse-
+quent Chapter.
+  For this Cause (sayth the Apostle) *was the*
+*Gospel preached also to them that are dead, that*
+*they might be judged according to men in the*
+*flesh, but live according to God in the Spirit.*
+Now this Judgment in the Flesh was grounded
+on their disobedience in the Dayes of *Noah*, for
+which also they were drowned, but *Salvation*
+according to *God* in the *Spirit* proceeded from
+their *Repentance* at the preaching of *Christ*; 
+which was after death. I do not impose this on
+the Reader, as if I sate in the infallible Chaire,
+but I am confident the text of it self will speak
+no other sense. As for the Doctrine it is no way
+hurtfull, but in my Opinion as it detracts not
+from the Mercy of God, so it addes much to the
+Comfort of Man.
+  I shall now speak a word more concerning
+my self, and another concerning the Common
+Philosophy, and then I have done. It will be
+question'd perhaps what I am, and especially
+what my Religion is? Take this short answer.
+I am neither *Papist*, nor *Sectary*; but a true, re-
+solute *Protestant* in the best sense of the Church
+of *England*. For Philosophy as it now stands,
+it is altogether imperfect, and withall false. A
+
+<meta>catchword: meer</meta>
+<vocab>Anthroposophia, Noah, Gospel, Salvation, Repentance, Christ, Papist, Sectary, Protestant, Church of England, Philosophy</vocab>
+
+--- Page 81 ---
+<lang>English</lang>
+<page-num>63</page-num>
+<header>Theomagica.</header>
+<sig>I</sig>
+
+meer Apothecaries Drug, a mixture of inconsi-
+stent, Contrary Principles, which no way agree
+with the Harmony, and Method of Nature. In
+a word, the whole *Encyclopaedia* (as they call
+it) bateing the Demonstrative Mathematicall
+part, is built on meer Imagination without the
+least Light of Experience. I wish therefore all
+the true sons of my famous *Oxford Mother* to
+look beyond *Aristotle*, and not confine their
+Intellects to the narrow, and cloudy *Horizon*
+of his Text, for he is as short of Nature, as the
+*Grammarians* are of *Steganography*. I expect
+not their Thanks for this my advice, or *Disco-*
+*very*, though perhaps I deserve well for
+both, but verily the Time will come when
+this Trueth shall be more perfectly manifested,
+and especially that great, and glorious my-
+stery, whereof there is little spoken in this
+Book. *Solus Rex Messias, Verbum Patris*
+*Caro factum, Arcanum hoc revelavit, ali-*
+*quâ Temporis plenitudine apertius manifestatu-*
+*rus. Cornelius Agrippa's* own prediction, and
+I am confident it shall finde Patrons inough,
+when nothing remaines here of me, but Me-
+mory.
+
+My sweetest *Jesus!* 'twas thy *Voice : If I*
+<margin>John</margin> *Be lifted up, I le draw all to the skie.*
+Yet I am here : I'm stifl'd in this Clay,
+Shut up from Thee, and the fresh *East* of Day.
+
+<vocab>Theomagica, Oxford Mother, Aristotle, Steganography, Messias, Cornelius Agrippa, Jesus, John</vocab>
+
+--- Page 82 ---
+<lang>English</lang>
+<page-num>64</page-num>
+<header>Anthroposophia</header>
+
+I know thy *Hands* not *short*: but I’m unfit
+A foul, unclean Thing! to take hold of it.
+I am all *Dirt*: Nor can I hope to please,
+Unles in *mercy* thou lov’st a *Disease*.
+*Diseases* may be Cur’d: But who’l reprieve
+Him that is *Dead*? Tell me my God, I *live*.
+’Tis true, I live: But I so sleep withall,
+I cannot *move*, scarce hear when thou doest cal.
+Sins *Lullabies* charm me when I would come,
+*But draw me after thee, and I will run.*
+Thou know’st *I’m sick*: let me not feasted be,
+But keep a *Diet*, and *prescrib’d* by Thee.
+Should I *crave* for my *self*, I would exceed
+To *Surfets* soon, and by *self murder* bleed.
+I ask for *stones* and *scorpions*, but still crost, (lost
+And all for *Love*: should’st Thou grant, I were
+Dear Lord, deny me still: And never *signe*
+My will, but when that *will* agrees with Thine.
+And when this *Conflict’s* past, and I appear
+To *answer*, what a *Patient* I was here,
+*How I did weep, when Thou did’st woe: repine*
+*At thy best sweets, and in a Childish whyne*
+*Refuse thy proffer’d Love: yet cry, and call*
+For *Rattles of my own to play withall*;
+Look on thy *Crosse*, and let thy *Bloud* come in,
+When mine shall blush as guilty of my *Sin*
+Then shall I live, being rescu’d in my *Fall*
+*A Text of Mercy to thy Creatures all.*
+
+<meta>catchword: Who</meta>
+<vocab>Anthroposophia, Disease, Sins Lullabies, Surfets, self murder, Conflict, Crosse, Redemption</vocab>
+
+--- Page 83 ---
+<lang>English</lang>
+<page-num>65</page-num>
+<header>Theomagica.</header>
+
+Who having ſeen the *worſt* of ſins in *me*,
+Muſt needs confeſſe, the *beſt* of *Loves* in *Thee*.
+
+I have now done Reader, but how much to my own prejudice, I cannot tell. I am confident this ſhall not paſſe without *Noiſe*, but I may do well inough if thou grant'ſt me but one *Requeſt*. I would not have Thee look here for the *Paint*, and *Trim* of *Rhetorick*, and the rather becauſe *Engliſh* is a *Language* the *Author* was *not born to*. Beſides, this *Piece* was compos'd in *Haſte*, and in my *Dayes* of *Mourning*, on the ſad Occurence of a Brother's Death. *Et Quis didicit ſcribere in luctâ Lacrymarum, & Atramenti?*
+
+To Conclude: If I have err'd in any Thing (and yet I follow'd the *Rules* of *Creation*) I expoſe it not to the *Mercy* of *Man*, but of *God*: who as he is *moſt able*, ſo alſo is *he moſt willing* to forgive us in the *Day* of our *Accounts*.
+
+->F I N I S.<-
+
+<vocab>Theomagica, Rhetorick, Author, Mourning, Rules of Creation, FINIS</vocab>
+
+--- Page 84 ---
+<lang>English</lang>
+<page-num>81</page-num>
+<header>Geomancie</header>
+<meta>The text on this page is almost entirely mirror-image bleed-through from the recto (front) side of the leaf. The following transcription reflects the text as it was printed on the recto. A red manuscript number "81" is written correctly oriented on the verso side at the top left.</meta>
+<warning>The image shows the back of a page with heavy ink bleed-through; all primary text is reversed.</warning>
+
+### Postscript.
+
+Whosoever shall find the many
+Mistakes contained in this Treatise,
+
+I have now done Reader; but how well in
+my own practice I cannot tell. I am confident
+this shall not passe without a Censure, but I may
+do well enough if thou perusest it for thy
+owne, I should not have looked back for the
+Space and time of leasure, and the rather
+because For thy sake I have run through this
+the more, Besides this Piece was composed in
+Hast, and in my Dayes of Studying the
+the Occasion of a Friend's Desire, who
+did it in a more Learned Language, so that
+it is now translated into English.
+
+To Conclude: If I have erred in any thing
+(and yet followed the Rule of Grammar) I
+expect not to the mercy of Man, but of
+God; who as he is, both able, so also is he
+most willing to save us, in the Day of our
+Account. Amen.
+
+->F I N I S<-
+
+<vocab>Geomancie, Postscript, Censure, Rule of Grammar, Account</vocab>
+
+--- Page 85 ---
+<lang>en</lang>
+<page-num>67</page-num>
+<meta>Catchword or signature mark 'I' at the bottom left margin.</meta>
+
+# AN
+# ADVERTISEMENT
+## TO THE
+# READER.
+
+I F the old *Itch* of Scribling, a *Diſease* very proper to *Galeniſts*, ſurpriſe any of their *Tribe*, I ſhall expect from them theſe following performances. Firſt, a plain *Poſitive Expoſition* of all the
+->paſſages<-
+
+<vocab>Galeniſts, Tribe, Expoſition, Scribling</vocab>
+
+<detected-images>
+[
+  {"description": "Decorative typographic headpiece composed of three horizontal rows of fleur-de-lis and floral ornaments.", "type": "decorative", "bbox": {"x": 0.111, "y": 0.154, "width": 0.697, "height": 0.151}, "gallery_quality": 0.5, "museum_rationale": "Standard typographic ornaments used in early modern printing for visual division of sections."},
+  {"description": "Ornate woodcut initial 'I' decorated with foliate motifs and scrolls.", "type": "decorative", "bbox": {"x": 0.112, "y": 0.583, "width": 0.331, "height": 0.225}, "gallery_quality": 0.7, "museum_rationale": "A characteristic 17th-century decorative initial used to mark the beginning of a major text section."}
+]
+</detected-images>
+
+--- Page 86 ---
+<lang>English</lang>
+<page-num>68</page-num>
+<header>An Advertiſement</header>
+<meta>catchword: I</meta>
+
+## An Advertiſement
+
+*paſſages in this Book*, without any *In- jury* to the *ſenſe* of their *Author*: For if they interpret *Them* otherwiſe then they *ought*, they but *Create Errours* of their *own*, and then *overthrow them*.
+
+Secondly, to prove their *Familiari- ty* and *knowledge* in this *Art*, let them give the Reader a *punctuall Diſcovery* of all the *ſecrets* thereof. If this be more then *They can do*, it is *Argument* enough they *know not* what they *oppoſe*: And *if they do not know*; how can they *judge?* or if they *judge*, where is their *Evidence to condemne?*
+
+Thirdly, let *Them* not *mangle*, and *diſcompoſe* my *Book* with a *ſcatter of Obſervations*, but proceed *Methodical- ly* to the *Cenſure* of each *part*, *expound- ing* what is *obſcure*, and *diſcovering* the *very practiſe*, that the Reader may *finde* my *Poſitions* to be *falſe*, not *onely* in their *Theorie*, but if he will *aſſay it*, by his *own particular Experience*.
+
+<vocab>Advertiſement, Author, Errours, Art, Diſcovery, Cenſure, Theorie, Experience</vocab>
+
+--- Page 87 ---
+<lang>English</lang>
+<page-num>69</page-num>
+<header>to the Reader.</header>
+
+I have two Admonitions more to the *Ingenuous*, and *well-disposed Reader*. First, That he would not *slight* my *Indevours* because of *my yeers*, which are but *few*. It is the Custom of most men to measure *knowledge* by the *Beard*, but look Thou rather on the *Soul*, an *Essence* of that *Nature*, <margin>Procl.</margin> *quæ ad perfectionem suam Curricula Temporis non desiderat*. Secondly, that He would not conclude any thing rashly concerning the subject of this *art*, for it is a *Principle* not easily apprehended. It is neither *Earth*, nor *water*, *air*, nor *Fire*. It is not *Gold*, *Silver*, *Saturn*, *Antimonie*, or *Vitriol*, nor any kind of *Minerall* whatsoever. It is not *Bloud*, nor the *Seed* of any *Individual*, as some unnaturall, *Obscene* Authors have imagin'd. In a word, it is no *Mineral*, no *Vegetable*, no *Animal*, but a *system* as it were, of all Three. In plain Terms, it is *Sperma Majoris Animalis*, The seed of Heaven, and Earth, our most secret,
+
+<meta>catchword: mira-</meta>
+
+<vocab>Admonitions, Ingenuous, Indevours, knowledge, Beard, Soul, Procl., Principle, Sperma Majoris Animalis, Mineral, Vegetable, Animal, alchemy</vocab>
+
+--- Page 88 ---
+<lang>English</lang>
+<page-num>70</page-num>
+<header>An Advertiſment to, &c.</header>
+<meta>catchword: anim; heavy bleed-through from verso showing reversed text</meta>
+
+*miraculous Hermaphrodite. If you know*
+*this, and with it the Hydro-pyro-magical*
+*Art, you may with ſome ſecurity at-*
+*tempt the work, if not, practice is the*
+*way to Poverty. Aſſay nothing with-*
+*out Science, but confine your ſelves to*
+*thoſe Bounds, which Nature hath præ-*
+*ſcrib'd you.*
+
+---
+
+---
+
+<vocab>Hermaphrodite, Hydro-pyro-magical Art, Science, Nature, Poverty</vocab>
+
+--- Page 89 ---
+<lang>English</lang>
+<meta>image quality: excellent</meta>
+
+# *ANIMA MAGICA*
+## *ABSCONDITA:*
+
+->Or<-
+
+### A Diſcourſe of the univerſall Spirit of Nature,
+
+->With his ſtrange, abſtruſe, miraculous<-
+->Aſcent, and deſcent.<-
+
+---
+
+->By *Eugenius Philalethes*.<-
+
+---
+
+> *Stapul: in Dion:*
+> *Eſt autem V niverſum ſpeculum Unum,*
+> *ad Quod aſtans Amor, ſuum effor-*
+> *mat Idolum.*
+>
+> *Dû a Digon: Héb Dhû, Héb Dhim.*
+
+---
+
+->L O N D O N,<-
+->Printed by *T.W.* For *H. B.* 1650.<-
+
+<vocab>Anima Magica Abscondita, Thomas Vaughan, Eugenius Philalethes, Hermeticism, Alchemy, Spirit of Nature, Stapulensis, Welsh proverb</vocab>
+
+--- Page 90 ---
+<lang>None</lang>
+<meta>Blank page with water staining and foxing.</meta>
+<warning>The page contains no visible text, handwriting, or illustrations.</warning>
+
+<vocab>blank page, foxing, water staining, paper texture</vocab>
+
+--- Page 91 ---
+<lang>lat</lang>
+<page-num>1</page-num>
+<meta>Front pastedown of a leather-bound book with pencil notations and library shelfmarks. The right side of the paper pastedown is torn away, revealing the leather binding underneath.</meta>
+
+1
+
+g119
+
+UBN 6g1 a ex BPH
+
+<vocab>UBN, BPH, Bibliotheca Philosophica Hermetica, Universiteitsbibliotheek Nijmegen, shelfmark</vocab>
+
+--- Page 92 ---
+<lang>Unknown</lang>
+
+<warning>This image depicts the leather cover of a manuscript or book. There is no visible text to transcribe.</warning>
+
+<vocab>leather binding, blind-tooling, book cover, historical manuscript</vocab>
+
+<detected-images>
+[{"description": "Brown leather book cover with simple blind-tooled linear borders.", "type": "decorative", "bbox": {"x": 0.034, "y": 0.016, "width": 0.931, "height": 0.963}, "gallery_quality": 0.5, "museum_rationale": "This is a representative example of a period leather binding with minimal blind-tooling decoration, showing natural wear and age-related patina."}]
+</detected-images>

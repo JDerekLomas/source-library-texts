@@ -1,0 +1,28 @@
+{
+  "id": "6990522a8d19cbc90d9d554f",
+  "title": "Daemonologie, in Forme of a Dialogue",
+  "display_title": "Daemonologie, in Forme of a Dialogue",
+  "author": "King James VI/I",
+  "language": "English",
+  "year": 1597,
+  "published": "Unknown",
+  "pages_count": 91,
+  "pages_with_ocr": 91,
+  "pages_with_translation": 91,
+  "source_url": "https://sourcelibrary.org/book/6990522a8d19cbc90d9d554f",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "per_witchcraft-in-europe-and-america_james-i-king-of-gr_1597_526"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:05.100Z",
+  "_hashes": {
+    "ocr": "2e5a3ca4f624e11b",
+    "translation": "e29bfaa95bfe1634"
+  }
+}

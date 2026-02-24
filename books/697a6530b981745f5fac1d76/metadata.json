@@ -1,0 +1,26 @@
+{
+  "id": "697a6530b981745f5fac1d76",
+  "title": "Discurs curiöser Sachen",
+  "display_title": "Discurs curiöser Sachen",
+  "author": "Meerheim, Johann Gottfried",
+  "language": "German",
+  "year": 1708,
+  "published": "1708",
+  "pages_count": 92,
+  "pages_with_ocr": 92,
+  "pages_with_translation": 92,
+  "source_url": "https://sourcelibrary.org/book/697a6530b981745f5fac1d76",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:04.297Z",
+  "_hashes": {
+    "ocr": "79e5f1467a2df30d",
+    "translation": "fd4aae89fd702524"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "6953e55177f38f6761bf0299",
+  "title": "Exercitatio Anatomica de Motu Cordis et Sanguinis (1628 First Edition)",
+  "display_title": "Exercitatio Anatomica de Motu Cordis et Sanguinis (1628 First Edition)",
+  "author": "William Harvey",
+  "language": "Latin",
+  "year": 1824,
+  "published": "1824",
+  "pages_count": 88,
+  "pages_with_ocr": 88,
+  "pages_with_translation": 88,
+  "source_url": "https://sourcelibrary.org/book/6953e55177f38f6761bf0299",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "exercitatioanat00harv"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:08.194Z",
+  "_hashes": {
+    "ocr": "016a7e563a5e8d42",
+    "translation": "0f64eb303601191a"
+  }
+}

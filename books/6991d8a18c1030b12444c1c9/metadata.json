@@ -1,0 +1,26 @@
+{
+  "id": "6991d8a18c1030b12444c1c9",
+  "title": "Monochordum Mundi Symphoniacum",
+  "display_title": "Monochordum Mundi Symphoniacum",
+  "author": "Robert Fludd",
+  "language": "Latin",
+  "year": 1622,
+  "published": "1622",
+  "pages_count": 85,
+  "pages_with_ocr": 85,
+  "pages_with_translation": 68,
+  "source_url": "https://sourcelibrary.org/book/6991d8a18c1030b12444c1c9",
+  "license": "PDM 1.0",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:11.896Z",
+  "_hashes": {
+    "ocr": "5bf668f8a0fa2ca9",
+    "translation": "9c8566cc66778733"
+  }
+}

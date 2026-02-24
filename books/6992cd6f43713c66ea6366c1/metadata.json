@@ -1,0 +1,28 @@
+{
+  "id": "6992cd6f43713c66ea6366c1",
+  "title": "本草綱目·卷二",
+  "display_title": "本草綱目·卷二",
+  "author": "李時珍",
+  "language": "Chinese",
+  "year": 1596,
+  "published": "1596",
+  "pages_count": 88,
+  "pages_with_ocr": 88,
+  "pages_with_translation": 71,
+  "source_url": "https://sourcelibrary.org/book/6992cd6f43713c66ea6366c1",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "06048783.cn"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:09.171Z",
+  "_hashes": {
+    "ocr": "7c4bd7f00316f8f7",
+    "translation": "056cbc2ec901aefd"
+  }
+}

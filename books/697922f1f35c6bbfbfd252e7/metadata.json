@@ -1,0 +1,26 @@
+{
+  "id": "697922f1f35c6bbfbfd252e7",
+  "title": "Clavis steganographiae",
+  "display_title": "Clavis steganographiae",
+  "author": "Tritheim, Johann",
+  "language": "Latin",
+  "year": 1621,
+  "published": "1621",
+  "pages_count": 85,
+  "pages_with_ocr": 85,
+  "pages_with_translation": 85,
+  "source_url": "https://sourcelibrary.org/book/697922f1f35c6bbfbfd252e7",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:12.009Z",
+  "_hashes": {
+    "ocr": "05f067732aec5a51",
+    "translation": "695622caf62db4ad"
+  }
+}

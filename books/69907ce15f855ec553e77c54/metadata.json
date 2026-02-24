@@ -1,0 +1,28 @@
+{
+  "id": "69907ce15f855ec553e77c54",
+  "title": "Samudrikam of Vishnu Dutta Dakshinatya",
+  "display_title": "Samudrikam (Vishnu Dutta)",
+  "author": "Vishnu Dutta Dakshinatya",
+  "language": "Sanskrit",
+  "year": 1800,
+  "published": "1800",
+  "pages_count": 87,
+  "pages_with_ocr": 87,
+  "pages_with_translation": 70,
+  "source_url": "https://sourcelibrary.org/book/69907ce15f855ec553e77c54",
+  "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "SamudrikamVishnuDuttaDakshinatya1169GhaAlm6Shlf1DevanagariJyotish"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:09.702Z",
+  "_hashes": {
+    "ocr": "93d121eeeb1eae89",
+    "translation": "fef449a314ed2107"
+  }
+}

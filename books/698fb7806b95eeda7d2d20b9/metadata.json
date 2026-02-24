@@ -1,0 +1,28 @@
+{
+  "id": "698fb7806b95eeda7d2d20b9",
+  "title": "Kosmos: Entwurf einer physischen Weltbeschreibung, Bd. 4",
+  "display_title": "Kosmos: Entwurf einer physischen Weltbeschreibung, Bd. 4",
+  "author": "Alexander von Humboldt",
+  "language": "German",
+  "year": 1858,
+  "published": "1858",
+  "pages_count": 664,
+  "pages_with_ocr": 91,
+  "pages_with_translation": 85,
+  "source_url": "https://sourcelibrary.org/book/698fb7806b95eeda7d2d20b9",
+  "license": "https://rightsstatements.org/vocab/NoC-NC/1.0/",
+  "doi": null,
+  "external_ids": {
+    "mdz": "bsb10132324"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:05.649Z",
+  "_hashes": {
+    "ocr": "f8d6bc967e026835",
+    "translation": "2062ed260434de49"
+  }
+}

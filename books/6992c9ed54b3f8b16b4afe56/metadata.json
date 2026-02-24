@@ -1,0 +1,28 @@
+{
+  "id": "6992c9ed54b3f8b16b4afe56",
+  "title": "洞天奧旨 (Dongtian Aozhi: Esoteric Meanings of the Grotto Heavens) Vol 2",
+  "display_title": "洞天奧旨 (Dongtian Aozhi: Esoteric Meanings of the Grotto Heavens) Vol 2",
+  "author": "Unknown",
+  "language": "Chinese",
+  "year": 1550,
+  "published": "Unknown",
+  "pages_count": 92,
+  "pages_with_ocr": 92,
+  "pages_with_translation": 74,
+  "source_url": "https://sourcelibrary.org/book/6992c9ed54b3f8b16b4afe56",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "02093493.cn"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:04.387Z",
+  "_hashes": {
+    "ocr": "500458c023ac7f0d",
+    "translation": "48ccc3b6230a5e39"
+  }
+}

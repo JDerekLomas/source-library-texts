@@ -1,0 +1,2851 @@
+--- Page 1 ---
+<lang>None</lang>
+<meta>Exterior book cover, half-bound in brown leather with marbled paper boards. No text present.</meta>
+
+<vocab>marbled paper, bookbinding, leather binding, decorative arts, combed pattern</vocab>
+
+<detected-images>
+[{"description": "Historical combed marbled paper pattern in shades of pink, tan, and light blue, used for the boards of a half-leather book binding.", "type": "decorative", "bbox": {"x": 0.233, "y": 0.016, "width": 0.745, "height": 0.967}, "gallery_quality": 0.8, "museum_rationale": "High-quality example of traditional hand-marbled paper used in historical bookbinding, showing a classic 'combed' or 'arch' pattern."}]
+</detected-images>
+
+--- Page 2 ---
+<lang>Latin</lang>
+<meta>The central emblem is printed on a rectangular white slip of paper pasted onto a plain cream-colored page. Marbled paper from the inner binding is visible at the left edge.</meta>
+
+<insert>
+<margin>R</margin>
+
+->PHILOSOPHIA • HERMETICA<-
+</insert>
+
+<vocab>Philosophia Hermetica, pelican in her piety, alchemical symbolism, Rosicrucian, roses</vocab>
+
+<detected-images>
+[{"description": "A colored alchemical or Hermetic emblem. It features a circular border with the text 'PHILOSOPHIA • HERMETICA •'. Inside is an oval vignette depicting a pelican in its piety feeding three chicks with its blood. The nest rests on a square block decorated with four red roses. Above the pelican, golden rays emanate from a dark sun or cloud. The background of the oval is blue.", "type": "emblem", "bbox": {"x": 0.395, "y": 0.322, "width": 0.291, "height": 0.207}, "gallery_quality": 0.9, "museum_rationale": "This is a finely executed and symbolically rich emblem typical of 17th-18th century Hermetic and Rosicrucian traditions. The use of color and the precision of the symbolic elements (pelican, roses, cube) make it a significant visual artifact for the study of esoteric philosophy."}]
+</detected-images>
+
+--- Page 3 ---
+<lang>None</lang>
+<meta>Blank flyleaf; marbled paper visible on the edges of the text block and binding.</meta>
+
+[This page is blank.]
+
+<vocab>blank page, flyleaf, endpaper, bookbinding</vocab>
+
+--- Page 4 ---
+<lang>None</lang>
+
+<meta>This is a blank flyleaf or endpaper. The left margin shows a portion of the leather binding and decorative marbled paper strips are visible at the top, bottom, and left edges.</meta>
+
+<vocab>flyleaf, endpaper, marbled paper, binding</vocab>
+
+<detected-images>
+[{"description": "Decorative marbled paper border and leather binding edges surrounding a blank cream-colored flyleaf.", "type": "decorative", "bbox": {"x": 0.0, "y": 0.0, "width": 1.0, "height": 1.0}, "gallery_quality": 0.5, "museum_rationale": "Typical 17th-19th century bookbinding feature using marbled paper for endpapers and borders."}]
+</detected-images>
+
+--- Page 5 ---
+<lang>Unknown</lang>
+<meta>Blank page; significant ghosting/show-through of text from the verso side.</meta>
+<warning>The page is functionally blank, containing only faint show-through of handwriting from the reverse side that is not legible as distinct text on this page.</warning>
+
+[Blank Page]
+
+<vocab>blank page, flyleaf, ghosting, show-through</vocab>
+
+--- Page 6 ---
+<lang>None</lang>
+<meta>Blank page, likely a flyleaf or endpaper. Marbled paper is visible on the left inner hinge and edges of the binding.</meta>
+<warning>The page is blank and contains no text.</warning>
+
+<vocab>blank page, flyleaf, marbled paper, binding</vocab>
+
+<detected-images>
+[{"description": "Marbled paper decoration on the inner hinge of the binding", "type": "decorative", "bbox": {"x": 0.02, "y": 0.18, "width": 0.04, "height": 0.63}, "gallery_quality": 0.3, "museum_rationale": "Standard historical bookbinding element; marbled endpapers were common in 18th and 19th-century bindings."}]
+</detected-images>
+
+--- Page 7 ---
+<lang>de</lang>
+<meta>image quality: excellent; catchword: none; printer's marks: none</meta>
+<vocab>Clypeum Veritatis, Rosencreutzes, Rosicrucianism, Fraternitet, Summ, 1618</vocab>
+
+# CLYPEUM VERITATIS;
+->Das ist<-
+# Kurtze / jedoch
+## Gründliche Antwort re-
+spectivè, vnd verthädigung / auff
+alle vnd jede Schrifften vnd Missiven, wel-
+che an vnd wider die hochlöbliche/seelige Fra-
+ternitet deß Rosencreutzes bißhero in
+offentlichen Druck gegeben vnd
+außgesprengt worden.
+## Darauß neben anderem
+klärlich abzunemen / was in einer
+Sum̃ <note>tilde over m indicates mm</note> / vnd einmal für alle mal jhre from-
+me Kunst- vnd Weißheit begierige Discipul
+von jhnen nächst Gott dem Allmächti-
+gen noch in kleiner kurtzer zeit/frö-
+licher vnd getröster gwisser
+zuversicht zu gewar-
+ten haben.
+
+->A N N O<-
+
+->M. D. C. XVIII.<-
+
+->Ἄγει δ' πρὸς Φῶς τὴν ἀλήθειαν χρόνος<-
+
+--- Page 8 ---
+<lang>la</lang>
+<meta>Show-through text from the verso is visible at the top (reading "OBJECTUM VERITATIS" in reverse). The main text is a protean poem (permutation poem) in Latin hexameters, where the same set of words is rearranged across multiple lines.</meta>
+
+**N** *unc bona dant Fratres, ceu sol dat, munera*
+*lucis.*
+*Ceu Sol dat lucis Fratres bona munera nunc*
+*dant,*
+*Munera nunc lucis ceu Sol dat, dant bona*
+*Fratres,*
+*Fratres ceu Sol dat, nunc dant bona munera*
+*lucis,*
+*Lucis nunc Fratres dant dat bona munera*
+*ceu Sol,*
+*Ceu Sol dat lucis, dant nunc bona munera*
+*Fratres,*
+*Nunc dant, ceu Sol dat, Fratres bona munera*
+*lucis,*
+*Munera, ceu Sol dat, lucis Fratres bona dan<unclear>t</unclear>*
+*nunc &c.*
+
+->J. A. C. W.<-
+
+<vocab>Latin, hexameter, protean verse, permutation poem, Fratres, Sol, Munera, lucis</vocab>
+
+--- Page 9 ---
+<lang>de, la</lang>
+<sig>A ij</sig>
+<meta>catchword: fleissig</meta>
+
+# CLYPEUM VERITATIS.
+## LECTORI THEOSOPHIÆ, & PHILOSOPHIÆ AMATORI
+### FIDELI
+
+->Salutem, & Benedictionem.<-
+
+**F**reundlicher/Gottlie-
+bender/in Christo außerwehlter Les-
+ser ; wir finden in der heiligen
+Schrifft/daß/da der Mann <term>Gottes</term> <term>Moyses</term>
+das Volck <term>Israel</term> auß dem Land <term>Moab</term> 
+an den <term>Jordan</term> in das gelobte Land zu-
+ziehen geführet hatte/vnd jhnen vor seinem
+Todt das Gedencklied/welches er auß dem
+Mund <term>GOttes</term> geschrieben/sambt <term>Josua</term>
+fürtragen/vnd in jhren Mund legen solte/
+er vnter anderem spricht; das sie der vori-
+gen zeit gedencken sollen/vnd erwegen was
+<term>GOtt</term> an den alten Våtern gethan habe :
+jhnen damit nicht allein jhre gnadenreiche
+zusag/vnd verheissung von dem zukünffti-
+gen Heyland/wie auch andere gut / vnnd
+wolthaten/so jhnen <term>GOtt</term> erwiesen/zu ge-
+müht führen / sondern dabey anzudeuten/
+das sie/als sein außerwehltes Volck/so wol
+die Händel vnd Geschicht/so sich mit jnen
+begeben/vnd zugetragen / treulich vnnd
+
+<vocab>Clypeum Veritatis, Theosophia, Philosophia, Moyses, Israel, Moab, Jordan, Gedencklied, Josua, Heyland</vocab>
+
+--- Page 10 ---
+<lang>de</lang>
+<header>CLYPEUM VERITATIS.</header>
+<meta>catchword: gewesen</meta>
+
+fleissig beschreiben / lesen / ermässen vnnd
+verwahren / als auch jhren nachkommen /
+vnd Kindern zum besten alle Künsten vnd
+tugenden jhrer voreltern verfassen / beher-
+zigen / vnd fortpflanzen solten. Dann die-
+weil **GOTT** der allmechtige die Menschen
+insonderheit mit vernunfft vnd sinnen für
+andern Thieren gezieret / das sie an das
+vergangene gedencken / das zukünfftige be-
+trachten / vnnd das gegenwertige mit dem
+zukünfftigen / vnd vergangenen gegen ein-
+ander halten köndten / welch ein greuliche /
+erschreckliche blindheit / vnd finsternus we-
+re es im Volck **Gottes** / so es von einsatzung
+deß wahren Gottesdiensts / verheissungen /
+vnd offenbarung deß *Messiah*, vnd herli-
+cher / wunderbarlicher errettung seiner Kir-
+chen nicht allein nichts verstünde / sondern
+auch der alten Künsten vnd wissenschafft /
+*per quas grata de Deo fama ab orbe*
+*condito per universum orbem tam a-*
+*pud credentes, quàm incredulos spar-*
+*sa est*, nichts mehr / dann das vnvernünf-
+tige Viehe zuruck gedencken / vnd sich zuer-
+innern wuste?
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dieweil nun solches der wille **Gottes**
+
+<vocab>Clypeum Veritatis, Gottesdienst, Messiah, Künsten, wissenschafft</vocab>
+
+--- Page 11 ---
+<lang>de</lang>
+<header>CLYPEUM VERITATIS.</header>
+<sig>A iiij</sig>
+<meta>catchword: rum &c.</meta>
+
+gewesen/daß nicht allein andere merckliche/ vnd gedenckwürdige händel / so sich bey sei- nem Volck zutragen / sondern auch alle löbliche / rühmliche <term>artes</term>, vnnd <term>scientiæ</term> fleissig beschrieben/ vnnd gelesen würden/ vnd er derhalben jederzeit zu solchem werck sondere Leut verordnet vnd erwecket hat/ dannenhero Jesu deß Sohns Syrach herrliche / schöne wort geflossen; *Laudemus viros gloriosos, & parentes nostros in generatione sua: multam gloriam fecit Dominus magnificentia sua à sæculo: Dominantes in potestatibus suis homines magni virtute, & prudentia sua præditi nuntiantes Prophetis dignitaté Prophetarum, & imperantes in præsenti populo, & virtute prudentię populis sanctissima verba: In pueritia sua requirentes modos musicos, & narrantes carmina scripturarum: Homines divites in virtute pulchritudinis studium habentes, pacificantes in domibus suis: omnes isti in generationibus gentis suæ gloriam adepti sunt, & in diebus suis habentur in laudibus: qui de illis nati sunt, reliquerunt nomen narrandi laudes eo-*
+
+<vocab>Jesus Syrach, artes, scientiae, Clypeum Veritatis</vocab>
+
+--- Page 12 ---
+<lang>German</lang>
+<header>CLYPEUM VERITATIS.</header>
+
+rum &c : Also / vnnd gleicher gestalt wil eben dieser gütige / barmherzige Gott noch heutiges tags / daß die wunderwerck vnnd gutthaten / so er bey Kirchen / Schulen / vnnd Regimenten erzeigt / vnverdrossen / vnd wacker gelesen / betrachtet / vnd zu gemüth gezogen sollen werden.
+
+Recht / vnnd wol sagt Simplicius baldes auß seiner / vnd auch auß deß Epicteti meinung : Hoc imprimis ex scientia naturali consequimur, quod via illa optima est ad cognitionem animæ, substantiarum separatarum, & divinæ essentiæ. Deinde accendit nos etiam ad Dei cultum, & ab effectis ad Majestatem creatoris promovet, unde sequitur conjunctio cum Deo, & fides, spesq; certa, & <unclear>sta</unclear>bilis, quarum maximè causa philosophandum.
+
+Dann es ist einmal gewiß / Daß in erkandtnus Gottes die Summ vnsers höchsten guts / vnnd seeligen lebens bestehet / zu welchem gutt vns andere cognitiones, vnd erkandtnussen dienen / vnd behülfflich sein / dardurch das Menschliche gemüth desto leichter zu der Göttlichen erkandtnus ge,
+
+<meta>catchword: langet/</meta>
+
+<vocab>Simplicius, Epictetus, Erkenntnis Gottes, Clypeum Veritatis, Seeliges Leben</vocab>
+
+--- Page 13 ---
+<lang>German, Latin</lang>
+<header>CLYPEUM VERITATIS.</header>
+<sig>A iiij</sig>
+<meta>catchword: Vnd</meta>
+
+langet / in erwegung / daß alle andere Ma-
+thematische / Physische / vnnd irdische
+Scienzen / oder Künst / veluti humanæ
+indigentiæ medelæ, dahin zihlen / daß wir
+auß den wercken der gantzen natur Gott
+den Herren / als einen vatter der natur / vn̄
+einen Herren aller ding vollkommelich er-
+kennen / preisen / loben / vnd verehren mö-
+gen : welches dann auch die einige vrsach
+gewesen ist / quod Carolus Magnus in li-
+teris fundationis Ecclesiæ Osnabrugen-
+sis quasi edicto jusserit , & providerit, ut
+ne in collegio isto ullo tempore dees-
+sent, qui literas latinas, & græcas doce-
+rent. Intellexit enim Imperator, linguæ
+latinæ & græcæ scientiam necessarium
+esse adminiculum, atq; instrumentum
+ad intelligendam, & explicandam do-
+ctrinam cœlestem. Itaq; curam discen-
+dæ,atq; docendæ utriusq; linguæ perpe-
+tuam & assiduam in Ecclesiis, sive colle-
+giis Canonicorum esse voluit, ne pro-
+pter inopiam tam necessarii instrumen-
+ti cursus professionis, ac propagationis
+veræ de Deo doctrinæ imminueretur,
+aut impediretur.
+
+<vocab>Clypeum Veritatis, Carolus Magnus, Osnabrugensis, Doctrina coelestis, Mathematische, Physische, Scienzen, Künst, Imperator</vocab>
+
+--- Page 14 ---
+<lang>de</lang>
+<header>CLYPEUM VERITATIS,</header>
+<sig>M C</sig>
+<meta>catchword: über</meta>
+<warning>slight bleed-through from verso</warning>
+
+## CLYPEUM VERITATIS,
+
+Vnd aber was andere für Christliche
+Theologische gedancken von vnser Socie-
+tet bishero gehabt / ist nicht vnrecht. Dann
+wol dem / der ståts mit Gottes wort vmb,
+geht / vnd desselbige außlegt / vnd lehret /
+ders von Hertzen betrachtet / vnd gründlich
+verstehen lernet / vnd der weißheit immer
+weitter nachforschet / vnd schleicht ihr nach
+wo sie hin geht / vnd gucket zu ihrem fenster
+hienein / vnd horcht an der thür / sucht her-
+berge nahe bey ihrem Hause / vnd richtet an
+ihrer wand seine hütten auff / vnd ist im eine
+gutte Herberge. Er bringt seine Kinder
+auch vnder ihr dächlein / vnd bleibet vnder
+ihrer lauben / darunter wirdt er vor der hitz
+beschirmet / vñ ist im ein herliche wohnung.
+Solches thut niemand dann der den Herrn
+förchtet / vnd wer sich an Gottes wort helt /
+der findet sie / vnd würdt jhm begegenen
+wie eine Mutter / vnd würdt jhn empfahen
+wie ein Junge Braut. Sie würde jhn spei-
+sen mit brodt deß verstandts / vnd wird jhn
+träncken mit wasser der weißheit / dadurch
+würdt er starck werden / daß er vest stehn kan
+vnd würdt sich an sie halten / das er nicht
+zuschanden würdt / sie würdt jhn erhöhen
+
+<vocab>Clypeum Veritatis, Societet, Gottes wort, weißheit, Junge Braut, brodt deß verstandts, wasser der weißheit</vocab>
+
+--- Page 15 ---
+<lang>de</lang>
+<header>CLYPEUM VERITATIS:</header>
+
+über seinen nechsten / vnd würdt jhm seinen
+Mundt auffthun in der gemeine / sie würde
+jhn Krönen mit frewden / vnd mit ewigem
+Namen begaben.
+
+&nbsp;&nbsp;&nbsp;&nbsp;Insonderheit lassen wir vns höchlich
+belieben / waß Herr **Michaël Maier** auß
+sattem grund zu vnser defension geschrie-
+ben / vnd publicieret, Sintemal anderer
+gesellschafften / so vor zeitten in Orient ge-
+wesen / nicht zugedencken / haben zu **Ale-**
+**xandria** allein in **Ægypto** die freyen Künst
+neben allerley weißheit also geblühet / daß
+jhrer berühmten schul in der **Apostel ge-**
+**schicht** gedacht würdt / da etliche von der
+Schul der Alexandriner wider den **H.**
+**Stephanum** sich gelegt / vnd jn zum Todt
+haben helffen verurtheilen : wie dann **Ari-**
+**stoteles** selbst seine Kunst / vnd schrifft in
+**Ægypto** gesehen vnd gelernet / welcher / als
+der groß **Alexander** sich auß der Schul zu
+kriegen gethon / hat er jm einen **Stein** vber-
+<margin>N</margin>lieffert / mit disen wortē: **O Alexander**, hie-
+mit vbergib ich dir die allergrößte geheim-
+nus der Natur / der eigenschafft vnd Krafft
+ist ; so du diesen stein in einen andern stein
+versetzt bey dir tregst / so du schlagen oder
+
+<sig>A v</sig>
+<meta>catchword: streiten</meta>
+
+<vocab>Michaël Maier, Alexandria, Ægypto, Apostel geschicht, H. Stephanum, Aristoteles, Alexander, Stein, Natur, geheimnus</vocab>
+
+--- Page 16 ---
+<lang>de</lang>
+<header>CLYPEUM VERITATIS.</header>
+<meta>catchword: werden</meta>
+
+streitten wilt / ist es nicht möglich / daß ein
+Heer / wie groß es sey / vor dir bestehen mö-
+ge / sondern fleucht dich / vnnd bleibt nicht
+stehen / vnd würdt dieser Stein dir helffen
+alles dein fürnemmen volbringen. Ja von
+<term>Nectabano</term> hat er gelernet eine vision zu-
+machen / von den greulichsten Thieren / vnd
+Menschen / ab welchen auch alle seine feind
+erschrecken / vnd die flucht geben müssen /
+dardurch er aller seiner Sieg zuvor verge-
+wissert / vnd noch Heutiges tags eine di-
+sputation ist ; Ob <term>Alexander</term> für einen
+mannlichen tapfferen Kriegshelden zuhal-
+ten seye / oder nicht ? Dieweil er sein intent
+durch sonderbare / wunderliche Kunst mehr-
+mals erhalten vnd zuwegen gebracht habe /
+andere hergegen sich bloß vff ihre stärcke /
+Künheit / vnd daß <term>sinwalle</term> / vnbeständige
+glück verlassen ?
+
+Freylich aber steckt noch viel in der
+Natur so wenigen bekandt / vnd kundtbar
+<margin>NB.</margin> ist : dann ist nicht diß ein groß <term>Mirackel</term> / daß
+ein Apffelbaum nit weit vom Flecken <term>Tri-
+bur</term> alle Jahr in der Christnacht Öpffel
+trägt / wie solches eine gemeine Bürger-
+schafft / vnd alle vmmligende ort wissen ? Es
+
+<vocab>Nectabano, Alexander, Stein, Kriegshelden, sinwalle, Mirackel, Apffelbaum, Tribur, Christnacht</vocab>
+
+--- Page 17 ---
+<lang>de</lang>
+<header>CLYPEUM VERITATIS.</header>
+
+werden auch solche Opffelein fast alle Jahr
+den Landgrafen zu Darmstat in Hessen
+geschickt / welche sie zu grossem wunder an-
+dern Fürsten vnd Herren zu zeigen pflegen.
+Wann ein gut Jahr vorhanden / so werden
+die Oepffelein so groß als eine bonen / son-
+sten als ein Erbeiß. In einer stundt bekommt
+der Baum seine blüt / vnd Obs / welches al-
+le Jahr mit sonderm vleiß von den Einwo-
+nern observiert würdt. Sonst im Jahr
+tregt er wilde Holtzöpffel / die nach jhrer art
+andern gleich sindt.
+
+Diesem nach / so ist es nicht seltsam /
+was wir die welt in dieser letzten zeit zuleh-
+ren vns vnterstehen / sondern auff vns / vnd
+vnsere gebenedeite Fraternitet durch or-
+denliche vnzerbrochene Succession ererbet.
+Dann ob wol die ignoranten / vnd vner-
+fahrne fürgeben / wir begehren die gantze
+welt zu reformieren / hat es doch diese be-
+schaffenheit / daß bey niemand als vns / die
+Jenige sachen / so man bißhero für verloh-
+ren gehalten / zu finden vñ anzutreffen sind /
+vnd wissen wir vns ohne ainiges erinnern
+wol zuberichten / daß was ohne vorhaben
+deß Exempels ins werck solle gesetzt werden /
+
+<meta>catchword: allweg</meta>
+<vocab>Opffelein, Landgrafen zu Darmstat, Hessen, Holtzöpffel, Fraternitet, Succession, reformieren</vocab>
+
+--- Page 18 ---
+<lang>de</lang>
+<header>CLYPEUM VERITATIS.</header>
+
+allweg so viel einfallende difficulteten /
+vnd abhaltungen habe / daß es offtermal /
+als vnmüglich / vnterlassen / vnd eingestellt
+werde / welches daher erwachset / daß die
+Menschen in ihrem thun vnnd lassen die
+Jenige ding / derer nutzbarkeiten weder
+bey sich selbst noch durch andere sie erfahren
+haben / nicht loben : gleichwol dessen ohn-
+geachtet / können wir nicht anders / dann
+durch trieb deß Heyligen Geistes vnser
+ambt / vnd bevelch zuverrichten / vnd die ir-
+rende abwegsame zum Licht aller rechtschaf-
+fenen / wahren erkandtnus vnd geheimnus
+zubringen / warinnen durchaus vnsere mei-
+nung niemals gewesen / daß alle Menschen
+diese vnsere Lehr / vñ vnterricht vor der welt
+end annemẽ müsten / sondern nur diejenige
+allein / welche von Gott von anbegin dar-
+zu versehen / vnd deßhalben gutte merckzei-
+chen bey sich selbsten / wo sie sich anderst selb-
+sten recht prüfen vnd examiniren / leicht-
+lich ersinnen vnd erfahren mögen : die Je-
+nigen / sagen wir / *qui omnia arbitrati*
+*sunt ut stercus* , welche nicht ihr Lieb von
+Gott ab / vnd zu vergengliche ding wenden /
+in ansehen / wie so wenig bey **GOTT** gilt
+
+<meta>catchword: Goldt/</meta>
+
+<vocab>difficulteten, Heyligen Geistes, bevelch, erkandtnus, geheimnus, qui omnia arbitrati sunt ut stercus, Goldt</vocab>
+
+--- Page 19 ---
+<lang>de</lang>
+<header>CLYPEUM VERITATIS.</header>
+
+# CLYPEUM VERITATIS.
+
+Goldt / der Edelgestein / daß Salomon in al-
+ler seiner glori vnd herlichkeit nicht so schön
+bekleidet war / wie ein blume deß feldes / vnd
+ob gleich die Königin von Saba sich vber sei-
+ne Reichtumb vnd Köstlichkeit / vnd nicht
+vber eine blume verwunderte / so ist doch
+solches aller weiber gebrauch / vnnd ein ge-
+meiner irthum der Menschen / welche nur
+nach dem eusserlichen schein vrtheilen / ohn-
+geachtet / es Salomon weit besser verstan-
+den / welcher reine augen gehabt / daß jhn
+vil schöner zu sein gedeucht die Liliẽ / welche
+Gott gemahlet hat / weder daß Kleidt von
+Menschen geweben : *Sicut lilium inter
+spinas, sic amica mea inter filias.*
+
+Es hebt sich aber diese vnsere succes-
+sion von vnserm ersten Vatter *Adam* an /
+vnd steigt hienab biß vff vnseren gegenwür-
+tigen / noch lebenden præsidentem *Hugo-
+nem Aluerda*, durch *Seth*, *Enoch*, *Noe*,
+*Sem*, *Abraham*, *Isaac*, *Jacob*, *Joseph*,
+*Mosen*, *Phineas*, *Caleb*, *Josuam*, *Gedeo-
+nem*, *Samuel*, *David*, *Nathan*, *Salomo-
+nem*, *Heliam*, *Jojada*, *Daniel*, *Esdram*,
+*Joseben*, *Joëser*, *Jesum Syracides*, *Schi-
+meon ben Schatach*, *Philonem*, *Rabi Je-*
+->huda<-
+
+<meta>catchword: huda</meta>
+<vocab>Clypeum Veritatis, Solomon, Queen of Sheba, Hugo Aluerda, succession, genealogy, biblical figures</vocab>
+
+--- Page 20 ---
+<lang>de</lang>
+<header>Theosophi veteres.</header>
+<meta>Handwritten title/header at the top of the page. Catchword "auß zu" at the bottom right. Marginal note in Latin on the lower left.</meta>
+
+## CLYPEUM VERITATIS.
+
+hudaben Thema, Schmuel Jarchinas,
+RatAsse, Rabbena, Marcum Eremitam,
+Dadonem Episcopum Rotomagensem,
+Bedam, Walafridū Abbatem Augiæ,
+Turpinum Remensem Episcopum &
+militem sub Carolo Magno, Mosen bar
+Kepha, Almansorem, Petrum Damia-
+num, Hugonem de S. Victore, Rabi Mo-
+sche ben Maimon, Abraham aben Ezra,
+Rabbi Mosche Kimchi, Jacobum de
+Voragine, Alanū, Rabbi Mosche, Aben
+Tafon, Rabbi Mordechai, Hieronymū
+de S. fide: bey welchen allen die vnendtli-
+che weißheit aller ding vnd was dem Men-
+schen zu wissen von Gott gegeben / nach
+vnd nach vffbehalten / vnnd wenig würdi-
+gen / so sie zu sich jederzeit beruffen colle-
+gialiter communicirt vnnd mitgetheylet
+worden/ auch solche <term>mysteria</term> vnd <term>magna-
+lia</term> bey dem mehrertheil in so grossem ansehn
+vnd Ehrerpietung gewesen / daß sie sich nie-
+mals aller gebrauchet / sondern schlächtlich
+mit der <term>Theoria</term> in etlichen für lieb genom-
+men / biß deß Herren wort hocherleuchten
+<margin>
+Hugo
+Alver.
+Caput
+Fraternitatis.
+</margin>
+Hugonem Aluerdam, vnser fürtreffent-
+lichs haupt / seine brüder in die gantze Welt
+
+<vocab>Theosophi veteres, Clypeum Veritatis, Hugo Alverdam, Fraternitas, mysteria, magnalia, Theoria</vocab>
+
+--- Page 21 ---
+<lang>de</lang>
+<header>CLYPEUM VERITATIS.</header>
+<meta>catchword: Autho-</meta>
+
+auß zusenden / vnnd den Menschen diese
+hailsame/Göttliche Philosophi endlich zu:
+verkünden / vnnd anzubieten angetriben
+hat.
+
+Derowegen achten wir gar keine noht:
+durfft zusetn/ dem Jenigen für dißmals vil
+zuantworten / welcher an vns begert/ jhme
+<margin>Michae lis Pselli ms opa</margin>
+zusagen die argumenta operum manu-
+scriptorum, quæ nondum excusa sunt,
+Michaelis Pselli Græci, philosophi, &
+Medici. Ein anderer versucht vns / vnnd
+will haben / wir sollen jhm weisen/ ubi ho-
+<margin>Cinna baris vera</margin>
+diè vera cinnabaris inveniatur, Neote-
+ricorum enim factitiam, esse quiddam
+ex sulphure vivo, & argento vivo simul
+ustis, nec ulla ratione substitui posse pro
+Cinnabari Græcorum, quæ vires habue-
+rit easdem cum hæmatite lapide, & tam
+rara fuerit etiam ætate Dioscoridis, ut
+versiculoribus pictorum lineis vi satis-
+faceret.
+
+Dann nach verfliessung weniger zeit/
+so zu außgang nächst folgenden Jahrs an:
+fangen würd/ soltu nit allein dieses schlech:
+te geringschätzige / sondern vnserem ver:
+sprechen gemäß so wol anderer vnbekandter
+
+<vocab>Clypeum Veritatis, Michael Psellus, Cinnabaris, Dioscoridis, Alchymia, Medicina, manuscripta opera</vocab>
+
+--- Page 22 ---
+<lang>Latin, German</lang>
+<meta>catchword: gezwung-</meta>
+
+<insert>promiſſia mss & arcanorū</insert>
+
+## CLYPEUM VERITATIS.
+
+*Authorum opera Exempli gratia,* Die
+*vera & genuina, non ſuppoſititia opera*
+*Beroſi Hiſtorica, Jacobi Dondi Patavini,*
+*Elluchaſem Elimitha , Nazaren filii*
+*Meſuæ, Abengnefit, & Albucaſis Chi-*
+*rurgicorum Principis Medica, Senioris*
+*Zadith filii Hamuel, & Diodori Euchy-*
+*ontis Chymica, Apollonii Tyanei,quem*
+*Hierocles Chriſto conferre auſus fuit,*
+*Philoſophica, & Magica, Rabbi Abrahæ*
+*Zacuti, Alcabitii, & Abrahæ Avenaris*
+*Judæi Aſtrologica &c.* als deß König Sa-
+lomonis bücher neben unzehlichen ſtücken
+haben / welche bißhero iederman vermaint /
+daß ſie nimmer in *rerum natura* ſeyn / Als
+was die purpura ſeye / vnd wo er heutiges
+Tags / vnd vff welche weiß gemacht werde /
+*quid encauſtum , & ubi reperiatur, Byſ-*
+*ſus , Murrhinum, Aſbeſtinum, ſpecula-*
+*ria , Aurichalcum, Electri Compoſitio,*
+*oſſium omnium, & lapidum liquefactio,*
+*azzalum Indicum, vitrum ductile, pyro-*
+*pus, aquarum tenuiſſimarum excoctio,*
+*oleum incombuſtibile , Muſica muta,*
+*obſiani &c.* Dardurch du als dan̄ mit vns /
+*comparativè* zureden / freywillig / vnd vn-
+
+<vocab>Berosus, Jacobus Dondus, Elluchasem Elimitha, Mesuae, Abengnefit, Albucasis, Zadith, Diodorus Euchyontis, Apollonius Tyaneus, Abraham Zacutus, Alcabitius, Abraham Avenaris, Salomon, purpura, encaustum, Byssus, Murrhinum, Asbestinum, Aurichalcum, vitrum ductile, pyropus</vocab>
+
+--- Page 23 ---
+<lang>la</lang>
+<header>CLYPEUM VERITATIS.</header>
+<sig>B</sig>
+<meta>catchword: sine</meta>
+
+<insert>Theophrasti bibliotheca</insert>
+
+## CLYPEUM VERITATIS.
+
+gezwungen bekennen wirst/ ubiq; hactenus in disciplinis tradendis erratum esse, operam perdidisse Theophrastum, <margin>NB.</margin> quod primus copiosam Bibliothecam instruxerit : laboris fructum perdidisse Eumenem Attaliæ Regem, quod diligentissimè de libris illis inquisiverit, ut Pergamum transferret: nugas egisse Apelliconem, quod longo post tempore sub terra repertos ingenti pecunia emerit : ineptos adhuc hodie omnes esse, quicunq; loca publica constituant, ut in iis Bibliothecæ recondantur : cui consequens erit, nullis, nisi nostris, post Sacra Biblia, scriptis, quæ protulimus, & proferemus, enconium tribui posse, quod de libris apud Lucam de penna extat : <margin>Elogiū librōrum</margin> Liber, inquit, est lumen cordis, virtutum repertorium, vitiorum confusorium, corona prudentum, diadema sapientum, honorificentia Doctorum, clarificatio Rectorum, comes itineris, domesticus fidelis, socius colloquentis, collega præsidentis, vas plenum sapientiæ, via recta Eloquentiæ, hortus plenus fructibus, pratum fluens floribus, mare
+
+<vocab>Theophrastus, Eumenes, Attaliæ Regem, Apelliconem, Bibliotheca, Clypeum Veritatis, Elogium librorum</vocab>
+
+--- Page 24 ---
+<lang>Latin, German</lang>
+<meta>catchword: selbst</meta>
+
+## CLYPEUM VERITATIS.
+
+sine fluctibus, principium intelligentiæ, fundamentum memoriæ, hostis oblivionis, amicus recordationis : vocatus properat, jussusq; festinat, rogatus respondens, fideliter obediens, contra fortunas luctor, atque verus tui ductor, hortus conclusus, & fons signatus, puteus aquæ vitæ, paradisus absq; ruina, ædificans te gnarum, si reperit ignarum, nunquam patitur fastidium, etsi graves eum nimium, arcana revelans, obscura clarficans.
+
+Und obwol unbedachtsame/ und ungeübte Leut fürgeben / wir solten etliche neue <term>Scribenten</term>, welche sie für hochgelehrt/ und außbündig halten / nichts weiters lehren können / so ist es doch lächerlich / daß solche Personen / welche alle alten <term>Jureconsultos</term>, <term>Philosophos</term>, <term>Rabinos</term>, <term>Scholasticos</term>, <term>Medicos</term>, <term>Historicos</term>, <term>Theologos</term> außwendig wissen/ ihnen nichts mehr solten weisen mögen. Dann was solten sie für eine <term>experientz</term> erlangt haben/ daß sie mit uns dörffen verglichen werden / da wir hingegen zu einem so hohen / grossen Alter kommen ? Sagt nicht ihr <term>Aristoteles</term>
+
+<vocab>Clypeum Veritatis, Jureconsultos, Philosophos, Rabinos, Scholasticos, Medicos, Historicos, Theologos, Aristoteles, experientz, Scribenten</vocab>
+
+--- Page 25 ---
+<lang>de</lang>
+<header>Clypeum Veritatis.</header>
+<sig>B ij</sig>
+<meta>catchword: Stipen-</meta>
+
+selbst / in usu mentis aciem & oculum positum esse? Wo kan aber ein usus absque multis annis sein? Haben sie dann nicht multos annos, so haben sie auch keinen usum, oder uffs wenigste keinen solchen / wie wir haben: Haben sie keinen usum, so haben sie auch kein judicium usu enim, & ἐμπειρίᾳ judicium comparari solet: Verbleiben also nochmals nichts / dann ungeschickte / albere / schlechte / einfältige / tölpische Schaf / Knäbel / unnd Tropffen.
+
+Aber noch lächerlicher ist es / daß einer auß jhnen jhme einbildet / weil er / domestico feste, funffzehen Sprachen verstehe / wolle er uns wol in die Schul führen. Dann das ist noch weit von vierhundert Sprachen / welche Hieronymus Megiserus in seinem Lexico Polyglotto verzeichnet / und ist noch weiter von uns / die wir nicht allein alle linguas, sondern auch alle derselben dialectos in der ganzen weiten Welt perfect reden und schreiben können.
+
+Also mag Andreas de Valentia in seinem Turbone uns gnug außlachen / welcher vermaint / wir wissen nicht / daß er ein
+
+<vocab>Hieronymus Megiserus, Lexico Polyglotto, Andreas de Valentia, Turbo, ἐμπειρίᾳ, usus, judicium, linguas, dialectos</vocab>
+
+--- Page 26 ---
+<lang>la</lang>
+<header>CLYPEUM VERITATIS.</header>
+<meta>catchword: velit,</meta>
+
+Stipendiarius zu Tübingen seye / da er
+von vnserem fürgeben tacitè, vnd irriso-
+riè, nimium tamen irridiculè, & inface-
+tè schreibet; Monachum quendam ex-
+truxisse minutulam casulam luto sapi-
+entiæ, & lapidem benedictum confe-
+cisse, sigillisq; omnia præstasse, & per
+specula omnia vidisse, herbas, & fru-
+ctus media hyeme protulisse, cum a-
+nimalibus collocutum, & exiguo tem-
+pore per mundum universum divaga-
+tum esse.  Amplius penetrasse mon-
+tes tanquam aërem, & ad fundum ma-
+ris nonnunquam descendisse, in igne
+versatum, & ad astra usq; se contulisse,
+usumq; fuisse hoc mundo tanquam suo.
+Quinetiam integros exercitus delere,
+& cui vellet nocere, & cum absentibus
+colloqui potuisse : mortuum tamen
+tandem esse , quia voluerit, victurum
+alioquin mille annos, jamque nobis o-
+mnia eius patere, & universam Artis
+hereditatem.  Ante obitum vero o-
+mnem artem suam in unguentum con-
+tulisse, quo quicunq; sibi tempora injun-
+gat, & nasum, videat in aere omnia quæ
+
+<vocab>Tübingen, Monachum, lapidem benedictum, Artis hereditatem, unguentum, Clypeum Veritatis</vocab>
+
+--- Page 27 ---
+<lang>deu</lang>
+<header>CLYPEUM VERITATIS.</header>
+<sig>B iij</sig>
+<meta>catchword: Jesuit</meta>
+
+*velit, quem vacuum esse nefas sit credere , sed velut muscas , aut apum examen circumvolare spiritus, & animas, & Idæas, & quidquid ubiq; miri reperiatur,* und was deß dings mehr das *Satyricum ingenium* uff die bahn bringet / einer scharpffen Laugen / vnd groben Zwagers wol würdig.
+
+Ferner was mag es vns für vnglimpff bringen / daß wir vnsere Namen eine zeitlang heimblich gehalten? Muß darumb *Everhardus von der Weyhe* ein *lucifuga, impostor, stellio &c.* sein / weil er sich bald *Durum di Pascalo*, bald *Varemundum ab Erenberg*, bald mit einem andern Namen nennet? <margin>N.</margin> Landgraf Otto / Landgraf Heinrichs zu Hessen Sohn / weil er nicht wolte geistlich werden / zog vnerkant seines standts an den Clevischen Hof / diente lange zeit für einen Raisigen Knecht / vñ hieß sich selbst Otto Schütz. Ist er darumb ein *lucifuga, impostor, stellio &c.* gewesẽ?
+
+Über das / weil wir vnsere glaubens bekantnuß / rund gethan / vñ vns <margin>N.</margin> Lutheraner zusein gerühmet / was haben wir damit gesündiget / daß ein verkehrter / boßhafftiger
+
+<vocab>Everhardus von der Weyhe, Durum di Pascalo, Varemundum ab Erenberg, Landgraf Otto, Landgraf Heinrichs zu Hessen, Raisigen Knecht, Otto Schütz, Lutheraner, Jesuit, lucifuga, impostor, stellio</vocab>
+
+--- Page 28 ---
+<lang>de</lang>
+<header>CLYPEUM VERITATIS.</header>
+<meta>catchword: Qua-</meta>
+
+### CLYPEUM VERITATIS.
+
+Jesuit wider vns so ungestümm herauß ge-
+fahren? Dann was wir durch **GOttes**
+hülff / vnd beystandt bißhero getreues fleiß
+außgeführet / hoffen wir / daß alle friedlie-
+bende / gutherzige Leut gern bekennen / vnd
+gestehn werden / daß wir alles one affecten
+verrichtet. Dann wiewol wir in der Christ-
+lichen Lehre / welche der ewig **GOtt** durch
+seine barmherzigkeit vns geschenckt / her-
+kommen / würd es sich doch befinden / daß
+wir gleichmäßig fahren / bezeugen auch / so
+hoch vns immer müglich / daß vnser ge-
+mühlt / mainung / vnd intent niemals ge-
+wesen / auch noch nicht ist / jemand inn eini-
+gen weg zuuerlezen / zu verkleinern / oder
+mit der vnwarheit zubeschweren.
+
+Sonderlich aber ist es auch sehr unzeit-
+tig / was ein anderer in vnserem *fortalitio*
+*scientiæ* tadelt / vnd fürgibt / ob schon eine
+**Arzeney** gefunden werden möchte / welche
+den Menschen so vil lange Jahr gesundt /
+vnd starck erhalten köndte / würde nichts de-
+sto weniger ein gewieses *regimen*, oder
+*diæt* bey einem solchen erfordert werden:
+Dann es versteht sich für sich selbst / vnd ist
+vns deß *Marsilij Ficini climax* wol bewust:
+
+<vocab>Clypeum Veritatis, Jesuit, GOtt, barmherzigkeit, fortalitio scientiae, Arzeney, Marsilius Ficinus, climax, regimen, diæt</vocab>
+
+--- Page 29 ---
+<lang>lat</lang>
+<header>CLYPEUM VERITATIS.</header>
+<sig>B iiiij</sig>
+<meta>catchword: Kraut/</meta>
+
+Qualis est concoctio, talis & sanguis,
+Qualis est sanguis, tales sunt & spiritus,
+Quales sunt spiritus, tales sunt & inge-
+niorum, & animorum, & corporum
+affectiones. Unde consimiles actiones
+oriuntur. Plurimum autem refert ad
+bene beateq; vivendum, qua quisq; vi-
+ctus ratione utatur. πόνοι, ὕπνοι, ἀφρο-
+δίσια πάντα μέτρια· πᾶν γὰρ τὸ πολὺ πολέ-
+μιον τῇ φύσει, inquit rectè Hippocra-
+tes.
+
+---
+
+<margin>Schlan gen balg</margin>
+**Item;** was wir von dem Schlangen-
+balg geschrieben haben / da seyen die
+Schlangen mancherley art / also / daß nie-
+mand wissen möge / von welcher Schlan-
+gen er genommen werden müsse. Dann
+weil jhn die Schlang für sich selbst abstreif-
+fen soll / ist wol zuerachten / daß es eine <term>coluber</term>
+seye / welche den schatten liebt / das
+<term>Rautenkraut</term> hasset / gern milch trinckt / das
+fleisch aussaugt / die Mucken frist / vnd den
+staub schleckt. Diese Schlang / wann sie
+alt / vnd schwach worden / pflegt sie eine lan-
+ge zeit zufasten / also das fleisch abzuzehren /
+vnnd dardurch die Haut vom fleisch ledig
+zumachen / folgendes isset sie ein bitters
+
+<vocab>concoctio, spiritus, ingeniorum, Hippocrates, Schlangenbalg, coluber, Rautenkraut, πόνοι, ὕπνοι, ἀφροδίσια</vocab>
+
+--- Page 30 ---
+<lang>de</lang>
+<header>CLYPEUM VERITATIS.</header>
+<meta>catchword: ſolte</meta>
+
+Kraut / welches jr das ſpenen / oder vndåu-
+hen / vnd die gifftige humorn außzuwerf-
+fen verurſachet / damit ſie ihre harte Haut
+erweichen möge / dan badet ſie im Waſſer /
+vnd ſucht <unclear>endlich</unclear> ein enge Klumſe / oder ei-
+nen zerſpaltenen Stein / dardurch dringt ſie
+ſich mit gewalt / vnd ſtreifft alſo die Haut
+ab / legt ſich folgents den gantzen Tag lang
+in die Sonn / trucknet ſich auß / überkompt
+dardurch einen neuen Balg / ſihet viel
+ſchårpffer / krieget geſchwinder / lebt lenger /
+vnd iſſet begieriger dann ſie zuvor gethan
+hat.
+
+Fragſtu woher wir dieſe / vnnd derglei-
+chen ſachen alle wiſſen? Fragen wir dich /
+wer dem Socrati geſagt habe; wie man die
+verborgne Drachen ſehen ſolle? Dann als
+zur zeit Königs Philippi in Macedonia
+<margin>N. 6.</margin> ſich begeben / das zwiſchen dem Armeni-
+ſchen Gebürg / auff offner Landſtraß die
+Wanderſleut am hellen liechten Tag vn-
+verſehens niderfielen / vnd ſturben / derowe-
+gen der König die Aſtrologos vnd Philo-
+ſophos ſeines Königreichs verſamblen /
+vnd die urſach dieſes vnrahts berahtſchla-
+gen ließ: gab Socrates diſes bedencken / man
+
+<vocab>Socrates, Philippus, Macedonia, Armenien, Drachen, Astrologos, Philosophos, Klumse, Balg</vocab>
+
+--- Page 31 ---
+<lang>de</lang>
+<header>CLYPEUM VERITATIS.</header>
+<sig>B v</sig>
+<meta>catchword: en/</meta>
+
+solte mitten vff dem selben weg einen sehr
+hohen <term>Thurn</term> bauen/ vnd mit Spiegeln be-
+hencken. Der König folgte dem Raht <term>Socratis</term>,
+vnnd ließ einen solchen gespiegelten
+Thurn auffrichten / bald sahe man densel-
+ben zu bestimpten Stunden deß Tags die
+Bildnussen zweyer <term>Trachen</term>/ dern der eine
+auff der eine seyten deß bergs / vnd der an-
+der vff der andern seyten stunde / vnnd mit
+auffgesperten Rachen einander anpfeiffe-
+ten / auch durch ihren vergifften Athem den
+Lufft dermassen inficierten, daß die der or-
+ten fürübergehende Wandersleut ohnver-
+sehens niderfielen/ vnnd den Geist auffga-
+ben: Darauff ließ der König alsbald die-
+sen Trachen nachstellen/ vnnd sie vmb-
+bringen.
+
+<margin>NB.</margin>
+Es wolle aber dabey/ vnd hiemit ein je-
+der gewarnet seyn / sich für Aberglaubi-
+scher <term>superstition</term> zuhüten / vnnd nicht ei-
+nem jeden verloffnen <term>Agyrtæ</term> glauben ge-
+ben / sondern das Exempel Hertzog Al-
+brechts in Sachsen zu gemüht nemen / wel-
+chem / als einsmals ein Jud ein Apffel / o-
+der Knopff mit seltzamen <term>Characteribus</term>,
+vnd Zeichen/ so für stechen/ schiessen/ hau-
+
+<vocab>Socratis, Thurn, Trachen, superstition, Agyrtæ, Hertzog Albrecht in Sachsen, Characteribus</vocab>
+
+--- Page 32 ---
+<lang>de</lang>
+<header>CLYPEUM VERITATIS.</header>
+<meta>catchword: Apo-</meta>
+
+<margin>
+Hertzog Albrecht in Sachssen
+poena wider das <unclear>verſpr...</unclear>
+</margin>
+<margin>
+fort-
+ſetzg
+</margin>
+
+en/verwunden/vnd alle beschädigung die-
+nen solte/geschenckt/fragt der Herzog den
+Juden/ob das war/vnd sich darauff zuver-
+lassen? Da antwort der Jud; Ja/es we-
+re offt bewert : Aber der Herzog führt
+den Juden vors Thor / hieng ihm den
+**Knopff** an Hals/vnd sagte: das wil ich an
+dir probieren ; Zog damit sein Schwerdt
+auß/vnd stach den Juden durch vnd durch/
+mit vermelden: **So were es mir auch ge-
+schehen/wann ich zu bald geglaubt hette.**
+
+<margin>
+Joann
+starici
+Helden
+schatz
+p 1 <unclear>n</unclear>
+g. 5
+</margin>
+**Joannes Staricius** hette mit den Kin-
+dischen possen in seinem **HeldenSchatz**/ so
+er gleichwol der gefreyten Reichs Ritter-
+schafft unbesonnener/unverschämpter weiß
+dediciren dörffen/ auch nichts bessers
+verdienet. Aber last unns widerumb zur
+Hauptsach.
+
+Andere sind/welche da behaupten wol-
+len/daß wir zu lang still geschwiegen/ vnd
+niemand nutzlich/vnd ersprießlich gewesen
+seyen. Dann was wir allbereit hin vnd
+wider ohne ennigen Lohn für Kranckheiten
+curirt ist Landkündig/ <term>Chiragram</term>, <term>Poda-
+gram</term>, <term>Genugram</term>, <term>Calculum</term>, <term>Nephri-
+tin</term>, <term>Hidropen</term>, <term>Achores</term>, <term>Phreneſin</term>,
+Apo-
+
+<vocab>Hertzog Albrecht, Sachsen, Joannes Staricius, HeldenSchatz, Clypeum Veritatis, Chiragram, Podagram, Genugram, Calculum, Nephritin, Hidropen, Achores, Phrenesin</vocab>
+
+--- Page 33 ---
+<lang>de</lang>
+<meta>catchword: ber</meta>
+
+<insert>In medicos indoctos</insert>
+
+## CLYPEUM VERITATIS.
+
+Apoplexiam, Epilepſiam, Paralyſin, Le-
+pram, Gangrænas, Ozænam, Polypum,
+Cancrum, Phtiſin, Anthraces &c. Da
+hingegen Ægidius Albertinus von den
+<margin>NB.</margin>
+vngelehrten Medicis ſehr ſchön vrtheilet /
+In dem ſie/ſagt er/eine Kranckheit wollen
+heylen/verurſachen ſie vil andere/vnd der-
+maſſen gewehnen ſie die Arme patienten,
+daß ſie ohne Ärzten nicht leben können ; die
+Kranckheiten verlängern ſie / ſchädliche /
+vergiftte/vnd ſo grobe ſtarcke getränck ver-
+ordnen ſie den Armen Krancken/als weren
+ſie Roß oder Elephanten / denen gar wol
+zuhelffen were/vermittels einer guten diæt,
+vnd mit etwa heylſamen Simplicibus vnd
+Kräutern / zu denſelbigen brauchen ſie
+theure/frembde/vnd verfälſchte ſachen/vnd
+helffen die Apotecker reich machen. Für ein
+Kunſt halten ſie es / wann ſie dem Patien-
+ten heut ein Pulver/ morgen ein Tranck/
+übermorgen ein Cliſtier / dann ein Aderlaß
+verordnen/die Köpff auffſezen / zum Fon-
+tanel/vnd Holzwaffer rahten/ihne leztlich
+in ein warm Bad ſchicken/vnd ſo lang pei-
+nigen vnd martern / biß ihm die Seel auß-
+geht. In Summa ein jeglicher ſchreyet ü-
+
+<vocab>Apoplexiam, Epilepſiam, Aegidius Albertinus, Medicis, patienten, diæt, Simplicibus, Kräutern, Apotecker, Pulver, Tranck, Cliſtier, Aderlaß, Fontanel, Holzwaffer</vocab>
+
+--- Page 34 ---
+<lang>de</lang>
+<header>Clypeum Veritatis.</header>
+<meta>catchword: Draco</meta>
+
+ber die Mörder/Zauberer/vnd Hexen/welche die Menschen vnbarmhertziglich hinrichten / aber etliche **Medici** bringen die Menschen fein höflich/ vnnd solenniter vmbs Leben/vnd man gibt jhnen noch Gelt darzu. Inmassen **Plato** spricht/ *Soli Medico occidisse hominem impunitas est.* Derowegen ist das Ampt eines Henckers viel sicherer / weder das Ampt eines **Medici**, dann die Hencker richten niemandts ohne vorhergehenden sententz der Obrigkeit/aber die **Medici** tödten die vnschuldige *præter omne judiciū*, wider alle Menschliche Vernunfft / vnnd billigkeit ꝛc. bißher **Albertinus**.
+
+Was wir aber bey Regiments sachen täglich außstehn/vnd verrichten / ist ohnschwehr auß etlichen Missiven, vnnd *consiliis* zuerkennen / welche auß vnserem gehaiß vor wenig Jahren an gebührende ort durch vnsern getreuen / gehorsamen **Notarium Germanicum** angebracht/vnd fürderlich trucken zu lassen *ob magnum eorum, & varium, ac memorabile argumentum* vns für gut angesehen hat : Zu geschweigen / daß wir dem Englischen
+
+<vocab>Medici, Hencker, Albertinus, Notarium Germanicum, Plato, Clypeum Veritatis, Regiments sachen</vocab>
+
+--- Page 35 ---
+<lang>German</lang>
+
+### CLYPEUM VERITATIS.
+
+<margin>NB.</margin>
+Draco in peritia rei navalis, vnnd dem
+Französchen Francisco Lanovio in mi-
+litari scientia viel communicieret. Das
+aber grosse Herzen/vnnd Potentaten billi-
+chen consiliis kein Gehör geben / ist kein
+neues / sondern jhr proprium in quarto
+modo / daß sie an anschlägen am meisten
+verlieren / würd auch wol also biß zum
+Jüngsten Tag zu mit jhnen verbleiben :
+Selig aber sind diese/welche sich durch kei-
+nen eusserlichen schein / oder geschmierte
+wort bethören lassen / sondern nemen mit
+dem jhrigen verlieb/wissen nichts von dem
+eau benite, vnd verharren in der liebe/vnd
+Hoffnung gegen GOTT / vnnd jhrem
+Nechsten.
+
+Sonsten was ein putidus Thraso vns
+fürwirfft/wir seyen rhapsodi, congesto-
+res potius, quam digestores, obstenta-
+tores, non periti, loquaculi, leves, futi-
+les, importuni, & in verbis, atq; sen-
+tentiis jejuni : gilt es probierens. Aber
+alsdann gestehn wirs / wann die jeni-
+gen also pflegen titulirt zu werden / qui
+lectoribus & voluptatem, & utilitatem
+afferunt, modesti sunt, humiles, atque
+
+<meta>catchword: taci-</meta>
+
+<vocab>Clypeum Veritatis, Draco, Francis Drake, Francisco Lanovio, François de la Noue, Thraso, peritia rei navalis, militari scientia, proprium in quarto modo, eau benite, rhapsodi</vocab>
+
+--- Page 36 ---
+<lang>de</lang>
+<meta>catchword: Succubo</meta>
+
+## CLYPEUM VERITATIS:
+
+taciturni, & id curant, quo selectis ubique, & significantibus verbis utantur, omnibusque, ac singulis sermone simul, & factis prosint, laedunt neminem.
+
+Item ob eine andere betrügliche / verbottene übung / wie sie auch Namen haben mögen / πορνεια, πορνοβοσκία λῃστεία καταποντιστική χρυσωωθεία &c. eher in einer Republica, als wir / zu leyden / vnd zugedulten seyen / stellen wir Gottes gerechtem Vrtheil / vnd gericht anheimbs.
+
+<margin>N.</margin>
+Item das andere sich für unsere Brüder fälschlich dargeben / vnd die Leut unter einem heiligen Schein / unnd guten worten schändlich äffen / unnd bethören / da der Teuffel sein Spiel mit führet / können wir nicht dafür. Freylich verwandelt sich der böse arglistige Feind offtermals in einen Engel deß Liechts / dessen Herzog Johan Friederich Churfürst zu Sachsen einsmals eine denckwürdige Historien in gegenwertigkeit fürnemer hochansehlicher gelehrter Leut erzehlet: das ein Geschlecht vom Adel in Teutschlandt die Todten von Lostesnau genennet / weren geboren von einem
+
+<vocab>Clypeum Veritatis, Republica, Herzog Johan Friederich, Churfürst zu Sachsen, Engel deß Liechts, Lostesnau, Succubo</vocab>
+
+--- Page 37 ---
+<lang>de</lang>
+<header>CLYPEUM VERITATIS.</header>
+<meta>catchword: er</meta>
+
+# CLYPEUM VERITATIS.
+
+*Succubo*, wie denn die *Meluſina* auch ein
+ſolcher *Succubus*, oder Teuffel geweſen iſt.
+Es ware aber alſo zugangen : Ein Edel-
+man hette ein ſchön jung Weib gehabt / die
+ihm geſtorben / vnd begraben worden / nicht
+lang darnach / wie er / vnd ſein Knecht in ei-
+ner Kammer lagen / kompt deß Nachts ein
+*Spectrum*, in geſtalt der verſtorbenen
+Frauen / vnd leget ſich über deß Junckern
+Betth / gleich als redete ſie mit ihm : ſol-
+ches ſahe allein der Knecht / das zweymal
+nach einander geſchahe / fragt den Jun-
+ckern / was es doch ſey / vnnd ob er s auch
+wiſſe / daß alle Nacht ein Weibsbild in wei-
+ſen Kleidern vor ſein Betth komme. Da
+ſagt er / Nein / ſondern ſchlaffe die gantze
+Nacht über gar rühiglich / vnnd ſehe / oder
+ſpüre durchauß nichts. Folgende Nacht
+gibt der Juncker ſelbſt darauff acht / kompt
+die Fraue abermals für das Betth / vnd als
+der Juncker / welcher da wachet / ſie fragte /
+was ihr begehr / vnd wer ſie were / antwort
+ſie / ſie ſeye ſeine Hausfraue / ſagt er / biſt du
+doch geſtorben / vnd begraben / antwort ſie /
+ja / ſie habe vmb ſeines fluchens / vnd vmb
+ſeiner Sünde willen ſterben müſſen / wolle
+
+<vocab>Succubus, Meluſina, Teuffel, Spectrum, Juncker, Weibsbild, Hausfraue, Sünde</vocab>
+
+--- Page 38 ---
+<lang>de</lang>
+<header>CLYPEUM VERITATIS.</header>
+
+er aber sie wider zu sich haben / woll sie
+auffs neue seine Haußfraw werden / gebůr:
+liche beywohnung laisten / vnnd sich recht
+verhalten / allein er můße sich bessern / vnd
+nimmer fluchen / sonsten wůrde sie bald wi:
+der sterben. Der Mann sagt jhr alles zu /
+da blieb sie bey jhm / schafft / vnnd regiert im
+Hauß wie vorhin / schlieff bey jhm / aß / vnd
+tranck mit jhm / vnd gebahr Kinder.
+
+Nun begab sichs lang hernach / daß der
+Edelman Gåst hatte / vnnd nach gehalte:
+nem Nachtessen das Weib einen Pfeffer:
+kuchen zum Obst auß einem Kasten holen
+solte / vnd lang aussen blieb / war der Jun:
+cker zornig / flucht / vnd schwur nach seiner
+alten gewonheit / weil aber die Frau wider
+zukommen noch immer verzohe / gieng er
+sampt seinen Gåsten hinauff in die Kam:
+mer / sihe / da ligt jhr Rock / den sie ange:
+habt / halb mit den Ermeln in dem Kasten /
+das ander aber / wie sich eines in Kasten
+buckt / hie aussen / sie aber war nicht da / son:
+dern verschwunden / vnd auch nach der zeit
+nimmermehr gesehen.
+
+Solte wol diese geschicht den <term>Sueto-
+tonium</term> confirmieren vnnd beståttigen /
+
+<meta>catchword: in</meta>
+<vocab>Haußfraw, gebůrliche, Edelman, Gåst, Nachtessen, Pfefferkuchen, Juncker, Suetotonium</vocab>
+
+--- Page 39 ---
+<lang>Latin, German</lang>
+<sig>C</sig>
+<meta>catchword: Item</meta>
+
+### CLYPEUM VERITATIS.
+
+In dem er ſpricht : Atiam matrem Octavii
+Auguſti cum ad ſolemne Apollinis ſa-
+crum media nocte veniſſet , poſita in
+templo lectica, dum ceteræ matronæ
+dormirent, obdormiſſe : Draconem
+repentè irrepſiſſe ad eam, pauloq; poſt
+egreſſum : illamq; expergefactam qua-
+ſi à concubitu mariti purificaſſe ſe : &
+ſtatim in corpore ejus extitiſſe macu-
+lam, velut depicti Draconis : nec po-
+tuiſſe unquam eximi : adeo ut mox
+publicis balneis perpetuo abſtinuerit :
+Auguſtum natum menſe decimo, & ob
+hoc Apollinis filium exiſtimatum.
+Welches Iſaacus Caſaubonus für eine fa-
+bel helt auß dem Aſclepiade Mendeſio
+Ægyptio genommen / vnnd ſagt : Fuiſſe
+quidem univerſam Ægyptiorum reli-
+gionem fædam, ſtultam, & ridiculam,
+ſed nihil tota Ægypto monſtroſius in-
+famia Mendeſiorum : qui hircum pro
+numine colentes, excellentiſſima for-
+ma mulieres illius libidini ſubſternere
+ſoliti : atq; ut prurigæ boni, ceſſantem
+lege naturæ beſtiam, proh fidem ho-
+minum ! contra Naturam inſtigare.
+
+<vocab>Clypeum Veritatis, Atia, Octavius Augustus, Apollo, Isaac Casaubon, Asclepiades of Mendes, Mendesiorum, Egyptian religion</vocab>
+
+--- Page 40 ---
+<lang>German, Latin, Ancient Greek</lang>
+<meta>catchword: ud</meta>
+
+<insert>
+Transmutationis metallorum
+artem esse verissimam
+</insert>
+
+## CLYPEUM VERITATIS.
+
+Item so geben wir der hoffnung / wissens auch für gewiß / daß wir deß hohn- sprechens noch ein ende erleben wollen ohn- geachtet / das viel feine/ fromme / gelehrt Männer gefunden werden/ welche auß den Historien wissen / quod artem nostram Ægyptij, imperante Diocletiano, strenuè professi fuerint: qui odio illos habens, ob excitatum tumultum, scribta eorum complura de fusione auri, atq; argenti conquisita combussit, ne ex arte hac ditati Ægyptij, & pecuniæ freti copiis imposterum rebellarent. Ohne noth weitläuffig anzuzeigen/was der berümbte Jurist Johannes Andreæ schreibet, Arnoldum de Villa nova in Curia Roma- na præsentibus multis Cardinalibus æs in virgulas auri commutasse; moxq; di- scedentem permisisse, ut probationi cuicunque subjiceretur: Ja es ist die Alchymi ein uraltes studium, welches Moyses wol verstanden / cum vitulum aureum fecit ποτιμον, vnnd temporibus Argonautarum recht im schwang gan- gen/ cum Jason surreptum ivit aureum vellus, Χρυσόμαλλον : quod nihil erat ali-
+
+<vocab>Transmutatio metallorum, Clypeum Veritatis, Diocletianus, Johannes Andreæ, Arnoldus de Villa nova, Alchymi, Moyses, vitulum aureum, Argonautae, Jason, vellus aureum</vocab>
+
+--- Page 41 ---
+<lang>de</lang>
+<sig>C ij</sig>
+<meta>catchword: Gleic</meta>
+
+<insert>Term. philosophici</insert>
+
+## CLYPEUM VERITATIS.
+
+<margin>
+opus
+con-side
+randū
+</margin>
+ud, quam liber quidam ex aliis metallis
+docens aurum conficere. Eum enim
+tecto nomine aureum appellabant vel-
+lus, fabulam illam confingentes.
+
+Hierauff bekümmern wir vnns nicht
+hoch / was andere vnsere Neÿder für pro-
+gressus in <term>Chymicis</term> erlangt / vnd was sie
+für einen <term>lapidem Philosophorum</term> zube-
+reiten erkandt / vnd gelernet haben. Dann
+ob gleich wir viel <term>experimenta</term> der neuen
+in diesem stück nicht allerdings verwerffen:
+jedoch wissen sie in viel tausenden die rechte
+influentz nicht zu <term>causiren</term>, vnnd den in-
+ferioribus die <term>superioria</term> gebührlich zu <term>ap-
+plicieren</term>, dieweil es nicht genug ist / dem
+<term>Hermetischen</term> abreinigungs / vnd zuberei-
+tungs weg nach auß einem harten Stein
+vff gut <term>spagirisch</term> einen Brunnen deß was-
+sers herfür bringen / sondern solle es der
+rechte <term>Philosophische Wasser See</term> sein / ein
+lebendiges Wasser / ja das Wasser deß Le-
+bens / muß es zwar durch künstliche / <term>spa-
+girische</term> Handgriff / bequeme gefäß / vnnd
+nothtürfftige Fewers hülff geschehen / aber
+wann **Venus** mit der rechten Schulter **O-
+rionis** vntergeht.
+
+<vocab>Clypeum Veritatis, lapis Philosophorum, Hermetisch, spagirisch, Venus, Orion, Chymicis, influentz, superioria, inferioria, alchemical transmutation</vocab>
+
+--- Page 42 ---
+<lang>de</lang>
+<meta>catchword: nemen/</meta>
+
+<insert>
+Constellationũ necessi-
+tas in operatione
+</insert>
+
+## CLYPEUM VERITATIS.
+
+Gleicher gestalt / lassen wir einem an-
+dern sein Saltz passieren / welches er auß
+Perlen / Corallen / Adelstein / Krebsau-
+gen ꝛc. wider alle Tartarische Kranckhei-
+ten meisterlich præpariert, allein / daß es
+fürgenommen werde / wann eintweder
+Mercurius mit den Hædis auffgeht / oder
+aber mit dem rechten Knye deß Steinbocks
+auffgeht / vnd mit deß Schwanen schwanz
+untergeht / darbey wir dann nicht vermei-
+nen / daß es Beriensis, oder Valescus de
+Taranta nicht solten gewußt haben / dieweil
+sie beyd in einem ort schreiben / sie haben es
+verrichtet / wann Saturnus mit dem Siben-
+gestirn auff / vnd Mercurius mit deß Wi-
+ders Horn untergangen : welche constel-
+lation wir nicht verachten können / eben so
+wenig / als wann es geschehe / wie vermel-
+det / oder aber wann im Herbst Venus mit
+Procyone , unnd Asino australi auff-
+gehet.
+
+Sihe hier / Lieber Leser / was daran ge-
+legen sey / etwas in gewisser constellation
+vnd zeit zuverrichten / welche nicht allein in
+bestellung der Felder / Aecker / Weinberg /
+säen / pflanzen / bauen / graben / Arzney ein-
+
+<vocab>Clypeum Veritatis, Saltz, Tartarische Kranckheiten, Mercurius, Hædis, Steinbock, Schwanen schwanz, Beriensis, Valescus de Taranta, Saturnus, Sibengestirn, Widers Horn, Venus, Procyone, Asino australi, astrology, alchemy, pharmacopoeia</vocab>
+
+--- Page 43 ---
+<lang>German</lang>
+<header>CLYPEUM VERITATIS.</header>
+<sig>C iij</sig>
+<meta>catchword: tē</meta>
+
+nemen/baden/raisen / &c. sondern vielmehr
+in <term>Alchymicis</term> operationibus in acht ge-
+nommen werdē müffen / wil man anders das
+bequem / fruchtbarlich/nutzlich erwünschte
+endt erreichen : dieweil die himmlische Liech-
+ter nicht allein nach dem befelch Gottes die
+Menschen betrachten follen / wegen ihrer
+schönen gestalt/höhe / gröffe &c : sondern
+viel mehr wegen ihrer mächtigen krafft /
+vnd würckung : dabey in reiffe considera-
+tion zuziehen / wie wunderbarlich der Al-
+mächtige Schöpffer aller ding / Himmel
+vnd Erden in einander gefügt/ das von den
+Himmlischen Liechtern *per perpetuam*
+*combinationem motuum* alles vff der
+Welt je eines von dem andern muß regiert
+vnd gezogen werden. Wie dann das Buch
+der Weißheit außtruckenlich bezeuget/ daß
+die Liechter am Himmel die Welt regieren:
+welchen spruch auß dem dreyzehenden Ca-
+pitul recht vnnd wol ein Hochgelehrter <term>A-</term>
+<term>strologus</term> vnd <term>Theologus</term> hierauff alle-
+giret. Dannenhero auch in allweg hoch-
+zuhalten/ was <term>Marsilius Ficinus</term> geschrie-
+ben: *Medicinas inquit, coelesti quo-*
+*dam adminiculo confirmatas, nisi for-*
+
+<vocab>Alchymicis, Astrologus, Theologus, Marsilius Ficinus, Buch der Weißheit, Clypeum Veritatis</vocab>
+
+--- Page 44 ---
+<lang>German</lang>
+<header>CLYPEUM VERITATIS.</header>
+
+tè vitam neglexeris , haud negligito. 
+Ego enim frequente jam diu experien-
+tia compertum habeo, tantum interesse 
+inter Medicinas huiusmodi, atque alias 
+absque delectu Astrologico factas, quan-
+tum inter merum & aquam.
+
+<margin>N.</margin>
+Ein wolerfahrner/kunstreicher Mann 
+sezet in seiner **Steganalogia** & **Stegano-**
+**gravia nova** auß eines alten München ge-
+schriebnem **tractat**; wie man drey Spiegel 
+solle durch sonderbare kunst zurichten/ da-
+rinnen man bey dem Volmon zu nacht se-
+hen könne/ was vff dem **hemisphærio** der 
+Erden/ das ist auff dem halben Erdboden 
+vnter freyem Himmel geschehe. Dieser 
+Spiegel **confection** ist just/ vnnd gerecht/ 
+was die **Mathematic** angeht / aber es muß 
+auch eine himmlische **influentz** darzu kom-
+men/ welches/ wann es geschicht/ ist der ort 
+nicht allein leichtlich zu finden/ den man zu 
+haben begehrt/ sondern es erscheinet alles/ 
+was unter offnem Himmel liget / in seiner 
+engentlichen leibhafften grösse/ **form** / vnd 
+gestalt/ Stätt/ Berg/ Schlösser/ Dörffer/ 
+allerley gethier / ꝛc: in der gantzen weiten 
+Welt; dieses geht also zu : Wann der
+
+<meta>catchword: dritte</meta>
+
+<vocab>Clypeum Veritatis, Steganalogia, Steganogravia, Volmon, hemisphærio, Mathematic, influentz, Spiegel, Getier</vocab>
+
+--- Page 45 ---
+<lang>de, la</lang>
+<header>CLYPEUM VERITATIS.</header>
+
+# <insert>Confectio ſpeculorum</insert>
+
+Dritte Spiegel nach der hyperbole ausge-
+arbeitet würd / muß man jhn mit einem
+Blat belegen auffß dünneſt geſchlagen.
+Solches Blat würd auß Goldt/ Silber/
+Kupffer/ Zin/ Bley/ vnd Eyſen gemacht/
+folgender maſſen: Erſtlich werden jedes
+ein Pfund deß Goldts / Silbers / vnnd
+Kupffers genommen / vnd zuſammen ge-
+ſchmoltzen <term>ingrediente Sole in Capri-
+cornum</term>. Zum andern würd auch jedes
+ein Pfund deß Zins/ Bley/ vnnd Eyſens
+zuſammen geſchmoltzen <term>ingrediente So-
+le in cancrum</term>. Alſo haſt du zwey Klum-
+pen. Dieſe beyde Klumpen müſſen drit-
+tens widerumb zuſammen geſchmoltzen wer-
+den wann der <term>Mond laufft im Krebs</term> / vnd
+einen <term>Triangel</term> / oder <term>Sextil mit Venere</term>
+hat. Viertens wirds es zu einem dünnen
+Blat gebührlich geſchlagen/ wenn die Son
+beym <term>Marte</term> iſt neben dem Mond inn der
+<term>Waag</term>. Endtlich wann der Mond gar al-
+lein iſt / vnnd von keinem Planeten ange-
+ſchauet würd / iſt das Blat dem Spiegel
+artlich bey zufügen in einer Jahrszeit da
+ein Comet erſchienen. Dann es nicht war/
+was <term>Ariſtoteles de Comitis</term> gefabulirt /
+
+<sig>C iiij</sig>
+<meta>catchword: vnd</meta>
+
+<vocab>Confectio speculorum, Clypeum Veritatis, hyperbole, Gold, Silber, Kupfer, Zinn, Blei, Eisen, Capricornum, Cancer, Mond, Krebs, Triangel, Sextil, Venus, Mars, Waag, Planet, Comet, Aristoteles, de Comitis</vocab>
+
+--- Page 46 ---
+<lang>de</lang>
+<header>Cometarn orty</header>
+<meta>catchword: würd/</meta>
+
+## CLYPEUM VERITATIS.
+
+vnd erdichtet / nimirum esse ignes à pingui exhalatione sublatos , qui tunc extinguantur , cum alimenta defecerint . Etenim exhalationes altius duobus tribusve milliaribus à terra sublevari non possunt : cometæ verò in altissima ætheris, & ab omnibus fumosis expirationibus, ac fætoribus sulphureis purissima regione apparent, & omnibus populis sub eodem hemisphærio existentibus conspicui sunt : quod fieri non posset, si lunæ proximi essent, cujus distãtia minima à terræ centro est diametrorum 32 id est milliariorum 122760.
+
+Herr D. Molther hat sich verwundert/ als er einen auß unserer Gesellschafft zu Wetzlar hat sehen so heuffig essen die Wurzel von Hundtskürbs/ oder **Bryonien**, welche an jhr selbsten druckner / warmer eigenschafft ist : aber wann sie zu rechter zeit gegraben würdt / treibt sie freylich die zähen **Phlegmata** auß / wehret allen Hauptsüchten/ præservirt vor Gifft/ verzehret das Miltz/ vnd erhelt den Menschen bey rechtschaffener Gesundheit : Hergegen wo sie nicht zur rechten Zeit gegraben
+
+<insert>
+->Bryonien Würtzel<-
+->pre monity<-
+</insert>
+
+<vocab>Cometæ, exhalatione, Clypeum Veritatis, Hundtskürbs, Bryonien, Phlegmata, Miltz, Dr. Molther, Wetzlar</vocab>
+
+--- Page 47 ---
+<lang>German</lang>
+<header>CLYPEUM VERITATIS.</header>
+<sig>C v</sig>
+<meta>catchword: für</meta>
+
+wird/muß einer keck sein / der sie gebrau-
+chen wil/ er wisse dann eine gleiche Kunst/
+wie Chius Eudemus von der Nießwurz
+gewußt hat/ welcher auff einen Tag zwey ))
+vnnd zwantzig Tränck von Nießwurz ohn
+allen schaden eingetruncken. Dieweil ihm
+aber solches vnschädlich gewesen / schreibet
+Theophrastus, er habe nach dem sibenden
+trunck den leichten Bimstein mit scharpf-
+fen essig zu sich genommen.
+
+<margin>Peo u
+nie
+pro
+muli-
+rib'</margin>
+Peonien, oder Benignen Rosen sind
+fast wol bekandt. Die Wurzel davon ist
+eine so köstlich/edle Arzney für die Weiber
+zu ihres Lebens verlängerung / vnnd auff-
+enthalt / gleich wie die Bryonien Wurzel
+für die Männer gehört/ daß sie nicht gnug
+kan gelobt werden / wann sie zu rechter zeit
+gesamblet wird/ wo sie aber nicht zu rechter
+zeit gesamblet würde/ hat sie keinen einigen
+rechten effect, welche ihr sonsten zugelegt
+werden / daß sie der fallenden Kranckheit
+wehre / die Mutter reinige/ Gelbsucht ver-
+treibe / Blutgang stille rc.
+
+<margin>Alant
+wurtzel</margin>
+Alantwurz ist das ware <term>Elenium</term>
+Dioscoridis, warmer / feuchter Natur:
+eine überauß fürtreffliche / gewisse Arzney
+
+<vocab>Nießwurz, Eudemus, Theophrastus, Bimstein, Peonien, Benignen Rosen, Bryonien, Elenium, Dioscoridis, Alantwurz, Mutter, Gelbsucht, Blutgang</vocab>
+
+--- Page 48 ---
+<lang>German</lang>
+<header>CLYPEUM VERITATIS.</header>
+<meta>catchword: Frag</meta>
+
+für die Engbruſtigkeit / für die kalte Må-
+gen/für den Stein/Blutſpeyen/ vnnd an-
+dere Kranckheiten/ wann ſie zu rechter zeit
+gegraben/vnnd eingebeißt wie der Calmus,
+oder Ingber genoſſen würd.
+
+<margin>Tormentil od Birck wurtz</margin> Tormentil / ſo wir auch Birckwurtz
+nennen / weil ſie allermeiſt inn Bircken
+Wålden gefunden wirdt / iſt eine theure
+Wurtzel/innerlich/ vnnd euſſerlich zuge-
+brauchen/druckner complexion, zu aller-
+ley Flüſſen/für anderen Gewächſen zuer-
+wehlen / wann ſie zu gebührlicher zeit ge-
+ſamblet wird; wo nicht/vermag man nicht
+das darmit zu preſtieren, was man wol
+ſolte. Vor ohngefehr einem Jahr haben
+wir etlich tauſendt Menſchen in einer groſ-
+ſen Stadt Teutſches Landes damit für der
+Peſtilenz bewahret / etliche hecticos cu-
+riert, die rohte Ruhr geſtillt / flieſſenden
+Augen geholffen/Kröpff/vnd Feigwartzen
+vertrieben : Dannenhero vrtheilt ſehr zier-
+lich nach deß Haly Lehr der Frantzoſen Pli-
+nius Monſieur Pierre de la Primaudaye
+en' academie Françoise: *Le Medicin,
+dit il, ignorant de Astronomie est come'
+aueugle qui tastonne la voye auecques son
+baston.*
+
+<vocab>Tormentil, Birckwurtz, Engbruſtigkeit, Peſtilenz, Pierre de la Primaudaye, Haly, rohte Ruhr, Kröpff, Feigwartzen</vocab>
+
+--- Page 49 ---
+<lang>German</lang>
+<header>CLYPEUM VERITATIS.</header>
+<meta>catchword: auff.</meta>
+<vocab>Goldt, Silber, lilium sylvestre Dioscoridis, Mars, Apogeo, Epicyclo, Widers Horn, Melancoley, Hornungs Blumen</vocab>
+
+### CLYPEUM VERITATIS.
+
+Fragst du ob vnser gemachtes Goldt
+auch dem natuͤrlichen zuvergleichen? Frey-
+lich in allweg. Dann ob es schon ins Feu-
+er geworffen wirdt / evaporirt es doch
+nicht/vnnd wird nicht weniger / sondern
+weich/rein/sauber/vnd glaͤnzendt. Es ver-
+faulet nicht/verrostet nicht / kan durch den
+Hammer nicht zerschlagen/zerspalten / o-
+der zerbrochen werden/ sondern je mehr es
+geschlagē wuͤrd/je mehr es sich außdehnet/
+vñ außbreitet. Es erquickt dz Gesicht/reini-
+get die Augen/staͤrcket die Nerven/erfreuet
+das Gemuͤht/vertreibt Melancoley/ vnnd
+schwachheit deß Hertzens / fortificirt den
+Verstandt / stillet den Blutgang/ vnd hey-
+let die stinckende/verfaulte Wunden. Eb-
+ner massen ist vnser Silber weiß/klingent/
+klar/rein. Sein schaum heylet die Wun-
+den / vnnd verzehret in denselben das wilde
+Fleisch/es staͤrcket die fluͤssige Glieder/vnd
+reiniget den Leib. Wird also gemacht.
+Erstlich graben wir das rechte lilium syl-
+vestre Dioscoridis, das ist / die Wurtzel
+von weissen Hornungs Blumen/wann im
+Mertzen Mars zu seinem Apogeo in Epi-
+cyclo kompt/vnnd mit deß Widers Horn
+
+<insert>Lilium sylvestre Dioscoridis</insert>
+
+--- Page 50 ---
+<lang>de</lang>
+<header>CLYPEUM VERITATIS,</header>
+
+auffgeht. Darnach im Herbst gleich inn der Stund / wann **Venus** mit deß **Scorpions Herz** auffgeht / graben wir die Wurzel von **Wiesen zeitlosen** / thun die schwarze außwendige schelet hinweg / vnd pulvern das übrig. In gleicher schwehre nemen wir weissn wol gewaschnen **Weinstein** / vnd **Salpeter** / eines so viel als deß andern / vnnd mischen alles durch einander. Von diesem Pulver drey **Loth** vff 4. oder 5. Pfund glüend **Kupffer** geworffen / gleich in der Stundt / wann **Juppiter** mit dem **Adler** / vnnd **Mars** mit deß **Delphin Schwanz** untergeht / doch daß einen Tag zuvor eine **conjunction Solis** vnd **Jovis** gewesen seyen / verwandelt alles in recht / natürlich / gut **Silber**.
+
+Also wann **Venus** mit **Syrio**, oder **Mercurius** mit **Arcturo** auffgeht / oder **Mars** mit der **Jungfrau Gürtel** / oder **Venus** mit **Algol** untergeht / ist gut verborgene **Schätz** zusuchen / nach der lehr vnnd weise / wie **Paracelsus** beschrieben : welcher / weil er die influentz außgelassen / bey uns zwar in keinem verdacht ist / sintemal ihme nur etliche / vnd nicht alle geheimnussen der Natur geoffenbaret worden.
+
+<insert>Tempus thesaurus quærend.</insert>
+
+<vocab>Clypeum Veritatis, Alchimie, Astrologie, Paracelsus, Transmutation, Kupffer, Silber, Schatzgraben, Venus, Mars, Juppiter, Scorpions Herz, Wiesen zeitlosen, Weinstein, Salpeter</vocab>
+
+--- Page 51 ---
+<lang>de</lang>
+<header>CLYPEUM VERITATIS.</header>
+<meta>catchword: Theo-</meta>
+
+### CLYPEUM VERITATIS.
+
+Item wann ein anderer wil / daß der *Leo Sophorum, Saleus, decorans aurum,* ſeye *aurum Philoſophorum, id eſt, Sal Sapientiæ, Catholicon, primateriale, atq; Mercuriale, potabile, Philoſophicè ſolvens, deſtruens, & potabile reddens aurum metallicum;* iſt alles recht / wann es geſchicht im eingang der Sonnen inn die Waag / da der 8 . grad der Jungfrauen im *Aſcendenten,* vnnd das mit deß Löwen Schwanz Stern mit auffſteigt / auch im hohen Himmel ſich ſehet / iſt der ander grad der Zwilling mit den *hyadibus.*
+
+Ins gemein aber haben wir niemand jemals verachtet / darumb / daß ein anderer vns was zurahten geben ſoll / er heiß *Cornæus,* oder *Cornatus, Beuther⁹,* oder *Bauhinus, Foxius,* oder *Goltzius, Vigelius,* oder *Stigelius, Monavius,* oder *Mornæus &c.* wird nichts darauß. Vnd ſind eben etliche / ſo wider vns angezogen / oder auch über vns geſeket wollen werden / vor der zeit vnſere *Clientes,* vnd *Diſcipuli* geweſen / vnter welchen wir ehren halber anziehen *Macarium Ægyptium, Alphonſum Toſtatum Hiſpanum, Picum Mirandulæ Comitem, Pagninum,*
+
+<vocab>Leo Sophorum, Sal Sapientiæ, Mercuriale, alchemical astrology, Virgo, Gemini, Hyades, Cornæus, Bauhinus, Goltzius, Macarius Ægyptium, Alphonſum Toſtatum, Pico della Mirandola, Pagninum</vocab>
+
+--- Page 52 ---
+<lang>de</lang>
+<meta>image quality: excellent; catchword: postel</meta>
+
+<insert>Discipuli F R C</insert>
+
+### CLYPEUM VERITATIS.
+
+Theologum ordinis prædicatorum latinè, ebraicè, Græcè, Chaldaicè, & Arabicè doctissimum, Hieronymum, Aleandrum Mottensem, Cardinalem Brundusinum, Gislenium Busbequium, Franciscum, Vergaram, Andream Guarnam Salernitanum, vnnd Casparum Contarenum Oratorem, & Historicum.
+
+Betreffent vnser Collegium, ob es licitum, oder illicitum seye; ist nicht fragens werth. Dann weil wir Båpst / Cardinal / Keyser / König / Bischoff / Aebt / Prälaten / Grafen / vnd Herren / theils in vnser Fraternitet gehabt / theils noch haben / theils aber sich vnseres Schutzes / vnnd Schirms gebraucht: resolvirt sich die quæstion für sich selbst: Dannenthero die selbstgewachsene Juristen jr vorurtheil einstellen / vnnd niemand vnverdienter sachen prægraviren solten. Verè Augustinus:
+<margin>» »</margin>
+> Ignorantia judicis plerunq; est calamitas innocentis.
+
+Item vnser perfection anbelangent / verstehn die Ignoranten nicht / wie wirs meynen. Dann vnser ruhm ist mit dem Apostel
+
+<vocab>Clypeum Veritatis, Fraternitet, Collegium, Hieronymus Aleandrus, Gislenium Busbequius, Caspar Contarenus, Rose Cross, Rosicrucianism, Augustinus</vocab>
+
+--- Page 53 ---
+<lang>lat</lang>
+<header>CLYPEUM VERITATIS.</header>
+<meta>catchword: ibi</meta>
+
+poſtel Paulo; das Zeugnuß vnſers Ge-
+wiſſens / welches in vnns eine ſolche frewd
+erweckt / daß wir albereit einen ſolchen vor-
+geſchmack haben deß himliſchen Paradeiß.
+Sonſten halten wir eben auch mit gedach-
+tem Apoſtel Paulo nicht darfür / daß wir
+etwas wiſſen ohne allein Jeſum Chriſtum
+den gecreußigten / iſt alſo nun nichts ver-
+damlichs an vnns / wie zum Römern ge-
+ſchrieben ſtehet / die wir in Chriſto Jeſu ſein /
+die nicht nach dem Fleiſch wandeln / ſon-
+dern nach dem Geiſt. Proinde is verè di-
+ves est, qui Deum habet propitium.
+Quid autem metuat, qui talem habet
+protectorem? num hominis? minus
+potest universorum hominum potestas
+adversus Deum, quam culex adversus
+Elephantem indicum, num mortem?
+ea piis est transitus ad aeternam beatitu-
+dinem, num inferos? Sed confidenter
+loquitur Deo vir pius. Cur metuat Dæ-
+mones in pectore gerens eum quem
+tremunt Dæmones! Nam hominis pij
+mentem templum eſſe Dei non uno in
+loco prædicat ſcriptura verè ἀναντίῤῥη-
+τος. Summa: Ubicunq; pura mens eſt,
+
+<vocab>Apostel Paulo, Jesus Christus, Paradeiß, Römern, Proinde, Elephantem indicum, Daemones, scriptura, ἀναντίῤῥητος</vocab>
+
+--- Page 54 ---
+<lang>de</lang>
+<meta>Catchword: Speis</meta>
+
+<insert>Sympathiæ & Antipathiæ</insert>
+
+# CLYPEUM VERITATIS.
+
+ibi Deus est : ubicunque Deus est, ibi paradyfus est; ibi cælum est ; ibi felicitas est, ubi felicitas est: ibi gaudium est verum, & alacritas sincera.
+
+Andere *ludicra*, so wir bisweilen zu einer ergötzlichkeit anstellen / haben mehrertheils / ihren grund in *sympathiis*, & *antipathiis rerum*. Dann wie wunderbarlich dieselbige seyen / mag leichtlich auß einem Exempel abgenommen werden / als da in Oesterreich Zwilling geboren worden / *qui obiectis Solis ad januas corporis lateribus seras aperiebant. Inest sane omnibus in universum rebus congenita inter se consortij proprietas, qua etiam citra visibilem contactum mutuo afficiuntur. Sed & omnia animalia, mineralia, & vegetabilia rationem specificæ, aut individualis constitutionis in generatione illorum cælitus aliqua imbuuntur virtute, aliis rebus adeo contraria, & interneciva, ut illarum operationes sistat, atque liget.* Daher kompt es/daß der ein keine Katzen leyden kan / der ander kein Keß essen / der dritt kein Ey. Im Niderland ist ein Doctor / der keine frischen
+
+<vocab>Clypeum Veritatis, sympathiis, antipathiis, Oesterreich, Niderland</vocab>
+
+--- Page 55 ---
+<lang>German</lang>
+<header>CLYPEUM VERITATIS.</header>
+
+## CLYPEUM VERITATIS.
+
+Speisen/sondern nur gesaltzen Fleisch/vnd
+Fisch isset. Vor etlich Jahren ist ein Le-
+cker im Landt herumb gezogen / welcher
+nichts dann Suppen / vnnd Bren gessen/
+vnd von allem Wildprät ein abscheuen ge-
+habt. Sechs Erbare Männer/wie sie ih-
+res Standts vnd Aempter halber/ also wa-
+ren sie auch ihren Naturen gantz vngleich/
+vnd vnterscheiden / haben wir sehr wol ge-
+kandt / auch zum theil selbst mit ihnen ges-
+sen vnd getruncken. Der erste mochte kei-
+nen sauren Compost oder Kraut riechen/
+geschweigen / daß er es hette essen sollen.
+Der ander aß kein Fleisch/oder etwas/dar-
+an Petersilgen Wurtzel gesotten / oder das
+Kraut zerschnitten/ vnd darüber gestreuet
+war. Gebratene Gänß waren dem dritten
+dergestalt entgegen / daß er schier nicht in
+ein Hauß kam/da ein Ganß am Spieß ste-
+cket/solte er denn beym Tisch / darauff sie
+vorgesetzt / bleiben. Dem vierdten ge-
+schwand für Ohnmacht / so jhm nur von
+gesotten Krebsen der Geruch vnter Augen
+gienge. Kein Keß aß der fünffte / vnd der
+sechste / wiewol er sonst den Wein sehr lieb
+hett/tranck er doch keinen / so nur ein biß-
+
+<sig>D</sig>
+<meta>catchword: lein</meta>
+<vocab>Wildprät, Aempter, Compost, Petersilgen, Ohnmacht, Keß, Gänß, Lecker, Bren</vocab>
+
+--- Page 56 ---
+<lang>de</lang>
+<header>CLYPEUM VERITATIS.</header>
+<meta>The text is in Early New High German, printed in Fraktur script. The content appears to be a narrative anecdote followed by a moral or religious reflection. The title in the header translates to "Shield of Truth."</meta>
+
+lein Brodt / wie ein halb Erbeß inn einen
+grossen Becher voll gefallen ware. Diese
+obgenennte sechs / hette einsmals ein für-
+nehmer Mann zum Nachtessen beruffen /
+ließ die Speise / vnnd die Gerichte darnach
+bereyten / darmit immerzu etwas / eines al-
+lein zu einem mal käm / vnd auffgesetzt wür-
+de / daß einem vnter ihnen mißfiele / wie deñ
+auch geschahe / das allezeit einer von den
+sechsen vom Tisch mußt auffstehn / biß ein
+anders darbracht / vnd das weichen an sei-
+nen Nächsten gelanget. Dermassen war
+die Gasterey mit fröllichkeit vnnd gelächter
+geendet / daß keiner dem andern sein Gebre-
+chen verweisen möchte.
+
+Dieses / vnnd dergleichen wann etliche
+reiff lich betrachtet / hetten sie vielleicht zum
+theils ihre Federn wider vnns nicht zu sehr
+gespitzet / zum theils das vnzeitige schumpf-
+fieren / vnnd holhüpeln ersparet / sonder-
+lich / da vns einer vnverschulter weiß gar zu
+Teuffeln / vnd bösen Geistern machen will.
+Dann es ist je offenbar / daß noch heutiges
+Tags der gütige Gott vnd Vatter in man-
+cherley weiß vnnd mittel das Menschliche
+Geschlecht lehret / ermahnet / vnnd heimsu-
+chet.
+
+<vocab>Clypeum Veritatis, Nachtessen, Gasterey, vnzeitige, schumpffieren, vnverschulter, Teuffeln, Menschliche Geschlecht</vocab>
+
+--- Page 57 ---
+<lang>de</lang>
+<header>CLYPEUM VERITATIS.</header>
+<sig>D ij</sig>
+<meta>catchword: weiter</meta>
+
+chet. Und wiewol er der **Schöpffer**/Re-
+gierer / unnd **Handhaber** aller ding/dessen
+gewalt niemand widerstehen mag / dessen
+**Weißheit** nichts verborgen ist / der alles
+sihet/von dem alles guts herfleußt/und dem
+allein lob/ehr / unnd danck zugehört / in ei-
+nem Augenblick uns in allerding erkandte-
+nuß einführen möchte / so handelt er doch/
+nach dem es einem jeden Menschen nutz-
+lich ist / unnd seiner hohen **Mayestät** gefäl-
+lig / bald durch mittel / bald ohne mittel.
+*Nullo modo autem Adam, Abraham,
+Isaac &c: literati fuerunt. Nam, ut
+beatus Antonius rectè dixit, qui inte-
+gris utuntur sensibus, eruditione, quæ
+fit per literas, nō indigent. Sensus ille di-
+cebat non solum externos, sed mentem
+ipsam, ac memoriam, tùm rationē.* De-
+rowegē so hat Gott erstmals gegē den from-
+men lieben H. ohne **Schrifft** gehandelt /
+weil sie reines Gewissens inn allen dingen
+gewesen / daß an statt der Buchstaben sie
+den heiligen **Geist** gehabt. Unnd gleicher-
+weiß/als mit der Dinten die Papier Blet-
+ter/also waren ihre Hertzen vom Heiligen
+Geist geschrieben. Darumb dann Gott
+
+<vocab>Schöpffer, Handhaber, Mayestät, Adam, Abraham, Isaac, beatus Antonius, Schrifft, heiligen Geist</vocab>
+
+--- Page 58 ---
+<lang>deu</lang>
+<header>CLYPEUM VERITATIS.</header>
+
+weiter nicht allein Noe / Abraham ꝛc. sondern auch jhren nachkommen / dem Mose / Joseph / vnd andern nicht durch Buchstaben / vnd Schrifft / sondern durch sich selbst geredet / dieweil er jhre Hertzen rein befande. Nach dem aber alles Jüdische Volck in Laster gefallen / allda sind jhnen die Tafel / vnd Schrifft gegeben worden.
+
+Vnnd gleicher massen ist es auch im neuen Testament hergangen : Dann Christus den Aposteln nichts geschriebens gegeben hat / sondern an statt der Schrifft jhnen versprochen den heiligen Geist zusenden / welcher sie inn alle warheit laiten solle. 
+
+> Quemadmodum Propheta Amos olim inter pecudum pascua divino fuit afflatus numine. 
+
+Vnnd eygentlich so were diß die allerbeste / seeligste weiß zulernen / wo sie Gott dem Hertzen zu jederzeit außzutheilen gefällig were. Dieweil aber wir auch vnns in Sünden gröblich übersehen / vnnd vns Gott durch die vermahnungen / vnd warnungen / so in den Buchstaben begriffen / wil weisen / vnd gelehrt machen / hat er alles durch seine ohne mittel / vnnd mit mittel darzu beruffene Diener / dergleichen
+
+<meta>catchword: chen</meta>
+<vocab>Noe, Abraham, Mose, Joseph, Jüdische Volck, Testament, Christus, Aposteln, heiligen Geist, Propheta Amos</vocab>
+
+--- Page 59 ---
+<lang>de</lang>
+<header>CLYPEUM VERITATIS.</header>
+<sig>D iij</sig>
+<meta>catchword: dem</meta>
+
+chen vocation wir vns auch mit vnbefleck=
+tem/ vnversehrtem conscientz anmassen/
+vffbehalten / vnnd so wol andere/ als der
+Propheten/ Aposteln / vnnd Evangelisten
+Schrifften erhalten/ vnnd conservieret,
+damit ein jeder alles deß jenigen theilhafftig
+gemacht würde / nach dem jhme ein Pfund
+solle verliehen / vnnd wessen Gott jhn inn
+himmlischer / oder jrrdischer wissenschafft
+würdig halten würde / Sintemal er allein
+der ist/ so Paulus pflantzt/ vnnd Apollo be=
+geußt/ welcher das gedeyen gibet : worinnen
+weil wir nichts in abredt stehn / sondern mit
+Hertzen vnd Mund erkennen vnnd beken=
+nen / sind wir vffs wenigste der zuver=
+sicht/ es werden fürwitzige / schnelle Köpff
+sich ins künfftig gegen vns besserer beschei=
+denheit gebrauchen / vnnd als Christen ge=
+bührt / jhr vnerträglichs <term>calumnieren</term>,
+schänden/ schmähen/ vnnd übel nachreden
+vnterlassen/ vnd einstellen.
+
+Du aber/ Christlicher / Sanfftmüti=
+ger/ würdiger Leser/ lasse dich nichts jr: ma=
+chen/ sondern erwarte getrost / vnnd vnver=
+zagt deiner erlösuug / damit du dermal eins
+mögest vollkommen werden / vnnd **G**Ott
+
+<vocab>vocation, conscientz, Pfund, Paulus, Apollo, calumnieren, erlösung</vocab>
+
+--- Page 60 ---
+<lang>de</lang>
+<header>CLYPEUM VERITATIS.</header>
+<meta>catchword: Ne</meta>
+
+dem Allmächtigen inbrünstiglich dafür
+danck sagen / daß er sowol an den menschen-
+kindern gethon / vnd jhnen alles vnter jhre
+Füße gegeben / daß sie herrschen mögen von
+einem ende der Welt biß zu dem andern.
+
+Gott der Vatter vnsers lieben HErrn
+JEsu Christi / ein Gott der Warheit / vnd
+Vatter alles trosts / vnd freuden / wolle sein
+angefangen werck volführen / vnd gewal-
+tiglich zum ende bringen / zu seines Na-
+mens lob vnd ehr / vnd aller glaubigen se-
+ligkeit / zum endlichen vrtheil vnd straff der
+stolzen vñ vnglaubigen Abgötter des Sa-
+thans sampt seinen Engeln / Amen.
+
+Datum zu Thunis den 2 1. Februarij /
+Anno 1618.
+
+->*Ad Mandatum gloriosæ*<-
+->*Fraternitatis proprium*<-
+
+->Irenæus Agnostus C. W. ejus-<-
+->dem Fraternitatis per<-
+->Germaniam indignus<-
+->Notarius.<-
+
+<vocab>Clypeum Veritatis, Irenæus Agnostus, Fraternitas, Thunis, Friedrich Grick, Rosicrucianism</vocab>
+
+--- Page 61 ---
+<lang>Latin</lang>
+<sig>D 4</sig>
+<meta>catchword: Et cre-</meta>
+
+# EPIGRAMMATA.
+
+Ne aliquot pagellæ vacarent, adjuncta 
+est **DODECAS EPIGRAMMATUM** ad 
+Calend. Januarii Anni 1615. **FRATRI-**
+**BUS R. C.** strenæ loco à F.G. Me-
+napio transmissa.
+
+->I.<-
+
+**S**Ectari Frater se dicit dogmata linguâ
+*Lutheri*, ejusdem dogmata mente negat. 
+Non quisquam melius *Lutheri* dogmata servat, 
+Si simulata sedet pectore relligio. 
+Desine fallaci mendacia fingere linguâ, 
+Si potes, & fictâ non cole mente Deum.
+
+->II.<-
+
+Res mira est : Roseus Frater Sathanæq; Deoq; 
+Uno, eodemq; potest fundere corde preces. 
+An qua placatum Sathanam veneratur, eadem 
+Perfidus irritat relligione Deum?
+
+->III.<-
+
+Immemor horarum vivens, & fluxilis ævi, 
+Ante oculos summi nil nisi culpa Dei est. 
+Et tamen à cuncta se Frater labe remotum 
+Censet, ad interitum turba parata suum. 
+Væ tibi qui purum jactas sine crimine pectus, 
+Impurum verò simplice veste tegis. 
+Non ignota Deo tua sunt perjuria: cordis 
+Ille tui judex intima sensa videt.
+
+->IV.<-
+
+Vita quid est hominum? nisi vallis plena dolorū, 
+Anxietas animi, continuusq; labor.
+
+<vocab>Epigrammata, Dodecas, Fratribus R.C., Rosicrucian, Lutheri, F.G. Menapius, Sathanæ</vocab>
+
+--- Page 62 ---
+<lang>Latin</lang>
+<meta>catchword: Futi-</meta>
+<vocab>Epigrammata, coluber, Sophiæ, Tammas, Turcas, mentis</vocab>
+
+## EPIGRAMMATA.
+
+*Et brevis, & misera est, variis jactata procellis,*
+*Fertur ut in medio parvula cymba freto.*
+*Hac vos quis, Fratres, exsolvit lege, quod estis*
+*Corpore mortali, sed sine morte tamen?*
+*Ponere scit veteres coluber reparabilis annos,*
+*Et novus, exuta pelle, resurgit humo.*
+*Illius exemplo, quoties vos vultis, amictus.*
+*Induitis veteri mole novos positâ?*
+
+->V.<-
+
+*Mendacis concussa diu fundamina turbæ,*
+*Indomito Veri turbine, & igne cadent.*
+*Hinc fuge gens Sophiæ chara, hinc fuge gens pia,*
+*Insanis ne te tristia fata premant. (mistam*
+
+->VI.<-
+
+*Scilicet immodicis bullantes ignibus ollæ,*
+*Effuso in cineres undiq; jure fluunt:*
+*Sic insurgenti, Frater vesane, superbo*
+*Impendet capiti dira ruina tuo.*
+
+->VII.<-
+
+*Rettulit ingentes Tammas hoc nomine laudes,*
+*Fratrum esset pressus quod licet invidiâ,*
+*Nil tamen insultus horum curarit, & iras,*
+*Sed Turcas dextra vindice contuderit.*
+*Haud equidem invideo vobis mendacia vestra.*
+*Virtutis comes est invidiæ rabies.*
+
+->VIII.<-
+
+*Artis egens, & mētis innops sine pectore Frater*
+*Mentitur populo turpia verba suo.*
+*Non vir, sed vani potius dicatur imago,*
+*Qui vulgus famâ, non ratione regit.*
+
+--- Page 63 ---
+<lang>la</lang>
+<sig>D 5</sig>
+<meta>catchword: Tunc</meta>
+
+# EPIGRAMMATA.
+
+## IX.
+
+Futilibus solida haud capitur sapientia nugis,
+Nec pictis dapibus pellitur esuries.
+At si scire nihil turpe est : furor impius ergo est,
+Averso tenebras lumine malle sequi.
+Forsitan hoc istis dandum esset sed malè amantes
+In mala conjectos non numeranda necant,
+
+## X.
+
+Nec quidquam stimulos in sana calce petisti
+Demens, offenso qui pede solus abis.
+Quapropter Chalybem in solidū torquere sagitas
+Desiste : in proprium verteris arma caput.
+
+## XI.
+
+Cum lupus, atq; agnus facili cum corde Leones
+Cum miti venient carpere gramen ove,
+Tunc concors rerum facies me pace renata,
+Vobis infestum conciliabit amor.
+
+## XII.
+
+Ter tibi quotidie praesentes postulo furcas,
+Qui scis te factis has meruisse preces.
+Devoveo madidis tam stultum corpus arenis,
+Frigida ut in ponto piscibus esca fores.
+Insani nullâ mens impia pace quiescat,
+Tabifico æternum mæsta furore fremat.
+Si te supplicio Rhadamanti traxerit ira,
+Non satis ad pœnas Tartarus unus erit.
+Et quanquam nihil hic violentus proficit ardor,
+Nec motos animos verba cruenta levant:
+Bella tamen tecum faciam, nec finiet iram
+Mors mihi, sed gelidis manibus arma dabo.
+
+<vocab>Epigrammata, sapientia, Chalybem, Rhadamanti, Tartarus, esuries, sagitas</vocab>
+
+--- Page 64 ---
+<lang>la</lang>
+<meta>
+catchword: Est
+</meta>
+
+# EPIGRAMMATA.
+
+*Tunc quoq; cū fuero vacuas dilapsus in auras,*
+*Exanimis manes oderit umbra tuos.*
+*Interea credam Superos rata vota daturos,*
+*Speq; tuæ poenæ perfide semper alar.*
+
+-> F I N I S. <-
+
+-> ψεῦδος καταβολὴ τὸν βίον λυμαίνεται <-
+
+## DECAS EPIGRAMMATUM
+-> strenæ loco Fratribus R. C à F. G. ME- <-
+-> NAPIO ad Calend. Januarii Anni <-
+-> 1616. transmissa. <-
+
+### I.
+
+**E** *N sacer ancipiti mirandus imagine Janus*
+*Jam revelit lucem, qua novus annus init.*
+*Quid igitur, Fratres, vobis pro munere mittam?*
+*Pauca dabo: ut præstem non mihi plura licet.*
+
+### II.
+
+*Nunc Rhodus, & Memphis taceant, nec splendi-*
+*Quod Mausoleum Caria fecit opus. (da jactet*
+*Omnia nam Rosei Fratris miracula vincit*
+*Fama Magi magni, semideiq; Viri.*
+
+### III.
+
+*Æternæ Veterum Famæ monumenta dicata,*
+*Posteritas positas suspicit & statuas.*
+*Desine mirari Lector: Germania Fratres*
+*Profert queis Veterum Fama facit statuas,*
+
+### IV.
+
+*Desine Roma tuos toties jactare Quirites,*
+*Major Teut onico cardine surgit honos.*
+
+<vocab>Epigrammata, Decas Epigrammatum, Janus, Rosicrucians, Fratribus R. C., F. G. Menapius, Rhodus, Memphis, Mausoleum, Caria, Germania, Quirites, Menander</vocab>
+
+--- Page 65 ---
+<lang>lat</lang>
+<meta>Manuscript page in a clear italic hand containing Latin epigrams, likely related to Rosicrucian themes (referencing "Frater Roseus"). The image quality is high with slight discoloration near the edges.</meta>
+
+# EPIGRAMMATA.
+
+*Est Frater Roseus, si verum est, maximus Heros,*
+*Martis, & Artis honor; Martis, & Artis amor*
+*Justitiæ fulcrum, Charitum decus, orbis ocellus,*
+*Et Pater in cœlis, Rexq₃ Soli, atq₃ Sali.*
+*O stolidos homines de se qui talia jactant,*
+*Et qui vera putat stultior esse potest.*
+
+->V.<-
+
+*Divitiis tantum Plutus, Mars ensifer armis,*
+*Artibus ingenuis doctus Apollo micat.*
+*At Frater Roseus divini nominis heres,*
+*Non sine laude soli, non sine laude poli,*
+*Si verum est vulgi fallax quod fabula narrat,*
+*Divitiis pariter, Marteq₃, & arte valet.*
+*Nonne ergo est illis potior? quoniam tria præstat,*
+*Quæ simul hi terni non potuere Viri.*
+
+->VI.<-
+
+*Discere quem juvat hîc Rosei quis culminis au-*
+*Extiterit, lecto hoc carmine certus erit. <gloss>(thor</gloss>*
+*Scilicet attonitus mendaci impostor ab igne*
+*Stultitiæ, hunc partum protulit ex cerebro.*
+
+->VII.<-
+
+*Non pardus degit leporem, vulturve columbā.*
+*Ordinis est vestri Sathanas Pater: Ergo doletis.*
+*Ad Patris exemplum sese componere natos?*
+
+->VIII.<-
+
+*Cerberus & Furiæ, quibus ardens utitur Orcus,*
+*Cum Plutone suo Persephonea Dea.*
+*Si proprio vellent, quod abominor, orbe relicto,*
+*Hoc nostro forsan quærere in orbe larem:*
+*Præsidium, Fratres, vestro commune locarent*
+*Corpore, & hoc cunctis jam foret una domus.*
+
+<vocab>Epigrammata, Frater Roseus, Rosicrucianism, Mars, Apollo, Plutus, Sathanas, Orcus, Persephonea, Cerberus, elegiac couplets</vocab>
+
+--- Page 66 ---
+<lang>Latin</lang>
+<meta>catchword: Avi-</meta>
+
+# EPIGRAMMATA.
+## IX.
+
+*Nunc quo Battiades inimicum devovet Ibin,*
+*Hoc ego devoveo teq_3, tuosq_3 modo*
+*Terra tibi fruges, amnis tibi deneget undas,*
+*Deneget afflatus ventus, & aura suos.*
+*Causaq_3 non desit, desit tibi copia mortis,*
+*Optatam fugiat vita coacta necem.*
+*Luctatusq_3 diu cruciatos Spiritus artus*
+*Deserat, & longa torqueat ante mora.*
+*Id precor, id precibus cupio deducere cœlo,*
+*Rex regum votis annue summe meis.*
+
+## X.
+
+*Flos modo vernalis languet succisus aratro,*
+*Rivulus ex antro de rupe fontis abit.*
+*Imbre tumet gravido, sed jam vaga bulla residit,*
+*Postquam conspicitur, mox fugit, atq_3 perit.*
+*Massa vitri tenuis leviter confringitur, artus*
+*Somnus habet, benè vix commeminisse potes.*
+*Umbra velut speculo levis evanescit imago,*
+*Avolat in ventos missus ab ore sonus.*
+*His citius cecidit Frater, licet omnia fluxa,*
+*Flos, aqua, bulla, vitrū, Somnus, imago, Sonus.*
+
+---
+
+->F I N I S.<-
+
+->τὸν δόλιον ἄνδρα Φεῦγε πὰρ ὅλον τὸν βιὸν.<-
+
+# DECAS EPIGRAMMATUM
+->à F. G. Menapio strenæ loco ad Ca-<-
+->lend, Januarii Anno 1617. Fratri-<-
+->bus R. C. transmissa.<-
+
+<vocab>Epigrammata, Battiades, Ibin, Menapio, strenæ, Januarii, 1617, Fratribus R. C., Rosicrucian, Latin, Greek</vocab>
+
+--- Page 67 ---
+<lang>lat</lang>
+<warning>The image shows some ink bleed-through from the reverse side of the page and some light staining along the bottom edge.</warning>
+<meta>catchword: At</meta>
+
+# EPIGRAMMATA.
+
+## I.
+
+**A**Vibus secundis vade Charteum munus,
+Exile quanquam te brevis velit Vates.
+Nam si modò Placere Fratribus possis,
+Nescire nil qui se, quod ipse non credo,
+Dicunt. Ibera jactet aureum flumen
+Terra ; suis odoribus superbus sit
+Arabs : tamen non nostra vicerint dona.
+
+---
+
+## II.
+
+Nocte sic premitis tenebricosa,
+Vos qui tot mala contulistis orbi,
+Non parvo studio, labore curâ?
+Non minore fidelitate, curâ,
+Si vobis tenuis Poeta versus
+Hos pro munere pessimo rependat,
+Aurum scilicet ære mutat ille.
+At quid tandem aliud Deis vel ipsis
+Gratus sed tenuis referre Vates
+Possit, quam numeros suos, modosq₃.
+
+---
+
+## III.
+
+Contemptrix hominum, ac superûm propago,
+En stultâ sine patre sati tellure Gigantes,
+Carpentes falsò magnorum facta Deorum,
+Montibus accumulant montes, ipsumq₃ minãtur
+Cœlicolûm regem superâ detrudere ab arce.
+Sed malè væsani cedent sine pectore nixus.
+
+---
+
+## IV.
+
+Vos solos sapere eruditionem
+Omnem, & omnia possidere solos,
+Quis curam neget esse vos Deorum?
+
+<vocab>Epigrammata, Vates, Ibera, Arabs, Gigantes, Coelicolum, eruditionem, væsani, tenebricosa</vocab>
+
+--- Page 68 ---
+<lang>Latin</lang>
+<header>EPIGRAMMATA.</header>
+
+At vos fallere credulos, & omnes
+Conpurcare gradus scientiarum,
+Quis non vos potius putabit esse
+Et turbam insipientem, & impolitam,
+Osores stupidosq; plumbeosq;,
+Et monstra, & cerebri Cyclopas atri,
+Secli incommoda, & omnium bonorum?
+
+### V.
+
+Ecce tibi Fratres læta ditione potentes,
+Auro beatos, inclytosq; viribus.
+Qui benè cognoscunt morbos, artemq; medendi,
+Sortis boni eventura fata aruspices.
+Nec tamen hæc jactant, nã sunt antiqua, sed inde
+Lætantur, & secum triumphant seriò
+Æternos illis dederit quod Iuppiter annos,
+Quod unicum sint seculi miraculum
+Sed mirum: patriâ mendicant munera pulsi,
+Nullaq; percutiente moriuntur manu,
+Et dum perspiciunt fictâ sub imagine cœlum,
+Fati sui non præmonentur symbolis:      (ther,
+Monstra ferunt. fateor, non mendax tellus & æ-
+Miranda vastus monstra pontus continet:
+At quid quæso potest Fratres monstrosius esse
+Quam omne, & nihil simul esse nugivenduli?
+
+### VI.
+
+Effigies dicunt quondam fabricasse Silenum,
+Forma quibus puræ simplicitatis erat:
+Pectore suo clauso misteria magna latebant,
+Qualia vix Samius noverat ille senex.
+Fallor ego, ut vidit, qui semper vectus Asellum,
+Errantis culpam vos meruere pati,
+
+<vocab>Epigrammata, Silenus, Samius senex, aruspices, nugivenduli</vocab>
+
+--- Page 69 ---
+<lang>la</lang>
+<header>EPIGRAMMATA.</header>
+<meta>The manuscript features a formal cursive hand with common early modern Latin abbreviations, specifically the 'que' abbreviation (represented here as q₃) and macrons for terminal nasals. The content concerns the Rosicrucian movement ("Fratres Roseæ Crucis").</meta>
+<vocab>Roseos Fratres, Roseæ Crucis, Rosicrucian, Sathanas, Epigrammata, Flora, Cato, Natura</vocab>
+
+Dum oblitus certe, quam cœpit condere, formæ,
+Vos similes fecit, quo vehebatur, equo?
+
+# EPIGRAMMATA.
+
+## VII.
+
+Cum Roseos Fratres rerum Natura videret,
+Et caritura suâ scripta, vel acta fide:
+Dixerat, Aut non sum, quæ sum, aut Natura
+secunda est.
+Aut impostores decipiunt miseros,
+Concutiuntq₃ suis mortales Dæmonis astu
+Præstigiis. Verum posterius fuerat.
+
+## VIII.
+
+Discipulus major num præceptore? quid hæres?
+Infensus vero Sathanas se vincere posse
+Desperat verum: mendacis factio Gentis
+Prodit, & artificem tentat superare Magistrū?
+
+## IX.
+
+Floribus idem odor est Veneris, ros educat idem,
+Eadem juventa, formæ par, idem frutex,
+Atq₃ eadem tellus succo nutricat eodem,
+Foventur auris iisdem, eodem sydere.
+Sic eadem Fratres pascunt mendacia, qui se
+Roseæ Crucis mendaciter socios vocant.
+Est Rosa flos vernans, atq₃ acceptissimus, & quo
+Nec spirat alter, aut renidet blandius:
+Sed turpis Fratrum ventosæ fabula linguæ
+Olentior fœris, & omni stercore est.
+
+## X.
+
+Audivit olim censor ille Romanus,
+Ludos jocosæ quando noveras Floræ,
+Cur in theatrum Cato severe venisti?
+An ideo tantum veneras ut exires?
+
+--- Page 70 ---
+<lang>lat</lang>
+<meta>catchword: 4. Scili-</meta>
+
+# EPIGRAMMATA.
+
+*At jure nunc Fraternitas stolida vestra*
+*Audiat, An ideo tantum ut exeat venit*
+*Confusa, vertens terga Risui nostro?*
+
+## FINIS.
+
+ψευδόμενος οὐδεὶς λανθάνει πολὺν χρόνον.
+ψεῦδος δὲ μισεῖ πᾶς σοφὸς καὶ χρήσιμος.
+
+# DODECAS EPIGRAMMA-
+# tum ad Calend. Januarii Anni 1618.
+# à F. G. Menapio strenae loco Fra-
+# tribus R. C. transmissa.
+
+### I.
+
+**P**Ro te qui paucos per tempora pauca libellos
+Scripsi nunc ipsum te tibi Frater habe.
+*Tu qua fronte novos partus susceperis illos*
+*Non scio, sed scio quod secla futura scient.*
+
+### II.
+
+*Nullo fateri vera te cum tempore,*
+*Nullo fateri vera cum dico loco,*
+*Quod scripseris mendacia, iratus mihi es,*
+*Et me tibi parem esse vis, imposterum.*
+*Scribo ergo jam mendacium: Mendacia*
+*Non vestra sunt mendacia, sed oracula.*
+
+### III.
+
+*Luna velut claro collustrans lumine terras*
+*Frustra allatrantes despicit alta canes:*
+*Sic veterum libros vos allatratis, & inde*
+*Index stultitiae spernitur ipse suae.*
+
+<vocab>Epigrammata, F. G. Menapius, Fratres R. C., Rosicrucian, Dodecas, 1618, Calendae Januarii, Fraternitas</vocab>
+
+--- Page 71 ---
+<lang>la</lang>
+<sig>E</sig>
+<meta>catchword: 10. Magna</meta>
+<vocab>Epigrammata, Prudentia, Fratres Roseis, Rosicrucians, Medea, Vates, Phryxeae</vocab>
+
+# EPIGRAMMATA.
+
+## IV.
+*Scilicet incudem insanit qui frangere duri*
+*Conetur ictu mallei.*
+*Et non insanit veterum qui perdere tentat*
+*Stultissimus Prudentiam?*
+
+---
+
+## V.
+*Ignavus coelum foedo qui conspuit ore,*
+*Non coelum, immo suos conspuit ipse sinus.*
+*Non aliter veterum stolidus contemptor, in illos*
+*Tot, quot verba jacit, mox sibi probra vomet.*
+
+---
+
+## VI.
+*Quod duro lima est ferro, messiq3 flagellum,*
+*Auro quod ignis est rudi;*
+*Fallor, id est vobis Crux aspera, ut inde reportet*
+*Vexatio silentium?*
+
+---
+
+## VII.
+*Incauto quicunq3 Rosas collegerit ungue,*
+*Non unquam illaeso legerit ungue Rosas:*
+*Hoc fugias, quicunq3 sapis, vel nomine, Fratres,*
+*Qui dant sub blandis spicula saeva Rosis.*
+
+---
+
+## VIII.
+*Stercora quod porcis, asinis quod carduus, hirco*
+*Quod Salices, Roseis hoc Fratribus improbus*
+*Et dolus, & vanae turpis fallacia mentis. (error,*
+
+---
+
+## IX.
+*Aurea doctiloquo Vates non unicus ore*
+*Vellera phryxeae commemoravit ovis.*
+*Heredes scelerum Medeae num estis, & artis,*
+*Pro quibus est toties esse coacta nocens?*
+
+--- Page 72 ---
+<lang>Latin</lang>
+<meta>
+catchword: 1. Si
+</meta>
+
+# EPIGRAMMATA.
+### X.
+*Magna viri magni vulgò hæc sententia fertur:*
+*Dimidium vitæ fermè dormitur : in illo*
+*Æquales spatio sapiens, & stultus habentur.*
+*Ergone consimiles fatuis vos estis, & omnes*
+*Dimidio vitæ nec hilum differtis ab istis?*
+
+### XI.
+*Cum tua non uno Frater perverse feratur*
+*Nomine stultitia, & totas præconia vires*
+*In tua cum populis laxet : quis te putet esse*
+*Non clarū, & vivum tristis post busta sepulchri.*
+*Non moritur quicunq̄ sui monumenta reliquit,*
+*Quæ quoniam de te jam millia multa supersunt,*
+*Illud habes, quo te lemurum soleris in æde.*
+
+### XII.
+*Postquam de Roseâ Cruce totum oneraverat or-*
+*Mendaci Frater garrulitate sua, (bem,*
+*Nunc restat, dixit, repetā stygij antra Draconis,*
+*Mox terram linquens tartara nigra petit.*
+
+->F I N I S.<-
+
+->Ἀλαζονείας οὔτις ἐκφεύγει δίκην,<-
+->Ὁ δὲ γραμμάτων ἄπειρος οὐ βλέπει βλέπων.<-
+
+## DODECAS EPIGRAMMA-
+## tum quam Florentino de Valentia
+## loco salutis mittit F. G. Me-
+### napius.
+
+<vocab>Epigrammata, Rosea Cruce, Florentino de Valentia, F. G. Menapius, Rosicrucian controversy, Friedrich Grick</vocab>
+
+--- Page 73 ---
+<lang>la</lang>
+<sig>E 2</sig>
+<meta>catchword: Ni-</meta>
+
+## EPIGRAMMATA.
+### I.
+
+*SI te forte gravis, vigilq; cura,*
+*Vel multæ nimis occupationes,*
+*Aut trux sollicitudo vexat ægrum,*
+*Et magnum opprobrium Viris egestas*
+*Florentine premit : molestiarum*
+*Pharmacum tibi noster hic Phaleucus,*
+*En Fratres oculis tuis videndos,*
+*Et vivos hominum videre vultus*
+*Præbet, quo recreare cor, malasq;*
+*Possis ex animo fugare curas.*
+*Tu dextra capias velim benigna,*
+*Ac vultu placido legas, & æqui*
+*Hæc munuscula consulas, boniq;.*
+*Verum tu qui oculos Amice Lector*
+*Huc vertis, mihi quæso monstra cerne.*
+*Sic olim Polyphemus ille Cyclops*
+*Æthneis habitavit in cavernis,*
+*Et centum similes ei Gigantes.*
+
+---
+
+### II.
+
+*Si domum fuerit tibi negatum*
+*Aspexisse stygis, vel hujus orbes,*
+*Hinc absunt quoniam, proculq; distant:*
+*Invisisse velis libros malignos,*
+*Quos Fratres Roseæ Crucis propinant,*
+*Non nunquam similes sibi per ævum,*
+*Illis dum superest, manetq; vita.*
+*Notabis modò vermium susurrum,*
+*Horrorem cyniphum, barathri opaci*
+*Pallentes Lemures, Canes, Dracones,*
+
+<vocab>Epigrammata, Phaleucus, Fratres Roseæ Crucis, Rosicrucians, Polyphemus, Cyclops, Lemures, cyniphum, barathrum</vocab>
+
+--- Page 74 ---
+<lang>Latin</lang>
+<meta>catchword: 8. Quem</meta>
+
+## EPIGRAMMATA.
+
+*Nigrantes Furias, Lupos, Leones,*
+*Monstrosamq; plagam lacus Charontis.*
+
+### III.
+
+*Nescio quē Fratrem describat Molther amicus,*
+*At mihi sub noctem si talis imago veniret*
+*Obvia, dispeream, nisi mox ego mortuus essem.*
+
+### IV.
+
+*Est <term>Paracelsus</term> iners deceptor: fictus <term>Agrippa</term>*
+*Illusor: revocat solis euntis equos*
+*<term>Trithemius</term>: sed quis deducit cornua Lunæ?*
+*Quis facit ad fontem ut versa recurrat aqua?*
+*Nequitiæ omnimodæ, fraudes priscæq; novæq;*
+*Quorum insunt aliis singula, cuncta tibi.*
+
+### V.
+
+*Dicite subsidium cui porrexistis amicum,*
+*Cui succurristis non remorante manu?*
+*Non sua, sed fratrum sincero corde procurat*
+*Commoda, qui puro quærit amore Deum.*
+*At vester quis sit, nobis Sacra pagina monstrat*
+*Frater, si vos non dejicit invidia.*
+
+### VI.
+
+*Est auri Frater congesto pondere dives,*
+*Possidet & pinguis jugera mille soli.*
+*Et tamen hospitibus si danda pecunia desit,*
+*Præbet is in celerem terga videnda fugam.*
+
+### VII.
+
+*Se fratrem Veri mentitus, dogmata Frater*
+*Omnia de vero lumine falsa refert.*
+*Disce prius quid sit verum cognoscere lumen.*
+*Non nitet obscurâ nocte serena dies.*
+
+<vocab>Epigrammata, Molther, Paracelsus, Agrippa, Trithemius, Charontis, dogmata</vocab>
+
+--- Page 75 ---
+<lang>la</lang>
+<sig>E 3</sig>
+<meta>catchword: DECAS</meta>
+<warning>There is a small circular stain/smudge in the center of the upper half of the page, partially obscuring text in epigram VIII, though it remains legible.</warning>
+
+# EPIGRAMMATA.
+### VIII.
+Quem Sathanas laqueo incurvū, vinctūqꝫ cate-
+Sic habet, ut Verum non queat adspicere, (nis
+Cur aliis Verum Frater monstrare laborat?
+Cur petit impietas quod lubet ut liceat?
+Niteris incassum tenebras offundere Vero
+Dæmon, nosqꝫ tuis illaqueare plagis.
+
+### IX.
+Frater Roseæ Crucis per omnia est malus,
+Seu rure degat, seu per urbes victitet.
+Quin ipse Dæmon quæstus est se vincier
+Ab his dolis, mendaciis, & fraudibus.
+
+### X.
+Te nunquam vidi, Frater, tamen horreo, cum te
+Saltem, tuosqꝫ nominare inaudio.
+Di faciant currura; etiam Wetzlarica, nunquā
+Mihi videre tale spectrum contigat.
+
+### XI.
+Ignotus Frater per terras currit, & urbes,
+Qui de Rosâ, atqꝫ Cruce sibi nomen facit:
+Ocior & Zephyris volat, & pernicior Euris,
+Suisqꝫ Tigres æquat Indas cursibus.
+Scribere qui vanum me censet inania Vatem,
+Visurus urbem veniat is Wetzlariam.
+
+### XII.
+En vera dicam, nec loquar mendacia,
+Nam falsa Vates quis canentis audiat?
+Aut stellio effascinator aut Magus,
+Aut ipse Dæmon Frater à Roseâ Cruce.
+
+# FINIS.
+
+<vocab>Epigrammata, Roseae Crucis, Rosicrucianism, Wetzlarica, Sathanas, Dæmon</vocab>
+
+--- Page 76 ---
+<lang>Latin</lang>
+<header>EPIGRAMMATA.</header>
+<warning>Brown stain obscuring part of the text in the first heading block, though text remains legible.</warning>
+
+# DECAS EPIGRAMMATUM
+## Quam
+# VITO DEL CAPO DE LA BONA
+## Speranza salutis loco mittit
+## F. G. MENAPIUS.
+
+->I.<-
+
+*Vitæ Crucis Roseæ Frater, quam nulla gubernat*
+*Te ratio, recti quam nihil ingenii?*
+*A vita forsan jactas te nomen habere,*
+*Sed vita, atq; annis non diuturnus eris,*
+*Forsitan ex normis Paracelsi cum Paramiro*
+*Vives? non omni hinc tutus ab interitu es.*
+*Ut tamen agnoscas Socios, quos diligis: ecce,*
+*Dum legis hos versus, tu quoq; lectus eris.*
+
+->II.<-
+
+*Roseæ Crucis professio, & scientia est*
+*Fratris. Valet nulla medendi indagine,*
+*In Jure nil est, in sacris nil litteris,*
+*Decreta Grammatices nihil novit magis,*
+*Trimus velut puer, propè eloquentiæ*
+*Ciceronianæ accedit, ut remotior*
+*Non esse possit, abditas rerum vices,*
+*Numeros, modos, mores, figuras negligit,*
+*Et neg; Geometer neg; Dialecticus*
+*Est, tantum abest ut alta cernat sidera.*
+*Jam quid bonæ vel attigit Poëseos?*
+*Quid est relatu dignum in historiis novis,*
+*Et veteribus simulq; miscellaneis*
+*In lucubrationibus quod didicerit?*
+
+<meta>catchword: Linguæ</meta>
+
+<vocab>Epigrammata, Decas, F. G. Menapius, Roseæ Crucis, Paracelsi, Paramiro, Ciceronianæ, Poëseos, Rosicrucianism</vocab>
+
+--- Page 77 ---
+<lang>lat</lang>
+<sig>B 4</sig>
+<warning>A circular brown stain or burn mark is present in the upper center of the page, partially obscuring text in the first epigram.</warning>
+
+# EPIGRAMMATA.
+
+*Linguæ Palæstinæ, Latinæ, & atticæ*
+*Ignarus est, sermone plebeio utitur.*
+*Quid ergo scit <term>Roseæ Crucis</term> Frater? Nihil,*
+*Quam quod crepat creata cuncta esse ex tribus,*
+*Sale, <term>Alazothe</term>, fœtidoq₃ Sulphure.*
+
+## III.
+
+*Quod nunc illustrata suis Germania rebus*
+*Nascitur, est vestri non leve Martis opus?*
+*Si quis <term>ὄνους</term> erit, varias qui digerat artes,*
+*Tunc credam Fratres composuisse libros.*
+
+## IV.
+
+*Ostendat sua cur stupidæ magnalia turbæ*
+*Cuiq₃ malo Frater pollicitatus opem?*
+*Cur sese fatuis potiùs commendat, & artem*
+*Non doctis latitans exhibet ille Viris?*
+*Scilicet indignis parit ignorantia nomen.*
+*Erronum ne vos non imitabor Ego.*
+
+## V.
+
+*Quo tendis male sane, vel quid erras*
+*Longa ambage diu, morasq₃ perdis?*
+*Cur te nunc Libyæ calentis ardor*
+*Exurit stolidum, feracis agri*
+*Nunc pingues Asiæ, trucesve persæ,*
+*Nec non Æthyopes, nigriq₃ Mauri*
+*Detinent, Batavi, meiq₃ Flandri,*
+*Hispani, Veneti, Scoti, Britanni,*
+*Germanus quoq₃, frigidusq₃ Moscus,*
+*Et juncti simul Hungaris Poloni?*
+*Forte quod careas solo paterno,*
+*Ut solent <term>Cigani</term> hinc & inde campis*
+*Incertis iter ingredi vagantes?*
+
+<vocab>Epigrammata, Roseæ Crucis, Rosicrucians, Alazothe, Sulphure, alchemy, Germania, Cigani, Gypsies, Latin, Greek</vocab>
+
+--- Page 78 ---
+<lang>lat</lang>
+<warning>There is a small circular brown stain on the first epigram, partially obscuring the word "inter".</warning>
+<meta>catchword: 10. In</meta>
+
+# EPIGRAMMATA.
+
+->VI.<-
+
+Tu Frater, nullâ qui certâ sede moraris,
+Quæ fama de te prædicat,
+Si Verum est: <unclear>inter</unclear> sacras senuisse Camænas,
+Ac profuisse moribus
+Debueras. Nunc cur pubes Germana Magi-
+Incognitis obtemperet? <gloss>(stris</gloss>
+
+---
+
+->VII.<-
+
+Stulte tuos flet natales Germania Frater
+Natalibus misera tuis.
+Quis verò, & qualis sis, scripta loquūtur abundè,
+Quæ publicastis hactenus.
+De vita si quis rogitet, Wetzlaria dicet,
+Necromanticum te pessimum.
+
+---
+
+->VIII.<-
+
+Formosæ, lepidæq; Rosæ non mollius extat
+Nomen, purpureis dum placet illa comis.
+At tibi non Rosidus color est, tamen ipse vocaris
+Putidus indignè nomine tam lepido.
+Esse <term>κατ' ἀντίφρασιν</term> cognomen & istud adeptum
+(Sicut & Eumenides) te quoq; crediderim.
+
+---
+
+->IX.<-
+
+Stultior, an peior, nostra haud finire pot est as:
+In te nam certant hæc malefida simul.
+Non te pro meritis possem describere Frater,
+Nam superat Musam pessima vita meam.
+<margin>☿</margin> Purgarunt Magni magno, multoq; labore,
+Barbarico fuerant quæ vitiata luto.
+Vos stolidis vestris nugis pervertitis Urbes,
+Et conspurcatis quidquid in Orbe bonum est.
+
+<vocab>Epigrammata, Wetzlaria, Camænas, Eumenides, κατ' ἀντίφρασιν, Germania, Necromanticum, potestas</vocab>
+
+--- Page 79 ---
+<lang>lat</lang>
+<warning>There is a brown stain affecting the third and fourth lines of the first Latin epigram.</warning>
+<meta>Catchword: 2. Quæ-</meta>
+
+# EPIGRAMMATA.
+
+->X.<-
+
+In terras prono rueret ne pondere coelum,
+&nbsp;&nbsp;&nbsp;&nbsp;Supposuit coelo brachia magnus *Atlas*.
+Ne rueret *Sophiæ* arx rabiosa fraude subacta est
+&nbsp;&nbsp;&nbsp;&nbsp;Oppositis Scribtis stulta *Chimæra* meis.
+
+->FINIS.<-
+
+## AD GALENISTAS VEROS
+## MEDICOS.
+
+Van quaeden nam-gelyck de Ram,
+Ist *Theophrast*- met synen blast.
+Hy ist een foot groot, gelyct-blyckt
+&nbsp;&nbsp;&nbsp;&nbsp;int synen boecken.
+Want den Alcomist- seer vel verquist
+&nbsp;&nbsp;&nbsp;&nbsp;aen goet en tyt
+Ghelt, goet, en schat-heeft hy gehat
+&nbsp;&nbsp;&nbsp;&nbsp;maer ist nu quyt
+Hy vint int vier-gans niet een sier
+&nbsp;&nbsp;&nbsp;&nbsp;dan syn bederven,
+Ind' eynde dan-moet hy arm Man
+&nbsp;&nbsp;&nbsp;&nbsp;int gasthuys sterven
+Maer ghy doet recht-schlecht,
+&nbsp;&nbsp;&nbsp;&nbsp;Met goet avis-gewis,
+&nbsp;&nbsp;&nbsp;&nbsp;En groot verstand-erkant.
+Dat ghy *Galen*-twelck is rein-allein
+&nbsp;&nbsp;&nbsp;&nbsp;Onderteecken.
+
+# APPENDIX.
+
+->I.<-
+
+Consule quæso boni ductos è paupere versus
+Venâ, quos parvos mitto: & sua gratia parvo est
+
+<vocab>Epigrammata, Atlas, Sophiæ, Chimæra, Galenistas, Medicos, Theophrast, Alcomist, Galen, Appendix</vocab>
+
+--- Page 80 ---
+<lang>Latin</lang>
+<meta>Catchword: Non. Image quality: Good, minor central staining.</meta>
+<warning>Minor ink staining in the center of the page between epigrams II and III.</warning>
+
+# EPIGRAMMATA.
+
+## II.
+
+*Quo te precipuè commendem nomine Frater?*
+*Stultus es, & tamen es sic Sophus, ut Magus es.*
+
+## III.
+
+*Quæsivi nomen quod possem fingere, par quod*
+*Occultis Fratum fraudibus esse queat.*
+*Responsum est paucis: Dic saltem Frater, & illud*
+*Omnis nequitiæ nomen habes proprium.*
+
+## IV.
+
+*Si populi legar ore Crucis bonæ Frater honoris*
+*Accipies partem, læta trophæa Ducis*
+*Sin, sed enim verbis & pondus, & omen abesto,*
+*Mox piperis nigri sordida vestis ero:*
+*Non tamen idcirco tibi displicitura putabo,*
+*Munera præsentis officiosa libri.*
+*At sunt fatidici Vatis præfagia vera,*
+*Vt per plura meam secula carmen eat.*
+*Ergo una mecum memori celebraberis ævo,*
+*Et tibi scribta vetus per mea nomen erit.*
+
+## V.
+
+*Quidquid agã, Frater, seu quo me vertere ten-*
+*Seu nihil, ut soleo, desidiosus agam,* <gloss>(tem</gloss>
+*Ante oculos tua mi assiduè observatur imago,*
+*Unaq; tristitiam gignit amara meam.*
+*Angor enim, quod te cupiam vivente moriri,*
+*Vivere sed sospes te moriente velim.*
+*Quis dicat, quod te vulgari amplectar amore?*
+*Hac face rara Deus tangere corda solet.*
+
+<vocab>Epigrammata, Frater, Sophus, Magus, Crucis, Ducis, Vatis, imago, moriri, scribta</vocab>
+
+--- Page 81 ---
+<lang>la</lang>
+<header>EPIGRAMMATA.</header>
+
+# EPIGRAMMATA.
+
+->VI.<-
+
+Non quæcunq₃ truces adhibent tormenta Ty-
+Sufficiant veftris, Frater iniq₃, dolis. (ranni
+Enfis, fuftis, acus, candentis lamina ferri,
+Crux, reftis, furcæ, pix, rota, robur, equus.
+
+->VII.<-
+
+Ut raucam tuſſim, ſiccamq₃ rosaceus humor,
+Et grave ſpirandi solet asthma levare: probroſi
+Sic contra Fratris faux in Cruce ſtricta funeſtâ,
+Ut vox intercepta eſt, ſpirandiq₃ facultas,
+Latrantes corvos furtiva ad pabula paſcit.
+
+->VIII.<-
+
+Fibroſum cerebrum vernante refrigerat aura
+Flos veneris, bili nec finit eſſe locum.
+Languorem infringit capitis, viniq₃ Vaporem,
+Morbus abit, bibulo ſobrietasq₃ redit.
+Quid Roſei Frates? fumis volantibus implent
+Mortales animos, efficiuntq₃ brevi
+Ex ſanis ebrios: faciunt ſtulteſcere ſecum,
+Qui credunt illis, quos ſtupor urget iners.
+
+->IX.<-
+
+Ecce Roſam, inſideant cui roſtro inſecta nocivo,
+Papilio, bruchus, veſpa, locuſta, culex,
+Trox, coſſus fullo, ſcaravæus, aranea, aſellus,
+Curculio, volvox, crabro, pyrauſta, cimex,
+Lumbrici, muſcæ, termes, ſcolopendra, bupreſtis:
+Cuncta venenoſis hic aconita latent.
+
+->X.<-
+
+O una ante alias omnes venerabilis arbor,
+Quæ Roſeo Domini tincta cruore mades.
+
+<meta>catchword: O unà</meta>
+
+<vocab>EPIGRAMMATA, Tyranni, Crux, reftis, asthma, Fratris, Roſei Frates, inſecta, aconita, venerabilis arbor</vocab>
+
+--- Page 82 ---
+<lang>Latin</lang>
+<meta>
+catchword: Dum
+image_quality: clear
+</meta>
+
+# EPIGRAMMATA.
+
+*O una ante alias omnes maledicta caterva,*
+*Quae se de Roseâ hac nominat atra Cruce.*
+
+### XI.
+
+*Cuncta docere Crucis Roseae vult Frater, & ipse*
+*Nil scit. Quod res est, mentis eget fatuus.*
+
+### XII.
+
+*Quod tua sint Frater non falsũ est, aurea scripta:*
+*Purgari solo nempe quod igne queunt.*
+
+### XIII.
+
+*Frater, quantum in te est, alienos ducere tentas:*
+*Galenum spernis, spernis Aristotelem.*
+*Ah pereas prius, & saevo te fulmine tactum*
+*Trudat in obscuras Juppiter ipse domos.*
+
+### XIV.
+
+*Quisquis Galeno non credit certa docenti,*
+*Sed Rosei Fratris quaerit, amatq; strophas,*
+*Ad haec per canones Theophrasticũ Paragranũ,*
+*Se fieri verum posse putat Medicum:*
+*Per Syrtes, per saxa, per antra, per arma, per ig-*
+*Tendit ad infernas nõ revocandus aquas. (nes*
+
+### XV.
+
+*Frater, qui fruuges speret se aequare canendo*
+*Posse tuas, idem pulsantes littora fluctus,*
+*Et Libycas numero cõprehendere tentet arenas.*
+
+### XVI.
+
+*Quisnã, o Frater iners, vestrã admittetur in aulã?*
+*Qui nulla ingreditur macula suffusus, amatq;*
+*Ex animo rectũ? Non. Sed cui subdola lingua est,*
+*Incautum verbis sine nomine fallere vulgus,*
+*Quem mutare fidem toties jactura coëgit,*
+
+<vocab>Epigrammata, Rosea Crux, Galenus, Aristoteles, Juppiter, Theophrasticum Paragranum, Syrtes, Libycas, Rosicrucianism</vocab>
+
+--- Page 83 ---
+<lang>Latin</lang>
+<meta>The text is primarily in italics with headings and closing in Roman font. The use of "qȝ" as an abbreviation for "que" is consistent throughout. The orthography includes ligatures (æ, œ) and various diacritics (grave, circumflex, diaeresis).</meta>
+
+# EPIGRAMMATA.
+
+Dum ex auro vero non aurum fecit adulter.
+
+## XVII.
+
+*Ne sperne quæso consili quod do tibi,*
+*Quodqȝ mihi, nec serò capio.*
+*Tu maximè cui flore nunc primo rudes*
+*Juventa vestivit genas,*
+*A veritate scurris a vocantibus*
+*Occludito aures, & fuge:*
+*Canora monstra ut auribus cerâ oblitis*
+*Laërtis effugit puer.*
+
+## XIIX.
+
+*Ulterius pergam turpissima facta notare*
+*Fratris, quo peius nil gravis orbis habet?*
+*Nil minus: At taceo. Satis hunc dixisse putan-*
+*dum est,*
+*Se quicunqȝ satis dicere posse negat.*
+
+## XIX.
+
+*Claudite jam rivos: sat dixi. Vosqȝ Valete*
+*Æternum ô animæ sceleratæ, incoctaqȝ fraude*
+*Pectora, & ignavo citò pervia corda timori.*
+*Tempus erit, pœnam quo solvas Frater acerbam,*
+*Dum vel præbebis peregrino guttura ferro,*
+*Vel tibi sponte tua conscisces vulnere lethum,*
+*Unguibus aut rostro tardus trahet ilia vultur,*
+*Nudave direptâ sudabunt visce a pelle.*
+*Elige nunc mortis genus ô Cyclopica proles.*
+*Nam tibi pernicies spatiis brevioribus instat,*
+*Teqȝ vocat dudum monstrosi portitor Orci.*
+
+## FINIS.
+
+<vocab>Epigrammata, Laërtis, Orci, Cyclopica proles, portitor, epigram, Latin poetry</vocab>
+
+--- Page 84 ---
+<lang>Unknown</lang>
+<warning>This page is a blank flyleaf or endpaper. It contains no primary handwritten or printed text. Large water stains are visible in the upper right quadrant, and there is significant bleed-through of text from the reverse side of the leaf. A faint, possibly modern, pencil inscription is visible near the bottom.</warning>
+
+<meta>blank page, water damage, bleed-through, endpaper</meta>
+
+<insert>
+<unclear>21034</unclear>
+</insert>
+
+<vocab>blank page, flyleaf, endpaper, water stain, bleed-through, accession number</vocab>
+
+--- Page 85 ---
+<lang>und</lang>
+<meta>This is a blank flyleaf or endpaper with visible water staining in the upper left and minor foxing throughout. There are two very small, isolated handwritten marks: what appears to be a '4' on the left and an '8' or 'B' near the center.</meta>
+<warning>The page contains no transcribable text or linguistic content.</warning>
+
+<vocab>blank page, water stains, foxing</vocab>
+
+--- Page 86 ---
+<lang>None</lang>
+<warning>This is a blank page, likely a flyleaf or endpaper. It contains no legible text or deliberate illustrations. There is significant water staining at the top and some minor foxing throughout.</warning>
+
+<vocab></vocab>
+
+--- Page 87 ---
+<lang>Latin</lang>
+<meta>Title page of a 17th-century Rosicrucian publication. The paper shows texture and some light staining/foxing.</meta>
+
+## CENTO
+# VIRGILIANUS
+### DE
+## FRATRIBUS ROSEÆ
+## CRUCIS
+
+<note>Emblem motto: GLORIA VIRTUTE PARATUR.</note>
+
+->Authore<-
+
+->F. G. MENAPIO.<-
+
+---
+
+->M D C, XIIX.<-
+
+<margin><note>Small pencil notation: 2.</note></margin>
+
+<vocab>Cento Virgilianus, Rosicrucianism, Fratres Rosae Crucis, F. G. Menapius, Latin, 17th century</vocab>
+
+<detected-images>
+[{"description": "An emblematic woodcut showing an eagle with outstretched wings standing upon a terrestrial globe, holding an open book. A decorative scroll arches over and around the scene with the Latin motto 'GLORIA VIRTUTE PARATUR.'", "type": "emblem", "bbox": {"x": 0.128, "y": 0.391, "width": 0.485, "height": 0.254}, "gallery_quality": 0.85, "museum_rationale": "This is a significant Rosicrucian emblem from the early 17th century, representing the synthesis of worldly knowledge (globe) and spiritual or intellectual virtue (eagle and book)."}]
+</detected-images>

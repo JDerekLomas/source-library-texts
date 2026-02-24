@@ -1,0 +1,28 @@
+{
+  "id": "6992cdc043713c66ea638565",
+  "title": "三才圖會(五十)",
+  "display_title": "三才圖會(五十)",
+  "author": "王圻, 王思義",
+  "language": "Chinese",
+  "year": 1609,
+  "published": "1609",
+  "pages_count": 90,
+  "pages_with_ocr": 90,
+  "pages_with_translation": 72,
+  "source_url": "https://sourcelibrary.org/book/6992cdc043713c66ea638565",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "02098317.cn"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:05.817Z",
+  "_hashes": {
+    "ocr": "7ab5fcac355dda61",
+    "translation": "8b48642e89201a49"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "69942eafb2f6748db4abf429",
+  "title": "Empedoclis et Parmenidis Fragmenta ex Simplicii Commentariis",
+  "display_title": "Empedoclis et Parmenidis Fragmenta ex Simplicii Commentariis",
+  "author": "Empedocles; Parmenides; in Simplicius; ed. Amedeo Peyron",
+  "language": "Greek",
+  "year": 1810,
+  "published": "Unknown",
+  "pages_count": 88,
+  "pages_with_ocr": 88,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/69942eafb2f6748db4abf429",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "empedoclisetparm00empeuoft"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:29:08.685Z",
+  "_hashes": {
+    "ocr": "e7f3d261fb1c1ca3",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

@@ -1,0 +1,2184 @@
+--- Page 1 ---
+<lang>zh</lang>
+<meta>Title slip on dark blue cover with traditional Chinese stab binding</meta>
+
+<insert>
+
+# 三才圖會
+
+</insert>
+
+<vocab>三才圖會, Sancai Tuhui, Wang Qi, Ming Dynasty, Encyclopedia, Leishu, traditional binding</vocab>
+
+<detected-images>
+[{"description": "Vertical title slip (shuming) containing the characters '三才圖會' in a white rectangular border on a dark blue book cover.", "type": "decorative", "bbox": {"x": 0.053, "y": 0.038, "width": 0.218, "height": 0.722}, "gallery_quality": 0.7, "museum_rationale": "Classic example of a Ming-style 'leishu' (encyclopedia) cover design, featuring a prominent title label and visible silk thread binding on the right edge."}]
+</detected-images>
+
+--- Page 2 ---
+<lang>Chinese</lang>
+<page-num>一</page-num>
+<header>三才圖會 人事三卷</header>
+
+# 三才圖會
+
+## 人事三卷
+
+->雲間允明父王思義編集<-
+
+---
+
+永字八法圖
+
+永字變化七十二勢圖
+
+草訣百韻圖
+
+隸字圖
+
+<vocab>三才圖會, 人事, 王思義, 永字八法, 草訣百韻圖, 隸字</vocab>
+
+--- Page 3 ---
+<lang>Chinese</lang>
+<page-num>二</page-num>
+<header>三才圖會</header>
+<meta>卷三</meta>
+<vocab>永字八法, 蔡邕, Calligraphy, 八法, 三才圖會</vocab>
+
+## 永字八法圖
+
+<insert>
+側
+勒
+弩
+趯
+策
+掠
+啄
+磔
+</insert>
+
+點為側 橫為勒 竪為弩
+
+挑為趯 左上為策 左下為掠
+
+右上為啄 右下為磔
+
+八法乃蔡邕所書古人用筆
+之術多於永字取法以其八
+法之勢能通一切勢也
+
+<detected-images>
+[{"description": "Diagram of the 'Eight Principles of Yong' (永字八法), showing the character '永' with labels (Cè, Lè, Nǔ, Tì, Cè, Lüè, Zhuó, Zhé) for each of the eight fundamental brush strokes in Chinese calligraphy.", "type": "diagram", "bbox": {"x": 0.243, "y": 0.165, "width": 0.442, "height": 0.323}, "gallery_quality": 0.85, "museum_rationale": "A classic instructional diagram from the Ming Dynasty encyclopedia 'San Cai Tu Hui', documenting the foundational principles of East Asian calligraphy attributed to Cai Yong."}]
+</detected-images>
+
+--- Page 4 ---
+<lang>zh</lang>
+
+# 變化七十二勢圖
+
+## 一側化一十四法
+
+### 運筆法 落起走住疊圓回藏
+
+---
+
+## 怪 石
+
+<gloss>住</gloss> <gloss>走</gloss> <gloss>圓</gloss> <gloss>回</gloss> <gloss>疊</gloss> <gloss>藏</gloss> <gloss>抱</gloss>
+
+---
+
+## 龍 爪
+
+<gloss>走</gloss> <gloss>住</gloss>
+<gloss>圓</gloss> <gloss>疊</gloss>
+<gloss>藏</gloss> <gloss>抱</gloss>
+<gloss>先細後<unclear>肥</unclear></gloss>
+<gloss>出</gloss> <gloss>落</gloss>
+
+<vocab>變化七十二勢圖, 運筆法, 怪石, 龍爪, 側, 勢, calligraphy, brushwork, 永字八法</vocab>
+
+<detected-images>
+[{"description": "Calligraphic diagram illustrating the brushwork for the 'Strange Rock' (怪石) stroke, annotated with technical instructions like 'stay', 'move', and 'round'.", "type": "diagram", "bbox": {"x": 0.25, "y": 0.26, "width": 0.35, "height": 0.21}, "gallery_quality": 0.85, "museum_rationale": "Fine historical example of Chinese calligraphy instructional materials, showing the internal dynamics of brush strokes."},
+{"description": "Calligraphic diagram illustrating the brushwork for the 'Dragon Claw' (龍爪) stroke, annotated with technical instructions and thickness variations ('thin first, then fat').", "type": "diagram", "bbox": {"x": 0.25, "y": 0.55, "width": 0.45, "height": 0.29}, "gallery_quality": 0.85, "museum_rationale": "Technical manuscript illustration detailing complex brush movements in classical Chinese calligraphy."}]
+</detected-images>
+
+--- Page 5 ---
+<lang>zh</lang>
+
+# 梅核 杏仁
+
+->**五法 高尖下圓旁楞背直肚彎**<-
+
+<gloss>木直楞</gloss>
+<gloss>彎</gloss>
+<gloss>背</gloss>
+
+---
+
+## 懸珠
+
+->**凡正點為君帶絲為臣**<-
+
+->**絲入四點**&emsp;**帶出**&emsp;**少帶**&emsp;**不帶絲**<-
+
+->**不許帶重臣欺君則不可**<-
+
+<vocab>梅核, 杏仁, 懸珠, 五法, 君, 臣, 帶絲, 木直楞</vocab>
+
+<detected-images>
+[{"description": "Diagrams illustrating the 'Plum Stone' (梅核) and 'Apricot Kernel' (杏仁) calligraphic or painterly strokes, labeled with anatomical parts like 'back' and 'curve'.", "type": "diagram", "bbox": {"x": 224, "y": 254, "width": 530, "height": 161}, "gallery_quality": 0.8, "museum_rationale": "Educational diagram from a historical Chinese manual detailing specific brushwork techniques with metaphorical naming, reflecting traditional pedagogy."},
+{"description": "Diagram of four 'Suspended Pearl' (懸珠) dots showing different degrees of trailing 'silk' (帶絲), illustrating the hierarchical metaphor of 'ruler and minister'.", "type": "diagram", "bbox": {"x": 235, "y": 648, "width": 454, "height": 133}, "gallery_quality": 0.8, "museum_rationale": "A clear pedagogical illustration of dot strokes in Chinese ink arts, highlighting the conceptual relationship between the main stroke and its finish."}]
+</detected-images>
+
+--- Page 6 ---
+<lang>zh</lang>
+<header>三才圖會 人事三卷</header>
+<page-num>二十一</page-num>
+
+# 羣 鵲 　 鐵 鈴
+
+<gloss>三點排勾上撇蓋蕨空勾則可</gloss>
+
+---
+
+# 瓜 種 　 龜 頭
+
+<gloss>
+尖
+斜倒身
+上角
+下圓
+</gloss>
+
+<gloss>
+上粗
+下長
+中放
+斜勢
+</gloss>
+
+<vocab>三才圖會, 人事, 羣鵲, 鐵鈴, 瓜種, 龜頭, 書法, 點畫</vocab>
+
+<detected-images>
+[
+  {"description": "Calligraphic diagrams illustrating brush stroke forms named 'Flock of Magpies' (羣鵲) and 'Iron Bell' (鐵鈴).", "type": "diagram", "bbox": {"x": 0.27, "y": 0.24, "width": 0.58, "height": 0.21}, "gallery_quality": 0.8, "museum_rationale": "Technical instructional diagram from the Sancai Tuhui, a major Ming dynasty encyclopedia, showing the morphology of complex calligraphic strokes."},
+  {"description": "Calligraphic diagrams for 'Melon Seed' (瓜種) and 'Tortoise Head' (龜頭) strokes, with anatomical labels describing the thickness and direction of parts of the stroke.", "type": "diagram", "bbox": {"x": 0.21, "y": 0.62, "width": 0.64, "height": 0.28}, "gallery_quality": 0.85, "museum_rationale": "A high-quality woodblock print illustration demonstrating the use of zoomorphic and botanical metaphors in traditional Chinese calligraphic pedagogy."}
+]
+</detected-images>
+
+--- Page 7 ---
+<lang>zh</lang>
+<page-num>四</page-num>
+<header>三才圖會 人事三卷</header>
+<meta>This page from the Sancai Tuhui (Collected Illustrations of the Three Realms), a Ming dynasty encyclopedia, illustrates various styles of the 'dot' (dian 點) stroke in Chinese calligraphy, comparing them to biological or natural forms.</meta>
+
+# 羊 角 菱 米
+
+<gloss>終細</gloss>
+
+<gloss>帶絲</gloss>
+
+<gloss>各按法度</gloss>
+
+---
+
+->四下八方不出不入不高不低<-
+
+---
+
+# 垂 珠 雞 頭
+
+<gloss>絲長入圈</gloss>
+
+<gloss>二點平些</gloss>
+
+<gloss>亦在下些</gloss>
+
+<vocab>三才圖會, 羊角, 菱米, 垂珠, 雞頭, 法度</vocab>
+
+<detected-images>
+[{"description": "A woodcut diagram illustrating four distinct styles of calligraphic dots (points) named after natural objects: Sheep's Horn, Water Caltrop/Rice, Drooping Pearl, and Chicken Head, accompanied by instructional annotations and a central mnemonic rule.", "type": "diagram", "bbox": {"x": 0.17, "y": 14, "width": 0.65, "height": 0.65}, "gallery_quality": 0.85, "museum_rationale": "This is a significant pedagogical illustration from the Sancai Tuhui, representing the Ming dynasty's approach to documenting and teaching the 'Eight Principles of Yong' and calligraphic aesthetics through visual metaphor."}]
+</detected-images>
+
+--- Page 8 ---
+<lang>zh</lang>
+
+# 二勒化一十法
+
+## 案 &emsp;&emsp; 玉 &emsp;&emsp; 脚 &emsp;&emsp; 蠏
+
+<gloss>一案門下障也一案一勒一化</gloss>
+
+<gloss>行 憚 案</gloss>
+<gloss>案 盈</gloss>
+<gloss>案</gloss>
+
+<gloss>上捺大</gloss>
+<gloss>深筆案</gloss>
+<gloss>斜直下園</gloss>
+
+---
+
+## 楯 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 石
+
+<gloss>逆 筆</gloss>
+
+<gloss>便 筆 玉 案</gloss>
+
+---
+
+-> 瓏 玲 要 旨 案 玉 <-
+
+<vocab>二勒化一十法, 案, 勒, 蟹爪, 羽, 玉案旨要玲瓏, calligraphy manual, brush strokes</vocab>
+
+<detected-images>
+[
+  {"description": "Calligraphic stroke diagrams for horizontal 'le' strokes (representing the character 'er') with technical annotations.", "type": "diagram", "bbox": {"x": 0.198, "y": 0.252, "width": 0.342, "height": 0.148}, "gallery_quality": 0.8, "museum_rationale": "High-quality example of woodblock-printed calligraphic instructional diagrams, illustrating the 'le' (horizontal) stroke transformation methods."},
+  {"description": "Calligraphic diagram of a curved hook stroke (related to 'crab claw' or 'leg' strokes), annotated with brushwork techniques like 'deep brush press'.", "type": "diagram", "bbox": {"x": 0.585, "y": 0.244, "width": 0.211, "height": 0.218}, "gallery_quality": 0.8, "museum_rationale": "Illustrates specific technical terminology for brush movements, specifically for vertical and hooked strokes in traditional Chinese calligraphy."},
+  {"description": "Calligraphic diagram of the character 'Yu' (feather), demonstrating composition and specific brush applications like 'reverse brush'.", "type": "diagram", "bbox": {"x": 0.342, "y": 0.602, "width": 0.338, "height": 0.165}, "gallery_quality": 0.8, "museum_rationale": "Detailed pedagogical illustration from a traditional calligraphy manual, showing the execution of a complex radical."}
+]
+</detected-images>
+
+--- Page 9 ---
+<lang>zh</lang>
+<header>三才圖會 人事三卷</header>
+<meta>image quality: clear woodblock print; catchword/folio marker "五十" visible at bottom left margin</meta>
+
+# 城 鐵
+
+<insert>
+<gloss>勾頭折</gloss>
+->內曲細<-
+<margin>外弯</margin> <gloss>內曲</gloss> <gloss>內直</gloss> <margin>外方</margin>
+->王棐寫<- ->圓<-
+</insert>
+
+---
+
+# 門 釘 折
+
+<gloss>門品</gloss> <gloss>門草</gloss> <gloss>丁之節</gloss> <gloss>吟螢四節</gloss>
+
+<note>This page from the San Cai Tu Hui (an illustrated encyclopedia of the Ming Dynasty) analyzes the structural components of Chinese calligraphy. Specifically, it highlights the stroke styles for characters like 'City' (城), 'Iron' (鐵), and 'Gate' (門), attributing these particular forms to the calligrapher Wang Fei (王棐).</note>
+
+<vocab>三才圖會, 人事, 王棐, 門釘折, 書法, 筆畫, 楷書</vocab>
+
+<detected-images>
+[
+  {"description": "Diagram of a rectangular character frame (representing 'Cheng' or 'Tie') with specific annotations for stroke curvature and thickness.", "type": "diagram", "bbox": {"x": 330, "y": 175, "width": 325, "height": 290}, "gallery_quality": 0.8, "museum_rationale": "A significant example of Ming-era calligraphic instructional diagrams, showing how character structure was codified and taught."},
+  {"description": "Two diagrams illustrating specific calligraphic hooks (Gou) and bends (Zhe) used in the characters 'Men' and 'Ding'.", "type": "diagram", "bbox": {"x": 195, "y": 625, "width": 590, "height": 195}, "gallery_quality": 0.7, "museum_rationale": "Detailed technical analysis of brushwork styles from a canonical early modern encyclopedia."}
+]
+</detected-images>
+
+--- Page 10 ---
+<lang>Chinese</lang>
+<warning>The manuscript contains small, cursive annotations that are somewhat faded and difficult to decipher with certainty.</warning>
+
+# 之
+
+<gloss>外中扶月</gloss>
+<gloss>子集</gloss>
+<gloss>好不弃</gloss>
+
+# 邑
+
+<gloss>由集</gloss>
+<gloss>二室一般</gloss>
+<gloss>轉角</gloss>
+<gloss>勾</gloss>
+<gloss>七集</gloss>
+<gloss>飲扑</gloss>
+
+# 阜
+
+<gloss>好揷</gloss>
+<gloss>子集</gloss>
+<gloss>角</gloss>
+
+# 網頭
+
+<gloss>驚浪</gloss>
+<gloss>轉角</gloss>
+<gloss>失包三點</gloss>
+<gloss>九網絲带</gloss>
+<gloss>子集</gloss>
+
+<vocab>calligraphy, radicals, 邑 (yi radical), 之 (zhi radical), 阜 (fu radical), 網頭 (wang head radical), brushwork principles</vocab>
+
+<detected-images>
+[{"description": "Calligraphy diagrams explaining the stroke structure for the radicals 辶 (之), 阝 (邑 - right side), 阝 (阜 - left side), and 罒 (網頭). Each is accompanied by technical notes in smaller script detailing stroke movement and placement.", "type": "diagram", "bbox": {"x": 0.18, "y": 0.16, "width": 0.62, "height": 0.73}, "gallery_quality": 0.85, "museum_rationale": "A fine example of a historical calligraphic tutorial page, demonstrating the formal construction and breakdown of Chinese radicals through stylized brushwork and descriptive annotations."}]
+</detected-images>
+
+--- Page 11 ---
+<lang>zh</lang>
+<meta>Woodblock print, high contrast, calligraphy manual</meta>
+
+# 三弩化六法
+
+## 舞 鶴
+
+<gloss>仰</gloss>
+<gloss>側</gloss>
+<gloss>海枯</gloss>
+<gloss>隱鋒</gloss>
+<gloss>王爕</gloss>
+
+---
+
+## 鐵 柱
+
+<gloss>歐書口法</gloss>
+<gloss>字勢</gloss>
+<gloss>上短下長中弩俯楞</gloss>
+
+---
+
+## 雛 梟
+
+<gloss>仰</gloss>
+<gloss>尖</gloss>
+<gloss>直</gloss>
+<gloss>門下角</gloss>
+<gloss>平</gloss>
+<gloss>隱</gloss>
+
+<vocab>三弩化六法, 舞鶴, 鐵柱, 雛梟, 弩, 歐書, 王爕, 歐陽詢, calligraphy techniques</vocab>
+
+<detected-images>
+[
+  {"description": "Calligraphic diagram of the 'Dancing Crane' (舞鶴) style vertical stroke with technical glosses.", "type": "diagram", "bbox": {"x": 0.528, "y": 218, "width": 0.222, "height": 0.292}, "gallery_quality": 0.85, "museum_rationale": "Illustrates traditional Chinese calligraphic pedagogy and the artistic nomenclature for brush strokes."},
+  {"description": "Calligraphic diagram of the 'Iron Pillar' (鐵柱) style vertical stroke with technical glosses referencing Ouyang Xun.", "type": "diagram", "bbox": {"x": 0.211, "y": 0.222, "width": 0.235, "height": 0.288}, "gallery_quality": 0.85, "museum_rationale": "Significant for documenting specific historical calligraphic styles and instructional methods."},
+  {"description": "Calligraphic diagram of the 'Young Owl' (雛梟) style hooked vertical stroke with technical brush movement glosses.", "type": "diagram", "bbox": {"x": 0.267, "y": 0.524, "width": 0.186, "height": 0.289}, "gallery_quality": 0.85, "museum_rationale": "Shows the complex intersection of geometry and brushwork in classical Chinese script."}
+]
+</detected-images>
+
+--- Page 12 ---
+<lang>zh</lang>
+<meta>Woodblock print illustrating calligraphic stroke techniques. High contrast with some ink bleed and aged paper texture.</meta>
+
+## 垂針
+
+<gloss>上出</gloss> <gloss>宜尖</gloss>
+<gloss>大字下按管</gloss>
+<gloss>平勢</gloss>
+<gloss>小字掩尖出</gloss>
+
+---
+
+## 馬椿
+
+<gloss>上出</gloss> <gloss>尖</gloss>
+<gloss>尖</gloss>
+<gloss>角</gloss>
+<gloss>鐵柱法</gloss>
+<gloss>橈</gloss>
+
+---
+
+## 曲尺
+
+<gloss>出尖</gloss> <gloss>宜緊</gloss>
+<gloss>中努直</gloss>
+<gloss>楞角</gloss>
+
+---
+
+## 象笏
+
+<gloss>法</gloss> <gloss>無</gloss>
+<gloss>中努</gloss>
+
+<vocab>垂針, 馬椿, 曲尺, 象笏, 鐵柱法, 中努, 橈, 楞角, 按管, 掩尖</vocab>
+
+<detected-images>
+[
+  {"description": "Diagram of the 'Chuí zhēn' (Suspended Needle) vertical stroke with annotations for brush pressure and tapering.", "type": "diagram", "bbox": {"x": 0.58, "y": 210, "width": 0.15, "height": 0.3}, "gallery_quality": 0.85, "museum_rationale": "Clear instructional diagram of a fundamental Chinese calligraphic stroke, showing the transition from pressure to a needle-like tip."},
+  {"description": "Diagram of the 'Mǎ chūn' (Horse Stake) stroke, a vertical stroke with a side accent, labeled with 'Iron Pillar Method'.", "type": "diagram", "bbox": {"x": 0.2, "y": 210, "width": 0.2, "height": 0.3}, "gallery_quality": 0.85, "museum_rationale": "Demonstrates a specialized vertical stroke variation with technical terminology for specific stroke features like the 'angle' and 'bow'."},
+  {"description": "Diagram of the 'Qū chǐ' (Carpenter's Square) stroke, illustrating the ninety-degree turn (hook/corner).", "type": "diagram", "bbox": {"x": 0.52, "y": 590, "width": 0.22, "height": 0.3}, "gallery_quality": 0.85, "museum_rationale": "Detailed technical illustration of a calligraphic corner stroke, focusing on the sharpness of the angle and the tension of the vertical drop."},
+  {"description": "Diagram of the 'Xiàng hù' (Ivory Tablet) stroke, showing a weighted vertical stroke with rounded terminations.", "type": "diagram", "bbox": {"x": 0.25, "y": 580, "width": 0.12, "height": 0.3}, "gallery_quality": 0.8, "museum_rationale": "Instructional diagram for a rounded vertical stroke, named after the ceremonial ivory tablets held by officials."}
+]
+</detected-images>
+
+--- Page 13 ---
+<lang>zh</lang>
+<header>三才圖會 人事三卷</header>
+<page-num>七</page-num>
+
+# 勾趨化十三法
+
+## 挑勾式
+<gloss>直下</gloss>
+<gloss>轉折</gloss>
+<gloss>挑</gloss>
+
+---
+
+## 緊勾
+<gloss>下長</gloss>
+<gloss>轉折</gloss>
+<gloss>向上</gloss>
+
+---
+
+## 綽勾
+<gloss>下長</gloss>
+<gloss>直下</gloss>
+<gloss>平</gloss>
+<gloss>轉折</gloss>
+<gloss>緩出</gloss>
+
+---
+
+## 鳳翅
+<gloss>回鋒接</gloss>
+<gloss>彎</gloss>
+<gloss>撇筆平行</gloss>
+<gloss>銳</gloss>
+<gloss>向上</gloss>
+
+<vocab>三才圖會, 勾趨化十三法, 挑勾式, 緊勾, 綽勾, 鳳翅, 書法, 筆法</vocab>
+
+<detected-images>
+[{"description": "A set of four woodcut instructional diagrams illustrating different styles of 'hook' (勾) strokes in Chinese calligraphy: 'Thrusting Hook', 'Tight Hook', 'Gentle Hook', and 'Phoenix Wing'. Each stroke is accompanied by small technical annotations indicating brush direction and movement.", "type": "diagram", "bbox": {"x": 0.16, "y": 0.13, "width": 0.72, "height": 0.76}, "gallery_quality": 0.85, "museum_rationale": "This page is from the 'Sancai Tuhui' (Collected Illustrations of the Three Realms), a foundational encyclopedia from the Ming Dynasty. These diagrams provide critical historical insight into the pedagogy of Chinese calligraphy and the formalization of brush techniques during the 16th and 17th centuries."}]
+</detected-images>
+
+--- Page 14 ---
+<lang>Chinese</lang>
+<meta>This page appears to be from a woodblock-printed calligraphy manual, illustrating technical brush strokes with metaphorical names and instructional glosses.</meta>
+<warning>The woodblock print has some minor ink bleed, affecting the clarity of smaller interlinear annotations.</warning>
+
+## 漫 勾
+<gloss>尖長</gloss>
+<gloss>半</gloss>
+<gloss>直下</gloss>
+<gloss>轉折</gloss>
+<gloss>鋒芒</gloss>
+<gloss>出尖</gloss>
+
+## 驚 翅
+<gloss>尖</gloss>
+<gloss>腹</gloss>
+<gloss>內要半圓</gloss>
+<gloss>筆如發箭</gloss>
+
+---
+
+## 竹 籜
+<gloss>尖</gloss>
+<gloss>直</gloss>
+<gloss>下筆</gloss>
+<gloss>轉鋒用力</gloss>
+
+## 飛 雁
+<gloss>尖</gloss>
+<gloss>斜二抗要正直有利</gloss>
+<gloss>出鋒</gloss>
+
+<vocab>漫勾, 驚翅, 竹籜, 飛雁, 轉折, 鋒芒, 發箭, 出鋒, 轉鋒</vocab>
+
+<detected-images>
+[{"description": "A instructional woodblock illustration featuring four calligraphic strokes, each labeled with a poetic name: 'Overflowing Hook' (Man Gou), 'Startled Wing' (Jing Chi), 'Bamboo Sheath' (Zhu Tuo), and 'Flying Goose' (Fei Yan). Small character annotations surround each stroke to guide the student on brush pressure, angle, and shape.", "type": "diagram", "bbox": {"x": 0.16, "y": 0.12, "width": 0.69, "height": 0.74}, "gallery_quality": 0.9, "museum_rationale": "A high-quality specimen of traditional Chinese calligraphic pedagogy, showing the integration of metaphor and technical instruction through woodblock printing."}]
+</detected-images>
+
+--- Page 15 ---
+<lang>zh</lang>
+
+### 彎 筍
+<gloss>起一筆</gloss>
+<gloss>彎</gloss>
+<gloss>中</gloss>
+<gloss>圓而勁</gloss>
+<gloss>收筆</gloss>
+
+### 玉 勾
+<gloss>起</gloss>
+<gloss>宜細</gloss>
+<gloss>中</gloss>
+<gloss>宜圓</gloss>
+<gloss>勾尖</gloss>
+
+---
+
+### 浮 鵝
+<gloss>起筆</gloss>
+<gloss>項</gloss>
+<gloss>中</gloss>
+<gloss>內要平圓可</gloss>
+<gloss>此一筆發</gloss>
+
+### 獅 口
+<gloss>起</gloss>
+<gloss>橫</gloss>
+<gloss>轉</gloss>
+<gloss>中</gloss>
+<gloss>直</gloss>
+<gloss>勾</gloss>
+
+<vocab>玉勾, 彎筍, 獅口, 浮鵝, 書法, 筆法, 永字八法</vocab>
+
+<detected-images>
+[
+  {"description": "Calligraphic diagram of the 'Wān Sǔn' (Curved Bamboo Shoot) stroke with instructional annotations.", "type": "diagram", "bbox": {"x": 0.509, "y": 147, "width": 0.322, "height": 0.281}, "gallery_quality": 0.85, "museum_rationale": "High-quality educational woodcut diagram from a historical calligraphy manual, illustrating stroke dynamics."},
+  {"description": "Calligraphic diagram of the 'Yù Gōu' (Jade Hook) stroke with instructional annotations.", "type": "diagram", "bbox": {"x": 0.176, "y": 150, "width": 0.301, "height": 0.302}, "gallery_quality": 0.85, "museum_rationale": "Historical calligraphic illustration providing technical instruction on brushwork."},
+  {"description": "Calligraphic diagram of the 'Fú É' (Floating Goose) stroke with instructional annotations.", "type": "diagram", "bbox": {"x": 0.512, "y": 558, "width": 0.325, "height": 0.252}, "gallery_quality": 0.85, "museum_rationale": "Educational diagram from a traditional Chinese calligraphy guide, showing the 'floating goose' hook technique."},
+  {"description": "Calligraphic diagram of the 'Shī Kǒu' (Lion's Mouth) stroke with instructional annotations.", "type": "diagram", "bbox": {"x": 0.170, "y": 548, "width": 0.298, "height": 0.250}, "gallery_quality": 0.85, "museum_rationale": "Technically detailed historical diagram illustrating the structure of a corner hook stroke."}
+]
+</detected-images>
+
+--- Page 16 ---
+<lang>Chinese</lang>
+<header>三才圖會 人事三卷</header>
+
+# 龍尾勢式圖
+
+乚
+<gloss>直直</gloss>
+<gloss>勾直正</gloss>
+<gloss>勢要圓平</gloss>
+
+<margin>
+宀
+<gloss>到頭折回便好</gloss>
+</margin>
+
+---
+
+## 寶蓋
+
+宀
+<gloss>頭</gloss>
+<gloss>肩</gloss>
+<gloss>勾</gloss>
+<gloss>勢要圓平</gloss>
+
+<margin>
+宀
+<gloss>折緊了不好</gloss>
+</margin>
+
+<margin>
+宀
+<gloss>丢下了不好</gloss>
+</margin>
+
+<vocab>三才圖會, 龍尾勢, 寶蓋, 書法, 筆勢, 宀部</vocab>
+
+<detected-images>
+[{"description": "Calligraphic diagrams from the 'Sancai Tuhui' encyclopedia illustrating the correct and incorrect executions of the 'Dragon Tail' (乚) stroke and the 'Treasure Cover' (宀) radical. Small annotations provide guidance on posture, alignment, and common errors.", "type": "diagram", "bbox": {"x": 234, "y": 142, "width": 605, "height": 648}, "gallery_quality": 0.85, "museum_rationale": "This is a significant historical document from the 'Sancai Tuhui', a major Ming dynasty encyclopedia. It offers a rare and clear visual pedagogy of traditional Chinese calligraphy, showing not only ideal forms but also common mistakes to avoid."}]
+</detected-images>
+
+--- Page 17 ---
+<lang>zh</lang>
+<header>三才圖會 人事三卷</header>
+<page-num>九</page-num>
+
+# 五策化七法
+
+## 聚水
+<gloss>法</gloss>
+<gloss>直紐帶</gloss>
+
+## 斷水
+<gloss>横</gloss>
+<gloss>法</gloss>
+
+## 勾
+<gloss>鐵柱頭</gloss>
+<gloss>玉案頭</gloss>
+
+---
+
+## 散水
+<gloss>法</gloss>
+<gloss>直紐帶</gloss>
+
+## 憤 爻
+<gloss>一</gloss>
+<gloss>二</gloss>
+<gloss>三</gloss>
+<gloss>四</gloss>
+<gloss>玉案頭</gloss>
+<gloss>鐵柱頭</gloss>
+
+<vocab>三才圖會, 五策化七法, 聚水, 斷水, 勾, 散水, 憤, 爻, 鐵柱頭, 玉案頭</vocab>
+
+<detected-images>
+[{"description": "Calligraphic diagrams from the 'Sancai Tuhui' encyclopedia illustrating specific stroke techniques and brushwork patterns titled 'Gathering Water', 'Breaking Water', 'Hook', 'Scattered Water', and 'Agitated Intersections'.", "type": "diagram", "bbox": {"x": 0.165, "y": 0.125, "width": 0.74, "height": 0.75}, "gallery_quality": 0.85, "museum_rationale": "This page is an illustration from the 'Sancai Tuhui' (1609), a seminal Ming dynasty encyclopedia. The diagrams provide technical insights into the development and terminology of traditional Chinese calligraphy strokes."}]
+</detected-images>
+
+--- Page 18 ---
+<lang>zh</lang>
+<meta>Woodblock print illustrating four distinct implements or techniques, likely from a martial arts or traditional craft manual.</meta>
+
+# 金錐
+<gloss>此物最要利</gloss>
+
+# 戲蝶
+<gloss>此名蝶法</gloss>
+<gloss>此一勢</gloss>
+<gloss>一勢最具法</gloss>
+
+---
+
+# 虎牙
+<gloss>此物不可長</gloss>
+<gloss>橫長則難乎用法</gloss>
+
+# 木人
+<gloss>此具勢</gloss>
+<gloss>不可不<unclear>法</unclear></gloss>
+<gloss>左宜</gloss>
+<gloss>右宜</gloss>
+
+<vocab>金錐, 戲蝶, 虎牙, 木人, 蝶法, 勢</vocab>
+
+<detected-images>
+[{"description": "Diagram of a 'Golden Awl' (金錐), a conical pointed tool or weapon with annotations at its base.", "type": "diagram", "bbox": {"x": 0.477, "y": 0.142, "width": 0.351, "height": 0.321}, "gallery_quality": 0.75, "museum_rationale": "Illustrates specialized historical equipment with associated technical notes in a classic woodblock style."},
+{"description": "Diagram labeled 'Playing Butterfly' (戲蝶), showing three curved implements or martial postures with descriptive annotations.", "type": "diagram", "bbox": {"x": 0.175, "y": 0.142, "width": 0.283, "height": 0.321}, "gallery_quality": 0.75, "museum_rationale": "Displays specific technical forms or implements from a historical manual, providing insight into period terminology."},
+{"description": "Diagram of a 'Tiger Tooth' (虎牙), a sharp, curved pointed implement with notes on the difficulty of using it if too long.", "type": "diagram", "bbox": {"x": 0.495, "y": 0.547, "width": 0.312, "height": 0.248}, "gallery_quality": 0.75, "museum_rationale": "Clear representation of a historical weapon or tool with functional usage constraints noted."},
+{"description": "Diagram of a 'Wooden Man' (木人), depicting a hooked staff or specialized training implement with directional usage notes.", "type": "diagram", "bbox": {"x": 0.182, "y": 0.547, "width": 0.283, "height": 0.352}, "gallery_quality": 0.75, "museum_rationale": "Depicts a complex historical training tool or implement with specific directional 'left/right' instructions."}]
+</detected-images>
+
+--- Page 19 ---
+<lang>zh</lang>
+<header>八捺化八法</header>
+
+# 遊魚三折腰
+
+<gloss>平頭魚</gloss>
+<gloss>一停</gloss>
+<gloss>停三頂角</gloss>
+<gloss>斜圓背魚</gloss>
+<gloss>停四肚魚</gloss>
+<gloss>停三尾魚角</gloss>
+
+---
+
+# 漫遊魚
+
+<gloss>平</gloss>
+<gloss>弯斜</gloss>
+<gloss>弯斜丁</gloss>
+
+<vocab>八捺化八法, 遊魚三折腰, 漫遊魚, 捺, 停, calligraphy stroke, mnemonic</vocab>
+
+<detected-images>
+[
+  {"description": "Calligraphy diagram of the 'na' (pressing) stroke titled 'Swimming Fish with Three-Fold Waist', using fish anatomy to describe stroke sections and pause points.", "type": "diagram", "bbox": {"x": 0.192, "y": 0.252, "width": 0.565, "height": 0.170}, "gallery_quality": 0.85, "museum_rationale": "High-quality example of traditional Chinese calligraphic mnemonics, illustrating the artistic connection between character strokes and natural forms."},
+  {"description": "Calligraphy diagram of the 'na' stroke titled 'Leisurely Swimming Fish', showing a smoother, less angular variation of the stroke.", "type": "diagram", "bbox": {"x": 0.201, "y": 0.615, "width": 0.518, "height": 0.130}, "gallery_quality": 0.80, "museum_rationale": "A clear technical diagram showing the variation in stroke execution within the same calligraphic style."}
+]
+</detected-images>
+
+--- Page 20 ---
+<lang>zh</lang>
+<header>三才圖會 人事三卷</header>
+<page-num>十</page-num>
+
+## 犀角
+
+<gloss>落筆尖細</gloss>
+<gloss>徐徐斜下</gloss>
+
+---
+
+## 烏疊
+
+<gloss>上以平尖</gloss>
+<gloss>下用尖下些</gloss>
+
+---
+
+## 蛇頭
+
+<gloss>尖</gloss>
+<gloss>如蛇樣尖帶</gloss>
+<gloss>圓</gloss>
+
+---
+
+## 新月
+
+<gloss>上下尖中粗</gloss>
+<gloss>如月樣</gloss>
+
+<vocab>三才圖會, 人事, 犀角, 烏疊, 蛇頭, 新月, calligraphy strokes, Ming dynasty</vocab>
+
+<detected-images>
+[
+  {"description": "Calligraphic stroke illustration titled 'Rhinoceros Horn' (犀角)", "type": "diagram", "bbox": {"x": 0.467, "y": 0.208, "width": 0.294, "height": 0.231}, "gallery_quality": 0.85, "museum_rationale": "Illustrative woodcut from the Sancai Tuhui encyclopedia showing technical brushwork for calligraphy."},
+  {"description": "Calligraphic stroke illustration titled 'Bird Overlapping' (烏疊)", "type": "diagram", "bbox": {"x": 0.177, "y": 0.222, "width": 0.231, "height": 0.207}, "gallery_quality": 0.85, "museum_rationale": "High-quality historical diagram of a specialized calligraphic stroke style."},
+  {"description": "Calligraphic stroke illustration titled 'Snake Head' (蛇頭)", "type": "diagram", "bbox": {"x": 0.485, "y": 0.584, "width": 0.258, "height": 0.128}, "gallery_quality": 0.8, "museum_rationale": "Diagrammatic representation of the 'Snake Head' brush stroke including directional glosses."},
+  {"description": "Calligraphic stroke illustration titled 'New Moon' (新月)", "type": "diagram", "bbox": {"x": 0.227, "y": 0.551, "width": 0.138, "height": 0.237}, "gallery_quality": 0.8, "museum_rationale": "Clear illustrative woodcut of a moon-shaped calligraphic stroke."}
+]
+</detected-images>
+
+--- Page 21 ---
+<lang>zh</lang>
+<page-num>十一</page-num>
+<header>三才圖會 人事三卷</header>
+<meta>catchword: 九十五</meta>
+
+# 七啄化四法
+
+## 鬪
+<gloss>平四 要法</gloss>
+
+## 鷃
+<gloss>其法具此</gloss>
+
+## 啄 鳥
+<gloss>啄法之下 安一啄</gloss>
+<gloss>其法具此</gloss>
+
+---
+
+# 蟠 桃
+
+<margin>右不許出入</margin>
+<margin>左不許長短</margin>
+
+<gloss>
+洛按
+筆法
+宜取
+相當
+</gloss>
+
+<vocab>三才圖會, 七啄化四法, 蟠桃, 筆法, 啄法</vocab>
+
+<detected-images>
+[
+  {"description": "Calligraphy stroke diagram for the 'Dou' (鬪) technique.", "type": "diagram", "bbox": {"x": 0.66, "y": 0.26, "width": 0.17, "height": 0.12}, "gallery_quality": 0.7, "museum_rationale": "Historical technical illustration of calligraphic brushwork from the Ming dynasty encyclopedia San Cai Tu Hui."},
+  {"description": "Calligraphy stroke diagram for the 'Yan' (鷃) technique.", "type": "diagram", "bbox": {"x": 0.51, "y": 0.28, "width": 0.13, "height": 0.11}, "gallery_quality": 0.7, "museum_rationale": "Instructional diagram showing brush orientation for a specific character component."},
+  {"description": "Calligraphy stroke diagram for 'Zhuo' (啄) or bird-peck technique.", "type": "diagram", "bbox": {"x": 0.20, "y": 0.25, "width": 0.24, "height": 0.13}, "gallery_quality": 0.7, "museum_rationale": "Technical diagram from a major Ming encyclopedia demonstrating a specific stroke transformation."},
+  {"description": "Large calligraphic diagram for 'Pan Tao' (蟠桃) illustrating stroke balance.", "type": "diagram", "bbox": {"x": 0.25, "y": 0.55, "width": 0.20, "height": 0.22}, "gallery_quality": 0.8, "museum_rationale": "Representative example of traditional calligraphic instruction, showing the 'coiled' movement with accompanying structural rules."}
+]
+</detected-images>
+
+--- Page 22 ---
+<lang>zh</lang>
+<meta>image quality: excellent woodblock print; high contrast calligraphy manual</meta>
+
+## 六掠化十法
+
+### 犁　梁
+<gloss>神用</gloss>
+<gloss>此才勢也</gloss>
+<gloss>出鋒</gloss>
+
+### 懸　戈
+<gloss>伏法於</gloss>
+<gloss>出鋒行</gloss>
+
+---
+
+### 飛　帶
+<gloss>出鋒</gloss>
+<gloss>接其鋒行</gloss>
+<gloss>此</gloss>
+
+<vocab>六掠化十法, 犁 (li), 梁 (liang), 懸 (xuan), 戈 (ge), 飛 (fei), 帶 (dai), 出鋒, 神用, 掠 (lüè), 翰林八法, 永字八法</vocab>
+
+<detected-images>
+[
+  {"description": "Calligraphic diagram illustrating the 'Li' (Plow) and 'Liang' (Beam) variations of the Lüe (slanting) stroke.", "type": "diagram", "bbox": {"x": 0.547, "y": 0.195, "width": 0.323, "height": 0.288}, "gallery_quality": 0.85, "museum_rationale": "An excellent example of traditional Chinese calligraphic instruction, showing the precise execution and aesthetic force of specific brushwork techniques."},
+  {"description": "Calligraphic diagram illustrating the 'Xuan' (Suspended) and 'Ge' (Dagger-axe) variations of the Lüe (slanting) stroke.", "type": "diagram", "bbox": {"x": 0.145, "y": 0.195, "width": 0.323, "height": 0.288}, "gallery_quality": 0.85, "museum_rationale": "Clear pedagogical diagram from a historical calligraphy manual detailing stroke transformations."},
+  {"description": "Calligraphic diagram illustrating the 'Fei' (Flying) and 'Dai' (Belt) variations of the Lüe (slanting) stroke.", "type": "diagram", "bbox": {"x": 0.218, "y": 0.532, "width": 0.278, "height": 0.342}, "gallery_quality": 0.85, "museum_rationale": "Detailed instructional diagram for complex calligraphic movements with associated technical glosses."}
+]
+</detected-images>
+
+--- Page 23 ---
+<lang>zh</lang>
+
+# 鈎 鐮 雙 个
+
+<gloss>法直</gloss> <gloss>法直</gloss>
+<gloss>中折</gloss>
+->**亅**<-
+<gloss>下尖</gloss>
+
+<gloss>節</gloss> <gloss>節</gloss>
+<gloss>到此</gloss>
+->**竹**<-
+<gloss>轉</gloss>
+
+---
+
+## 無 勾 爲 直 柳 箕
+
+<gloss>壓</gloss>
+->**了**<-
+<gloss>轉</gloss>
+<gloss>筆尖</gloss>
+
+<gloss>內圓</gloss>
+<gloss>筆</gloss>
+->**勿**<-
+<gloss>撇</gloss> <gloss>捺</gloss>
+<gloss>筆</gloss>
+
+<vocab>書法, 筆法, 鈎, 鐮, 雙个, 無勾爲直, 柳, 箕, 竹, 了, 勿, 節, 轉, 筆尖</vocab>
+
+<detected-images>
+[
+  {"description": "Calligraphic stroke 'hook' (亅) with instructional annotations", "type": "diagram", "bbox": {"x": 0.51, "y": 0.19, "width": 0.28, "height": 0.32}, "gallery_quality": 0.8, "museum_rationale": "Illustrates classical Chinese calligraphic stroke techniques (hook style) with pedagogical annotations."},
+  {"description": "Calligraphic character 'bamboo' (竹) with instructional annotations", "type": "diagram", "bbox": {"x": 0.17, "y": 0.26, "width": 0.33, "height": 0.25}, "gallery_quality": 0.8, "museum_rationale": "Illustrates classical Chinese calligraphic techniques for the 'bamboo' character with pedagogical annotations."},
+  {"description": "Calligraphic character 'le' (了) with instructional annotations", "type": "diagram", "bbox": {"x": 0.53, "y": 0.58, "width": 0.25, "height": 0.27}, "gallery_quality": 0.8, "museum_rationale": "Illustrates classical Chinese calligraphic stroke techniques for the 'le' character with pedagogical annotations."},
+  {"description": "Calligraphic character 'wu' (勿) with instructional annotations", "type": "diagram", "bbox": {"x": 0.16, "y": 0.59, "width": 0.31, "height": 0.21}, "gallery_quality": 0.8, "museum_rationale": "Illustrates classical Chinese calligraphic stroke techniques for the 'wu' character with pedagogical annotations."}
+]
+</detected-images>
+
+--- Page 24 ---
+<lang>zh</lang>
+<page-num>十二</page-num>
+<header>三才圖會 人事三卷</header>
+
+# 企 刀
+
+<gloss>藏</gloss>
+<gloss>下大於上</gloss>
+
+---
+
+# 有 勾 爲 凶
+
+<gloss>山推法</gloss>
+<gloss>外擥</gloss>
+<gloss>內轉</gloss>
+<gloss>弩勢筆之勾</gloss>
+
+---
+
+# 鳴 鴨
+
+<gloss>平</gloss>
+<gloss>下大於上</gloss>
+
+<vocab>三才圖會, 人事, 企刀, 有勾爲凶, 鳴鴨, 山推法, 弩勢, 書相</vocab>
+
+<detected-images>
+[{"description": "Three woodcut diagrams illustrating specific calligraphic strokes and their technical names: 'Qi Dao' (Standing Knife), 'You Gou Wei Xiong' (Inauspicious Hook), and 'Ming Ya' (Crying Duck). Each is accompanied by smaller annotations describing brush techniques such as 'mountain-pushing' (山推法) and 'crossbow force' (弩勢).", "type": "diagram", "bbox": {"x": 0.166, "y": 0.241, "width": 0.654, "height": 0.584}, "gallery_quality": 0.85, "museum_rationale": "High-quality woodblock illustration from the Ming Dynasty 'Sancai Tuhui' (Universal Encyclopedia). It serves as a significant historical document for the study of Chinese calligraphy and the cultural practice of handwriting physiognomy."}]
+</detected-images>
+
+--- Page 25 ---
+<lang>zh</lang>
+<page-num>十三</page-num>
+<header>三才圖會 人事三卷</header>
+<sig>二十</sig>
+
+# 毋
+<gloss>毋音無字</gloss>
+<gloss>女字中一畫</gloss>
+<gloss>奸形無爲</gloss>
+
+---
+
+# 母
+<gloss>母音父母字</gloss>
+<gloss>女字冒二點象二乳</gloss>
+<gloss>故父母之母</gloss>
+
+<vocab>毋, 母, 三才圖會, 人事, 父母, 象形</vocab>
+
+<detected-images>
+[{"description": "Woodcut calligraphic representations of the Chinese characters '毋' (wú, meaning 'do not') and '母' (mǔ, meaning 'mother'), illustrating their etymological development and structural differences.", "type": "woodcut", "bbox": {"x": 0.321, "y": 0.208, "width": 0.344, "height": 0.574}, "gallery_quality": 0.8, "museum_rationale": "This page from the Ming-era encyclopedia Sancai Tuhui (三才圖會) provides a clear historical example of character philology and woodcut printing. The stylized characters '毋' and '母' are presented as diagrams to explain their graphical evolution from the base character '女' (woman)."}]
+</detected-images>
+
+--- Page 26 ---
+<lang>zh</lang>
+<vocab>側, 勒, 努, 趯, 永字八法, 筆鋒, 澁, 殺筆</vocab>
+
+## 側
+
+側不得平其筆當側筆就右爲之問曰不言點而言側何也論曰謂筆鋒顧右審其勢險而側之故名側也
+
+## 勒
+
+勒不得臥其筆中高兩頭下以筆心壓之問曰不言画而言勒者何也論曰勒者趕筆而行承其虛画取其勁澁則功成矣
+
+## 努
+
+努不得直其筆直則無力問曰画者心中聚画也今謂之努何也論曰努者勢行遲澁微努也
+
+## 趯
+
+趯者自努出滑鋒輕挫借勢而趯之問曰几字之出鋒謂之挑今更爲趯何也論曰即是努筆下殺筆斜行
+
+--- Page 27 ---
+<lang>zh</lang>
+
+翹出尖起是也
+
+# 策
+策兩頭高中以筆心舉之問曰策一名折異画今之策何也論曰策之與画理亦固殊仰筆起鋒輕提而進故曰策也
+
+# 掠
+掠者撇過左謂之掠借於筆勢問曰掠一名撇分發今稱為掠何也論曰掠乃徐疾有準乎筆隨遣鋒自左出取勁險盡而為發則一出運用無的故掠之精肯可守矣
+
+# 啄
+啄者如禽之啄物也立筆下罨須疾為務又云臥筆
+
+<vocab>策, 掠, 啄, 筆勢, 筆心, 鋒, 永字八法</vocab>
+
+--- Page 28 ---
+<lang>zh</lang>
+<header>三才圖會 人事三卷</header>
+<page-num>十四 二九十</page-num>
+
+疾菴左出問曰撇之與啄同出異名何也論曰夫撇者
+蒙俗之言啄者因勢而立啄筆速進勁若鐵石則勢成
+矣不臥則體怯
+
+---
+
+<insert>磔</insert> 磔者不徐不疾戰而去之欲盡復駐而去之問曰右
+發波為捺之筆今謂之磔何也論曰其法始入筆緊築
+而微仰使下徐行勢足以磔開其筆或藏鋒出鋒由心
+所用也
+
+### 崔瑗授鍾繇永字八法
+
+側蹲鴟而墜石 勒緩縱以藏機 弩彎環而勢曲
+
+<vocab>三才圖會, 永字八法, 崔瑗, 鍾繇, 撇, 啄, 磔, 側, 勒, 弩, 藏鋒, 捺, 發波</vocab>
+
+--- Page 29 ---
+<lang>zh</lang>
+
+趯峻快以如錐  策依稀而似勒  掠彷彿以宜肥
+啄騰峻而速進  磔憶昔以遲移
+
+## 衛夫人授王羲之永字八法
+
+側不貴臥  勒常患平  努過直而力敗
+趯當存而勢生  策仰收而暗揭  掠左出而鋒輕
+啄倉皇而疾菴  磔趯起而開撑
+
+<vocab>衛夫人, 王羲之, 永字八法, 側, 勒, 努, 趯, 策, 掠, 啄, 磔</vocab>
+
+--- Page 30 ---
+<lang>zh</lang>
+
+# 草訣百韻圖
+
+## 草訣百韻引
+
+> 草聖最為難 龍蛇宛筆端
+> 
+> 毫釐雖欲辨 體勢更須完
+> 
+> <unclear>及至</unclear>發落處 氣脈更須連
+
+<vocab>草訣百韻圖, 草訣百韻引, 草聖, 龍蛇, 宛, 筆端, 毫釐, 體勢, 氣脈, 草書</vocab>
+
+--- Page 31 ---
+<lang>zh</lang>
+<header>三才圖會 人事三卷</header>
+<page-num>十一</page-num>
+<meta>This page is from the Ming dynasty encyclopedia "Sancai Tuhui" (Collected Illustrations of the Three Realms), section on 'Human Affairs', Volume 3. The text consists of mnemonics (辨字歌) used to help calligraphers distinguish between visually similar characters and radicals in cursive and semi-cursive scripts.</meta>
+
+有點方為水。空挑却是言。
+
+寫點方為氵也。拋缷是乚。
+
+宀<gloss>綿</gloss>頭無左畔。辶<gloss>之</gloss>走遠關東邊。
+
+六則無左脚。ㄟ<gloss>乀</gloss>遠離東逐。
+
+長短分知去。微茫視每安。
+
+步短分知玄。空撇花視每安。
+
+<vocab>三才圖會, 人事, 辨字歌, 書法, 宀, 辶, 乀</vocab>
+
+--- Page 32 ---
+<lang>zh</lang>
+<page-num>七</page-num>
+<header>人事三卷</header>
+<sig>三才圖會</sig>
+<meta>The page is from the "Sancai Tuhui" (三才圖會), specifically the "Renshi" (人事) section. It serves as a guide for shorthand or cursive variants (known as "shizhi" 識指). Standard characters are presented alongside their corresponding shorthand or cursive forms, which are marked with a small circle (。).</meta>
+
+| Standard | Shorthand | Standard | Shorthand | Standard | Shorthand |
+|:---|:---|:---|:---|:---|:---|
+| 步 | 步<gloss>。</gloss> | 六 | 六<gloss>。</gloss> | 十 | 十<gloss>。</gloss> |
+| 觀 | 皃<gloss>。</gloss> | 手 | 手<gloss>。</gloss> | 朱 | 朱<gloss>。</gloss> |
+| 牛 | 引<gloss>。</gloss> | 宜 | 宜<gloss>。</gloss> | 知 | 去<gloss>。</gloss> |
+| 引 | 之<gloss>。</gloss> | 為 | 為<gloss>。</gloss> | 奏 | 奏<gloss>。</gloss> |
+| 足 | 萬<gloss>。</gloss> | 票 | 票<gloss>。</gloss> | 已 | 已<gloss>。</gloss> |
+| 差 | 见<gloss>。</gloss> | 七 | 七<gloss>。</gloss> | 三 | 三<gloss>。</gloss> |
+| 見 | 眾<gloss>。</gloss> | 紅 | 紅<gloss>。</gloss> | 口 | 口<gloss>。</gloss> |
+| 羊 | 諸<gloss>。</gloss> | 即 | 即<gloss>。</gloss> | 代 | 代<gloss>。</gloss> |
+| 踏<gloss>。</gloss> | 囚<gloss>。</gloss> | 是 | 是<gloss>。</gloss> | 言 | 言<gloss>。</gloss> |
+| | | 表 | 表<gloss>。</gloss> | 宣 | 宣<gloss>。</gloss> |
+
+<vocab>三才圖會, 人事, 識指, 步, 觀, 皃, 牛, 引, 之, 足, 萬, 差, 见, 見, 眾, 羊, 諸, 踏, 囚, 六, 手, 宜, 為, 票, 七, 紅, 即, 是, 表, 十, 朱, 知, 去, 奏, 已, 三, 口, 代, 言, 宣, shorthand, cursive</vocab>
+
+--- Page 33 ---
+<lang>zh</lang>
+
+<note>This manuscript page is a pedagogical guide for learning cursive script (草書), likely a version of the *Cursive Primer* (草訣歌). It features a character-by-character comparison between the regular script (楷書) and its cursive equivalents, with specific annotations regarding potentially confusing forms and punctuation marks (句讀) to indicate phrasing.</note>
+
+| 楷書 (Regular) | 草書 (Cursive) | 楷書 (Regular) | 草書 (Cursive) | 楷書 (Regular) | 草書 (Cursive) |
+|:---|:---|:---|:---|:---|:---|
+| 左 | 左 | 曾 | 曾 | 孤 | 孤 |
+| 卓 <gloss>即貝</gloss> | 卓。| 差 | 差。| 殆 | 殆。|
+| 丁 | 丁 | 頭 | 頭 | 通 | 通 |
+| 反 | 反。| 不 | 不 | 相 | 相 |
+| 右 | 右 | 異 | 異。| 似 | 似。|
+| 刀 <gloss>即寸</gloss> | 刀。| 歸 | 歸 | 予 | 予 |
+| 點 | 點 | 浸 | 浸。| 柔 | 柔。|
+| 彎 | 彎。| 體 | 體 | 總 | 總 |
+| | | 同 | 同 | 一 | 一 |
+| | | 觀 | 觀。| 般 | 般。|
+
+---
+
+<vocab>草訣歌, 草書, 楷書, 句讀, 辨析, 楷草對照</vocab>
+
+--- Page 34 ---
+<lang>zh-Hant</lang>
+<header>三才圖會 人事三卷</header>
+<page-num>七</page-num>
+
+采。夆。身。近。取。熈。照。眼。前。看。
+
+杲。杲。牙。止。取。熙。熙。昭。昭。若。
+
+---
+
+思。惠。魚。如。畫。禾。乎。手。似。年。
+
+<gloss>思。惠。魚。如。畫。尔。乎。手。似。年。</gloss>
+
+---
+
+既。防。吉。作。古。更。慎。達。為。連。
+
+<gloss>沉。沈。去。心。古。更。慎。達。為。連。</gloss>
+
+<vocab>三才圖會, 人事, 草書, 草聖, 采, 杲, 夆, 熙, 昭, 既, 沉, 禾, 尔</vocab>
+
+--- Page 35 ---
+<lang>Chinese</lang>
+
+<warning>High-contrast monochromatic scan. The text is written in vertical columns, alternating between standard/semi-cursive script and highly stylized cursive equivalents. Partial characters on the far left edge are excluded.</warning>
+
+宁乃繁。於叔。侯兮。不减詹。
+
+也。乃。繇。於。兮。兹。号。不。减。兹。
+
+稱攝。將屬。倚其。橐借。來旋。
+
+称。括。将。委。传。来。隶。借。来。乾。
+
+魁賦。真難。別朔。邦豈。易參。
+
+虛。連。去。雜。子。耶。孤。望。而。策。
+
+<vocab>草訣百韻歌 (Cursive Rhymes), 草書 (Cursive script), 楷書 (Regular script), Calligraphy manual, mnemonic, 叔侯, 橐, 魁賦</vocab>
+
+--- Page 36 ---
+<lang>zh</lang>
+<page-num>十九</page-num>
+<header>三才圖會 人事三卷</header>
+
+<margin>三才圖會</margin>
+<margin>人事三卷</margin>
+
+| 楷書 (Regular) | 草書 (Cursive) | 楷書 (Regular) | 草書 (Cursive) | 楷書 (Regular) | 草書 (Cursive) |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| 常 | 常<gloss>。</gloss> | 才 | 才<gloss>。</gloss> | 東 | 東 |
+| 收 | 收<gloss>。</gloss> | 畔 | 畔 | 同 | 同 |
+| 無 | 無 | 詳 | 詳 | 柬 | 柬<gloss>。</gloss> |
+| 用 | 用 | 牋 | 牋<gloss>。</gloss> | 且 | 且<gloss>。</gloss> |
+| 直 | 直 | 牒 | 牒<gloss>。</gloss> | 異 | 異<gloss>。</gloss> |
+| 密 | 密<gloss>。</gloss> | 水 | 水 | 府 | 府<gloss>。</gloss> |
+| 上 | 上 | 元 | 元 | 象 | 象<gloss>。</gloss> |
+| 不 | 不 | 看 | 看<gloss>。</gloss> | 辱 | 辱<gloss>。</gloss> |
+| 須 | 須<gloss>。</gloss> | 永 | 永<gloss>。</gloss> | 還 | 還<gloss>。</gloss> |
+| 下 | 下 | 泉 | 泉<gloss>。</gloss> | 偏 | 偏 |
+
+<margin>十九</margin>
+
+<vocab>三才圖會, 人事, 楷書, 草書, 書法, Calligraphy, Sancai Tuhui</vocab>
+
+--- Page 37 ---
+<lang>Chinese</lang>
+
+<meta>image quality: clear black ink on aged paper, slight bleed-through from verso, characters in semi-cursive and cursive script (行草), includes traditional punctuation circles</meta>
+
+才傍干成卉。勾盤東作闊。
+
+才傍子來打。一起东化軍。
+
+---
+
+鄉鄉隨口得。愛鑿與奎全。
+
+々々隨口得。生堂令奎全。
+
+---
+
+王出頭為武。干銜點是丹。
+
+玉出門為主。々點是丹。
+
+<vocab>拆字 (glyphomancy/character splitting), 卉 (plants/three tens), 闊 (wide), 奎 (Kui constellation), 銜 (to hold in mouth), 丹 (cinnabar/red)</vocab>
+
+--- Page 38 ---
+<lang>zh</lang>
+<meta>
+image quality: clear; woodblock print; calligraphy style: standard (Kai) with cursive (Cao) examples; source: likely a version of the 'Cao Jue Bai Yun Ge' (Hundred Rhymes of Cursive Script).
+</meta>
+
+啼。號。應有法
+雲。唐。豈無傳
+
+誦。編。范。弓。佳。
+雲。云。豈葉傳
+
+盜。意。脚同遮
+熊。結。身似然
+
+洗。足。指同這
+結。指。方似指
+
+矣。其頭少變
+兵。共足雙聯
+
+矣。矣。路少矣
+矣。矣。亡其形
+
+<vocab>草訣百韻歌, 啼號, 雲唐, 誦編范弓佳, 盜意, 熊結, 洗足, 矣, 草書</vocab>
+
+--- Page 39 ---
+<lang>zh</lang>
+<page-num>二十</page-num>
+<header>三才圖會 人事三卷</header>
+
+莫寫包。庸。守。
+勿書綠。是。緣。
+
+茫。寄。世。
+痛。中。
+勿雜。孫。是。孫。
+
+設。將。繩。當。臘。
+休。認。寡。為。寬。
+
+清。游。泥。尚。涴。
+佐。洪。憲。為。家。
+
+即。脚。猶。如。忍。
+還。身。附。近。遷。
+
+改。徹。移。如。且。
+意。不。附。丘。遷。
+
+<vocab>三才圖會, 人事, 疑似字, 辨疑, 書法, 草書, 莫寫, 勿書, 勿雜, 休認</vocab>
+
+--- Page 40 ---
+<lang>zh</lang>
+<page-num>21</page-num>
+<header>三才圖會 人事三卷</header>
+<sig>二十一 王</sig>
+<meta>This page is from the 'Sancai Tuhui' (三才圖會), specifically the 'Human Affairs' (人事) section, Volume 3. It contains a portion of the 'Cao Jue Bai Yun Ge' (草訣百韻歌), a mnemonic poem for learning and distinguishing cursive script (caoshu) characters.</meta>
+
+寒容審有象  憲害實相牽
+<gloss>寒</gloss> <gloss>容</gloss> <gloss>審</gloss>。 <gloss>有</gloss>。 <gloss>象</gloss> <gloss>憲</gloss>。 <gloss>害</gloss>。 <gloss>實</gloss>。 <gloss>相</gloss> <gloss>牽</gloss>
+
+---
+
+滿外仍知備  醫初尚類堅
+<gloss>滿</gloss>。 <gloss>外</gloss> <gloss>仍</gloss> <gloss>知</gloss> <gloss>備</gloss> <gloss>醫</gloss>。 <gloss>初</gloss> <gloss>尚</gloss> <gloss>類</gloss> <gloss>堅</gloss>。
+
+---
+
+直須明謹鮮  亦合別荆前
+<gloss>直</gloss> <gloss>須</gloss> <gloss>明</gloss> <gloss>謹</gloss> <gloss>鮮</gloss>。 <gloss>亦</gloss> <gloss>合</gloss> <gloss>別</gloss> <gloss>荆</gloss> <gloss>前</gloss>
+
+<vocab>三才圖會, 草訣百韻歌, 草書, 楷書, 人事, Calligraphy, Mnemonic</vocab>
+
+--- Page 41 ---
+<lang>zh</lang>
+
+賴向戈牛始。
+雞項下子先。
+翁向戈半始。
+姻誰以此子先。
+撇之非是之。
+勾木木可成村。
+入亡化是之。
+之木之成林。
+蕭鼠頭先辨。
+寅賓腹裏誰。
+萬萬何如先。
+蝨寅寅放意淫。
+
+<vocab>字謎, 拆字, 筆畫, 雞項, 鼠頭, 寅賓</vocab>
+
+--- Page 42 ---
+<lang>Chinese</lang>
+<meta>The manuscript contains mnemonics for the formation of Chinese characters in cursive script (caoshu). These verses are likely variations of the "Song of a Hundred Rhymes for Cursive Script" (草訣百韻歌), a pedagogical text used to help students distinguish between similar-looking cursive forms and remember their components.</meta>
+
+---
+
+亞加上心惡。
+兆戴兔頭龜。
+
+亡加上心忘。
+非戔心是悲。
+
+點至甚成急。
+句干認是卑。
+
+點至甚成急。
+句干認是卑。
+
+專宜走處可當運。
+<gloss>心加寺</gloss>
+
+詩且佳與手持記。
+<gloss>彳加寺</gloss>
+
+---
+
+<vocab>草書 (cursive script), 草訣百韻歌 (Hundred Rhymes of Cursive Script), 亞 (ya), 惡 (e), 龜 (gui), 忘 (wang), 悲 (bei), 甚 (shen), 急 (ji), 卑 (bi), 運 (yun), 寺 (temple radical)</vocab>
+
+--- Page 43 ---
+<lang>Chinese</lang>
+<page-num>三一フ</page-num>
+<header>三一フ 圖備[...]事三</header>
+<meta>The text is written in a cursive/semi-cursive script (Xing-Cao) within a single-line border. Small circles appear between characters, likely acting as markers for strokes or rhythmic pauses in calligraphy. A small interlinear gloss "即" is noted in the first column.</meta>
+
+右邑<gloss>即</gloss>月何異左方。方亦為
+名。了。了。何。完。左。才。才。名。為
+舉。身。為。乙。未。登。體。用。非。之
+萬。牙。為。乙。未。學。終。用。心。也。
+路。左。言。如。借。時。邉。寸。莫。違。
+該。左。云。如。任。时。垂。寸。并。违。
+
+<vocab>右邑, 乙, 體用, 莫違, 該左, 路左, 學終用心</vocab>
+
+--- Page 44 ---
+<lang>Chinese</lang>
+<header>三才圖會 人事三卷</header>
+<page-num>二十七</page-num>
+
+| 正楷 | 草書 | 正楷 | 草書 | 正楷 | 草書 | 正楷 | 草書 |
+|:---|:---|:---|:---|:---|:---|:---|:---|
+| 草 | <gloss>草</gloss> | 惟 | <gloss>惟</gloss> | 齋 | <gloss>齋</gloss> | 象 | <gloss>象</gloss> |
+| 勾 | <gloss>勾</gloss> | 未 | <gloss>未</gloss> | 齊 | <gloss>齊</gloss> | 馬 | <gloss>馬</gloss> |
+| 添 | <gloss>添</gloss> | 分 | <gloss>分</gloss> | 魯 | <gloss>魯</gloss> | 員 | <gloss>員</gloss> |
+| 反 | <gloss>反</gloss> | 憂 | <gloss>憂</gloss> | 不 | <gloss>不</gloss> | 承 | <gloss>承</gloss> |
+| 慶。| <gloss>慶</gloss> | 夏。| <gloss>夏</gloss> | 較。| <gloss>較</gloss> | 戰 | <gloss>戰</gloss> |
+| 乙 | <gloss>乙</gloss> | 就 | <gloss>就</gloss> | 流 | <gloss>流</gloss> | 沛 | <gloss>沛</gloss> |
+| 九 | <gloss>九</gloss> | 中 | <gloss>中</gloss> | 染 | <gloss>染</gloss> | 沛 | <gloss>沛</gloss> |
+| 貼 | <gloss>貼</gloss> | 識 | <gloss>識</gloss> | 却 | <gloss>却</gloss> | 劫 | <gloss>劫</gloss> |
+| 人 | <gloss>人</gloss> | 采 | <gloss>采</gloss> | 相 | <gloss>相</gloss> | 打 | <gloss>打</gloss> |
+| 飛。| <gloss>飛</gloss> | 夷。| <gloss>夷</gloss> | 依。| <gloss>依</gloss> | 依。| <gloss>依</gloss> |
+
+<vocab>三才圖會, 人事, 草訣百韻歌, 楷書, 草書, 漢字對照</vocab>
+
+--- Page 45 ---
+<lang>Chinese</lang>
+<meta>image quality: high, woodblock print style with clear characters and punctuation marks</meta>
+
+或戒戔先設皐華脚預施
+或。戒。戔先謖集。兼。綺頸施
+縻虞元彷佛拒捉自依稀
+堂。雲。元何佛托。托。自依稀
+頂上哀余別冑中器谷非
+頂上知。知。羗胃中羌。羌。化
+
+<vocab>戔, 謖, 縻, 彷, 冑, 羗, 羌</vocab>
+
+--- Page 46 ---
+<lang>Chinese</lang>
+<header>三才圖會 人事三卷</header>
+<page-num>二十四</page-num>
+
+止知民倚氏。不道樹多枝。
+
+心去伐代後。代亦足梭匆枝。
+
+虞逼都来近。論臨勿妄窺。
+
+適道孝兼通。准准勿妄藐。
+
+趁傍合用短。遣上也同迷。
+
+起努台用紅。建貴通上也同迷。
+
+<vocab>三才圖會, 人事, 草訣百韻歌, cursive script, calligraphy mnemonics</vocab>
+
+--- Page 47 ---
+<lang>zh</lang>
+<meta>image quality: clear; page contains mnemonics for cursive script (草訣歌) regarding character structure and similarities.</meta>
+
+> 欲識高齋馬。須知兕旣兕。
+>
+> 豈識与馬等。何必去収兕。
+>
+> 專無失錯。窠筆在思維。
+>
+> 当書学生計。策第在回惶。
+>
+> 丈畔微彎。使孫邊不緒絲。
+>
+> 丈畔淑彎生。孫家不張孫。
+
+<vocab>草訣歌 (Song of Cursive Script), 窠筆 (ke bi - calligraphy brushwork/structure), 兕 (rhinoceros), 孫 (grandson), 彎 (curve)</vocab>
+
+--- Page 48 ---
+<lang>zh</lang>
+<page-num>三</page-num>
+<meta>This manuscript page is from a calligraphy manual, likely a version of the 'Hundred Rhymes of Cursive Script' (草書百韻歌). It illustrates common cursive (草書) forms alongside their standard script (楷書) equivalents to help students distinguish similar-looking characters. The first column provides a mnemonic rhyme for memorization.</meta>
+
+莫教九作願 勿使雍為離
+
+---
+
+醉 <gloss>醉</gloss>
+醉 <gloss>醉</gloss>
+方 <gloss>方</gloss>
+行 <gloss>行</gloss>
+處 <gloss>處</gloss>
+麗 <gloss>麗</gloss>
+琴 <gloss>琴</gloss>
+初 <gloss>初</gloss>
+起 <gloss>起</gloss>
+時 <gloss>時</gloss>
+
+---
+
+破 <gloss>破</gloss>
+破 <gloss>破</gloss>
+方 <gloss>方</gloss>
+行 <gloss>行</gloss>
+雲 <gloss>雲</gloss>
+麗 <gloss>麗</gloss>
+平 <gloss>平</gloss>
+梅 <gloss>梅</gloss>
+起 <gloss>起</gloss>
+时 <gloss>时</gloss>
+
+---
+
+裁 <gloss>裁</gloss>
+裁 <gloss>裁</gloss>
+當 <gloss>當</gloss>
+自 <gloss>自</gloss>
+記 <gloss>記</gloss>
+友 <gloss>友</gloss>
+發 <gloss>發</gloss>
+更 <gloss>更</gloss>
+須 <gloss>須</gloss>
+知 <gloss>知</gloss>
+
+---
+
+我 <gloss>我</gloss>
+我 <gloss>我</gloss>
+當 <gloss>當</gloss>
+分 <gloss>分</gloss>
+記 <gloss>記</gloss>
+友 <gloss>友</gloss>
+友 <gloss>友</gloss>
+文 <gloss>文</gloss>
+字 <gloss>字</gloss>
+知 <gloss>知</gloss>
+
+<vocab>草書, 楷書, 莫教九作願, 勿使雍為離, 醉, 破, 裁, 我, 友, 知</vocab>
+
+--- Page 49 ---
+<lang>zh</lang>
+<header>三才圖會</header>
+<page-num>身三卷</page-num>
+<meta>This page is from the "San Cai Tu Hui" (三才圖會), a renowned Ming dynasty encyclopedia. It features calligraphic examples in a fluid running-cursive script, likely illustrating specific stroke techniques or stylistic variations.</meta>
+
+忽訝劉如對從來岳似垂
+
+且訝雲如萬。漫來幾似垂
+
+合貪真不偶。退邑尚參差
+
+絲絲生不偶。過已當采耳
+
+減減何曾誤。黨堂未易追
+
+幟幟何曾從。堂堂未易追
+
+<vocab>三才圖會, 草書, 筆法, 懸針, 垂露, 句讀</vocab>
+
+--- Page 50 ---
+<lang>zh</lang>
+<page-num>三十八</page-num>
+<header>三才圖會</header>
+<meta>人事三卷</meta>
+<meta>二十八</meta>
+
+<note>This page is from the "Cao Jue Bai Yun Ge" (草訣百韻歌), a mnemonic poem used to teach the forms of Chinese cursive script (Caoshu). Each line provides a rule or comparison between standard and cursive forms.</note>
+
+女懷丹是奴 叟棄點成皮
+
+若謂涉同淺 須教賤作師
+
+鼇鼋龜鼈一類 茶菊策更親
+
+<vocab>草訣百韻歌, 草書, Caoshu, cursive calligraphy, 三才圖會, Sancai Tuhui, mnemonics</vocab>
+
+--- Page 51 ---
+<lang>Chinese</lang>
+<meta>image quality: clear, woodblock-style print</meta>
+
+### 非
+作
+渾
+如
+化
+功
+勞
+摠
+善
+身
+
+### 兆
+兆
+渾
+如
+化
+功
+芳
+括
+兹
+示
+
+---
+
+### 示
+衣
+尤
+可
+惑
+庵
+宅
+進
+相
+隣
+
+### 云
+衣
+尤
+可
+惑
+先
+宅
+迷
+书
+瑞
+
+---
+
+### 道
+吴
+吴
+難
+測
+竟
+克
+克
+有
+淪
+
+### 逆
+吴
+吴
+難
+測
+竟
+克
+克
+写
+倫
+
+<vocab>cursive script (草書), calligraphy manual (字帖), confusingly similar characters (疑似字), 摠, 括, 善, 兹, 庵, 瑞, 淪, 倫</vocab>
+
+--- Page 52 ---
+<lang>Chinese</lang>
+
+市於增一點合欲可同人
+
+才於塲一點意不如同人
+
+數段情何密曰甘勢則匀
+
+為兩情何必曰內勢勿匀
+
+固雖防夢簡自合定浮淳
+
+固階荷尋骨自令定淳淳
+
+<vocab>市 (market), 才 (talent), 數 (number), 為 (to be/act), 固 (solid/firm), 匀 (even/balanced), 淳 (pure/simple), calligraphy technique, character structure (勢)</vocab>
+
+--- Page 53 ---
+<lang>zh</lang>
+<header>三才圖會 人事三卷</header>
+<page-num>二十七</page-num>
+
+添一車牛幸點三上下心
+
+馮一东斗半點三小六心
+
+參參全不別闒異豈曾分
+
+策策全非示孿孿豈是兹
+
+奪舊元無異羸贏自有因
+
+焉舊元無異羸贏自有因
+
+<vocab>三才圖會, 人事, 草訣百韻歌, 草書, Calligraphy mnemonics, 奪, 焉, 羸贏</vocab>
+
+--- Page 54 ---
+<lang>Chinese</lang>
+<page-num>三</page-num>
+<header>書譜下</header>
+<meta>The text is written in a semi-cursive (行草) script, likely from a woodblock edition of a calligraphy treatise. Punctuation marks (句讀) are indicated by small circles to the right of certain characters.</meta>
+
+勢頭宗掣緊。重體效平章。
+
+劣似宗處。却系緜敕平宗。
+
+合戒哉。依嵗寧容拳近。秦。
+
+言戒某。估弃寧客拳止。素。
+
+邪聽行復止。即斷。屈仍伸。
+
+勢犯仍收心。改致到。屈仍伸。
+
+<vocab>書譜, 孫過庭, 行草, 句讀, 勢頭, 重體, 屈仍伸, 緜敕</vocab>
+
+--- Page 55 ---
+<lang>Chinese</lang>
+<page-num>十五</page-num>
+<header>三才圖會人事一卷</header>
+<meta>The page is a calligraphy specimen from the "Sancai Tuhui" (三才圖會), specifically the "Human Affairs" (人事) section. It displays characters in pairs, comparing standard/running script (right of each pair) with their cursive (caoshu) counterparts (left of each pair).</meta>
+
+| (Cursive) | (Standard) | (Cursive) | (Standard) | (Cursive) | (Standard) | (Cursive) | (Standard) |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| 兮 。 | 兮 。 | 葛 。 | 葛 。 | 最 。 | 最 。 | 田 。 | 田 。 |
+| 兮 。 | 兮 。 | 尊 。 | 尊 。 | 迫 。 | 迫 。 | 了 。 | 了 。 |
+| 乎 。 | 乎 。 | 草 。 | 草 。 | 艱 。 | 艱 。 | 土 。 | 土 。 |
+| 上 。 | 上 。 | 上 。 | 上 。 | 難 。 | 難 。 | 求 。 | 成 。 |
+| 同 。 | 同 。 | 得 。 | 得 。 | 歎 。 | 歎 。 | 野 。 | 野 。 |
+| 敲 。 | 敲 。 | 廓 。 | 廓 。 | 老 。 | 老 。 | 七 。 | 七 。 |
+| 敲 。 | 敲 。 | 廟 。 | 廟 。 | 疑 。 | 疑 。 | 九 。 | 九 。 |
+| 了 。 | 了 。 | 月 。 | 月 。 | 事 。 | 事 。 | 了 。 | 了 。 |
+| 盃 。 | 盃 。 | 邊 。 | 邊 。 | 予 。 | 予 。 | 收 。 | 收 。 |
+| 生 。 | 生 。 | 生 。 | 生 。 | 争 。 | 争 。 | 聲 。 | 聲 。 |
+
+<vocab>三才圖會, 人事, 草書, 楷書, 成, 求, 盃, 敲</vocab>
+
+--- Page 56 ---
+<lang>zh</lang>
+<header>三才圖會 人事三卷</header>
+<page-num>八十三</page-num>
+<meta>Woodblock print showing calligraphic character specimens; alternating columns of semi-cursive (Xingshu) and cursive (Caoshu) scripts.</meta>
+
+里力。斯成。晷圭。心可。是春。
+**里力。斯成。晷圭。心可。是春。**
+
+---
+
+出書觀項。轉別。列看。頭。平。
+**出書觀項。轉別。列看。頭。平。**
+
+---
+
+我家曾不遠。君畏自相仍。
+**我家曾不遠。君畏自相仍。**
+
+<vocab>三才圖會, Sancai Tuhui, 人事, Ren Shi, calligraphy, 楷書, Kaishu, 行書, Xingshu, 草書, Caoshu, Ming Dynasty, encyclopedia</vocab>
+
+<detected-images>
+[{"description": "A page from the Sancai Tuhui encyclopedia displaying calligraphic character models. The page features six vertical columns of text: three in a standard/semi-cursive script acting as labels for the three adjacent columns in a more flamboyant cursive script. Small circles serve as phrase-level punctuation or markers for character pairs.", "type": "woodcut", "bbox": {"x": 0.12, "y": 0.13, "width": 0.74, "height": 0.73}, "gallery_quality": 0.8, "museum_rationale": "High-quality representative example of Ming dynasty educational woodblock printing focused on calligraphy and script variations."}]
+</detected-images>
+
+--- Page 57 ---
+<lang>zh</lang>
+<page-num>二十九</page-num>
+<meta>This page appears to be from a secret society manual, likely related to the Tiandihui (Heaven and Earth Society). It contains mnemonic verses (拆字詩) for constructing secret characters and instructions for ritual completion, written in a mix of regular and running script.</meta>
+
+甚人犬傍獲。么交王伴瓊。
+古人大傍後。糸多王伴瓊。
+膝膝中委曲。次比兩分明。
+揉揉中委曲。以以為各明。
+
+---
+
+二。下客為亂。藏了。則寧。
+二。六。書為終。六。竅。完了。乃。安。
+
+<vocab>獲 (capture/gain), 瓊 (fine jade), 下客 (low guest/member), 六竅 (six apertures/senses), 委曲 (winding/intricate)</vocab>
+
+--- Page 58 ---
+<lang>zh</lang>
+
+而由問上點早得幸頭門
+<gloss>而由問上點早得幸頭門</gloss>
+
+---
+
+恥死休相犯泉朝喜共臨
+<gloss>恥死休相犯泉朝喜共臨</gloss>
+
+---
+
+鹿頭真戴草狐足乃疑心
+<gloss>鹿頭真戴草狐足乃疑心</gloss>
+
+---
+
+惹師去幾草犯亡乃格心
+
+<vocab>草字歌, 草聖格, 草書, 楷書, Calligraphy, Mnemonics, 而由問上點, 鹿頭真戴草, 惹師去幾草</vocab>
+
+--- Page 59 ---
+<lang>lzh</lang>
+<header>三才圖會 人事三卷</header>
+<page-num>三十</page-num>
+
+勿使微成漸矣。容。悶。即。昆。
+勿史淋成漸。秀。宣。心。昭。君。
+作南。觀。西南。求。鼎。見。棘。林
+化。南。款。南。求。丹。見。朱。林
+休。助。一。居。下。棄。奔。七。尚。尊
+俛。此。一。呑。六。葉。羨。七。当。学
+
+<vocab>三才圖會, 人事, 草書, 草法辨疑, 楷草對照</vocab>
+
+--- Page 60 ---
+<lang>zh</lang>
+<header>草訣</header>
+<page-num>三十三</page-num>
+
+繋頭真似繋 <gloss>○</gloss> 帛下即如禽
+
+粲非生似絜 <gloss>○</gloss> 否公即好竒
+
+溝 <gloss>○</gloss> 渫皆從戈 <gloss>○</gloss> 紃箋並用少
+
+淹 <gloss>○</gloss> 漾中從戈 <gloss>○</gloss> 安籕只用少
+
+懼懷容易失 <gloss>○</gloss> 會念等閒并
+
+性愧不分生 <gloss>○</gloss> 去合知閒并
+
+<vocab>草訣百韻歌, 草書, cursive script, calligraphy manual, mnemonics</vocab>
+
+--- Page 61 ---
+<lang>zh</lang>
+<page-num>二十一</page-num>
+<header>人事 三 卷</header>
+
+| 正書 (Standard) | 草書 (Cursive) | 正書 (Standard) | 草書 (Cursive) | 正書 (Standard) | 草書 (Cursive) |
+|:---|:---|:---|:---|:---|:---|
+| 感。 | 感 | 欵。 | 欵 | 近。 | 近 |
+| 惑。 | 惑 | 類。 | 類 | 息。 | 息 |
+| 威。 | 威 | 終。 | 終 | 追。 | 追 |
+| 相。 | 相 | 別。 | 別 | 微。 | 微 |
+| 等。 | 等 | 白。 | 白 | 異。 | 異 |
+| 取。 | 取 | 昐。 | 昐 | 喬。 | 喬 |
+| 歆。 | 歆 | 耿。 | 耿 | 商。 | 商 |
+| 殷。 | 殷 | 豈。 | 豈 | 高。 | 高 |
+| 可。 | 可 | 容。 | 容 | 不。 | 不 |
+| 親。 | 親 | 昏。 | 昏 | 羣。 | 羣 |
+
+<vocab>人事 (Human Affairs), 正書 (Standard Script), 草書 (Cursive Script), calligraphy copybook, woodblock print, tone markers</vocab>
+
+--- Page 62 ---
+<lang>zh</lang>
+<warning>The manuscript is written in cursive script (Caoshu), which includes highly stylized characters and abbreviations typical of 16th-18th century calligraphy manuals.</warning>
+
+台名依召立。敝類逐嚴分。
+
+賈名休不立。都散不成和。
+
+鄒歌歌難見。成幾賊易聞。
+
+影影影難見。采采态易巾。
+
+傳傳相競點。苗辨首還是心。
+
+傳傳打説點。為辨道还是心。
+
+<vocab>草訣百韻歌, 草書, 台名依召立, 敝類逐嚴分, 賈名休不立, 鄒歌歌難見, 影影影難見, 傳傳相競點</vocab>
+
+--- Page 63 ---
+<lang>lzh</lang>
+<header>三才圖會 人事 三卷</header>
+<page-num>三十三</page-num>
+
+昌。曲。終。如。魯。食。良。末。若。吞。
+
+玉。如。珠。如。色。如。良。末。若。吞。
+
+改。項。聊。近。体。曹。甚。不。同。根。
+
+次。以。形。顧。上。體。去。去。不。同。和。
+
+<margin>舊說唐同雁當思孝似存</margin>
+意。況。底。回。落。皆。里。存。以。存。
+
+<vocab>三才圖會, 人事, 昌曲, 曹, 唐同雁, 似存</vocab>
+
+--- Page 64 ---
+<lang>zh</lang>
+<page-num>三十七</page-num>
+<header>三才圖會</header>
+<header>人事三卷</header>
+
+<margin>
+三才圖會
+
+人事三卷
+
+三十七
+</margin>
+
+掃除休得混。彭赴可相侵。
+
+*揚揚儘得潔。楚楚可相倘。*
+
+---
+
+世老偏多火。謝衡正淺深。
+
+*世老偏多火。謝衡正淺深。*
+
+---
+
+酒花分水草。枝放別支文。
+
+*酒花分水草。枝放別支文。*
+
+<vocab>三才圖會, 草訣百韻歌, 草書, 人事, 相似字</vocab>
+
+--- Page 65 ---
+<lang>Chinese</lang>
+
+可愛郊鄰郭偏耳。誰交湛
+
+不 <gloss>。聖。</gloss> 知 <gloss>。赦。</gloss> 教 <gloss>。偏。</gloss> 宜 <gloss>。法。</gloss> 友 <gloss>。汪。</gloss>
+
+習觀義獻跡免使墨池渾
+
+習親篆比諦免生墨池深
+
+<vocab>墨池, 義獻, 篆, 習, 郊鄰</vocab>
+
+--- Page 66 ---
+<lang>zh</lang>
+
+# 草法論
+
+凡草書之體如人坐臥行立揖遜忿爭乘舟躍馬歌舞抃
+踊一切變態各有義理不可忽也
+夫草下筆之始須藏鋒轉腕前緩後急字體形勢狀如蠆
+蛇意相鉤連莫令間斷仍須簡略爲上不貴繁冗至如稜
+側起伏隨勢所立大抵間俔取妙其有誤發不可再摹恐
+失其筆勢若有點處須空中遥擲下勢猶高峰墜石下筆
+要如放箭箭不欲遲遲則中物不入雖則施於草跡亦須
+時時象其篆勢八分章草古隸等體要相合雜發人意思
+
+<vocab>草法論, 抃踊, 藏鋒, 轉腕, 蠆蛇, 稜側, 篆勢, 八分, 章草, 古隸</vocab>
+
+--- Page 67 ---
+<lang>zh</lang>
+<page-num>三十七</page-num>
+<header>人習三卷</header>
+<meta>image quality: clear woodblock print; contains Japanese marginalia on the far right edge</meta>
+
+若直取俗字則不能先參成毫尤須靜思閑雅然中於慮
+則得之
+
+## 王羲之草書勢
+
+疾若驚蛇失道進若瀠水徘徊緩則鵝行急則鵲厲抽如
+雉踞點如兔擲乍駐乍引任意所為或龐或細隨態運奇
+雲集水散風迴電馳及其成也粗而有筋似蒲萄之蔓延
+女蘿之縈縈紫澤蛇之怛絞山熊之對爭若翬超而不飛欲
+走而還停狀若山之有玄玉河漢之有列星厥體雖窮
+類多姿婀娜如削弱柳聳秀如長松婆娑而同鳳
+
+<vocab>王羲之, 草書勢, 筆勢, 書法, calligraphy, cursive script</vocab>
+
+--- Page 68 ---
+<lang>zh</lang>
+<header>三才圖會 人事三卷</header>
+<page-num>三十五</page-num>
+
+搏而似蛟龍縱橫如結聯綿如繩流離似繡磊落如綾曄
+曄曄曄奕奕翩翩或臥而似側或立而似顛斜而復正斷
+而還連若白水之遊羣似叢林之掛騰猿狀衆獸之送原
+陸飛鳥之戲晴天象烏雲之昇恒嶽紫霧之出衡山巉巖
+若嶺血脈如泉
+
+<vocab>三才圖會 (Sancai Tuhui), 蛟龍 (Dragon), 聯綿 (Continuous), 磊落 (Heaped/Luminous), 騰猿 (Leaping ape), 恒嶽 (Mount Heng), 衡山 (Mount Heng), 血脈 (Blood pulse/vessels)</vocab>
+
+--- Page 69 ---
+<lang>Chinese</lang>
+
+### 隸字圖
+
+# 散行三十六法 入門之首
+
+### 點法
+
+<vocab>隸字圖, 散行三十六法, 入門之首, 點法, calligraphy, Clerical script</vocab>
+
+<detected-images>
+[{"description": "A vertical series of four boxes demonstrating various calligraphic brush techniques for 'dots' (點法), showing the shape and pressure required for different styles of strokes.", "type": "diagram", "bbox": {"x": 0.14, "y": 0.14, "width": 0.34, "height": 0.74}, "gallery_quality": 0.8, "museum_rationale": "A clear educational diagram from a classical Chinese calligraphy manual, illustrating the fundamental 'Thirty-six methods' (三十六法) for brushwork."}]
+</detected-images>
+
+--- Page 70 ---
+<lang>Chinese</lang>
+<header>三才圖會卷 人事 三</header>
+<page-num>三</page-num>
+<meta>This page is from the Sancai Tuhui (Collected Illustrations of the Three Realms), a Ming dynasty encyclopedia compiled by Wang Qi and Wang Siyi. It displays a visual guide to calligraphic strokes, specifically variations of the "dot" (dian).</meta>
+
+<vocab>三才圖會, 人事, 書法, 點</vocab>
+
+<detected-images>
+[{"description": "A 2x4 grid of woodblock-printed calligraphic brushstrokes, illustrating eight different forms of the 'dot' (dian) stroke used in Chinese calligraphy.", "type": "diagram", "bbox": {"x": 0.106, "y": 0.087, "width": 0.748, "height": 0.835}, "gallery_quality": 0.85, "museum_rationale": "As a page from the Sancai Tuhui (1609), this image represents a key historical document of Ming dynasty educational and encyclopedic woodblock printing, specifically relating to the transmission of calligraphic techniques."}]
+</detected-images>
+
+--- Page 71 ---
+<lang>zh</lang>
+<header>三才圖會 人事三卷</header>
+
+## 畫法
+
+<margin>毛</margin>
+
+<vocab>三才圖會, 人事, 畫法, 毛, Sancai Tuhui, Drawing Techniques, Eyebrows</vocab>
+
+<detected-images>
+[{"description": "A technical diagram from the Sancai Tuhui encyclopedia, featuring a 2x4 grid. Each of the eight cells contains a specific calligraphic brushstroke used as a model for drawing hair or eyebrows (毛). The strokes vary in thickness, curvature, and 'tail' execution, demonstrating the 'Huafa' (drawing method).", "type": "diagram", "bbox": {"x": 0.128, "y": 0.125, "width": 0.725, "height": 0.748}, "gallery_quality": 0.85, "museum_rationale": "This is a quintessential example of technical woodblock illustration from the Ming Dynasty encyclopedia Sancai Tuhui. It serves as an important historical record of pedagogical methods in traditional Chinese painting and calligraphy."}]
+</detected-images>
+
+--- Page 72 ---
+<lang>zh</lang>
+
+<gloss>勾法</gloss>
+
+# 一
+
+# 一
+
+<gloss>直法</gloss>
+
+# 丨
+
+# 丨
+
+<vocab>勾法, 直法, 書法, 筆法, 楷書</vocab>
+
+<detected-images>
+[{"description": "Instructional woodblock print illustrating basic Chinese calligraphy strokes. The page is divided into a 2x4 grid showing horizontal strokes (一), vertical strokes (丨), and various hook techniques, labeled with '勾法' (Hook Method) and '直法' (Straight Method).", "type": "diagram", "bbox": {"x": 0.125, "y": 0.135, "width": 0.725, "height": 0.745}, "gallery_quality": 0.85, "museum_rationale": "A clear and well-preserved example of traditional pedagogical materials for Chinese calligraphy, demonstrating the fundamental stroke types and the woodblock printing style used in educational manuals."}]
+</detected-images>
+
+--- Page 73 ---
+<lang>zh</lang>
+
+<meta>Woodblock printed calligraphy manual page, black and white. Image shows a structured grid for teaching brush stroke components.</meta>
+
+| | |
+|---|---|
+| <diagram: calligraphy stroke component — vertical-horizontal turn ┐> | 撇法六 <br> <diagram: calligraphy stroke component — standard left-slanting 撇> |
+| <diagram: calligraphy stroke component — curved horizontal turn> | <diagram: calligraphy stroke component — curved left-slanting 撇> |
+| <diagram: calligraphy stroke component — short corner turn> | <diagram: calligraphy stroke component — short left-slanting 撇> |
+| <diagram: calligraphy stroke component — frame-like turn 冂> | <diagram: calligraphy stroke component — wavy/flicked left-slanting 撇> |
+
+<vocab>撇法 (Piě fǎ - methods of the left-slanting stroke), calligraphy manual, woodblock print</vocab>
+
+<detected-images>
+[{"description": "A grid containing eight calligraphic brush stroke components, demonstrating variations of the 'piě' (left slant) and 'zhé' (turn) strokes used in Chinese characters.", "type": "diagram", "bbox": {"x": 0.158, "y": 0.134, "width": 0.732, "height": 0.742}, "gallery_quality": 0.75, "museum_rationale": "An excellent example of traditional woodblock educational materials, illustrating the structured pedagogical approach to Chinese calligraphy."}]
+</detected-images>
+
+--- Page 74 ---
+<lang>zh</lang>
+<header>三才圖會 人事三卷</header>
+<page-num>二十八</page-num>
+
+| | |
+| :---: | :---: |
+| ㇏ | ㇇ |
+| ㇏ | 乙 |
+| ㇗ | ㇖ |
+| ㇄ | ㇕ |
+
+<vocab>三才圖會, Sancai Tuhui, 人事, Human Affairs, 筆法, brushwork, strokes, 楷書, regular script, woodblock print</vocab>
+
+<detected-images>
+[{"description": "A collection of eight calligraphic brush stroke diagrams arranged in a two-column grid, illustrating standard components of Chinese character writing. These strokes are foundational elements for regular script (kaishu).", "type": "diagram", "bbox": {"x": 0.12, "y": 0.11, "width": 0.73, "height": 0.75}, "gallery_quality": 0.8, "museum_rationale": "This page is from the Sancai Tuhui, a renowned Ming Dynasty encyclopedia. It provides a clear and historically significant representation of the pedagogical approach to Chinese calligraphy during that era, reflecting the classical 'Eight Principles of Yong' philosophy."}]
+</detected-images>
+
+--- Page 75 ---
+<lang>zh</lang>
+<meta>Calligraphy instructional page, likely a woodblock print model book for brushwork practice.</meta>
+
+| | |
+|---|---|
+| 亻 | 丿 |
+| 亅 | 亅 |
+| 彳 | 丿 |
+| 亏 | ㇏ |
+
+<vocab>calligraphy, 楷書 (Kaishu), 撇 (Pie), 捺 (Na), 鉤 (Gou), radicals, brushwork</vocab>
+
+<detected-images>
+[{"description": "A page from a calligraphy manual displaying basic strokes and radicals in a grid for instructional purposes.", "type": "diagram", "bbox": {"x": 0.12, "y": 0.13, "width": 0.76, "height": 0.75}, "gallery_quality": 0.75, "museum_rationale": "This page is a clear example of traditional East Asian pedagogical methods for teaching brushwork, illustrating the isolation of specific character components."}]
+</detected-images>
+
+--- Page 76 ---
+<lang>zh</lang>
+<page-num>二十九</page-num>
+<header>三才圖會 人事三卷</header>
+
+| 廻法 | 挾法 |
+|:---:|:---:|
+| <term>力</term> | 乀 |
+| <term>刀</term> | 乀 |
+| <term>力</term> | <term>一</term> |
+| <term>刀</term> | <term>一</term> |
+
+<vocab>三才圖會, 人事, 廻法, 挾法, 力, 刀, calligraphy, archery</vocab>
+
+<detected-images>
+[{"description": "A grid-based diagram illustrating different calligraphic stroke styles or technical hand positions labeled 'Huifa' (廻法, revolving method) and 'Xiefa' (挾法, clamping method).", "type": "diagram", "bbox": {"x": 0.18, "y": 0.14, "width": 0.68, "height": 0.76}, "gallery_quality": 0.75, "museum_rationale": "This page is from the Sancai Tuhui (Collected Illustrations of the Three Realms), a significant 17th-century Chinese encyclopedia. The diagrams are representative of Ming dynasty technical woodblock printing and educational layout."}]
+</detected-images>
+
+--- Page 77 ---
+<lang>zh</lang>
+<header>三才圖會</header>
+<page-num>四十</page-num>
+
+<margin>
+人事三卷
+</margin>
+
+---
+
+-> 亡 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 么 <-
+
+---
+
+-> <unclear> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 呂 <-
+<note>The right-hand character is a shorthand form consisting of three horizontal strokes and a central vertical stroke, likely a cursive component (草法).</note>
+
+---
+
+-> 了 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 公 <-
+
+---
+
+-> 了 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 公 <-
+
+<vocab>三才圖會, 人事, 亡, 么, 呂, 公, 了, 草書, 楷書, 書法</vocab>
+
+<detected-images>
+[{"description": "A calligraphic chart from the 'Sancai Tuhui' (Universal Encyclopedia) showing a grid of eight Chinese characters (亡, 么, 呂, 公, 了 and variants) in different script styles, including cursive (caoshu) and standard (kaishu) forms.", "type": "diagram", "bbox": {"x": 0.165, "y": 0.135, "width": 0.68, "height": 0.735}, "gallery_quality": 0.75, "museum_rationale": "A characteristic page from the Ming Dynasty encyclopedia Sancai Tuhui, documenting early modern Chinese calligraphic education and script variations."}]
+</detected-images>
+
+--- Page 78 ---
+<lang>zh</lang>
+
+口
+
+口
+
+口
+
+口
+
+<vocab>口</vocab>
+
+<detected-images>
+[{"description": "A vertical diagram consisting of four square characters ('口') contained within rectangular partitions on the right side of a divided frame.", "type": "diagram", "bbox": {"x": 0.13, "y": 0.15, "width": 0.74, "height": 0.74}, "gallery_quality": 0.3, "museum_rationale": "This is a simple schematic or diagrammatic page from a woodblock-printed text, likely part of a table of contents or a classification system using the character 'kou' (square/opening) as a marker."}]
+</detected-images>
+
+--- Page 79 ---
+<lang>Chinese</lang>
+<meta>The image appears to be a high-contrast woodblock print from a calligraphy manual. The layout consists of titles on the right and large-scale calligraphic examples on the left.</meta>
+
+## 總要五十六字
+## 用筆八法
+
+---
+
+# 倒
+# 回
+# 按
+# 揚
+
+<vocab>總要 (essentials), 五十六字 (fifty-six characters), 用筆八法 (eight methods of the brush), 倒 (reverse/down), 回 (return/circle), 按 (press), 揚 (lift/raise)</vocab>
+
+--- Page 80 ---
+<lang>Chinese</lang>
+<page-num>四十七</page-num>
+<header>三才圖會 人事三卷</header>
+<sig>正 止</sig>
+
+# 搥 搥
+# 砂 擁
+# 漙 法
+# 勒 意
+
+<vocab>三才圖會, 人事, 搥法, 漙勒</vocab>
+
+--- Page 81 ---
+<lang>zh</lang>
+<meta>Woodblock print of calligraphic principles</meta>
+
+# 相 均
+
+# 聯 圓
+
+# 楷 尖
+
+# 端 彎
+
+<vocab>相, 均, 聯, 圓, 楷, 尖, 端, 彎</vocab>
+
+<detected-images>
+[{"description": "Calligraphic specimens of eight Chinese characters arranged in a 2x4 grid.", "type": "woodcut", "bbox": {"x": 0.117, "y": 0.134, "width": 0.762, "height": 0.738}, "gallery_quality": 0.8, "museum_rationale": "A clear and well-preserved woodblock print showing traditional Chinese calligraphic forms (Regular script variants), likely from a calligraphy manual or aesthetic treatise."}]
+</detected-images>
+
+--- Page 82 ---
+<lang>zh</lang>
+<header>三才圖會 人事三卷</header>
+<meta>This page is from the Ming Dynasty encyclopedia "Sancai Tuhui" (三才圖會), specifically from the section "Human Affairs" (人事), Volume 3. It contains eight large characters in a 2x4 grid, likely serving as a title page or calligraphic exemplar for physiognomical terms describing physical and spiritual wholeness.</meta>
+<meta>Marginal notation at bottom right: 里</meta>
+
+# 福　神
+# 美　骨
+# 麗　肉
+# 精　全
+
+<vocab>三才圖會, 人事, 福, 神, 美, 骨, 麗, 肉, 精, 全</vocab>
+
+--- Page 83 ---
+<lang>zh</lang>
+<header>三才圖會 人事三卷</header>
+<sig>五三</sig>
+
+### 運筆七法
+
+| | |
+|:---:|:---:|
+| # 撇 | # 點 |
+| # 捺 | # 畫 |
+| # 連 | # 直 |
+| <gloss>字病五法</gloss> # 斬 | # 勾 |
+
+<vocab>三才圖會, 運筆七法, 字病五法, 點, 畫, 直, 勾, 撇, 捺, 連, 斬</vocab>
+
+<detected-images>
+[{"description": "A woodblock printed page from the Ming dynasty encyclopedia 'Sancai Tuhui' illustrating eight fundamental Chinese calligraphy strokes or techniques within a grid structure.", "type": "woodcut", "bbox": {"x": 0.146, "y": 0.141, "width": 0.718, "height": 0.746}, "gallery_quality": 0.85, "museum_rationale": "This is a significant historical document from a famous 17th-century Chinese encyclopedia, showcasing traditional pedagogical methods for calligraphy and high-quality woodblock printing."}]
+</detected-images>
+
+--- Page 84 ---
+<lang>Chinese</lang>
+
+| | |
+| :---: | :---: |
+| 欹 | 釘 |
+| 嫌 | 稜 |
+| 雯 | 角 |
+| 除 | 尖 |
+
+<vocab>釘, 欹, 稜, 嫌, 角, 雯, 尖, 除</vocab>
+
+--- Page 85 ---
+<lang>Chinese</lang>
+
+| | |
+| :---: | :---: |
+| **爪** | **孚** |
+| **燕** | **母** |
+| **尾** | **用** |
+| **忝** | **孿** |
+
+<vocab>孚, 爪, 母, 燕, 用, 尾, 孿, 忝, calligraphy, stroke examples, 燕尾</vocab>
+
+<detected-images>
+[{"description": "A woodblock print page from a Chinese calligraphy manual featuring a grid of eight large characters. The characters serve as models for specific stroke types and structural compositions, such as the 'swallow tail' (燕尾) stroke visible in the character 燕.", "type": "woodcut", "bbox": {"x": 0.123, "y": 0.134, "width": 0.748, "height": 0.738}, "gallery_quality": 0.75, "museum_rationale": "This is a fine example of traditional Chinese woodblock printing used for pedagogical calligraphic models (fatie). The sharp, bold lines clearly demonstrate the intended brushwork for students."}]
+</detected-images>
+
+--- Page 86 ---
+<lang>zh</lang>
+<header>三才圖會 人事三卷</header>
+<page-num>一六</page-num>
+<sig>署</sig>
+
+| | |
+| :--- | :--- |
+| # 頭 | # 七 |
+| # 拿 | # 一 <gloss>泰頌</gloss> |
+| # 鉤 | # 小 <gloss>鱗爪</gloss> |
+| # 兼 | # ナ <gloss>金鉤</gloss> |
+
+<vocab>三才圖會, 人事, 筆法, 泰頌, 鱗爪, 金鉤</vocab>
+
+<detected-images>
+[{"description": "A woodcut print page from the Sancai Tuhui encyclopedia showing calligraphic examples of strokes and characters arranged in a grid.", "type": "woodcut", "bbox": {"x": 0.138, "y": 0.148, "width": 0.728, "height": 0.741}, "gallery_quality": 0.7, "museum_rationale": "This page is from the 'Sancai Tuhui', a major 1609 Chinese encyclopedia, providing insight into Ming dynasty calligraphy and pedagogical styles."}]
+</detected-images>
+
+--- Page 87 ---
+<lang>zh</lang>
+<page-num>四十五</page-num>
+<header>三才圖會 人事三卷</header>
+<sig>上九</sig>
+
+| | |
+| :--- | :--- |
+| <gloss>子母</gloss><br># **𠂆** | <gloss>斬釗</gloss><br># **十** |
+| | <gloss>稜角</gloss><br># **十** |
+| | <gloss>尖</gloss><br># **小** |
+| | <gloss>歌</gloss><br># **人** |
+
+<vocab>三才圖會, 人事, 斬釗, 稜角, 尖, 歌, 子母</vocab>
+
+<detected-images>
+[{"description": "A woodblock print page from the Ming Dynasty encyclopedia 'Sancai Tuhui'. It displays a grid of calligraphic stroke patterns or symbolic notations, including stylized characters like 十 (cross), 小 (small/pointed), and 人 (person/man), each labeled with technical terms such as 'Zhan Zhao', 'Leng Jiao', 'Jian', and 'Ge'.", "type": "woodcut", "bbox": {"x": 0.12, "y": 0.16, "width": 0.75, "height": 0.74}, "gallery_quality": 0.75, "museum_rationale": "Significant example of early modern Chinese encyclopedic illustration and technical notation from the Ming period, specifically documenting calligraphic or rhythmic motifs."}]
+</detected-images>
+
+--- Page 88 ---
+<lang>zh</lang>
+<meta>vertical text layout, woodblock print, calligraphic treatise</meta>
+
+## 隸法論
+
+字形宜匾孔須七分長十分闊以字之大小爲差廣更要爲
+滿孔遠近看皆好
+握筆要緊更要懸拳緊則字書有力而不放懸拳則字形
+圓活而有神
+首學三十六散行法然後與上總要五十六字二者既精方
+可檢隸韻上字寫日就月將自然而妙矣
+凡隸書人謂宜匾殊不知妙不在匾挑拔平硬如折刀頭
+法曰方勁古拙斬釘截鐵備矣隋唐以降古法盡廢日漢
+
+<vocab>隸法論, 隸書, 匾, 懸拳, 隸韻, 方勁古拙, 隋唐, 斬釘截鐵, 日就月將</vocab>
+
+--- Page 89 ---
+<lang>zh</lang>
+<header>三才圖會 人事三卷</header>
+<page-num>四十八 一七二</page-num>
+
+字為分唐字為隸殊不知漢有隸分唐有分楷體不同也
+
+<vocab>三才圖會, 隸, 分, 楷, 人事</vocab>

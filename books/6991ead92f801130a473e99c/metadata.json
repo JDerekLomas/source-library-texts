@@ -1,0 +1,28 @@
+{
+  "id": "6991ead92f801130a473e99c",
+  "title": "Etudes et dessins sur l'atmosphere",
+  "display_title": "Etudes et dessins sur l'atmosphere",
+  "author": "Leonardo da Vinci",
+  "language": "Italian",
+  "year": 1880,
+  "published": "Unknown",
+  "pages_count": 86,
+  "pages_with_ocr": 86,
+  "pages_with_translation": 86,
+  "source_url": "https://sourcelibrary.org/book/6991ead92f801130a473e99c",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "gri_33125008093201"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:11.733Z",
+  "_hashes": {
+    "ocr": "4d4e1094cfc7937f",
+    "translation": "9cc69e8a480ad03e"
+  }
+}

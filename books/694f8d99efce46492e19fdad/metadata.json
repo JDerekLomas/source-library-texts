@@ -1,0 +1,28 @@
+{
+  "id": "694f8d99efce46492e19fdad",
+  "title": "Conclusiones sive Theses DCCCC",
+  "display_title": "900 Theses (1486 Rome Edition)",
+  "author": "Pico della Mirandola, Giovanni (1463-1494)",
+  "language": "Latin",
+  "year": 1486,
+  "published": "1486",
+  "pages_count": 89,
+  "pages_with_ocr": 89,
+  "pages_with_translation": 76,
+  "source_url": "https://sourcelibrary.org/book/694f8d99efce46492e19fdad",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "pico-1486-900-conclusiones"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:07.368Z",
+  "_hashes": {
+    "ocr": "bb932f0161d26b21",
+    "translation": "3a78bb6bff29de26"
+  }
+}

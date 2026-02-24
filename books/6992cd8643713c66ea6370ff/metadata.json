@@ -1,0 +1,28 @@
+{
+  "id": "6992cd8643713c66ea6370ff",
+  "title": "武備志(十三)",
+  "display_title": "武備志(十三)",
+  "author": "茅元儀",
+  "language": "Chinese",
+  "year": 1621,
+  "published": "1621",
+  "pages_count": 89,
+  "pages_with_ocr": 89,
+  "pages_with_translation": 72,
+  "source_url": "https://sourcelibrary.org/book/6992cd8643713c66ea6370ff",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "02092271.cn"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:07.988Z",
+  "_hashes": {
+    "ocr": "8e3faaa11d8e9b38",
+    "translation": "1a8a4bb128de458c"
+  }
+}

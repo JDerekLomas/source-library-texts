@@ -1,0 +1,28 @@
+{
+  "id": "6de72244-de19-430f-803b-730baec31ca6",
+  "title": "Daemonologie",
+  "display_title": "King James: Daemonologie (1597 First Edition)",
+  "author": "King James I of England",
+  "language": "English",
+  "year": 1597,
+  "published": "1597",
+  "pages_count": 91,
+  "pages_with_ocr": 91,
+  "pages_with_translation": 91,
+  "source_url": "https://sourcelibrary.org/book/6de72244-de19-430f-803b-730baec31ca6",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bim_early-english-books-1475-1640_daemonologie-in-forme-o_james-i_1597"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:04.847Z",
+  "_hashes": {
+    "ocr": "871ee8332ab68e87",
+    "translation": "a73968bd680c19f3"
+  }
+}

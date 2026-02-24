@@ -1,0 +1,28 @@
+{
+  "id": "6955836b57e3b773024f86a8",
+  "title": "The Amra Choluim Chilli of Dallan Forgaill (from Lebor na hUidre)",
+  "display_title": "The Amra Choluim Chilli of Dallan Forgaill (from Lebor na hUidre)",
+  "author": "Dallan Forgaill / John O Beirne Crowe",
+  "language": "English",
+  "year": 1871,
+  "published": "Unknown",
+  "pages_count": 86,
+  "pages_with_ocr": 86,
+  "pages_with_translation": 86,
+  "source_url": "https://sourcelibrary.org/book/6955836b57e3b773024f86a8",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "amracholuimchil00dall"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:10.754Z",
+  "_hashes": {
+    "ocr": "32b0b76a9f7dc9f8",
+    "translation": "07e927402d124489"
+  }
+}

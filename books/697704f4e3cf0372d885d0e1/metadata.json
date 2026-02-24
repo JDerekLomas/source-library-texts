@@ -1,0 +1,26 @@
+{
+  "id": "697704f4e3cf0372d885d0e1",
+  "title": "Bekandtnusz vom hayligen Sacrament des Leibs und Bluts Christi",
+  "display_title": "Bekandtnusz vom hayligen Sacrament des Leibs und Bluts Christi",
+  "author": "Schwenckfeld, Caspar",
+  "language": "German",
+  "year": 1534,
+  "published": "1534",
+  "pages_count": 88,
+  "pages_with_ocr": 88,
+  "pages_with_translation": 88,
+  "source_url": "https://sourcelibrary.org/book/697704f4e3cf0372d885d0e1",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:08.639Z",
+  "_hashes": {
+    "ocr": "fad4f00d3a0adbc0",
+    "translation": "91219c6e1b827cbc"
+  }
+}

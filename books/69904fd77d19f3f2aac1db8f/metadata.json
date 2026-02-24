@@ -1,0 +1,28 @@
+{
+  "id": "69904fd77d19f3f2aac1db8f",
+  "title": "Liber de Sole et Lumine",
+  "display_title": "Ficino: De Sole et Lumine (1493)",
+  "author": "Marsilio Ficino",
+  "language": "Latin",
+  "year": 1492,
+  "published": "Unknown",
+  "pages_count": 88,
+  "pages_with_ocr": 88,
+  "pages_with_translation": 76,
+  "source_url": "https://sourcelibrary.org/book/69904fd77d19f3f2aac1db8f",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "ita-bnc-in1-00000500-001"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:08.490Z",
+  "_hashes": {
+    "ocr": "9223265a56e90456",
+    "translation": "e23f6953c0ad7f8e"
+  }
+}

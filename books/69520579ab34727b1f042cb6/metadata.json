@@ -1,0 +1,28 @@
+{
+  "id": "69520579ab34727b1f042cb6",
+  "title": "Cantus circaeus",
+  "display_title": "Cantus circaeus",
+  "author": "Giordano Bruno",
+  "language": "Latin",
+  "year": 1582,
+  "published": "1582",
+  "pages_count": 85,
+  "pages_with_ocr": 85,
+  "pages_with_translation": 85,
+  "source_url": "https://sourcelibrary.org/book/69520579ab34727b1f042cb6",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "gallica": "bpt6k72781n"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": null,
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:12.179Z",
+  "_hashes": {
+    "ocr": "78781ed37079fd1a",
+    "translation": "9cc500577573a551"
+  }
+}

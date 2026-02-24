@@ -1,0 +1,26 @@
+{
+  "id": "6991d8938c1030b12444bfdb",
+  "title": "Satchakranirupanam",
+  "display_title": "Satchakranirupanam",
+  "author": "Purnananda Yati",
+  "language": "Sanskrit",
+  "year": 1577,
+  "published": "undated",
+  "pages_count": 88,
+  "pages_with_ocr": 88,
+  "pages_with_translation": 71,
+  "source_url": "https://sourcelibrary.org/book/6991d8938c1030b12444bfdb",
+  "license": "pdm",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:08.323Z",
+  "_hashes": {
+    "ocr": "bf61fcc74d0e8a86",
+    "translation": "6aed734d03184fb2"
+  }
+}

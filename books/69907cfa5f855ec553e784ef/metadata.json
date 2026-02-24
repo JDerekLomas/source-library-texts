@@ -1,0 +1,28 @@
+{
+  "id": "69907cfa5f855ec553e784ef",
+  "title": "Pancha Svara (Five Breaths)",
+  "display_title": "Pancha Svara",
+  "author": "Unknown",
+  "language": "Sanskrit",
+  "year": 1800,
+  "published": "1800",
+  "pages_count": 92,
+  "pages_with_ocr": 92,
+  "pages_with_translation": 74,
+  "source_url": "https://sourcelibrary.org/book/69907cfa5f855ec553e784ef",
+  "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "PanchaSvaraah5439Alm24Shlf5GhaDevanagariJyotish"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:04.132Z",
+  "_hashes": {
+    "ocr": "b1fdfddd7952e46f",
+    "translation": "e841d5af4ed235d4"
+  }
+}

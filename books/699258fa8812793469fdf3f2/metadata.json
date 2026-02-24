@@ -1,0 +1,28 @@
+{
+  "id": "699258fa8812793469fdf3f2",
+  "title": "Narada Sutra: An Inquiry Into Love (Bhakti-Jijnasa)",
+  "display_title": "Narada Sutra: An Inquiry Into Love (Bhakti-Jijnasa)",
+  "author": "E.T. Sturdy",
+  "language": "Sanskrit",
+  "year": 1896,
+  "published": "Unknown",
+  "pages_count": 85,
+  "pages_with_ocr": 85,
+  "pages_with_translation": 68,
+  "source_url": "https://sourcelibrary.org/book/699258fa8812793469fdf3f2",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "nradastraaninqu00sturgoog"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:12.476Z",
+  "_hashes": {
+    "ocr": "30edec63997e077c",
+    "translation": "36bfa08dd3c00146"
+  }
+}

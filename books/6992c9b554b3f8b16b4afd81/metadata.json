@@ -1,0 +1,28 @@
+{
+  "id": "6992c9b554b3f8b16b4afd81",
+  "title": "天文書 (Book of Astronomy)",
+  "display_title": "天文書 (Book of Astronomy)",
+  "author": "Unknown",
+  "language": "Chinese",
+  "year": 1383,
+  "published": "1383",
+  "pages_count": 90,
+  "pages_with_ocr": 90,
+  "pages_with_translation": 72,
+  "source_url": "https://sourcelibrary.org/book/6992c9b554b3f8b16b4afd81",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "02094435.cn"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:06.865Z",
+  "_hashes": {
+    "ocr": "4bb26f578e96ad0d",
+    "translation": "6614510ea604fe21"
+  }
+}

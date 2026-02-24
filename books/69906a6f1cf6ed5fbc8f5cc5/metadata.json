@@ -1,0 +1,28 @@
+{
+  "id": "69906a6f1cf6ed5fbc8f5cc5",
+  "title": "Graha Chikitsa",
+  "display_title": "Graha Chikitsa",
+  "author": "Unknown",
+  "language": "Sanskrit",
+  "year": 1905,
+  "published": "1905",
+  "pages_count": 90,
+  "pages_with_ocr": 90,
+  "pages_with_translation": 72,
+  "source_url": "https://sourcelibrary.org/book/69906a6f1cf6ed5fbc8f5cc5",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "in.ernet.dli.2015.546683"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:06.287Z",
+  "_hashes": {
+    "ocr": "db9c7b38e94f9139",
+    "translation": "7c2f9965b9954640"
+  }
+}

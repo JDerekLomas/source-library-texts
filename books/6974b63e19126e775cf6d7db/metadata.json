@@ -1,0 +1,26 @@
+{
+  "id": "6974b63e19126e775cf6d7db",
+  "title": "Ar-Lamechs von Sirap der Suendflut entrissene Gesaenge",
+  "display_title": "Ar-Lamechs von Sirap der Suendflut entrissene Gesaenge",
+  "author": "Eckartshausen, Karl von",
+  "language": "German",
+  "year": 1786,
+  "published": "1786",
+  "pages_count": 92,
+  "pages_with_ocr": 92,
+  "pages_with_translation": 92,
+  "source_url": "https://sourcelibrary.org/book/6974b63e19126e775cf6d7db",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:04.048Z",
+  "_hashes": {
+    "ocr": "1ca7b7fc0a444aa7",
+    "translation": "f8e6543ea70b0904"
+  }
+}

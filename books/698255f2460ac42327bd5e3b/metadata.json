@@ -1,0 +1,26 @@
+{
+  "id": "698255f2460ac42327bd5e3b",
+  "title": "Musarum liber XXV. Urania ad Dominicum",
+  "display_title": "Musarum liber XXV. Urania ad Dominicum",
+  "author": "Bonifacio, Baldassare",
+  "language": "Latin",
+  "year": 1628,
+  "published": "1628",
+  "pages_count": 84,
+  "pages_with_ocr": 84,
+  "pages_with_translation": 84,
+  "source_url": "https://sourcelibrary.org/book/698255f2460ac42327bd5e3b",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:13.292Z",
+  "_hashes": {
+    "ocr": "f1ac45ffc3293fc2",
+    "translation": "6847ac405ba88591"
+  }
+}

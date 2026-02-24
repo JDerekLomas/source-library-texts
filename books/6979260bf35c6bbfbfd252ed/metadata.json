@@ -1,0 +1,26 @@
+{
+  "id": "6979260bf35c6bbfbfd252ed",
+  "title": "Clypeum veritatis; das ist Kurtze, jedoch gründliche Antwort",
+  "display_title": "Clypeum veritatis; das ist Kurtze, jedoch gründliche Antwort",
+  "author": "[Grick, Friedrich]",
+  "language": "German",
+  "year": 1618,
+  "published": "1618",
+  "pages_count": 87,
+  "pages_with_ocr": 87,
+  "pages_with_translation": 87,
+  "source_url": "https://sourcelibrary.org/book/6979260bf35c6bbfbfd252ed",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:10.147Z",
+  "_hashes": {
+    "ocr": "d2bac59f1eb0dff3",
+    "translation": "8a5d546beb30046a"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "6970e3849b09d309d780a2d8",
+  "title": "Antroposophia theomagica, das ist, eine Rede von der Natur des Menschen",
+  "display_title": "Antroposophia theomagica, das ist, eine Rede von der Natur des Menschen",
+  "author": "[Vaughan, Thomas]",
+  "language": "English",
+  "year": 1704,
+  "published": "1704",
+  "pages_count": 85,
+  "pages_with_ocr": 85,
+  "pages_with_translation": 85,
+  "source_url": "https://sourcelibrary.org/book/6970e3849b09d309d780a2d8",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:12.577Z",
+  "_hashes": {
+    "ocr": "775e71059008940a",
+    "translation": "0f34d999ae5cfcb7"
+  }
+}

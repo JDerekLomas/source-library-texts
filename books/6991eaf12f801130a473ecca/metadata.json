@@ -1,0 +1,28 @@
+{
+  "id": "6991eaf12f801130a473ecca",
+  "title": "Notes et dessins sur le thorax et l'abdomen",
+  "display_title": "Notes et dessins sur le thorax et l'abdomen",
+  "author": "Leonardo da Vinci",
+  "language": "Italian",
+  "year": 1880,
+  "published": "Unknown",
+  "pages_count": 86,
+  "pages_with_ocr": 86,
+  "pages_with_translation": 86,
+  "source_url": "https://sourcelibrary.org/book/6991eaf12f801130a473ecca",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "gri_33125017557857"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:11.651Z",
+  "_hashes": {
+    "ocr": "ebba856796e35a2d",
+    "translation": "dc0f6c078c4e1fe9"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "697c8e11f81f9680d27f634d",
+  "title": "Fasciculus unterschiedlicher alten raren und wahren philosophischen Schrifften",
+  "display_title": "Fasciculus unterschiedlicher alten raren und wahren philosophischen Schrifften",
+  "author": "Hellwig, Christoph von",
+  "language": "Latin-German",
+  "year": 1719,
+  "published": "1719",
+  "pages_count": 374,
+  "pages_with_ocr": 90,
+  "pages_with_translation": 4,
+  "source_url": "https://sourcelibrary.org/book/697c8e11f81f9680d27f634d",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:06.785Z",
+  "_hashes": {
+    "ocr": "c6e7daac11bad3cd",
+    "translation": "c17ae9b62ac59062"
+  }
+}

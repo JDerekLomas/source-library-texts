@@ -1,0 +1,26 @@
+{
+  "id": "69938fa45d28b693146d14dd",
+  "title": "Genesis Fragment (Uncial)",
+  "display_title": "Bodleian Library MS. Auct. T. inf. 2. 1",
+  "author": "Anonymous",
+  "language": "Greek",
+  "year": 900,
+  "published": "900",
+  "pages_count": 92,
+  "pages_with_ocr": 92,
+  "pages_with_translation": 74,
+  "source_url": "https://sourcelibrary.org/book/69938fa45d28b693146d14dd",
+  "license": "CC-BY-NC-4.0",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:03.922Z",
+  "_hashes": {
+    "ocr": "f6c0052e606128ce",
+    "translation": "e0f03e1eba126da3"
+  }
+}

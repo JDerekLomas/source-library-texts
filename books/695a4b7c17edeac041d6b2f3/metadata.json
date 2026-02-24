@@ -1,0 +1,28 @@
+{
+  "id": "695a4b7c17edeac041d6b2f3",
+  "title": "De oraculis Chaldaicis",
+  "display_title": "De oraculis Chaldaicis",
+  "author": "Wilhelm Kroll",
+  "language": "Latin",
+  "year": 1894,
+  "published": "Unknown",
+  "pages_count": 90,
+  "pages_with_ocr": 90,
+  "pages_with_translation": 90,
+  "source_url": "https://sourcelibrary.org/book/695a4b7c17edeac041d6b2f3",
+  "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bub_gb_b33NAAAAMAAJ"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:07.098Z",
+  "_hashes": {
+    "ocr": "33cb329cb06b220d",
+    "translation": "1e7b9509235dc504"
+  }
+}

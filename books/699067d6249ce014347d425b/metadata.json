@@ -1,0 +1,26 @@
+{
+  "id": "699067d6249ce014347d425b",
+  "title": "Medical and Herbal Texts (MS. Ashmole 1462)",
+  "display_title": "Bodleian Library MS. Ashmole 1462",
+  "author": "Unknown",
+  "language": "Latin",
+  "year": 1175,
+  "published": "1175",
+  "pages_count": 92,
+  "pages_with_ocr": 92,
+  "pages_with_translation": 92,
+  "source_url": "https://sourcelibrary.org/book/699067d6249ce014347d425b",
+  "license": "CC-BY-NC-4.0",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:03.674Z",
+  "_hashes": {
+    "ocr": "e2ec73c65446e363",
+    "translation": "f42cd4da382687b5"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "6992c4c0e6620d6201e85f26",
+  "title": "La Loi",
+  "display_title": "La Loi",
+  "author": "Frédéric Bastiat",
+  "language": "French",
+  "year": 1850,
+  "published": "Unknown",
+  "pages_count": 88,
+  "pages_with_ocr": 88,
+  "pages_with_translation": 88,
+  "source_url": "https://sourcelibrary.org/book/6992c4c0e6620d6201e85f26",
+  "license": "https://gallica.bnf.fr/html/und/conditions-dutilisation-des-contenus-de-gallica",
+  "doi": null,
+  "external_ids": {
+    "gallica": "bpt6k65068550"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:09.257Z",
+  "_hashes": {
+    "ocr": "faf5f148f2072e55",
+    "translation": "e55b8f0f292de412"
+  }
+}

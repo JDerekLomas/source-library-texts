@@ -1,0 +1,28 @@
+{
+  "id": "698fb7866b95eeda7d2d2847",
+  "title": "Kosmos: Entwurf einer physischen Weltbeschreibung, Bd. 5",
+  "display_title": "Kosmos: Entwurf einer physischen Weltbeschreibung, Bd. 5",
+  "author": "Alexander von Humboldt",
+  "language": "German",
+  "year": 1862,
+  "published": "1862",
+  "pages_count": 650,
+  "pages_with_ocr": 86,
+  "pages_with_translation": 81,
+  "source_url": "https://sourcelibrary.org/book/698fb7866b95eeda7d2d2847",
+  "license": "https://rightsstatements.org/vocab/NoC-NC/1.0/",
+  "doi": null,
+  "external_ids": {
+    "mdz": "bsb10132320"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:11.091Z",
+  "_hashes": {
+    "ocr": "816fd4ae21280f45",
+    "translation": "284d5beb6b8ba0a8"
+  }
+}

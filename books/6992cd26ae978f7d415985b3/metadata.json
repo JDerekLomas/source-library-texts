@@ -1,0 +1,28 @@
+{
+  "id": "6992cd26ae978f7d415985b3",
+  "title": "三才圖會(八)",
+  "display_title": "三才圖會(八)",
+  "author": "王圻, 王思義",
+  "language": "Chinese",
+  "year": 1607,
+  "published": "1607",
+  "pages_count": 85,
+  "pages_with_ocr": 85,
+  "pages_with_translation": 68,
+  "source_url": "https://sourcelibrary.org/book/6992cd26ae978f7d415985b3",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "02098275.cn"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:12.928Z",
+  "_hashes": {
+    "ocr": "342fa3ab36ecab50",
+    "translation": "e8bb872281a391ac"
+  }
+}

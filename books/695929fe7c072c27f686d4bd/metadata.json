@@ -1,0 +1,28 @@
+{
+  "id": "695929fe7c072c27f686d4bd",
+  "title": "Le Grand Grimoire avec la grande clavicule de Salomon",
+  "display_title": "Le Grand Grimoire avec la grande clavicule de Salomon",
+  "author": "Anonymous",
+  "language": "French",
+  "year": 1750,
+  "published": "1750",
+  "pages_count": 90,
+  "pages_with_ocr": 90,
+  "pages_with_translation": 90,
+  "source_url": "https://sourcelibrary.org/book/695929fe7c072c27f686d4bd",
+  "license": "https://rightsstatements.org/vocab/NoC-NC/1.0/",
+  "doi": null,
+  "external_ids": {
+    "mdz": "bsb10927254"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:07.182Z",
+  "_hashes": {
+    "ocr": "8e5e9c54e7ae3e4e",
+    "translation": "303b0db80ed112bc"
+  }
+}

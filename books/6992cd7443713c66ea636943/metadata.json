@@ -1,0 +1,28 @@
+{
+  "id": "6992cd7443713c66ea636943",
+  "title": "武備志(九)",
+  "display_title": "武備志(九)",
+  "author": "茅元儀",
+  "language": "Chinese",
+  "year": 1621,
+  "published": "1621",
+  "pages_count": 89,
+  "pages_with_ocr": 89,
+  "pages_with_translation": 72,
+  "source_url": "https://sourcelibrary.org/book/6992cd7443713c66ea636943",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "02092267.cn"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:07.734Z",
+  "_hashes": {
+    "ocr": "fdb7e4f3e9e9a760",
+    "translation": "8b2628e1b79424e3"
+  }
+}

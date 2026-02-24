@@ -1,0 +1,28 @@
+{
+  "id": "69906711249ce014347d2861",
+  "title": "A True Discourse Concerning the Certain Possession and Dispossession of Seven Persons in One Family",
+  "display_title": "A True Discourse Concerning the Certain Possession and Dispossession of Seven Persons in One Family",
+  "author": "George More",
+  "language": "English",
+  "year": 1600,
+  "published": "Unknown",
+  "pages_count": 85,
+  "pages_with_ocr": 85,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/69906711249ce014347d2861",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bim_early-english-books-1475-1640_a-true-discourse-concern_more-george-preacher_1600"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:29:12.304Z",
+  "_hashes": {
+    "ocr": "2ae6c5b96fccd847",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

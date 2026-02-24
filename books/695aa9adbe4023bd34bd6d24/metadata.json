@@ -1,0 +1,28 @@
+{
+  "id": "695aa9adbe4023bd34bd6d24",
+  "title": "Belopoeeca - Telifactiva (Baldi 1616)",
+  "display_title": "Belopoeeca - Telifactiva (Baldi 1616)",
+  "author": "Hero of Alexandria; Ctesibius; Bernardino Baldi (trans.)",
+  "language": "Greek",
+  "year": 1616,
+  "published": "Unknown",
+  "pages_count": 92,
+  "pages_with_ocr": 92,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/695aa9adbe4023bd34bd6d24",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "ita-bnc-mag-00001102-001"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:29:04.210Z",
+  "_hashes": {
+    "ocr": "5bd5a65242a0796b",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

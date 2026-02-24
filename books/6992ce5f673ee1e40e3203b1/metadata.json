@@ -1,0 +1,28 @@
+{
+  "id": "6992ce5f673ee1e40e3203b1",
+  "title": "籌海圖編",
+  "display_title": "籌海圖編",
+  "author": "胡宗憲",
+  "language": "Chinese",
+  "year": 1562,
+  "published": "1562",
+  "pages_count": 86,
+  "pages_with_ocr": 86,
+  "pages_with_translation": 69,
+  "source_url": "https://sourcelibrary.org/book/6992ce5f673ee1e40e3203b1",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "06041954.cn"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:10.268Z",
+  "_hashes": {
+    "ocr": "184dc4a700b687be",
+    "translation": "afe6636481d847f7"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "d850a255-4633-43d5-8383-7c67a7e55144",
+  "title": "Incipit: Ex Ilss. quodam Philosophi R.C. extractum",
+  "display_title": "Incipit: From a certain manuscript of the Philosopher R.C.",
+  "author": "anonymous",
+  "language": "Latin",
+  "year": 1650,
+  "published": "17th Century",
+  "pages_count": 91,
+  "pages_with_ocr": 91,
+  "pages_with_translation": 91,
+  "source_url": "https://sourcelibrary.org/book/d850a255-4633-43d5-8383-7c67a7e55144",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini"
+  },
+  "synced_at": "2026-02-24T18:29:05.478Z",
+  "_hashes": {
+    "ocr": "54eb7aef274a5120",
+    "translation": "7037f96a13f3202b"
+  }
+}

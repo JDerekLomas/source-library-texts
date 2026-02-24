@@ -1,0 +1,28 @@
+{
+  "id": "6991bd1470254d38471e1f0d",
+  "title": "Science of Breath",
+  "display_title": "Science of Breath",
+  "author": "Yogi Ramacharaka (William Walker Atkinson)",
+  "language": "English",
+  "year": 1903,
+  "published": "Unknown",
+  "pages_count": 91,
+  "pages_with_ocr": 91,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/6991bd1470254d38471e1f0d",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "in.ernet.dli.2015.47927"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:29:04.636Z",
+  "_hashes": {
+    "ocr": "054f1d76c2a80a82",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

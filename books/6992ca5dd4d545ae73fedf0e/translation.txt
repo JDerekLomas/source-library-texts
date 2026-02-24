@@ -1,0 +1,1517 @@
+--- Page 1 ---
+<meta>This is the title label from the cover of a traditionally bound Chinese book. It establishes the identity of the work before the main text begins.</meta>
+
+<insert>
+
+# Master Sun’s Mathematical Classic
+
+</insert>
+
+<note>original: "孫子算經" (Sunzi Suanjing). This work is one of the "Ten Computational Canons" of ancient China. Although the author shares the name "Sunzi" with the famous strategist of *The Art of War*, they are different historical figures. This text, likely written between the 3rd and 5th centuries AD, is world-renowned for introducing what is now called the <term>Chinese Remainder Theorem|a method for finding a number based on its remainders when divided by different values</term>.</note>
+
+<summary>This title slip marks the cover of "Master Sun's Mathematical Classic," a foundational text in the history of Chinese mathematics. It is most famous for its sophisticated modular arithmetic and instructions on using counting rods for calculation.</summary>
+
+<keywords>Sunzi Suanjing, Master Sun's Mathematical Classic, Chinese mathematics, ancient science, counting rods, Chinese Remainder Theorem</keywords>
+
+--- Page 2 ---
+<meta>This page follows the title slip and contains the opening of the Preface. It establishes the philosophical and cosmological justification for the study of mathematics, framing it as the foundational logic of the universe.</meta>
+
+Master Sun’s Calculation
+Calculation 2-23 <note>original: "算 二二十三"; this likely refers to a library shelf-mark or a specific folio numbering in the collection.</note>
+
+# Preface to Master Sun’s Mathematical Classic
+
+Master Sun says: Indeed, calculation is the longitude and latitude of heaven and earth, the head and source of all living things, the beginning and end of the <term>Five Constants|the core Confucian virtues of benevolence, righteousness, ritual, wisdom, and trustworthiness</term>, the parent of <term>Yin and Yang|the balancing forces of the natural world</term>, the title and rank of the stars, the inner and outer of the <term>Three Lights|the sun, moon, and stars</term>, the standard of the <term>Five Elements|the creative and destructive cycle of wood, fire, earth, metal, and water</term>, the start and finish of the four seasons, the ancestor of the ten thousand things, and the governing principle of the <term>Six Arts|the traditional curriculum for a gentleman: rites, music, archery, charioteering, calligraphy, and mathematics</term>.
+
+By calculation, one investigates the gathering and scattering of all social orders, examines the falling and rising of the two breaths of nature, and tracks the alternating movement of heat and cold. It allows us to pace the distances of far and near, to observe the subtle and profound foundations of the Way of Heaven, and to survey the lengths and widths of the geography of the earth. We use it to gather the locations of the spirits and divinities, to reach the ultimate proof of success and failure, to exhaust the principles of morality, and to investigate the true nature of life and destiny.
+
+It establishes the compass and the square, standardizing the circle and the rectangle. It ensures careful observance of laws and measures, and regulates the units of the <term>ruler and the yard|linear measurements</term>. It sets the weights and balances to level the heavy and the light. It dissects the <term>milli and the micro|fine decimal units based on the width of a hair</term>, analyzes the <term>millet grains|the smallest unit of weight based on a single seed</term>, and calculates into the hundreds of millions.
+
+<summary>This preface provides a grand philosophical introduction to mathematics, arguing that calculation is the fundamental grid upon which the entire cosmos, from the stars to human morality, is built.</summary>
+<keywords>Sunzi Suanjing, Chinese mathematics, cosmology, Five Elements, Yin and Yang, measurement, Six Arts, Preface</keywords>
+
+--- Page 3 ---
+<meta>This page continues the Preface to Master Sun’s Mathematical Classic, following the section describing mathematics as the governing principle of the universe and the Five Elements.</meta>
+
+# Preface to Master Sun’s Mathematical Classic
+
+Preserved through the ages, it never fades; it stretches to the <term>Eight Extremities|the farthest reaches of the universe in traditional Chinese cosmology</term> without limit. When expanded, its depths cannot be fully plumbed; when contracted, it does not even fill one’s palm.
+
+Those who embrace it find themselves wealthy and with abundance; those who turn away from it remain impoverished and destitute. Those whose minds are open will grasp its truths even in <term>youth|original: 'youchong' (幼冲), referring to childhood or the very young</term>; but those whose minds are closed will find mastery difficult even when their <term>hair has turned white|original: 'haoshou' (皓首), a poetic term for old age</term>.
+
+Indeed, those who desire to learn must strive to gauge their own abilities and assess their character, ensuring their will is dedicated to focused study. If one proceeds in this manner, how could they possibly fail to succeed?
+
+<summary>This concluding section of the preface emphasizes the portability and power of mathematics, arguing that it is accessible to the focused mind regardless of age and essential for prosperity.</summary>
+<keywords>Eight Extremities, education, self-assessment, intellectual wealth, Master Sun, Sunzi Suanjing</keywords>
+
+--- Page 4 ---
+<meta>This page transitions from the general philosophical preface into the technical content of the manual, specifically establishing the fundamental units of measurement for length and weight that serve as the basis for all subsequent calculations.</meta>
+
+# Master Sun’s Mathematical Classic: Volume One
+
+### Compiled and Annotated by Imperial Decree by Li Chunfeng and others, holding the titles of Grand Master for Closing Court, Acting Director of the Imperial Bureau of Astronomy, and Commandant of Light Chariots of the Tang Dynasty. <note>Li Chunfeng (602–670 AD) was the preeminent mathematician and astronomer of the Tang court, famous for his commentaries on the "Ten Computational Canons."</note>
+
+The measurement of length begins with the <term>hu|original: 忽; a minute unit representing the limit of perception</term>. If you wish to know the scale of a *hu*, consider that the silk produced by a silkworm constitutes one *hu*. 
+
+Ten *hu* make one <term>si|original: 絲; a silk strand</term>.
+Ten *si* make one <term>hao|original: 毫; a fine hair</term>.
+Ten *hao* make one <term>li|original: 釐</term>.
+Ten *li* make one <term>fen|original: 分; a 'point' or tenth of an inch</term>.
+Ten *fen* make one <term>cun|original: 寸; the Chinese inch</term>.
+Ten *cun* make one <term>chi|original: 尺; the Chinese foot</term>.
+Ten *chi* make one <term>zhang|original: 丈</term>.
+Ten *zhang* make one <term>yin|original: 引</term>.
+Fifty *chi* make one <term>duan|original: 端; a measure typically used for lengths of cloth</term>.
+Forty *chi* make one <term>pi|original: 疋; a standard 'bolt' of fabric</term>.
+Six *chi* make one <term>bu|original: 步; a double-pace</term>.
+Two hundred and forty *bu* make one <term>mu|original: 畝; the standard unit of land area</term>.
+Three hundred *bu* make one <term>li|original: 里; the Chinese mile</term>.
+
+The measurement of weight begins with a grain of <term>millet|original: 黍 (shu); specifically black broomcorn millet, used as a physical standard for weight and volume</term>. 
+
+Ten grains of millet make one <term>lei|original: 絫</term>.
+Ten *lei* make one <term>zhu|original: 銖</term>.
+Twenty-four *zhu* make one <term>liang|original: 兩; the Chinese ounce or tael</term>.
+Sixteen *liang* make one <term>jin|original: 斤; the Chinese pound or catty</term>.
+Thirty *jin* make one <term>jun|original: 鈞</term>.
+
+<summary>This page defines the standardized units of length and weight used in ancient China, beginning from microscopic scales like silkworm silk and millet grains and building up to units for land survey and bulk weight.</summary>
+<keywords>metrology, Li Chunfeng, units of measurement, length, weight, silk, millet, Tang Dynasty mathematics</keywords>
+
+--- Page 5 ---
+<meta>This page continues the technical exposition of standard measurements. While the previous page defined units of length, this section transitions into volume, specifically how small units of grain scale up to large-scale quantities using a decimal system.</meta>
+
+## Four Jun Make One Shi <note>While this heading refers to units of weight—specifically the *shi* (stone), which equals roughly 60 kilograms—the text immediately below defines the system of volume. In ancient China, weight and volume were fundamentally linked by the specific weight of a standardized crop: black millet.</note>
+
+The measurement of volume begins with a grain of millet. 
+Six grains of millet make one <term>gui|original: 圭; the smallest base unit of volume</term>. 
+Ten *gui* make one <term>cuo|original: 撮; a "pinch"</term>. 
+Ten *cuo* make one <term>chao|original: 抄; a "handful" or scoop</term>. 
+Ten *chao* make one <term>shao|original: 勺; a "spoonful"</term>. 
+Ten *shao* make one <term>he|original: 合; often called a "cup," roughly 100ml in the Tang dynasty</term>. 
+Ten *he* make one <term>sheng|original: 升; a standard "pint" or liter</term>. 
+Ten *sheng* make one <term>dou|original: 斗; a "peck"</term>. 
+Ten *dou* make one <term>hu|original: 斛; a "bushel" or "picul"</term>. 
+
+A *hu* contains sixty million grains of millet. 
+
+The reason we know this is as follows: 
+Six grains of millet make one *gui*. 
+Ten *gui* (sixty grains of millet) make one *cuo*. 
+Ten *cuo* (six hundred grains of millet) make one *chao*. 
+Ten *chao* (six thousand grains of millet) make one *shao*. 
+Ten *shao* (sixty thousand grains of millet) make one *he*. 
+Ten *he* (six hundred thousand grains of millet) make one *sheng*. 
+Ten *sheng* (six million grains of millet) make one *dou*. 
+Ten *dou* (sixty million grains of millet) make one *hu*. 
+
+Ten *hu* (six hundred million grains of millet) make six <term>yi|original: 億; here representing 10^8</term>. 
+One hundred *hu* (six billion grains of millet) make six <term>zhao|original: 兆; here representing 10^9</term>. 
+One thousand *hu* (sixty billion grains of millet) make six <term>jing|original: 京; here representing 10^10</term>. 
+Ten thousand *hu* (six hundred billion grains of millet) make six <term>gai|original: 陔; here representing 10^11</term>. 
+One hundred thousand <note>The text ends here mid-progression, likely continuing to the next page to describe even larger denominations of measurement.</note>
+
+<summary>This page defines the hierarchical system of volume measurements in ancient China, beginning with a single grain of millet and scaling up to massive quantities using decimal increments.</summary>
+<keywords>volume measurement, millet (su), sheng, dou, hu, large numbers, Chinese mathematics</keywords>
+
+--- Page 6 ---
+<meta>This page continues the mathematical progression of volume and quantities from the previous folio. While the previous page established base units of volume (from a single grain up to the "hu" or bushel), this section scales those units into the "Large Number" system, reaching astronomical figures, and concludes with practical geometric and metallurgical constants.</meta>
+
+### Folio 26:11
+
+One million *hu* makes six <term>zi|original: 秭; a number representing 10⁴⁰ in this system</term> grains of millet.
+Ten million *hu* makes six <term>rang|original: 壤; 10⁴⁸</term> grains of millet.
+One hundred million *hu* makes six <term>gou|original: 溝; 10⁵⁶</term> grains of millet. 
+<note>The text is demonstrating the staggering scale of the grain economy by multiplying the 60 million grains found in a single "hu" by ever-larger factors.</note>
+One billion *hu* makes six <term>jian|original: 澗; 10⁶⁴</term> grains of millet.
+Ten billion *hu* makes six <term>zheng|original: 正; 10⁷²</term> grains of millet.
+[One hundred billion *hu*] makes six <term>zai|original: 載; 10⁸⁰</term> grains of millet.
+
+The method for calculating Large Numbers is as follows:
+Ten thousand times ten thousand is called **yi** <note>10⁸; unlike the modern Western million, ancient Chinese large numbers often scaled by factors of 10,000</note>.
+Ten thousand times ten thousand *yi* is called **zhao** <note>10¹⁶</note>.
+Ten thousand times ten thousand *zhao* is called **jing** <note>10²⁴</note>.
+Ten thousand times ten thousand *jing* is called **gai** <note>10³²</note>.
+Ten thousand times ten thousand *gai* is called **zi** <note>10⁴⁰</note>.
+Ten thousand times ten thousand *zi* is called **rang** <note>10⁴⁸</note>.
+Ten thousand times ten thousand *rang* is called **gou** <note>10⁵⁶</note>.
+Ten thousand times ten thousand *gou* is called **jian** <note>10⁶⁴</note>.
+Ten thousand times ten thousand *jian* is called **zheng** <note>10⁷²</note>.
+Ten thousand times ten thousand *zheng* is called **zai** <note>10⁸⁰</note>.
+
+For a circle, the circumference is three and the diameter is one. <note>original: 周三徑一; This is a traditional Chinese approximation of Pi (π ≈ 3). While recognized as imprecise by some scholars of the era, it remained a standard for practical engineering and tax assessment.</note>
+
+For a square, the side is five and the diagonal is seven. <note>original: 方五邪七; An approximation for the square root of 2 (√2 ≈ 1.4). In a perfect square with a side of 5, the diagonal is actually 7.07, so 7 was a close functional estimate.</note>
+When the diagonal is known and the side is sought: multiply the diagonal by five and divide by seven.
+When the side is known and the diagonal is sought: multiply the side by seven and divide by five.
+
+A cubic inch of **gold** weighs one <term>jin|original: 斤; often translated as a "catty" or "pound," roughly 600 grams in the medieval period</term>.
+A cubic inch of **silver** weighs fourteen <term>liang|original: 兩; "taels" or ounces</term>. <note>Since sixteen *liang* traditionally make one *jin*, this indicates that silver was considered roughly 12.5% less dense than gold in this standardized system.</note>
+
+<summary>This page defines the "Large Number" system of ancient China, reaching units as high as 10 to the 80th power, and provides fundamental mathematical constants for geometry and the weights of precious metals.</summary>
+<keywords>Large Numbers, yi, zhao, pi approximation, square root of two, gold weight, silver weight, ancient mathematics</keywords>
+
+--- Page 7 ---
+<meta>This page continues from the previous discussion of large-scale grain volumes and numeric systems, transitioning into the physical properties of materials (density) and the fundamental mechanics of rod calculus (counting rods). It describes the "alternating" system used in Chinese positional arithmetic to prevent errors when reading numbers.</meta>
+
+One cubic <term>inch|original: 寸; cun, approximately 3.1 cm in the period</term> of jade weighs twelve <term>taels|original: 兩; liang, approximately 37 grams</term>.
+One cubic inch of copper weighs seven and a half taels.
+One cubic inch of lead weighs nine and a half taels.
+One cubic inch of iron weighs six taels.
+One cubic inch of stone weighs three taels.
+
+Whenever using the method of <term>calculation|original: 筭; suàn, referring to the use of counting rods</term>, one must first recognize the positions:
+Units are vertical, tens are horizontal.
+Hundreds stand [vertical], thousands lie [horizontal].
+<note>This alternating orientation—vertical for odd powers of ten and horizontal for even—was a brilliant ancient safeguard to ensure that if rods shifted slightly, the calculator could still distinguish between, for example, 11 (horizontal-vertical) and 2 (two verticals).</note>
+Thousands and tens mirror each other; ten-thousands and hundreds correspond.
+
+In the general method of multiplication:
+Place the numbers in two rows, one above the other, and observe their positions.
+If the top position represents tens, step to the tens; if it represents hundreds, step to the hundreds; if it represents thousands, step to the thousands.
+<note>This describes the alignment of the multiplier and multiplicand on the counting board.</note>
+Use the top value to operate on the bottom.
+The resulting numbers are arranged in the middle row.
+If a value reaches ten, move it to the next place [carry]; if it does not reach ten, leave it as is.
+When multiplication by a digit in the top row is finished, remove it.
+When the multiplication of the lower positions is finished, shift all rods back.
+Six is not accumulated; five is not single.
+<note>This mnemonic "Six is not accumulated, five is not single" refers to rod notation: instead of using five individual rods to represent the number 5, a single rod is placed in the opposite orientation to represent a value of five, and 6 is shown as this "five-rod" plus one unit rod.</note>
+
+<summary>This page defines the density of five common materials (jade, copper, lead, iron, and stone) before explaining the positional rules and rod-placement logic for multiplication in ancient Chinese mathematics.</summary>
+<keywords>density, weights and measures, counting rods, rod calculus, positional notation, multiplication, Sunzi Suanjing</keywords>
+
+--- Page 8 ---
+<meta>This page continues the instructions for arithmetic using counting rods, moving from the setup of the board and multiplication (discussed on the previous page) to the specific mechanics of division and the representation of fractions.</meta>
+
+# Multiply Top and Bottom Until Exhausted
+
+The general method of <term>division|original: 除; chú</term> is the exact opposite of <term>multiplication|original: 乘; chéng</term>. In multiplication, the product is obtained in the middle row; in division, the <term>quotient|original: 得; dé</term> is obtained in the top row.
+
+Suppose 6 is the <term>divisor|original: 法; fǎ</term> and 100 is the <term>dividend|original: 實; shí</term>. When dividing 100 by 6, one should advance the divisor two places so that it sits directly under the hundreds place. <note>In rod calculus, the divisor is moved along the board to align with the highest place value of the dividend.</note> However, if you try to divide 1 by 6, the divisor is "many" while the dividend is "few," so it cannot be divided. Therefore, one must shift the divisor back to the tens place to divide the dividend. One says, "one times six," and by subtracting this from the hundred, forty remains; thus, it can be divided. <note>The text describes the mental step of dividing 100 by 6: by placing the 6 under the tens place, the "one" in the quotient represents 10. $10 \times 6 = 60$, and $100 - 60 = 40$.</note>
+
+If the dividend is large and the divisor is small, one naturally stays at the hundreds place and does not shift back. Thus, for the <term>stepping method|original: 步法; bùfǎ; the process of positioning rods</term>, values of ten are placed in the tens position, and values of hundred are placed in the hundreds position.
+
+<gloss>If there is an empty space in the upper row, the divisor shifts back.</gloss>
+
+The remaining rules are all like those used during multiplication. If the dividend has a remainder, express it using the divisor: let the divisor be the <term>denominator|original: 母; mǔ, literally "mother"</term> and the remainder be the <term>numerator|original: 子; zǐ, literally "son"</term>. <note>This "mother and son" terminology for fractions remained standard in Chinese mathematics for centuries; a fraction was seen as a part (the son) supported by the whole (the mother).</note>
+
+<summary>This page explains the mechanics of division using counting rods, detailing how to align the divisor (fǎ) and dividend (shí) on the calculation board and how to express remainders as fractions.</summary>
+<keywords>division, counting rods, divisor, dividend, quotient, stepping method, fractions, denominator, numerator</keywords>
+
+--- Page 9 ---
+<meta>This page continues from the general theory of division and the positioning of counting rods, moving into practical applications: converting between different states of grain (unhusked, milled, and cooked) and performing proportional reductions.</meta>
+
+# Mr. Kong’s Arithmetic, Volume I
+Page Three
+
+To find the amount of <term>glutinous rice|original: 糯米; nuòmǐ</term> from <term>unhusked grain|original: 米粟; mǐsù</term>, multiply by three and divide by five.
+To find unhusked grain from glutinous rice, multiply by five and divide by three.
+To find <term>cooked rice|original: 飯; fàn</term> from glutinous rice, multiply by five and divide by two. <note>This ratio suggests that the volume of cooked rice is 2.5 times that of the dry grain.</note>
+To find cooked glutinous rice from unhusked grain, multiply by six and divide by four.
+To find glutinous rice from cooked glutinous rice, multiply by two and divide by five.
+To find cooked rice from <term>malted rice|original: 糵米; nièmǐ</term>, multiply by eight and divide by four.
+
+To reduce a value by one-tenth: multiply by two and divide by twenty. <note>In modern notation, this is $\frac{2}{20}$, which simplifies to $\frac{1}{10}$. The author uses a base of 20 for these operations, likely to keep the <term>counting rods|original: 筭; suàn</term> in a specific alignment on the board.</note>
+To reduce by two-tenths: multiply by four and divide by twenty.
+To reduce by three-tenths: multiply by six and divide by twenty.
+To reduce by four-tenths: multiply by eight and divide by twenty.
+To reduce by five-tenths: multiply by ten and divide by twenty.
+To reduce by six-tenths: multiply by twelve and divide by twenty. <note>The text provides a rhythmic mnemonic for calculating percentages of a total.</note>
+
+<summary>This page provides conversion ratios for various agricultural products and explains how to calculate percentage reductions (in tenths) using a base-twenty division method.</summary>
+<keywords>grain conversion, glutinous rice, malted rice, proportions, percentage reduction, rod calculus, agricultural math</keywords>
+
+--- Page 10 ---
+<meta>This page continues the mathematical mnemonics from the previous page, completing the series of reductions by tenths before moving into fractional reductions and a specific squaring problem. The text remains focused on practical computational rules used with counting rods or the abacus.</meta>
+
+# Nine-Nine Algorithms <unclear>Twenty-One</unclear>
+
+To reduce a value by seven-tenths: multiply by fourteen and divide by twenty. <note>In the previous page, the author established a system of "doubling" the ratio for ease of use on a counting board. Here, $\frac{14}{20}$ is used to represent $\frac{7}{10}$.</note>
+To reduce by eight-tenths: multiply by sixteen and divide by twenty.
+To reduce by nine-tenths: multiply by eighteen and divide by twenty.
+
+To reduce by <term>one-ninth|original: 九分減一; jiǔ fēn jiǎn yī</term>: multiply by two and divide by eighteen. <note>The text shifts from tenths to specific unit fractions. Multiplying by $\frac{2}{18}$ is mathematically equivalent to $\frac{1}{9}$.</note>
+To reduce by one-eighth: multiply by two and divide by sixteen.
+To reduce by one-seventh: multiply by two and divide by fourteen.
+To reduce by one-sixth: multiply by two and divide by twelve.
+To reduce by one-fifth: multiply by two and divide by ten.
+
+Nine times nine is eighty-one. What is the result if this number is <term>multiplied by itself|original: 自相乘; zì xiāng chéng</term>? <note>This asks for the square of 81 ($81^2$).</note>
+
+The answer is: Six thousand five hundred and sixty-one.
+
+<summary>This page concludes a set of proportional reduction rules using doubled ratios and presents a mathematical problem for squaring the number eighty-one.</summary>
+<keywords>arithmetic mnemonics, fractional reduction, squaring, counting rods, Nine-Nine Algorithms, 81 squared</keywords>
+
+--- Page 11 ---
+<meta>This page continues the specific mathematical calculation of squaring eighty-one ($81 \times 81$) introduced on the previous page. It details the step-by-step physical movements required on a counting board (abacus) using the "three-tier" method—where the multiplier, product, and multiplicand are arranged in upper, middle, and lower rows—before concluding with a division problem.</meta>
+
+**The Tradition of...** <note>original: 傳...; the text is partially cut off but likely refers to the transmission of mathematical methods.</note>
+
+The <term>method|original: 術; shù</term> states: Set the positions again. Use the <term>upper position|original: 上位; shàng wèi</term> 8 to call to the <term>lower position|original: 下位; xià wèi</term> 8: "eight times eight is sixty-four." Then, place 6,400 in the <term>middle position|original: 中位; zhōng wèi</term>. <note>The text describes multiplying the tens places first: $80 \times 80 = 6,400$.</note>
+Use the upper 8 to call to the lower 1: "one times eight is eight." Then, place 80 in the middle position. <term>Shift|original: 退; tuì</term> the lower position back by one place. <note>This step calculates $80 \times 1 = 80$. The "shift" aligns the next decimal place on the counting board.</note>
+<term>Clear|original: 收; shōu</term> the upper 80. Use the upper 1 to call to the lower 8: "one times eight is eight." Then, place 80 in the middle position. <note>This calculates $1 \times 80 = 80$.</note>
+Use the upper 1 to call to the lower 1: "one times one is one." Then, place 1 in the middle position. When the upper and lower positions are both cleared, the middle position yields:
+Six thousand five hundred and sixty-one.
+
+If six thousand five hundred and sixty-one is <term>divided|original: 分之; fēn zhī</term> among nine people, how much does each person receive?
+The answer is: Seven hundred and twenty-nine. <note>Mathematically, $6561 \div 9 = 729$. This effectively returns to $81 \times 9$, as the problem began with $81 \times 81$.</note>
+
+<summary>This page provides a detailed procedural guide for squaring the number 81 using a three-tiered counting board method and concludes with a practical division exercise.</summary>
+<keywords>counting rods, rod calculus, multiplication algorithms, positional arithmetic, squaring, division, Chinese mathematics</keywords>
+
+--- Page 12 ---
+<meta>This page continues the mathematical demonstration from the previous page. Having established that $81 \times 81 = 6,561$ through the "three-tier" counting board method, the text now demonstrates the inverse operation: dividing that product (6,561) by 9 to show how the result is partitioned.</meta>
+
+### Mathematical Methods of the Counting Board
+
+The <term>method|original: 術; shù</term> states: First, place 6,561 in the **middle position** to serve as the <term>dividend|original: 實; shí</term>.
+
+Arrange 9 people below to serve as the <term>divisor|original: 法; fǎ</term>.
+
+In the **upper position**, place 700. Use the upper 7 to <note>“call out” (呼) refers to the oral recitation of multiplication tables used to determine how much to subtract from the dividend.</note> call to the lower 9: “seven times nine is sixty-three.” Immediately <term>subtract|original: 除; chú</term> 6,300 from the middle position. <note>This calculates $700 \times 9 = 6,300$. After subtracting this from 6,561, a remainder of 261 is left in the middle row.</note>
+
+**Shift** the lower position back by one place. <note>This "shift" (退) aligns the divisor with the next decimal place (the tens) on the counting board.</note> In the upper position, place 30. Use the upper 2 to call to the lower 9: “two times nine is eighteen.” <note>There is a slight discrepancy here; the text specifies placing "30" but then uses the digit "2" for the calculation. Mathematically, 20 is the correct next digit for the quotient ($261 \div 9$).</note> Immediately subtract 180 <note>original: 二百八十 (280); the text reads 280, but based on the "call" of $9 \times 2$, this is likely a scribal error for 180 (一十八 with a trailing zero).</note> from the middle position. <note>Calculation: $261 - 180 = 81$.</note>
+
+Again, **shift** the lower position back by one more place. In the upper position, place 9. Use the upper 9 to call to the lower 9: “nine times nine is eighty-one.” Immediately subtract 81 from the middle position. The middle position is now completely exhausted.
+
+**Clear** the lower position. The result obtained in the upper position is what each person receives. <note>The final result in the upper row—the quotient—is 729.</note>
+
+From “eight times eight is sixty-four” down to “one times one is one,” all calculations <term>follow this standard|original: 準此; zhǔn cǐ</term>.
+
+<summary>This page describes the process of division on a counting board, specifically dividing 6,561 by 9 to reach the quotient of 729. It illustrates the physical movement of "shifting" places and the use of multiplication mnemonics to subtract values from a central dividend.</summary>
+<keywords>division, counting board, Sunzi Suanjing, dividend (shi), divisor (fa), multiplication tables, ancient Chinese mathematics</keywords>
+
+--- Page 13 ---
+<meta>This page continues the arithmetic demonstrations from the previous page, where the number 81 was used as a base for calculations. The text now moves into a series of rhythmic exercises based on the nine-times multiplication table. These problems follow a specific algebraic pattern—$(n \times 9)^2 \div n$—which consistently reinforces the relationship between these numbers and the square of nine (81).</meta>
+
+Page Two Hundred Fifty-Five
+
+Eight times nine is seventy-two; this number <term>multiplied by itself|original: 自相乘; zì xiāng chéng</term> yields five thousand, one hundred eighty-four. <note>Calculation: $(8 \times 9) = 72$, and $72 \times 72 = 5,184$.</note>
+
+Divided among eight people, the result is six hundred forty-eight. <note>Calculation: $5,184 \div 8 = 648$. Note that $81 \times 8 = 648$.</note>
+
+Seven times nine is sixty-three; this number multiplied by itself yields three thousand, nine hundred sixty-nine. <note>Calculation: $(7 \times 9) = 63$, and $63 \times 63 = 3,969$.</note>
+
+Divided among seven people, the result is five hundred sixty-seven. <note>Calculation: $3,969 \div 7 = 567$, which is $81 \times 7$.</note>
+
+Six times nine is fifty-four; this number multiplied by itself yields two thousand, nine hundred sixteen.
+
+Divided among six people, each person receives four hundred eighty-six. <note>Calculation: $2,916 \div 6 = 486$.</note>
+
+Five times nine is forty-five; this number multiplied by itself yields two thousand, twenty-five.
+
+Divided among five people, each person receives four hundred five. <note>Calculation: $2,025 \div 5 = 405$.</note>
+
+Four times nine is thirty-six; this number multiplied by itself yields one thousand, two hundred ninety-six. <note>The page ends before the final division for this set is recorded.</note>
+
+<vocab><term>Self-multiplication (squaring)|original: 自相乘</term>, <term>Divide it|original: 分之</term>, <term>Mathematics/Arithmetic|original: 算學</term>, <term>Eight times nine is seventy-two|original: 八九七十二</term></vocab>
+
+<summary>This page presents a series of mathematical drills involving multiplication, squaring (self-multiplication), and division to demonstrate numerical relationships. The exercises use the nine-times table as a foundation to arrive at products that are multiples of 81.</summary>
+<keywords>arithmetic, multiplication tables, squaring, division, counting board, Chinese mathematics, pedagogy</keywords>
+
+--- Page 14 ---
+<meta>This page transitions from the nine-times table exercises seen on the previous page to a series based on the seven-times table. The mathematical pattern remains consistent: $(n \times 7)^2 \div n$, which always results in a multiple of 49 ($7^2$). The page concludes with a summary calculation of the "seven-seven" sequence.</meta>
+
+Page Eight
+
+Divided among four people, each person receives one hundred ninety-six. <note>This line completes the calculation for $(4 \times 7)^2 \div 4$. Calculation: $4 \times 7 = 28$; $28 \times 28 = 784$; $784 \div 4 = 196$. Note that $49 \times 4 = 196$.</note>
+
+Three times seven is twenty-one; this number <term>multiplied by itself|original: 自相乘; zì xiāng chéng</term> yields four hundred forty-one. <note>Calculation: $21 \times 21 = 441$.</note>
+
+　　Divided among three people, each person receives one hundred forty-seven. <note>Calculation: $441 \div 3 = 147$. Note that $49 \times 3 = 147$.</note>
+
+Two times seven is fourteen; this number multiplied by itself yields one hundred ninety-six. <note>Calculation: $14 \times 14 = 196$.</note>
+
+　　Divided among two people, each person receives ninety-eight. <note>Calculation: $196 \div 2 = 98$. Note that $49 \times 2 = 98$.</note>
+
+One times seven is seven; this number multiplied by itself yields forty-nine.
+
+　　One person receives forty-nine.
+
+To the right, the <term>seven-seven sequence|original: 七七一條; qī qī yī tiáo</term> yields one hundred ninety-six; this number multiplied by itself yields thirty-eight thousand, four hundred sixteen. <note>The "seven-seven sequence" refers to the set of calculations involving the seven-times table. The number 196 here refers to the result of the first calculation on this page; squaring it ($196 \times 196$) results in 38,416.</note>
+
+<summary>This page demonstrates arithmetic progressions using the seven-times table, reinforcing the relationship between squares and division. It calculates squares of multiples of seven and shows that when divided by the original multiplier, the result is always a multiple of forty-nine.</summary>
+<keywords>arithmetic, squaring, division, seven-times table, Seven-Seven Sequence, mathematical algorithms</keywords>
+
+--- Page 15 ---
+<meta>This page follows the mathematical exercises from the previous page. It concludes the series of calculations based on the number seven—specifically the final division of the squared total found at the end of Page Eight—and begins a new sequence based on the "six-times" table. The pattern used is $(n \times 6)^2 \div n$, illustrating that the result is always a multiple of 36 ($6^2$).</meta>
+
+Page Thirty-Two
+
+Divided among seven people, each person receives five thousand, four hundred eighty-eight. <note>This line concludes the calculation from the previous page ($38,416 \div 7 = 5,488$).</note>
+
+Six times six is thirty-six; this number <term>multiplied by itself|original: 自相乘; zì xiāng chéng</term> yields one hundred thousand, two hundred ninety-six. <note>Calculation: $36 \times 36 = 1,296$.</note>
+　　Divided among six people, each person receives two hundred sixteen. <note>Calculation: $1,296 \div 6 = 216$. Note that $36 \times 6 = 216$.</note>
+
+Five times six is thirty; this number multiplied by itself yields nine hundred. <note>Calculation: $30 \times 30 = 900$.</note>
+　　Divided among five people, each person receives one hundred eighty. <note>Calculation: $900 \div 5 = 180$. Note that $36 \times 5 = 180$.</note>
+
+Four times six is twenty-four; this number multiplied by itself yields five hundred seventy-six. <note>Calculation: $24 \times 24 = 576$.</note>
+　　Divided among four people, each person receives one hundred forty-four. <note>Calculation: $576 \div 4 = 144$. Note that $36 \times 4 = 144$.</note>
+
+Three times six is eighteen; this number multiplied by itself yields three hundred twenty-four. <note>Calculation: $18 \times 18 = 324$.</note>
+　　Divided among three people, each person receives one hundred eight. <note>Calculation: $324 \div 3 = 108$. Note that $36 \times 3 = 108$.</note>
+
+<summary>This page concludes a complex calculation involving the number seven and introduces a systematic series of arithmetic exercises based on the six-times table. It reinforces the relationship between squaring a product and dividing it by its original factors, a fundamental concept in early algorithmic mathematics.</summary>
+<keywords>multiplication, squaring, division, six-times table, arithmetic progression, Chinese mathematics</keywords>
+
+--- Page 16 ---
+<meta>This page continues the mathematical exercises from Page Thirty-Two. It completes the descending sequence of the "six-times" table—specifically the calculations for $(2 \times 6)^2 \div 2$ and $(1 \times 6)^2 \div 1$—and provides a grand total for that section. It then initiates a new pattern based on the number five ($5 \times 5$).</meta>
+
+Page Thirty-Three
+
+Two times six is twelve; this number <term>multiplied by itself|original: 自相乘; zì xiāng chéng</term> yields one hundred forty-four. <note>Calculation: $12 \times 12 = 144$.</note>
+　　Divided among two people, each person receives seventy-two. <note>Calculation: $144 \div 2 = 72$. Note that $36 \times 2 = 72$.</note>
+
+---
+
+One times six <term>is|original: 如; rú</term> six; <note>In traditional Chinese mathematical rhymes, "rú" is often used to mean "is" or "results in."</note> this number multiplied by itself yields thirty-six. <note>Calculation: $6 \times 6 = 36$.</note>
+　　One person receives thirty-six.
+
+---
+
+The total of the six items <note>original: 條; tiáo. This refers to the six results from this sequence: $36, 30, 24, 18, 12,$ and $6$.</note> recorded to the right yields one hundred twenty-six; this number multiplied by itself yields fifteen thousand, eight hundred seventy-six. <note>Calculation: $(36+30+24+18+12+6)^2 = 126^2 = 15,876$.</note>
+　　Divided among six people, each person receives two thousand, six hundred forty-six. <note>Calculation: $15,876 \div 6 = 2,646$.</note>
+
+---
+
+Five times five is twenty-five; this number multiplied by itself yields six hundred twenty-five. <note>Calculation: $25 \times 25 = 625$.</note>
+　　Divided among five people, each person receives one hundred twenty-five. <note>Calculation: $625 \div 5 = 125$. Note that the result is $5^3$.</note>
+
+<summary>This page concludes a systematic series of squaring and division exercises based on the "six-times" table and provides a calculation for the sum of that sequence. It then transitions into a new series of exercises beginning with the square of five.</summary>
+<keywords>arithmetic, multiplication, squaring, division, sum of products, five-times table, six-times table</keywords>
+
+--- Page 17 ---
+<meta>This page continues the descending mathematical sequence initiated on the previous pages. While the previous sample provided continuity from Page Thirty-Three, the current source text is labeled Page One Hundred Ninety-Four. It continues the "five-times" table pattern ($n \times 5$), squaring the result, and then dividing by $n$.</meta>
+
+# Arithmetic
+
+Page One Hundred Ninety-Four
+
+Four times five is twenty; this number <term>multiplied by itself|original: 自相乘; zì xiāng chéng</term> yields four hundred. <note>Calculation: $(4 \times 5)^2 = 20^2 = 400$.</note>
+　　Divided among four people, each person receives one hundred. <note>Calculation: $400 \div 4 = 100$.</note>
+
+Three times five is fifteen; this number multiplied by itself yields two hundred twenty-five. <note>Calculation: $(3 \times 5)^2 = 15^2 = 225$.</note>
+　　Divided among three people, each person receives seventy-five. <note>Calculation: $225 \div 3 = 75$.</note>
+
+Two times five is ten; this number multiplied by itself yields one hundred. <note>Calculation: $(2 \times 5)^2 = 10^2 = 100$.</note>
+　　Divided among two people, each person receives fifty. <note>Calculation: $100 \div 2 = 50$.</note>
+
+One times five <term>is|original: 如; rú</term> five; <note>The term "ru" (literally "as" or "like") is a standard term in historical Chinese math rhymes to indicate the result of a single-digit multiplication.</note> this number multiplied by itself yields twenty-five. <note>Calculation: $(1 \times 5)^2 = 5^2 = 25$.</note>
+　　One person receives twenty-five.
+
+The total of the "five-five" items <note>original: 條; tiáo. This refers to the five component values in this sequence: 25, 20, 15, 10, and 5.</note> recorded to the right yields seventy-five; this number multiplied by itself yields five thousand, six <unclear>hundred twenty-five</unclear>. <note>Calculation: $(25+20+15+10+5) = 75$. Then $75^2 = 5,625$.</note>
+
+<summary>This page continues a pedagogical exercise of multiplication, squaring, and division based on the five-times table, descending from 4 to 1. It concludes by summing the primary products of the sequence and squaring that sum.</summary>
+<keywords>arithmetic, squaring, division, five-times table, mathematical rhymes, woodblock print, Suanfa</keywords>
+
+--- Page 18 ---
+<meta>This page continues the mathematical progression from the previous page. While the previous page calculated the square of the sum of the "five-times" series ($75^2 = 5,625$), this page begins by dividing that total by five. It then transitions into a new sequence based on the number four.</meta>
+
+->### Master Sun’s Mathematical Manual: Volume II<-
+
+# One Hundred Twenty-Five
+
+Divided among five people, each person receives one thousand, one hundred twenty-five. <note>Calculation: This concludes the problem from the previous page: $5,625 \div 5 = 1,125$.</note>
+
+Four times four is sixteen; this number <term>multiplied by itself|original: 自相乘; zì xiāng chéng</term> yields two hundred fifty-six. <note>Calculation: $(4 \times 4)^2 = 16^2 = 256$.</note>
+<gloss>Divided among four people, each person receives sixty-four.</gloss> <note>Calculation: $256 \div 4 = 64$.</note>
+
+Three times four is twelve; this number multiplied by itself yields one hundred forty-four. <note>Calculation: $(3 \times 4)^2 = 12^2 = 144$.</note>
+<gloss>Divided among three people, each person receives forty-eight.</gloss> <note>Calculation: $144 \div 3 = 48$.</note>
+
+Two times four <term>is|original: 如; rú</term> eight; <note>The term "ru" (literally "as" or "like") is used in Chinese mathematical tables to signify the result of a multiplication, similar to "equals."</note> this number multiplied by itself yields sixty-four. <note>Calculation: $(2 \times 4)^2 = 8^2 = 64$.</note>
+<gloss>Divided among two people, each person receives thirty-two.</gloss> <note>Calculation: $64 \div 2 = 32$.</note>
+
+One times four is four; this number multiplied by itself yields sixteen. <note>Calculation: $(1 \times 4)^2 = 4^2 = 16$.</note>
+
+<summary>This page concludes a division problem involving the number five and introduces a new pedagogical sequence where multiples of four are squared and then divided by their original factors.</summary>
+<keywords>Sun Zi Suan Jing, squaring, division, arithmetic series, ancient Chinese mathematics</keywords>
+
+--- Page 19 ---
+<meta>This page concludes the sequence of divisions based on the number four from the previous page and initiates a new mathematical progression based on the number three.</meta>
+
+One person receives sixteen. <note>Calculation: This completes the final division from the previous page: $16 \div 1 = 16$.</note>
+
+---
+
+To the right, in the sequence of fours: one <term>unit|original: 條; tiáo</term> results in forty; this number <term>multiplied by itself|original: 自相乘; zì xiāng chéng</term> yields one thousand six hundred. <note>Calculation: $(4 \times 10)^2 = 40^2 = 1,600$.</note>
+<gloss>Divided among four people, one person receives four hundred.</gloss> <note>Calculation: $1,600 \div 4 = 400$.</note>
+
+---
+
+Three times three <term>is|original: 如; rú</term> nine; <note>The term "ru" (literally "as" or "like") is used in Chinese mathematical tables to signify the result of a multiplication, similar to the modern "equals" sign.</note> this number multiplied by itself yields eighty-one. <note>Calculation: $(3 \times 3)^2 = 9^2 = 81$.</note>
+<gloss>Divided among three people, one receives twenty-seven.</gloss> <note>Calculation: $81 \div 3 = 27$.</note>
+
+---
+
+Two times three is six; this number multiplied by itself yields thirty-six. <note>Calculation: $(2 \times 3)^2 = 6^2 = 36$.</note>
+<gloss>Divided among two people, one receives eighteen.</gloss> <note>Calculation: $36 \div 2 = 18$.</note>
+
+---
+
+One times three is three; this number multiplied by itself yields nine. <note>Calculation: $(1 \times 3)^2 = 3^2 = 9$.</note>
+<gloss>One person receives nine.</gloss> <note>Calculation: $9 \div 1 = 9$.</note>
+
+<note>Vocabulary: multiplied by itself (squaring); divide it; unit/line; one person receives.</note>
+
+<summary>This page demonstrates a pattern of squaring multiples of three and subsequently dividing the product by the original multiplier. It follows the same pedagogical structure as the previous calculations for fours and fives.</summary>
+<keywords>Sun Zi Suan Jing, squaring, division, arithmetic progression, Master Sun's Mathematical Manual</keywords>
+
+--- Page 20 ---
+<meta>This page continues the mathematical exercises from the previous section. While the previous page focused on multiples of three and four, this page introduces more complex sequences (identifying them as "three-three" and "three-two" patterns) where a product is calculated, squared, and then divided among a set number of people.</meta>
+
+To the right, the "three-three" <term>sequence|original: 條; tiáo</term> results in eighteen; this number <term>multiplied by itself|original: 自相乘; zì xiāng chéng</term> yields three hundred twenty-four. <note>Calculation: The "three-three" likely refers to a base of $3 \times 3 = 9$, which is then doubled to 18. Then $18^2 = 324$.</note>
+<gloss>Divided among three people, one person receives one hundred and eight.</gloss> <note>Calculation: $324 \div 3 = 108$.</note>
+
+Two times two <term>is|original: 如; rú</term> four; <note>The term "ru" (literally "as" or "like") is the standard term in ancient Chinese multiplication tables to indicate the result, functioning like an equals sign.</note> this number multiplied by itself yields sixteen. <note>Calculation: $2 \times 2 = 4$, then $4^2 = 16$.</note>
+<gloss>Divided among two people, one person receives eight.</gloss> <note>Calculation: $16 \div 2 = 8$.</note>
+
+One times two is two; this number multiplied by itself yields four. <note>Calculation: $1 \times 2 = 2$, then $2^2 = 4$.</note>
+<gloss>One person receives four.</gloss> <note>Calculation: $4 \div 1 = 4$.</note>
+
+To the right, the "three-two" sequence results in six; this number multiplied by itself yields thirty-six. <note>Calculation: The "three-two" refers to $3 \times 2 = 6$. Then $6^2 = 36$.</note>
+<gloss>Divided among two people, one person receives eighteen.</gloss> <note>Calculation: $36 \div 2 = 18$.</note>
+
+<summary>This page details a series of mathematical operations where base numbers are multiplied, the result is squared, and the final product is divided. This reflects the algorithmic nature of ancient Chinese rod calculus used for accounting and engineering.</summary>
+<keywords>arithmetic, squaring, division, Sun Zi Suan Jing, rod calculus, mathematics</keywords>
+
+--- Page 21 ---
+<meta>This page continues the mathematical exercises from the previous section. While the previous page calculated individual squares from the "three-three" and "three-two" sequences, this page concludes the summation of the entire multiplication table—from "nine-nine" down to "one-one"—and performs division on the resulting square. It then provides further examples of multi-digit multiplication and division.</meta>
+
+# Master Sun’s Computational Canon, Volume One
+
+One times one <term>is|original: 如; rú</term> one; <note>The term "ru" (literally "as" or "like") is the standard term in ancient Chinese multiplication tables to indicate the result.</note> this number <term>multiplied by itself|original: 自相乘; zì xiāng chéng</term> yields one. Multiplying by one does not increase the value.
+
+To the right, from the "nine-nine" product down to "one-one," the <term>total sum|original: 總成; zǒng chéng</term> is one thousand one hundred fifty-five. <note>This refers to the sum of all products in a traditional Chinese multiplication table (e.g., 1x1, 1x2... up to 9x9). Mathematically: $\sum_{i=1}^9 \sum_{j=1}^i (i \times j) = 1155$.</note>
+This number multiplied by itself yields one million three hundred thirty-four thousand twenty-five. <note>Calculation: $1155^2 = 1,334,025$.</note>
+Divided among nine people, each person receives one hundred forty-eight thousand two hundred twenty-five. <note>Calculation: $1,334,025 \div 9 = 148,225$.</note>
+
+Multiplying twelve by nine yields one hundred and eight.
+Divided among six people, each person receives eighteen. <note>Calculation: $108 \div 6 = 18$.</note>
+
+Multiplying thirty-six by twenty-seven yields nine hundred seventy-two.
+Divided among eighteen people, each person receives fifty-four. <note>Calculation: $972 \div 18 = 54$.</note>
+
+<summary>This page concludes a complex calculation involving the sum of the entire multiplication table (1,155), squaring that sum, and dividing it. It further demonstrates practical multiplication and division algorithms used in ancient Chinese mathematics.</summary>
+<keywords>Sunzi Suanjing, multiplication table, summation, squaring, division, arithmetic algorithms</keywords>
+
+--- Page 22 ---
+<meta>This page continues the sequence of geometric progressions and division exercises from Volume One. While the previous page dealt with the products of the multiplication table and smaller factors, this page advances into larger multi-digit calculations, maintaining the pattern where the result of one division becomes the divisor for the next set of operations.</meta>
+
+# Master Sun’s Computational Canon, Volume Three
+
+->Page Two<-
+
+Multiplying eighty-one by one hundred and eight <term>yields|original: 得; dé</term> eight thousand seven hundred forty-eight. <note>Following the progression from the previous page, both factors have been tripled (27 × 3 = 81 and 36 × 3 = 108).</note>
+<term>Divided among|original: 分之; fēn zhī</term> fifty-four people, each person receives one hundred sixty-two. <note>Calculation: $8,748 \div 54 = 162$. The divisor 54 was the quotient from the final calculation on the previous page.</note>
+
+Multiplying two hundred forty-three by three hundred twenty-four yields seventy-eight thousand seven hundred thirty-two.
+Divided among one hundred sixty-two people, each person receives four hundred eighty-six. <note>Calculation: $78,732 \div 162 = 486$. Note again that the factors (243 and 324) are triple those of the previous step, and the divisor (162) is the previous quotient.</note>
+
+Multiplying seven hundred twenty-nine by nine hundred seventy-two yields seven hundred eight thousand five hundred eighty-eight.
+Divided among four hundred eighty-six people, each person receives one thousand four hundred fifty-eight. <note>Calculation: $708,588 \div 486 = 1,458$. This continues the "triple-triple" geometric progression characteristic of this section of the Canon.</note>
+
+### Key Mathematical Terms
+
+| Character | Translation | Significance |
+| :--- | :--- | :--- |
+| <term>乘|chéng</term> | Multiply | The standard term for multiplication in ancient Chinese mathematics. |
+| <term>得|dé</term> | Yields / Results in | Used to introduce the product or result of a calculation. |
+| <term>分之|fēn zhī</term> | Divided by / Among | Indicates the division of a total sum into equal parts. |
+| <term>萬|wàn</term> | Ten Thousand | The primary large unit in the Chinese numbering system (myriad). |
+| <term>千|qiān</term> | Thousand | A standard decimal unit. |
+| <term>百|bǎi</term> | Hundred | A standard decimal unit. |
+| <term>算術|suànshù</term> | Arithmetic | Literally "the art of counting" or calculation methods. |
+
+<summary>This page presents a series of increasingly large multiplication and division exercises that follow a strict geometric progression (tripling the factors at each step). It demonstrates the use of the counting board for handling six-digit results and multi-digit divisors.</summary>
+<keywords>multiplication, division, geometric progression, counting board, Master Sun’s Computational Canon, classical Chinese mathematics</keywords>
+
+--- Page 23 ---
+<meta>This page continues the geometric progression from the previous page of Volume Three. The calculations maintain the established pattern: both factors in the multiplication are tripled from the previous step, and the divisor for the division problem is the quotient (the "each person receives" amount) from the preceding exercise.</meta>
+
+Multiplying two thousand one hundred eighty-seven by two thousand nine hundred sixteen <term>yields|original: 得; dé</term> <note>This result is the product of $2,187 \times 2,916$.</note> six million three hundred seventy-seven thousand two hundred ninety-two.
+Divided among one thousand four hundred fifty-eight <term>people|original: 人; rén</term>, <term>each person receives|original: 人得; rén dé</term> four thousand three hundred seventy-four. <note>Calculation: $6,377,292 \div 1,458 = 4,374$. Note that 1,458 was the result of the final calculation on the previous page.</note>
+
+---
+
+Multiplying six thousand five hundred sixty-one by eight thousand seven hundred forty-eight yields fifty-seven million three hundred ninety-five thousand six hundred twenty-eight.
+Divided among four thousand three hundred seventy-four people, each person receives thirteen thousand one hundred twenty-two. <note>Calculation: $57,395,628 \div 4,374 = 13,122$. The factors 6,561 and 8,748 are exactly three times the factors used in the previous step.</note>
+
+---
+
+Multiplying nineteen thousand six hundred eighty-three by twenty-six thousand two hundred forty <note>The text here appears to break off; based on the mathematical progression of tripling the previous factor (8,748), the full number should be 26,244 (twenty-six thousand two hundred forty-four).</note>
+
+### Mathematical Vocabulary
+
+| Term | Translation | Explanation |
+| :--- | :--- | :--- |
+| <term>乘|chéng</term> | Multiply | The standard operation for finding a product. |
+| <term>得|dé</term> | Result / Yields | Literally "to get," used to introduce the answer to a calculation. |
+| <term>分|fēn</term> | Divide / Distribute | In this context, it refers to the process of division through sharing. |
+| <term>人得|rén dé</term> | Each person receives | The technical term for the quotient in a distribution-style division problem. |
+| <term>萬|wàn</term> | Ten Thousand | The primary large-unit base in the Chinese numbering system. |
+
+<summary>This page records increasingly large calculations within a geometric progression where factors are tripled at each stage. It demonstrates the application of the "Master Sun" division and multiplication methods to numbers in the tens of millions.</summary>
+<keywords>multiplication, division, geometric progression, Master Sun's Computational Canon, Chinese mathematics, quotients</keywords>
+
+--- Page 24 ---
+<meta>This page continues the geometric progression and large-scale division exercises. The mathematical pattern remains consistent: each new set of factors is exactly three times the previous set, and the divisor for each problem is the quotient (the "each person receives" amount) from the immediately preceding calculation.</meta>
+
+...four <note>original: 四; sì. This character completes the number "twenty-six thousand two hundred forty-four" which began on the previous page.</note> yields five hundred sixteen million five hundred sixty thousand six hundred fifty-two.
+　　Divided among thirteen thousand one hundred twenty-two <term>people|original: 人; rén</term>, each person receives
+　　　　thirty-nine thousand three hundred sixty-six. <note>Calculation: $516,560,652 \div 13,122 = 39,366$.</note>
+
+---
+
+Multiplying fifty-nine thousand forty-nine by seventy-eight thousand seven hundred thirty-two
+yields <term>four billion six hundred forty-nine million forty-five thousand eight hundred sixty-eight|original: 四十六億四千九百四萬五千八百六十八; sì shí liù yì sì qiān jiǔ bǎi sì wàn wǔ qiān bā bǎi liù shí bā</term>. <note>In traditional Chinese mathematics, "Yi" (億) represents $100,000,000$.</note>
+　　Divided among thirty-nine thousand three hundred sixty-six people, each person receives
+　　　　one hundred eighteen thousand ninety-eight. <note>Calculation: $4,649,045,868 \div 39,366 = 118,098$.</note>
+
+---
+
+Multiplying one hundred seventy-seven thousand one hundred forty-seven by two hundred thirty-six thousand one hundred ninety-six yields forty-one billion eight hundred forty-one million four hundred... <note>The text breaks off here mid-number. Based on the established progression ($177,147 \times 236,196$), the full product is 41,841,412,812.</note>
+
+<summary>This page advances a series of complex multiplications and divisions where factors increase by a power of three. It demonstrates the ability of historical Chinese mathematicians to handle calculations reaching into the tens of billions (Yi).</summary>
+<keywords>arithmetic, geometric progression, large-scale multiplication, division, Chinese numeral system, billion (Yi)</keywords>
+
+--- Page 25 ---
+<meta>This page continues the sequence of large-scale arithmetic exercises from page 22. The text completes the division of the product 41,841,412,812 and introduces a new, even larger multiplication and division set. The mathematical pattern follows a geometric progression where factors are multiplied by three in each successive step.</meta>
+
+# Arithmetic, Volume One
+->Page 23<-
+
+...one hundred twelve thousand eight hundred twelve. <note>original: 十一萬二千八百一十二. This phrase completes the product from the previous page. Note that while the calculated product of $177,147 \times 236,196$ ends in "twelve thousand eight hundred twelve" (一萬二千八百一十二), the transcription here includes an extra "ten" (十), reading "one hundred twelve thousand..." This may be a scribal error or an artifact of the transcription.</note>
+
+Divided among one hundred eighteen thousand ninety-eight <term>people|original: 人; rén</term>, each person receives
+　　three hundred fifty-four thousand two hundred ninety-four. <note>Calculation: $41,841,412,812 \div 118,098 = 354,294$. This result becomes the divisor for the next set.</note>
+
+Multiplying five hundred thirty-one thousand four hundred forty-one by seven hundred eight thousand five hundred eighty-eight yields <term>three hundred seventy-six billion five hundred seventy-two million seven hundred fifteen thousand three hundred eight|original: 三千七百六十五億七千二百七十一萬五千三百八; sān qiān qī bǎi liù shí wǔ yì qī qiān èr bǎi qī shí yī wàn wǔ qiān sān bǎi bā</term>. <note>In this system, "Yi" (億) represents $100,000,000$ and "Wan" (萬) represents $10,000$. The result $376,572,715,308$ is a massive figure for a manual calculation of this era.</note>
+
+Divided among three hundred fifty-four thousand two hundred ninety-four people,
+each person receives one million sixty-two thousand eight hundred eighty-two. <note>Calculation: $376,572,715,308 \div 354,294 = 1,062,882$.</note>
+
+<summary>This page completes a division resulting in 354,294 and performs a new multiplication and division reaching into the hundreds of billions. It showcases the sophisticated handling of large numbers and the iterative nature of traditional Chinese mathematical training.</summary>
+<keywords>multiplication, division, geometric progression, large numbers, Yi, Wan, sharing algorithms</keywords>
+
+--- Page 26 ---
+<meta>This page marks the formal title entry for the first volume of the manual, following the complex calculations and arithmetic progressions established in the preceding sections of the manuscript.</meta>
+
+# Master Sun’s Mathematical Manual, Volume One
+
+<term>Master Sun’s Mathematical Manual|original: 孫子算經; Sūnzǐ Suànjīng</term> <term>Volume One|original: 卷上; juàn shàng</term>
+
+<note>The title identifies this as the "Upper Volume" or first part of the Suanzi Suanjing, a foundational mathematical treatise from the 3rd to 5th centuries AD. It is famously known for containing the earliest known example of the "Chinese Remainder Theorem."</note>
+
+<summary>This page serves as the formal title heading for the first volume of Master Sun's Mathematical Manual, marking the beginning of the core instructional text.</summary>
+
+<keywords>Master Sun's Mathematical Manual, Sunzi Suanjing, Volume One, Mathematics, Title Page</keywords>
+
+--- Page 27 ---
+<meta>This page transitions from the first volume (Upper) to the second volume (Middle) of Master Sun’s Mathematical Manual. While the first volume focuses on the basics of counting rods and multiplication/division, this page introduces the rules for manipulating fractions.</meta>
+
+# Master Sun’s Mathematical Manual, Volume Two
+
+### <gloss>Annotated by Imperial Decree by Li Chunfeng, <note>Li Chunfeng (602–670 AD) was a preeminent mathematician, astronomer, and historian of the Tang Dynasty. He was commissioned by the Emperor to commentate on the "Ten Mathematical Classics" to make them standard for the civil service exams.</note> Grand Master for Court Discussion, Acting Director of the Astrology Bureau, and Commandant of the Upper Light Chariot, and others.</gloss>
+
+---
+
+Now there are twelve parts of eighteen <note>12/18</note>. It is asked: if these are <term>reduced|original: 約之; yuēzhī</term>, what is the result?
+
+->Answer: Two parts of three <note>2/3</note><-
+
+The **Method** says: Place the eighteen parts <note>the denominator</note> at the bottom and the twelve parts <note>the numerator</note> at the top. Set up two identical positions for these values. Use the smaller number to subtract from the larger <note>This is the "Mutual Subtraction" method, an early form of the Euclidean Algorithm used to find the Greatest Common Divisor.</note>. The resulting equal number <note>the remainder where both sides match</note> is six. Use this as the <term>divisor|original: 法; fǎ</term> to reduce the original numbers, and you will obtain the result.
+
+Now there is one part of three <note>1/3</note> and two parts of five <note>2/5</note>. It is asked: if one **combines** <note>original: 合之; hézhī—meaning to add the fractions together</note> them, what is the result?
+
+->Answer: Eleven parts of fifteen <note>11/15</note><-
+
+The **Method** says: Place the three and five <note>the denominators</note> on the right side. Place the one and two <note>the numerators</note> on the left side.
+
+<summary>This page marks the beginning of Volume Two, introducing the fundamental rules for working with fractions, specifically reduction (simplification) using a subtraction-based algorithm and the initial setup for adding fractions.</summary>
+
+<keywords>Master Sun's Mathematical Manual, Li Chunfeng, fraction reduction, greatest common divisor, addition of fractions, Tang Dynasty mathematics</keywords>
+
+--- Page 28 ---
+<meta>This page continues the instructions for "combining" (adding) fractions from the previous page and introduces the method for "reducing" (subtracting) fractions. It utilizes the counting-rod layout where numerators and denominators are placed in specific positions on a grid.</meta>
+
+...cross-multiply the <term>denominators on the right|original: 方母; fāngmǔ</term> with the <term>numerators|original: 子; zǐ</term>. From the two parts of five, one obtains six <note>2 × 3 = 6</note>. From the one part of three, one obtains five <note>1 × 5 = 5</note>. **Combine** <note>Add</note> them to get eleven, which serves as the <term>dividend|original: 實; shí</term>. Multiply the two denominators on the right side together to get fifteen, which serves as the <term>divisor|original: 法; fǎ</term>. Since the dividend is less than the divisor, name the result by the divisor <note>i.e., express it as the fraction 11/15</note> to obtain the answer.
+
+Now there are eight parts of nine <note>8/9</note> and one subtracts one part of five <note>1/5</note> from it. It is asked: what is the remainder?
+
+->Answer: Thirty-one parts of forty-five <note>31/45</note><-
+
+The **Method** says: Place the denominators of nine and five on the right side, and the numerators of eight and one on the left side. Cross-multiply the denominators on the right with the numerators. From the one part of five, one obtains nine <note>1 × 9 = 9</note>. From the eight parts of nine, one obtains forty <note>8 × 5 = 40</note>. Subtract the smaller number from the larger to leave a remainder of thirty-one, which serves as the dividend. Multiply the denominators together to get forty-five, which serves as the divisor. Since the dividend is less than the divisor, name the result by the divisor to obtain the answer.
+
+<summary>This page explains the algorithms for adding and subtracting fractions using cross-multiplication. It demonstrates how ancient Chinese mathematicians used a grid-based system (the "right side" and "left side") to organize numerators and denominators during calculation.</summary>
+<keywords>fractions, addition, subtraction, cross-multiplication, Sunzi Suanjing, dividend, divisor, counting rods</keywords>
+
+--- Page 29 ---
+<meta>This page continues the mathematical demonstrations from the previous section. While the previous page focused on basic addition and subtraction of two fractions, this page introduces a more complex problem of "averaging" or "leveling" three different fractions to find a common value and the adjustments needed for each. This is a classic problem of finding the arithmetic mean in a fractional context.</meta>
+
+Now suppose there are one-third, two-thirds, and three-fourths. It is asked: how much must be subtracted from the greater and added to the lesser so that they are all equalized?
+
+->Answer: Subtract two parts from the three-fourths and one part from the two-thirds. Combine these and add them to the one-third; each will then be equalized at seven parts of twelve <note>7/12</note>.<-
+
+The **Method** <note>original: 術; shù</note> says: Place the denominators of three, three, and four on the right side. Place the numerators of one, two, and three on the left side. Let the <term>denominators|original: 母; mǔ</term> on the right cross-multiply with the <term>numerators|original: 子; zǐ</term> on the left. Sum these <term>subsidiary products|original: 副并; fù bìng</term> to obtain sixty-three <note>The cross-multiplication here finds a common denominator of 36. The adjusted numerators are 12, 24, and 27, which sum to 63</note>. Place this on the right to serve as the <term>Equalized Dividend|original: 平實; píngshí</term>. Multiply the denominators together to obtain thirty-six, which serves as the <term>Divisor|original: 法; fǎ</term>. Use the number of items, three, to multiply the individual values before they were summed <note>the adjusted numerators 12, 24, and 27</note> as well as the divisor <note>36</note>. The <term>greatest common divisor|original: 等數; děngshù</term> is nine. After <term>simplifying|original: 約; yuē; reducing the fraction</term>, subtract four parts... <note>The text ends abruptly here; the calculation indicates that after finding the mean of 7/12, the differences are measured to determine the "two parts" and "one part" mentioned in the answer.</note>
+
+<summary>This page describes a mathematical procedure for averaging three fractions (1/3, 2/3, and 3/4) using a counting-board method of cross-multiplication and reduction. It calculates the mean as 7/12 and determines the necessary adjustments to equalize the values.</summary>
+<keywords>fractions, arithmetic mean, Sunzi Suanjing, denominators, numerators, cross-multiplication, equalization</keywords>
+
+--- Page 30 ---
+<meta>This page transitions from the final resolution of a fractional averaging problem into the second book of the "Nine Chapters on the Mathematical Art." The previous page was calculating the arithmetic mean of 1/3, 2/3, and 3/4. This page completes that calculation and introduces the "Millet and Rice" chapter, which deals with the exchange of different types of grains using standardized rates of proportion.</meta>
+
+...from the [adjusted numerator] of three, subtract two; from the [adjusted numerator] of two-thirds, subtract one. Combine these [subtracted parts] to increase the one-third; each value is then leveled at seven-twelfths <note>The text concludes the previous problem: by redistributing the parts, the fractions 4/12, 8/12, and 9/12 all become 7/12</note>.
+
+# Book Two: Millet and Rice
+
+Now suppose there is 1 <term>dou|a unit of dry measure, roughly 10 liters</term> of millet. It is asked: how much glutinous rice does this make?
+
+**Answer:** 6 <term>sheng|a unit of dry measure, 1/10 of a dou</term>.
+
+The **Method** <note>original: 術; shù</note> says: Place the 1 *dou* (10 *sheng*) of millet. Multiply it by the <term>glutinous rice rate|original: 糯米率; nuòmǐ lǜ</term> of thirty, which gives three hundred *sheng* to serve as the <term>dividend|original: 實; shí</term>. Use the <term>millet rate|original: 粟率; sù lǜ</term> of fifty as the <term>divisor|original: 法; fǎ</term>. Divide [the dividend by the divisor] to obtain the result <note>The calculation is (10 × 30) / 50 = 6. This establishes the exchange ratio of millet to glutinous rice as 50:30</note>.
+
+Now suppose there are 2 *dou* and 1 *sheng* of millet. It is asked: how much <term>barnyard millet rice|original: 稗米; bàimǐ; a lower-grade grain</term> does this make?
+
+**Answer:** 1 *dou*, 1 *sheng*, and seventeen-fiftieths of a *sheng* <note>11 and 17/50 sheng</note>.
+
+The **Method** says: Place the twenty-one *sheng* of millet. Multiply it by the barnyard millet rice rate of twenty-seven... <note>The standard rate for barnyard millet rice is 27. The calculation starts as (21 × 27) / 50</note>
+
+<summary>This page concludes a lesson on averaging fractions and begins the "Millet and Rice" chapter, which teaches the "Rule of Three" for exchanging grains. It provides specific examples for converting raw millet into glutinous rice and barnyard millet rice using fixed proportional rates.</summary>
+<keywords>Nine Chapters on the Mathematical Art, Su Mi, grain exchange, millet, glutinous rice, barnyard millet rice, Rule of Three, proportions, dou, sheng</keywords>
+
+--- Page 31 ---
+<meta>This page continues the "Millet and Rice" chapter (Su Mi) of the Nine Chapters on the Mathematical Art. It begins by concluding the calculation for converting 2 dou 1 sheng of millet into barnyard millet rice (baimi), which was started on the previous page. It then proceeds to a new conversion problem involving "hulled rice" (limi) and introduces "imperial rice" (yumi).</meta>
+
+...[multiplying] results in five hundred and sixty-seven *sheng* to serve as the <term>dividend|original: 實; shí; the number to be divided</term>. Use the <term>millet rate|original: 粟率; sù lǜ</term> of fifty as the <term>divisor|original: 法; fǎ; the number by which one divides</term>. Divide [the dividend by the divisor]; if there is a remainder, <term>name the fraction|original: 命分; mìng fèn; to state the remainder as a fraction</term> using the divisor <note>The result is 567 ÷ 50 = 11 and 17/50 *sheng*. This completes the conversion of 21 *sheng* of millet into barnyard millet rice using the ratio of 50:27</note>.
+
+Now suppose there are 4 <term>dou|a unit of dry measure, approx. 10 liters</term> and 5 <term>sheng|a unit of dry measure, 1/10 of a dou</term> of millet. It is asked: how much <term>hulled rice|original: 糲米; lìmì; rice with the outer husk removed but the bran remaining</term> does this make?
+
+**Answer:** 2 *dou*, 1 *sheng*, and three-fifths of a *sheng*.
+
+The **Method** <note>original: 術; shù</note> says: Place the forty-five *sheng* of millet. Use two to <term>simplify|original: 約; yuē; to reduce a ratio or fraction</term> the hulled rice rate of twenty-four, which gives twelve; multiply [the millet] by this to get five hundred and forty *sheng* to serve as the dividend. Use two to simplify the millet rate of fifty, which gives twenty-five to serve as the divisor. Divide [the dividend by the divisor]; if there is a remainder, simplify it by the <term>greatest common divisor|original: 等數; děngshù</term> and name the fraction <note>The text demonstrates a shortcut: instead of calculating (45 × 24) ÷ 50, it simplifies the ratio 24/50 to 12/25 first. Thus, (45 × 12) ÷ 25 = 540 ÷ 25 = 21 and 15/25, which simplifies to 21 and 3/5</note>.
+
+Now suppose there are 7 *dou* and 9 *sheng* of millet. It is asked: how much <term>imperial rice|original: 御米; yùmì; highly polished rice fit for the emperor</term> does this make?
+
+<summary>This page demonstrates the mathematical conversion of millet into various grades of processed rice (hulled and imperial) using proportional "rates" and fraction simplification. It highlights the use of the "Method of Three" (proportions) and the reduction of ratios to their simplest form before multiplication.</summary>
+<keywords>millet, hulled rice, imperial rice, proportions, dividend, divisor, fraction simplification, Nine Chapters on the Mathematical Art</keywords>
+
+--- Page 32 ---
+<meta>This page concludes a grain conversion calculation involving "Imperial Rice" and transitions into a practical geometry and construction problem regarding the paving of a house foundation. It maintains the mathematical focus of the "Millet and Rice" and "Field Measurement" themes found in traditional Chinese mathematics.</meta>
+
+**Answer:** 3 <term>dou|a unit of dry measure, approx. 10 liters</term>, 3 <term>sheng|a unit of dry measure, 1/10 of a dou</term>, 1 <term>he|a unit of volume, 1/10 of a sheng</term>, and 8 <term>shao|a unit of volume, 1/100 of a sheng</term>.
+
+The **Method** <note>original: 術; shù</note> says: Place the 7 *dou* and 9 *sheng* <note>Converted to 79 sheng for the calculation</note>. Multiply this by the <term>imperial rice rate|original: 御米率; yùmǐ lǜ</term> of twenty-one. This results in 1,659 *sheng* to serve as the <term>dividend|original: 實; shí</term>. Use the <term>millet rate|original: 粟率; sù lǜ</term> of fifty to divide it, and you will obtain the answer. <note>The calculation is (79 × 21) ÷ 50 = 33.18 sheng, which equals 3 dou, 3 sheng, 1 he, and 8 shao.</note>
+
+---
+
+Now suppose there is a house foundation measuring 3 <term>zhang|a unit of length, approx. 3.3 meters</term> from north to south and 6 *zhang* from east to west. One wishes to pave it with <term>bricks|original: 甓; pì</term>. For every 2 [square] <term>chi|a unit of length, 1/10 of a zhang</term> of area, 5 bricks are used. It is asked: how many bricks are needed in total?
+
+**Answer:** 4,500 bricks.
+
+The **Method** says: Place the east-west length of 6 *zhang* and multiply it by the north-south length of 3 *zhang*. This results in 1,800 [square] *chi* <note>1 zhang is 10 chi; therefore 60 chi × 30 chi = 1,800 square chi</note>. Multiply this by 5 to get 9,000, then divide by 2 [to find the total number of bricks].
+
+<summary>This page completes a grain conversion problem involving Imperial Rice and introduces a construction problem calculating the number of bricks required to pave a rectangular foundation based on area ratios.</summary>
+<keywords>Imperial Rice (yumi), grain conversion, volume units (dou, sheng, he, shao), house foundation (wuji), area calculation, bricklaying (pi), units of length (zhang, chi)</keywords>
+
+--- Page 33 ---
+<meta>This page transitions from a construction problem involving the paving of a house foundation into a three-dimensional geometry problem. It continues the practical application of mathematics seen on the previous page, shifting focus from area and material counts to the volume and storage capacity of agricultural structures.</meta>
+
+[Which] then gives:
+
+## Now, suppose there is a circular <term>granary|original: 圓窖; yuánjiào; specifically a pit or cellar for storage</term>. The <term>lower circumference|original: 下周; xiàzhōu</term> is 286 <term>chi|a unit of length, approx. 0.3 meters</term>, and the depth is 3 <term>zhang|a unit of length equal to 10 chi</term> and 6 *chi*. It is asked: how much <term>millet|original: 粟; sù</term> does it hold?
+
+**Answer:** 151,474 <term>hu|a unit of dry volume, approx. 20–30 liters</term>, 7 <term>sheng|a unit of dry volume, 1/100 of a hu</term>, and eleven-twenty-sevenths of a *sheng*.
+
+**The Method <note>original: 術; shù</note> says:** Place the circumference of 286 *chi*. Multiply it by itself <note>to square the number</note> to get 81,796 [square] *chi*. Multiply this by the depth of 3 *zhang* 6 *chi* <note>converted to 36 chi for the calculation</note> to get 2,944,656. Divide this by 12 <note>This formula, Volume = (Circumference² × depth) / 12, relies on the ancient mathematical convention that the ratio of a circle's circumference to its diameter is exactly 3</note> to get 245,388 [cubic *chi*].
+
+<margin>
+Used by Ding <note>original: 丁用; likely a signature or ownership mark by a student or official named Ding</note>
+</margin>
+
+<vocab>circular granary, lower circumference, hu (unit), sheng (unit), the method says, the answer says, how much millet does it hold</vocab>
+
+<summary>This page presents a practical geometry problem calculating the volume of a circular granary and its grain capacity. It utilizes the traditional Chinese mathematical approximation of pi as 3 and demonstrates conversions between units of length and units of dry volume.</summary>
+<keywords>geometry, circular granary, volume calculation, millet capacity, chi, hu, sheng, Nine Chapters on the Mathematical Art</keywords>
+
+--- Page 34 ---
+<meta>This page continues the mathematical sequence from the previous page, concluding the calculation for a circular storage pit before introducing a new problem involving a rectangular (square-type) granary. It maintains the focus on agricultural logistics and volumetric geometry.</meta>
+
+...[cubic] *chi*. Divide by the **<term>hu-divisor|original: 斛法; húfǎ; a constant used to convert cubic volume into the "hu" capacity unit</term> of 1 *chi*, 6 *cun*, and 2 *fen*** <note>The value 1.62 cubic chi per hu was the standard ratio used in ancient Chinese mathematics to calculate the capacity of grain storage</note> to get the result.
+
+---
+
+## Now, suppose there is a **square <term>granary|original: 方窖; fāngjiào; specifically a rectangular or square-shaped storage pit</term>**. The width is 4 <term>zhang|a unit of length equal to 10 chi, approx. 3 meters</term> and 6 *chi*, the length is 5 *zhang* and 4 *chi*, and the depth is 3 *zhang* and 5 *chi*. It is asked: how much **<term>millet|original: 粟; sù</term>** does it hold?
+
+**Answer:** 53,666 <term>hu|a unit of dry volume</term>, 6 <term>dou|1/10 of a hu</term>, 6 <term>sheng|1/100 of a hu</term>, and one-third of a *sheng*.
+
+**The Method <note>original: 術; shù; the step-by-step mathematical procedure</note> says:** Place the width of 4 *zhang* 6 *chi* and the length of 5 *zhang* 4 *chi*. Multiply them together to get 2,484 [square] *chi*. Multiply this by the depth of 3 *zhang* 5 *chi* to get 86,940 [cubic] *chi*. Divide this by the **<term>hu-divisor|húfǎ</term> of 1 *chi* 6 *cun* 2 *fen*** <note>1.62</note> to get the result.
+
+<vocab>square granary, hu-divisor, millet, hu (unit), dou (unit), sheng (unit), width, length, depth</vocab>
+
+<summary>This page demonstrates how to calculate the volume of a rectangular storage pit and convert that volume into grain capacity (hu) using a standard historical divisor. It illustrates the practical application of 3D geometry in managing agricultural taxes and stores.</summary>
+<keywords>rectangular granary, volume calculation, millet storage, hu-divisor, Chinese units of measure, agricultural mathematics</keywords>
+
+--- Page 35 ---
+<meta>This page transitions from the previous discussion of rectangular (square-type) granaries to circular structures, continuing the sequence of volumetric calculations. It introduces the geometry of circles, applying a specific historical approximation for pi to calculate both storage capacity and land area.</meta>
+
+Now, suppose there is a **<term>circular granary|original: 圓窖; yuánjiào; a cylindrical storage pit dug into the ground</term>** with a circumference of 5 <term>zhang|a unit of length equal to 10 chi, approx. 3 meters</term> and 4 *chi*, and a depth of 1 *zhang* and 8 *chi*. It is asked: how much **<term>millet|original: 粟; sù</term>** does it hold?
+
+->**The Answer says:** 2,700 **<term>hu|a unit of dry volume</term>**<-
+
+**The Method <note>original: 術; shù; the step-by-step mathematical procedure</note> says:** First, set down the circumference of 5 *zhang* 4 *chi* <note>equivalent to 54 chi</note> and multiply it by itself to get 2,916 [square] *chi*. Multiply this by the depth of 1 *zhang* 8 *chi* <note>18 chi</note> to get 52,488 [cubic] *chi*. Divide this by 12 <note>This formula for the volume of a cylinder, $(Circumference^2 \times depth) / 12$, relies on the ancient mathematical convention that the ratio of a circle's circumference to its diameter (pi) is exactly 3</note> to get 4,374 [cubic] *chi*. Divide this by the **<term>hu-divisor|original: 斛法; húfǎ</term> of 1 *chi*, 6 *cun*, and 2 *fen*** <note>1.62 cubic chi; the standard volume of one hu of grain</note> to obtain the result.
+
+---
+
+Now, suppose there is a **<term>circular field|original: 圓田; yuántián</term>** with a circumference of 300 **<term>paces|original: 步; bù; a unit of length used for surveying, roughly 1.5 meters</term>** and a **<term>diameter|original: 徑; jìng</term>** of 100 paces. It is asked: what is the area of the field?
+
+<vocab>circular granary, hu (unit), the method, hu-divisor, circular field, pace, diameter, millet, multiply together, divide</vocab>
+
+<summary>This page provides instructions for calculating the volume of a cylindrical grain pit and the area of a circular field. It demonstrates the use of a simplified value for pi (3) and the standard conversion factor for cubic volume to grain capacity.</summary>
+<keywords>geometry, circular granary, circular field, pi approximation, grain storage, volumetric units, land surveying</keywords>
+
+--- Page 36 ---
+<meta>This page transitions from the calculation of circular volumes to the measurement of land area. It continues the use of the "pi equals three" approximation to calculate the area of a circular field using three distinct mathematical methods, then introduces a new geometric problem involving a square field and a central landmark.</meta>
+
+# Field Areas
+
+->**The Answer says: 31 <term>mu|original: 畝; mǔ; a unit of land area approx. 666.6 square meters</term> and a remainder of 60 paces**<-
+
+**The Method says:** First, set down the circumference of 300 paces and halve it to get 150 paces. Next, set down the diameter of 100 paces and halve it to get 50 paces. Multiply these together to get 7,500 [square] paces. Divide this by the **<term>mu-standard|original: 畝法; mǔfǎ</term> of 240 paces** <note>In this system, 1 mu is defined as 240 square paces</note> to obtain the result.
+
+**Another method:** Multiply the circumference by itself to get 90,000 paces. Divide this by 12 <note>This formula, $Area = Circumference^2 / 12$, is mathematically equivalent to the first method as long as the ratio of circumference to diameter is assumed to be 3</note> to get 7,500 paces. Divide by the mu-standard to get the number of *mu*.
+
+**Another method:** Multiply the diameter by itself to get 10,000 [square] paces. Multiply this by 3 to get 30,000 paces. Divide by 4 <note>This follows the formula $Area = (3 \times Diameter^2) / 4$</note> to get 7,500 paces. Divide by the mu-standard to get the number of *mu*.
+
+Now, suppose there is a **<term>square field|original: 方田; fāngtián</term>** with a **<term>mulberry tree|original: 桑; sāng</term>** growing in the center. The distance from a corner to the mulberry tree is 147 paces.
+
+<summary>This page details three different geometric methods for calculating the area of a circular field using ancient approximations of pi. It also introduces a survey problem involving the dimensions of a square field based on the position of a central tree.</summary>
+<keywords>field areas, circular field, mu, pace, diameter, circumference, mulberry tree, Nine Chapters on the Mathematical Art</keywords>
+
+--- Page 37 ---
+<meta>This page continues the mathematical problems introduced on the previous page. Having established the dimensions of a square field with a central mulberry tree, the text now performs the actual area calculation. It then pivots from two-dimensional surveying to three-dimensional volumetric calculations involving timber processing.</meta>
+
+# Question: How much area does the field have?
+
+**The Answer says: One <term>qing|original: 頃; qǐng; a unit of land area equal to 100 mu</term>, 83 <term>mu|original: 畝; mǔ</term>, and a remainder of 180 <term>paces|original: 步; bù; square paces</term>** <note>The original OCR uses the character '項', which is a phonetic loan or clerical error for '頃' (qing)</note>
+
+**The Method says:** Set down the distance from the corner to the mulberry tree of 147 paces. Double it to get 294 paces <note>This doubling represents the full diagonal of the square field, as the tree is in the center</note>. Multiply this by 5 to get 1,470 paces. Divide this by 7 to get 210 paces <note>This operation ($5/7$) is an ancient Chinese approximation for $1/\sqrt{2}$, used to find the side of a square from its diagonal</note>. Multiply this value by itself to get 44,100 [square] paces. Divide this by the 240-pace **mu-standard** <note>One mu is defined as 240 square paces</note> to obtain the result.
+
+---
+
+# Now suppose there is a square piece of timber 3 feet [on each side]. We wish to make pillows that are each 5 inches square. Question: How many can be obtained?
+
+**The Answer says: 216 pieces**
+
+**The Method says:** Set down the square side of 3 feet and multiply it by itself to get 9 [square] feet. Multiply this by the height of 3 feet <note>This calculates the total volume: $3 \times 3 \times 3 = 27$ cubic feet. Given that 1 foot equals 10 inches, the volume is 27,000 cubic inches. Each 5-inch cubic pillow ($5 \times 5 \times 5$) is 125 cubic inches. $27,000$ divided by $125$ yields the answer, 216</note>
+
+<summary>This page demonstrates practical geometry used in land surveying and carpentry, specifically calculating the area of a square field using diagonal ratios and determining the yield of smaller blocks from a large timber volume.</summary>
+<keywords>geometry, land surveying, timber volume, square root approximation, mu, qing, conversion factors</keywords>
+
+--- Page 38 ---
+<meta>This page concludes the volumetric calculation of pillows from a timber block and introduces a new geometric problem regarding the perimeter of a square. It maintains the mathematical precision of the previous section, focusing on unit conversions between paces, zhang, and feet.</meta>
+
+Multiplying this yields twenty-seven [cubic] feet. Multiplying this by 1 foot and 6 inches <note>original: 一尺六寸. To reach the previous answer of 216 pillows from 27 cubic feet, a multiplier of 8 is required (since $27 \times 8 = 216$). The "1 foot 6 inches" in the text may refer to a specific conversion ratio or a clerical error in the source manuscript</note> results in the [total count].
+
+# Question: Now suppose there is a rope with a length of 5,794 <term>paces|original: 步; bù; a unit of length</term>. We wish to use it to form a square. How long is each side?
+
+**The Answer says: 1,448 paces and 3 <term>feet|original: 尺; chǐ</term>**
+
+**The Method says:** Set down the rope length of 5,794 paces. Divide this by 4 <note>Since a square consists of four equal sides, the total length (perimeter) must be divided by four to find the length of a single side</note> to obtain 1,448 paces with a remainder of 2 paces. Multiply this remainder by 6 <note>The text uses the factor of 6 because, in this historical measurement system, 1 pace is equal to 6 feet</note> to get 12 feet (which is 1 <term>zhang|original: 丈; zhàng; a unit equal to 10 feet</term> and 2 feet). Divide this [12 feet] by 4 to obtain 3 feet. Add this to the previous figure to get the <term>total calculation|original: 通計; tōngjì</term>.
+
+<summary>This page completes a volume calculation for manufacturing pillows and provides a method for determining the side length of a square when given its total perimeter, utilizing conversions between paces and feet.</summary>
+<keywords>geometry, unit conversion, perimeter, pace (bu), foot (chi), square, division with remainders</keywords>
+
+--- Page 39 ---
+<meta>This page transitions from the geometric calculation of square perimeters to volumetric calculations for civil engineering projects, specifically dikes and ditches. It maintains the use of the "fang" as a standardized cubic unit for earthworks.</meta>
+
+# Question: Now suppose there is a <term>dike|original: 堤; dī</term> with a bottom width of 5 <term>zhang|original: 丈; zhàng</term>, a top width of 3 zhang, a height of 2 zhang, and a length of 60 <term>feet|original: 尺; chǐ</term>. We wish to calculate its volume using 1,000 cubic feet to form one <term>unit|original: 方; fāng; literally "square," here referring to a standardized cubic unit of volume</term>. How many units are there?
+
+->**The Answer says: 48 units**<-
+
+**The Method says:** Set down the top width of 3 zhang and the bottom width of 5 zhang. Add them together to get 8 zhang. Halve this to get 4 zhang <note>This step calculates the average width of the trapezoidal cross-section of the dike</note>. Multiply this by the height of 2 zhang to get 800 [square] feet <note>Calculation: 4 zhang × 2 zhang = 8 square zhang. Because 1 zhang equals 10 feet, 1 square zhang equals 100 square feet (10x10); therefore, 8 square zhang is 800 square feet</note>. Multiply this by the length of 60 feet to get 48,000 [cubic feet]. Divide this by the 1,000-foot [unit] to obtain the result.
+
+# Question: Now suppose there is a <term>ditch|original: 溝; gōu; a channel or trench</term> with a width of 10 zhang, a depth of 5 zhang, and a length of 20 zhang. We wish to use 1,000 feet to make one unit. How many units are obtained?
+
+<summary>This page presents mathematical problems for calculating the volume of earthworks, specifically a trapezoidal dike and a rectangular ditch, using standardized units of zhang and feet.</summary>
+<keywords>civil engineering, volume calculation, trapezoid, dike, ditch, zhang, chi (foot), fang (cubic unit)</keywords>
+
+--- Page 40 ---
+<meta>This page provides the conclusion to the volumetric calculation of the ditch described on the previous page and introduces a new problem regarding the extraction of a square root from a given area.</meta>
+
+->**The Answer says: 1,000 units**<-
+
+**The Method says:** Set down the width of 10 <term>zhang|original: 丈; zhàng</term> and multiply it by the depth of 5 zhang to get 5,000 [square] feet <note>The calculation converts zhang to feet (1 zhang = 10 feet). Thus, 100 feet × 50 feet = 5,000 square feet.</note>. Further, multiply this by the length of 20 zhang to get 1,000,000 [cubic] feet <note>20 zhang is 200 feet. 5,000 square feet × 200 feet = 1,000,000 cubic feet.</note>. Divide this by the 1,000-foot [unit] to obtain the result.
+
+---
+
+# Question: Now suppose there is an <term>area|original: 積; jī</term> of 234,567 square <term>paces|original: 步; bù</term>. We ask, what is the side of the <term>square|original: 方; fāng</term>?
+
+->**The Answer says: 484 paces and 311/968 of a pace**<-
+
+**The Method says:** Set down the area of 234,567 square paces <note>This problem requires finding a square root. In ancient Chinese mathematics, if a number is not a perfect square, the remainder is expressed as a fraction. The integer part of the root of 234,567 is 484 (since 484 squared is 234,256). The remainder is 311. The denominator of the fraction is traditionally formed by doubling the root (484 × 2 = 968).</note>.
+
+<summary>This page concludes a volume calculation for a rectangular ditch and introduces the "Square Root Extraction" method to find the side of a square from a large area.</summary>
+<keywords>volume calculation, square root extraction, paces (bu), zhang, area, fractional remainder, Nine Chapters on the Mathematical Art</keywords>
+
+--- Page 41 ---
+<meta>This page continues the "Square Root Extraction" method introduced on the previous page. The previous page set up the problem of finding the side of a square with an area of 234,567 square paces. The calculation here describes the manipulation of counting rods to find the root, which is 484.</meta>
+
+<page-num>08</page-num>
+
+# Volume 10
+
+Set this as the <term>Dividend|original: 實; shí</term>. Next, borrow one <term>counting rod|original: 筭; suàn</term> to serve as the <term>Bottom Method|original: 下法; xià fǎ</term>. Move it by shifting over two places at a time <note>In ancient Chinese root extraction, the unit rod moves two places for every one place the root moves, because $10^2 = 100$.</note> until it reaches the hundreds place and stops. 
+
+Place the first <term>quotient|original: 商; shāng</term> of 400 above the Dividend. Place a <term>secondary placement|original: 副置; fù zhì</term> of 40,000 below the Dividend and above the Bottom Method; this is called the <term>Square Method|original: 方法; fāng fǎ</term>. Multiply the quotient of 400 by [the Square Method] to subtract from the Dividend. 
+
+Having finished the subtraction, double the Square Method and shift it back one place; shift the Bottom Method back two places. Next, set the second quotient of 80 after the first quotient. 
+
+Place a secondary value of 800 below the Square Method and above the Bottom Method; this is called the <term>Side Method|original: 廉法; lián fǎ</term>. Use the second quotient of 80 to multiply both the Square and Side Methods, and subtract [from the remainder of the Dividend]. 
+
+Having finished this, double the Side Method and add it to the Square Method. Shift the Square Method back one place and the Bottom Method back two places. Next, set the third quotient of 4 after the previous ones. 
+
+Place a secondary value of 4 below the Square Method and above the Bottom Method; this is called the <term>Corner Method|original: 隅法; yú fǎ</term>. Multiply the Square, Side, and Corner Methods each by the third quotient... <note>The text describes a geometric algorithm where the Square Method represents the main square, the Side Method represents the rectangles added to the sides, and the Corner Method represents the tiny square added to the corner to complete the larger square.</note>
+
+**Glossary of Terms:**
+<gloss>Quotient (the root being extracted)</gloss>, <gloss>Dividend (the total area)</gloss>, <gloss>Square Method (the divisor based on the previous root)</gloss>, <gloss>Side Method (the linear adjustment)</gloss>, <gloss>Corner Method (the unit adjustment)</gloss>, <gloss>Counting rod</gloss>, <gloss>Bottom Method (the place-value marker)</gloss>, <gloss>Secondary placement (auxiliary calculation positions)</gloss>
+
+<summary>This page provides a detailed technical description of the square root extraction process using the counting rod system. It explains the stepwise calculation of each digit (400, 80, and 4) through the manipulation of the Square, Side, and Corner Methods.</summary>
+<keywords>square root extraction, counting rods, algorithms, Chinese mathematics, place value, geometry, dividend, quotient</keywords>
+
+--- Page 42 ---
+<meta>This page continues the calculation of a square root from the previous page and introduces a new problem regarding the dimensions of a circle. The previous page detailed the process of "Side Method" and "Corner Method" for extracting the square root of 234,567.</meta>
+
+Having finished dividing the <term>Dividend|original: 實; shí</term>, the <term>Quotient|original: 商; shāng</term> obtained above is 484. The <term>Divisor|original: 法; fǎ</term> below is 968. There is a remainder of 311. This results in a square side of 484 <term>paces|original: 步; bù</term> and 311/968 of a pace <note>This completes the square root of 234,567, which is approximately 484.32. In ancient Chinese mathematics, the fractional part was often expressed as the remainder over the divisor.</note>.
+
+---
+
+### Now, suppose there is an area of 35,000 paces. Question: What is the circumference of the circle?
+
+The answer is: 648 <term>paces|original: 步; bù</term> and 96/1,296 of a pace <note>The fraction 96/1,296 can be simplified, but the text retains the results directly from the calculation rods.</note>.
+
+The <term>Method|original: 術; shù</term> says: Set the <term>area|original: 積; jī</term> of 35,000 paces. Multiply it by 12 <note>This formula assumes a ratio of 3 to 1 for the circumference to the diameter (an approximation of pi as 3). In this system, the area $A$ of a circle and its circumference $C$ are related by the formula $C^2 = 12A$.</note> to obtain 420,000 as the <term>Dividend|original: 實; shí</term>. Next, borrow one <term>counting rod|original: 筭; suàn</term> to serve as the <term>Bottom Method|original: 下法; xià fǎ</term>. Shift the rod by leaping over places <note>This refers to shifting the counting rods to prepare for the square root extraction of 420,000.</note>...
+
+<summary>This page concludes a square root calculation with a fractional remainder and begins a new problem to find the circumference of a circle given its area, using the ancient approximation of pi as 3.</summary>
+<keywords>square root, circumference, area, counting rods, paces, ancient Chinese mathematics, pi approximation</keywords>
+
+--- Page 43 ---
+<meta>This page continues the extraction of the square root of 420,000, which was established on the previous page as the square of the circumference ($C^2 = 12A$). The text describes the physical manipulation of counting rods on a calculation board to find the root digit by digit.</meta>
+
+Move [the counting rods] by two places at a time until reaching the hundreds place and stop <note>This refers to the "leaping" method of shifting the unit rod (下法) to determine that the square root starts in the hundreds place.</note>. Place the first <term>Quotient|original: 商; shāng</term> of 600 above the <term>Dividend|original: 實; shí</term>.
+Auxiliary-place 60,000 below the Dividend and above the <term>Bottom Method|original: 下法; xià fǎ</term>; name this the <term>Square Method|original: 方法; fāng fǎ</term> <note>In this context, the Square Method acts as the primary divisor for the current digit of the root.</note>.
+Command the first Quotient of 600 to divide the Dividend. Having finished the division, double the Square Method; shift the Square Method back [one place] and the Bottom Method back [two places].
+Again, place the next Quotient of 40 following the previous quotient. Auxiliary-place 400 below the Square Method and above the Bottom Method; name this the <term>Side Method|original: 廉法; lián fǎ</term> <note>The 'Side' and 'Corner' terms refer to the geometric components of a square: $a^2 + 2ab + b^2$.</note>.
+The Square and Side methods each command the [current] Quotient to divide the Dividend. Having finished the division, double the Side Method and add it to the Square Method.
+Shift the Square Method back one place and the Bottom Method back two places. Again, place the [final] Quotient of 8 following the previous quotient.
+Auxiliary-place 8 below the Square Method and above the Bottom Method; name this the <term>Corner Method|original: 隅法; yú fǎ</term>.
+The Square, Side, and Corner methods each command the Quotient of 8 to divide the Dividend. Having finished the division, double the Corner Method... <note>Doubling the final 'Corner' and adding it to the divisor prepares the denominator for the fractional remainder, as seen in the result 648 and 96/1296.</note>
+
+->Ding Yong<-
+
+<summary>This page provides a technical description of the square root extraction of 420,000 using the traditional Chinese counting board method. It details the iterative process of finding the hundreds, tens, and units digits (6, 4, and 8) to calculate a circle's circumference.</summary>
+
+<keywords>square root extraction, counting rods, Kai Fang, mathematical algorithm, geometry, circumference, Ding Yong</keywords>
+
+--- Page 44 ---
+<meta>This page concludes the square root extraction of 420,000 (representing the area of a circle multiplied by 12) to find the circumference. It then introduces a new problem regarding the area of a circular field.</meta>
+
+From the <term>Square Method|original: 方法; fāng fǎ</term>, the <term>Quotient|original: 商; shāng</term> of 648 is obtained. From the <term>Bottom Method|original: 下法; xià fǎ</term>, one obtains 1,297, with a remainder of 96 <note>The root is expressed as a mixed number. In ancient Chinese mathematics, the fractional part of a square root $\sqrt{N} \approx n + \frac{r}{2n+1}$ uses the remainder $r$ over twice the root plus one.</note>. This results in a side of 648 paces and 96/1,297 of a pace.
+
+Suppose there is a <term>mound-shaped field|original: 丘田; qiū tián</term> <note>A "mound-shaped" field refers to a circular plot of land.</note> with a <term>circumference|original: 周; zhōu</term> of 639 paces and a <term>diameter|original: 徑; jìng</term> of 380 paces. Question: How much is the area of the field?
+
+The Answer: 2 <term>qing|original: 頃; qǐng</term>, 52 <term>mu|original: 畝; mǔ</term>, and 225 <term>square paces|original: 步; bù</term> <note>1 qing = 100 mu; 1 mu = 240 square paces.</note>.
+
+The <term>Procedure|original: 術; shù</term> says:
+Take half the circumference to get 319.5 paces. Take half the diameter to get 190 paces. Multiply these two values together to get 60,705 [square] paces. Divide this by the <term>mu-rule|original: 畝法; mǔ fǎ</term> <note>The "mu-rule" is the divisor of 240, used to convert square paces into the larger units of mu and qing.</note> to obtain the result.
+
+<summary>This page concludes a square root calculation with a fractional remainder and presents a new geometry problem for calculating the area of a circular field using the half-circumference times half-diameter method.</summary>
+<keywords>square root extraction, circular field, area calculation, qing, mu, pace, Chinese geometry</keywords>
+
+--- Page 45 ---
+<meta>This page continues the mathematical problems from the previous section, transitioning from the geometry of fields to the practical application of civil engineering and labor management, specifically calculating the volume of earthworks and the required workforce for public works projects.</meta>
+
+Suppose there is the **building of a city wall** <note>original: 築城; zhù chéng</note>. The upper width is 2 <term>zhang|original: 丈; zhàng</term> <note>1 zhang is approximately 10 feet</note>, the lower width is 5 zhang 4 <term>chi|original: 尺; chǐ</term> <note>1 chi is approximately 1 foot; 10 chi make 1 zhang</note>, the height is 3 zhang 8 chi, and the length is 5,550 chi. The **autumn labor rate** <note>original: 秋程; qiū chéng. Quotas for earthworks were adjusted by season to account for the varying hardness of the soil and the length of the day</note> per person's <term>labor|original: 功; gōng</term> is 300 [cubic] chi. Question: How much labor is required?
+
+->Answer: 26,011 units of labor<-
+
+The <term>Procedure|original: 術; shù</term> says: Combine the upper and lower widths to get 74 chi. Halve this to get 37 chi <note>This calculates the average width of the trapezoidal cross-section of the wall</note>. Multiply this by the height to get 1,406 [square] chi. Then, multiply this by the length to get the <term>volume|original: 積; jī</term> of 7,803,300 [cubic] chi. Divide this by the autumn labor rate of 300 chi per person to obtain the result.
+
+---
+
+Suppose there is the **digging of a canal** <note>original: 穿渠; chuān qú</note> with a length of 29 <term>li|original: 里; lǐ</term> <note>A traditional league; during the Han dynasty, 1 li was roughly 415 meters</note> and 104 <term>paces|original: 步; bù</term>, and an upper width of 1 zhang 2...
+
+<summary>This page provides a practical word problem for calculating the total labor required to build a city wall based on its volume and a seasonal work quota. It begins a second problem regarding the dimensions of a canal excavation.</summary>
+<keywords>civil engineering, labor calculation, city wall, volume, units of measure, zhang, chi, li, pace, Chinese mathematics</keywords>
+
+--- Page 46 ---
+<meta>This page continues the problem regarding the excavation of a canal, transitioning from the initial dimensions given on the previous page to the calculation of total volume and the resulting labor requirements. It completes the measurement of the upper width and provides the depth and lower width.</meta>
+
+# Volume II
+
+...[chi] 6 <term>cun|original: 寸; cùn</term> <note>10 cun make 1 chi. Combined with the previous page, the upper width is 1 zhang 2 chi 6 cun, or 12.6 chi</note>. The lower width is 8 <term>chi|original: 尺; chǐ</term> <note>approximately 8 feet</note>, and the depth is 1 <term>zhang|original: 丈; zhàng</term> 8 chi <note>1 zhang equals 10 chi</note>. The **autumn labor rate** <note>original: 秋程; qiū chéng</note> per person’s **labor** <note>original: 功; gōng</note> is 300 [cubic] chi. Question: How much labor is required?
+
+->Answer: 32,645 people, with a remainder of 69 chi 6 cun<-
+
+The **Procedure** <note>original: 術; shù</note> says: Take the number of <term>li|original: 里; lǐ</term> <note>a traditional league</note> and multiply it by 300 <term>paces|original: 步; bù</term>. Add the remaining paces, then multiply the total by 6 <note>to convert paces into chi, as 1 pace equals 6 chi</note> to obtain 52,824 chi <note>this represents the total length of the canal</note>. Combine the upper and lower widths to obtain 2 zhang 6 cun. Halve this <note>to find the average width</note> and multiply it by the depth to obtain 185 [square] chi and 4 [square] cun <note>the area of the trapezoidal cross-section</note>. Multiply this by the length to obtain a **volume** <note>original: 積; jī</note> of 9,793,569 [cubic] chi and 6 [cubic] cun. Divide this by the labor rate of 300 chi per person to obtain the result.
+
+<summary>This page concludes a complex calculation for determining the workforce needed to dig a canal by calculating its total volume based on its length and trapezoidal cross-section. It demonstrates the use of standard conversions between units of length (li, paces, zhang, chi, and cun) and the application of seasonal labor quotas.</summary>
+
+<keywords>canal excavation, earthworks, labor management, volume calculation, units of measure, li, pace, chi, autumn labor rate</keywords>
+
+--- Page 47 ---
+<meta>The previous page concluded a calculation regarding the excavation of a canal, determining the total volume of earth and the number of laborers required based on seasonal work rates. This page transitions to a new mathematical problem concerning the proportional distribution of money among a group of people with different shares.</meta>
+
+### Proportional Distribution of Coins
+
+**Suppose there are** 6,930 <term>coins|original: 錢; qián</term> <note>the standard unit of currency, often bronze "cash" coins</note>. It is desired to have 216 people divide these into shares. 81 people are each given 2 <term>shares|original: 分; fèn</term>; 72 people are each given 3 shares; and 63 people are each given 4 shares. Question: How much does each person of the three types receive?
+
+->**Answer:**
+A person with 2 shares receives 22 coins.
+A person with 3 shares receives 33 coins.
+A person with 4 shares receives 44 coins.<-
+
+The **Procedure** <note>original: 術; shù; the systematic method for solving the problem</note> says: First, place the 81 people in the top position [on the counting board], the 72 people in the next position, and the 63 people in the bottom position. **Multiply** <note>original: 乘; chéng</note> the top position by 2, which yields 162. Multiply the middle position by 3, which yields 216. [Multiply] the bottom position... <note>The text likely continued to multiply 63 by 4 to find the total weighted shares for that group</note>
+
+<summary>This page presents a proportional distribution problem where a sum of money is divided among 216 people divided into three groups with different weighting (shares). It provides the answer for each group and begins explaining the counting-board procedure used to calculate the results.</summary>
+<keywords>proportional distribution, coins, shares, counting board, multiplication, weighted average</keywords>
+
+--- Page 48 ---
+<meta>This page continues the "Procedure" (術) section from the previous page. It describes the step-by-step calculation using a counting board to solve the proportional distribution of 6,930 coins among three groups of people with different shares.</meta>
+
+# First Section <note>original: 子; zǐ; the first of the 'Twelve Earthly Branches,' used here to number the section or folio</note>
+
+**Multiply** [the lower position] by four to obtain 252. Combine the three positions <note>Adding the weighted values calculated for each group: 162, 216, and 252</note> to obtain 630, which shall serve as the **divisor** <term>divisor|original: 法; fǎ</term> <note>In traditional Chinese mathematics, the 'fa' is the number used to divide the 'shi' (dividend)</note>.
+
+Next, place the 6,930 coins in three positions [on the counting board].
+
+For the **upper position**, multiply [the coins] by 162 to obtain 1,122,660. 
+Next, multiply the **middle position** by 216 to obtain 1,496,880. 
+Next, multiply the **lower position** by 252 to obtain 1,746,360.
+
+Each of these results shall serve as a **dividend** <term>dividend|original: 實; shí</term>. Divide each of these by the divisor of 630.
+
+The **upper position** yields 1,782.
+The **middle position** yields 2,376.
+The **lower position** yields 2,772.
+Each... <note>The text likely continues to divide these group totals by the number of people in each group to find the individual share mentioned in the 'Answer' on the previous page.</note>
+
+<summary>This page details the arithmetic execution of a proportional distribution problem, calculating the weighted totals for three groups and dividing them by a common divisor to find the total coins allocated to each group.</summary>
+<keywords>arithmetic, divisor, dividend, counting board, proportional distribution, Classical Chinese mathematics, currency allocation</keywords>
+
+--- Page 49 ---
+<meta>This page concludes the arithmetic operation from the previous page, where the total coins for each group were divided by the number of members. It then introduces a new problem involving the distribution of goods among the five traditional ranks of Chinese nobility.</meta>
+
+Dividing [each total] by the number of people, one obtains [the individual share].
+
+---
+
+# Now there are five ranks of feudal lords <term>feudal lords|original: 諸侯; zhūhóu</term> sharing sixty oranges <note>The fruit mentioned is *júzi*, typically the mandarin orange, which often held symbolic value in ancient China.</note>, where each person's share increases by three oranges [relative to the rank below them].
+## Question: How much does each of the five people receive?
+
+->Answer:<-
+
+Duke: 18 oranges
+Marquis: 15 oranges
+Earl: 12 oranges
+Viscount: 9 oranges
+Baron: 6 oranges <note>The five ranks of nobility (Gōng, Hóu, Bó, Zǐ, Nán) are standard in classical Chinese texts, often translated as Duke, Marquis, Earl, Viscount, and Baron.</note>
+
+The **Procedure** <term>procedure|original: 術; shù</term> states: First, set down the amount for the [lowest] rank, then add three oranges for each [successive position] below.
+Next, 6 oranges; next, 9 oranges; next, 12 oranges.
+The top position is 15 oranges. Sum these auxiliary values to obtain 4<unclear>5</unclear>... <note>This "Procedure" describes setting up an arithmetic progression on a counting board to calculate the distribution.</note>
+
+<note>Vocabulary list: 諸侯 (Feudal lords); 橘子 (Oranges); 術曰 (The Procedure states); 公 (Duke); 侯 (Marquis); 伯 (Earl); 子 (Viscount); 男 (Baron); 分 (To divide or share).</note>
+
+<summary>This page concludes a previous calculation and presents a new mathematical problem concerning the proportional distribution of 60 oranges among five nobles of different ranks using an arithmetic progression.</summary>
+<keywords>feudal lords, oranges, arithmetic progression, nobility ranks, Chinese mathematics, distribution problem</keywords>
+
+--- Page 50 ---
+<meta>This page concludes the calculation of the "Five Ranks of Nobility" orange distribution problem and introduces a new algebraic challenge involving three individuals sharing and redistributing their money.</meta>
+
+Subtract fifteen from the sixty oranges; divide the remainder by the number of people, and each person receives three <note>This concludes the "Procedure" from the previous page. The "three" here acts as a base value to be added back to the differences calculated earlier.</note>.
+
+Add this to the uncombined values <note>These are the auxiliary values set on the counting board during the calculation.</note>: 
+The top position receives eighteen as the **Duke's share**;
+The next receives fifteen as the **Marquis's share**;
+The next receives twelve as the **Earl's share**;
+The next receives nine as the **Viscount's share**;
+The lowest receives six as the **Baron's share**.
+
+---
+
+# Now there are three people, A, B, and C, <note>The text uses the "Heavenly Stems" (甲乙丙; jiǎ, yǐ, bǐng) as variables, which are the traditional Chinese equivalent of A, B, and C.</note> carrying coins. 
+
+**A** says to **B** and **C**: "If each of you takes half of the money you are carrying and adds it to mine, my total will become ninety coins."
+
+**B** then says to **A** and **C**: "If each of you takes half of the money you are carrying and adds it to mine, my total will become seventy coins."
+
+**丙** then says to **A** and **B**: "If each of you takes half of the money you are carrying and adds it to mine, my total will become fifty-six coins."
+
+## Question: How much money did each of the three people originally possess?
+
+<note>
+This is a classic system of linear equations. In modern notation, where x, y, and z represent the money held by A, B, and C:
+1) x + 1/2y + 1/2z = 90
+2) y + 1/2x + 1/2z = 70
+3) z + 1/2x + 1/2y = 56
+</note>
+
+**Vocabulary:** 
+*   **A, B, and C** <term>Heavenly Stems|original: 甲乙丙; jiǎ yǐ bǐng</term>: Used here as placeholders for the three people.
+*   **Holding money** <term>holding money|original: 持錢; chíqián</term>: The initial amount of currency possessed.
+*   **Augment** <term>augment|original: 益; yì</term>: To increase or add to a sum.
+*   **How much** <term>how much|original: 幾何; jǐhé</term>: A standard term in Chinese mathematics asking for a numerical result.
+*   **Nobility Shares** <term>shares|original: 分; fèn</term>: Refers to the portion or "share" assigned to the Duke, Marquis, Earl, Viscount, and Baron.
+*   **Calculation Method** <term>calculation method|original: 算法; suànfǎ</term>: The mathematical rules or algorithm used to solve the problem.
+
+<summary>This page provides the final distribution of oranges among five nobles and introduces a new linear equation problem involving three people redistributing portions of their money to one another.</summary>
+<keywords>linear equations, Chinese mathematics, Heavenly Stems, nobility ranks, arithmetic progression, redistribution problem</keywords>
+
+--- Page 51 ---
+<meta>This page provides the solution to the algebraic problem introduced on the previous page, where three individuals (A, B, and C) calculate their original holdings based on the sums created by sharing half of each other's money.</meta>
+
+<page-num>Page 17</page-num>
+<sig>Zhang Zi Jia</sig>
+
+# The Answer
+
+->A: Seventy-two; B: Thirty-two<-
+
+->C: Four<-
+
+**The Method Says:** First, set the amounts stated by the three people into their respective positions on the counting board. Multiply each by three to obtain the "accumulated products" <term>products|original: 積; jī</term>: A becomes 270, B becomes 210, and C becomes 168. Halve each of these values: A becomes 135, B becomes 105, and C becomes 84. Next, take the totals originally stated by the three—A: 90 <note>The source transcription reads "ninety-seven" (九十七), but the mathematical logic and the previous page's problem statement confirm this is a clerical error for "ninety" (九十).</note>, B: 70, and C: 56—and halve each of those as well <note>This yields 45, 35, and 28 respectively.</note>. Subtract the halved stated totals of B and C from the halved product of A; subtract the halved stated totals of A and C from the halved product of B; and subtract the halved stated totals of A and B from the halved product of C. This will yield each person's original amount <term>original amount|original: 元數; yuánshù</term>.
+
+<note>
+The calculation works as follows:
+For A: 135 - 35 - 28 = 72.
+For B: 105 - 45 - 28 = 32.
+For C: 84 - 45 - 35 = 4.
+This provides an elegant algorithmic solution to the system of linear equations presented on the previous page.
+</note>
+
+**Vocabulary:**
+*   **A, B, and C** <term>Heavenly Stems|original: 甲乙丙; jiǎ yǐ bǐng</term>: The variables used to represent the three people.
+*   **Method/Procedure** <term>Shù|original: 術</term>: The standard heading for a mathematical algorithm.
+*   **Product** <term>Jī|original: 積</term>: Here referring to the value after multiplication.
+*   **Original Amount** <term>Yuánshù|original: 元數</term>: The initial unknown quantity being sought.
+
+<summary>This page provides the numerical answer and the step-by-step algorithmic procedure for solving the linear equation problem involving three people's shared money. It demonstrates a sophisticated Chinese algebraic method for isolating variables through subtraction and scaling.</summary>
+
+<keywords>algebra, system of linear equations, Heavenly Stems, counting board methods, Zhang Zi Jia, ancient Chinese mathematics</keywords>
+
+--- Page 52 ---
+<meta>This page transitions from the algebraic system of equations on the previous page to a problem concerning geometric progression, specifically the "Weaving Woman" problem. This is a classic example from the "Proportional Distribution" chapter of the Nine Chapters on the Mathematical Art.</meta>
+
+<page-num>15</page-num>
+
+# Suppose there is a woman skilled at weaving who doubles her work every day. Over the course of five days, she weaves a total of five feet. We ask: How much does she weave each day?
+
+### The Answer says:
+
+On the **first day**, she weaves 1 inch and 19/31 of an inch.
+
+On the **next day**, she weaves 3 inches and 7/31 of an inch.
+
+On the **next day**, she weaves 6 inches and 14/31 of an inch.
+
+On the **next day**, she weaves 1 foot, 2 inches, and 28/31 of an inch.
+
+On the **next day**, she weaves 2 feet, 5 inches, and 2/31 of an inch <note>The mathematical logic of doubling the previous day's output (800/31) suggests the numerator here should be 25/31 (二十五) to reach the total of five feet. The transcription of "2/31" (之二) is likely a clerical error in the source manuscript.</note>.
+
+<note>
+This problem follows the principle of proportional distribution <term>Cuīfēn|original: 衰分</term>. To solve this, one establishes the ratios for the five days as 1, 2, 4, 8, and 16. The sum of these parts is 31. The total length of 5 feet (or 50 inches) is then divided by 31 and multiplied by each day's respective ratio.
+</note>
+
+**Vocabulary:**
+*   **Skilled at weaving** <term>shàn zhī|original: 善織</term>: A common trope in ancient Chinese mathematics to contextualize rate and ratio problems.
+*   **Doubles every day** <term>rì zì bèi|original: 日自倍</term>: Indicates a geometric progression with a common ratio of 2.
+*   **Proportional distribution** <term>cuīfēn|original: 衰分</term>: The third chapter of the *Nine Chapters on the Mathematical Art*, dealing with sharing and proportions.
+*   **The Nine Chapters on the Mathematical Art** <term>Jiǔzhāng Suànshù|original: 九章算術</term>: The foundational text of Chinese mathematics, compiled during the Han Dynasty.
+*   **Total weaving** <term>zhī tōng|original: 織通</term>: The cumulative output over the specified period.
+
+<summary>This page presents the "Weaving Woman" problem, a classic exercise in geometric progression where a weaver doubles her output daily to reach a total of five feet over five days. The solution provides the precise daily breakdown in fractions of an inch, illustrating the application of proportional distribution methods.</summary>
+<keywords>geometric progression, proportional distribution, Nine Chapters on the Mathematical Art, weaving problem, ancient Chinese units, fractions</keywords>
+
+--- Page 53 ---
+<meta>This page continues the "Middle Volume" of Master Sun's Mathematical Manual. It concludes the "Weaving Woman" problem (a geometric progression calculation) from page 13 and introduces a classic "Excess and Deficit" problem involving thieves and stolen silk. This transition highlights the manual's shift from proportional distribution to solving systems of linear equations using the "Double False Position" method.</meta>
+
+# Master Sun’s Mathematical Manual: Middle Volume
+## Page 14
+
+**The method states:** List each of the individual portions <note>Referring to the ratios 1, 2, 4, 8, and 16 from the previous page's weaving problem.</note> and add them together to get 31, which serves as the **divisor** <term>fǎ|original: 法</term>. Multiply the five feet by each of the original ratios to create the **dividends** <term>shí|original: 實</term> for each. Divide each dividend by the divisor to obtain the results.
+
+***
+
+# The Problem of the Stolen Silk
+
+Now suppose there are thieves who have stolen silk from a treasury. It is not known how much has been lost, but it is overheard that while dividing the silk amongst themselves in the grass:
+
+If each person receives 6 bolts <term>pǐ|original: 匹; a standard measure of cloth approximately 12 meters long</term>, there is an **excess** <term>yíng|original: 盈</term> of 6 bolts.
+If each person receives 7 bolts, there is a **deficit** <term>bùzú|original: 不足</term> of 7 bolts.
+
+We ask: How many thieves are there, and how much silk was taken?
+
+### The Answer says:
+There are **13 thieves** and **84 bolts of silk**.
+
+### The Method states:
+First, place the 6 bolts per person in the **upper right** position and the 6-bolt excess in the **lower right**. Next, place the 7 bolts per person in the **upper left** position and the 7-bolt deficit in the **lower left**. Perform **cross-multiplication** <term>wéi chéng|original: 維乘</term> <note>In ancient Chinese rod calculus, this involves multiplying the top-left number by the bottom-right and the top-right by the bottom-left.</note>. Add the two products together to find the total amount of silk. Add the lower values (the excess and the deficit) together to find the number of thieves <note>The text concludes on the next page, but the logic follows the "Excess and Deficit" rule where (6×7 + 7×6) = 84 bolts, and (6 + 7) = 13 people.</note>.
+
+<summary>This page concludes a geometric progression problem and presents a classic "excess and deficit" word problem used to solve linear equations. It provides the setup for the "Double False Position" method, a hallmark of ancient Chinese algebra.</summary>
+<keywords>Sunzi Suanjing, Master Sun, excess and deficit, thieves and silk problem, rod calculus, cross-multiplication, Ying Bu Zu</keywords>
+
+--- Page 54 ---
+<meta>This page transitions from the conclusion of a geometric progression problem (The Weaving Woman) to a classic "Excess and Deficit" problem involving theft and cloth. This marks a shift in the manual from simple distribution to the "Double False Position" method, a hallmark of ancient Chinese algebra used to solve systems of linear equations.</meta>
+
+# Master Sun’s Mathematical Manual: Middle Volume
+
+## Part Man <note>original: 人 (rén); The second or middle volume of a set, following the traditional "Heaven, Earth, Man" ordering system.</note>
+
+**The method states:** List each of the individual portions <note>Referring to the ratios 1, 2, 4, 8, and 16 from the "Weaving Woman" problem where the amount woven doubles daily.</note> and add them together to get 31, which serves as the **divisor** <term>fǎ|original: 法; the number by which another is divided</term>. Multiply the five feet <note>The total amount of cloth woven over five days.</note> by each of the original ratios to create the **dividends** <term>shí|original: 實; the number to be divided</term> for each day. Divide each dividend by the divisor to obtain the results for each day's work.
+
+***
+
+# The Problem of the Stolen Silk
+
+Now suppose there are thieves who have stolen silk from a treasury. It is not known how much has been lost, but it is overheard that while dividing the silk amongst themselves in the grass:
+
+If each person receives 6 bolts <term>pǐ|original: 匹; a standard measure of cloth approximately 12 meters long</term>, there is an **excess** <term>yíng|original: 盈; a surplus remaining after distribution</term> of 6 bolts.
+If each person receives 7 bolts, there is a **deficit** <term>bùzú|original: 不足; a shortage or "not enough"</term> of 7 bolts.
+
+We ask: How many thieves are there, and how much silk was taken?
+
+### The Answer says:
+There are **13 thieves** and **84 bolts of silk**.
+
+### The Method states:
+First, place the 6 bolts per person in the **upper right** position and the 6-bolt excess in the **lower right**. Next, place the 7 bolts per person in the **upper left** position and the 7-bolt deficit in the **lower left**. Perform **cross-multiplication** <term>wéi chéng|original: 維乘; a technique in rod calculus where the top value of one column is multiplied by the bottom value of the opposite column</term>. 
+
+<note>In ancient Chinese rod calculus, this setup creates a grid. To find the number of people, you add the excess and deficit (6 + 7 = 13) and divide by the difference in the rates (7 - 6 = 1). To find the total silk, you cross-multiply the rates and the excess/deficit: (6 * 7) + (7 * 6) = 84.</note>
+
+<summary>This page concludes a calculation on proportional growth and introduces the famous "Thieves and Silk" problem, demonstrating the Ying-Bu-Zu (Excess and Deficit) method.</summary>
+<keywords>Sun Zi Suan Jing, Master Sun's Mathematical Manual, Excess and Deficit, Double False Position, rod calculus, ancient Chinese algebra, silk measurement</keywords>
+
+--- Page 55 ---
+<meta>This page marks the beginning of the Third and final Volume (Lower Volume) of Master Sun's manual. Having previously covered basic arithmetic and intermediate systems like the "Double False Position" method, the text now progresses to proportional distribution problems—essential for government administration, tax collection, and logistics in early imperial China.</meta>
+
+[42]
+->Mathematical Manual<-
+
+# Master Sun’s Mathematical Manual: Volume 3
+<gloss>Annotated by Li Chunfeng, Court Gentleman for Consultation of the Tang Dynasty, Acting Director of the Astrology Bureau, and Senior Commandant of Light Chariots, along with others, by Imperial Decree.</gloss>
+
+Now suppose there are nine families—**Jia**, **Yi**, **Bing**, **Ding**, **Wu**, **Ji**, **Geng**, **Xin**, and **Ren** <note>These names are the "Heavenly Stems," a traditional Chinese system used for ordering items, similar to using A, B, C, etc.</note>—who together deliver tax grain.
+**Jia** delivers 35 bushels <term>hú|original: 斛; a volume measure approximately equal to 10 standard pecks or 50–60 liters</term>.
+**Yi** delivers 40 bushels.
+**Bing** delivers 57 bushels.
+**Ding** delivers 68 bushels.
+**Wu** delivers 79 bushels.
+**Ji** delivers 80 bushels.
+**Geng** delivers 100 bushels.
+**Xin** delivers 210 bushels.
+**Ren** delivers 325 bushels.
+The total tax grain delivered by the nine families is 1,000 bushels. Outside of this, there is a total transport and labor cost <term>jiùyùn zhízhé|original: 僦運直折; the expenses incurred for hiring labor and transporting the grain</term> of 200 bushels.
+We ask: How much of this cost is assigned to each family?
+
+### The Answer says:
+
+<summary>This page introduces the final volume of the manual, beginning with a proportional distribution problem where nine families must share the burden of grain transport costs in proportion to their tax contributions.</summary>
+<keywords>Master Sun's Mathematical Manual, Li Chunfeng, taxation, proportional distribution, Heavenly Stems, grain transport, bushel, Tang Dynasty mathematics</keywords>
+
+--- Page 56 ---
+<meta>This page continues the mathematical problem from the end of the previous volume regarding proportional distribution. Having established that nine families (Jia through Ren) owe a collective transport cost of 200 bushels on a total tax of 1,000 bushels, the text now calculates the net grain remaining for each family after a 1/5th (20%) deduction.</meta>
+
+| | | | | |
+|:---:|:---:|:---:|:---:|:---:|
+| **Jia**: 28 bushels | **Bing**: 45 bushels <note>Mathematical calculation suggests 45 bushels and 6 pecks; the OCR may be incomplete here.</note> | **Wu**: 63 bushels, 2 pecks | **Geng**: 80 bushels | **Ren**: 360 bushels <note>Based on the tax of 325 bushels, the net should be 260; the OCR "360" is likely a transcription error.</note> |
+| **Yi**: 36 bushels, 8 pecks | **Ding**: 54 bushels, 4 pecks | **Ji**: 64 bushels | **Xin**: 268 bushels <note>Based on the tax of 210 bushels, the net should be 168; the OCR "268" is likely a transcription error.</note> | |
+
+**The Method states:** Set down the 35 bushels contributed by **Jia** <note>The first of the ten "Heavenly Stems," used here like the letter A or Item 1.</note>. Multiply this by 4 to obtain 140 bushels. Divide this by 5 to obtain the result: 28 bushels. 
+
+For **Yi** <note>The second Heavenly Stem, equivalent to B.</note>, who contributes 46 bushels <note>The previous page noted a contribution of 40 bushels, but the calculation here proceeds using 46.</note>, multiply this by 4 to obtain 184 bushels. Divide this by 5 to obtain 36 bushels and 8 pecks <term>dǒu|original: 斗; a unit of dry measure equal to one-tenth of a bushel</term>. 
+
+For **Bing** <note>The third Heavenly Stem, equivalent to C.</note>, who contributes 57 bushels, multiply by 4...
+
+<summary>This page provides the specific results and the mathematical procedure for calculating the net grain remaining for nine families after deducting a proportional transport cost of one-fifth.</summary>
+<keywords>Sunzi Suanjing, proportional distribution, grain tax, Heavenly Stems, bushels and pecks, arithmetic methods</keywords>
+
+--- Page 57 ---
+<meta>This page continues the specific calculations for the remaining nine families. The previous page ended while calculating the result for Bing (the third family). The mathematical pattern remains consistent: the tax contribution is multiplied by 4 and then divided by 5 (effectively a 20% reduction for transport costs).</meta>
+
+### Page 245
+
+...multiplying it yields 228 <term>bushels|original: 斛 (hú); a large unit of dry measure</term>; dividing by 5 yields 45 bushels and 6 <term>pecks|original: 斗 (dǒu); a unit equal to one-tenth of a bushel</term>.
+
+**Ding** <note>The fourth Heavenly Stem, used here to denote the fourth party or "Item D."</note> contributes 68 bushels. Multiplying by 4 yields 272 bushels. Dividing by 5 yields 54 bushels and 4 pecks.
+
+**Wu** <note>The fifth Heavenly Stem, or "Item E."</note> contributes 79 bushels. Multiplying by 4 yields 316 bushels. Dividing by 5 yields 63 bushels and 2 pecks.
+
+**Ji** <note>The sixth Heavenly Stem, or "Item F." The OCR "已" is a common transcription error for the similar-looking "己".</note> contributes 80 bushels. Multiplying by 4 yields 320 bushels. Dividing by 5 yields 64 bushels.
+
+**Geng** <note>The seventh Heavenly Stem, or "Item G."</note> contributes 100 bushels. Multiplying by 4 yields 400 bushels. Dividing by 5 yields 80 bushels.
+
+**Xin** <note>The eighth Heavenly Stem, or "Item H."</note> contributes 210 bushels. Multiplying by 4 yields 840 bushels. Dividing by 5 yields 1... <note>The text cuts off here; the calculation for 168 bushels continues on the next page.</note>
+
+<summary>This page details the step-by-step arithmetic for five of the families (Ding through Xin), calculating their net grain holdings by applying a 4/5 ratio to their original tax contributions.</summary>
+<keywords>arithmetic, grain tax, Heavenly Stems, hú (bushel), dǒu (peck), proportional distribution, Sunzi Suanjing</keywords>
+
+--- Page 58 ---
+<meta>This page concludes the grain tax calculations for the final Heavenly Stems (Xin and Ren) before moving into problems concerning military conscription ratios and the volumetric measurement of grain piles. The marginal marker "Ji Gui" (际圭) likely refers to a specific section or edition marker used by the scribe.</meta>
+
+...yielding 168 <term>bushels|original: 斛 (hú)</term>. <gloss>Ren <note>The ninth Heavenly Stem, or "Item I."</note> contributes 325 bushels.</gloss> Multiplying this by 4 yields 1,300 bushels; dividing by 5 yields 260 bushels.
+
+### Problem: Military Levies
+
+Suppose there is a population of 15,000,000 <term>adult males|original: 丁 (dīng); refers here to men of tax-paying and draftable age</term>, and an army of 400,000 soldiers is to be raised. The question asks: how many adult males are required to provide one soldier?
+
+->The answer is: thirty-seven adult males and five parts <note>i.e., 37.5 men per soldier.</note><-
+
+**The Method:** Set the number of adult males (15,000,000) as the <term>dividend|original: 實 (shí); literally "the solid" or "substance"</term>. Set the number of soldiers (400,000) as the <term>divisor|original: 法 (fǎ); literally "the rule" or "method"</term>. Divide the dividend by the divisor to obtain the result.
+
+### Problem: Circular Grain Piles
+
+Suppose there is <term>millet|original: 粟 (sù); unhusked grain</term> gathered in a pile on level ground. The circumference of the base is 3 <term>zhang|original: 丈 (zhàng); approx. 10 feet</term> and 6 <term>chi|original: 尺 (chǐ); approx. 1 foot</term>. The height is 4 <term>chi</term> and 5 <term>cun|original: 寸 (cùn); approx. 1 inch</term>. The question asks... <note>The text cuts off here, but would typically ask for the volume or the amount of grain in bushels.</note>
+
+<summary>This page completes the arithmetic for grain distribution and introduces two new practical problems: calculating the ratio of civilians to soldiers in a military levy and determining the volume of a conical grain pile.</summary>
+<keywords>arithmetic, military levy, conscription, grain measurement, geometry, shi (dividend), fa (divisor), zhang, chi, cun</keywords>
+
+--- Page 59 ---
+<meta>This page provides the solution to the circular grain pile problem introduced at the end of page two and begins a new section on basic multiplication using a religious text as an example.</meta>
+
+# How Much Millet?
+
+**The answer is: 100 <term>bushels|original: 斛 (hú)</term>.**
+
+**The Method:** Set the circumference of 3 <term>zhang|approx. 10 feet</term> and 6 <term>chi|approx. 1 foot</term> <note>totaling 36 chi</note> and multiply it by itself to obtain 1,296 [square] feet. Multiply this by the height of 4 <term>chi</term> and 5 <term>cun|approx. 1 inch</term> <note>4.5 chi</note> to obtain 5,832 [cubic] feet. Divide this by 36 <note>This "rule of 36" is a mathematical shorthand used in ancient China to calculate the volume of a cone, based on the approximation that the ratio of a circle's circumference to its diameter is 3 to 1.</note> to obtain 162 [cubic] feet. Divide this by the **bushel standard** of 1 <term>chi</term>, 6 <term>cun</term>, and 2 <term>fen</term> <note>1.62 cubic feet per bushel</note> to obtain the result.
+
+---
+
+Suppose there is a Buddhist scripture totaling 29 chapters, with 63 characters in each chapter. The question asks: how many characters are there in total?
+
+**The answer is: 1,827.**
+
+**The Method:** Set the 29 chapters and multiply them by the 63 characters to obtain the result.
+
+<vocab>Millet (粟), Bushel (斛), The Method (術), Buddhist Scripture (佛書), Chapter (章), Bushel Standard (斛法)</vocab>
+
+<summary>This page concludes a volumetric calculation for a conical millet pile using traditional Chinese geometric approximations and introduces a simple multiplication problem involving the character count of a Buddhist text.</summary>
+<keywords>millet calculation, geometry, volume of a cone, bushel standard, Buddhist scripture, multiplication, mathematical method</keywords>
+
+--- Page 60 ---
+<meta>This page continues the instructional sequence of mathematical problems. Having previously covered multiplication related to religious texts, it now moves to squaring (using a game board as a physical model) and long division (applied to logistics and taxation).</meta>
+
+Suppose there is a **Go board** <term>Go board|original: 碁局 (qíjú)</term> with nineteen lines on each side. The question asks: how many playing pieces are needed in total? <note>The board consists of a grid; the "pieces" refer to the intersections where the stones are placed. A standard Go board is 19x19.</note>
+
+**The Answer is: 361.**
+
+**The Method:** Set the nineteen lines and multiply the number by itself to obtain the result.
+
+---
+
+Suppose there is a tax payment of 98,762 <term>bushels|original: 斛 (hú)</term> of grain. It is desired that each cart carries 50 bushels. The question asks: how many carts are required?
+
+**The Answer is: 1,975 carts, with a remainder of 12 <gloss>bushels</gloss>.**
+
+**The Method:** Set the tax grain amount of 98,762 bushels as the <term>Dividend|original: 實 (shí)</term> and the 50 bushels carried by a single cart as the <term>Divisor|original: 法 (fǎ)</term>. Divide the Dividend by the Divisor to obtain the result. <note>In ancient Chinese mathematics, the 'Shi' (Dividend) represents the total substance being divided, while the 'Fa' (Divisor) represents the rule or unit of measurement applied to it.</note>
+
+<vocab>Go board (碁局), Tax grain (租), Bushel (斛), Cart/Classifier for vehicles (乘), Remainder (竒), Method (術), Dividend (實), Divisor (法)</vocab>
+
+<summary>This page presents two practical arithmetic problems: calculating the area of a square using a 19-line Go board and performing division to determine the number of carts needed to transport a specific quantity of tax grain.</summary>
+<keywords>arithmetic, squaring, division, Go board, taxation, logistics, Dividend and Divisor, bushels</keywords>
+
+--- Page 61 ---
+<meta>This page continues the instructional sequence of practical arithmetic problems. Following the previous page's focus on squaring a grid and calculating grain transport, this section applies division to military conscription and the distribution of silk textiles. It maintains the traditional "Problem-Answer-Method" structure typical of Chinese mathematical treatises.</meta>
+
+Suppose there are 98,766 <term>conscripted men|original: 丁 (dīng)</term>. If one <term>soldier|original: 兵 (bīng)</term> is recruited for every twenty-five men, the question asks: how many soldiers will there be?
+
+**The Answer is: 3,950 soldiers, with a remainder of 16 men.**
+
+**The Method:** Set the 98,766 men as the <term>Dividend|original: 實 (shí)</term> and the twenty-five as the <term>Divisor|original: 法 (fǎ)</term>. Divide the Dividend by the Divisor to obtain the result. <note>In this context, the 'Shi' (Dividend) represents the total pool of available manpower, while the 'Fa' (Divisor) represents the recruitment ratio.</note>
+
+---
+
+Suppose there are 78,732 <term>bolts|original: 匹 (pǐ)</term> of silk. If it is ordered that 162 people share them, the question asks: how much does each person receive?
+
+**The Answer is: 486 bolts.**
+
+**The Method:** Set the 78,732 <insert>bolts of</insert> silk <gloss>original: 疋 (shū), a variant of 匹</gloss> as the <term>Dividend|original: 實 (shí)</term>. <note>The text concludes by establishing the Dividend; the implied next step is to set the number of people as the Divisor to calculate the individual share.</note>
+
+<summary>This page provides practical division problems used for administrative logistics, specifically determining the number of soldiers to be conscripted from a population and the equitable distribution of silk bolts among a group.</summary>
+<keywords>arithmetic, division, military conscription, silk distribution, Dividend and Divisor, bolts of silk, social administration</keywords>
+
+--- Page 62 ---
+<meta>This page continues the division calculation for silk distribution from the previous page and introduces a new problem regarding tax collection (silk floss) from households. It demonstrates the use of conversion between "catties" and "taels" using a base-16 system.</meta>
+
+# Volume Two
+## Page Four
+
+Take the 162 people as the <term>Divisor|original: 法 (fǎ)</term>. Divide the <term>Dividend|original: 實 (shí)</term> by the Divisor to obtain the result.
+
+---
+
+Suppose there are 36,454 <term>households|original: 戶 (hù)</term>. Each household contributes 2 <term>catties|original: 斤 (jīn)</term> and 8 <term>taels|original: 兩 (liǎng)</term> of <term>silk floss|original: 綿 (mián)</term>. The question asks: how much is the total amount? <note>In the traditional Chinese weight system used here, 1 catty equals 16 taels. Therefore, 2 catties and 8 taels is equivalent to 2.5 catties.</note>
+
+**The Answer is: 91,135 catties.**
+
+**The Method:** Set the 36,454 households. Multiply this by ten to get 364,540. Multiply that result by four to get 1,458,160 <term>taels|original: 兩 (liǎng)</term>. Divide this total by sixteen to obtain the result <insert>in catties</insert>. <note>The method calculates the total in taels first (36,454 households × 40 taels per household) and then converts back to catties by dividing by 16.</note>
+
+---
+
+Suppose there are 91,135 catties of silk floss to be distributed to thirty-six thousand... <note>The text breaks off here; it appears to be the inverse of the previous problem, calculating the share per household.</note>
+
+<summary>This page concludes a division problem regarding the distribution of silk and presents a multiplication and conversion problem for calculating total tax revenue in silk floss from over 36,000 households.</summary>
+<keywords>taxation, silk floss, weight conversion, catties and taels, household accounts, administrative mathematics</keywords>
+
+--- Page 63 ---
+<meta>This page provides the inverse calculation to the problem on the previous page, determining the individual household share of silk floss from a known total. It then introduces a new practical problem concerning the volumetric exchange of grain commodities.</meta>
+
+...four hundred fifty-four households. The question asks: how much does each household receive? <note>The full number of households, carried over from the previous page, is 36,454.</note>
+
+**The Answer is: 2 <term>catties|original: 斤 (jīn)</term> and 8 <term>taels|original: 兩 (liǎng)</term>.** <note>Since there are 16 taels in one catty, 8 taels represents exactly half a catty.</note>
+
+**The Method:** Set the 91,135 catties as the <term>Dividend|original: 實 (shí)</term>. Take the 36,454 households as the <term>Divisor|original: 法 (fǎ)</term>. Divide the Dividend by the Divisor to obtain 2 catties, with a remainder of 18,227 catties. Multiply this remainder by sixteen to convert the remainder into 291,632 taels. Divide this total by the number of households to obtain the result <insert>in taels</insert>.
+
+---
+
+Suppose there is <term>millet|original: 粟 (sù)</term> in the amount of 3,999 <term>piculs|original: 斛 (hú)</term>, 9 <term>pecks|original: 斗 (dǒu)</term>, and 6 <term>pints|original: 升 (shēng)</term>. Generally, 9 pecks of millet are exchanged for 1 picul of beans. The question asks: how many beans are there in total? <note>This problem illustrates commodity exchange rates. In the standard volumetric system, 10 pecks make 1 picul. Here, beans are valued higher than millet, as only 0.9 piculs of millet are needed to obtain 1.0 picul of beans.</note>
+
+<summary>This page concludes a division problem regarding the distribution of silk floss to households and begins a new calculation for exchanging specific volumes of millet for beans.</summary>
+<keywords>division with remainders, weight units, catties and taels, volumetric units, piculs and pecks, commodity exchange, agricultural accounting</keywords>
+
+--- Page 64 ---
+<meta>This page continues the volumetric calculation from the previous page regarding the exchange of millet for beans. It then moves into a problem concerning a percentage-based surcharge on grain and begins a new problem regarding large-scale granary storage.</meta>
+
+**The Answer is: 4,444 <term>piculs|original: 斛 (hú)</term> and 4 <term>pecks|original: 斗 (dǒu)</term>.**
+
+**The Method:** Set the <term>millet|original: 粟 (sù)</term> in the amount of 3,999 piculs, 9 pecks, and 6 <term>pints|original: 升 (shēng)</term> as the <term>Dividend|original: 實 (shí)</term>. Take 9 pecks as the <term>Divisor|original: 法 (fǎ)</term>. Divide the Dividend by the Divisor to obtain the result. <note>This calculation confirms that dividing 3999.96 by 0.9 equals 4444.4. In this historical system, 1 picul equals 10 pecks or 100 pints.</note>
+
+---
+
+Suppose there is millet in the amount of 2,374 piculs. For every picul, an additional 3 pints are added. The question asks: what is the total amount of millet? <note>This problem likely refers to a "wastage" or "surcharge" fee (haogao) often added during tax collection to account for spillage or shrinkage in the granary.</note>
+
+**The Answer is: 2,445 piculs, 2 pecks, and 2 pints.**
+
+**The Method:** Set the millet amount of 2,374 piculs. Multiply it by 1 picul and 3 pints <note>Treating the 3-pint addition as a factor of 1.03</note> to obtain the result.
+
+---
+
+Suppose there are 369,980 piculs and 7 pecks of millet stored in a granary.
+
+<summary>This page concludes a grain exchange calculation, solves a problem involving a 3% volumetric surcharge on a grain shipment, and begins a new entry regarding a large quantity of millet in storage.</summary>
+<keywords>millet, piculs, pecks, pints, agricultural surcharge, volumetric calculation, multiplication, granary management, grain tax</keywords>
+
+--- Page 65 ---
+<meta>This page continues the calculation regarding the large quantity of millet (369,980 piculs and 7 pecks) introduced at the end of the previous page. It calculates the "wastage" or storage loss over a period of nine years and then introduces a new problem concerning interest on a loan of silk.</meta>
+
+[Continuing the problem from the previous page:] If the annual wastage for each <term>picul|original: 斛 (hú)</term> is 3 <term>pints|original: 升 (shēng)</term>, the question asks: what is the total wastage for one year and for nine years respectively?
+
+->The Answer is:<-
+
+For one year, the wastage is 11,099 piculs, 4 <term>pecks|original: 斗 (dǒu)</term>, 2 pints, and 1 <term>gill|original: 合 (gě)</term>. For nine years, the wastage is 99,894 piculs, 7 pecks, 8 pints, and 9 gills. <note>In this system of measurement, 1 picul = 10 pecks = 100 pints = 1,000 gills. The calculation treats the 3-pint wastage as a 3% loss (3/100).</note>
+
+**The Method:** Set the amount of 369,980 piculs and 7 pecks. Multiply this by 3 pints <note>Mathematically, multiplying the total by 0.03</note> to obtain the wastage for one year. Then, multiply that result by 9 to determine the wastage for nine years.
+
+---
+
+Suppose silk in the amount of 57 <term>catties|original: 斤 (jīn)</term> is loaned to someone. The set annual interest to be paid is 16 catties. <note>The term "interest" (xi) here refers to the return or profit expected on the principal loan of raw material.</note>
+
+<summary>This page calculates the cumulative storage wastage of a large grain supply over nine years at a 3% annual rate and introduces a new word problem regarding the interest due on a loan of silk.</summary>
+<keywords>wastage calculation, grain storage, piculs, pecks, pints, gills, silk trade, interest rates, catties, agricultural accounting</keywords>
+
+--- Page 66 ---
+<meta>This page continues the mathematical exercises from the previous leaf. It completes the calculation regarding the interest due on a silk loan and introduces a classic "surplus and deficit" problem involving the distribution of people into carts.</meta>
+
+<margin>
+Calculating Paces
+</margin>
+
+### Question: How much is the interest per catty?
+
+**The Answer is:** 5 <term>taels|original: 兩 (liǎng)</term> and 3/25 of a tael. <note>The tael, or ounce, was a sub-unit of the catty. The answer indicates the interest accrued for every single catty loaned.</note>
+
+**The Method states:** Set the total interest amount of 16 <term>catties|original: 斤 (jīn)</term> of silk. Multiply this by 16 taels <note>This conversion is necessary because 1 catty equals 16 taels in this historical weight system.</note> to obtain 256 taels. Divide this total by the 50 catties of silk that were loaned. For the <term>remainder|original: 不盡 (bù jìn)</term>, <term>reduce the fraction|original: 約 (yuē)</term> to its simplest form to obtain the result. <note>Mathematically: (16 × 16) / 50 = 256 / 50 = 5 with a remainder of 6. The fraction 6/50 simplifies to 3/25.</note>
+
+---
+
+Suppose there are several people sharing carts. If three people share each cart, then two carts remain empty. If two people share each cart, then nine people must walk on foot. The question asks: how many people and how many carts are there? <note>This is a classic "excess and deficiency" (yingbuzu) problem, a staple of ancient Chinese mathematics used to solve linear equations.</note>
+
+**The Answer is:**
+
+15 carts and 39 people.
+
+<summary>This page concludes a calculation on silk interest using unit conversion between catties and taels, and presents a distributive word problem solved via the "surplus and deficit" method.</summary>
+<keywords>interest calculation, weight conversion, catties, taels, surplus and deficit, word problems, transportation logistics, ancient arithmetic</keywords>
+
+--- Page 67 ---
+<meta>This page provides the solution to the "surplus and deficit" problem from the previous page regarding people and carts, and then introduces a complex division problem involving the exchange of grain for silk using various units of dry measure and length.</meta>
+
+**The Method states:** Set the two [empty carts] and multiply them by the three [people per cart] to obtain six. Add the nine people who were walking on foot to obtain fifteen carts. To find the number of people, multiply the number of carts by three and <note>The text says "add nine," which appears to be a clerical error in the manuscript. To reach the correct answer of 39 people mentioned on the previous page, one would either calculate (15 carts × 2 people) + 9 walking = 39, or (15 total carts - 2 empty carts) × 3 people = 39.</note> you will obtain it.
+
+---
+
+### Question: Exchanging Grain for Silk
+
+**Suppose there is a quantity of grain** totaling 128,940 <term>hu|original: 斛 (hú)</term>, 9 <term>dou|original: 斗 (dǒu)</term>, and 3 <term>he|original: 合 (hé)</term>. <note>The hu, dou, sheng, and he are traditional Chinese units of dry volume. 1 hu = 10 dou, 1 dou = 10 sheng, and 1 sheng = 10 he.</note> This grain is to be used to purchase silk. If one <term>bolt|original: 匹 (pǐ)</term> of silk costs 3 hu, 5 dou, and 7 <term>sheng|original: 升 (shēng)</term> of grain, how much silk can be obtained?
+
+**The Answer is:** 36,117 bolts, 3 <term>zhang|original: 丈 (zhàng)</term>, and 6 <term>chi|original: 尺 (chǐ)</term>. <note>In the historical context of this text, 1 bolt of silk is equal to 4 zhang, and 1 zhang is equal to 10 chi (Chinese feet). Therefore, 1 bolt equals 40 chi. The fractional remainder of the division has been converted here into these sub-units.</note>
+
+**The Method states:** Set the total grain amount of 128,940 hu, 9 [dou]...
+
+---
+
+<summary>This page concludes a distributive math problem and calculates the quantity of silk purchasable with a large amount of grain, requiring mastery of multi-unit conversion and long division.</summary>
+<keywords>grain exchange, silk trade, volume units, hu, dou, he, length units, bolt, zhang, chi, division, ancient arithmetic</keywords>
+
+--- Page 68 ---
+<meta>This page continues the calculation for the grain-to-silk exchange from page 27 and then introduces the "Washing Bowls" problem, a classic example of fractional parts and common denominators in early Chinese mathematics.</meta>
+
+...[9] <term>dou|original: 斗 (dǒu)</term> and 3 <term>he|original: 合 (hé)</term> as the dividend. Take 3 <term>hu|original: 斛 (hú)</term>, 5 <term>dou</term>, and 7 <term>sheng|original: 升 (shēng)</term> as the divisor and divide. <note>The "dividend" is the total amount of grain, and the "divisor" is the price per bolt.</note> One obtains the number of <term>bolts|original: 疋 (pǐ)</term>. For the remainder, multiply it by forty—representing the forty <term>chi</term> that make up one bolt—and then divide again by the divisor to obtain the result.
+
+---
+
+### Question: The Woman Washing Bowls
+
+**Suppose there is a woman washing bowls by the river.** A ferry official asks, "Why are there so many bowls?" The woman replies, "We have guests at home." The official asks, "How many guests?" The woman says, "Every two people share a rice bowl, every three people share a soup bowl, and every four people share a meat bowl. In total, sixty-five bowls were used." It is not known how many guests there are.
+
+->**Answer: 60 people**<-
+
+**The Method states:** Set the 65 bowls and multiply them by 12 to get 780. Divide this by 13 to obtain the answer. <note>This method uses a common denominator. If one guest uses 1/2 of a rice bowl, 1/3 of a soup bowl, and 1/4 of a meat bowl, the total bowls per person is 1/2 + 1/3 + 1/4 = 13/12. To find the number of people, you divide the total bowls (65) by 13/12, which is the same as (65 × 12) ÷ 13.</note>
+
+---
+
+### Question: Measuring Wood with a Rope
+
+**Suppose there is a piece of timber of unknown length.** A rope is used to measure it, and the rope exceeds the wood by 4 <term>chi|original: 尺 (chǐ)</term> and 5 <term>cun|original: 寸 (cùn)</term>. If the rope is folded... <note>The text cuts off here. This is the beginning of a "surplus and deficit" problem where the rope is usually folded in half or thirds to find the exact dimensions of the object being measured.</note>
+
+<summary>This page concludes a complex division problem regarding grain prices and introduces the famous "Washing Bowls" riddle, which demonstrates an early understanding of adding fractions with different denominators.</summary>
+<keywords>Sunzi Suanjing, division, fractions, proportions, units of measure, guest problem, ancient Chinese mathematics</keywords>
+
+--- Page 69 ---
+<meta>This page concludes the "Measuring Wood with a Rope" problem introduced on the previous page and presents a new problem regarding the sequential division of rice among three people. Both problems demonstrate early Chinese methods for solving linear equations and working with fractions.</meta>
+
+### [Page 6]
+### Volume III: Sunzi’s Calculation Classic
+
+**[Question: Measuring Wood with a Rope, continued]**
+...and if the rope is folded <note>The context from the previous page implies folding the rope in half.</note> to measure it, it is 1 <term>chi|original: 尺 (chǐ)</term> short of the wood's length. Question: What is the length of the timber?
+
+->**Answer: 6 chi 5 cun**<-
+
+**The Method states:** Set down the excess rope of 4 <term>chi</term> 5 <term>cun|original: 寸 (cùn)</term> and add the 1 <term>chi</term> deficit to it, totaling 5 <term>chi</term> 5 <term>cun</term>. Double this to obtain 1 <term>zhang|original: 丈 (zhàng)</term> 1 <term>chi</term> <note>1 zhang equals 10 chi.</note>. Subtract the [original] excess of 4 <term>chi</term> 5 <term>cun</term> from this, and you will obtain the result. <note>Algebraically, if the rope is $R$ and the wood is $W$, the problem gives $R - W = 4.5$ and $W - R/2 = 1$. The method calculates $W$ by solving these simultaneous equations.</note>
+
+---
+
+### Question: Rice in a Container
+
+**Suppose there is rice in a container of an unknown quantity.** A first person takes half of it. A middle person takes one-third [of the remainder]. A last person takes one-fourth [of the remainder]. The rice remaining is 1 <term>dou|original: 斗 (dǒu)</term> 5 <term>sheng|original: 升 (shēng)</term>. Question: How much was the original amount of rice?
+
+->**Answer: 6 dou**<-
+
+**The Method states:** Set down the remaining rice of 1 <term>dou</term> 5 <term>sheng</term> and multiply it by four to obtain 6 <term>dou</term>. <note>The math relies on the fact that after taking half, $1/2$ remains. After the second person takes $1/3$ of that, $2/3$ of the half ($1/3$ of the total) remains. After the third person takes $1/4$ of that, $3/4$ of the $1/3$ ($1/4$ of the total) remains. Since $1/4$ of the original remains, multiplying the remainder by 4 restores the original quantity.</note>
+
+<summary>This page provides solutions for two practical mathematical problems: determining an unknown length using a folded rope and calculating an original quantity of rice after three successive fractional withdrawals.</summary>
+<keywords>Sunzi Suanjing, measurement, fractions, linear equations, chi, cun, zhang, dou, sheng, ancient Chinese mathematics</keywords>
