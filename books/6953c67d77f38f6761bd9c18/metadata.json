@@ -1,0 +1,28 @@
+{
+  "id": "6953c67d77f38f6761bd9c18",
+  "title": "Ikhwan al-Safa (Epistles of the Brethren of Purity)",
+  "display_title": "Ikhwan al-Safa (Epistles of the Brethren of Purity)",
+  "author": "Ikhwan al-Safa; tr. John T. Platts",
+  "language": "English",
+  "year": 1869,
+  "published": "1869",
+  "pages_count": 262,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6953c67d77f38f6761bd9c18",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "ikhwanussafa00ikhw"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:55.709Z",
+  "_hashes": {
+    "ocr": "965c70d1cf91c4c5",
+    "translation": "42da343cba828310"
+  }
+}

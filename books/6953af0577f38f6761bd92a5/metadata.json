@@ -1,0 +1,28 @@
+{
+  "id": "6953af0577f38f6761bd92a5",
+  "title": "Aramaic Incantation Texts from Nippur",
+  "display_title": "Aramaic Incantation Texts from Nippur",
+  "author": "James A. Montgomery",
+  "language": "Aramaic",
+  "year": 1913,
+  "published": "Unknown",
+  "pages_count": 437,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6953af0577f38f6761bd92a5",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "aramaicincantat00montgoog"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:55.551Z",
+  "_hashes": {
+    "ocr": "c1df7be5e1424943",
+    "translation": "7704ac61e5b11520"
+  }
+}

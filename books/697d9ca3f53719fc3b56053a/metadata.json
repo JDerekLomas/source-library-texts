@@ -1,0 +1,26 @@
+{
+  "id": "697d9ca3f53719fc3b56053a",
+  "title": "De groene leeuw, of het licht der philosophen",
+  "display_title": "De groene leeuw, of het licht der philosophen",
+  "author": "[Vreeswyk, Goossen van]",
+  "language": "Dutch",
+  "year": 1674,
+  "published": "1674",
+  "pages_count": 305,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 5,
+  "source_url": "https://sourcelibrary.org/book/697d9ca3f53719fc3b56053a",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:56.394Z",
+  "_hashes": {
+    "ocr": "44b78b17e4c8e438",
+    "translation": "6bb1828ce9978582"
+  }
+}

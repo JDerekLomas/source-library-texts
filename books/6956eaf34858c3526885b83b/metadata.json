@@ -1,0 +1,28 @@
+{
+  "id": "6956eaf34858c3526885b83b",
+  "title": "De Lapide Philosophorum (Philosophers Stone)",
+  "display_title": "De Lapide Philosophorum (Philosophers Stone)",
+  "author": "Paracelsus",
+  "language": "German",
+  "year": 1572,
+  "published": "1572",
+  "pages_count": 154,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6956eaf34858c3526885b83b",
+  "license": "https://rightsstatements.org/vocab/NoC-NC/1.0/",
+  "doi": null,
+  "external_ids": {
+    "mdz": "bsb11106700"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:31:02.423Z",
+  "_hashes": {
+    "ocr": "55cf10e31ab0393c",
+    "translation": "22f1672280cf55eb"
+  }
+}

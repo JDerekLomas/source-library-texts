@@ -1,0 +1,28 @@
+{
+  "id": "69557ee157e3b773024f4b04",
+  "title": "Der vollkommene Capellmeister",
+  "display_title": "Der vollkommene Capellmeister",
+  "author": "Johann Mattheson",
+  "language": "German",
+  "year": 1739,
+  "published": "1739",
+  "pages_count": 549,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/69557ee157e3b773024f4b04",
+  "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bub_gb_gMlCAAAAcAAJ"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:56.821Z",
+  "_hashes": {
+    "ocr": "07f1e08532f8dc77",
+    "translation": "76989e930b1fa874"
+  }
+}

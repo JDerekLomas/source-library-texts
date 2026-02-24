@@ -1,0 +1,26 @@
+{
+  "id": "69804b94a2d708b2ae066d39",
+  "title": "Eine kurze Eroeffnung und Anweisung der dreyen Principien",
+  "display_title": "Eine kurze Eroeffnung und Anweisung der dreyen Principien",
+  "author": "Gichtel, Johann Georg|Graber, Johann Georg",
+  "language": "German",
+  "year": 1779,
+  "published": "1779",
+  "pages_count": 228,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 1,
+  "source_url": "https://sourcelibrary.org/book/69804b94a2d708b2ae066d39",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:31:01.305Z",
+  "_hashes": {
+    "ocr": "d13636e68b7d2812",
+    "translation": "106641ebf8913ea4"
+  }
+}

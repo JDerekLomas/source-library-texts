@@ -1,0 +1,28 @@
+{
+  "id": "695434491479a63c11088f29",
+  "title": "Chief Works of Spinoza Vol. I (Elwes)",
+  "display_title": "Chief Works of Spinoza Vol. I (Elwes)",
+  "author": "Baruch Spinoza",
+  "language": "English",
+  "year": 1883,
+  "published": "Unknown",
+  "pages_count": 462,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/695434491479a63c11088f29",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "chiefworksofbene01spin"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:58.563Z",
+  "_hashes": {
+    "ocr": "4977c520e948d02d",
+    "translation": "a7fb835557a595f1"
+  }
+}

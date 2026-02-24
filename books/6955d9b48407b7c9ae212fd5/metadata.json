@@ -1,0 +1,28 @@
+{
+  "id": "6955d9b48407b7c9ae212fd5",
+  "title": "Meister Eckhart und seine Jünger",
+  "display_title": "Meister Eckhart und seine Jünger",
+  "author": "Meister Eckhart",
+  "language": "German",
+  "year": 1895,
+  "published": "1895",
+  "pages_count": 196,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6955d9b48407b7c9ae212fd5",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "meistereckhartu00eckhgoog"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:58.962Z",
+  "_hashes": {
+    "ocr": "a2bde020215d2e18",
+    "translation": "30e8604aa9f7fc57"
+  }
+}

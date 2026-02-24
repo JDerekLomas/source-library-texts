@@ -1,0 +1,28 @@
+{
+  "id": "695690527df2d231f8f9a858",
+  "title": "The Most Excellent Hugo Grotius His Three Books Treating of the Rights of War and Peace",
+  "display_title": "The Most Excellent Hugo Grotius His Three Books Treating of the Rights of War and Peace",
+  "author": "Hugo Grotius",
+  "language": "English",
+  "year": 1682,
+  "published": "Unknown",
+  "pages_count": 508,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/695690527df2d231f8f9a858",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "mostexcellenthug00grot"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:31:03.105Z",
+  "_hashes": {
+    "ocr": "b28fd5e90972fd5a",
+    "translation": "0cfe090f475d5fb7"
+  }
+}

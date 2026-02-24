@@ -1,0 +1,26 @@
+{
+  "id": "697e23ca6517938331138f79",
+  "title": "Hondert vyf en vyftig bybelsche print-verbeeldingen",
+  "display_title": "Hondert vyf en vyftig bybelsche print-verbeeldingen",
+  "author": "Anslo, Reyer",
+  "language": "Dutch",
+  "year": 1742,
+  "published": "1742",
+  "pages_count": 382,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 1,
+  "source_url": "https://sourcelibrary.org/book/697e23ca6517938331138f79",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:31:02.133Z",
+  "_hashes": {
+    "ocr": "7780b169636bb7e0",
+    "translation": "98f16ecb57cb7d40"
+  }
+}

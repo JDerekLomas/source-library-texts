@@ -1,0 +1,28 @@
+{
+  "id": "69905ac2aaa7f10ed4cfb677",
+  "title": "Opticks, or A Treatise of the Reflexions, Refractions, Inflexions and Colours of Light",
+  "display_title": "Opticks, or A Treatise of the Reflexions, Refractions, Inflexions and Colours of Light",
+  "author": "Isaac Newton",
+  "language": "English",
+  "year": 1704,
+  "published": "Unknown",
+  "pages_count": 411,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/69905ac2aaa7f10ed4cfb677",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bim_eighteenth-century_opticks-or-a-treatise-_newton-sir-isaac_1704"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:55.797Z",
+  "_hashes": {
+    "ocr": "8fe3a462c9f4cfb0",
+    "translation": "ab5407e38c82c23c"
+  }
+}

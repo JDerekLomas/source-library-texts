@@ -1,0 +1,26 @@
+{
+  "id": "69804b901fb2ba7cf1d43a1a",
+  "title": "Der längst gewünschte und versprochenen chymisch-philosophischen Probier-Steins",
+  "display_title": "Der längst gewünschte und versprochenen chymisch-philosophischen Probier-Steins",
+  "author": "Fictuld, Hermann",
+  "language": "German",
+  "year": 1753,
+  "published": "1753",
+  "pages_count": 434,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 5,
+  "source_url": "https://sourcelibrary.org/book/69804b901fb2ba7cf1d43a1a",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:31:00.360Z",
+  "_hashes": {
+    "ocr": "6fbb101fb93477cf",
+    "translation": "6546fb5df6693790"
+  }
+}

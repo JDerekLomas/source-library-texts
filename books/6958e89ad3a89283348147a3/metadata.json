@@ -1,0 +1,28 @@
+{
+  "id": "6958e89ad3a89283348147a3",
+  "title": "Similitudinum ac parabolarum quae in Bibliis ex herbis",
+  "display_title": "Similitudinum ac parabolarum quae in Bibliis ex herbis",
+  "author": "Levinus Lemnius",
+  "language": "Latin",
+  "year": 1568,
+  "published": "1568",
+  "pages_count": 313,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6958e89ad3a89283348147a3",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "hin-wel-all-00002242-001"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:31:03.582Z",
+  "_hashes": {
+    "ocr": "d7f36d75e506c527",
+    "translation": "34ffaf3b4aabd850"
+  }
+}

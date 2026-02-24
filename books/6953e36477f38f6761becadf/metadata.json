@@ -1,0 +1,28 @@
+{
+  "id": "6953e36477f38f6761becadf",
+  "title": "Initiation and Its Results",
+  "display_title": "Initiation and Its Results",
+  "author": "Rudolf Steiner",
+  "language": "German-English",
+  "year": 1909,
+  "published": "1909",
+  "pages_count": 180,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6953e36477f38f6761becadf",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "initiationitsres00stei"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:55.231Z",
+  "_hashes": {
+    "ocr": "27d60e6d4a5aff21",
+    "translation": "1d93de528ef64b88"
+  }
+}

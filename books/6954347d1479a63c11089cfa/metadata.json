@@ -1,0 +1,28 @@
+{
+  "id": "6954347d1479a63c11089cfa",
+  "title": "Critique of Judgement (Bernard Translation)",
+  "display_title": "Critique of Judgement (Bernard Translation)",
+  "author": "Immanuel Kant",
+  "language": "English",
+  "year": 1892,
+  "published": "Unknown",
+  "pages_count": 490,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6954347d1479a63c11089cfa",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "kantscritiqueofj00kantuoft"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:59.497Z",
+  "_hashes": {
+    "ocr": "3b3bc447c35c2f0e",
+    "translation": "08bf96de210734f5"
+  }
+}

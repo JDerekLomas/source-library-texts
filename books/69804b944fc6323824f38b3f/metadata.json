@@ -1,0 +1,26 @@
+{
+  "id": "69804b944fc6323824f38b3f",
+  "title": "Leben und Schicksale des beruechtigen Franz Rudolph von Grossing",
+  "display_title": "Leben und Schicksale des beruechtigen Franz Rudolph von Grossing",
+  "author": "Wadzeck, Friedrich",
+  "language": "German",
+  "year": 1789,
+  "published": "1789",
+  "pages_count": 458,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 4,
+  "source_url": "https://sourcelibrary.org/book/69804b944fc6323824f38b3f",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:31:03.987Z",
+  "_hashes": {
+    "ocr": "2c8673878d6652a6",
+    "translation": "3e3c095d4c212cb2"
+  }
+}

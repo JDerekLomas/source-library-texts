@@ -1,0 +1,28 @@
+{
+  "id": "6958e0a9d34d35c8156625ba",
+  "title": "De simplicibus medicamentis ex Occidentali India delatis",
+  "display_title": "De simplicibus medicamentis ex Occidentali India delatis",
+  "author": "Nicolas Monardes",
+  "language": "Latin",
+  "year": 1574,
+  "published": "1574",
+  "pages_count": 245,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6958e0a9d34d35c8156625ba",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "hin-wel-all-00002451-002"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:31:00.255Z",
+  "_hashes": {
+    "ocr": "d7a84e4060b31d05",
+    "translation": "92a05d97007b6826"
+  }
+}

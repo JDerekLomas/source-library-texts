@@ -1,0 +1,28 @@
+{
+  "id": "6956eaf3b5d89fc3ccb47bbb",
+  "title": "Mysterium Magnum (Commentary on Genesis)",
+  "display_title": "Mysterium Magnum (Commentary on Genesis)",
+  "author": "Jakob Böhme",
+  "language": "German",
+  "year": 1682,
+  "published": "1682",
+  "pages_count": 820,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6956eaf3b5d89fc3ccb47bbb",
+  "license": "https://rightsstatements.org/vocab/NoC-NC/1.0/",
+  "doi": null,
+  "external_ids": {
+    "mdz": "bsb10260377"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:57.231Z",
+  "_hashes": {
+    "ocr": "43f1a334e778780f",
+    "translation": "721bd44d9bd12d10"
+  }
+}

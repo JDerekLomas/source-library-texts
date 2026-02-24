@@ -1,0 +1,28 @@
+{
+  "id": "6958df56dc939691982c57bd",
+  "title": "Phytobasanos",
+  "display_title": "Phytobasanos",
+  "author": "Fabio Colonna",
+  "language": "Latin",
+  "year": 1592,
+  "published": "1592",
+  "pages_count": 182,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6958df56dc939691982c57bd",
+  "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bub_gb_JvhWNqOxZfgC"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:57.939Z",
+  "_hashes": {
+    "ocr": "f4b0332bd9a5a145",
+    "translation": "d8f6dd9a5709cdcc"
+  }
+}

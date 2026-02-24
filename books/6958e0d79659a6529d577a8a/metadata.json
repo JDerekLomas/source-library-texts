@@ -1,0 +1,28 @@
+{
+  "id": "6958e0d79659a6529d577a8a",
+  "title": "Methodus plantarum emendata et aucta",
+  "display_title": "Methodus plantarum emendata et aucta",
+  "author": "John Ray",
+  "language": "Latin",
+  "year": 1703,
+  "published": "Unknown",
+  "pages_count": 278,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6958e0d79659a6529d577a8a",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "joannisrajisocie00rayj"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:31:03.908Z",
+  "_hashes": {
+    "ocr": "b8e1d67f3215aa88",
+    "translation": "91fe69a86ba75910"
+  }
+}

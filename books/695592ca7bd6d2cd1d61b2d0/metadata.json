@@ -1,0 +1,28 @@
+{
+  "id": "695592ca7bd6d2cd1d61b2d0",
+  "title": "Della Porta Magia Naturalis (German 1713)",
+  "display_title": "Della Porta Magia Naturalis (German 1713)",
+  "author": "Giambattista Della Porta",
+  "language": "German",
+  "year": 1607,
+  "published": "1607",
+  "pages_count": 1160,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/695592ca7bd6d2cd1d61b2d0",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "b30542170"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:31:04.206Z",
+  "_hashes": {
+    "ocr": "c1bbb31449369958",
+    "translation": "1cc09a6401750b8f"
+  }
+}

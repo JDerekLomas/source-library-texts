@@ -1,0 +1,28 @@
+{
+  "id": "6955da018407b7c9ae21361a",
+  "title": "Opera Medicinalia",
+  "display_title": "Opera Medicinalia",
+  "author": "Jean Fernel",
+  "language": "Latin",
+  "year": 1566,
+  "published": "1566",
+  "pages_count": 688,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6955da018407b7c9ae21361a",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "iofernelliiambia00fern"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:59.128Z",
+  "_hashes": {
+    "ocr": "6acc5e8021462829",
+    "translation": "10e78bb4d733717a"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "6953ce7c77f38f6761be46ba",
+  "title": "Seneca Moral Essays Vol. 1 (Providence, Constancy, Anger, Clemency)",
+  "display_title": "Seneca Moral Essays Vol. 1 (Providence, Constancy, Anger, Clemency)",
+  "author": "Seneca",
+  "language": "Latin",
+  "year": 1643,
+  "published": "1643",
+  "pages_count": 664,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6953ce7c77f38f6761be46ba",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "L214SenecaTheYoungerMoralEssaysIProvidentiaConstantiaIraClementia"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:56.310Z",
+  "_hashes": {
+    "ocr": "4576bc6b40cb1042",
+    "translation": "b742646673ae908c"
+  }
+}

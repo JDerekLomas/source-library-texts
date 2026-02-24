@@ -1,0 +1,28 @@
+{
+  "id": "695695288c9559f6c2db04eb",
+  "title": "M. T. Cicero His Offices, Or His Treatise Concerning the Moral Duties of Mankind",
+  "display_title": "M. T. Cicero His Offices, Or His Treatise Concerning the Moral Duties of Mankind",
+  "author": "Marcus Tullius Cicero",
+  "language": "English",
+  "year": 1755,
+  "published": "1755",
+  "pages_count": 439,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/695695288c9559f6c2db04eb",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bim_eighteenth-century_m-t-cicero-his-offices_cicero-marcus-tullius_1755"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:31:02.212Z",
+  "_hashes": {
+    "ocr": "6e2eb0de3d4c462f",
+    "translation": "46a5bb188956c0e3"
+  }
+}

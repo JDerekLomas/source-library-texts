@@ -1,0 +1,28 @@
+{
+  "id": "695575b757e3b773024f22ad",
+  "title": "Phonurgia Nova",
+  "display_title": "Phonurgia Nova",
+  "author": "Athanasius Kircher",
+  "language": "Latin",
+  "year": 1673,
+  "published": "1673",
+  "pages_count": 291,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/695575b757e3b773024f22ad",
+  "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bub_gb_cLlCAAAAcAAJ"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:56.579Z",
+  "_hashes": {
+    "ocr": "181631751a0c1e25",
+    "translation": "0964aa0d7b9b2bf2"
+  }
+}

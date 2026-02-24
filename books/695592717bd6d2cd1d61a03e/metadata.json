@@ -1,0 +1,28 @@
+{
+  "id": "695592717bd6d2cd1d61a03e",
+  "title": "Kircher Musurgia Universalis Vol. I (1650)",
+  "display_title": "Kircher Musurgia Universalis Vol. I (1650)",
+  "author": "Athanasius Kircher",
+  "language": "Latin",
+  "year": 1650,
+  "published": "Unknown",
+  "pages_count": 1412,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/695592717bd6d2cd1d61a03e",
+  "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "chepfl-lipr-AXC19_01"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:31:00.771Z",
+  "_hashes": {
+    "ocr": "5858acbf735c2a67",
+    "translation": "cd4f2b2b12437eb2"
+  }
+}

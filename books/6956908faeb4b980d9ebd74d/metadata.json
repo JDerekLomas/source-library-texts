@@ -1,0 +1,28 @@
+{
+  "id": "6956908faeb4b980d9ebd74d",
+  "title": "Characteristicks of Men, Manners, Opinions, Times - Volume 1",
+  "display_title": "Characteristicks of Men, Manners, Opinions, Times - Volume 1",
+  "author": "Anthony Ashley Cooper, Earl of Shaftesbury",
+  "language": "English",
+  "year": 1727,
+  "published": "1727",
+  "pages_count": 372,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6956908faeb4b980d9ebd74d",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bim_eighteenth-century_characteristicks-of-men-_shaftesbury-anthony-ash_1727_1"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:31:03.008Z",
+  "_hashes": {
+    "ocr": "a27c19c575d7b5bb",
+    "translation": "dfa9ed9fdd060f3a"
+  }
+}

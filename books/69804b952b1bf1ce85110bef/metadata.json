@@ -1,0 +1,26 @@
+{
+  "id": "69804b952b1bf1ce85110bef",
+  "title": "Kurtzer Begriff des ewigen Evangelii",
+  "display_title": "Kurtzer Begriff des ewigen Evangelii",
+  "author": "Gerhard, Ludwig",
+  "language": "German",
+  "year": 1729,
+  "published": "1729",
+  "pages_count": 472,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 4,
+  "source_url": "https://sourcelibrary.org/book/69804b952b1bf1ce85110bef",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:31:02.915Z",
+  "_hashes": {
+    "ocr": "0ff1804b8d11fd77",
+    "translation": "88b4c76cfc2fb532"
+  }
+}

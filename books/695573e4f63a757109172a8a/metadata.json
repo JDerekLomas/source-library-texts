@@ -1,0 +1,28 @@
+{
+  "id": "695573e4f63a757109172a8a",
+  "title": "Micrologus de disciplina artis musicae",
+  "display_title": "Micrologus de disciplina artis musicae",
+  "author": "Guido d Arezzo",
+  "language": "Latin",
+  "year": 1876,
+  "published": "1876",
+  "pages_count": 146,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/695573e4f63a757109172a8a",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "micrologusguido00hermgoog"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:31:00.089Z",
+  "_hashes": {
+    "ocr": "cde865a674e52674",
+    "translation": "1419c06ba46e1fa4"
+  }
+}

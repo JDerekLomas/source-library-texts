@@ -1,0 +1,26 @@
+{
+  "id": "697d9ca25456cb07a7d28755",
+  "title": "Hippocrates chimicus",
+  "display_title": "Hippocrates chimicus",
+  "author": "Tachenius, Otto",
+  "language": "Latin",
+  "year": 1666,
+  "published": "1666",
+  "pages_count": 300,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 6,
+  "source_url": "https://sourcelibrary.org/book/697d9ca25456cb07a7d28755",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:56.054Z",
+  "_hashes": {
+    "ocr": "37f8da74afca2e79",
+    "translation": "847e93df49488d01"
+  }
+}

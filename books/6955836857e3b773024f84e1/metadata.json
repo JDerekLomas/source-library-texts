@@ -1,0 +1,28 @@
+{
+  "id": "6955836857e3b773024f84e1",
+  "title": "The Passions and Homilies from Leabhar Breac (Speckled Book)",
+  "display_title": "The Passions and Homilies from Leabhar Breac (Speckled Book)",
+  "author": "Robert Atkinson",
+  "language": "English",
+  "year": 1887,
+  "published": "1887",
+  "pages_count": 454,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6955836857e3b773024f84e1",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "passionshomili00atki"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:31:02.540Z",
+  "_hashes": {
+    "ocr": "a86644869446d0da",
+    "translation": "b28fb89330ed1a77"
+  }
+}

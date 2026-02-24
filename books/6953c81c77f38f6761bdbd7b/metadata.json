@@ -1,0 +1,28 @@
+{
+  "id": "6953c81c77f38f6761bdbd7b",
+  "title": "Raja Yoga - Swami Vivekananda",
+  "display_title": "Raja Yoga - Swami Vivekananda",
+  "author": "Swami Vivekananda",
+  "language": "English",
+  "year": 1896,
+  "published": "Unknown",
+  "pages_count": 184,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6953c81c77f38f6761bdbd7b",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "RajaYogaBySwamiVivekananda"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:55.949Z",
+  "_hashes": {
+    "ocr": "f7007dd3bb675292",
+    "translation": "da4c70ee2592e898"
+  }
+}

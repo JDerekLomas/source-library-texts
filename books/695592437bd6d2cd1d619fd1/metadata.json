@@ -1,0 +1,28 @@
+{
+  "id": "695592437bd6d2cd1d619fd1",
+  "title": "Recueil de Machines Militaires avec l Alphabet de Trithemius",
+  "display_title": "Recueil de Machines Militaires avec l Alphabet de Trithemius",
+  "author": "Thybourel / Appier-Hanzelet / Trithemius",
+  "language": "French",
+  "year": 1620,
+  "published": "Unknown",
+  "pages_count": 108,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/695592437bd6d2cd1d619fd1",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "recueildeplusieu00thyb"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:31:01.457Z",
+  "_hashes": {
+    "ocr": "0ff827cdc7de2485",
+    "translation": "4fcc484f45c207f7"
+  }
+}

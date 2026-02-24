@@ -1,0 +1,26 @@
+{
+  "id": "697e23caef147585fcdb6bb2",
+  "title": "Introductio ad historiam philosophiae Ebraeorum. Accedit dissertatio de haeresi Valentiniana",
+  "display_title": "Introductio ad historiam philosophiae Ebraeorum. Accedit dissertatio de haeresi Valentiniana",
+  "author": "Buddeus, Johannes Franciscus",
+  "language": "Latin",
+  "year": 1720,
+  "published": "1720",
+  "pages_count": 916,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 6,
+  "source_url": "https://sourcelibrary.org/book/697e23caef147585fcdb6bb2",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:31:03.239Z",
+  "_hashes": {
+    "ocr": "2d62116882d03310",
+    "translation": "5dc26c0daea2cdcc"
+  }
+}

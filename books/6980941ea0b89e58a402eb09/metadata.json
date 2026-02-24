@@ -1,0 +1,26 @@
+{
+  "id": "6980941ea0b89e58a402eb09",
+  "title": "Levendige herts-theologie",
+  "display_title": "Levendige herts-theologie",
+  "author": "Hoburg, Christian",
+  "language": "Dutch",
+  "year": 1736,
+  "published": "1736",
+  "pages_count": 236,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 3,
+  "source_url": "https://sourcelibrary.org/book/6980941ea0b89e58a402eb09",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:56.491Z",
+  "_hashes": {
+    "ocr": "7c8256a2d4cc7390",
+    "translation": "5af2ffa7d755b459"
+  }
+}

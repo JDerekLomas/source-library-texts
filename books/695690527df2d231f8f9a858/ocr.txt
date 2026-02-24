@@ -1,0 +1,209 @@
+--- Page 1 ---
+<lang>N/A</lang>
+<page-type>blank</page-type>
+<meta>Binding cover of the manuscript.</meta>
+
+<image-desc>A dark, textured surface that appears to be the leather binding of a book. The leather has a pebble-grain texture and is deep brown or black in color. There are some faint surface scuffs and minor indentations visible, typical of an aged manuscript cover.</image-desc>
+
+<vocab>leather binding, book cover</vocab>
+
+--- Page 2 ---
+<lang>N/A</lang>
+<page-type>blank</page-type>
+
+<vocab></vocab>
+
+--- Page 3 ---
+<lang>und</lang>
+<page-type>blank</page-type>
+<warning>faded staining and discoloration along the margins</warning>
+
+->DA<-
+
+<vocab>DA</vocab>
+
+--- Page 4 ---
+<lang>None</lang>
+<page-type>blank</page-type>
+<meta>This is a blank page of aged, cream-colored paper. It shows some foxing, minor discolorations, and a visible rectangular indentation from a previous binding or pressing.</meta>
+<vocab></vocab>
+
+--- Page 5 ---
+<lang>English</lang>
+<page-type>blank</page-type>
+<meta>Flyleaf or endpaper with pencil scribbles and ink marks, possibly a signature and a price.</meta>
+<warning>Faint pencil markings and foxing/staining on the paper.</warning>
+
+->centered text<-
+<unclear>log</unclear>
+
+---
+
+<insert>
+merrifield <unclear>junr</unclear>
+</insert>
+
+<insert>
+2. 50
+</insert>
+
+<vocab>merrifield</vocab>
+
+--- Page 6 ---
+<lang>Latin</lang>
+<page-type>frontispiece</page-type>
+<meta>Engraved portrait of Hugo Grotius, often found in editions of 'De jure belli ac pacis' or his letters.</meta>
+
+<image-desc>An engraved portrait of Hugo Grotius, shown from the chest up, positioned within an oval border. He has a pointed beard and mustache, and wears a large pleated ruff and a dark, buttoned doublet. The portrait is surrounded by an ornate Baroque frame featuring architectural scrolls, floral garlands, and two cornucopias overflowing with fruit at the base. At the top of the frame, a small ribbon reads "Symb:". Inside the oval, flanking the figure's head, the motto "RUIT HORA" is inscribed. Below the portrait, an elaborate cartouche contains a biographical inscription in Latin.</image-desc>
+
+->Symb:<-
+
+->**RUIT HORA**<-
+
+# HUGO GROTIUS,
+
+->*Reginæ Regnique Suedici Consiliarius,*<-
+->*eorundemq; ad Regem Christianissimum Legat. Ordinar.,*<-
+->*quondam Syndicus Roterodamensis,*<-
+->*ejusdemq; Urbis in Conventu Ordinum*<-
+->*Hollandiæ et Westfrisiæ*<-
+->*Delegatus.*<-
+
+<vocab>Hugo Grotius, Ruit Hora, Suedici, Consiliarius, Legat. Ordinar., Syndicus Roterodamensis, Hollandia, Westfrisia</vocab>
+
+--- Page 7 ---
+<lang>English</lang>
+<page-type>title-page</page-type>
+
+<image-desc>
+An elaborate engraved title page. At the top are two circular portraits: on the left, the scholar Hugo Grotius; on the right, the translator William Evats at age 77. Between them is a pastoral scene of abundance with figures holding a cornucopia. The central part of the page is an architectural frame. To the left stands a personification of Peace holding a palm branch and two doves. To the right stands a personification of War, a man in Roman-style armor holding a sword and leaning on a shield, with a drum at his feet. The book's title is inscribed in the center of the arch in various script and capital styles. Below the title is a rectangular panel containing the publisher's information. At the very bottom, a wide frieze depicts a chaotic battle scene with cavalry and infantry outside a burning, fortified city.
+</image-desc>
+
+Hugo Grotius The Most Excellent
+The Reverend W: Evats B:D: Aetat: Suæ 77.
+
+---
+
+# The Most Excell:<sup>t</sup>
+# HUGO GROTIUS
+## OF
+## the rights of
+# Peace & Warr
+### Translated into English by the
+### Reverend
+### William Evats B:D:
+
+---
+
+->Printed for Ralph Smith under the Piaz-<-
+->za of y<sup>e</sup> Royall Exch: in Cornhill.<-
+
+T. Cross Senior Sculpsit.
+
+<vocab>Hugo Grotius, William Evats, Peace and War, Ralph Smith, T. Cross, Aetat Suæ, Royal Exchange, Cornhill, jurisprudence</vocab>
+
+--- Page 8 ---
+<lang>English, Latin</lang>
+<page-type>blank</page-type>
+<page-num>50</page-num>
+<warning>This page contains a mirrored ghost image (offset) or heavy bleed-through from an engraved title page, identified as John Speed's "The History of Great Britaine". The page itself is physically blank except for a modern pencil notation.</warning>
+
+<image-desc>
+The page features a faint, reversed impression of an elaborate architectural title page engraving. 
+- In the center is a rectangular frame where the words **"THE HISTORY OF GREAT BRITAINE"** (mirrored: **"ENIATIRB TAERG FO YROTSIH"**) are visible.
+- The engraving is flanked by two large full-length figures in niches; the left figure appears to be a Roman soldier or ancient Briton holding a spear.
+- At the top are two oval medallions containing portraits; the text within the left medallion is mirrored but appears to name a historical ruler (e.g., **"RICHARDUS..."**).
+- At the bottom of the page is a rectangular scene depicting numerous figures, likely representing a historical assembly or battle.
+- In the bottom left corner, there is a small, upright annotation in pencil: **50**.
+</image-desc>
+
+<vocab>John Speed, The History of Great Britaine, offset, ghost image, engraved title page, pagination</vocab>
+
+--- Page 9 ---
+<lang>English</lang>
+<page-type>title-page</page-type>
+<warning>Handwritten signatures and dates at the top and bottom of the page.</warning>
+<meta>Title page printed in red and black ink. Decorative double-line border surrounds the text.</meta>
+
+# THE MOST EXCELLENT
+# **HUGO GROTIUS**
+## HIS THREE <insert>Robt. H. Harrison ex dono <unclear>Monston</unclear></insert>
+# **BOOKS**
+## Treating of the
+# **RIGHTS**
+## OF
+# **WAR & PEACE.**
+
+---
+
+->*In the Firſt is handled,*<-
+## Whether any VVar be Juſt.
+->*In the Second is ſhewed,*<-
+## The Cauſes of VVar, both Juſt and Uujuſt.
+->*In the Third is declared,*<-
+## VVhat in VVar is Lawful; that is, Unpuniſhable.
+
+### With the **Annotations** digeſted into the Body of every **Chapter.**
+
+---
+
+->Tranſlated into ENGLISH by<-
+## **WILLIAM EVATS, B. D.**
+
+---
+
+->**LONDON,**<-
+->Printed by **M. W.** for **Thomas Baſſet** at the *George* in *Fleetſtreet*, and<-
+->**Ralph Smith** at the *Bible* under the *Piazza* of the *Royal Exchange*<-
+->in *Cornhill*. **M DC LXXXII.**<-
+
+---
+
+<insert>
+1899
+1882
+<unclear>217 M</unclear>
+</insert>
+
+<vocab>Hugo Grotius, Rights of War & Peace, William Evats, international law, De Jure Belli ac Pacis, just war, seventeenth century</vocab>
+
+--- Page 10 ---
+<warning>The text on this page is a mirrored ghost image (offset) from the title page of the original volume. The transcription follows the content as it would appear on the primary title page.</warning>
+<lang>English</lang>
+<page-type>blank</page-type>
+<meta>mirrored text, offset from title page</meta>
+
+### THE MOST EXCELLENT
+## HUGO GROTIUS
+### HIS THREE
+# BOOKS
+->Treating of the<-
+## RIGHTS
+### OF
+# WAR & PEACE.
+
+->In the First,<-
+### Whether any War be Just.
+->In the Second,<-
+### The Causes of War, both Just and Unjust.
+->In the Third,<-
+### What in War is Lawful, that is,
+### Unpunishable.
+
+->With the Annotations of the AUTHOR,<-
+->digested into the<-
+->Body of every Chapter.<-
+
+---
+
+->Translated into ENGLISH by<-
+## WILLIAM EVATS, B. D.
+
+---
+
+## LONDON,
+->Printed by M. W. for Thomas Basset at the George in Fleet-street, and<-
+->Ralph Smith at the Bible under the Piazza of the Royal-<-
+->Exchange in Cornhill. M D C L X X X I I.<-
+
+<vocab>Hugo Grotius, Rights of War and Peace, International Law, William Evats, Thomas Basset, Ralph Smith, 17th century printing</vocab>

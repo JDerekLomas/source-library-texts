@@ -1,0 +1,28 @@
+{
+  "id": "6956eacbb5d89fc3ccb47706",
+  "title": "La philosophie occulte (De occulta philosophia) Tome 1",
+  "display_title": "La philosophie occulte (De occulta philosophia) Tome 1",
+  "author": "Heinrich Cornelius Agrippa",
+  "language": "French",
+  "year": 1727,
+  "published": "1727",
+  "pages_count": 458,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6956eacbb5d89fc3ccb47706",
+  "license": "https://gallica.bnf.fr/html/und/conditions-dutilisation-des-contenus-de-gallica",
+  "doi": null,
+  "external_ids": {
+    "gallica": "bpt6k6315516b"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:31:02.039Z",
+  "_hashes": {
+    "ocr": "8f09dfde89be4bbd",
+    "translation": "aa77fb01d73858eb"
+  }
+}

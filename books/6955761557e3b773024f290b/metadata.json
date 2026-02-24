@@ -1,0 +1,28 @@
+{
+  "id": "6955761557e3b773024f290b",
+  "title": "A History of Arabian Music",
+  "display_title": "A History of Arabian Music",
+  "author": "Henry George Farmer",
+  "language": "English",
+  "year": 1929,
+  "published": "1929",
+  "pages_count": 294,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6955761557e3b773024f290b",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "historyofarabian030364mbp"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:56.659Z",
+  "_hashes": {
+    "ocr": "cbfc3bb62a1403aa",
+    "translation": "365508f9ae2f6439"
+  }
+}

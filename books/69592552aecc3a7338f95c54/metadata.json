@@ -1,0 +1,28 @@
+{
+  "id": "69592552aecc3a7338f95c54",
+  "title": "Malleus Maleficarum (The Hammer of Witches)",
+  "display_title": "Malleus Maleficarum (The Hammer of Witches)",
+  "author": "Heinrich Kramer (Institoris)",
+  "language": "Latin",
+  "year": 1487,
+  "published": "1487",
+  "pages_count": 265,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/69592552aecc3a7338f95c54",
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "doi": null,
+  "external_ids": {
+    "mdz": "bsb00043229"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:31:01.386Z",
+  "_hashes": {
+    "ocr": "eeb893be1eef4d4b",
+    "translation": "4a54ef58fb64c7b3"
+  }
+}

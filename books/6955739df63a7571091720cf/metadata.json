@@ -1,0 +1,28 @@
+{
+  "id": "6955739df63a7571091720cf",
+  "title": "De institutione musica (15th c. MS)",
+  "display_title": "De institutione musica (15th c. MS)",
+  "author": "Boethius",
+  "language": "Latin",
+  "year": 1490,
+  "published": "c. 1490",
+  "pages_count": 113,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6955739df63a7571091720cf",
+  "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "ljs47"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:31:04.285Z",
+  "_hashes": {
+    "ocr": "e22333bf3a92027f",
+    "translation": "b6dcb5ac96a5730e"
+  }
+}

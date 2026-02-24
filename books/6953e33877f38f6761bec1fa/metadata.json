@@ -1,0 +1,28 @@
+{
+  "id": "6953e33877f38f6761bec1fa",
+  "title": "Isis Unveiled Vol. II - Theology",
+  "display_title": "Isis Unveiled Vol. II - Theology",
+  "author": "H.P. Blavatsky",
+  "language": "English",
+  "year": 1913,
+  "published": "1913",
+  "pages_count": 743,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6953e33877f38f6761bec1fa",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "isisunveiledama02blavgoog"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:55.156Z",
+  "_hashes": {
+    "ocr": "d3836361fa663267",
+    "translation": "cc1d3512d6194906"
+  }
+}

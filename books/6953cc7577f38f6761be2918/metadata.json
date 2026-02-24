@@ -1,0 +1,28 @@
+{
+  "id": "6953cc7577f38f6761be2918",
+  "title": "Illuminated Manuscripts in Classical and Medieval Times",
+  "display_title": "Illuminated Manuscripts in Classical and Medieval Times",
+  "author": "J.H. Middleton",
+  "language": "English",
+  "year": 1890,
+  "published": "Unknown",
+  "pages_count": 307,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6953cc7577f38f6761be2918",
+  "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "IlluminatedManuscriptsClassical"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:56.132Z",
+  "_hashes": {
+    "ocr": "e5a6770a33008d84",
+    "translation": "a59789ac238cf631"
+  }
+}

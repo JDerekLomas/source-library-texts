@@ -1,0 +1,26 @@
+{
+  "id": "69804b931076b05d8d70fe71",
+  "title": "Königlicher chymischer und artzneyischer Pallast",
+  "display_title": "Königlicher chymischer und artzneyischer Pallast",
+  "author": "Cardilucius, Johannes Hiskias",
+  "language": "German",
+  "year": 1684,
+  "published": "1684",
+  "pages_count": 1148,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 6,
+  "source_url": "https://sourcelibrary.org/book/69804b931076b05d8d70fe71",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:31:02.342Z",
+  "_hashes": {
+    "ocr": "a2b0719b2305dae1",
+    "translation": "b60736e29047cd26"
+  }
+}

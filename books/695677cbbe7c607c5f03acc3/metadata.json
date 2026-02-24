@@ -1,0 +1,28 @@
+{
+  "id": "695677cbbe7c607c5f03acc3",
+  "title": "Operis medico-chymici pars altera - Basilica Philosophica",
+  "display_title": "Operis medico-chymici pars altera - Basilica Philosophica",
+  "author": "Johann Daniel Mylius",
+  "language": "Latin",
+  "year": 1620,
+  "published": "1620",
+  "pages_count": 1557,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/695677cbbe7c607c5f03acc3",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "BIUSante_pharma_res011390x02"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:59.340Z",
+  "_hashes": {
+    "ocr": "d09e3671ab394ffa",
+    "translation": "2e36a5d299d88489"
+  }
+}

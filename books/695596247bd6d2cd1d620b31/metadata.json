@@ -1,0 +1,28 @@
+{
+  "id": "695596247bd6d2cd1d620b31",
+  "title": "The Real History of the Rosicrucians",
+  "display_title": "The Real History of the Rosicrucians",
+  "author": "Arthur Edward Waite",
+  "language": "English",
+  "year": 1887,
+  "published": "1887",
+  "pages_count": 466,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/695596247bd6d2cd1d620b31",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "realhistoryofros00waituoft"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:31:03.423Z",
+  "_hashes": {
+    "ocr": "a02affb33f131cd9",
+    "translation": "34e4cb65bc5251b6"
+  }
+}

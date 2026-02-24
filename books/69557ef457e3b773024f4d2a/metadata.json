@@ -1,0 +1,28 @@
+{
+  "id": "69557ef457e3b773024f4d2a",
+  "title": "Gradus ad Parnassum",
+  "display_title": "Gradus ad Parnassum",
+  "author": "Johann Joseph Fux",
+  "language": "Latin",
+  "year": 1725,
+  "published": "1725",
+  "pages_count": 298,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/69557ef457e3b773024f4d2a",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "gradusadparnassu00fuxj_0"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:56.896Z",
+  "_hashes": {
+    "ocr": "6b80e2f08b185213",
+    "translation": "be122643a8a3ccdf"
+  }
+}

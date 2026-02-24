@@ -1,0 +1,28 @@
+{
+  "id": "6955838057e3b773024f86ff",
+  "title": "The Barddas: Original Documents of the Bardic Theology and Discipline",
+  "display_title": "The Barddas: Original Documents of the Bardic Theology and Discipline",
+  "author": "Iolo Morganwg / John Williams Ab Ithel",
+  "language": "Welsh/English",
+  "year": 1862,
+  "published": "Unknown",
+  "pages_count": 450,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6955838057e3b773024f86ff",
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "barddas-two-volumes-in-one"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:31:03.325Z",
+  "_hashes": {
+    "ocr": "41e7f6832cf31280",
+    "translation": "04d8d7b68dc08e40"
+  }
+}

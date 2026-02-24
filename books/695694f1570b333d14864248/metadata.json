@@ -1,0 +1,28 @@
+{
+  "id": "695694f1570b333d14864248",
+  "title": "Ancient Laws of Ireland - Volume 1: Senchus Mor",
+  "display_title": "Ancient Laws of Ireland - Volume 1: Senchus Mor",
+  "author": "Ancient Laws Commission",
+  "language": "English",
+  "year": 1865,
+  "published": "Unknown",
+  "pages_count": 621,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/695694f1570b333d14864248",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "ancientlawsirel01hancgoog"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:31:01.539Z",
+  "_hashes": {
+    "ocr": "b3ebd1b63bb16814",
+    "translation": "e2eab232d8bbf1b2"
+  }
+}

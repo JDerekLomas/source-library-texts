@@ -1,0 +1,28 @@
+{
+  "id": "695592827bd6d2cd1d61ab34",
+  "title": "Kircher Ars Magna Lucis et Umbrae (1646)",
+  "display_title": "Kircher Ars Magna Lucis et Umbrae (1646)",
+  "author": "Athanasius Kircher",
+  "language": "Latin",
+  "year": 1646,
+  "published": "Unknown",
+  "pages_count": 1082,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/695592827bd6d2cd1d61ab34",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "athanasiikircher00kirc_8"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:31:00.549Z",
+  "_hashes": {
+    "ocr": "6ed67c9c8ce9e76b",
+    "translation": "7c160a705af400dc"
+  }
+}

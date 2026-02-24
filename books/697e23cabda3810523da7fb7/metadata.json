@@ -1,0 +1,26 @@
+{
+  "id": "697e23cabda3810523da7fb7",
+  "title": "Historia Bogomilorum",
+  "display_title": "Historia Bogomilorum",
+  "author": "Wolf, Johann Christoph",
+  "language": "Latin",
+  "year": 1712,
+  "published": "1712",
+  "pages_count": 188,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 2,
+  "source_url": "https://sourcelibrary.org/book/697e23cabda3810523da7fb7",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:31:03.660Z",
+  "_hashes": {
+    "ocr": "95af649e94ba4254",
+    "translation": "c45a569a3a7bbd05"
+  }
+}

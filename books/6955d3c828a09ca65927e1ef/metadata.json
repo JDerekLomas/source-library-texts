@@ -1,0 +1,28 @@
+{
+  "id": "6955d3c828a09ca65927e1ef",
+  "title": "Philosophical Works Vol. 1",
+  "display_title": "Philosophical Works Vol. 1",
+  "author": "Robert Boyle",
+  "language": "English",
+  "year": 1725,
+  "published": "Unknown",
+  "pages_count": 780,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6955d3c828a09ca65927e1ef",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "philosophicalwor01boyl"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:58.652Z",
+  "_hashes": {
+    "ocr": "471339274294e164",
+    "translation": "db6128a503d31a95"
+  }
+}

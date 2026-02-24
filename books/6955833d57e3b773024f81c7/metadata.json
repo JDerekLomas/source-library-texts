@@ -1,0 +1,28 @@
+{
+  "id": "6955833d57e3b773024f81c7",
+  "title": "Dosparth Edeyrn Davod Aur (Ancient Welsh Grammar and Rules of Welsh Poetry)",
+  "display_title": "Dosparth Edeyrn Davod Aur (Ancient Welsh Grammar and Rules of Welsh Poetry)",
+  "author": "Edeyrn the Golden Tongued / Davydd Ddu Athraw / Simwnt Fychan",
+  "language": "Welsh/English",
+  "year": 1902,
+  "published": "Unknown",
+  "pages_count": 482,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6955833d57e3b773024f81c7",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "dosparthedeyrnd00abergoog"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:57.141Z",
+  "_hashes": {
+    "ocr": "d5f22581337421a5",
+    "translation": "261bed74792c7dab"
+  }
+}

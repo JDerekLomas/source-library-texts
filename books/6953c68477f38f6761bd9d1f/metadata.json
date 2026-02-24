@@ -1,0 +1,28 @@
+{
+  "id": "6953c68477f38f6761bd9d1f",
+  "title": "Causae et Curae - Hildegard von Bingen",
+  "display_title": "Causae et Curae - Hildegard von Bingen",
+  "author": "Hildegard of Bingen",
+  "language": "Latin",
+  "year": 1628,
+  "published": "1628",
+  "pages_count": 246,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6953c68477f38f6761bd9d1f",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "b31363398"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:55.872Z",
+  "_hashes": {
+    "ocr": "558010070f6475ea",
+    "translation": "c793b9bbaf6da77f"
+  }
+}

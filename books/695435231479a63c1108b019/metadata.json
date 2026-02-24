@@ -1,0 +1,28 @@
+{
+  "id": "695435231479a63c1108b019",
+  "title": "Philosophia prima sive Ontologia",
+  "display_title": "Philosophia prima sive Ontologia",
+  "author": "Christian Wolff",
+  "language": "Latin",
+  "year": 1736,
+  "published": "1736",
+  "pages_count": 748,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/695435231479a63c1108b019",
+  "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bub_gb_1HsPAAAAQAAJ"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:59.841Z",
+  "_hashes": {
+    "ocr": "8fbbfdb033636706",
+    "translation": "892e8f87f4b1262e"
+  }
+}

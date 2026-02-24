@@ -1,0 +1,28 @@
+{
+  "id": "695690aaaeb4b980d9ebdbfa",
+  "title": "A Treatise of Human Nature - Volume 3",
+  "display_title": "A Treatise of Human Nature - Volume 3",
+  "author": "David Hume",
+  "language": "English",
+  "year": 1739,
+  "published": "1739",
+  "pages_count": 319,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 9,
+  "source_url": "https://sourcelibrary.org/book/695690aaaeb4b980d9ebdbfa",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bim_eighteenth-century_a-treatise-of-human-natu_hume-david_1739_3"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:31:00.966Z",
+  "_hashes": {
+    "ocr": "8611cfba187fb6dc",
+    "translation": "ff9186407df05784"
+  }
+}

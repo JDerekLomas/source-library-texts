@@ -1,0 +1,28 @@
+{
+  "id": "6955808657e3b773024f5899",
+  "title": "Compendium de anima",
+  "display_title": "Compendium de anima",
+  "author": "Avicenna (Ibn Sina)",
+  "language": "Latin",
+  "year": 1546,
+  "published": "1546",
+  "pages_count": 290,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6955808657e3b773024f5899",
+  "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bub_gb_39sJapY8Q-QC"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:57.058Z",
+  "_hashes": {
+    "ocr": "1376ca38097f19af",
+    "translation": "706934d60e8fdc48"
+  }
+}

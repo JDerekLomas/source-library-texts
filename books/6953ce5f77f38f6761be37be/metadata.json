@@ -1,0 +1,28 @@
+{
+  "id": "6953ce5f77f38f6761be37be",
+  "title": "Epictetus Discourses Vol. 1 (Books 1-2)",
+  "display_title": "Epictetus Discourses Vol. 1 (Books 1-2)",
+  "author": "Epictetus",
+  "language": "Greek",
+  "year": 1898,
+  "published": "1898",
+  "pages_count": 700,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6953ce5f77f38f6761be37be",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "L131EpictetusIDiscourses12"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:56.230Z",
+  "_hashes": {
+    "ocr": "d1ebc9b491ece76b",
+    "translation": "cc17360f276d0814"
+  }
+}

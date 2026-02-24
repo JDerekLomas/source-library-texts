@@ -1,0 +1,28 @@
+{
+  "id": "6955747af63a757109173a5d",
+  "title": "Orphica (Argonautica, Hymni, Lithica)",
+  "display_title": "Orphica (Argonautica, Hymni, Lithica)",
+  "author": "Gottfried Hermann (ed.)",
+  "language": "Greek/Latin",
+  "year": 1805,
+  "published": "1805",
+  "pages_count": 1049,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6955747af63a757109173a5d",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "orphica00unkngoog"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:31:00.181Z",
+  "_hashes": {
+    "ocr": "260aee0438650ee2",
+    "translation": "95f6ee3a03731276"
+  }
+}

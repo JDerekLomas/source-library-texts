@@ -1,0 +1,28 @@
+{
+  "id": "6955923f7bd6d2cd1d619f5a",
+  "title": "Albertus Magnus Philosophia (1496 Incunable)",
+  "display_title": "Albertus Magnus Philosophia (1496 Incunable)",
+  "author": "Albertus Magnus",
+  "language": "Latin",
+  "year": 1496,
+  "published": "Unknown",
+  "pages_count": 118,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6955923f7bd6d2cd1d619f5a",
+  "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "philosophiadomin00albe"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:31:00.438Z",
+  "_hashes": {
+    "ocr": "ce4836520dd8dbb7",
+    "translation": "fbba10a1e973e203"
+  }
+}

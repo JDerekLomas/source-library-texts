@@ -1,0 +1,26 @@
+{
+  "id": "6953aba777f38f6761bd7d2c",
+  "title": "Opus Mulierum & Bernard of Treviso on the Philosophers Stone",
+  "display_title": "Reg.lat.1200",
+  "author": "Bernard of Treviso; Arnaldus de Villanova",
+  "language": "Latin",
+  "year": null,
+  "published": "Medieval",
+  "pages_count": 312,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6953aba777f38f6761bd7d2c",
+  "license": "CC-BY-NC-4.0",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:55.397Z",
+  "_hashes": {
+    "ocr": "605dca99fc2c2857",
+    "translation": "3a63a4d9093f549a"
+  }
+}

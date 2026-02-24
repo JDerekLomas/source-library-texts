@@ -1,0 +1,28 @@
+{
+  "id": "6955754df63a7571091740c5",
+  "title": "Natya Shastra with Abhinava Bharati Commentary",
+  "display_title": "Natya Shastra with Abhinava Bharati Commentary",
+  "author": "Bharata Muni; Abhinavagupta (comm.)",
+  "language": "Sanskrit",
+  "year": 1926,
+  "published": "1926",
+  "pages_count": 1726,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6955754df63a7571091740c5",
+  "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "NatyaShastraOfBharataMuniWithAbhinavaBharatiIMadhsusudanShastri"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:57.466Z",
+  "_hashes": {
+    "ocr": "08b50ec13fac5d59",
+    "translation": "35623ca804b9ff6d"
+  }
+}

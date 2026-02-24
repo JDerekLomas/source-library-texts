@@ -1,0 +1,28 @@
+{
+  "id": "6958e908d3a89283348148dd",
+  "title": "Institutiones rei herbariae",
+  "display_title": "Institutiones rei herbariae",
+  "author": "Joseph Pitton de Tournefort",
+  "language": "Latin",
+  "year": 1719,
+  "published": "1719",
+  "pages_count": 240,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6958e908d3a89283348148dd",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "mobot31753000521663"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:57.765Z",
+  "_hashes": {
+    "ocr": "c41a553036db4554",
+    "translation": "6acdc450e027490e"
+  }
+}

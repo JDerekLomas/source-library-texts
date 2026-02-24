@@ -1,0 +1,28 @@
+{
+  "id": "695572cd220949ea67a596ae",
+  "title": "Life of Pythagoras (Iamblichus)",
+  "display_title": "Life of Pythagoras (Iamblichus)",
+  "author": "Iamblichus; Thomas Taylor (trans.)",
+  "language": "English",
+  "year": 1818,
+  "published": "1818",
+  "pages_count": 356,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/695572cd220949ea67a596ae",
+  "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "taylor-life-of-pythagoras-en-1818"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:59.923Z",
+  "_hashes": {
+    "ocr": "2e53528c1c71790b",
+    "translation": "67b8122a4c229bce"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "69557e1157e3b773024f44c6",
+  "title": "The Golden Verses of Pythagoras",
+  "display_title": "The Golden Verses of Pythagoras",
+  "author": "Fabre d Olivet (trans.)",
+  "language": "French/English",
+  "year": 1917,
+  "published": "1917",
+  "pages_count": 308,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/69557e1157e3b773024f44c6",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "cu31924026681076"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:56.737Z",
+  "_hashes": {
+    "ocr": "492a7866a5cee37d",
+    "translation": "5294efe70ea551e8"
+  }
+}

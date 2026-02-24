@@ -1,0 +1,26 @@
+{
+  "id": "69804b901fb2ba7cf1d43a1e",
+  "title": "Joannes de boetgezant",
+  "display_title": "Joannes de boetgezant",
+  "author": "Vondel, Joost van den",
+  "language": "Dutch",
+  "year": 1662,
+  "published": "1662",
+  "pages_count": 174,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 8,
+  "source_url": "https://sourcelibrary.org/book/69804b901fb2ba7cf1d43a1e",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:31:01.045Z",
+  "_hashes": {
+    "ocr": "5a48f58064d5d48c",
+    "translation": "264e63016f8f7d68"
+  }
+}
