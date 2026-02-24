@@ -1,0 +1,28 @@
+{
+  "id": "6990540438e1fdee57b364df",
+  "title": "Vorlesungen über Gastheorie, Bd. 1",
+  "display_title": "Vorlesungen über Gastheorie, Bd. 1",
+  "author": "Ludwig Boltzmann",
+  "language": "German",
+  "year": 1895,
+  "published": "Unknown",
+  "pages_count": 224,
+  "pages_with_ocr": 81,
+  "pages_with_translation": 78,
+  "source_url": "https://sourcelibrary.org/book/6990540438e1fdee57b364df",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "vorlesungenber01bolt"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:17.045Z",
+  "_hashes": {
+    "ocr": "b1c63cecfab5ed8d",
+    "translation": "d4aed7367287058f"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "69592f6ca41e40e9146a45d7",
+  "title": "Les Clavicules de Salomon (1634 Manuscript)",
+  "display_title": "Les Clavicules de Salomon (1634 Manuscript)",
+  "author": "Rabin Abognazar / Barault",
+  "language": "French",
+  "year": 1634,
+  "published": "Unknown",
+  "pages_count": 79,
+  "pages_with_ocr": 79,
+  "pages_with_translation": 79,
+  "source_url": "https://sourcelibrary.org/book/69592f6ca41e40e9146a45d7",
+  "license": "https://gallica.bnf.fr/html/und/conditions-dutilisation-des-contenus-de-gallica",
+  "doi": null,
+  "external_ids": {
+    "gallica": "btv1b90633658"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:20.507Z",
+  "_hashes": {
+    "ocr": "c27092c14ada67d3",
+    "translation": "91adace7830a90a7"
+  }
+}

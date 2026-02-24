@@ -1,0 +1,26 @@
+{
+  "id": "697c8e0fbaa544415f85b6c4",
+  "title": "Geheimnüss der letzten Zeiten",
+  "display_title": "Geheimnüss der letzten Zeiten",
+  "author": "anonymous",
+  "language": "German",
+  "year": 1698,
+  "published": "1698",
+  "pages_count": 80,
+  "pages_with_ocr": 80,
+  "pages_with_translation": 80,
+  "source_url": "https://sourcelibrary.org/book/697c8e0fbaa544415f85b6c4",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:18.735Z",
+  "_hashes": {
+    "ocr": "7a9cdea3e58aefe5",
+    "translation": "4d774fa79f223740"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "699448a1185a84ef595aba11",
+  "title": "Patmutiwn Tatarats (History of the Tatars)",
+  "display_title": "Patmutiwn Tatarats (History of the Tatars)",
+  "author": "Grigor of Akner",
+  "language": "Armenian",
+  "year": 1870,
+  "published": "1870",
+  "pages_count": 78,
+  "pages_with_ocr": 78,
+  "pages_with_translation": 63,
+  "source_url": "https://sourcelibrary.org/book/699448a1185a84ef595aba11",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "AknertsiGrabar1870"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:20.692Z",
+  "_hashes": {
+    "ocr": "42aa7e0e3f225c80",
+    "translation": "cfb5567f9a974a5d"
+  }
+}

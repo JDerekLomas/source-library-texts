@@ -1,0 +1,26 @@
+{
+  "id": "6970e3569b09d309d780a248",
+  "title": "Admonitio de quorundam, ad praesentia haec periculosa tempora spectantium vaticiniorum",
+  "display_title": "Admonitio de quorundam, ad praesentia haec periculosa tempora spectantium vaticiniorum",
+  "author": "Osiandrus, Lucas",
+  "language": "Latin",
+  "year": 1621,
+  "published": "1621",
+  "pages_count": 79,
+  "pages_with_ocr": 79,
+  "pages_with_translation": 79,
+  "source_url": "https://sourcelibrary.org/book/6970e3569b09d309d780a248",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:19.947Z",
+  "_hashes": {
+    "ocr": "1dfb0a19673fe66e",
+    "translation": "91a0fa87cb0792c8"
+  }
+}

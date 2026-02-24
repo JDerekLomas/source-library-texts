@@ -1,0 +1,28 @@
+{
+  "id": "6992499aa2d53df4853bd50d",
+  "title": "The Popol Vuh: Mythic and Heroic Sagas of the Kichés",
+  "display_title": "The Popol Vuh: Mythic and Heroic Sagas of the Kichés",
+  "author": "Lewis Spence",
+  "language": "K'iche'",
+  "year": 1908,
+  "published": "Unknown",
+  "pages_count": 83,
+  "pages_with_ocr": 83,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/6992499aa2d53df4853bd50d",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "popolvuhmythica00spengoog"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:29:15.379Z",
+  "_hashes": {
+    "ocr": "5f995fcaebd44993",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

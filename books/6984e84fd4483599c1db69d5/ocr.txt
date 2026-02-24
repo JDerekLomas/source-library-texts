@@ -1,0 +1,2512 @@
+--- Page 1 ---
+<lang>Unknown</lang>
+<warning>The image is of a book cover. The text on the spine consists of gold-tooled lettering that is severely faded and mostly illegible.</warning>
+<meta>Front cover of a bound manuscript; features marbled paper on boards and a leather spine with horizontal gold-tooled bands.</meta>
+
+<unclear>[illegible text on spine]</unclear>
+
+<unclear>No 11</unclear>
+
+<unclear>[illegible text on spine]</unclear>
+
+<vocab>bookbinding, marbled paper, leather spine, gold tooling, shelfmark</vocab>
+
+<detected-images>
+[{"description": "Antique book cover featuring marbled paper with red, black, and tan patterns and a dark leather spine with remains of gold-tooled bands and text.", "type": "decorative", "bbox": {"x": 0.01, "y": 0.01, "width": 0.98, "height": 0.98}, "gallery_quality": 0.5, "museum_rationale": "A characteristic example of 18th or 19th-century library binding using marbled paper and half-leather techniques."}]
+</detected-images>
+
+--- Page 2 ---
+<lang>Latin</lang>
+<page-num>72</page-num>
+<meta>Pasted-on color print of a hermetic emblem; scalloped-edge numbered label at top left.</meta>
+
+<insert>72.</insert>
+
+<insert>A</insert>
+
+->**PHILOSOPHIA·HERMETICA**<-
+
+<note>Faint pencil inscription at the bottom edge of the pasted emblem</note>
+<unclear>Wassermann, Carl Prof.</unclear>
+
+<vocab>Philosophia Hermetica, emblem, Pelican in its piety, alchemy, hermeticism, Carl Wassermann</vocab>
+
+<detected-images>
+[{"description": "Hermetic emblem titled 'PHILOSOPHIA HERMETICA' depicting a pelican in its piety (feeding its young with its own blood) on a nest. The nest sits atop a pedestal or cube marked with a saltire cross and five round spheres. The scene is enclosed in a blue oval with golden rays from above, framed by a green border and circular text.", "type": "emblem", "bbox": {"x": 0.315, "y": 0.236, "width": 0.418, "height": 0.344}, "gallery_quality": 0.85, "museum_rationale": "A finely detailed and colored hermetic emblem featuring classical alchemical and philosophical symbolism, likely signifying sacrifice and transformation through the 'pelican in its piety' motif."}]
+</detected-images>
+
+--- Page 3 ---
+<lang>N/A</lang>
+<meta>This page is a blank flyleaf or endpaper and contains no text, headings, or illustrations.</meta>
+
+--- Page 4 ---
+<lang>Unknown</lang>
+<page-num>2</page-num>
+<warning>The page is almost entirely blank, containing only a small label with the page number and a faint circular library stamp.</warning>
+<meta>There is a faint blue circular stamp in the center of the page, likely a library ownership mark. The page number '2' is handwritten on a scalloped circular sticker in the top-left corner.</meta>
+
+<vocab>blank page, library stamp, manuscript, pagination</vocab>
+
+<detected-images>
+[{"description": "Faint blue circular library stamp", "type": "decorative", "bbox": {"x": 0.433, "y": 0.344, "width": 0.135, "height": 0.113}, "gallery_quality": 0.1, "museum_rationale": "A very faint, administrative library mark of no artistic significance."},
+{"description": "Scalloped circular label with handwritten digit 2", "type": "decorative", "bbox": {"x": 0.143, "y": 0.074, "width": 0.048, "height": 0.062}, "gallery_quality": 0.2, "museum_rationale": "A simple administrative label used for indexing or pagination."}]
+</detected-images>
+
+--- Page 5 ---
+<lang>None</lang>
+<warning>The page is blank.</warning>
+<meta>Blank flyleaf or endpaper. Faint foxing and age-related staining visible on the cream-colored paper. A portion of the marbled paper from the interior binding is visible on the right edge.</meta>
+
+--- Page 6 ---
+<lang>de</lang>
+<meta>Image quality: good. This appears to be a flyleaf or endpaper containing a printed heraldic emblem and a handwritten ownership inscription.</meta>
+
+-><insert>Arno Klander</insert><-
+-><insert>1907.</insert><-
+
+<vocab>Arno Klander, heraldry, coat of arms, caduceus, ex-libris, provenance, 1907</vocab>
+
+<detected-images>
+[{"description": "A heraldic coat of arms featuring a bird (possibly a hawk or falcon) as a crest atop a helmet. The shield below contains a caduceus (staff with a serpent) surmounted by a small bird, all surrounded by ornate foliate mantling.", "type": "emblem", "bbox": {"x": 0.246, "y": 0.539, "width": 0.320, "height": 0.269}, "gallery_quality": 0.85, "museum_rationale": "A finely detailed and well-preserved heraldic engraving, likely serving as an ex-libris or personal mark for the book's owner."}]
+</detected-images>
+
+--- Page 7 ---
+<lang>de</lang>
+<meta>Title page of an 18th-century alchemical/medical treatise. Good image quality. Text features Fraktur and Antiqua scripts.</meta>
+<vocab>Lapis Philosophorum, Chymiæ Cultor, Carl Paul Wassermann, Erlangen, Johann Caspar Müller</vocab>
+
+# Philosophisch
+# Güldene Quelle
+->der<-
+# Natur und Kunst,
+->Das ist,<-
+->ein wahrer und<-
+## kurzer Unterricht,
+->wie der<-
+## Lapis Philosophorum
+->beschaffen, woraus<-
+->und wie er præpariret werden könne,<-
+->herausgegeben von<-
+## Carl Paul Wassermann, Med.
+->& Chymiæ Cultor.<-
+
+---
+->Erlangen, bey Johann Caspar Müller, 1751.<-
+
+<detected-images>
+[{"description": "Decorative title page vignette featuring two putti or cherubs in a landscape supporting an oval shield or cartouche containing a monogram (likely GCM for the publisher Johann Caspar Müller).", "type": "woodcut", "bbox": {"x": 0.208, "y": 0.662, "width": 0.457, "height": 0.213}, "gallery_quality": 0.75, "museum_rationale": "A characteristic 18th-century printer's mark or decorative ornament, well-preserved and indicative of the period's book production style."}]
+</detected-images>
+
+--- Page 8 ---
+<lang>de</lang>
+<warning>The image contains a faint, mirrored ink offset (ghosting) from the title page of the facing leaf. The transcription below reflects the un-mirrored, intended text based on the visible impression.</warning>
+<meta>mirrored text, offset impression, title page layout, no visible page number</meta>
+
+# Philosophisch
+# Sicherer Schatz
+### der
+## Natur und Kunst/
+### wie auch
+## ein wahrhafter und
+## kluger Unterricht
+### von dem
+# Lapis Philosophorum/
+### Desgleichen
+## ein und perspectivischer Trichter/
+### ausgearbeitet von
+# Carl Paul Wolfframm/
+## & Chymico-Curioso.
+
+---
+
+-> Verlegt durch Johann Caspar Müller / 17<unclear>..</unclear> <-
+
+<vocab>Philosophisch, Sicherer Schatz, Natur und Kunst, Lapis Philosophorum, perspectivischer Trichter, Carl Paul Wolfframm, Chymico-Curioso, Johann Caspar Müller, Alchemie</vocab>
+
+<detected-images>
+[{"description": "A faint, mirrored woodcut illustration, likely a vignette or alchemical emblem representing a perspective device or furnace as described in the text.", "type": "woodcut", "bbox": {"x": 0.402, "y": 0.72, "width": 0.222, "height": 0.155}, "gallery_quality": 0.3, "museum_rationale": "The illustration is an offset transfer and extremely faint, making identification of details difficult, though it remains a key visual element of the book's title page design."}]
+</detected-images>
+
+--- Page 9 ---
+<lang>German</lang>
+<sig>A 2</sig>
+<meta>catchword: Von</meta>
+
+->**D**er weisen Gold ist nicht<-
+->gemein,<-
+->Besonders Wasser, hell und rein,<-
+->Darauf der Geist des HERREN<-
+->schwebt,<-
+->Darvon ein jedes Wesen lebt,<-
+->Drum unser Gold, ganz Geistlich<-
+->wird,<-
+->Vom Geist auch durch den <term>Helm</term> ge=<-
+->führt,<-
+->Seine Erde bleibt, schwarz (auch =<-
+->rötlich, und grüne) dahinten,<-
+->Die doch zuvor nicht war zu finden,<-
+->Und sich nun selber <term>resolvirt</term>,<-
+
+<vocab>Gold der Weisen, Alchemie, Geist des HERREN, Helm, resolvirt, Erde</vocab>
+
+<detected-images>
+[
+  {"description": "Decorative woodcut headpiece with interlaced floral/foliate motifs", "type": "decorative", "bbox": {"x": 0.076, "y": 0.058, "width": 0.709, "height": 0.113}, "gallery_quality": 0.4, "museum_rationale": "A standard example of early modern typographic ornamentation used for page headers."},
+  {"description": "Decorative woodcut initial 'D'", "type": "decorative", "bbox": {"x": 0.072, "y": 0.273, "width": 0.101, "height": 0.071}, "gallery_quality": 0.3, "museum_rationale": "Typical woodcut initial used in German printing of the period."}
+]
+</detected-images>
+
+--- Page 10 ---
+<lang>German</lang>
+<meta>catchword: Geneig-</meta>
+
+Von selbst zum trüben Wasser wird.
+Verlangend nach dem edlen Leben,
+Daß es ihm wieder werd gegeben,
+Für Durst sichs löset, und zerbricht,
+Dadurch ihm auch sehr wohl geschicht,
+Denn wenns nicht würde Wasser,
+->und Oel,<-
+So könnt auch nicht der Geist, und
+->Sel,<-
+Mit ihm in die Vermischung gehn,
+Nun aber kanns gar wohl geschehn,
+Daß daraus nur ein Wesen wird,
+In ganz vollkommnen Stand ge=
+->führt,<-
+Vereiniget dermassen sehr,
+Daß es zu scheiden nimmermehr 2c.
+
+<vocab>Wasser, Leben, Geist, Sel, Vermischung, Wesen, vollkommnen Stand</vocab>
+
+--- Page 11 ---
+<lang>de</lang>
+<header>)(</header>
+<sig>A 3</sig>
+<meta>catchword: ver-</meta>
+
+## Geneigter Leser!
+
+Viele Liebhaber der edlen Chymie, begeren zu wissen, welches proxima aut prima materia Lapidis Philosophorum seye;
+
+Auch zugleich, wie der Lapis Philosophorum præpariret werden solle, und müsse.
+
+Auser diesem, alle und jede Nachsucher, zu unzehlig viele, und vergebliche Unkosten, unnützer Mühe, Gedult, und gefährliche Arbeiten verführet, auch in grösten Schaden, und Verlust, gestürzet werden: Und obgleich sehr viele <term>Auctores</term> vorhanden sind, welche sehr deutlich, das ganze Werk beschrieben, und angemeldet haben; Nichts destoweniger sind dennoch die meisten <term>perscrutatores</term>, durch die sehr viele untergemischte sophistische, und Lügenvolle Scartequen,
+
+<vocab>Chymie, Lapis Philosophorum, prima materia, Auctores, perscrutatores, Scartequen</vocab>
+
+<detected-images>
+[
+  {"description": "Decorative woodcut floral band used as a header ornament", "type": "decorative", "bbox": {"x": 0.08, "y": 0.121, "width": 0.72, "height": 0.123}, "gallery_quality": 0.6, "museum_rationale": "Standard example of 17th-18th century German typographic ornamentation."},
+  {"description": "Large decorative woodcut initial letter 'V' with floral and scrollwork motifs", "type": "decorative", "bbox": {"x": 0.09, "y": 0.39, "width": 0.162, "height": 0.129}, "gallery_quality": 0.75, "museum_rationale": "An elegant example of an ornate initial used in scientific and alchemical printing of the early modern period."}
+]
+</detected-images>
+
+--- Page 12 ---
+<lang>de</lang>
+<header>Vorrede.</header>
+<meta>catchword: und</meta>
+
+---
+
+verblendet, verführet, und mit falschen Ein-
+bildungen dermassen eingenommen, und be-
+nebelt, daß selbige vor Blindheit ohnmöglich
+die Wahrheit, ohngeachtet solche in manchen
+<term>Auctoribus</term> ganz bloß, und entdeckt darste-
+het, begreifen, noch erkennen oder sehen
+wollen.
+
+Wie kann denn nun ein solcher <term>Philosophus</term>
+etwas nützliches, und gutes erlangen,
+der aus unnützen und unmöglichen Dingen,
+etwas mögliches machen will. Muß es einem
+solchen nicht ergehen, wie denjenigen, welche
+auf puren Triebsand ein grosses steinernes
+Haus, ohne Grund, oder <term>Fundament</term>,
+aufbauen?
+
+<margin>//</margin>Wer aber etwas tüchtliches bauet, der-
+selbe suchet, und macht nicht allein zuvor,
+einen guten Grund, sondern <term>adhibirt</term> auch
+darzu <term>durable</term>, und tüchtige Bau-Materia-
+lien; ansonsten derjenige, welcher mit Wind,
+und Stroh, bauet; auch nur stroherne Feld-
+Zelter, die keinen Bestand haben, zu be-
+wohnen, und zu geniesen bekömmt.
+
+Also ist es auch mit der <term>Chymie</term> beschaf-
+fen, wer nicht die einzige wahre <term>Materiam</term>
+weiß, der kann, und wird auch nichts <term>præsti-</term>
+<term>ten</term>, noch das geringste zu sehen bekommen:
+Wer aber die Wahrheit zu Rathe ziehet,
+und
+
+<vocab>Vorrede, Philosophus, Auctoribus, Triebsand, Fundament, Chymie, Materiam, præstiten, adhibirt, durable</vocab>
+
+<detected-images>
+[{"description": "Decorative horizontal printer's lines framing the section header 'Vorrede'", "type": "decorative", "bbox": {"x": 0.23, "y": 0.08, "width": 0.54, "height": 0.07}, "gallery_quality": 0.2, "museum_rationale": "Standard typographic ornaments used to set off a preface header, of low artistic but some historical interest for book design."}]
+</detected-images>
+
+--- Page 13 ---
+<lang>de</lang>
+<header>Vorrede</header>
+
+und sich befragt, was man zu Elaborirung
+des Lapidis Philosophorum haben, und wie
+man selbigen præpariren müsse; so wird
+ihme zur Antwort gegeben: **Folge der**
+**Natur nach, und gebrauche dich de-**
+**ren Anfänge.**
+
+Weil aber dieses nicht ein jeder verstehet,
+noch minder penetriren kann, was darmit ge-
+meinet ist; also lassen sichs viele hundert
+Nachsuchere nicht ein Ernst seyn, der Natur
+Anfang, und Ende, sich recht zu imprimiren,
+und ihre Labores darnach einzurichten: Ein
+jeder thut, sucht, und macht, so wie es ihme
+einkömmt, und was ihme seine falsche imagi-
+nationes eingeben, und vormahlen; Dahero
+geschicht es auch, daß unter vielen tausend La-
+boranten, kein einziger, die Wahrheit, und
+das einzige wahre Subjectum, zu seiner Ela-
+boration ersiehet, noch adhibiret.
+
+Ja es sind sehr viele, welche nicht einmal
+glauben, daß des <term>Basilii</term>, alles in allem
+und alles in einem, ein jedermann wohl-
+bekanntes, natürliches feueriges Wasser oder
+wässeriges Feuer sey. Und daß aufer, und
+ohne diesem, der <term>Lapis Philosophorum</term> nicht
+gemachet werden kann, ist wahr.
+
+Wenn aber der angehende Lehrling, sich
+nur bemühen wird, die **GOttesfurcht** in
+
+<sig>A 4</sig>
+<meta>catchword: seinem</meta>
+<vocab>Lapidis Philosophorum, Basilii, feueriges Wasser, wässeriges Feuer, GOttesfurcht, alchemical preface</vocab>
+
+--- Page 14 ---
+<lang>de</lang>
+<header>Vorrede.</header>
+<warning>The page exhibits signs of aging, including foxing and water staining, particularly along the left margin. There are several handwritten marginal marks (lines and a bracket) in ink.</warning>
+
+<margin>Handwritten bracket</margin>seinem Herzen über alles *prævaliren* zu las-
+sen, danebenst, wie, und woraus <term>GOtt</term>, Him-
+mel, und Erden geschaffen hat; so kanns
+nicht fehlen, wenn er dieses alles genau ein-
+siehet, es muß ihme *materia, ac modus pro-*
+*cedendi*, eine leichte Sache seyn. Dieses
+ist, zeiget und macht, einen wahren *Philoso-*
+<margin>Handwritten line</margin>*phum*. Denn, weme ist nicht bewust, daß
+die <term>Heil. Schrift</term> klar anzeiget: daß, da
+<term>GOtt</term> Himmel und Erden erschaffen, er erst-
+lich aus Nebel, Dampf und Hauch, ein *con-*
+<margin>Handwritten line</margin>*fusum Chaos* machte, welches sowol die 4.
+<term>Elementa</term>, als auch 3. *principia potentia-*
+*liter* in sich enthielte; keines derselben aber
+konnte sich bewegen, noch etwas wirken, bis
+<term>GOtt</term> seinen heiligen Athem, Hauch, und
+Geist, in dasselbige blies. So bald die <term>Ele-</term>
+<term>menta</term> diesen lebendigmachenden Geist em-
+pfiengen: eben sogleich scheidete sich solche
+von einander, und die 3. Anfänge aller Din-
+ge; als <term>Sulphur</term>, <term>Sal</term>, & <term>Mercurius</term> oder
+<term>Corpus</term>, <term>Spiritus</term> & <term>anima</term> dienten nach
+<term>GOttes</term> Befehl, alle *genera* herfür zu brin-
+gen; welche auch noch bis auf diese Stunde,
+alles *produciren*, und mit Beyhülfe des
+Himmels feurigen Lebensgeiste, fortbrin-
+<margin>Handwritten line</margin>gen, und *maturiren*. Im Anfang der
+Schöpfung schwebte der Geist <term>GOttes</term> auf
+
+<meta>catchword: dem</meta>
+
+<vocab>Vorrede, GOtt, materia, Philosophum, Heil. Schrift, Chaos, 4. Elementa, 3. principia, Sulphur, Sal, Mercurius, Corpus, Spiritus, anima, Schöpfung</vocab>
+
+--- Page 15 ---
+<lang>de</lang>
+<header>Vorrede.</header>
+
+# Vorrede.
+
+dem Wasser ; er wird , und soll auch noch ,
+über alle Wasser schweben ; so lange bis
+**GOtt** demselben wieder zu sich attrahiren
+wird : da dann Himmel , und Erden , mit
+allem , was er geschaffen hat , zusammen fal-
+len , und in sein ersteres **Chaos** zurück fallen
+wird ; woraus alsdenn **GOtt** , einen neuen
+Himmel , und Erden , schaffen wird ; worin-
+nen aber Niemand eingelassen , und diese ewi-
+ge Glorian zu geniessen haben soll , als dieje-
+nigen Menschen , welche hier in dieser Zeitlich-
+keit , nach **GOttes** Willen und Wohlgefal-
+len , ihr Leben geendet haben .
+
+Weme ist unbekannt , daß als **GOtt**
+Himmel und Erden , sammt aller 4. Elemen-
+ten Kraft , und aller Dinge Anfang , als
+*Schwefel , Salz , und feuriges Wasser* , so
+herrlich erschaffen hatte ; derselbe hernach aus
+Wasser und Erden alles herfür gestellt hat ,
+was wir mit unsern Augen sehen . Alle Ge-
+nera , und deren Samen , welcher in die
+Vermehrung gehen soll , muß erstlich zu einem
+schleimichten Wasser , in der Erden werden ,
+<margin>13</margin>
+ehe sein innerliches <term>Germen seminis</term> empor-
+wachsen , grünen , blühen und reif werden kann .
+Die Erde ist aller Samen Mutter , und Be-
+hältniß ; keines derer Saamen aber , sie ha-
+ben Namen , wie sie wollen , könnten verfau-
+
+<sig>A 5</sig>
+<meta>catchword: len,</meta>
+<vocab>Chaos, Glorian, Elementen, Schwefel, Salz, feuriges Wasser, Genera, Germen seminis</vocab>
+
+--- Page 16 ---
+<lang>de</lang>
+<header>Vorrede.</header>
+<meta>Catchword: Leib,</meta>
+<meta>Annotations: Vertical reader's marks in the left margin next to both paragraphs. Hand-drawn underlining for emphasis in the second paragraph.</meta>
+
+len, und herfür wachsen, wenn solche nicht die
+feuerige und lebendigmachende wässerichte
+feuchte Substanz attrahiren sollte; dahero
+thun dieselbige recht wohl, welche sich des *Sen-*
+*divogii dictum* als den Grund der wahren
+Philosophie imprimiren, und zu Nutze ma=
+chen, da er sagt: *Est in aëre, occultus vi-*
+*tæ cibus, quem nos rorem de nocte; de*
+*die vero aquam rarefactam vocamus; cu-*
+*ius Spiritus invisibilis congelatus, melior*
+*est, quam universa terra.*
+
+Ein jeder weiß, daß **GOtt** den Anfang
+aller Dinge selbst gemacht hat. Wie schon
+gesagt; ein jeder muß auch wissen, und glau=
+ben, daß **GOtt** durch dieses alles gemacht und
+geschaffen hat, als Animalia, Vegetabilia,
+ac Mineralia. Ein jeder muß auch glau=
+ben, daß **GOtt** zu Erschaffung und Herfür-
+bringung derer Vegetabilien und Animalien,
+keine andere Wurzel gebraucht hat, als nur
+**feurig Wasser und Erden**: mithin würde
+**derjenige thöricht handeln, der da sagen würde,**
+daß **GOtt** zu Herfürbringung derer Mine-
+ralien und Metallen, etwas anders genom=
+men habe, als woraus Vegetabilia und Ani-
+malia geschaffen worden sind. Wenn ein
+Vegetabile sich vervielfältigen, und wachsen
+soll, so wird dessen Same in seiner Mutter
+
+<vocab>Michael Sendivogius, Alchemie, Schöpfung, Elementenlehre, Animalia, Vegetabilia, Mineralia, feurig Wasser, Materia Prima</vocab>
+
+--- Page 17 ---
+<lang>de</lang>
+<header>Vorrede.</header>
+<meta>catchword: Mercu-</meta>
+
+# Vorrede.
+
+Leib, der Erden eingeſäet; welche durch Feuchte, und Wärme, ſich aufſchlieſen, und durch ſtetigen Anzug, der lüftigen Lebens-ſpeiſe, welche ihme, ſowol durch den Thau, als Regen zugeführt wird, ſodann durch die Wärme der Sonnen, mit abwechſlender Kühle des Monden, wächſet und reifet.
+
+So wie dieſes geſchicht, iſt es auch mit denen <term>Mineralibus</term> beſchaffen: wenn ſich dieſe <term>multipliciren</term> ſollen, ſo muß der Same des Mannes, welcher aus einem ſüſſen ſchleimigten Salzwäſſer beſtehet, worinnen alle 4. Elementen Kraft, ſammt dem Anfang aller Dinge, als <term>Schwefel</term>, <term>Salz</term> und ſchleimigt feueriger <term>Mercurius</term>, oder Waſſer, <term>inſeparabiliter</term> verknüpft ſind, in ſeiner zugehörigen Erden als der Mutter Leib eingeſäet werden, woſelbſten derſelbe durch Feuchte und natürliche Wärme wächſet, lebet, und an des Tageslicht herfür kommet.
+
+So und wie dieſe 2. Reiche aus einem <term>Subiecto</term>, und Wurzel herſtammen, und ſich <term>multipliciren</term>; alſo und anderergeſtalt nicht, können die <term>Metalla</term> auch unter und über der Erden <term>maturiret</term> und <term>perfectioniret</term> werden: denn die <term>Metalla</term> und <term>Mineralia</term> haben eben zu ihrem Anfange, <term>Sal</term>, <term>Sulphur</term> ac <term>Mercu-</term>
+
+<vocab>Vorrede, Mineralibus, multipliciren, Schwefel, Salz, Mercurius, Metalla, Sal, Sulphur, Alchemy, Tria Prima, Spagyrics</vocab>
+
+--- Page 18 ---
+<lang>de</lang>
+<warning>The page shows signs of aging with minor foxing and a noticeable circular stain on the left center margin.</warning>
+<meta>catchword: Lieben</meta>
+
+## Vorrede.
+
+---
+
+<margin>||</margin> **Mercurium** oder feueriges süßes **Wasser**, wie die **Animalia** & **Vegetabilia**.
+
+<margin>//</margin> Welcher **Artista** nun über der Erden aus dem **primo Ente**, den mineralischen Acker, oder Erden, und daraus sein **Salz** zu produciren weiß, der darf nur alsdann den **Samen** des **Goldes**, oder **Silbers** darein säen, und werfen; und so wie die Natur agiret, über der Erden **Animalia** & **Vegetabilia** generirt, auch also procediren, so wirds ihme, an einem erwünschten, und glücklichen Ausgange nicht ermangeln.
+
+<margin>||</margin> Daß aber viele unbesonnene Laboranten glauben, und sich einbilden, daß die imperfecten **Metalla** nicht perfectioniret werden könnten, wofern man nicht, die 3. **Principia** aus denen Metallen, oder Mineralien extrahiren, reinigen, wieder zusammen setzen, und in solchem sodann Gold und Silber säen würde; diejenigen, so mit dergleichen Gedanken im Schwange gehen, und solches beständig glauben, auch in solchen, und dergleichen Dingen, nachsuchen: dieselbigen irren sehr, noch mehr, weil selbige wider die Ordnung **GOttes** schreiben: so versündigen sie sich auch deshalb an **GOtt**. 
+<margin>13</margin> Es kann kein Mensch die 3. **Principia** separiren, und wieder conjungiren.
+
+<vocab>Mercurium, feueriges süßes Wasser, Artista, primo Ente, mineralischen Acker, Salz, Samen des Goldes, Samen des Silbers, Laboranten, imperfecten Metalla, 3. Principia, GOtt</vocab>
+
+--- Page 19 ---
+<lang>de</lang>
+<header>Vorrede.</header>
+<meta>catchword: alle</meta>
+
+# Vorrede.
+
+Lieben Freunde ! ihr sehet, daß GOtt den Anfang selber, und alle Dinge aus Erden und Wasser gemacht hat ; Ihr sehet, spüret, und empfindet, daß durch die Luft, durch Wärme, und Feuchte, alles herfürwächst, und reif wird ; Ihr werdet auch aller wahrer <term>Auctorum</term> Wort glauben, daß alle <term>Metalla</term> zu ihrem Anfang nichts anders gebrauchen, als ein süsses schleimigtes reines Salzwasser oder wässerigen <term>Mercurium</term>.
+
+---
+
+<margin>||</margin>
+Ihr spüret auch, daß die <term>Metalla</term> unter der Erden sowol fortwachsen, und <term>maturiren</term>, als die <term>Animalia</term> und <term>Vegetabilia</term> über der Erden ; wollet ihr denn anders <term>procediren</term>, als die Natur thut, welche ober der Erden, durch den in der Luft ausgebreiteten <term>digerirten</term> feuerig-wässerigen <term>Lebensbalsam</term>, alle Dinge <term>conserviret</term>, und <term>maturiret</term>.
+
+Aus, in, mit und durch die <term>Metalla</term>, werden die <term>Metalla</term> gemacht, ich sage ja, bereite zuvor den <term>philosophischen Acker</term> über der Erden, als worinnen, und woraus unter der Erden, die <term>Metalla</term> gewachsen seyn, sodann säe deinen goldenen Samen darein ; so <term>procedirst</term> du recht, anderst wirst du einen Fehltritt begehen.
+
+<margin>||</margin>
+Zum Ueberfluß will dieses nochmahlen beysetzen, Bäume, Laub und Gras, und
+
+<vocab>Metalla, Mercurium, Lebensbalsam, philosophischer Acker, maturiren, digeriren, Alchemie</vocab>
+
+--- Page 20 ---
+<lang>de</lang>
+<header>Vorrede.</header>
+<meta>Catchword: sam,</meta>
+
+alle *Vegetabilia*, wenn dieſe Wurzeln nicht den ſüſſen Erdzalzſchleim an, und in ſich ziehen ſollten, welcher Salzſchleim, mit dem Regen und Thau der Erden zuge= führet, und täglich damit multiplicirt und geſtärket werde, könnte ohne dieſem wäſſeri= gen Salzſchleim etwas herfür grünen, wachſen, oder blühen, endlich fixe und reife Früchte geben, ich ſage Nein.
+
+„ Ein jeder Bauer weiß, daß dergleichen *Nitrum aereum* in fetten, und leimichten Acker, häufiger enthalten iſt; als in leichtem Sande, dahero wachſen Bäume, Laub und Gras, in fetten Gründen, und Feldern, weit ſchöner, und herrlicher, als auf dürren Sand= hügeln.
+
+„ Nichts deſtoweniger, ſo würden ſowol Samen und Früchte, auf fetten Boden ſo wenig als auf ſchlechten Sandgrund empor wachſen, wenn dieſe Samen, ſo von der Sonnenwärme übermäſſig ausgetrocknet worden ſind, nicht durch den kühlen Thau, und Regen, und den darinnen enthaltenen *ſulphuriſch ſaliniſchen Lebensbalſam*, er= friſchet, erquicket, und zum Aufwachſen, und Reife befördert werden ſollten.
+
+„ Gleichwie nun die *Vegetabilia* als *Ani= malia ſulphuriſch ſaliniſchen Lebensbal=*
+
+<vocab>Vegetabilia, Erdsalzschleim, Nitrum aereum, sulphurisch salinischen Lebensbalsam, Animalia, Wurzeln, Thau</vocab>
+
+--- Page 21 ---
+<lang>de</lang>
+<header>Vorrede</header>
+
+## Vorrede
+
+ſam, attrahiren, zu ihrer <term>Conſervation</term>,
+und <term>Maturation</term> einzig und unentberlich
+nöthig haben; alſo könnte auch ohne dieſen
+<term>Sulphureo mercurialiſchen</term> contenſirten,
+feuerigen Salzwaſſer, welches natürlicher
+Weiſe in die Enge gebracht wird, ſowol über,
+als unter der Erden, wenig, oder wohl gar
+nichts generiret, oder produciret werden.
+
+<margin>NB</margin> Wer alſo weiß, welches das wahre, und
+<term>unicum Subiectum</term> iſt, daſſelbige auch in
+denen balſamiſchen Monathen colligiren,
+auch zu <term>putrificiren</term> weiß, nach dieſem aus
+ſolchen eine olympiſche Erden bereiten, und
+daraus das <term>Sal aſtrale</term> den <term>Mercurium Phi-</term>
+<term>loſophorum</term>, den <term>Nitrum aereum</term>, aut <term>Phi-</term>
+<term>loſophorum</term>, <term>ſine ſtrepitu</term> herausbringen,
+ſolchen <term>purificiren</term>, und <term>figiren</term> kann, derſelbe
+mag vor einen wahren Artiſten paſſiren.
+
+<margin>NB</margin> Jedoch hat ſich ein jeder zu hüten, daß
+er ja nicht die <term>Principia</term> von einander zu
+ſcheiden, zu reinigen und alsdenn wieder zu-
+ſammen zu ſetzen, ſich unterſtehe: immaſſen
+er erſtlich ſolches nicht <term>præſtiren</term> kann, durch
+dergleichen unnütze <term>Labores</term> aber, ganz ge-
+wiß ſeine <term>Materiam</term> verderben würde.
+
+Die <term>Vegetabilia</term>, & <term>Animalia</term>, neh-
+men auch keine Scheidung, noch <term>Separation</term>
+vor die Hand; ſondern überlaſſen lediglich
+
+<meta>catchword: der</meta>
+
+<vocab>Vorrede, Conservation, Maturation, Sulphureo mercurialisch, Salzwaſſer, unicum Subiectum, putrificiren, Sal astrale, Mercurium Philosophorum, Nitrum aereum, sine strepitu, Principia, præstiren, Labores, Materiam, Vegetabilia, Animalia, Separation</vocab>
+
+--- Page 22 ---
+<lang>de</lang>
+<header>Vorrede.</header>
+<meta>catchword: ich</meta>
+<warning>The page shows some foxing, staining, and minor ink bleed-through from the reverse side, though the text remains legible.</warning>
+
+# Vorrede.
+
+der Natur diese Absonderung, und Darstel-
+lung des reinen, und reifen, nach Absonde-
+rung des unreinen, und verhinderlich seyens-
+den Wesens.
+
+<margin>//</margin> Ich weiß wohl, daß sich einige in der **So-
+phisterey** ersoffene, unterstehen werden, diese
+meine aufrichtige und mit Wahrheit angefüllte
+**Schrifft** zu tadeln, auch mich deßhalb viel-
+leicht anzutasten: allein dieselbe sollen zuvor
+benachrichtiget seyn, daß ich mich mit keinem,
+wer der auch sey, weder schrifftlich noch münd-
+lich einlassen, noch sonsten einige Antwort
+darauf geben werde.
+
+<margin>//</margin> Ich habe aus Mitleiden diese meine treue
+<term>Admonition</term>, und Unterricht, denen from-
+men, **Gottesfürchtigen** und in Zweifel ein-
+hergehenden Lehrlingen, zum Druck befördern
+und bekannt machen lassen, damit ein jeder,
+deme es **GOtt** geben will, sich des Segens
+gleichfalls anheischig, und würdig machen
+solle, und möge, welchen <term>Isaac</term>, seinem Soh-
+ne <term>Jacob</term> gabe, und hinterließe, also lau-
+tende:
+> **GOtt gebe dir den Thau des
+Himmels, und das Fette der Erden.**
+
+<margin>//</margin> Mithin, so lasse ich auch einem jeden seinen
+freyen Willen, es mag einer diesen meinen
+getreuen Unterricht glauben, oder nicht; so
+wird mir alles gleich seyn: iedennoch will
+
+<vocab>Vorrede, Sophisterey, Admonition, Lehrlingen, Isaac, Jacob, Segen, Thau des Himmels, Fette der Erden, Unterricht</vocab>
+
+--- Page 23 ---
+<lang>de</lang>
+<header>Vorrede.</header>
+
+# Vorrede.
+
+ich noch zum Ueberfluß dieses mit anführen,
+und sagen, daß diejenigen alle auf vergeblichen
+Wegen gehen, und stehen, welche zu Elabo-
+rirung des <term>Lapidis Philosophorum</term> etwas
+das schon generirt, und specificirt ist; als
+da sind Bäume, Laub, und Graß, alles was
+animalisch heißt, oder von deme herkommt. ||
+
+So denn allerhand <term>Minere</term>, es sey Salz,
+Vitriol, Schwefel, Salpeter, schlechte, und
+gute Mineralien, und Metallen oder Erzte,
+immaßen alle und jede <term>Genera</term>, mehr nicht,
+als was ihme nothdürftig zugehöret, bey sich
+haben, mithin einem andern von seinem höchst-
+nöthigsten Lebensgeiste, ohnmöglich etwas
+mittheilen, oder abgeben können.
+
+Ein schlechtes Exempel, wenn ich einem=
+<term>Animale</term> ein Glied abnehmen, und solches
+einem andern, als eine Hand oder Fuß ist,
+mittheilen, oder anheilen wolte; dieses läßt
+sich nicht thun, eines jeden Dinges reiner
+**Samen** muß in seiner Gebährmutter, oder
+in der Erden eingesäet, und herfür gebracht
+werden. ||
+
+Also auch kann das Gold nicht <term>melio-</term>
+<term>rirt</term>, <term>augmentirt</term>, noch ein unreifes Metall,
+durch dasselbige ihme gleich gemacht werden;
+wenn nicht zuvor der goldene **Samen**, in
+seiner Mutter Leib, als woraus solches her=
+
+<sig>B</sig>
+<meta>catchword: stammet,</meta>
+<vocab>Vorrede, Lapidis Philosophorum, Minere, Salz, Vitriol, Schwefel, Salpeter, Genera, Lebensgeiste, Animale, Samen, Gebährmutter, Gold, meliorirt, augmentirt</vocab>
+
+--- Page 24 ---
+<lang>de</lang>
+<header>Vorrede.</header>
+<meta>catchword: In</meta>
+<vocab>Lapis Philosophorum, Mercurii, Primaterial-Wesen, Röthe, Perfection, Kunstbesitzere, prima materia</vocab>
+
+## Vorrede.
+
+---
+
+tammet, und geboren worden ist; erst-
+lich eingesäet, und durch des concentrirten
+feuerigen Wassers, süssen Salz-Oeler, oder
+*Olei Philosophorum*, *Mercurii* als deren
+Anfang, und Primaterial-Wesen, zuvor ge-
+faulet, geweisset, und bis wiederum zur höch-
+sten Röthe, und *Perfection*, gebracht wor-
+den wäre.
+
+Damit nun diese Schrift nicht mit ver-
+ächtlichen Augen angesehen werden möge;
+sondern mein aufrichtiges Wohlmeinen,
+wenigstens von denenjenigen, welche die pure
+Wahrheit lieben, *æstimiret* werden möge;
+als will zum Ueberfluß diese Schrift, folgen-
+dermassen eintheilen.
+
+<margin>//</margin> Im ersten Kapitel will ich erweisen, daß
+wahre Kunstbesitzere in der Welt gewesen
+sind, und noch seyn; wie solches von vielen
+Orten, glaubwürdig bezeiget werden kann.
+
+### Das 2. Kapitel.
+
+<margin>//</margin> Soll anweisen, woraus der *Lapis Phi-*
+*losophorum* gemacht werden soll, und kann;
+nämlich welches *proxima*, & *prima mate-*
+*ria*, *omnium generum*, & *creaturarum*
+seye.
+
+--- Page 25 ---
+<lang>de</lang>
+<header>Vorrede.</header>
+
+---
+
+## In dem 3. Kapitel.
+
+Soll der <term>Modus procedendi</term> mit wenigen angedeutet, zugleich etlicher wahrer <term>Philosophorum</term> wohlmeinender Unterricht mit <term>inserirt</term> werden.
+
+## Das 4. Kapitel.
+
+Soll anweisen, was und wie die <term>philosophisch</term> natürliche <term>Calcination</term>, und <term>Solution</term>, nach geschehener <term>Putrefaction</term> angestellet werden soll; zugleich, daß von Anfang, bis ans Ende, der <term>Artiste</term> mehr nicht nöthig hat, als gelinde <term>congeliren</term>, gelinde <term>solviren</term>, unter dem <term>solviren</term> und <term>congeliren</term> werden <term>Sublimationes</term>, <term>Extractiones</term>, <term>Separationes</term>, <term>Coniunctiones</term>, <term>Fixationes</term>, ja alles was wir hierzu nur nöthig haben, mit begriffen, und daß keines derselben aparte gemacht, oder vorgenommen werden dürfte; mithin ist diese leichte Wissenschaft wirklich von Anfang, bis ans Ende, ein leichtes Werk, welches die Frau neben dem <term>Spinnrocken</term> verrichten kann, ja nur ein Spiel vor Kinder von 12. à 15. Jahren ist. Hernach will von der <term>Fermentation</term>, und <term>Transmutation</term> etwas weniges, weil hiervon fast alle <term>Auctores</term> zur
+
+<sig>B 2</sig>
+<meta>catchword: Genüge</meta>
+
+<vocab>Modus procedendi, Philosophorum, inserirt, Calcination, Solution, Putrefaction, Artiste, congeliren, solviren, Sublimationes, Extractiones, Separationes, Coniunctiones, Fixationes, Spinnrocken, Fermentation, Transmutation, Auctores</vocab>
+
+--- Page 26 ---
+<lang>de</lang>
+<header>Vorrede.</header>
+<meta>catchword: In</meta>
+<vocab>Lapis Philophorum, Olei Philosophorum, Mercurii, Primaterial-Wesen, Röthe, Perfection, Kunstbesitzere, materia</vocab>
+
+# Vorrede.
+
+---
+
+stammet, und geboren worden ist; erst-
+lich eingesäet, und durch des concentrirten
+feuerigen Wassers, süssen Salz-Oles, oder
+Olei Philosophorum, Mercurii als deren
+Anfang, und Primaterial-Wesen, zuvor ge-
+faulet, geweisset, und bis wiederum zur höch-
+sten Röthe, und Perfection, gebracht wor-
+den wäre.
+
+Damit nun diese Schrift nicht mit ver-
+ächtlichen Augen angesehen werden möge;
+sondern mein aufrichtiges Wohlmeinen,
+wenigstens von denenjenigen, welche die pure
+Wahrheit lieben, æstimiret werden möge;
+als will zum Ueberfluß diese Schrift, folgen-
+dermassen eintheilen.
+
+<margin>//</margin> Im ersten Kapitel will ich erweisen, daß
+wahre Kunstbesitzere in der Welt gewesen
+sind, und noch seyn; wie solches von vielen
+Orten, glaubwürdig bezeiget werden kann.
+
+### Das 2. Kapitel.
+
+<margin>//</margin> Soll anweisen, woraus der Lapis Phi-
+lophorum gemacht werden soll, und kann;
+nämlich welches proxima, & prima mate-
+ria, omnium generum, & creaturarum
+seye.
+
+--- Page 27 ---
+<lang>de</lang>
+<header>Vorrede.</header>
+
+## In dem 3. Kapitel.
+
+Soll der *Modus procedendi* mit we-
+nigen angedeutet, zugleich etlicher wahrer
+*Philosophorum* wohlmeinender Unterricht
+mit *inferirt* werden.
+
+## Das 4. Kapitel.
+
+Soll anweisen, was und wie die philo-
+sophisch natürliche *Calcination*, und *Solu-
+tion*, nach geschehener *Putrefaction* ange-
+stellet werden soll; zugleich, daß von Anfang,
+bis ans Ende, der *Artiste* mehr nicht nöthig
+hat, als gelinde *congeliren*, gelinde *solviren*,
+unter dem *solviren* und *congeliren* werden
+*Sublimationes*, *Extractiones*, *Separatio-
+nes*, *Coniunctiones*, *Fixationes*, ja alles
+was wir hierzu nur nöthig haben, mit begrif-
+fen, und daß keines derselben *aparte* gemacht,
+oder vorgenommen werden dürfte; mithin
+ist diese leichte Wissenschaft wirklich von An-
+fang, bis ans Ende, ein leichtes Werk, wel-
+ches die Frau neben dem Spinnrocken ver-
+richten kann, ja nur ein Spiel vor Kinder von
+12. à 15. Jahren ist. Hernach will von der
+*Fermentation*, und *Transmutation* etwas
+weniges, weil hiervon fast alle *Auctores* zur
+
+<sig>B 2</sig>
+<meta>catchword: Genüge</meta>
+
+<vocab>Vorrede, Modus procedendi, Philosophorum, Calcination, Solution, Putrefaction, Artiste, congeliren, solviren, Sublimationes, Extractiones, Separationes, Coniunctiones, Fixationes, Fermentation, Transmutation, Auctores, Alchymie, Spinnrocken</vocab>
+
+--- Page 28 ---
+<lang>German</lang>
+<header>Vorrede.</header>
+<meta>catchword: Für</meta>
+
+Genüge alles gründlich angewiesen haben,
+mit anführen.
+
+---
+
+<margin>[ /</margin>
+Weil nun, meines Wissens, die <term>Fermentation</term> etwas mehr, als eine Weiberarbeit, oder Kinderspiel ist; auch die unvollkommene <term>Metalla</term> nicht sogleich <term>crude</term> genommen, sondern zuvor gereiniget werden müssen, zum <term>transmutiren</term>, wenn auch der <term>Lapis</term> noch so <term>juste</term>, erhöhet, und <term>fermentiret</term> worden ist; als will mit wenigen benachrichtigen, wie sich der <term>Artiste</term>, hierinnfalls zu verhalten hat. Vor allen Dingen aber soll nachstehendes, denen begierigen Nachsuchern unverholen seyn lassen;
+
+<margin>"</margin>
+Wer den <term>Lapidem Philosophorum</term>, oder die <term>Quintam Essentiam Naturæ</term> zu erlangen, und zu <term>elaboriren</term> sich unterstehet, und begeret; daß derselbe zuvor wohl bey sich überlege, ehe er nur im geringsten etwas probiret: Ob er auch tüchtig seye, diesen natürlichen <term>Modum procedendi</term> vorzunehmen und abzuwarten. Es gehört hierzu Zeit, und Lebensunterhalt, gute Gelegenheit und **NB. lange Gedult.**
+
+<vocab>Vorrede, Fermentation, Metalla, crude, transmutiren, Lapis, juste, fermentiret, Artiste, Nachsucher, Lapidem Philosophorum, Quintam Essentiam Naturæ, elaboriren, Modum procedendi, Gedult</vocab>
+
+--- Page 29 ---
+<lang>de</lang>
+<header>Vorrede.</header>
+<sig>B 3</sig>
+<meta>catchword: aus-</meta>
+
+---
+
+Für das erste muß er *verum, ac unicum*
+*Subiectum* wissen, auch solches zu rechter
+Zeit, wenn die Natur alles zu grünen, her-
+für bringt, aufzusammlen wissen.
+
+Alsdenn muß der *Filius artis*, auch wis-
+sen, sein feuriges Wasser, behörigermassen
+zu besorgen, damit solches wohl *putrificiren*
+könne, und möge.
+
+Nach diesen soll er wissen, wie er sol-
+ches *congeliren*, und eine Erde daraus brin-
+gen kann, dann das Wasser muß abdämpfen.
+
+Die Erde muß er alsdenn bleichen, weiß
+und roth machen können. Aus dieser muß
+er *percolate* ein Oel *extrahiren*, solches
+mit der *Anima Solis, vel Lunæ* verbinden
+und *de novo* gelinde zu *congeliren*, und
+*figiren*, wissen. Wenn er so weit mit seiner
+*Elaboration* wird kommen, oder gekommen
+seyn; so wird er sodann hohe Ursache ha-
+ben, seinen GOtt dafür herzlich zu danken.
+
+Wie lange Zeit aber der *Artiste* hierzu
+haben, warten und gebrauchen wird;
+solches wird der Ausgang und das Ende
+
+<vocab>Alchemie, Vorrede, verum ac unicum Subiectum, Filius artis, feuriges Wasser, putrificiren, congeliren, Anima Solis, Anima Lunæ, Elaboration, Artiste, figiren, GOtt</vocab>
+
+--- Page 30 ---
+<lang>de</lang>
+<header>Vorrede.</header>
+<meta>catchword: Für</meta>
+
+---
+## Vorrede.
+---
+
+Genüge alles gründlich angewiesen haben,
+mit anführen.
+
+<margin>/ |</margin>
+Weil nun, meines Wissens, die Fer-
+mentation etwas mehr, als eine Weiber-
+arbeit, oder Kinderspiel ist; auch die un-
+vollkommene Metalla nicht sogleich <term>crude</term>
+genommen, sondern zuvor gereiniget werden
+müssen, zum <term>transmutiren</term>, wenn auch der
+<term>Lapis</term> noch so <term>juste</term>, erhöhet, und fermenti-
+ret worden ist; als will mit wenigen benach-
+richtigen, wie sich der Artiste, hierinnfalls zu
+verhalten hat. Vor allen Dingen aber soll
+nachstehendes, denen begierigen Nachsuchern
+unverholen seyn lassen;
+
+<margin>''</margin>
+Wer den <term>Lapidem Philosophorum</term>,
+oder die <term>Quintam Essentiam Naturæ</term> zu er-
+langen, und zu elaboriren sich unterstehet,
+und begeret; daß derselbe zuvor wohl bey
+sich überlege, ehe er nur im geringsten etwas
+probiret: Ob er auch tüchtig seye, die-
+sen natürlichen <term>Modum procedendi</term> vorzu-
+nehmen und abzuwarten. Es gehört hierzu
+Zeit, und Lebensunterhalt, gute Gelegen-
+heit und <term>NB.</term> lange Gedult.
+
+<vocab>Vorrede, Fermentation, Metalla, transmutiren, Lapis, Artiste, Lapidem Philosophorum, Quintam Essentiam Naturæ, Modum procedendi, Gedult</vocab>
+
+--- Page 31 ---
+## Vorrede.
+---
+
+Für das erste muß er <term>verum, ac unicum Subiectum</term> wissen, auch solches zu rechter Zeit, wenn die Natur alles zu grünen, herfür bringt, aufzusammlen wissen.
+
+Alsdenn muß der <term>Filius artis</term>, auch wissen, sein feuriges Wasser, behörigermassen zu besorgen, damit solches wohl <term>putrificiren</term> könne, und möge.
+
+Nach diesen soll er wissen, wie er solches <term>congeliren</term>, und eine Erde daraus bringen kann, dann das Wasser muß abdämpfen.
+
+Die Erde muß er alsdenn bleichen, weiß und roth machen können. Aus dieser muß er <term>percolate</term> ein <term>Oel</term> extrahiren, solches mit der <term>Anima Solis, vel Lunæ</term> verbinden und <term>de novo</term> gelinde zu <term>congeliren</term>, und <term>figiren</term>, wissen. Wenn er so weit mit seiner <term>Elaboration</term> wird kommen, oder gekommen seyn; so wird er sodann hohe Ursache haben, seinen GOTT dafür herzlich zu danken.
+
+Wie lange Zeit aber der Artiste hierzu haben, warten und gebrauchen wird; solches wird der Ausgang und das Ende aus-
+
+<lang>de</lang>
+<sig>B 3</sig>
+<meta>catchword: aus-</meta>
+<vocab>Vorrede, Subiectum, Filius artis, putrificiren, congeliren, Anima Solis, Anima Lunæ, de novo, figiren, Elaboration, Artiste</vocab>
+
+--- Page 32 ---
+<lang>German</lang>
+<meta>catchword: Caput</meta>
+
+### Vorrede.
+---
+
+ausweisen. Weil aber lange Zeit und Ge-
+<margin>13</margin> dult hierzu erfordert wird; so glaube ich
+ganz gewiß, daß dieses einzig, und allein, die
+Ursache ist, daß so wenig <term>Artisten</term> gefunden
+werden, weil selbige nicht so lange Gedult zu
+<term>Elaborirung</term> dieses hohen Werks anwenden
+mögen, oder haben wollen. Doch wie schon
+gesagt, *quod cito fit, cito perit*. *Animalia*
+*& Vegetabilia* wachsen bald : selbige
+aber vergehen auch wiederum in kurzer Zeit.
+
+Die *Metalla* aber seyn zum Theil ganz
+feuer beständig; die Ursache ist, weil solche
+unter der Erden, auch längere Zeiten, zu ih-
+rer *Maturation* und *Fixation adhibiren*
+müssen.
+
+->Ein mehreres soll hernach erfolgen.<-
+
+<vocab>Artisten, Elaborirung, Animalia, Vegetabilia, Metalla, Maturation, Fixation, adhibiren</vocab>
+
+--- Page 33 ---
+<lang>de</lang>
+<page-num>1</page-num>
+<header>❦ )( ❦</header>
+<meta>catchword: Denn</meta>
+<sig>B 4</sig>
+<vocab>Hermes, Solon, Agesilaus, Adepti, Lapidem Philosophorum, Albertus Magnus, Bernhardus Trevisanus, Basilius, Philaletha, Sendivogius, Flamellus, Wasserstein der Weisen, Beweis der Natur, Gloriam Mundi, de velo & mundo</vocab>
+
+# Caput I.
+
+Daß *Hermes*, *Solon*, *Agesilaus*, und nach deren Absterben viele wahrhaftige *Adepti* gewesen sind, und gelebet, die den *Lapidem Philosophorum* gehabt, und selbst bereitet haben.
+
+<margin>3</margin> Dann daß auch nach deren tödlichen Hintritt, *Albertus Magnus*, vor noch kurzer Zeit *Bernhardus Trevisanus*, *Basilius*, *Philaletha*, *Sendivogius*, *Flamellus*, und andere *Auctores* mehr, absonderlich der, so den *Wasserstein der Weisen* geschrieben hat, *Beweis der Natur*, *Gloriam Mundi*, auch *de velo & mundo*; wahre Kunstbesitzere gewesen sind, deren auch noch viele, jetziger Zeit in der Welt leben und sind; ob sich selbige nicht mir, und dir, offenherzig zu erkennen geben, wird kein vernünftiger, in der Welt seyn; der dieses negiren wollte.
+
+<detected-images>
+[
+  {"description": "Decorative printer's ornament headpiece featuring symmetrical floral and scrollwork patterns.", "type": "decorative", "bbox": {"x": 0.051, "y": 0.103, "width": 0.692, "height": 0.117}, "gallery_quality": 0.5, "museum_rationale": "A standard example of early modern typographical ornamentation used to frame chapter beginnings."},
+  {"description": "Decorative woodcut initial letter 'D' intertwined with elaborate foliage and vine motifs.", "type": "decorative", "bbox": {"x": 0.058, "y": 0.402, "width": 0.165, "height": 0.124}, "gallery_quality": 0.7, "museum_rationale": "A well-executed historiated initial common in 17th-18th century German printing, demonstrating typical decorative aesthetic for alchemical or philosophical texts."}
+]
+</detected-images>
+
+--- Page 34 ---
+<lang>de</lang>
+<page-num>2</page-num>
+<header>2  )o(  5*</header>
+<meta>Catchword: nen</meta>
+
+Denn wenn ich nur betrachte, was des **Hermetis Schmaragdene Tafel**, ausweiſet, und die ſehr wenige Worte, wo er ſagt, oder von der wahren Materia alſo ſchreibet:
+
+> Sol pater, Luna Mater, ventus portavit in
+> ventre suo, terra eius nutrix est.
+
+Die Sonne ſey der Vater, der Mond die Mutter, der Wind, oder die Luft habe es in ſeinem Bauche getragen, die Erde aber ſeye ſeine Säugamme.
+
+<margin>||</margin> Wer will nun laugnen, daß dieſes nicht, Sal, Sulphur und Mercurius, Spiritus, Corpus, & Anima, Sal; als Corpus, Sulphur als Ignis, Mercurius, als Spiritus, oder feueriges Luftwaſſer ſeye. Ja warlich dieſe 3. Principia ſind in dieſem einzigen Sale centrale, unſcheidentlich beyſammen.
+
+<margin>||</margin> Dieſes (Sal centrale oder aethereum) wird genannt Mercurius Philoſophorum, oder Sal Metallorum.
+
+<margin>||</margin> Participirt ſowohl von obern aſtraliſchen **Geſtirn**, als auch unteren terreſtriſchen <term>Vten Weſen</term>.
+
+Denn wenn der **Archæus** aus dem innerſten der Erden herauf, und von der Erden, als ein Nebel, Dampf, und Hauch, durch die Wärme der Sonnen, in die oberſte Region, oder Luft gezogen wird; ſo combiniren, und digeriren ſich dieſe Dämpfe, Nebel, und Rauch, mit der Luft, und obriſten Elemente; dem Feuer, corporaliſiren ſich durch die feuchtige Luft, in Waſſertropfen, und neigen ſich entweder nach der Sonnen
+
+<vocab>Hermetis Schmaragdene Tafel, Tabula Smaragdina, Sal, Sulphur, Mercurius, Spiritus, Corpus, Anima, Sale centrale, Mercurius Philosophorum, Sal Metallorum, Vten Wesen, Archæus</vocab>
+
+<detected-images>
+[{"description": "Decorative header ornaments consisting of parentheses-like shapes surrounding a circle and a floral printer's mark.", "type": "decorative", "bbox": {"x": 0.54, "y": 0.07, "width": 0.19, "height": 0.04}, "gallery_quality": 0.3, "museum_rationale": "Standard typographic ornaments used in 18th-century printing for section breaks or page headers."}]
+</detected-images>
+
+--- Page 35 ---
+<lang>de</lang>
+<page-num>3</page-num>
+<header>❃ )o( ❃ 3</header>
+<warning>Page contains brown ink underlinings from a later hand.</warning>
+
+nen Untergang als ein Thau, oder feuchter Nebel
+zur Erden ; oder es kommt dieses digerirte We-
+sen, mit dem Regen, Donner, und Blitz, wiede-
+rum auf die Erden herunter. Da hats ja die
+Luft, oder der Wind in seinem Bauche getragen,
+die Erde beherbergts, es dringt alles Wasser in
+die Erden hinein, und zwar gekrümmt, gleich wie
+eine Schlange auf der Erden, und in die Er-
+den hinein kriechet. Dieser *Spiritus Universi*
+*in mare mundi versans* ist, nachdem er sich mit
+der feuchten Luft zusammen gebunden, und dige-
+riret worden ; alsdenn der Balsam und Leben
+aller Kreaturen, *tam animalium, quam vegeta-*
+*bilium, & metallorum.*
+
+Ferner, sagt <insert>Hermes</insert> in *Harmonia Mundi*,
+oder wo er vom *Spiritu Universi* redet ; daß der
+Stein der Weisen, aus dem Wasser, so mit dem
+obern, und untern Kräften imprägniret, und er-
+füllet wäre, zugerichtet werde:
+
+Betrachte demnach wohl, was die aufstei-
+gende Dämpfe, aus der Erden ; und sodann
+der herabsteigende Regen, und Thau in sich ent-
+halten ; und warum die Natur, solche *Circula-*
+*tiones* vornimmt.
+
+Ferner sagt Hemer, daß aber gesagt wor-
+den, es müste der <insert>*Lapis Philosophorum*</insert> aus
+Wasser und Erden zugerichtet werden, geschehe
+daher, dieweil der *Philosophorum* feueriges Was-
+ser, auch die Erde *actu* in sich begreife, welche
+sich in der *Operation* sehen, und zuletzt finden lies-
+se.
+
+<sig>B 5</sig>
+<meta>catchword: Wenn</meta>
+
+<vocab>Alchemie, Spiritus Universi, Hermes, Harmonia Mundi, Stein der Weisen, Lapis Philosophorum, Circulatio, Naturphilosophie</vocab>
+
+--- Page 36 ---
+<lang>German</lang>
+<page-num>5</page-num>
+<header>*§* )( 5*</header>
+<meta>image quality: excellent; catchword: und</meta>
+
+Wenn nun diese Erden öfters mit dem feu-
+rigen Wasser befeuchtet, und allemal hernach,
+wiederum gelinde congelirt würde; so würde
+mit der Zeit daraus ein helles crystallinisch Was-
+ser geboren, (in Gestalt eines klaren Salzes,)
+woraus hernach, ein überaus rothes Feuer herfür
+gebracht würde.
+
+<margin>//</margin> Daß *Theophrastus Paracelsus*, ein wahrer
+Kunstbesitzer gewesen, ist weltkündig, auch
+glauben solches alle wahre Naturkündiger, wel-
+che nur diese wenige Zeilen, *Olympus terræ* ge-
+nannt, mit Verstand betrachten: denn in diesem
+wird die einige, richtige Materie, sammt den tin-
+girenden Schlüssel, und klaren Salzgeiste,
+gnugsam angedeutet, und erkläret: welches al-
+len wahren Naturforschern zum sonderbaren
+Troste, und herzlichen Vergnügen dienen kann, daß
+er ein wahrer *Adeptus* gewesen ist.
+
+<margin>//</margin> Wer *Basilius Valentinus* gewesen, und was
+derselbe denen begierigen Naturforschern, sowol
+in seinen 12. Schlüsseln, als auch vom *Universal*
+der ganzen Welt, auch *via veritatis* genannt,
+deutlich beschrieben, hinterlassen hatte, kann kein
+wahrhaftiger Besitzer schelten; sondern ein je-
+der muß deren getreues und gründliches Testa-
+ment, sonderlich admiriren. Wer aber so vieler
+berühmter Männer Zeugnisse, vor unwahr agno-
+sciren, oder ausgeben wollte, dem dürfte es auch
+gleich viel gelten, wenn selbiger das heilige Bibel-
+buch, auch alle Historien und wahrhaften Ge-
+schichten, vor unwahr, und unglaublich ansehen
+
+<vocab>Theophrastus Paracelsus, Olympus terræ, Basilius Valentinus, 12. Schlüssel, Universal, via veritatis, Adeptus, Alchemie</vocab>
+
+--- Page 37 ---
+<lang>de</lang>
+<page-num>5</page-num>
+<header>*)o( 5</header>
+
+und ausgeben würde : mithin, ſo dörfte man gar
+nichts glauben, was uns unſere Vorfahren zur
+Nachricht ſchriftlich hinterlaſſen haben.
+
+Wer Bernhardus Comes Treviſanus ge-<margin>||</margin>
+weſen, und was dieſer der ſpäten Nachwelt, zu
+geneigten Andenken hinterlaſſen ; ſo können ih-
+me alle, und jede der Philoſophie ergebene, nicht
+genugſam admiriren, noch weniger hinlänglichen
+Dank dafür abſtatten. Es müſte derjenige ein <margin>||</margin>
+rechter Stoicus ſeyn, der des Bernhardi hinter-
+laſſene, ſowohl chymiſche als theoſophiſche
+Wahrheiten antaſten, und vernichten wollte.
+Des unvergleichlichen Eugenii Philalethæ Eu-<margin>||</margin>
+phrates oder hinterlaſſener Tractat, Waſſer vom
+Aufgang, wie auch Hautnorthons Tractat in
+Parte I, Theatr. Chym. ibidem Johann Por-<margin>||</margin>
+dåtſchen Sendſchreiben pag. 551. von Johann
+Friedr. Rothſcholzen, herausgegeben, meritiren
+geleſen, und gerühmt zu werden.
+
+Im vergangenen Jahre, hat Mercurius<margin>||</margin>
+Schweffelmann, zu Ober- und Nieder-Waſſer-
+burg, ein Tractätlein, genannt Delarvatio,
+Tincturæ Philoſophorum, der erbaren Welt,
+aus ſonderbaren Erbarmen, angedeihen laſſen.
+Ein jeder wolle deren getreuen Unterricht mit al-
+lem Dank erkennen.
+
+Wer nun, wie ſchon geſagt, alle dieſe Kunſt-<margin>||</margin>
+beſißere antaſten, vernichten, und vor Lügner,
+ſchelten und halten wolte ; wäre ein ſolcher Idiot
+nicht wehrt, daß er aus der Zahl aller galanten,
+und
+
+<vocab>Bernhardus Comes Trevisanus, Eugenii Philalethæ, Euphrates, Hautnorthon, Theatrum Chemicum, Johann Pordåtschen, Johann Friedr. Rothscholzen, Mercurius Schweffelmann, Delarvatio Tincturæ Philosophorum, Stoicus, chymische, theosophische</vocab>
+
+<detected-images>
+[{"description": "Decorative typographic header ornament featuring floral or star-like symbols flanking the page number '5'.", "type": "decorative", "bbox": {"x": 0.28, "y": 0.05, "width": 0.2, "height": 0.06}, "gallery_quality": 0.3, "museum_rationale": "Standard 18th-century printer's ornament for page headers."}]
+</detected-images>
+
+--- Page 38 ---
+<lang>de</lang>
+<page-num>6</page-num>
+<header>*) ( *</header>
+
+und honnetten Leute, und Männer, verbannifirt
+und ausgeſtoſſen würde.
+
+<margin>//</margin>Meine Freunde! Es ſolte mir nicht ſchwer
+fallen, die wahre Chymie, aus der Bibel gänzlich
+zu beweiſen. Allein es iſt mir ein Stillſchweigen
+auferlegt; was vor Exempel zu Dresden, zu
+Churfürſt Chriſtiani Zeiten, und deſſen Köni-
+gliche Hoheit, Frau Gemahlinn, durch den
+Schwärzer, als auch Beuther geſchehen ſeyn, iſt
+daſelbſt genugſam bekannt. Was aber der ſo-
+genannte Apotheckerjunge, hernach bekannte
+Baron Böttger, wie auch der Hauptmann Klet-
+tenberg, mit der zum Theil *per fas & nefas* ge-
+habten Tincktur, vor Transmutationes gemacht
+haben, welche aber nur ſo lange, als ihre gehabte
+Tinckturen gedauert, transmutiren können; iſt
+in Dresden, München, Wien und Senftenberg
+männiglich noch in friſchen Andenken. Die viele
+Exempel, welche nur vor wenig Jahren, zu Frank-
+furth, Prage, in den Haag, und anderswo ge-
+ſchehen ſind, kann nicht alle *ſpecifice* anmelden.
+<margin>/</margin>Damit aber dem geneigten Leſer durch vieles Le-
+ſen nicht beſchwerlich fallen möge; indeme ſelb-
+ſten lieber kurze, und wohlgegründete *Auctores*
+leſe, weil man die *Connexiones* beſſer, als in de-
+nen groſſen *Voluminibus* carpiren kann, ich auch
+verſprochen, ganz kurz alles zu beſchreiben; als
+will fortfahren und das
+
+<meta>catchword: II. Ka=</meta>
+
+<vocab>Chymie, Transmutationes, Tincktur, Baron Böttger, Dresden, Beuther, Alchemy, Alchimie, Goldmachen</vocab>
+
+--- Page 39 ---
+<lang>de</lang>
+<page-num>7</page-num>
+<header>❧ )( ❧</header>
+
+---
+
+## II. Kapitel
+
+anfahen und melden, woraus der *Lapis Philoso-* =
+phorum gemacht werden solle.
+
+Ich habe schon gesagt, daß wer den *Lapi-*
+dem *Philosophorum* haben und *præpariren* wol-
+le, derselbe müsse **GOttes** des Allmächtigen
+Schöpffungswerk, zum gewissen Augenmas
+nehmen, und alle natürliche tägliche Begebenhei-
+ten wohl *observiren*, und betrachten, da es ihme
+alsdenn ein geringes seyn wird, seine Hände, Na-
+tur gemäß, anzulegen, und gebrauchen zu können.
+
+Im Anfang schuf **GOtt** Himmel und Er-
+den. Himmel heissen *Schammaim*, auf teutsch =
+feuriges Himmelwasser, oder reines wässeriges
+Feuer, die Erde aber wurde erstlich, nachdeme
+**GOtt** seinen heiligen Athem, in das Caotische
+Wesen eingeblasen, sammt denen 4. Elementen
+geschieden. Jedes bekame seinen aparten Ort
+und Stelle, auch sein apartes Amt und Verrich-
+tung.
+
+Die Erde war wüste und leer, und der Geist =
+**GOttes** schwebete auf dem Wasser. Er schwe-
+bet auch, noch bis diese Stunde auf denen Wäs-
+sern, ja so lange, bis ans Ende der Welt.
+
+Wenn nun der *Artifex* den *Lapidem Philo-* =
+*sophorum elaboriren* will; so will ihme gezie-
+men, solchen aus Wasser, und Erde zu machen,
+herfür zu bringen, und heraus zu suchen. Denn
+wenn derselbe aus diesen mit der Luft *digerirten*,
+
+<meta>catchword: und</meta>
+<vocab>Lapis Philosophorum, Lapidem Philosophorum, Artifex, Schammaim, Caotische Wesen, 4. Elementen, Schöpffungswerk</vocab>
+
+<detected-images>
+[{"description": "Decorative printer's ornaments in the page header", "type": "decorative", "bbox": {"x": 0.301, "y": 0.081, "width": 0.156, "height": 0.029}, "gallery_quality": 0.3, "museum_rationale": "Standard 18th-century decorative typography used to separate the header from the main body text."}]
+</detected-images>
+
+--- Page 40 ---
+<lang>de</lang>
+<page-num>5</page-num>
+<header>8 ❦ )o( 5 ❦</header>
+<meta>catchword: man</meta>
+
+und feurigen Wasser zu *procediren* anfahen, daraus eine Erde und Salz *extrahiren*, solches sodenn wiederum *solviren*, und zu einem Oele fließen lassen wird; so wirds ihme alsdenn ein leichtes seyn, Gold und Silber darinnen zu *solviren*, 
+<margin>/</margin> solches *radicaliter* aufzulösen, und wiederum in sein ersteres *Chaos* zu *reduciren*, da es sich dann ergeben wird, daß das Gold in dieser seiner Mutter Leib erstlich faulen, alle *Excrementa* abwerfen, sodenn wiederum zu wachsen, blühen, und reif zu werden, anfahen; ja was das wundersamste ist, das Gold und Silber soll in *qualitate*, & *quantitate* zu nehmen, und Verwunderungswürdig, allen seinen kranken Brüdern, oder unreife *Metalla*, übermäßig *pondus*, Schönheit und Vermögen mittheilen können.
+
+Isaac segnete seinen Sohn, den Jacob, und sprach, GOtt gebe dir den Thau des Himmels, und das Fette der Erde. In diesem Segen ist der Anfang und Ende, oder die *Materia*, und dessen sonderbahre Kraft, ganz und gar befindlich, blos und offenbar dargestellet, und dergestalt aufgedeckt, daß auch derjenige, so sich nicht einen ge-
+<margin>/</margin> wissen Begriff daraus machen kann, ein höchst niederträchtiges *Judicium* besitzen muß. Kein Mensch kann das *Elementum ignis*, ohne ein Mittelding, auffahen, welches einzig das *Corpus aquæ* thun kann, denn so bald der Thau, oder Regen, sich zur Erden niedersenket, so siehts ein jeder Mensch, daß dadurch alle *Vegetabilia*, viel besser herfür grünen, und aufwachsen; als wenn
+
+<vocab>Alchemie, Gold, Silber, Chaos, Excrementa, Isaac, Jacob, Materia, Judicium, Elementum ignis, Corpus aquæ, Vegetabilia</vocab>
+
+--- Page 41 ---
+<lang>de</lang>
+<page-num>9</page-num>
+<header>❦ )( ❦</header>
+<meta>catchword: Dieses</meta>
+
+man noch so viel Fluß- oder Brunnen-Wasser, auf dieselbige gieset. Der wenigste unter denen Bauren kanns begreifen, woher dieses wachsen, und erhalten bestehet. Der Naturforscher aber begreifets gar wohl, daß das in dem Regen und Thau enthaltene **Elementum ignis**, welches von Anfang der Welt her, alles belebt gemacht hat, und noch forthelfen und maturiren muß, die Ursache ist. Dieses feurige **Luftwasser**, welches der Wind, oder die Luft, in seinem Bauche getragen hat, wird von einigen Philosophis das attenuirte allgemeine **Meerwasser** genennt, worinnen wir alle leben. Das darinnen enthaltene und verborgene **Luftsalz**, oder **Salzgeist** wird **Sal naturæ** genannt.
+
+<margin>—</margin>
+**Sendivogius** sagt, es sey die in der Luft verborgene **Lebensspeise**, worinnen unsere philosophische Erde, welche diesen feurigen Luftgeist, **vi magnetica** auffasset, und amplectiret, actu enthalten.
+
+**Hermes** nennet solches das **philosophische Meer**, woraus die silberreiche Fische mit einem subtilen Netze zu fangen wären.
+
+**Rosarius** nennets den rothen **Mercurium**.
+
+**Kunrath** das gesalzene Meer, woraus unsere **Fontina** oder **Salzbrunnen** entstehet. Besser aber ists, wenn mans den lüftigen **Weltgeist** nennet, weil derselbe in unserer magnetischen Erden incorporiret, und aus derselben **arte Philosophica** extrahiret werden kann.
+
+<vocab>Elementum ignis, Luftwasser, Meerwasser, Luftsalz, Salzgeist, Sal naturæ, Sendivogius, Lebensspeise, philosophische Erde, vi magnetica, Hermes, philosophische Meer, Rosarius, rothen Mercurium, Kunrath, Fontina, Salzbrunnen, Weltgeist, arte Philosophica</vocab>
+
+<detected-images>
+[{"description": "Decorative typographic ornament at the top of the page", "type": "decorative", "bbox": {"x": 0.354, "y": 0.076, "width": 0.149, "height": 0.031}, "gallery_quality": 0.3, "museum_rationale": "Simple printer's mark used as a page header decoration."}]
+</detected-images>
+
+--- Page 42 ---
+<lang>de</lang>
+<page-num>10</page-num>
+<header>* )( *</header>
+
+Dieses nennet *Sendivogius* unser pontisches Wasser, *die Erde aber*, so aus demselben erhalten wird, nennet er feces nostri maris. Und dieses soll man nehmen, welches zwar ist, aber nicht gesehen wird, bis es dem Künstler beliebet. Es kann auch vor ein Mercurialwasser passiren, weil solches nichts anders ist, als ein spiritualischer flüchtiger Mercurius, und argentum vivum, in forma liquida, & aquea, welche Hermes benedictam nennet.
+
+*Arnoldus de Villa nova* sagt, durch das Argentum vivum verstehen die Philosophi nicht Mercurium vulgi, sondern eine unctuose Feuchtigkeit; also ist unser Mercurialwasser, von dem Mercurio currente weit unterschieden, als welcher nicht spiritualisch, sondern ein unreifes Metall ist, welches tod ist, sich aber nicht lebendig erzeiget. *Sendivogius* nennets auch das Menstrum Mundi, ex Sphæra Lunæ, das Wasser des Salis Nitri, aus der schwarzen Erden, das Wasser unsers Thaues, wodurch alle Dinge wachsen, und ernähret werden. *Ripplæus* nennets das Wasser der Wolken, und des Thaues, Modii (cantus, cuius principium,) aer est.
+
+*Kunrath* in Synopsi nennet solches das hilealische Wasser, des Mercurii Universalis, die primam materiam metallorum, das Primaterialwesen, und Wasser der Magnesiæ, welches die fixen Körper Solis & Lunæ reducirt, und incerirt. Geber sagt: Gelobet sey demnach der Allerhöchste, der dieses Mercurialwasser erschaffen
+
+<meta>catchword: hat,</meta>
+
+<vocab>Sendivogius, Arnoldus de Villa nova, Mercurius, Hermes, Ripplæus, Kunrath, Geber, Mercurialwasser, Argentum vivum, Menstrum Mundi, Salis Nitri, Magnesiæ, Alchemy</vocab>
+
+--- Page 43 ---
+<lang>de</lang>
+<page-num>11</page-num>
+<header>❦ )o( 5 )o( ❦ 11</header>
+
+hat, und ihme die Macht gegeben, das geheime
+Meisterstück der Weisen, daraus zu machen.
+Gleichwie nun nichts in der ganzen Welt zu fin—
+den ist, welches nicht aus diesen feurigen Wasser,
+und seiner Erden oder Natursalz, seine Ahnen
+aufzuweisen hat, also wundern sich alle wahre
+Philosophi sehr, daß unter so viel tausend Nach—
+forschern, die wenigsten dieses Fundament recht
+einsehen, und sich nicht zu Nußen machen wollen.
+Alle erschaffene Dinge, die da seyn, wachsen und—
+leben, sind von und aus diesem <term>Mercurio</term>, oder
+<term>Sale naturæ</term> gestaltet worden, es ist aber dem
+Künstler nicht erlaubet, aus denen <term>Animalibus</term>
+oder deren <term>Sanguine</term>, oder <term>Excrementen</term>, diesen
+<term>Balsamum sive spiritum vitæ</term> zu <term>extrahiren</term>, denn
+derselbe weicht nicht von seinem einmahl erhalte—
+nen Körper ab, es seye denn, daß solcher entwe—
+der durch den Tod, oder durch <term>Corrosiva</term> und
+stark Feuer davon abgesondert würde, der un—
+sichtbare unbegreifliche <term>Spiritus universi</term>, so bald
+solcher etwas widriges empfindet, als da sind <term>cor—</term>
+<term>rosivische</term> starke Wasser, oder Holz- und Kohlen—
+feuer, so wischt derselbe auf eine unsichtbare Wei—
+se davon, geht in die Luft, <term>combinirt</term>, und <term>dige—</term>
+<term>rirt</term> sich mit derselben aufs neue, und bringet beym
+Herabsenken zur Erden, allen <term>Generibus</term> neue Le—
+benssäfte, und Kräfte zu. Da denn, nachdem er
+etwas vorfindet, aus denen Anfängen neue, und
+frische <term>Genera</term> fortgebracht werden. Denn so
+bald eine Kreatur abstirbt, so erstehet schon wieder
+ein oder mehrere derselben dafür auf.
+
+<sig>C</sig>
+<meta>catchword: Wolten</meta>
+
+<vocab>Philosophie, Alchemie, Mercurio, Sale naturæ, Spiritus universi, Lebenssaft, Corrosiva, Naturgeheimnisse, Vitalismus</vocab>
+
+--- Page 44 ---
+<lang>German</lang>
+<page-num>10</page-num>
+<header>* )( *</header>
+<meta>catchword: hat,</meta>
+
+<margin>/</margin>Dieses nennet Sendivogius unser pontisches Wasser, *die Erde aber*, so aus demselben erhalten wird, nennet er feces nostri maris. Und dieses soll man nehmen, welches zwar ist, aber nicht gesehen wird, bis es dem Künstler beliebet. Es kann auch vor ein Mercurialwasser passiren, weil solches nichts anders ist, als ein spiritualischer flüchtiger Mercurius, und argentum vivum, in forma liquida, & aquea, welche Hermes benedictam nennet.
+
+<margin>/</margin>*Arnoldus de Villa nova* sagt, durch das Argentum vivum verstehen die Philosophi nicht Mercurium vulgi, sondern eine unctuose Feuchtigkeit; also ist unser Mercurialwasser, von dem Mercurio currente weit unterschieden, als welcher nicht spiritualisch, sondern ein unreifes Metall ist, welches tod ist, sich aber nicht lebendig erzeiget. Sendivogius nennets auch das Menstruum Mundi, ex Sphæra Lunæ, das Wasser des Salis Nitri, aus der schwarzen Erden, das Wasser unsers Thaues, wodurch alle Dinge wachsen, und ernähret werden. Ripplæus nennets das Wasser der Wolken, und des Thaues, Modii (cantus, cuius principium,) aer est.
+
+Kunrath in Synopsi nennet solches das hilealische Wasser, des Mercurii Universalis, die primam materiam metallorum, das Primaterialwesen, und Wasser der Magnesiæ, welches die fixen Körper Solis & Lunæ reducirt, und incerirt. Geber sagt: Gelobet sey demnach der Allerhöchste, der dieses Mercurialwasser erschaffen
+
+<vocab>Sendivogius, feces nostri maris, Mercurialwasser, Mercurius, argentum vivum, Hermes, Arnoldus de Villa nova, Mercurium vulgi, Menstruum Mundi, Sal Nitri, Ripplaeus, Kunrath, hilealische Wasser, Magnesia, Solis & Lunae, Geber</vocab>
+
+<detected-images>
+[{"description": "Decorative printer's ornaments (fleurons) in the header", "type": "decorative", "bbox": {"x": 535, "y": 77, "width": 194, "height": 33}, "gallery_quality": 0.2, "museum_rationale": "Standard typographic ornaments used as a header divider in early modern printing."}]
+</detected-images>
+
+--- Page 45 ---
+<lang>de</lang>
+<page-num>11</page-num>
+<header>*)o(*</header>
+<sig>C</sig>
+<meta>catchword: Wolten</meta>
+
+hat, und ihme die Macht gegeben, das geheime
+Meisterstück der Weisen, daraus zu machen.
+Gleichwie nun nichts in der ganzen Welt zu fin-
+den ist, welches nicht aus diesen feurigen Wasser,
+und seiner Erden oder Natursalz, seine Ahnen
+aufzuweisen hat, also wundern sich alle wahre
+Philosophi sehr, daß unter so viel tausend Nach-
+forschern, die wenigsten dieses Fundament recht
+einsehen, und sich nicht zu Nutzen machen wollen.
+Alle erschaffene Dinge, die da seyn, wachsen und
+leben, sind von und aus diesem *Mercurio*, oder
+*Sale naturæ* gestaltet worden, es ist aber dem
+Künstler nicht erlaubet, aus denen *Animalibus*
+oder deren *Sanguine*, oder *Excrementen*, diesen
+*Balsamum sive spiritum vitæ* zu *extrahiren*, denn
+derselbe weicht nicht von seinem einmahl erhalte-
+nen Körper ab, es seye denn, daß solcher entwe-
+der durch den Tod, oder durch *Corrosiva* und
+stark Feuer davon abgesondert würde, der un-
+sichtbare unbegreifliche *Spiritus universi*, so bald
+solcher etwas widriges empfindet, als da sind *cor-*
+rosivische starke Wasser, oder Holz- und Kohlen-
+feuer, so wischt derselbe auf eine unsichtbare Wei-
+se davon, geht in die Luft, *combinirt*, und *dige-*
+*rirt* sich mit derselben aufs neue, und bringet beym
+Herabsenken zur Erden, allen *Generibus* neue Le-
+benssäfte, und Kräfte zu. Da denn, nachdem er
+etwas vorfindet, aus denen Anfängen neue, und
+frische *Genera* fortgebracht werden. Denn so
+bald eine Kreatur abstirbt, so erstehet schon wieder
+ein oder mehrere derselben dafür auf.
+
+<vocab>Meisterstück der Weisen, feurigen Wasser, Natursalz, Mercurio, Sale naturæ, Animalibus, Sanguine, spiritum vitæ, Spiritus universi, Generibus, Genera</vocab>
+
+--- Page 46 ---
+<lang>German</lang>
+<page-num>12</page-num>
+<header>❦ S )o( S ❦</header>
+
+---
+
+<margin>// 13</margin>
+Wolten aber die Laboranten aus denen ge-
+wachsenen Mineralien, und Metallen, oder Erzten,
+den Spiritum universi, aut Mercurium metallo-
+rum suchen zu erhalten; so soll ein jeder wissen
+daß ihme solches nicht möglich ist. Denn woraus
+die Animalia, & Vegetabilia, urstanden, aus die-
+sen, und nichts anders, kommen auch die Minera-
+lia und Metalla her. Und so, wie die Natur über
+der Erden procediret, also verrichtet sie ihr Amt
+auch unter der Erden. Aller Samen muß zwar
+in der Erden faulen, und zu einem unctuosischen, oder
+schleimichten süsen Salzwesen zu erst werden, wenn
+sein innerliches Germen Seminis, eine frische
+Pflanze, oder Baum herfür bringen solle. Eben
+und auf solche Weise werden die Minern, und
+Metalla, oder Erzte, unter der Erden auch produ-
+cirt und fortgebracht. Der Anfang aller Metal-
+len ist ein unctuosisch geistlich mercurialisches
+Wasser- oder Salzwesen, wenn solches in denen
+Klüften und Gängen dasjenige vorfindet, was sol-
+ches werden soll, so ergreift dieser solches Körper-
+lein, und zeitigt solches durch sein eigen innerliches
+Feuer, ohne Zuthuung eines Hammers, oder Koh-
+lenfeuers vid. <insert>Beweis der Natur, in dem Wasser-
+stein der Weisen befindlich.</insert>
+
+<margin>''</margin>
+Es lasse sich demnach ja keiner verführen,
+durch die viele herausgekommene sophistische
+Schriften, die den Spiritum Universi aus Metal-
+len, oder schon specificirten Mineralibus herhohlen
+wollen. Es mag dieses subjectum verum, gar
+wohl erdulten, wenn man solches unter die Egyp-
+tische
+
+<vocab>Laboranten, Mineralien, Spiritum universi, Mercurium metallorum, Animalia, Vegetabilia, Mineralia, Metalla, Germen Seminis, Wasser-stein der Weisen, sophistische Schriften, subjectum verum, Egyptische</vocab>
+
+<detected-images>
+[{"description": "Decorative floral printer's ornaments surrounding stylized letter symbols in the page header.", "type": "decorative", "bbox": {"x": 0.522, "y": 0.081, "width": 0.222, "height": 0.038}, "gallery_quality": 0.3, "museum_rationale": "Simple typographic ornaments used to decorate the page header."},
+{"description": "A horizontal typographical rule separating the header from the body text.", "type": "decorative", "bbox": {"x": 0.306, "y": 0.113, "width": 0.465, "height": 0.01}, "gallery_quality": 0.1, "museum_rationale": "Standard divider line used in 18th-century printing."},
+{"description": "A decorative border or frame surrounding alchemical reference text.", "type": "decorative", "bbox": {"x": 0.312, "y": 0.686, "width": 0.457, "height": 0.043}, "gallery_quality": 0.2, "museum_rationale": "A simple rectangular frame used to highlight a specific reference or citation within the text block."}]
+</detected-images>
+
+--- Page 47 ---
+<lang>de</lang>
+<page-num>13</page-num>
+<header>❦ )( ❦</header>
+<sig>C 2</sig>
+<meta>catchword: Wohl</meta>
+
+tische Plagen zehlen und stellen will. Ich und al-
+<margin>//</margin>
+le wahre Artisten wissen, daß solches der höchste
+Segen **GOttes** ist, und keine Kreatur solches ent-
+<margin>//</margin>
+behren kann. Da nun von Anfang der Welt die-
+ses feuerige Wasser alles conserviren, fortbrin-
+gen, und maturiren muß, was der Mensch zu sei-
+nen nöthigen Unterhalt braucht; also wird die
+Zeit kommen, daß der Verächter, und Beunruher
+des Volks, sich gelieben lassen wird, diesen Segen
+bey hellen Sonnenschein, solte es auch mit einer
+hell=leuchtenden Laterne geschehen, aussuchen wird.
+<margin>//</margin>
+Da solches aber ein <term>Donum Divini Dei</term> ist, und
+bis in Ewigkeit bleiben wird; also glaube ich
+schwerlich, daß **GOtt** denen Verächtern dieses hel-
+<margin>//</margin>
+le Licht ausgehen, und scheinen lassen wird. Die
+Heil. Schrift, ja der Geist **GOttes**, hält solches
+in höhern Werth, als daß ein jeder Verächter,
+und ruchloser aufgeblasener Sprachmeister, solches
+zu wissen, und zu employren, bekommen wird.
+<margin>——</margin>
+Alle Dinge kommen von einem her, und alle Din-
+ge werden auch zu, und in diesem einen wieder zu-
+rück kehren. Wir haben und glauben nur an ei-
+nen **GOtt** in 3. Personen, der Weise hat auch nur
+eine einzige <term>Materiam</term>, worinnen dennoch alle 3.
+Principia, als <term>Sal</term>, <term>Sulphur</term>, & <term>Spiritus</term>, oder <term>Mer-</term>
+<term>curius</term> potentialiter enthalten sind. Dieses heißt
+<term>Sal Centrale totius naturæ</term>. **Theophrastus** sagt,
+wer nicht die Sonne, und Monden, vom Himmel
+<margin>13</margin>
+herunter nehmen, zu Wasser machen, aus diesem
+eine Erde, aus jener das <term>Sal naturæ</term> bereiten kann
+Derselbe werde in unserer Kunst nichts ausrichten.
+
+<vocab>Artisten, feuerige Wasser, Donum Divini Dei, Heil. Schrift, Sprachmeister, 3. Principia, Sal, Sulphur, Spiritus, Mercurius, Sal Centrale totius naturæ, Theophrastus, Sal naturæ</vocab>
+
+--- Page 48 ---
+<lang>de</lang>
+<page-num>14</page-num>
+<header>*)0(*</header>
+
+<margin>||</margin> Wohl dem, der dieses feuerige Wasser in denen
+balsamischen Monaten auffahen, und auf eine na-
+türliche Weise daraus eine Erde, und daraus das
+<term>Sal centrale</term> perficiren und purificiren kann, der-
+selbe wird sodann ganz heilig <term>Basilii</term> alles in allem,
+oder alles in einen haben. Wer mehr hiervon le-
+sen will, der schaffe sich **Johann Friedr. Rothschol-**
+**zen Theat. Chym. part. I.** an, und lese pag. 161.
+bis 163. Item pag. 351. usque 372. ibid. 391.
+415. Bedenke <term>Sendivogii</term> Dictum. *Est in ære.*
+Dessen Tract. <term>de Sulphure</term>. Seinen Tractat vom
+Schwefel.
+
+<term>Basilii</term> 12. Schlüssel auch vom Universal der
+ganzen Welt. <term>Flamelli</term> *Summarium Philosophi-*
+*cum* auf dem 4ten Blatte.
+
+<margin>/</margin> Ob nun wohl <term>Basilius</term> in seinem **Triumph-**
+**wagen Anthimonii** pag. mihi 299. die *materiam*
+*primam* gründlich und ehrlich, auch mehr, als er
+schuldig gewesen, daselbst angemerket; so muß mich
+dennoch herzlich verwundern, daß der wenigste
+Theil derer Artisten solches nicht penetriren, noch
+agnosciren wollen.
+
+Er sagt, ich befande kürzlich, daß alle inner-
+<margin>||</margin> liche <term>Berggewächse</term> aus dem obersten Gestirn aus-
+gegossen worden, und ihren Anfang überkommen
+aus einem wässerigen Dampf, Rauch, oder Was-
+ferschwaden, welcher ferner durch lange Zeit von
+dem Gestirne gespeiset, und durch die Elementa
+zu einer greiflichen Form gemacht, wodurch solcher
+Dampf ausgetrocknet worden, daß die Wässerig-
+keit ihre Herrschaft verloren und das Feuer nach
+
+<meta>dem</meta>
+
+<vocab>Basilius Valentinus, Johann Friedrich Roth-Scholtz, Theatrum Chymicum, Sendivogius, Flamellus, Sal centrale, Sulphur, Triumphwagen Anthimonii, Berggewächse, Alchemie</vocab>
+
+<detected-images>
+[{"description": "Decorative printer's ornaments in the header containing floral and geometric motifs.", "type": "decorative", "bbox": {"x": 0.521, "y": 0.088, "width": 0.166, "height": 0.038}, "gallery_quality": 0.3, "museum_rationale": "Standard 18th-century typographic ornaments used for page decoration."}]
+</detected-images>
+
+--- Page 49 ---
+<lang>de</lang>
+<page-num>15</page-num>
+<header>☿ )O( ♀</header>
+<sig>C 3</sig>
+<meta>catchword: durch</meta>
+
+dem Wasser, in der Erden, oder Körper, durch
+Hülfe der Luft, die Oberhand erhalten, daß eins=
+mahls aus Wasser Feuer, und aus Feuer und
+Luft, Erden worden ist, welche doch noch in allen
+Dingen der Welt unscheidentlich vor ihrer Sepa-
+ration, bey einem jeden leibhaftigen Dinge gefun=
+den werden.
+
+---
+
+   Dieses ist nun die erste *Materia* aller Dinge
+der Welt, nämlich Wasser, welches durch Aus-
+trocknung des Feuers, zu Luft und Erden worden.
+In diesem Wasser, und Erden, sind alle 3. *Princi-*
+*pia* wirklich begriffen, und zu finden. Aus diesen
+3. *Principien*, hat GOtt das *Chaos*, oder *Hyle*,
+in welchem aller Dinge Kraft, und Wesen unor-
+dentlich vermischt war, die 4. *Elementa* geschie-
+den, welche durch Zusatz *trium principiorum*, al-
+les *maturiren*, *conserviren* und herfür bringen.
+Aus diesem Wasser, und Erden, wenn es auf eine
+natürliche Weise *præpariret*, und zur *Quinta*
+*Essentia Elementorum* gemacht worden, kann
+der *Artista* grosse Dinge machen, nämlich Schwe=
+fel, und Salz. Er hat in diesen beysammen, Leib,
+Sel und Geist, die wahre *Tinctur* aller 3. Na-
+turreiche. Wohl dem, den GOtt so viel gewürdiget,
+dieses alles in einem zu sehen, und zu gebrauchen.
+Ich will aber einen jeden insbesondere herzlich ge-
+warnet haben, so fern derselbe etwas reelles zu
+wissen begehrend ist, daß er seine Mühe, Unkosten,
+und edle Zeit, ja nicht mit unnützen Dingen ver=
+scherzen und verlieren möge. Ich habe desfalls
+zum öftern dieses angeführet, und repetiret; da=
+
+<vocab>Materia, Principia, Chaos, Hyle, Elementa, Quinta Essentia, Artista, Tinctur, Naturreiche, Alchemie</vocab>
+
+<detected-images>
+[{"description": "Alchemical symbols including Mercury and Venus flanking a central sun or moon motif as a decorative section header", "type": "diagram", "bbox": {"x": 0.318, "y": 0.081, "width": 0.197, "height": 0.04}, "gallery_quality": 0.5, "museum_rationale": "Clear example of alchemical iconography used in early modern printed matter as a section divider or decorative header."}]
+</detected-images>
+
+--- Page 50 ---
+<lang>German</lang>
+<page-num>16</page-num>
+<header>❧ )o( ☙</header>
+<meta>catchword: dem,</meta>
+
+durch eines andern Schaden vorzukommen, und selbst gesucht zu vermindern. Wer nicht die Kraft der <term>Sonnen</term> und des <term>Monden</term>, welche zusammen in ein einziges verschlossen sind, sonsten auch nichts in der Welt zu finden ist, welches so <margin>NB</margin> rein, als wie dieses ist, auffangen, attrahiren, und auf eine natürliche Weise zu beschicken weiß, der irret und verscherzt sein Vermögen, auf eine höchst strafbare Weise.
+
+<margin>—</margin> Alle <term>Particularia</term>, *pars cum parte*, derer Sophisten <term>Solutiones</term>, <term>Coagulationes</term>, <term>Sublimationes</term>, <term>Augmentationes</term> und <term>Fixationes</term>, taugen alle zusammen gar nichts.
+
+<margin>—</margin> Wer nicht das wahre einzige <term>Subjectum</term>, welches doch keiner deutlicher angegeben hat, als wie hier in dieser kleinen Schrift geschehen, auch zu begreifen und zu finden ist, nebst dessen natürlicher <term>Elaboration</term> zu adhibiren weiß, wird in Ewigkeit nichts gutes ausrichten. Aus bereits specificirten Dingen, darf man solches nicht hervohlen, <margin>NB</margin> weil der <term>Artiste</term> solches *sine igne* nicht zu erhalten, im Stand wäre. Und jedennoch ist solches auch nicht practicable zu bekommen, weil das Leben aller Dinge, weil solches noch mit vielen <term>Sordibus</term> umgeben ist, und sich von deren Banden noch nicht losgemachet hat, durch des Feuers Gewalt unsichtbarer Weise davon gehen würde; sofern aber derselbe durch die Länge der Zeit in seinen Acker erstlich vollkommen gemacht, und figuret worden ist. Sodenn fliehet dieses <term>sulphurische</term> & <term>mercurialische</term> salzige Wesen nimmermehr vor dem,
+
+<vocab>Sonnen, Monden, Particularia, Sophisten, Solutiones, Coagulationes, Sublimationes, Augmentationes, Fixationes, Subjectum, Elaboration, Artiste, Sordibus, sulphurische, mercurialische Wesen</vocab>
+
+--- Page 51 ---
+<lang>de</lang>
+<page-num>17</page-num>
+<header>❦ )o( ❦</header>
+
+dem Feuer, au contrair, es wird vielmehr durchs
+Feuer besser, kräftiger, und reiner: Ursach! weil
+solches alsdenn selbsten ein <term>Universalfunken</term> des
+Feuers, also ganz und vollkommen sammt aller
+<term>trium Principiorum</term> Kraft zusammen coaguliret
+ist. Ein gewisser Auctor macht diesfalls eine
+schöne Beschreibung, indem er sagt, der <term>Lapis
+Philosophorum</term> ist ein Stein und kein Stein, weil
+aber aller 4. <term>Elementen</term> Kraft *inseparabiliter* in
+ihme verschlossen liegen, dieserwegen nennen ihn
+die Philosophi einen Stein. <margin>3</margin> Es ist ein Stein,
+auch kein Stein, weil er keines Steins Natur und
+Art hat, und soll dennoch ein Stein seyn: *Nota
+bene*, er ist ein Stein des Anstossens, weil viele
+1000. *Perscrutatores* nicht dahin gelangen mögen,
+aus unmöglichen Dingen diesen Stein zu machen,
+und zu suchen, aber nichts finden, sondern vielmehr
+über ihre unbesonnene *Labores* und unnüzlich auf-
+gewande Unkosten, lezlich zu Narren, Bettler
+und jedermanns Spott und Hohn werden. <margin>3</margin> Es
+ist ein Feuer, und hat doch sichtlich keines Feuers
+Gestalt und Natur, und ist dennoch Feuer. Es
+ist Luft, und hat doch keines Luftes Natur, und ist
+dennoch eine Luft. Es ist Wasser, und dennoch
+ists nicht Wasser, denn es hat keines Wassers Ge-
+stalt noch Natur, und ist dennoch Wasser, und
+Erden beysammen. Es ist Erden, hat keine Ge-
+stalt, noch Natur, dem Ansehen nach, wie die Er-
+de, und dennoch wirds zur Erden, und <term>Salz der
+Natur</term>. Dem Gesicht nach ist es Anfangs ein
+abgesondertes, dennoch höchst nützliches, und aller-
+
+<sig>C 4</sig>
+<meta>catchword: nöthig,</meta>
+
+<vocab>Lapis Philosophorum, trium Principiorum, Universalfunken, Elementen, Salz der Natur, Perscrutatores</vocab>
+
+--- Page 52 ---
+<lang>de</lang>
+<page-num>18</page-num>
+<header>❦ )( ❦</header>
+
+nöthigstes Ding, weil aus diesem die ganze Welt,
+und was sich darinnen befindet, ja alle Kreaturen,
+ihre Nahrung, Leben und <term>Conservation</term> haben,
+und erlangen.
+
+Die Hochgelehrten Doctores können dieses
+nicht begreifen, noch glauben; es ist aber nichts
+anders Ursach, als dieses, weil sie nicht glauben,
+Daß GOtt dieses geringschätzige Ding gewürdiget,
+vor allen andern, eine solche höchstwichtige, und
+allermächtigste <term>Quintam Essentiam</term>, <term>omnium Elementorum & trium principorum</term>, ja zu ein con-
+centrirtes & completes <term>Corpus</term> gemacht, und
+darzu auch gemacht werden kan, allen 3. Reichen
+amicabel und angenehm zu seyn.
+
+<margin>//</margin> Darum, wer nicht das einzige wahre <term>Subjectum</term> und dessen einfältige <term>Elaboration</term> oder <term>Præparation</term> weiß, der thut sehr wohl, wenn er die
+Hände davon abläst, wiewohl GOtt auch nicht so-
+gleich allen und jeden, diese schöne Blumen abzu-
+brechen, vergönnet. Es ist ein Werk, welches
+über die Natur, und Vernunft geht, ja es ist ein
+Werk GOttes, weil es die Natur selbst ist; auch
+durch die Natur alles von sich selbst ausgewirket
+wird, und bereitet werden muß. <note>The following passage is underlined in the original manuscript</note> Senior spricht:
+unser <term>Stein</term> heist der heilige Fels, und ist 4. fach
+digerirt, oder gedeutet, zum ersten in ein Erdreich,
+zum andern in seinen Wachsthum, zum 3ten durch
+das Feuer, zum 4ten durch die Flammen des Feu-
+ers geschieden. Wer nun dessen <term>Solution</term> und
+<margin>3.</margin> sein <term>Salz</term>, daraus zu ziehen, und seine vollkomme-
+ne <term>Coagulation</term> weiß; der weiß auch die Heim-
+
+<meta>catchword: lichkeit</meta>
+
+<vocab>Quintam Essentiam, omnium Elementorum, trium principorum, Corpus, Subjectum, Elaboration, Præparation, Stein, Solution, Salz, Coagulation, Senior Zadith</vocab>
+
+<detected-images>
+[{"description": "Decorative printer's ornament in the header", "type": "decorative", "bbox": {"x": 518, "y": 80, "width": 204, "height": 33}, "gallery_quality": 0.3, "museum_rationale": "Simple typographic ornament consisting of floral motifs and parentheses-like symbols, typical of 18th-century book production."}]
+</detected-images>
+
+--- Page 53 ---
+<lang>de</lang>
+<page-num>19</page-num>
+<header>✠ )o( ✠</header>
+<sig>C 5</sig>
+<meta>catchword: Es</meta>
+
+<insert>lichkeiten derer *Philosophorum* : denn wenn das Salz weiß wird, und fett erscheint, so tingiret solches.</insert> Drey Dinge sind in dieser Kunst verborgen, zum 1ten ist es eine Verwandelung des ganzen Dinges in eine Erde, und Salz, zum 2ten ist es dieses, weil 3. Cörper subtil und unbegreiflich werden, zum 3ten ist der ganzen *Solution*, die Wiederhohlung dieses Dinges, das nöthigste. Wer dieses zu tractiren weiß, kann getrost das Werk anfahen, und fortsetzen. Außer diesen ists besser gethan, wenn man davon abstrahiret. <margin>//</margin> <insert>*Morienes* sagt, unser Stein ist ein Wasser, (und dieses sind keine Lügen.)</insert> O du Wasser in saurer Gestalt, die du die Elementen erhälst. O du Natur der Narrheit, die du die Natur auflösest. O du allerbeste Natur, die du die Natur übertriffst. <margin>3</margin> O du allergrößeste Natur, die du die Reinigung zusammensetzest. O du Natur ganz schlimm, die du die Natur erhöhest, du bist mit einem Licht gekrönet und geboren, weil du die 4. *Elementa* in dir enthältest, woraus das 5te Wesen entspringt : des freuen sich die Einfältigen der Einfältigkeit, daß die Natur, die Zusammensetzung empfangen hat; <insert>in Summa, man kann nicht so umständlich alle Hoheit und Tugend,</insert> so dieses *Subjectum* in, und an sich hat, beschreiben, admiriren, und bekannt machen. <margin>//</margin> Denn es ist ein Stein, und wird doch durch einen Dunst zu Wasser, denn wenn wir unsern Stein erstlich hohlen, so ist er ein Wasser, aber von Natur ist ihme kein Wasser gleich, auf dem ganzen Erdboden.
+
+<vocab>Philosophorum, Salz, Solution, Morienes, Stein, Wasser, Elementa, 5te Wesen, Subjectum, alchimia</vocab>
+
+--- Page 54 ---
+<lang>de</lang>
+<page-num>20</page-num>
+<header>❦ )o( ❦</header>
+<meta>image quality: excellent; catchword: Berei-</meta>
+
+<margin>//</margin>
+Es ist auch nicht mehr als dieser einzige Brunnen auf Erden, woraus dieses Wasser hergehohlt wird. Dieser Brunnen liegt an einem ganz heimlichen und stillen Ort, flieſet nicht, wenn nicht <margin>3</margin> die Luft ſanft und ſtille, und von allen Sturmwinden, Regen, Blitz, Donner und Schnee geſäubert iſt, und in Ruhe gelaſſen wird: ſodann, und eher nicht, flieſet und benetzet dieſer Brunnen <margin>||</margin> alles, was auf Erden iſt, und lebet. Ohne vieles ſcrupuliren, Sorge, und Mühe, wird ihn keiner ſo leichte finden, wer aber Verſtand hat, benebenſt GOTT fürchtet, der bemühet ſich die Wahrheit von einem wiſſenden zu erforſchen. Außer dieſen dürften alle ſeine Bemühungen vieles ſcrupuliren und Aufwand, lange Zeit, unnütze und vergeblich ſeyn. <margin>»</margin> Denn wenn auch jemand das einzige wahre <term>Subjectum</term> kennet, und weiß auch nicht ſeine <term>Præparation</term>, ſo muß ja ſeine Hoffnung und alle Unkoſten vergeblich ſeyn. Man ſpühret ein groſes Wunder von dieſem <term>Central</term>, oder <term>Naturſalze</term>, (denn man kann ſich nicht genugſam verwundern, noch den Anfang, wie es zugeht, daß man ein ſo kräftiges Ding, und Schatz, aus dem <term>Waſſerſtein</term> finden, und bereiten kann, ausfinden.) Denn man findet und bringet aus der <term>olympiſchen Erden</term>, ein <margin>3</margin> ſolch penetrantes und edles <term>Salz</term>, welches an Geſchmack ſüße iſt, vor dem Feuer nicht fliehet, ſondern alles was ſolches nur ergreifet, <term>figiret</term>. **Dieſes Salz iſt die Sele des ganzen Erdreichs.** Es <term>coagulirt</term> alle Dinge, weil ſolches aus, und von der mittlern Erde geboren wird. Es iſt nach ſeiner
+
+<vocab>Brunnen, Wasser, Subjectum, Præparation, Central, Natursalze, Wasserstein, olympischen Erden, Salz, Sele des ganzen Erdreichs, coagulirt, figiret</vocab>
+
+<detected-images>
+[{"description": "Decorative printer's ornament (fleurons) centered at the top of the page.", "type": "decorative", "bbox": {"x": 0.547, "y": 0.081, "width": 0.124, "height": 0.027}, "gallery_quality": 0.3, "museum_rationale": "Standard typographic ornament of the period used for page layout and section marking."}]
+</detected-images>
+
+--- Page 55 ---
+<lang>de</lang>
+<page-num>21</page-num>
+<header>*S )( S*</header>
+<meta>catchword: sehen</meta>
+
+->*S )( S*<-
+
+Bereitung güßig, flüßig, beständig, und eingehend. 
+Es lässet mit sich handeln wie man will, deswe-
+gen nennen etliche dasselbige <term>Kebis</term>. Es reiniget 
+alle Körper, und verneuert selbige: In Summa, 
+es ist der Schlüssel, welcher alles zu, und auffschließt; 
+man findet alles in ihme, was man nur begehren 
+mag. Wenn solches figirt, und hochgereiniget 
+worden ist, so geht solches in alle körperliche Din-
+ge ein, und verbessert solche vollkommen, durch, 
+und durch. Es wird gemacht aus einer Natur, 
+und kommt kein fremdes Ding darzu. Und dieses 
+Ding, findet man zwar in allen Dingen, und Krea-
+turen, in der ganzen Welt, dennoch bleibet solches 
+vor vielen 1000. Nachforschern verborgen, dieses 
+macht seine einfältige Gestalt. Wenn aber die 
+seyn wollende Artisten das Ding nehmen, und su-
+chen würden, worvon wir leben, und herkommen, 
+so würden die begierigen Nachsucher, auch mög-
+lichst soulagirt werden. Wer den Lauf der Na-
+tur nicht weiß, der wird schwerlich glauben, daß 
+<margin>3 with a handwritten flourish</margin>
+**GOTT** in diesem geringen Dinge, so grosse Kraft 
+<margin>handwritten flourish or mark</margin>
+geleget hätte, und dennoch ist die Kunst so leicht, 
+als Brod backen, oder Bier brauen. Gedencke, 
+als **GOTT** Himmel, und Erde schuf, so machte er 
+eine einige <term>Materiam</term>, aus Nichts, dieselbe ware 
+nicht trocken, auch nicht feuchte, nicht Wasser, 
+auch noch nicht Erde, noch keine Luft, auch nicht 
+Feuer. Es ware auch nicht Licht, auch nicht fin-
+ster, sondern es war eine <term>Materia</term> gleich einem 
+Dunst, oder Nebel, so man nicht fühlen, oder
+
+<vocab>Kebis, figirt, Artisten, soulagirt, Materiam, Nachforschern</vocab>
+
+<detected-images>
+[{"description": "Decorative printer's ornament consisting of stylized floral elements flanking a central parenthesis-like motif.", "type": "decorative", "bbox": {"x": 0.3, "y": 0.07, "width": 0.195, "height": 0.04}, "gallery_quality": 0.3, "museum_rationale": "Simple typographic ornament common in 17th and 18th-century printing."}]
+</detected-images>
+
+--- Page 56 ---
+<lang>de</lang>
+<page-num>22</page-num>
+<header>§ )( §</header>
+<meta>catchword: die</meta>
+
+sehen konnte, desselben Name ward geheisen Hy-
+le, das ist, **Prima Materia** aller Dinge.
+
+&nbsp;&nbsp;&nbsp;&nbsp;Sofern ein Ding von neuen aus Nichts wer-
+den soll; so muß dasselbige Nichts erstlich zusam-
+<margin>//</margin>men tretten, und zu einem Dinge werden. Aus
+diesem einigen Dinge muß werden eine begreifliche
+**Materia**, aus der begreiflichen **Materia** muß ein
+**Corpus** werden, welchem eine lebendige Seele ge-
+geben wird, darvon es sodann seine Gestalt, nach
+seiner Art, und Natur, durch die Gnade
+**GOttes** gewinnet. Solchergestalt, als **GOtt**
+seinen heiligen Athem in den **Hyle** einbliese, her-
+nach und eher scheideten sich die **Elementa** nicht
+voneinander, wie wir spühren, und sehen, daß Feuer,
+Luft, Wasser und Erden, jedes besonders seine
+Stellung erhalten haben. Alles aber wird von
+dem **primo mobile**, als **GOttes** Wort, und Geiste
+<margin>//</margin>fortgetrieben, und conserviret. Wann die Erde
+Früchte hervor bringen soll, so muß dieselbe erst-
+lich durch den Regen, worinnen sich der **Geist uni-**
+**versi** enthält, angefeuchtet werden, hingegen so
+kann aus dem Wasser auch nichts herfür wach-
+sen, wenn nicht in demselben ein guter Grund, von
+Erden, und zwar ganz feuchte wäre, woraus das
+<margin><unclear>mark</unclear></margin> Kraut sich erhalten und steifen kann. Nun kann
+aber das Wasser der Erden ohne Luft, und Wind,
+<margin><unclear>mark</unclear></margin> nicht zugebracht werden, wenn nicht die Luft, und
+Wind, den coagulirten Dampf, und Nebel tra-
+gen, und über der Erden bringen, und herab fal-
+<margin>//</margin>len ließe. Der coagulirte Nebel, Dampf und
+Rauch, so bald sich derselbe unter dem Regen, in
+
+<vocab>Hyle, Prima Materia, Corpus, GOtt, Elementa, primo mobile, Geist universi, Schöpfung, coagulirter Dampf</vocab>
+
+--- Page 57 ---
+<lang>de</lang>
+<page-num>23</page-num>
+<header>※ )o( 5 ⁂</header>
+
+die Erde, oder Wasser gesenket hat ; wird durch
+die bewegende Kräft derer Elementen, wieder
+über sich getrieben, und gezogen ; solches siehet je-
+dermann, wenn der Nebel, Dampf, und Rauch,
+aus der Erden, oder aus dem Wasser aufsteiget,
+und sich in die Luft schwinget. Jedweder siehet ||
+auch, wenn er einen Hafen mit Wasser, übers
+Feuer stellet, und sieden lasset, daß ein Nebel,
+Rauch und Dampf, aufstehet und ausfahret.
+Wer glaubt aber dieses, daß die Luft und das Le- ||
+ben, oder <term>Spiritus Universi</term> in dem Dampfe, sich
+wieder zurück in die Luft schwinget, daselbst mit
+neuer Lebenskraft vermischet, und nach geschehe-
+ner <term>Digestion</term> sich wiederum mit Meerwasser mi-
+sciret, und zur Erden niedersenket. Es kann ||
+kein Element ohne das andere etwas præstiren,
+dahero und wer etwas nützliches haben will, der
+bestrebe sich das einzige wahre, allen andern spe-
+cificirten Dingen vorzuziehen, und zu seinem Zwe-
+cke zu erkiesen.
+Socrates spricht : <note>The following passage is underlined in the original text.</note> die Heimlichkeit eines je-
+den Dinges, ist das Leben, das ist, das Wasser,
+denn das Wasser löst den Körper auf, in einen
+Geist, und von dem toden macht es einen leben-
+digen Spiritum. Dieses wolle ein jeder sich bestä- ||
+glich imprimiren. Es wäre nicht gut, wann, ob ||
+der bösen Menschen willen, diese edle philosophi-
+sche Perle verborgen bleiben solte. Derohalben ||
+so will um desto mehrern Verstandes willen, aus
+anderer wahrer <term>Adeptorum</term> Schriften, mehrern
+Beweis und Wahrheitsgründe mit anführen.
+
+<meta>catchword: Der</meta>
+
+<vocab>Spiritus Universi, Digestion, Adeptorum, philosophische Perle, Socrates, Elementen</vocab>
+
+<detected-images>
+[{"description": "Decorative header ornament with symbols and numerals", "type": "decorative", "bbox": {"x": 0.283, "y": 0.074, "width": 0.231, "height": 0.046}, "gallery_quality": 0.3, "museum_rationale": "Simple printer's ornaments and page numbering typical of 18th-century typography."}]
+</detected-images>
+
+--- Page 58 ---
+<lang>de</lang>
+<page-num>24</page-num>
+<meta>catchword: unser</meta>
+<meta>Text contains red ink underlinings and marginal strokes from a reader.</meta>
+
+Der Verstand hat, kann zu seinem eigenen Besten hieraus nehmen, so viel er will, und wer mit GOtt wohl stehet, dem dürfte es wohl gelingen, ein mehrers zu finden, als er sich eingebildet haben mag. <insert>Jedoch man muß ein gutes Ding mit Bedacht, scharf und vielmahl überlesen.</insert>
+
+<margin>|</margin>Lucas sagt, nehmt das lebendige Wasser von dem Mond, coagulirt es, nach unserer Weise und Gewohnheit. Merkt ihr mich nicht, daß ich spreche, nach unserer Gewohnheit, denn es ist allbereit coaguliret, das gebiete ich euch, daß ihr das lebendige Wasser nehmen, und daraus eine Erde ziehen, sodenn so oft und vielmahl das Wasser wieder übergießen und abziehen sollet, bis die Erde weiß worden, sodenn heißt sie unsere Magnesia.
+
+Ethel aber sagt, kochet unsern Stein so lange, bis er glänzet, wie ein blitzender Marmelstein, sodann wird er der große und heimliche Stein, der sulphur ist, dem sulphur zugethan. Um seines Eigenthums willen, behält er solchen in sich.
+
+Neophides : Ich gebiete euch zu nehmen, das <insert>ehrlich und heimlich</insert>, das ist magnesia alba, und hütet euch, daß ihr ihn rein nehmet, und setzet ihn in sein Wasserfaß, und kocht ihn lindiglich, so lange bis er schwarz wird, fürder kocht ihn bis er weiß, und roth wird, alsdenn könnet ihr glauben, daß euch GOtt liebet.
+
+<margin>//</margin>Siretus : Zu unserer Kunst gehören viele Dinge, und ist dennoch ein geringes, aus unserm <term>F. Wasser</term> eine Erde zu bringen; dieselbe schwarz, weiß, und roth, zu machen: dieses alles bringt
+
+<vocab>Lucas, Ethel, Neophides, Siretus, lebendige Wasser, Mond, coagulirt, Magnesia, Stein, Marmelstein, sulphur, magnesia alba, Wasserfaß, F. Wasser</vocab>
+
+<detected-images>
+[{"description": "Decorative typographic ornaments (fleurons and brackets) at the top of the page", "type": "decorative", "bbox": {"x": 0.548, "y": 0.083, "width": 0.198, "height": 0.039}, "gallery_quality": 0.3, "museum_rationale": "Standard printer's ornaments of the 17th-18th century, used for visual separation but not of high artistic value."}]
+</detected-images>
+
+--- Page 59 ---
+<lang>de</lang>
+<page-num>25</page-num>
+<header>*)0(*</header>
+<meta>catchword: hats</meta>
+<warning>Large brown ink stain/smudge in the lower middle of the page obscuring parts of the text in the third paragraph. Red horizontal marks added by a later hand next to the names Bathon and Pythagoras.</warning>
+
+unser lebendig, und bleibend Wasser herfür. Die wahrhaftige Philosophi haben kein ander Ding gebraucht, denn *aquam vitae*, darinnen steckt das ganze heimliche Werk, in eigener Natur, durch vieler Hand Arbeiten, doch nur eines einzigen Kochens, warm halten, feuchten, sublimiren, trocknen, und ist dennoch nur eine leichte Arbeit, und Mühe.
+
+Bathon sagt: wer unsers Steins <term>mater</term> erkennet, auch das regiment der Kochung, auch die Farben, auch die <term>putrefaction</term> weiß, worinnen unser Stein schwarz <unclear>gebohren</unclear> wird, so wisse, daß der Schlüssel unserer Kunst vorhanden ist. Denn weiß, und roth steckt darinnen verborgen. Denn sagen die Philosophi, es *dissolvirt* sich in sich selbst, es *coagulirt* sich selbst, es tödet und wird wieder lebendig in sich selbst, es macht sich selbst schwarz, weiß und roth, dieses ist in Christlicher Liebe, und Wahrheit genug gesagt.
+
+Bonellus sagt: Alle ihr Nachfolger dieser Kunst, ich <unclear>sage euch</unclear> aus Liebe und Treue, verlast viele Arbeit, vieler Werke, denn unser Ding ist nur ein einziges Ding, und heißt das lebendig bleibende Wasser. <unclear>Wer</unclear> aus vielen Worten und Schriften irret, der wird erfahren, worfür er sich hüten solle.
+
+Pythagoras sagt: die Weise der Philosophen ist ganz wunderlich, wenn die Weisen das allergeringst Ding erkenneten, und wüsten auch dessen Kraft und Wirkung, so verachteten sie dieses edle Ding nicht; allein weil sie solches vernichten, so
+
+<vocab>Bathon, Bonellus, Pythagoras, mater, putrefaction, aquam vitae, dissolvirt, coagulirt, Philosophi, Stein der Weisen, Alchemie</vocab>
+
+--- Page 60 ---
+<lang>de</lang>
+<page-num>26</page-num>
+<header>26 ❦ )( ❦</header>
+
+hats unser HErr und GOtt vor ihnen verruckt
+und verborgen, auf daß die Hasser und gottlose
+Buben solches nicht erkennen, noch in ihrer Bos-
+heit und ruchlosen bösen Lebenswandel gestärket,
+und unterhalten werden sollen.
+
+<insert>_</insert>**Tabula Schmaragdina.** Es ist wahr, ohne
+alle Lügen, und ist das allerwahrhafftigste; das-
+jenige, das da ist aufwärts, das ist auch, das da
+ist niederwärts, zu vollbringen <term>miracul</term> und Wun-
+derzeichen eines Dings. Und als alle Dinge von
+einem Dinge herkommen, so seyn auch alle Dinge
+geboren, und ausgegangen aus einer gemeinen
+<term>Massa</term>, oder Klumpen, welcher aller 4. Elemen-
+ten Kraft in sich beschließt, die da von GOtt ge-
+schaffen seyn. Unter diesem <term>miracul</term> ist der Stein
+geboren, von der massa. Sein Vater ist die
+Sonne, seine Mutter ist der Mond, der Wind
+trägt ihn in seinem Bauch, seine Ernährerin ist die
+Erde, hier ist der Vater der ganzen Welt, seine
+Kraft ist ganz, so er in Erden verwandelt wird.
+Scheide die Erde von dem Feuer, das subtile
+vom Harten, sittiglich mit großer Kunst, so steiget
+auf der Stein von der Erden, in den Himmel, und
+von dem Himmel in die Erden, und nimmt an
+sich die Kraft von oben, und von unten. So hast
+du eine Glorie und Klarheit der ganzen Welt,
+darum wird von dir fliehen alle Armuth, und Fin-
+sterniß, denn es überwindet <term>Mercur</term>, der subtil ist,
+und geht durch alle harte und feste Körper, also
+ist die Welt geschaffen; also bin ich Hermes ge-
+heißen,
+
+<vocab>Tabula Schmaragdina, Hermes Trismegistus, Alchemie, Stein der Weisen, 4 Elemente, Mercur, Smaragdtafel</vocab>
+
+<detected-images>
+[{"description": "Decorative typographic ornament consisting of symmetrical floral motifs flanking a central parenthesis-like symbol, positioned at the top of the page.", "type": "decorative", "bbox": {"x": 0.505, "y": 0.076, "width": 0.178, "height": 0.027}, "gallery_quality": 0.3, "museum_rationale": "Standard printer's ornament typical of 17th and 18th-century European book design, used here to decorate the header area."}]
+</detected-images>
+
+--- Page 61 ---
+<lang>de</lang>
+<page-num>27</page-num>
+<header>❦ )( ❦</header>
+<meta>Fraktur script, red ink marginal markings</meta>
+
+heißen, habend 3. Theil der Philosophie der gan-
+zen Welt inne.
+
+<margin>==</margin>
+**Socrates** sagt: die Heimlichkeiten eines jegli-
+chen Dinges, ist das Leben, und dieses ist unser
+feuriges Himmelwasser, denn dieses Wasser, son-
+sten kein anderes, löset die Körper auf, und macht
+folchen zu einem Guß, von und aus dem toden
+Körper, macht es einen lebendigen <term>spiritum</term>.
+Mein lieber Sohn! wollest meine <term>practicam</term> nicht
+verachten, denn ich habe dir kürzlich alles offen-
+baret, das dir vonnöthen ist, und du darfest kei-
+nes andern Dinges.
+
+**Alexander** sagt: es ist nicht vonnöthen, daß
+das Gute um der bösen Menschen willen verbor-
+gen bleiben solle, denn GOtt über alles regieret
+nach seinem göttlichen Willen. Darum merke,
+daß das Salz aus dem Steine, seinen Ursprung
+aus dem <term>Mercurio</term> hat. Dieses gehet allen an-
+dern Salzen vor, und ist dasjenige, was wir su-
+chen, denn es hat alle unsere Heimlichkeiten in
+sich, vor dißmal nichts mehr. Dem Verständi-
+gen haben wir in unsern Schreiben genugsam
+offenbaret, und dem Unverständigen gar nichts.
+<margin>==</margin>
+Denn der **Mercurius** ist unser Stein, der von
+trockenen und feuchten, <term>nempe</term> feurigen Wasser
+und Erden, zusammen temperiret wird; und
+durch temperirte Wärme zusammen verbunden,
+also daß sie nimmermehr voneinander geschieden
+werden mögen, hiervon genugsam *sapienti parum
+sufficit*.
+
+<sig>Senior</sig>
+
+<vocab>Philosophie, Socrates, Heimlichkeiten, Himmelwasser, spiritum, practicam, Alexander, Mercurio, Mercurius, sapienti parum sufficit</vocab>
+
+<detected-images>
+[{"description": "Decorative printer's ornament in the header consisting of floral motifs and parentheses-like shapes.", "type": "decorative", "bbox": {"x": 0.285, "y": 0.076, "width": 0.198, "height": 0.038}, "gallery_quality": 0.2, "museum_rationale": "Standard printer's ornament/fleuron of low artistic complexity, typical for 17th-18th century typography."}]
+</detected-images>
+
+--- Page 62 ---
+<lang>German</lang>
+<page-num>28</page-num>
+<header>❧ 🜍 🜔 ❧</header>
+
+*Senior* ſpricht, daß man aus unſerer Erden oder Aſchen Salz machen ſolle, durch mancherley Arbeit, ſo würde ſolches verkehrt in *Mercur: Phi- loſophorum*, denn unſere Meiſterſchaft werde aus unſerm Waſſer gemacht, und ſeye ihme ſonſt kein ander Ding, oder Zuſatz mehr vonnöthen.
+
+*Piros* ſagt: ***Corpus Philoſophorum calci- natum***, wird das ewig bleibende Waſſer genen- net, welches unſern *Mercurium coagulirt*, mit der ewigen *Coagulation*. Wenn das *Corpus* gerei- niget iſt, auch aufgelöſt; ſo wird daraus eine ſol- che Vereinigung, und Vermiſchung, welche kein Feuer nimmermehr ſcheiden, noch verzehren kann.
+
+*Menaldes:* aus allen natürlichen Dingen kann das Feuer der Philoſophen ausgezogen werden, welches der <term>5te Theil Weſenheit</term> genennt wird. Dieſelbe Natur, und Geſtalt iſt, daß es auf der Erden iſt; in dem Waſſer, und in der Luft, auch im Feuer. Es hat auch keine Urſache der *Corru- ption*, noch einer widerwärtigen Qualität. *Her- mes* ſchreibt in ſeiner andern Tafel, man ſoll die Aſchen in den 2. Elementen (als Waſſer und Er- den,) *diſſolviren*, zu Salz oder Stein *coaguliren*, und dieſes 7mal thun, gleichwie *Naemann* von *Sy- rien* ſich 7mal im *Jordan* waſchen, und baden müſ- ſen, bis er von ſeinem Auſſatz, als ein anderer reiner Menſch, wieder hergeſtellet worden iſt; al- ſo muß man in dieſer Kunſt auch thun, mit *coa- <margin><insert>red vertical ink stroke</insert></margin>guliren* und *ſolviren*, ſo erlangen die Materien ih- re Farben, je höher, und höher; item es iſt in dieſem Waſſer aller 4. Elementen Kraft verbor-
+
+<meta>catchword: gen:</meta>
+<meta>Image details: The text uses a mixture of Fraktur for German and Antiqua (Roman) for names and Latin technical terms. A red ink line has been added by a later hand in the lower-left margin.</meta>
+
+<vocab>Senior, Piros, Menaldes, Hermes, Mercur: Philosophorum, Corpus Philosophorum calcinatum, Coagulation, 5te Theil Wesenheit, Quintessenz, Naemann von Syrien, Jordan, Aussatz, Elementen, dissolviren, coaguliren, solviren</vocab>
+
+--- Page 63 ---
+<lang>German</lang>
+<page-num>29</page-num>
+<header>*)o(*</header>
+<sig>D 2</sig>
+<meta>Catchword '&' at bottom right. Red ink underlining and marginal slashes are present throughout the text, likely from a later reader.</meta>
+
+gen : dieses heißet ein Drache, der seine Stärcke
+selbst verschlinget, denn die Erde verschlingt ihre
+Wasser, und Feuer.
+
+Hierauf sagt **Nundinus** ausdrücklich, es sind
+3erley Feuer, darinnen das Werk der Philosophie
+begriffen ist, nämlich das feurichte Element des
+Wassers, das feurichte Element der Luft, und
+Das feurige Element der Erden, darinnen steht,
+und ist die Kunst ohne alle Gefährde.
+
+<margin>/</margin> **Ananias** : wisset ihr Erforscher der Natur,
+daß das Feuer ist die Seele eines jeglichen Din=
+ges, und **GOTT** ist selber das Feuer, und die See=
+le ; <gloss>so nun das Feuer im Körper vereinigt ist, oder</gloss>
+<gloss>wird, so wird das Corpus ohne das Feuer tod,</gloss>
+denn die andern Elementa haben keine Wirkung,
+ohne das Feuer. Darum so ist das Feuer so hei=
+lig, und würdig, daß **GOttes** ewige Weisheit
+sich selbst darmit vereiniget hat, in die heilige
+**Dreyfaltigkeit**, der ewigen Glorie, und Herrlich=
+keit, dafür wir **GOtt** danken in Ewigkeit.
+
+<margin>/</margin> **Ponidus** : In dem Brunnen der Natur wird
+unsere Kunst gefunden, sonsten aber nirgends mehr
+<gloss>woher, auf dem Erdboden.</gloss> Unser Stein, den wir
+kennen, ist ein Feuer, dieses Wasser und Erde, ist
+gewachsen in dem Feuer ; er ist aber nicht ver=
+brannt in dem Feuer. **Rosinus** giebt den besten
+<gloss>Ausschlag sagende : Zwey sind in zen verborgen,</gloss>
+(als Wasser und Erden finden und sehen wir,
+Luft und Feuer aber sehen wir nicht,) dieses ist
+unsers Steins Anfang, und Materia ; in der Er=
+<margin>//</margin>
+den ist das Feuer, und in dem Wasser ist die Luft,
+
+<vocab>Drache, Nundinus, Philosophie, Ananias, Corpus, Dreyfaltigkeit, Ponidus, Brunnen der Natur, Stein, Rosinus, Materia, feurichte Element</vocab>
+
+<detected-images>
+[{"description": "Decorative printer's ornament featuring a central circular element flanked by stylized brackets and asterisks.", "type": "decorative", "bbox": {"x": 0.33, "y": 0.08, "width": 0.35, "height": 0.04}, "gallery_quality": 0.3, "museum_rationale": "Simple typographic ornament common in 18th-century alchemical or philosophical printing."}]
+</detected-images>
+
+--- Page 64 ---
+<lang>de</lang>
+<page-num>30</page-num>
+<header>❦ )( ❦</header>
+<meta>catchword: ber</meta>
+
+& non ſunt, niſi duo extrema, ſcilicet extremum
+terræ & extremum aquæ, denn der <term>Mercurius</term>
+iſt unſer <term>Stein</term>, welcher von trockenen und feuchten zuſammen getemperirt wird. Dürre und
+feuchte iſt der <term>Mercurius</term> in ſeiner Natur, alle
+Dinge haben ihr Wachsthum von dieſen truckenen, und feuchten;
+<margin>Red horizontal ink stroke</margin>
+alſo mein lieber <term>Philoſophe</term>,
+iſt der <term>Mercurius</term>, den die <term>Philoſophi</term> adhibiren,
+nicht der laufende, metalliſche <term>Mercurius</term>, genannt
+<term>Queckſilber</term>; ſondern der <term>Mercurius Philoſophorum</term>, wird aus der feurigen <term>Waſſererden</term> extrahiret, zu ſchwarz, weiß, und roth figirt; welches auch, nach Ausſage obangeführter Philoſophorum dicta, genugſam zu erſehen und zu begreifen iſt.
+<margin>Red vertical ink bracket</margin>
+Ich habe aus Mitleiden des Suchenden,
+alles dieſes mit allem Fleis aus wahrhaftiger Leute
+Schriften, in der Kürze zuſammen tragen, und
+ſolches durch den Druck männiglich wollen bekannt
+machen laſſen. Ich ſolte glauben, daß meine ehrliche Intention hierinnen ihren Zweck erreichet haben würde, je mehr meines Erachtens das
+ganze Werk nicht compendieuſer, gründlicher
+und ponderoſer gegeben werden mag, es ſeye
+dann, daß man auch denen Säuen einen Perlen-
+trank vorſchütten wolte. Ein jeder ponderire
+wohl, was ich an vielen Orten mit Fleis habe
+einfließen laſſen.
+
+Wolten, und ſolten, ſich aber einige daran
+ſtoſen, und ein anderes begeren; oder wohl gar
+einen Streit anfangen wolten; derſelbe, oder diejenigen ſollen wiſſen, daß ich mich keineswegs darü-
+
+<vocab>Mercurius, Stein, Philoſophe, Philoſophi, Queckſilber, Mercurius Philoſophorum, Waſſererden, compendieuſer, ponderoſer, Intention</vocab>
+
+<detected-images>
+[{"description": "Typographic printer's ornament featuring foliate motifs and parentheses", "type": "decorative", "bbox": {"x": 0.493, "y": 0.082, "width": 0.176, "height": 0.036}, "gallery_quality": 0.3, "museum_rationale": "Standard printer's ornament used for layout decoration in early modern printing."}]
+</detected-images>
+
+--- Page 65 ---
+<lang>German</lang>
+<page-num>51</page-num>
+<header>)( )o( )( 51</header>
+
+ber moquiren, noch demselben den geringsten Wi-
+derschall werde angedeihen lassen. Ich getröste
+mich **GOttes** Gnade, und dessen Beystand, je
+mehr mein Gewissen, ob alles dessen, was hier-
+innen verzeichnet ist, im geringsten einige Gefahr
+auszustehen hat.
+
+---
+
+### Kapitel III.
+
+**N**un soll ich auch etwas <term>de modo procedendi</term>
+melden. So schwer sich ein neuangehen-
+der <term>Filius artis</term> die Sache fürstellet, auch
+so sehr er bekümmert ist, das wahre <term>Subjectum</term>,
+oder <term>proximam materiam</term> zu erfinden, und aus-
+zuforschen, welches doch sein geringster Kummer
+wäre, so anders er sich vor angesetzter Materie
+recht imprimiren, und sich wohl bekannt machen
+kann, oder will. So schwer, und noch viel grö-
+ßer, ist der <term>modus procedendi Lapidis Philoso-</term>
+<term>phorum</term> auszuforschen; es ist wenigstens mir un-
+glaublich, daß ohne Unterricht eines treuen Lehr-
+meisters jemand alles aus denen philosophischen
+<margin>13</margin> Schriften heraus glauben kann, ohngeachtet es in
+vielen, dennoch handgreiflich enthalten und aufge-
+zeichnet ist. Und weil gleich <term>ab initio</term> das feueri-
+ge Wasser, vor erst <term>putrificiren</term> muß, wenn es sei-
+ne, in sich enthaltene Erden fallen, und zu Boden
+werfen, und lassen kann; so wills dem Lehrling
+gleich hier in Anfang sehr schwer fallen, dieses zu
+bewerkstelligen. Das Gefäß soll in einem war-
+
+<sig>D 3</sig>
+<meta>catchword: men</meta>
+
+<vocab>Alchemie, Filius artis, Subjectum, proximam materiam, Lapidis Philosophorum, ab initio, putrificiren, feuerige Wasser, Kapitel III</vocab>
+
+<detected-images>
+[{"description": "Decorative woodcut initial N", "type": "decorative", "bbox": {"x": 0.092, "y": 0.355, "width": 0.106, "height": 0.071}, "gallery_quality": 0.3, "museum_rationale": "Standard decorative initial used in 18th-century typography."}]
+</detected-images>
+
+--- Page 66 ---
+<lang>de</lang>
+<page-num>82</page-num>
+<header>❦ )o( ❦</header>
+
+men Ort stehen, die Wärme gleich aneinander
+haltende, das Gefäß aber soll wohl verschlossen
+seyn, nicht viel gerüttelt werden, dennoch darf und
+soll der feuerige <term>Wassergeist</term> nicht *irritiret*, oder
+durch äußerliches Kohlenfeuer verjaget werden.
+Das Wasser soll hernach abdämpfen, doch soll
+das äußerliche Feuer nicht stärker seyn, als dieses,
+so in dem Gefäße selbsten ist; und zu seiner *Eva-
+poration* gebrauchet. Denn soll das Kind oder
+die neue Erde wachsen, größer und viel, oder mehr
+werden, soll solche mit seiner eigenen Milch oft ge-
+tränket, und so lange mit *saturiren*, oder *imbibi-
+ren*, continuiret werden, bis jene Erde oder Kind
+weiß, und roth erscheinet; und aus dieser,
+sodann der <term>Sohn der Sonnen</term>, oder <term>Tochter des
+Monden</term>, daraus genommen und hergestellet wer-
+den; so muß solches mit Liebe und Freundlichkeit
+geschehen.
+
+Hierzu wird nun ein gelinder <term>Feuergrad</term> *ad-
+hibirt*, selbiger muß nicht stärker seyn, als wie die
+warme Sonnenhitze ist.
+
+Endlich soll der *Puer Solis*, in ein Oel *trans-
+mutiret* werden, in welchem das *Corpus Solis*, *aut*
+*Lunæ*, aufgelöset werden muß. Da aber diese
+beyde in ein einiges zusammen wachsen sollen, und
+müssen, so muß hierzu wie gesagt ein eigenthüm-
+liches ihme annehmliches bequemes natürliches
+Feuer, zum Gehülfen zugegeben werden. Wenn
+dieses geschehen, welches der Anfang der ersten
+*Rotation* heißet, und der Sohn der Sonnen, als
+die herfürbrechende, und hereingehende Morgen-
+
+<meta>catchword: röthe</meta>
+
+<vocab>Wassergeist, irritiret, Evaporation, Kind, neue Erde, Milch, saturiren, imbibiren, Sohn der Sonnen, Tochter des Monden, Feuergrad, adhibirt, Puer Solis, transmutiret, Corpus Solis, Lunæ, Rotation, Morgenröthe</vocab>
+
+--- Page 67 ---
+<lang>de</lang>
+<page-num>33</page-num>
+<header>)o(</header>
+<sig>D 4</sig>
+<meta>catchword: vide</meta>
+
+röthe glänzet, so soll dieser Sohn teste Wasser-
+stein der Weisen Capite II. 7mal nacheinander
+mit frischer Milch saturiret, und mit dem nöthigen
+äusserlichen Feuer, nicht heiser noch wärmer, als
+solches die Natur præstiret und erfordert, wieder-
+um angestellet werden; und mit dergleichen mä-
+sige Imbibitionen, und gelinden sanften, natürli-
+chen Kochen, soll <term>Solution</term>, <term>Coagelation</term>, <term>Subli-
+mation</term>, <term>Calcination</term>, <term>Fixation</term>, nasse <term>Fermenta-
+tion</term> angestellet, und alle nöthige <term>Labores</term>, dadurch
+verrichtet werden: so geringe nun dieses Feuer ist, //
+und zu unterhalten kommt; und so geschwinde sol-
+ches angeblasen werden kann, so schwerlich dürfen
+solches viele ausfindig machen oder begreifen kön-
+nen: Die <term>Sophisten</term>, und <term>Processkrämer</term>, haben
+deswegen so vielerley Oefen, fauba <term>Heinzen</term>, zum
+reverberiren, distilliren, und calciniren, auch al-
+lerhand künstliches gläsernes Geschirr, aufgebauet,
+ausgesucht und ersonnen; daß derjenige, so dieses
+alles nur ansiehet, darüber erstaunen muß. Nicht
+weil diese Dinge, und Gläser, alle so künstlich und
+zierlich gemacht sind, als vielmehr, daß die <term>So-
+phisten</term> und <term>Laboranten</term>, solche unbesonnene Din-
+ge, und unnöthige Unkosten darauf verwenden:
+Was das mehreste aber ist, auch darüber ihre
+schönsten Jahre darmit vorbey laufen lassen, und
+solchergestalt ihr Vermögen sündlich verconsumi-
+ren. Ich selbsten habe ganzer 7. Jahr durch der- //
+gleichen unnütze <term>Labores</term>, sammt vieler vergebli-
+chen Mühe und Unkosten verscherzet. GOtt Lob! //
+jezo weiß ich, daß <term>Flamellus</term> in Summar. Suv.
+
+<vocab>Wasserstein der Weisen, Solution, Coagelation, Sublimation, Calcination, Fixation, Fermentation, Labores, Sophisten, Processkrämer, Heinzen, Flamellus</vocab>
+
+<detected-images>
+[{"description": "Decorative typographical ornament", "type": "decorative", "bbox": {"x": 0.32, "y": 0.08, "width": 0.17, "height": 0.04}, "gallery_quality": 0.3, "museum_rationale": "Simple typographical ornament common in early modern printing."}]
+</detected-images>
+
+--- Page 68 ---
+<lang>de</lang>
+<page-num>54</page-num>
+<header>⚹ )( 5</header>
+<meta>image quality: clear; catchword: keinen</meta>
+
+vide **Wasserstein der Weisen** pag. mihi 164 und
+*via veritatis* 189. ehrliche und gründliche Wahr-
+heiten, uns hinterlassen haben.
+
+<margin>|</margin> Wir brauchen nicht mehr als einen Ofen,
+oder Mauerwerk, ein, zwey, aufs höchste 3. *Vasa*,
+oder Gläser, und weil wir unsere *Materiam* um-
+sonst haben, und auffahen können, so viel uns be-
+liebt, so kann ein jeder *Artiste* von Anfang, bis ans
+Ende, vor Aufwand wegen Materie und Geschirr,
+mit 2. bis 3. Rthlr. gar wohl das Ende erlangen;
+es seye denn, daß er etliche *Collectores* halten,
+dieselbige übrig *pro labore* bedenken, auch viel
+*Materiam* auf einmal anstellen, mithin viele Aus-
+beute gewinnen wollte, so dürfen leichtlich 10.
+bis 12. fl. aufgehen und darzu requiriret werden.
+<margin>||</margin> Außer diesem muß der *Artiste* gute stille Gelegen-
+heit, sein täglich Auskommen, viele Gedult, und
+lange Zeit darzu haben, wer anders davon spricht,
+ist ein Lügner und Betrüger. *Particularia*, *sine*
+<margin>||</margin> *universali* wird kein rechtschaffener Mann glau-
+ben, daß dergleichen aus fremden Dingen gemacht
+werden können. <insert>/</insert> Es giebt uns der Himmel mehr
+nicht, als eine einzige *Materiam*, woraus GOtt
+alles gemacht hat, welches auch alles erhalten und
+fortbringen muß; wer also etwas anders, als wie
+dieses *adhibiren* wollte, derselbe geht auf falschen
+Irrwegen herum, und wird schwerlich oder gar
+nicht die Wahrheit finden oder zu sehen bekommen.
+<insert>/</insert> Geliebter Nachforscher! bemühe dich insonderheit
+alle natürliche *Operationes* und den daraus entste-
+henden Nutzen recht bekannt zu machen, glaube
+
+<vocab>Wasserstein der Weisen, via veritatis, Vasa, Materiam, Artiste, Rthlr., Collectores, pro labore, Particularia, sine universali, adhibiren, Operationes, Alchymie</vocab>
+
+<detected-images>
+[{"description": "Decorative printer's ornaments including a rosette and stylized brackets in the page header.", "type": "decorative", "bbox": {"x": 0.49, "y": 0.07, "width": 0.1, "height": 0.04}, "gallery_quality": 0.3, "museum_rationale": "Standard typographic ornaments typical of early modern scientific and alchemical publishing."}]
+</detected-images>
+
+--- Page 69 ---
+<lang>de</lang>
+<page-num>35</page-num>
+<header>)o(</header>
+<sig>D 5</sig>
+<meta>catchword: ses</meta>
+
+keinem Schwätzer oder Particularistenkrämer, wenn er bald aus diesem, bald aus jenem Minerale, oder anderer Narrenspossen, ein sonderliches particulare, ja was es nur immer seyn mag, verfertigen und machen will; es ist und bleibet wahr, was **Theophrastus** sagt, **NB.** wer nicht die **Sonne und Monden** (hoc est **Feuer und Wasser**,) vom Himmel herunter nehmen, solches zu Wasser machen, (**NB.** dieses präpariren die Elementa selbst,) aus dem Wasser, eine olympische Erde bringen kann, derselbe versteht nichts in unserer Kunst.
+
+In diesen 2. Dingen, welche doch eins sind, und feurig **Wasser** heisset, sind alle 4. **Elementa** potentialiter, & inseparabiliter enthalten. In diesem einigen, sind <term>Sulphur</term>, <term>Sal</term>, & <term>Mercurius</term> wirklich beysammen, und dennoch sieht der Künstler mehr nicht als **Wasser**, wenn es ihme aber beliebt, auch zuletzt eine **Erde**: aus dieser und anderswoher nicht, kann der Künstler das <margin>13</margin> <term>Sal centrale</term>, oder <term>Sal totius naturæ</term> extrahiren und bereiten; aus diesem mag er machen, was er will. Ich habe schon gesagt, daß der **Geist der Welt**, unaufhörlich agiret. Und mit denen untersten feurigen oder sulphurischen Theilen der Erden, etwas zu generiren und fortzuhelfen, fortgehet, und daß dieser <term>Spiritus universi</term>, den feurigen wässerigen Dampf der Erden, aus der Erden zuruck in die Luft ziehet, um sich mit selbigen, aufs neue zu vermügen, und sodann mit, und sammt demselben, sich folgendergestalt, zur Erden niedersenken und frischen **Lebensbalsam**, allen Kreaturen mittheilet; Die-
+
+<vocab>Theophrastus, Particularistenkrämer, Sonne und Monden, Feuer und Wasser, olympische Erde, Sulphur, Sal, Mercurius, Sal centrale, Sal totius naturæ, Geist der Welt, Spiritus universi, Lebensbalsam</vocab>
+
+<detected-images>
+[{"description": "Decorative printer's ornament with stylized floral and symbolic motifs", "type": "decorative", "bbox": {"x": 0.354, "y": 0.076, "width": 0.231, "height": 0.038}, "gallery_quality": 0.3, "museum_rationale": "A standard 18th-century typographic ornament used to divide or head sections of text."}]
+</detected-images>
+
+--- Page 70 ---
+<lang>de</lang>
+<page-num>36</page-num>
+<header>( 5 )</header>
+<meta>catchword: kann</meta>
+
+ſes geſchicht folgendermaſſen, wenn die feurigen Dämpfe, Nebel und Erdgeiſter (welches dann auch ihr tägliches Amt iſt,) ſich aus der Erden, als ein Dampf oder Nebel erheben, ſo nehmen dieſelbige, weil das zarte Waſſer ihnen zu ihrem **Vehiculo** dienen muß, die reineſte und ſauberſte Erden, in, und mit ſich, in die oberſte Region der Luft, da ſich nun der **Spiritus univerſi** mit der zarten feuchten Luft ſchon combinirt, und digerirt hat, ſo nehmen ſelbige den Erddampf in ſich, und digeriren ſich auch mit ſelbigen. Da nun das ſubtile feurige Erdwaſſer zuvor die ſubtile Erden zwunge, daß ſolche ſich mit in die Luft ſchwingen mußte; ſo verurſachet hingegen dieſe zarte Erden, daß ſich das ſubtile Waſſer nunmehro verdicken, (und weil alſo alle 4. **Elementa**, **potentialiter** in dieſem ihrem einigen feurigen Waſſer beyſammen ſeyn,) einen ſchweren Leib bekommen und annehmen muß: ſo denn wiederum auf die Erden zuruck, entweder als ein Thau (welcher weit zärter, ſubtiler und reiner iſt, als ein Regenwaſſer, welches mit, oder ohne Donner und Blitzen fällt,) fallen muß. Beyde bringen ſowohl denen Feldfrüchten ſonderbare friſche Lebenskraͤfte mit, welches ein jeder, der es ſiehet, **admiriren** muß.
+
+|| Dieſe **Circulation**, nämlich des Aufziehens, und wieder herunter Triefens, Thauens und Regens, wird dauern, ſo lange die Welt ſtehet; ſonſten und außer dieſen, würden **Vegetabilia**, **ac Animalia**, nicht den geringſten Wachſthum, noch Lebenskraͤfte haben, noch genieſen können: ein jeder
+
+<vocab>Circulation, Erdgeister, Spiritus universi, Elementa, Lebenskräfte, Vegetabilia, Animalia, Thau, Regenwasser, Dämpfe</vocab>
+
+--- Page 71 ---
+<lang>de</lang>
+<page-num>37</page-num>
+<header>) 3 (</header>
+<meta>image quality: clear; catchword: Wasser,; reader marks: red ink strokes at the ends of lines 5, 19, and 29</meta>
+
+kann dieses an dem Samenkörnlein spühren und
+abnehmen. In welchen die zusammenziehende
+irrdische Kräfte, derer Elementen, verschlossen, und
+solches zu einen trockenen irrdischen Körper gemacht
+hat. So lange dieser Körper trocken bleibt, so- <insert>red stroke</insert>
+bleibt er oede, und bringt keine Frucht; so bald aber
+dasselbige in die Erd fällt und stirbt, geschicht, wenn
+es durch das natürliche feurige Wasser aufge-
+schlossen worden ist, ansonsten könnte solches nicht
+faulen, noch sein <term>Germen Seminis</term> erstehen. Wenn
+es aber in der Erden aufgeschwollen, und durch
+die Fäulung gegangen ist, so bald bekömmt solches
+von oben herab, den <term>Spiritum universi</term>, die natür-
+liche Wärme, und Feuchte, wächst auf, grünet,
+blühet, und reifet, die Gewonheit aber macht, daß
+man dieses nicht gründlich untersuchet, sondern nur
+alles, als eine natürliche Schuldigkeit betrachtet
+und ansiehet.
+
+Das <term>Elementum aquæ</term> muß also alle Dinge, <insert>red stroke</insert>
+welche sich vermehren sollen, auflösen, ja in sich
+fassen, allen Dingen und Samen Kräfte mitthei-
+len, sodenn kann der darinnen enthaltene Geist sich
+bewegen, und alles auswirken. Ein jeder siehet
+ja, wie aller Samen in der Erden, nach dem Thau,
+und Regen, seufzet, und sich sehnet : ein einziger
+warmer Regen, oder starker Thau, erquickt, und
+hilft allen Pflanzen mehr empor, als wenn der Gärt-
+ner viele Eimer voll Brunnen- oder Quellwasser
+darüber schüttet. Wie schon gesagt, der <term>Spi- <insert>red stroke</insert>
+ritus universi</term> ist in der Luft, mithin ist die Luft sein
+<term>Receptaculum</term>, Regen, und Thau, oder das
+Wasser,
+
+<vocab>Samenkörnlein, Elementen, Germen Seminis, Spiritum universi, Elementum aquæ, Receptaculum, Thau, Regen, Fäulung</vocab>
+
+<detected-images>
+[{"description": "Decorative header ornament with the number 3 and fleurons", "type": "decorative", "bbox": {"x": 0.298, "y": 0.076, "width": 0.176, "height": 0.038}, "gallery_quality": 0.3, "museum_rationale": "Standard typographic ornament used for page styling and sectioning."}]
+</detected-images>
+
+--- Page 72 ---
+<lang>de</lang>
+    <page-num>38</page-num>
+    <header>)o(</header>
+
+Waffer, ift das Medium, wodurch derfelbe der Erden, und allen infectis zugebracht wird. Deshalb haben die Philofophi diefen Spiritum univerfi, das Waffer unfers Meers, das Waffer des Lebens, welches die Hände nicht naß macht, ja mit recht, *Balfamum vitæ* genennet. Wer glaubt aber, daß ein trockener Körper, feuriger Natur, in dem Thau, und Regen verborgen feye.
+
+*Sendivogius* hat fich oft verwundert, daß die Sophiften nicht glauben wollten, noch könnten, daß in unfern obgenannten Meerwaffer, Erde, und Feuer feye; dennoch wollten felbige Philofophi heiffen; eben deswegen, weil unfer Feuer, oder Sulphur wäfferiger Salz, Schleim und Geift, der Welt, in diefem unfern *Subjecto* enthalten ift: darum heifst folches auch unfer *Balfamum vitæ*.
+
+Geehrter Lefer, zum Ueberfluß foll noch etwas vermelden: das feurige Waffer ift aller Dinge Anfang, Leben und Fortbringer; mithin *noftrum, ac unicum, veriffimum fubjectum*. Sollten und wollten einige Superkluge, diefes negiren, vernichten, und mit unter die *Egyptifche* Plagen fetzen: ein folches kann ein wahrer Befizer gar wohl leiden; allein ich forge, fämmtliche Verächter, dūrften mehr den Zorn GOttes, als deffen Segen zu genieffen bekommen. Ich könnte fehr viel mit lebendigen Zeugen darthun, und beweifen: daß dergleichen Spötter fich felbften vieles Unglück über den Hals gezogen, hingegen die Frommen GOtt ergebenen find mit voller Maße Göttlicher Gnaden angefüllet worden.
+
+<meta>catchword: Wer</meta>
+<vocab>Sendivogius, Spiritum universi, Balsamum vitae, Sulphur, Egyptische Plagen, Subjecto</vocab>
+
+--- Page 73 ---
+<lang>de</lang>
+<page-num>39</page-num>
+<header>)o( 39</header>
+<meta>catchword: das</meta>
+
+Wer GOTT liebt, und die cabulam divinam gründlicher verstehet, als dieser Magister Fremdling, darf nicht viel nachgrübeln: so wird ihme solche weisen, das Wasser und Erde, das erste Wesen aller Dinge ist, woraus GOTT alle Kreaturen, mithin auch die Metalla und Mineralia geschaffen hat; das Wasser und die Erde, muß auch allen Kreaturen, Nahrung und Unterhalt verschaffen, das Leben oder der Spiritus universi bringt uns der Regen, Thau, und die Luft häufig zu.
+
+Sendivogii dictum wolle sich ein jeder bestens recommendirt seyn lassen, *est in ære occultus vitæ cibus.*
+
+Wie mit diesen feurigen Wasser verfahren werden solle, ist schon zur Genüge angeführet worden, doch es soll *in fine* deutlicher erfolgen und gegeben werden.
+
+## Kapitel IV.
+
+Nun solte ich auch von der philosophischen Calcination, Solution, Sublimation, Fixation und Transmutation noch etwas melden. Nachdeme aber aus der philosophischen erstern Materia, welches Wasser und Geist ist, (Hyle genannt,) die Erde erstritten, mithin alle diese Operationes und Verrichtungen, bis auf die Extraction, oder Multiplication, sodenn Fermentation vollendet worden, fürohin aber einzig durch *Solve & Coagula usque ad Fermentationem* alles verrichtet werden soll und muß. Und anfänglich
+
+<vocab>cabulam divinam, Magister Fremdling, Spiritus universi, Sendivogius, est in ære occultus vitæ cibus, Hyle, Calcination, Solution, Sublimation, Fixation, Transmutation, Solve & Coagula, Fermentation</vocab>
+
+<detected-images>
+[{"description": "Decorative woodcut initial 'N' at the start of Chapter IV.", "type": "decorative", "bbox": {"x": 0.046, "y": 0.584, "width": 0.089, "height": 0.068}, "gallery_quality": 0.5, "museum_rationale": "Standard decorative initial common in 18th-century German printing."}]
+</detected-images>
+
+--- Page 74 ---
+<lang>German</lang>
+<page-num>40</page-num>
+<header>§ )( §</header>
+<warning>Faded pencil annotations in the left margin near the second paragraph.</warning>
+
+das feurige Waſſer erſtlich putrificiren, das phleg-
+ma davon abgedaͤmpfet werden muß; welches ei-
+ne ſehr gelinde Waͤrme erfordert, damit die darin-
+nen enthaltene Erde zu Boden fallen kann: wenn
+alſo die Erde ſichtbar worden iſt, ſodenn heißt es
+erſtlich <term>Solve & Coagula</term>. Durch oͤfters ſolviren,
+und coaguliren wird alsdenn die Erde, die ſonſt
+ſchwaͤrzlich, braun, oder gruͤn, ſahe, helle grau,
+weiß, endlich roth, <term>NB.</term> hier muß die <term>Imbition</term>, und
+friſche <term>Congelation</term>, ſo oft reiterirt worden: bis
+die Erde auf ein gelindes gereinigtes Eiſen, Kupfer
+oder Silberblech, flieſet, als Oel, ohne Rauch, auch
+eingehet, und faͤrbet. Alsdenn gehoͤrt eine
+hoͤhere, und geheimdere <term>Solution</term> dazu, naͤmlich
+es muß dieſe weiſe oder rothe Erde, in ſein gehoͤri-
+ges Gefaͤß, und Geſchirr auf eine ſehr gelinde Feu-
+ersgrad und Stelle geſetzt werden, woſelbſt ſich das
+<term>Sal Centrale</term> aufloͤſen, mithin als ein <term>Oleum per</term>
+<term>deliquium</term> von ſeiner Erden abloͤſen, und abflie-
+ſen kann.
+
+<margin>76 <unclear>...</unclear></margin>
+Wenn dieſes Oel etlichemal ſolvirt und an
+der Luft wieder coagulirt worden iſt; an denen
+Waͤnden des Glaſes aber ſich keine Fettigkeiten,
+noch Unreinigkeiten mehr ſehen laͤſſet; ſodenn
+und eher nicht, ſoll der Artiſte, zu 12. partes dieſes
+<term>Olei partem</term> ſubtil gemacht, oder duͤnne laminirtes
+Gold, oder Silber, in eine bequeme Violen, die nur
+zum 4ten Theil angefuͤllet ſeyn ſoll, thun, <term>Herme-</term>
+<term>tice ſigilliren</term>, auf ſeinen <term>Athanor</term> hinſtellen, da es
+ſich dann ergeben wird, daß das <term>Compoſitum</term>
+ſchwarz, weiß, roth; auch ſonſten allerhand phæ-
+
+<meta>Catchword: nomena</meta>
+
+<vocab>Solve & Coagula, Imbition, Congelation, Solution, Sal Centrale, Oleum per deliquium, Olei partem, Hermetice ſigilliren, Athanor, Compoſitum, phænomena</vocab>
+
+--- Page 75 ---
+<lang>de</lang>
+<page-num>41</page-num>
+<header>❧ )o( ❧</header>
+<meta>catchword: Sulphu-</meta>
+
+nomena sich sehen lassen werden. Wenns überroth, und trocken worden ist; so soll solches de novo mit dem halben Theil, als vor gewesenen <term>Oleo Mercurii</term> wiederum angestellet, und wie vor, procediret werden. Will man die <term>Tinctur</term> noch höher haben, so kann man nach der Methode <term>Waßersteins der Weisen</term> part. 2. procediren. Wenn denn die Tinctur fertig ist, so muß selbige abermahl mit 3. <term>partes purissimi solis</term> zusammen 3. Tage und Nacht in egalem Feuer stehen: ansonsten und soferne die Tinctur nicht genugsam specificirt worden, so dörfte dahero ein grosses <term>Damnum</term> entstehen. NB. die unvollkommene <term>Metalla</term> müssen erstlich gereiniget werden, soferne dieselbige <term>transmutiret</term> werden sollen. Zum Golde schickt sich Silber, <term>Saturnus</term>, <term>Stagnum</term> und <term>Mercurius</term>, zum Silber aber, Mercurius, oder Stagnum, auch Saturnus und <term>Venus</term>. Jedes soll sodann, nachdem es transmutirt worden, mit Bley auf den <term>Test</term> abgetrieben werden.
+
+Dieses ist, was denen GOttergebenen aus Christlichem Mitleiden habe angedeihen lassen wollen. Es mags jemand glauben, daß dieses wahr sey oder nicht, so werde ich mich doch wenig darüber bekümmern, noch minder mich mit einem oder dem andern, in ein Gespräch oder Briefwechsel einlassen. Es wäre denn, daß ich überzeuget würde, daß derjenige ein feiner, ehrbarer, Christlicher und Gottsfürchtiger Mann seye. Wer nun mit GOtt und seinem Nächsten wohl lebet, und ihm dienet, deme soll und muß dieser <term>Balsamus</term>, <term>sive Spiritus</term>
+
+<vocab>Oleo Mercurii, Tinctur, Waßersteins der Weisen, Metalla, transmutiret, Saturnus, Stagnum, Mercurius, Venus, Bley, Test, Balsamus, Spiritus Sulphuris</vocab>
+
+--- Page 76 ---
+<lang>de</lang>
+<page-num>40</page-num>
+<header>❦ )( ❦</header>
+<meta>catchword: nomena</meta>
+<warning>Faint marginal notes on the left side, possibly added in pencil or faded ink.</warning>
+
+das feurige Waſſer erſtlich <term>putrificiren</term>, das <term>phleg-</term>
+<term>ma</term> davon abgedämpfet werden muß; welches ei-
+ne ſehr gelinde Wärme erfordert, damit die darin-
+nen enthaltene Erde zu Boden fallen kann : wenn
+alſo die Erde ſichtbar worden iſt, ſodenn heißt es
+erſtlich <term>Solve & Coagula</term>. Durch öfters ſolviren,
+und coaguliren wird alsdenn die Erde, die ſonſt
+ſchwärzlich, braun, oder grün, ſahe, helle grau,
+weiß, endlich roth, <term>NB.</term> hier muß die <term>Imbibition</term>, und
+friſche <term>Congelation</term>, ſo oft reiterirt worden: biś
+die Erde auf ein gelindes gereinigtes Eiſen, Kupfer
+oder Silberblech, flieſet, als Oel, ohne Rauch, auch
+eingehet, und färbet. Alſdenn gehört eine
+höhere, und geheimdere <term>Solution</term> dazu, nämlich
+es muß dieſe weiße oder rothe Erde, in ſein gehöri-
+ges Gefäß, und Geſchirr auf eine ſehr gelinde Feu-
+ersgrad und Stelle geſetzt werden, woſelbſt ſich das
+<term>Sal Centrale</term> auflöſen, mithin als ein <term>Oleum per</term>
+<term>deliquium</term> von ſeiner Erden ablöſen, und abflie-
+ßen kann.
+
+<margin>H <br/> <unclear>Waſſer</unclear></margin>
+&nbsp;&nbsp;&nbsp;&nbsp;Wenn dieſes Oel etlichemal ſolvirt und an
+der Luft wieder coagulirt worden iſt; an denen
+Wänden des Glaſes aber ſich keine Fettigkeiten,
+noch Unreinigkeiten mehr ſehen läſſet; ſodenn
+und eher nicht, ſoll der Artiſte, zu 12. partes dieſes
+<term>Olei partem ſubtil</term> gemacht, oder dünne laminirtes
+Gold, oder Silber, in eine bequeme Violen, die nur
+zum 4ten Theil angefüllet ſeyn ſoll, thun, <term>Herme-</term>
+<term>tice ſigilliren</term>, auf ſeinen <term>Athanor</term> hinſtellen, da es
+ſich dann ergeben wird, daß das <term>Compoſitum</term>
+ſchwarz, weiß, roth; auch ſonſten allerhand phæ-
+
+<vocab>putrificiren, phlegma, Solve & Coagula, Imbibition, Congelation, Solution, Sal Centrale, Oleum per deliquium, Artiste, Hermetice sigilliren, Athanor, Compositum, Alchemie</vocab>
+
+<detected-images>
+[{"description": "Typographic ornaments in the header and a vertical dashed ruling on the left margin.", "type": "decorative", "bbox": {"x": 0.26, "y": 0.08, "width": 0.49, "height": 0.5}, "gallery_quality": 0.2, "museum_rationale": "Standard typographic ornaments and registration marks typical of 18th-century printing layout."}]
+</detected-images>
+
+--- Page 77 ---
+<lang>de</lang>
+<page-num>41</page-num>
+<header>❦ )o( ❦</header>
+
+nomena sich sehen lassen werden. Wenns über-
+roth, und trocken worden ist; so soll solches de no-
+vo mit dem halben Theil, als vor gewesenen Oleo
+Mercurii wiederum angestellet, und wie vor, pro-
+cediret werden. Will man die <term>Tinctur</term> noch hö-
+her haben, so kann man nach der Methode <term>Wassersteins der Weisen</term> part. 2. procediren. Wenn
+denn die Tinctur fertig ist, so muß selbige abermahl
+mit 3. <term>partes purissimi solis</term> zusammen 3. Tage
+und Nacht in egalem Feuer stehen: ansonsten und
+soferne die Tinctur nicht genugsam specificirt wor-
+den, so dürfte dahero ein grosses Damnum entste-
+hen. NB. die unvollkommene <term>Metalla</term> müssen erst-
+lich gereiniget werden, sofern dieselbige transmuti-
+ret werden sollen. Zum Golde schickt sich Silber,
+<term>Saturnus</term>, <term>Stagnum</term> und <term>Mercurius</term>, zum Silber
+aber, <term>Mercurius</term>, oder <term>Stagnum</term>, auch <term>Saturnus</term>
+und <term>Venus</term>. Jedes soll sodann, nachdem es trans-
+mutirt worden, mit Bley auf den Test abgetrie-
+ben werden.
+
+Dieses ist, was denen GOttergebenen aus
+Christlichem Mitleiden habe angedeihen lassen wol-
+len. Es mags jemand glauben, daß dieses wahr
+sey oder nicht, so werde ich mich doch wenig darüber
+bekümmern, noch minder mich mit einem oder dem
+andern, in ein Gespräch oder Briefwechsel einlas-
+sen. Es wäre denn, daß ich überzeuget würde,
+daß derjenige ein feiner, ehrbarer, Christlicher und
+Gottsfürchtiger Mann seye. Wer nun mit GOtt
+und seinem Nächsten wohl lebet, und ihm dienet,
+deme soll und muß dieser <term>Balsamus</term>, <term>sive Spiritus</term>
+
+<meta>catchword: Sulphu-</meta>
+
+<vocab>Tinctur, Wasserstein der Weisen, partes purissimi solis, Metalla, transmutiret, Saturnus, Stagnum, Mercurius, Venus, Balsamus, Spiritus Sulphuris</vocab>
+
+<detected-images>
+[{"description": "Decorative printer's ornaments in the page header", "type": "decorative", "bbox": {"x": 0.283, "y": 0.059, "width": 0.231, "height": 0.040}, "gallery_quality": 0.3, "museum_rationale": "Standard 18th-century typographic ornaments used to flank a page number or separate sections."}]
+</detected-images>
+
+--- Page 78 ---
+<lang>de</lang>
+<vocab>Sulphuris universi, Panacea, Wassermann, Salz, schleimichte Erden, dickes Blut, Alchemie</vocab>
+
+Sulphuris universi, eine ewigwährende Panacea
+seyn und bleiben. GOTT gebe einen jeden so, wie
+ers verdienet und ihme nützlich ist, ein fröhliches
+und gesegnetes Ende.
+
+Ich aber bin, wiewohl unbekannt, dennoch
+der wohlgenannte **Wassermann**.
+
+**D**er Schlüssel ist das Salz allein,
+Ohn Salz kann unsere Kunst nicht
+seyn,
+Wiewohl diß Salz, wie ich bericht,
+Als Salz im Anfang scheinet nicht.
+So ist es dennoch Salz und zwar,
+Im Anfang schwarz (nempe schwarz
+schleimichte Erden,) und stinkend gar.
+So in der Arbeit diß auch thut,
+Daß es aussieht, wie dickes Blut.
+Endlich so wirds ganz weiß und rein,
+Schleußt sich selbst auf, und zu allein.
+
+# FINIS.
+
+<detected-images>
+[
+  {"description": "Small typographic headpiece ornament consisting of parentheses and decorative glyphs.", "type": "decorative", "bbox": {"x": 0.52, "y": 0.075, "width": 0.17, "height": 0.025}, "gallery_quality": 0.2, "museum_rationale": "Basic typographic ornament."},
+  {"description": "Decorative initial letter 'D' embellished with stylized floral and foliate motifs.", "type": "decorative", "bbox": {"x": 0.31, "y": 0.275, "width": 0.09, "height": 0.055}, "gallery_quality": 0.5, "museum_rationale": "A typical example of early modern decorative initials used in German printing."},
+  {"description": "Large baroque woodcut tailpiece featuring a central blooming rose or floral centerpiece flanked by elaborate acanthus leaf scrollwork.", "type": "woodcut", "bbox": {"x": 0.35, "y": 0.69, "width": 0.59, "height": 0.17}, "gallery_quality": 0.85, "museum_rationale": "A finely detailed woodcut tailpiece characteristic of late 17th or 18th-century book production, showing high-quality craftsmanship in the floral and scrollwork design."}
+]
+</detected-images>
+
+--- Page 79 ---
+<lang>N/A</lang>
+<page-num>489</page-num>
+<meta>Blank page, likely a flyleaf or endpaper. A very faint pencil notation (possibly "489") is visible at the bottom center. The marbled paper of the book's binding is visible along the right edge.</meta>
+<vocab></vocab>
+
+--- Page 80 ---
+<lang>Unknown</lang>
+<meta>Blank page, likely a flyleaf or endpaper. Part of the marbled binding is visible on the left edge.</meta>
+
+--- Page 81 ---
+<lang>de</lang>
+<meta>Modern archival pencil annotations on the flyleaf of a manuscript. The text consists of bibliographic references to works on alchemy and library shelf marks. Dated September 24, 1990.</meta>
+
+<insert>12990</insert>
+<insert>UET</insert>
+
+<br>
+<br>
+
+-><insert>ccRS</insert><-
+-><insert>F II, 530</insert><-
+-><insert>Ferchl 567</insert><-
+-><insert>Kopp, <term>Alchemie</term> II, 391</insert><-
+-><insert>24/9/90</insert><-
+
+<br>
+<br>
+
+-><insert>UBN 11196</insert><-
+
+<vocab>Ferchl, Kopp, Alchemie, shelf mark, bibliography, archival notes</vocab>
+
+--- Page 82 ---
+<lang>zxx</lang>
+<meta>Front cover and spine of a bound manuscript. The cover features a marbled paper pattern in black, red, and tan. The spine is made of dark, aged leather with remnants of gilt decorative bands. No legible text is present on the cover or spine.</meta>
+
+<vocab>marbled paper, bookbinding, leather spine, gilt bands</vocab>
+
+<detected-images>
+[{"description": "Marbled paper decoration on the front cover of the volume", "type": "decorative", "bbox": {"x": 0.02, "y": 0.02, "width": 0.79, "height": 0.96}, "gallery_quality": 0.7, "museum_rationale": "A classic example of late 18th or 19th-century 'shell' or 'Turkish' marbling used in institutional bookbinding."},
+{"description": "Leather spine with decorative gilt bands", "type": "decorative", "bbox": {"x": 0.81, "y": 0.02, "width": 0.16, "height": 0.96}, "gallery_quality": 0.4, "museum_rationale": "Standard period binding with horizontal gilt fillets, showing signs of heavy wear."}]
+</detected-images>

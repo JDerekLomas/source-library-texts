@@ -1,0 +1,28 @@
+{
+  "id": "6992ce093ea667fbac827b2e",
+  "title": "本草綱目拾遺(四)",
+  "display_title": "本草綱目拾遺(四)",
+  "author": "趙學敏",
+  "language": "Chinese",
+  "year": 1871,
+  "published": "1871",
+  "pages_count": 79,
+  "pages_with_ocr": 79,
+  "pages_with_translation": 64,
+  "source_url": "https://sourcelibrary.org/book/6992ce093ea667fbac827b2e",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "02093041.cn"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:19.250Z",
+  "_hashes": {
+    "ocr": "a230ef9cd34b6cc0",
+    "translation": "4d63acebee9184b6"
+  }
+}

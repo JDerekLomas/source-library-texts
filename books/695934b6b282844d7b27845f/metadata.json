@@ -1,0 +1,28 @@
+{
+  "id": "695934b6b282844d7b27845f",
+  "title": "Anima Magica Abscondita",
+  "display_title": "Anima Magica Abscondita",
+  "author": "Thomas Vaughan",
+  "language": "English",
+  "year": 1888,
+  "published": "1888",
+  "pages_count": 84,
+  "pages_with_ocr": 84,
+  "pages_with_translation": 84,
+  "source_url": "https://sourcelibrary.org/book/695934b6b282844d7b27845f",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "animamagicaabsco00vaug"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:14.261Z",
+  "_hashes": {
+    "ocr": "4b71261a1ef661b8",
+    "translation": "2753dcca7221add1"
+  }
+}

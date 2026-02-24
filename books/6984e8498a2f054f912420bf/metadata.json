@@ -1,0 +1,26 @@
+{
+  "id": "6984e8498a2f054f912420bf",
+  "title": "Phoenix atropicus de morte redux. Der wiederum frisch belebte gebenedeyte philosophische Adrop. Tractatus de urina",
+  "display_title": "Phoenix atropicus de morte redux. Der wiederum frisch belebte gebenedeyte philosophische Adrop. Tractatus de urina",
+  "author": "anonymous|Hollandus, Johannes Isaac",
+  "language": "German-Latin",
+  "year": 1744,
+  "published": "1744",
+  "pages_count": 78,
+  "pages_with_ocr": 78,
+  "pages_with_translation": 78,
+  "source_url": "https://sourcelibrary.org/book/6984e8498a2f054f912420bf",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:21.127Z",
+  "_hashes": {
+    "ocr": "369a34a192edf602",
+    "translation": "a7549c8b8a710d04"
+  }
+}

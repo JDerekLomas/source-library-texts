@@ -1,0 +1,28 @@
+{
+  "id": "698fb7976b95eeda7d2d36ac",
+  "title": "Beyträge zur Optik",
+  "display_title": "Beyträge zur Optik",
+  "author": "Johann Wolfgang von Goethe",
+  "language": "German",
+  "year": 1791,
+  "published": "1791",
+  "pages_count": 78,
+  "pages_with_ocr": 78,
+  "pages_with_translation": 66,
+  "source_url": "https://sourcelibrary.org/book/698fb7976b95eeda7d2d36ac",
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "doi": null,
+  "external_ids": {
+    "mdz": "bsb00073543"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:21.446Z",
+  "_hashes": {
+    "ocr": "d754ae358258139d",
+    "translation": "bbec688367feddae"
+  }
+}

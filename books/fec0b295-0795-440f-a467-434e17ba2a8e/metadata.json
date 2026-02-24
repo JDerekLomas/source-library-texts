@@ -1,0 +1,26 @@
+{
+  "id": "fec0b295-0795-440f-a467-434e17ba2a8e",
+  "title": "Asis rimonim",
+  "display_title": "Essence of Pomegranates",
+  "author": "Gallico, Samuel",
+  "language": "Hebrew",
+  "year": 1575,
+  "published": "1575",
+  "pages_count": 79,
+  "pages_with_ocr": 79,
+  "pages_with_translation": 79,
+  "source_url": "https://sourcelibrary.org/book/fec0b295-0795-440f-a467-434e17ba2a8e",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini"
+  },
+  "synced_at": "2026-02-24T18:29:19.717Z",
+  "_hashes": {
+    "ocr": "b9c57d0513ea4226",
+    "translation": "6e0982de6f739f3b"
+  }
+}

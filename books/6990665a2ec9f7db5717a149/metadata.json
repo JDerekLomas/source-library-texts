@@ -1,0 +1,28 @@
+{
+  "id": "6990665a2ec9f7db5717a149",
+  "title": "Daivajnavallabha",
+  "display_title": "Daivajnavallabha",
+  "author": "Varahamihira",
+  "language": "Sanskrit",
+  "year": null,
+  "published": "Unknown",
+  "pages_count": 79,
+  "pages_with_ocr": 79,
+  "pages_with_translation": 79,
+  "source_url": "https://sourcelibrary.org/book/6990665a2ec9f7db5717a149",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "daivagyavallabha-CGV-PSS-0133-0585"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:19.860Z",
+  "_hashes": {
+    "ocr": "b7b0cb9e8fb4cd1c",
+    "translation": "4c90b5929f89417a"
+  }
+}

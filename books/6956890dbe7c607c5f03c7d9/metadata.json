@@ -1,0 +1,28 @@
+{
+  "id": "6956890dbe7c607c5f03c7d9",
+  "title": "The City of the Sun",
+  "display_title": "The City of the Sun",
+  "author": "Tommaso Campanella",
+  "language": "Italian",
+  "year": 1602,
+  "published": "1602",
+  "pages_count": 84,
+  "pages_with_ocr": 84,
+  "pages_with_translation": 84,
+  "source_url": "https://sourcelibrary.org/book/6956890dbe7c607c5f03c7d9",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "cityofsun0000tomm"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:14.525Z",
+  "_hashes": {
+    "ocr": "8674c18caedbdeb0",
+    "translation": "38a25231560d8ff2"
+  }
+}

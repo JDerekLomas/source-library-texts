@@ -1,0 +1,28 @@
+{
+  "id": "6992d66546b85e738a0c3d03",
+  "title": "Garuda Purana",
+  "display_title": "Garuda Purana",
+  "author": "Vyasa (ed. Ramtej Pandey)",
+  "language": "Sanskrit",
+  "year": 1910,
+  "published": "Unknown",
+  "pages_count": 436,
+  "pages_with_ocr": 80,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/6992d66546b85e738a0c3d03",
+  "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "garudapurana"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:29:18.152Z",
+  "_hashes": {
+    "ocr": "3fc828527f479ca9",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

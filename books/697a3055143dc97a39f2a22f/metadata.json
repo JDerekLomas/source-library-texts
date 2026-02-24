@@ -1,0 +1,26 @@
+{
+  "id": "697a3055143dc97a39f2a22f",
+  "title": "Conjecturae halieuticae novae et admirandae",
+  "display_title": "Conjecturae halieuticae novae et admirandae",
+  "author": "[Götz, Raphael]",
+  "language": "Latin",
+  "year": 1611,
+  "published": "1611",
+  "pages_count": 78,
+  "pages_with_ocr": 78,
+  "pages_with_translation": 78,
+  "source_url": "https://sourcelibrary.org/book/697a3055143dc97a39f2a22f",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:20.889Z",
+  "_hashes": {
+    "ocr": "3dbcfdf49a0dee2d",
+    "translation": "37a827ed935b2ed5"
+  }
+}

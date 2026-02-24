@@ -1,0 +1,26 @@
+{
+  "id": "69804b940187d498033e67f0",
+  "title": "Lapis mineralis oder die höchste Artzney",
+  "display_title": "Lapis mineralis oder die höchste Artzney",
+  "author": "[Dolhopff, Georg Andreas]",
+  "language": "German",
+  "year": 1681,
+  "published": "1681",
+  "pages_count": 142,
+  "pages_with_ocr": 79,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/69804b940187d498033e67f0",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:19.116Z",
+  "_hashes": {
+    "ocr": "05ba6c94e2bf690e",
+    "translation": "fbcd857ce855db5c"
+  }
+}

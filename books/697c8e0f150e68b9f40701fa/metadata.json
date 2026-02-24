@@ -1,0 +1,26 @@
+{
+  "id": "697c8e0f150e68b9f40701fa",
+  "title": "Geheimniss von dem Leben und Vermehrung aller Dinge",
+  "display_title": "Geheimniss von dem Leben und Vermehrung aller Dinge",
+  "author": "anonymous",
+  "language": "German",
+  "year": 1748,
+  "published": "1748",
+  "pages_count": 84,
+  "pages_with_ocr": 84,
+  "pages_with_translation": 84,
+  "source_url": "https://sourcelibrary.org/book/697c8e0f150e68b9f40701fa",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:14.009Z",
+  "_hashes": {
+    "ocr": "12d07938de2e5e61",
+    "translation": "1cfca95248d1d58b"
+  }
+}

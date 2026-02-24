@@ -1,0 +1,28 @@
+{
+  "id": "6991eaf72f801130a473ee22",
+  "title": "Croquis et dessins de botanique",
+  "display_title": "Croquis et dessins de botanique",
+  "author": "Leonardo da Vinci",
+  "language": "Italian",
+  "year": 1880,
+  "published": "Unknown",
+  "pages_count": 82,
+  "pages_with_ocr": 82,
+  "pages_with_translation": 82,
+  "source_url": "https://sourcelibrary.org/book/6991eaf72f801130a473ee22",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "gri_33125017543253"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:16.100Z",
+  "_hashes": {
+    "ocr": "b87e8e07bcbd2e97",
+    "translation": "3a1b5bb110b23d3a"
+  }
+}

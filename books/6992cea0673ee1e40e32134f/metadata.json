@@ -1,0 +1,28 @@
+{
+  "id": "6992cea0673ee1e40e32134f",
+  "title": "蠶桑輯要(二)",
+  "display_title": "蠶桑輯要(二)",
+  "author": "未詳",
+  "language": "Chinese",
+  "year": 1820,
+  "published": "1820",
+  "pages_count": 79,
+  "pages_with_ocr": 79,
+  "pages_with_translation": 64,
+  "source_url": "https://sourcelibrary.org/book/6992cea0673ee1e40e32134f",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "02092651.cn"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:20.174Z",
+  "_hashes": {
+    "ocr": "2f748ae1016bc126",
+    "translation": "b330295464da56bb"
+  }
+}

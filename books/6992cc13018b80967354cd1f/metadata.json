@@ -1,0 +1,28 @@
+{
+  "id": "6992cc13018b80967354cd1f",
+  "title": "齊民要術 (Qimin Yaoshu: Essential Techniques for the Welfare of the People) Vol 9",
+  "display_title": "齊民要術 (Qimin Yaoshu: Essential Techniques for the Welfare of the People) Vol 9",
+  "author": "Jia Sixie",
+  "language": "Chinese",
+  "year": 1778,
+  "published": "1778",
+  "pages_count": 84,
+  "pages_with_ocr": 84,
+  "pages_with_translation": 68,
+  "source_url": "https://sourcelibrary.org/book/6992cc13018b80967354cd1f",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "06049861.cn"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:14.177Z",
+  "_hashes": {
+    "ocr": "2931116caff0075a",
+    "translation": "dd07bb4cc4fa010c"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "69906f694b3bd4d1fffd0b26",
+  "title": "Wonders of the East / Astronomical-Calendrical Treatise",
+  "display_title": "Bodleian Library MS. Bodl. 614",
+  "author": "Anonymous",
+  "language": "Latin",
+  "year": 1150,
+  "published": "1150",
+  "pages_count": 77,
+  "pages_with_ocr": 77,
+  "pages_with_translation": 62,
+  "source_url": "https://sourcelibrary.org/book/69906f694b3bd4d1fffd0b26",
+  "license": "CC-BY-NC-4.0",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:22.647Z",
+  "_hashes": {
+    "ocr": "782cb4956061fab2",
+    "translation": "5fe19100df180f4a"
+  }
+}

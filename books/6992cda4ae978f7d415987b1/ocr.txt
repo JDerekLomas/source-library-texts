@@ -1,0 +1,3078 @@
+--- Page 1 ---
+<lang>zh</lang>
+<meta>Dark blue book cover with a vertical white title slip (tiqian) containing the title in large characters.</meta>
+
+<insert>
+# 三
+# 才
+# 圖
+# 會
+</insert>
+
+<vocab>三才圖會, Sancai Tuhui, Ming Dynasty, Encyclopedia, 王圻 (Wang Qi), 王思義 (Wang Siyi)</vocab>
+
+<detected-images>
+[{"description": "A vertical white title slip with a double-line rectangular border containing the title of the work in large calligraphic characters.", "type": "decorative", "bbox": {"x": 0.05, "y": 0.037, "width": 0.222, "height": 0.718}, "gallery_quality": 0.7, "museum_rationale": "A classic example of traditional Chinese bookbinding design, specifically the title slip (tiqian) found on Ming and Qing dynasty thread-bound volumes."}]
+</detected-images>
+
+--- Page 2 ---
+<lang>Chinese</lang>
+<header>三才圖會 宮室 四卷</header>
+<page-num>一</page-num>
+<vocab>三才圖會, 宮室, 王思義, 陽宅, 東四位宅, 西四位宅</vocab>
+
+# 三才圖會
+
+## 宮室四卷
+
+->雲間允明父王思義續集<-
+
+---
+
+**陽宅外形吉凶圖**
+
+**東四位宅圖**
+
+**西四位宅圖**
+
+--- Page 3 ---
+<lang>zh</lang>
+
+# 陽宅外形吉凶圖
+
+->吉宅<-
+
+此宅左短右邊長
+君子居之大吉昌
+家内錢財豐勝富
+只因次後少見郎
+
+---
+
+->凶宅<-
+
+右短左長不堪居
+生財不旺人口虚
+住宅必定子孫愚
+先有田茔後也無
+
+---
+
+->吉宅<-
+
+昔日周公相此居
+<term>丑寅</term>空缺聚錢貨
+家豪富貴長保守
+不過仙人怎得知
+
+<vocab>陽宅, 外形, 吉凶, 吉宅, 凶宅, 丑寅, 周公, 宅相</vocab>
+
+<detected-images>
+[{"description": "A set of three architectural site diagrams illustrating different land plot shapes with their associated auspicious (吉) or inauspicious (凶) geomantic designations.", "type": "diagram", "bbox": {"x": 0.147, "y": 0.245, "width": 0.695, "height": 0.218}, "gallery_quality": 0.75, "museum_rationale": "A clear and representative example of 17th-18th century Chinese geomantic (Feng Shui) manuscript illustration, showing the synthesis of diagrammatic layout and mnemonic verse used in the practice of 'Yangzhai' (dwellings for the living)."}]
+</detected-images>
+
+--- Page 4 ---
+<lang>zh</lang>
+<page-num>二</page-num>
+<header>三才圖會 宮室四卷</header>
+
+->吉宅<-
+
+->吉宅<-
+
+->吉宅<-
+
+---
+
+辰巳不足却爲良居之家
+豪大吉昌若是安莊終有
+利子孫興旺足牛羊
+
+仰目之地出賢人庶人居
+之又不貧子孫印綬封官
+職光顯門庭共九
+
+中央高大號園丘修宅安
+墳在上頭人口資財多富
+貴二千食禄任公侯
+
+<vocab>吉宅, 辰巳, 子孫, 印綬, 園丘, 公侯</vocab>
+
+<detected-images>
+[
+  {"description": "Auspicious residence diagram: A rectangle with a notch missing from the upper left corner, labeled '吉宅' (Auspicious Residence).", "type": "diagram", "bbox": {"x": 0.589, "y": 0.128, "width": 0.188, "height": 0.285}, "gallery_quality": 0.6, "museum_rationale": "Illustrates specific plot configurations from the Sancai Tuhui, a major Ming Dynasty encyclopedia, detailing feng shui principles for dwellings."},
+  {"description": "Auspicious residence diagram: A standard rectangular plot labeled '吉宅' (Auspicious Residence).", "type": "diagram", "bbox": {"x": 0.354, "y": 0.128, "width": 0.199, "height": 0.285}, "gallery_quality": 0.5, "museum_rationale": "Part of a series of architectural and geomantic diagrams showing ideal property shapes."},
+  {"description": "Auspicious residence diagram: An oval or elliptical plot labeled '吉宅' (Auspicious Residence).", "type": "diagram", "bbox": {"x": 0.143, "y": 0.128, "width": 0.181, "height": 0.285}, "gallery_quality": 0.6, "museum_rationale": "Demonstrates the variety of geometric shapes considered favorable for construction in traditional Chinese architectural theory."}
+]
+</detected-images>
+
+--- Page 5 ---
+<lang>Chinese</lang>
+<meta>Woodblock print, possibly from a geomancy (feng shui) manual like 'Yangzhai Shishu' (陽宅十書) or similar compendium. Traditional Chinese characters.</meta>
+
+-><insert>先吉<br/>後凶</insert>  <insert>凶宅</insert>  <insert>前狹<br/>宅吉</insert><-
+
+---
+
+坎宅兩邊道路橫定主先
+吉後有凶人口資財初一
+勝不過十年一時空
+
+此宅修在涯水頭主定其
+地不堪修牛羊盡死人逃
+去造宅修塋見禍由
+
+前狹後寬居之穩富貴平
+安旺子孫資財廣有人口
+吉金珠財寶滿家門
+
+<vocab>坎宅, 凶宅, 先吉後凶, 涯水, 塋, 前狹後寬</vocab>
+
+<detected-images>
+[
+  {"description": "Auspiciousness diagram with text '先吉後凶' (Auspicious first, then ominous) inside a rectangular frame.", "type": "diagram", "bbox": {"x": 0.64, "y": 242, "width": 0.2, "height": 0.16}, "gallery_quality": 0.7, "museum_rationale": "Representative example of traditional Chinese geomantic instructional diagrams."},
+  {"description": "Ominous house diagram with text '凶宅' and a wavy line representing a road or water body above it.", "type": "diagram", "bbox": {"x": 0.38, "y": 128, "width": 0.22, "height": 0.29}, "gallery_quality": 0.75, "museum_rationale": "Illustrates feng shui principles regarding the positioning of a house relative to water/roads."},
+  {"description": "Trapezoidal diagram representing a house plot that is narrow in the front and wide in the back, with text '前狹宅吉' (Narrow front house is auspicious).", "type": "diagram", "bbox": {"x": 0.16, "y": 218, "width": 0.17, "height": 0.17}, "gallery_quality": 0.7, "museum_rationale": "Visual representation of the 'Narrow Front, Wide Back' principle in traditional Chinese architecture and geomancy."}
+]
+</detected-images>
+
+--- Page 6 ---
+<lang>zh</lang>
+<header>三才圖會</header>
+<meta>宮室四卷</meta>
+<page-num>三</page-num>
+
+---
+
+<insert>
+前寬
+凶宅
+</insert>
+
+<insert>
+坵
+吉宅
+</insert>
+
+<insert>
+凶宅
+近
+</insert>
+
+---
+
+前寬後狹似棺形住宅四
+時不安寧資財破盡人口
+死悲啼呻吟有嘆聲
+
+西南坤地有坵墳此宅居
+之漸漸榮若是安莊并造
+屋兒孫輩輩主興隆
+
+此宅卯地有坵墳後來居
+之定滅門愚師不辨吉凶
+理年久墳前缺子孫
+
+<vocab>三才圖會, 住宅, 凶宅, 吉宅, 坵墳, 坤地, 卯地, 棺形, 滅門</vocab>
+
+<detected-images>
+[{"description": "A set of three diagrams from a Ming Dynasty woodblock print illustrating feng shui principles. Each diagram shows a house plot layout and its proximity to terrain features like 'mounds' (坵), labeling them as either 'lucky' (吉宅) or 'unlucky' (凶宅) based on their shape and surroundings.", "type": "diagram", "bbox": {"x": 0.14, "y": 0.12, "width": 0.74, "height": 0.35}, "gallery_quality": 0.8, "museum_rationale": "This is a significant illustration from the 'San Cai Tu Hui', a comprehensive Ming Dynasty encyclopedia. It provides an authentic visual record of traditional Chinese architectural geomancy (feng shui) and its integration into domestic planning."}]
+</detected-images>
+
+--- Page 7 ---
+<lang>zh</lang>
+
+<insert>吉宅</insert>
+
+<insert>
+坵
+半吉宅
+</insert>
+
+<insert>吉宅</insert>
+
+---
+
+此房正北有坵墳明師安
+莊定有名君子居之出官
+祿庶人居之家道榮
+前後有坵不喜歡安莊修
+造數餘年此宅常招凶與
+吉得時富貴失時嫌
+此居乾地有坵陵修宅安
+莊漸漸興女人入宮爲妃
+后兒孫以後作公卿
+
+<vocab>吉宅, 半吉宅, 坵, 墳, 明師, 乾地, 妃后, 公卿, 風水, 宅經</vocab>
+
+<detected-images>
+[
+  {"description": "Geomantic diagram of a 'Lucky House' (吉宅) showing its placement relative to symbolic mounds above and below it.", "type": "diagram", "bbox": {"x": 0.627, "y": 0.147, "width": 0.231, "height": 0.317}, "gallery_quality": 0.7, "museum_rationale": "Historical representation of Feng Shui principles illustrating the auspicious positioning of a residence in relation to terrain features."},
+  {"description": "Geomantic diagram for a 'Half-Lucky House' (半吉宅) featuring the character for mound (坵) and related symbols.", "type": "diagram", "bbox": {"x": 0.406, "y": 0.138, "width": 0.203, "height": 0.334}, "gallery_quality": 0.7, "museum_rationale": "Clear example of instructional geomantic diagrams from a traditional Chinese architectural manual."},
+  {"description": "Geomantic diagram of a 'Lucky House' (吉宅) positioned above a mound symbol.", "type": "diagram", "bbox": {"x": 0.173, "y": 0.147, "width": 0.218, "height": 0.317}, "gallery_quality": 0.7, "museum_rationale": "Visual guide from a historical manuscript regarding the selection of domestic sites for prosperity."}
+]
+</detected-images>
+
+--- Page 8 ---
+<lang>Chinese</lang>
+<header>三才圖會 宮室四卷</header>
+<page-num>四</page-num>
+
+<insert>沙</insert>
+<insert>吉宅</insert>
+<insert>沙</insert>
+
+<insert>高</insert>
+<insert>吉宅</insert>
+<insert>下</insert>
+
+<insert>平</insert>
+<insert>吉宅</insert>
+<insert>平</insert>
+<insert>平</insert>
+
+---
+
+此宅前後有高沙居之依
+師不為差田財廣有人多
+喜處處詠揚道富家
+
+西高東下向北陽正好修
+工興蓋莊後代資財石崇
+富滿堂家眷六畜强
+
+此宅方圓四面平地理觀
+此好興工不論宫商角徵
+羽家豪富買旺人丁
+
+<vocab>吉宅, 高沙, 石崇, 宫商角徵羽, 興工, 住宅, 風水</vocab>
+
+<detected-images>
+[{"description": "Three woodcut diagrams illustrating auspicious house placements (吉宅) in relation to terrain markers: 'Sand' (沙), 'High/Low' (高/下), and 'Flat' (平).", "type": "diagram", "bbox": {"x": 0.103, "y": 0.106, "width": 0.772, "height": 0.354}, "gallery_quality": 0.7, "museum_rationale": "These diagrams from the Sancai Tuhui represent Ming-era geomantic (Feng Shui) principles, serving as a significant historical record of traditional Chinese architectural beliefs and cosmological categorization."}]
+</detected-images>
+
+--- Page 9 ---
+<lang>zh</lang>
+<header>三十一圖會目</header>
+<meta>The page contains three woodcut diagrams of house layouts (Feng Shui) with accompanying explanatory verses. Text is written in traditional Chinese characters.</meta>
+
+->塘<-
+<insert>吉宅</insert>
+
+<margin>水</margin>
+<insert>吉宅</insert>
+
+->山<-
+<margin>水 沙</margin>
+<insert>吉宅</insert>
+->山<-
+
+---
+
+此宅觀靈取這強却因辰
+已有池塘兒孫旺相家資
+盛興不敗長有官防
+
+前後高山兩相宜左右兩
+邊有沙池家豪富貴多年
+代壽命延長彭祖齊
+
+此宅左右水長渠父後兒
+孫福祿齊米麥錢財當富
+貴兒孫聰俊勝祖基
+
+<vocab>吉宅, 塘, 山, 水, 沙, 彭祖, 官防, 陽宅, 風水</vocab>
+
+<detected-images>
+[{"description": "Feng Shui diagrams showing three different house locations ('吉宅') in relation to geographical features like ponds ('塘'), water ('水'), mountains ('山'), and sand ('沙'). Each diagram includes a woodcut representation of the landscape elements.", "type": "diagram", "bbox": {"x": 105, "y": 140, "width": 751, "height": 339}, "gallery_quality": 0.8, "museum_rationale": "This is a classic example of early modern Chinese architectural and geomantic (Feng Shui) woodblock printing, illustrating the integration of text and landscape diagrams for household guidance."}]
+</detected-images>
+
+--- Page 10 ---
+<lang>Chinese</lang>
+<meta>Woodblock print from a traditional Chinese geomancy (Feng Shui) manual, illustrating inauspicious residential layouts (凶宅) involving water placement.</meta>
+
+水
+<insert>凶宅</insert>
+
+池
+<insert>凶宅</insert>
+
+水池
+<insert>凶宅</insert>
+
+---
+
+左邊水來射午宮先初富
+貴後貧窮明師斷盡吉凶
+事左邊大富右邊窮
+
+此屋西邊有水池人若居
+之最不宜牛羊不旺人不
+吉先富後貧少人知
+
+西北乾宮有水池安身甚
+是不相宜不逢喜事多悲
+泣而雖富時終殘疾
+
+<vocab>凶宅, 午宮, 乾宮, 吉凶, 明師, 殘疾, 先初, 西北</vocab>
+
+<detected-images>
+[{"description": "Three diagrams depicting 'inauspicious houses' (凶宅) in relation to various water features (streams, pools) to illustrate Feng Shui principles.", "type": "diagram", "bbox": {"x": 0.125, "y": 0.13, "width": 0.75, "height": 0.34}, "gallery_quality": 0.8, "museum_rationale": "An informative and well-preserved woodblock illustration of traditional Chinese architectural geomancy (Yangzhai Feng Shui)."}]
+</detected-images>
+
+--- Page 11 ---
+<lang>zh</lang>
+<page-num>六</page-num>
+<header>三才圖會 宮室四卷</header>
+
+<insert>
+->**吉宅**<-
+
+山
+</insert>
+
+後邊有山可安莊家財盛
+茂人最強若居此地人丁
+旺子孫萬石有餘糧
+
+---
+
+<insert>
+山
+
+->**凶宅**<-
+</insert>
+
+前有大山不足論不可安
+莊立墳塋試問明師凶與
+吉若居此地定滅門
+
+---
+
+<insert>
+崗 ->**吉宅**<-
+</insert>
+
+此宅後邊有高崗南下居
+之第一強子孫興旺田蠶
+勝歲歲年年有陳糧
+
+<vocab>吉宅, 凶宅, 三才圖會, 宮室, 莊, 墳塋, 高崗, 子孫興旺, 陳糧</vocab>
+
+<detected-images>
+[
+{"description": "Auspicious residence diagram (吉宅) with a mountain (山) positioned behind the house site.", "type": "diagram", "bbox": {"x": 0.655, "y": 0.223, "width": 0.170, "height": 0.210}, "gallery_quality": 0.7, "museum_rationale": "A woodcut diagram from the Ming dynasty encyclopedia Sancai Tuhui illustrating favorable feng shui topography."},
+{"description": "Inauspicious residence diagram (凶宅) with a mountain (山) obstructing the front of the house.", "type": "diagram", "bbox": {"x": 0.428, "y": 0.185, "width": 0.150, "height": 0.240}, "gallery_quality": 0.7, "museum_rationale": "Classical geomantic illustration demonstrating a 'blocked' or unfavorable residential site."},
+{"description": "Auspicious residence diagram (吉宅) situated near a high mound or ridge (崗).", "type": "diagram", "bbox": {"x": 0.155, "y": 0.235, "width": 0.215, "height": 0.170}, "gallery_quality": 0.7, "museum_rationale": "Diagram from a traditional Chinese encyclopedia showing the benefits of settling near elevated ground (gang)."}
+]
+</detected-images>
+
+--- Page 12 ---
+<lang>zh</lang>
+
+<insert>
+->桑 桑<-
+->桑 **凶宅** 桑<-
+->桑 桑<-
+</insert>
+
+<insert>
+->林 墳 林<-
+->**凶宅**<-
+->林 墳 林<-
+</insert>
+
+<insert>
+->墳 **凶宅**<-
+</insert>
+
+---
+
+此宅四角有林桑禍起之
+時不可當若遇明師重改
+造竟教後輩受栖惶
+
+此宅前後有墳林凡事未
+通不稱心家財破敗終無
+吉常有非灾後有侵
+
+左邊孤墳莫施工此地安
+莊甚是凶疾病纏身不終
+吉家中常被鬼賊侵
+
+<vocab>凶宅, 桑, 林, 墳, 明師, 栖惶, 非灾, 安莊, 鬼賊</vocab>
+
+<detected-images>
+[{"description": "A geomantic diagram illustrating a house (labeled 凶宅, 'Inauspicious Residence') surrounded by mulberry trees (桑) at its corners and sides, which is considered a taboo layout.", "type": "diagram", "bbox": {"x": 0.582, "y": 0.125, "width": 0.258, "height": 0.335}, "gallery_quality": 0.8, "museum_rationale": "Clear representation of traditional Chinese architectural and landscaping taboos (Feng Shui) from a historical manual."},
+{"description": "A geomantic diagram showing a house (凶宅) situated between woods (林) and graves (墳) at both the front and back.", "type": "diagram", "bbox": {"x": 0.345, "y": 0.125, "width": 0.225, "height": 0.335}, "gallery_quality": 0.8, "museum_rationale": "Illustrates the inauspicious positioning of a residence relative to burial sites and forests in traditional Chinese geomancy."},
+{"description": "A geomantic diagram depicting a house (凶宅) with a solitary grave (墳) located immediately to its left side.", "type": "diagram", "bbox": {"x": 0.085, "y": 0.125, "width": 0.245, "height": 0.335}, "gallery_quality": 0.8, "museum_rationale": "A visual guide to Feng Shui prohibitions regarding the proximity of dwellings to isolated burial plots."}]
+</detected-images>
+
+--- Page 13 ---
+<lang>Chinese</lang>
+<page-num>三十</page-num>
+<meta>Traditional woodblock print; likely from a geomancy manual such as "Yang Zhai Shi Shu" (陽宅十書). Text consists of three sets of three columns, each corresponding to the diagram above it.</meta>
+
+---
+
+<insert>
+**吉**
+**宅**
+</insert>
+
+<insert>
+**吉**
+**宅**
+
+坵
+</insert>
+
+<insert>
+**吉**
+**宅**
+</insert>
+
+---
+
+此宅右短左邊長假令左
+短有何妨後邉<gloss>齊整</gloss>并圓
+吉庶人居之出賢良
+
+東北坵堖在艮方成家立
+計有何妨修造安莊然也
+吉富貴榮華世世昌
+
+左短右長却安然後面尖
+稍前面寬此地修造人口
+吉子孫興旺勝田蠶
+
+---
+
+<vocab>吉宅, 艮方, 坵堖, 修造, 榮華, 興旺, 田蠶</vocab>
+
+<detected-images>
+[{"description": "A horizontal row of three diagrams illustrating auspicious land plots for housing. The left and right diagrams show 'L-shaped' extensions (protrusions) on either the left or right side, while the middle diagram shows a rectangular plot with a small hillock (坵) located in the northeast (艮) direction. Each plot is labeled 'Lucky House' (吉宅).", "type": "diagram", "bbox": {"x": 0.165, "y": 0.119, "width": 0.704, "height": 0.347}, "gallery_quality": 0.7, "museum_rationale": "Clear and functional woodblock diagrams representing traditional Chinese architectural geomancy (Feng Shui). These illustrate specific spatial arrangements believed to bring prosperity."}]
+</detected-images>
+
+--- Page 14 ---
+<lang>zh</lang>
+<page-num>七</page-num>
+<header>三才圖會 住宅四卷</header>
+
+<insert>
+->山<-
+[ **凶宅** ]
+</insert>
+
+此宅東邊有大山又孤又
+寡又貧寒頻遭口舌多遭
+難百事先成後來難
+
+---
+
+<insert>
+->山<-
+[ **凶宅** ]
+->山<-
+</insert>
+
+此地觀之有何如前山後
+山不堪居家貧孤寡出賊
+子六畜死盡禍有餘
+
+---
+
+<insert>
+->高<-
+->高 **吉宅** 高<-
+->高<-
+</insert>
+
+中央正面四面高修蓋中
+宅福有餘牛羊六畜多興
+旺家道富貴出英豪
+
+<vocab>三才圖會, 住宅, 凶宅, 吉宅, 風水, 堪輿, 住宅四卷</vocab>
+
+<detected-images>
+[{"description": "Feng Shui diagram showing a residence (凶宅) with a mountain (山) to its East, designated as inauspicious.", "type": "diagram", "bbox": {"x": 0.612, "y": 0.138, "width": 0.287, "height": 0.332}, "gallery_quality": 0.75, "museum_rationale": "Woodblock illustration from the Ming dynasty encyclopedia Sancai Tuhui, documenting traditional Chinese geomantic principles for residential architecture."},
+{"description": "Feng Shui diagram showing a residence (凶宅) situated between two mountains (山), designated as inauspicious.", "type": "diagram", "bbox": {"x": 0.418, "y": 0.138, "width": 0.194, "height": 0.332}, "gallery_quality": 0.75, "museum_rationale": "Woodblock illustration from the Ming dynasty encyclopedia Sancai Tuhui, documenting traditional Chinese geomantic principles for residential architecture."},
+{"description": "Feng Shui diagram showing an auspicious residence (吉宅) surrounded by high ground (高) on four sides.", "type": "diagram", "bbox": {"x": 0.164, "y": 0.138, "width": 0.254, "height": 0.332}, "gallery_quality": 0.75, "museum_rationale": "Woodblock illustration from the Ming dynasty encyclopedia Sancai Tuhui, documenting traditional Chinese geomantic principles for residential architecture."}]
+</detected-images>
+
+--- Page 15 ---
+<lang>Chinese</lang>
+
+<meta>Historical woodblock print from a Chinese geomancy (Feng Shui) manual. The page illustrates three distinct house site configurations relative to road layouts, accompanied by diagnostic verses in traditional Chinese characters.</meta>
+
+->道<-
+->道<- <insert>凶宅</insert> ->道<-
+->道<-
+
+---
+
+->道 道<- <insert>先吉後凶</insert> ->道<-
+
+---
+
+->道<- <insert>凶宅</insert> ->道<-
+
+---
+
+四面交道主凶殃禍起人
+家不可當若不損財次禍
+死投河自縊井中亡
+此地只因道左邊久住先
+富後貧寒貴重之人終迪
+吉若逢賤者離家園
+兩邊白虎生灾殃百事難
+成有死傷賊人偷盜錢財
+破又兼多訟被官防
+
+<vocab>凶宅, 先吉後凶, 白虎, 灾殃, 迪吉, 交道, 投河</vocab>
+
+<detected-images>
+[{"description": "A set of three woodblock-printed diagrams illustrating the geomantic quality of house sites based on their position relative to roads. Each diagram is enclosed in a frame with labels for 'road' (道) and the nature of the house ('unlucky house' or 'first lucky then unlucky').", "type": "diagram", "bbox": {"x": 0.106, "y": 0.138, "width": 0.742, "height": 0.322}, "gallery_quality": 0.8, "museum_rationale": "A clear and representative example of traditional Chinese folk science illustration, specifically Feng Shui, showing how spatial layouts were categorized and analyzed through woodblock printing."}]
+</detected-images>
+
+--- Page 16 ---
+<warning>The image is a high-contrast black and white scan with some digital noise and compression artifacts, though the characters remain clearly legible.</warning>
+
+<lang>zh</lang>
+<header>三才圖會 宮室四卷</header>
+<page-num>八</page-num>
+
+水
+水 <insert>吉宅</insert> 道
+山
+
+---
+
+道
+<insert>吉宅</insert>
+水
+
+---
+
+<insert>
+先吉
+後凶
+</insert>
+道
+
+---
+
+此宅東北斜道行宅西大
+道主通亭雖然置下家財
+產破敗一時就滅傾
+宅東流水勢無窮宅西大
+道主亭通因何富貴一齊
+至右有白虎左青龍
+朱玄龍虎四神全男人富
+貴女人賢官祿不求而自
+至後代兒孫福遠年
+
+<vocab>三才圖會, 宮室, 吉宅, 先吉後凶, 朱玄龍虎, 官祿, 白虎, 青龍, 堪輿</vocab>
+
+<detected-images>
+[{"description": "Three woodcut geomantic (Feng Shui) diagrams illustrating house orientations in relation to environmental features such as roads (道), water (水), and mountains (山). The diagrams are separated by vertical lines and include boxed labels for house quality.", "type": "diagram", "bbox": {"x": 0.115, "y": 0.128, "width": 0.745, "height": 0.334}, "gallery_quality": 0.75, "museum_rationale": "These woodcuts are from the Sancai Tuhui, a major Chinese encyclopedia of the Ming Dynasty. They provide a clear visual representation of traditional geomantic principles applied to domestic architecture."}]
+</detected-images>
+
+--- Page 17 ---
+<lang>zh</lang>
+<header>三才圖會</header>
+<meta>宮室卷四</meta>
+
+## 水
+![diagram]
+<insert>凶宅</insert>
+![diagram]
+<gloss>墳</gloss>
+
+## 水
+![diagram]
+<insert>吉宅</insert>
+
+## 林
+![diagram]
+<insert>吉宅</insert>
+![diagram]
+<gloss>丘埠</gloss>
+
+## 林
+![diagram]
+<insert>吉宅</insert>
+![diagram]
+<gloss>山岡</gloss>
+
+---
+
+宅前有水後有墳十人遇
+此九人憂家財初有終耗
+散牛羊倒死禍無休
+此宅安居正可求西南水
+向東北流雖然重妻別無
+事三公九相近王侯
+宅前林木在兩傍乾有坵
+埠艮有峝若居此地家豪
+冨後代兒孫貴顯揚
+
+<vocab>三才圖會, 宮室, 凶宅, 吉宅, 丘埠, 山岡, 三公, 王侯, 乾, 艮</vocab>
+
+<detected-images>
+[{"description": "Four woodcut diagrams illustrating house placement principles (Feng Shui). The diagrams show relationships between dwellings and natural elements like water (水), forests (林), graves (墳), mounds (丘埠), and ridges (山岡), categorizing them as auspicious (吉宅) or inauspicious (凶宅).", "type": "diagram", "bbox": {"x": 0.11, "y": 0.13, "width": 0.76, "height": 0.35}, "gallery_quality": 0.8, "museum_rationale": "An excellent example of Ming dynasty technical illustration from the Sancai Tuhui, showcasing historical geomantic practices through clear visual symbolism."}]
+</detected-images>
+
+--- Page 18 ---
+<lang>zh</lang>
+<page-num>7</page-num>
+<meta>Woodblock print from a traditional Chinese geomancy (Feng Shui) manual, likely the "Yang Zhai Shi Shu" (陽宅十書 - Ten Books on Dwellings for the Living). The page illustrates auspicious landscape placements for residences.</meta>
+
+## 陵 坰 坵
+
+<insert>吉宅</insert>
+慢下
+
+-> 嶠 <-
+
+---
+
+## 水 河
+
+<insert>吉宅</insert>
+
+-> 高 &emsp; 高 <-
+
+---
+
+## 池
+
+長波
+<insert>吉宅</insert>
+
+-> 坰 &emsp; 高 &emsp; 陵 <-
+
+---
+
+前有坵陵後有崗西邊穩
+抱水朝陽東行慢下過一
+里此宅安居甚是強
+西來有水向東流東顯長
+河九曲溝後高綿遠兒孫
+勝禾穀田熟萬歲收
+後高有陵前近池西北瞻
+仰顯高危天賜富貴倉糧
+足輩輩兒孫着紫衣
+
+<vocab>吉宅, 堪輿, 坵陵, 崗, 倉糧, 輩輩, 嶠, 坰, 紫衣</vocab>
+
+<detected-images>
+[
+  {"description": "Feng Shui diagram illustrating an auspicious residence placement relative to mounds (陵坰坵) and a mountain peak (嶠).", "type": "diagram", "bbox": {"x": 0.60, "y": 0.11, "width": 0.28, "height": 0.34}, "gallery_quality": 0.7, "museum_rationale": "Historical woodblock illustration demonstrating traditional Chinese geomantic landscape principles."},
+  {"description": "Feng Shui diagram illustrating an auspicious residence placement near a river (水河).", "type": "diagram", "bbox": {"x": 0.38, "y": 0.11, "width": 0.22, "height": 0.34}, "gallery_quality": 0.7, "museum_rationale": "Historical woodblock illustration demonstrating traditional Chinese geomantic landscape principles."},
+  {"description": "Feng Shui diagram illustrating an auspicious residence placement near a pond (池) and surrounding landforms (坰, 陵).", "type": "diagram", "bbox": {"x": 0.12, "y": 0.11, "width": 0.26, "height": 0.34}, "gallery_quality": 0.7, "museum_rationale": "Historical woodblock illustration demonstrating traditional Chinese geomantic landscape principles."}
+]
+</detected-images>
+
+--- Page 19 ---
+<lang>zh</lang>
+<header>三才圖會 宮室四卷</header>
+<page-num>十</page-num>
+
+### 長波 <insert>吉宅</insert> 長波
+
+西有長波淮遠崗東有濟
+水鴦鴨昌若居此地多吉
+慶代代兒孫福祿强
+
+---
+
+### 坵 陵
+### <insert>凶宅</insert>
+### 道 平
+
+前邊左右有坵陵後面東
+道遠平平巽地開門家富
+貴不宜筑路子孫冲
+
+---
+
+### 池
+### <insert>吉宅</insert>
+### 坵 崗
+
+住宅西南有水池西北坵
+勢更相宜良地有崗多富
+貴子孫天錫着羅衣
+
+<vocab>三才圖會, 吉宅, 凶宅, 坵陵, 崗, 淮, 濟, 鴦鴨, 巽地, 筑路, 羅衣, 天錫, 陽宅</vocab>
+
+<detected-images>
+[{"description": "A set of three woodblock illustrations from the Ming-era encyclopedia 'Sancai Tuhui' depicting Feng Shui (geomantic) residential patterns. Each diagram shows a central 'residence' (宅) box surrounded by topographical and environmental features such as hills (坵, 陵), water (長波, 池), and roads (道). The layouts are labeled as either 'auspicious' (吉宅) or 'inauspicious' (凶宅).", "type": "diagram", "bbox": {"x": 0.155, "y": 0.138, "width": 0.718, "height": 0.354}, "gallery_quality": 0.8, "museum_rationale": "High-quality representative example of early modern Chinese architectural geomancy (Feng Shui) diagrams from a major 17th-century woodblock-printed encyclopedia."}]
+</detected-images>
+
+--- Page 20 ---
+<warning>The image is a woodcut print with some ink bleed and slight fading, but the text remains largely legible. The vertical lines and borders show some unevenness typical of early modern block printing.</warning>
+
+<lang>zh</lang>
+<meta>Woodcut illustration and text from a Feng Shui (geomancy) manual, likely 17th-18th century.</meta>
+
+<insert>
+<-道->
+
+<insert>凶宅</insert>
+</insert>
+<insert>
+<-道->
+
+<-道->
+
+<insert>凶宅</insert>
+</insert>
+<insert>
+->高埠<-
+   /\
+  /  \
+<-道->
+<-道->
+<-道->
+<insert>吉宅</insert>
+   /\
+  /  \
+  ->崗<-
+</insert>
+
+---
+
+南來大路正冲門速避直
+行過路人急取大石宜改
+鎮免教後人哭聲頻
+
+東西有道直冲懷定主風
+病疾傷灾從東多用醫不
+可兒孫難免哭聲來
+
+前有高埠後有崗東來流
+水西道長子孫世世居官
+位紫袍玉帶拜君王
+
+<vocab>吉宅, 凶宅, 冲門, 高埠, 崗, 紫袍玉帶, 勘輿, 風水</vocab>
+
+<detected-images>
+[{"description": "A geomantic diagram illustrating three different house placements relative to roads (道) and topography. The right two are labeled 'Inauspicious House' (凶宅) due to road interference, while the left one is labeled 'Auspicious House' (吉宅) featuring protective mounds (高埠, 崗).", "type": "diagram", "bbox": {"x": 110, "y": 120, "width": 730, "height": 330}, "gallery_quality": 0.7, "museum_rationale": "An informative woodcut diagram from a historical Feng Shui manual, demonstrating traditional architectural and spiritual beliefs through spatial layout."}]
+</detected-images>
+
+--- Page 21 ---
+<lang>zh</lang>
+<page-num>十一</page-num>
+<header>三才圖會 宮室四卷</header>
+
+嶺　河　崗　　　高　　平　　　　崗　　平
+<insert>吉宅</insert>　　　　<insert>吉宅</insert>　　　　　<insert>吉宅</insert>
+　　　　　　　　平　　高　　　高　高　高
+
+---
+
+南北長河又寬平東嶺西　西北仰高數里強東南巽　乾坤艮坎土崗高前平地
+崗三兩層左右宅前來相　地有重崗坤艮若平家富　勢右相饒立宅居之人口
+顧兒孫定出武官人　　　貴田蠶萬倍足牛羊　　　旺兒孫出眾又莊豪
+
+<vocab>三才圖會, 宮室, 吉宅, 乾坤艮坎, 巽, 宅居, 崗, 嶺, 武官</vocab>
+
+<detected-images>
+[{"description": "Three schematic diagrams from the Sancai Tuhui encyclopedia illustrating 'auspicious houses' (吉宅) in relation to topographical features like hills (崗, 嶺), rivers (河), and varying elevations (高, 平). The diagrams use simple line drawings for mountains and water alongside textual labels for terrain types.", "type": "diagram", "bbox": {"x": 0.13, "y": 0.12, "width": 0.74, "height": 0.33}, "gallery_quality": 0.75, "museum_rationale": "Significant historical illustration of Chinese geomantic (Feng Shui) architectural principles from a major Ming Dynasty encyclopedia."}]
+</detected-images>
+
+--- Page 22 ---
+<lang>Chinese</lang>
+<meta>Woodblock print on paper, likely from a Feng Shui (geomancy) manual or almanac. Clear text and diagrams.</meta>
+
+->寛<-
+->尖<-
+-><insert>凶宅</insert><-
+->尖<-
+->寛<-
+
+---
+
+-><insert>凶宅</insert><-
+->林墳<-
+
+<margin>道</margin>
+
+---
+
+-><insert>吉宅</insert><-
+->山<-
+
+---
+
+東西寛大兩頭尖嶺上安
+墳不足看此地若無前後
+勢家中男女衆人嫌
+
+---
+
+艮地孤墳一墓安目前雖
+曰不相妨久後痴聾並唖
+咽令人有病治難痊
+
+---
+
+右邊白虎北聯山左有青
+龍綠水潺若居此地出公
+相不入文班入武班
+
+<vocab>凶宅, 吉宅, 林墳, 艮地, 孤墳, 痴聾, 唖咽, 白虎, 青龍, 公相, 文班, 武班</vocab>
+
+<detected-images>
+[
+  {"description": "Diagram of a diamond-shaped plot of land, labeled as an inauspicious house (凶宅). The shape is noted as being 'pointy' (尖) at the top and bottom and 'wide' (寛) on the sides.", "type": "diagram", "bbox": {"x": 0.627, "y": 0.126, "width": 0.264, "height": 0.329}, "gallery_quality": 0.6, "museum_rationale": "Typical woodblock illustration for geomantic (Feng Shui) land classification."},
+  {"description": "Diagram of an inauspicious house (凶宅) situated near a burial mound (林墳).", "type": "diagram", "bbox": {"x": 0.384, "y": 0.126, "width": 0.243, "height": 0.329}, "gallery_quality": 0.6, "museum_rationale": "Illustrates the geomantic taboo of placing a residence in close proximity to graves."},
+  {"description": "Diagram of an auspicious house (吉宅) with a mountain (山) behind it, separated from the neighboring plot by a road (道).", "type": "diagram", "bbox": {"x": 0.141, "y": 0.126, "width": 0.243, "height": 0.329}, "gallery_quality": 0.7, "museum_rationale": "Depicts the ideal 'backing a mountain' (靠山) configuration in traditional Chinese architecture and site selection."}
+]
+</detected-images>
+
+--- Page 23 ---
+<lang>Chinese</lang>
+<page-num>二下</page-num>
+<meta>Woodblock print from a traditional Feng Shui manual, likely a version of the Yangzhai Shishu (陽宅十書). The page contains three diagrams of house placements (configurations) with accompanying explanatory verses.</meta>
+
+---
+
+->**[Diagram Layout]**<-
+
+| Right Configuration | Middle Configuration | Left Configuration |
+| :---: | :---: | :---: |
+| 林 | 丘 | |
+| **凶宅** | **吉宅** | **凶宅** |
+| 林 | 坡 | 道 |
+| | (河 / River area) | |
+
+---
+
+林中不得去安居田宅莫
+把作丘墳卧蚕歲歲多耗
+散宅内驚憂鬼成精
+宅東南北有長河坤乾丘
+墓近大坡此地若居大富
+貴更兼後代子孫多
+北有大道正冲懷多招盜
+賊破錢財男人有病常常
+害貧窮不和鬧有爭
+
+<vocab>凶宅, 吉宅, 坤乾, 丘, 坡, 招盜, 卧蚕, 冲懷</vocab>
+
+<detected-images>
+[{"description": "A Feng Shui diagram illustrating three house sites (one '吉宅' or auspicious, two '凶宅' or inauspicious) in relation to geographical features like forests (林), mounds (丘), slopes (坡), a river (河), and a road (道).", "type": "diagram", "bbox": {"x": 105, "y": 128, "width": 776, "height": 343}, "gallery_quality": 0.8, "museum_rationale": "An informative woodblock illustration showing traditional Chinese geomantic principles (Feng Shui) for house placement."}]
+</detected-images>
+
+--- Page 24 ---
+<lang>zh</lang>
+<page-num>二十四</page-num>
+<meta>The page features a woodblock-printed Feng Shui (geomancy) guide for dwellings (Yangzhai). It includes three diagrammatic layouts of houses relative to terrain features (roads, slopes, water) and corresponding mnemonic verses detailing the resulting fortunes or misfortunes.</meta>
+
+->道 道<-
+<insert>吉宅</insert>
+
+低下
+低下 <insert>凶宅</insert>
+->高<-
+
+水
+林溝
+<insert>凶宅</insert>
+
+---
+
+東西有道在門前莫把行
+人斷遮攔宅内更有車馬
+過子孫富貴的安然
+
+兩邊低下後邊高婦人守
+寡受勤勞多招接脚并義
+子年深猶自出貧消
+
+乾地林木婦女淫溝河重
+見死佳人坤地水流妨老
+毋子孫後代受孤貧
+
+<vocab>吉宅, 凶宅, 坤地, 乾地, 孤貧, 陽宅, 接脚</vocab>
+
+<detected-images>
+[{"description": "A geomantic diagram illustrating three house orientations (one auspicious '吉宅' and two inauspicious '凶宅') positioned relative to roads (道), low/high ground (低下/高), and water features (水/林溝).", "type": "diagram", "bbox": {"x": 135, "y": 122, "width": 715, "height": 339}, "gallery_quality": 0.7, "museum_rationale": "This is a functional woodblock diagram from a traditional Chinese architectural or divination manual, demonstrating early modern spatial planning and belief systems."}]
+</detected-images>
+
+--- Page 25 ---
+<warning>The image contains some ink bleed and faded characters, particularly on the far left margin and within the diagrams.</warning>
+
+<lang>Chinese</lang>
+<page-num>二十一</page-num>
+
+---
+
+<insert>
+**墳**
+</insert>
+
+<insert>
+->**吉宅**<-
+</insert>
+
+<insert>
+**林**
+</insert>
+
+---
+
+<insert>
+**坵**
+</insert>
+
+<insert>
+->**凶宅**<-
+</insert>
+
+<insert>
+**廟** 寺
+</insert>
+
+---
+
+庚辛壬癸有墳林可取千
+淋欝欝林正對宅舍六十
+步兒孫換改舊家門
+
+寺廟坵墳切要知不分南
+北共東西離宅未有一百
+步已後傷人殺子孫
+
+此個明堂出寡娘少年眼
+疾墮胎亡癆瘵氣疾人丁
+有流水兒孫實可傷
+
+<vocab>吉宅, 凶宅, 明堂, 庚辛壬癸, 癆瘵, 坵墳, 宅舍</vocab>
+
+<detected-images>
+[{"description": "A geomantic diagram from a Feng Shui manual illustrating the positioning of 'Auspicious' and 'Inauspicious' residences (吉宅 and 凶宅) relative to landmarks such as graves, hills, temples, and woods.", "type": "diagram", "bbox": {"x": 0.12, "y": 0.14, "width": 0.73, "height": 0.32}, "gallery_quality": 0.85, "museum_rationale": "A classic example of historical woodblock illustration for geomantic instruction, showing spatial relationships between dwellings and their environment."}]
+</detected-images>
+
+--- Page 26 ---
+<lang>zh</lang>
+<page-num>十三</page-num>
+<header>地理大全四卷</header>
+<meta>visible ink bleed through from the reverse page</meta>
+
+<insert>主脚跟</insert>
+<insert>患脚跟</insert>
+
+青龍若有二山隨其家添
+女被人迷招郎義子其家
+破不出軍時有匠賊逆水
+爲吉出人狡猾順水爲凶
+換姓過活
+
+白虎若見二山隨定教婦
+女被人迷二姓之家來合
+活忤逆人家媳罵姑
+
+若見明堂似廉貞斷定眼
+疾少光明家生氣疾虚勞
+死將來致死滿門庭
+
+<vocab>青龍, 白虎, 明堂, 廉貞, 逆水, 順水, 招郎, 義子, 匠賊, 忤逆, 虚勞</vocab>
+
+<detected-images>
+[{"description": "Geomantic diagram showing two pavilions above two foot-like landforms, labeled '主脚跟' (main heel).", "type": "diagram", "bbox": {"x": 0.615, "y": 0.141, "width": 0.235, "height": 0.289}, "gallery_quality": 0.75, "museum_rationale": "A characteristic illustration of traditional Chinese geomancy (Feng Shui) showing how architectural placement is read in relation to mountain spurs ('heels')."},
+{"description": "Geomantic diagram showing one large and two small pavilions above two foot-like landforms, labeled '患脚跟' (suffering heel).", "type": "diagram", "bbox": {"x": 0.378, "y": 0.141, "width": 0.24, "height": 0.289}, "gallery_quality": 0.75, "museum_rationale": "Depicts specific geomantic patterns used to diagnose the fortune of a site based on the number and arrangement of buildings relative to land shapes."},
+{"description": "Geomantic diagram showing a single pavilion above a six-pointed star-like pattern, representing the 'Lianzhen' (Lusty Chastity) star formation in the Bright Hall (Ming Tang).", "type": "diagram", "bbox": {"x": 0.145, "y": 0.141, "width": 0.23, "height": 0.289}, "gallery_quality": 0.75, "museum_rationale": "Illustrates the application of 'Nine Stars' geomancy theory to landscape features in front of a dwelling."}]
+</detected-images>
+
+--- Page 27 ---
+<lang>zh</lang>
+<meta>Woodblock print from a traditional Chinese geomancy (Feng Shui) manual. The page illustrates and describes three specific topographical configurations of a "Ming Tang" (Bright Hall) and their associated divinatory outcomes.</meta>
+
+---
+
+<insert>
+**[Right Section]**
+(Diagram of a building above a rugged, irregular mountain formation)
+</insert>
+
+明堂形似破軍星不出軍
+兮出匠貞槓屍外死家退
+落孤寡臨門二姓人
+
+---
+
+<insert>
+**[Middle Section]**
+(Diagram of a building above two crescent-shaped features)
+->文曲星<-
+->蛾眉<-
+</insert>
+
+文曲明堂在面前男女風
+聲此處生男少女多真不
+吉招郎納婿過浮生
+
+---
+
+<insert>
+**[Left Section]**
+(Diagram of two buildings above a winding watercourse)
+->玉帶水<-
+</insert>
+
+門前若有玉帶水高官必
+定容易起出人代代讀書
+聲榮顯冨里貢耀閭閻
+
+---
+
+<vocab>明堂 (Ming Tang), 破軍星 (Pojun Star), 文曲 (Wenqu), 蛾眉 (Moth eyebrow/Crescent), 玉帶水 (Jade Belt Water), 閭閻 (Lü Yan - neighborhood/village)</vocab>
+
+<detected-images>
+[{"description": "Three Feng Shui diagrams illustrating specific topographical features (rugged terrain, crescent shapes, and winding water) associated with architectural placement and divinatory interpretations.", "type": "diagram", "bbox": {"x": 0.09, "y": 0.12, "width": 0.74, "height": 0.33}, "gallery_quality": 0.75, "museum_rationale": "Informative woodblock illustrations documenting traditional Chinese geomantic theories and the visual metaphors used in Feng Shui manuals."}]
+</detected-images>
+
+--- Page 28 ---
+<lang>zh</lang>
+<header>三才圖會 住宅一之卷 十四</header>
+
+---
+
+<insert>
+火炒
+</insert>
+
+> 此樹門前人不知
+> 家招寡母哭悲悲
+> 二姓同居招女婿
+> 血財損盡又瘟迷
+
+> 門前若有兩等樹
+> 斷定二姓同居住
+> 大富之家招二妻
+> 孤翁寡母泪沾衣
+
+> 面前兩沙若有此
+> 左火尖來兄必死
+> 右火冲身弟必亡
+> 當面尖射中此是
+
+---
+
+<vocab>三才圖會, 住宅, 寡母, 二姓同居, 瘟迷, 火尖, 尖射, 火沙</vocab>
+
+<detected-images>
+[
+  {"description": "Woodcut diagram showing a house entrance with a single tree, associated with an inauspicious omen of widowhood and financial loss.", "type": "woodcut", "bbox": {"x": 0.59, "y": 0.14, "width": 0.27, "height": 0.33}, "gallery_quality": 0.7, "museum_rationale": "An illustration from the Ming-era encyclopedia Sancai Tuhui, specifically the 'Zhu Zhai' (Dwellings) section, showing early modern Chinese architectural geomancy (feng shui)."},
+  {"description": "Woodcut diagram of a house with two distinct types of trees at the gate, interpreted as a sign of mixed family residences and loss.", "type": "woodcut", "bbox": {"x": 0.35, "y": 0.14, "width": 0.24, "height": 0.33}, "gallery_quality": 0.7, "museum_rationale": "Representative of traditional Chinese instructional diagrams for identifying domestic portents through landscape features."},
+  {"description": "Woodcut diagram of a house facing a criss-crossed landform labeled '火炒' (likely a variant of 火砂/Fire Sand), signifying lethal 'pointed' energy.", "type": "woodcut", "bbox": {"x": 0.11, "y": 0.14, "width": 0.24, "height": 0.33}, "gallery_quality": 0.7, "museum_rationale": "A visual guide to 'Sha Qi' (harmful energy) landforms in classical Chinese geomancy, illustrating the concept of 'pointed shooting' (尖射)."}
+]
+</detected-images>
+
+--- Page 29 ---
+<lang>zh</lang>
+
+---
+
+(Right Panel Diagram Text)
+二塘
+三塘
+
+(Middle Panel Diagram Text)
+逆水
+谷將
+
+---
+
+門前三塘及二一塘必啼孤
+子寡母娘斷出其家真禍
+禍小兒落水泪汪汪
+逆水廉貞為谷將順水廉
+貞是退神又各喚作訟詞
+筆出人狡猾不堪論
+明堂若見似芒槌少年枉
+死此中是吐血傷人凶惡
+死少年寡母紛紛起
+
+<vocab>三塘, 二塘, 逆水, 谷將, 廉貞, 退神, 訟詞, 筆, 明堂, 芒槌, 吐血, 寡母</vocab>
+
+<detected-images>
+[
+  {"description": "A set of three diagrams illustrating Feng Shui formations (Yang Zhai). The right panel shows a house with two groups of ponds (labeled '二塘' and '三塘'). The middle panel shows a house with a zigzag path or watercourse (labeled '逆水' and '谷將'). The left panel shows a house next to a large stone formation.", "type": "diagram", "bbox": {"x": 0.11, "y": 12, "width": 0.77, "height": 0.32}, "gallery_quality": 0.7, "museum_rationale": "Clear woodblock illustration of traditional geomantic (Feng Shui) principles, showing the relationship between house positioning and surrounding features like ponds and water flow."}
+]
+</detected-images>
+
+--- Page 30 ---
+<lang>Chinese</lang>
+<header>三才圖會 宮室四卷</header>
+<page-num>十五</page-num>
+
+---
+
+若見長頸鴨頭前 淫亂風
+聲處處傳 孤寡少年不出
+屋 男跏女跛不堪言
+
+---
+
+明堂三尖并四尖 斷他致
+死禍淹淹 定出氣淚及患
+眼 更兼脚疾其難痊
+
+---
+
+若見明堂三個角 瞎眼兒
+孫因此着 單傳人口多少
+亡 氣痛其家常不脫
+
+<vocab>三才圖會, 宮室, 明堂, 風水, 長頸, 鴨頭, 瞎眼</vocab>
+
+<detected-images>
+[{"description": "A series of six diagrams illustrating architectural and geomantic (Feng Shui) principles. The top row shows traditional Chinese buildings, while the bottom row shows geometric and organic shapes representing land formations or courtyard layouts known as Mingtang.", "type": "diagram", "bbox": {"x": 0.17, "y": 0.11, "width": 0.75, "height": 0.34}, "gallery_quality": 0.7, "museum_rationale": "This page is from the Sancai Tuhui, a major late Ming Dynasty encyclopedia. These diagrams provide historical insight into traditional Chinese architectural theories and the cultural significance of geomancy in spatial design."}]
+</detected-images>
+
+--- Page 31 ---
+<lang>zh</lang>
+<page-num>七</page-num>
+<header>三才圖會 山宅四</header>
+<meta>Source: Sancai Tuhui (Collected Illustrations of the Three Realms), section on Mountain Dwellings (山宅), Book 4. Woodblock print.</meta>
+<vocab>明堂, 孤峯, 獨樹, 退神, 順水, 僧道, 尼姑, 瘟瘼, 涕流</vocab>
+
+---
+
+### [圖例]
+
+->**孤峯如笠**<-
+->**獨樹**<-
+
+->**退神順水**<-
+
+---
+
+明堂汲轉似裙頭，家中淫
+亂不如羞，孤寡少亡端的
+有，瘟瘼麻痘涕流。
+
+獨樹孤峯如頂笠，僧道尼
+姑從此出，更出瘟疾眼無
+光，忤逆争闘事不一。
+
+面前退神挿明堂，代代兒
+孤主少亡，順水田園多賣
+盡，家中縱好也徒然。
+
+<detected-images>
+[
+  {"description": "A set of three diagrams illustrating auspicious and inauspicious landscape and architectural features in Feng Shui. The middle diagram shows a single tree beneath a hat-shaped peak ('Lone peak like a bamboo hat'). The left diagram shows a gate and a water pattern labeled 'Receding spirit follows the water'.", "type": "diagram", "bbox": {"x": 160, "y": 115, "width": 690, "height": 335}, "gallery_quality": 0.7, "museum_rationale": "Classic woodblock illustrations from the Ming Dynasty encyclopedia Sancai Tuhui, demonstrating period geomantic beliefs and architectural layout theory."}
+]
+</detected-images>
+
+--- Page 32 ---
+<lang>Chinese</lang>
+<meta>Woodblock print, possibly from a Feng Shui (geomancy) manual such as the 'Kanyu' (堪輿) tradition.</meta>
+
+面前一山如人舞家中定
+出風顛子時常妖恠入家
+門手足之灾定不虚
+
+---
+
+此個山頭在面前風癱人
+出退田園獻花淫慾多端
+事老于將來把火燃
+
+---
+
+若見明堂似祿存三年兩
+度定遭瘟蛇傷牛闘風傷
+事曲背跎腰聾啞人
+
+<vocab>風顛, 妖恠, 風癱, 明堂, 祿存, 瘟, 曲背, 跎腰</vocab>
+
+<detected-images>
+[{"description": "Three woodcut panels depicting architectural structures (shrine-like gates) above specific abstract landform shapes used in Feng Shui divination.", "type": "diagram", "bbox": {"x": 0.163, "y": 0.138, "width": 0.673, "height": 0.316}, "gallery_quality": 0.75, "museum_rationale": "A characteristic example of traditional Chinese woodblock illustration for geomancy, showing how physical shapes in the landscape (mountains/valleys) were thought to influence the health and morality of a household."}]
+</detected-images>
+
+--- Page 33 ---
+<lang>zh</lang>
+<page-num>二十一</page-num>
+<header>二十一 圖會</header>
+<meta>Woodblock print from a geomancy (feng shui) manual, depicting inauspicious landforms (shā) and their divinatory meanings.</meta>
+
+> 若見明堂似牛軛，定斷其家會做賊。
+> 瘟瘼疾病不離門，少死人丁哭不絕。
+> 
+> ---
+> 
+> 拖尸之山如此樣，勸君仔細看形相。
+> 縊頸之山白路行，時師法術要消詳。
+> 
+> ---
+> 
+> 若見明堂似蜒蚰，黄腫随身出雲遊。
+> 懶惰兒孫帶脚疾，兒孫產難盡遭尤。
+
+<vocab>明堂, 牛軛, 拖尸, 縊頸, 蜒蚰, 堪輿, 瘟瘼</vocab>
+
+<detected-images>
+[
+  {"description": "Diagram of a 'Ming Tang' shaped like an ox yoke (牛軛), indicating theft and disease.", "type": "diagram", "bbox": {"x": 0.63, "y": 0.104, "width": 0.222, "height": 0.28}, "gallery_quality": 0.7, "museum_rationale": "Representative example of traditional Chinese geomantic woodblock illustration showing the relationship between architecture and landform shapes."},
+  {"description": "Diagram of 'Dragging Corpse' (拖尸) and 'Hanging Neck' (縊頸) mountains, characterized by a long diagonal path.", "type": "diagram", "bbox": {"x": 0.385, "y": 0.104, "width": 0.218, "height": 0.28}, "gallery_quality": 0.7, "museum_rationale": "Clear depiction of inauspicious landscape features used in historical divination practices."},
+  {"description": "Diagram of a 'Ming Tang' shaped like a slug (蜒蚰), indicating laziness and physical ailments.", "type": "diagram", "bbox": {"x": 0.138, "y": 0.104, "width": 0.218, "height": 0.28}, "gallery_quality": 0.7, "museum_rationale": "Stylized representation of wavy landforms in traditional feng shui iconography."}
+]
+</detected-images>
+
+--- Page 34 ---
+<lang>Chinese</lang>
+<meta>This page appears to be from a pre-modern Chinese manual on geomancy (Feng Shui) or residential divination (阳宅风水). It illustrates three specific configurations of trees near a house and provides rhymed verses explaining their ominous or auspicious meanings.</meta>
+
+---
+
+竹木倒垂在水邊小兒落
+水不堪言欄柵添置猶防
+可更有瘟灾發酒顛
+
+獨樹兩枝冲上天牵連官
+事惹憂煎斷他年月無移
+改坐向官主細推言
+
+獨樹生來無破相必定換
+妻孤寡真孤辰寡宿定分
+明無兒無女妙通神
+
+<vocab>竹木, 瘟灾, 酒顛, 獨樹, 牵連官事, 憂煎, 破相, 孤辰, 寡宿, 妙通神</vocab>
+
+<detected-images>
+[{"description": "Feng Shui diagram illustrating a leafy tree in front of a house, referred to as the 'Single Tree' (獨樹) configuration.", "type": "diagram", "bbox": {"x": 0.12, "y": 0.13, "width": 0.24, "height": 0.32}, "gallery_quality": 0.75, "museum_rationale": "A clear example of traditional Chinese woodblock illustration used for practical divinatory manuals, showing the integration of architecture and landscape symbolism."},
+{"description": "Feng Shui diagram showing a tree with a trunk splitting into two upright branches (獨樹兩枝冲上天) positioned before a house gate.", "type": "diagram", "bbox": {"x": 0.36, "y": 0.13, "width": 0.22, "height": 0.32}, "gallery_quality": 0.75, "museum_rationale": "Illustrates the symbolic language of pre-modern Chinese geomancy where botanical forms are linked to social outcomes like legal troubles (官事)."},
+{"description": "Feng Shui diagram depicting a tree leaning over a rock and a body of water (竹木倒垂在水邊) near a house entrance.", "type": "diagram", "bbox": {"x": 0.58, "y": 0.13, "width": 0.27, "height": 0.32}, "gallery_quality": 0.75, "museum_rationale": "A visual mnemonic for environmental hazards, used here to warn of domestic accidents and health issues."}]
+</detected-images>
+
+--- Page 35 ---
+<lang>zh</lang>
+
+---
+
+祿存重樹在門前二房暗
+啞不能言又主出人瘸跛
+疾招瘟動火主憂煎
+
+黄泉破軍有藤樹斷定于
+連官事至攀扯相爭入法
+場只為姦情盜賊赴
+
+黄泉破軍若有塘必主末
+兒落水亡祿存有廟及空
+屋必主陰人自縊當
+
+---
+
+<vocab>祿存, 黃泉, 破軍, 陰人, 自縊, 瘸跛, 姦情</vocab>
+
+<detected-images>
+[{"description": "Three woodcut diagrams for feng shui (geomancy) divination. From right to left: a shrine with a tree (祿存重樹), a shrine with a willow or vine-wrapped tree (藤樹), and a shrine with a pond (有塘).", "type": "diagram", "bbox": {"x": 0.126, "y": 0.145, "width": 0.751, "height": 0.328}, "gallery_quality": 0.8, "museum_rationale": "An informative and clear example of traditional Chinese block-printed instructional diagrams for geomancy, illustrating the relationship between architectural structures and natural features in folk belief."}]
+</detected-images>
+
+--- Page 36 ---
+<lang>zh</lang>
+<page-num>十八</page-num>
+<header>三才圖會 宮室四卷</header>
+
+---
+
+小屋孤峯三二兩交迭迭重
+重寡婆招墮胎瞎眼此中
+出說與時師仔細消
+
+停喪破屋在面前其家官
+事起連連常招怪物門庭
+入血財盡死又瘟纒
+
+此樹人家忤逆真其家兄
+弟打相論子罵父亏天道
+滅媳欺姑媽失人倫
+
+<vocab>三才圖會, 宮室, 孤峯, 墮胎, 忤逆, 人倫, 血財, 瘟纒</vocab>
+
+<detected-images>
+[
+  {"description": "Diagram illustrating 'Small houses and solitary peaks' (小屋孤峯), showing stacked shrine-like structures representing a negative Feng Shui arrangement.", "type": "diagram", "bbox": {"x": 0.605, "y": 142, "width": 0.250, "height": 332}, "gallery_quality": 0.7, "museum_rationale": "Illustrative woodcut from the Sancai Tuhui, a renowned Ming dynasty encyclopedia, depicting geomantic architectural taboos."},
+  {"description": "Diagram illustrating 'Broken house for mourning' (停喪破屋), showing architectural arrangements believed to cause legal troubles and illness.", "type": "diagram", "bbox": {"x": 0.355, "y": 142, "width": 0.250, "height": 332}, "gallery_quality": 0.7, "museum_rationale": "Standard geomantic illustration from the Ming dynasty 'Sancai Tuhui' showing structural omens."},
+  {"description": "Diagram of a gnarled tree positioned in front of a structure, representing the 'unfilial tree' omen that causes family discord.", "type": "diagram", "bbox": {"x": 0.105, "y": 142, "width": 0.250, "height": 332}, "gallery_quality": 0.7, "museum_rationale": "Visual representation of environmental Feng Shui principles regarding the relationship between flora and domestic harmony."}
+]
+</detected-images>
+
+--- Page 37 ---
+<lang>zh</lang>
+
+<warning>High contrast woodblock print; some characters are slightly blurred but legible through context.</warning>
+
+離鄉之樹頭向外定知落
+水遭徒配曲背駝腰瞎眼
+人小鬼入家驚作害
+鬼桩之樹癰腫前盲聾喑
+啞痼病纏婦人惹桩常來
+宅偷雞美犬使人顛
+縊頸之樹藤纏上要在祿
+存方上見婦人口舌攪親
+隣遭瘟動火入黃泉
+
+<vocab>離鄉之樹, 鬼桩之樹, 縊頸之樹, 癰腫, 盲聾喑啞, 祿存, 陽宅, 風水</vocab>
+
+<detected-images>
+[{"description": "A row of three woodcut diagrams illustrating 'Yang Zhai' (house) feng shui omens related to the shapes and positions of trees. The right diagram shows a tree leaning away from the house (Tree of Leaving Home); the middle shows a gnarled, knotted tree (Ghost Stake Tree); the left shows a tree entwined with vines (Strangling Tree). Each diagram depicts a traditional house and the specific tree formation mentioned in the accompanying text.", "type": "woodcut", "bbox": {"x": 160, "y": 128, "width": 692, "height": 313}, "gallery_quality": 0.85, "museum_rationale": "High-quality vernacular woodblock illustration from a traditional Chinese architectural or geomancy manual, providing a visual guide to folk beliefs and symbolic landscape analysis."}]
+</detected-images>
+
+--- Page 38 ---
+<lang>zh</lang>
+<page-num>十九</page-num>
+<header>三才圖會</header>
+<meta>住宅卷四</meta>
+<warning>High-contrast woodblock print with some ink bleeding and slight blurring on the right edge.</warning>
+
+樁樹腫頭又腫腰姦邪淫
+亂小鬼妖猫鼠猪雞并作
+怪疾病癆瘵不曾饒
+
+空心大樹在門前婦人癆
+病叫皇天萬般吃藥皆無
+效除了之時禍斷根
+
+妖桩之樹人不識文曲之
+方真不吉男貪淫慾女貪
+花破壞風聲情似蜜
+
+<vocab>三才圖會, 住宅, 樁樹, 癆瘵, 文曲, 姦邪, 風水</vocab>
+
+<detected-images>
+[{"description": "Three woodcut panels illustrating Feng Shui taboos related to trees near houses. The right panel shows a gnarled tree, the center panel shows a tree with '空心' (hollow heart) inscribed on its trunk, and the left panel shows two slender trees.", "type": "woodcut", "bbox": {"x": 0.14, "y": 14, "width": 0.73, "height": 0.35}, "gallery_quality": 0.75, "museum_rationale": "This is a classic illustration from the Sancai Tuhui, an influential Ming dynasty encyclopedia. It provides visual context for traditional Chinese architectural and geomantic beliefs (Feng Shui), specifically regarding the auspiciousness of vegetation surrounding a residence."}]
+</detected-images>
+
+--- Page 39 ---
+<lang>zh</lang>
+<header>三才圖會</header>
+<header>宮室四卷</header>
+<page-num>三</page-num>
+
+<insert>
+[Diagram: A house gate next to a tree with a prominent bulbous growth on its trunk]
+</insert>
+
+<insert>
+[Diagram: A house gate with an earthen mound to its side]
+或土堆
+或右墩
+</insert>
+
+<insert>
+[Diagram: A house gate with a winding path leading to the entrance]
+路捲向前
+</insert>
+
+---
+
+腫頭之樹人難辨破軍方
+位不可見生離外死不思
+歸寡母泪濕香腮面
+
+面前若見生土堆墮胎患
+眼也難開寡婦少亡不出
+屋有聲暗啞又生灾
+
+門前水路捲向前家中淫
+亂不堪言孤寡少亡傷敗
+事家中動火又瘟纏
+
+<vocab>三才圖會, 宮室, 破軍方, 土堆, 右墩, 路捲向前, 寡母, 瘟纏</vocab>
+
+<detected-images>
+[{"description": "A row of three woodcut diagrams from the Ming dynasty encyclopedia 'San Cai Tu Hui', depicting architectural features and their geomantic (Feng Shui) implications: a bulbous 'swollen-head' tree, an earth mound, and a winding path in front of house gates.", "type": "woodcut", "bbox": {"x": 0.12, "y": 0.13, "width": 0.74, "height": 0.35}, "gallery_quality": 0.85, "museum_rationale": "Significant woodblock illustration from the famous 1609 Chinese encyclopedia 'San Cai Tu Hui'. It is a key primary source for historical architectural practices and traditional folk beliefs regarding domestic topography."}]
+</detected-images>
+
+--- Page 40 ---
+<lang>zh</lang>
+
+->尖 砂<-
+
+->八  
+字  
+水<-
+
+---
+
+門前若見此尖沙枝軍做
+賊夜行家出人眼疾忤逆
+有兄弟分居餓死爺
+門前水分八字圖賣盡田
+園離鄉土淫亂其家不用
+媒定出長小離房祖
+若有此塘當面前代代癆
+疾不堪言一塘便斷一人
+喪何罷不與外人傳
+
+<vocab>尖砂, 八字水, 癆疾, 忤逆, 風水, 堪輿</vocab>
+
+<detected-images>
+[{"description": "Three woodcut diagrams illustrating architectural orientations in Feng Shui. The right panel is labeled 'Pointed Sand' (尖砂), the middle shows 'Eight-character Water' (八字水), and the left illustrates a house with a pond (塘) in front. Each diagram provides a visual representation for the geomantic rules described in the verses below.", "type": "diagram", "bbox": {"x": 0.112, "y": 0.091, "width": 0.738, "height": 0.329}, "gallery_quality": 0.8, "museum_rationale": "Traditional woodblock illustrations from a Chinese geomancy (Feng Shui) manual, representing the pedagogical style of historical technical manuscripts where visual diagrams and mnemonic verses are integrated."}]
+</detected-images>
+
+--- Page 41 ---
+<lang>zh</lang>
+
+<meta>image quality: clear, block-printed; catchwords: none; orientation: vertical</meta>
+
+---
+
+| | | |
+| :---: | :---: | :---: |
+| <detected-images>[{"description": "A pavilion above a pond-like landform labeled 'Large Pond' (大池).", "type": "diagram", "bbox": {"x": 0.613, "y": 145, "width": 0.228, "height": 0.283}, "gallery_quality": 0.7, "museum_rationale": "A classic example of a geomantic (feng shui) diagram showing an unfavorable pond placement."}]</detected-images> | <detected-images>[{"description": "A pavilion above sickle-shaped landforms labeled 'Sickle Hook' (鐮鉤).", "type": "diagram", "bbox": {"x": 0.385, "y": 145, "width": 0.198, "height": 0.283}, "gallery_quality": 0.7, "museum_rationale": "A feng shui diagram depicting the 'sickle hook' geographic formation."}]</detected-images> | <detected-images>[{"description": "A pavilion above a winding path labeled 'Wenqu Road' (文曲路) with the note 'No Return' (不回).", "type": "diagram", "bbox": {"x": 0.158, "y": 145, "width": 0.198, "height": 0.283}, "gallery_quality": 0.7, "museum_rationale": "A feng shui diagram illustrating an auspicious or inauspicious road configuration."}]</detected-images> |
+| **大池** | **鐮鉤** | **文曲路** |
+| | | **不回** |
+
+---
+
+明堂此塘在面前三四寡
+婦鬧喧天時師不識其中
+病此殺便為喪禍源
+大城左右不朝墳鐮鉤返
+生樣為凶孤寡徒流傷敗
+事家中又見遭時瘟
+離鄉迢迢是此路兒孫出
+外皆發冨若然直去不回
+還定出離鄉不歸屋
+
+<vocab>明堂, 鐮鉤, 文曲路, 勘輿, 喪禍, 離鄉, 冨</vocab>
+
+<detected-images>
+[{"description": "A series of three geomantic diagrams (feng shui) each featuring a pavilion and a specific geographic or man-made feature (pond, sickle-shaped curves, winding road) with identifying labels.", "type": "diagram", "bbox": {"x": 0.12, "y": 135, "width": 0.75, "height": 0.3}, "gallery_quality": 0.8, "museum_rationale": "These woodcut diagrams are representative of traditional Chinese geomantic manuals (Kanyu/Feng Shui), illustrating visual patterns of land and water thought to influence human fortune."}]
+</detected-images>
+
+--- Page 42 ---
+<lang>Chinese</lang>
+<page-num>廿一</page-num>
+<header>三才圖會 宮室四卷</header>
+
+---
+
+<insert>
+川字路
+</insert>
+
+<insert>
+之玄路
+</insert>
+
+門前有路川字行破財年
+年官事興若然直射見明
+堂三箭三男死却身
+當面若行玄字路其家財
+穀多無數面前恰似蚯蚓
+行定出癆瘵病多苦
+若見此路在門前自縊弔
+頸事干連欲吊不吊是此
+路術者只要細推玩
+
+<vocab>三才圖會, 川字路, 之玄路, 癆瘵, 蚯蚓, 自縊弔頸</vocab>
+
+<detected-images>
+[
+  {"description": "Woodcut diagram showing a house with three parallel straight paths leading from it, labeled '川字路' (Chuan-character path).", "type": "diagram", "bbox": {"x": 0.612, "y": 0.147, "width": 0.228, "height": 0.315}, "gallery_quality": 0.8, "museum_rationale": "Illustrative example of geomantic architecture principles from the Ming-era encyclopedia Sancai Tuhui, showing the 'three arrows' path formation."},
+  {"description": "Woodcut diagram of a house with a winding, serpentine path labeled '之玄路' (Zhi-Xuan path).", "type": "diagram", "bbox": {"x": 0.364, "y": 0.147, "width": 0.228, "height": 0.315}, "gallery_quality": 0.8, "museum_rationale": "Historical representation of auspicious and inauspicious road formations in traditional Chinese architecture and feng shui."},
+  {"description": "Woodcut diagram of a house with paths crossing a loop, visually representing a noose and associated with an omen of hanging.", "type": "diagram", "bbox": {"x": 0.115, "y": 0.147, "width": 0.228, "height": 0.315}, "gallery_quality": 0.8, "museum_rationale": "Clear example of symbolic visual language used in early modern Chinese technical manuals to convey architectural taboos."}
+]
+</detected-images>
+
+--- Page 43 ---
+<lang>Chinese</lang>
+
+<insert>
+(Diagram showing a gate-like structure or paifang above a circle containing intersecting diagonal lines, likely representing field ridges.)
+</insert>
+
+若見田塍如此樣斷定自
+縊吊高梁必然外死損屍
+轉孰知因此死他鄉
+
+---
+
+<insert>
+**寒林**
+(Diagram showing three buildings above a dense grove of trees.)
+</insert>
+
+門前若有此寒林年年瘟
+疾事相臨又主怪物入門
+戶斷他年年細推論
+
+---
+
+<insert>
+**厨** **井** **水**
+(Diagram showing buildings labeled 'kitchen' and 'well' positioned near a winding watercourse labeled 'water'.)
+</insert>
+
+前面水路及返飛定主退
+妾及離妻瘸跛孤兒隨毋
+嫁順水淫亂主生離
+
+<vocab>田塍, 縊吊, 寒林, 瘟疾, 怪物, 水路, 返飛, 淫亂, 生離</vocab>
+
+<detected-images>
+[{"description": "Three woodcut diagrams illustrating geomantic (Feng Shui) omens related to field ridges, forests, and watercourses.", "type": "diagram", "bbox": {"x": 0.09, "y": 0.14, "width": 0.74, "height": 0.3}, "gallery_quality": 0.75, "museum_rationale": "A clear example of 16th-18th century woodblock printing used for geomantic manuals, illustrating the visual vernacular of landscape divination."}]
+</detected-images>
+
+--- Page 44 ---
+<lang>zh</lang>
+<page-num>卅二</page-num>
+<header>三才圖會 宅至四卷</header>
+
+---
+
+### [右圖]
+<gloss>塘</gloss> <gloss>塘</gloss>
+
+門前有路是火字
+兩邊有塘年少死
+斷就其家連淚哭
+歳殺加臨灾禍至
+
+---
+
+### [中圖]
+
+前有塘兮後有塘
+兒孫代代少年亡
+後塘急用泥填起
+免得其後受禍殃
+
+---
+
+### [左圖]
+<gloss>堆</gloss>
+**胎墮疾眼**
+
+此是門前有大堆
+住此房內主墮胎
+更兼眼疾年年有
+火殺加臨更惹灾
+
+---
+
+<vocab>三才圖會, 宅至, 歲殺, 胎墮, 疾眼, 火字路, 塘, 堆</vocab>
+
+<detected-images>
+[
+  {"description": "Geomantic diagram showing a house with a bifurcating road (shaped like the character 火) and two ponds on either side.", "type": "diagram", "bbox": {"x": 0.58, "y": 140, "width": 0.25, "height": 0.30}, "gallery_quality": 0.7, "museum_rationale": "Illustrates traditional Chinese architectural taboos (Feng Shui) regarding road and pond placement."},
+  {"description": "Geomantic diagram showing a house with ponds both in front and behind it.", "type": "diagram", "bbox": {"x": 0.34, "y": 150, "width": 0.22, "height": 0.28}, "gallery_quality": 0.7, "museum_rationale": "Illustrates traditional Feng Shui warnings against having water on both sides of a dwelling."},
+  {"description": "Geomantic diagram showing a house with large mounds or piles (堆) in front of the entrance.", "type": "diagram", "bbox": {"x": 0.10, "y": 145, "width": 0.23, "height": 0.25}, "gallery_quality": 0.7, "museum_rationale": "Depicts geomantic configurations believed to cause specific illnesses like eye disease or miscarriage."}
+]
+</detected-images>
+
+--- Page 45 ---
+<lang>zh-Hant</lang>
+
+<meta>Woodcut illustrations and mnemonic verses regarding geomantic (Feng Shui) flaws of residential dwellings (Yangzhai).</meta>
+
+# 陽宅形法圖說
+
+<gloss>塘</gloss> <gloss>塘</gloss>
+此屋門前兩口塘爲人哭
+泣此明堂更主人家常疾
+病灾瘟動火事干連
+
+---
+
+<gloss>路衝</gloss> <gloss>路直</gloss>
+此屋若有大路冲定主家
+中無老公殘疾之人真是
+有名爲暗箭射人凶
+
+---
+
+<gloss>夾合</gloss> <gloss>屋</gloss>
+門前若見有小屋官事臨
+門來得速便見何年凶禍
+生歲煞加臨灾更毒
+
+<vocab>明堂, 煞, 瘟, 暗箭, 陽宅, 塘, 路衝</vocab>
+
+<detected-images>
+[
+  {"description": "Geomantic diagram showing a house with two ponds in front, labeled 'Ponds' (塘). This configuration is associated with constant weeping and illness.", "type": "diagram", "bbox": {"x": 0.61, "y": 0.16, "width": 0.27, "height": 0.33}, "gallery_quality": 0.75, "museum_rationale": "A classic woodcut illustration of Feng Shui 'Sha' (malice) configurations, showing the relationship between domestic architecture and landscape features."},
+  {"description": "Geomantic diagram showing a house with a road directly striking the entrance, labeled 'Straight Road' (路直) and 'Road Clash' (路衝). This is known as a 'hidden arrow' (暗箭).", "type": "diagram", "bbox": {"x": 0.38, "y": 0.16, "width": 0.23, "height": 0.33}, "gallery_quality": 0.75, "museum_rationale": "Illustrates the geomantic concept of 'clashing roads' through traditional woodblock printing."},
+  {"description": "Geomantic diagram showing a house with a smaller building in front, labeled 'Enclosed' (夾合) and 'House' (屋). This layout is said to bring legal troubles.", "type": "diagram", "bbox": {"x": 0.12, "y": 0.16, "width": 0.26, "height": 0.33}, "gallery_quality": 0.75, "museum_rationale": "Demonstrates the architectural relationship between structures in traditional Chinese landscape analysis."}
+]
+</detected-images>
+
+--- Page 46 ---
+<lang>zh</lang>
+<header>三才圖會 宫室四卷</header>
+<page-num>廿三</page-num>
+<vocab>三才圖會, 宫室, 陽宅, 孤寡, 瘟瘵, 品字樣, 帝鄉</vocab>
+
+# 三才圖會
+## 宫室四卷
+
+<insert>
+**(右圖：大樹下之屋)**
+圖中繪有一株大樹，樹旁有兩座屋宇。
+
+**(中圖：石當門)**
+圖中繪有一座屋宇。
+石
+大石小石當門
+石
+
+**(左圖：品字樣房屋)**
+圖中繪有三座屋宇，排列成「品」字形。
+</insert>
+
+此屋若在大樹下，孤寡人
+丁斷不差。招郎乞子家中
+有瘟瘵，怪物定交加。
+
+---
+
+小石當門多磊落，其家說
+鬼時時着。小口驚嚇，不須
+言，氣絕聲啞人難覺。
+
+---
+
+此個人家品字樣，讀書作
+館起家莊。人財大旺添田
+地，貴子聲名達帝鄉。
+
+<detected-images>
+[
+  {"description": "Woodcut illustration of houses situated under a large tree, corresponding to the first divination verse regarding misfortune and illness.", "type": "woodcut", "bbox": {"x": 0.618, "y": 139, "width": 0.237, "height": 0.315}, "gallery_quality": 0.75, "museum_rationale": "Classic example of Ming-era woodblock illustration from the Sancai Tuhui, depicting architectural geomancy (Feng Shui)."},
+  {"description": "Woodcut illustration of a house with stones placed at the gate (大石小石當門), illustrating negative domestic omens.", "type": "woodcut", "bbox": {"x": 0.384, "y": 0.139, "width": 0.23, "height": 0.315}, "gallery_quality": 0.7, "museum_rationale": "Functional technical illustration for architectural divination patterns."},
+  {"description": "Woodcut illustration of three houses arranged in the 'Pin' (品) character shape, signifying a prosperous household for scholars.", "type": "woodcut", "bbox": {"x": 0.142, "y": 0.139, "width": 0.237, "height": 0.315}, "gallery_quality": 0.75, "museum_rationale": "Depicts a specific auspicious residential layout as defined in historical Chinese geomantic texts."}
+]
+</detected-images>
+
+--- Page 47 ---
+<lang>zh</lang>
+
+<meta>image quality: clear; printer's marks: none; catchwords: none</meta>
+
+# 東四位宅圖
+
+-> 南 <-
+-> 天乙 <-
+
+-> 坐北向南巽門宅 <-
+
+---
+
+<margin>
+巽方
+巳字
+</margin>
+-> **門** <-
+
+<insert>
+**第一層房**
+天乙 巨門
+吉星 宜高大
+</insert>
+
+<margin>五鬼</margin>
+
+<insert>
+房小宜
+廂矮
+</insert>
+
+<insert>
+樓中可大宜高
+并起亦高
+</insert>
+
+<insert>
+**第二層房**
+延年 武曲
+吉星 宜高大
+</insert>
+
+<margin>
+東
+延年
+</margin>
+
+<margin>
+西
+六煞
+</margin>
+
+<insert>
+**第三層房**
+六煞
+星宜小矮
+</insert>
+
+<insert>
+房大宜
+廂高
+</insert>
+
+<insert>
+房小宜
+廂矮
+</insert>
+
+<insert>
+**第四層房**
+生氣 貪狼
+吉星 宜極高大
+起樓
+</insert>
+
+<margin>絕命</margin>
+
+<insert>
+門
+上吉
+門上有吉更
+開門亦吉
+</insert>
+
+<margin>禍害</margin>
+
+-> 北 生氣 <-
+
+---
+
+<vocab>東四位宅圖, 坐北向南, 巽門, 天乙, 巨門, 延年, 武曲, 六煞, 生氣, 貪狼, 廂房, 吉星, 堪輿, 巽方, 巳字</vocab>
+
+<detected-images>
+[{"description": "A traditional Chinese architectural and geomantic (Feng Shui) diagram illustrating the 'East Four Mansions' (東四位宅) layout. The diagram shows four layers of rooms arranged according to cardinal directions, with specific astrological labels such as 'Shengqi' (Life Breath) and 'Tianyi' (Heavenly Doctor) indicating the auspiciousness and recommended height (宜高大/宜小矮) of the structures. It specifies a house 'Sitting North, Facing South' with a 'Xun' (Southeast) gate.", "type": "diagram", "bbox": {"x": 0.108, "y": 0.123, "width": 0.771, "height": 0.811}, "gallery_quality": 0.8, "museum_rationale": "This is an important historical document for the study of traditional Chinese architecture and the cultural practice of Feng Shui. It demonstrates the systematic application of Eight Mansions theory to residential design during the late imperial period."}]
+</detected-images>
+
+--- Page 48 ---
+<lang>zh</lang>
+<header>三才圖會 宮室四卷</header>
+<page-num>十四</page-num>
+
+# 坐南向北坎門宅
+
+->南<-
+
+---
+
+<margin>
+有坎門
+亦開一巽門
+更 上上吉
+</margin>
+
+<insert>
+**延年星帶金 此層**
+宜高大
+起高樓
+</insert>
+
+---
+
+<margin>
+東
+天
+路
+路
+路
+</margin>
+
+<insert>
+**宜高大起樓**
+</insert>
+
+<insert>
+**只宜水星帶金 此層**
+宜高大
+</insert>
+
+<insert>
+**房小宜矮**
+</insert>
+
+---
+
+#### 建築格局註記
+
+<insert>
+宅門兩院或不留
+由東走亦可
+</insert>
+
+<insert>
+分一門
+一間牆中
+作只一宜
+</insert>
+
+---
+
+<insert>
+**第三層** 生氣貪狼吉星 宜高大
+<gloss>若此層之南用牆截斷此面亦可起樓</gloss>
+</insert>
+
+<insert>
+**第二層** 六煞星宜矮小
+</insert>
+
+<insert>
+**房小宜矮**
+</insert>
+
+---
+
+<insert>
+**四正金星** 宜頗高大
+</insert>
+
+<insert>
+**第一層** 生氣貪狼吉星帶
+</insert>
+
+->北<-
+
+<vocab>三才圖會, 坐南向北, 坎門, 延年星, 生氣貪狼, 六煞星, 四正金星, 巽門</vocab>
+
+<detected-images>
+[{"description": "A woodblock architectural diagram from the Ming Dynasty encyclopedia 'San Cai Tu Hui', depicting the spatial layout and Feng Shui assignments (sitting South, facing North) of a residential compound with a Kan (North) gate.", "type": "diagram", "bbox": {"x": 0.082, "y": 0.078, "width": 0.835, "height": 0.845}, "gallery_quality": 0.85, "museum_rationale": "This image is a significant historical record of traditional Chinese architectural theory and the application of Feng Shui in domestic planning during the Ming Dynasty."}]
+</detected-images>
+
+--- Page 49 ---
+<lang>zh</lang>
+<header>坐北向南離門宅</header>
+<meta>Geomantic architectural diagram for a north-sitting, south-facing residence with a Li (South) gate.</meta>
+
+# 坐北向南離門宅
+
+->離<-
+->〇<-
+
+->四正門 屬金<-
+
+---
+
+<margin>乙 辛</margin>
+<insert>大高宜</insert>
+**第一層房 屬煞六 宜矮小**
+<insert>小矮宜</insert>
+
+---
+
+<margin>氣生</margin>
+**第二層房 生氣貪狼 大高宜**
+
+---
+
+->截路門亦分屬金<-
+
+---
+
+<insert>
+大高宜
+小矮樓起
+</insert>
+**第一層房 煞六 宜矮小**
+<insert>小矮宜</insert>
+
+<margin>鬼五</margin>
+
+---
+
+**第二層房**
+> 房生氣 貪狼又 在延年 之位宜 矮高大 或起大樓
+
+---
+
+<margin>絶</margin> <margin>年延</margin> <margin>絶</margin>
+
+<vocab>Feng Shui, 堪輿, 坐北向南, 離門, 生氣, 貪狼, 延年, 六煞, 五鬼, 絶命, 截路門</vocab>
+
+<detected-images>
+[{"description": "A traditional Chinese architectural geomancy (Feng Shui) diagram illustrating the 'Eight Mansions' (Ba Zhai) layout for a south-facing residence. It identifies specific sections of the house as auspicious (Sheng Qi, Yan Nian) or inauspicious (Sha Liu/Liu Sha, Wu Gui), providing instructions on where to build tall or short structures to balance the flow of energy.", "type": "diagram", "bbox": {"x": 0.10, "y": 0.11, "width": 0.81, "height": 0.77}, "gallery_quality": 0.85, "museum_rationale": "A classic example of historical Chinese occult sciences and architectural planning, showing the integration of Bagua cosmology with domestic space."}]
+</detected-images>
+
+--- Page 50 ---
+<lang>zh</lang>
+<warning>The manuscript page contains a hand-drawn diagram with some blurred characters and ink bleed, particularly in the smaller annotations.</warning>
+
+# 坐西向東震門宅
+
+<margin>煞六</margin>
+
+->東<-
+
+前房宜中等
+
+門
+路
+
+<insert>中等房</insert>
+
+->北<-
+<margin>天乙</margin>
+
+<insert>大高宜氣生</insert>
+
+延年煞氣
+
+<insert>
+大宜延年
+高大宜
+</insert>
+
+起樓
+
+->南<-
+<margin>生氣</margin>
+
+<insert>
+高氣<unclear>煞</unclear>天乙
+大宜生
+</insert>
+
+<insert>
+大宜天乙
+</insert>
+
+路
+門
+門
+路
+
+<insert>小矮房宜</insert>
+
+<insert>
+分房
+延年宜頻
+高大
+</insert>
+
+->西<-
+
+<insert>房小矮宜煞六房分</insert>
+
+<margin>鬼王</margin>
+
+<vocab>坐西向東, 震門宅, 生氣, 天乙, 延年, 煞六, 鬼王, 陽宅, 風水, 分房, 前房, 中房, 小矮房</vocab>
+
+<detected-images>
+[{"description": "A traditional Chinese Feng Shui diagram (Yang Zhai) for a house layout, sitting in the West and facing East with a 'Zhen' gate. It maps out room heights and positions relative to auspicious and inauspicious 'Qi' such as Sheng Qi, Yan Nian, and Tian Yi.", "type": "diagram", "bbox": {"x": 0.11, "y": 0.13, "width": 0.78, "height": 0.78}, "gallery_quality": 0.8, "museum_rationale": "This is a significant historical artifact representing the practical application of Eight Mansions Feng Shui in architectural planning and household management during the early modern period in China."}]
+</detected-images>
+
+--- Page 51 ---
+<lang>Chinese</lang>
+<header>三才圖會</header>
+<page-num>七</page-num>
+<meta>Source: Sancai Tuhui (Ming dynasty encyclopedia). The page illustrates a Feng Shui house plan showing room divisions based on orientations and 'stars'.</meta>
+
+# 坐西向東巽門宅截路分房要緊
+
+->東<-
+
+<margin>絶命</margin>
+
+<insert>
+**延年**
+第一層延年金離到震方
+又係前房只宜高大
+</insert>
+
+<insert>
+巽方
+辰字
+門
+</insert>
+
+---
+
+<insert>
+路
+第一層大吉天乙巨門宜高大
+</insert>
+
+<insert>
+第二層六煞凶星宜矮小
+</insert>
+
+<insert>
+分房延年吉星宜高大
+</insert>
+
+---
+
+<insert>
+路
+第二層大吉天乙巨門宜高大
+</insert>
+
+<insert>
+分房六煞凶星宜矮小
+</insert>
+
+<insert>
+分房延年吉星宜高大
+</insert>
+
+---
+
+<insert>
+路
+第三層大吉天乙巨門宜高大
+此房中最吉五星只宜高大
+</insert>
+
+<insert>
+分房六煞凶星宜矮小
+</insert>
+
+->西<-
+
+<margin>
+**北 生氣**
+吉星在東方
+延年吉星重疊
+大宜高
+</margin>
+
+<margin>
+吉星在北方
+禍害方不宜高大
+宜矮
+</margin>
+
+<margin>南</margin>
+
+<margin>福德</margin>
+
+<vocab>巽門, 延年, 六煞, 天乙, 巨門, 截路, 三才圖會, 坐西向東, 分房, 吉星, 凶星, 生氣, 絶命, 福德</vocab>
+
+<detected-images>
+[{"description": "A traditional Chinese architectural Feng Shui diagram depicting a 'Sitting West, Facing East' house layout. It features room divisions (fen fang), paths (jie lu), and specific orientation markers based on the Ba Zhai (Eight Mansions) system, identifying locations for auspicious stars like Yan Nian and Tian Yi versus inauspicious stars like Liu Sha.", "type": "diagram", "bbox": {"x": 0.117, "y": 1.48, "width": 0.767, "height": 0.757}, "gallery_quality": 0.85, "museum_rationale": "This is a quintessential example of Ming-dynasty pedagogical diagrams from the Sancai Tuhui, illustrating how complex cosmological theories were translated into practical architectural guidelines."}]
+</detected-images>
+
+--- Page 52 ---
+<lang>zh</lang>
+<page-num>十八</page-num>
+<meta>A woodblock-printed diagram from a traditional Chinese architectural or Feng Shui manual, illustrating the layout for a house 'sitting East and facing West' (坐東向西).</meta>
+
+# 坐東向西宅東四位正大乾兌坤門俱不宜本難修善盖權宜造法如左
+
+->**西**<-
+
+<insert>坤方中字</insert> 門 <insert>天乙 巨門 帶六 煞又 係前 房中 宜 矮房</insert>
+
+---
+
+<margin>路</margin> 
+<insert>
+**天乙 巨門**
+星吉 高大
+</insert> 
+<insert>
+**延年** 吉星
+在東 宜方
+中等房
+</insert> 
+<insert>
+**北**
+天乙 巨門
+星吉 高大
+帶土 延星
+貪生 狼氣
+</insert>
+
+<margin>巽門</margin>
+
+->**南**<- 
+<insert>
+**六煞 文曲**
+的宜 矮小
+</insert>
+
+<margin>巽門</margin>
+
+<margin>路</margin> 
+<insert>
+**天乙 巨門**
+星吉 高大
+</insert> 
+<insert>
+**延年** 吉星
+到東 宜方
+中等房
+</insert> 
+<insert>
+高大 宜吉
+延星 生
+帶土 貪生
+狼氣
+</insert>
+
+---
+
+->**東**<-
+
+<vocab>坐東向西, 天乙, 巨門, 延年, 六煞, 文曲, 巽門, 坤方, 乾兌坤</vocab>
+
+<detected-images>
+[{"description": "A Feng Shui architectural layout diagram for a house sitting East and facing West, showing placement of gates, rooms, and auspicious/inauspicious stars according to the Eight Mansions (Ba Zhai) school.", "type": "diagram", "bbox": {"x": 165, "y": 128, "width": 578, "height": 738}, "gallery_quality": 0.7, "museum_rationale": "A representative example of traditional Chinese geomantic (Feng Shui) architectural planning and woodblock printing."}]
+</detected-images>
+
+--- Page 53 ---
+<lang>zh</lang>
+<page-num>十七</page-num>
+<header>二十一 則 福元</header>
+<meta>image quality: clear woodblock print, traditional vertical layout</meta>
+
+福元在震巽坎離宮為東四位生人其吉星俱在震巽
+坎離之方門所宜開路所宜行房樓所宜高大主人所
+宜居若誤用乾坤艮兌俱屬凶星是謂東四修西多不
+吉故著東四位宅圖
+
+假如夫東四位生命而妻則西四位非如父子兄弟可分
+各院居也其居法當何如若住北房則夫居中間而妻
+居西間或東間乾艮皆宜若住南房則夫居東間中間
+而妻居西間坤其所宜若住東房則夫居南間中間而
+妻居北間艮其所宜大抵夫婦福德不同則當以夫為
+
+<vocab>福元, 東四位, 西四位, 震巽坎離, 乾坤艮兌, 宅圖, 夫婦福德</vocab>
+
+--- Page 54 ---
+<lang>zh</lang>
+<header>壬</header>
+<meta>Vertical text in four columns with grid lines. Traditional Chinese woodblock print. Feng Shui manual based on the Eight Mansions (Ba Zhai) system.</meta>
+
+## 東四位坎宮相生人
+
+<gloss>坎宮為正福德宮一切門房井竈等項皆從坎起法曰坎五天生延絶禍六</gloss>
+
+---
+
+一定福元宜居南房東間上上吉東房南間上上吉北房中間亦吉
+
+---
+
+一定宅宜住坐北向南宅上上吉坐南向北宅上上吉坐西向東宅亦吉惟坐東向西宅不宜居不便修蓋以乾兌坤俱不宜開門故也若用截路分房法亦可居
+
+---
+
+一定門宜走東南巽方巳字辰字生氣門上上吉正北坎<gloss>伏位</gloss>
+
+<vocab>東四位, 坎宮, 福德宮, 福元, 巽方, 生氣門, 截路分房法, 乾兌坤, 伏位</vocab>
+
+--- Page 55 ---
+<lang>zh</lang>
+<vocab>福德, 延年, 離宮, 長生, 五鬼, 禍害, 生氣, 巨門, 福元, 井竈, 八宅</vocab>
+
+### 方福德門上吉正南離方延年門亦吉
+
+一定宅中所行路宜由東方上吉
+
+一定井宜在宅東南辰巳方長生位大吉
+
+一定碾磨宜在宅東北五鬼方正西禍害方大吉
+
+一定牛馬欄宜在宅東南生氣方大吉
+
+一定放水宜在甲乙巨門方 <gloss>巨門水去來皆可</gloss>
+
+東四位離宮 <insert>作主人</insert> <gloss>離宮為正福德宮一切門房井竈</gloss>
+
+等項皆從離起法曰離六五絕延禍生天
+
+一定福元宜居南房東間東房南間俱上上吉北房中間
+
+--- Page 56 ---
+<lang>zh</lang>
+<header>三才圖會 宮室四卷</header>
+<page-num>廿八</page-num>
+
+亦吉
+
+一 定宅宜在坐北向南宅上上吉坐南向北宅上上吉坐西向東宅亦吉惟坐東向西宅不宜居
+
+一 定門宜走東南巽方巳字天乙門上上吉正北坎方壬字延年門上吉東方甲卯乙字生氣門大吉
+
+一 定宅中所行路宜由東方上吉
+
+一 定井宜在正東卯字方長生位大吉
+
+一 定厨竈宜在東北甲寅字禍害方大吉
+
+一 定碾磨宜在宅正西五鬼方東北禍害方大吉
+
+<vocab>三才圖會, 宮室, 坐北向南, 巽方, 坎方, 天乙門, 延年門, 生氣門, 厨竈, 碾磨, 五鬼方, 禍害方</vocab>
+
+--- Page 57 ---
+<lang>Chinese</lang>
+<meta>image quality: clear woodblock print</meta>
+
+一定牛馬房宜在宅正東生氣方大吉
+
+一定放水避巳陰水只宜在乾破軍方
+
+東四位震宮相生人  震宮為正福德宮一切門房井竈
+
+等項皆從震起法曰震延生禍絕五天六
+
+一定福元宜住東房南間南房東間俱上吉北房中間亦
+
+吉
+
+一定宅宜<unclear>住</unclear>坐北向南巽方巳字門宅上上吉坐南向北
+
+坎方壬字門宅吉坐西向東巽方辰字門宅亦吉惟坐
+
+東向西宅不宜居
+
+<vocab>牛馬房 (stables), 生氣 (Sheng Qi), 放水 (water discharge), 乾破軍 (Qian Po Jun), 東四位 (East Four Mansions), 震宮 (Zhen Palace), 福德 (Fu De), 井竈 (wells and stoves), 福元 (Fu Yuan), 坐北向南 (Sitting North Facing South), 巽方 (Xun direction), 坎方 (Kan direction)</vocab>
+
+--- Page 58 ---
+<lang>zh</lang>
+<header>三才圖會 宮室四卷</header>
+<page-num>廿九</page-num>
+
+一定門宜走東南巽方延年門正北坎方天乙巨門俱上
+<gloss>吉正南離門亦吉</gloss>
+
+一定宅中所行路宜由東方上吉
+
+一定碾磨宜在宅西南禍害方西北五鬼方大吉
+
+一定井宜在宅南丙字長生位大吉
+
+一定厨竈宜在西方庚字上大吉
+
+一定牛馬欄宜在宅正南生氣方大吉
+
+一定放水宜在西方辛字庚字上大吉
+
+東四位巽宮却生人 巽宮為正福德宮一切門房井竈
+
+<vocab>三才圖會, 宮室, 巽方, 延年門, 坎方, 天乙, 巨門, 離門, 碾磨, 禍害方, 五鬼方, 丙字, 長生位, 厨竈, 庚字, 牛馬欄, 生氣方, 辛字, 東四位, 巽宮, 福德宮</vocab>
+
+--- Page 59 ---
+<lang>zh</lang>
+<page-num>三十</page-num>
+<header>三才圖會</header>
+<meta>Source: Sancai Tuhui (三才圖會), a Ming dynasty encyclopedia. Section: 住宅 (Dwellings). The text discusses Eight Mansions (八宅) Feng Shui principles.</meta>
+<vocab>巽, 坎, 離, 福元, 宅, 門, 八宅, 巽天五六禍生絶延, 生氣, 天乙, 福德</vocab>
+
+等項皆從巽起法曰巽天五六禍生絶延
+
+一定福元宜居東房南間南房東間俱上吉北房中間亦吉
+
+一定宅宜任坐北向南巽門宅上上吉坐南向北坎門宅上吉坐西向東巽門宅亦吉惟坐東向西宅不宜居<unclear>檗</unclear>因開大門不便若用截路分房法亦可居
+
+一定門宜走東南巽方巳字辰字福德門正北坎方生氣門俱上吉正南離方天乙門亦吉
+
+一定宅中所行路宜由東方上吉
+
+--- Page 60 ---
+<lang>Chinese</lang>
+<page-num>二十</page-num>
+<vocab>堪輿, 陽宅, 碾磨, 井, 厨竈, 牛馬欄, 放水, 五鬼方, 禍害方, 長生位, 生氣方, 庚字, 辛字, 丁字</vocab>
+
+一定碾磨宜在宅西南五鬼方西北禍害方大吉
+
+一定井宜在正北方長生位大吉
+
+一定厨竈宜在西方庚字上大吉
+
+一定牛馬欄宜在正北生氣方上吉
+
+一定放水宜在西方辛字庚字俱上吉南方丁字亦可
+
+--- Page 61 ---
+<lang>zh-Hant</lang>
+<meta>A Yangzhai (residential Feng Shui) schematic diagram depicting the five-layered layout of a 'Sitting North, Facing South' house with a Kun Gate.</meta>
+
+# 西四位宅圖
+
+## 坐北向南坤門宅
+
+->南<-
+
+<margin>五鬼</margin>
+<insert>
+**第一層** 六煞 凶 星宜矮
+</insert>
+<margin>坤方 未字門</margin>
+
+---
+
+<margin>小矮宜</margin>
+<insert>
+**第二層** 生氣 貪狼 吉 星宜高大
+</insert>
+<margin>高頗宜</margin>
+
+---
+
+<insert>
+**第三層** 五鬼 貞廉 凶 星宜矮小
+</insert>
+
+---
+
+<margin>小矮宜</margin>
+<insert>
+**第四層** 天乙 巨門 吉 星宜高大 起樓
+</insert>
+<margin>樓大起高</margin>
+
+---
+
+<margin>小矮宜</margin>
+<insert>
+**第五層** 延年 武曲 吉 <gloss>內星吉</gloss> 星帶破軍 凶 星宜矮小 中等房
+</insert>
+<margin>樓大起高</margin>
+
+---
+
+->北<-
+
+<margin>東</margin>
+<margin>西</margin>
+<margin>乙天</margin>
+
+<margin>癸丑</margin>
+<insert>
+門
+<gloss>丑吉 艮凶 寅凶 上門開有</gloss>
+</insert>
+<margin>壬子</margin>
+
+<vocab>西四位宅圖, 坐北向南, 坤門, 六煞, 生氣, 貪狼, 五鬼, 貞廉, 天乙, 巨門, 延年, 武曲, 破軍</vocab>
+
+<detected-images>
+[{"description": "A Feng Shui schematic diagram of a house layout with five distinct horizontal layers (層), each annotated with geomantic stars (e.g., Greed Wolf, Huge Gate) and instructions for architectural height (e.g., 'should be low', 'should be high'). The orientation has South at the top and North at the bottom.", "type": "diagram", "bbox": {"x": 0.12, "y": 0.12, "width": 0.77, "height": 0.78}, "gallery_quality": 0.85, "museum_rationale": "This is a representative example of traditional Chinese geomantic architectural planning diagrams, showing the application of the 'Eight Mansions' (Ba Zhai) system to house design."}]
+</detected-images>
+
+--- Page 62 ---
+<lang>Chinese</lang>
+<meta>image quality: clear, high contrast; catchwords: none; document type: Feng Shui/Geomancy architectural diagram</meta>
+
+# 坐南向北乾門宅
+
+<margin>有乾門天</margin>
+<margin>小開坤門更上</margin>
+<margin>上吉</margin>
+
+->**南**<-
+
+<margin>禍害</margin> 房 中等 只宜 絶命 絶命又帶 絶命星在<insert>端</insert>方 絕命
+
+---
+
+<insert>大高宜</insert>
+
+<insert>第四層 天醫巨門吉 星宜高大</insert>
+
+<insert>小矮宜</insert>
+
+<insert>第三層 五鬼廉貞凶 星宜矮小</insert>
+
+<insert>小矮宜</insert>
+
+<insert>樓大高</insert>
+
+<insert>第二層 生氣貪狼吉 星宜高大或起樓</insert>
+
+<insert>大高宜</insert>
+
+<insert>矮小宜</insert>
+
+<insert>第一層 六煞星凶 宜矮小</insert>
+
+---
+
+<margin>東 五更</margin>
+<margin>西 生氣</margin>
+
+->**北**<-
+
+<margin>巽方</margin> <margin>義</margin> <margin>辛方轉</margin> <margin>乙</margin>
+
+<vocab>坐南向北, 乾門, 絕命, 延年, 天醫, 五鬼, 生氣, 六煞, 貪狼, 巨門, 廉貞, 禍害, 巽方, 辛方</vocab>
+
+<detected-images>
+[{"description": "A traditional Chinese geomantic (Feng Shui) architectural diagram for a house 'Sitting South and Facing North' with a 'Qian' gate. The diagram divides the living space into four horizontal layers (levels), assigning each an auspicious or inauspicious rating based on Eight Mansion theory stars (Tianyi, Wugui, Shengqi, Liusha). It provides specific instructions on building height ('宜高大' - high is suitable; '宜矮小' - low/small is suitable) to optimize the flow of Qi based on the cardinal directions marked outside the frame.", "type": "diagram", "bbox": {"x": 133, "y": 122, "width": 761, "height": 775}, "gallery_quality": 0.85, "museum_rationale": "This is a detailed and well-preserved woodblock print of a specialized Feng Shui manual page. It illustrates the integration of cosmology and vernacular architecture in historical China, particularly the 'Eight Mansions' (Bazhai) system."}]
+</detected-images>
+
+--- Page 63 ---
+<lang>Chinese</lang>
+<page-num>十一</page-num>
+<meta>image quality: clear woodblock print with some ink bleeding; catchword/page number visible at left edge</meta>
+
+# 練向西乾門宅截路分房要緊
+
+->**西**<-
+**生氣**
+方在古貪生氣
+〇方義先星狼制
+
+<insert>
+高宜房係
+頗只前大
+</insert>
+
+---
+
+<margin>延年</margin>
+
+<margin>
+乾方
+戌字
+</margin>
+->門<-
+
+<insert>房小矮宜</insert>
+
+<insert>
+小房 | 宜矮
+--- | ---
+門 | 凶星 五鬼
+</insert>
+
+<insert>
+西大起樓 | 宜高
+--- | ---
+貪狼 | 生氣分房
+</insert>
+
+<margin>南 絶命</margin>
+
+<insert>房小矮宜</insert>
+
+<margin>門</margin>
+<margin>門</margin>
+<margin>門</margin>
+<margin>門</margin>
+
+<insert>
+小房 | 宜矮
+--- | ---
+門 | 凶星 五鬼
+</insert>
+
+<insert>
+西樓 | 大高宜
+</insert>
+
+<margin>北 點穴</margin>
+
+<insert>房小矮宜</insert>
+
+<insert>
+小房 | 宜矮
+--- | ---
+門 | 凶星 五鬼
+</insert>
+
+<insert>
+大頗然帶到天乙
+這宜大且
+</insert>
+
+<margin>禍害</margin>
+
+<margin>天乙</margin>
+
+---
+
+->**東**<-
+**鬼王**
+
+<vocab>生氣, 延年, 天乙, 絶命, 禍害, 五鬼, 貪狼, 乾門, 截路分房, 戌字, 點穴</vocab>
+
+<detected-images>
+[{"description": "A geomantic (Feng Shui) diagram illustrating the 'Eight Mansions' (Ba Zhai) layout for a house with a West orientation and a Qian (Northwest) gate. The diagram uses a grid-like structure to denote room placements, recommended building heights ('宜高' for high, '宜矮' for low), and the influence of auspicious and inauspicious stars like 'Sheng Qi' (Vitality) and 'Wu Gui' (Five Ghosts).", "type": "diagram", "bbox": {"x": 0.165, "y": 128, "width": 0.73, "height": 0.776}, "gallery_quality": 0.8, "museum_rationale": "This is a detailed and well-preserved example of traditional Chinese architectural-geomantic diagrams from a woodblock-printed manual. It illustrates the practical application of complex cosmological theories to domestic space, showing how directional alignment and 'path interception' (截路) dictate house design."}]
+</detected-images>
+
+--- Page 64 ---
+<lang>zh</lang>
+<header>三才圖會 住宅四卷</header>
+<page-num>井二</page-num>
+
+# 坐東向西坤門宅截路分房要際
+
+<margin>延年</margin>
+
+<margin>
+->**西**<-
+->**天乙**<-
+</margin>
+
+<margin>
+坤方
+申字
+**門**
+</margin>
+
+<insert>
+天乙巨門吉星到兌方宜高大起中等樓
+</insert>
+
+<insert>
+延年武曲吉星門門帶祿存宜頗高大
+</insert>
+
+<margin>小矮宜</margin>
+
+<margin>等宜房中</margin>
+
+<insert>
+分房天乙吉星到中宮宜高大起樓
+</insert>
+
+<insert>
+分房延年到中宮門帶祿存宜頗高大
+</insert>
+
+<margin>小矮宜</margin>
+
+<margin>
+**北**
+絕命
+</margin>
+
+<margin>
+**南**
+六煞
+</margin>
+
+<insert>
+天乙吉星宜高起樓
+</insert>
+
+<insert>
+延年到禍害方門宜矮小房
+</insert>
+
+<margin>小矮宜</margin>
+
+<margin>房中方到生氣等宜良氣</margin>
+
+<margin>
+->**東**<-
+->**生氣**<-
+</margin>
+
+<margin>五鬼</margin>
+
+---
+
+<note>This diagram, likely from the encyclopedic work "San Cai Tu Hui," details the idealized layout for a residence oriented East-to-West with a gate in the Southwest (Kun direction). The text prescribes specific heights (高大, 宜矮) and placements for rooms and floors based on the interaction of the gate's position with astrological "stars" (Tian Yi, Yan Nian, etc.) to ensure auspiciousness.</note>
+
+<vocab>坐東向西, 坤門, 延年, 天乙, 巨門, 武曲, 祿存, 絕命, 六煞, 生氣, 五鬼, 三才圖會, 截路分房</vocab>
+
+<detected-images>
+[{"description": "A schematic architectural diagram of a house layout used for Feng Shui analysis, illustrating room placement, road access, and structural heights relative to directional and astrological influences.", "type": "diagram", "bbox": {"x": 0.10, "y": 0.11, "width": 0.76, "height": 0.79}, "gallery_quality": 0.85, "museum_rationale": "This is a significant historical illustration from the Ming dynasty encyclopedia San Cai Tu Hui, representing classical Chinese architectural theory and geomantic practices."}]
+</detected-images>
+
+--- Page 65 ---
+<lang>zh</lang>
+<sig>熬六</sig>
+<meta>Feng Shui architectural layout diagram.</meta>
+
+# 坐南向北艮門宅截路分房要緊
+
+<margin>伏</margin>
+
+->北<-
+
+->五鬼<-
+
+艮方 劫子 門
+
+路
+
+廉貞 凶星 <insert>宜矮 小房</insert>
+
+---
+
+門 <term>吉星</term> <term>巨門</term> <term>天乙</term> <insert>大房 宜高</insert>
+
+---
+
+<margin>西 延年</margin>
+
+路 門
+
+<insert>大房 宜高 起樓可</insert>
+
+<insert>小房 宜矮 凶星 六煞 分房</insert>
+
+<insert>房小矮宜</insert>
+
+門 <term>入中</term> <term>生氣</term> <term>分房</term>
+
+<insert>復受 帶破 宜矮 小房</insert>
+
+---
+
+<margin>東</margin>
+
+路 門
+
+<insert>大房 宜高</insert>
+
+<insert>小房 宜矮 凶星 六煞 分房</insert>
+
+<insert>房小矮宜</insert>
+
+門 <term>臨禍</term> <term>生氣</term> <term>分房</term>
+
+<insert>害方 宜中 等房</insert>
+
+---
+
+->南<-
+
+->禍害<-
+
+<margin>生氣</margin>
+<margin>命絕</margin>
+
+<vocab>坐南向北, 艮門, 截路, 分房, 五鬼, 廉貞, 凶星, 吉星, 巨門, 天乙, 延年, 六煞, 生氣, 禍害, 絕命, 伏位</vocab>
+
+<detected-images>
+[{"description": "A detailed historical Chinese geomantic (Feng Shui) house plan. The diagram illustrates the 'Sitting South, Facing North' orientation with a gate in the 'Gen' (Northeast) position. It includes specific annotations for room heights, gate placements, and the influence of auspicious and inauspicious stars on different sections of the compound.", "type": "diagram", "bbox": {"x": 0.08, "y": 0.03, "width": 0.85, "height": 0.93}, "gallery_quality": 0.85, "museum_rationale": "A clear and informative diagram representing traditional Chinese beliefs in architectural harmony and geomancy. It is a prime example of historical spatial mapping in Chinese culture."}]
+</detected-images>
+
+--- Page 66 ---
+<lang>zh</lang>
+<page-num>三十三</page-num>
+<header>三才圖會 宮室四卷</header>
+<meta>The image is a woodblock print from the Ming Dynasty encyclopedia 'San Cai Tu Hui', depicting a house layout based on Feng Shui principles.</meta>
+
+# 坐西向東艮門宅截路分房要緊
+
+->南<-
+
+<margin>
+艮方
+寅峯
+</margin>
+
+<margin>路</margin>
+<insert>門</insert>
+
+->**東**<-
+
+<insert>小房</insert> <insert>宜矮</insert> <insert>門</insert> <insert>六煞</insert> <insert>分房</insert>
+
+---
+
+<insert>
+小
+矮
+宜
+</insert>
+
+<insert>
+高大
+氣宜
+</insert> 
+<insert>門</insert>
+<insert>
+帶生
+延年
+分房
+</insert>
+
+<insert>
+小
+矮
+宜
+</insert>
+
+---
+
+<margin>
+北
+五鬼
+</margin>
+
+<margin>路</margin>
+<insert>門</insert>
+
+<insert>小房</insert> <insert>宜矮</insert> <insert>門</insert> <insert>凶星</insert> <insert>六煞</insert> <insert>分房</insert>
+
+---
+
+<insert>
+小
+矮
+宜
+</insert>
+
+<insert>
+頗高大
+宮位宜
+木房中
+</insert>
+<insert>門</insert>
+<insert>
+但不宜
+氣吉星
+年帶生
+分房延
+</insert>
+
+<insert>
+小
+矮
+宜
+</insert>
+
+---
+
+<margin>路</margin>
+<insert>門</insert>
+
+<insert>小房</insert> <insert>宜矮</insert> <insert>門</insert> <insert>凶星</insert> <insert>六煞</insert> <insert>分房</insert>
+
+---
+
+<insert>
+大
+高
+<unclear>烟</unclear>
+宜
+</insert>
+
+<insert>
+高大
+星宜
+氣吉
+</insert>
+<insert>門</insert>
+<insert>
+帶生
+吉星
+延年
+</insert>
+
+<insert>
+等
+房
+宜
+中
+</insert>
+
+<margin>氣壯</margin>
+->**西**<-
+
+<margin>氣生</margin>
+
+<vocab>坐西向東, 艮門, 截路, 分房, 延年, 生氣, 六煞, 五鬼, 凶星, 吉星, 頗高大, 宜矮, 三才圖會</vocab>
+
+<detected-images>
+[{"description": "A complex architectural diagram of a house layout with multiple gates and rooms, annotated with Feng Shui (geomancy) terminology and directional indicators.", "type": "diagram", "bbox": {"x": 0.108, "y": 0.113, "width": 0.814, "height": 0.778}, "gallery_quality": 0.85, "museum_rationale": "This is a significant historical illustration from the 'San Cai Tu Hui', a famous Ming Dynasty encyclopedia. It provides insight into the architectural and geomantic practices of pre-modern China."}]
+</detected-images>
+
+--- Page 67 ---
+<lang>zh</lang>
+<header>三才圖會 宮室四卷</header>
+<page-num>廿四</page-num>
+
+# 西四位宅圖
+
+福元在乾坤艮兌宮爲西四位生人其吉星俱在乾坤
+艮兌之方門所宜開路所宜行房樓所宜高大主人所
+宜居若誤用震巽坎離俱屬凶星是謂西四修東必不
+祥故著西四位宅圖
+
+假如夫西四位生命而妻則東四位其看法當何如若任
+北房則夫居兩間而妻居中間坎其所宜若任南房則
+夫居西間而妻居中間東間離巽皆宜若任東房則夫
+居北間而妻居中間南間震巽皆宜若任西房則夫居
+
+<vocab>西四位, 乾坤艮兌, 震巽坎離, 福元, 宅圖, 三才圖會</vocab>
+
+--- Page 68 ---
+<lang>zh</lang>
+<meta>Clean black ink on white paper, woodblock print style. Text is arranged in vertical columns reading right to left.</meta>
+
+中間而妻居南間北間其安牀大端首向東南爲可耳
+
+西四位乾宮相生人 <gloss>乾宮爲正福德宮</gloss> 一切門房井竈
+
+等項皆從乾起法曰乾六天五禍絕延生
+
+一定福元宜居西房西樓上上吉坎居北房西間福德吉
+
+北房東間天乙吉南房西間延年亦可居但房之中間
+
+未善耳北房中一間六煞文曲南房中一間絕命破軍
+
+一定宅宜住坐北向南坤門宅坐南向北乾門宅住上吉
+
+坐東向西乾門坤門兌門宅俱上吉坐南向北宅艮方
+
+丑字門亦吉坐西向東宅艮方寅字門亦吉
+
+<vocab>乾宮, 福德, 坎, 艮, 坤, 兌, 延年, 天乙, 六煞, 絕命, 宅, 門, 井, 竈, 安牀, 文曲, 破軍</vocab>
+
+--- Page 69 ---
+<lang>zh</lang>
+<meta>Clear woodblock print, vertical layout with ruled columns.</meta>
+
+一定門宜走西北乾方亥字戌字福德門西南坤方未字申字延年門俱上吉正西辛字生氣門東北艮方寅字丑字門亦吉但不宜正當艮字別法謂之鬼門也
+
+---
+
+一定宅中所行路宜由西方上吉
+
+---
+
+一定井宜在宅正西方長生位大吉
+
+---
+
+一定厨竈宜在宅南方丙字上大吉
+
+---
+
+一定碾磨宜在宅正東五鬼乃東南禍害方大吉
+
+---
+
+一定牛馬房宜在宅正西生氣方上吉
+
+---
+
+一定放水宜在東方甲字乙字北方壬字癸字俱吉
+
+<vocab>乾方, 坤方, 艮方, 延年門, 福德門, 生氣門, 鬼門, 厨竈, 碾磨, 五鬼, 禍害, 長生位, 堪輿, 風水</vocab>
+
+--- Page 70 ---
+<lang>zh</lang>
+<header>三才圖會 宮室四卷</header>
+<page-num>卅五</page-num>
+
+# 西四位坤宮相生人
+
+坤宮爲正福德宮 一切門房并竈等項皆從坤起法曰坤天延絕生禍五六
+
+## 一定福元
+
+宜居西房西樓南間北間俱上上吉北房西間東間南房西間亦吉但房之中間未善耳北房中一間謂之絕命南房中一間謂之六煞
+
+## 一定宅宜
+
+住宅坐北向南坤門宅坐南向北乾門宅俱上上吉坐南向北艮方丑字門宅坐東向西坤門兑門乾門宅坐西向東艮方寅字門宅亦上吉
+
+## 一定門宜
+
+走西北乾方亥字戌字延年門西南坤方未字
+
+<vocab>西四位, 坤宮, 福元, 絕命, 六煞, 乾方, 延年門, 三才圖會</vocab>
+
+--- Page 71 ---
+<lang>zh</lang>
+<meta>Woodblock printed page likely from a manual on house physiognomy (Feng Shui), specifically the Eight Mansions (Bazhai) system. The text prescribes auspicious directions for various architectural features.</meta>
+
+申字福德門上吉東北長方丑字寅字門亦吉但不宜
+<gloss>正當艮字別法謂之鬼門也</gloss>
+
+---
+
+**一定**宅中所行路宜由西方大吉
+
+---
+
+**一定**井宜在東北方長生位大吉
+
+---
+
+**一定**厨竈宜在北方癸字上大吉
+
+---
+
+**一定**碾磨宜在宅正東禍害方東南五鬼方大吉
+
+---
+
+**一定**牛馬欄宜在東北生氣方大吉
+
+---
+
+**一定**放水宜在東方甲字乙字北方壬字癸字俱上吉
+
+---
+
+西四位艮宮相生人 艮宮為正福德宮一切門房井竈
+
+<vocab>福德門, 鬼門, 長生位 (Life-generating position), 厨竈 (Kitchen stove), 碾磨 (Millstone), 禍害方 (Harm position), 五鬼方 (Five Ghosts position), 生氣方 (Vitality position), 艮宮 (Gen Palace), 壬字, 癸字, 甲字, 乙字</vocab>
+
+--- Page 72 ---
+<lang>zh</lang>
+<page-num>廿六</page-num>
+<header>三才圖會 宮室四卷</header>
+
+等項皆從艮起法日艮六絕禍生延天五
+
+### 一定福元
+
+宜居西房西樓俱上上吉比房西間東間亦吉南房西間亦可居但房之中間未善耳北房中一間謂之五鬼南房中一間謂之六煞
+
+### 一定宅
+
+宜住坐北向南坤門宅坐南向北乾門宅坐南向北艮方丑字門宅坐東向西坤兌乾門宅坐西向東艮方寅字門宅亦上吉
+
+### 一定門
+
+宜走西北乾方亥字戌字天乙門西南坤方未字申字生氣門俱上吉東北艮方丑字寅字福德門亦吉
+
+<vocab>三才圖會, 艮, 五鬼, 六煞, 坤門, 乾門, 丑字, 寅字, 亥字, 戌字, 未字, 申字, 生氣, 福德, 天乙, 福元, 八宅</vocab>
+
+--- Page 73 ---
+<lang>Chinese</lang>
+<page-num>11</page-num>
+<sig>十一</sig>
+<meta>The page contains text arranged in vertical columns separated by grid lines. The content relates to architectural geomancy (Feng Shui), specifically regarding the placement of household elements according to compass directions and palaces.</meta>
+
+但不宜正當艮字別法謂之鬼門也
+
+一定宅中所行路宜由西方大吉
+
+一定井宜在西南長生位大吉
+
+一定厨竈宜在宅東方乙字上大吉
+
+一定碾磨宜在宅正南禍害方正北五鬼方大吉
+
+一定牛馬欄宜在宅西南生氣方大吉
+
+一定放水宜在南方丙字丁字俱上吉
+
+---
+
+### 西四位兌宮相生人
+
+兌宮為正福德宫一切門房井竈等項皆從兌起法曰兌生禍延絕六五天
+
+<vocab>艮字, 鬼門, 西方, 井, 西南, 長生位, 厨竈, 乙字, 碾磨, 禍害方, 正北, 五鬼方, 牛馬欄, 生氣方, 放水, 丙字, 丁字, 西四位, 兌宮, 福德宫, 生禍延絕六五天</vocab>
+
+--- Page 74 ---
+<lang>Chinese</lang>
+<page-num>廿七</page-num>
+<header>三才圖會 宫室 四卷</header>
+
+一定福元宜居西房西樓上吉次居北房西間生氣貪狼南房西間天乙巨門北房東間延年武曲亦吉但房之中間未善耳北房中間禍害南房中間五鬼
+
+一定宅宜住坐北向南坤門宅坐南向北乾門宅俱上吉坐南向北艮方丑字門宅坐東向西坤門乾門兌門宅坐西向東艮方寅字門宅亦上吉
+
+一定門宜走西北乾方亥字戌字生氣門西南坤方未字申字天乙門上吉次定宜走東北艮方丑字寅字延年門亦吉但不宜正當艮字別法謂之鬼門也
+
+<vocab>福元, 生氣, 貪狼, 天乙, 巨門, 延年, 武曲, 禍害, 五鬼, 坤門, 乾門, 艮方, 鬼門, 三才圖會</vocab>
+
+--- Page 75 ---
+<lang>zh</lang>
+
+一定宅中所行路宜由西方上吉
+
+一定井宜在西北方長生位大吉
+
+一定厨竈宜在北方癸字上吉
+
+一定碾磨宜在正東方絶命破軍正南方五鬼廉貞吉
+
+一定牛馬欄宜在西北方生氣貪狼大吉
+
+一定放水宜在南方丙字一字上吉
+
+王子所輯既極詳悉而東西四位生人用例并圖又甚簡明即令未徹宅理者執例與圖而用斯過半矣此亦官室之尤要者予故録之其斷語率皆俚鄙不文亦仍舊
+
+<vocab>宅中, 井, 厨竈, 碾磨, 牛馬欄, 放水, 絶命, 破軍, 五鬼, 廉貞, 生氣, 貪狼, 丙字, 癸字, 王子</vocab>
+
+--- Page 76 ---
+<lang>lzh</lang>
+<header>三才圖會 人事四卷</header>
+<page-num>廿八</page-num>
+
+# 言者乃仲尼闕文之意耳
+
+<vocab>三才圖會, 仲尼, 闕文, 人事</vocab>
+
+--- Page 77 ---
+<lang>Chinese</lang>
+<meta>image quality: high; legible vertical text in Songti style woodblock print. text continues across columns.</meta>
+
+# 國朝房屋等第
+
+一凡官員蓋造房屋並不許歇山轉角重簷重拱繪畫藻并其樓房不係重簷之例聽從自便
+
+公侯前廳七間或五間兩厦九架造中堂七間九架後堂七間七架門屋三間五架門屋金漆及獸面擺錫環家廟三間五架俱用黑板瓦蓋屋脊用花樣瓦獸梁棟斗拱桷楠綵色繪飾窓枋柱用金漆或黑油飾其餘廊廡庫厨從屋等房從宜蓋造俱不得過五間七架
+
+一品二品廳堂五間九架屋脊許用瓦獸梁棟斗拱桷楠
+
+<vocab>國朝房屋等第, 歇山, 轉角, 重簷, 重拱, 繪畫藻, 公侯, 前廳, 中堂, 後堂, 門屋, 獸面, 擺錫環, 家廟, 黑板瓦, 屋脊, 瓦獸, 梁棟, 斗拱, 桷楠, 綵色繪飾, 窓枋柱, 廊廡, 一品, 二品</vocab>
+
+--- Page 78 ---
+<lang>zh</lang>
+<header>三才圖會 居室四卷</header>
+<page-num>卅九</page-num>
+
+# 三才圖會 居室四卷
+
+丹青碧繪飾門屋三間五架門用綠油及獸面擺錫環
+
+三品至五品廳堂五間七架屋脊用瓦獸梁棟簷丹青碧繪飾正門三間三架門用黑油擺錫環
+
+六品至九品廳堂三間七架梁棟止用土黃刷飾正門一間三架黑門鐵環
+
+一品官房舍除正廳外其餘房舍許從宜蓋造比正屋制度務要減小不許太過其門窓戶牖並不<gloss>許用朱紅油漆</gloss>
+
+一庶民所居房舍不過三間五架不許用斗栱及彩色裝飾
+
+<vocab>三才圖會, 居室, 丹青, 獸面, 擺錫環, 瓦獸, 斗栱, 庶民, 朱紅油漆</vocab>
+
+--- Page 79 ---
+<lang>Chinese</lang>
+<page-num>二十</page-num>
+<header>上</header>
+<sig>一令</sig>
+<meta>The image shows a page from a traditional Chinese architectural or feng shui manual detailing the "Lu Ban Ruler" (魯班尺) measurements. The page is organized in a 2x4 grid, with each cell containing the name of a geomantic "Gate" (門), its recommended measurement, and a four-line mnemonic verse in vertical text. The original orientation of the text is vertical, reading from right to left; the image itself is rotated 90 degrees counter-clockwise.</meta>
+<warning>The source image is rotated 90 degrees counter-clockwise from its standard reading orientation.</warning>
+
+| | | | |
+|----------|----------|----------|----------|
+| **義門** 一寸<br>朝朝曰曰進財來<br>內外姻親皆養合<br>大印田蚕又顯財<br>義門最好堪宜開 | **離門** 一寸<br>一家骨肉見乖張<br>盜賊滋口又遭禍<br>合口分離大不祥<br>離門立過不宜房 | **病門** 一寸<br>災難參差事不知<br>妻兒骨肉皆不利<br>急忙移改向西東<br>病門終歸便有病 | **財門** 一寸二分<br>子孫富貴發財多<br>從此發兒大興旺<br>金銀珠寶自盈餘<br>門迎瑞氣養玄和 |
+| <margin>二</margin>**本門** 一寸一分<br>功名福祿自然來<br>自此門庭多吉慶<br>治業興隆又進財<br>此門開者夫無<unclear>害</unclear> | **害門** 一寸<br>萬騰田二值資產<br>分方重邑毁君愁<br>打開連從家道破<br>此門朝南称收財 | **劫門** 一寸<br>更無官事不牽隨<br>宅舍多災妻無子<br>毆打死傷費田業<br>此門開者多遭劫 | **官門** 一寸一分<br>備道九名自安然<br>庶人不可居官宅<br>居官遷了一言喜<br>此門開者更有加 |
+
+<vocab>財門, 官門, 病門, 劫門, 離門, 害門, 義門, 本門, 魯班尺, 堪輿, 陽宅</vocab>
+
+<detected-images>
+[{"description": "A structured 2x4 grid layout organizing geomantic gate names, measurements, and mnemonic verses for architectural measurement.", "type": "diagram", "bbox": {"x": 0.087, "y": 0.125, "width": 0.778, "height": 0.763}, "gallery_quality": 0.65, "museum_rationale": "This is a functional diagrammatic layout typical of 17th-19th century Chinese architectural and divinatory manuals (Lu Ban Ruler guides), demonstrating the intersection of typography and geomantic science."}]
+</detected-images>
+
+--- Page 80 ---
+<lang>zh</lang>
+
+<meta>This page contains a list of architectural specifications, detailing dimensions for various styles of doors or panels (扇), likely from a 17th or 18th-century manual on carpentry or building standards. The text specifies widths (濶) and heights (高) in feet (尺) and inches (寸), following traditional auspicious naming conventions such as "才吉門" (Caiji door).</meta>
+
+小樣草扇財吉門濶二尺四寸高五尺一寸
+中樣草才吉門濶三尺六寸高五尺四寸
+樣門草扇才吉門濶二尺八寸高五尺六寸
+門樣雙扇才吉門濶五尺二寸高五尺九寸
+中樣雙扇才吉門濶三尺八寸高六尺二寸
+大樣雙扇才吉門濶四尺三寸高六尺五寸
+中樣雙扇才吉門濶五尺二寸高九尺八寸
+中樣雙扇官樣才吉門濶五尺六寸高七尺二寸
+
+<vocab>小樣 (small style), 中樣 (medium style), 大樣 (large style), 官樣 (official style), 草扇 (simple panel), 雙扇 (double panels), 財吉門 (auspicious door of wealth), 才吉門 (standard auspicious door), 濶 (width), 闊 (width), 尺 (foot), 寸 (inch)</vocab>

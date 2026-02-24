@@ -1,0 +1,28 @@
+{
+  "id": "6953c88077f38f6761bdd8d1",
+  "title": "Transcendental Magic: Its Doctrine and Ritual",
+  "display_title": "Transcendental Magic: Its Doctrine and Ritual",
+  "author": "Eliphas Levi; tr. A.E. Waite",
+  "language": "English",
+  "year": 1896,
+  "published": "1896",
+  "pages_count": 448,
+  "pages_with_ocr": 83,
+  "pages_with_translation": 83,
+  "source_url": "https://sourcelibrary.org/book/6953c88077f38f6761bdd8d1",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "b24884339"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:15.724Z",
+  "_hashes": {
+    "ocr": "ec2c1a45ff7cb8c6",
+    "translation": "d1b1530b5377a701"
+  }
+}

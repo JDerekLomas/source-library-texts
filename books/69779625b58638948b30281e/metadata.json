@@ -1,0 +1,26 @@
+{
+  "id": "69779625b58638948b30281e",
+  "title": "Het cabinet der mineralen",
+  "display_title": "Het cabinet der mineralen",
+  "author": "Vreeswyk, Goossen van",
+  "language": "Dutch",
+  "year": 1670,
+  "published": "1670",
+  "pages_count": 82,
+  "pages_with_ocr": 82,
+  "pages_with_translation": 82,
+  "source_url": "https://sourcelibrary.org/book/69779625b58638948b30281e",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:16.197Z",
+  "_hashes": {
+    "ocr": "cd03002711794c41",
+    "translation": "3067af6d7a4905db"
+  }
+}

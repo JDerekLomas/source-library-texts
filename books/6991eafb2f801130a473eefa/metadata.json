@@ -1,0 +1,28 @@
+{
+  "id": "6991eafb2f801130a473eefa",
+  "title": "Esquisses et etudes de tetes",
+  "display_title": "Esquisses et etudes de tetes",
+  "author": "Leonardo da Vinci",
+  "language": "Italian",
+  "year": 1880,
+  "published": "Unknown",
+  "pages_count": 78,
+  "pages_with_ocr": 78,
+  "pages_with_translation": 78,
+  "source_url": "https://sourcelibrary.org/book/6991eafb2f801130a473eefa",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "gri_33125017557493"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:20.936Z",
+  "_hashes": {
+    "ocr": "c28ccfa7c3184d3e",
+    "translation": "c5b71608f99882ed"
+  }
+}

@@ -1,0 +1,1452 @@
+--- Page 1 ---
+<lang>Chinese</lang>
+
+<insert>
+# 武
+# 備
+# 志
+</insert>
+
+<vocab>武備志, Wubeizhi, military preparation, Ming Dynasty treatise, Mao Yuanyi</vocab>
+
+<detected-images>
+[{"description": "Title slip (shuxian) on a dark blue book cover with the title '武備志' (Wubeizhi) written vertically in calligraphy, alongside visible traditional thread binding on the right edge.", "type": "decorative", "bbox": {"x": 0.051, "y": 0.037, "width": 0.22, "height": 0.72}, "gallery_quality": 0.7, "museum_rationale": "High-quality presentation of traditional Chinese stitch-bound book aesthetics, specifically the cover and title slip of a major military historical work."}]
+</detected-images>
+
+--- Page 2 ---
+<lang>Chinese</lang>
+<header>武備志卷一百一 軍資乘 戰六 旌旗三</header>
+<page-num>一</page-num>
+
+# 武備志卷一百一
+
+## 軍資乘
+### 戰六
+### 旌旗三
+
+**防風茅元儀輯**
+
+<vocab>武備志, 茅元儀, 軍資乘, 旌旗, 防風</vocab>
+
+--- Page 3 ---
+<lang>Chinese</lang>
+
+# 大將出軍清道圖
+
+->清道 &emsp;&emsp;&emsp; 清道<-
+
+->鳥 &emsp; 鳥 &emsp; 鳥 &emsp; 鳥 &emsp; 鳥<-
+
+->門旗 &emsp;&emsp;&emsp;&emsp; 門旗<-
+
+->引步皷 &emsp; 引步皷 &emsp; 引步皷 &emsp; 引步皷<-
+
+->角旗 &emsp; 大旗 &emsp; 角旗<-
+
+->護兵 &emsp; 護兵 &emsp; 護兵 &emsp; 護兵 &emsp; 護兵<-
+
+->令旗 &emsp; 招 &emsp; 令旗<-
+
+->護兵 &emsp; 護兵 &emsp; 護兵 &emsp; 護兵 &emsp; 護兵<-
+
+<vocab>大將, 出軍, 清道, 鳥, 門旗, 引步皷, 角旗, 大旗, 護兵, 令旗, 招</vocab>
+
+<detected-images>
+[{"description": "A military formation diagram consisting of text enclosed in circles, depicting the arrangement of various units, standards, flags, and guards for a general's procession.", "type": "diagram", "bbox": {"x": 0.17, "y": 0.23, "width": 0.61, "height": 0.65}, "gallery_quality": 0.8, "museum_rationale": "This diagram provides a structured visual record of Ming or Qing dynasty military protocol, showing the specific placement of 'road clearers', bird standards, banners, and escort guards."}]
+</detected-images>
+
+--- Page 4 ---
+<lang>zh</lang>
+<warning>The image contains a diagram with text oriented vertically. Partial text from a facing page is visible on the far left edge and should be ignored.</warning>
+
+->護兵 護兵 護兵 護兵 護兵<-
+
+->門旗 門旗<-
+
+->護兵 護兵 護兵 護兵 護兵<-
+
+->令旗 招 令旗<-
+
+->護兵 護兵 護兵 護兵 護兵<-
+
+->角旗 大方旗 角旗<-
+
+->護兵 護兵 護兵 護兵 護兵<-
+
+->門旗 門旗<-
+
+<vocab>護兵, 門旗, 令旗, 招, 角旗, 大方旗, 陣圖</vocab>
+
+<detected-images>
+[{"description": "A military formation or encampment diagram consisting of circular icons labeled with Chinese characters representing different guard units and command flags.", "type": "diagram", "bbox": {"x": 0.205, "y": 0.252, "width": 0.623, "height": 0.628}, "gallery_quality": 0.7, "museum_rationale": "This diagram provides historical insight into the tactical layouts and signal systems of early modern Chinese military forces, illustrating the precise arrangement of 'Gate Flags', 'Command Flags', and guard units."}]
+</detected-images>
+
+--- Page 5 ---
+<lang>Chinese</lang>
+<header>武備志卷二十一</header>
+
+->(角旗) (大旗) (角旗)<-
+
+->(護兵) (護兵) (護兵) (護兵) (護兵)<-
+
+->(令旗) (招) (令旗)<-
+
+->(護兵) (護兵) (護兵) (護兵) (護兵)<-
+
+->(門旗) (門旗)<-
+
+->(護兵) (護兵) (護兵) (護兵) (護兵)<-
+
+->(角旗) (大旗) (角旗)<-
+
+->(護兵) (護兵) (護兵) (護兵) (護兵)<-
+
+<vocab>武備志, 護兵, 令旗, 角旗, 大旗, 門旗, 招</vocab>
+
+<detected-images>
+[{"description": "A military formation diagram from the 'Wubei Zhi' (Treatise on Armament Technology), composed of thirty-one labeled circles representing the placement of various signal flags and guard units.", "type": "diagram", "bbox": {"x": 0.201, "y": 0.259, "width": 0.587, "height": 0.638}, "gallery_quality": 0.8, "museum_rationale": "High-quality woodblock print from a major Ming dynasty military encyclopedia, the Wubei Zhi, demonstrating historical tactical arrangements and signaling protocols."}]
+</detected-images>
+
+--- Page 6 ---
+<lang>lzh</lang>
+<page-num>三</page-num>
+<header>武經總要前集卷十一 軍資乘 戰旌旗三</header>
+
+->護兵 護兵 護兵 護兵 護兵<-
+
+->令旗 招 令旗<-
+
+->護兵 護兵 護兵 護兵 護兵<-
+
+->角旗 大纛 角旗<-
+
+->護兵 護兵 護兵 護兵 護兵<-
+
+->門旗 門旗<-
+
+->護兵 護兵 護兵 護兵 護兵<-
+
+->令旗 招 令旗<-
+
+<vocab>武經總要, 護兵, 令旗, 招, 角旗, 大纛, 門旗, 軍資乘, 戰旌旗</vocab>
+
+<detected-images>
+[{"description": "A military formation diagram from the 'Wujing Zongyao' illustrating the arrangement of protective troops (護兵) and various command and signal banners including command flags (令旗), signal flags (招), horn flags (角旗), a great banner (大纛), and gate flags (門旗).", "type": "diagram", "bbox": {"x": 0.203, "y": 0.208, "width": 0.575, "height": 0.635}, "gallery_quality": 0.85, "museum_rationale": "This diagram provides a rare visual representation of classical Chinese military tactical layouts and signaling systems from a foundational Ming-era military treatise, the Wujing Zongyao."}]
+</detected-images>
+
+--- Page 7 ---
+<lang>zh</lang>
+<header>正干元</header>
+<page-num>二二一</page-num>
+
+->**五方中**　　**五方中**<-
+
+->**五方中**<-
+
+->**五方中**　　**五方中**<-
+
+---
+
+->**五方小招**　**五方小招**　**五方小招**　**五方小招**　**五方小招**<-
+
+---
+
+->**金鼓旗**　　**金鼓旗**<-
+
+---
+
+->**鈴鑼**　　**鉦**　　**鉦**　　**鈴鑼**<-
+
+---
+
+->**喇叭**　　**孛囉**　　**孛囉**　　**喇叭**<-
+
+<vocab>五方中, 五方小招, 金鼓旗, 鈴鑼, 鉦, 喇叭, 孛囉</vocab>
+
+<detected-images>
+[{"description": "A military formation or signaling diagram composed of twenty circular emblems containing calligraphic text, arranged in five distinct horizontal groupings.", "type": "diagram", "bbox": {"x": 178, "y": 240, "width": 595, "height": 617}, "gallery_quality": 0.8, "museum_rationale": "This page provides a clear visual representation of a historical military command or musical signal structure, likely from a Ming or Qing dynasty military treatise like the Wubeizhi. The arrangement of 'Five Directions' (Wufang) and specific instruments like the 'Boluo' horn is of significant historical interest for understanding early modern Chinese military organization."}]
+</detected-images>
+
+--- Page 8 ---
+<lang>zh</lang>
+<header>武備志卷之二十一 軍資乘 戰 旌旗三</header>
+<page-num>五</page-num>
+<vocab>武備志, 坐纛, 親兵, 細樂, 點子, 銅鼓, 杖鼓, 小鈸, 笛</vocab>
+
+->**坐纛**<-
+
+->**親兵** **親兵** **親兵** **親兵** **親兵**<-
+
+->**細樂** **細樂** **細樂** **細樂**<-
+
+->**點子** **銅鼓** **銅鼓** **杖鼓**<-
+
+->**鼓** **鼓** **鼓** **鼓**<-
+
+->**小鈸** **笛** **笛** **小鈸**<-
+
+->**鼓** **鼓** **鼓** **鼓**<-
+
+<detected-images>
+[{"description": "A woodblock diagram from the Wubei Zhi depicting the formation of guards and a musical ensemble surrounding a central 'Zuo Dao' (Grand Standard). The arrangement includes rows of personal guards, refined music players, and various percussionists and wind instrumentalists.", "type": "diagram", "bbox": {"x": 0.19, "y": 0.18, "width": 0.60, "height": 0.61}, "gallery_quality": 0.85, "museum_rationale": "An excellent example of Ming dynasty military documentation, illustrating the specific ceremonial or tactical placement of musicians and guards in relation to a commander's standard."}]
+</detected-images>
+
+--- Page 9 ---
+<lang>zh-Hant</lang>
+<header>立有志卷二十一</header>
+
+# 應用人數
+
+軍令牌四面、可用四人、
+
+大門旗十面、每面用人二名、
+
+五方旗十五面、神旗五面、單擺飛虎旗五面、
+
+五方擺五行五面、一字擺用人十五名、
+
+角旗十面、每面一名、
+
+五方高招正副十面、用人二十名、
+
+坐纛一面用人五名、護纛親兵二十五名、
+
+押旗令旗二十四面、用人二十四名、下營即
+
+<vocab>應用人數, 軍令牌, 大門旗, 五方旗, 神旗, 飛虎旗, 五行, 角旗, 高招, 坐纛, 護纛親兵, 令旗</vocab>
+
+--- Page 10 ---
+<lang>zh</lang>
+<header>武備志卷一百十一 軍資乘 戰旌旗三</header>
+<page-num>五</page-num>
+<meta>Source: Wubei Zhi (Treatise on Armament Technology) by Mao Yuanyi, Ming Dynasty. Image shows military ceremonial or marching formation details.</meta>
+
+### 散管內督察監軍
+
+金鼓旗四面用人四名
+
+金鼓二副鉦二捧鈸二孛囉四喇叭四鼓十二笛二捧飯二板二細樂八共用吹鼓手三十八名每五方旗高招一面後護旗各精兵五名共十層用兵五十名
+
+**將馬前**
+
+令牌三面官三員
+
+長短兵每排五名共五層通一隊二十五名
+
+<vocab>武備志, 監軍, 金鼓旗, 吹鼓手, 令牌, 長短兵, 孛囉</vocab>
+
+--- Page 11 ---
+<lang>Chinese</lang>
+
+# 馬後
+
+令字小旗牌背招一十二面、用馬十二疋、親信膽勇員役執之、每四人一層、分三層、專聽督遣密令、
+
+押後兵二十五名、各用長短器、
+
+<vocab>馬後, 令字小旗, 牌背招, 員役, 督遣, 密令, 押後兵, 長短器</vocab>
+
+--- Page 12 ---
+<lang>zh</lang>
+<page-num>旌旗三</page-num>
+<vocab>大將, 清道旗, 鳥銃, 哮喇, 鼓, 號銃, 門旗, 大纛, 角旗, 招</vocab>
+
+# 大將清道旗
+
+<margin>
+旌旗三
+</margin>
+
+->清道 &emsp;&emsp;&emsp;&emsp; 清道<-
+
+->鳥 &emsp;&emsp; 鳥 &emsp;&emsp; 鳥 &emsp;&emsp; 鳥<-
+
+->哮 &emsp;&emsp; 鼓 &emsp;&emsp; 鼓 &emsp;&emsp; 哮<-
+
+->喇 &emsp; 號銃 &emsp; 號銃 &emsp; 喇<-
+
+->門旗 &emsp;&emsp;&emsp;&emsp; 門旗<-
+
+->器 &emsp;&emsp; **大纛** &emsp;&emsp; 器<-
+
+->角旗 &emsp;&emsp;&emsp;&emsp; 角旗<-
+
+->器 &emsp;&emsp;&emsp; **招** &emsp;&emsp;&emsp; 器<-
+
+<note>This diagram illustrates the ceremonial or tactical arrangement for the "Path-Clearing Flag" (清道旗) of a High General (大將). It details the positions of bird-guns (鳥, short for 鳥銃), musicians including drums (鼓) and "xiaola" trumpets (哮喇), signal cannons (號銃), and various banners such as the Great Banner (大纛) and Gate Flags (門旗).</note>
+
+<detected-images>
+[{"description": "A military formation diagram showing the spatial arrangement of flags, musicians, and signal-bearing soldiers in a general's path-clearing unit.", "type": "diagram", "bbox": {"x": 195, "y": 230, "width": 490, "height": 665}, "gallery_quality": 0.75, "museum_rationale": "A characteristic example of Ming or Qing dynasty military manual illustrations, providing insight into period military protocol and the integration of firearms and musical signals into formations."}]
+</detected-images>
+
+--- Page 13 ---
+<lang>zh</lang>
+<page-num>一</page-num>
+<header>卷三</header>
+<warning>The text on the right margin is partially cropped. The circular diagram element at the bottom-left is faded and illegible.</warning>
+
+->巡視　　　　　　　　　　　　　　　巡視<-
+
+->器　　　　　　　　　招　　　　　　　　　器<-
+
+->角旗　　　　　　　　　　　　　　　角旗<-
+
+->器　　　　　　　　大纛　　　　　　　　　器<-
+
+->門旗　　　　　　　　　　　　　　　門旗<-
+
+->器　　　　　　　　　招　　　　　　　　　器<-
+
+->角旗　　　　　　　　　　　　　　　角旗<-
+
+->器　　　　　　　　大纛　　　　　　　　　器<-
+
+-><unclear/>　　　　　　　　　　　　　　門旗<-
+
+<vocab>巡視, 器, 角旗, 門旗, 招, 大纛, 卷三</vocab>
+
+<detected-images>
+[{"description": "A tactical diagram from a Chinese military treatise, likely depicting the layout of banners and equipment in a camp or formation. Labels in circles indicate positions for inspection patrols (巡視), signal flags (招), grand standards (大纛), corner flags (角旗), gate flags (門旗), and military equipment or artillery (器).", "type": "diagram", "bbox": {"x": 0.057, "y": 0.128, "width": 0.811, "height": 0.776}, "gallery_quality": 0.75, "museum_rationale": "This page provides a clear visual representation of traditional Chinese military organization and signaling equipment as documented in significant historical military manuals such as the 'Ji Xiao Xin Shu' or 'Lian Bing Shi Ji'."}]
+</detected-images>
+
+--- Page 14 ---
+<lang>zh</lang>
+<header>武備志卷二十三 聖會集 戰 旌旗三</header>
+
+門旗　　　　　　　門旗
+
+器　　　　大纛　　器
+
+角旗　　　　　　　角旗
+
+器　　　　招　　　器
+
+門旗　　　　　　　門旗
+
+器　　　　大纛　　器
+
+角旗　　　　　　　角旗
+
+器　　　　招　　　器
+
+<vocab>武備志, 門旗, 器, 角旗, 大纛, 招</vocab>
+
+<detected-images>
+[{"description": "Diagram of military banner and equipment arrangement in a formation, showing 'Gate Banners', 'Corner Banners', 'Grand Standards', and 'Signal Flags'.", "type": "diagram", "bbox": {"x": 284, "y": 236, "width": 516, "height": 680}, "gallery_quality": 0.8, "museum_rationale": "This diagram is from the 'Wubei Zhi' (Treatise on Armament Technology), the most comprehensive military book in Chinese history. It illustrates the precise tactical arrangement of signaling equipment, which is critical for historical military studies."}]
+</detected-images>
+
+--- Page 15 ---
+<lang>zh</lang>
+
+<meta>Diagram showing a military or ceremonial musical and signaling formation, likely from a Ming or Qing dynasty manual.</meta>
+
+-> 執事　　執事 <-
+
+-> 令箭　　　耳 <-
+
+-> 器　器　器　器 <-
+
+-> 令　令　令旗　令　令 <-
+
+-> 令　令　令旗　令　令 <-
+
+-> 巡視　　巡視 <-
+
+-> 器　器　器　器 <-
+
+-> 小鈸　笛　笛　小鈸 <-
+
+-> 鼓　鼓　鼓　鼓 <-
+
+<vocab>執事, 令箭, 令旗, 巡視, 器, 小鈸, 笛, 鼓, 軍陣, 樂隊</vocab>
+
+<detected-images>
+[{"description": "A diagrammatic layout of circles containing Chinese characters, representing a military or ceremonial formation for musical instruments and signalers.", "type": "diagram", "bbox": {"x": 218, "y": 235, "width": 591, "height": 653}, "gallery_quality": 0.8, "museum_rationale": "This is a clear, functional diagram from a historical Chinese military or ritual manual, illustrating the spatial organization of performers and officials."}]
+</detected-images>
+
+--- Page 16 ---
+<lang>zh</lang>
+<meta>Manuscript diagram of a musical ensemble's spatial formation, likely for a military or courtly ritual. The text labels for instruments and musical roles are enclosed in circles. The primary instruments include drums (铜鼓, 杖鼓), gongs (鉦), and trumpets (喇叭/哱囉).</meta>
+
+<margin>
+車竒庚 戟 庄林三
+</margin>
+
+->(𥳔)　　　　(𥳔)<-
+
+->(𥳔)<-
+
+->(器)　　　　(器)<-
+
+->(𥳔)　　　　(𥳔)<-
+
+->(金鼓旗)　　　(金鼓旗)<-
+
+---
+
+->(器)　　(器)　　(器)　　(器)<-
+
+->(鈴囉)　　(鉦)　　(鉦)　　(鈴囉)<-
+
+->(喇)　　(哮)　　(哮)　　(喇)<-
+
+->(細樂)　　(細樂)　　(細樂)　　(細樂)<-
+
+->(點子)　　(銅鼓)　　(銅鼓)　　(杖鼓)<-
+
+<vocab>𥳔, 器, 金鼓旗, 鈴囉, 鉦, 喇, 哮, 細樂, 點子, 銅鼓, 杖鼓, 車竒庚</vocab>
+
+<detected-images>
+[{"description": "A diagram of a ceremonial or military musical ensemble layout consisting of 29 text-filled circles arranged in a structured formation.", "type": "diagram", "bbox": {"x": 0.164, "y": 0.198, "width": 0.65, "height": 0.718}, "gallery_quality": 0.7, "museum_rationale": "An excellent example of historical Chinese spatial notation for ritual choreography and musical performance, providing insights into the instrumentation and physical arrangement of Ming-Qing era ensembles."}]
+</detected-images>
+
+--- Page 17 ---
+<lang>zh</lang>
+<page-num>一</page-num>
+<header>卷一</header>
+<meta>This page contains a tactical diagram from a historical Chinese military or engineering manual, likely from the Ming or Qing dynasty. The text within the circular markers is written vertically. The right margin contains partially visible vertical text, including "三正作下" (unclear first character), the volume number "卷一", and the page number "一".</meta>
+
+->( 塘 ) ( 塘 ) ( 塘 ) ( 塘 )<-
+
+->( 教 ) ( 教 ) ( 教 ) ( 教 )<-
+
+->( 親兵 ) ( 親兵 ) ( 親兵 ) ( 親兵 )<-
+
+->( 親兵 ) ( 親兵 ) ( 親兵 ) ( 親兵 )<-
+
+->( 攔後 ) ( 攔後 ) ( 攔後 ) ( 攔後 )<-
+
+->( 攔後 ) ( 攔後 ) ( 攔後 ) ( 攔後 )<-
+
+->( 毒罋 )<-
+
+->( 走馬 )<-
+
+->( 崩器 ) ( 崩器 )<-
+
+->( 竹板 ) ( 竹板 )<-
+
+<vocab>塘, 教, 親兵, 攔後, 毒罋, 走馬, 崩器, 竹板</vocab>
+
+<detected-images>
+[{"description": "A military tactical diagram or explosive trap layout featuring thirty circular labels arranged in a structured formation. The labels identify specific personnel roles (scouts, guards) and specialized equipment (poison jars, galloping horse mines, shattering devices).", "type": "diagram", "bbox": {"x": 0.22, "y": 0.14, "width": 0.53, "height": 0.77}, "gallery_quality": 0.8, "museum_rationale": "This woodblock print is a significant primary source for the study of historical Chinese military science, specifically technical illustrations of formations or defensive pyrotechnics. The diagram is well-preserved and clearly labeled, providing insight into late imperial military organization."}]
+</detected-images>
+
+--- Page 18 ---
+<lang>Chinese</lang>
+<page-num>九</page-num>
+<header>武備志卷一百一 軍資乘 戰 旌旗三</header>
+
+每一大管大將認旗、從納音五色帶、各管將認旗。
+用本方之色、以邊應主將、以號帶應德、德、國王也。
+把總認旗、以心坐本方、以邊應把總、以帶應德旗。
+總旗、以色應本哨、以邊應總司、隊長旗、以色應旗。
+總軍士盔有纓而無旗、隊總盔旗長三寸、上書隊
+哨分數字樣、方色照哨將旗。
+
+<vocab>武備志, 認旗, 納音, 把總, 哨, 旌旗, 隊長</vocab>
+
+--- Page 19 ---
+<lang>Chinese</lang>
+
+隊長認旗方一尺桿用長鎗一丈五尺旗懸高九
+尺
+重二斤
+
+<vocab>隊長, 認旗, 長鎗, 丈, 尺, 斤</vocab>
+
+<detected-images>
+[{"description": "A diagram of a military identification flag (認旗) attached to a long spear (長鎗), with specified dimensions for the flag and pole.", "type": "diagram", "bbox": {"x": 0.252, "y": 0.263, "width": 0.258, "height": 0.628}, "gallery_quality": 0.7, "museum_rationale": "This diagram provides a clear visual representation of 16th-17th century Chinese military equipment as described in period manuals like the Jixiao Xinshu. It illustrates the precise proportions required for field identification."}]
+</detected-images>
+
+--- Page 20 ---
+<lang>zh</lang>
+<header>武備志卷之一百一 軍資乘 戰 旌旗三</header>
+<page-num>十</page-num>
+
+旗總認旗方一尺五寸斜角有邊、桿用長鎗一丈
+五尺、旗懸高一丈一尺。
+
+<vocab>旗總, 認旗, 武備志, 長鎗, 旌旗</vocab>
+
+<detected-images>
+[{"description": "A technical diagram illustrating a 'Qi Zong' (Flag Captain) recognition flag, shown attached to a long spear (chang qiang) that serves as its flagpole. The flag is square with a wavy or flame-style decorative border.", "type": "diagram", "bbox": {"x": 0.272, "y": 0.254, "width": 0.248, "height": 0.615}, "gallery_quality": 0.75, "museum_rationale": "This is a representative illustration from the Wubizhi (Treatise on Armament Technology), a seminal Ming dynasty military encyclopedia. It provides precise visual documentation of military signaling and identification equipment from the period."}]
+</detected-images>
+
+--- Page 21 ---
+<lang>Chinese</lang>
+<meta>Woodblock print from a historical Chinese military treatise, likely the Wubei Zhi (武備志) or a similar Ming/Qing era manual.</meta>
+
+# 哨官認旗
+
+哨官認旗方二尺、斜角用、邊帶長三尺、桿用長鎗
+一丈六尺、旗懸至頂、
+
+<vocab>哨官, 認旗, 長鎗, 丈, 尺</vocab>
+
+<detected-images>
+[{"description": "A woodblock print illustration of a military 'recognition flag' (renqi) for a sentry officer. The flag has a square field with flame-like (serrated) borders and a long streamer attached to the top. It is mounted on a long pole tipped with a spear head.", "type": "woodcut", "bbox": {"x": 0.18, "y": 0.24, "width": 0.42, "height": 0.69}, "gallery_quality": 0.85, "museum_rationale": "A clear, well-preserved technical illustration from a historical Chinese military manual, providing valuable documentation on pre-modern signaling equipment and standardized military specifications."}]
+</detected-images>
+
+--- Page 22 ---
+<lang>zh</lang>
+<header>...軍資乘 戰旌旗三</header>
+<meta>Qing Dynasty woodblock print, likely from an edition of the Huangchao Liqi Tushi (皇朝禮器圖式) or a similar military manual. The text describes a Recognition Flag (Renqi) for a Bazong (company commander).</meta>
+<warning>Text at the left edge is partially cut off.</warning>
+
+把總認旗方三尺斜角用邊帶纓頭桿高一丈七
+尺旗懸至頂
+
+<vocab>把總, 認旗, 纓頭, 丈, 尺, 旌旗</vocab>
+
+<detected-images>
+[{"description": "A technical diagram of a military recognition flag (Renqi) on a long pole. The flag features a square field with scalloped or 'flaming' borders (斜角用邊) and a decorative tassel (纓頭) just below the spear tip of the pole.", "type": "diagram", "bbox": {"x": 0.258, "y": 0.236, "width": 0.325, "height": 0.648}, "gallery_quality": 0.75, "museum_rationale": "This illustration provides a clear and historically significant representation of Qing Dynasty military signaling and rank equipment, following the strict regulations of the period."}]
+</detected-images>
+
+--- Page 23 ---
+<lang>zh</lang>
+<header>武備志卷一百一</header>
+
+### 營將認旗
+
+營將認旗方五尺，斜角用邊帶，纓頭雉尾，桿高丈八尺，旗懸至頂。
+
+<vocab>營將, 認旗, 纓頭, 雉尾, 武備志</vocab>
+
+<detected-images>
+[{"description": "A woodcut illustration of a Chinese military recognition flag (renqi) for a battalion commander, mounted on a tall pole adorned with a tassel and pheasant feathers.", "type": "diagram", "bbox": {"x": 0.228, "y": 0.207, "width": 0.385, "height": 0.648}, "gallery_quality": 0.8, "museum_rationale": "Clear and well-executed technical illustration from the 'Wubei Zhi', a significant historical Chinese military treatise, showing the design and dimensions of a military standard."}]
+</detected-images>
+
+--- Page 24 ---
+<lang>zh</lang>
+
+上將<gloss>三軍</gloss>旗、桿高一丈九尺、旗長三尺、闊一尺五寸、尾帶用五色、二十五條長二尺五寸。
+
+<insert>
+三軍司令
+</insert>
+
+五色號帶
+
+<vocab>上將旗, 三軍, 司令, 旗桿, 五色號帶</vocab>
+
+<detected-images>
+[{"description": "A woodblock technical illustration of a military command banner (shangjiang qi) mounted on a tall pole. The pole is topped with a decorative cluster of feathers or horsehair. The banner itself contains text, and the tail consists of twenty-five multi-colored streamers used for signaling.", "type": "diagram", "bbox": {"x": 0.191, "y": 0.201, "width": 0.353, "height": 0.707}, "gallery_quality": 0.8, "museum_rationale": "This is a detailed and well-preserved woodblock illustration from a classical Chinese military treatise, demonstrating the specific dimensions and design of command signaling equipment."}]
+</detected-images>
+
+--- Page 25 ---
+<lang>zh</lang>
+<page-num>十一</page-num>
+<header>武備志卷一百</header>
+<meta>軍旗</meta>
+
+# 武備志卷一百
+
+前管將官認旗，紅心紅邊黃帶珠纓雉尾書前軍，
+
+司命五方旗，五色俱紅邊，
+
+前司把總旗，紅心紅邊黃帶，五方旗俱紅邊，
+
+前哨官旗，紅心紅邊黃帶，
+
+旗總旗，紅心紅邊，
+
+隊長旗，紅無邊，
+
+左哨官旗，藍心紅邊，餘同，
+
+旗總旗，藍心紅邊，
+
+隊長旗，藍無邊，
+
+<vocab>武備志, 認旗, 司命, 五方旗, 把總, 哨官, 旗總, 隊長, 雉尾, 珠纓</vocab>
+
+--- Page 26 ---
+<lang>zh</lang>
+<meta>The text is from a traditional Chinese woodblock print, likely the "Wubei Zhi" (武備志, Treatise on Armament Technology) by Mao Yuanyi. The content specifies the color and design of military flags for different unit leaders.</meta>
+<warning>The text on the far-left margin is partially cut off and faded.</warning>
+
+<margin>
+<unclear>武備志</unclear>
+軍資乘 卷之三
+<unclear>第...</unclear>
+</margin>
+
+右哨官旗、白心紅邊、餘同、
+旗總旗、白心紅邊、
+隊長旗、白無邊、
+後哨官旗、黑心紅邊、餘同、
+旗總旗、黑心紅邊、
+隊長旗、黑無邊、
+中哨官旗、黃心紅邊、餘同、
+旗總旗、黃心紅邊、
+隊長旗、黃無邊
+
+<vocab>哨官, 旗總, 隊長, 軍資乘, 旗, 武備志</vocab>
+
+--- Page 27 ---
+<lang>zh</lang>
+<page-num>1</page-num>
+
+左司把總旗、藍心紅邊黃帶、五方旗、俱紅邊、
+左右中前後哨官旗、心照各方、俱藍邊、黃帶、
+左右中前後旗、總旗、照哨官旗、藍邊、
+隊長旗、照哨官旗、無邊、
+中司把總旗、黃心紅邊黃帶、五方旗、俱紅邊、
+左右中前後哨官旗、心照各方、俱黃邊、黃帶、
+左右中前後旗、總旗、照哨官旗、黃邊、
+隊長旗、照哨官旗、無邊、
+右司把總旗、白心紅邊黃帶、五方旗、俱紅邊、
+
+<vocab>左司, 中司, 右司, 把總, 哨官, 隊長, 五方旗, 旗, 帶, 藍心, 黃心, 白心, 紅邊, 黃帶, 藍邊, 黃邊</vocab>
+
+--- Page 28 ---
+<lang>Chinese</lang>
+<header>武備志卷之九十二 軍資乘 戰 旌旗三</header>
+<page-num>三</page-num>
+
+左右中前後哨官旗、心照各方、俱白邊黃帶、
+左右中前後旗、總旗照哨官旗、白邊、
+隊長旗、照哨官旗、無邊、
+後司把總旗、黑心紅邊黃帶、五方旗俱紅邊、
+左右中前後哨官旗、心照各方俱、黑邊黃帶、
+左右中前後旗、總旗照哨官旗、黑邊、
+隊長旗、照哨官旗、無邊、
+營將每一營將官認旗一面、
+金鼓旗一面、
+
+<vocab>武備志, 哨官旗, 總旗, 隊長旗, 把總旗, 認旗, 金鼓旗, 軍資乘</vocab>
+
+--- Page 29 ---
+<lang>zh</lang>
+<header>兵錄卷一</header>
+<meta>下</meta>
+
+門旗二面，
+坐纛一面，
+五方旗五面，
+高招旗一面，
+巡視旗十面，
+把總認旗各一面，
+哨官認旗各一面，
+旗總鎗旗各一面，
+隊總鎗旗各一面，
+
+<vocab>兵錄, 門旗, 坐纛, 五方旗, 高招旗, 巡視旗, 把總, 哨官, 旗總, 隊總, 認旗, 鎗旗</vocab>
+
+--- Page 30 ---
+<lang>zh</lang>
+<page-num>十五</page-num>
+<header>武備志卷一百一 軍資乘 旗幟三</header>
+
+## 營旗燈圖
+
+## 罩盔圖
+
+<gloss>此用縀綻小孔以扎穴就氣亮不可大大則發光揚動</gloss>
+
+<gloss>此用繩員收口須緊</gloss>
+
+<vocab>武備志, 營旗燈, 罩盔, 軍資乘, 縀, 揚動</vocab>
+
+<detected-images>
+[{"description": "A woodblock diagram from the Wubizhi (Treatise on Armament Technology) depicting a 'Zhao Kui' (helmet-shaped lamp cover) for a camp flag lantern. The illustration includes technical annotations regarding its construction from silk with small ventilation holes to ensure light stability and a rope-tightened closure.", "type": "diagram", "bbox": {"x": 0.34, "y": 0.16, "width": 0.55, "height": 0.74}, "gallery_quality": 0.8, "museum_rationale": "This is a significant technical illustration from the Ming Dynasty's most comprehensive military encyclopedia, providing insight into early modern logistics, signaling, and lighting equipment used in military camps."}]
+</detected-images>
+
+--- Page 31 ---
+<lang>Chinese</lang>
+<meta>image-quality: clear woodblock print</meta>
+
+中軍旗鼓上應備各黃油紙鐵絲燈一盞俱圓八
+寸<gloss>、</gloss>纛上用五色燈五盞一行聯下俱圓九寸各雜
+流官生人等每起頭目各帶燈一盞俱圓六寸低
+執隨身前總哨旗上紅油紙鐵絲燈一盞高照一
+盞俱粗四寸長七寸每一隊旗上一盞色同俱粗
+五寸長一尺黑油罩一件<gloss>、</gloss>
+左總燈尺寸同但用藍油紙<gloss>、</gloss>
+右總燈尺寸同但用白油紙<gloss>、</gloss>
+後總燈尺寸同但用綠油紙<gloss>、</gloss>
+
+<vocab>中軍, 旗鼓, 黃油紙, 鐵絲燈, 纛, 五色燈, 哨旗, 紅油紙, 黑油罩, 左總, 右總, 後總, 藍油紙, 白油紙, 綠油紙</vocab>
+
+--- Page 32 ---
+<lang>Chinese</lang>
+<page-num>陸庚三</page-num>
+<meta>Traditional Chinese woodblock print. The text is written vertically and includes side-marks (emphasis circles) next to each character. The left margin contains folio/page numbering.</meta>
+
+中<gloss>。</gloss>總<gloss>。</gloss>塘<gloss>。</gloss>報<gloss>。</gloss>等<gloss>。</gloss>燈<gloss>。</gloss>俱<gloss>。</gloss>圓<gloss>。</gloss>而<gloss>。</gloss>黃<gloss>。</gloss>高<gloss>。</gloss>圓<gloss>。</gloss>俱<gloss>。</gloss>七<gloss>。</gloss>寸<gloss>。</gloss>
+
+罩<gloss>。</gloss>蓋<gloss>。</gloss>最<gloss>。</gloss>要<gloss>。</gloss>或<gloss>。</gloss>一<gloss>。</gloss>時<gloss>。</gloss>遮<gloss>。</gloss>隱<gloss>。</gloss>使<gloss>。</gloss>寸<gloss>。</gloss>明<gloss>。</gloss>不<gloss>。</gloss>露<gloss>。</gloss>或<gloss>。</gloss>明<gloss>。</gloss>管<gloss>。</gloss>暗<gloss>。</gloss>徙<gloss>。</gloss>
+
+或<gloss>。</gloss>暗<gloss>。</gloss>管<gloss>。</gloss>候<gloss>。</gloss>明<gloss>。</gloss>為<gloss>。</gloss>莫<gloss>。</gloss>測<gloss>。</gloss>之<gloss>。</gloss>巧<gloss>。</gloss>也<gloss>。</gloss>
+
+---
+
+<vocab>中總, 塘報, 罩蓋, 明管, 暗徙, 莫測之巧</vocab>
+
+--- Page 33 ---
+<lang>zh</lang>
+<page-num>六六</page-num>
+<header>武備志卷一百一</header>
+
+# 武備志卷一百一
+
+塘報旗桿用鎗長九尺上繫旗方一尺凡行軍搖旗是有賊至麾<gloss>此</gloss>人賊多
+
+<vocab>武備志, 塘報旗, 麾, 鎗</vocab>
+
+<detected-images>
+[{"description": "A woodblock diagram showing a scout's signaling flag (Tangbao flag) attached to a spear shaft.", "type": "diagram", "bbox": {"x": 0.35, "y": 0.18, "width": 0.25, "height": 0.72}, "gallery_quality": 0.8, "museum_rationale": "A clear and functional military equipment diagram from the 'Wubizhi' (Treatise on Armament Technology), a monumental military encyclopedia of the Ming Dynasty."}]
+</detected-images>
+
+--- Page 34 ---
+<lang>lzh</lang>
+<header>卷一百二 軍資乘 戰 器械一</header>
+<page-num>一</page-num>
+<vocab>茅元儀, 武備志, 軍資乘, 武經總要, 器械</vocab>
+
+# 武備志卷一百二
+
+### 防風茅元儀輯
+
+## 軍資乘
+
+### 戰 七
+
+### 器械 一
+
+---
+
+茅子曰：器械者。所以禦侮也。然禦侮之用有方。鼓
+氣之用無方。有所恃。則神全。有所倚。則力張。神全
+力張。稚子可以驅虎豹。况均之手足耳目乎。武經
+總要所載器械頗博。為復採近世所益者而差次。
+
+--- Page 35 ---
+<lang>zh</lang>
+<header>武備志卷一百一</header>
+<page-num>一</page-num>
+
+之
+
+弓
+
+矢
+
+雜箭<gloss>溜子附</gloss>
+
+藏弓箭具
+
+弩<gloss>弩箭附</gloss>
+
+刀
+
+鎗<gloss>矛附</gloss>
+
+棒棍
+
+<vocab>武備志, 弓, 矢, 雜箭, 藏弓箭具, 弩, 刀, 鎗, 棒棍</vocab>
+
+--- Page 36 ---
+<lang>zh</lang>
+<header>兵器一</header>
+<meta>Traditional Chinese woodblock print; table of contents for a military treatise, likely a variant of the Wubei Zhi (武備志). The text is arranged in vertical columns from right to left.</meta>
+
+# 牌
+<gloss>
+腰刀
+標鎗
+梭鎗
+附
+</gloss>
+
+# 劒
+
+# 鞭
+<gloss>
+簡
+蒺藜
+蒜頭
+鐵鏈夾棒
+</gloss>
+
+# 飛撾
+<gloss>
+飛鉤
+飛鎚
+</gloss>
+
+# 銳鈀
+<gloss>
+傷杷
+扒
+銳
+大斧
+鏟
+</gloss>
+
+# 狼筅
+
+# 盔
+
+# 甲
+<gloss>
+夷甲
+馬甲
+鐵鋼
+附
+</gloss>
+
+# 車
+
+<vocab>牌 (Shield), 劒 (Sword), 鞭 (Whip/Mace), 飛撾 (Flying Claw), 銳鈀 (Sharp Rake), 狼筅 (Wolf-brush spear), 盔 (Helmet), 甲 (Armor), 車 (Chariot/Cart), 腰刀 (Waist saber), 標鎗 (Javelin spear), 梭鎗 (Shuttle spear), 簡 (Hard mace), 蒺藜 (Caltrop/Spiked mace), 蒜頭 (Garlic-head mace), 鐵鏈夾棒 (Iron chain flail), 飛鉤 (Flying hook), 飛鎚 (Flying hammer), 傷杷 (Injury rake), 扒 (Rake), 銳 (Sharp weapon), 大斧 (Great axe), 鏟 (Shovel/Spade), 夷甲 (Barbarian armor), 馬甲 (Horse armor)</vocab>
+
+--- Page 37 ---
+<lang>lzh</lang>
+<page-num>162:11</page-num>
+<meta>Marginal text indicates chapter 162 (百六十二), folio page 11 (十一). This is likely a page from the Wubei Zhi (武備志) by Mao Yuanyi (茅元儀).</meta>
+
+### 無敵神牌
+### 飛輪
+### ### 望樓
+### 拒馬木
+### 蒺藜
+
+# 弓
+
+茅子曰、弓者器之首也、故言武事者、首曰弓矢、我
+觀武經所載、弓名殊而式同、今之弓不盡此也、心
+竊疑之、嘗聞之吾友王鳴鶴曰、周禮有六弓、曰王
+
+<vocab>茅子, 武經, 王鳴鶴, 周禮, 弓, 無敵神牌, 飛輪, 望樓, 拒馬木, 蒺藜</vocab>
+
+--- Page 38 ---
+<lang>Chinese</lang>
+<meta>image quality: clear; partial text on left edge ignored; vertical punctuation (dots) transcribed as modern punctuation for readability</meta>
+
+弓、弧弓、夾弓、庾弓、唐弓。弓之良者名**烏號**、**繁弱**，其制今不可考。*武經總要*所載黃樺弓、黑漆弓、白樺弓、麻背弓，其名雖異，其實則同。今開元弓其制強大、耐久，九邊將士多用之，最稱利器。若腹裏稱良者，北京有槽稍、槽壩、大稍、小稍，皆有可稱者。其弦甚短，口緊而背曲，拽之易滿，雖不善射者亦無彈袖之病。河南有陳州弓，南京揚州有小稍弓，皆窄面短身。天少熱則多滾失，緩急難恃，不得已而有合竹弓之制。以漆漆之，取其陰雨不解，暑天不走。
+
+<vocab>烏號, 繁弱, 武經總要, 開元弓, 九邊, 槽稍, 槽壩, 彈袖, 合竹弓</vocab>
+
+--- Page 39 ---
+<lang>zh</lang>
+<header>武備志卷之一百二十</header>
+<page-num>五</page-num>
+<meta>This page is from the Ming Dynasty military treatise "Wubei Zhi" (武備志) by Mao Yuanyi. It discusses the regional characteristics and practical application of different types of bows (軟弓 "soft bows" vs 硬弓 "hard bows") in warfare.</meta>
+
+可備南方水戰之用、但無反性、發矢不能出百步
+之外、廣東、廣西有生漆下面之弓、風雨不畏、走滾
+亦少、其身極圓細、力苦不大、射亦不遠、夫器之利
+也、因地因時、難以執一、至於戰陣之用、非軟弓不
+能、古云軟弓、長箭、快馬、輕刀、此四事、非閱戰陣者
+不能得其趣、至于持硬弓而號稱勇力者、此不過
+將官套子、至于臨敵、非持滿不能中、非久持對定
+不能中其所欲中之處、彼硬弓方得滿、即欲發矢、
+安得久持而得其巧、若果力大而又能久持、此又
+
+<vocab>南方水戰, 生漆弓, 軟弓, 硬弓, 戰陣, 持滿, 武備志</vocab>
+
+--- Page 40 ---
+<lang>zh</lang>
+<header>武[...] 卷之[...]二 器械一</header>
+
+上之上者也。或曰：射者，意中也。突然而發，使敵莫測，何用久持？
+
+鶴曰：此乃射疎遠小敵，及飛禽走獸之說也。先誠其意，而箭隨意發，所謂得手應心之妙。至于臨大敵，千百爲羣，非持滿以待，而勢不威猛。所謂勢如彍弩，捷若發機，全在勢險節短上做工夫，故能使敵不敢犯。此弓貴久持，而久持貴弓軟也。所謂軟者，謂力可致弓，而不爲弓所致，非盡謂人人皆宜用軟弓也。又聞諸志曰：弓有六善：一者往體少而勁；二者太和而有力；三者久射力不
+
+<vocab>射, 意, 鶴曰, 彍弩, 勢險, 節短, 弓有六善, 往體, 太和</vocab>
+
+--- Page 41 ---
+<lang>Chinese</lang>
+<header>正[?] 卷二</header>
+<meta>image quality: clear; woodblock print; vertical text orientation</meta>
+
+屈四者、寒暑力一、五者弦聲清實、六者一張便正。
+
+凡弓往體少、則易張而壽、但患其不勁。欲其勁者、妙在治筋。凡筋生長一尺、乾則減半。以膝湯濡而極之、復長一尺、然後用、則筋力已盡、無復伸弛。又揉其材令仰、然後傳角與筋。此兩法所以為筋也。
+
+凡弓節短、則和而虛、<gloss>虛謂挽過節則無力</gloss>節長、則健而枉。<gloss>枉謂挽過弰則木強而不來節調</gloss>
+
+<gloss>節調</gloss>把拊捍木長、則枉。短、則虛。節得中、則和而有力。
+
+仍弦聲清實。凡弓、初射與天寒、則勁强而難挽。射久、天暑、則弱而不勝矢。則膠之為病也。凡膠欲薄。
+
+<vocab>弓 (bow), 筋 (sinew), 治筋 (treating sinew), 膝湯 (knee soup/warm water), 把拊 (bow handle/grip), 膠 (glue)</vocab>
+
+--- Page 42 ---
+<lang>Chinese</lang>
+<header>武備志卷之百二、軍資乘 戰器</header>
+<meta>Traditional woodblock print from the Wubei Zhi (武備志), Chapter 102. The text includes phrase markers (side dots) common in late Ming/early Qing printing.</meta>
+
+而筋力盡、強弱任筋而不任膠、此所以射久力不屈、寒暑力一也。弓所以為正者、材也。相材之法、視其理、其理不因矯揉而直、中繩則張而不跛、此弓人之所當知也。合斯二者而弓無遺議矣。故列武經之四弓、并鳴鶴所言開元小稍二弓、而並圖之。開元者、今之大稍也。又西番用木弓、并載之、而先列制弓法數條於前。
+
+一、用竹胎三尺五寸、牛角面二條、桑榆木作稍各長一尺、中堅木為把、長五尺、用魚膠四兩、牛筋半
+
+<vocab>武備志 (Wubei Zhi), 筋 (sinew), 膠 (glue), 弓 (bow), 稍 (siyah/bow tip), 竹胎 (bamboo core), 牛角 (ox horn), 鳴鶴 (Minghe), 戰器 (weapons)</vocab>
+
+--- Page 43 ---
+<lang>Chinese</lang>
+<page-num>二十三 (23)</page-num>
+<header>丁 [...] [...] 二十三</header>
+<meta>Catchword or margin number '3' visible on the right edge.</meta>
+<vocab>馬蝗面, 泥鰍面, 披筋, 漆弓, 牛角, 肭, 晴暄</vocab>
+
+斤製年餘方用、
+
+一馬蝗面弓謂用大牛角解截成面而闊、遇拽滿、則曲如扇圈、受力均勻、不嚼、不走、不閃、不肭、
+
+一泥鰍面弓謂用小牛角解截成面而狹、遇拽滿、則曲如折竹、受力不勻、易嚼、易走、易閃、易肭、
+
+一披背筋法、披筋一版、晴暄合待半月、陰雨合待一月、方令再上、或連披數版、則內濕外乾、射不旬月、解脫可待、
+
+一漆弓背面法、用漆一重、晴暄合待十日、陰雨合
+
+<vocab>馬蝗面 (leech-face bow), 泥鰍面 (loach-face bow), 披筋 (applying sinew), 漆弓 (lacquering the bow), 肭 (deformation/failure), 晴暄 (sunny and warm weather)</vocab>
+
+--- Page 44 ---
+<lang>Chinese</lang>
+<meta>The text is written in traditional Chinese, arranged in vertical columns from right to left. The manuscript contains "judou" (句讀) punctuation marks, represented here by dots/commas.</meta>
+
+待二十餘日、方再漆、不可日漆數重、則内濕外乾、
+射不季月、斷脆可待。
+一裹弓之法、或用黃樺、或用桃皮、或用朱紅、皆不
+若黑生漆、免被水透。
+一弰弓之法、或用白角、或用魚枕、或用繪畫、或用
+紅綠花彩、皆不若用黑生漆、免費工績。
+
+<vocab>黑生漆, 裹弓, 弰弓, 黃樺, 桃皮, 魚枕, 費工績</vocab>
+
+--- Page 45 ---
+<lang>zh</lang>
+<header>武備志卷一百二 器械三</header>
+<page-num>六</page-num>
+
+### 黃樺弓
+
+### 黑漆弓
+
+<vocab>武備志, 器械, 黃樺弓, 黑漆弓, 弓</vocab>
+
+<detected-images>
+[{"description": "Woodcut diagram of a 'Yellow Birch Bow' (黃樺弓), showing its recurved profile and string.", "type": "diagram", "bbox": {"x": 0.578, "y": 0.224, "width": 0.176, "height": 0.641}, "gallery_quality": 0.8, "museum_rationale": "A clear and representative technical woodcut from the 'Wubizhi' (Treatise on Armament Technology), the most comprehensive military book in Chinese history, compiled by Mao Yuanyi in 1621."},
+{"description": "Woodcut diagram of a 'Black Lacquer Bow' (黑漆弓), depicted with a dark finish and similar recurve structure.", "type": "diagram", "bbox": {"x": 0.272, "y": 0.228, "width": 0.182, "height": 0.647}, "gallery_quality": 0.8, "museum_rationale": "High-quality technical illustration illustrating military equipment from the late Ming Dynasty."}]
+</detected-images>
+
+--- Page 46 ---
+<lang>zh</lang>
+<header>武備志卷一百二軍資乘 戰 器械二</header>
+<page-num>二</page-num>
+
+# 白樺弓
+
+# 麻背弓
+
+<vocab>武備志, 白樺弓, 麻背弓, 器械, 軍資乘, 弓箭</vocab>
+
+<detected-images>
+[{"description": "Two woodblock diagrams of traditional Chinese composite bows, labeled 'White Birch Bow' (白樺弓) on the right and 'Hemp-backed Bow' (麻背弓) on the left.", "type": "woodcut", "bbox": {"x": 0.25, "y": 0.05, "width": 0.7, "height": 0.9}, "gallery_quality": 0.85, "museum_rationale": "Historically significant technical illustration from the Wubei Zhi (1621), a monumental military compendium from the Ming Dynasty, depicting weaponry with precise woodblock line work."}]
+</detected-images>
+
+--- Page 47 ---
+<lang>zh</lang>
+<page-num>十一</page-num>
+
+# 開元弓
+
+# 小稍弓
+
+<vocab>開元弓, 小稍弓, 弓, 兵器</vocab>
+
+<detected-images>
+[{"description": "Woodcut diagram showing the 'Kaiyuan bow' (開元弓)", "type": "diagram", "bbox": {"x": 0.554, "y": 0.184, "width": 0.279, "height": 0.697}, "gallery_quality": 0.75, "museum_rationale": "Representative illustration of Chinese military technology from a historical treatise (likely the Wujing Zongyao), showing the structure of a composite bow."},
+{"description": "Woodcut diagram showing the 'small-tipped bow' (小稍弓)", "type": "diagram", "bbox": {"x": 0.263, "y": 0.211, "width": 0.218, "height": 0.662}, "gallery_quality": 0.75, "museum_rationale": "Representative illustration of Chinese military technology from a historical treatise, showing a variation of the composite bow with smaller tips (siyahs)."}]
+</detected-images>
+
+--- Page 48 ---
+<lang>zh</lang>
+
+# 西番木弓
+
+<vocab>西番, 木弓</vocab>
+
+<detected-images>
+[{"description": "A woodcut illustration of a 'Western Barbarian' wooden bow (西番木弓), depicted with a recurve shape and a straight string line.", "type": "diagram", "bbox": {"x": 0.545, "y": 0.138, "width": 0.306, "height": 0.725}, "gallery_quality": 0.8, "museum_rationale": "A clear and well-preserved woodblock illustration from a historical Chinese military or encyclopedic text, representative of technical weaponry diagrams of the Ming or Qing periods."}]
+</detected-images>
+
+--- Page 49 ---
+<lang>zh-Hant</lang>
+<header>武備志卷之一百三</header>
+
+# 矢
+
+茅子曰制箭之法難矣哉弓之力欲與人協矢之
+力欲與弓協善哉鳴鶴之論其法也惟要頭桿相
+稱中粗而兩頭少細則肯行矣頭要點鋼方透得
+甲過箭肩要葢過箭桿方可入堅不然兩強相遇
+則箭鏃易入箭腹矣鐵信要長入箭腹五寸方妙
+其羽必用生漆下絲纒方不畏雨濕近日邊方柳
+桿箭易灣費力端正遇陰復舊又灣惟樺木桿可
+用而胡地騧柳桿徑直堅梗尤爲上等夫箭之輕
+
+<vocab>武備志, 茅子, 矢, 箭, 弓, 鏃, 騧柳, 樺木</vocab>
+
+--- Page 50 ---
+<lang>zh</lang>
+<page-num>232</page-num>
+<header>戈箭兵 軍資乘 弩 器械一</header>
+<meta>Traditional Chinese woodblock print with vertical text and punctuation marks (dots) indicating phrase breaks.</meta>
+
+重當以弓力爲準。若南方小弓而發北方大箭。則
+不能過三十步。用北方大弓而發南方竹箭。則摧
+折矣。而南方所用之箭。不過五錢。夾衣五層。則不
+能透。又安足以稱利器也。知吾友之意者。可以制
+箭矣。吾聞之《志》曰。夷牟作矢。古有枉矢。絜矢。殺矢。
+鍭矢。矰矢。茀矢。恒矢。庫矢之異。又名金僕姑。其制
+今不可考。武經所載矢式七。今不啻數倍。爲並列
+之。其弩箭名目見其弩下。兩用者存之。
+
+<vocab>弓力 (bow strength), 夷牟 (Yi Mu, legendary inventor of arrows), 枉矢 (Wang Shi), 絜矢 (Jie Shi), 殺矢 (Sha Shi), 鍭矢 (Hou Shi), 矰矢 (Zeng Shi), 茀矢 (Fu Shi), 恒矢 (Heng Shi), 庫矢 (Ku Shi), 金僕姑 (Jin Pu Gu, a famous arrow), 武經 (Wu Jing, military classic), 弩箭 (crossbow arrow)</vocab>
+
+--- Page 51 ---
+<lang>Chinese</lang>
+<header>三才圖會 器用二</header>
+<vocab>點鋼箭, 鐵骨麗錐箭, 三才圖會, 器用, 箭, 兵器</vocab>
+
+# 點鋼箭
+
+# 鐵骨麗錐箭
+
+---
+
+<detected-images>
+[
+{"description": "Woodcut illustration of a 'Pointed Steel Arrow' (點鋼箭) featuring a distinct triangular arrowhead and feathered fletching.", "type": "diagram", "bbox": {"x": 0.574, "y": 352, "width": 0.088, "height": 0.468}, "gallery_quality": 0.7, "museum_rationale": "Representative technical diagram from the 'Sancai Tuhui' (Collected Illustrations of the Three Realms), a major Ming Dynasty encyclopedia."},
+{"description": "Woodcut illustration of an 'Iron-boned Beautiful Awl Arrow' (鐵骨麗錐箭), showing the feathered fletching and the shaft.", "type": "diagram", "bbox": {"x": 0.207, "y": 352, "width": 0.113, "height": 0.422}, "gallery_quality": 0.7, "museum_rationale": "Representative technical diagram from the 'Sancai Tuhui' (Collected Illustrations of the Three Realms), a major Ming Dynasty encyclopedia."}
+]
+</detected-images>
+
+--- Page 52 ---
+<lang>zh</lang>
+<header>武備志卷之一百三 軍資乘一 攻城</header>
+
+## 木撲頭箭
+<gloss>施于教閱</gloss>
+
+## 火箭
+<gloss>施火藥于箭首、弓弩通用之、其傳藥輕重、以弓力為準、</gloss>
+
+<vocab>木撲頭箭, 教閱, 火箭, 火藥, 弓弩, 武備志</vocab>
+
+<detected-images>
+[
+{"description": "Woodcut illustration of a 'mu pu tou jian' (wooden blunt-headed arrow) used for military training and practice.", "type": "woodcut", "bbox": {"x": 0.585, "y": 0.328, "width": 0.126, "height": 0.456}, "gallery_quality": 0.8, "museum_rationale": "Clear technical illustration from a significant 17th-century Chinese military treatise, the Wubei Zhi."},
+{"description": "Woodcut illustration of a 'huo jian' (fire arrow) designed to carry gunpowder, compatible with both bows and crossbows.", "type": "woodcut", "bbox": {"x": 0.245, "y": 0.311, "width": 0.119, "height": 0.473}, "gallery_quality": 0.8, "museum_rationale": "Historical depiction of early gunpowder weaponry and its application in traditional archery."}
+]
+</detected-images>
+
+--- Page 53 ---
+<lang>Chinese</lang>
+
+### 烏龍鐵脊箭
+
+### 鳴鏑箭 戲射
+
+<vocab>烏龍鐵脊箭, 鳴鏑箭, 戲射, 箭, 兵器</vocab>
+
+<detected-images>
+[{"description": "Historical woodcut illustrations depicting two types of Chinese arrows: the 'Black Dragon Iron-Spine Arrow' (烏龍鐵脊箭) on the right and a 'Whistling Arrow' (鳴鏑箭) intended for sport or ritual shooting (戲射) on the left.", "type": "woodcut", "bbox": {"x": 0.31, "y": 0.08, "width": 0.55, "height": 0.81}, "gallery_quality": 0.75, "museum_rationale": "This page provides significant visual and lexical evidence for late imperial Chinese military and ritual archery equipment, typical of technical encyclopedias like the Wubei Zhi."}]
+</detected-images>
+
+--- Page 54 ---
+<lang>Chinese</lang>
+<meta>Partial text at the far left edge is from a facing page and has been ignored.</meta>
+
+## 鳴鈴飛號箭
+
+## 透甲錐箭
+
+<vocab>鳴鈴飛號箭, 透甲錐箭, 兵器, 箭</vocab>
+
+<detected-images>
+[{"description": "Technical diagrams of two historical Chinese arrows: a signal arrow with a whistling bell (right) and an armor-piercing awl-head arrow (left).", "type": "diagram", "bbox": {"x": 0.318, "y": 0.176, "width": 0.364, "height": 0.724}, "gallery_quality": 0.8, "museum_rationale": "High-quality historical military illustrations showing distinct arrow designs (fletching and heads) from a traditional Chinese tactical or weaponry manual."}]
+</detected-images>
+
+--- Page 55 ---
+<lang>zh</lang>
+<header>五作二十六之二十一</header>
+
+->**菠菜頭箭**<-
+
+->**鑿子頭箭 兼可射馬**<-
+
+<vocab>菠菜頭箭, 鑿子頭箭, 射馬</vocab>
+
+<detected-images>
+[
+  {"description": "Technical diagram of a Spinach-head arrow (菠菜頭箭).", "type": "diagram", "bbox": {"x": 0.57, "y": 0.34, "width": 0.08, "height": 0.51}, "gallery_quality": 0.7, "museum_rationale": "Representative technical illustration from a historical Chinese military manual, detailing specific arrow head designs."},
+  {"description": "Technical diagram of a Chisel-head arrow (鑿子頭箭), noted for its effectiveness against horses.", "type": "diagram", "bbox": {"x": 0.32, "y": 0.34, "width": 0.09, "height": 0.49}, "gallery_quality": 0.7, "museum_rationale": "Representative technical illustration from a historical Chinese military manual, detailing specific arrow head designs."}
+]
+</detected-images>
+
+--- Page 56 ---
+<lang>Chinese</lang>
+<header>武備志卷一百二 軍資乘 戰 器械一</header>
+<page-num>十三</page-num>
+
+# 兩開肩箭 <gloss>戚總兵新制</gloss>
+
+# 狼舌頭箭 <gloss>射馬</gloss>
+
+<vocab>武備志, 兩開肩箭, 戚總兵, 戚繼光, 狼舌頭箭, 射馬</vocab>
+
+<detected-images>
+[
+  {"description": "Diagram of a 'two-opening shoulder arrow' (兩開肩箭) featuring a distinctive wide barbed head, noted as a new design by General Qi (戚總兵, referring to Qi Jiguang).", "type": "diagram", "bbox": {"x": 0.58, "y": 0.26, "author": "Mao Yuanyi", "width": 0.1, "height": 0.55}, "gallery_quality": 0.85, "museum_rationale": "Historical technical illustration from the Wubizhi (1621), documenting Ming dynasty military innovations and the influence of General Qi Jiguang."},
+  {"description": "Diagram of a 'wolf-tongue head arrow' (狼舌頭箭), indicated for use in shooting horses (射馬).", "type": "diagram", "bbox": {"x": 0.33, "y": 0.26, "author": "Mao Yuanyi", "width": 0.1, "height": 0.53}, "gallery_quality": 0.8, "museum_rationale": "Functional military diagram from the Wubizhi, illustrating specialized arrowheads for tactical use."}
+]
+</detected-images>
+
+--- Page 57 ---
+<lang>zh</lang>
+
+## 月牙箭 <gloss>射牲、水戰</gloss> <gloss>射蓬索</gloss>
+
+## 艾葉頭箭 <gloss>射馬</gloss>
+
+<vocab>月牙箭, 艾葉頭箭, 射牲, 水戰, 射蓬索, 射馬</vocab>
+
+<detected-images>
+[
+  {"description": "A woodcut illustration of a 'Moon-Tooth Arrow' (月牙箭), featuring a distinctive crescent-shaped arrowhead designed for naval warfare to sever rigging and sail ropes (蓬索).", "type": "diagram", "bbox": {"x": 0.582, "y": 0.312, "width": 0.081, "height": 0.514}, "gallery_quality": 0.85, "museum_rationale": "High-quality woodblock illustration from a classical Chinese military treatise, demonstrating specialized weapon design for naval tactics and rigging sabotage."},
+  {"description": "A woodcut illustration of a 'Mugwort Leaf-head Arrow' (艾葉頭箭), showing a broad leaf-shaped arrowhead specifically noted for its use in targeting horses (射馬).", "type": "diagram", "bbox": {"x": 0.331, "y": 0.327, "width": 0.083, "height": 0.486}, "gallery_quality": 0.85, "museum_rationale": "Significant historical diagram from an early modern military encyclopedia showing functional variation in projectile weaponry for anti-cavalry operations."}
+]
+</detected-images>
+
+--- Page 58 ---
+<lang>Chinese</lang>
+<header>武備志卷一百二 軍資乘 戰 器械一</header>
+<page-num>十三</page-num>
+
+## 柳葉箭 <gloss>兼可射馬</gloss>
+
+## 三叉箭
+
+<vocab>武備志, 柳葉箭, 三叉箭, 器械</vocab>
+
+<detected-images>
+[{"description": "Illustrations of two types of arrows: the Willow Leaf Arrow (柳葉箭) and the Three-pronged Arrow (三叉箭).", "type": "diagram", "bbox": {"x": 0.33, "y": 0.18, "width": 0.53, "height": 0.67}, "gallery_quality": 0.8, "museum_rationale": "Clear technical illustrations of historical weaponry from the Wubei Zhi, a comprehensive Ming dynasty military treatise."}]
+</detected-images>
+
+--- Page 59 ---
+<lang>zh</lang>
+
+# 菱葉頭笴箭
+
+# 眉針箭
+
+<vocab>菱葉頭笴箭, 眉針箭, 箭, 兵器</vocab>
+
+<detected-images>
+[{"description": "Woodcut illustration of a Ling-ye-tou-gan arrow (water chestnut leaf head arrow) showing a broad, leaf-shaped head.", "type": "woodcut", "bbox": {"x": 0.574, "y": 0.362, "width": 0.093, "height": 0.524}, "gallery_quality": 0.75, "museum_rationale": "Clear technical illustration of historical Chinese military equipment from a classic treatise."},
+{"description": "Woodcut illustration of a Mei-zhen arrow (eyebrow needle arrow) showing a narrow, needle-like head.", "type": "woodcut", "bbox": {"x": 0.318, "y": 0.362, "width": 0.096, "height": 0.522}, "gallery_quality": 0.75, "museum_rationale": "Clear technical illustration of historical Chinese military equipment from a classic treatise."}]
+</detected-images>
+
+--- Page 60 ---
+<lang>zh</lang>
+<header>武備志卷一百二 軍資乘 戰器械一</header>
+<page-num>十五</page-num>
+
+## 鏟子箭
+射馬
+
+---
+
+## 兎叉箭
+射馬
+射獸
+
+<vocab>鏟子箭, 兎叉箭, 射馬, 射獸, 武備志, 軍資乘, 戰器械</vocab>
+
+<detected-images>
+[{"description": "Woodcut diagram of a 'Spade Arrow' (Chanzijian) featuring a wide, flat arrowhead designed for shooting horses.", "type": "woodcut", "bbox": {"x": 0.575, "y": 313, "width": 0.08, "height": 0.52}, "gallery_quality": 0.85, "museum_rationale": "A clear and well-preserved technical illustration from the Wubei Zhi (Treatise on Armament Technology), the most comprehensive military encyclopedia of the Ming Dynasty."},
+{"description": "Woodcut diagram of a 'Rabbit-fork Arrow' (Tuchajian) with a bifurcated fork-shaped arrowhead for hunting and military use.", "type": "woodcut", "bbox": {"x": 0.32, "y": 313, "width": 0.08, "height": 0.52}, "gallery_quality": 0.85, "museum_rationale": "Highly detailed historical diagram of specialized archery equipment from a significant 17th-century Chinese military manual."}]
+</detected-images>
+
+--- Page 61 ---
+<lang>zh</lang>
+<meta>The manuscript page is from a Chinese military manual, likely the *Wubei Zhi* (Treatise on Armament Technology) by Mao Yuanyi (1621), illustrating different types of arrows.</meta>
+
+->皮頂角頂小樸頭 <gloss>俱演射用</gloss><-
+
+---
+
+->鐵樸箭 <gloss>傳號打牲</gloss><-
+
+<vocab>皮頂, 角頂, 小樸頭, 演射, 鐵樸箭, 傳號, 打牲</vocab>
+
+<detected-images>
+[
+  {"description": "Woodcut illustration of a practice arrow with a small blunted head (shrub-head) and a leather or horn tip.", "type": "woodcut", "bbox": {"x": 0.533, "y": 0.328, "width": 0.088, "height": 0.503}, "gallery_quality": 0.8, "museum_rationale": "High-quality woodcut from a seminal Ming dynasty military treatise, providing clear detail of historical archery equipment."},
+  {"description": "Woodcut illustration of an iron blunted-head arrow (shrub-head arrow) used for signaling and hunting.", "type": "woodcut", "bbox": {"x": 0.286, "y": 0.329, "width": 0.088, "height": 0.510}, "gallery_quality": 0.8, "museum_rationale": "Clear representation of specialized historical Chinese arrows from a significant period of military literature."}
+]
+</detected-images>
+
+--- Page 62 ---
+<lang>Chinese</lang>
+<meta>Woodcut illustrations of two types of arrows, likely from a Ming or Qing dynasty military manual such as the Wubei Zhi (Treatise on Armament Technology).</meta>
+
+->四扣馬箭<-
+
+->攢竹箭<-
+
+<vocab>四扣馬箭, 攢竹箭, 箭</vocab>
+
+<detected-images>
+[{"description": "Woodcut illustration of a 'Si kou ma jian' (four-nock horse arrow), featuring distinct fletching and a specialized, hooked or blunt tip.", "type": "woodcut", "bbox": {"x": 0.582, "y": 0.188, "width": 0.252, "height": 0.652}, "gallery_quality": 0.75, "museum_rationale": "A clear technical illustration from a historical Chinese military treatise, demonstrating specific weapon designs for cavalry or specialized use."},
+{"description": "Woodcut illustration of a 'Cuan zhu jian' (bundled bamboo arrow), showing a traditional triangular arrowhead and fletched shaft.", "type": "woodcut", "bbox": {"x": 0.306, "y": 0.198, "width": 0.217, "height": 0.675}, "gallery_quality": 0.75, "museum_rationale": "Representative example of traditional Chinese archery equipment documentation in early modern woodblock printing."}]
+</detected-images>
+
+--- Page 63 ---
+<lang>Chinese</lang>
+<page-num>十五</page-num>
+<header>武備志卷一百二 軍器乘 器械一</header>
+
+## 無扣箭
+
+## 蕎麥稜箭
+
+<vocab>武備志, 茅元儀, 無扣箭, 蕎麥稜箭, 軍器, 器械</vocab>
+
+<detected-images>
+[
+  {"description": "Woodcut diagram of a 'Wu kou jian' (un-notched arrow) showing the arrowhead, shaft, fletching, and nock.", "type": "diagram", "bbox": {"x": 0.612, "y": 0.362, "width": 0.058, "height": 0.485}, "gallery_quality": 0.7, "museum_rationale": "A technical illustration from the Wubei Zhi, an important Ming dynasty military treatise, documenting specific arrow designs."},
+  {"description": "Woodcut diagram of a 'Qiaomai leng jian' (buckwheat-edged/faceted arrow) showing its distinct multi-faceted arrowhead.", "type": "diagram", "bbox": {"x": 0.355, "y": 0.362, "width": 0.061, "height": 0.488}, "gallery_quality": 0.7, "museum_rationale": "A technical illustration from the Wubei Zhi, providing historical evidence for specialized projectile types in Chinese martial history."}
+]
+</detected-images>
+
+--- Page 64 ---
+<lang>zh</lang>
+<header>武備志 卷一百二 器械一</header>
+<meta>This page originates from the 'Wubizhi' (Treatise on Armament Technology), a comprehensive Ming dynasty military compendium. The layout is typical of traditional woodblock printing.</meta>
+
+## 半邊扣箭
+
+<vocab>半邊扣箭, 武備志, 器械, 箭, 兵器</vocab>
+
+<detected-images>
+[{"description": "A technical diagram of a 'half-side notched arrow' (半邊扣箭), featuring a slender shaft, prominent fletching at the top, and a sharp, triangular arrowhead at the bottom.", "type": "diagram", "bbox": {"x": 0.605, "y": 0.185, "width": 0.248, "height": 0.665}, "gallery_quality": 0.75, "museum_rationale": "A clear and representative example of 17th-century Chinese military technical illustration, documenting the specific design of archery equipment from the 'Wubizhi'."}]
+</detected-images>
+
+--- Page 65 ---
+<lang>zh</lang>
+<header>武備志卷一百二</header>
+<page-num>十六</page-num>
+
+# 雜箭
+## 溜子附
+
+---
+
+茅子曰、箭惟一習于弓而已、弓之外者、唯弩箭各、
+見于其弩下、便于按也、又有鞭箭、袖箭、筒子箭、流、
+星箭、鞭箭者、銅爲溜子以發之、袖箭者、箭短而簇、
+重、自袖忽發、可以禦人三十步之遠、近世大將軍、
+劉綎最善之、其筒箭者、用竹筒爲箭、入筒中、筒中、
+分、前截爲筒、後節爲燕尾形、箭長一尺二寸、頭長、
+五寸、桿長七寸、鳥羽、頭要一刃以外、重點鋼、塗毒、
+藥更妙、發不用弓、以手發之、燕尾上生一絆帶手、
+
+<vocab>武備志, 雜箭, 溜子, 鞭箭, 袖箭, 筒子箭, 流星箭, 劉綎</vocab>
+
+--- Page 66 ---
+<lang>zh</lang>
+<page-num>十七</page-num>
+<header>武備志卷二百三 軍資乘 戰 器械一</header>
+
+入絆中、用手拏燕尾并箭要緊、儘力發之、力大者
+每筒二十枝、力小者每筒十五枝、乃一人敵十人
+法也。流星箭者、亦用手發、鐵桿中用鉛四兩、取其
+重而有力也。總曰雜箭。
+
+<vocab>武備志, 燕尾, 流星箭, 雜箭, 器械, 軍資乘</vocab>
+
+--- Page 67 ---
+<lang>zh</lang>
+
+## 鞭箭
+
+## 筒子箭
+
+<vocab>鞭箭, 筒子箭, 武器</vocab>
+
+<detected-images>
+[
+  {"description": "Woodblock illustration of a '鞭箭' (whip arrow), featuring a long rod with a loop at the top and a separate fletched arrow.", "type": "diagram", "bbox": {"x": 0.569, "y": 0.174, "width": 0.244, "height": 0.605}, "gallery_quality": 0.75, "museum_rationale": "A clear and informative technical illustration of a specific historical Chinese weapon from a military treatise."},
+  {"description": "Woodblock illustration of '筒子箭' (cylinder arrows), showing a specialized quiver containing several fletched arrows.", "type": "diagram", "bbox": {"x": 0.198, "y": 0.174, "width": 0.309, "height": 0.605}, "gallery_quality": 0.75, "museum_rationale": "A well-preserved example of early modern Chinese military diagrammatic style, useful for the study of historical archery equipment."}
+]
+</detected-images>
+
+--- Page 68 ---
+<lang>Chinese</lang>
+<header>武備志卷一百二</header>
+<meta>軍資乘 器械一</meta>
+<page-num>十八</page-num>
+
+# 袖箭
+
+# 流星箭
+
+<vocab>武備志, 袖箭, 流星箭, 器械, 軍資乘</vocab>
+
+<detected-images>
+[{"description": "Woodcut illustration of a 'Sleeve Arrow' (袖箭), a small concealable projectile.", "type": "woodcut", "bbox": {"x": 0.650, "y": 420, "width": 0.075, "height": 0.301}, "gallery_quality": 0.7, "museum_rationale": "Clear depiction of Ming-era specialized weaponry from the military treatise 'Wubizhi'."},
+{"description": "Woodcut illustration of a 'Meteor Arrow' (流星箭), showing the arrowhead and fletching details.", "type": "woodcut", "bbox": {"x": 0.345, "y": 0.395, "width": 0.100, "height": 0.325}, "gallery_quality": 0.7, "museum_rationale": "Standardized military illustration of historical Chinese arrow types."}]
+</detected-images>
+
+--- Page 69 ---
+<lang>zh</lang>
+<meta>Traditional Chinese, vertical script. Likely from the "Wubei Zhi" (武備志) by Mao Yuanyi (茅元儀).</meta>
+
+## 藏弓箭具
+
+茅子曰、武經載弓箭及弩箭器具凡五、皆量大、
+長短而以革爲之、今東南之弓、不可一日失、
+有弓廂、習射之時則有行弓廂、并爲圖之、
+
+<vocab>藏弓箭具, 茅子, 武經, 弩箭, 弓廂, 行弓廂</vocab>
+
+--- Page 70 ---
+<lang>zh</lang>
+<header>皇朝通志卷一百二十二 軍器略 戎器三</header>
+
+# 弓鞬
+
+<vocab>弓鞬, 皇朝通志, 軍器略, 戎器</vocab>
+
+<detected-images>
+[{"description": "A detailed woodblock illustration of an ornate bow case (gōng shàng) decorated with floral motifs and featuring two long attachment cords with tassels.", "type": "woodcut", "bbox": {"x": 0.25, "y": 0.32, "width": 0.4, "height": 0.38}, "gallery_quality": 0.85, "museum_rationale": "High-quality woodblock illustration from the Qing dynasty imperial encyclopedia 'Huangchao Tongzhi', documenting military equipment with significant artistic and historical detail."}]
+</detected-images>
+
+--- Page 71 ---
+<lang>zh</lang>
+
+# 弓袋
+
+<vocab>弓袋, 武備</vocab>
+
+<detected-images>
+[{"description": "A woodcut illustration of a traditional Chinese bow bag (quiver), intricately decorated with a mythical beast (possibly a qilin or horse) and cloud patterns, featuring long, flowing decorative silk ribbons attached to rings on the side.", "type": "woodcut", "bbox": {"x": 0.227, "y": 0.352, "width": 0.496, "height": 0.355}, "gallery_quality": 0.85, "museum_rationale": "This is a detailed and well-preserved woodcut illustration from a historical Chinese manual, likely related to military equipment (Wubei). It provides significant visual evidence for the design and ornamentation of archery accessories in the late imperial period."}]
+</detected-images>
+
+--- Page 72 ---
+<lang>Chinese</lang>
+<header>武備志卷一百三 軍資乘 戰 器械一</header>
+<page-num>二十</page-num>
+
+## 箭箙
+
+<vocab>武備志, 箭箙, 軍資乘, 戰器械</vocab>
+
+<detected-images>
+[{"description": "Illustration of an arrow quiver (箭箙) showing a tapered container decorated with floral patterns and attached silk or leather carrying straps.", "type": "diagram", "bbox": {"x": 0.428, "y": 0.215, "width": 0.258, "height": 0.523}, "gallery_quality": 0.8, "museum_rationale": "Technical illustration from the 'Wubei Zhi' (Treatise on Armament Technology), a comprehensive Ming Dynasty military encyclopedia compiled by Mao Yuanyi in 1621. It provides significant historical documentation of military logistics and equipment."}]
+</detected-images>
+
+--- Page 73 ---
+<lang>zh</lang>
+
+# 弓箭葫蘆
+
+---
+
+<vocab>弓箭葫蘆, 箭箙, archery equipment, quiver</vocab>
+
+<detected-images>
+[{"description": "An illustration of a decorated quiver (弓箭葫蘆) for arrows, featuring floral patterns and a long attachment cord with tassels.", "type": "woodcut", "bbox": {"x": 0.367, "y": 0.259, "width": 0.288, "height": 0.540}, "gallery_quality": 0.8, "museum_rationale": "This is a detailed woodblock illustration of a historical Chinese quiver, providing visual documentation of military equipment and period decorative styles."}]
+</detected-images>
+
+--- Page 74 ---
+<lang>Chinese</lang>
+<page-num>二一一</page-num>
+<header>軍資乘 武 器械一</header>
+
+# 弩箭葫蘆
+
+<vocab>弩箭葫蘆, 軍資乘, 器械</vocab>
+
+<detected-images>
+[{"description": "Woodcut illustration of a 'Nǔjiàn húlu' (Crossbow arrow gourd/quiver) featuring ornate geometric and mountain-like patterns, with a long flowing ribbon or sash tied around its center.", "type": "woodcut", "bbox": {"x": 0.352, "y": 0.304, "width": 0.371, "height": 0.447}, "gallery_quality": 0.8, "museum_rationale": "A characteristic example of Ming-era military technical illustration from an encyclopedia, depicting specialized equipment for archery with both functional and decorative details."}]
+</detected-images>
+
+--- Page 75 ---
+<lang>zh</lang>
+<header>武備志卷一百二</header>
+
+# 弓廂
+
+### 替
+
+### 火盆
+
+<vocab>弓廂, 替, 火盆, 武備志</vocab>
+
+<detected-images>
+[{"description": "A woodcut diagram from the military encyclopedia 'Wubi Zhi' illustrating a bow storage chest (Gongxiang), a component tray (Ti), and a fire basin (Huopen).", "type": "diagram", "bbox": {"x": 0.17, "y": 0.13, "width": 0.67, "height": 0.71}, "gallery_quality": 0.8, "museum_rationale": "This is a significant technical illustration from the Ming Dynasty treatise 'Wubi Zhi' (1621), showing the equipment used for the preservation and maintenance of composite bows."}]
+</detected-images>
+
+--- Page 76 ---
+<lang>zh</lang>
+<page-num>八十一</page-num>
+<header>武備志 卷之九十二 軍資乘 器械一</header>
+
+## 行弓廂
+
+<vocab>行弓廂, 武備志, 軍資乘, 器械</vocab>
+
+<detected-images>
+[{"description": "A technical diagram of a 'mobile bow case' (行弓廂), depicting a rectangular wooden chest with a hinged lid, a metal latch, and an arched base, likely designed for transporting archery equipment during military campaigns.", "type": "diagram", "bbox": {"x": 0.22, "y": 0.36, "width": 0.48, "height": 0.32}, "gallery_quality": 0.75, "museum_rationale": "This is a significant illustration from the 'Wubei Zhi' (Treatise on Armament Technology), the most comprehensive military encyclopedia in Chinese history, compiled by Mao Yuanyi in 1621. It provides rare visual evidence of Ming Dynasty military logistics and equipment storage."}]
+</detected-images>
+
+--- Page 77 ---
+<lang>Chinese</lang>
+<page-num>二十二</page-num>
+<header>武備志卷一百二</header>
+
+# 焙宜火候
+
+焙宜火候<gloss>◦</gloss>江南之地多卑濕<gloss>◦</gloss>弓矢四時必火焙適宜<gloss>◦</gloss>然後筋角膠漆和暢而不解<gloss>◦</gloss>使弓斗力常存<gloss>◦</gloss>矢翎羽常附<gloss>◦</gloss>凡造焙之制<gloss>◦</gloss>高不過五尺<gloss>◦</gloss>橫稱弓身而有餘<gloss>◦</gloss>隨弓之多寡而廣狹之<gloss>◦</gloss>弓之去火四尺之上下<gloss>◦</gloss>火近太迫則燥<gloss>◦</gloss>火去弓太遠則火氣不及<gloss>◦</gloss>務適宜耳<gloss>◦</gloss>弓面上向<gloss>◦</gloss>焙其背<gloss>◦</gloss>不焙其面<gloss>◦</gloss>凡火四時有寬猛增減<gloss>◦</gloss>不欲太猛<gloss>◦</gloss>亦不欲太寬<gloss>◦</gloss>蓋太猛則有弓枯之患<gloss>◦</gloss>太寬則火氣易息<gloss>◦</gloss>與無火同<gloss>◦</gloss>火在爐<gloss>◦</gloss>春夏秋冬上常覆三分灰<gloss>◦</gloss>於梅蒸則宜上覆二分之灰<gloss>◦</gloss>春
+
+<vocab>武備志, 焙, 筋, 角, 膠, 漆, 弓斗力, 梅蒸, 火候</vocab>
+
+--- Page 78 ---
+<lang>Chinese</lang>
+<header>武備志卷一百二 軍資乘 戰 器械一</header>
+<page-num>三</page-num>
+<meta>This page is from the Wubei Zhi (Treatise on Armament Technology), Volume 102, discussing the maintenance of bows and arrows.</meta>
+
+夏陰潤亦如之。常使微露見火。朝以繼暮，夜以繼
+日。四時值天氣明爽時，取弓出而列于架，使筋角
+之活也。良久，復藏於焙。江南射者易傷其弓，往往
+于秋冬不潤，或置之風，殊不知一日失焙，弓未解
+遽，積日則解矣。凡自焙内取弓出射，必候頓晷，令
+弓絕無火氣，方可安弦，庶幾無傷折之患。箭亦不
+可不焙，不焙則翎羽不附。焙箭之法，要在以直安
+箭，箭横安則易曲也。弦之新者必潤，先之於焙，以
+去其潤，然後結而上弓，庶不差於長短。大抵射以
+
+<vocab>武備志, 焙, 筋角, 翎羽, 安弦, 頓晷</vocab>
+
+--- Page 79 ---
+<lang>zh</lang>
+<page-num>八</page-num>
+<meta>The text is written in vertical columns from right to left. It describes the seasonal maintenance of archery equipment, specifically the duration or intensity of heat ("fire parts") required to protect bows and arrows throughout the year.</meta>
+
+弓矢爲本、凡當謹護，其逐月用火分數詳列于左。
+
+正月二月用火五分、三月四月用火六分、五月梅
+
+蒸用火十分、六七月用火七八分、十一月十二月
+
+用火五分、八九十月用火六七分。
+
+<vocab>弓矢, 逐月, 用火, 分數, 梅蒸</vocab>

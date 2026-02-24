@@ -1,0 +1,26 @@
+{
+  "id": "6984e8498a2f054f912420db",
+  "title": "Pia et utilissima admonitio, de fratribus Rosae-crucis",
+  "display_title": "Pia et utilissima admonitio, de fratribus Rosae-crucis",
+  "author": "Neuhusius, Henricus",
+  "language": "Latin",
+  "year": 1618,
+  "published": "1618",
+  "pages_count": 82,
+  "pages_with_ocr": 82,
+  "pages_with_translation": 82,
+  "source_url": "https://sourcelibrary.org/book/6984e8498a2f054f912420db",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:16.412Z",
+  "_hashes": {
+    "ocr": "286daedd812bdd9b",
+    "translation": "306259d86de50b6b"
+  }
+}

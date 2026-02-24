@@ -1,0 +1,26 @@
+{
+  "id": "697c8e0f14b7d066516d71bd",
+  "title": "La fontaine perileuse avec la chartre damours",
+  "display_title": "La fontaine perileuse avec la chartre damours",
+  "author": "anonymous",
+  "language": "French",
+  "year": 1525,
+  "published": "[1525?]",
+  "pages_count": 78,
+  "pages_with_ocr": 78,
+  "pages_with_translation": 78,
+  "source_url": "https://sourcelibrary.org/book/697c8e0f14b7d066516d71bd",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:21.214Z",
+  "_hashes": {
+    "ocr": "ade130bad652ff7c",
+    "translation": "1c5af04a15f69d90"
+  }
+}

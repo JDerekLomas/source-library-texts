@@ -1,0 +1,28 @@
+{
+  "id": "69557e4f57e3b773024f45fb",
+  "title": "El Melopeo y Maestro",
+  "display_title": "El Melopeo y Maestro",
+  "author": "Pietro Cerone",
+  "language": "Spanish",
+  "year": 1613,
+  "published": "1613",
+  "pages_count": 82,
+  "pages_with_ocr": 82,
+  "pages_with_translation": 82,
+  "source_url": "https://sourcelibrary.org/book/69557e4f57e3b773024f45fb",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "imslp-melopeo-y-maestro-cerone-pietro"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:16.593Z",
+  "_hashes": {
+    "ocr": "31bf45113e51abe6",
+    "translation": "b0cc977d0ed73ab4"
+  }
+}

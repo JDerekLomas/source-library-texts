@@ -1,0 +1,26 @@
+{
+  "id": "697b0799f4d9463650506f0d",
+  "title": "Ernst und Falk. Gespräche für Freymaeurer. Fortsetzung",
+  "display_title": "Ernst und Falk. Gespräche für Freymaeurer. Fortsetzung",
+  "author": "[Lessing, Gotthold Ephraim]",
+  "language": "German",
+  "year": 1780,
+  "published": "1780",
+  "pages_count": 78,
+  "pages_with_ocr": 78,
+  "pages_with_translation": 78,
+  "source_url": "https://sourcelibrary.org/book/697b0799f4d9463650506f0d",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:21.747Z",
+  "_hashes": {
+    "ocr": "2fd1c25a653cdb36",
+    "translation": "b9ae97a19be6c85a"
+  }
+}

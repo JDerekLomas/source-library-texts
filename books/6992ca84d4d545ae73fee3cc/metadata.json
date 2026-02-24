@@ -1,0 +1,28 @@
+{
+  "id": "6992ca84d4d545ae73fee3cc",
+  "title": "新編直指算法統宗 (Suanfa Tongzong: Systematic Treatise on Arithmetic) Vol 1",
+  "display_title": "新編直指算法統宗 (Suanfa Tongzong: Systematic Treatise on Arithmetic) Vol 1",
+  "author": "Cheng Dawei",
+  "language": "Chinese",
+  "year": 1592,
+  "published": "1592",
+  "pages_count": 82,
+  "pages_with_ocr": 82,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/6992ca84d4d545ae73fee3cc",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "02094083.cn"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:29:15.849Z",
+  "_hashes": {
+    "ocr": "c0fee3d04b7996fb",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

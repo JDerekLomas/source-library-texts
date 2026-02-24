@@ -1,0 +1,28 @@
+{
+  "id": "6992ce7d673ee1e40e320b99",
+  "title": "御製數理精蘊",
+  "display_title": "御製數理精蘊",
+  "author": "康熙帝",
+  "language": "Chinese",
+  "year": 1723,
+  "published": "1723",
+  "pages_count": 77,
+  "pages_with_ocr": 77,
+  "pages_with_translation": 62,
+  "source_url": "https://sourcelibrary.org/book/6992ce7d673ee1e40e320b99",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "06076325.cn"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:22.558Z",
+  "_hashes": {
+    "ocr": "4c4cd10f6514614b",
+    "translation": "fb804df615e1ba47"
+  }
+}

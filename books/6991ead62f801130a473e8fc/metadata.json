@@ -1,0 +1,28 @@
+{
+  "id": "6991ead62f801130a473e8fc",
+  "title": "Notes et croquis de geometrie",
+  "display_title": "Notes et croquis de geometrie",
+  "author": "Leonardo da Vinci",
+  "language": "Italian",
+  "year": 1880,
+  "published": "Unknown",
+  "pages_count": 80,
+  "pages_with_ocr": 80,
+  "pages_with_translation": 80,
+  "source_url": "https://sourcelibrary.org/book/6991ead62f801130a473e8fc",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "notesetcroquisde00leon"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:18.419Z",
+  "_hashes": {
+    "ocr": "d72f0b0f19be9b42",
+    "translation": "ae06b462c35e38a5"
+  }
+}

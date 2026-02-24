@@ -1,0 +1,28 @@
+{
+  "id": "6955841e57e3b773024f8d2a",
+  "title": "The Triads of Ireland (Trecheng Breth Féne)",
+  "display_title": "The Triads of Ireland (Trecheng Breth Féne)",
+  "author": "Kuno Meyer",
+  "language": "English",
+  "year": 1906,
+  "published": "Unknown",
+  "pages_count": 81,
+  "pages_with_ocr": 81,
+  "pages_with_translation": 81,
+  "source_url": "https://sourcelibrary.org/book/6955841e57e3b773024f8d2a",
+  "license": "http://creativecommons.org/licenses/publicdomain/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "triadsofireland00meyeuoft"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:16.904Z",
+  "_hashes": {
+    "ocr": "5462f5bf04881d76",
+    "translation": "68caf2e08d141eb6"
+  }
+}

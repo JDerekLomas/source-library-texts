@@ -1,0 +1,26 @@
+{
+  "id": "6970e37f9b09d309d780a2c8",
+  "title": "Antiqua restaurata. A concise historical account of the ancient druids",
+  "display_title": "Antiqua restaurata. A concise historical account of the ancient druids",
+  "author": "Des Moulins, Jacob",
+  "language": "English",
+  "year": 1794,
+  "published": "1794",
+  "pages_count": 83,
+  "pages_with_ocr": 83,
+  "pages_with_translation": 83,
+  "source_url": "https://sourcelibrary.org/book/6970e37f9b09d309d780a2c8",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:15.468Z",
+  "_hashes": {
+    "ocr": "03d8c6a21646ce29",
+    "translation": "87efea4b5a1034ba"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "6984e84fd4483599c1db69d5",
+  "title": "Philosophisch güldene Quelle der Natur und Kunst",
+  "display_title": "Philosophisch güldene Quelle der Natur und Kunst",
+  "author": "Wassermann, Carl Paul",
+  "language": "German",
+  "year": 1751,
+  "published": "1751",
+  "pages_count": 82,
+  "pages_with_ocr": 82,
+  "pages_with_translation": 82,
+  "source_url": "https://sourcelibrary.org/book/6984e84fd4483599c1db69d5",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:16.702Z",
+  "_hashes": {
+    "ocr": "1425b0cc39a545fa",
+    "translation": "9ead6ffa01866594"
+  }
+}

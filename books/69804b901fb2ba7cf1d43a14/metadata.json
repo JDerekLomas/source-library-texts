@@ -1,0 +1,26 @@
+{
+  "id": "69804b901fb2ba7cf1d43a14",
+  "title": "Judicium theologicum, oder christlichs und kurtzes Bedencken von der Fama et Confessione der Brüderschaft des löblichen Ordens dess Rosencreutzes",
+  "display_title": "Judicium theologicum, oder christlichs und kurtzes Bedencken von der Fama et Confessione der Brüderschaft des löblichen Ordens dess Rosencreutzes",
+  "author": "Meder, David",
+  "language": "Latin-German",
+  "year": 1616,
+  "published": "1616",
+  "pages_count": 77,
+  "pages_with_ocr": 77,
+  "pages_with_translation": 77,
+  "source_url": "https://sourcelibrary.org/book/69804b901fb2ba7cf1d43a14",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:22.309Z",
+  "_hashes": {
+    "ocr": "ad0fc9049a373053",
+    "translation": "a5512670756e286d"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "698420e1f1fb376a3d58061e",
+  "title": "De occulta philosophia. Oder von der heimlichen Wundergeburt der sieben Planeten und Metallen",
+  "display_title": "De occulta philosophia. Oder von der heimlichen Wundergeburt der sieben Planeten und Metallen",
+  "author": "Basilius Valentinus",
+  "language": "Latin-German",
+  "year": 1603,
+  "published": "1603",
+  "pages_count": 78,
+  "pages_with_ocr": 78,
+  "pages_with_translation": 78,
+  "source_url": "https://sourcelibrary.org/book/698420e1f1fb376a3d58061e",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:21.034Z",
+  "_hashes": {
+    "ocr": "3808f443368e1918",
+    "translation": "58394a0715d90c19"
+  }
+}

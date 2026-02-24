@@ -1,0 +1,28 @@
+{
+  "id": "6992cdc6e7c91e930c254938",
+  "title": "武備志(二十七)",
+  "display_title": "武備志(二十七)",
+  "author": "茅元儀",
+  "language": "Chinese",
+  "year": 1621,
+  "published": "1621",
+  "pages_count": 83,
+  "pages_with_ocr": 83,
+  "pages_with_translation": 67,
+  "source_url": "https://sourcelibrary.org/book/6992cdc6e7c91e930c254938",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "02092285.cn"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:15.625Z",
+  "_hashes": {
+    "ocr": "c9f1391e1275fbf3",
+    "translation": "32d677e8f965aa34"
+  }
+}

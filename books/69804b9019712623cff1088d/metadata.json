@@ -1,0 +1,26 @@
+{
+  "id": "69804b9019712623cff1088d",
+  "title": "Joseph in Egypten",
+  "display_title": "Joseph in Egypten",
+  "author": "Vondel, Joost van den",
+  "language": "Dutch",
+  "year": 1644,
+  "published": "1644",
+  "pages_count": 82,
+  "pages_with_ocr": 82,
+  "pages_with_translation": 82,
+  "source_url": "https://sourcelibrary.org/book/69804b9019712623cff1088d",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:16.305Z",
+  "_hashes": {
+    "ocr": "49ac28d75ecf9b6e",
+    "translation": "1eb37fc0b7f66bb9"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "6992cdcb23b3ade43ec15144",
+  "title": "本草綱目·卷三十三",
+  "display_title": "本草綱目·卷三十三",
+  "author": "李時珍",
+  "language": "Chinese",
+  "year": 1596,
+  "published": "1596",
+  "pages_count": 84,
+  "pages_with_ocr": 84,
+  "pages_with_translation": 68,
+  "source_url": "https://sourcelibrary.org/book/6992cdcb23b3ade43ec15144",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "06048807.cn"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:15.016Z",
+  "_hashes": {
+    "ocr": "c11fa271fd5fc5a0",
+    "translation": "ff6d7412eff7a959"
+  }
+}

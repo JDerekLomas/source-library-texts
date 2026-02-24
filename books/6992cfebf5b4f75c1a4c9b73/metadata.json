@@ -1,0 +1,28 @@
+{
+  "id": "6992cfebf5b4f75c1a4c9b73",
+  "title": "海國圖志(41)",
+  "display_title": "海國圖志(41)",
+  "author": "魏源",
+  "language": "Chinese",
+  "year": 1844,
+  "published": "1844",
+  "pages_count": 84,
+  "pages_with_ocr": 84,
+  "pages_with_translation": 68,
+  "source_url": "https://sourcelibrary.org/book/6992cfebf5b4f75c1a4c9b73",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "02087129.cn"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:14.345Z",
+  "_hashes": {
+    "ocr": "37e7ccdc0c218c2f",
+    "translation": "a49e2ca26ed0faea"
+  }
+}

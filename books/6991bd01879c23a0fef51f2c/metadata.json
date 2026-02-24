@@ -1,0 +1,28 @@
+{
+  "id": "6991bd01879c23a0fef51f2c",
+  "title": "Vril, or Vital Magnetism",
+  "display_title": "Vril, or Vital Magnetism",
+  "author": "William Walker Atkinson",
+  "language": "English",
+  "year": 1907,
+  "published": "Unknown",
+  "pages_count": 83,
+  "pages_with_ocr": 83,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/6991bd01879c23a0fef51f2c",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "1911vril"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:29:15.259Z",
+  "_hashes": {
+    "ocr": "7b2e1c1fa1290f13",
+    "translation": "e3b0c44298fc1c14"
+  }
+}
