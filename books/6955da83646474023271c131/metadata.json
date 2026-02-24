@@ -1,0 +1,28 @@
+{
+  "id": "6955da83646474023271c131",
+  "title": "De Visione Dei",
+  "display_title": "De Visione Dei",
+  "author": "Cardinal Nicholas of Cusa",
+  "language": "Latin",
+  "year": 1925,
+  "published": "1925",
+  "pages_count": 564,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6955da83646474023271c131",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "McGillLibrary-osl_de-visione-dei-etc_folioWZ230N6391500-24094"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:06.298Z",
+  "_hashes": {
+    "ocr": "b3ddc90db04ec9b8",
+    "translation": "e630d190ffd13eb7"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "6953e59677f38f6761bf0f90",
+  "title": "On the Loadstone and Magnetic Bodies (English Translation)",
+  "display_title": "On the Loadstone and Magnetic Bodies (English Translation)",
+  "author": "William Gilbert",
+  "language": "English",
+  "year": 1893,
+  "published": "Unknown",
+  "pages_count": 436,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6953e59677f38f6761bf0f90",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "williamgilbertof00gilb"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:00.748Z",
+  "_hashes": {
+    "ocr": "926ff073c8936a81",
+    "translation": "6c5778cfe2f164ae"
+  }
+}

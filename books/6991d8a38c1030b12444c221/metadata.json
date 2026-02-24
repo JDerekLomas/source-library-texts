@@ -1,0 +1,26 @@
+{
+  "id": "6991d8a38c1030b12444c221",
+  "title": "Vajramratatantra",
+  "display_title": "Vajrāmṛtatantra (MS Or.158.1)",
+  "author": "Unknown",
+  "language": "Sanskrit",
+  "year": 850,
+  "published": "undated",
+  "pages_count": 12,
+  "pages_with_ocr": 12,
+  "pages_with_translation": 12,
+  "source_url": "https://sourcelibrary.org/book/6991d8a38c1030b12444c221",
+  "license": "CC-BY-NC-4.0",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:59.409Z",
+  "_hashes": {
+    "ocr": "d2484c2e7063d159",
+    "translation": "657f539efdd28aca"
+  }
+}

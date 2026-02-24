@@ -1,0 +1,26 @@
+{
+  "id": "69804b955c426468e85d8bdd",
+  "title": "Lapis vegetabilis, oder die höchste Artzney. Sambt den zehenden Buch der Archidoxa",
+  "display_title": "Lapis vegetabilis, oder die höchste Artzney. Sambt den zehenden Buch der Archidoxa",
+  "author": "anonymous|Paracelsus",
+  "language": "German",
+  "year": 1681,
+  "published": "1681",
+  "pages_count": 112,
+  "pages_with_ocr": 12,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/69804b955c426468e85d8bdd",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:59.161Z",
+  "_hashes": {
+    "ocr": "22de85f711593bb1",
+    "translation": "d5839bc1e70e43de"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "699065733dc2ed39a49f13d6",
+  "title": "Principj di Scienza Nuova (1744 edition)",
+  "display_title": "Principj di Scienza Nuova (1744 edition)",
+  "author": "Giambattista Vico",
+  "language": "Italian",
+  "year": 1744,
+  "published": "Unknown",
+  "pages_count": 389,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/699065733dc2ed39a49f13d6",
+  "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bub_gb_JjOhIyx6vlAC"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:30:04.960Z",
+  "_hashes": {
+    "ocr": "ae35f599a5bde016",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

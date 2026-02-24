@@ -1,0 +1,28 @@
+{
+  "id": "699066c8249ce014347d1da1",
+  "title": "Jataka Paddhati",
+  "display_title": "Jataka Paddhati",
+  "author": "Unknown",
+  "language": "Sanskrit",
+  "year": 1433,
+  "published": "1433",
+  "pages_count": 13,
+  "pages_with_ocr": 13,
+  "pages_with_translation": 13,
+  "source_url": "https://sourcelibrary.org/book/699066c8249ce014347d1da1",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "jatakapaddhati-CGV-PSS-0140-0250"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:58.972Z",
+  "_hashes": {
+    "ocr": "1a44ff9d13f05086",
+    "translation": "98c2a35e415853ec"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "69907c415f855ec553e72b1b",
+  "title": "Sutikadhyaya of Varahamihira",
+  "display_title": "Sutikadhyaya (Varahamihira)",
+  "author": "Varahamihira",
+  "language": "Sanskrit",
+  "year": 1800,
+  "published": "1800",
+  "pages_count": 16,
+  "pages_with_ocr": 16,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/69907c415f855ec553e72b1b",
+  "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "SutikadhyayaVarahMihir1182GhaAlm6Shlf1DevanagariJyotish"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:29:58.318Z",
+  "_hashes": {
+    "ocr": "f0ab5e878d69d35c",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

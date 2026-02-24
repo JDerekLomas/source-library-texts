@@ -1,0 +1,28 @@
+{
+  "id": "6953e50b77f38f6761befa1e",
+  "title": "Of the Advancement and Proficience of Learning (1640)",
+  "display_title": "Of the Advancement and Proficience of Learning (1640)",
+  "author": "Francis Bacon",
+  "language": "English",
+  "year": 1763,
+  "published": "1763",
+  "pages_count": 628,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6953e50b77f38f6761befa1e",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "ofadvancementp00baco"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:04.295Z",
+  "_hashes": {
+    "ocr": "7ef7928ca8773ad1",
+    "translation": "0a5ab61caefdfb2e"
+  }
+}

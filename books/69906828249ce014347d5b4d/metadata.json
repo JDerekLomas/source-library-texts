@@ -1,0 +1,28 @@
+{
+  "id": "69906828249ce014347d5b4d",
+  "title": "Brhadyogayatra of Varahamihira",
+  "display_title": "Brhadyogayatra of Varahamihira",
+  "author": "Varahamihira",
+  "language": "Sanskrit",
+  "year": 1900,
+  "published": "Unknown",
+  "pages_count": 11,
+  "pages_with_ocr": 11,
+  "pages_with_translation": 11,
+  "source_url": "https://sourcelibrary.org/book/69906828249ce014347d5b4d",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "wg730"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:00.532Z",
+  "_hashes": {
+    "ocr": "824220f86b8e350a",
+    "translation": "56bb0cb7fe62a87d"
+  }
+}

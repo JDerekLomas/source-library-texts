@@ -1,0 +1,570 @@
+--- Page 1 ---
+<lang>zh</lang>
+<header>Pelliot chinois 2683</header>
+<warning>The manuscript shows significant wear, with torn and irregular edges. Some text at the far right and bottom margins is lost or partially illegible due to fading and fraying of the paper. Ink has bled or faded in several spots.</warning>
+<meta>The image contains multiple red institutional stamps: a circular stamp from the Bibliothèque Nationale (Département des Manuscrits) and a label for the Pelliot collection. The manuscript is likely a fragment of a "Ruiying Tu" (Pictures of Auspicious Omens) from Dunhuang.</meta>
+
+<margin>
+...者其唯龜乎
+</margin>
+
+-> 龜 <-
+
+書曰：龜從此之謂也。靈者德之精
+也，龜者久也，能明於久遠事
+也。王者不偏不黨，尊耆不失故
+舊，則神龜出矣。
+
+---
+
+-> 龜 <-
+
+靈龜，北黑神之精也。王者德澤
+湛積，漁獵順時，則靈龜出矣。立
+色已章，則金玉倍除。問陽上气
+象地，繫行象山，四出轉運。生三
+百歲，遊於褐葉之上；千歲化浦
+上，逢一尺二寸，能見存亡，明於吉凶，
+不偏不黨，唯義之從。
+
+---
+
+-> 龜 <-
+
+龜書者，天地之符，水之精也。何
+者？地天経川也。王者奉順后土，
+承天則何，歲遊於褐葉之上，千
+歲化浦上，一尺二寸，能見存亡者。
+
+<vocab>靈龜, 龜書, 瑞應, 德澤, 褐葉, 吉凶, 王者, 符命</vocab>
+
+<detected-images>
+[
+  {"description": "Auspicious spirit turtle (Linggui) with a red-patterned shell standing on a large green lotus leaf floating on water.", "type": "decorative", "bbox": {"x": 0.015, "y": 0.27, "width": 0.22, "height": 0.26}, "gallery_quality": 0.85, "museum_rationale": "A high-quality colored ink illustration from a Dunhuang manuscript depicting mythological creatures; significant for the study of medieval Chinese iconography and omenology."},
+  {"description": "Central illustration of a spirit turtle with a red shell on a green leaf, mirroring the first figure but centered over the middle block of text.", "type": "decorative", "bbox": {"x": 0.32, "y": 0.32, "width": 0.21, "height": 0.24}, "gallery_quality": 0.85, "museum_rationale": "A well-preserved specimen of medieval manuscript illustration, providing visual context for the accompanying cosmological text."},
+  {"description": "Partial illustration of a third spirit turtle on the right edge, showing the red shell and head.", "type": "decorative", "bbox": {"x": 0.65, "y": 0.33, "width": 0.08, "height": 0.2}, "gallery_quality": 0.4, "museum_rationale": "A fragmentary but important piece of the repeating iconographic sequence of the manuscript."}
+]
+</detected-images>
+
+--- Page 2 ---
+<lang>zh</lang>
+
+<warning>The top edge of the manuscript scroll is heavily frayed and damaged, resulting in the partial loss of some titles and the upper sections of the illustrations. Some text is slightly faded.</warning>
+
+### 靈龜
+似<unclear>鱉</unclear>而長合五行之精卜知吉凶出蔡地
+
+---
+
+### 武
+似龜而黑色常負虵而行北方神獸
+
+---
+
+### 玉龜
+玉龜者師曠時出河東之崔為聖國出河錄讖書
+
+---
+
+### 龍
+<margin>黄帝乗龍</margin>
+
+禮記曰聖王用水火金木以時官爵位必當平徳無水旱之灾妖孽之疾則龍在官沼瑞應圖應圖曰君子在位則神龍出
+
+---
+
+<vocab>靈龜, 玄武, 玉龜, 神龍, 禮記, 瑞應圖, 師曠, 蔡地, 讖書, 黄帝</vocab>
+
+<detected-images>
+[
+  {"description": "Illustration of a 'Linggui' (Spirit Turtle) with green limbs and a brown patterned shell.", "type": "decorative", "bbox": {"x": 0.67, "y": 0.25, "width": 0.23, "height": 0.19}, "gallery_quality": 0.85, "museum_rationale": "A high-quality hand-painted representation of an auspicious beast from a 'Ruiying Tu' (Chart of Auspicious Omens) tradition, showing significant iconographic detail."},
+  {"description": "Illustration of 'Xuanwu' (The Black Tortoise and Snake), depicted as a dark-skinned turtle with a red-bellied snake coiled around its body.", "type": "decorative", "bbox": {"x": 0.46, "y": 0.15, "width": 0.19, "height": 0.31}, "gallery_quality": 0.95, "museum_rationale": "An exceptionally clear and iconographically complete depiction of one of the four cardinal animals of Chinese cosmology, notable for its composition and coloring."},
+  {"description": "Illustration of a 'Yugui' (Jade Turtle) showing a turtle with a reddish shell and green-tinged limbs.", "type": "decorative", "bbox": {"x": 0.25, "y": 0.23, "width": 0.19, "height": 0.18}, "gallery_quality": 0.8, "museum_rationale": "Well-executed illustration of a mythical turtle variant, typical of classical bestiary and omen-related manuscripts."},
+  {"description": "Partial illustration and label for 'Huangdi Cheng Long' (Yellow Emperor riding a dragon).", "type": "decorative", "bbox": {"x": 0.0, "y": 0.08, "width": 0.07, "height": 0.17}, "gallery_quality": 0.4, "museum_rationale": "Fragmentary contextual illustration for the dragon text section."}
+]
+</detected-images>
+
+--- Page 3 ---
+<lang>zh</lang>
+<warning>The top edge of the manuscript is unevenly torn and worn, with some loss of paper; text at the far right edge is fragmentary and partially cut off.</warning>
+
+### 黃帝乗龍
+
+### 帝顓頊乗龍
+
+### 帝嚳乗龍
+
+### 帝禹御二龍
+
+### 二龍僕河
+
+---
+
+妖孽之族則龍在官 瑞應圖
+應圖曰君子在位則神龍出
+大戴禮曰黄帝治五氣設五量
+撫万民四方乗龍而遊
+
+大戴禮曰顓頊端愨以有謀緜
+通以知事養財以任地履時以象
+天依鬼神以制義治氣以教民
+絜誠以祭祀乗龍而至四海動
+靜之物大小之神日月所照莫
+不砥屬
+
+大戴禮曰帝嚳曆日月而送
+迎之明鬼神而敬事之春夏
+乗龍秋冬乗馬
+
+括地圖曰禹平天下二龍降之禹
+御龍行域既周而還
+<gloss>神靈記云禹乗二龍長萬柳</gloss>
+
+魏文帝雜事曰黄帝録圖云
+龍舞河此應聖賢之符也
+
+<vocab>黄帝, 顓頊, 帝嚳, 禹, 大戴禮, 括地圖, 瑞應圖, 神靈記, 魏文帝, 乗龍</vocab>
+
+--- Page 4 ---
+<lang>zh</lang>
+<warning>The manuscript shows significant ink bleed-through from the reverse side (recto/verso), particularly in the center and upper right, which creates ghost images of diagrams or text from the other side. The paper is aged and yellowed with some minor staining.</warning>
+
+# 魏文帝雜事曰黃帝錄圖云
+# 龍舞河此應聖賢之符也
+
+---
+
+# 交龍沴於河
+
+禮升威儀曰君乘木而王其政泙
+平則交龍沴於河
+<gloss>注云龍交合遊鰭目迺沴於河言叶平之治</gloss>
+
+---
+
+# 天龍負圖
+
+孝經援神契曰天子孝則天
+龍負圖也
+
+---
+
+# 青龍
+
+孫氏瑞應圖曰青龍水之精也
+乘雲雨而下上不家淵泉王者
+有仁則出又曰君子在位不肖
+斥退則見
+
+---
+
+# 青龍進駕
+
+淮南子曰黃帝時日月精明
+風雨順時五穀登熟故青龍
+進駕
+
+---
+
+# 青龍銜圖授周公
+
+尚書中候曰周公攝命七年
+歸政成王沉璧於河榮光幕
+河青雲浮至青龍銜玄甲臨
+壇吐圖而去
+<gloss>注云周公攝政歸義成王制禮作樂天下洽和榮光五色復何水出翠質其上陽雲蔭縈光中朱龍者蒼帝成仰之使玄甲可以畏爾</gloss>
+
+---
+
+# 赤龍在澤谷
+
+禮替命徵曰王者得禮之
+制則澤谷之中有赤龍
+
+<vocab>魏文帝 (Emperor Wen of Wei), 黃帝 (Yellow Emperor), 瑞應圖 (Auspicious Omen Diagrams), 青龍 (Azure Dragon), 天龍 (Heavenly Dragon), 赤龍 (Crimson Dragon), 周公 (Duke of Zhou), 孝經 (Classic of Filial Piety), 尚書中候 (Shangshu Zhonghou), 淮南子 (Huainanzi)</vocab>
+
+--- Page 5 ---
+<lang>zh</lang>
+<meta>
+image_quality: excellent
+layout: vertical columns, right-to-left
+scribe: professional calligraphic hand
+context: omenology / auspicious signs (瑞應)
+</meta>
+
+# 赤龍在澤谷
+
+禮替命微曰王者得禮之制則澤谷之中有赤龍
+
+---
+
+# 赤龍負圖授帝堯
+
+春秋元命苞曰堯遊河渚赤龍負圖以出圖赤色如綈狀赤玉為匣白玉為檢黃珠為渥玄玉為繩章曰天皇大帝合神制署上曰天帝孫伊堯龍圖在堯興大尉等百廿臣發視之藏之大麓 <gloss>瑞應圖云富有江河海水山川丘澤之形及卅國之示天子聖人兩興起客顔刑狀也</gloss> 宋書瑞曰赤龍河圖者地之符也王者徳至淵泉則河圖出孫氏瑞應圖曰河圖者天地之命紀水之精也王者奉順后土德及淵泉則出又曰王者承天命而行天道四通而志遼無益之術藏而世無浮言之書則河出龍圖
+
+---
+
+# 龍身圖
+
+---
+
+# 黃龍
+
+孝經援神契曰徳至淵泉則黃龍應 <gloss>宋均注云黃龍應則存繩心</gloss>
+
+---
+
+# 黃龍負圖授黃帝
+
+龍魚河圖曰黃龍負圖鱗甲成字以授黃帝令侍臣寫之
+
+<vocab>赤龍, 黃龍, 帝堯, 黃帝, 河圖, 瑞應圖, 春秋元命苞, 孝經援神契, 淵泉, 龍身圖, 大尉, 鱗甲</vocab>
+
+--- Page 6 ---
+<lang>zh</lang>
+<warning>The manuscript shows significant foxing, staining, and some deterioration at the edges of the paper, though the text remains largely legible.</warning>
+
+# 黃龍負圖授黃帝
+
+# 黃龍負圖授舜
+
+龍魚河圖曰黃龍負圖鱗甲
+成字以授黃帝令侍臣寫之
+以示天下
+尚書中候云河龍圖出赤文象
+字以授軒
+春秋運斗樞曰舜為天子東
+巡至乎中月臨觀 <gloss>注云臨河觀望 七月或第丹</gloss>
+至朱負圖出置舜前圖黃玉
+為匣如匱長三尺廣八寸厚一寸
+四合而連上有戶曰玉為檢黃金
+為繩黃芝為泥封兩端章曰天
+黃帝符璽五字廣袤各三
+寸深四分鳥文舜與三公太司空
+禹等廿人發圖玄色而綈狀可卷
+舒長冊二尺廣九尺中有七十二
+帝地形之制天文分度之裴
+<gloss>注云黃龍含樞紐之使也故龍匣背黃四合者有道相入也有戶言可開閱也尚書中候云舜沈璧黃龍負卷舒圖出水壇畔赤文録字</gloss>
+春秋運斗樞曰樞星得則黃
+龍見蔡伯喈月令章句曰智
+聽政事則黃龍見
+春秋孔演圖曰文命將興玄
+龍衝雲
+
+# 玄龍衝雲
+
+<vocab>黃龍, 負圖, 舜, 黃帝, 龍魚河圖, 尚書中候, 春秋運斗樞, 符璽, 綈狀, 河圖, 天文分度, 玄龍</vocab>
+
+--- Page 7 ---
+<lang>zh</lang>
+<meta>image quality high, handwritten manuscript, scroll fragment, polychrome</meta>
+
+春秋孔演圖曰文命將興玄
+龍銜雲
+
+# 蛟龍
+
+文子曰王有道德者天與之地
+助之鬼神輔之則蛟龍宿其沼
+<margin>
+<gloss>山海經云蛟似龍蛇而四脚小頭
+細頸上有白嬰大者十數圍</gloss>
+</margin>
+
+# 黃龍
+
+四龍之長也不灦池而灚至淵
+泉則黃龍遊於池能高能下
+能細能精能幽能冥能短能
+長乍存乍亡
+
+# 神龍
+
+舊圖不載君子德後則神龍
+出矣
+
+# 河圖
+
+舊圖不載神龍身畜水紀之
+精王者德至淵泉則出矣竟後
+
+---
+
+<vocab>蛟龍, 黃龍, 神龍, 河圖, 春秋孔演圖, 文子, 山海經, 瑞應</vocab>
+
+<detected-images>
+[
+  {"description": "A yellow dragon rising from a green, turbulent pool of water, depicted in traditional Chinese style with five claws and detailed scales.", "type": "decorative", "bbox": {"x": 0.395, "y": 0.138, "width": 0.26, "height": 0.33}, "gallery_quality": 0.95, "museum_rationale": "High-quality polychrome illustration from a manuscript of mythical creatures (Ruiying Tu), displaying exquisite ink work and classical pigment usage."},
+  {"description": "A red four-legged mythical beast with flaming manes and appendages, likely representing the 'Shenlong' (Divine Dragon) mentioned in the text.", "type": "decorative", "bbox": {"x": 0.071, "y": 0.141, "width": 0.339, "height": 0.314}, "gallery_quality": 0.95, "museum_rationale": "A dynamic and rare depiction of an auspicious mythical creature, preserved in a historical manuscript context with accompanying calligraphic descriptions."}
+]
+</detected-images>
+
+--- Page 8 ---
+<lang>zh</lang>
+
+<warning>The manuscript shows significant wear, fraying at the edges, and staining. The ink is faded in several areas, particularly at the far right. The text is written in columns and read from right to left.</warning>
+
+### 河圖
+
+舊圖不載神龍負圖水紀之
+精王者德至淵泉則出矣堯母
+河渚之上神龍赤色負圖如出
+
+---
+
+### 河圖
+
+洛書
+舊圖不載王者奉刑法則河
+出書周公時神龍解甲入於宿
+晨
+
+---
+
+### 洛書
+### 河圖
+
+河圖
+天地之命紀水之精也王者古
+土古象天則河出圖矣堯時河
+渚之上神龍負圖而出江河海
+水山川丘澤之形兆及王者州
+國之分天子聖人所興起客類
+預伏也王者奉天命而行天道
+四通而悉無益之術截而無學
+言之書則河圖出
+天地之精水之精也河者地大經
+
+<vocab>河圖, 洛書, 神龍, 堯, 周公, 龍馬, 瑞應, 天地之命紀</vocab>
+
+<detected-images>
+[
+  {"description": "Partial illustration of a divine dragon at the far right edge of the scroll fragment.", "type": "decorative", "bbox": {"x": 0.95, "y": 0.12, "width": 0.05, "height": 0.3}, "gallery_quality": 0.2, "museum_rationale": "Fragmentary; only the edge of the illustration is visible."},
+  {"description": "A colored illustration of a divine dragon (Shenlong) emerging from the water, carrying a scroll or box (representing the He Tu) on its back.", "type": "decorative", "bbox": {"x": 0.68, "y": 0.12, "width": 0.28, "height": 0.3}, "gallery_quality": 0.8, "museum_rationale": "High-quality, traditional depiction of the mythical origin of the He Tu diagram."},
+  {"description": "An illustration of the Luo Shu (Luo River Writ), depicted as a scroll or board floating in a pond with lotus plants.", "type": "decorative", "bbox": {"x": 0.36, "y": 0.08, "width": 0.3, "height": 0.32}, "gallery_quality": 0.75, "museum_rationale": "Symbolic representation of the mythical emergence of the Luo Shu from the Luo River."},
+  {"description": "An illustration of a Longma (Dragon-horse), a mythical chimeric creature with the body of a horse and features of a dragon, associated with the discovery of the He Tu.", "type": "decorative", "bbox": {"x": 0.02, "y": 0.1, "width": 0.34, "height": 0.35}, "gallery_quality": 0.85, "museum_rationale": "Well-executed and iconic representation of a key figure in Chinese mythology and cosmography."}
+]
+</detected-images>
+
+--- Page 9 ---
+<lang>zh</lang>
+<meta>Fragment of an illustrated handscroll from a "Ruiying Tu" (Illustrations of Auspicious Omens), depicting mythical creatures that appear during the reign of a virtuous ruler. The manuscript features fine hand-coloring and regular script (kaishu).</meta>
+<vocab>河圖, 神龍, 青龍, 黃虯, 瑞獸, 瑞應圖, 聖人, 君子</vocab>
+
+# 河圖
+
+言之書則河圖出
+天地之苻水之精也河者地大經
+川也王者奉順右土承天則河雒
+出圖書矣昔者黃帝坐玄扈
+雒上鳳皇銜書至堯坐中河龍
+負圖而出聖人沈河雒而遊者
+有惟望也圖河海山川國之分理
+人物起容煇亦
+
+---
+
+# 神龍
+
+君子在位則神龍出
+<gloss>重</gloss>
+
+---
+
+# 青龍
+
+青龍者水之精也乘雲雨而上
+下處淵泉之中有仁主則見<gloss>一</gloss>
+<gloss>一本</gloss>君子在德不肖行退則見
+
+---
+
+# 黃虯
+
+黃虯一名龍無角曰虯一則虯
+龍子也黃虯與人君心和瑞應
+
+<detected-images>
+[
+  {"description": "Auspicious dragon associated with the River Chart (Hetu), depicted in green, blue, and gold with red flames.", "type": "decorative", "bbox": {"x": 0.65, "y": 0.11, "width": 0.28, "height": 0.35}, "gallery_quality": 0.95, "museum_rationale": "High-quality historical illustration of a mythical creature with vibrant pigments and gold leaf, representative of imperial omen iconography."},
+  {"description": "Spirit Dragon (Shenlong), a celestial creature with a slender body and traditional dragon features.", "type": "decorative", "bbox": {"x": 0.37, "y": 0.11, "width": 0.28, "height": 0.34}, "gallery_quality": 0.95, "museum_rationale": "Expertly rendered mythical beast illustration from a classical 'Auspicious Signs' manuscript."},
+  {"description": "Azure Dragon (Qinglong), one of the four symbols of the Chinese constellations, shown in a dynamic pose.", "type": "decorative", "bbox": {"x": 0.08, "y": 0.1, "width": 0.3, "height": 0.37}, "gallery_quality": 0.95, "museum_rationale": "Beautifully preserved example of traditional Chinese zoomorphic illustration used in cosmological and political texts."}
+]
+</detected-images>
+
+--- Page 10 ---
+<lang>zh</lang>
+<warning>The manuscript shows significant wear along the upper edge with fraying and loss of material. There is moderate staining and some fading of characters, particularly in the lower-left sections.</warning>
+
+<margin>黄虬</margin>
+<margin>黑龍</margin>
+<margin>白龍</margin>
+
+黄虬一名龍無角曰虬一則虬
+龍子也黄虬与人君之零瑞背
+上有玉函有玉牒之録之者
+人君合符契則有之應也黄者
+中心色言人君有中和之德惣
+六合以居中也黄虬出象人君之
+大變化玉函者象君有玉德
+函盛背負者象君有明天下
+負戴玉牒者象者有明白之
+章牒者人君聖明文之德洛出
+書者欲使君德臨洛潤澤恩
+平天下如水无窮也如水之均平
+天下酌耶也
+禹得黑龍之瑞治水太平宋孝
+武時黑龍見武帝日吾不堪也此
+乃禹之應也何德當音逐循德
+大治<gloss>脇也</gloss>平也<gloss>一雲</gloss>古龍見于降郊
+蔡黜日龍水物也水官循則龍
+見水官<unclear>紊</unclear><gloss>紊乱</gloss>則不見也
+
+<vocab>黄虬, 黑龍, 玉函 (Jade Casket), 玉牒 (Jade Tablet), 禹 (Great Yu), 治水 (Water Management), 宋孝武帝 (Emperor Xiaowu of Song), 蔡黜 (Cai Chu)</vocab>
+
+<detected-images>
+[{"description": "A horizontal composition featuring two large, dynamic dragons amidst stylized multicolored clouds. On the right, a golden-yellow 'Yellow Qiu' (hornless dragon) carries a red box (Jade Casket) strapped to its back. To its left, a dark-colored 'Black Dragon' is depicted mid-stride. Both are rendered in a fluid, calligraphic style with delicate scale details and flowing manes.", "type": "diagram", "bbox": {"x": 0.012, "y": 0.081, "width": 0.985, "height": 0.414}, "gallery_quality": 0.95, "museum_rationale": "This is a superb example of early Chinese manuscript illustration, combining sophisticated zoomorphic depictions with cosmological and political symbolism (the Yellow Qiu carrying the Jade Casket of divine mandate). The brushwork is expressive and historically significant for the study of auspicious omens in East Asian art."}]
+</detected-images>
+
+--- Page 11 ---
+<lang>lzh</lang>
+<warning>The manuscript fragment shows significant damage along the upper edge, with large sections of paper missing. The text and illustrations are oriented from right to left.</warning>
+
+### 白龍
+
+> 王者精賢有徳則白龍見
+
+<margin>蔡點曰龍水物也水官脩則龍見水官蕪則不見也</margin>
+
+---
+
+### 黃龍
+
+> 五龍之長也不掘池而漁徳至淵泉則黃龍遊於池為龍能高能下能長能短能猛文章神靈之精也
+
+---
+
+### 鵷鶵
+
+> 状似鳳皇鳥喙大<unclear>瞗</unclear>羽翼大足脛身仁戴智嬰義應信負礼主則立立之威
+
+---
+
+### [鳳凰]
+
+> 状似鳳皇鋭喙小頭大身細足脛翼若舒葉身短戴義嬰信背仁
+
+<vocab>白龍, 黃龍, 鵷鶵, 鳳皇, 瑞應, 德, 水官, 蔡點</vocab>
+
+<detected-images>
+[{"description": "A series of mythical auspicious creatures (Ruiying) from Chinese mythology, including a white dragon, a yellow dragon, and two varieties of phoenixes, depicted in a traditional painted style with mineral pigments.", "type": "decorative", "bbox": {"x": 0.0, "y": 0.04, "width": 1.0, "height": 0.44}, "gallery_quality": 0.95, "museum_rationale": "This is a high-quality example of Chinese manuscript illustration, showing fine brushwork and classic iconography of mythical beasts used in historical 'omens of prosperity' texts."}]
+</detected-images>
+
+--- Page 12 ---
+<lang>zh-Hant</lang>
+
+<warning>The manuscript is a fragmented scroll with significant fraying and damage along the upper and lower edges. Some text and illustrations are partially lost at the right and left horizontal boundaries. Staining is visible across the paper.</warning>
+
+狀似鳳皇鈗啄小頭大身細足脛
+翼若郤葉身短戴義嬰信背仁
+負礼至則旱之感也
+
+<insert>重</insert>
+
+狀似鳳皇鴻啄專利身戴信嬰
+礼應仁負智至則是感也计
+置
+
+<margin>徽</margin>
+
+<insert>重</insert>
+
+<meta>The text is written in vertical columns from right to left, accompanying painted illustrations of mythical birds (Fenghuang). Small '重' (zhòng) characters are positioned as markers beneath the birds' abdomens. The script is a practiced semi-cursive hand that utilizes some simplified forms (e.g., 状, 礼, 计) common in period manuscripts. The text to the left of each bird provides a physical and symbolic description of that specific creature.</meta>
+
+<vocab>鳳皇 (Fenghuang/Phoenix), 鈗啄 (sharp/pointed beak), 鴻啄 (swan-like beak), 戴義 (wearing righteousness), 嬰信 (necklet of trust), 背仁 (bearing benevolence on the back), 負礼 (carrying ritual), 旱 (drought), 徽 (symbol/badge)</vocab>
+
+<detected-images>
+[
+  {"description": "A mythical Fenghuang (Chinese phoenix) with red and orange plumage, green-tipped wings, and a sharp, pointed beak. It is depicted in profile facing left.", "type": "diagram", "bbox": {"x": 0.575, "y": 0.125, "width": 0.36, "height": 0.29}, "gallery_quality": 0.85, "museum_rationale": "High-quality hand-painted illustration of a mythical creature from a historical bestiary, showing traditional pigment and brushwork."},
+  {"description": "A second Fenghuang illustration, similar in color but with a broader 'swan-like' beak as described in the accompanying text. Also facing left.", "type": "diagram", "bbox": {"x": 0.13, "y": 0.125, "width": 0.33, "height": 0.29}, "gallery_quality": 0.85, "museum_rationale": "Part of a systematic historical study of mythical fauna, demonstrating comparative anatomical details in early zoological/mythological records."}
+]
+</detected-images>
+
+--- Page 13 ---
+<lang>lzh</lang>
+<page-num>6</page-num>
+<meta>Circular red institutional stamp: "BIBLIOTHÈQUE NATIONALE / Don / 4502 / MANUSCRITS"</meta>
+<meta>Blue numerical annotation at bottom right: "6."</meta>
+<warning>The manuscript fragment is torn at the left and bottom edges. Some text in the lower-left margin is extremely faded.</warning>
+
+狀似皇鳳喙<unclear>疏</unclear>翼背尾身礼戴
+
+信嬰仁膺智
+
+<margin>
+<unclear>各</unclear>
+五
+色
+</margin>
+
+<vocab>皇鳳 (Phoenix), 礼 (Ritual/Propriety), 仁 (Benevolence), 膺 (Breast/Chest), 智 (Wisdom), 信 (Trust/Faith), 五色 (Five colors)</vocab>
+
+<detected-images>
+[{"description": "A detailed watercolor illustration of a Fenghuang (Chinese phoenix) with vibrant red, green, and golden plumage, depicted in a traditional stylized pose with long decorative tail feathers.", "type": "decorative", "bbox": {"x": 0.621, "y": 0.144, "width": 0.322, "height": 0.274}, "gallery_quality": 0.9, "museum_rationale": "A high-quality, colorful example of mythological creature illustration from a historical Chinese manuscript, likely part of a decorative scroll or bestiary fragment."}]
+</detected-images>
+
+--- Page 14 ---
+<lang>zh</lang>
+<warning>The manuscript shows significant aging with frayed edges at the top and left. Some ink has faded, particularly in the upper portions of the columns.</warning>
+
+## 赤門諸國圖一
+
+赤門國作所 <gloss>云諸國赤門云云</gloss>
+向青路越至赤海 德和之門也
+提波我主此門與於後祭者帝
+也青中山赤目同心感合也比
+赤門
+
+---
+
+<unclear>一</unclear>向則諸
+
+風兩赤部五嶺釜與始青路
+斯國也且宿帝一諸國也諸是
+此諸國也
+
+---
+
+## 青路一
+
+前何際也比日器也北國不前
+此盤匣西方土不落國其主者
+氣風赤斯國日青路也一諸內
+
+---
+
+# 諸國 羽後三也
+
+---
+
+## 天際國圖一
+
+諸國也
+老也慈明斯國日文也七基國也
+
+---
+
+## 文諸北林國
+
+平國文諸此林國 <gloss>由此日向青路云云</gloss>
+<gloss>云此也其人國日</gloss>
+斟其題爾日治幾年宿主其於此
+
+---
+
+## 三諸幾國
+
+顯幾是其斯國幾人拾門
+野文帝幾名日獵帝幾國也
+
+<vocab>赤門 (Akamon), 羽後 (Ugo), 青路 (Aoji), 天際國 (Tenki-no-kuni), 文諸北林國, 德和之門, 赤海</vocab>

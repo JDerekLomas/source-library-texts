@@ -1,0 +1,28 @@
+{
+  "id": "699065763dc2ed39a49f155d",
+  "title": "Historia de Gentibus Septentrionalibus",
+  "display_title": "Historia de Gentibus Septentrionalibus",
+  "author": "Olaus Magnus",
+  "language": "Latin",
+  "year": 1555,
+  "published": "Unknown",
+  "pages_count": 915,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/699065763dc2ed39a49f155d",
+  "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bub_gb_sl78x0zONeEC"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:30:04.208Z",
+  "_hashes": {
+    "ocr": "5d02b15cf4442a6a",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

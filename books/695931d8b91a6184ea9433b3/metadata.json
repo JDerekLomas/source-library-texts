@@ -1,0 +1,28 @@
+{
+  "id": "695931d8b91a6184ea9433b3",
+  "title": "Traités d'astrologie arabe (Zahel, Messahallah)",
+  "display_title": "Traités d'astrologie arabe (Zahel, Messahallah)",
+  "author": "Zahel / Messahallah",
+  "language": "Arabic",
+  "year": 1150,
+  "published": "Unknown",
+  "pages_count": 193,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/695931d8b91a6184ea9433b3",
+  "license": "https://gallica.bnf.fr/html/und/conditions-dutilisation-des-contenus-de-gallica",
+  "doi": null,
+  "external_ids": {
+    "gallica": "btv1b105494410"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:02.365Z",
+  "_hashes": {
+    "ocr": "8ce308a3426a44f3",
+    "translation": "b8fde29c2e6269da"
+  }
+}

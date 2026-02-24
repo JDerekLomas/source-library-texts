@@ -1,0 +1,370 @@
+--- Page 1 ---
+<lang>None</lang>
+<page-type>blank</page-type>
+<meta>Front cover of a half-bound volume with marbled paper and a leather spine. A ruler is present for scale.</meta>
+
+<image-desc>
+This image shows the front cover of a historical manuscript. The binding is "half-bound," featuring a brown leather spine and marbled paper covering the boards. The marbling pattern is a dense series of overlapping swirls and curls (often called a "snail" or "shell" pattern) in various shades of brown, tan, and ochre, with small, infrequent veins of dark blue. The leather on the spine and corners shows signs of age, including scuffing, cracking, and slight discoloration. At the bottom left, on the leather spine, there is a small, rectangular yellow label, likely a shelf mark or library identifier. To the right of the book, a white metric ruler is visible, showing measurements in centimeters and millimeters.
+</image-desc>
+
+<vocab>marbled paper, half-binding, leather spine, snail pattern, shelf mark</vocab>
+
+--- Page 2 ---
+<lang>English</lang>
+<page-type>blank</page-type>
+<meta>Front flyleaf with archival shelfmarks and library sticker.</meta>
+
+<insert>S.C. 25168</insert>
+
+->MS. Ashmole 304<-
+
+->(Selden cupboard 60)<-
+
+<vocab>MS. Ashmole 304, S.C. 25168, Selden cupboard, shelfmark</vocab>
+
+--- Page 3 ---
+<lang>en</lang>
+<page-type>blank</page-type>
+<page-num>1</page-num>
+<meta>The page is a blank flyleaf. A handwritten number "1" and the annotation "(alt)" appear in the top right corner.</meta>
+
+<margin>
+(alt)
+</margin>
+
+<vocab>manuscript, flyleaf, annotation</vocab>
+
+--- Page 4 ---
+<lang>zxx</lang>
+<page-type>blank</page-type>
+<meta>This page contains no text or illustrations. Faint text is visible on the inner margin of the facing page, which is excluded per instructions.</meta>
+<vocab></vocab>
+
+--- Page 5 ---
+<warning>The manuscript page is significantly damaged with staining, large tears along the right edge, and faded ink. It appears to be a fragment of a legal document or a flyleaf containing pen trials and ownership notes.</warning>
+<lang>English</lang>
+<page-type>text</page-type>
+<meta>image quality: poor; heavy staining and physical damage; library stamp at bottom left; ruler for scale on right edge</meta>
+
+<unclear>In the name of god Amen</unclear>
+<unclear>I ... beinge of ...</unclear>
+<unclear>perfect minde and memorie ...</unclear>
+<unclear>make and ordaine this ... my last</unclear>
+<unclear>will and testament ...</unclear>
+
+---
+
+ffrauncis <unclear>Eyre</unclear> <unclear>Esqr</unclear>
+bearing Date the
+five and twentieth Daye
+of December 1603, Whereof
+<unclear>it witnesseth</unclear>
+Sir Marmaduke Constable
+of <unclear>Everingham</unclear> Knight
+<unclear>North</unclear> <unclear>Cliffe</unclear> <unclear>saide</unclear>
+in the countie <unclear>of Yorke</unclear>
+
+<image-desc>A square doodle with a cross and saltire inside (a "magic square" or "box" pattern) drawn in dark ink on the left-center of the page, surrounded by various pen trials and scribbled names.</image-desc>
+
+---
+
+Ex dono Vaughan
+Coll: Br: nasi schol:
+
+<meta>Library stamp: circular, contents illegible</meta>
+
+<vocab>ffrauncis, Marmaduke Constable, December 1603, Everingham, Yorke, Ex dono, Brasenose College, scholar</vocab>
+
+--- Page 6 ---
+<lang>la</lang>
+<page-type>text</page-type>
+<columns>2</columns>
+<warning>The manuscript is significantly damaged at the left edge and bottom corner, resulting in text loss in the first column. There is also ink bleed-through from the reverse side and some staining.</warning>
+
+## Prime distinciois delineacio
+
+| | |
+|----------|----------|
+| Unū et unū | equē vincet |
+| Unū et duo | Duo vincent |
+| Unū et tria | Unum vincet |
+| Unū et quatuor | Quatuor vincet |
+| Unū et quinqꝫ | Quinqꝫ vincet |
+| Unū et sex | sex vincet |
+| Unū et septem | Unū vincet |
+| Unū et octo | unū vincet |
+| Unū et nouem | Unū vincet |
+
+## Scde cōbindconis consideratio
+
+| | |
+|----------|----------|
+| Duo et duo | fortior vincet |
+| Duo et tria | tria vincent |
+| Duo et quatuor | duo vincet |
+| Duo et quinqꝫ | Quinqꝫ vincet |
+| Duo et sex | duo vincent |
+| Duo et septem | septem vincet |
+| Duo et octo | Duo vincent |
+| Duo et nouem | Noue vincent |
+
+## Tercie cōbindconis consideratio
+
+| | |
+|----------|----------|
+| tria et tria | minor vincet |
+| tria et quatuor | quatuor vincet |
+| tria et quinqꝫ | tria vincet |
+| <unclear>sex</unclear> | sex uincet |
+| <unclear>septē</unclear> | tria vincet |
+| <unclear>octo</unclear> | octo uincent |
+| <unclear>noue</unclear> | noue vincet |
+
+<column-break/>
+
+## Quarte conbindationis doctrina
+
+| | |
+|----------|----------|
+| Quatuor et q'tuor | fortior vic |
+| Quatuor et q'nꝫ | q'nꝫ vincet |
+| Quatuor et sex | sex vincet |
+| Quatuor et septē | septē vincet |
+| Quatuor et octo | quatuor vincet |
+| Quatuor et noue | noue vincet |
+
+## Quinte conbindconis euidencia
+
+| | |
+|----------|----------|
+| quinqꝫ et q'nqꝫ | minor vincet |
+| quinqꝫ et sex | sex vincent |
+| quinqꝫ et septem | quinqꝫ vincet |
+| quinqꝫ et octo | octo vincent |
+| quinqꝫ et noue | quinqꝫ vincet |
+
+## Sexte conbindconis addictio
+
+| | |
+|----------|----------|
+| sex et sex | fortior vincet |
+| sex et septem | septem vincet |
+| sex et octo | sex vincent |
+| sex et nouem | noue vincent |
+
+## Septime conbindconis doctrina
+
+| | |
+|----------|----------|
+| septem et septē | minor vincet |
+| septē et octo | octo vincent |
+| septē et nouē | septem vincet |
+
+## Octaue distinciois dpecio q' būd
+
+| | |
+|----------|----------|
+| octo et octo | fortior vincet |
+| octo et noue | nouem vincent |
+
+## None conbindconis manifestacio
+
+| | |
+|----------|----------|
+| noue et noue | minor vincet |
+
+---
+
+<image-desc>A drawing at the base of the second column depicts two male figures with their bodies encased in or replaced by large cubic dice. The die on the left shows four pips on its visible face, and the die on the right shows five. The figure on the left appears to have red marks on his forehead and face, possibly representing injury or blood. Both figures are in a crouched, struggling posture.</image-desc>
+
+<vocab>alea, combinatio, delineatio, doctrina, fortior vincet, minor vincet, dice games, numerology</vocab>
+
+--- Page 7 ---
+<lang>la</lang>
+<page-type>text</page-type>
+<page-num>2</page-num>
+<warning>The bottom portion of the page is stained and damaged; some text and diagrams are partially obscured or faded.</warning>
+
+Materia huius libelli est: effectus et efficacia lune et aliorum planetarum. Necnon z constellationum quas habent in rebus inferioribus. Quarum inc̄ptm constellationū cōsize-racōne subtili multa p̄mittit deus mortalibus solue de tamne inquirentibus; de futuris uel absentibus; īdagari. De qualitatibus; etiam hominū. Necnon z alioꝝ animaliū sanitatib[us]; z egritudinibus; statu z prosp̄itate. telluris salubritate maris tēpestatate. aeris q̄litate. institoꝝ negociacione z <gloss>reditu</gloss> pugnanciū diligent̄ intendentib[us]: reuelat euidentiam. ◌◌◌
+
+<margin>
+ut patet in
+magī na
+tunret
+magy
+pete
+t̄inca
+ed:
+ah̄ia.
+</margin>
+
+Utilitas autē libelli hui[us] est: futūa z imminencia p̄icla q̄ in siderib[us]; p̄noscunt[ur]: p̄ cū instanciam z elamosinaꝝ largicionē more niniuitaꝝ z ezechie regis exemplo. p̄ueniendo diuinam ulcionē auertere. Quia sicut dicit Albumasar excellētissim[us] philosoph[us] z astronomiā p̄sertim: racio īmp̄at celo. z auctuntur flagicia p̄ contrarii influctiones: pacto creatore qui cuncta moderatur: stelle enī ipsi sūt officiales. Quecunq[ue] igit[ur] somniis. uisionib[us]. p̄phetii[s] uel constellationib[us]: p̄noscuntur picla: penitentiū humilitatē z satisfaccō̄ē ne ī contrariū mutata cessāt. Cuncte nāq[ue] diuine cōminaciones cōdicionales ēe dinoscunt. q̄m q̇ ūl n̄. nime ledunt iacula q̄ p̄uident[ur]. Titul[us] ū tal[is]: Exp̄imentari[us] Bernardi
+
+---
+
+<image-desc>The bottom of the page contains several figures composed of grouped red and black dots, arranged horizontally. These appear to be geomantic figures or star charts. Labels "Constel" and "lacione" are written in red ink above and below the dots. To the right, there is a small block of explanatory text.</image-desc>
+
+<insert>
+In huius libelli,
+Hic continen
+tur s[un]t S:
+E de arab
+ico ī latinum
+interpret.
+</insert>
+
+<vocab>astronomia, constellationum, Albumasar, Experimentarius Bernardi, Ezechie, niniuitaꝝ, prognosis</vocab>
+
+--- Page 8 ---
+<lang>Latin</lang>
+<page-type>text</page-type>
+<columns>2</columns>
+
+<image-desc>A detailed ink drawing with green and red accents depicting two figures seated on architectural benches. The figure on the left is labeled **Euclides** in red ink; he wears a pointed hat and robes, looking through a sighting tube (dioptra) held in his left hand, while holding a circular instrument in his right. The figure on the right is labeled **Her-mannus** in red ink; he wears a green hat and robes, holding a small circular instrument suspended by a cord, labeled **Astrolabium** in red. Above them is a blue arc representing the celestial sphere with stars. The drawing depicts the legendary transmission of astronomical knowledge.</image-desc>
+
+Primo fiat linea casualit[er] nu[m]o pūctor[um] nō spectato imprudent[er]. Postmodū p[er]actā linea pūctor[um]: nument[ur] pūcta. q si excedāt numū septenariū: figeat[ur] nū[mer]us VII. Si v[er]o e[st] infra q[uo]dlibet anteceptū ascēdēdo a themate q[uesti]ōni[s] numēr[es] capi[tu]la alia[rum] q[uesti]onū usq[ue] ad cō- pletū numū pūctor[um] lineatoy[rum]. Et capit[u]lo fini[s] nuī: procedant i[n] eadē linea ad i[n]quirendū iudicē s[e]c[un]d[u]m ordinē tabule. z dato iudice incipiatis a capite numerare viū: et sicut q[uo]d habuistis puncta cu[m] p[ri]ma lineatōne. 7 cū veniatis ad finē numī: q[ue]rat[ur] s[e]c[un]dū modū q[uod] visus z nō dabit respōsū. Si tamē i lineat[is] pūcta v[e]l trie p[ro]cedat sipli[ci]t[er] in lineā cap[itu]li q[uesti]onū ad i[n]quirendū iudicē s[e]c[un]dū tablam. z accepto iudice a capite nō p[re]termissa; nuia usus VII. z postmodū novē 7 dabit respōsm. Cū s[ic] i line[is] puncta fuerit cu[m] v[el] trie: tunc pone numū illū sup[ra] themā questionis z nuiare dēscēdēdo p[er] capitula usq[u]ad VII. z p[ro]cedet ut sup[ra]. Quod si i[n] hac op[er]at[i]o[n]e p[er] sic nū[m]er[ū] au[t] defuerint unitates ad pficiēdū numūm pūctoy: repetat[ur] a capite. <gloss>ista pagina</gloss> <gloss>finis</gloss>
+
+<margin>Hic est ligat[us] <unclear>er'</unclear> ad materia[m]</margin>
+Primo invocet gra[tia]m s[an]c[t]i sp[iritu]s Devotissim[us] z sic fac numu[m] septenariu[m] <unclear>habens</unclear>
+puncta lineata <unclear>cadnt</unclear> <unclear>taquendo</unclear> <unclear>adevel</unclear> z eminent <unclear>illud</unclear> s[imi]l[iter] m[o]re evico[?]
+In p[ro]prio iudicio
+
+<column-break/>
+
+i De vita <gloss>mā</gloss>
+ii Beneficio <gloss>mā</gloss>
+iii De doctrina <gloss>mā</gloss>
+iiii De Loco <gloss>mā</gloss>
+v De Honore <gloss>mā</gloss>
+vi Cogitatio <gloss>mā</gloss>
+vii Domestici <gloss>mā</gloss>
+viii Indumentis <gloss>mā</gloss>
+ix De bello <gloss>mā</gloss>
+x De pecunia <gloss>mā</gloss>
+xi De uxore <gloss>mā</gloss>
+xii De inimico <gloss>mā</gloss>
+xiii De spe <gloss>mā</gloss>
+xiiii De lucro <gloss>mā</gloss>
+xv De socio <gloss>mā</gloss>
+xvi De regio <gloss>mā</gloss>
+xvii De placito <gloss>mā</gloss>
+xviii De captivo <gloss>mā</gloss>
+xix Negociatione <gloss>mā</gloss>
+xx De itinere <gloss>mā</gloss>
+xxi De timore <gloss>mā</gloss>
+xxii De via <gloss>mā</gloss>
+xxiii De dāpna <gloss>mā</gloss>
+xxiiii De lucro <gloss>mā</gloss>
+xxv De agro <gloss>mā</gloss>
+xxvi De amico <gloss>mā</gloss>
+xxvii De debito <gloss>mā</gloss>
+xxviii De amore <gloss>mā</gloss>
+
+<vocab>Euclides, Hermannus, astrolabium, geomantia, dioptra, divinatio, punctorum, experimentum</vocab>
+
+--- Page 9 ---
+<lang>Latin</lang>
+<page-type>text</page-type>
+<page-num>3</page-num>
+<header>Tabula Prima.</header>
+<meta>Page contains a structured table with entries in alternating red, green, and blue ink. A large dark stain obscures some text in the left-center of the table.</meta>
+<warning>Significant dark stain affects rows 13 through 18 in the second and third columns.</warning>
+
+Demanda actioru[m]
+
+| | | | | | | |
+|:---|:---|:---|:---|:---|:---|:---|
+| i. mũ | **De Vita** | Quod est die | Are a sedente sup | Orientale facie | Turris Saturni | **S** |
+| ii. mũ | **De edificio** | Quod est die | Are a sedente sup | Occidentale facie | Turris Saturni | |
+| iii. mũ | **De docia** | Quod est die | Are a sedente sup | Meridionale facie | Turris Saturni | |
+| iiii. mũ | **De Loco** | Quod est die | Are a sedente sup | Septentrionale facie | Turris Saturni | |
+| v. mũ | **De honore** | Quod est die | Are a sedente sup | Orientale facie | Turris Jovis | **I** |
+| vi. mũ | **De operato** | Quod est die | Are a sedente sup | Occidentale facie | Turris Jovis | |
+| vii. mũ | **De d'unciu** | Quod est die | Are a sedente sup | Meridionale facie | Turris Jovis | |
+| viii. mũ | **De indumento** | Quod est die | Are a sedente sup | Septentrionale facie | Turris Jovis | |
+| ix. mũ | **De Bello** | Quod est die | Are a sedente sup | Orientale facie | Turris Maras | **M** |
+| x. mũ | <gloss>Pecunijs</gloss> **De carce** | Quod est die | Are a sedente sup | Occidentale facie | Turris Maras | |
+| xi. mũ | **De uxore** | Quod est die | Are a sedente sup | Meridionale facie | Turris Maras | |
+| xii. mũ | **De inimico** | Quod est die | Are a sedente sup | Septentrionale facie | Turris Maras | |
+| xiii. mũ | **De Spe.** | <unclear>Quod est die</unclear> | <unclear>Are a sedente sup</unclear> | Orientale facie | Turris Solis | **S** |
+| xiiii. mũ | **De lucro** | <unclear>Quod est die</unclear> | <unclear>Are a sedente sup</unclear> | Occidentale facie | Turris Solis | |
+| xv. mũ | **De focu** | <unclear>Quod est die</unclear> | <unclear>Are a sedente sup</unclear> | Meridionale facie | Turris Solis | |
+| xvi. mũ | **De herede sua** | <unclear>Quod est die</unclear> | <unclear>Are a sedente sup</unclear> | Septentrionale facie | Turris Solis | |
+| xvii. mũ | **De placito** | <unclear>Quod est die</unclear> | Are a sedente sup | Orientale facie | Turris Mercurii | **M** |
+| xviii. mũ | **De regno** | Quod est die | Are a sedente sup | Occidentale facie | Turris Mercurii | |
+| xix. mũ | **De negociato** | Quod est die | Are a sedente sup | Meridionale facie | Turris Mercurii | |
+| xx. mũ | **De furto** | Quod est die | Are a sedente sup | Septentrionale facie | Turris Mercurii | |
+| xxi. mũ | **De amore** | Quod est die | Are a sedente sup | Orientale facie | Turris Veneris | **T** |
+| xxii. mũ | **De via** | Quod est die | Are a sedente sup | Occidentale facie | Turris Veneris | |
+| xxiii. mũ | **De amicia** | Quod est die | Are a sedente sup | Meridionale facie | Turris Veneris | |
+| xxiv. mũ | **De pigno** | Quod est die | Are a sedente sup | Septentrionale facie | Turris Veneris | |
+| xxv. mũ | **De egro** | Quod est die | Are a sedente sup | Orientale facie | Turris Lune | **L** |
+| xxvi. mũ | **De amisso** | Quod est die | Are a sedente sup | Occidentale facie | Turris Lune | |
+| xxvii. mũ | **De debito** | Quod est die | Are a sedente sup | Meridionale facie | Turris Lune | |
+| xxviii. mũ | **De amore** | Quod est die | Are a sedente sup | Septentrionale facie | Turris Lune | |
+
+---
+
+-> Si sic pũcta sĩ un chemdre <-
+-> demostrare sepe nũ <-
+-> in dre celendo dicit <-
+-> si duo sũt pũcta duo <-
+-> <unclear>recto</unclear> <unclear>delendendo</unclear> est <-
+-> <unclear>et sic ad iudiciu</unclear> <-
+-> <unclear>venerit ad que</unclear> <-
+
+<vocab>Demanda actiorum, Tabula Prima, Turris Saturni, Turris Jovis, Turris Maras, Turris Solis, Turris Mercurii, Turris Veneris, Turris Lune, Orientale facie, Occidentale facie, Meridionale facie, Septentrionale facie, De Vita, De edificio, De docia, De honore, De Bello, De carce, De regno, De furto, De amore, De egro, puncta</vocab>
+
+--- Page 10 ---
+<lang>lat</lang>
+<page-type>text</page-type>
+<header>¶ Secunda Tabula. ¶ Quarta actio.</header>
+
+<image-desc>A drawing of a square, three-tiered castle tower with battlements, outlined in brown with a green base.</image-desc>
+**Oriens** turris Saturni duplicat responde Quere xiii^ma **Luna**
+**Occidens** turris Saturni duplicat responde Quere xiiii^na **Luna**
+**Meridies** turris Saturni triplicat responde Quere xv^ma **Luna**
+**Septentrio** turris Saturni duplicat responde Quere xvi^ma **Luna**
+
+<image-desc>A drawing of a multi-tiered fortress with a main square tower and a lower side wing, outlined in brown and green.</image-desc>
+**Oriens** turris Iovis duplicat responde Quere xvii^ma **Luna**
+**Occidens** turris Iovis duplicat responde Quere xviii^ma **Luna**
+**Meridies** turris Iovis triplicat responde Quere xix^na **Luna**
+**Septentrio** turris Iovis duplicat responde Quere xx^ma **Luna**
+
+<image-desc>A drawing of a large square tower within a lower, wider outer wall or courtyard, outlined in brown and green.</image-desc>
+**Oriens** turris Martis duplicat responde Quere xxi^ma **Luna**
+**Occidens** turris Martis duplicat responde Quere xxii^da **Luna**
+**Meridies** turris Martis triplicat responde Quere xxiii^ia **Luna**
+**Septentrio** turris Martis duplicat responde Quere xxiiii^ta **Luna**
+
+<image-desc>A drawing of a two-stage tower with battlements on both levels, the bottom level being wider.</image-desc>
+**Oriens** turris Solis duplicat responde Quere xxv^ta **Luna**
+**Occidens** turris Solis duplicat responde Quere xxvi^ta **Luna**
+**Meridies** turris Solis triplicat responde Quere xxvii^ma **Luna**
+**Septentrio** turris Solis duplicat responde Quere xxviii^va **Luna**
+
+<image-desc>A drawing of a building with a central peaked gabled roof flanked by two small square towers.</image-desc>
+**Oriens** turris Mercurii duplicat responde Quere xxix^na **Luna**
+**Occidens** turris Mercurii duplicat responde Quere xxx^ma **Luna**
+**Meridies** turris Mercurii triplicat responde Quere i^a **Luna**
+**Septentrio** turris Mercurii duplicat responde Quere ii^da **Luna**
+
+<image-desc>A drawing of a long, crenellated wall with seven small, evenly spaced turrets along the top.</image-desc>
+**Oriens** turris Veneris duplicat responde Quere iii^ia **Luna**
+**Occidens** turris Veneris duplicat responde Quere iiii^ta **Luna**
+**Meridies** turris Veneris triplicat responde Quere v^ta **Luna**
+**Septentrio** turris Veneris duplicat responde Quere vi^ta **Luna**
+
+<image-desc>A drawing of a large central tower with a rounded or bulbous top section, flanked by two lower square towers, set on a decorative base.</image-desc>
+**Oriens** turris Lunae duplicat responde Quere vii^ma **Luna**
+**Occidens** turris Lunae duplicat responde Quere viii^va **Luna**
+**Meridies** turris Lunae triplicat responde Quere viiii^na **Luna**
+**Septentrio** turris Lunae duplicat responde Quere x^ma **Luna**
+
+---
+
+Turres Septem pla-
+netarum <unclear>o... ...o</unclear>.
+
+<vocab>Saturni, Iovis, Martis, Solis, Mercurii, Veneris, Lunae, Oriens, Occidens, Meridies, Septentrio, duplicat, triplicat, responde, Quere, Tabula, planetarum</vocab>

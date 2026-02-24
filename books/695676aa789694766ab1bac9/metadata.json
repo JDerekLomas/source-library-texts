@@ -1,0 +1,28 @@
+{
+  "id": "695676aa789694766ab1bac9",
+  "title": "Philosophical Transactions of the Royal Society, Vols 1-2 (1665-1668)",
+  "display_title": "Philosophical Transactions of the Royal Society, Vols 1-2 (1665-1668)",
+  "author": "Royal Society of London",
+  "language": "English",
+  "year": 1665,
+  "published": "Unknown",
+  "pages_count": 716,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/695676aa789694766ab1bac9",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "Philosophicaltr1Roya"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:01.765Z",
+  "_hashes": {
+    "ocr": "c2edc568c00cfc19",
+    "translation": "27560b947dbd37d1"
+  }
+}

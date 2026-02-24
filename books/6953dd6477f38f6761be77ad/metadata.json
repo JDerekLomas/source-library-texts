@@ -1,0 +1,28 @@
+{
+  "id": "6953dd6477f38f6761be77ad",
+  "title": "Meister Eckhart der Mystiker",
+  "display_title": "Meister Eckhart der Mystiker",
+  "author": "Adolf Lasson",
+  "language": "German",
+  "year": 1868,
+  "published": "1868",
+  "pages_count": 388,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6953dd6477f38f6761be77ad",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "meistereckhartde00lass"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:03.865Z",
+  "_hashes": {
+    "ocr": "69b939f23d1a2c9e",
+    "translation": "8ade85af17e95ad1"
+  }
+}

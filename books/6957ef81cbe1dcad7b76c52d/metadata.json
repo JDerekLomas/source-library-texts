@@ -1,0 +1,28 @@
+{
+  "id": "6957ef81cbe1dcad7b76c52d",
+  "title": "Rariorum plantarum historia",
+  "display_title": "Rariorum plantarum historia",
+  "author": "Carolus Clusius",
+  "language": "Latin",
+  "year": 1601,
+  "published": "1601",
+  "pages_count": 732,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6957ef81cbe1dcad7b76c52d",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "mobot31753000810538"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:01.674Z",
+  "_hashes": {
+    "ocr": "acf636625dae9119",
+    "translation": "c4357292f46c4ed9"
+  }
+}

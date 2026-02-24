@@ -1,0 +1,26 @@
+{
+  "id": "697d9c989788c62e1238c868",
+  "title": "Histoire critique de l'eclectisme",
+  "display_title": "Histoire critique de l'eclectisme",
+  "author": "[Maleville, Guillaume]",
+  "language": "French",
+  "year": 1766,
+  "published": "1766",
+  "pages_count": 740,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 6,
+  "source_url": "https://sourcelibrary.org/book/697d9c989788c62e1238c868",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:03.394Z",
+  "_hashes": {
+    "ocr": "7343131ea1180bb4",
+    "translation": "75e680e1f4ce892b"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "69592b207c072c27f686dd71",
+  "title": "Theologia Platonica de immortalitate animarum",
+  "display_title": "Theologia Platonica de immortalitate animarum",
+  "author": "Marsilio Ficino",
+  "language": "Latin",
+  "year": 1491,
+  "published": "1491",
+  "pages_count": 796,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/69592b207c072c27f686dd71",
+  "license": "https://rightsstatements.org/vocab/NoC-NC/1.0/",
+  "doi": null,
+  "external_ids": {
+    "mdz": "bsb10191951"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:01.379Z",
+  "_hashes": {
+    "ocr": "13f51ec8fb8a8c9f",
+    "translation": "87452a070a74a0c4"
+  }
+}

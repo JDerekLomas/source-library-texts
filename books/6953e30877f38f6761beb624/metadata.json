@@ -1,0 +1,28 @@
+{
+  "id": "6953e30877f38f6761beb624",
+  "title": "Karpuradi Stotram - Hymn to Kali with Commentary",
+  "display_title": "Karpuradi Stotram - Hymn to Kali with Commentary",
+  "author": "Vimalananda Svami; Arthur Avalon",
+  "language": "Sanskrit-English",
+  "year": 1922,
+  "published": "Unknown",
+  "pages_count": 138,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6953e30877f38f6761beb624",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "karpuradistotram00vimauoft"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:02.817Z",
+  "_hashes": {
+    "ocr": "c15089a23642a245",
+    "translation": "cea84ad2e8635460"
+  }
+}

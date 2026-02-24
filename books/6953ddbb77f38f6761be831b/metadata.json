@@ -1,0 +1,28 @@
+{
+  "id": "6953ddbb77f38f6761be831b",
+  "title": "Cloud of Unknowing and Other Treatises",
+  "display_title": "Cloud of Unknowing and Other Treatises",
+  "author": "Anonymous (14th century)",
+  "language": "Middle English-English",
+  "year": 1891,
+  "published": "Unknown",
+  "pages_count": 474,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6953ddbb77f38f6761be831b",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "cloudofunknowing0000unse_h8l5"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:02.284Z",
+  "_hashes": {
+    "ocr": "e9dca68aac1b7ccf",
+    "translation": "51f503cc5bffff8d"
+  }
+}

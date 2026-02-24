@@ -1,0 +1,28 @@
+{
+  "id": "699066ef249ce014347d20c8",
+  "title": "Chandra Bhavadhyaya (Lunar Mansions)",
+  "display_title": "Chandra Bhavadhyaya (Lunar Mansions)",
+  "author": "Unknown",
+  "language": "Sanskrit",
+  "year": 1780,
+  "published": "1780",
+  "pages_count": 11,
+  "pages_with_ocr": 11,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/699066ef249ce014347d20c8",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "chandrabhavadhyaya-CGV-PSS-0131-0983"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:30:00.620Z",
+  "_hashes": {
+    "ocr": "1c801f81c4a8ef2d",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

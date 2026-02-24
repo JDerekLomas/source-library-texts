@@ -1,0 +1,28 @@
+{
+  "id": "699066f2249ce014347d20d5",
+  "title": "Navagraha Nyasa Vidhi (Nine Planets Ritual)",
+  "display_title": "Navagraha Nyasa Vidhi (Nine Planets Ritual)",
+  "author": "Unknown",
+  "language": "Sanskrit",
+  "year": null,
+  "published": "Unknown",
+  "pages_count": 13,
+  "pages_with_ocr": 13,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/699066f2249ce014347d20d5",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "navagrahanyasavidhi-CGV-SDPB-0397"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:29:59.082Z",
+  "_hashes": {
+    "ocr": "65105c7cf2c68600",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

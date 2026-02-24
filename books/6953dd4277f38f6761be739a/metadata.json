@@ -1,0 +1,28 @@
+{
+  "id": "6953dd4277f38f6761be739a",
+  "title": "Kitab Falsafat - Philosophy of Averroes",
+  "display_title": "Kitab Falsafat - Philosophy of Averroes",
+  "author": "Averroes (Ibn Rushd)",
+  "language": "Arabic",
+  "year": null,
+  "published": "Unknown",
+  "pages_count": 160,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6953dd4277f38f6761be739a",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "kitabfalsafatmuh00aver"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:04.113Z",
+  "_hashes": {
+    "ocr": "85393190be071111",
+    "translation": "f4ddaee6f636fcc3"
+  }
+}

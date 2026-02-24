@@ -1,0 +1,28 @@
+{
+  "id": "6953aeb177f38f6761bd85d1",
+  "title": "Hekate-Selene-Artemis in Greek Magical Papyri",
+  "display_title": "Hekate-Selene-Artemis in Greek Magical Papyri",
+  "author": "Theodor Hopfner",
+  "language": "German",
+  "year": 1921,
+  "published": "Unknown",
+  "pages_count": 11,
+  "pages_with_ocr": 11,
+  "pages_with_translation": 11,
+  "source_url": "https://sourcelibrary.org/book/6953aeb177f38f6761bd85d1",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "HekateSeleneArtemisHopfnerTheodor"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:00.578Z",
+  "_hashes": {
+    "ocr": "cd38f84cd9ecb4ef",
+    "translation": "024a9b78a1f86a6c"
+  }
+}

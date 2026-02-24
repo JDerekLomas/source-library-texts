@@ -1,0 +1,28 @@
+{
+  "id": "6953dd8b77f38f6761be7d5e",
+  "title": "Ruysbroeck - Study by Evelyn Underhill",
+  "display_title": "Ruysbroeck - Study by Evelyn Underhill",
+  "author": "Evelyn Underhill",
+  "language": "English",
+  "year": 1915,
+  "published": "Unknown",
+  "pages_count": 224,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6953dd8b77f38f6761be7d5e",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "ruysbroeck00undeuoft"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:03.778Z",
+  "_hashes": {
+    "ocr": "33b28c131095d060",
+    "translation": "a6a48683dfc05dec"
+  }
+}

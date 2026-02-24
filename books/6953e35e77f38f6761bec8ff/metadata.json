@@ -1,0 +1,28 @@
+{
+  "id": "6953e35e77f38f6761bec8ff",
+  "title": "Gates of Knowledge - Philosophy and Theosophy",
+  "display_title": "Gates of Knowledge - Philosophy and Theosophy",
+  "author": "Rudolf Steiner",
+  "language": "German-English",
+  "year": 1910,
+  "published": "1910",
+  "pages_count": 208,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6953e35e77f38f6761bec8ff",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "gatesofknowledge00stei"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:05.362Z",
+  "_hashes": {
+    "ocr": "e5fdc6e85b304387",
+    "translation": "9312a9544736afcb"
+  }
+}

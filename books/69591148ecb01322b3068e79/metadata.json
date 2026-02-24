@@ -1,0 +1,28 @@
+{
+  "id": "69591148ecb01322b3068e79",
+  "title": "Historia das plantas da Europa e Asia Africa America",
+  "display_title": "Historia das plantas da Europa e Asia Africa America",
+  "author": "Joao Vigier / Caspar Bauhin",
+  "language": "Portuguese",
+  "year": 1764,
+  "published": "Unknown",
+  "pages_count": 514,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/69591148ecb01322b3068e79",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "historiadasplant00unkn"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:02.197Z",
+  "_hashes": {
+    "ocr": "188e7c35b16c59f9",
+    "translation": "e3bcf5945ba23de7"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "697d9c989788c62e1238c866",
+  "title": "Heomo Verekehe oder nützliche und angenehme Unterhaltungen für allerlei Leser",
+  "display_title": "Heomo Verekehe oder nützliche und angenehme Unterhaltungen für allerlei Leser",
+  "author": "X.J.P|J.F.H|G.W",
+  "language": "German",
+  "year": 1788,
+  "published": "1788",
+  "pages_count": 558,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 5,
+  "source_url": "https://sourcelibrary.org/book/697d9c989788c62e1238c866",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:05.953Z",
+  "_hashes": {
+    "ocr": "88404e61aaac917b",
+    "translation": "e1ab4d7709781cbe"
+  }
+}

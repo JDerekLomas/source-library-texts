@@ -1,0 +1,28 @@
+{
+  "id": "6953dd3c77f38f6761be717b",
+  "title": "Tarjuman al-Ashwaq (Interpreter of Desires)",
+  "display_title": "Tarjuman al-Ashwaq (Interpreter of Desires)",
+  "author": "Ibn Arabi",
+  "language": "Arabic-English",
+  "year": 1911,
+  "published": "Unknown",
+  "pages_count": 176,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6953dd3c77f38f6761be717b",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "tarjumanalashwaq00ibnaiala"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:00.914Z",
+  "_hashes": {
+    "ocr": "e52b3cb03f37ed78",
+    "translation": "56a057b7feaf9f5e"
+  }
+}

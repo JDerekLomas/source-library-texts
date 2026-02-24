@@ -1,0 +1,26 @@
+{
+  "id": "6990659e3dc2ed39a49f1fa7",
+  "title": "Philosophia Baconis (MS. Digby 76, annotated by John Dee)",
+  "display_title": "Bodleian Library MS. Digby 76",
+  "author": "Roger Bacon; annotations by John Dee",
+  "language": "Latin",
+  "year": 1270,
+  "published": "c. 1270",
+  "pages_count": 246,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 9,
+  "source_url": "https://sourcelibrary.org/book/6990659e3dc2ed39a49f1fa7",
+  "license": "CC-BY-NC-4.0",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:03.693Z",
+  "_hashes": {
+    "ocr": "8fcbc14b748c2046",
+    "translation": "7f003b9aae3f0c52"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "69907cf65f855ec553e784e3",
+  "title": "Shani Chakram (Saturn)",
+  "display_title": "Shani Chakram",
+  "author": "Unknown",
+  "language": "Sanskrit",
+  "year": 1800,
+  "published": "1800",
+  "pages_count": 10,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/69907cf65f855ec553e784e3",
+  "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "shanichakram1209ghaalm6shlf1devanagarijyotish"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:01.499Z",
+  "_hashes": {
+    "ocr": "b7e3bf9c79ea9666",
+    "translation": "fece85d50fda2194"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "695930a0a41e40e9146a50b8",
+  "title": "Traité des talismans ou figures astrales",
+  "display_title": "Traité des talismans ou figures astrales",
+  "author": "Anonymous",
+  "language": "French",
+  "year": 1658,
+  "published": "1658",
+  "pages_count": 136,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/695930a0a41e40e9146a50b8",
+  "license": "https://gallica.bnf.fr/html/und/conditions-dutilisation-des-contenus-de-gallica",
+  "doi": null,
+  "external_ids": {
+    "gallica": "bpt6k8500364"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:01.847Z",
+  "_hashes": {
+    "ocr": "a94b27c65d78fe64",
+    "translation": "d65371801c72c03c"
+  }
+}

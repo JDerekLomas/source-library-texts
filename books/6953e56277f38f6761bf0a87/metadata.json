@@ -1,0 +1,28 @@
+{
+  "id": "6953e56277f38f6761bf0a87",
+  "title": "New Experiments Physico-Mechanical (1660)",
+  "display_title": "New Experiments Physico-Mechanical (1660)",
+  "author": "Robert Boyle",
+  "language": "English",
+  "year": 1660,
+  "published": "Unknown",
+  "pages_count": 243,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6953e56277f38f6761bf0a87",
+  "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "chepfl-lipr-AXA74"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:00.996Z",
+  "_hashes": {
+    "ocr": "f43414c26a0f6749",
+    "translation": "6048d320becde89a"
+  }
+}

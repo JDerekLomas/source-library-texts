@@ -1,0 +1,28 @@
+{
+  "id": "6953e55c77f38f6761bf08ae",
+  "title": "The Sceptical Chymist (1661 First Edition)",
+  "display_title": "The Sceptical Chymist (1661 First Edition)",
+  "author": "Robert Boyle",
+  "language": "English",
+  "year": 1668,
+  "published": "1668",
+  "pages_count": 472,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6953e55c77f38f6761bf08ae",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "scepticalchymis00BoylA"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:05.118Z",
+  "_hashes": {
+    "ocr": "203b323efc2274a6",
+    "translation": "7a4b24cf129951f1"
+  }
+}

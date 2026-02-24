@@ -1,0 +1,28 @@
+{
+  "id": "69568ed4499312f0ff8818cc",
+  "title": "A Treatise on Political Economy - The Production, Distribution, and Consumption of Wealth",
+  "display_title": "A Treatise on Political Economy - The Production, Distribution, and Consumption of Wealth",
+  "author": "Jean-Baptiste Say",
+  "language": "English",
+  "year": 1803,
+  "published": "Unknown",
+  "pages_count": 460,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/69568ed4499312f0ff8818cc",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "treatiseonpoliti02sayjuoft"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:04.536Z",
+  "_hashes": {
+    "ocr": "fa29d0ab67b23741",
+    "translation": "05f836043de3c680"
+  }
+}

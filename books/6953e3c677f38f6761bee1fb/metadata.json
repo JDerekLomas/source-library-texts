@@ -1,0 +1,28 @@
+{
+  "id": "6953e3c677f38f6761bee1fb",
+  "title": "Diary of a Drug Fiend",
+  "display_title": "Diary of a Drug Fiend",
+  "author": "Aleister Crowley",
+  "language": "English",
+  "year": 1925,
+  "published": "1925",
+  "pages_count": 394,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6953e3c677f38f6761bee1fb",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "b29826433"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:05.203Z",
+  "_hashes": {
+    "ocr": "a9b5e10d63e7ade3",
+    "translation": "7adc0f56be7c5d5c"
+  }
+}

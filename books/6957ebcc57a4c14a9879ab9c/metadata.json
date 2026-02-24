@@ -1,0 +1,28 @@
+{
+  "id": "6957ebcc57a4c14a9879ab9c",
+  "title": "The Herball, or Generall Historie of Plantes",
+  "display_title": "The Herball, or Generall Historie of Plantes",
+  "author": "John Gerard",
+  "language": "English",
+  "year": 1597,
+  "published": "Unknown",
+  "pages_count": 1496,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6957ebcc57a4c14a9879ab9c",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "herballorgeneral00gera_1"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:01.199Z",
+  "_hashes": {
+    "ocr": "f26f65614d696335",
+    "translation": "2242abbd78a8a9d2"
+  }
+}

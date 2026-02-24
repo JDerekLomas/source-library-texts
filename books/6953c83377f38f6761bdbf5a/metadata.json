@@ -1,0 +1,28 @@
+{
+  "id": "6953c83377f38f6761bdbf5a",
+  "title": "Gheranda Samhita",
+  "display_title": "Gheranda Samhita",
+  "author": "Gheranda",
+  "language": "Sanskrit",
+  "year": 1675,
+  "published": "Unknown",
+  "pages_count": 11,
+  "pages_with_ocr": 11,
+  "pages_with_translation": 11,
+  "source_url": "https://sourcelibrary.org/book/6953c83377f38f6761bdbf5a",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "GherandaSamhita_131"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:59.984Z",
+  "_hashes": {
+    "ocr": "62ea4e27d71eec27",
+    "translation": "ac84e833875c2cab"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "69569080aeb4b980d9ebd5db",
+  "title": "The Fable of the Bees: Or Private Vices, Publick Benefits",
+  "display_title": "The Fable of the Bees: Or Private Vices, Publick Benefits",
+  "author": "Bernard Mandeville",
+  "language": "English",
+  "year": 1714,
+  "published": "1714",
+  "pages_count": 369,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/69569080aeb4b980d9ebd5db",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "fablebees00mandgoog"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:03.124Z",
+  "_hashes": {
+    "ocr": "f57ecf832e4d7e3e",
+    "translation": "e46fd0ccc64cea33"
+  }
+}

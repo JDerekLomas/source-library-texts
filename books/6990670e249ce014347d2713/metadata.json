@@ -1,0 +1,28 @@
+{
+  "id": "6990670e249ce014347d2713",
+  "title": "A True Narration of the Strange Vexation by the Devil of Seven Persons",
+  "display_title": "A True Narration of the Strange Vexation by the Devil of Seven Persons",
+  "author": "John Darrell",
+  "language": "English",
+  "year": 1600,
+  "published": "Unknown",
+  "pages_count": 141,
+  "pages_with_ocr": 15,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/6990670e249ce014347d2713",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bim_early-english-books-1475-1640_a-true-narration-of-the-_darrell-john_1600"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:29:58.477Z",
+  "_hashes": {
+    "ocr": "fb7634f70ec1b4be",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

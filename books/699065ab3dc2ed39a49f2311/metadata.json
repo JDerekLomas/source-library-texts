@@ -1,0 +1,26 @@
+{
+  "id": "699065ab3dc2ed39a49f2311",
+  "title": "Alchemical Texts annotated by John Dee (Trinity College O.2.47)",
+  "display_title": "Alchemical texts (Cambridge, Trinity College, MS O.2.47)",
+  "author": "Winandus de Rufo Clipeo; annotated by John Dee",
+  "language": "Latin",
+  "year": 1436,
+  "published": "1436",
+  "pages_count": 116,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 2,
+  "source_url": "https://sourcelibrary.org/book/699065ab3dc2ed39a49f2311",
+  "license": "CC-BY-NC-4.0",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:04.368Z",
+  "_hashes": {
+    "ocr": "5ed3573cf05820f3",
+    "translation": "00ceae7f3a743b0a"
+  }
+}

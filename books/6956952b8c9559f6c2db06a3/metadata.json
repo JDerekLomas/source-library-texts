@@ -1,0 +1,28 @@
+{
+  "id": "6956952b8c9559f6c2db06a3",
+  "title": "Meditations (Latin and Greek Bilingual)",
+  "display_title": "Meditations (Latin and Greek Bilingual)",
+  "author": "Marcus Aurelius Antoninus",
+  "language": "Greek/Latin",
+  "year": 1707,
+  "published": "1707",
+  "pages_count": 750,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6956952b8c9559f6c2db06a3",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bim_eighteenth-century_meditations-latin-and-g_aurelius-antoninus-marc_1707"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:02.577Z",
+  "_hashes": {
+    "ocr": "338881d8ecafc211",
+    "translation": "61541c3d07f7460c"
+  }
+}

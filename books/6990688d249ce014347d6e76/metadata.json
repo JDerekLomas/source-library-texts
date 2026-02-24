@@ -1,0 +1,28 @@
+{
+  "id": "6990688d249ce014347d6e76",
+  "title": "Astronomicum Caesareum",
+  "display_title": "Astronomicum Caesareum",
+  "author": "Peter Apian",
+  "language": "Latin",
+  "year": 1540,
+  "published": "Unknown",
+  "pages_count": 132,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/6990688d249ce014347d6e76",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "astronomicumcsar00apia"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:30:06.375Z",
+  "_hashes": {
+    "ocr": "c7b9cffb57166f8d",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

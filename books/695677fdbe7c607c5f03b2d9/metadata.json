@@ -1,0 +1,28 @@
+{
+  "id": "695677fdbe7c607c5f03b2d9",
+  "title": "Philosophical Transactions of the Royal Society, Vol 3 (1683-1694)",
+  "display_title": "Philosophical Transactions of the Royal Society, Vol 3 (1683-1694)",
+  "author": "Royal Society of London",
+  "language": "English",
+  "year": 1694,
+  "published": "Unknown",
+  "pages_count": 744,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/695677fdbe7c607c5f03b2d9",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "philosophicaltra03royarich"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:06.124Z",
+  "_hashes": {
+    "ocr": "cc1da972465b9f0a",
+    "translation": "5197fc24d8e7dab0"
+  }
+}

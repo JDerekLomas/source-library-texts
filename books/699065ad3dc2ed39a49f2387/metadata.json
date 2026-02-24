@@ -1,0 +1,26 @@
+{
+  "id": "699065ad3dc2ed39a49f2387",
+  "title": "Crowning of Nature (Coronatio Naturae)",
+  "display_title": "Compilation of alchemical works, including the 'Crowning of Nature' (Cambridge, University Library, MS Gg.1.8)",
+  "author": "Anonymous",
+  "language": "English",
+  "year": 1600,
+  "published": "c. 1600",
+  "pages_count": 211,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/699065ad3dc2ed39a49f2387",
+  "license": "CC-BY-NC-4.0",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:30:01.281Z",
+  "_hashes": {
+    "ocr": "a378fa2ee7f58741",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

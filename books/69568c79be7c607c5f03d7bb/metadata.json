@@ -1,0 +1,28 @@
+{
+  "id": "69568c79be7c607c5f03d7bb",
+  "title": "The Theory of Moral Sentiments",
+  "display_title": "The Theory of Moral Sentiments",
+  "author": "Adam Smith",
+  "language": "English",
+  "year": 1759,
+  "published": "1759",
+  "pages_count": 547,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/69568c79be7c607c5f03d7bb",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bim_eighteenth-century_the-theory-of-moral-sent_smith-adam_1759"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:04.450Z",
+  "_hashes": {
+    "ocr": "dc3441db5559cb48",
+    "translation": "bdd445b3e701b686"
+  }
+}

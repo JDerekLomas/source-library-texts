@@ -1,0 +1,28 @@
+{
+  "id": "695689bdbe7c607c5f03d158",
+  "title": "Observations on Man, His Frame, His Duty, and His Expectations",
+  "display_title": "Observations on Man, His Frame, His Duty, and His Expectations",
+  "author": "David Hartley",
+  "language": "English",
+  "year": 1749,
+  "published": "1749",
+  "pages_count": 1052,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/695689bdbe7c607c5f03d158",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "observationsonma00hart"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:02.036Z",
+  "_hashes": {
+    "ocr": "1c0c4ea346d0daac",
+    "translation": "0b1c046132c96899"
+  }
+}

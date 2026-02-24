@@ -1,0 +1,26 @@
+{
+  "id": "698255f272562d277d385143",
+  "title": "Mosaisches Licht und Recht",
+  "display_title": "Mosaisches Licht und Recht",
+  "author": "Lange, Joachim",
+  "language": "German",
+  "year": 1733,
+  "published": "1733",
+  "pages_count": 1557,
+  "pages_with_ocr": 11,
+  "pages_with_translation": 5,
+  "source_url": "https://sourcelibrary.org/book/698255f272562d277d385143",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:00.442Z",
+  "_hashes": {
+    "ocr": "efba6cb59f671df9",
+    "translation": "46a9fbfcdf857e9d"
+  }
+}

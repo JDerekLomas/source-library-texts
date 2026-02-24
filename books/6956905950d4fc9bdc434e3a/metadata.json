@@ -1,0 +1,28 @@
+{
+  "id": "6956905950d4fc9bdc434e3a",
+  "title": "Of the Law of Nature and Nations",
+  "display_title": "Of the Law of Nature and Nations",
+  "author": "Samuel Pufendorf",
+  "language": "English",
+  "year": 1729,
+  "published": "1729",
+  "pages_count": 1013,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6956905950d4fc9bdc434e3a",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bim_eighteenth-century_of-the-law-of-nature-and_pufendorf-samuel-freih_1729"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:04.752Z",
+  "_hashes": {
+    "ocr": "47722ed059f3a0bc",
+    "translation": "783e4f15666e5cfe"
+  }
+}

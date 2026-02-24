@@ -1,0 +1,28 @@
+{
+  "id": "6952f71777f38f6761bc997a",
+  "title": "Pistis Sophia",
+  "display_title": "Pistis Sophia",
+  "author": "Petermann (ed.)",
+  "language": "Latin",
+  "year": 1851,
+  "published": "1851",
+  "pages_count": 695,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6952f71777f38f6761bc997a",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "pistissophiaopu00petegoog"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:06.470Z",
+  "_hashes": {
+    "ocr": "cc22548aef519eb9",
+    "translation": "04503b82202a4464"
+  }
+}

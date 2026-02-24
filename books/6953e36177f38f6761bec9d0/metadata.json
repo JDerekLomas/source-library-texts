@@ -1,0 +1,28 @@
+{
+  "id": "6953e36177f38f6761bec9d0",
+  "title": "Christianity as Mystical Fact",
+  "display_title": "Christianity as Mystical Fact",
+  "author": "Rudolf Steiner",
+  "language": "German-English",
+  "year": 1914,
+  "published": "1914",
+  "pages_count": 270,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6953e36177f38f6761bec9d0",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "christianityasmy00stei"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:05.284Z",
+  "_hashes": {
+    "ocr": "8379e540e7d1ad04",
+    "translation": "ab8efd892910b550"
+  }
+}

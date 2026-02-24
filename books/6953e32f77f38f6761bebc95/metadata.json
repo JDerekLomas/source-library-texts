@@ -1,0 +1,28 @@
+{
+  "id": "6953e32f77f38f6761bebc95",
+  "title": "Secret Doctrine Vol. III - Esoterica",
+  "display_title": "Secret Doctrine Vol. III - Esoterica",
+  "author": "H.P. Blavatsky",
+  "language": "English",
+  "year": 1897,
+  "published": "Unknown",
+  "pages_count": 634,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6953e32f77f38f6761bebc95",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "secretdoctrinesy03blav"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:02.666Z",
+  "_hashes": {
+    "ocr": "606d728801243115",
+    "translation": "30c35b24a3a91f90"
+  }
+}

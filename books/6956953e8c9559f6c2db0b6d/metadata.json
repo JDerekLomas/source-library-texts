@@ -1,0 +1,28 @@
+{
+  "id": "6956953e8c9559f6c2db0b6d",
+  "title": "The Rhetoric, Poetic, and Nicomachean Ethics of Aristotle",
+  "display_title": "The Rhetoric, Poetic, and Nicomachean Ethics of Aristotle",
+  "author": "Aristotle",
+  "language": "English",
+  "year": 1908,
+  "published": "Unknown",
+  "pages_count": 407,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6956953e8c9559f6c2db0b6d",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "rhetoricpoetica00arisgoog"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:03.578Z",
+  "_hashes": {
+    "ocr": "6e3f1f09358568c8",
+    "translation": "fad20e3833527ffd"
+  }
+}

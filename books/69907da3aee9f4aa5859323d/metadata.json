@@ -1,0 +1,28 @@
+{
+  "id": "69907da3aee9f4aa5859323d",
+  "title": "Chaur Prashna Gyanam (Theft Divination)",
+  "display_title": "Chaur Prashna Gyanam",
+  "author": "Unknown",
+  "language": "Sanskrit",
+  "year": 1800,
+  "published": "1800",
+  "pages_count": 10,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/69907da3aee9f4aa5859323d",
+  "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "ChaurPrashnaGyanam1210GhaAlm6Shlf1DevanagariJyotish"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:02.703Z",
+  "_hashes": {
+    "ocr": "3f6b3b0ec1fa35d9",
+    "translation": "16dd5fd429396bf5"
+  }
+}

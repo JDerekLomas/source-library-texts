@@ -1,0 +1,28 @@
+{
+  "id": "6956952e8c9559f6c2db0992",
+  "title": "Aquinas Ethicus: Or, The Moral Teaching of St. Thomas",
+  "display_title": "Aquinas Ethicus: Or, The Moral Teaching of St. Thomas",
+  "author": "Thomas Aquinas",
+  "language": "English",
+  "year": 1892,
+  "published": "Unknown",
+  "pages_count": 474,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6956952e8c9559f6c2db0992",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "aquinasethicuso00rickgoog"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:03.492Z",
+  "_hashes": {
+    "ocr": "eeea25f41860791a",
+    "translation": "07cad1b0b7145ae3"
+  }
+}

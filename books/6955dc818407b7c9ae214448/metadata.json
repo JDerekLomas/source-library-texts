@@ -1,0 +1,28 @@
+{
+  "id": "6955dc818407b7c9ae214448",
+  "title": "Die philosophischen Schriften Vol. 7",
+  "display_title": "Die philosophischen Schriften Vol. 7",
+  "author": "Gottfried Wilhelm Leibniz",
+  "language": "German",
+  "year": 1890,
+  "published": "Unknown",
+  "pages_count": 611,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6955dc818407b7c9ae214448",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "diephilosophisc00gerhgoog"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:06.209Z",
+  "_hashes": {
+    "ocr": "d976dbdfc82d2f37",
+    "translation": "38b806c7099997f9"
+  }
+}

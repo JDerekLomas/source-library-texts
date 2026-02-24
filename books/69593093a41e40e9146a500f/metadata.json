@@ -1,0 +1,28 @@
+{
+  "id": "69593093a41e40e9146a500f",
+  "title": "Traité sur les talismans, invocations et formules magiques",
+  "display_title": "Traité sur les talismans, invocations et formules magiques",
+  "author": "Anonymous",
+  "language": "French",
+  "year": null,
+  "published": "Unknown",
+  "pages_count": 168,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/69593093a41e40e9146a500f",
+  "license": "https://gallica.bnf.fr/html/und/conditions-dutilisation-des-contenus-de-gallica",
+  "doi": null,
+  "external_ids": {
+    "gallica": "btv1b110019013"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:01.462Z",
+  "_hashes": {
+    "ocr": "5e4091fdbbea3d73",
+    "translation": "479e1df079a12f25"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "6953e35a77f38f6761bec7fa",
+  "title": "Way of Initiation",
+  "display_title": "Way of Initiation",
+  "author": "Rudolf Steiner",
+  "language": "German-English",
+  "year": 1909,
+  "published": "1909",
+  "pages_count": 260,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6953e35a77f38f6761bec7fa",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "b29012454"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:05.436Z",
+  "_hashes": {
+    "ocr": "d774a85d945a216c",
+    "translation": "e8515b442d4fa4c5"
+  }
+}

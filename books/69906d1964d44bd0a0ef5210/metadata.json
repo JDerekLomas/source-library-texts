@@ -1,0 +1,28 @@
+{
+  "id": "69906d1964d44bd0a0ef5210",
+  "title": "Hora Vritti",
+  "display_title": "Hora Vritti",
+  "author": "Unknown",
+  "language": "Sanskrit",
+  "year": null,
+  "published": "Unknown",
+  "pages_count": 11,
+  "pages_with_ocr": 11,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/69906d1964d44bd0a0ef5210",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "horavritti-CGV-PSS-0139-1321"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:30:00.665Z",
+  "_hashes": {
+    "ocr": "9745958c0df37dd8",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

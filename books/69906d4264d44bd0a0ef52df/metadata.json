@@ -1,0 +1,28 @@
+{
+  "id": "69906d4264d44bd0a0ef52df",
+  "title": "Dvadasha Bhavanan Phalani",
+  "display_title": "Dvadasha Bhavanan Phalani",
+  "author": "Unknown",
+  "language": "Sanskrit",
+  "year": null,
+  "published": "Unknown",
+  "pages_count": 14,
+  "pages_with_ocr": 14,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/69906d4264d44bd0a0ef52df",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "dvadashabhavanan_phalani-CGV-PSS-0135-0243"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:29:58.853Z",
+  "_hashes": {
+    "ocr": "44222cb4cad9a416",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

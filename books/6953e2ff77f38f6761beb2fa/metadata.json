@@ -1,0 +1,28 @@
+{
+  "id": "6953e2ff77f38f6761beb2fa",
+  "title": "Tantraloka Vol. 1 with Jayaratha Commentary",
+  "display_title": "Tantraloka Vol. 1 with Jayaratha Commentary",
+  "author": "Abhinavagupta; Jayaratha",
+  "language": "Sanskrit",
+  "year": 1918,
+  "published": "Unknown",
+  "pages_count": 372,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6953e2ff77f38f6761beb2fa",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "tantralokaofabhi01abhiuoft"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:02.900Z",
+  "_hashes": {
+    "ocr": "3fef660d8b99b5f3",
+    "translation": "246642d597242c37"
+  }
+}

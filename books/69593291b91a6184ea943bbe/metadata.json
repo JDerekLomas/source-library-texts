@@ -1,0 +1,28 @@
+{
+  "id": "69593291b91a6184ea943bbe",
+  "title": "Histoire de la magie",
+  "display_title": "Histoire de la magie",
+  "author": "Eliphas Lévi",
+  "language": "French",
+  "year": 1860,
+  "published": "1860",
+  "pages_count": 602,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/69593291b91a6184ea943bbe",
+  "license": "https://gallica.bnf.fr/html/und/conditions-dutilisation-des-contenus-de-gallica",
+  "doi": null,
+  "external_ids": {
+    "gallica": "bpt6k75611x"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:03.031Z",
+  "_hashes": {
+    "ocr": "d417dbed3ef2b104",
+    "translation": "0001f338775b2d8c"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "69907d99aee9f4aa5859308c",
+  "title": "Svapana Phala Nirnaya (Dream Interpretation)",
+  "display_title": "Svapana Phala Nirnaya",
+  "author": "Unknown",
+  "language": "Sanskrit",
+  "year": 1800,
+  "published": "1800",
+  "pages_count": 10,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/69907d99aee9f4aa5859308c",
+  "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "SvapanaPhalaNirnaya5011Alm22Shlf6DevanagariJyotish"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:30:02.401Z",
+  "_hashes": {
+    "ocr": "da4a85f68b51b9aa",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

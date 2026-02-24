@@ -1,0 +1,28 @@
+{
+  "id": "69568c77be7c607c5f03d5a2",
+  "title": "An Inquiry into the Nature and Causes of the Wealth of Nations",
+  "display_title": "An Inquiry into the Nature and Causes of the Wealth of Nations",
+  "author": "Adam Smith",
+  "language": "English",
+  "year": 1776,
+  "published": "1776",
+  "pages_count": 536,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/69568c77be7c607c5f03d5a2",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "inquiryintonatur01smit_0"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:01.079Z",
+  "_hashes": {
+    "ocr": "3e725e00bef3c15a",
+    "translation": "8e36b6fdb1b641fe"
+  }
+}

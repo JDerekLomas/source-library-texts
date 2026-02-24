@@ -1,0 +1,26 @@
+{
+  "id": "699065b03dc2ed39a49f25b8",
+  "title": "Liber de Angelis (Book of Angels, Rings, and Images of the Planets)",
+  "display_title": "Medical treatises (Cambridge, University Library, MS Dd.11.45)",
+  "author": "Anonymous",
+  "language": "Latin",
+  "year": 1400,
+  "published": "c. 1400",
+  "pages_count": 295,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/699065b03dc2ed39a49f25b8",
+  "license": "CC-BY-NC-4.0",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:30:02.113Z",
+  "_hashes": {
+    "ocr": "79015d7cb217be2f",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

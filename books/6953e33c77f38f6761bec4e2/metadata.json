@@ -1,0 +1,28 @@
+{
+  "id": "6953e33c77f38f6761bec4e2",
+  "title": "Key to Theosophy",
+  "display_title": "Key to Theosophy",
+  "author": "H.P. Blavatsky",
+  "language": "English",
+  "year": 1892,
+  "published": "1892",
+  "pages_count": 410,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6953e33c77f38f6761bec4e2",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "b24886051"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:05.526Z",
+  "_hashes": {
+    "ocr": "97fb80304d149e0f",
+    "translation": "38e41a093ab83e25"
+  }
+}

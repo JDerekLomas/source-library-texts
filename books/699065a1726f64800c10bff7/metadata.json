@@ -1,0 +1,26 @@
+{
+  "id": "699065a1726f64800c10bff7",
+  "title": "Texts on Prognostication (MS. Ashmole 304)",
+  "display_title": "Bodleian Library MS. Ashmole 304",
+  "author": "Matthew Paris; Bernardus Silvestris (attributed)",
+  "language": "Latin",
+  "year": 1250,
+  "published": "c. 1250",
+  "pages_count": 152,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 6,
+  "source_url": "https://sourcelibrary.org/book/699065a1726f64800c10bff7",
+  "license": "CC-BY-NC-4.0",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:05.038Z",
+  "_hashes": {
+    "ocr": "796c4d82ca7d9b14",
+    "translation": "baa99145071c737a"
+  }
+}

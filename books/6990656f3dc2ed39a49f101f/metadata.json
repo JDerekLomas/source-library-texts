@@ -1,0 +1,28 @@
+{
+  "id": "6990656f3dc2ed39a49f101f",
+  "title": "The Anatomy of Melancholy (1621 first edition)",
+  "display_title": "The Anatomy of Melancholy (1621 first edition)",
+  "author": "Robert Burton",
+  "language": "English",
+  "year": 1621,
+  "published": "Unknown",
+  "pages_count": 894,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/6990656f3dc2ed39a49f101f",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "anatomyofmelanch00burt_2"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:30:01.946Z",
+  "_hashes": {
+    "ocr": "07f757975db3d00f",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

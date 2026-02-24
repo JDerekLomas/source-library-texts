@@ -1,0 +1,28 @@
+{
+  "id": "69593225b91a6184ea943475",
+  "title": "The Magus, or Celestial Intelligencer",
+  "display_title": "The Magus, or Celestial Intelligencer",
+  "author": "Francis Barrett",
+  "language": "English",
+  "year": 1801,
+  "published": "1801",
+  "pages_count": 460,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/69593225b91a6184ea943475",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "b22006795"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:03.951Z",
+  "_hashes": {
+    "ocr": "a2a61714884e61f0",
+    "translation": "ddaf71ff7291e872"
+  }
+}

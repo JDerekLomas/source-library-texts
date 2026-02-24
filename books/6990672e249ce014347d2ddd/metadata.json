@@ -1,0 +1,28 @@
+{
+  "id": "6990672e249ce014347d2ddd",
+  "title": "Pancha Pakshi Shastra",
+  "display_title": "Pancha Pakshi Shastra",
+  "author": "Agastya",
+  "language": "Sanskrit",
+  "year": null,
+  "published": "Unknown",
+  "pages_count": 104,
+  "pages_with_ocr": 16,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/6990672e249ce014347d2ddd",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "pacapacicstiramm00akas"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:29:58.280Z",
+  "_hashes": {
+    "ocr": "5adc32ba34041748",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

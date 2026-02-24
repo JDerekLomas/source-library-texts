@@ -1,0 +1,28 @@
+{
+  "id": "69527367ab34727b1f048f38",
+  "title": "Mundus Subterraneus",
+  "display_title": "Mundus Subterraneus",
+  "author": "Athanasius Kircher",
+  "language": "Latin",
+  "year": 1678,
+  "published": "1678",
+  "pages_count": 1004,
+  "pages_with_ocr": 15,
+  "pages_with_translation": 15,
+  "source_url": "https://sourcelibrary.org/book/69527367ab34727b1f048f38",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "gri_33125012893901"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-2.5-flash"
+  },
+  "synced_at": "2026-02-24T18:29:58.581Z",
+  "_hashes": {
+    "ocr": "fea0fa3dc1adc4e7",
+    "translation": "3cc8093dfecf3f0e"
+  }
+}

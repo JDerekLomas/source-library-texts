@@ -1,0 +1,28 @@
+{
+  "id": "6956907caeb4b980d9ebd4b8",
+  "title": "An Inquiry into the Original of Our Ideas of Beauty and Virtue",
+  "display_title": "An Inquiry into the Original of Our Ideas of Beauty and Virtue",
+  "author": "Francis Hutcheson",
+  "language": "English",
+  "year": 1725,
+  "published": "1725",
+  "pages_count": 290,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6956907caeb4b980d9ebd4b8",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bim_eighteenth-century_an-inquiry-into-the-orig_hutcheson-francis_1725"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:05.776Z",
+  "_hashes": {
+    "ocr": "de5d70bb697e8521",
+    "translation": "9a53642f8958735e"
+  }
+}

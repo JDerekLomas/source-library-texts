@@ -1,0 +1,28 @@
+{
+  "id": "6992cacfd4d545ae73feeb33",
+  "title": "Pelliot chinois (Dunhuang Buddhist Painting)",
+  "display_title": "Pelliot chinois (Dunhuang Buddhist Painting)",
+  "author": "Unknown",
+  "language": "Chinese",
+  "year": 900,
+  "published": "Unknown",
+  "pages_count": 14,
+  "pages_with_ocr": 14,
+  "pages_with_translation": 14,
+  "source_url": "https://sourcelibrary.org/book/6992cacfd4d545ae73feeb33",
+  "license": "https://gallica.bnf.fr/html/und/conditions-dutilisation-des-contenus-de-gallica",
+  "doi": null,
+  "external_ids": {
+    "gallica": "btv1b8303111w"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:58.773Z",
+  "_hashes": {
+    "ocr": "9fd768bedcb6d27d",
+    "translation": "83394d522df6c8df"
+  }
+}

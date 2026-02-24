@@ -1,0 +1,28 @@
+{
+  "id": "6990676c249ce014347d3fe6",
+  "title": "Pancha Patchichastiram",
+  "display_title": "Pancha Patchichastiram",
+  "author": "Agastya Maha Munivar",
+  "language": "Tamil",
+  "year": 1900,
+  "published": "Unknown",
+  "pages_count": 146,
+  "pages_with_ocr": 13,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/6990676c249ce014347d3fe6",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "in.ernet.dli.2015.293205"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:29:59.045Z",
+  "_hashes": {
+    "ocr": "dd3109e410e2e0dc",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

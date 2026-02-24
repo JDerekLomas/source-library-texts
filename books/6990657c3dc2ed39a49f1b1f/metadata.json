@@ -1,0 +1,28 @@
+{
+  "id": "6990657c3dc2ed39a49f1b1f",
+  "title": "De Chymicorum cum Aristotelicis et Galenicis Consensu",
+  "display_title": "De Chymicorum cum Aristotelicis et Galenicis Consensu",
+  "author": "Daniel Sennert",
+  "language": "Latin",
+  "year": 1619,
+  "published": "Unknown",
+  "pages_count": 827,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/6990657c3dc2ed39a49f1b1f",
+  "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bub_gb_KaxI6JPdlWIC"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:30:05.689Z",
+  "_hashes": {
+    "ocr": "8e442f6e1bc86d6c",
+    "translation": "e3b0c44298fc1c14"
+  }
+}
