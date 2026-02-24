@@ -1,0 +1,28 @@
+{
+  "id": "6958e856d3a89283348140e4",
+  "title": "Kirani Kiranides",
+  "display_title": "Kirani Kiranides",
+  "author": "Kiranus (Rivinus ed.)",
+  "language": "Latin",
+  "year": 1709,
+  "published": "Unknown",
+  "pages_count": 220,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 1,
+  "source_url": "https://sourcelibrary.org/book/6958e856d3a89283348140e4",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "hin-wel-all-00002183-001"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:37.357Z",
+  "_hashes": {
+    "ocr": "080b42b6a3404f2e",
+    "translation": "0e926ae40d37313e"
+  }
+}

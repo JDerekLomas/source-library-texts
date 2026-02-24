@@ -1,0 +1,26 @@
+{
+  "id": "698255f29bba70f96bd29ca0",
+  "title": "Novi Testamenti ... Das New Testament",
+  "display_title": "Novi Testamenti ... Das New Testament",
+  "author": "Unknown",
+  "language": "Latin-German",
+  "year": 1557,
+  "published": "1557",
+  "pages_count": 172,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 5,
+  "source_url": "https://sourcelibrary.org/book/698255f29bba70f96bd29ca0",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:42.447Z",
+  "_hashes": {
+    "ocr": "a6d2b30e08edca1f",
+    "translation": "8a8f735ad81697e5"
+  }
+}

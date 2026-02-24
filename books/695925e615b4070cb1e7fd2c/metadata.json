@@ -1,0 +1,28 @@
+{
+  "id": "695925e615b4070cb1e7fd2c",
+  "title": "Fourth Book of Occult Philosophy, Arbatel of Magick, Peter de Abano",
+  "display_title": "Fourth Book of Occult Philosophy, Arbatel of Magick, Peter de Abano",
+  "author": "Heinrich Cornelius Agrippa et al.",
+  "language": "Latin",
+  "year": 1655,
+  "published": "1655",
+  "pages_count": 242,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 2,
+  "source_url": "https://sourcelibrary.org/book/695925e615b4070cb1e7fd2c",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "b20458563"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:40.316Z",
+  "_hashes": {
+    "ocr": "bd127e1ff2687b1b",
+    "translation": "518dd9140b0e92f0"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "6992ca1cd4d545ae73fed82b",
+  "title": "Pelliot chinois 4518 (Dunhuang Illustrated Scroll)",
+  "display_title": "Pelliot chinois 4518 (Dunhuang Illustrated Scroll)",
+  "author": "Unknown",
+  "language": "Chinese",
+  "year": 900,
+  "published": "Unknown",
+  "pages_count": 10,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6992ca1cd4d545ae73fed82b",
+  "license": "https://gallica.bnf.fr/html/und/conditions-dutilisation-des-contenus-de-gallica",
+  "doi": null,
+  "external_ids": {
+    "gallica": "btv1b8302136d"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:39.478Z",
+  "_hashes": {
+    "ocr": "0a7e81680100e549",
+    "translation": "73a0620b34bc585f"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "6958e972813ea03889c33412",
+  "title": "Musaeum metallicum",
+  "display_title": "Musaeum metallicum",
+  "author": "Ulisse Aldrovandi",
+  "language": "Latin",
+  "year": 1648,
+  "published": "Unknown",
+  "pages_count": 1004,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 6,
+  "source_url": "https://sourcelibrary.org/book/6958e972813ea03889c33412",
+  "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bub_gb_h_QZFIoECncC"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:38.266Z",
+  "_hashes": {
+    "ocr": "c06a5822c83a9172",
+    "translation": "ad60fe4078d33d40"
+  }
+}

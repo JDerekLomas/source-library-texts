@@ -1,0 +1,28 @@
+{
+  "id": "6958ea85d3a8928334815f4e",
+  "title": "The Sushruta Samhita Vol. 1 (English translation)",
+  "display_title": "The Sushruta Samhita Vol. 1 (English translation)",
+  "author": "Sushruta",
+  "language": "English",
+  "year": 1907,
+  "published": "Unknown",
+  "pages_count": 387,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6958ea85d3a8928334815f4e",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "dli.bengal.10689.3279"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:40.902Z",
+  "_hashes": {
+    "ocr": "1ae8c68446e5c3d5",
+    "translation": "be28d42c93523e8f"
+  }
+}

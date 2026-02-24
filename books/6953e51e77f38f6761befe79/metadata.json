@@ -1,0 +1,28 @@
+{
+  "id": "6953e51e77f38f6761befe79",
+  "title": "Discourse on Method, Meditations, Principles of Philosophy",
+  "display_title": "Discourse on Method, Meditations, Principles of Philosophy",
+  "author": "René Descartes",
+  "language": "English",
+  "year": 1912,
+  "published": "1912",
+  "pages_count": 296,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6953e51e77f38f6761befe79",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "discourseonmetho1912desc"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:37.441Z",
+  "_hashes": {
+    "ocr": "86e90162f9d5cde2",
+    "translation": "d1ad7cf32e51e6c3"
+  }
+}

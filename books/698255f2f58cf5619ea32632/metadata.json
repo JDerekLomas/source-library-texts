@@ -1,0 +1,26 @@
+{
+  "id": "698255f2f58cf5619ea32632",
+  "title": "Metamorphosis",
+  "display_title": "Metamorphosis",
+  "author": "Paracelsus, Theophrastus",
+  "language": "Latin",
+  "year": 1584,
+  "published": "1584",
+  "pages_count": 399,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 4,
+  "source_url": "https://sourcelibrary.org/book/698255f2f58cf5619ea32632",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:42.350Z",
+  "_hashes": {
+    "ocr": "58721cfb1dedee08",
+    "translation": "896f2ac68a6f26fa"
+  }
+}

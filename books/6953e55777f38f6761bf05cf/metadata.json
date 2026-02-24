@@ -1,0 +1,28 @@
+{
+  "id": "6953e55777f38f6761bf05cf",
+  "title": "De Humani Corporis Fabrica (1543 First Edition)",
+  "display_title": "De Humani Corporis Fabrica (1543 First Edition)",
+  "author": "Andreas Vesalius",
+  "language": "Latin",
+  "year": 1543,
+  "published": "1543",
+  "pages_count": 734,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6953e55777f38f6761bf05cf",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "gri_33125008502920"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:44.349Z",
+  "_hashes": {
+    "ocr": "da2762d586a90acf",
+    "translation": "50eb037c9bfe9261"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "6953e4fa77f38f6761bef1dc",
+  "title": "Philosophiae Naturalis Principia Mathematica (1687 First Edition)",
+  "display_title": "Philosophiae Naturalis Principia Mathematica (1687 First Edition)",
+  "author": "Isaac Newton",
+  "language": "Latin",
+  "year": 1686,
+  "published": "1686",
+  "pages_count": 526,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6953e4fa77f38f6761bef1dc",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "philosophiaenatu00newt_0"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:37.608Z",
+  "_hashes": {
+    "ocr": "5cdb5e5e865b17a4",
+    "translation": "a396e74a41c8acf1"
+  }
+}

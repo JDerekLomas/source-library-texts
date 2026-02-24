@@ -1,0 +1,28 @@
+{
+  "id": "69557398f63a757109171e75",
+  "title": "De Vita Pythagorica (Graece et Latine)",
+  "display_title": "De Vita Pythagorica (Graece et Latine)",
+  "author": "Iamblichus; M.T. Kiessling (ed.)",
+  "language": "Greek/Latin",
+  "year": 1815,
+  "published": "1815",
+  "pages_count": 601,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/69557398f63a757109171e75",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "devitapythagori00iambgoog"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:38.852Z",
+  "_hashes": {
+    "ocr": "8be2889819893650",
+    "translation": "b0f698adf0ecff6e"
+  }
+}

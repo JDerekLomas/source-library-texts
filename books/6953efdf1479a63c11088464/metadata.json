@@ -1,0 +1,28 @@
+{
+  "id": "6953efdf1479a63c11088464",
+  "title": "Essay on the Nature and Conduct of the Passions (1728)",
+  "display_title": "Essay on the Nature and Conduct of the Passions (1728)",
+  "author": "Francis Hutcheson",
+  "language": "English",
+  "year": 1728,
+  "published": "Unknown",
+  "pages_count": 380,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6953efdf1479a63c11088464",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "essayonnaturecon00hutciala"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:40.491Z",
+  "_hashes": {
+    "ocr": "e46f287162f864d0",
+    "translation": "eb9f70fb9280c2b1"
+  }
+}

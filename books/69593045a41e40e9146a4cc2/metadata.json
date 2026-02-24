@@ -1,0 +1,28 @@
+{
+  "id": "69593045a41e40e9146a4cc2",
+  "title": "Aureum Vellus (Golden Treasure Chamber)",
+  "display_title": "Aureum Vellus (Golden Treasure Chamber)",
+  "author": "Solomon Trismosin / Paracelsus",
+  "language": "Latin",
+  "year": 1598,
+  "published": "Unknown",
+  "pages_count": 844,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/69593045a41e40e9146a4cc2",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "avrevmvellvsoder00tris"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:44.164Z",
+  "_hashes": {
+    "ocr": "483862ec0f9bdc46",
+    "translation": "c2d83a6a4ec5f643"
+  }
+}

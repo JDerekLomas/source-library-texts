@@ -1,0 +1,28 @@
+{
+  "id": "6958df5cdc939691982c5bee",
+  "title": "Historiae stirpium libri IIII",
+  "display_title": "Historiae stirpium libri IIII",
+  "author": "Valerius Cordus",
+  "language": "Latin",
+  "year": 1561,
+  "published": "Unknown",
+  "pages_count": 645,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 6,
+  "source_url": "https://sourcelibrary.org/book/6958df5cdc939691982c5bee",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "BIUSante_pharma_res005230"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:36.809Z",
+  "_hashes": {
+    "ocr": "66e40f46ec912f0b",
+    "translation": "9c4978853f91b9c4"
+  }
+}

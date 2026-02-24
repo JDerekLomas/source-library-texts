@@ -1,0 +1,28 @@
+{
+  "id": "6958ea8cd3a892833481693b",
+  "title": "Kokuyaku Honzo Komoku (Japanese Ben Cao)",
+  "display_title": "Kokuyaku Honzo Komoku (Japanese Ben Cao)",
+  "author": "Li Shizhen / Shirai Mitsutaro",
+  "language": "Japanese",
+  "year": 1917,
+  "published": "Unknown",
+  "pages_count": 610,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 7,
+  "source_url": "https://sourcelibrary.org/book/6958ea8cd3a892833481693b",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "kokuyakuhonzokom00lish"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:37.699Z",
+  "_hashes": {
+    "ocr": "1f2f83e9756346a1",
+    "translation": "0efb829b311b2c68"
+  }
+}

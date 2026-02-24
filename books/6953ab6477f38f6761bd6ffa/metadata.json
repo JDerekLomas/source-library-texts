@@ -1,0 +1,26 @@
+{
+  "id": "6953ab6477f38f6761bd6ffa",
+  "title": "Alchimia sive Speculum Secretorum",
+  "display_title": "Pal.lat.1262",
+  "author": "Bartholomaeus Anglicus et al.",
+  "language": "Latin",
+  "year": 1240,
+  "published": "Medieval",
+  "pages_count": 674,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6953ab6477f38f6761bd6ffa",
+  "license": "CC-BY-NC-4.0",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:37.873Z",
+  "_hashes": {
+    "ocr": "8cdd9fefa78bb8a4",
+    "translation": "f8f8e874aac5e7a4"
+  }
+}

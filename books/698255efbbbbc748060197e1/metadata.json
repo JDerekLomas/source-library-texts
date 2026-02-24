@@ -1,0 +1,26 @@
+{
+  "id": "698255efbbbbc748060197e1",
+  "title": "La mythologie et les fables expliquées par l'histoire",
+  "display_title": "La mythologie et les fables expliquées par l'histoire",
+  "author": "Banier, Antoine",
+  "language": "French",
+  "year": 1764,
+  "published": "1764",
+  "pages_count": 652,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 4,
+  "source_url": "https://sourcelibrary.org/book/698255efbbbbc748060197e1",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:45.629Z",
+  "_hashes": {
+    "ocr": "0d79dc60cbb9ee84",
+    "translation": "5f2f8fc9ac3af54a"
+  }
+}

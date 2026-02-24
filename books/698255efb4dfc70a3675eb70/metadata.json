@@ -1,0 +1,26 @@
+{
+  "id": "698255efb4dfc70a3675eb70",
+  "title": "A modest enquiry into the mystery of iniquity",
+  "display_title": "A modest enquiry into the mystery of iniquity",
+  "author": "More, Henry",
+  "language": "English",
+  "year": 1664,
+  "published": "1664",
+  "pages_count": 668,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 3,
+  "source_url": "https://sourcelibrary.org/book/698255efb4dfc70a3675eb70",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:45.544Z",
+  "_hashes": {
+    "ocr": "353a41af775276ba",
+    "translation": "0cea5a643f572c9c"
+  }
+}

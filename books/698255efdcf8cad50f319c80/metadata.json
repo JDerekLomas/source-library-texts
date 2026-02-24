@@ -1,0 +1,26 @@
+{
+  "id": "698255efdcf8cad50f319c80",
+  "title": "Mystère de la croix",
+  "display_title": "Mystère de la croix",
+  "author": "[Douzetemps]",
+  "language": "French",
+  "year": 1791,
+  "published": "1791",
+  "pages_count": 454,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 1,
+  "source_url": "https://sourcelibrary.org/book/698255efdcf8cad50f319c80",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:45.462Z",
+  "_hashes": {
+    "ocr": "7679d75347e56c22",
+    "translation": "e73c532045c8f5b0"
+  }
+}

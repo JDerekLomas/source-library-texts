@@ -1,0 +1,28 @@
+{
+  "id": "6983d45e3dac6d74d7e4b195",
+  "title": "De Heraclito Ephesio: haec apud Facultatem Litterarum Parisiensem disputabat",
+  "display_title": "De Heraclito Ephesio: haec apud Facultatem Litterarum Parisiensem disputabat",
+  "author": "Lionel Alexandre Dauriac",
+  "language": "Latin",
+  "year": 1887,
+  "published": "Unknown",
+  "pages_count": 109,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 6,
+  "source_url": "https://sourcelibrary.org/book/6983d45e3dac6d74d7e4b195",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "deheraclitoephe00daurgoog"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:43.866Z",
+  "_hashes": {
+    "ocr": "e66ef2f16b7186a9",
+    "translation": "8afb2c30c422497f"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "695434db1479a63c1108a054",
+  "title": "Phenomenology of Mind",
+  "display_title": "Phenomenology of Mind",
+  "author": "Georg Wilhelm Friedrich Hegel",
+  "language": "English",
+  "year": 1807,
+  "published": "Unknown",
+  "pages_count": 420,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/695434db1479a63c1108a054",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "phenomenologyofm02hege"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:39.089Z",
+  "_hashes": {
+    "ocr": "77e6f7b2f6076bb4",
+    "translation": "5e2203a90864d98b"
+  }
+}

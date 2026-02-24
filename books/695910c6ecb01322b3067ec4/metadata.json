@@ -1,0 +1,28 @@
+{
+  "id": "695910c6ecb01322b3067ec4",
+  "title": "Historia naturalis Brasiliae",
+  "display_title": "Historia naturalis Brasiliae",
+  "author": "Willem Piso / Georg Marcgraf",
+  "language": "Latin",
+  "year": 1648,
+  "published": "1648",
+  "pages_count": 448,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 5,
+  "source_url": "https://sourcelibrary.org/book/695910c6ecb01322b3067ec4",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "mobot31753000818648"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:39.649Z",
+  "_hashes": {
+    "ocr": "7b841a1e13a4f326",
+    "translation": "271fa48c6fb91868"
+  }
+}

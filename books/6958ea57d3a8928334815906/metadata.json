@@ -1,0 +1,28 @@
+{
+  "id": "6958ea57d3a8928334815906",
+  "title": "Ekiken Zenshu (Collected Works Vol. 2)",
+  "display_title": "Ekiken Zenshu (Collected Works Vol. 2)",
+  "author": "Kaibara Ekiken",
+  "language": "Chinese",
+  "year": 1928,
+  "published": "Unknown",
+  "pages_count": 948,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 5,
+  "source_url": "https://sourcelibrary.org/book/6958ea57d3a8928334815906",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "ekikenzenshu02kaibuoft"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:39.190Z",
+  "_hashes": {
+    "ocr": "3f3fd2a07dff7828",
+    "translation": "0e4359fa02bd4309"
+  }
+}

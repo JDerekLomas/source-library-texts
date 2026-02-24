@@ -1,0 +1,26 @@
+{
+  "id": "698255f1d12278086554456d",
+  "title": "Miracula et mysteria chymico-medica. Tyrocinium chymicum. Novum lumen chymicum",
+  "display_title": "Miracula et mysteria chymico-medica. Tyrocinium chymicum. Novum lumen chymicum",
+  "author": "Müller, Philipp|Beguin, Jean|[Sendivogius, Michael]",
+  "language": "Latin",
+  "year": 1656,
+  "published": "1656",
+  "pages_count": 442,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 5,
+  "source_url": "https://sourcelibrary.org/book/698255f1d12278086554456d",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:42.836Z",
+  "_hashes": {
+    "ocr": "fffb30868d4b5df5",
+    "translation": "0679ab00ca1607b6"
+  }
+}

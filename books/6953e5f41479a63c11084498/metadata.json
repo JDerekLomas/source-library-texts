@@ -1,0 +1,28 @@
+{
+  "id": "6953e5f41479a63c11084498",
+  "title": "Arcana Naturae Detecta (1695)",
+  "display_title": "Arcana Naturae Detecta (1695)",
+  "author": "Antony van Leeuwenhoek",
+  "language": "Latin",
+  "year": 1695,
+  "published": "1695",
+  "pages_count": 659,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6953e5f41479a63c11084498",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "gri_arcananatura00alee"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:41.668Z",
+  "_hashes": {
+    "ocr": "9c84a6f6d76d0978",
+    "translation": "0ade116dcaaa7b1a"
+  }
+}

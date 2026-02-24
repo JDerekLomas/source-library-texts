@@ -1,0 +1,26 @@
+{
+  "id": "697c8e0fbaa544415f85b6c2",
+  "title": "Geschichte der Abschaffung des Tempelherren-Ordens",
+  "display_title": "Geschichte der Abschaffung des Tempelherren-Ordens",
+  "author": "[Hodin]",
+  "language": "German",
+  "year": 1780,
+  "published": "1780",
+  "pages_count": 266,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 5,
+  "source_url": "https://sourcelibrary.org/book/697c8e0fbaa544415f85b6c2",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:39.922Z",
+  "_hashes": {
+    "ocr": "f143ed98669aa1da",
+    "translation": "d41aabd127dcf462"
+  }
+}

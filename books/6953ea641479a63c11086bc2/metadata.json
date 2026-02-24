@@ -1,0 +1,28 @@
+{
+  "id": "6953ea641479a63c11086bc2",
+  "title": "Philosophical Works (Monadology, Theodicy, Letters to Clarke)",
+  "display_title": "Philosophical Works (Monadology, Theodicy, Letters to Clarke)",
+  "author": "Gottfried Wilhelm Leibniz",
+  "language": "English",
+  "year": 1840,
+  "published": "1840",
+  "pages_count": 418,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6953ea641479a63c11086bc2",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "philosophicalwor00leibuoft"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:42.217Z",
+  "_hashes": {
+    "ocr": "cdba583d9a60b72d",
+    "translation": "c990adf7ac7a8e04"
+  }
+}

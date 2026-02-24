@@ -1,0 +1,26 @@
+{
+  "id": "6953ab5577f38f6761bd6daa",
+  "title": "Hermetic Treatises (Khalid ibn Yazid, Arnaldus de Villanova)",
+  "display_title": "Pal.lat.1329",
+  "author": "Khalid ibn Yazid; Arnaldus de Villanova",
+  "language": "Latin",
+  "year": 1350,
+  "published": "Medieval",
+  "pages_count": 370,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6953ab5577f38f6761bd6daa",
+  "license": "CC-BY-NC-4.0",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:37.956Z",
+  "_hashes": {
+    "ocr": "8b5c3b30ff41362a",
+    "translation": "951ee9e791623910"
+  }
+}

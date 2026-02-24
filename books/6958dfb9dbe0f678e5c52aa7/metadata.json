@@ -1,0 +1,28 @@
+{
+  "id": "6958dfb9dbe0f678e5c52aa7",
+  "title": "De stirpium nomenclaturis",
+  "display_title": "De stirpium nomenclaturis",
+  "author": "Hieronymus Bock (Tragus)",
+  "language": "Latin",
+  "year": 1552,
+  "published": "Unknown",
+  "pages_count": 1348,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 6,
+  "source_url": "https://sourcelibrary.org/book/6958dfb9dbe0f678e5c52aa7",
+  "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bub_gb_nDCPb-dIeqYC"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:36.942Z",
+  "_hashes": {
+    "ocr": "94032299ef7fdbd8",
+    "translation": "01d1911694459db8"
+  }
+}

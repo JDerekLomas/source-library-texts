@@ -1,0 +1,28 @@
+{
+  "id": "6953e9e71479a63c1108551c",
+  "title": "Elements of Algebra",
+  "display_title": "Elements of Algebra",
+  "author": "Leonhard Euler",
+  "language": "English",
+  "year": 1770,
+  "published": "Unknown",
+  "pages_count": 642,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6953e9e71479a63c1108551c",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "elementsofalgebr00eule"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:36.354Z",
+  "_hashes": {
+    "ocr": "160147a8034f57c6",
+    "translation": "190f25ca85f102bc"
+  }
+}

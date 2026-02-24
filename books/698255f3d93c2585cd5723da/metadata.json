@@ -1,0 +1,26 @@
+{
+  "id": "698255f3d93c2585cd5723da",
+  "title": "Mysterium magnum, oder Erklärung über das erste Buch Mosis",
+  "display_title": "Mysterium magnum, oder Erklärung über das erste Buch Mosis",
+  "author": "Böhme, Jacob",
+  "language": "German",
+  "year": 1730,
+  "published": "1730",
+  "pages_count": 991,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 6,
+  "source_url": "https://sourcelibrary.org/book/698255f3d93c2585cd5723da",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:45.069Z",
+  "_hashes": {
+    "ocr": "05ec948558b9f979",
+    "translation": "7421df1f73f557ad"
+  }
+}

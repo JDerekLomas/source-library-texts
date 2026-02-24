@@ -1,0 +1,28 @@
+{
+  "id": "6953e59377f38f6761bf0e81",
+  "title": "De Magnete (1600 First Edition)",
+  "display_title": "De Magnete (1600 First Edition)",
+  "author": "William Gilbert",
+  "language": "Latin",
+  "year": 1600,
+  "published": "Unknown",
+  "pages_count": 270,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6953e59377f38f6761bf0e81",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "GuilielmiGilber00Gilb"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:44.874Z",
+  "_hashes": {
+    "ocr": "5fa3da16feef24a3",
+    "translation": "c1b1fd242dfa9b5f"
+  }
+}

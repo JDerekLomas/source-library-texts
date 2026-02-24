@@ -1,0 +1,28 @@
+{
+  "id": "6955da3a8407b7c9ae213a22",
+  "title": "His Last Will and Testament",
+  "display_title": "His Last Will and Testament",
+  "author": "Basil Valentine",
+  "language": "English",
+  "year": 1658,
+  "published": "1658",
+  "pages_count": 349,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6955da3a8407b7c9ae213a22",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bim_early-english-books-1641-1700_his-last-will-and-testam_basil-valentine_1657"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:41.181Z",
+  "_hashes": {
+    "ocr": "a9890511db89d0c1",
+    "translation": "eca5aa5d5a006ab7"
+  }
+}

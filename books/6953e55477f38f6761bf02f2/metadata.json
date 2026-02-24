@@ -1,0 +1,28 @@
+{
+  "id": "6953e55477f38f6761bf02f2",
+  "title": "Works of William Harvey (Sydenham Society 1847)",
+  "display_title": "Works of William Harvey (Sydenham Society 1847)",
+  "author": "William Harvey",
+  "language": "English",
+  "year": 1894,
+  "published": "1894",
+  "pages_count": 732,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6953e55477f38f6761bf02f2",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "worksofwilliamha00harviala"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:37.113Z",
+  "_hashes": {
+    "ocr": "0bcb5d10b270a49b",
+    "translation": "87e04050926cacee"
+  }
+}

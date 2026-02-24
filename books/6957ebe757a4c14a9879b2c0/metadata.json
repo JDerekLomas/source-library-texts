@@ -1,0 +1,28 @@
+{
+  "id": "6957ebe757a4c14a9879b2c0",
+  "title": "Commentarii in libros sex Pedacii Dioscoridis de medica materia",
+  "display_title": "Commentarii in libros sex Pedacii Dioscoridis de medica materia",
+  "author": "Pietro Andrea Mattioli",
+  "language": "Latin",
+  "year": 1563,
+  "published": "1563",
+  "pages_count": 938,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6957ebe757a4c14a9879b2c0",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "petriandreaematt00matt"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:39.359Z",
+  "_hashes": {
+    "ocr": "2ff076d0fcc5f475",
+    "translation": "7731034b8b28e477"
+  }
+}

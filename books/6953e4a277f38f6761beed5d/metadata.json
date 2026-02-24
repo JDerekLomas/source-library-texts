@@ -1,0 +1,28 @@
+{
+  "id": "6953e4a277f38f6761beed5d",
+  "title": "Kepler Opera Omnia Vol. I",
+  "display_title": "Kepler Opera Omnia Vol. I",
+  "author": "Johannes Kepler; Christian Frisch",
+  "language": "Latin",
+  "year": 1858,
+  "published": "1858",
+  "pages_count": 1150,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6953e4a277f38f6761beed5d",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "joanniskepleria00frisgoog"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:43.696Z",
+  "_hashes": {
+    "ocr": "87587ec93c6fa9a7",
+    "translation": "6c179f78976c8678"
+  }
+}

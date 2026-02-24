@@ -1,0 +1,28 @@
+{
+  "id": "69591171ecb01322b30691d6",
+  "title": "Hortus Indicus Malabaricus Vol. 2",
+  "display_title": "Hortus Indicus Malabaricus Vol. 2",
+  "author": "Hendrik van Rheede",
+  "language": "Latin",
+  "year": 1683,
+  "published": "1683",
+  "pages_count": 318,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 9,
+  "source_url": "https://sourcelibrary.org/book/69591171ecb01322b30691d6",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "mobot31753003370092"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:40.014Z",
+  "_hashes": {
+    "ocr": "a91992563545b5c3",
+    "translation": "661891b35ab5c71b"
+  }
+}

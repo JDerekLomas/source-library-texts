@@ -1,0 +1,26 @@
+{
+  "id": "697c8e0fbaa544415f85b6bc",
+  "title": "Gefuehle im Tempel der Natur",
+  "display_title": "Gefuehle im Tempel der Natur",
+  "author": "Eckartshausen, Karl von",
+  "language": "German",
+  "year": 1804,
+  "published": "1804",
+  "pages_count": 206,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 3,
+  "source_url": "https://sourcelibrary.org/book/697c8e0fbaa544415f85b6bc",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:38.054Z",
+  "_hashes": {
+    "ocr": "74bca812ac49c5d6",
+    "translation": "7e4c172f1802fe7f"
+  }
+}

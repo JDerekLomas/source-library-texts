@@ -1,0 +1,28 @@
+{
+  "id": "6953ea7c1479a63c11086fee",
+  "title": "Die philosophischen Schriften Vol. I",
+  "display_title": "Die philosophischen Schriften Vol. I",
+  "author": "Gottfried Wilhelm Leibniz",
+  "language": "German",
+  "year": 1875,
+  "published": "Unknown",
+  "pages_count": 633,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6953ea7c1479a63c11086fee",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "diephilosophisc01leibgoog"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:43.478Z",
+  "_hashes": {
+    "ocr": "8ce7f556b45f45dc",
+    "translation": "4b101f87ae78f4f8"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "69592ef2a41e40e9146a433d",
+  "title": "Compendium maleficarum in tres libros distinctum",
+  "display_title": "Compendium maleficarum in tres libros distinctum",
+  "author": "Francesco Maria Guazzo",
+  "language": "Latin",
+  "year": 1608,
+  "published": "1608",
+  "pages_count": 266,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 9,
+  "source_url": "https://sourcelibrary.org/book/69592ef2a41e40e9146a433d",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "compendiummalefi00guaz"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:36.189Z",
+  "_hashes": {
+    "ocr": "d553c1d1adf00139",
+    "translation": "999f196960ce892a"
+  }
+}

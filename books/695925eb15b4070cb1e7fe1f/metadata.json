@@ -1,0 +1,28 @@
+{
+  "id": "695925eb15b4070cb1e7fe1f",
+  "title": "De la demonomanie des sorciers",
+  "display_title": "De la demonomanie des sorciers",
+  "author": "Jean Bodin",
+  "language": "Latin",
+  "year": 1603,
+  "published": "1603",
+  "pages_count": 560,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/695925eb15b4070cb1e7fe1f",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "delademonomanied00bodi"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:30:40.404Z",
+  "_hashes": {
+    "ocr": "8a1cee0faac6e847",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

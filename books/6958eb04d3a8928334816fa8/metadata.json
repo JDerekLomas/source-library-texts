@@ -1,0 +1,28 @@
+{
+  "id": "6958eb04d3a8928334816fa8",
+  "title": "A voyage to the islands Madera Barbados Jamaica Vol. 1",
+  "display_title": "A voyage to the islands Madera Barbados Jamaica Vol. 1",
+  "author": "Hans Sloane",
+  "language": "English",
+  "year": 1707,
+  "published": "Unknown",
+  "pages_count": 638,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6958eb04d3a8928334816fa8",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "mobot31753000820115"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:39.439Z",
+  "_hashes": {
+    "ocr": "4a44ae2d632cd7c4",
+    "translation": "d38f1423a7d636d6"
+  }
+}

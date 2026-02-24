@@ -1,0 +1,26 @@
+{
+  "id": "698255f3aa0b916adb58c0d1",
+  "title": "A new light of alchymie. Of the nature of things. Chymicall dictionary",
+  "display_title": "A new light of alchymie. Of the nature of things. Chymicall dictionary",
+  "author": "Sendivogius, Michael|Paracelsus, Theophrastus|anonymous",
+  "language": "English",
+  "year": 1650,
+  "published": "1650",
+  "pages_count": 114,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 5,
+  "source_url": "https://sourcelibrary.org/book/698255f3aa0b916adb58c0d1",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:40.824Z",
+  "_hashes": {
+    "ocr": "90e20888cb2b9fe6",
+    "translation": "003c488b6cb372cd"
+  }
+}

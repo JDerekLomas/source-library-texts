@@ -1,0 +1,28 @@
+{
+  "id": "6953efe91479a63c11088949",
+  "title": "Characteristics Vol. II (Robertson Edition 1900)",
+  "display_title": "Characteristics Vol. II (Robertson Edition 1900)",
+  "author": "Third Earl of Shaftesbury",
+  "language": "English",
+  "year": 1900,
+  "published": "Unknown",
+  "pages_count": 396,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6953efe91479a63c11088949",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "characteristicso02shaf"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:43.557Z",
+  "_hashes": {
+    "ocr": "0cd87ab3cdea8819",
+    "translation": "e7902a31e759dd93"
+  }
+}

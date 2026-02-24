@@ -1,0 +1,28 @@
+{
+  "id": "695925acaecc3a7338f964dc",
+  "title": "Opera omnia (De praestigiis, De lamiis, De ira morbo)",
+  "display_title": "Opera omnia (De praestigiis, De lamiis, De ira morbo)",
+  "author": "Johann Weyer",
+  "language": "Latin",
+  "year": 1660,
+  "published": "1660",
+  "pages_count": 1128,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 1,
+  "source_url": "https://sourcelibrary.org/book/695925acaecc3a7338f964dc",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "ned-kbn-all-00003292-001"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:40.236Z",
+  "_hashes": {
+    "ocr": "566d66142e8900ca",
+    "translation": "9cb132a20157f086"
+  }
+}

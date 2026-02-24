@@ -1,0 +1,28 @@
+{
+  "id": "695929a57c072c27f686d29f",
+  "title": "Steganographia vindicata, reserata et illustrata",
+  "display_title": "Steganographia vindicata, reserata et illustrata",
+  "author": "Johannes Trithemius",
+  "language": "Latin",
+  "year": 1676,
+  "published": "1676",
+  "pages_count": 418,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 5,
+  "source_url": "https://sourcelibrary.org/book/695929a57c072c27f686d29f",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "b30534756"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:40.573Z",
+  "_hashes": {
+    "ocr": "b61e8543fc0248ae",
+    "translation": "495a7fe6fea659af"
+  }
+}

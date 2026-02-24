@@ -1,0 +1,28 @@
+{
+  "id": "6958ea53d3a89283348157dc",
+  "title": "Parties du traite des plantes (12th c. illustrated)",
+  "display_title": "Parties du traite des plantes (12th c. illustrated)",
+  "author": "Dioscorides",
+  "language": "Greek",
+  "year": 1150,
+  "published": "Unknown",
+  "pages_count": 297,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/6958ea53d3a89283348157dc",
+  "license": "https://gallica.bnf.fr/html/und/conditions-dutilisation-des-contenus-de-gallica",
+  "doi": null,
+  "external_ids": {
+    "gallica": "btv1b8422959z"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:30:38.437Z",
+  "_hashes": {
+    "ocr": "5d260f0bf27166a5",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

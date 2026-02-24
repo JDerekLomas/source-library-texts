@@ -1,0 +1,28 @@
+{
+  "id": "6953ea711479a63c11086d65",
+  "title": "Die philosophischen Schriften Vol. IV",
+  "display_title": "Die philosophischen Schriften Vol. IV",
+  "author": "Gottfried Wilhelm Leibniz",
+  "language": "German",
+  "year": 1768,
+  "published": "1768",
+  "pages_count": 648,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6953ea711479a63c11086d65",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "diephilosophisc04leibgoog"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:43.398Z",
+  "_hashes": {
+    "ocr": "0940c6159ab2486c",
+    "translation": "cda4fd57a34b0270"
+  }
+}

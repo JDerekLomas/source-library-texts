@@ -1,0 +1,28 @@
+{
+  "id": "6953eacc1479a63c11087caa",
+  "title": "Philosophical Works Vol. I (Haldane-Ross Translation)",
+  "display_title": "Philosophical Works Vol. I (Haldane-Ross Translation)",
+  "author": "René Descartes",
+  "language": "English",
+  "year": 1912,
+  "published": "1912",
+  "pages_count": 476,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6953eacc1479a63c11087caa",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "philosophicalwor01desc"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:42.922Z",
+  "_hashes": {
+    "ocr": "9eea32aa7c779990",
+    "translation": "14344806fe9e25a8"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "6953a96577f38f6761bd61d8",
+  "title": "Nicephori Gregorae Byzantina Historia",
+  "display_title": "Nicephori Gregorae Byzantina Historia",
+  "author": "Nicephorus Gregoras",
+  "language": "Greek",
+  "year": 1855,
+  "published": "1855",
+  "pages_count": 811,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6953a96577f38f6761bd61d8",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "nicephorigregor05schogoog"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:38.528Z",
+  "_hashes": {
+    "ocr": "2ef78d9d3f2f48d5",
+    "translation": "7141a0f51d7fdb8b"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "6958e96c813ea03889c32bf7",
+  "title": "Quadrupedum omnium bisulcorum historia",
+  "display_title": "Quadrupedum omnium bisulcorum historia",
+  "author": "Ulisse Aldrovandi",
+  "language": "Latin",
+  "year": 1621,
+  "published": "Unknown",
+  "pages_count": 1113,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 5,
+  "source_url": "https://sourcelibrary.org/book/6958e96c813ea03889c32bf7",
+  "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bub_gb_iAIQ7_R0_noC"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:38.175Z",
+  "_hashes": {
+    "ocr": "2f47cc5a8f240f52",
+    "translation": "44260363ca8d0cc7"
+  }
+}

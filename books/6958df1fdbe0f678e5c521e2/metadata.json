@@ -1,0 +1,28 @@
+{
+  "id": "6958df1fdbe0f678e5c521e2",
+  "title": "Hortus Medicus et Philosophicus",
+  "display_title": "Hortus Medicus et Philosophicus",
+  "author": "Joachim Camerarius",
+  "language": "Latin",
+  "year": 1588,
+  "published": "1588",
+  "pages_count": 442,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 3,
+  "source_url": "https://sourcelibrary.org/book/6958df1fdbe0f678e5c521e2",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "JoachimCamerariusHortusMedicusEtPhilosophicusInQuoPlurimarumStirpiumBrevesDescri"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:36.621Z",
+  "_hashes": {
+    "ocr": "1b6b9e1b962de072",
+    "translation": "0215197c91fcc3a2"
+  }
+}

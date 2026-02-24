@@ -1,0 +1,28 @@
+{
+  "id": "6958dfdadbe0f678e5c52fec",
+  "title": "Geoponica: De re rustica libri XX",
+  "display_title": "Geoponica: De re rustica libri XX",
+  "author": "Cassianus Bassus",
+  "language": "Latin",
+  "year": 950,
+  "published": "Unknown",
+  "pages_count": 586,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 2,
+  "source_url": "https://sourcelibrary.org/book/6958dfdadbe0f678e5c52fec",
+  "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bub_gb_oOvZJMgwz18C"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:37.190Z",
+  "_hashes": {
+    "ocr": "5b1805299b85cf83",
+    "translation": "7d75965702cc85c2"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "698255f34c247322ad6ab3fa",
+  "title": "Mysterium magnum. Das ist das allergrösseste Geheimbnus",
+  "display_title": "Mysterium magnum. Das ist das allergrösseste Geheimbnus",
+  "author": "Sperber, Julius",
+  "language": "Latin-German",
+  "year": 1660,
+  "published": "1660",
+  "pages_count": 249,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 5,
+  "source_url": "https://sourcelibrary.org/book/698255f34c247322ad6ab3fa",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:44.711Z",
+  "_hashes": {
+    "ocr": "f82f015817af0c49",
+    "translation": "8a57f7e4aadb73c6"
+  }
+}

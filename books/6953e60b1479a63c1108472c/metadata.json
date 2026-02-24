@@ -1,0 +1,28 @@
+{
+  "id": "6953e60b1479a63c1108472c",
+  "title": "Opera Omnia Vol. I",
+  "display_title": "Opera Omnia Vol. I",
+  "author": "Galen",
+  "language": "Greek",
+  "year": 1609,
+  "published": "1609",
+  "pages_count": 967,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6953e60b1479a63c1108472c",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "operaomnia00assmgoog"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:36.445Z",
+  "_hashes": {
+    "ocr": "82ca1432b434c4e7",
+    "translation": "9920f46284ae88ec"
+  }
+}

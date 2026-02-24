@@ -1,0 +1,26 @@
+{
+  "id": "698255f30fc1d3bd62674a04",
+  "title": "Mosaicall philosophy",
+  "display_title": "Mosaicall philosophy",
+  "author": "Fludd, Robert",
+  "language": "English",
+  "year": 1659,
+  "published": "1659",
+  "pages_count": 343,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 5,
+  "source_url": "https://sourcelibrary.org/book/698255f30fc1d3bd62674a04",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:44.797Z",
+  "_hashes": {
+    "ocr": "98cb48fbab3301a8",
+    "translation": "e6e39fa4e465fc57"
+  }
+}

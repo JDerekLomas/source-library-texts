@@ -1,0 +1,28 @@
+{
+  "id": "6953e50577f38f6761bef758",
+  "title": "Novum Organum Scientiarum (1762)",
+  "display_title": "Novum Organum Scientiarum (1762)",
+  "author": "Francis Bacon",
+  "language": "Latin",
+  "year": 1762,
+  "published": "1762",
+  "pages_count": 408,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6953e50577f38f6761bef758",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "1762novumorganum00baco"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:43.785Z",
+  "_hashes": {
+    "ocr": "73bad2ae1b7ffacb",
+    "translation": "2a91f0bc8d03850f"
+  }
+}

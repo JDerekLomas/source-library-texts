@@ -1,0 +1,28 @@
+{
+  "id": "695931d4b91a6184ea9433a8",
+  "title": "Amulette composée par Al-Buni",
+  "display_title": "Amulette composée par Al-Buni",
+  "author": "Ahmad al-Buni",
+  "language": "Arabic",
+  "year": 1225,
+  "published": "Unknown",
+  "pages_count": 10,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/695931d4b91a6184ea9433a8",
+  "license": "https://gallica.bnf.fr/html/und/conditions-dutilisation-des-contenus-de-gallica",
+  "doi": null,
+  "external_ids": {
+    "gallica": "btv1b110023178"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:35.873Z",
+  "_hashes": {
+    "ocr": "d035b9bb3329efbc",
+    "translation": "d85721cb5824b320"
+  }
+}

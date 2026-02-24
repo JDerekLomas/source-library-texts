@@ -1,0 +1,28 @@
+{
+  "id": "69592b3b7c072c27f686e213",
+  "title": "De mysteriis Aegyptiorum - Pimander - Asclepius",
+  "display_title": "De mysteriis Aegyptiorum - Pimander - Asclepius",
+  "author": "Iamblichus / Hermes Trismegistus / Porphyry",
+  "language": "Latin",
+  "year": 1532,
+  "published": "Unknown",
+  "pages_count": 556,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 1,
+  "source_url": "https://sourcelibrary.org/book/69592b3b7c072c27f686e213",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "hin-wel-all-00001267-001"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:36.271Z",
+  "_hashes": {
+    "ocr": "4a09024681b777cd",
+    "translation": "c1a299c704f55bee"
+  }
+}

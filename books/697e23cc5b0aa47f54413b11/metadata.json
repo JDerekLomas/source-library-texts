@@ -1,0 +1,26 @@
+{
+  "id": "697e23cc5b0aa47f54413b11",
+  "title": "In Jeremiam prophetam interpretatio",
+  "display_title": "In Jeremiam prophetam interpretatio",
+  "author": "Joachim of Fiore",
+  "language": "Latin",
+  "year": 1577,
+  "published": "1577",
+  "pages_count": 583,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 6,
+  "source_url": "https://sourcelibrary.org/book/697e23cc5b0aa47f54413b11",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:45.381Z",
+  "_hashes": {
+    "ocr": "72d408eec2c66e05",
+    "translation": "91b0a37801069259"
+  }
+}

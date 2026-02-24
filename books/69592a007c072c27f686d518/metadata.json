@@ -1,0 +1,28 @@
+{
+  "id": "69592a007c072c27f686d518",
+  "title": "Doktor Johannes Fausts Magia Naturalis et Innaturalis",
+  "display_title": "Doktor Johannes Fausts Magia Naturalis et Innaturalis",
+  "author": "Anonymous",
+  "language": "German",
+  "year": 1700,
+  "published": "1700",
+  "pages_count": 112,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 7,
+  "source_url": "https://sourcelibrary.org/book/69592a007c072c27f686d518",
+  "license": "https://rightsstatements.org/vocab/NoC-NC/1.0/",
+  "doi": null,
+  "external_ids": {
+    "mdz": "bsb10132955"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:40.644Z",
+  "_hashes": {
+    "ocr": "3f934ba1e9d4d0f8",
+    "translation": "a20a744ef64b5290"
+  }
+}

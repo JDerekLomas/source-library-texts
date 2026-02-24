@@ -1,0 +1,28 @@
+{
+  "id": "695910f9ecb01322b3068858",
+  "title": "Historia General y Natural de las Indias Vol. 2",
+  "display_title": "Historia General y Natural de las Indias Vol. 2",
+  "author": "Gonzalo Fernandez de Oviedo",
+  "language": "Spanish",
+  "year": 1526,
+  "published": "1526",
+  "pages_count": 682,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 2,
+  "source_url": "https://sourcelibrary.org/book/695910f9ecb01322b3068858",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "historiageneral02fernguat"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:39.731Z",
+  "_hashes": {
+    "ocr": "6efb708f230291d5",
+    "translation": "98c7b1469c33b744"
+  }
+}
