@@ -1,0 +1,28 @@
+{
+  "id": "69906623ef12272ffdc952c7",
+  "title": "Leviathan (1651 first edition)",
+  "display_title": "Leviathan (1651 first edition)",
+  "author": "Thomas Hobbes",
+  "language": "English",
+  "year": 1651,
+  "published": "Unknown",
+  "pages_count": 418,
+  "pages_with_ocr": 20,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/69906623ef12272ffdc952c7",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "leviathanormatte00hobb_3"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:29:55.662Z",
+  "_hashes": {
+    "ocr": "589aa61b1134b70a",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

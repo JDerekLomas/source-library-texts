@@ -1,0 +1,28 @@
+{
+  "id": "695285f6ab34727b1f04c3d4",
+  "title": "Polygraphia et De Septem Secundeis",
+  "display_title": "Polygraphia et De Septem Secundeis",
+  "author": "Johannes Trithemius",
+  "language": "Latin",
+  "year": 1600,
+  "published": "1600",
+  "pages_count": 32,
+  "pages_with_ocr": 32,
+  "pages_with_translation": 32,
+  "source_url": "https://sourcelibrary.org/book/695285f6ab34727b1f04c3d4",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bub_gb_-D4XuQjTVhYC"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:51.923Z",
+  "_hashes": {
+    "ocr": "2f964a5b039e60e0",
+    "translation": "d5dafcf449d726b1"
+  }
+}

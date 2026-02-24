@@ -1,0 +1,28 @@
+{
+  "id": "699066722ec9f7db5717a60f",
+  "title": "Magnalia Christi Americana",
+  "display_title": "Magnalia Christi Americana",
+  "author": "Cotton Mather",
+  "language": "Latin",
+  "year": 1702,
+  "published": "Unknown",
+  "pages_count": 816,
+  "pages_with_ocr": 20,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/699066722ec9f7db5717a60f",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "magnaliachristia00math"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:29:55.423Z",
+  "_hashes": {
+    "ocr": "cf1b76340408d464",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

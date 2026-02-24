@@ -1,0 +1,28 @@
+{
+  "id": "69906d4964d44bd0a0ef5314",
+  "title": "Tithi Nirnaya",
+  "display_title": "Tithi Nirnaya",
+  "author": "Unknown",
+  "language": "Sanskrit",
+  "year": 1801,
+  "published": "1801",
+  "pages_count": 27,
+  "pages_with_ocr": 27,
+  "pages_with_translation": 27,
+  "source_url": "https://sourcelibrary.org/book/69906d4964d44bd0a0ef5314",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "tithinirnaya-CGV-PSS-0587-0927"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:53.685Z",
+  "_hashes": {
+    "ocr": "3af85327ac180b8d",
+    "translation": "c83bdb5014499a8b"
+  }
+}

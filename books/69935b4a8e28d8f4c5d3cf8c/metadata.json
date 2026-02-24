@@ -1,0 +1,28 @@
+{
+  "id": "69935b4a8e28d8f4c5d3cf8c",
+  "title": "Fifteen Principal Upanishads (Sanskrit Mūla Text)",
+  "display_title": "Fifteen Principal Upanishads (Sanskrit Mūla Text)",
+  "author": "Anonymous",
+  "language": "Sanskrit",
+  "year": null,
+  "published": "800 BCE",
+  "pages_count": 26,
+  "pages_with_ocr": 26,
+  "pages_with_translation": 26,
+  "source_url": "https://sourcelibrary.org/book/69935b4a8e28d8f4c5d3cf8c",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "upanishads-collection-sanskrit-mool-only"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:53.930Z",
+  "_hashes": {
+    "ocr": "fd1865e58867eed6",
+    "translation": "d5ce9532b3e41f8b"
+  }
+}

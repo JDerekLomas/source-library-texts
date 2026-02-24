@@ -1,0 +1,26 @@
+{
+  "id": "697d9c99f2b56306a9ec961a",
+  "title": "Gründtlicher Bericht, von dem Vorhaben, Gelegenheit und Innhalt der löblichen Bruderschafft dess Rosen Creutzes",
+  "display_title": "Gründtlicher Bericht, von dem Vorhaben, Gelegenheit und Innhalt der löblichen Bruderschafft dess Rosen Creutzes",
+  "author": "anonymous",
+  "language": "German",
+  "year": 1617,
+  "published": "1617",
+  "pages_count": 30,
+  "pages_with_ocr": 30,
+  "pages_with_translation": 30,
+  "source_url": "https://sourcelibrary.org/book/697d9c99f2b56306a9ec961a",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:53.035Z",
+  "_hashes": {
+    "ocr": "4624d1ff5fc10b53",
+    "translation": "36e5b2e1ac2168a8"
+  }
+}

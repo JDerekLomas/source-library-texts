@@ -1,0 +1,28 @@
+{
+  "id": "699249c5a2d53df4853bfdaf",
+  "title": "Kitáb-i-Íqán (1882 Bombay edition)",
+  "display_title": "Kitáb-i-Íqán (1882 Bombay edition)",
+  "author": "Bahá'u'lláh",
+  "language": "Persian",
+  "year": 1882,
+  "published": "Unknown",
+  "pages_count": 30,
+  "pages_with_ocr": 30,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/699249c5a2d53df4853bfdaf",
+  "license": "http://creativecommons.org/licenses/publicdomain/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "Kitab-i-iqan1882Edition"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:29:52.522Z",
+  "_hashes": {
+    "ocr": "f2b089936ad452e9",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

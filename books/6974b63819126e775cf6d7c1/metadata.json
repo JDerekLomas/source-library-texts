@@ -1,0 +1,26 @@
+{
+  "id": "6974b63819126e775cf6d7c1",
+  "title": "Apocalypsis S. Joannis",
+  "display_title": "Apocalypsis S. Joannis",
+  "author": "Unknown",
+  "language": "Latin",
+  "year": 1558,
+  "published": "1558",
+  "pages_count": 34,
+  "pages_with_ocr": 34,
+  "pages_with_translation": 34,
+  "source_url": "https://sourcelibrary.org/book/6974b63819126e775cf6d7c1",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:51.177Z",
+  "_hashes": {
+    "ocr": "f4137de5491f191d",
+    "translation": "d9348936c9a6ea88"
+  }
+}

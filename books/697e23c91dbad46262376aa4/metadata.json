@@ -1,0 +1,26 @@
+{
+  "id": "697e23c91dbad46262376aa4",
+  "title": "Illustres hasce quaestiones, ex IV. postremis pandect. libris desumptas",
+  "display_title": "Illustres hasce quaestiones, ex IV. postremis pandect. libris desumptas",
+  "author": "Forstner, Christophorus",
+  "language": "Latin",
+  "year": 1615,
+  "published": "1615",
+  "pages_count": 26,
+  "pages_with_ocr": 26,
+  "pages_with_translation": 26,
+  "source_url": "https://sourcelibrary.org/book/697e23c91dbad46262376aa4",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:54.012Z",
+  "_hashes": {
+    "ocr": "9ab914c6b97a1f76",
+    "translation": "f0c3abc8ab3292f0"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "697a81b1e680cef7cedae39f",
+  "title": "[Greek] Dissertationum philologicarum",
+  "display_title": "[Greek] Dissertationum philologicarum",
+  "author": "Besold, Christoph",
+  "language": "Greek-Latin",
+  "year": 1620,
+  "published": "1620",
+  "pages_count": 24,
+  "pages_with_ocr": 24,
+  "pages_with_translation": 24,
+  "source_url": "https://sourcelibrary.org/book/697a81b1e680cef7cedae39f",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:54.738Z",
+  "_hashes": {
+    "ocr": "7c2c8062e330eb15",
+    "translation": "553cf09f849cc664"
+  }
+}

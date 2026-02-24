@@ -1,0 +1,26 @@
+{
+  "id": "6909caa0cf28baa1b4cafc87",
+  "title": "[Nosce te ipsum]",
+  "display_title": "Know thyself",
+  "author": "[Reger von Ehrenhart, Ernestus Aurelius]",
+  "language": "German",
+  "year": 1678,
+  "published": "n.d.",
+  "pages_count": 27,
+  "pages_with_ocr": 27,
+  "pages_with_translation": 27,
+  "source_url": "https://sourcelibrary.org/book/6909caa0cf28baa1b4cafc87",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:53.562Z",
+  "_hashes": {
+    "ocr": "66cc296ad60d2a81",
+    "translation": "28bd90fd59ff2043"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "695910a0ecb01322b3067eb0",
+  "title": "De plantis venenatis (Poisonous plants)",
+  "display_title": "De plantis venenatis (Poisonous plants)",
+  "author": "Carl Peter Thunberg",
+  "language": "Latin",
+  "year": 1785,
+  "published": "Unknown",
+  "pages_count": 19,
+  "pages_with_ocr": 19,
+  "pages_with_translation": 19,
+  "source_url": "https://sourcelibrary.org/book/695910a0ecb01322b3067eb0",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "mobot31753002739461"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:57.005Z",
+  "_hashes": {
+    "ocr": "0bbc10f6ef5237eb",
+    "translation": "281e7a456f810e54"
+  }
+}

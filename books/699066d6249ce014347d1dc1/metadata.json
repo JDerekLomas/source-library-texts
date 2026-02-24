@@ -1,0 +1,28 @@
+{
+  "id": "699066d6249ce014347d1dc1",
+  "title": "Ramala Grantha (Geomancy)",
+  "display_title": "Ramala Grantha (Geomancy)",
+  "author": "Unknown",
+  "language": "Sanskrit",
+  "year": null,
+  "published": "Unknown",
+  "pages_count": 16,
+  "pages_with_ocr": 16,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/699066d6249ce014347d1dc1",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "ramalagrantha-CGV-PSS-0160-0847-A"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:29:57.773Z",
+  "_hashes": {
+    "ocr": "f14c37723c2f85b8",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

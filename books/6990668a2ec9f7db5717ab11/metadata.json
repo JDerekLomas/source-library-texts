@@ -1,0 +1,28 @@
+{
+  "id": "6990668a2ec9f7db5717ab11",
+  "title": "Miscellanies (Omens, Dreams, Apparitions)",
+  "display_title": "Miscellanies (Omens, Dreams, Apparitions)",
+  "author": "John Aubrey",
+  "language": "English",
+  "year": 1696,
+  "published": "Unknown",
+  "pages_count": 185,
+  "pages_with_ocr": 20,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/6990668a2ec9f7db5717ab11",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bim_early-english-books-1641-1700_miscellanies-_aubrey-john_1696"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:29:55.736Z",
+  "_hashes": {
+    "ocr": "c44b13f2a14f54c4",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

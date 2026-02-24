@@ -1,0 +1,26 @@
+{
+  "id": "69819209941a62e72926f9a9",
+  "title": "Magica oracula",
+  "display_title": "Magica oracula",
+  "author": "Zoroaster",
+  "language": "Latin",
+  "year": 1539,
+  "published": "1539",
+  "pages_count": 34,
+  "pages_with_ocr": 34,
+  "pages_with_translation": 34,
+  "source_url": "https://sourcelibrary.org/book/69819209941a62e72926f9a9",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:51.276Z",
+  "_hashes": {
+    "ocr": "45efd45dac0f25d7",
+    "translation": "d880e7bb4bcd4612"
+  }
+}

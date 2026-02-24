@@ -1,0 +1,28 @@
+{
+  "id": "6958e93b813ea03889c32605",
+  "title": "De methodo plantarum",
+  "display_title": "De methodo plantarum",
+  "author": "Augustus Quirinus Rivinus",
+  "language": "Latin",
+  "year": 1690,
+  "published": "Unknown",
+  "pages_count": 31,
+  "pages_with_ocr": 31,
+  "pages_with_translation": 31,
+  "source_url": "https://sourcelibrary.org/book/6958e93b813ea03889c32605",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bim_early-english-books-1641-1700_de-methodo-plantarum-_rivinus-augustus-quirin_1696"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:52.268Z",
+  "_hashes": {
+    "ocr": "d472bf889f5c91dd",
+    "translation": "8590e6cc7eaf996c"
+  }
+}

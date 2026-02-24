@@ -1,0 +1,641 @@
+--- Page 1 ---
+<lang>None</lang>
+<warning>This image appears to be a book cover or a blank flyleaf with a marbled paper pattern; there is no legible text present on this page.</warning>
+<meta>Front cover or decorative endpaper with marbled pattern</meta>
+
+<detected-images>
+[{"description": "Decorative marbled paper cover featuring a vertical wavy pattern, likely a variation of the 'Spanish wave' or 'moiré' style, in shades of grey, purple, and tan.", "type": "decorative", "bbox": {"x": 0.01, "y": 0.01, "width": 0.98, "height": 0.98}, "gallery_quality": 0.75, "museum_rationale": "A well-preserved example of 18th or 19th-century marbled paper used in archival bookbinding."}]
+</detected-images>
+
+--- Page 2 ---
+<lang>None</lang>
+<meta>This image shows the front cover or an endpaper of a manuscript. It features a decorative moiré (watered) pattern with vertical wavy lines in shades of grey and muted purple. There is no text on this page.</meta>
+
+<vocab>moiré, bookbinding, decorative paper, watered pattern</vocab>
+
+<detected-images>
+[{"description": "Decorative book cover featuring a vertical wavy moiré or 'watered' pattern in grey and purple tones.", "type": "decorative", "bbox": {"x": 0.0, "y": 0.0, "width": 1.0, "height": 1.0}, "gallery_quality": 0.6, "museum_rationale": "A clear and well-preserved example of a historical moiré decorative binding pattern."}]
+</detected-images>
+
+--- Page 3 ---
+<lang>Latin</lang>
+
+<warning>Faint, illegible pencil markings (possibly "C.H.E.") are present in the upper-left margin of the backing page.</warning>
+
+<margin>
+R
+</margin>
+
+# PHILOSOPHIA HERMETICA
+
+<vocab>Philosophia Hermetica, Pelican in her Piety, Ouroboros, alchemy, Rosicrucianism, emblem</vocab>
+
+<detected-images>
+[{"description": "A colored alchemical emblem centered on a white card. The emblem features a 'Pelican in her Piety' (a pelican vulning itself to feed its chicks with its blood), symbolizing sacrifice or the alchemical process. The pelican sits upon a white cube adorned with three red roses. Above the pelican, golden rays of light descend from a celestial source. These elements are set against a blue oval background, which is enclosed by an Ouroboros (a serpent consuming its own tail), a symbol of infinity and the cycle of nature. The Latin words 'PHILOSOPHIA HERMETICA' (Hermetic Philosophy) are printed in a circular fashion around the central emblem.", "type": "emblem", "bbox": {"x": 0.354, "y": 0.264, "width": 0.282, "height": 0.247}, "gallery_quality": 0.9, "museum_rationale": "This is a beautifully executed and well-preserved colored emblem representing central tenets of 17th and 18th-century Hermetic and Rosicrucian thought. It incorporates multiple layered symbols—the Ouroboros, the Pelican, and the Rose/Cube—making it a significant piece for the study of esoteric iconography."}]
+</detected-images>
+
+--- Page 4 ---
+<lang>None</lang>
+<meta>Blank page, likely a flyleaf or endpaper.</meta>
+<vocab></vocab>
+
+--- Page 5 ---
+<lang>None</lang>
+<meta>Blank page with visible horizontal laid lines.</meta>
+
+[This page contains no text or illustrations.]
+
+--- Page 6 ---
+<lang>la</lang>
+
+<meta>image quality: excellent; paper: cream, slightly foxed; binding visible at right edge</meta>
+
+# CHRISTOPHORI
+# BESOLDI
+## ΠΕΝΤΑΣ
+### Dissertationum Philologi-
+### carum.
+
+->I. DE JURE REGIO SAMUELIS.<-
+->II. DE INVENTIONE BOMBARDARUM,<-
+->III. ET TYPOGRAPHIAE.<-
+->IV. CONJECTANEA DE JUDEORUM<-
+->CONVERSIONE.<-
+->V. DE ANGELIS IMPERIORUM.<-
+
+---
+
+->A C C E S S I T<-
+->FRIDERICI HEINII<-
+->ROSTOCHIENSIS<-
+->Dissertatio,<-
+->**DE PROBATIONE QUAE OLIM**<-
+->**PER IGNEM ET AQUAM, CUM FER-**<-
+->*ventem tum frigidam fieri solebat.*<-
+
+->TUBINGAE,<-
+->Excudebat Eberhardus Wildius.<-
+->ANNO CIƆ IƆC XX.<-
+
+<vocab>Christophorus Besoldus, Pentas, Philologia, Samuel, Bombardae, Typographia, Judei, Angeli Imperiorum, Fridericus Heinius, Probatio per ignem et aquam, Tubinga, 1620</vocab>
+
+<detected-images>
+[
+  {"description": "Horizontal decorative typographic border with repeating scroll patterns", "type": "decorative", "bbox": {"x": 0.082, "y": 0.518, "width": 0.638, "height": 0.026}, "gallery_quality": 0.3, "museum_rationale": "Standard typographic ornament used as a divider."},
+  {"description": "Small leaf-and-scroll printer's ornament (fleuron)", "type": "decorative", "bbox": {"x": 0.354, "y": 0.792, "width": 0.093, "height": 0.025}, "gallery_quality": 0.2, "museum_rationale": "Common printer's mark used for spacing."}
+]
+</detected-images>
+
+--- Page 7 ---
+<lang>lat</lang>
+<warning>The text on this page is mirrored bleed-through (ghosting) from the title page on the opposite side of the leaf. It has been transcribed in its intended readable orientation.</warning>
+
+# CHRISTOPHORI
+## BESOLDI
+# PENTAS
+### Dissertationum Philologi-
+### carum.
+
+->I. De Jure Regio & Singulis.<-
+->II. De Inventione Bombardarum<-
+->III. Et Typographiae.<-
+->IV. Conjecturae de Judaeorum<-
+->Conversione.<-
+->V. De Angelis Inferioribus.<-
+
+---
+
+->ACCESSIT<-
+### FRIDERICI HEINII
+### ROSTOCHIENSIS
+### Dissertatio
+# DE PROBATIONE QUÆ OLIM
+### PER IGNEM ET AQUAM FIERI SOLE-
+### bat.
+
+---
+
+->TUBINGÆ,<-
+->Excudebat Eberhardus Wildius,<-
+->ANNO CIƆ IƆ C XXV.<-
+
+<vocab>Christoph Besold, Fridericus Heinius, Rostochiensis, Pentas Dissertationum, De probatione quae olim per ignem et aquam, Tubingae, 1625, legal history, philology, ordeal</vocab>
+
+<detected-images>
+[{"description": "Decorative horizontal divider band with scrollwork patterns", "type": "decorative", "bbox": {"x": 0.27, "y": 0.523, "width": 0.65, "height": 0.024}, "gallery_quality": 0.3, "museum_rationale": "Standard typographic ornament used to separate sections of a title page."}]
+</detected-images>
+
+--- Page 8 ---
+<lang>Latin</lang>
+<warning>The page exhibits significant ghosting and bleed-through from text on the verso side.</warning>
+
+### DE
+# JURE RE-
+# GIO SAMUELIS
+## PROPHETÆ;
+
+->quod habetur libro 1. ejufdem,<-
+->cap. 8. verſ. 11. & ſeqq. multis.<-
+
+->Junctâ breviſſimâ exegeſi, verſi-<-
+->culi 6. <term>$\Psi\lambda$.</term> 51. Davidis.<-
+
+->ANNO M. DC. XX.<-
+
+<vocab>Jure Regio, Samuelis Prophetæ, exegesi, Davidis, Psalmus, 1620</vocab>
+
+<detected-images>
+[{"description": "Decorative printer's fleuron or ornament in a cross-like arrangement", "type": "decorative", "bbox": {"x": 0.364, "y": 0.690, "width": 0.115, "height": 0.085}, "gallery_quality": 0.4, "museum_rationale": "A typical early 17th-century decorative typographic element used for visual separation on a title page."}]
+</detected-images>
+
+--- Page 9 ---
+<lang>Latin</lang>
+<meta>faint mirrored bleed-through of text from another page is visible, including "ANNO MDCXX" at the bottom and "LIBER" at the top</meta>
+
+### Undecunque Clarissimo
+->Viro,<-
+->D O M I N O<-
+
+# STEVELINO
+## VOLSCHOW SUN-
+## DIO-POMERANO;
+
+->Amico suo certissimo, simul sua-<-
+->vissimoq;<-
+
+->*D. D.*<-
+
+### CHRISTOPHORUS BESOLDUS.
+
+<vocab>Christophorus Besoldus, Stevelinus Volschow, Sundio-Pomerano, Pomerania, dedication, Latin</vocab>
+
+--- Page 10 ---
+<lang>lat</lang>
+<page-num>1</page-num>
+<header>I.</header>
+<sig>A 2</sig>
+<meta>catchword: 12. Et</meta>
+
+# I.
+
+NIl frequentius hodiè, & omni etiam ferè seculo fuit, quàm non ex Politicis solùm multos; sed & Theologos quosdam, Regibus ac Magnatibus aliis blãdiri, & cùm-primis absolutam iis, liberamque in subditos firmare potestatem: eumque pariter in sensum, abuti sacrarum literarum auctoritate; quo nempè conscientia Principum, secura magis, & subditorum ad Imperium Tyrannidi compar, animo patienti perferendum, adstrictior fiet. Minimè culpo eos, qui legitimæ aliàs studiosissimi libertatis, non vitio adulationis; sed eo tantummodò fine, duram quoque Regum tuentur potestatem, ut conatus quoscunque seditiosos, in herbâ, quod ajunt, succidant, nec succrescere ullo modo sinant: sed nolim tamen ego **Regium Jus**, vel **Regale** nominari; quod si temerè usurpetur, in hoc seculo dominantes, æterni pòst exitii mancipia facit. Lubet nunc pressiùs examinare S. S. scripturæ bina loca, quæ hîc urgentur; & primò quidem, famosum illud **Regium Jus**, quod proponi videtur, libro 1. Samuelis, *cap. 8.* quodque secundum vulgatam versionem, ita se habet.
+
+> 11. *Hoc erit jus Regis, qui imperaturus est vobis: Filios vestros tollet, & ponet in curribus suis; facietq́ sibi equites, & præcursores quadrigarum suarum.*
+
+<vocab>Regium Jus, Samuelis, Tyrannidi, conscientia Principum, Politicis, Theologos</vocab>
+
+<detected-images>
+[{"description": "Decorative woodcut headpiece with fleur-de-lis and floral patterns arranged in a rectangular border.", "type": "decorative", "bbox": {"x": 0.111, "y": 0.103, "width": 0.654, "height": 0.111}, "gallery_quality": 0.6, "museum_rationale": "A standard early modern typographic ornament used to mark the beginning of a section or chapter."},
+{"description": "Decorative historiated initial 'N' featuring intertwining foliate and floral motifs within a square border.", "type": "decorative", "bbox": {"x": 0.108, "y": 0.228, "width": 0.155, "height": 0.129}, "gallery_quality": 0.75, "museum_rationale": "A high-quality decorative initial common in 17th-18th century scholarly publications, showing fine detail in the foliate scrollwork."}]
+</detected-images>
+
+--- Page 11 ---
+<lang>lat</lang>
+<page-num>2.</page-num>
+
+12. *Et conſtituet ſibi tribunos, & centu- riones, & aratores agrorum ſuorum, & meſ- ſores ſegetum, & fabros armorum & curruum ſuorum.*
+13. *Filias quoq; veſtras faciet ſibi unguen- tarias, & focarias, & panificas.*
+14. *Agros quoq; veſtros, & vineas, & oli- veta optima tollet; & dabit ſervis ſuis.*
+15. *Sed & ſegetes veſtras, & vinearum reditus addecimabit, ut det eunuchis & fa- mulis ſuis.*
+16. *Servos etiam veſtros, & ancillas, & juvenes optimos, & aſinos auferet, & ponet in opere ſuo.*
+17. *Greges quoq; veſtros addecimabit; vosq; eritis ei ſervi.*
+18. *Et clamabitis in die illâ à facie Regis veſtri, quem elegiſtis vobis: & non exaudiet vos Dominus in die illâ, quia petiſtis vobis regem.*
+
+2. Vno ferè ore hîc omnes, qui Biblia ex Hebræo, alias in Linguas converterunt, illud quod eſt in origi- nali, מִשְׁפַּט הַמֶּלֶךְ *Judicium Regis*, per *Jus Regis* reddunt. Ita fecit Hieronymus, ſeu Romanæ verſionis auctor., Translatores Tigurini, Caſtalio, &c. Pagninus inter- pretatur *Lex Regis*, Lutherus *des Königs Recht*. Senes illi,
+
+<meta>catchword: quos</meta>
+
+<vocab>Samuel, kingship, Hebrew, מִשְׁפַּט הַמֶּלֶךְ, Judicium Regis, Jus Regis, Lex Regis, Luther, Hieronymus, Pagninus, Castalio, Tigurini</vocab>
+
+--- Page 12 ---
+<lang>Latin</lang>
+<page-num>3</page-num>
+<sig>A 3</sig>
+<meta>catchword: 4. Sed</meta>
+
+quos septuaginta interpres nominare solemus, habent ibi δικαίωμα τοῦ βασιλέως: & quod adhùc magis est, *Chaldæus Peraphrastes* נמוסא דמלכא seu statutum, aut lex Regis. Est namque נמוסא, ut alia Chaldaica multa, transumptum ex Græco; & tam litteris quam significatu, idem quod νόμος notat. Optimus Britanniæ magnæ Monarcha, Jacobus Rex, aliquot ante annos, & quidem nomine suppresso libellum publicavit, *de jure liberæ Monarchiæ; vid. Thomam Rosam, in enarrat. de virtutib. Jacobi Reg. fol. 50.* qui nunc Regiis operibus est insertus, ubi *fol. 184.* censere videtur: Monarchiæ constitutionem inter Judæos, atque ejusdem hanc legem, exemplar esse, ad quod omnes Christianæ & benè institutæ Monarchiæ, possint, imò debeant conformari; utpotè ab ipsomet Deo fundatam, & oraculo sacerrimo, ejus ore prolato sancitam.
+
+3. Alii jus hoc, in extremâ demùm necessitate; ubi tam Principes, quàm subditi, Patriæ debent parere omnes: *l. 2. ff. d. Instit. & Jur.* usurpandum esse, contendunt. *Waremundus de Erenbergk, tract. de subsid. ac onerib. subditor. cap. 7. num. 13. & seqq. & cap. 9. num. 8. & c. item cap. 11. num. 21.* qui ait: generaliter Dominum explicare populo voluisse morem, consuetudinem, statum uniuscujusque Regni; videlicet tempora sese obiicere Regibus posse, ut nolentes volentes cogantur uti, & quasi abuti subditis, in salutem & commodum Regni. Cui consonat interpretatio *Nicolai Lirani* (ita dicti, quod Brabantinus, oppidoque *Lirâ* oriundus erat. *Drusius ad loca Genes. cap. 15. & ad loca Exod. cap. 33.*) ad *d. cap. 8. Samuel.* censet, quòd ea sic ratio sit pro tempore necessitatis. Quibus quoque adstipuletur (hâc de re prolixè disputans) *Joh. Cammanus, disp. d. Juribus Majestat. 2. thes. 11. & seqq. multis.* & in eodem acquiescit *Joh. Gerhardi, locor. Theologicor. tom. 6. tit. d. Magistratu Polit. num. 125.*
+
+<vocab>Jacobus Rex, Thomas Rosa, Waremundus de Erenbergk, Nicolai Lirani, Johannes Drusius, Joh. Cammanus, Joh. Gerhardi, de jure liberæ Monarchiæ, jus regium, necessity, Septuagint, Chaldee Paraphrast</vocab>
+
+--- Page 13 ---
+<lang>Latin</lang>
+<page-num>4</page-num>
+<meta>catchword: clama-</meta>
+
+4 Sed ferè eſt ut veriorem, ſeu probabilem magis putem eorum opinionem; qui nullum hîc conſtitui jus Regis; ſed omnia quæ Samuel eo loci habet, ad mores ac conſuetudines pravas vicinorum Regum, referenda eſſe cenſent: cui ſententiæ, dum viveret adſtipulabatur quoque Dn. Matthias Hafenrefferus, Vir omniſciâ doctrinâ, & in primis verâ pietate, maximè reverendus: pro eâque in diſſertatione, quâdam publicè habitâ, operoſè etiam propugnavit. Ita ut ſermo hîc non de privilegio vel jure; ſed de tyrannide atque injuriâ eſſe videatur: quibus etiam legitima poteſtas, ſi ſumma & perpetua ſit, non rarò ſubditos vexare ſolet. Hâc namq; animi ſumus infirmitate, potētiæ magnæ ut nil citiùs deſit, quàm moderatio ejus. *vid. me Polit. 1. cap. 9. num. 24. verſ. 1.* Sic & Doctor Marta, *in tr. d. Juriſdictione, part. 1. cap. 35. num. 1. & ſeqq.* ſcribit: Samuelem cùm conſecrâſſet Saulem Regem, electum juſſu Dei, compoſuiſſe librum, circa concernentia Principis Majeſtatem: ſed à Hebræis adnotatum inveniri, Reges ſucceſſores illum concremâſſe, ut ſine lege in ſubditos tyrannidem exercerent; & ideò decipi Melanchthonem, putantem jura Regum conſiſtere in iis quæ *d. cap. 8.* Samuelis, conſignata inveniuntur. Ac rectiùs ea intelligi de his, quæ facturi ſunt Reges, non legitimâ regnandi lege, ſed abutentes poteſtate. Conſentit Joh. Molanus, *d. fide hæretic. ſervanda, libr. 4. cap. 14.* Item Georg. Buchananus, *de Jure regni apud Scotos, mihi lit. Bb. 8.* ubi ait: cavendum eſſe, ne quæ in tyrannorum vitâ Dominus execratur, nos Regibus ab eo conceſſa putemus. Et item Joh. Althuſius, *Polit. cap. 19. num. 51. & ſeqq.* multis qui putat, Samuelem illic loqui de iniquis, immoderatis, & non neceſſariis contributionibus, ſervitiisque; ad lubidinem Regis, non ad Reip. utilitatem exactis. Idque innuere cenſet, verſ. 28. qui dicit: ideò Iſraëlitas ad Jehovam, pro exoneratione harum calamitatum
+
+<vocab>Samuel, Matthias Hafenrefferus, Doctor Marta, Melanchthon, Joh. Molanus, Georg. Buchananus, Joh. Althusius, jus Regis, tyrannis, respublica, Israelitas, Jehova</vocab>
+
+--- Page 14 ---
+<lang>la</lang>
+<page-num>5</page-num>
+<meta>catchword: tam</meta>
+
+clamaturos esse. Pariter *Caspar. Kloke, de Contributio-*
+*nib. conclus. 46.* opinionem hanc, non plausibilem modò,
+sed & æquitatis autumat plenam esse; ita ut ii, qui con-
+trarium mordicùs tuentur, & Principibus habenas ni-
+mis laxant, sive adulationis, sive metus, sive odii, sive
+obligationis insimulari possint : magis Placentiam,
+quàm Veronam iter dirigentes.
+
+5. Argumenta & rationes, quæ pro firmandâ hâc
+opinione adduci possent, multa sunt: ex quibus ali-
+quot hîc sistam (1) Non dicitur hæc sectio, nisi ad me-
+tum Judæis incutiendum : ut loquitur Rab. Juda teste
+*Drusio, ad loca difficiliora Samuelis, ibid.* Ex causâ finali
+orationis, indagamus ejus mentem atque sensum : ea
+extendit, restringit, & declarat dispositionem omnem,
+& principaliter est attendenda. *Tiber Decian. respons. 41.*
+*incip. sequendo ordinem dubiorum sub num. 21. lib. 1.* Finis au-
+tem hujus Samuelis propositionis, dehortatorius est,
+constans malorum, quæ occasione (non jure) hujus
+petitionis poterunt evenire. Nihil Samuel constituit,
+aut definit: sed minatur tantummodò mala aut inju-
+rias à Rege metuendas. (2) Loquitur Samuel ex ore Dei
+irati : *argum. vers. 7. & seqq. dict. cap. 8. Samuelis* idque
+disertis verbis apud *Oseam cap. 13. vers. 11.* dicit Jehova:
+
+> Dedi tibi Regem in furore meo, & abstuli in irâ meâ.
+
+Futuri ergò Regis potentia, ut pœna temeritatis popu-
+lo denuntiatur. At verò legitima potestas, & Magistra-
+tuum reditus justi, non sunt pœnæ subditorum. Ac sic
+quoque *Flavius Josephus* sentit, *lib. 6. antiquit. Jud. cap. 4.*
+qui ait : Populi voluntatem de habendo Rege, vehe-
+menter Samuelem contristâsse, qui propter justitiam
+innatam, non amabat Regiam potestatem, ut nimiam;
+valdè enim Optimatum gubernatione delectabatur,
+non aliam existimans conducibiliorem, ad populi feli-
+citatem. Huic Deus se præbuit ad videndum, consola-
+tus eum, ne postulata populi ægrè ferat : dicens, non
+
+<vocab>Caspar Kloke, Tiberius Decianus, Flavius Josephus, Samuel, Hosea, Biblical exegesis, Monarchy, Optimates, Aristocracy, Placentiam, Veronam</vocab>
+
+--- Page 15 ---
+<lang>lat</lang>
+<page-num>6.</page-num>
+<meta>catchword: quàm</meta>
+
+ram ad ipsum pertinere hanc contumeliam, quàm ad
+se, quem nolint sibi solum esse regem. Idque moliri
+cœpisse jam indè, ex quo primùm ope suâ ex Ægypto
+sint educti. Verùm non multò pòst futurum est, in-
+quit, ut eos consilii hujus serò pœniteat, quando nec
+factum infectum esse poterit, & ipsi suam erga me,
+æquè ac te, ingratitudinem damnabunt. Nunc jubeo te
+eis creare Regem, quem ego designavero: idq; priùs
+quàm facias, præmonebis quantùm malorum sibi ul-
+trò adsciscant, protestaberisque eos, te invito, ad mu-
+tationem status in deterius properare.
+
+6. (3) Samuel noluit Populum subiicere servituti,
+cōtra legem; sive ratione Primitiarum, sive distinctio-
+nis dominiorum & proprietatis, in Decalogo sanci-
+tam: Non facies furtū; non concupisces alienum &c. (4)
+Jus Regis describitur Deuteronomii, c. 17. vers. 14. & seqq.
+
+*14. Cùm ingressus fueris Terram, quam*
+Dominus Deus *tuus dabit tibi, & possederis*
+*eam, habitaverisq́ in illâ, & dixeris: Consti-*
+*tuam super me* Regem, *sicut habent omnes per*
+*circuitum nationes.*
+
+*15. Eum constitues, quem* Dominus Deus
+*tuus elegerit de numero fratrum tuorum. Non*
+*poteris alterius gentis hominem* Regem *facere,*
+*qui non sit frater tuus.*
+
+*16. Cumq́ fuerit constitutus, non multipli-*
+*cabit sibi equos, nec reducet populum in Ægy-*
+*ptum, equitatus numero sublevatus; præser-*
+*tim cùm* Dominus *præceperit vobis, ut nequa-*
+
+<vocab>Samuel, Decalogus, Jus Regis, Deuteronomium, Ægyptus, Regem, Israel</vocab>
+
+--- Page 16 ---
+<lang>lat</lang>
+<page-num>7</page-num>
+<sig>B</sig>
+<meta>catchword: eſſe, in</meta>
+<vocab>Alberico Gentili, William Barclay, Moses, Samuel, Deuteronomium, Monarchomachia, Jus Regis</vocab>
+
+quam ampliùs per eandem viam revertamini.
+
+17. *Non habebit uxores plurimas, quæ alliciant animum ejus: neq; argenti & auri immenfa pondera.*
+
+18. *Poftquàm autem sederit in solio regni sui, defcribet sibi Deuteronomium legis hujus, in volumine; accipiens exemplar à facerdotibus Leviticæ tribus.*
+
+19. *Et habebit secum, legetq; illud omnibus diebus vitæ suæ: ut difcat timere Dominum Deum suum, & cuftodire verba & ceremonias ejus, quæ in lege præcepta funt.*
+
+20. *Nec elevetur cor ejus in fuperbiam super fratres suos, neq; declinet in partem dexterā vel sinistram: ut longo temporeregnet ipfe, & filii ejus super Ifraël.*
+
+Jus hoc Regis verè eft, animo sanciendi legem, à Deo Opt. Max. prolatum; discrepans planèque contrarium ei, quod minitans, & dehortans, Populo Samuel diù pòst indicabat. At regerit Alberic. Gentil. *disput. Regiâ 1. fol. m. 18. & seq.* Promulgari Moſem legem imperandi, Samuelem parendi legem: per hanc, quid ferre subditi; illâ quid facere debeant Reges, ostendi. In eundem sensum ferè, Guil. Barclajus, *contr. Monarchomach. lib. 2. fol. m. 255. & seqq. multis. item lib. 3. cap. 6.* Talia facere, quæ Samuel de Rege proponit, tyrannidem & injuriam
+
+--- Page 17 ---
+<lang>lat</lang>
+<page-num>8.</page-num>
+<meta>catchword: fed ar-</meta>
+
+esse in facto ; Jus tamen in impunitate delicti versari,
+ait. Potestatem hîc intelligi non eam, quæ competit ex
+præcepto, neque etiam eam quæ est ex permissu, qua-
+tenus liberat à peccato; sed quatenus pœnis legalibus
+eximit operantem. &c. Ac ita ex sensu Barclai, & eo-
+rum qui illum sequuntur; Officium Regis, propositum
+à Mose, à potestate licitâ, quam Samuelem explicare
+censent, sejungendum est. Non equidem ego nego, li-
+berum haud esse Populo, absolutum, legitimèque vo-
+catum Regem, solio deturbare, etsi limites justitiæ, &
+charitatis transcendat, eaque & graviora etiam faciat,
+quàm quæ à Samuele prædicta fuerunt. Sed ambigo
+an hoc Juris nomen, propriè mereatur: quod non fit ex
+quâdam juris permissi prærogativâ; & tantùm scandali
+majoris evitandi causâ (ita salvo aliorũ judicio, puto) &
+ne motus graviores suboriantur, subditi impedire non
+possunt. Et haut justâ consequentiâ deduci videtur: Po-
+pulus Principem, in subditos injustum, punire nequit.
+Ergò licet Regi vel Principi præter fas in subditos sævire.
+Nam & cùm quis contumeliâ aliquem adficit, non pro-
+priâ auctoritate is se vindicat ritè: l. 25. §. 1. ff. d. procura-
+tor. Et tamen injuriam (non jus) esse, nemo dubitare
+potest. Non video, quomodo aliquid contra, vel præ-
+ter officium factum, Juris nomen mereri queat. Trans-
+gressio officii quæcunque, peccatum habetur : Pecca-
+tum , vix ullâ ratione Jus nominari posse, videtur..
+Quod & attigi Polit. lib. 1. cap. 2. num. 40. vers. 2. & 3.
+
+7. (5) Usurpantia subsequuta, quæ regina habetur
+omnium interpretationum, præclarè docet; illa à Sa-
+muele enumerata, non jure in subditos usurpari: nec
+quoque populum Israëlis, ad ea patienda, obstrictum
+exstitisse. 2 Paralipom. cap. 21. vers. 23. dixit ad Davi-
+dem Ornan; Tolle, & faciat Dominus meus Rex, quod-
+cunque ei placet: sed & boves do in holocaustum, &c.
+cui vers. seq. Rex David respondet ; Nequaquam ita fiet,
+
+<vocab>Barclai, Mose, Samuelem, Officium Regis, Populo, Israëlis, 2 Paralipom., Ornan, David, Jus, peccatum, Politica</vocab>
+
+--- Page 18 ---
+<lang>lat</lang>
+<page-num>9.</page-num>
+<sig>B 2</sig>
+<meta>catchword: injuria</meta>
+
+sed argentum dabo quantum valet,neque enim tibi de-
+beo aufferre. sed adhuc magis urget, quòd tacuit de
+eâ ratione Rechabamus ; quòdque hujus consiliarii,
+tam seniores quàm juniores cuncti siluerunt ; cùm Is-
+rael à jugo duro levari se vellet : *1. Regum. cap. 12.* quòd
+(si Samuel parendi legem præscripsisset ) tam perti-
+naciter, non ritè potuisset peti. Scelestissima conjura-
+tio fuisset decem tribuum Jsraelis;quòd eâ occasione à
+Rechabeamo defecit, & Jeroboam elegisset Regem :
+quod tamen factum nullibi conspicitur vituperatum ;
+quin magis disertè adprobatur, *d. cap. 12. vers. 24.* A Do-
+mino quidem, factum id fuit ; sed non ille peccata facit,
+vel justificat contra jus facta. Quî Achabus, & Jeze-
+bela, *1. Reg. cap. 21.* pretio magno, majorique dolo, in-
+famiâ maxumâ, cupierint vineam Nabothi; quam per
+verba legis, *Vineas vestras accipiet*, habere potuerunt?
+Improbatur *d. cap. vers. 19.* quòd contra officium Regis,
+possederit illam vineam Achab. Jezabel Regina, *sap.*
+*dict. cap. vers. 7.* dicit quidem ad maritum ; Grandis es
+auctoritatis, & benè regis Regnum Jsraelis : quod ge-
+minum est cum illo, itidem fœminæ impotentis ; Si li-
+bet, licet, an nescis te Imperatorem esse, &c. *ut attigi,*
+*lib. 1. Polit. cap. 2. num. 43.* Pœnam luit ille ob regii mune-
+ris abusum. Sed Nabot non ullo culpatur loco; quòd
+renuit, Regique respondit : Prohibeat mihi Dominus,
+ne dem hereditatem patrum meorum tibi. *vers. 3.* quod,
+si ex lege obediendi, vineas dare debuissent Jsraelitæ,
+à Nabotho perperàm factum esset.
+
+8. (6) Non aliud innuit, proprietas genuina sanctæ
+linguæ. Haud textus Hebræus de jure quicquam di-
+cit : sed מִשְׁפַּט הַמֶּלֶךְ ( *Judicium Regis* ) idem significat
+hoc loco, quòd suprà apud eundem Samuelem, *lib. 1.*
+*cap. 2. vers. 13.* Hæc erat ratio sacerdotum ( filiorum Eli )
+מִשְׁפַּט הַכֹּהֲנִים hoc est, hæc erat prava consuetudo, &
+
+<vocab>Rechabamus, Jeroboam, Achabus, Jezebela, Nabothus, Samuel, Judicium Regis, מִשְׁפַּט הַמֶּלֶךְ, מִשְׁפַּט הַכֹּהֲנִים</vocab>
+
+--- Page 19 ---
+<lang>lat</lang>
+<page-num>10.</page-num>
+<meta>catchword: fint</meta>
+
+injuria quotidiana. Eadem significatio vocis משפט, quâ
+morem & consuetudinem notat, invenitur itidem,,
+*1. Sam. cap. 27. vers. 11. Et hoc erat judicium (id est, ratio,
+mos & consuetudo) Davidis, omnibus diebus. Sic Genes.
+cap. 40. vers. 13. Dabis calicem Pharao, in manum ejus,
+secundum judicium pristinũ; id est, veterem morẽ. Josuæ
+cap. 6. vers. 15. circumiverunt civitatem, secundum ju-
+dicium (morem) hoc. Psalmo 81. vers. 5. Ritus Dei Jacobi.
+Psalm. 119. vers. 132. Respice me, & miserere mei, pro
+judicio (consuetudine) erga amantes nomen tuum.
+Ecclesiastis, cap. 8. vers. 5. Tempus & judicium (id est,
+morem & consuetudinem) cognoscet cor sapientis. Libro 1.
+Reg. cap. 18. vers. 28. Incidebant se, secundum ritum
+(h. e. consuetudinem) suum. 2. Reg. 17. vers. 33. Diis suis ser-
+viebant, juxta judicium (consuetudinem) gentium.
+ibid. mox vers. seq. 34. Usque in præsentem diem, sequ-
+untur Judicium, (id est, morem) antiquum.* Ex quibus
+liquidò patescit, vocem משפט accipi tam in bonam,
+quàm malam partem. Hic verò in malam sumi par-
+tem, adducta suprà docere videntur argumenta. De
+eâdem re etiam Vatablus, ita ad eundem locum scribit:
+*Ad verbum, hoc erit judicium. Q. d. his moribus, & hâc
+consuetudine utentur erga vos Reges: talem exerce-
+bunt tyrannidem, cui parere necesse erit.* Quidam He-
+bræorum dicunt, hæc esse licita Regibus; alii verò di-
+cunt, Dominum hæc dixisse, ut deterreret populum
+â petendo Rege, &c. Sic Arias Montanus, in versione
+interlineari, & etiam Tremellius, huncce locum ver-
+tunt: *Hæc erit ratio Regis.* Addere lubet, quæ ad eundem
+locum notat in commentar. Petr. Martyr. *Oratio Samue-
+lis est dissuasoria: scopus est, ut populus sibi retineat
+libertatẽ suá. Contrâ illi omninò Regẽ volunt; qui cau-
+sas cognoscat, qui libertatem asserat, qui hostes pro-
+fliget. Contrâ Samuel enumerat incommoda, quæ*
+
+<vocab>משפט, mishpat, judicium, consuetudo, Samuel, David, Vatablus, Arias Montanus, Tremellius, Petr. Martyr</vocab>
+
+--- Page 20 ---
+<lang>la</lang>
+<page-num>11.</page-num>
+<sig>B 3</sig>
+<meta>catchword: ven-</meta>
+
+sint secutura: ac si diceret, si vultis commodè vivere, &
+effugere tot mala, nolite vobis creare Regem. Hoc Sa-
+muel exemplis non confirmat, cùm tamen suppeteret
+exemplorum copia. Habuerant enim Judæi Regem
+Abimelechum, hominem superbum & impotentem:
+qui, quas turbas in eâ Republ. dedisset, non poterant
+non meminisse. Videbant vicinas gentes â Regibus
+suis opprimi, & expilari. Meminerant, Pharaonem
+perdidisse & se, & Regnum suum. Sed ista Samuel non
+commemorat. Tantum monet, quid sit eventurum.
+Ita Deus, cum homines deterret â peccatis, proponit
+supplicia. In quacunque die comederitis, inquit, mor-
+te moriemini. R. Chimhi ait, Judæos inter se discre-
+pare, an hoc verè sit jus Regium. Alii ajunt, quòd no-
+men ipsum Regis, sine hoc jure non possit consistere.
+Alii negant; quòd Deus nihil hîc constituat, sed tantùm
+minetur, quid sit secuturum. Simplicius responderi
+potest, verum jus Regis descriptum esse in Deuterono-
+mio: hîc autem non verum jus proponi, sed tantùm
+usurpatum. Quis enim præscribat Regi? Cor ejus est
+in manu Dei. Tantum putat se habere juris, quantum
+libet. Sed quomodo, inquies, potest tueri Rempub-
+licam, & jus dicere sine satellitibus? Quomodo pug-
+nare potest, sine armis & equis? Quomodo alet aulam
+suam, sine proventu? Verum quidem est: sed in exi-
+gendo adhibendus est modus. Aulam tueri debet &
+aliquam pompam, sed ad usum Reipub. non ad luxum.
+Tributa cum ratione & modo exigere, licet: verùm
+per vim & oppressionem, ipsam animam miseris sub-
+ditis, quod hodiè fit, auferre, intolerabilis tyrannis est.
+Tales erant aliarum gentium Reges: tales sunt,
+qui splendore & pompâ, subditos perterrefaci-
+unt. Tales isti sibi dari postulant. Primus Rex com-
+memoratur fuisse Nimbroth. Itaque dicitur fortis
+
+<vocab>Samuel, Abimelechum, Judæi, Pharaonem, R. Chimhi, Deuteronomio, Nimbroth, jus Regium, Respublica, tyrannis</vocab>
+
+--- Page 21 ---
+<lang>lat, deu</lang>
+<page-num>12.</page-num>
+<meta>catchword: vers.</meta>
+
+venator coram Domino; quòd esset magnus tyrannus,
+& oppressor populi. Peccata Judæorum excreverant
+jam in eam magnitudinem, ut omninò castiganda fue-
+rint hâc servitute. Habuerant bonos & moderatos Ju-
+dices. Sed ut olim ranæ non contentæ trunco principe,
+impetrârunt à Jove ciconiã; ita isti, non contenti Judici-
+bus, postulant à Samuele Regem. Somniârunt fortasse,
+talem fore Regẽ, qualis describitur in Deuteronomio:
+qui studeret Legi Dei, & eius verbum perpetuò lege-
+ret. Sed longè aliter accidit. Nam in toto Regno Judæ,
+vix quatuor inventi sunt boni Reges: David, Josias, Jo-
+saphat, & Ezechias; quamvis ipsi quoque non parvis vi-
+tiis contaminati essent. Alii autem non Reges, sed pe-
+stes esse videbantur Reipublicæ. Et tamen quicunque
+erant, non licebat excutere jugum, & ab illis deficere.
+Hucusque Petrus Martyr. Planè cum hisce consentit
+Dn. Andr. Osiander, *in notis*. Judicium, ait, hoc loco, ut
+& aliis quibusdam Scripturæ locis, morem vel modum
+significat, quo aliquid fieri solet. Describentur autem
+paulò pòst Regis mores, non qui ipsum deceant, sed qui
+Monarchis ut plurimum sint familiares. Non igitur ad-
+probat vox Divina ea, quæ contra officium Reges ad-
+mittunt. Sic & Paulus Tossanus, *in notis marg.* voculam,
+**Recht** / à Luthero usurpatam, explicat, per verbum *Weise*.
+Et inquit: **Allhie würdt nicht gehandelt von dem / das einem**
+**König von Rechts wegen gebürt / sondern dessen sie sich pflegen**
+**anzumassen.**
+
+9. Licet ea, quorùm hîc Samuel facit mentionem, ju-
+re licita fuissent in Israëlitico Regno; non tamen hæc ad
+alia Regna trahi possent. Loquitur enim Propheta, de
+Rege, à Deo irato, pœnæq; loco dato: ut innui jam modò
+suprà. Loquitur de Dominatu, rerum & personarũ do-
+minium secum trahente. *arg. d. cap. 8. lib. 1. Samuelis. vers.*
+*17. & dixi polit. lib. 1. c. 5. num. 22.* Ecce quoque ipsi aiunt ad
+Samuelem: *Pone nobis Regem, sicut omnes gentes.*
+
+<vocab>Samuel, David, Josias, Josaphat, Ezechias, Petrus Martyr, Andreas Osiander, Paulus Tossanus, Martin Luther, Deuteronomium, Monarchia, Judæorum</vocab>
+
+--- Page 22 ---
+<lang>la</lang>
+<page-num>13</page-num>
+
+<margin>vers. 5. & 20.</margin> Atqui Reges gentium vicinarum, tales procul dubio erant, quales hodiè *Turci, Tartari, Moscovitae*, &c. Namq; ut *Asiæ* populi, servili magis animo sunt, quàm *Europæi*; ita Tyrannorũ Imperiis faciliùs semper parebant; quod ferè idem prædicari potest de Africanis. Indè sunt, qui particulam illam Deo displicuisse putant, *sicut omnes gentes*. Nam in gentibus non Deus imperitabat, sed Rex. *Drusius, ad difficil. loca Samuelis*. Ac itidem *Aristoteles* agnoscit; Deum imperitare, ubi Lex imperat, non Regis absoluta potestas. *lib. 3. Polit. cap. 21*. Eandem ob causam, noluit *Gedeon* dominium habere in Israëlitas: 
+
+> Non ego, ait, dominium habebo in vos, Jehovah habiturus est dominium in vos. *Judic. 8. vers. 23*.
+
+Ergò non pertinet assertum illud jus, ad Monarchiam Regalem, & adhûc minùs ad eam, quæ Legitima vocatur, statibusque mixtis aggregatur.
+
+10. Nunc paucis agere lubet, de versiculo 6. *Psalmi 51*. Qui secundum Hebraicam verborum proprietatem, ita se habet.
+
+> *Tibi, soli tibi peccavi, & malum in oculis tuis feci; ut sis justus in loquendo te, mundus sis in judicando te.*
+
+Sanè *Davidem* (quia Rex erat, aliumque non timebat) haut in *Uriam* (cùm ejus subditus fuerit) verùm soli Deo peccâsse, non solùm dicit *Ovennus, lib. 3. Epigram. 51*.
+
+> *Subditus in Legem peccat, Regemq, Deumq:*
+> *Rex peccat soli (Rex quia nempè) Deo.*
+
+Sed & hoc idem dicunt (ac meo quidem sensu) admodùm inconsideratè ex Sanctis Patribus nonnulli (quorum aliàs negligentiam sequi malo, quam diligentiam quorundam sciolorum obscuram) idque etiam placet *Henning. Arnisaeo lib. 1. de Iure Maiest. cap. 3. num. 3*. Sic Divus *Ambrosius, in Apolog. David. cap. 4. & 10*. Peccavit David, inquit, quod solent Reges, sed pœnitentiam gessit, flevit, ingemuit, quod non solent Reges. Quod erubescunt facere privati, Rex non erubuit confiteri. Qui tenentur legibus, audent suum negare peccatum; dedignantur rogare indulgentiam, quam petebat, qui nullis tenebatur legibus humanis. Rex utique erat, nullis ipse legibus tenebatur; quia liberi sunt Reges à vinculit delictorum. Neque enim ullis ad pœnam vocantur legibus, tuti imperii potestate. Homini ergò non peccavit, cui non tenebatur obnoxius. At 
+
+<meta>catchword: verò,</meta>
+
+<vocab>David, Urias, Rex, Monarchia, Psalmi 51, Henning. Arnisaeus, Ambrosius, Gedeon, Aristoteles, Drusius, jus, potestas, peccatum, Turci, Tartari, Moscovitae</vocab>
+
+--- Page 23 ---
+<lang>Latin</lang>
+<page-num>14.</page-num>
+
+verò, si quis ex fundamentis fidei Christianæ, hanc rem dijudicare velit;
+aliter eam se habere comperietur. Princeps Christianus, æquè proximum
+diligere debet, ac vilissimus quisque subditorum, si velit esse Christia-
+nus: hoc si negligat, erga proximum peccat, cui debet charitatem. Juri
+naturali, princeps ut homo est obstrictus; quod docui *lib. 1. Polit. cap. 2.
+num. 38. & vers. 1.* idque inter nos quandam instituit cognationem; &
+consequenter, hominem homini nocere, nefas est. *l. 3. d. Iust. & Iur.*
+Quod si quis faciat, debitum certè reciprocum violatur, & impingitur in
+Jus illud naturæ. Neque conclusio concludens est: Princeps à subditis
+puniri nequi. Ergò illos injustè offendens, in eos haut peccat. Diversa
+namque sunt injuriam pati, & eam vindicare posse: nec est necesse ut
+hoc sublato, illud aufferatur. Sic namque, filius punire nequit pa-
+trem; & tamen non perperam dici potest, patrem in filium deliquisse.
+Sic Pharao, dicit Mosi atque Aaroni: Peccavi in Dominum Deum ve-
+strum, & in vos. *Exod. cap. 10. vers. 16.* Et erant tamen illi subditi Pharao-
+nis, planè absoluti. Absit autem ut humaniorem Pharaonem prædice-
+mus, quàm fuerit pientissimus David. Is itaque: Tibi soli, ait, peccave-
+ram; id est, tu sciebas peccati gravitatem, cùm adhùc non palàm illud
+esset. vid. *Emanuel. Tremell. notas, ad d. Ps. 51.* *Dn. Iohan. Arndt / in der
+Auslegung des Psalters Ps. 51. concione 2. num. 2.* Soli Deo, cæcum do-
+mus scelus, ut *lib. 1. Æneid.* Virgilius loquitur, retectum erat. Ita etiam
+intellexit hunc locum Paraphrastes Chaldæus; qui habet: קדמך
+בלחודיך &c. Corā te solo peccavi, & malū coram te feci. Nec imperti-
+nenter Aretius Felinus, in explanat. Psalmorum. Peccārat & in fidissimum
+militem Vriah, ac totum exercitum, quem hujus necandi causâ, in peri-
+culum adduci jusserat; sed dùm perpendebat, quantùm hoc suo scelere
+contempserat & offenderat Deum: indè ita torquebatur, & animo dif-
+cerpebatur, ut id unum sentiret, unum quereretur, ac diceret Domino;
+*In te, in te unum peccavi.* Idque, & quòd tuum adeò verbum contempsi,
+quòd te tantoperè irritavi; hoc, inquam, me enecat, dilaniat, excarni-
+ficat. &c.
+
+---
+
+->Quæ omnia censuræ rectiùs candidèque senti-<-
+->entium submissa sunto.<-
+
+->F I N I S.<-
+
+<vocab>fidei Christianæ, Princeps Christianus, Jus naturale, Exodus 10:16, Psalm 51, Emanuel Tremellius, Johann Arndt, Auslegung des Psalters, Virgil, Aeneid, Paraphrastes Chaldæus, Targum, Aretius Felinus, Martin Bucer, Uriah</vocab>
+
+--- Page 24 ---
+<lang>la</lang>
+
+### DE
+# BOMBAR-
+# DIS:
+### Ac item
+### DE
+## TYPOGRAPHIA,
+### Dissertatio historica.
+
+### ANNO M. DC. XX.
+
+<vocab>Bombarda, Typographia, Dissertatio historica, Anno 1620, artillery, printing</vocab>
+
+<detected-images>
+[{"description": "Small typographic ornament in the shape of a cross composed of fleuron elements.", "type": "decorative", "bbox": {"x": 0.362, "y": 0.671, "width": 0.116, "height": 0.084}, "gallery_quality": 0.3, "museum_rationale": "Simple printer's ornament used for visual balance on a title page."}]
+</detected-images>

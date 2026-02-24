@@ -1,0 +1,28 @@
+{
+  "id": "695929cc7c072c27f686d4a7",
+  "title": "Certain astrological and astronomical figures",
+  "display_title": "Certain astrological and astronomical figures",
+  "author": "Honorius",
+  "language": "English",
+  "year": 1410,
+  "published": "1410",
+  "pages_count": 21,
+  "pages_with_ocr": 21,
+  "pages_with_translation": 21,
+  "source_url": "https://sourcelibrary.org/book/695929cc7c072c27f686d4a7",
+  "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "ljs226"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:55.072Z",
+  "_hashes": {
+    "ocr": "2bfbeca33f2592b6",
+    "translation": "0aacd5cd73f421df"
+  }
+}

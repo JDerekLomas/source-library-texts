@@ -1,0 +1,28 @@
+{
+  "id": "69906705249ce014347d23f4",
+  "title": "The Question of Witchcraft Debated",
+  "display_title": "The Question of Witchcraft Debated",
+  "author": "John Wagstaffe",
+  "language": "English",
+  "year": 1669,
+  "published": "Unknown",
+  "pages_count": 133,
+  "pages_with_ocr": 20,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/69906705249ce014347d23f4",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "per_witchcraft-in-europe-and-america_1669"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:29:56.135Z",
+  "_hashes": {
+    "ocr": "2764620053fe3d26",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "69906d3964d44bd0a0ef52bf",
+  "title": "Svara Tattva Udaya",
+  "display_title": "Svara Tattva Udaya",
+  "author": "Unknown",
+  "language": "Sanskrit",
+  "year": null,
+  "published": "Unknown",
+  "pages_count": 30,
+  "pages_with_ocr": 30,
+  "pages_with_translation": 30,
+  "source_url": "https://sourcelibrary.org/book/69906d3964d44bd0a0ef52bf",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "svaratattvodaya-CGV-PSS-0184-1187"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:52.405Z",
+  "_hashes": {
+    "ocr": "d6f2f13d312913b1",
+    "translation": "33473f3f35aa6832"
+  }
+}

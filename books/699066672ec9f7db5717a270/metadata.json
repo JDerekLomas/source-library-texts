@@ -1,0 +1,28 @@
+{
+  "id": "699066672ec9f7db5717a270",
+  "title": "Prashna Deepakam",
+  "display_title": "Prashna Deepakam",
+  "author": "Bhavani Nath",
+  "language": "Sanskrit",
+  "year": 1550,
+  "published": "Unknown",
+  "pages_count": 33,
+  "pages_with_ocr": 33,
+  "pages_with_translation": 33,
+  "source_url": "https://sourcelibrary.org/book/699066672ec9f7db5717a270",
+  "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "prashnadeepakambhavaninath1187ghaalm6shlf1devanagarijyotish"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:51.385Z",
+  "_hashes": {
+    "ocr": "0c8e5ff3c2c7ab73",
+    "translation": "61374623dc6c87f4"
+  }
+}

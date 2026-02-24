@@ -1,0 +1,26 @@
+{
+  "id": "697d9ca341ae75bfde3a007a",
+  "title": "Der himmlische Samariter, und zweystämmige Jacobs Ritter",
+  "display_title": "Der himmlische Samariter, und zweystämmige Jacobs Ritter",
+  "author": "anonymous",
+  "language": "German",
+  "year": 1631,
+  "published": "1631",
+  "pages_count": 28,
+  "pages_with_ocr": 28,
+  "pages_with_translation": 28,
+  "source_url": "https://sourcelibrary.org/book/697d9ca341ae75bfde3a007a",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:53.402Z",
+  "_hashes": {
+    "ocr": "5fd8a26611a87cf9",
+    "translation": "1f74c68bded24321"
+  }
+}

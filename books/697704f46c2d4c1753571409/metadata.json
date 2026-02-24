@@ -1,0 +1,26 @@
+{
+  "id": "697704f46c2d4c1753571409",
+  "title": "Bericht ob weltlich Gewalt",
+  "display_title": "Bericht ob weltlich Gewalt",
+  "author": "Radecker, Casparus",
+  "language": "German",
+  "year": 1556,
+  "published": "1556",
+  "pages_count": 30,
+  "pages_with_ocr": 30,
+  "pages_with_translation": 30,
+  "source_url": "https://sourcelibrary.org/book/697704f46c2d4c1753571409",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:52.318Z",
+  "_hashes": {
+    "ocr": "6e79dae60ab31dcb",
+    "translation": "991fc4416f23634d"
+  }
+}

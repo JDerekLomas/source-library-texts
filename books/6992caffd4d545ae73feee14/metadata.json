@@ -1,0 +1,28 @@
+{
+  "id": "6992caffd4d545ae73feee14",
+  "title": "芥子園畫傳 (Jieziyuan Huazhuan: Mustard Seed Garden Manual of Painting) Vol 3",
+  "display_title": "芥子園畫傳 (Jieziyuan Huazhuan: Mustard Seed Garden Manual of Painting) Vol 3",
+  "author": "Wang Gai",
+  "language": "Chinese",
+  "year": 1868,
+  "published": "1868",
+  "pages_count": 30,
+  "pages_with_ocr": 30,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/6992caffd4d545ae73feee14",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "kaishiengadenv3ptwangd"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:29:52.357Z",
+  "_hashes": {
+    "ocr": "27703f310b26f885",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

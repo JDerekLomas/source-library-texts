@@ -1,0 +1,353 @@
+--- Page 1 ---
+<lang>Latin</lang>
+<meta>Front cover or initial flyleaf of a manuscript volume, likely part of a collection of works by Johannes Trithemius.</meta>
+<warning>The page is a blank cover consisting of parchment or heavy paper with significant surface staining, foxing, and wear. Transcription is limited to identification labels and shelfmarks.</warning>
+
+<insert>
+V
+TRITH.
+1621
+</insert>
+
+<insert>
+1.
+</insert>
+
+<vocab>Johannes Trithemius, shelfmark, volume label</vocab>
+
+--- Page 2 ---
+<lang>Latin</lang>
+<warning>This image depicts the top edge of a closed volume rather than a manuscript page. There is no continuous text to transcribe.</warning>
+<meta>Physical view of the top edge (head) of the book. Binding and paper edges are visible with external shelfmarks.</meta>
+
+<insert>
+^
+</insert>
+
+<insert>
+6 | 2
+</insert>
+
+<vocab>binding, shelfmark, book edge</vocab>
+
+--- Page 3 ---
+<lang>Latin</lang>
+<warning>This page appears to be a blank cover or flyleaf. No legible text is present on the surface.</warning>
+
+<meta>blank page, binding remnants visible on right edge</meta>
+
+<vocab>binding, parchment, flyleaf</vocab>
+
+--- Page 4 ---
+<lang>English</lang>
+<warning>The provided image does not contain a page of manuscript text. It depicts the closed edge (likely the fore-edge) of a bound manuscript volume. The only text visible is modern digitization metadata.</warning>
+
+<meta>Early European Books, Copyright © 2011 ProQuest LLC. Images reproduced by courtesy of the Biblioteca Nazionale Centrale di Firenze. CFMAGL. 1.6.25/a</meta>
+
+<vocab>manuscript binding, fore-edge, digitization metadata</vocab>
+
+--- Page 5 ---
+<lang>English</lang>
+<meta>Image displays the side profile (fore-edge) of the bound manuscript volume.</meta>
+<warning>This image does not contain a page of manuscript text. It is a photograph of the physical edge of the volume and includes modern metadata/copyright information.</warning>
+
+Early European Books, Copyright © 2011 ProQuest LLC.
+Images reproduced by courtesy of the Biblioteca Nazionale Centrale di Firenze.
+CFMAGL. 1.6.25/a
+
+<vocab>ProQuest, Biblioteca Nazionale Centrale di Firenze, CFMAGL. 1.6.25/a</vocab>
+
+--- Page 6 ---
+<lang>English</lang>
+<warning>This image does not contain a manuscript page for transcription. It shows the closed fore-edge of a volume and a copyright notice from ProQuest and the Biblioteca Nazionale Centrale di Firenze.</warning>
+
+Early European Books, Copyright © 2011 ProQuest LLC.
+Images reproduced by courtesy of the Biblioteca Nazionale Centrale di
+Firenze.
+CFMAGL. 1.6.25/a
+
+<vocab>Early European Books, ProQuest, Biblioteca Nazionale Centrale di Firenze</vocab>
+
+--- Page 7 ---
+<lang>Latin</lang>
+<meta>Title page of Johannes Trithemius's work on steganography, published in Darmstadt, 1621.</meta>
+
+## Clauis generalis Triplex
+# IN LIBROS STE-
+# GANOGRAPHICOS
+## IOHANNIS TRITHEMII
+### ABBATIS SPANHEI-
+### MENSIS;
+
+-> AB IPSO AVTHORE CONSCRI- <-
+-> PTA, ET AMATORIBVS HVIVS <-
+-> *artis gratitudinem declaraturis & secreto reti-* <-
+-> *nentibus communicanda.* <-
+
+---
+
+-> *DARMSTADII* <-
+-> Excudebat Balthasar Hofmann, impenfis Iohannis Berneri, <-
+-> Bibliop. Francof. Anno 1621. <-
+-> **Cum Priuilegio & confenfu Superiorum.** <-
+
+<vocab>Steganographia, Trithemius, Clauis generalis, Darmstadt, Balthasar Hofmann, Johann Berner</vocab>
+
+<detected-images>
+[{"description": "A woodcut emblem featuring three figures in a workshop or laboratory setting; one figure is striking an anvil with a hammer while others assist or observe. The scene is enclosed within a decorative oval wreath tied with ribbons.", "type": "woodcut", "bbox": {"x": 0.285, "y": 0.408, "width": 0.218, "height": 0.223}, "gallery_quality": 0.8, "museum_rationale": "An intricate 17th-century woodcut emblem characteristic of occult or technical publications of the era, providing symbolic context to Trithemius's cryptic works."}]
+</detected-images>
+
+--- Page 8 ---
+<lang>lat</lang>
+<meta>The text on this page is mirrored bleed-through (show-through) from the title page on the recto side of the leaf.</meta>
+<warning>All text and decorative elements on this page are mirrored ghosting from the reverse side; the page is technically a blank verso.</warning>
+
+->Clavis Generalis Triplex<-
+
+# IN LIBROS SEX
+# CANONICOS
+
+## IOHANNIS TRITHEMII
+### ABBATIS SPANHE-
+### MENSIS
+
+->AB IPSO AUTHORE CONSCRI-<-
+->PTA ET AMATORIBUS HUIUS<-
+-><unclear>Cum Gratia & Privilegio ...</unclear><-
+
+---
+
+->ARGENTORATI<-
+-><unclear>Excudebat ... Anno M. DC. XII.</unclear><-
+
+<detected-images>
+[{"description": "Faint mirrored show-through of a printer's device or coat of arms from the title page.", "type": "emblem", "bbox": {"x": 0.48, "y": 0.40, "width": 0.24, "height": 0.23}, "gallery_quality": 0.3, "museum_rationale": "This image is an artifact of show-through from the following page; while it represents a standard 17th-century printer's mark, its mirrored and faded state makes it poor for gallery display but useful for bibliographic identification."}]
+</detected-images>
+
+<vocab>Johannes Trithemius, Clavis Generalis Triplex, Argentoratum, show-through, Latin, 17th century</vocab>
+
+--- Page 9 ---
+<lang>la</lang>
+<sig>a 2</sig>
+<meta>catchword: ponas,</meta>
+
+### Clauis generalis Triplex
+# IN LIBROS STEGA-
+# NOGRAPHICOS IOHAN-
+## NIS TRITHEMII ABBATIS
+### SPANHEIMENSIS,
+
+**C**laues generales noſtri Libri primarięque ſunt tres, ex quibus variatio omniū reliquorum dependet. Et conſiſtit in permutatione vocaliū cum conſonantibus veluti in ſubſequētibus videbis exemplis.
+
+->{ a  b }       { a  h }       { a  p }<-
+->{ e  c }       { e  k }       { e  q }<-
+->1 { i  d }    2 { i  l }    3 { i  r }<-
+->{ o  f }       { o  m }       { o  s }<-
+->{ u  g }       { u  n }       { u  t }<-
+
+Quæ ratio ſcribendi nimirum ſic intelligi debet, vt vbi in ſecreto ſenſu tuo tibi a vocalis ſcribenda obueniat tu pro a, conſonantem b, ponas,
+
+<vocab>Clavis generalis, Steganographia, Johannes Trithemius, substitution cipher, cryptography, permutation, vowel-consonant mapping</vocab>
+
+<detected-images>
+[
+  {"description": "Decorative woodcut headpiece featuring symmetrical foliate scrolls and a central grotesque mask.", "type": "woodcut", "bbox": {"x": 0.148, "y": 0.165, "width": 0.505, "height": 0.082}, "gallery_quality": 0.75, "museum_rationale": "A characteristic 16th-century decorative woodcut used for chapter or section headings, showing fine detail in the foliate scrollwork and the central mask."},
+  {"description": "Large decorative woodcut initial 'C' with intricate foliate and floral ornamentation, initiating the main text body.", "type": "decorative", "bbox": {"x": 0.146, "y": 0.375, "width": 0.194, "height": 0.142}, "gallery_quality": 0.8, "museum_rationale": "A high-quality decorative initial typical of scholarly Renaissance printing, used to provide visual emphasis and artistic value to the start of the treatise."}
+]
+</detected-images>
+
+--- Page 10 ---
+<lang>Latin</lang>
+<page-num>4</page-num>
+<header>CLAVIS GENERALIS STEG.</header>
+<meta>catchword: coniu-</meta>
+
+ponas, & vice versa, si occurrat scribenda b, tu pro b, vocalem a scribas, & sic in reliquis modis, qui etiam pro variatione, inuertuntur retrogradatione, videlicet, pro a g, pro e f, pro i d, quæ sicut est media, ita semper firma manet, nec unquã mutabitur.
+
+->{ a g } { a n } { a t }<-
+->{ e f } { e m } { e s }<-
+->1 { i d } 2 { i l } 3 { i r }<-
+->{ o c } { o k } { o q }<-
+->{ u b } { u h } { u p }<-
+
+Iam exempli gratia si fit scribendum vocabulum Omnipotens, & hoc per primum modum, sic scribitur Fmndpftcns, Moulpmtkus per secundum, per tertium verò modum sic: Smnrasuqno. Inuersiuè nimirum per tres posteriores modos, per primum sic: Cmndpctfns, per secundum sic: Kealpktmas, per tertium modum sic: Qmnruqasne Et sic progredimur in integris sententijs. Modo ex his sex modis prædictis eriguntur hæ regulæ sequentes secundum quas te regulabis in nostri libri lectione, & quilibet subsequentium modorum variatur per quamlibet regulam prædictam. Et illorum variationem in multis nostri libri partibus obseruabis, quod in
+
+<vocab>Clavis Generalis, steganography, substitution cipher, Omnipotens, retrograde variation, cryptography</vocab>
+
+<detected-images>
+[{"description": "A schematic cryptographic diagram showing three vertical columns of letter substitution pairs enclosed in curly braces, with the middle pairs numbered 1, 2, and 3 to designate cipher modes.", "type": "diagram", "bbox": {"x": 0.35, "y": 0.298, "width": 0.36, "height": 0.123}, "gallery_quality": 0.8, "museum_rationale": "An informative historical diagram illustrating early modern cryptographic methods and substitution cipher rules."}]
+</detected-images>
+
+--- Page 11 ---
+<lang>Latin</lang>
+<header>IOHAN. TRITH. ABB. SPANH.</header>
+<sig>a 3</sig>
+<meta>Catchword: fuerit,</meta>
+
+coniurationibus Dæmonum, in quibus fecreta
+noftra abfcondita funt, & reuelata noftras regu-
+las & figilla fcientibus. Et pro exemplo tibi fit
+fubfequens fententia, quæ quemadmodum per
+omnes ante dictas regulas fcribi poteft, ita nobis
+eam per primum modum hic ponere placuit.
+Miferere omnipotens Deus animabus famulo-
+rum tuorum in te pie requiefcentium, quæ fen-
+tentia per primum fic fit : Mdscrcrc fmndpftcns
+icgs bndmbags obmglfrgm tgfrgm dn te pdc
+rcqgdcsecntdgm, &c. Et fi quidem propter defe-
+ctum vocalium, hic tibi nullum datur vocabu-
+lum quippiam fignificans in libro nostro immi-
+fcendo. Inter tot confonantes vocales hanc re-
+gulam fubfequentis exempli fecuti fumus, vide-
+licet accipiendo prædictas confonantes.
+Ṁidosa ċoracir ȯcafa i̇mni ḋapofa ṫi ċo ṙu ṡa :
+& ex quibus literis prima vel initialis tantum eft
+tibi fignificatiua, quod mox nihil fignificatiua,
+vel vacans fequitur, & ita alternatim, veluti tibi
+puncta fuperius fupra literas fignificatiuas no-
+tata demonftrant, & hic inferius per numeros
+abbreuiationis caufa, cunctæ regulæ & variatio-
+nes demonftrabuntur, in quibus exemplis o fi-
+gnum vel zccr arithmeticum, quoties pofitum
+
+<vocab>Johannes Trithemius, Sponheim, cryptography, steganography, cipher, Miserere, Dæmonum, sigilla, zccr arithmeticum, initialis significatiua</vocab>
+
+--- Page 12 ---
+<lang>lat</lang>
+<page-num>4</page-num>
+<header>CLAVIS GENERALIS STEG.</header>
+
+fuerit, tot tibi literas significatiuas denotabit, &
+mox sequens numerus tot significatiuas signifi-
+cabit:
+
+| | |
+|:---|:---|
+| *Primus modus denotatur sic* | 10 10 10 10 10 10 10 10 10, &c. |
+| *Secundus modus sic* | 01 01 01 01 01 01 01 01 01, &c. |
+| *Tertius sic* | 200 200 200 200 200 200 &c. |
+| *Quartus sic* | 002 002 002 002 002 002, &c. |
+| *Quintus modus sic* | 0001 0001 0001 0001 0001 0001, &c. |
+| *Sextus modus* | 1000 1000 1000 1000 1000 1000, &c. |
+| *Septimus modus sic* | 0002 0002 0002 0002 0002 0002, &c. |
+| *Octauus modus sic* | 2000 2000 2000 2000 2000 2000, &c. |
+
+Altera clauis generalis est, quæ fit tali modo,
+nimirum quod scriptor præcedat & Lector se-
+quatur, vt in hoc exemplo: *Miserere omnipotens*
+*Deus animabus famulorum tuorum, &c.* scili-
+cet, *lhrdqdqd nlmbrpsdmr edtr zmhlzatr ez-*
+*ltknqtl stnqtl, &c.* & hæ literæ quoniam ita iun-
+ctæ significarent nihil similiter per præcedentia
+octo exempla vel modos ii in libro nostro habe-
+tur. Tertia & vltima clauis generalis est sic fa-
+cta, vt si tu velles scribere, *Miserere Deus, &c.* vti
+supra, tu sic facies, nimirum numerabis omnes
+tui sensus literas, & quot fuerint, in tot partes di-
+uides easdem, veluti si duas partes volueris diui-
+dere, tu habebis pro vna parte totius supra posi-
+tæ sententiæ literas 45. diuisæ venient pro vna
+parte 22. & remanet vna, quam in fine semper
+subiunges reliquis & illas simili modo inferius
+<meta>catchword: deno-</meta>
+
+<vocab>Clavis generalis, steganographia, cryptography, modus, literae, encryption</vocab>
+
+--- Page 13 ---
+<lang>Latin</lang>
+<page-num>7</page-num>
+<header>JOHAN. TRITH. ABB. SPANH.</header>
+<warning>The page exhibits significant foxing and brown spotting throughout the paper surface.</warning>
+
+denotato scribes & postmodum per antedictas
+regulas variabis.
+Mainsiem raebuers ofmanmiuplotreuns idu-
+coursu, **Atque** hic versus est per duo diuersus, per
+3. autem sic facit: Mefinassme dnrcleuors reau
+onmitmnu raopbrouutsm. Per 4. autem sic:
+M iauipnlsoio et mr reanenbmrs ut edsu oesu
+m uar nsmu, &c. Et sic diuidendo progredimur
+vsq; ad octo partes & postmodum ad faciẽdum
+legenti literas quippiam significatiuae, cum aliis
+vocalibus interpositis per praecedentes octo re-
+gulas in libro nostro progredimur. Et nullam a-
+liam in lectione libri nostri difficultatem habe-
+bis, nisi vt quamlibet coniurationem in princi-
+pio, per quemlibet nostrorum modorum ad in-
+ueniendum sensum nostrum examines, quod
+tuae industriè cum hac claui mox patebit. Quare
+->te rogamus pro salute animæ nostræ ora-<-
+->tionem Dominicam dice-<-
+->re velis, &c.<-
+
+->F I N I S.<-
+
+<vocab>Johannes Trithemius, Abbot of Sponheim, cryptography, ciphertext, Steganographia, Latin brevigraphs</vocab>
+
+--- Page 14 ---
+<warning>The text on this page is extremely faint and significantly obscured by extensive foxing and paper discoloration. While the text appears at first glance to be show-through, the orientation of the letters (e.g., the 'D' in Dominicæ, the 'p' in pro) indicates it is printed on this side of the leaf, though it has faded to a ghostly brown color.</warning>
+
+<lang>Latin</lang>
+<page-num>b</page-num>
+<meta>image quality: poor, text extremely faint; centered layout typical of a verso dedication or summary</meta>
+
+->duntaxat sit postremum ex peritis<-
+->regulas veritas<-
+->Mensio enim hæc ostendit inquinatos ubi<-
+->eorum, qui adhibuisti, et per duodecim pag.<-
+->autem sic in Machabæis declaratur nuntiari<-
+->centumque trophæum. Per hunc autem hoc<-
+->in septuagesimo et in trecentis et centum<-
+->in nuntium, &c. Et sicut dividendo progredimur<-
+->visu ad ostendendum & positum ad iaciendum<-
+->legit literas quippiam significent, cum alibi<-
+->vocabula interpretatus per congruentiam ordo re-<-
+->est pars libri nostri progredimur. Et nullatenus<-
+->animam lectionibus nostris, non difficultatem habet<-
+->in tribus, ut quamlibet coniunctionem in puncto<-
+->pro præceptis multorum modorum eundem<-
+->acutissimum lumen nostrum, fumoque<-
+->suæ indulgentiæ lucem concedat. Oratio<-
+->ut rogamus pro salute animæ nostræ<-
+->Honori Dominicæ Diei<-
+->votis, &c.<-
+
+---
+
+-><unclear>L I B. I.</unclear><-
+
+<vocab>Machabæis, Honori Dominicæ Diei, Oratio, indulgentiæ, salute animæ, septuagesimo, centum</vocab>
+
+--- Page 15 ---
+<lang>Latin</lang>
+<meta>Blank page</meta>
+
+<vocab></vocab>
+
+--- Page 16 ---
+<lang>Latin</lang>
+<meta>Blank folio page with institutional metadata at the footer (Early European Books, ProQuest, Biblioteca Nazionale Centrale di Firenze, CFMAGL. 1.6.25/a). Faint watermark visible in the center.</meta>
+
+<note>This page is blank and contains no historical handwritten or printed text.</note>
+
+<vocab>watermark, blank page, folio</vocab>
+
+<detected-images>
+[{"description": "A faint, large decorative watermark in the center of the paper. It features a lobed or shield-like outline with internal scrolling foliate patterns, typical of early modern papermaking.", "type": "decorative", "bbox": {"x": 0.428, "y": 0.395, "width": 0.311, "height": 0.338}, "gallery_quality": 0.5, "museum_rationale": "Historical watermarks are significant for bibliographical analysis, aiding in the dating and localization of manuscript production, though this example is very faint and intended for paper identification rather than as a primary illustration."}]
+</detected-images>
+
+--- Page 17 ---
+<lang>Latin</lang>
+
+<warning>This page is a blank flyleaf or endpaper, containing only modern archival identification numbers and a faint watermark. There is no primary historical text.</warning>
+
+<insert>
+005643558
+005643559
+</insert>
+
+<vocab>flyleaf, archival numbering, watermark</vocab>
+
+<detected-images>
+[{"description": "Faint circular watermark centered on the page, likely a paper manufacturer's mark or heraldic device.", "type": "decorative", "bbox": {"x": 0.352, "y": 0.384, "width": 0.301, "height": 0.286}, "gallery_quality": 0.3, "museum_rationale": "A common but faint watermark typical of period paper, providing evidence of the manuscript's material history."}]
+</detected-images>

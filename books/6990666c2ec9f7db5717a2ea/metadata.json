@@ -1,0 +1,28 @@
+{
+  "id": "6990666c2ec9f7db5717a2ea",
+  "title": "Prashna Marga with Sanskrit Commentary",
+  "display_title": "Prashna Marga with Sanskrit Commentary",
+  "author": "Nilakantha",
+  "language": "Sanskrit",
+  "year": 1649,
+  "published": "Unknown",
+  "pages_count": 347,
+  "pages_with_ocr": 20,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/6990666c2ec9f7db5717a2ea",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "prashnamargawithsanskritcommentory_201908"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:29:55.984Z",
+  "_hashes": {
+    "ocr": "0266f8c9e8fcd0d4",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

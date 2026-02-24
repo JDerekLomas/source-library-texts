@@ -1,0 +1,26 @@
+{
+  "id": "699356c28ed86e583b7b8320",
+  "title": "Dharani Sutra (Baoqie Yin Tuoluoni Jing)",
+  "display_title": "Dharani Sutra (Baoqie Yin Tuoluoni Jing)",
+  "author": "Anonymous",
+  "language": "Chinese",
+  "year": 975,
+  "published": "975",
+  "pages_count": 18,
+  "pages_with_ocr": 18,
+  "pages_with_translation": 18,
+  "source_url": "https://sourcelibrary.org/book/699356c28ed86e583b7b8320",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:57.288Z",
+  "_hashes": {
+    "ocr": "ed1a0d16c055fcb8",
+    "translation": "8f8b23a052c31472"
+  }
+}

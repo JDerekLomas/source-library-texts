@@ -1,0 +1,28 @@
+{
+  "id": "69907c4c4d10d3398523719b",
+  "title": "Shatapanchashika of Prithuyashas",
+  "display_title": "Shatapanchashika (Prithuyashas)",
+  "author": "Prithuyashas",
+  "language": "Sanskrit",
+  "year": 1800,
+  "published": "1800",
+  "pages_count": 24,
+  "pages_with_ocr": 24,
+  "pages_with_translation": 24,
+  "source_url": "https://sourcelibrary.org/book/69907c4c4d10d3398523719b",
+  "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "ShataPanchashikaPrithuyasha858GhaAlm4Shlf5DevanagariJyotish"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:54.780Z",
+  "_hashes": {
+    "ocr": "66d8258619d31220",
+    "translation": "1faeff01817d9f81"
+  }
+}

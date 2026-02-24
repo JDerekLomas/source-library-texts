@@ -1,0 +1,28 @@
+{
+  "id": "6991e7dec91ce7d733e50228",
+  "title": "A Discourse upon Coins",
+  "display_title": "A Discourse upon Coins",
+  "author": "Bernardo Davanzati",
+  "language": "English",
+  "year": 1729,
+  "published": "Unknown",
+  "pages_count": 29,
+  "pages_with_ocr": 29,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/6991e7dec91ce7d733e50228",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bim_early-english-books-1641-1700_a-discourse-upon-coins-_davanzati-bernardo_1696"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:29:53.272Z",
+  "_hashes": {
+    "ocr": "9522529ce858334f",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

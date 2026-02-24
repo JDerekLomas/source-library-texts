@@ -1,0 +1,28 @@
+{
+  "id": "69907cde5f855ec553e77c38",
+  "title": "Janma Garbha Ishta Kala Shodhanam / Nashta Jatakam",
+  "display_title": "Nashta Jatakam",
+  "author": "Unknown",
+  "language": "Sanskrit",
+  "year": 1800,
+  "published": "1800",
+  "pages_count": 25,
+  "pages_with_ocr": 25,
+  "pages_with_translation": 25,
+  "source_url": "https://sourcelibrary.org/book/69907cde5f855ec553e77c38",
+  "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "JanmaGarbhaIshtaKalaShodhanamNashtaJatakamAlm28Shlf56306DevanagariJyotish"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:54.579Z",
+  "_hashes": {
+    "ocr": "5d0c37ba13b07398",
+    "translation": "43d300c5ef407a9d"
+  }
+}

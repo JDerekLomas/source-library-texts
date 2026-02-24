@@ -1,0 +1,28 @@
+{
+  "id": "69907d9efc4b8b2032ced8be",
+  "title": "Svapanadhyaya (Dream Chapter)",
+  "display_title": "Svapanadhyaya",
+  "author": "Unknown",
+  "language": "Sanskrit",
+  "year": 1800,
+  "published": "1800",
+  "pages_count": 24,
+  "pages_with_ocr": 24,
+  "pages_with_translation": 24,
+  "source_url": "https://sourcelibrary.org/book/69907d9efc4b8b2032ced8be",
+  "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "Swapanadhyaya1083GhaAlm5Shlf4DevanagariJyotish"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:54.868Z",
+  "_hashes": {
+    "ocr": "2a394af59076c747",
+    "translation": "dc0af55131b2145a"
+  }
+}

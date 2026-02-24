@@ -1,0 +1,28 @@
+{
+  "id": "69907cf2a3654a711c0b6e4c",
+  "title": "Mahat Gyan Prashnavali of Vriddha Gargi Muni",
+  "display_title": "Vriddha Gargi Prashnavali",
+  "author": "Vriddha Gargi Muni",
+  "language": "Sanskrit",
+  "year": 1800,
+  "published": "1800",
+  "pages_count": 19,
+  "pages_with_ocr": 19,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/69907cf2a3654a711c0b6e4c",
+  "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "MahatGyanPrashnavaliVriddhaGargiMuni1066GhaAlm5Shlf4DevanagariJyotish"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:29:56.965Z",
+  "_hashes": {
+    "ocr": "5ca62b49fea67088",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

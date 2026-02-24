@@ -1,0 +1,28 @@
+{
+  "id": "69907cf15f855ec553e784b6",
+  "title": "Palli Prathana and Phalam of Garga Muni",
+  "display_title": "Garga Muni Phalam",
+  "author": "Garga Muni",
+  "language": "Sanskrit",
+  "year": 1800,
+  "published": "1800",
+  "pages_count": 24,
+  "pages_with_ocr": 24,
+  "pages_with_translation": 24,
+  "source_url": "https://sourcelibrary.org/book/69907cf15f855ec553e784b6",
+  "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "PalliPrathananSaratPrarohanyoHPhalamShantiVidhischaGargaMuni1080GhaAlm5Shlf4DevanagariJyotish"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:54.619Z",
+  "_hashes": {
+    "ocr": "a79c1b7bf7b959c8",
+    "translation": "79a03c9d566816fc"
+  }
+}

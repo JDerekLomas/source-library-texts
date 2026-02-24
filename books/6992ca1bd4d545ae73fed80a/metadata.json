@@ -1,0 +1,28 @@
+{
+  "id": "6992ca1bd4d545ae73fed80a",
+  "title": "Pelliot chinois 2012 (Dunhuang Document)",
+  "display_title": "Pelliot chinois 2012 (Dunhuang Document)",
+  "author": "Unknown",
+  "language": "Chinese",
+  "year": 900,
+  "published": "Unknown",
+  "pages_count": 31,
+  "pages_with_ocr": 31,
+  "pages_with_translation": 31,
+  "source_url": "https://sourcelibrary.org/book/6992ca1bd4d545ae73fed80a",
+  "license": "https://gallica.bnf.fr/html/und/conditions-dutilisation-des-contenus-de-gallica",
+  "doi": null,
+  "external_ids": {
+    "gallica": "btv1b8300279w"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:52.170Z",
+  "_hashes": {
+    "ocr": "30d5581eb2dd96a7",
+    "translation": "858a92ca3cad8652"
+  }
+}

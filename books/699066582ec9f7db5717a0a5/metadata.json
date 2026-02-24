@@ -1,0 +1,28 @@
+{
+  "id": "699066582ec9f7db5717a0a5",
+  "title": "Karana Kutuhala (Karna Kutuhala)",
+  "display_title": "Karana Kutuhala (Karna Kutuhala)",
+  "author": "Bhaskara II",
+  "language": "Sanskrit",
+  "year": 1928,
+  "published": "Unknown",
+  "pages_count": 162,
+  "pages_with_ocr": 20,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/699066582ec9f7db5717a0a5",
+  "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "karnakutuhalabhaskaracharyaganakakumudakaumudisumatiharshavasanavibhushanasudhak_246_b"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:29:56.674Z",
+  "_hashes": {
+    "ocr": "18b00482ea6a04d6",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

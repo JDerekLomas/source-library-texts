@@ -1,0 +1,28 @@
+{
+  "id": "69906d3564d44bd0a0ef52a9",
+  "title": "Graha Makha Prayoga Paddhati",
+  "display_title": "Graha Makha Prayoga Paddhati",
+  "author": "Unknown",
+  "language": "Sanskrit",
+  "year": 1816,
+  "published": "1816",
+  "pages_count": 20,
+  "pages_with_ocr": 20,
+  "pages_with_translation": 20,
+  "source_url": "https://sourcelibrary.org/book/69906d3564d44bd0a0ef52a9",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "grahamakhaprayogapaddhati-CGV-SDPB-0744"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:55.903Z",
+  "_hashes": {
+    "ocr": "4fe1be090f99d918",
+    "translation": "56f8a531da8882b7"
+  }
+}

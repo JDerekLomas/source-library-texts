@@ -1,0 +1,28 @@
+{
+  "id": "69907cf8a3654a711c0b6e77",
+  "title": "Bala Vivekini of Ganpati Mishra",
+  "display_title": "Bala Vivekini (Ganpati Mishra)",
+  "author": "Ganpati Mishra",
+  "language": "Sanskrit",
+  "year": 1800,
+  "published": "1800",
+  "pages_count": 22,
+  "pages_with_ocr": 22,
+  "pages_with_translation": 22,
+  "source_url": "https://sourcelibrary.org/book/69907cf8a3654a711c0b6e77",
+  "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "BalaVivekiniGanpatiMishra856GhaAlm4Shlf5DevanagariJyotish"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:55.031Z",
+  "_hashes": {
+    "ocr": "c6f2016be70d4f6a",
+    "translation": "f572630f57ed9543"
+  }
+}

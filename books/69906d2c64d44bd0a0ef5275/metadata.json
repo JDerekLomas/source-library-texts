@@ -1,0 +1,28 @@
+{
+  "id": "69906d2c64d44bd0a0ef5275",
+  "title": "Navagraha Makha Prayoga with Vinayaka Shanti",
+  "display_title": "Navagraha Makha Prayoga with Vinayaka Shanti",
+  "author": "Unknown",
+  "language": "Sanskrit",
+  "year": 1709,
+  "published": "1709",
+  "pages_count": 23,
+  "pages_with_ocr": 23,
+  "pages_with_translation": 23,
+  "source_url": "https://sourcelibrary.org/book/69906d2c64d44bd0a0ef5275",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "navagrahamakhaprayoga_vinayakashantipaddhati-CGV-SDPB-0126"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:54.947Z",
+  "_hashes": {
+    "ocr": "c44c9e0e9ba1054b",
+    "translation": "a6b6b3f6dfcc2860"
+  }
+}

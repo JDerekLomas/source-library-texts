@@ -1,0 +1,26 @@
+{
+  "id": "6970e3639b09d309d780a272",
+  "title": "Alchymiae complementum, et perfectio",
+  "display_title": "Alchymiae complementum, et perfectio",
+  "author": "Norton, Samuel",
+  "language": "English",
+  "year": 1630,
+  "published": "1630",
+  "pages_count": 25,
+  "pages_with_ocr": 25,
+  "pages_with_translation": 25,
+  "source_url": "https://sourcelibrary.org/book/6970e3639b09d309d780a272",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:54.371Z",
+  "_hashes": {
+    "ocr": "46f00ebbe28b6b72",
+    "translation": "1442c7e06183adfc"
+  }
+}

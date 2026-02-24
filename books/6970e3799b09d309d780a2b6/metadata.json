@@ -1,0 +1,26 @@
+{
+  "id": "6970e3799b09d309d780a2b6",
+  "title": "Im Namen Jesu. Ankuendigung des Rach-tages und Gerichts Gottes",
+  "display_title": "Im Namen Jesu. Ankuendigung des Rach-tages und Gerichts Gottes",
+  "author": "Breckling, Friedrich",
+  "language": "German",
+  "year": 1660,
+  "published": "1660",
+  "pages_count": 26,
+  "pages_with_ocr": 26,
+  "pages_with_translation": 26,
+  "source_url": "https://sourcelibrary.org/book/6970e3799b09d309d780a2b6",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:54.154Z",
+  "_hashes": {
+    "ocr": "2ffe09001eb9692e",
+    "translation": "03a1caa405f4b912"
+  }
+}

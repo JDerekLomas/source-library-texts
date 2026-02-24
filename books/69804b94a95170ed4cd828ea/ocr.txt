@@ -1,0 +1,360 @@
+--- Page 1 ---
+<lang>None</lang>
+<warning>This page is a decorative book cover and contains no transcribable text.</warning>
+<meta>Image displays the front cover of a manuscript, featuring a grey, blue, and orange marbled paper design with a brown leather spine separated by a thin gilt line.</meta>
+
+<vocab>marbled paper, bookbinding, leather spine, gilt edge</vocab>
+
+<detected-images>
+[{"description": "Decorative marbled paper cover with a brown leather spine and gold-leaf divider.", "type": "decorative", "bbox": {"x": 0.0, "y": 0.0, "width": 1.0, "height": 1.0}, "gallery_quality": 0.75, "museum_rationale": "A well-preserved example of historical marbling techniques used in bookbinding, typical of the 18th and 19th centuries."}]
+</detected-images>
+
+--- Page 2 ---
+<lang>Latin</lang>
+<meta>The page features a pasted-on white card containing a hand-colored emblem or bookplate. Faint watermarks are visible near the bottom edge of the leaf.</meta>
+
+M
+
+->**PHILOSOPHIA HERMETICA**<-
+
+<insert>[ Schwenchfeldt ]</insert>
+
+<vocab>Philosophia Hermetica, Pelican in its piety, Schwenchfeldt, alchemy, hermeticism, bookplate</vocab>
+
+<detected-images>
+[{"description": "A hand-colored oval emblem depicting a pelican in its piety (feeding its young with its own blood), a traditional symbol of sacrifice and the alchemical 'rubedo' stage. The bird sits on a square pedestal decorated with four roses. The scene is set against a blue background with gold rays, encircled by the motto 'PHILOSOPHIA HERMETICA'.", "type": "emblem", "bbox": {"x": 0.422, "y": 0.382, "width": 0.183, "height": 0.165}, "gallery_quality": 0.9, "museum_rationale": "A beautifully executed and colored Hermetic emblem, representative of 17th-18th century alchemical symbolism and book culture."}]
+</detected-images>
+
+--- Page 3 ---
+<lang>de</lang>
+<warning>The text on this page is extremely faded and difficult to read. It appears to be a title page with very light printing or significant fading over time. Transcription is based on discernible letterforms and historical context for the city of Strasbourg (Straßburg).</warning>
+<meta>Faded title page with institutional library stamp and decorative woodcut ornament.</meta>
+
+# Der Stadt Straßburg
+## Ordnung <unclear>und Freyheit</unclear>
+## der Goldschmiede
+### zu Straßburg
+### Anno <unclear>M. D. LXXII</unclear>
+
+<insert>K. B. HOF- u. STAATS-BIBLIOTHEK</insert>
+<note>The circular stamp belongs to the Bavarian State Library (Königlich Bayerische Hof- und Staatsbibliothek).</note>
+
+---
+
+<vocab>Straßburg, Goldschmiede, Ordnung, Statuten, 16. Jahrhundert</vocab>
+
+<detected-images>
+[
+{"description": "Circular library stamp of the K. B. Hof- u. Staats-Bibliothek", "type": "decorative", "bbox": {"x": 0.415, "y": 0.382, "width": 0.175, "height": 0.145}, "gallery_quality": 0.3, "museum_rationale": "Standard institutional library stamp, significant for provenance and book history but not for artistic merit."},
+{"description": "Ornamental woodcut vignette with scrollwork and decorative motifs", "type": "woodcut", "bbox": {"x": 0.285, "y": 0.555, "width": 0.435, "height": 0.095}, "gallery_quality": 0.5, "museum_rationale": "A typical 16th-century decorative woodcut used as a tailpiece or title page ornament."}
+]
+</detected-images>
+
+--- Page 4 ---
+<lang>Unknown</lang>
+<warning>The page is an almost entirely blank flyleaf with a single faint, illegible oval stamp in the center.</warning>
+
+<insert>
+<unclear>Faint institutional stamp, possibly featuring a heraldic eagle and circular text</unclear>
+</insert>
+
+<vocab>flyleaf, institutional stamp, heraldry</vocab>
+
+<detected-images>
+[{"description": "Faint oval library stamp in blue ink, depicting a heraldic eagle surrounded by illegible text.", "type": "decorative", "bbox": {"x": 0.449, "y": 0.411, "width": 0.114, "height": 0.108}, "gallery_quality": 0.2, "museum_rationale": "A standard institutional ownership mark, too faded and generic to be of high gallery quality."}]
+</detected-images>
+
+--- Page 5 ---
+<lang>de</lang>
+<vocab>Matthias Flacius Illyricus, Caspar Schwenckfeld, Strasbourg, 1557, 1558, Iudicium, Reformation, polemic</vocab>
+
+# I V D I C I V M
+# Auff Flaccij Illyrici
+### letzt Büchlin / so im 1 5 5 7 Jar
+### wider C. Schwenckfeldt / an-
+### die von Straßburg-
+### ist außgangen.
+
+->M. D. Lviii.<-
+
+---
+
+<detected-images>
+[{"description": "Decorative woodcut ornament featuring a symmetrical, intricate interlaced knot or strapwork design.", "type": "decorative", "bbox": {"x": 0.165, "y": 0.552, "width": 0.443, "height": 0.121}, "gallery_quality": 0.6, "museum_rationale": "A standard but well-executed example of a 16th-century printer's woodcut ornament used to fill space and provide visual balance on a title page."}]
+</detected-images>
+
+--- Page 6 ---
+<lang>de</lang>
+
+<warning>This page is physically blank. All visible text and decorative elements are "show-through" (bleed-through) from the reverse (recto) side of the leaf and appear mirrored.</warning>
+
+<note>The following information describes the mirrored content visible through the paper from the preceding page:</note>
+
+<meta>
+- Mirror-image text at top: "INDICIUM" (Latin, in Roman type)
+- Mirrored German Fraktur text in the center, including a date in Roman numerals: "M. D. C. XLVII." (1647)
+- Mirrored decorative typographical ornament (tailpiece) in the lower half.
+</meta>
+
+<vocab>blank page, show-through, bleed-through, INDICIUM, 1647</vocab>
+
+<detected-images>
+[{"description": "Mirrored show-through of a decorative typographical ornament from the recto side.", "type": "decorative", "bbox": {"x": 0.395, "y": 0.545, "width": 0.441, "height": 0.118}, "gallery_quality": 0.2, "museum_rationale": "Incidental show-through of a standard 17th-century decorative element on an otherwise blank verso page."}]
+</detected-images>
+
+--- Page 7 ---
+<lang>de</lang>
+<sig>A ij</sig>
+<meta>catchword: die selig</meta>
+
+# Es hat Flaccius
+## Illyricus vber außgangne
+### Büchlin/ ein Büch in der Octaua/ Anno &c.
+1557. denen von Straßburg zugeschriben/
+lassen außgehen/ des Titels: Gründtliche ver=
+legung aller schädlichen Schwermerey des
+Stenckfeldts &c.
+
+Ein yeder Gotsförchtiger/ der nur ein we=
+nig dreyñ sihet/ muß sich darab entsetzen/ er=
+schrecken/ mercken vnd greyffen/ das alles was
+er schreybet/ auß dem Satan/ ja der allten
+Schlangen wort vnnd reden seind/ Dann alle
+Schrifft/ die er zü seiner beschönung einfuͤrt/
+verkert/ vnnd mißbraucht Er in falschem ver=
+standt: Vnnd womit er Herren C. S. den
+zeugen der warheit/ beschuldigt/ das ist al=
+les erdicht/ lauter neydische schmachwort/
+vnd vnwarheit.
+
+Der vnreyne Geist sagt zum Herrn Jhesu:
+Ey was hab ich mit dir &c. Marc. 1. Also thůt
+der Geist der auß Lirico redet/ nichts anders/
+dann die warheit anzuspeyen/ verhaßt zuma=
+chen/ vnnd zuschreyen: Was hab ich mit dir?
+Wie künden wir zusamen stimmen? Du legst
+
+<vocab>Flaccius Illyricus, Straßburg, Schwermerey, Stenckfeldts, Caspar Schwenckfeld, Marc. 1, Lirico</vocab>
+
+<detected-images>
+[{"description": "Ornate decorative woodcut initial letter 'E' featuring foliage and floral motifs.", "type": "decorative", "bbox": {"x": 0.126, "y": 0.113, "width": 0.138, "height": 0.104}, "gallery_quality": 0.6, "museum_rationale": "A characteristic example of 16th-century typographic ornamentation used in theological publications to mark the beginning of a text."}]
+</detected-images>
+
+--- Page 8 ---
+<lang>la</lang>
+<warning>This page appears to be a blank verso or recto containing no original text on this side. All visible content consists of mirrored bleed-through (show-through) from the reverse side of the leaf.</warning>
+
+<meta>blank page; mirrored bleed-through from reverse</meta>
+
+<note>The mirrored text visible through the paper includes the Latin word "IUDICIUM" at the top, followed by several lines of text in a German Fraktur script, and a decorative printer's ornament near the center.</note>
+
+<vocab>Iudicium, Fraktur, bleed-through, printer's ornament</vocab>
+
+<detected-images>
+[{"description": "Mirrored printer's ornament or decorative cartouche visible through the paper", "type": "decorative", "bbox": {"x": 0.395, "y": 0.548, "width": 0.435, "height": 0.117}, "gallery_quality": 0.4, "museum_rationale": "A standard early modern printer's ornament, here seen as bleed-through from the opposing side of the leaf."}]
+</detected-images>
+
+--- Page 9 ---
+<lang>de</lang>
+
+# Es hat Flaccius
+## Illyricus vber außgangne
+
+Büchlin / ein Buch in der Octaua / Anno ꝛc. 1557. denen von Straßburg zugeſchriben / laſſen aufgehen / des Titels : Gründtliche verlegung aller ſchädlichen Schwermerey des Stenckfeldts ꝛc.
+
+Ein yeder Gottsförchtiger / der nur ein wenig dreyñ ſihet / mủß ſich darab entſetzen / erſchrecken / mercken vnd greyffen / das alles was er ſchreybet / auß dem <term>Satan</term> / ja der allten Schlangen wort vnnd reden ſeind / Dann alle Schrifft / die er zů ſeiner beſchönung einfürt / verkert / vnnd mißbraucht Er in falſchem verſtandt : Vnnd womit er Herꝛn C. S. den zeugen der warheit / beſchuldigt / das iſt alles erdicht / lauter neydiſche ſchmachwort / vnd vnwarheit.
+
+Der vnreyne Geiſt ſagt zum Herꝛn Jheſu: Ey was hab ich mit dir ꝛc. Marc. 1. Alſo thůt der Geiſt der auß Lirico redet / nichts anders / dann die warheit anzuſpeyen / verhaßt zumae-
+chen / vnnd zuſchreyen: Was hab ich mit dir : Wie künden wir zuſamen ſtymmen : Du legſt
+
+<sig>A ij</sig>
+<meta>catchword: die ſelige</meta>
+
+<vocab>Matthias Flaccius Illyricus, Caspar von Schwenckfeld, Stenckfeldts, Schwermerey, Satan, Straßburg, polemic, Reformation</vocab>
+
+<detected-images>
+[{"description": "Decorative woodcut initial letter E", "type": "decorative", "bbox": {"x": 0.12, "y": 0.108, "width": 0.134, "height": 0.118}, "gallery_quality": 0.5, "museum_rationale": "A typical examples of a 16th-century decorative initial used in religious printing."}]
+</detected-images>
+
+--- Page 10 ---
+<lang>de</lang>
+<meta>catchword: Das aber</meta>
+<warning>Minor foxing and ink bleed-through visible; text remains legible.</warning>
+
+die seligkeit Christo zu / als ob die leüt allein
+durch jne sollen selig werden: So weyß ich an-
+derßwo hin / auff Menschen wort / auff eüsser-
+liche Mittel <term>etc.</term>
+
+Vnd so disem vnreynen Geist die warheit
+zustarck ist / vnd Er dadurch nydergeschlagen /
+so wütet vnd tobet er / vnd vnderstehet sich den
+diener Christi / aber im grundt die warheit mit
+scheltworten zudempffen / vñ nach der Schlan-
+gen art / windet vnd krimbt er sich hin vnd her /
+Er wolt gern den kopff auß der schlingen zie-
+hen / bawmpt ymmer das haupt wider auff /
+will der warheit nit weichen / dem Herrē Chri-
+sto den syge nit lassen.
+
+Es schreybet <term>Plato</term> von einer grossen
+Schlangen / <term>Hidra Lernea</term> genant / die <term>Hercules</term>
+erwürget: vnnd so offt er ein haupt abge-
+hawen / seind vil andere häupter entsprungen.
+Dise <term>Lerna</term> fürbildet die allt gifftig lach vnnd
+pfüz / Nämlich / das arme sündige fleysch / darin
+die allt Schlang mit syben häuptern / woh-
+nung hat / darauf stinckendt vnd pestilenzisch
+näbel auffsteygen / so lang biß der ware <term>Hercules</term>
+<term>Christus</term> / das haupt der Schlangen vn-
+dertritt mit dem Schwert auß seinem mundt /
+vnnd das orth mit dem fewr seines heyligen
+Geysts reynigt.
+
+<vocab>Christus, Hercules, Plato, Hidra Lernea, Schlangen, seligkeit, Geist, fleysch, Geyst</vocab>
+
+--- Page 11 ---
+<lang>de</lang>
+<sig>A iij</sig>
+<meta>Catchword: Daniel.</meta>
+
+Das aber Flaccius Lerna malorum moͤcht
+genant werden/ beweisen klar all seine buͤchlein/
+Dan̄ so offt C. S. vnd andere/ seine Laͤster-
+buͤchlein/ mit heyliger Schrifft vnd mit grundt
+der warheit widerlegt/ abgelaint/ vnnd durch
+die gnade Christi abgehawen/ so hat er bald
+noch aͤrgere Buͤchlin aufgeworffen/ Ja es seind
+vil andere auß seinen Buͤchlein bewegt vnnd
+verursacht worden/ daß sie auch wider die war-
+heit geschryen vn̄ geschriben/ wie auch ein Wit-
+tebergischer Poet schreibt/ das auß Lirico vil
+Cicadæ, das ist/ hawschrecken/ entsprungen/
+das eins gedencken moͤcht/ Es waͤre besser mit
+der warheit stillschweygen/ so sich sovil darwi-
+der aufflainen/ die ymer laͤstern/ schelten/ vnnd
+als die tobsuͤchtigen verfolgen.
+
+Aber wie der widerstand der Egyptischen
+Magorum zur zeyt Mosis/ zum preiß Gottes/
+vnd das verfolgen der Schrifftgelehrten vnd
+Phariseer/ zum syge Christi muͤst dienen/ Also
+muͤß diser Geistliche streyt in diser jrseligen let-
+sten zeyt zur offenbarung der warheit dienen.
+
+Es stehet geschriben/ Psalm. 12. Prouer-
+bior. 30. Die wort des herzen seind reine wor-
+ter/ wie Silber im tygel geleuͤtert auff erden.
+Dan̄ wie das ewig Wort Gottes in angenom-
+ner Menschheit selbs im fewrofen war/ Exod. 3.
+
+<vocab>Flaccius, Lerna malorum, C. S., Caspar Schwenckfeld, Wittebergischer Poet, Lirico, Cicadæ, Egyptischen Magorum, Mosis, Schrifftgelehrten, Phariseer, Christi, Psalm 12, Prouerbior 30, Exod 3</vocab>
+
+--- Page 12 ---
+<lang>de</lang>
+
+Daniel. 3. Apocal. 1. Also müssen auch alle die
+so Christum erkennen vnd bekennen/ in jrem
+glauben wie das gold probiert werden/ 1. Pe-
+tri 1. daß sie nach sollicher prob die Chron des
+lebens empfahen/ Jacobi 1. Das ist/ Sie müs-
+sen durch die Egyptier/ das seind die vnreynen
+Geyster/ die in Flaccio vnd in andern schreien/
+toben vnd fewr außspeyen/ veriert/ vnd vmb
+Christi vnd vmb der warheit willen geschmä-
+het/ gelästert vnnd verfolgt werden/ Dann
+Christus ist das zeichen/ seine gläubigen seind
+die Secta, da allenthalben widersprochen wirt/
+Luce 2. Psalm. 2. Actor. 28.
+
+Aber Christus bleybt der Künig der Glo-
+ria/ seine feind müssen vnder seine füß: Er ist
+der Stein der alles zermalmet/ Daniel. 2. Wer
+auff disen Stein fellt/ der wirt zerstoßen: auff
+welchen er fellt/ der wirt zermalmet/ Luce 20.
+Wie es denen ergangen/ die Christum nit wol-
+ten zum Künig haben/ Also gehets noch heut
+augenscheinlich/ Ir thorheit muß yederman
+offenbar werden.
+
+### DOMINO IHESV CHRISTO
+### Iustitia, Victoria, Triumphus, Ho-
+### minibus pudor facierum.
+
+<vocab>Christum, Flaccio, Egyptier, Secta, Gloria, Daniel, Apocal., Luce, Actor., Künig, Iustitia, Victoria, Triumphus</vocab>
+
+--- Page 13 ---
+<lang>Unknown</lang>
+<warning>The page appears to be blank, containing only foxing (age-related spotting), minor staining, and faint, illegible bleed-through of text and possibly a diagram from the reverse side of the leaf. There is an extremely faint, likely modern archival stamp at the bottom center which is illegible.</warning>
+
+<vocab>blank page, foxing, bleed-through</vocab>
+
+--- Page 14 ---
+<lang>Unknown</lang>
+<warning>The page is a mostly blank flyleaf or endpaper, showing significant foxing, staining, and some discoloration. It contains only minimal handwritten archival annotations in the corners.</warning>
+
+<insert>
+LHa 38
+ETT
+</insert>
+
+<insert>
+LD 4725
+</insert>
+
+<vocab>shelfmark, archival identifier</vocab>
+
+--- Page 15 ---
+<lang>None</lang>
+<meta>Blank page</meta>
+<vocab></vocab>
+
+--- Page 16 ---
+<lang>Unknown</lang>
+<warning>The page is a blank sheet, likely a flyleaf or endpaper, exhibiting significant foxing and age-related staining. The only text present consists of modern handwritten archival notations in the corners.</warning>
+
+<insert>
+LHA 38
+ETT
+</insert>
+
+<insert>
+LD 4725
+</insert>
+
+<vocab>archival notation, shelfmark, accession number, foxing</vocab>
+
+--- Page 17 ---
+<lang>None</lang>
+<meta>Blank page, likely an endpaper or flyleaf.</meta>
+<vocab></vocab>
+
+--- Page 18 ---
+<lang>Unknown</lang>
+<meta>Blank page</meta>
+<warning>This page appears to be a blank flyleaf or endpaper. It contains no legible text or printed matter.</warning>
+
+<vocab></vocab>
+
+<detected-images>
+[{"description": "Extremely faint watermark consisting of a heraldic shield topped with a crown", "type": "decorative", "bbox": {"x": 0.28, "y": 0.43, "width": 0.17, "height": 0.34}, "gallery_quality": 0.2, "museum_rationale": "A common historical watermark (possibly Pro Patria or similar), providing evidence of paper origin but lacking visual clarity for display."}]
+</detected-images>
+
+--- Page 19 ---
+<lang>und</lang>
+<warning>Blank page with archival reinforcement tape along the edges. Contains only a handwritten shelfmark at the bottom.</warning>
+<meta>archival shelfmark</meta>
+
+<insert>UBN 7589 a</insert>
+
+<vocab>shelfmark, archival notation</vocab>
+
+--- Page 20 ---
+<lang>None</lang>
+<meta>This image contains no text. It is a photograph of a book's marbled endpaper or cover with a leather spine.</meta>
+<vocab>marbled paper, bookbinding, endpaper, leather binding, gold tooling</vocab>
+
+<detected-images>
+[{"description": "Traditional marbled paper design featuring fluid, swirling patterns of grey, blue, and orange/terracotta pigments.", "type": "decorative", "bbox": {"x": 0.01, "y": 0.01, "width": 0.9, "height": 0.98}, "gallery_quality": 0.85, "museum_rationale": "A classic and well-preserved example of 18th- or 19th-century paper marbling used in artisanal bookbinding."},
+{"description": "Brown pebbled leather binding strip on the right margin, separated from the paper by a thin gold-tooled line.", "type": "decorative", "bbox": {"x": 0.91, "y": 0.01, "width": 0.08, "height": 0.98}, "gallery_quality": 0.6, "museum_rationale": "Demonstrates the structural assembly and decorative finishing (gold fillet) of a fine-bound volume."}]
+</detected-images>

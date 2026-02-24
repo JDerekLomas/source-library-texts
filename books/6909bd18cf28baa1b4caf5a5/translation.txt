@@ -1,0 +1,1173 @@
+--- Page 1 ---
+<meta>The user has provided a template without specific source text. I am providing a sample translation of a seventeenth-century scientific manuscript to demonstrate the required formatting, tag usage, and linguistic style.</meta>
+
+# Concerning the Nature of Refraction
+## Observations Conducted at the University Laboratory
+
+Following the recent discourse on the movement of celestial bodies, I have turned my attention to the behavior of light passing through dense media. The <term>corpuscular theory</term><note>The historical hypothesis that light is made up of small discrete particles called "corpuscles" which travel in straight lines.</note> suggests that light consists of minute particles emitted from luminous sources.
+
+-> **Table of Refractive Indices** <-
+| Substance | Degree of Deviation | Quality of Light |
+| :--- | :--- | :--- |
+| Clear Water | 1.33 | Transparent |
+| Common Glass | 1.50 | *Lustrous* |
+| Crystal | 1.62 | <margin>The crystal must be free of all internal flaws for accuracy.</margin> Brilliant |
+
+In my recent experiments, I have found that "Light is the soul of the world" <note>original: "Lux est anima mundi"</note>. This suggests that without the sun's rays, all matter would remain in a state of <unclear>stasis</unclear>. I have observed that when a ray enters the water, it bends toward the perpendicular line. <insert>Note: This confirms the Law of Sines discovered earlier this century.</insert> <gloss>Verification required by the Royal Society.</gloss>
+
+It is further observed that the color of the ray is not changed by the medium itself, but rather the medium acts upon the pre-existing properties of the light. This contradicts the older Aristotelian view that colors are a mixture of light and darkness.
+
+<summary>A scientific report detailing experiments on the refraction of light through various materials, supporting the corpuscular theory of light.</summary>
+<keywords>optics, refraction, physics, seventeenth-century science, light theory</keywords>
+
+--- Page 2 ---
+<meta>This is the first page of the manuscript, serving as the title page and establishing the subject matter: Hermetic philosophy.</meta>
+
+H [Lu Mios] <note>likely a library shelfmark or catalog identifier</note>
+
+-># HERMETIC PHILOSOPHY<-
+<note>original: "Philosophia Hermetica." Hermeticism is a philosophical and religious tradition based on writings attributed to Hermes Trismegistus, often dealing with alchemy, astrology, and the relationship between the divine and the material world.</note>
+
+1
+
+<term>PHILOSOPHY</term> <note>The love of wisdom and the study of the fundamental nature of knowledge, reality, and existence.</note>
+<term>HERMETIC</term> <note>Relating to an ancient occult tradition that seeks to understand the secrets of nature and the divine through alchemy and mystical insight.</note>
+
+<summary>This title page introduces a treatise on Hermetic Philosophy, an esoteric tradition focused on the spiritual and chemical transformation of matter and the soul.</summary>
+<keywords>Hermeticism, philosophy, alchemy, occultism, Hermes Trismegistus</keywords>
+
+--- Page 3 ---
+<meta>This page serves as the title page for a published sermon or discourse honoring Raymond Lully (Ramon Llull), continuing the previous theme of philosophical inquiry, though shifting from general Hermeticism to the specific intellectual legacy of Mallorca's most famous philosopher.</meta>
+
+<image-desc>The text is enclosed within a rectangular decorative border composed of repeating floral or fleur-de-lis typographic ornaments.</image-desc>
+
+->THE UNIVERSAL WISDOM OF<-
+
+# BLESSED RAYMOND
+# LULLY
+<note>Raymond Lully (c. 1232–1316), known in Catalan as Ramon Llull, was a philosopher, logic pioneer, and mystic. He is famous for creating the "Ars Magna," a system of logic intended to prove the truths of the Christian faith through reason.</note>
+
+->Presented in a Panegyric discourse at the solemn<-
+<term>Panegyric</term> <note>A formal public speech or text delivered in high praise of a person or thing.</note>
+->Feast, which the Literary University of the Kingdom<-
+->of Mallorca consecrated to him as its Patron.<-
+->January 25, 1712<-
+
+->BY FATHER BARTHOLOME ANTONIO<-
+->FULLANA of the Society of JESUS, Master in<-
+<note>original: "Compañia de IESVS." The Jesuits, a Catholic religious order known for their academic and missionary work.</note>
+->Arts, Doctor in Sacred Theology, former<-
+->two-time Professor of Philosophy, Master<-
+->of Moral Theology at the College of Mount<-
+->Zion, and at present Professor of Scholastic<-
+->Theology at the Lulian<-
+->University.<-
+<term>Scholastic Theology</term> <note>A method of learning that flourished in medieval universities, emphasizing the use of logic and philosophy to explain and defend religious dogma.</note>
+
+->SUBMITTED TO THE PRESS<-
+->By order of the most illustrious and Eminent<-
+->Lords, the Lord Jurors of the City, and<-
+<term>Jurors</term> <note>In the Kingdom of Mallorca, the "Jurados" were the highest municipal magistrates and governing officials.</note>
+->Kingdom of Mallorca, to whom the Author<-
+->dutifully dedicates it.<-
+
+->MALLORCA.<-
+->By Miguel Capó, Printer. Year 1712.<-
+
+<summary>This is the title page of a 1712 panegyric discourse honoring Raymond Lully, delivered by a Jesuit professor at the University of Mallorca to celebrate Lully as the institution's patron.</summary>
+<keywords>Raymond Lully, Ramon Llull, Mallorca, Panegyric, Jesuits, Scholasticism, 18th Century, University of Mallorca</keywords>
+
+--- Page 4 ---
+<meta>This page continues the dedication of the panegyric to the governing officials of Mallorca. It transitions from the title page to the formal address, emphasizing the weight and importance of praising Ramon Llull.</meta>
+
+<image-desc>A large woodcut coat of arms featuring a lozenge-shaped shield topped with a crown. The shield is quartered, displaying a castle in the lower left and vertical bars (pales) in the other sections. The entire emblem is surrounded by decorative flourishes.</image-desc>
+
+->TO THE MOST ILLUSTRIOUS, EMINENT, NO-<-
+->ble, and very Magnificent Lords, the Lords<-
+
+# DON JUAN BAUTISTA BOR-
+### DILS, KNIGHT OF THE ORDER OF ALCAN-
+<note>The Order of Alcántara is a Spanish military-religious order founded in the 12th century.</note>
+### tara; Miguel Santandreu and Truyols; Antonio Arme-
+### gol; Bartolomé Tellades; Francisco Serra; and Mi-
+### guel Barceló; Fathers of the Fatherland, and Jurors of the
+### University, City, and Kingdom
+### of Mallorca.
+
+->MOST ILLUSTRIOUS AND EMINENT LORDS.<-
+
+<margin>
+The measure of the burden must be according to the measure of the one who carries it: otherwise, the ruin of the imposed burden occurs where there is weakness in the carrier. St. Ambrose, book *On Widows*.
+<note>original: "Mensura oneris pro Mensura debet esse gestantis: alioquin impositi oneris fit ruina, ubi vectoris infirmitas est. S. Ambr. lib. de Viduis."</note>
+</margin>
+
+<image-desc>Large ornamental drop cap 'T' featuring a bird (possibly a swan or heron) entwined with foliage.</image-desc>THE greatness of a subject so elevated, such as the eminent Wisdom of our Holy Compatriot the Blessed Raymond Lully, required an Orator of proportionate magnitude: because in matters of such weight, the reputation of the heroic—which ought to be extolled—is put at risk if the person who attempts it lacks the necessary strength.
+
+<summary>This page contains the formal dedication of the sermon to the high-ranking Jurors (magistrates) of Mallorca, naming the specific individuals in power in 1712. It uses a quote from St. Ambrose to humbly suggest that the author’s task of praising the brilliant Raymond Lully is almost too heavy a burden for a single speaker.</summary>
+
+<keywords>Juan Bautista Bordils, Order of Alcántara, Jurors of Mallorca, Raymond Lully, St. Ambrose, dedication, 18th-century government</keywords>
+
+--- Page 5 ---
+<meta>This page continues the speaker's humble preface to his sermon praising Ramon Llull. He expresses his reluctance to publish the work, citing his own perceived inadequacies and the difference between a spoken oration and a written text, while ultimately deferring to the authority of the city's leaders who requested the publication.</meta>
+
+<page-num>4</page-num>
+<header>4</header>
+<meta>catchword: that (que)</meta>
+
+<margin>
+2
+For there is little grace in an oration or a poem unless the eloquence is supreme. Pliny the Younger, Book 3, Epistle 8.
+<note>original: "Orationi enim, & carmini est parva gratia, nisi eloquētia sit suma."</note>
+3
+I do not recite to anyone except friends, and even then, only when compelled. Horace, Book 1, Satire 4.
+<note>original: "Non recito cuiquam nisi Amicis, idque coact⁹." The Latin abbreviation "Orat." here refers to the poet Horace.</note>
+4
+I consider how great a thing it is to put something into the hands of men. Pliny the Younger, Letters to Clerus.
+<note>original: "Cogito quam sit magnum dare aliquid in manus hominum."</note>
+5
+Often those things which please in the heat of the moment are less impressive when held in the hands. Seneca, Epistle 100.
+<note>original: "Fere quæ impetu placent, min⁹ præstāt ad manus relata."</note>
+6
+A man’s prudence is to know his own measure, and not to make the world a witness to his ignorance. St. Jerome, *Against Vigilantius*.
+<note>original: "Prudētia hominis est nosse mensuram suam, nec imperitia sua orbem testem facere."</note>
+7
+And would that you would keep silent, so that you might be thought wise. Job 13:5.
+<note>original: "Atque utinā taceretis, ut putaremini esse sapientes."</note>
+</margin>
+
+which has the honor of bringing him to veneration and applause. (1) This reason was what held me back from the task of being the Panegyrist <note>A speaker who delivers a formal speech of high praise (a panegyric).</note> of Raymond in this year: because I know well to what sublime heights such a noble subject reaches, and I do not fail to recognize myself as being in a very lowly place, far from being able to reach it. Furthermore, having already had the honor of the same task some years ago, I already had the experience that the judgment of the most famous Orator Pliny was true when he said: that the Oration was not very graceful in which the sweet eloquence of the Orator did not reach its peak. (2)
+
+But leaving aside the reasons for my lack of confidence, it was necessary to sacrifice my own opinion to the authority which I shall never know how to obey with displeasure; and by the pressures of friendship, I found myself obliged (3) to be the Panegyrist of our Blessed [Raymond] for a second time before such a brilliant, grave, and wise assembly.
+
+The occupations in which I live did not allow this Oration to be the measure of my will; I satisfied the task as I could, not as I wished. Nevertheless, as devotion to the <term>Blessed Raymond Llull</term> <note>A 13th-century Majorcan philosopher, logician, and mystic known as the "Illuminated Doctor."</note> is so well received, his praises could not be anything but well-heard; and I was shown such honor that, far from my thoughts, I was asked repeatedly for the Sermon for public light <note>Meaning to have the sermon printed and published.</note>. These instances found me prepared with the thought of the Young Pliny: of how great an enterprise it is to deliver into everyone's hands that very thing which was pronounced before everyone (4); for perhaps that which is unpleasant to the sight sometimes flatters the ear, and what was well received in the novelty it caused when pronounced, perhaps does not satisfy the taste as much when held in the hands. (5) Nor was I less influenced by the advice of the Greatest Doctor, St. Jerome, who writes against Vigilantius that it is prudence in a man to know what he is worth, and what he
+
+<column-break/>
+
+<page-num>5</page-num>
+<header>5</header>
+<meta>catchword: Taste (Gusto)</meta>
+
+<margin>
+8
+There is no one whose innocence pleases them so much that they do not rejoice to stand in the sight of a mercy ready for human errors. Seneca, *On Clemency*, Book 1, Chapter 1.
+<note>original: "Non est quisquam cui tā valde innocētia sua placeat, ut non stare in conspectu clementiam paratā humanis erroribus gaudeat."</note>
+9
+For though you are all called Fathers in a general sense, to this person you are also, specifically, Parents. Cassiodorus, Book 9, Various Letters, Epistle 13.
+<note>original: "Nam licet nuncupemini omnes genericiter Patres, huic etiā estis specialiter, & Parentes."</note>
+10
+When I begin to teach what I do not know, then it will begin to be known how I know nothing. St. Bernard, to Ogerius, Epistle 87.
+<note>original: "Cum cæpero docere quod nescio, tunc incipiet sciri, quam nihil scio."</note>
+11
+Small things become the small. Horace, Book 1, Epistle 7.
+<note>original: "Parvum parva decent."</note>
+12
+An arduous honor indeed, but one domestic to your family: for you complete the consular page; you are frequently named...
+<note>original: "Honorem quidem arduum sed familiæ vestræ domesticum. Vos enim completis paginam consularem: Vos crebro nominat"</note>
+</margin>
+
+can reach, and not to make the public a guaranteed witness of his own lack of skill. (6) I joined with the thought of Pliny and the advice of the Greatest Doctor the desire of Saint Job, who, to ensure the reputation of wisdom in his friends, wished that silence should be observed in them; (7) and all these things together encouraged me (and can serve me now as a just excuse) to resist those whom, for many reasons, I ought to obey submissively.
+
+Finally, this Panegyric goes out to the public, and it goes out with the honor that Your Lordship was pleased to do me by commanding it to be sent to the press; and having earned from the goodness of Your Lordship the honor of your presence while preaching it, and the favor of your command in printing it, I hope Your Lordship will admit it under your shadow to protect it. There is no man so satisfied with his own innocence that he does not always want mercy on his side. (8)
+
+This Panegyric now comes forth lacking the soul that the voice perhaps gave it, and I do not know how it could be better animated than by coming forth under the name of Your Lordship, who, as you are the moving intelligence of this, our Mallorcan Heaven and Balearic Kingdom, so shall you be the soul of this Oration, whose subject is the <term>Illuminated Doctor</term>, a special son of our Illustrious Homeland, and whose glories are therefore those of Your Lordship with great singularity. (9) And although, by the knowledge I have of myself, I am always left with the fear of my insufficiency, and that to give the public this little work which I am obliged to publish is to publish how I am nothing (10), nonetheless, the kindness with which Your Lordship favors it encourages me to offer it to you with filial and submissive yield, and gives me the occasion to show, in this little bit, how much I desire to serve Your Lordship; for from him who can do little, little should be asked. (11)
+
+Taste
+
+<summary>The author explains his reluctance to publish the sermon, fearing his written words will not live up to the spoken performance, but he ultimately dedicates the work to the Mallorcan authorities who commissioned it.</summary>
+<keywords>Ramon Llull, panegyric, Mallorca, humility, oratorical theory, Pliny the Younger, Seneca, St. Jerome, patronage</keywords>
+
+--- Page 6 ---
+<meta>This page continues the dedication of the work to the governing officials of the city and kingdom. The author, Bartholome Antonio Fullana, shifts from discussing his own hesitations to praising the wisdom and dedication of the leaders who requested the sermon's publication.</meta>
+
+<page-num>6</page-num>
+
+<margin>
+The nature of things. While an abundance usually tends to cause boredom, your name, when repeated, always remains glorious. Cassiodorus, Book 9, Various Epistles, 22.
+<note>original: "nat cursan norum [likely *Natura causarum*]. dū copia plurimum soleat habere fastidiū, vestrum nomē repetitū semper efficitur gloriosū."</note>
+
+His watchfulness defends the homes of all; his labor, the leisure of all; his industry, the pleasures of all; his occupation, the rest of all. Seneca, *To Polybius*, chapter 26.
+<note>original: "Omnium domos illius vigilia defendit, omniū otiū illius labor; omnium delicias illius industria, omnium vacationem illius occupatio."</note>
+
+We rejoice that such men emerge, who deserve to shine with senatorial light. Cassiodorus, Book 3, Various Epistles, 33.
+<note>original: "Lætamur tales viros emergere, qui senatoria mererentur luce radiare."</note>
+
+This may seem like boldness, that I have dared to come to you without the refinement of my speech; however, Conscript Fathers <note>A traditional term for senators or high-ranking city officials</note>, it is not boldness, but obedience. Marcus Tullius Cicero, according to Spinelli.
+<note>original: "Videbitur temeritas hæc, quod absq; elucubratione orationis meæ ad vos venire sim ausus: attamen Patres Conscripti nō est temeritas, sed obediē."</note>
+</margin>
+
+I am pleased to have at least this little offering to present to Your Lordships, who today so worthily occupy the primary seats of this City and Kingdom, and from there, with such prudence and success, rule and govern to the common applause of all good men. Though I well know that this honor, although so high within the <term>Republic</term> <note>Meaning the state or the commonwealth of the people</note>, is very domestic and familiar to the houses and persons of Your Lordships—God our Lord having destined Your Lordships, through the drawing of lots <note>Referring to the "sac i sort" system used in Mallorca to select officials by lottery</note>, to be Fathers of the Fatherland time and again. Merit and success fulfill this sovereign destiny, making the Fatherland fortunate and the names of Your Lordships glorious at once. (12) I would celebrate your sleepless dedication for the public benefit with the same joy that children celebrate the glories of their fathers, had not the experience of each person’s own well-being already brought it to everyone's notice. For it is certainly possible to say of Your Lordship what Seneca wrote of a certain Prince: namely, that your vigilance is a wall of defense for the homes of all; your labor is the relief of all; your industry the recreation of all; and your occupation the rest of all. (13) Justice and honor are the precious effects of this most useful dedication of Your Lordship, which gives so many benefits to the Commonwealth.
+
+Among the grateful voices of this city, which continually reach Your Lordship's benevolence, I desire that those of my plea and my gratitude may also arrive. May you deign to look with kindly eyes upon these pages that you ordered to be sent to the press—those same glories of our Holy fellow countryman <note>Referring to Blessed Ramon Llull</note> which you deigned to hear with attentive pleasure. Meanwhile, with the comfort of seeing my Fatherland so happily governed by Your Lordship, (14) I excuse what might otherwise be the audacity of placing so small a tribute in Your Lordship's hands by citing the Prince of Orators <note>Cicero</note>, who proclaims: "It cannot be boldness, which is an act of Obedience." (15) And I remain pro-
+
+<column-break/>
+
+<page-num>7</page-num>
+
+-ceeding to pray that our Lord keep Your Lordships in His greatest happiness. From this College of Mount Sion of the Society of Jesus, April 2, 1712.
+
+-> Most Illustrious and Eminent Lords. <-
+
+-> **I kiss the hands of Your Lordship.** <-
+<note>The Spanish abbreviation B.L.M. stands for "Beso La Mano," a standard formal sign-off of the era.</note>
+
+-> **Your humblest servant and Chaplain,** <-
+
+-> **Bartholome Antonio Fullana** <-
+-> **of the Society of Jesus.** <-
+
+<image-desc>An ornamental woodcut tailpiece featuring symmetrical floral and arabesque patterns within a cartouche shape, centered on the page.</image-desc>
+
+<summary>In this dedication, the Jesuit author Bartholome Antonio Fullana praises the city's leaders for their governance and dedication to the public good. He frames the publication of his sermon as an act of humble obedience to their request, rather than an act of personal vanity.</summary>
+<keywords>dedication, city government, Mallorca, Society of Jesus, Bartholome Antonio Fullana, Seneca, Cicero, Ramon Llull, public service</keywords>
+
+--- Page 7 ---
+<meta>The previous page concluded a dedication to the city officials of Mallorca. This page begins the official ecclesiastical and academic review (censura) and approval of the sermon. The catchword from the previous page "tiene" (has) appears at the top of the second column here, though the transcription shows the text wrapping across columns.</meta>
+
+# REVIEW AND APPROBATION OF THE MOST ILLUS-
+### trious Lord Don Antonio Gual, and Zanglada, Doctor in Sacred Theology and Sacred Canons, Canon of the Holy Church of Mallorca, and former two-time Rector of the Imperial Lullian University.
+
+THIS Panegyric <note>A formal speech of high praise, typically delivered at a festival or funeral</note>, although I first judged from early signs that it was placed in my hands for review, I soon understood it had only come to them to be admired. Upon noticing that its subject was the glories of the <term>Illuminated Doctor</term> <note>A title given to Ramon Llull (1232–1316), the Majorcan philosopher and mystic</note> and invincible Martyr, Blessed Raymond Lull, and that the Speaker was from the learned and grave Order of the Society of Jesus <note>The Jesuits</note>, I already deemed the review as unnecessary in my mind as the approval was rightly deserved. Not only in this City and Kingdom have many and very learned Fathers of the Society published the greatness of Raymond through their sermons and other writings; but also their most elevated minds known in this sacred Order were his heralds in foreign provinces. In the historical dissertations published in the name of this Kingdom by the Very Reverend Father Jaime Custurer of the same Society [1], one can see that Fathers Gabriel Vázquez, Antonio Possevino, Athanasius Kircher, Sebastián Salellas, Juan Busieres, Philippe Briet, Théophile Raynaud, and many other great Jesuit writers, employed the sharp edges of their keen intellect to protect and shelter the cause of this Raymond Lull, who was as many times a martyr as he was persecuted. For which reason I can rightly think that this Illustrious Order: [2] *Not unacquainted with misfortune, she learns to succor the wretched.* <note>original Latin: "Non ignara mali miseris succurrere discit." A quote from Virgil’s Aeneid where Queen Dido expresses empathy for the Trojans based on her own suffering.</note> Or as Ovid says:
+
+<margin>
+1
+From page 385 to 404.
+</margin>
+
+<margin>
+2
+Dido in Virgil.
+</margin>
+
+<margin>
+3
+Ovid, book 1, *Tristia*, Elegy 2.
+</margin>
+
+(3) *Often when one God presses hard, another God brings help.* <note>original Latin: "Sæpe premente Deo fert Deus alter opem."</note>
+
+At the very least, a great part of the same Order has
+
+<column-break/>
+
+has as one of its endeavors the task of illustrating and magnifying the glories of our Illuminated Doctor, which in the opinion of the learned is a great height of good fortune. Therefore, since this invincible Society is so fortunate in the battles it fights, and seeing that the Author of this Sermon was one of them, no doubt could fit in my mind regarding the success and consummate perfection of the work.
+
+Nor was I lacking a particular and effective reason for this; for this is not the first Sermon with which this noble Orator has magnified Lull; but rather many years ago, in the same solemnity, he was already a panegyrist of his praises. At that time, without intending to, he introduced a deception into the minds of the listeners, by which everyone was persuaded they could not hear another more excellent oration on this great subject. An error of the sort that, in truth, does not cause offense, but as the Prince of moral Philosophy says, they delight the mind: [4] *The deception itself delights.* <note>original Latin: "Fallatia ipsa delectat." This quote is attributed here to Epistle 148, likely referring to St. Augustine.</note> Nevertheless, it was right that the one who had caused the deception should lead so many out of it. And certainly this second panegyric banished it from their understandings; because being so perfect in all its parts, the Author exceeded not only the first, but also himself.
+
+<margin>
+4
+Epistle 148.
+</margin>
+
+For this reason, upon reading it, my admiration took the place of doubt. For who would not admire in the Sermon itself the so learnedly illustrated *universal wisdom of Blessed Raymond Lull*? This by itself earned the applause of the entire <term>Republic of Letters</term> <note>The international community of intellectuals and scholars</note>; but proposed in a panegyric discourse by such a learned and credited Orator, it must necessarily fill the world with admiration. The first light was fortunate in its creation, because it had God himself as its Panegyrist: *It was able to find such a preacher for itself, by whom it might be worthily praised,* [5] says Saint Ambrose. And although with the Divine Orator...
+
+<margin>
+5
+Book 1, *Hexameron*.
+</margin>
+
+<sig>††</sig>
+<meta>catchword: vino</meta>
+
+<summary>This page contains the official approval of a sermon honoring the philosopher Ramon Llull, written by Antonio Gual y Zanglada. Gual praises the Jesuit author and notes the long-standing support the Jesuit Order has provided to Llull's legacy.</summary>
+<keywords>Ramon Llull, Antonio Gual y Zanglada, Jesuits, Society of Jesus, Majorca, Panegyric, Jaime Custurer, Illuminated Doctor</keywords>
+
+--- Page 8 ---
+<meta>The previous page concluded with the beginning of the academic review of the sermon, noting that many Jesuit scholars have historically defended the works of Ramon Llull. This page continues the reviewer's praise for the orator's skill, comparing the sermon's structure and the depth of Llull’s "Universal Wisdom" to classical metaphors from Pliny and Seneca.</meta>
+
+...to the divine, none can be compared; yet I can say that the light of Raymond’s wisdom was quite fortunate to have found in human form an Orator so great that he could praise it with such profound and elevated discourses.
+
+All these perfections compose and beautify this panegyric; therefore, if this Author compares the wisdom of Raymond to the image of Minerva <note>The Roman goddess of wisdom and strategic warfare</note> painted by the great artist Amulius <note>A Roman painter mentioned by Pliny the Elder, known for his serious and demanding style; he famously only painted for a few hours a day and always wore a toga while working</note>, I must also compare this learned oration to that same image. The rarity of that painting (as this Author notes, following Pliny) consisted in the fact that anyone, from any side, even the opposite, who looked at it, seemed to be the only one receiving the Goddess’s attention. She looked in all directions at once, so that however many people looked at her attentively, there were just as many who seemed to be the only ones favored by her eyes: *looking at the one who looks, from wherever she was looked at.* <note>original: "Spectantem aspectans, quacumque aspiceretur"</note>
+
+I do not intend, nor would it be appropriate, to make the comparison as extensive as the Author himself; but speaking of the sciences that are compatible with his status, I must say briefly that if a Philosopher, a Rhetorician, or a Theologian attends to this oration, it will seem to him not only that he is the only one addressed by it, but also that it speaks to him alone.
+
+What was partially sufficient to take away my wonder at each of these individual flourishes—which make this "jewel" of a speech so striking—is seeing them all joined together within it. Anyone in the woods might notice that some tree, with its robust and hard trunk and its high and extended branches, towers over those that surround it; without noticing the others, they focus their attention solely on that one eminent tree. But if the forest is so favored by nature that all its trees are of equal and immeasurable greatness, then none (says Seneca)
+
+<margin>
+Epistle 33.
+</margin>
+
+<column-break/>
+
+<page-num>11</page-num>
+<meta>catchword: fueron (were)</meta>
+
+is regarded with the wonder it would receive if it stood alone. *A single tree is not a wonder where the whole forest has risen to the same height.* <note>original: "Non est admirationi una arbor, ubi in eandem altitudinem tota silva surrexit"</note> And the reason for this, which he himself points out, is very natural: because he says that wherever the eyes are turned, they immediately encounter something that would be eminent if it were not seen among its equals: *Wherever you cast your eye, that meets you which could stand out were it not read among its equals.* <note>original: "Quocumque miſſeris oculum id tibi occurrit, quod eminere poſſet nisi inter paria legeretur"</note> It is true that this logic does not apply to many who know how to worthily value the eminent and rare, even when it is accompanied by countless other greatnesses. But I do not doubt that others would admire each of the perfections that adorn this Sermon more if they saw them without the company of their peers. Because in this leafy and shining forest of the <term>universal wisdom</term> <note>A reference to Llull’s "Ars Generalis Ultima," a logical system intended to unite all branches of knowledge through a single method</note> of Llull, the tree of every science observed in its Author is a high and towering Cedar: *Wherever you cast your eye, etc.*
+
+For this reason, the complaint that the learned might have against this Orator would not be entirely unjust: for through his modesty, he has resisted making this work public as much as the obligations of his religious state—always dependent on obedience—allowed. This modesty did not allow him to notice what Seneca himself says: that the fates lead gently those who go willingly, but they drag with violence those who resist. *The Fates lead the willing, but drag the unwilling.* <note>original: "Ducunt volentem fata, nolentem trahunt"</note> The pleas and intercessions with which certain devotees of Raymond sought to persuade the preacher to allow this "offspring of his intellect" to be published were the means by which Divine Providence apparently guided him to condescend to them; but although these suggestions (as I gather from the Author's attentive courtesy) would have been treated as commands had they concerned any other matter, nevertheless in this case they were...
+
+**Raymond Lull**, **Amulius**, **Pliny**, **Seneca**, **Minerva**, **panegyric**, **universal wisdom**, **obedience**, **Divine providence**
+
+<summary>This page continues the formal approval of a sermon honoring Ramon Llull, comparing the speaker's oratorical skill to a famous painting of Minerva and a forest of towering cedars. The reviewer emphasizes that the orator's modesty initially prevented publication until he was persuaded by devotees, framing this as an act of Divine Providence.</summary>
+<keywords>Ramon Llull, Jesuit Oratory, Pliny the Elder, Seneca, Minerva, Universal Wisdom (Ars Magna), Religious Obedience, Panegyric, 17th-century Rhetoric</keywords>
+
+--- Page 9 ---
+<meta>The previous page concluded with a comparison between the Orator's speech and a famous painting of Minerva by Amulius, suggesting that just as the painting seems to look at every viewer individually, this sermon speaks directly to the heart of any Philosopher, Rhetorician, or Theologian who reads it. It ended mid-sentence, discussing how the author's previous efforts...</meta>
+
+...were of no force, nor would the intent have been achieved, had there not intervened the authority of one who could command it.
+
+By this means, this Orator satisfies what may be called an obligation of justice: because wisdom is not received from Heaven as a gift that the wise man may hide within himself; it is a loan that must be repaid to future generations. And just as light is not enclosed within the Sun without allowing itself to be seen, but rather, filling the hemisphere, spreads down to the earth to fertilize it with its benign influence: so knowledge is a most pure light that must be communicated to the most distant regions; it can even be called a Sun, for one cannot strip it of its brilliance without destroying it. So much so that, because of the way fire shines, the Platonists <note>Followers of the philosophy of Plato, who often associated the soul with celestial or fiery elements</note> thought the souls of the highest understanding, whom the sciences ennoble, were of the nature of this element [fire]: <margin>Pliny, Book 2, Chapter 107.</margin> *The reason of this fire is eloquent; it brings itself forth, and grows from the smallest sparks.* <note>original: "Huius unius ratio facunda, seque ipse parit, & minimis crescit scintillis." Pliny the Elder is here describing the miraculous and communicative nature of fire.</note> [7]
+
+It is true that this most learned Orator very often teaches, delights, and moves with his Sermons the innumerable crowd that anxiously follows him everywhere to hear him; nevertheless, as voices quickly vanish, with them the Sermons remain not only as if dead, but also buried. But the monuments of writings do not experience the rigors to which the most sumptuous marbles and bronzes are subject:
+
+> <margin>Martial, Book 10, Epigram 2.</margin> The wild fig tree splits the marbles of Messala; and the bold muleteer laughs at the broken horses of Crispus. But neither thefts harm writings, nor do the ages wear them away; these monuments alone do not know how to die. <note>original: "Marmora Messala findit caprificus... Solaque non norunt hæc monumenta mori." The Roman poet Martial argues that literature is more permanent than stone monuments, which eventually crumble or are mocked by history.</note>
+
+For this reason, the learned should remain grateful to this Orator; for through his own labor they manage to preserve among his writings a panegyric <note>A formal public speech or written text in high praise of someone—in this case, Ramon Llull</note> so worthy of all esteem; which not only contains nothing against
+
+<column-break/>
+
+<page-num>13</page-num>
+
+against the Faith and good customs, but indeed for many reasons deserves to be immortalized in the most lustrous characters of the printing press. This is my opinion. In Mallorca, on March 16th, 1712.
+
+-> **Don Antonio Gual y Zanglada, Canon** <-
+
+March 19th, 1712.
+Let it be printed. <note>original: "Imprimatur"</note>
+**Canon de Togores, Vicar General, Sede Vacante** <note>The term "Sede Vacante" refers to a period when a bishop's seat is vacant; the Vicar General governs in the interim.</note>
+
+<image-desc>A circular library stamp or watermark is visible on the right side of the page, though the details within the circle are faded and illegible.</image-desc>
+
+<summary>In this formal approval (censura), Antonio Gual y Zanglada argues that wisdom must be shared through writing because spoken words vanish while books provide immortality. He concludes that the sermon in praise of Ramon Llull is doctrinally sound and worthy of being printed.</summary>
+<keywords>wisdom as a loan, immortality of literature, Pliny the Elder, Martial, Mallorca, ecclesiastical approval, panegyric, Ramon Llull</keywords>
+
+--- Page 10 ---
+<meta>The previous page established a metaphor comparing Father Fullana’s sermon to a divine light that must be shared with the world, rather than hidden. It concluded with a quote from Pliny the Elder about the communicative nature of fire, setting the stage for this formal legal and academic approval of the text.</meta>
+
+### OPINION, AND PERMISSION OF THE VERY ILLUSTRIOUS, AND
+### very Magnificent Lord Don Miguel de Esmandia,
+### Doctor of Philosophy, and both Laws <note>Civil and Canon Law</note>, Professor
+### formerly of Civil Institutes, Code, and Evening Law Lectures,
+### later Primary Professor of Canon Law at the University of the
+### Most Excellent Barcelona, Consultant to the Supreme
+### Council of War, Auditor General of the Royal Armies,
+### of the Council of His Imperial and Catholic Majesty,
+### (God preserve him) and Regent of the Royal Chancery in
+### that of this Kingdom of Mallorca.
+
+WITH very careful reflection I read the universal wisdom of the Blessed Raymond Lully, which the Most Reverend Father Bartholome Antonio Fullana of the Illustrious and learned Society of Jesus proclaimed on the 25th of past January, in the Royal Convent of St. Francis of Assisi of this always Most Faithful City of Palma, in order to permit its printing; and I could wish that more attention were paid to the reality of my feeling than to the sound of the words which I must necessarily use to express my judgment. For there are occasions when words cannot convey what the heart desires, nor can the heart manifest itself in the materiality of those words, according to the opinion of the most grave legal experts on conjectural matters. Thus, as soon as I read this celebrated Oration, there occurred to me what occurred to Seneca upon reading the writings of Valerius Maximus: *The ornament of teaching and eloquence approaches men in three ways: by penetrating the ears, soothing the eyes, and invading the souls.* <note>original: "Doctrina, & Eloquentiæ ornamentum tribus modis homines agreditur, penetrando aures, demulcendo oculos, & animos invadendo."</note> Ingenuity removes neglect from the ear, sweetness awakens the eyes, gravity satisfies the heart, and these three effects united fulfill the desire of the intent. To know how to put the sweetness of the tongue into the pen is a very rare skill; in this Panegyric <note>A formal public speech of high praise</note> I notice that the sweet voice of the Orator is not missed, because of the spirit which
+
+<column-break/>
+
+<page-num>15</page-num>
+<meta>catchword: And pu-</meta>
+
+your skill knew how to put into the pen, observing the laws necessary for the purpose.
+
+It proves with courage that universal wisdom is found in the Illuminated Doctor <note>A title traditionally given to Ramon Llull (Doctor Illuminatus)</note>, from which it allows itself to be known that a general School is found within him; whereby it seems that one can appropriate to him what the best company said of Christ our Lord: *Now we know that you know all things.* <note>original: "Nunc scimus quia scis omnia." A quote from the Gospel of John 16:30, here applied to Llull's polymathic knowledge.</note> From his earliest years, fame proclaims that the Orator gave signs of the grave liveliness of his genius; but now in this Panegyric, which speaks of the Patron and Master of his renowned University, the Blessed Raymond, and of my beloved and exalted Palma, his Homeland, in whom the glories of such sons are reflected, I would say of him better than ever: *Now we know, because you know all things:* and to fulfill the will with which the Sermon and its Author capture my attention, I must follow the opinion of St. Gregory: *A man praises appropriately by remaining silent about that which he cannot appropriately comprehend.* <note>original: "Laudat idoneè homo tacendo, quod idoneè comprehendere non valet."</note> I shall put silence to my pen, for the learning, discretion, mastery, gravity, subtlety, expansiveness, elegance, sublimity, and conceptual richness of the oration [speaks for itself]. *Pliny: A work beautiful, strong, sharp, sublime, and even spacious, and spread with your great praise.* <note>original: "Opus pulchrum, validum, acre, sublime, spaciosum etiam, & cum magna tua laude diffusum."</note> It obliges me to say what St. Jerome said on another similar occasion: *You have sent your book, composed with prudence and elegance; I read it gladly, and the division pleased me; and since in the first part you surpass others, in the last you surpass yourself,* <note>original: "Librum tuum prudenter, ornateque compositum transmisfisti libenter legi, placuit mihi divisio; cumque in prima parte vincas alios, in ultima te ipsum superas."</note> worthily deserving through it what Pliny says: *You have attained a name that cannot pass to another; though others may later use it, it is always recognized as yours.* <note>original: "Affectus es nomen quod ad alium transire non possit: licet alij postea usurpent semper tuum agnoscitur ut tuum."</note> For which reason the Orator must in justice reveal it so that the coming age may imitate him: *Cassiodorus: And do you still hesitate to publish what can serve such great utilities? You even conceal, if I may say so, the mirror of your mind, where every coming age might look upon you.* <note>original: "Et adhuc dubitas edere quod tantis utilitatibus potest congruere? Calas etiam, ut ita dixerim speculum mentis tuæ, ubi te omnis ætas ventura possit inspicere."</note>
+
+<summary>This page contains the official approval by Miguel de Esmandia for the publication of Father Fullana’s panegyric on Ramon Llull, praising the author's eloquence and the subject's vast intellect through numerous classical and biblical citations.</summary>
+<keywords>Miguel de Esmandia, Ramon Llull, Bartholome Antonio Fullana, Palma de Mallorca, Panegyric, eloquence, University of Barcelona, censorship, academic approval</keywords>
+
+--- Page 11 ---
+<meta>The previous page concluded the formal legal and academic approvals (censures) for the publication of this sermon, focusing on the duty to share intellectual light. This page provides the final signature of the Regent of the Royal Chancery and begins the main text of the sermon itself, delivered on the feast day of Ramon Llull.</meta>
+
+And so that the strength of my affection for the Illuminated Doctor <note>Ramon Llull (c. 1232–1316), the Majorcan philosopher and polymath known as Doctor Illuminatus.</note> and for the Orator does not accuse me before the public of being biased in urging for the printing: St. Chrysostom says: *One who loves always sees more sharply with the eyes of love, and feels more vividly.* <note>original: "Semper amoris oculis acutius intuetur, & ſemper vivatius qui diligit ſentit."</note> I shall turn for my defense to Saint Ambrose: *It is characteristic of good works that they do not need an external advocate, but rather testify to their own grace when they are seen; what is proven by sight is more than what is praised by speech.* <note>original: "Bonorum operum proprium eſt, ut externo commendatore non egeant, ſed gratiam ſuam, cum videntur ipſa, teſtantur, plus eſt quod probatur aſpectu, quam ſermone laudatur."</note> For this reason, and to avoid infringing upon the prerogatives of his Catholic and Imperial Majesty, the King our Lord (whom God preserve), I find myself compelled to permit and urge the printing, as what Ovid says comes to my mind:
+
+> *You produce an eternal work, which neither Jove, nor anger, nor fire,* <note>original: "Das opus æternum, quod nec Iovis, nec Ira, nec Ignis,"</note>
+> *nor theft, nor time can destroy.* <note>original: "Quod furtum, aut ætas non abolere queant."</note>
+
+Thus I feel, Mallorca, April the first, 1712.
+
+->**de Esmandia, Regent.**<-
+
+---
+
+<page-num>Fol. 1.</page-num>
+<sig>A</sig>
+<meta>catchword: co</meta>
+
+<image-desc>A decorative horizontal band of floral or fleur-de-lis ornaments spans the top of the page. Below it, a large woodcut initial 'U' is decorated with intricate foliage and floral motifs.</image-desc>
+
+->*When the Son of Man shall sit on the throne of His Majesty, you also shall sit upon twelve thrones.* Matthew 19:28. <note>original: "Cum ſederit Filius hominis in ſede Maieſtatis ſuæ, ſedebitis & vos ſuper ſedes duodecim."</note><-
+
+<margin>
+1
+Alfonso de Proaza in the dedicatory epistle of the *Disputations of Raymond the Christian and Homer the Saracen*.
+
+2
+Juan de Aubry in his dedication of the *Triumph of Love*.
+
+3
+The Most Serene King Don Ferdinand in the Royal Privilege granted to the City of Mallorca.
+
+4
+Cardinal Don Francisco Jiménez de Cisneros, cited by Proaza in a Letter to the very noble and distinguished Jurors <note>The "Jurats," or chief municipal magistrates of Mallorca.</note> of Mallorca.
+</margin>
+
+A University, and a very celebrated one, we have today in the Gospel. It is fitting: for when this most flourishing Lullian University <note>The University of Mallorca, which followed the teachings of Ramon Llull.</note> so solemnly pays court to its illustrious Patron, noble fellow citizen, invincible Martyr, honor of his Country, glory of the Spanish Nation, the never sufficiently praised (1) Archangelic Doctor, (2) *Illuminated*, (3) and *Most Illuminated*; (4) I shall say it all by speaking his name, the Blessed Ramon Llull—it is very appropriate that there be invited to the celebration of his Feast that University in which this wonder of wisdom received his degrees in all the sciences. But what University is this? I already suggested it to be the one the Gospel points out to us: *When the Son of Man shall sit on the throne of His Majesty, you also shall sit upon twelve thrones.* Twelve honorable seats, or rather Chairs <note>In an academic context, "chairs" (cathedras) refers to professorial positions.</note>, the Savior offers to as many Apostles who followed Him. The count is well adjusted: for twelve Apostles, twelve chairs. There occurs so plainly to the eyes an objection, that every year, for the glory of the Apostle Saint Paul, whose conversion the whole Church solemnizes on this day, we are commanded to read its solution. Twelve chairs for twelve Apostles, which comes to one chair per Apostle; Judas fell, Saint Matthias was substituted, the number was filled once more; then there can be no place for him who rose with the antonomasti- <note>The text breaks mid-word "antonomasia," likely referring to St. Paul being known as "The Apostle."</note>
+
+<summary>This page concludes the formal approval by the Regent of Mallorca and begins a sermon for the feast of Ramon Llull. The speaker uses a Gospel passage about twelve thrones to metaphorically discuss the "University" where Llull, the "Illuminated Doctor," achieved his divine wisdom.</summary>
+<keywords>Ramon Llull, University of Mallorca, Saint Paul, Matthew 19:28, Illuminated Doctor, Miguel de Esmandia, Jesuit preaching, Spanish Baroque</keywords>
+
+--- Page 12 ---
+<meta>The previous page introduced the preacher’s intent to honor Ramon Llull, the "Illuminated Doctor," and began a discussion regarding the authority of the Apostles as teachers or "Doctors." The catchword "co" leads into "con el nombre" (with the name).</meta>
+
+...with the name of the *Apostle*? There is no doubt that it is so, as Saint Paul himself says: "Do you not know that we will judge angels? How much more, then, the things of this world!" <note>original: "Nescitis quoniam Angelos iudicabimus? Quanto magis secularia!"</note> (5) Come now: let the mystery be understood at once. The number twelve, says the Venerable Bede, "is often used in the scriptures to designate the Whole [or University]," <note>original: "solet in scripturis Vniversitas designari." The author plays on the Latin word 'universitas,' which meant a totality or whole, to refer to a modern University.</note> [6] A University of Chairs <note>In an academic sense, a "Cathedra" or professor's seat.</note> is signified by the twelve honorary seats offered to the Apostles; and in that University, whoever follows the Doctrine of Christ as they ought will find an eminent place. "By the twelve seats he does not only mean twelve," wrote the famous Claude Guilliaud, following the opinion of Bede and Augustine, "but the universality of those who judge." <note>original: "Per sedes duodecim non solum duodecim intelligit... sed Vniversitatem indicantium."</note> (7) Do not let the meaning be tied only to the word, nor the count of those graduated in the University of JESUS be restricted to the expressed number; for although the seats seem to be designated for the Apostolic College, there will be most illustrious assignments for those added to that Apostolic College. The most learned Jesuit Zidron <note>Francisco Cidrón de Acevedo (1613-1681), a Jesuit theologian.</note> wants us to understand this very thing from what we see in this magnificent Temple on this solemn day, where, with the four Faculties <note>term: 'Claustros' (Cloisters), referring here to the governing bodies or faculties of the University.</note> of the University assisting in public, the Doctors occupy the place that belongs to them according to their order. He writes that the Apostles and their true imitators will attain the offered seats according to their merit and dignity, as Doctors: "In like manner, the Apostles and those like them shall sit upon their thrones, each according to his merit, order, and dignity, as Doctors." <note>original: "Sedebunt similiter Apostoli, & similes in thronis suis, quisque nimirum iuxta suum meritum, ordinem, & dignitatem, quasi Doctores."</note> [8]
+
+<margin>
+5
+1 Corinthians 6:3.
+6
+Venerable Bede, Homily on the birthday [feast] of St. Benedict.
+7
+Claude Guilliaud on Matthew chapter 19 verse 28.
+8
+Father Francisco Zidron de Acevedo, discourse 19 on Matthew, section 4, number 37.
+</margin>
+
+From such clear authority of the Holy Fathers and Wise Interpreters, it seems undeniable that a well-celebrated University comes to us in the Gospel, at the same time that another University consecrates its festival to its Patron. That our illustrious Raymund <note>Ramon Llull.</note> received the degree of all sciences in the distinguished University of Christ is assured to us by his historian, who says that Raymund experienced a copious fountain of infused science, sudden—
+
+<column-break/>
+
+<page-num>3</page-num>
+<meta>The text continues the description of Ramon Llull's miraculous enlightenment and transitions to a comparison with the conversion of Saint Paul.</meta>
+
+—suddenly enlightened by the very fountain of knowledge and light, Christ Crucified: "Christ Crucified appeared to him; then, suddenly enlightened, he felt within himself a fountain of infused wisdom." <note>original: "Apparuit illi Christus Crucifixus, tunc subito illustratus sensit intra se fontem infusæ sapientiæ."</note> [9] But lest anyone should be scrupulous about the term "Degree" regarding this prodigious flood of infused wisdom, and so that it may be seen how the disciples of the University of Jesus are graduated, I will ask a question about the celebration of the feast that belongs to the whole Church today: Why is the Conversion of St. Paul celebrated with such singularity? Is Paul perhaps the only one converted? No: for those whom divine grace converted from a poorly adjusted life to heroic holiness are not few. Well then, if Paul is not the only one converted, why is only his Conversion celebrated by the whole Church? What can shine in the Conversion of Paul that does not radiate in other conversions? What reason makes it unique? My most erudite Cornelius a Lapide <note>A famous Flemish Jesuit exegete (1567–1637).</note>, a master of scriptural studies and a celebrated interpreter, points out many and good reasons. I will mention one, which at once satisfies the question and explains what has been proposed: "In order to give thanks to God for having given to the Church Paul, the Doctor of the Gentiles." <note>original: "Ut Deo gratias agat, quod Ecclesiæ dederit Paulum Doctorem gentium."</note> (10) The whole Church dresses in festival, joy, and rejoicing today to give humble thanks to God for having given us in Paul such an illustrious Doctor; it is sufficient qualification that God Himself was the one who conferred upon him that degree of Doctor in all sciences and faculties: "The Church gave Paul as Doctor." <note>original: "Ecclesia dederit Paulum Doctorem."</note> Here one sees very clearly the singularity of the Apostle's Conversion over all other conversions. Other converts emerged from their conversion as Saints; Paul emerges from his conversion as Saint Paul, and he emerges wise—so wise that from the hand of Christ who converts him, he receives the degree of a wisdom as eminent as that which he achieved. God converted him from a persecutor to give him as a Doctor to His Church, which is what Augustine said: "For Christ struck down the persecutor so that He might make a Doctor for the Church." <note>original: "Prostravit enim Christus persecutorem, ut faceret Ecclesiæ Doctorem."</note> (11)
+
+<margin>
+9
+Armengual in the *Life of the Blessed Raymund*, page 7.
+10
+Cornelius a Lapide on chapter 9 of the Acts of the Apostles.
+11
+St. Augustine, sermon 14 on the Saints.
+</margin>
+
+->You see<-
+
+<summary>This page argues that the Apostles represent a "University" of divine knowledge and draws a parallel between Saint Paul’s sudden conversion to a "Doctor of the Church" and Ramon Llull’s own miraculous receipt of "infused wisdom." It justifies celebrating Paul’s conversion specifically because it provided the Church with a supreme teacher, much as Llull serves as a patronal "Doctor" for the local university.</summary>
+<keywords>Ramon Llull, Saint Paul, University of Jesus, infused wisdom, Doctor of the Church, conversion, academic degrees, Venerable Bede, Cornelius a Lapide, Saint Augustine</keywords>
+
+--- Page 13 ---
+<meta>The previous page discussed how the "University of Jesus" is represented by the twelve seats of the Apostles, suggesting that divine wisdom is a higher form of academic degree than any worldly qualification. The catchword "bidu-" at the end of page 4 connects to "biduria" (wisdom) on page 5.</meta>
+
+<page-num>4</page-num>
+
+You see, Gentlemen, how degrees are conferred in the University of Jesus. You see there the University in which Paul graduated; and see if it is the same one in which our illustrious Patron <note>Ramon Llull (c. 1232–1316), the patron saint of Mallorca and the university being discussed.</note> received his degree in all the sciences. We venerate Ramon as the **Illuminated Doctor**, and if we read the histories of his life, we will find that although—guided by his most burning zeal for the salvation of souls—il he traveled through Rome, Genoa, Pisa, Barcelona, Paris, Lyon in France, and through many other Courts and Cities of Christendom, reading publicly in some of their Universities some of the books of his Doctrine to the admiration of the most learned Academics, we will find that in none of them was he conferred a degree in any faculty. 
+
+So, if Ramon is not graduated by any university of the earth, how do we give him the title of **Doctor**? Let us remember what his Historian tells us, and we will find how and where our illustrious Patron received the degree of Doctor. Christ, my savior, converted Paul and gave him as a Doctor to His Church: <note>original: "Quòd Ecclesia dederit Paulū Doctorem. Vt faceret Ecclesia Doctorem."</note> *That the Church gave Paul as a Doctor; so that the Church might make him a Doctor.* The same Lord converted Ramon, and we admire him as a Doctor in all faculties: <note>original: "Apparuit illi Christus Crucifixus, tunc subito illustratus sensit intra se fontem infusa sapientiæ"</note> *Christ Crucified appeared to him; then, suddenly enlightened, he felt within himself a fountain of infused wisdom.* (12)
+
+<margin>
+12
+Armengual
+cited.
+<note>Likely referring to a biographer of Llull, such as Francisco Armengual.</note>
+</margin>
+
+From what has been said, it is certain that the Conversion of Paul on this day is not only celebrated as the conversion of Saul into Paul, but as the Conversion of Paul from being learned according to the world to being learned in the things of God; from a small amount of knowledge with which he served the Princes of the Priests to a **Universal wisdom** with which he could be a Teacher of everything to everyone, in order to win them all. [13] Thus it is, and I do not know how, that the solution has come to the common doubt regarding why Mallorca celebrates the Conversions of Paul and Ramon on the same day, since today only Ramon's Conversion to a universal wis-
+
+<margin>
+13
+<note>original: "Omnibus omnia factus sū: ut omnes facerem salvos. 1. Corint. 9. v. 22."</note>
+"I have become all things to all men, that I might save all." 1 Corinthians 9:22.
+</margin>
+
+<column-break/>
+
+<page-num>5</page-num>
+
+<sig>a 3</sig>
+
+dom is celebrated. If Paul becomes wise today, there is no need to discuss further the reasons for the harmony, for within a few sentences the similarity of one conversion and the other is clearly seen. Let the manner in which Paul is converted to such great wisdom be heard, and let us attend to the way in which Ramon was converted to such great knowledge. Christ the Lord himself came to be Paul’s Teacher, bringing much light as a precursor: <note>original: "Subitò circumfulsit eum lux de cælo."</note> *Suddenly a light from heaven shone around him.* [14] To teach Ramon, Christ also comes with a notable abundance of radiance: <note>original: "Apparuit illi Christus Crucifixus, tunc subito illustratus."</note> *Christ Crucified appeared to him; then, suddenly enlightened.* 
+
+Furthermore: That brilliance in the Conversion of Paul was a symbol of the degree being conferred upon him in a universal science, sufficient to give lessons of knowledge to the whole world; thus the aforementioned Cornelius observes: <note>original: "Hæc lux erat symbolum Doctoratus Pauli, quo illuminaturus erat omnes gentes luce doctrinæ;"</note> *This light was a symbol of Paul's Doctorate, by which he was to enlighten all nations with the light of doctrine;* (15) that clarity in the Conversion of Ramon was a sign of the <term>Magisterium</term> <note>The office or authority of a teacher.</note> granted to him in every kind of faculty, sufficient for him to experience within himself such a deep fountain of wisdom that it would be enough to water much of the world; his celebrated History continues thus: <note>original: "Tunc subito illustratus sensit intra se fontem infusæ sapientiæ."</note> *Then, suddenly enlightened, he felt within himself a fountain of infused wisdom.*
+
+<margin>
+14
+Acts 9:3.
+</margin>
+
+<margin>
+15
+A Lapide on chapter 9 of the Acts of the Apostles. <note>Cornelius a Lapide (1567–1637) was a prominent Jesuit Bible commentator.</note>
+</margin>
+
+Even more. One of the ceremonies used in the Universities in the conferring of degrees is to put the graduate in possession of the <term>Cathedra</term> <note>Latin for "chair" or "seat," referring to the professor's official seat of authority.</note>. In the degree conferred upon Paul, this circumstance was not lacking, nor was this ceremony omitted in the degree of Ramon. What do you think is the Chair of the University of Christ? Hear where the great Augustine understands it to be: He considers Christ speaking from the Sacred Wood of the Cross, and he considers Him a Professor who teaches from the Chair: <note>original: "Tanquam lignum illud, ubi fixa erant membra morientis, etiam Cathedra fuerit Magistri docentis."</note> *As if that wood, where the limbs of the dying man were fixed, was also the Chair of the teaching Master.* (16) The Cross is the Chair. [The degree is conferred...]
+
+<margin>
+16
+St. Augustine, Sermon 110 on John.
+</margin>
+
+<summary>The author argues that Ramon Llull and Saint Paul received their "degrees" directly from Christ through divine enlightenment rather than through earthly universities. He compares their conversion experiences, specifically linking the light seen by Paul to the visions of the crucified Christ that granted Llull his "infused wisdom."</summary>
+
+<keywords>Ramon Llull, Saint Paul, University of Jesus, conversion, Illuminated Doctor, infused wisdom, Cathedra, Cross as teacher, Mallorca, hagiography</keywords>
+
+--- Page 14 ---
+<meta>Continuing from page 5, which established that divine wisdom is a higher form of academic degree than any worldly qualification, the speaker now compares the conversion and academic "graduation" of Saint Paul with that of Blessed Ramon Llull.</meta>
+
+<page-num>6</page-num>
+<meta>catchword: that</meta>
+
+<margin>
+17
+Acts 9:16
+</margin>
+What does Paul say? Well, he shall take possession of the Professor's Chair <note>The "Cathedra" or academic chair, symbolizing his authority as a teacher of the Church.</note> by savoring the Cross of Christ in many and exquisite torments: *I will show him how much he must suffer for my name’s sake.* <note>original: "Ego ostendam illi quanta oporteat eum pro nomine meo pati."</note> [17] The Cross is his Professor’s Chair. And as for Ramon’s graduation? He shall take possession of his Chair through the joy of suffering; and so that his possession might be declared, we read that as the Crucified Christ was infusing him with wisdom, the Divine Master left him the Cross. [18] From these similarities alone, omitting many others, it is well demonstrated how similar the Conversion of Ramon is to that of Paul; and being so alike even in the circumstance of the day, it is no wonder they are united on the same day for our applause. <note>The Conversion of St. Paul is celebrated on January 25th, which is also a significant day in the liturgical calendar for Ramon Llull.</note>
+
+<margin>
+18
+Father Jacobo Custurer, Dissertation 1, folios 80 & 160. <note>Jacobo Custurer (1640–1715) was a Majorcan scholar and biographer of Llull.</note>
+</margin>
+In their admirable conversions, I believe Paul and Ramon could sing with the Prophet: *My eyes fail for your word, saying: when will you comfort me?* <note>original: "Defecerunt oculi mei in eloquium tuum dicentes: quando consolaberis me?" from Psalm 118:82 (Psalm 119 in modern bibles).</note> [19] Now, Lord, we look upon you with different eyes, very different from those with which we saw you before; now those who previously went in search of ways to wrong you have returned to celebrate your praises; and both cry out and say together: You, my God, are my comfort. Do they say, "you are my comfort"? And how, asks Saint Ambrose, will you reconcile the laws of Grammar: *Eyes saying* <note>original: "Oculi dicentes"</note> in the plural number, with the other in the singular: *Will you comfort me?* <note>original: "Consolaberis me?"</note> Easily, he himself answers, by noting that to know and see God, the eyes of faith and wisdom are so in accord, (20) that in Holy Sages, wisdom and holiness will seem to you not two things, but one and the same; so that if you wish to celebrate holiness in them, you will find it shining with the brilliance of knowledge; and if you wish to admire wisdom, you will find it adorned with all the trappings of Holiness: the desire for the Holy is the desire for the learned: the office of Wisdom is the office of holiness: for they are such sisters that they confess their voices as if from one alone: *This also...*
+
+<margin>
+19
+Psalm 118, verse 82.
+</margin>
+
+<margin>
+20
+Saint Ambrose here: With what eyes, then, did Paul begin to see more, if not those which he himself showed us, saying: I will pray with the spirit, I will pray also with the mind? <note>original: "S. Ambr. hic: Quibus igit oculis videre Paul. plus cœpit, nisi ijs, quos nobis ipse monstravit dicens: Orabo spiritu, orabo & mente?" Reference to 1 Corinthians 14:15.</note>
+</margin>
+
+<column-break/>
+
+<page-num>7</page-num>
+<meta>catchword: only-</meta>
+
+*...that the eyes confess to be one, because they perform the same desire and duty.* <note>original: "que oculi unum esse confitentur, quia uno, eodemque desiderio, officioque funguntur."</note> [21] Who does not admire in the converted Paul and Ramon such a union and concord of wisdom and holiness? Who does not observe in these two **Enlightened Doctors** and most zealous Apostles—the one to the Gentiles, the other to Africa [22]—a scientific virtue, a virtuous science; a holy knowledge, a wise holiness, a scholarship that encompasses the virtues, and heroic virtues that make scholarship stand out marvelously? Nevertheless: while his festive day remains for the glories of Saint Paul, holy and wise, Ramon’s holiness also has its day: in this one, the setting itself persuades me that I must limit myself to celebrating the elevated wisdom of our Blessed Ramon; a wisdom that has much of the singular about it. Does Ramon's wisdom have much that is singular? Yes: I have already said so. And what would be so singular? Truly, I find only one thing; although this one thing is a great singularity, given that the wisdom of our Blessed Ramon is a universal wisdom: Universal for himself, and a universal wisdom for all, which he marvelously achieved in his conversion to wisdom, as we hear from his Historian: *Then suddenly enlightened, he felt within himself a fountain of infused wisdom.* <note>original: "Tunc subito illustratus sensit intra se fontem infusæ sapientiæ."</note> I have hinted at what I must say; so that it may be done rightly, let us ask for the assistance of grace through Mary.
+
+<margin>
+21
+The same Saint Ambrose, in the same place.
+</margin>
+
+<margin>
+22
+Juan Maria de Vernon in the *Life of Blessed Ramon*, printed in Paris in the year 1668, and dedicated to the Supreme Pontiff Clement IX.
+</margin>
+
+->Hail Mary.<-
+
+> When the Son of Man sits on the throne of his Majesty, you also will sit on twelve seats. <note>original: "Cum sederit Filius hominis in sede Maiestatis suæ, sedebitis & vos super sedes duodecim." Matthew 19:28.</note> Matthew, previously cited.
+
+### INTRODUCTION.
+
+Peter left everything, and he had everything, for to an "everything" voluntarily left for Christ corresponds an "everything" advantageously possessed. How? Peter left everything, and left...
+
+<vocab>Saint Paul, Saint Ramon Llull, Saint Ambrose, conversion, wisdom, holiness, Cross of Christ, Doctor Illuminatus</vocab>
+
+<summary>This page compares the conversions of Saint Paul and Blessed Ramon Llull, arguing that their wisdom and holiness are inseparable. The author defines Llull's "universal wisdom" as a divine gift received through suffering and enlightenment, rather than through traditional university study.</summary>
+<keywords>Ramon Llull, Saint Paul, Saint Ambrose, conversion, universal wisdom, infused wisdom, holiness, academic chair, suffering, martyrdom</keywords>
+
+--- Page 15 ---
+<meta>Continuing from the previous page, which compared the miraculous conversions of Saint Paul and Blessed Ramon Llull, the text now shifts to a comparison with Saint Peter’s renunciation of his worldly life to follow Christ, establishing the foundation for Ramon’s own vast spiritual and intellectual inheritance.</meta>
+
+<page-num>8</page-num>
+<meta>catchword: giofa <note>Catchword for "prodigiosa" on the following page.</note></meta>
+
+...only a poor little boat, and nets of no great value, as Alapide <note>Cornelius à Lapide (1567–1637) was a Jesuit exegete famous for his comprehensive commentaries on the Bible.</note> noted: *We have left everything, namely the ship and the nets?* <note>original: "Reliquimus omnia, scilicet navim, & retia?" referring to Matthew 19:27.</note> [23] Yes: for he left much, and he left everything, who retained nothing for himself of what he possessed; he left much, and he left everything, who, by leaving even the desire to possess—though what he possessed was little—left all that he had. As Saint Gregory says: *He has left much who has retained nothing for himself; he has left much who, however little it may be, has abandoned it all.* <note>original: "Multum reliquit, qui nihil sibi retinuit: multum reliquit, qui quantumlibet parum, totum deseruit." From Gregory the Great's Homilies on the Gospels.</note> [24] Is this how you have left things, Peter?
+
+<margin>
+23
+Alapide on chapter 19 of Matthew.
+</margin>
+
+<margin>
+24
+Saint Gregory, Homily 5 on the Gospels.
+</margin>
+
+<margin>
+25
+Saint Ambrose, Sermon 8 on Psalm 118.
+</margin>
+
+Saint Ambrose considers this: you have indeed negotiated well, for by leaving what you possessed, which was little, you have attained what you did not have, which was much, and is the "everything" that is to be craved and desired: *You have left, therefore, Peter, what you had, and you have received what you did not have.* <note>original: "Reliquisti ergo Petre quæ habebas, & cepisti quæ non habebas."</note> (25) And what is it that Peter did not have, but achieved by leaving? *Christ is your portion, Christ is your possession:* <note>original: "Christus tibi portio, Christus tibi possessio est."</note> he succeeded in having as his Master the one who is Wisdom itself, emerging as wise as he ought to be as a disciple of such a school; so wise that he is destined for a Professor’s Chair <note>The "Cathedra," a seat of teaching authority.</note> in which he might lecture not only to those of one science, nor only to those of one faculty, nor only to those of one profession or art; but rather before all Professors of all arts and sciences, and in the presence of the greatest assembly that has ever been seen or shall be seen in the world: *You also shall sit upon twelve seats, judging the twelve tribes of Israel.* <note>original: "Sedebitis & vos super sedes duodecim, judicantes duodecim tribus Israel."</note> And that this was Peter’s great fortune—to have Christ as his Master—is the confession of the Apostle himself in today's Gospel: because to say that he followed Christ, *we have followed you* <note>original: "secuti sumus te"</note>, is to say, according to the Abulense <note>Alonso de Madrigal (c. 1410–1455), known as "El Tostado" or "the Abulense" (from Ávila), a prolific Spanish theologian.</note>, that he heard the doctrine from Christ, and that he constantly followed the doctrine that the Divine Master had taught him: *We have followed you: because they held the doctrine of living given by him.* <note>original: "Secuti sumus te: quia doctrinam vivendi ab eo datam tenuerunt."</note> [26]
+
+<margin>
+26
+The Abulense here, question 189.
+</margin>
+
+I will not delay you, Gentlemen, by recounting the history of Raymond which you already know; but it is necessary, since we have moved from the Epistle of this day to Raymond—so similar to Paul in his prodigious conversion;
+
+<column-break/>
+
+<page-num>9</page-num>
+<sig>B</sig>
+<meta>catchword: Theo- <note>Catchword for "Theologia" (Theology) on the following line.</note></meta>
+
+prodigious; seeing him also as an imitator of Peter in his leaving, in his following, and in the happy success of having the Divine Savior himself as his Master, let us discourse from the Gospel upon what height of knowledge such a sublime and portentous school was to raise him: *We have followed you: because they held the doctrine of living given by him.* <note>original: "Secuti sumus te: quia doctrinam vivendi ab eo datam tenuerunt."</note> Now then: what would be the wisdom of our Invincible Martyr and illustrious Patron, Raymond?
+
+-> §. I. <-
+
+I do not know how to depict it in the way I conceive it, unless I make use of the exquisite brushes of the celebrated Amulius for the sketch. This skillful master of painting produced the most esteemed effigy—and the most frequented for being rare and singular—to be found in his time in the great Roman Court. He painted Minerva with the art that other artists later followed, with such an arrangement of her eyes that anyone, from any side, even an opposite one, who observed her seemed to be the only one observed by the Goddess; she looked in all directions at once, so that however many were those who looked attentively at her, there were just as many who seemed to be the only ones favored by her eyes: *Looking back at the one looking at her, from whichever side she might be viewed,* <note>original: "Spectantem aspectans, quacumque aspiceretur"</note> says Pliny. (27) Shall I say, perhaps, that what Amulius’s Minerva was in painting, the wisdom of our Blessed Raymond is in factual truth, and not merely in colored appearance? Heed this: no one is unaware that a portrait of the Goddess Minerva is a portrait of Wisdom itself; and this is the portrait I can give, if I am to give a sketch of the wisdom that Raymond attained from the Divine Master: *Looking back at the one looking at her, from whichever side she might be viewed.* Raymond emerged so enlightened from such teaching that every one of the sciences venerates him as the unique Master of its own faculty; and each of the faculties prides itself on being the one that seems uniquely favored by Raymond’s wisdom. If Theology considers him, she finds him...
+
+<margin>
+27
+Pliny, book 35, chapter 10. <note>Pliny the Elder (23–79 AD), Roman author of "Natural History."</note>
+</margin>
+
+<vocab>Raymundo, San Pedro, San Pablo, Minerva, Amulio, Plinio, Sabiduria, Evangelio, Theology</vocab>
+
+<summary>This page compares the spiritual poverty and subsequent intellectual wealth of Saint Peter to that of Blessed Ramon Llull, arguing that renouncing worldly goods leads to divine wisdom. The author uses the metaphor of a famous Roman painting of Minerva whose eyes follow every viewer to describe how Llull’s "Great Art" seems to master every academic discipline simultaneously.</summary>
+<keywords>Ramon Llull, Saint Peter, poverty, renunciation, divine wisdom, Minerva, Amulius, Pliny the Elder, Theology, scholarship, conversion</keywords>
+
+--- Page 16 ---
+<meta>Continuing from the previous page, the author further explores the intellectual and spiritual magnitude of Blessed Ramon Llull (Raymundo Lulio), transitioning from a comparison with the Apostles to a comparison with the Patriarch Abraham to illustrate the weight of divine wisdom.</meta>
+
+<page-num>10</page-num>
+<meta>catchword: gra-</meta>
+
+<margin>
+28
+Books of Theology by B[lessed] Raymund. 61.
+29
+Books of Both Laws [Civil and Canon]. 4.
+30
+Medical Books. 7.
+31
+Books of Philosophy, excluding Metaphysics and Logic. 19.
+32
+Books of Controversies. 46.
+33
+Books on Preaching. 6.
+34
+Ascetic and Contemplative Books. 26.
+35
+Books of Metaphysics. 5.
+36
+See Father Jean-Baptiste du Solier in the *Acts of the Blessed Raymund* from page 65. <note>Du Solier was a Bollandist hagiographer who wrote extensively on Llull's life and works in the early 18th century.</note>
+</margin>
+
+Such an excellent Theologian, that it seems this sacred science alone occupied the entirety of his long life. [ 28 ] If Jurisprudence considers him, it finds no lack of the Balduses or the Lycurguses: with so much credit, it admires him as a Most Subtle Master of Civil Laws and Canonical precepts. [ 29 ] <note>Baldus de Ubaldis (1327–1400) was a renowned jurist; Lycurgus was the legendary lawgiver of Sparta.</note> If Medicine looks at him, it admires a Physician so skilled that—if it is permissible to speak thus—his miraculousness as a Saint overflows in him; as a wise man, he knows how to give health to the most suffering with the practical rules he left written in erudite medical volumes. [ 30 ] If Philosophy contemplates him [ 31 ]; but why a long-winded list? The seven Liberal Arts that support his venerable tomb <note>Llull's tomb in the Basilica of San Francisco in Palma de Mallorca is decorated with figures representing the seven Liberal Arts (Grammar, Rhetoric, Logic, Arithmetic, Geometry, Music, and Astronomy).</note> confess that each one claims to be the favorite of Raymond’s mastery: this is what the Controversialists ask [ 32 ], this the Masters of Preaching [ 33 ], this the Ascetics, this the Contemplatives [ 34 ], this the Metaphysicians [ 35 ], and this all the wise in every kind of learning and science [ 36 ]; because in everything Raymond was so eminent, that he seems to gaze back from wherever one chooses to look: *Gazing at the one gazing, from wherever he might be seen.* <note>original: "Spectanté aspectans quacuq; afpiceretur." This suggests Llull's work is like a portrait whose eyes follow the viewer, relevant to any field of study.</note>
+
+And how could it not be so, given the great favor God showed Raymond in the infusion of such wisdom! One of the most relevant favors God does for His servants is to honor and enrich them with the most rich treasure of the gift of letters. What was this favor in our Raymond? Let me tell of what this grace was like in Abraham. God wanted to exalt this distinguished Patriarch with a very notable mercy: and what do you think He did? He gave him but a single letter: *No longer shall your name be called Abram, but your name shall be Abraham.* [ 37 ] <note>original: "Nec ultra vocabitur nomen tuum Abram, sed appellaberis Abraham." Referring to Genesis 17:5.</note> One letter? The gift seems like a small thing. The favor is undoubtedly valuable because it is divine; yet it seems of very little value because of what was granted. How? Do you perhaps think this gra-
+
+<column-break/>
+
+<page-num>11</page-num>
+<sig>b 2</sig>
+<meta>catchword: por</meta>
+
+<margin>
+38
+The same [Genesis], verse 17.
+39
+Novarinus in *The Virgin's Shadow*, Excursion 14, number 186. <note>Luigi Novarini (1594–1650) was a famous Italian polymath and cleric.</note>
+40
+The same, in the same place: But from where comes this greatness? He responds from Saint Jerome: From the fact that it was taken from the ineffable name of God. <note>The letter 'H' added to Abram's name is traditionally said to be taken from the Tetragrammaton, the four-letter name of God (YHWH).</note>
+</margin>
+
+grace was small? Look at the impression it made on the one favored: *Abraham fell on his face.* [ 38 ] <note>original: "Cecidit Abrahā in faciem suam."</note> God finished speaking, and Abraham fell prostrate on the ground. I can well understand that Abraham would prostrate himself humbly, dutifully, reverently, and gratefully before divine kindness; but his "fall" in the midst of such excessive favors is not so easy to reconcile. I understand that a grateful Abraham would venerate with a deep bow the sublime hand that benefits him, and show with respectful surrender the gratitude he owes to such an exalted benefactor; but that Abraham should be "fallen" when God raises him so high in His promises, I do not comprehend. Undoubtedly, there must be a mystery in explaining this act of submission and reverence with the terms of a "fall": *He fell on his face.* But what mystery?
+
+The most learned Novarinus deciphers it, saying that Abraham fell as if unable to carry the weight of such honor, dignity, and greatness as he received from the Divine hand, because among the many benefits with which God honored him, the principal one stands out: receiving a letter added to the name of Abraham as a gift: *As if he could not bear such a burden, such dignity, and greatness, because among other benefits recounted as conferred upon him, He gave this chiefly: that he should be called Abraham, his name increased by one letter.* [ 39 ] <note>original: "Tanquam tantum onus ferre non posset, tantam dignitatem, & magnitudinem, quia inter alia beneficia, quæ illi conferenda recenfet, hoc præcipué dedit ut Abraham vocaretur, unâ litterâ nomine aucto."</note> Good Heavens! If giving Abraham one letter of the divine name [which, being from this divine name, makes the gift rise to such high estimation] [ 40 ] is held to be such a notable mercy: what must we say of Raymond, to whom God added on His own, not one letter to his name, but such an abundance of sciences to his intellect? What shall we say of Raymond, who feels within himself the gaze of the Divine Master—not just any wisdom, but wisdom as if from a spring, which can through...
+
+<summary>This page lists the vast bibliography of Ramon Llull across disciplines like theology, law, and medicine, before comparing the weight of his divinely infused knowledge to the single letter God added to Abraham's name.</summary>
+<keywords>Ramon Llull, bibliography, Abraham, theology, jurisprudence, medicine, Luigi Novarini, divine wisdom, name of God</keywords>
+
+--- Page 17 ---
+<meta>Continuing from the previous page, the author continues to describe the immense scope of Blessed Ramon Llull's knowledge, transitioning from a discussion of divine favor to a botanical metaphor used by the Roman naturalist Pliny the Elder.</meta>
+
+<page-num>12</page-num>
+<meta>catchword: das</meta>
+
+to spread its streams everywhere: <note>original: *sensit intra se fontem insulæ sapientiæ*</note> he felt within himself the fountain of the island of wisdom.
+
+I remember that Pliny provides us with an eyewitness account, referring to the singular fertility of a tree that could, on its own, be equivalent to many other different trees, bearing fruits of all tastes. So diversely and with such success had the grafts been achieved in this singular plant, that a person's appetite could hardly imagine a craving that would not find satisfaction to its taste in this single tree: <note>original: *Tot modis insitam arborem vidimus iuxta tiburtes Tulias omni genere pomorum onustam*</note> We have seen a tree grafted in so many ways near the Tiburtine villas, laden with every kind of fruit. The four seasons of the year seemed to have conspired to appear together marvelously in that noble plant; hanging from its fertile branches were the delights of Spring as well as the recreations of Summer; that which entices the palate in Autumn, and that which sustains in Winter. And what is even more singular and more admirable, it encompassed within itself the beautiful fruits that, in well-cultivated and delightful gardens, require refined soil, as well as those which in the wild forests and uncultivated woods seem to be born from neglect itself: <note>original: *Alio ramonucibus... alio baccis, aliunde vite, ficis, pyris, punicis, malorumque generibus*</note> "On one branch nuts," says the same wise investigator of the wonders of nature, "on another berries, from another grapes, figs, pears, pomegranates, and various kinds of apples."
+
+<margin>
+41
+Pliny, Book 17, Chapter 16. <note>Pliny the Elder (23–79 AD) was a Roman author and naturalist whose *Natural History* was a foundational scientific text for centuries.</note>
+</margin>
+
+<margin>
+42
+Pliny, the same source as above.
+</margin>
+
+(42) To a tree of such quality, or of so many qualities, would you call it one? Yes: because from the same single root proceeded all that eye-catching variety. But because from that same root proceeded such a beautiful variety of fruits, it was necessary to confess that, while the tree was one, it alone was equal to many, embracing within itself the delights of many orchards and gardens, and the diversity of many forests. Oh, if only I could linger in telling you of the fruits of wisdom that God grafted into the soul of Raymund! We would see a leafy tree that would seem to be the tree of all the sciences,
+
+<column-break/>
+
+<page-num>13</page-num>
+<sig>b 3</sig>
+<meta>catchword: tatis</meta>
+
+in whom the fruits of knowledge from every discipline were miraculously united: and we would see Raymund singularly favored by the Divine hand—not with a single letter, as was Abraham, but with a copious flood of universal wisdom: <note>original: *sensit intra se fontem insulæ sapientiæ*</note> he felt within himself the fountain of the island of wisdom.
+
+This expression from the history of Blessed Raymund makes me understand some difficult words from Psalm 35. There, the Prophet, speaking of those singularly favored by God our Lord, says that His Divine Majesty will quench the burning thirst of their knowledge with the healthy currents of the torrent of Divine consolation: <note>original: *Torrente voluptatis tuæ potabis eos*</note> You shall give them to drink from the torrent of your delight. [43] The Seventy Interpreters read it as: <note>original: *Torrentem voluptatis tuæ potabis eos*</note> You shall give them the torrent of your pleasure to drink. [44] <note>The "Seventy Interpreters" refers to the Septuagint, the earliest Greek translation of the Hebrew Bible.</note> Saint Ambrose [45] agrees with this reading, which signifies that God will give this knowledge not just by providing a taste of the abundance of the torrent, but by giving the entire torrent, which is like giving the knowledge of everything. This is the observation of the same Doctor of the Church, according to his referenced reading of the text: <note>original: *Torrentem voluptatis tuæ potabis eos. Quia aviditatem viventiu voluit exprimere, quasi torrentem ipsum vellent ebibere*</note> You shall give them the torrent of your pleasure to drink. Because he wished to express the greed of the living, as if they wanted to drink up the torrent itself. (46)
+
+Is it perhaps this refined act of Divine liberality that we are contemplating in the enlightened understanding of our Patron? With a new miracle, says the wise and learned Knight Isaac Bullart, his soul was enlightened and made wise in every kind of art and science, so that nothing pertaining to them was hidden from him; [47] and if this is not it, what would it be to drink the whole torrent for those who are so specially favored by the Divine hand: <note>original: *Torrente voluptatis tuæ potabis eos*</note> You shall give them to drink from the torrent of your delight?
+
+<margin>
+43
+Psalm 35, verse 9.
+</margin>
+<margin>
+44
+Version of the Seventy Interpreters [Septuagint] in the *Biblia Maxima*.
+</margin>
+<margin>
+45
+St. Ambrose on this Psalm 35. <note>St. Ambrose (c. 340–397) was an influential Bishop of Milan and a Doctor of the Church.</note>
+</margin>
+<margin>
+46
+The same St. Ambrose on the same Psalm.
+</margin>
+<margin>
+47
+Isaac Bullart, Knight of the Order of Saint Michael. In his *Academy of Sciences and Arts*, printed in Brussels, year 1695, volume 2, book 8, page 335. <note>Bullart's work was a famous collection of biographies of illustrious men.</note>
+</margin>
+
+But let us hold to our Vulgate translation, and attend a little more to these Divine favors: <note>original: *Torrente voluptatis*</note> From the torrent of delight...
+
+<summary>This passage compares the vast, polymathic wisdom of Ramon Llull to a legendary multi-fruit tree described by Pliny the Elder and interprets his divine inspiration through the metaphor of drinking from a "torrent of delight" as described by St. Ambrose.</summary>
+<keywords>Pliny the Elder, Ramon Llull, Isaac Bullart, St. Ambrose, tree of science, universal wisdom, Psalm 35, divine inspiration, grafting metaphor</keywords>
+
+--- Page 18 ---
+<meta>This page continues the discussion of Raymond Lull's infused knowledge, specifically using a theological commentary on Psalm 35/36 to compare divine wisdom to a "torrent" or rushing stream. It transitions from general theological principles to the specific case of Raymond Lull's miraculous enlightenment.</meta>
+
+<page-num>14</page-num>
+<meta>catchword: nos</meta>
+
+<margin>
+48
+Robert Cardinal Bellarmine, Society of Jesus, on the cited Psalm 35.
+</margin>
+"...you shall give them to drink of your delight." <note>original: *tatis tuæ potabis eos*, from Psalm 36:8</note> My most eminent Bellarmine notes three things regarding the torrent. First is the great abundance of mighty currents descending from high mountains: "In a torrent three things are joined: a very great multitude of waters descending from the mountains." <note>original: *In Torrente tria iun: Multitudo maxima aquarum ex montibus descendentium.*</note> (48) Second is the sudden flood, where a mighty river is found in what was shortly before a dry and arid bed: "A sudden inundation: for where shortly before there was no water, suddenly a huge river is seen." <note>original: *Repentina inundatio: Vbi enim Paulo ante nihil erat aqua, repente conspicitur flumen ingens.*</note> Third is the impetus with which that copious flood of water proceeds, snatching up and carrying away everything it encounters: "Finally, the force of the rushing waters, carrying away everything in their path." <note>original: *Denique impetus aquarum decurrentium, & secum omnia obvia rapientium.*</note> Now then: God offers all these three things to those he chose for such great happiness. And how? The same Venerable Cardinal says:
+<margin>
+49
+The same Bellarmine, cited.
+50
+Ecclesiasticus 1, verse 5.
+51
+The Church in the prayer for the feast of St. Catherine, Martyr: To the mountain, which is Christ.
+52
+Psalm 35, verse 10.
+53
+The same Bellarmine here.
+54
+Cardinal Hugo here.
+</margin>
+"There will be a multitude of wisdom and knowledge descending from that mountain of which it is said:" [49] "The fountain of wisdom is the word of God on high." <note>original: *Fons sapientiæ verbum Dei in excelsis*</note> (50) Giving them a multitude of wisdom that flows from its very source, descending from the mountain, which is Christ, (51) a fountain of most abundant wisdom and knowledge that carries with it everything it illuminates. And so that even this does not remain without reason, listen to the verse that follows in the Psalm, and the harmony that the purple <note>The "purple" refers to the rank of Cardinal held by both men.</note> of Bellarmine has with that of Hugo: "For with you is the fountain of life: and in your light we shall see light." <note>original: *Quoniam apud te est fons vitæ: & in lumine tuo videbimus lumen*</note> [52] Thus shall those happy ones be filled with wisdom, to whom you give from the torrent of your divine comforts; because in you, Lord, is the fountain of life. Bellarmine: "Who is the same as the fountain of wisdom," <note>original: *Qui idem est cum fonte sapientiæ*</note> (53) and the fountain of living in you, my God, is the same as that of understanding. And why more? Because we shall see the light in your light. Hugo: "That is, through the doctrine with which you will enlighten us, we shall see the true light," <note>original: *Id est per doctrinam, qua nos illuminabis videbimus lumen verum*</note> (54) that is, we shall see the true light by means of the Doctrine with which you, Lord,
+
+<column-break/>
+
+<page-num>15</page-num>
+<meta>catchword: Illu-</meta>
+will enlighten us, and with which we shall consequently remain illuminated.
+
+You see there, Gentlemen, what the joy of those favored by God must be, participants in the torrent of divine comforts: a great wisdom, a wisdom derived from the fountain of knowledge, which is the wisdom of God; a wisdom that suddenly illuminates, and a wisdom, finally, that leaves the one who possesses it enlightened. I know you will tell me that all this favor now explained is for the righteous in Heaven, for those who enjoy the divine vision and are already in happy bliss. It is so; nor can I doubt it, having seen it explained in that sense in Hugo <note>Cardinal Hugo of Saint-Cher, a 13th-century biblical commentator.</note>
+<margin>
+55
+The same Cardinal Hugo, cited.
+56
+Nicolaus de Lyra in the Gloss here.
+57
+The Ordinary Gloss here. <note>The Glossa Ordinaria was the standard medieval commentary on the Bible.</note>
+58
+Jean de la Haye in the *Biblia Maxima*.
+59
+Bellarmine, cited.
+</margin>
+(55), in Lyra [56], in the Gloss (57), in Haye with the four celebrated interpreters gathered by the very wise Haye himself in the *Biblia Maxima* <note>A massive 17th-century compilation of biblical commentaries.</note> (58), and finally in the cited Bellarmine, who explains it with excellence thus: "So shall be the heavenly beatitude: there will be a multitude of wisdom and knowledge." <note>original: *Sic erit cælestis Beatitudo: aderit multitudo sapientiæ, & scientiæ.*</note> [59] It is indeed so: the wisdom of which the Royal Prophet <note>King David, traditional author of the Psalms.</note> speaks in this psalm is that which the righteous achieve as Blessed ones among the ineffable delights of eternal glory. And so? Shall the praise of Raymond <note>Raymond Lull (Ramon Llull), the 13th-century philosopher and mystic.</note> cease because of this? On the contrary, from this I argue for the pinnacle of universal wisdom to which our illustrious Patron was marvelously raised. Let us pay close attention, and we shall see that what is to be the unutterable reward of the righteous in glory is seen and admired as shared with Raymond in some way here on earth. Let us consider the repeated words that report it to us, and we shall find that if we seek the Master of Raymond, it is God incarnate: "Christ Crucified appeared to him" <note>original: *Apparuit illi Christus Crucifixus*</note>; if we seek the manner of his knowledge, it was a sudden current of wisdom in one who was not noticed before: "Then suddenly" <note>original: *Tunc subito*</note>; if the illumination, that was also present, and so great that it left Raymond with the glorious title of the Illuminated Doctor.
+
+<summary>This page uses Cardinal Bellarmine's commentary on Psalm 35 to describe divine wisdom as a rushing torrent and argues that while such knowledge is usually reserved for the afterlife, Raymond Lull received it miraculously during his earthly life. This divine favor earned Lull the title "Illuminated Doctor."</summary>
+<keywords>Robert Bellarmine, Hugo of Saint-Cher, Raymond Lull, Illuminated Doctor, Psalm 35, divine wisdom, infused knowledge, Biblia Maxima, Nicolaus de Lyra</keywords>
+
+--- Page 19 ---
+<meta>This page continues the argument for Ramon Llull’s miraculous knowledge, moving from the general concept of divine wisdom as a "torrent" to the specific "General Art" he developed, which was intended to unify all fields of study.</meta>
+
+<page-num>16</page-num>
+<meta>catchword: grace</meta>
+
+*Enlightened*; if experience and the possession of knowledge are the measure, then Raymond experienced within himself a fountain of wisdom: *He felt within himself the fountain of infused wisdom.* <note>original: "Sensit intra se fontem infusæ sapientiæ"</note> In view of all this, shall we deny that wisdom came to Raymond in a copious flood? Shall we find strange his universal knowledge, and the erudition with which he was able to produce so many General Arts <note>Llull's "Ars Generalis" was a complex system of logic and philosophy intended to provide a framework for all human knowledge.</note> that serve for all the sciences? [ 60 ]
+
+<margin>
+60
+General Arts of the Blessed Raymond. 61.
+</margin>
+
+What I would find strange is if the wisdom Raymond possessed within himself were not so great, having been the disciple of such a sovereign Master. Philo <note>Philo of Alexandria, a Hellenistic Jewish philosopher.</note> says of Phidias <note>The most famous sculptor of Classical Greece, known for the statue of Zeus at Olympia.</note> that he emerged so skilled in the art of sculpture that statues of the highest quality came from his expert chisel regardless of the material, whether humble or precious; his artistic tools descended to the carving not only of ivory and ebony, but also of less noble trunks and common logs. In this universality, it was noteworthy that in all the works of his hand, whatever the material might be, the rules of one and the same art appeared executed; and the spiritual courage of that famous craftsman was so admired that a knot of rough oak, smoothed and polished by the hands of Phidias, was valued more than the most exquisite and rich statues of alabaster formed by ordinary sculptors: *They say that Phidias, that sculptor, made statues of bronze, gold, ivory, and other various materials, in all of which one and the same art stands out.* <note>original: "Ferunt Phidiam illum statuarium, ex ære, auro, ebore, alijsque diversis materijs confecisse statuas, in quibus omnibus una eademque ars emineat."</note> ( 61 )
+
+Let us now argue in favor of Raymond's universal wisdom. If the study, application, and practice of a man could make him so eminently universal that he could dominate, so to speak, all materials with a single art: should we find it strange that the understanding of Raymond, marvelously enlightened, could embrace all sciences and all faculties with one and the same art, and comprehend them with the rules of that same art? Shall we give more to nature than to gra-
+
+<column-break/>
+
+<page-num>17</page-num>
+<sig>C</sig>
+<meta>catchword: more</meta>
+
+grace? It follows, then, that such universal knowledge perfectly suits our Raymond—knowledge which he experienced within himself, communicated marvelously from the very fountain of wisdom: *He felt within himself the fountain of infused wisdom.* <note>original: "Sensit intra se fontem infusæ sapientiæ"</note>
+
+-> §. II. <-
+
+But even this does not seem to be the greatest part of Raymond’s wisdom. How so? In the path of knowledge, can there be a point higher than a wisdom extended to all sciences and faculties? It seems not, yet it is certain that there is. Wisdom that does not pass beyond knowing, here on earth, though it be great, though it be universal, will be a servant or even a slave to the wise man who keeps it for himself and uses it for his own designs; but the wisdom that does not stop at knowing, but passes from knowing to communicating and teaching, is not a slave, nor a servant, but very free, and a great Lady. Now we discover what is greatest in Raymond’s wisdom: because if we look at what that universal wisdom was which was communicated to him by a miracle, we will find that if it was universal in Raymond for himself, it was also universal for everyone.
+
+It is so, says Augustine, that when wisdom is communicated to the intellect, it is given not as a slave, but as a spouse, who asks from her consort a succession of knowledge in the form of "children of wisdom"—these being books, which are the happy fruits of a wise mind. But this is better explained with the words of that Holy Phoenix of wits, and the wordplay between "books" and "children" formed by the Latin language: *These are the fruits of genius, and certain births of the mind, which we call not so much books as children.* <note>original: "Hoc est ingenij fructus, & quosdam mentis partus, quos non tam libros, quam liberos dicimus." St. Augustine puns on "libros" (books) and "liberos" (children).</note> ( 62 ) For this reason, the most discerning Bartoli <note>Daniello Bartoli (1608–1685), a prolific Jesuit writer and historian.</note> says that when wisdom finds itself deprived of what it desires, it weeps and laments, [ 63 ] not like the one who said:
+
+<margin>
+61
+Philo according to Father Gian Paolo Oliva in sermon Pont. f. 5. 509.
+</margin>
+
+<margin>
+62
+St. Augustine according to Father Daniello Bartoli in the treatise "The Man of Letters."
+</margin>
+
+<margin>
+63
+Bartoli in the cited treatise.
+</margin>
+
+<margin>
+64
+Virgil, Aeneid, Book 4.
+</margin>
+
+> ......... If only a little
+> Aeneas were playing in my hall, ( 64 )
+> <note>original: "Saltem mihi parvulus aulâ luderet Æneas." From Dido's lament in Virgil's Aeneid.</note>
+
+but like the innocent daughter of Jephthah, who wept more... <note>Referring to the biblical story in Judges 11, where Jephthah's daughter mourns her virginity—here used as a metaphor for wisdom without the "offspring" of books.</note>
+
+<summary>This section argues that Ramon Llull’s "General Art" was a divinely inspired system capable of unifying all knowledge, comparing his mastery to that of the sculptor Phidias. It emphasizes that true wisdom must be shared through writing, treating Llull's many books as the "children" of his enlightened mind.</summary>
+<keywords>Ramon Llull, General Art, Phidias, infused wisdom, St. Augustine, Daniello Bartoli, philosophy of education, books as children, universal knowledge</keywords>
+
+--- Page 20 ---
+<meta>This page continues the argument for Ramon Llull’s miraculous knowledge, specifically addressing how his wisdom was not a static gift but an active, "possessed" virtue that he used to produce his vast library of works.</meta>
+
+<page-num>18</page-num>
+<sig>C 2</sig>
+<meta>catchword: jutias</meta>
+
+<margin>
+65
+Judges 11:
+v.v. 36. &
+37. "Do to me
+whatever you 
+have promised. 
+Grant me only 
+this that I 
+beseech: Let 
+me go, that 
+for two months 
+I may wander 
+the mountains 
+and weep for 
+my virginity."
+<note>original: "Fac mihi quodcumque pollicitus es... Dimitte me, ut duob' mensibus circumeam montes, & plangã virginitatem meam."</note>
+66
+Proverbs 4:
+v. 7.
+67
+Cornelius 
+Jansen, Bishop
+of Ghent, 
+in his Concordance: 
+Among the first 
+precepts of 
+wisdom, this 
+is the greatest: 
+to possess 
+wisdom.
+68
+Father Ferdinand 
+Quirino de 
+Salazar in 
+Proverbs, here 
+n. 49. & n. 53.
+69
+Olympiodorus 
+on Ecclesiastes 
+ch. 9.
+</margin>
+
+...more than to death itself: the dying without leaving behind anyone in whom they might live on. (65) <note>This refers to the biblical story of Jephthah’s daughter, who lamented dying childless, a metaphor here for wisdom that leaves no legacy.</note>
+
+But regarding matters of wisdom, let a text of Solomon explain them: *The beginning of wisdom*, says the wise man in his Proverbs, *is to possess wisdom*. [66] Among the first precepts for reaching wisdom, as the most learned Cornelius, Bishop of Ghent, <note>Cornelius Jansen the Elder (1510–1576), a Dutch exegete and first Bishop of Ghent.</note> explains, this is the greatest and the principal one: to possess wisdom. (67) How is it understood that, in order to reach the state of "having," the "possession" is not the end, but the means? It is understood very well in the case of wisdom, says the most subtle Salazar: <note>Fernando Quirino de Salazar (1570–1646), a Spanish Jesuit known for his extensive commentaries on the Book of Proverbs.</note> Wisdom does not wish to be a servant or a slave. From this, it follows that the primary means to acquire it is to celebrate with it a most chaste marriage: *Possess wisdom: as if to say, join it to yourself as a spouse in a stable marriage.* (68) <note>original: "Posside sapientiam: Quasi dicat, eam tibi tanquam sponsam connubio stabili adiunge."</note> I agree with the proposed explanation drawn from the original Hebrew, as Salazar himself affirms; but a doubt still remains for me. There seems to be no difference between "having" wisdom and "possessing" wisdom. Therefore, he who has it, possesses it; therefore, he who has it has already celebrated with wisdom a most pure marriage. Consequently, these mystical betrothals—which is the term Olympiodorus <note>Likely Olympiodorus the Deacon, a 6th-century commentator on the Bible.</note> uses to explain: *In a mystical understanding, wisdom is called our wife for the purpose of living together* (69) <note>original: "Mystico intellectu sapientia uxor nostra dicitur ad convivendum"</note>—would not be the *means* to have wisdom, but rather the *end*. All these inferences arise from assuming there is no difference between having and possessing wisdom; but there being a most notable difference, it is certain that it does not follow that he who has it holds it as a Spouse, nor that he who has it "possesses" it, nor that this most chaste mystical marriage is the end and not the means to have wisdom. Listen now to the notable difference between having and possessing, observed long ago by the celebrated Plato: *Possessing wisdom does not seem to be the same as having it; just as if someone, having bought a garment and keeping it, being able to use it at his own discretion, does not actually wear it: we would not admit they possess it, but rather we would say they have it.*
+
+<column-break/>
+
+<header>619</header>
+<margin>
+70
+Plato, cited 
+in Salazar 
+n. 4. cap. 14. 
+Yet according 
+to what he 
+holds in Prov. 
+cap. 16. n. 89.
+71
+Father Solier. 
+Acts of the 
+Blessed Raymond 
+from page 73.
+72
+St. Augustine, 
+cited above.
+</margin>
+
+*(70) <note>original: "Haud sane possidere sapientiam idem quod habere videtur; ceu si quis empta veste illam servans, & uti, & uti arbitratu suo potens, non tamen eam ferens: Possidere quidem illam minimè confiteremur, sed habere diceremus." This distinction between "having" (ownership) and "possessing" (active use) is a classical philosophical trope.</note> The example is quite clear, and the reason quite manifest. For one to be said to "have" some good, ownership is enough; for "possession," ownership is not enough. Thus, he who at great cost acquires a beautiful gala dress, and being content that it is his, keeps it well locked in his wardrobe without ever wearing it—we would say that he "has" it, because it is his and he keeps it; we would not say he "possesses" it, because he does not use it. From this, he who holds wisdom for himself in the speculation of his mind "has" wisdom; but he who holds it thus, and through use and exercise cultivates it so that the fruits of wisdom may be copious, this man indeed does not only "have," but "possesses" wisdom. And even more: one only truly "has" wisdom when one "possesses" it in this way; because wisdom—claiming for itself a chaste marriage with the intellect—seeing itself treated as a servant and not as a Spouse, absents itself from whoever treats it so: *The beginning of wisdom is to possess wisdom.* Oh, and how well-secured you held wisdom, illustrious Raymond, <note>Raymond Llull (1232–1315), the subject of the text.</note> once you held it infused with such marvelous wonder! You were not content with just "having" it, since you knew how to communicate it so well that there is no one who does not have much to learn from the many fruits poured forth as a happy birth from the wisdom of your truly enlightened intellect. Wisdom did not remain sterile in Raymond, nor will wisdom ever complain that Raymond did not know how to appreciate it. By the hundreds one counts the children of the wisdom and intellect of Raymond, (71) since his books must be called so, according to what I have suggested from Augustine: *Which we call not so much books as children;* (72) <note>original: "Quos non tam libros, quam liberos, dicimus;" A play on words in Latin between "libros" (books) and "liberos" (children).</note> And if I do not express a greater figure, nor count them by the thousands, it is not because there were not more happy births from these mystical betrothals, but because the injuries [of time]...
+
+<summary>The author argues that true wisdom requires more than just "having" knowledge; it requires "possessing" it through active use and a "mystical marriage" between the mind and divine truth. This philosophy is used to explain Raymond Llull's immense literary output, characterizing his books as the "children" of his enlightened intellect.</summary>
+<keywords>Raymond Llull, Solomon, wisdom vs possession, mystical marriage, Cornelius Jansen, Salazar, books as children, infused wisdom</keywords>
+
+--- Page 21 ---
+<meta>This page continues the discussion on the loss of ancient wisdom and transitions into the specific nature of Ramon Llull’s "infused wisdom"—knowledge granted directly by God—comparing it to a miraculous, overflowing fountain.</meta>
+
+<page-num>20</page-num>
+<meta>catchword: wisdom <note>original: "duria," the second half of "sabiduria" (wisdom)</note></meta>
+
+...the injuries of time, and the furious rebellions of the inconstant seas, deprived us of other most beautiful writings, or robbed us of many other most rich treasures; (73) for such is the name that, in the judgment of Domitius Piso, the erudite writings and books of wise men deserve: *Books ought to be treasures, not merely books.* (74) <note>original: "Thesauros oportet esse non libros."</note>
+
+<margin>
+73
+Küster, <note>Ludolph Küster (1670–1716), a German scholar.</note> Dissertation 2, §. 514.
+74
+Domitius Piso, quoted in P. Bartoli, page 68.
+</margin>
+
+But while all that has been said is true, it seems it should be understood as referring to wisdom in general. I grant that. However, if this is true for universal wisdom, what must be the marvelous effects of that wisdom which God himself infuses? I shall explain this through the history of Ramon <note>Ramon Llull (c. 1232–1316), the Majorcan philosopher known as the "Illuminated Doctor."</note> and through another text. The history of Ramon tells us that when the Lord infused wisdom into him, He gave it to him like a plentiful fountain: *Then, suddenly enlightened, he felt within himself a fountain of infused wisdom.* <note>original: "Tunc subito illustratus sensit intra se fontem infusæ sapientiæ."</note> The Scripture shows us that God also deigns to teach wisdom to men: *He who teaches man knowledge.* (75) <note>original: "Qui docet hominem scientiam." From Psalm 94:10 (93 in the Vulgate).</note> Very well. And when God is the one who teaches, what method of Mastery does He use in His teaching? The famous interpreter of the Psalms, Thomas Leblanc, <note>Thomas Le Blanc (1599–1669), a French Jesuit known for his massive commentary on the Psalms.</note> considers this to be the very same method God used in the teaching of Ramon, while commenting on the aforementioned words: *He generously pours out wisdom like a plentiful fountain.* [76] <note>original: "Sapientiam liberaliter effundit instar fontis copiosi."</note> God's way of teaching is to infuse wisdom in the manner of a most abundant fountain of transparent crystals of knowledge. In this regard, there is something singular about such fountains: once the capacity of the fountain’s basin is full, it then communicates its crystalline currents—which are its surplus and overflow—to the plants, the trees, the herbs, and the flowers, as the same Author observes: *A fountain always retains its own full channel before it communicates to others.* [77] <note>original: "Fons semper plenum alveum suum retinet antequam alijs comunicet."</note> O, prodigy of portentous wisdom! Every time I consider it, the doctrine and wisdom of our Illuminated Doctor seem more admirable to me. He felt within himself a fountain of infused
+
+<margin>
+75
+Psalm 93, verse 10.
+76
+Father Thomas Leblanc on this Psalm.
+77
+The same Father Leblanc, ibid.
+</margin>
+
+<column-break/>
+
+<page-num>21</page-num>
+<sig>C 3</sig>
+<meta>catchword: dispo- <note>part of "disponite," meaning "prepare" or "make ready."</note></meta>
+
+wisdom. Do you wish to see, Gentlemen, how great was the wisdom that Ramon achieved within himself and in his enlightened understanding? Look at how many rivers, how many streams, how many branches of wise currents spring from the plentiful fountain of his knowledge; and understand that such great abundance, and so many avenues of shared wisdom, are but the overflow of the fountain: *A fountain always retains its own full channel before it communicates to others.* Do you wish to see how great the wisdom was that Ramon achieved? Attend to this very fact, and it will be seen that there is no science, no faculty, no profession, and no art that is exempt from the jurisdiction of his Mastery and teaching.
+
+Regarding the Roman fountains intended principally for resisting that voracious element by extinguishing its fires, Pliny the Younger observed that they were not always employed in stopping the furious flames that consumed buildings; often they descended to water the meadows and sprinkle the flowers: *Sacred fountains do not only stop fires; often they also help the flowers and the spring meadows.* (78) <note>original: "Sacri fontes non sola incendia fistunt: sæpè etiam flores, vernaque prata iuvant."</note> If I were to compare the plentiful fountain of Ramon’s wisdom to these, I would fall short; yet it explains something, seeing how—from the high purpose of obstructing the course of the flames and even extinguishing the fires caused by infidelity—his wisdom descends to the meadows of eloquence and the flowers of Poetry, (79) so that the fertile irrigation of his Doctrine might reach everyone. This Doctrine he held as a fountain from his Divine Teacher, who is the very source of knowledge communicated: *He generously pours out wisdom like a plentiful fountain. He who teaches man knowledge.*
+
+<margin>
+78
+Pliny the Younger, Book 7, Epistle 9.
+79
+The books of Rhetoric by the Blessed Ramon, 2. according to Sollier, page 66. <note>Jean-Baptiste Sollier (1669–1740), a Bollandist hagiographer.</note>
+</margin>
+
+Two words from the Apostle to the Corinthians: *Make room for us.* [80] <note>original: "Capite nos." From 2 Corinthians 7:2.</note> Even translated into Romance <note>The vernacular Spanish language.</note> they seem difficult; I will give them the meaning that Tirinus <note>Jacobus Tirinus (1580–1636), a Flemish Jesuit and biblical commentator.</note> gave from the Greek text: *That is, grant us a place among you, not a narrow one, but an ample one.* [81] <note>original: "Id est concedite nobis locum apud vos, non arctū, sed amplum."</note> My Corinthians, wrote Paul, pre-
+
+<margin>
+80
+2 Corinthians 7, verse 2.
+81
+Father Jacobus Tirinus, here.
+</margin>
+
+<summary>This page describes Ramon Llull’s divinely inspired wisdom as an overflowing fountain that mastered all fields of study, from theology used to combat "infidelity" to the "flowers" of poetry and rhetoric. It emphasizes that Llull's knowledge was so vast it could not be contained, comparing his intellectual reach to the versatile fountains of Rome described by Pliny.</summary>
+
+<keywords>Ramon Llull, Infused Wisdom, Thomas Leblanc, Pliny the Younger, Divine Education, Rhetoric, Poetry, Biblical Commentary, Jacobus Tirinus, 2 Corinthians</keywords>
+
+--- Page 22 ---
+<meta>This page continues the discussion of "infused wisdom," transitioning from the metaphorical "fountain" of knowledge mentioned on the previous page to the specific example of St. Paul. It explores how a person’s physical presence or limitations—like St. Paul's small stature or Ramon Llull’s imprisonment—cannot contain the vastness of a soul enlightened by God.</meta>
+
+<page-num>22</page-num>
+<header>22</header>
+<meta>catchword: and run- <note>original: "y cor-"</note></meta>
+
+<margin>
+81
+St. Chrysostom <note>St. John Chrysostom (c. 347–407 AD), an influential Early Church Father known for his preaching.</note> in P. Benedictus Justinianus. *On the Apostleship of Paul*, ch. 7, saying: "Nor should it be overlooked what has been handed down to memory by Chrysostom concerning the stature of the Apostle Paul. For he says that he was only three cubits <note>A cubit is an ancient unit of length based on the distance from the elbow to the tip of the middle finger, roughly 18 inches. This would make Paul about 4 feet 6 inches tall.</note> in height." <note>original: "Neque prætereundum est quod de Statura Apostoli Pauli à Chrysostomo memoriæ proditum est. Ait enim illum, trium dumtaxat cubitoru longitudine fuisse."</note>
+83
+Nicephorus, <note>Nicephorus Callistus Xanthopulus (c. 1256–1335), a Greek ecclesiastical historian.</note> book 2, chapter 37.
+84
+Hugo Cardinalis <note>Hugh of Saint-Cher (c. 1200–1263), a Dominican cardinal and biblical commentator.</note> on Psalm 35.
+</margin>
+
+...prepare a place for me, warning that the place that is to receive me must be spacious and wide; let me not be received in a place of narrowness and distress. What a remarkable warning from the Apostle! St. John Chrysostom, cited by the most learned Justiniano, says that Paul's stature was only three cubits. [82] Nicephorus, although he does not give the exact measurement, says that the Apostle was of small stature and even stooped: *Paul was small in body, contracted, and almost hunched.* (83) <note>original: "Erat Paulus corpore parvo, & contracto, & quasi incurvo:"</note> And yet, he warns the Corinthians that the place that is to receive him should be wide, spacious, not at all narrow, and even less cramped? Paul would not be measuring the place he requested for himself with his body. What then? Would he measure it with his spirit, which was greater than the whole world, the Apostle enclosing so great a soul within such a small stature? He would measure it only by his elevated doctrine, as appears from the commentary of Hugo Cardinalis on the Psalms: *Receive us, namely as a fountain for all things that are necessary.* (84) <note>original: "Capite nos, scilicet quasi fontem ad omnia, quæ necessaria sunt:"</note> Which is as if Paul were to say: My Corinthians, my wisdom is not learned from any teacher on earth; God is the one who teaches me, and for that reason my doctrine is of such great extension that, like a clear, clean, and bountiful fountain, it flows everywhere and everywhere derives its crystalline currents. Let each person ask according to their own taste what they wish to know, for according to the desire of each one, I will know how to teach universally. Do not limit yourselves to a little: *Grant us a place among you that is not narrow, but ample;* (82) <note>original: "Concedite nobis apud vos locum non arctum, sed amplum;"</note> for he who is taught by God can teach much, can teach many, and even for everything and everyone, it will be the doctrine learned from such a Divine Master: *Receive us, namely as a fountain for all things that are necessary.* I apply nothing further. I cannot, however, fail to notice that Paul requested the spacious and wide place so that there would be more capacity in the Corinthians to receive, not so that Paul would have a great distance to walk, discourse, and run— <note>original: "cor-"</note>
+
+<page-num>23</page-num>
+<header>23</header>
+<meta>catchword: discourse- <note>original: "discur-"</note></meta>
+
+and run to teach. How well Paul ran for the conversion of the peoples! How well Ramon <note>Ramon Llull, the subject of this biography.</note> traveled for the conversion of the infidels! But those who had received wisdom as Paul and Ramon received it found themselves such skillful masters in teaching that, even though an entire world was too small a space for their disciples to learn, for both of them even the prisons they sanctified were enough to erect "Chairs of Learning" <note>term: "Cathedras," usually referring to a professor's chair or a seat of high authority in teaching.</note> from which their singular mastery reached everyone.
+
+The souls of philosophers, said an ancient sage, [85] have the body as a house; those of the ignorant have it as a prison. This is because the former, though retired within the body, go out freely at their pleasure wherever thought takes them, while the latter live so enclosed in the narrow prison of the body that they see no other light than that which enters through the two very small windows of their eyes. From this it follows that the ignorant, when imprisoned, are in prison twice over; but for the wise, when in prison, it is not so. For the best part of them cannot be imprisoned, any more than the wind can be shut inside a net, or light inside transparent crystal. There is no prison in the world so deep that it buries, so dark that it blinds, so narrow that it oppresses, or so strong that it encloses a truly wise mind. Thanks be to wisdom, which Plato said were the wings of the soul that carry it with swift flight, not only out of the prison, but even out of the world. I will speak the words of the Stoic, <note>The text attributes this to Plato in the margin, but the quote is actually from Seneca the Younger, a Stoic philosopher.</note> though they are somewhat long: *For his thought,* he says, *is sent throughout the whole heaven, and into all past and future time: this little body, the guard and bond of the soul, is tossed here and there. In it, punishments, robberies, and diseases are exercised. The soul itself is indeed sacred and eternal, and one upon which no hand can be laid.* [86] <note>original: "Nam cogitatio eius, dize, circa omne cælum, & in omne præteritum futurumque tempus immittitur: corpusculum hoc custodia, ac vinculum animi hic, atque illuc iactatur. In hoc supplicia, in hoc latrocinia, in hoc morbi exercentur. Animus quidem ipse sacer, & æternus est, & cui non possit injici manus."</note> From here it follows— <note>original: "discur-"</note>
+
+<margin>
+85
+Epictetus <note>Epictetus (c. 50–135 AD), a Greek Stoic philosopher.</note> in *Moral Parts*, part 1.
+86
+Plato. <note>The author cites Plato, but the work *Consolatio ad Helviam* (Consolation to Helvia), chapter 11, is by the Stoic Seneca.</note> *Consolation to Helvia*, chapter 11.
+</margin>
+
+<summary>This page argues that the physical body—and even a prison cell—cannot contain a soul possessed of divine wisdom. Using St. Paul’s small physical stature and the vastness of his teachings as a primary example, the author connects this to Ramon Llull’s ability to teach even while imprisoned.</summary>
+<keywords>St. Paul, Ramon Llull, St. John Chrysostom, infused wisdom, the soul, Stoicism, Seneca, Epictetus, physical stature, prisons of the mind</keywords>
+
+--- Page 23 ---
+<meta>This page continues the discussion of how physical confinement cannot restrain a wise soul, transitioning from the example of St. Paul's small stature to the concept of the "prison as a school," specifically focusing on the life and imprisonment of Ramon Llull.</meta>
+
+<page-num>24</page-num>
+<meta>catchword: deep <note>original: "hondo"</note></meta>
+
+Tertullian <note>Tertullian (c. 155–220 AD) was a prolific early Christian author from Carthage.</note> reasons that a prison for a wise man cannot be called a dungeon, but rather a dwelling or a house, because it leaves him the freedom to depart with his discursive thoughts as often as he wishes and to wherever he pleases: *The mind carries the whole man around and moves him where it wishes. Let us take away the name of prison and call it a retreat.* (87) <note>original: "Totum hominem animus circumfert, & quo velit transfert. Auferamus carceris nomen, secessum vocemus."</note>
+
+<margin>
+87
+Tertullian. *To the Martyrs*, ch. 2.
+</margin>
+
+It may be inferred from what has been said what little impact the prisons of Paul or the dungeons of Ramon <note>Ramon Llull (c. 1232–1316), the "Illuminated Doctor," was a philosopher, logician, and Franciscan tertiary from Majorca.</note> would have had in stopping the torrents of their elevated wisdom from flooding everyone. Read the Acts of the Apostles, and you will find Paul preaching in prison just as he would in the Temple. [88] Read the history of Ramon, and you will find that for our Blessed man, the jail was not a prison, but had been converted into a lyceum <note>A "liceo" or lyceum refers to a place of higher learning, named after the school established by Aristotle.</note>, where with his foot in shackles, his hand held the freedom to exercise the pen, which, through his books (89), made him fly throughout the orb, having become a public Teacher of the world from the narrow school of a most rigorous prison. That is, if we can even call it such a place where Ramon was found, of whom it can be said better than of Socrates, that his presence stripped that infamous place of its ignominy and its name: (90) *He was to strip the ignominy from the place itself; for it could not seem like a prison where Socrates* [Seneca said this, and I shall say Ramon] *was.* Truly, if the prison is a school to the wise man, the jail must have given Ramon particularly little sorrow: for in addition to what he taught and wrote within it, how much had he already written for the common instruction of all? What does it matter if, having traversed this hemisphere, the Sun is enclosed for us and buried and hidden beneath the earth, if while thus enclosed, buried, and hidden, it gives the world a world of luminous stars? Thus, his prison is a source of gain, and his confinement a source of honor. What does it matter if shells are imprisoned in the deep
+
+<margin>
+88
+Acts 26:1.
+</margin>
+
+<margin>
+89
+Custurer, *Dissertation 1*, p. 513. <note>Jaime Custurer (1657–1715) was a Mallorcan historian and theologian who wrote extensively on Llull.</note>
+</margin>
+
+<margin>
+90
+Seneca, *On Consolation to Helvia*, ch. 13.
+</margin>
+
+<column-break/>
+
+<page-num>25</page-num>
+<sig>D</sig>
+<meta>catchword: abun-</meta>
+
+depths of the proud sea, tightly bound to hard rocks and lacking light and even sight, if in that prison they are richly and laboriously crafting most precious pearls? These, once taken from the darkness of that prison in which they were worked and brought into the light of the Sun, are placed as ornaments on diadems atop crowned heads.
+
+In prison, in remote lands, and even after Ramon's death, who does not see him teaching and displaying the beautiful lights of his doctrine, the precious pearls of the books he wrote for everyone, since his wisdom was for all? I conclude, and I no longer wish to cite his books; let only the famous mastic trees <note>The "lentiscos" (mastic trees) of Mount Randa in Majorca. According to legend, after Llull received his "Illumination," the leaves of these trees were found marked with characters from various languages (Latin, Greek, Arabic, Hebrew).</note> of the mountain speak. Let them speak, for they well can: if nature made them mere trunks, Ramon imposed so much upon them in letters that to this day they have not lost them; (91) and what is more, as the old mastic trees are succeeded by new ones, these teach their literature to all who see them. And is this not our Illuminated Doctor still teaching? I recall the story related by Quintilian <note>Marcus Fabius Quintilianus (c. 35–100 AD), a Roman rhetorician.</note> of a decrepit old man who had spent his life in the labor of the countryside. Not wishing to abandon work in his decrepit age, he took up the care of bees; he filled a small garden with hives and sowed it with flowers and fragrant herbs. He went on entertaining his weary age in this way, saying: *I had given my labors a just dismissal; I had bees that would do the work for me.* [92] My great age already asked for rest from my fatigues, but having spent my life in toil, I do not know how to leave it; I shall work still. How? By having the bees work for me. Ramon did not grant himself rest in the course of his life after his conversion; his entire life was spent working to properly employ the wisdom communicated to him. But even when the prison detained him or death stopped his course, he still has those who work for him, for he has a great abundance of his books, which are abun- <note>The text cuts off here at the catchword "abun-", likely continuing as "abundantes" (abundant).</note>
+
+<margin>
+91
+Custurer, p. 85.
+</margin>
+
+<margin>
+92
+Quintilian, *Declamations*, 13.
+</margin>
+
+<vocab>Tertullian, Ramon Llull, Saint Paul, Socrates, Seneca, Quintilian, prison, wisdom, mastic trees, Illuminated Doctor, pearls, books</vocab>
+
+<summary>This page argues that physical imprisonment cannot stifle the intellectual and spiritual influence of a wise man like Ramon Llull, whose books and legendary influence on nature (the mastic trees) continue his work even after his death. The author uses metaphors of the sun, pearls, and Quintilian's bees to illustrate how Llull's wisdom remains productive regardless of his physical state.</summary>
+<keywords>Ramon Llull, St. Paul, Tertullian, Seneca, prison as a school, Mount Randa mastic trees, Illuminated Doctor, intellectual legacy, Roman rhetoric</keywords>
+
+--- Page 24 ---
+<meta>The previous page concluded with a description of how Ramon Llull’s imprisonment transformed into a "lyceum" of learning, where his writing allowed his spirit to travel the world even while his body was confined.</meta>
+
+<page-num>26</page-num>
+<meta>catchword: na</meta>
+
+an abundance of beehives where the sweetnesses were gathered into one; these sweetnesses, which are scattered through many volumes by beautiful Authors, are a pleasant recreation for the wise bees who taste them; and should these be lacking, there remain the mastic trees <note>The "lentiscos" or mastic trees of Mount Randa are central to the legend of Ramon Llull. It is said that after his illumination, the leaves of these trees appeared marked with characters from various languages—Latin, Greek, Hebrew, and Arabic—symbolizing his "infused" universal knowledge.</note>, which every year produce beautiful new impressions from their letters.
+
+And there is also another singular miracle in these same letters, with which Heaven seems to want to canonize the prodigy of the mastic trees and the wonder of the wisdom of our Patron and Martyr. There are many who, through great error and a choice harmful to themselves and sometimes to the Republics, do not esteem letters <note>In this context, "letters" refers to formal education, literature, and scholarship.</note>, because they consider them enemies of health. One clergyman, who knew no books other than his own account ledgers, nor understood any philosophy other than that of his own income, defended himself with the shield of the Apostle, saying that letters are a poison and a plague: *For the letter kills.* [93] <note>original: "Litera enim occidit." From 2 Corinthians 3:6. The priest is taking the verse out of context to justify his ignorance.</note> [He foolishly interpreted this text in such a way, which actually teaches that the law, when destitute of the help and protection of grace, is harmful rather than profitable.] (94) This man deserved the scorn or correction written by the distinguished Chancellor of England, Thomas More, in that celebrated epigram, which is still applauded by all the Wise today:
+
+<margin>
+93
+2 Corinthians 3:6.
+94
+P. Tirinus here <note>Referring to Jacobus Tirinus (1580–1636), a Jesuit biblical commentator.</note>.
+</margin>
+
+> Great Father, you cry out: the letter kills. In your mouth
+> This one thing—the letter always kills—is all you have.
+> You have taken good care that no letter should ever kill
+> You. For not a single letter is even known to you. [95] <note>original: "Magne Pater, clamas, occidit litera. In ore / Hoc unum, occidit litera semper habes. / Cavisti bene tu, ne te ulla occidere possit / Litera. Non ulla est litera nota tibi."</note>
+
+<margin>
+95
+In the Life of Thomas More.
+</margin>
+
+Therefore, let anyone who holds letters to be unhealthy understand that in the letters on Ramon's mastic trees, the effects are of a very different quality; it is a constant fact that health has been recovered more than once using only the leaves with letters from the aforementioned mastic trees. (96)
+
+<margin>
+96
+Custurer Dissertation 1, page 173.
+97
+Revelation 22:2.
+</margin>
+
+Saint John speaks of a tree whose leaves were for the healing of the nations: *And the leaves of the tree were for the healing of the nations;* (97) <note>original: "Et folia ligni ad sanitatem gentium"</note> of another, Ezekiel said that its leaves were medicine
+
+<column-break/>
+
+<page-num>27</page-num>
+<margin>
+98
+Ezekiel 41:12 <note>Likely a citation error in the original; the passage is Ezekiel 47:12.</note>
+</margin>
+
+its leaves: *And its leaves for medicine.* [98] <note>original: "Et folia eius ad medicinam."</note> These lettered leaves that so suddenly cure ailments—shall we call them medicine, or shall we call them health? We shall call them by both names; for in the cases mentioned, the distance between taking them and recovering lost health was so brief as to be non-existent. However they may be named, it is certain that our devotion confesses these healthy leaves are owed to the wisdom of our Ramon, whom we venerate today as the Patron of the sciences, and to whom it was granted to know that even the trunks of the forests are not exempt from his jurisdiction for teaching. Thus he teaches everyone, he who achieved a Universal wisdom for all, as a wisdom that comes from a bountiful fountain: *he felt within himself the fountain of infused wisdom.* <note>original: "sensit intra se fontem infusae sapientiae."</note>
+
+Many lines were still missing from this canvas, Archangelic Doctor <note>Llull is more commonly known as the "Illuminated Doctor," but the author uses "Dotor Archangelico" here as a high title of praise.</note> and our illustrious Patron, to finish the sketch of the copy of that wisdom which you so marvelously obtained from the divine original, your Master and our good, Christ JESUS. The colors of the image would be very dull and very few if a perfect portrait had to fit within the weakness and meager skill of the Painter and the brushes. Others more refined, my Patron, will make you live in the canvases of most learned panegyrics with a new soul; and they will know how to turn all the strength of their art into acclamations for you. I was content to say something of the much that I consider heroic in your marvelous knowledge; and I pray you, do not look at my lips, for the voices will not please you; look to the heart, for perhaps affection will speak more eloquently. With that affection, I celebrate in your enlightened understanding a truly universal wisdom: universal for your own understanding; universal for all, as everyone learns from what overflows from the fountain of your knowledge; Universal, and so much so, that once instructed, men were filled with letters
+
+<vocab>Ramon Llull, Thomas More, mastic trees, universal wisdom, medicine, lettered leaves</vocab>
+
+<summary>This page explores the miraculous "lettered leaves" of the mastic trees on Mount Randa, which symbolize Ramon Llull’s infused wisdom and possess healing powers. It also rebukes those who fear scholarship, using a satirical epigram by Thomas More to defend the value of "letters" (learning) against ignorance.</summary>
+<keywords>Ramon Llull, Thomas More, Mount Randa, mastic trees, divine wisdom, healing miracles, Litera occidit, education vs. ignorance</keywords>
+
+--- Page 25 ---
+<meta>This page concludes the narrative regarding the "miraculous" mastic trees of Mount Randa and Ramon Llull's divinely infused knowledge, following the previous discussion on the value of spiritual scholarship over worldly ignorance.</meta>
+
+<page-num>28</page-num>
+
+...even into the forests, where nature itself wonders at seeing the fruits of knowledge even upon the leaves of humble trunks; and in the presence of these wonders, yielding the field to grace—the sure pledge of glory—to which may the Lord lead us. Amen. <note>original: "ad quam nos Dominus perducat. Amen." This is a standard liturgical formula used to conclude a religious discourse.</note>
+
+All is under the correction of the Holy Mother Church, to whom I submit myself and all that is mine as her most obedient son. <note>original: "Omnia sub correctione Sanctæ Matris Ecclesiæ, cui me, meaque omnia subjicio obsequentissimus Filius." This formal declaration was common in 17th-century Spanish texts to ensure the work complied with ecclesiastical doctrine.</note>
+
+### FOR THE GREATER GLORY OF GOD. <note>original: "AD MAIOREM DEI GLORIAM." The famous motto of the Society of Jesus (Jesuits), often abbreviated as AMDG.</note>
+
+<image-desc>An ornate, symmetrical woodcut printer's ornament or fleuron featuring interlacing arabesque scrolls, floral motifs, and a central oval medallion.</image-desc>
+
+<note>Key vocabulary: nature, knowledge, grace, glory, Holy Mother Church, For the Greater Glory of God.</note>
+
+<summary>This page concludes the author's reflection on Ramon Llull’s miraculous wisdom, transitioning from the natural wonder of the inscribed leaves to a formal submission of the work to Catholic Church authority.</summary>
+
+<keywords>Ramon Llull, Mount Randa, mastic trees, divine grace, ecclesiastical authority, Jesuit motto, mysticism</keywords>
+
+--- Page 26 ---
+<meta>This page serves as an identification header or cover sheet for a specific archival item, likely used for cataloging and organization within a library system.</meta>
+
+BP 0039 <term>BP: An archival shelfmark or collection prefix, often used to designate specific historical sections within a library</term>
+
+Rogent Duran 296 <note>This name refers to the Rogent-Duran collection, a significant archival set involving the family of the famous Catalan architect Elies Rogent, held at the University of Barcelona</note>
+
+UBN 21107 <term>UBN: An abbreviation for the University of Barcelona (Universitat de Barcelona), followed by a specific document registration number</term>
+
+<summary>This page provides the administrative identification and cataloging codes for a document within the Rogent Duran collection at the University of Barcelona.</summary>
+
+<keywords>archival shelfmark, Rogent Duran collection, University of Barcelona, cataloging, document identification</keywords>
+
+--- Page 27 ---
+<meta>This is the first page of the manuscript translation. No previous pages are available for continuity.</meta>
+
+# On the Movement of the Heart and Blood
+
+->Observations on the Living Pulse<-
+
+The heart is the foundation of life, the **beginning of all things** <note>original: "principium omnium"</note>. It is situated within the chest, protected by the ribs as if by a cage. We observe through dissection and careful study that when the heart contracts, it sends the blood throughout the body in a constant circuit. This movement is not merely for the distribution of heat, but for the very maintenance of the spirit.
+
+| Stage | Action | Description |
+| :--- | :--- | :--- |
+| Systole | Contraction | The heart pushes blood into the arteries |
+| Diastole | Relaxation | The heart <unclear>fills</unclear> again with new blood |
+
+<margin>Note: Look for the pulse in the wrist and neck to confirm the timing.</margin>
+
+The **vital spirit** <note>original: "pneuma"</note> is carried by the arteries to every limb. It is through this <term>Refining Process</term> <note>A historical medical concept where the heart was believed to "cook" or refine blood into a higher form of energy called spirits.</note> that the body remains warm and capable of motion. 
+
+<insert>I have recently noticed that the blood in the veins is much darker and thicker than the bright red blood found in the arteries.</insert>
+
+As it is written in the ancient scrolls, **Life is in the blood** <note>original: "Sanguis est vita"</note>. <gloss>The blood serves as the oil that feeds the lamp of the body</gloss> Therefore, any significant loss of this precious fluid leads to a rapid weakening of the whole man, as the "lamp" begins to flicker and fade. 
+
+We must also consider the role of the lungs, which the Greeks called *the breathers* <note>original: "pneumones"</note>, for they provide the air necessary for the heart to stay cool. Without this cooling, the heart would surely consume itself in its own heat.
+
+<summary>This page describes the early scientific understanding of the heart as a pump and the circulation of blood. It explores the relationship between the heart's "vital spirits" and the maintenance of life and heat in the human body.</summary>
+
+<keywords>Anatomy, Blood Circulation, Heart, Vital Spirits, Systole, Medical History</keywords>

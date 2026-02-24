@@ -1,0 +1,26 @@
+{
+  "id": "6992f412c8c6ac61574e753f",
+  "title": "臺灣番社風俗 (Taiwan Fanshe Fengsu: Customs of Taiwans Indigenous People)",
+  "display_title": "臺灣番社風俗 (Taiwan Fanshe Fengsu: Customs of Taiwans Indigenous People)",
+  "author": "Anonymous (Qing Court painters)",
+  "language": "Chinese",
+  "year": 1747,
+  "published": "1747-1800",
+  "pages_count": 16,
+  "pages_with_ocr": 16,
+  "pages_with_translation": 16,
+  "source_url": "https://sourcelibrary.org/book/6992f412c8c6ac61574e753f",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:57.631Z",
+  "_hashes": {
+    "ocr": "83031de11198903a",
+    "translation": "47c35c55ada135b7"
+  }
+}

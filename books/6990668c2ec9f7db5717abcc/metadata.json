@@ -1,0 +1,28 @@
+{
+  "id": "6990668c2ec9f7db5717abcc",
+  "title": "The Hierarchie of the Blessed Angels",
+  "display_title": "The Hierarchie of the Blessed Angels",
+  "author": "Thomas Heywood",
+  "language": "English",
+  "year": 1635,
+  "published": "Unknown",
+  "pages_count": 465,
+  "pages_with_ocr": 20,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/6990668c2ec9f7db5717abcc",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "HierarchieOfTheBlessedAngels"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:29:55.827Z",
+  "_hashes": {
+    "ocr": "6339f0e78fdbec73",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

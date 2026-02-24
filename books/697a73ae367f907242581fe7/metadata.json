@@ -1,0 +1,26 @@
+{
+  "id": "697a73ae367f907242581fe7",
+  "title": "Disputatio juridica, de jure emphyteutico",
+  "display_title": "Disputatio juridica, de jure emphyteutico",
+  "author": "Wiebelius, Joachimus",
+  "language": "Latin",
+  "year": 1617,
+  "published": "1617",
+  "pages_count": 18,
+  "pages_with_ocr": 18,
+  "pages_with_translation": 18,
+  "source_url": "https://sourcelibrary.org/book/697a73ae367f907242581fe7",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:57.339Z",
+  "_hashes": {
+    "ocr": "9137f6c3cbe44522",
+    "translation": "761f454f8b694dab"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "69907cf5a3654a711c0b6e61",
+  "title": "Navagraha Dana Nicha Chakra Phalani",
+  "display_title": "Navagraha Phalani",
+  "author": "Unknown",
+  "language": "Sanskrit",
+  "year": 1800,
+  "published": "1800",
+  "pages_count": 19,
+  "pages_with_ocr": 19,
+  "pages_with_translation": 19,
+  "source_url": "https://sourcelibrary.org/book/69907cf5a3654a711c0b6e61",
+  "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "navagrahadananichakranichakaaksamyogvishthadiphalanicha1181ghaalm6shlf1devanagarijyotish"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:57.053Z",
+  "_hashes": {
+    "ocr": "f35c7d7b20b48852",
+    "translation": "e2b9ea4b3bdf6f31"
+  }
+}

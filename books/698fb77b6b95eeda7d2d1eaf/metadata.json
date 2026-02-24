@@ -1,0 +1,28 @@
+{
+  "id": "698fb77b6b95eeda7d2d1eaf",
+  "title": "Kosmos: Entwurf einer physischen Weltbeschreibung, Bd. 1",
+  "display_title": "Kosmos: Entwurf einer physischen Weltbeschreibung, Bd. 1",
+  "author": "Alexander von Humboldt",
+  "language": "German",
+  "year": 1845,
+  "published": "1845",
+  "pages_count": 520,
+  "pages_with_ocr": 30,
+  "pages_with_translation": 25,
+  "source_url": "https://sourcelibrary.org/book/698fb77b6b95eeda7d2d1eaf",
+  "license": "https://rightsstatements.org/vocab/NoC-NC/1.0/",
+  "doi": null,
+  "external_ids": {
+    "mdz": "bsb10132321"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:52.992Z",
+  "_hashes": {
+    "ocr": "4e7981e66abcaa53",
+    "translation": "2a7c5080bc9fb3c7"
+  }
+}

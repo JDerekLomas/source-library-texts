@@ -1,0 +1,28 @@
+{
+  "id": "699064bdef12272ffdc9432e",
+  "title": "Mother Shipton's Yorkshire Prophecy",
+  "display_title": "Mother Shipton's Yorkshire Prophecy",
+  "author": "Mother Shipton (attributed)",
+  "language": "English",
+  "year": 1667,
+  "published": "Unknown",
+  "pages_count": 26,
+  "pages_with_ocr": 26,
+  "pages_with_translation": 26,
+  "source_url": "https://sourcelibrary.org/book/699064bdef12272ffdc9432e",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bim_eighteenth-century_past-present-and-to-co_shipton-mother-ursula_1740"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:54.055Z",
+  "_hashes": {
+    "ocr": "639157e859e3d9d5",
+    "translation": "81bc7b73d34b1db6"
+  }
+}

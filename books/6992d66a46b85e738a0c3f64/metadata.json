@@ -1,0 +1,28 @@
+{
+  "id": "6992d66a46b85e738a0c3f64",
+  "title": "Srimad Bhagavata Purana (with Sridhara commentary)",
+  "display_title": "Srimad Bhagavata Purana (with Sridhara commentary)",
+  "author": "Vyasa (comm. Sridhara Svamin)",
+  "language": "Sanskrit",
+  "year": 1910,
+  "published": "Unknown",
+  "pages_count": 250,
+  "pages_with_ocr": 33,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/6992d66a46b85e738a0c3f64",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bhagavatamshridhari"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:29:51.629Z",
+  "_hashes": {
+    "ocr": "2e2bb2dee0bbe944",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

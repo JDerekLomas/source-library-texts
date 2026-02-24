@@ -1,0 +1,28 @@
+{
+  "id": "695936603b43cb6630c9171f",
+  "title": "Grimorium Verum (The True Grimoire)",
+  "display_title": "Grimorium Verum (The True Grimoire)",
+  "author": "Alibeck the Egyptian (attr.)",
+  "language": "English",
+  "year": 1750,
+  "published": "Unknown",
+  "pages_count": 21,
+  "pages_with_ocr": 21,
+  "pages_with_translation": 21,
+  "source_url": "https://sourcelibrary.org/book/695936603b43cb6630c9171f",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "GrimoriumVerum"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:55.207Z",
+  "_hashes": {
+    "ocr": "0a83716cdd0d7a66",
+    "translation": "be9cc592c4577b77"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "69804b94a95170ed4cd828ea",
+  "title": "Judicium auff Flaccii Illyrici letzt Buechlin, so im 1557 Jar wider C. Schwenckfeldt, an die von Straszburg, ist auszgangen",
+  "display_title": "Judicium auff Flaccii Illyrici letzt Buechlin, so im 1557 Jar wider C. Schwenckfeldt, an die von Straszburg, ist auszgangen",
+  "author": "[Schwenckfeld, Caspar]",
+  "language": "German",
+  "year": 1558,
+  "published": "1558",
+  "pages_count": 20,
+  "pages_with_ocr": 20,
+  "pages_with_translation": 20,
+  "source_url": "https://sourcelibrary.org/book/69804b94a95170ed4cd828ea",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:56.176Z",
+  "_hashes": {
+    "ocr": "d5d21a15a543c82a",
+    "translation": "3b62fe6a79829f93"
+  }
+}

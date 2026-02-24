@@ -1,0 +1,28 @@
+{
+  "id": "6958e0659659a6529d5770fd",
+  "title": "Appendix ad libros de plantis",
+  "display_title": "Appendix ad libros de plantis",
+  "author": "Andrea Cesalpino",
+  "language": "Latin",
+  "year": 1583,
+  "published": "Unknown",
+  "pages_count": 34,
+  "pages_with_ocr": 34,
+  "pages_with_translation": 34,
+  "source_url": "https://sourcelibrary.org/book/6958e0659659a6529d5770fd",
+  "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bub_gb_oxFLrkvo19EC"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:51.331Z",
+  "_hashes": {
+    "ocr": "78bd81045afbd883",
+    "translation": "fbf9cd8f9a8b51f3"
+  }
+}

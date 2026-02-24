@@ -1,0 +1,26 @@
+{
+  "id": "69791077eb0dcfd399123428",
+  "title": "Cinnus problematum juridicorum",
+  "display_title": "Cinnus problematum juridicorum",
+  "author": "Besold, Christoph",
+  "language": "Latin",
+  "year": 1616,
+  "published": "1616",
+  "pages_count": 24,
+  "pages_with_ocr": 24,
+  "pages_with_translation": 24,
+  "source_url": "https://sourcelibrary.org/book/69791077eb0dcfd399123428",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:54.695Z",
+  "_hashes": {
+    "ocr": "95da58e8517d258e",
+    "translation": "87cf40758c370517"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "6988a59fc4b7f7f0405a901a",
+  "title": "Scopus vitae meae Christus",
+  "display_title": "Scopus vitae meae Christus",
+  "author": "Wangenheim, David",
+  "language": "Latin",
+  "year": 1624,
+  "published": "1624",
+  "pages_count": 23,
+  "pages_with_ocr": 23,
+  "pages_with_translation": 18,
+  "source_url": "https://sourcelibrary.org/book/6988a59fc4b7f7f0405a901a",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:54.988Z",
+  "_hashes": {
+    "ocr": "5ba807b4a516d986",
+    "translation": "9342050417dcd4fc"
+  }
+}

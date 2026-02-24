@@ -1,0 +1,28 @@
+{
+  "id": "6991d6538c1030b12444adf7",
+  "title": "Ein gründlich philosophisch Sendschreiben vom Steine der Weissheit",
+  "display_title": "Ein gründlich philosophisch Sendschreiben vom Steine der Weissheit",
+  "author": "John Pordage",
+  "language": "English",
+  "year": 1698,
+  "published": "Unknown",
+  "pages_count": 28,
+  "pages_with_ocr": 28,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/6991d6538c1030b12444adf7",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "b30373451"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:29:53.443Z",
+  "_hashes": {
+    "ocr": "85d250efac49d8e6",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

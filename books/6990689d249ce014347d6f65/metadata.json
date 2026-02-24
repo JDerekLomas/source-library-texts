@@ -1,0 +1,26 @@
+{
+  "id": "6990689d249ce014347d6f65",
+  "title": "Medical-Astrological Compendium with Anatomical Illustrations",
+  "display_title": "Bodleian Library MS. Ashmole 399",
+  "author": "Unknown",
+  "language": "Latin",
+  "year": 1292,
+  "published": "1292",
+  "pages_count": 26,
+  "pages_with_ocr": 26,
+  "pages_with_translation": 26,
+  "source_url": "https://sourcelibrary.org/book/6990689d249ce014347d6f65",
+  "license": "CC-BY-NC-4.0",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:54.198Z",
+  "_hashes": {
+    "ocr": "63a541924656f4e5",
+    "translation": "369e7deddbf28c81"
+  }
+}

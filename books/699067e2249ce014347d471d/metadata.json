@@ -1,0 +1,28 @@
+{
+  "id": "699067e2249ce014347d471d",
+  "title": "Musurgia Universalis, Tomus II: Musica Mirifica, Magia Consoni et Dissoni, Harmonia Mundi",
+  "display_title": "Musurgia Universalis, Vol. II",
+  "author": "Athanasius Kircher",
+  "language": "Latin",
+  "year": 1650,
+  "published": "Unknown",
+  "pages_count": 534,
+  "pages_with_ocr": 20,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/699067e2249ce014347d471d",
+  "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bub_gb_97xCAAAAcAAJ"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:29:56.339Z",
+  "_hashes": {
+    "ocr": "a9df5c33dbb915b3",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

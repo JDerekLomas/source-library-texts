@@ -1,0 +1,28 @@
+{
+  "id": "6955d43928a09ca6592805b3",
+  "title": "Horologium Oscillatorium",
+  "display_title": "Horologium Oscillatorium",
+  "author": "Christiaan Huygens",
+  "language": "Latin",
+  "year": 1673,
+  "published": "1673",
+  "pages_count": 31,
+  "pages_with_ocr": 31,
+  "pages_with_translation": 31,
+  "source_url": "https://sourcelibrary.org/book/6955d43928a09ca6592805b3",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "horologium-oscillatorium"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:52.220Z",
+  "_hashes": {
+    "ocr": "72abcf9e492b9e26",
+    "translation": "8a1dffe33fe6855a"
+  }
+}

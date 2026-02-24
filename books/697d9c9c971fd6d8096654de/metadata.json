@@ -1,0 +1,26 @@
+{
+  "id": "697d9c9c971fd6d8096654de",
+  "title": "Gründtlicher Bericht, von einem ungewöhnlichen newen sehr grossen hellen gläntzenden Stern",
+  "display_title": "Gründtlicher Bericht, von einem ungewöhnlichen newen sehr grossen hellen gläntzenden Stern",
+  "author": "Kepler, Johannes",
+  "language": "German",
+  "year": 1605,
+  "published": "1605",
+  "pages_count": 21,
+  "pages_with_ocr": 21,
+  "pages_with_translation": 21,
+  "source_url": "https://sourcelibrary.org/book/697d9c9c971fd6d8096654de",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:55.165Z",
+  "_hashes": {
+    "ocr": "9821a85aea777fbe",
+    "translation": "5c87e00c49647a3b"
+  }
+}

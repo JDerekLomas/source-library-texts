@@ -1,0 +1,28 @@
+{
+  "id": "6990667a40bf901934aba331",
+  "title": "Treatise of Spirits, Apparitions, Witchcrafts",
+  "display_title": "Treatise of Spirits, Apparitions, Witchcrafts",
+  "author": "John Beaumont",
+  "language": "English",
+  "year": 1705,
+  "published": "Unknown",
+  "pages_count": 432,
+  "pages_with_ocr": 20,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/6990667a40bf901934aba331",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "histophysio00beau"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:29:55.337Z",
+  "_hashes": {
+    "ocr": "e811520276a0c810",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

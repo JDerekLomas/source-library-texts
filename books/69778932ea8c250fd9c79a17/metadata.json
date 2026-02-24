@@ -1,0 +1,26 @@
+{
+  "id": "69778932ea8c250fd9c79a17",
+  "title": "Cabala, Spiegel der Kunst- und Natur: in Alchymia",
+  "display_title": "Cabala, Spiegel der Kunst- und Natur: in Alchymia",
+  "author": "[Michelspacher, Stephan]",
+  "language": "German",
+  "year": 1663,
+  "published": "1663",
+  "pages_count": 26,
+  "pages_with_ocr": 26,
+  "pages_with_translation": 26,
+  "source_url": "https://sourcelibrary.org/book/69778932ea8c250fd9c79a17",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:54.327Z",
+  "_hashes": {
+    "ocr": "5093e0e5a72fb516",
+    "translation": "34cf99eb522bfb04"
+  }
+}

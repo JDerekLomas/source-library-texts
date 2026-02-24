@@ -1,0 +1,28 @@
+{
+  "id": "69906d1564d44bd0a0ef51f3",
+  "title": "Jyotisha Vrittashata",
+  "display_title": "Jyotisha Vrittashata",
+  "author": "Unknown",
+  "language": "Sanskrit",
+  "year": null,
+  "published": "Unknown",
+  "pages_count": 27,
+  "pages_with_ocr": 27,
+  "pages_with_translation": 27,
+  "source_url": "https://sourcelibrary.org/book/69906d1564d44bd0a0ef51f3",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "jyotishavrittashata-CGV-PSS-0144-0238"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:53.851Z",
+  "_hashes": {
+    "ocr": "a9aeae84d7d57e40",
+    "translation": "abe44175379baa6c"
+  }
+}

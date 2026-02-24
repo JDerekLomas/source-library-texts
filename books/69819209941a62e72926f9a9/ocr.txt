@@ -1,0 +1,742 @@
+--- Page 1 ---
+<lang>None</lang>
+<warning>This page is a plain brown leather book cover containing no text or illustrations.</warning>
+<meta>Front cover of the manuscript; leather texture visible.</meta>
+
+<vocab>leather binding, book cover</vocab>
+
+--- Page 2 ---
+<lang>Latin</lang>
+<meta>White paper inset containing a colored alchemical emblem pasted onto a grey leaf.</meta>
+
+H
+
+-> **PHILOSOPHIA · HERMETICA** <-
+
+<vocab>Philosophia Hermetica, Pelican in its Piety, alchemy, emblem</vocab>
+
+<detected-images>
+[{"description": "A circular alchemical emblem printed in color on a white inset. The central image, set within a blue oval background beneath golden rays, depicts a 'Pelican in its piety' (a pelican piercing its breast to nourish its young with blood). The bird is perched on a white square divided into four quadrants, each containing a red rose. The entire central motif is surrounded by a circular border with the golden-lettered Latin inscription 'PHILOSOPHIA · HERMETICA'.", "type": "emblem", "bbox": {"x": 0.423, "y": 0.315, "width": 0.198, "height": 0.165}, "gallery_quality": 0.9, "museum_rationale": "High-quality, symbolic alchemical emblem. The 'Pelican in its Piety' is a central motif in Hermetic and Christian iconography, representing sacrifice and the transformative alchemical process, here beautifully executed with gold and color."}]
+</detected-images>
+
+--- Page 3 ---
+<lang>None</lang>
+<meta>Blank page, likely a flyleaf or endpaper.</meta>
+
+[This page is blank.]
+
+<vocab>blank page, flyleaf</vocab>
+
+--- Page 4 ---
+<lang>None</lang>
+<meta>Blank page</meta>
+
+<vocab></vocab>
+
+--- Page 5 ---
+<lang>lat</lang>
+<warning>The text on this page is extremely faint, appearing to be "ghosting" or "bleed-through" from an adjacent or reverse page. The content is nearly illegible due to low contrast and blurriness.</warning>
+
+<meta>This page appears to be a blank flyleaf or protective leaf where the ink from the title page of the "Museum Septalianum" has offset or bled through.</meta>
+
+-><unclear>MUSEVM SEPTALIANVM</unclear><-
+-><unclear>MAURITII TERZAGI</unclear> <unclear>COMMENTARIIS</unclear><-
+-><unclear>... ... ...</unclear><-
+
+<unclear>
+<note>Faint impression of a central emblem or coat of arms</note>
+</unclear>
+
+-><unclear>Apud Franciscum</unclear> <unclear>...</unclear><-
+
+<vocab>Museum Septalianum, Mauritius Terzagus, Apud Franciscum</vocab>
+
+<detected-images>
+[{"description": "Extremely faint ghosting of a printer's mark or heraldic emblem, likely containing a shield and crown elements.", "type": "emblem", "bbox": {"x": 0.301, "y": 0.312, "width": 0.235, "height": 0.248}, "gallery_quality": 0.1, "museum_rationale": "The image is an offset or bleed-through impression and is too faint for significant study, though it identifies the likely printer's mark of the source volume."}]
+</detected-images>
+
+--- Page 6 ---
+<lang>None</lang>
+<meta>This image contains a blank page, likely a flyleaf or endpaper of the manuscript volume.</meta>
+
+[Blank Page]
+
+<vocab>blank page</vocab>
+
+--- Page 7 ---
+<lang>Latin</lang>
+<meta>Title page</meta>
+
+# MAGICA ZOROASTRI ORACULA,
+## PLETHONIS COMMENTARIIS
+### ENARRATA.
+
+->Iacobo Marthano Pictauienſi, interprete.<-
+
+---
+
+->PARISIIS<-
+
+->**Apud Ioannem Lodoicum.**<-
+
+->M. D. XXXIX.<-
+
+<vocab>Magica Zoroastri Oracula, Plethon, Iacobo Marthano, Ioannem Lodoicum, Paris, 1539, Chaldean Oracles, Neoplatonism</vocab>
+
+<detected-images>
+[{"description": "Printer's mark of Jean Loys (Ioannes Lodoicus) featuring clasped hands (fides) emerging from clouds, holding a caduceus flanked by cornucopias and poppy heads, with the initials 'I' and 'L'.", "type": "emblem", "bbox": {"x": 0.255, "y": 0.312, "width": 0.275, "height": 0.245}, "gallery_quality": 0.85, "museum_rationale": "An elegant 16th-century Parisian printer's emblem incorporating classical symbols of concord, commerce, and abundance."}]
+</detected-images>
+
+--- Page 8 ---
+<lang>Latin</lang>
+<warning>This page appears to be a blank flyleaf or the reverse (recto) of a title page. The text and emblem visible are mirrored ghost images (show-through) from the printing on the reverse side (verso) of this leaf.</warning>
+<meta>mirrored show-through text from verso; title page information visible through the paper</meta>
+
+<note>The following text is a transcription of the mirrored show-through visible on the page, un-mirrored for readability.</note>
+
+# IN OMNES D. PAULI EPISTOLAS,
+## ENARRATIONES, ET IN ALIQUOT
+### ANNOTATIONES.
+
+->Iacobo Merlino <unclear>recognitore</unclear>.<-
+
+---
+
+->PARISIIS<-
+->Apud Ioannem Lodoicum.<-
+->M. D. XXXIX.<-
+
+<vocab>Paulus, Epistolas, Enarrationes, Annotationes, Iacobus Merlinus, Parisiis, Ioannes Lodoicus</vocab>
+
+<detected-images>
+[{"description": "A faint, mirrored show-through of a printer's mark or decorative emblem, featuring a central bouquet of flowers, possibly lilies or thistles, with curling decorative stems.", "type": "emblem", "bbox": {"x": 0.53, "y": 0.31, "width": 0.25, "height": 0.25}, "gallery_quality": 0.3, "museum_rationale": "This is a mirrored ghost image of a 16th-century printer's mark (Jean Loys, Paris). While technically significant for bibliographic identification, its poor visibility as show-through limits its aesthetic value on this specific page."}]
+</detected-images>
+
+--- Page 9 ---
+<lang>Latin</lang>
+<sig>a ij</sig>
+<meta>image quality: clear, minimal bleed-through; Printer: Conrad Neobar (mentioned in text)</meta>
+
+# Iacobus Marthanus D.Gancherio Marthano patri, rei medicæ iuxtà politiorisque omnis literaturæ absolutißima cognitione prædito .S.
+
+**Z**oroastri uetustißimi, si uel Plutarcho, uel Plinio suffragamur, luculentißimique magiæ scriptoris libellum, cui sit epigraphe μαγικὰ Λόγια, nuper à situ carieq; aßertū, impēsißima cū mihi cura uertendū rogatu Cōradi Neobarij uiri mei enixißime studiosi, duxißē, ad locos offendi plerosq; uitiatos, an integros, nō ausim, ubi me probiùs expēdi, pronūciare: certe quidē eius generis, qui multiū mihi negotij exhibuerint. ut ne laudē illud Plutarchi, quod huc <unclear>cisci</unclear> q̃ appofitißimè queat, Ὁ Μὰ τ’ τ’ τ’ θεῶν ἔοικεν αἰνίγμασι κατακεκρύφθαι. Eamobrem carmen tantumnon planè ad uerbū expreßi. nam in Commentario uertendo, ea religione, putidum uisum est futurum, si me alligaßem. utcung; pater eruditiß. hoc operæ tibi nuncupo, ut me intelligas, quanquam istud olim iam tibi persuasißimum est, huc propenfißimè spectare, amicitia ut nostra primùm iure naturali, uinculo scilicet arctißimo contracta, tum deinde tuis officijs impendiò confirmata, ab omni tandem ipsa senio farta tecta uindicetur. **Vale.**
+
+<vocab>Zoroaster, Plutarch, Pliny, Magica Logia, Chaldean Oracles, Conrad Neobar, Iacobus Marthanus, Gancherius Marthanus</vocab>
+
+--- Page 10 ---
+<lang>la</lang>
+
+<warning>This page consists of mirrored show-through (ink bleed) from the title page on the recto side of the leaf. The following transcription presents the text as it is intended to be read, oriented normally.</warning>
+
+# IOANNIS BAPTISTÆ CASALII
+## DE VETERIBUS SACRIS
+## CHRISTIANORUM RITIBUS
+## COMMENTARII
+### ITALIA
+
+->Ludovici Mesnier typis impressum<-
+
+---
+
+->PARISIIS<-
+->Apud Ioannem Iost<-
+->M. DC. XXXIX.<-
+
+<vocab>Ioannes Baptista Casalius, De veteribus sacris christianorum ritibus, Paris, Ioannes Iost, Ludovicus Mesnier, 1639, show-through, printer's mark, lily</vocab>
+
+<detected-images>
+[{"description": "A printer's device featuring a stylized lily plant (fleur-de-lis) with flowering stems, appearing as a mirrored ghost image due to show-through from the recto side of the leaf.", "type": "woodcut", "bbox": {"x": 0.521, "y": 0.311, "width": 0.252, "height": 0.245}, "gallery_quality": 0.4, "museum_rationale": "Standard 17th-century printer's device (likely belonging to Ioannes Jost), visible here as show-through on the verso of the title page."}]
+</detected-images>
+
+--- Page 11 ---
+<lang>lat</lang>
+<warning>The image exhibits significant bleed-through (ghosting) from the text on the reverse side of the page, particularly visible in the lower half.</warning>
+
+## Iacobus Marthanus D. Gancherio Marthano patri, rei medicæ iuxtà politiorisque omnis literaturæ absolutissima cognitione prædito .S.
+
+**Z**oroastri uetustissimi, si uel Plutarcho, uel Plinio suffragamur, luculentissimique magiæ scriptoris libellum, cui sit epigraphe μαγικά λόγια, nuper à situ carieq́; assertũ, impẽsißima cũ mihi cura uertendũ rogatu Cõradi Neobarij uiri mei enixißime studioßi, duxißẽ, ad locos offendi plerosq́;, uitiatos, an integros, nõ ausim, ubi me probiùs expẽdi, pronũciare : certe quidẽ eius generis, qui multiũ mihi negotij exhibuerint. ut ne laudẽ illud Plutarchi, quod huc dici q̃ appositißimè queat, τὰ γὰρ τῶν θεῶν ἔοικεν αἰνίγμασι κατακεκρύφθαι. Eamobrem carmen tantumnon planè ad uerbũ expreßi. nam in Commentario uertendo, ea religione, putidum uisum est futurum, si me alligaßem. utcunq́; pater eruditiß. hoc operæ tibi nuncupo, ut me intelligas, quanquã istud olim iam tibi persuasißi- mum est, huc propenfißimè spectare, amicitia ut nostra primùm iure naturali, uinculo scilicet arctißimo contracta, tum deinde tuis officijs impendiò confirmata, ab omni tandem ipsa senio sarta tecta uindicetur. Vale.
+
+<sig>a ij</sig>
+
+<vocab>Zoroaster, Chaldean Oracles, μαγικά λόγια, Plutarch, Pliny, Conrad Neobarius, Iacobus Marthanus, medicine, philology</vocab>
+
+--- Page 12 ---
+<lang>la</lang>
+<meta>The page exhibits significant ink bleed-through from the verso side, which obscures some background areas but does not significantly impede the legibility of the primary text.</meta>
+
+# Lodoicus Molinæus Rupefortensis
+## Candido lectori.
+
+*Siquid te iuuat alta Zoroastri*
+*Eruditio, lectita hunc libellum*
+*Vnum, qui tibi plus erit trecentis,*
+*Quem lingua prius attica sonantem*
+*Nuper asseruit Latinitati,*
+*Donauitq; phrasi noua uenustum*
+*Marthani studium, uigil q; cura.*
+*Qui quàm Cecropios probe lepôres,*
+*Tam belle refitis procul tenebris,*
+*Queis longum fuit obsitus per æuum,*
+*Nunc linguæ ueneres olet latinæ.*
+*Hic unus tibi plus erit libellus,*
+*Quàm tot <term>ὑλολογοι</term> semel regesti*
+*Auctorum temerè libri: recellit*
+*Nam planè physicos Platonas, atq;*
+*Mutos Pythagoras sapit, sophosq;*
+*Antiquum sonat, & seueriores*
+*Prodit Democritos, & id quod ætas*
+*Fortunatior ædidit Sophorum,*
+*Dum starent, decus orbis uniuersi,*
+*Viris nobilibus graues Athenæ.*
+*Vnum, si sapis, hunc capesse lector,*
+*Cum suadæ ferat intimam medullam.*
+*Nam quid congeries grauis librorum*
+*Obrutrix animi maligna prodest?*
+*Hic unus tibi plus erit trecentis.*
+
+<vocab>Lodoicus Molinæus Rupefortensis, Zoroaster, Marthanus, Cecropios, Plato, Pythagoras, Democritus, Athenæ, ὑλολογοι, suada, Latinitas</vocab>
+
+--- Page 13 ---
+<lang>Latin</lang>
+<sig>d iij</sig>
+<warning>Page contains show-through (ink bleed) from the reverse side, causing faint ghosting behind the primary text.</warning>
+
+**P** Erquire animæ ductum, unde, quóue ordine,
+Nauata corpori opera, ad ordinem unde manasti,
+Rurfus erigaris, opere, uerbis sacrosanctis adiuncto:
+Ne deorsum nuas, præcipitium in terra substernitur,
+E loco trahens septem meatibus prædito, infra quem grauis
+Necessitatis solium est.
+Tuum uas feræ terræ habitabunt.
+Ne fatum auxeris:
+Neque enim à paterno principio imperfectum quicquam uersatur.
+At uero non admittit eius uotamens paterna
+Quoad dum exierit obliuionem, atq; uerbum prompserit,
+Memoriæ infigens sacram patris tesseram.
+Adspirandum tibi, properandumq; est ad lūmē, & patris splēdores.
+Vnde immissa tibi est anima, plurima mente circunsepta,
+Hos autem terra deplorat adusq; posteros,
+Expulsores animæ, ac per quos respirare sit integrum, solutu sunt
+Læuo in latere cubilis, uirtutis fons, (faciles.
+Intus totus manet, uirginitatem minime proijciens.
+Anima hominum, Deum quadám tenus in sese cogit,
+Mortale nihil complexa: tota diuinitus inebriata est.
+In harmonia gloriatur, sub qua corpus uitale sit.
+Quoniam anima, cùm sit ignis patris lucidus
+Et immortalis permanet, & est uitæ domina.
+Eadem mundanorum quoq; sinuum multos numeros possidet.
+Quære Paradison:
+Ne spurces spiritum, remúe planam adaugeas.
+Est & idolo locus in regione splendida.
+Sed nec materiale corpus præcipitio deferes,
+Ne exegeris uti nequid incommodi perpetiatur.
+Si mentem ignitam erexeris, fluxum alioqui corpus seruabis:
+E finibus terræ profiliunt, minùs uerum
+Signum ostentantes mortali homini, canes:
+Natura suaserit dæmonas esse integros,
+Ac uitiosæ adeo materiæ germina frugi atq; proba.
+
+<vocab>anima, spiritus, Paradison, dæmonas, Necessitas, Oracula Chaldaica</vocab>
+
+--- Page 14 ---
+<lang>la</lang>
+
+Pœnæ mortalium uinctrices,
+Primas in te uindicet, immortalis animæ altitudo: oculosq; pariter
+Omneis sursum uersum erige
+O naturæ homo præsidentis artificium,
+Quod si mihi sæpiusculè dixeris,
+Omnino dictum cernes.
+Nam neq; cœlestis eademq; curua moles uisitur.
+Stellæ nusquam collucent: lunæ lumen conditum est:
+Terra non extitit.
+Ne naturæ imaginem nuncupaueris, exemplar uisibile.
+Vndiquaq; nesciæ, doli animæ habenis ignis extentis
+Cum spectaris citra formam ullam sacrosanctum ignem
+Lucentem, hucq; & illuc subsilientem ad uniuersi orbis altitudinem,
+Audi ignis uocem:
+Symbola, mens paterna animabus inseuit.
+Certo scito intelligibile extra mentem esse,
+Est intelligibile quod oporteat mentis flore perceptum.
+Omnia ab uno igne profecta sunt:
+Quippe cum omnia pater absoluerit mentiq; tradiderit
+Secundæ, quem Primum appellitant nationes hominum.
+Quæ à patre mentes concipiuntur, eadem & ipsæ concipiunt,
+Consilijs multis illicientes ad concipiendum.
+Rectores intellectualeis simul & inflexiles mundus obtinet:
+Ipsum sese pater rapuit.
+Ac ne in mente quidem intelligentiæ compote, quæ ipsum
+Insequatur, ignem suum inclusit.
+Pater non metum, sed suasionem admouet.
+
+### COMMENTARIVS PLETHONIS.
+
+**P**erquire animæ ductum.) Zoroastrici magis existimant, quod
+idem complusculi quoq; alij crediderint, animam humanã immor-
+talem quidem illam corruptionisq; nesciã, superne allabi mortali huic
+corpori corruptiliq; , uelut mercede locatam operam nauaturam, hoc
+est, aliquantisp̃er suam illi operam præstituram ornando quàm bellis-
+
+<vocab>Pœnæ, Zoroastrici, Plethonis, anima, ignis, mens paterna, intellectus, Zoroaster, Pletho</vocab>
+
+--- Page 15 ---
+<lang>Latin</lang>
+<warning>No page number, header, or signature present on this page. Text is in a clear italic typeface.</warning>
+
+simè fieri atq; exquisitissimè possit, officioq; item uitae perfungendo. mox eandem hinc retro, unde profecta est, locum capessere. At uero cum plurimae eo loci animae sedes adsignatae sunt & descriptae, una quidem hercle undiquaq; collustrata splendescensque, altera caligine circum undique suffusa: demum duae, quae supra, ipsae memoratis intermediae nec refulgeant, nec obscuritate caligineue circumfundantur: anima utiq; à prima harum omnium sedium illapsa corpori huic emortuo si operam ipsi gnauam impensamq; collocarit: exq; officio, cui est obeundo destinata, hanc illi dictitat ex integro unde profecta est, cōcedere subuolareq;: alioqui nisi probè functa sit officio suo, hinc euolare ad locum deteriorem etiamnum & molestiorem, actionibus aequa lance pēsitatis, queis in uita incubuerit. Iam primum igitur commoneris oraculo peruestigandi animae ὁχετοῦ, id est, uiae per quã anima tibi superne fluxerit: unde nimirum quoq; uitae ordine, nauata huic corpori opera, denuo in eundem ordinem, unde commigraSti, sciscaris, sacrosancto etiam uerbo operi agglutinato, iunctoq;. Sacrosanctum adeò uerbum hic accipe, quod de cultu dijs impendi solito prodatur: opus autem, sacrificium atq; ceremonias. ut sit hic uerus germanusq; sensus, praeter sermonem de cultu diuis consecrato religioneue expromi solitum, sacras quoq; ceremonias adscitas oportere ad hanc ipsam animae subuectionem. ne deorsum.) praecipitij uocabulo cognominat lapsum in corruptionem, uitium, & calamitates: ut terrā quoq; uocat terreum mortaleq; corpus. alioquin & terrae cognomento, naturam interituram: ignis uero diuinam, celestemue: isthāc ipsa oracula fere intelligunt. At uero locum septem meatibus praeditū appellat fatum è septem erronibus coagmentatum. sub quo necessitas, premēs quidem illa neq; non inuariabilis quoq; situm nacta sit. Quare monet oraculum ut ne deorsum, id est, in corpus morticinum caducūq; propēsius incumbas: ut quod fato illi è septem erraticis apto confertoq; ut pleraq; certe omnia obnoxium succumbereq; adeo comparatum ijs adscribi commode possit, quae nostro ipsa arbitratui subducta sunt. & certe infortunatissimus haberi merito quidem tuo possis, si cum eo totus spectaueris, uoto fruisci nō cōtingat: praeq; ui magna necessitatis, cui temetipsum constrinxisti, res tibi tuae peius idetidem minimeq; uo=
+
+<vocab>anima, corpus, oraculum, fatum, septem errones, ὁχετοῦ, sacrificium, animae subuectio</vocab>
+
+--- Page 16 ---
+<lang>Latin</lang>
+<meta>The text appears to be a Latin commentary on the Chaldean Oracles, set in an italic humanistic typeface. It utilizes common early modern typographic conventions including the long s (ſ), the ampersand (&), the semicolon abbreviation for -que (q;), and tildes over vowels to indicate an omitted 'm' or 'n'. Greek text is present on line 28.</meta>
+
+tis conſentaneè uertant. Tuum uas) Vas animæ tuæ, nimirum cadu
+cum hoc corpus uermes iuxtà feréq; ſunt habitaturæ. Ne fatum au=
+xeris) ne coneris augere fatum tuum, id eſt, auctius ampliúsue redde=
+re, quàm quantum tibi conſtitutum eſt & præſcriptum. nec enim ulla
+unquam cura eualuerit id ut effectum exhibeas. Neque enim à pater=
+no principio) Nam nec à patris primordijs ſupremi utiq; dei man=
+cum quicquam inchoatiue proficiſcitur, te ſcilicet ut poſsis abſolue=
+re. Nam illinc omnia ſuis affabre numeris expleta indicio eo manare
+conſpectiſsimum eſt, quòd ad exquiſitiſsimam illam uiſendamq; cū pri
+mis uniuerſi naturam enixe tendunt. At uero non admittit) mens pa
+tris, alter utiq; Deus, animæq; item perpetuus opifex, haudquaquam
+adnuit huius uotis uſque dum excuſſerit obliuionem, quam merito ne=
+xus corporis contraxit, uerbáque itidem ediderit conceperitq;, me
+moriam teſtantia ſacroſanctæ patris teſſeræ, hoc eſt, præceptionis
+elegantiſsimæ cuiusq; rei accurato ſtudio confectandæ, qua identidem
+retractanda anima fictori ſuo ſemetipſam approbet. Adſpirandum
+tibi properandumq; eſt.) Lumen ſplendorq; patris locus is eſt ani=
+mæ, qui colluſtratus circumfuſusq; ſplendore habetur. unde anima plu
+rima quidem illa mente ſuccincta, huc demiſſa ſit, ita uero conſentaneū
+rationi fuerit, ad idem ut lumen denuo nitatur, atq; properet. Hos
+autem terra deplorat.) Qui ad illud ipſum lumen, unde anima ipſis
+corriuata eſt, non omni opere contendere meditātur, hos terra, id eſt
+natura interitui obnoxiadeplorat, in hoc natos, hanc ut illuſtrarent,
+& excolerent. Iam uero qui non ſolum nihil huic ornamenti concilia
+runt, ſed ſibi quoq; ipſis notam conſciuerunt uitæ per nequitiam tran
+ſactæ, horum improbitas ad poſteros trāsfunditur, calamitoſo ipſos
+uitæ genere olim diſtringendos. Expulſores animæ) appoſitæ ra=
+tiones animæ à flagitijs aſſerendæ, ſunt εὔλυτοι, hoc eſt, ſubrepente
+interim obliuione, obliteratu ſolutuq; faciles. Læuo in latere cubilis)
+in latere ſiniſtri tui cubilis fons uirtutis ſcaturigoq; habetur, id eſt, po
+tentia intus quidem illa condita, cuiq; nunquam germana ſua integri
+tas, id eſt, natura omnis affectionis exors, eripi poſsit. nam & immotā
+nullāq; ratione excutiendam uirtutis potentiam fortiti ſumus, quan=
+quam uſus actionum uirtutis deſinere poteſt & interrumpi. Porro
+
+<vocab>anima, mens patris, lumen, εὔλυτοι, uirtus, fatum, Chaldean Oracles</vocab>
+
+--- Page 17 ---
+<lang>Latin</lang>
+<sig>b</sig>
+
+potentia ſiniſtro lateri adſcripta est, quòd functiones dextro contri=
+buuntur. cubile autem animæ nostræ, locus is eſſe statuitur, qui affe=
+ctionibus ipſius eximijs præſtabilioribusq́; ſubſtratus eſt. Anima ho=
+minum) anima humana deum ad ſe quadamtenus ἄγχῃ, hoc est, ar=
+ctiſsimè ſibi deuinctura implicituraq́; eſt, ſui uidelicet aſsiduum uindi=
+cem & aſſertorem. Sed & eiuſcemodi quoque eſſe intelligitur, quæ
+merito quidem exquiſitæ cum deo ſimilitudinis nihil (dúntaxat ex ſe=
+ſe) agnoſcat, quod exoleſcere tandem labefactariq́; poſsit, ut quæ diui=
+nitus ebria ſit, hoc eſt, diuinis cæleſtibusq́; bonis cumulatissimè prædi=
+ta: quin & adeò nō pudore ſuffunditur, quòd huic corpuſculo innexa
+cōglutinataq́; est, ut in ea etiā harmonia, quæ corpori uigorē influat,
+impenſiùs neſcio quo pacto, inſolentiusq́; glorietur, & uerò magnifi=
+cè de ſe ſentiat: cuius auſpicijs unà cum mortalibus immortalia uinciā=
+tur: ita quidem, ut totum ad concinnam quandam ſcitamq́; cohærentiā
+adſtringatur. Quoniā) potētiā patris intelligentiæ cōpotē, ipſum al=
+terū ſcilicet deum, iſthæc oracula longè omnium principem cognomi=
+nant, nimirum à ſupremo deo proficiſcentem. hac porro parte mone=
+mur, illa ipſa patris potentia animam procreatam, eandémque ignem
+eſſe lucidiſsimum, hoc est, diuinam quandam eſſentiam, intelligendiq́;
+facultate donatam: ac proinde ipſam exortem interitus permanere,
+quòd ſubstantiam nacta ſit diuinitatis participem: & prætereà ſuæ
+ipſius uitæ eandem eſſe dominam, quam obtineat haudquaquam ulla
+æui diuturnitate cōſummādā. quādoquidē quæ eripi nobis extorque=
+riq́; poſsunt, horum domini meritò certè fieri nequit, ut existimemur:
+etiam ſi fortaſſe euenire queat, ſi quæ indidem cōmoditas emanet, hāc
+ut demetere interea poſsimus & percipere: At quæ decedere nobis
+amittiq́; nequeunt, ea uerò iuris quoq́; noſtri dominijq́; fuerint: in uni=
+uerſum, anima ſupplementa orbis compluria poſsidet, meritò quidem
+ſuæ ipſius æternitatis, id eſt, uaria pluſculúque in orbe loca, ad quæ
+identidem reuolet expenſis ad æquilibriū, penſatiſq́; actionibus, quas
+dum uita ſuppeditauit, abſoluerit. <term>Quære paradiſon</term>) id est, lo=
+cum animæ ſplendore quoquouerſus obſeptum. <term>Ne ſpurces ſpiri=
+tum</term>) <term>Pythagoram</term> <term>Platonemq́;</term> ſequuti, animam ut non undecunque à
+corpore diremptam haberi, ita nec prorſum inſeparabilem ſubſtan=
+
+<vocab>Anima, Chaldean Oracles, Pythagoras, Plato, paradison, spiritus, divinitas, immortalitas</vocab>
+
+--- Page 18 ---
+<lang>lat</lang>
+<page-num>3</page-num>
+<meta>catchword: præstanti</meta>
+
+*tiam, in hac sunt opinione, ut prædicent. posse verò parte seiungi ab-*
+*soluiq;, parte non posse: potentia certè posse, re non item. Quin iidem*
+*tria ferè summa formarum genera constituunt: unum, quod penitus à*
+*materia fecernatur, cuiusmodi uidelicet mentes illæ, quibus suus su-*
+*prà cælum situs assignatus est: alterum, quod à materia exolui ab-*
+*iungiq; non queat: cui quidem ipsi substantia sciscatur, haudquaquam*
+*per se subsistens, sed addicta connexaq; materiæ: cum qua & ipsa so-*
+*lubili scilicet, internitionique obstricti, hocce genus animæ pariter e-*
+*moriatur: atq; hoc genus omne animæ rationis expers esse: inter ista,*
+*mediam locant animam ratione præditam, à mentibus quidem ijs, quæ*
+*supra cælum collocatæ sunt, eo interstitio diuersam, quòd perpetuò*
+*implicata materiæ agglutinataq; uisitur: ab irrationali porrò, quòd*
+*hæc neutiquam ipsa materiæ coniungitur, quin uice uersa, materia illi*
+*ipsi habetur adiuncta, per sese ipsa potentia quidem certè subsistens,*
+*itemq; impartilis, itidem ut mentes illæ supraceelestes, quibus etiam=*
+*num ipsis confines quadamtenus, germanæq; functiones reddãtur, sed*
+*& eadem quoque, quæ rerum notitiæ commentationiq; proxima sit,*
+*ad summum usq; deum peruadit, atq; eo quidem nomine incorruptilis*
+*habetur, & animam autem, quæ huiuscemodi esse intelligatur, cũ cor=*
+*pore æthereo ceu uehiculo, perpetuò uersari: quod illa attactu conti=*
+*nuo, ad consortium quoque immortalitatis adsciscat, inanime quidem*
+*omnino suapte natura, sed ab anima tamen irrationali sequioreque*
+*animæ genere donatum: quod ipsum, quum sapientibus uiris idolum*
+*animæ nuncupetur, imaginandi ui præditum & sensu, uideat, sentiat,*
+*demúmque nullo non sensu uigeat, præterq; cæteris alijs brutis animæ*
+*facultatibus: ita per potissimam hoc genus corporis uim, quam <term>Φαν=*
+*τασίαν</term> uocent, animam rationalem cum toto hoc corpore iugiter as*
+*fiduéque uersari. Cæterum animam humanam uiuifico partus spiri=*
+*tui copulari, per corpus huiuscemodi merito cognationis cuiusdam im*
+*plicitum: alioqui quod spiritus quoq; quidam sit: porrò autem dæmo=*
+*nias animas ut non ita lato discrimiculo ab humanis euarient, nobilio=*
+*res tamen, tum ipsas esse, tum nobilioribus quoque uehiculis fruisci.*
+*Ad hoc misceri nullo pacto posse corruptibili naturæ. Iã uerò syde=*
+*rum animas, ipsis quoque dæmonijs longè præstantiores, præstanti*
+
+<vocab>anima rationalis, materia, mentes supraceelestes, daemonias animas, Φαντασίαν, idolum animæ, uehiculum æthereo</vocab>
+
+--- Page 19 ---
+<lang>Latin</lang>
+<sig>b ij</sig>
+
+<margin>Corpora angelorum</margin>
+oribus etiam uti uectabulis, quæ corpora sint amplitudine facultatis
+actiuæ collucentia. Quas de anima sentētias retrò quoque Zoroastrici
+Magi uidentur expressisse. Commonet igitur oraculum, ne rem pla-
+nam adaugeas, id est, ne denses: (nam epipedon dicitur, nō quia triplici
+mensu non constet, ut quod corpus esse sit exploratissimū, sed ut sum-
+ma eius subtilitas, exilitásque demonstretur) incremento additamen-
+tóque subinde huic moli adijciendo. crascescere quippe spiritum istius-
+modi, si ad mortale corpus pronius deuergat. **Est & idolo)** idolum
+animæ nominat partem eam, quæ cum rationis expers sit, parti ratio-
+nis capaci adhærescat. refert autem ei idolo locum quoque esse in loco
+illo usquequaque splendido: neque enim unquam animam amittere à
+se addictum sibi condictúmque uehiculum. **Sed nec materiale cor-**
+**pus)** animæ quisquilias, reiectamentáue nominat, corpus caducum oc-
+ciduumque: commonétque itidem, ne ipsum illud neglectim & fegni-
+ter accuremus, parum commodè salubritérque constitutum: sed cu-
+ram huic mediocrem impensam oportere, ab eo certè, qui pensum e-
+tiamdum uitæ exigat, quò nimirum firma ipsi ualetudine & integra
+conseruetur, dúntaxat quanta maxima cura diligentiáque præstari
+possit, superque cætera omnia dignitati animæ suffragentur & quæ-
+drent. **Ne exegeris)** ne exegeris animam à corpore, uidelicet in-
+tercidere, fatisceréque natura cōparato, uti ne quid, cū migrarit, ipsi
+periculi creetur. Certè quidem illud ipsum aliud nihil meritò esse cen-
+seas, quàm semetipsum humanis rebus exigere præter naturæ præ-
+scripta. **Si mentem igneam)** Si mentem igneam ad religionis mu-
+nia erexeris, caducum istud atque dissipabile corpus, innoxium præ-
+stiteris, & incolume. **E finibus terræ)** est, nec rarò, quum inter sa-
+crificandum <term>Φαντάσματα</term>, hoc est, uisa, spectráque nescio quæ, ca-
+num expressa similitudine, specieq; itidem alia prodigiosè fœda com-
+pareant: hoc genus omnia monentur è terræ finibus profilire: id quod
+assolet, quum terrenum istud corpus iuxtà atque abolitioni obnoxi-
+um, neque non affectus ipsi congeniti haud dum penitus rationis ma-
+gisterio compositi sunt & digesti: quorum quidem simulachra uisiten-
+tur, inania quidem illa, nullámque naturæ solidam subsistentiam præ-
+ferentia. **Natura suaserit.)** Natura, hoc est, naturalis ratio
+
+<vocab>Zoroastrici Magi, anima, idolum, uehiculum, Φαντάσματα, naturalis ratio, Corpora angelorum</vocab>
+
+--- Page 20 ---
+<lang>Latin</lang>
+<sig>3</sig>
+<meta>catchword: prestanti-</meta>
+
+tiam, in hac sunt opinione, ut prædicènt. posse uerò parte seiungi ab-
+soluiq;, parte non posse: potentia certè posse, re non item. Quin ijdem
+tria ferè summa formarum genera constituunt: unum, quod penitus à
+materia secernatur, cuiusmodi uidelicet mentes illæ, quibus suus su-
+prà cœlum situs assignatus est: alterum, quod à materia exolui ab-
+iungiq; non queat: cui quidem ipsi substantia sciscatur, haudquaquam
+per se subsistens, sed addicta connexaq; materiæ: cum qua & ipsa so-
+lubili scilicet, internitionique obstricta, hocce genus animæ pariter e-
+moriatur: atq; hoc genus omne animæ rationis expers esse: inter ista,
+mediam locant animam ratione præditam, à mentibus quidem ijs, quæ
+supra cœlum collocatæ sunt, eo interstitio diuersam, quòd perpetuò
+implicata materiæ agglutinataq; uisitur: ab irrationali porrò, quòd
+hæc neutiquam ipsa materiæ coniungitur, quin uice uersa, materia illi
+ipsi habetur adiuncta, per sese ipsa potentia quidem certè subsistens,
+itemq; impartilis, itidem ut mentes illæ supracœlestes, quibus etiam-
+num ipsis confines quadamtenus, germanæq; functiones reddatur, sed
+& eadem quoque, quæ rerum notitiæ commentationiq; proxima sit,
+ad summum usq; deum pervadit, atq; eo quidem nomine incorruptilis
+habetur, & animam autem, quæ huiuscemodi esse intelligatur, cũ cor-
+pore æthereo ceu uehiculo, perpetuò uersari: quod illa attactu conti-
+nuo, ad consortium quoque immortalitatis adsciscat, inanime quidem
+omnino sua pte natura, sed ab anima tamen irrationali sequioréque
+animæ genere donatum: quod ipsum, quum sapientibus uiris idolum
+animæ nuncupetur, imaginandi ui præditum & sensu, uideat, sentiat,
+demúmque nullo non sensu uigeat, præterq; cæteris alijs brutis animæ
+facultatibus: ita per potissimam hoc genus corporis uim, quam <term>φαν-
+τασίαν</term> uocent, animam rationalem cum toto hoc corpore iugiter as
+siduéque uersari. Cæterum animam humanam uiuifico partus spiri-
+tui copulari, per corpus huiuscemodi merito cognationis cuiusdam im
+plicitum: alioqui quod spiritus quoq; quidam sit: porrò autem dæmo-
+nias animas ut non ita lato discrimiculo ab humanis euarient, nobilio-
+res tamen, tum ipsas esse, tum nobilioribus quoque uehiculis fruisci.
+Ad hoc misceri nullo pacto posse corruptibili naturæ. Iā uerò syde-
+reum animas, ipsis quoque dæmonijs longè præstantiores, præstanti-
+
+<vocab>anima rationalis, materia, mentes, phantasia, idolum animae, spiritus, daemones, syderum</vocab>
+
+--- Page 21 ---
+<lang>lat</lang>
+<sig>b ij</sig>
+
+oribus etiam uti uectabulis, quæ corpora sint amplitudine facultatis
+
+<margin>] Corpora angelo-<br/>rum</margin>
+actiuæ collucentia. *Quas de anima sententias retrò quoq; Zoroastrici Magi uidentur expressisse. Commonet igitur oraculum, ne rem planam adaugeas, id est, ne denses: (nam epipedon dicitur, nō quia triplici mensu non constet, ut quod corpus esse sit exploratissimū, sed ut summa eius subtilitas, exilitasue demonstretur) incremento additamentóque subinde huic moli adijciendo. crassesceret quippe spiritum istiusmodi, si ad mortale corpus proniùs deuergat. Est & idolo)* idolum animæ nominat partem eam, quæ cum rationis expers sit, parti rationis capaci adhærescat. refert autem ei idolo locum quoque esse in loco illo usquequaque splendido: neque enim unquam animam amittere à se addictum sibi condictúmque uehiculum. Sed nec materiale cor-
+pus) animæ quisquilias, reiectamentáue nominat, corpus caducum occiduúmque: commonétque itidem, ne ipsum illud neglectim & segniter accuremus, parum commodè salubritérque constitutum: sed curam huic mediocrem impensam oportere, ab eo certè, qui pensum etiādum uitæ exigat, quò nimirum firma ipsi ualetudine & integra conseruetur, duntaxat quanta maxima cura diligentiáque præstari possit, superque cætera omnia dignitati animæ suffragentur & quædrent. *Ne exegeris)* ne exegeris animam à corpore, uidelicet intercidere, fatisceréque natura cōparato, uti ne quid, cū migrarit, ipsi periculi creetur. Certè quidem illud ipsum aliud nihil meritò esse censeas, quàm semetipsum humanis rebus exigere præternaturæ præscripta. *Si mentem igneam)* Si mentem igneam ad religionis munia erexeris, caducum istud atque dissipabile corpus, innoxium præstiteris, & incolume. *E finibus terræ)* est, nec rarò, quum inter sacrificandum Φαντάσματα, hoc est, uisa, spectráque nescio quæ, canum expressa similitudine, speciéq; itidem alia prodigiosè foeda compareant: hoc genus omnia monentur è terræ finibus profilire: id quod assolet, quum terrenum istud corpus iuxtà atque abolitioni obnoxium, neque non affectus ipsi congeniti haud dum penitus rationis magisterio compositi sunt & digesti: quorum quidem simulachra uisitentur, inania quidem illa, nullámque naturæ solidam subsistentiam præferentia. *Natura suaserit.)* Natura, hoc est, naturalis ratio
+
+<vocab>Zoroastrici Magi, anima, epipedon, idolum, Φαντάσματα, simulachra, natura</vocab>
+
+--- Page 22 ---
+<lang>Latin</lang>
+
+peruicerit, genios, quos dæmonas cognominent, integros esse maxi=
+moq; opere incorruptos, & adeo omnia quæcuq; à deo optimo quidē
+ipso ex sese proficiscuntur. Sed enim ipsa quoq; infelicis prauæq; ma=
+teriæ germina illiusmodi appositissimè cēseri queāt, quæ inter ea, quæ
+proba frugiq; sunt, recenseantur. alioquin materiā uilem despicatāq;
+uocant, non substantiā adeò, nam quî tandem fieri possit, cuius germi=
+na proba laudatāq; sint, ipsum ut uitiosum esse substantiā (duntaxat
+accommodatè) dictitetur? at enim eo nomine improbam materiā appel
+lant, quòd nouissima inter substantias corrogatur, parcissiméque o=
+mnium rationem boni cooptat: sed ita tamen, ut minutissimam quāque
+materiæ particulam, uitiosam intelligas: alioquin, inquit oraculū, cùm
+uitiosæ etiamnum materiæ, hoc est, substantiæ desiccatissimæ germina
+proba sint, certè summa ratio est, quamobrem huiusmodi esse demo=
+nes itidem credātur: & quidem tantò locupletiùs impēsiusq;, qui tum
+natura sint rationis participe præditi, tum naturæ omni corruptioni
+obnoxiæ impermixti. <term>Pœnæ</term>) pœnæ, ἄται, furiæ, hoc est, dæmones
+cruciatibus irrogandis præfecti, ἀυτεῖραι mortalium cognomina=
+ri possint: quippe quos à uitijs deterritos, ad honesti rectiq; cupidi=
+nem accendant. <term>Primas in te uendicet</term>) in te altitudo profunditásue
+animæ imperitet, ac oculos pariter uniuersos, id est, uireis cognitiuas
+sursum uersum erige. <term>O naturæ homo</term>) hominem præfidentis na=
+turæ machinamentum coagmentúmue nominat, q' arduis semetipsum
+rebus concredit. <term>Quòd si mihi sæpiusculè</term>) Si se piculè mihi dixe=
+ris, hoc est, me uocaueris, dictum, me uidelicet, quē uocasti, undiquaq;
+conspexeris: quippe aliud nihil quicquam tum tibi temporis cernetur,
+quàm fulmina, hoc est, ignis, huc illuc in orbe subsiliens. <term>Ne naturæ
+imaginem nuncupaueris</term>) ne gestieris cernere imaginem naturæ, Dei
+uidelicet exemplar ex sese quidem ipsum perspicuum, & uisile, sed
+quod sub conspectum humanum situm non sit. Nam quæ sacris ope=
+rantibus uisitantur, ut ignis, fulmina, aut siquid aliud est huiusce ge=
+neris, ea tute credideris esse symbola: nō item dei naturam. <term>Undiqua=
+que nesciæ doli animæ</term>) ignis, qui tibi inter sacrificandum uisitatur, ha
+benas undecunq; in te extendito, in anima ἀπλάσῳ, hoc est, minimè
+uaria uersatiliue mente, atque à uitio q̄ maximè aliena ex purgatáq;.
+
+<vocab>genios, dæmonas, materia, substantia, ratio, Pœnæ, ἄται, ἀυτεῖραι, machinamentum, symbola, ἀπλάσῳ</vocab>
+
+--- Page 23 ---
+<lang>Latin</lang>
+<sig>b iij</sig>
+<meta>catchword: pa=</meta>
+
+*Cum spectaris*) simul cõspexeris sacrosanctum ignem, effigiatio=
+nisq; expertem & formæ: præterq; quoquouersus per mundum iu=
+xtà saltuatimq; & desultoriè splendescentem, gratias age, simulq; hila=
+riter & alacriter ignis uocem audi, quæ uerissimam quandam fixissi=
+mamq; prænotionem præseferat. *Symbola mens paterna*) mens
+paterna, id est, animæ iugis opifex, notas, id est formarum intelligibi=
+lium imagines, inseuit: quibus illa freta, rerum essentias sibi ra=
+tionésue conciliet. *Certo scito intelligibile*) existimato res intelle=
+ctiles extra mentem tuam actu esse. quanquam enim ab opifice imagi=
+nes tibi rerum intelligibilium sunt inditæ, id tamen ipsum potentia cer=
+tè duntaxat factum. Quo fit, ut actu quoque rerum intellectualium
+asciscenda tibi notitia sit animóque consectanda. *Est intelligibile*)
+id est, supremus deus, qui unus eximius sit, & antiquissimus habēdus,
+haudquaquam eodem atque alia pacto concipitur, uerum mentis flo=
+re, id est, singulari potissimáq; mentis parte. *Omnia ab uno igne*)
+omnia ab uno igne promanarunt. *Quippe cùm omnia*) pater o=
+mnia absoluit, intelligibiles uidelicet formas: ut quæ probè expletæ,
+suisq; numeris absolutæ sint, alteriq; à se deo regunda tradidit, unde
+fiat, ut siquid ab hoc deductum sit, & ad ipsius aliúsue substantiæ in=
+telligibilis exemplar effictum: id à summo illo deo ortum credatur &
+profectum. quem & ipsum primum haberi gentes statuunt, quæcunq;
+assiduum mundi architectum, quoq; non alius superior sit, esse rentur.
+
+*Quæ à patre mētes*) ἴυγγας, intelligibiles formas appellat, quæ
+tum à patre concipiantur, tum & ipsæ concipiant: adq; concipiendi
+commentandiue munia obeunda extimulent, consilijs ἀφθέγκτοις,
+id est immotis. & hoc alioqui loco motum intelligendi, non trãgressio=
+ne aut cursum, sed ad intellectilia relationē, habitúue hoc oraculi acci=
+pit. Quare πρ ἀφθέγκτοις, intellexeris <term>per</term> <note>Transcribed as 'per' based on the standard abbreviation of p with a cross-stroke</note> eo quod est, immotis. hoc
+sensu, hæ species immotã minimeq;, ut anima, uagum ad intelligibilia
+respõsum obtinent. *Rectores intellectual.*) ea quæ in hoc orbe ab im=
+mortalibus deducta sunt, mundi rectores intelligentiæ compotes uo=
+cat, quorum principem cõstituat alterum à patre deũ. Alioquin quuē
+aiat hoc oraculum, rectores esse mundo inflexileis, dubium non uide=
+tur, quin eò spectet, ut ipsi immortalitatem afferat. Ipsum sese pa=
+
+<vocab>sacrosanctum ignem, mens paterna, intelligibile, ἴυγγας, ἀφθέγκτοις, mundi architectum, Chaldean Oracles</vocab>
+
+--- Page 24 ---
+<lang>Latin</lang>
+<meta>The text consists of philosophical commentary on the Chaldean Oracles attributed to Zoroaster, likely from a 16th-century edition by Francesco Patrizi or a contemporary scholar. The text begins mid-sentence with a closing parenthesis.</meta>
+
+ter) semetipsum pater à reliquis abiunctum haberi uoluit & exempti-
+lem, adeò ut ne in intellectiua quidem facultate altero à se deo ignem
+suum, hoc est, diuinitatem incluserit finieritue. Huius autem porrò di-
+uinitas à cæteris ipsa rebus exempta est: uidelicet quoniam ille idē &
+ortus immunis est, & per sese ipse extat: alioqui nec possit contingere,
+hic ut cuiquam adsciscatur, licet in eo quod à cæteris omnibus contri-
+buitur, multò ipse lubentissimè acquiescat. nec tamē, quòd inuideat sese
+admittendum non exhibet, uerum eo certè nomine, quòd adeò non il-
+lud ipsum fieri possit, ut in antiphasin, hoc est, contradictionem com-
+meet. Pater non metum) Cum enim eximia quadam insigniq; pror-
+fus bonitate præditus sit, cũ eo q; omnibus quoq; bonorum est autor,
+nemini utique periculum accersierit, unde horrendus esse possit.
+
+Placita hæc Zoroastrica cũ frequētes oppidoq; clari uiri confirma-
+rūt, tum uel maximè Pythagoræ iuxtà Platonisq; cōsectatores. Qui-
+bus & istud inter ea quæ Zoroastro prodita sunt (utiq; si Plutarcho
+subscribimus) admissum sit & approbatū. Nēpe q; tribus res parti-
+bus designauerit. Altera Horomazē, quem hoc genus oracula primi
+dei cognomento uocitent. Altera Arimanen, parte nimirū postrema,
+ut media Mithran. Qui deus alter oraculis hisce dicitur. Alioquin
+& in Mithræ uocabulo Persæ solem intelligunt. Sub hæc Horomazē
+triplicē se constituisse. duplicem autem Mithran, uidelicet qui alter ab
+Horomaze sit. Quib⁹ & Platonica quoq; illa prorsus accesserint, in
+omnibus regem totū esse, cuius & ipsius gratia omnia sint. Quin eū-
+dem omniū bonorum causam haberi primordialē: demumq; secundum
+in secundis, tertium in tertijs consistere. Iam rerum uniuersitatem
+Zoroaster Platoq; tribus partibus absoluerunt, una sempiterna. Al-
+tera genita & nihilo secius tamen immortali. Tertia, ad obitum corru-
+ptelamq; tendente. Et Zoroastren quidem eousq; uetustum Plutar-
+chus adfirmat, ut annis quingentis bello Troiano priorem fuisse testa-
+tum scriptumq; memoriæ reliquerit.
+
+->FINIS.<-
+
+<insert>
+Handwritten mark at bottom right: o j d 9 ◻
+</insert>
+
+<vocab>Zoroaster, Pythagoras, Plato, Horomaze, Arimanen, Mithran, Plutarchus, bellum Troiano, Oracula Chaldaica, Neoplatonism</vocab>
+
+--- Page 25 ---
+<lang>Latin</lang>
+<vocab>Iacobus Marthanus, Zoroaster, Plethon, Theodorus Gaza, Conradus Neobarius, Errata, πεντακοσίοις, πεντακισχιλίοις</vocab>
+
+## Iacobus Marthanus Candido lectori S.
+
+Libellum Zoroaftri, Plethonisq; in eum commentarium, fcriptoris Theodori Gazæ æuo clariſſimi, cuius mentionem quoque faciat Theodorus lib. π. φιλων, quuum vertiſſem, Conradiq; adeo Neobarii viri elegātium literarũ peritia viſenda præditi, meiq; item longe cupientiſſimi precibus extentis adductus ædidiſſem: obnixe te rogandũ cādide lector exiſtimaui, vt hoc meum interpretamentum eo candore appenderes, quo mihi cuſum eſt & æditum. Nam adeo non hinc vllam laudem aucupor, vt belle mecum deciſum iri credā, ſi non omnino ſupprimendum circunducendumve hoc fuiſſe videbitur. 
+
+Vale.
+
+---
+
+### E R R A T A
+Pag. 3. verſu. 1. In epiſtolę inſcriptione Gancherio, lege Gaucherio.
+Ibidem epiſtolio, ver. 11. ciſci, lege ſciſci. Pag. 5. ver. 31. lege finibus.
+Ibidem, ver. 29. adiunge poſt dictionem ne quid, cum exierit.
+Pag. 6. ver. 2. vindicet - lege vendicet. Ibidem, ver. 22. multis, lege mutis. Ibidem, ver. 29. Magis, lege Magi. Pag. 7. verſ. 3. ſunt, lege ſint.
+Pag. 8. ver. 7. poſt dictionem ſcilicet, adjice ipſum.
+
+Porrò autem pag. 14. uer. 29. πεντακοσίοις hoc eſt, quingentis reddidi, q̃ ſupra ueri fidẽ ſit, ſi πεντακισχιλίοις agnoſcatur, ut præteream q̃ frequentes mihi utraq; lingua ſcriptores ſubſcribunt.
+
+--- Page 26 ---
+<lang>Latin</lang>
+<warning>The page is heavily impacted by ink bleed-through from the verso side, which creates mirrored ghosting of text and titles from the reverse. The original recto text is extremely faint.</warning>
+
+<insert>
+->De cultu<-
+->(Donati)<-
+->v.<-
+</insert>
+
+### ERRATA
+
+In calce, pag. 1. vers. 13. leg. <unclear>quæ</unclear> pro <unclear>qui</unclear>. pag. 2. vers. 33. leg. <unclear>...</unclear> pro <unclear>...</unclear>.
+Versu ultimo ejusdem pag. leg. <unclear>...</unclear> pro <unclear>...</unclear>.
+pag. 4. vers. 4. leg. <unclear>...</unclear> pro <unclear>...</unclear>.
+
+---
+
+Potius vero pag. 6. vers. 1. leg. <unclear>...</unclear> pro <unclear>...</unclear> pag. 7. vers. 18. leg. <unclear>...</unclear> pro <unclear>...</unclear>.
+pag. 8. vers. 2. leg. <unclear>...</unclear> pro <unclear>...</unclear> pag. 9. vers. 5. leg. <unclear>...</unclear> pro <unclear>...</unclear>.
+pag. 10. vers. 2. leg. <unclear>...</unclear> pro <unclear>...</unclear> pag. 11. vers. 17. leg. <unclear>...</unclear> pro <unclear>...</unclear>.
+
+<vocab>Errata, Latin, bibliographical notes, De cultu, corrections</vocab>
+
+--- Page 27 ---
+<lang>None</lang>
+<meta>Blank page</meta>
+<vocab></vocab>
+
+--- Page 28 ---
+<lang>Unknown</lang>
+<meta>Blank folio with faint ghosting or bleed-through of text from an adjacent page.</meta>
+<warning>The page is blank and contains no legible text.</warning>
+
+<vocab></vocab>
+
+--- Page 29 ---
+<lang>None</lang>
+<meta>Blank page, likely a flyleaf or endpaper.</meta>
+<warning>The page is blank and contains no legible text, annotations, or illustrations.</warning>
+
+--- Page 30 ---
+<lang>None</lang>
+<meta>Blank page with faint bleed-through from the verso.</meta>
+
+--- Page 31 ---
+<lang>N/A</lang>
+<meta>Blank page; likely a flyleaf or endpaper.</meta>
+
+[The page is blank.]
+
+<vocab>blank page</vocab>
+
+--- Page 32 ---
+<lang>None</lang>
+<warning>This page is blank and contains no text, handwriting, or illustrations.</warning>
+<meta>Blank page, likely a flyleaf or endpaper.</meta>
+
+_This page is blank._
+
+--- Page 33 ---
+<lang>English</lang>
+<meta>Blank flyleaf with handwritten bibliographic annotations in pencil and ink.</meta>
+
+Christ/Soave
+188
+KRLE
+
+---
+
+->BM STC 450<-
+
+->coll. compl.<-
+->18-2-88<-
+->je<-
+
+UBN 8707
+
+<vocab>STC, collation, shelfmark, accession number</vocab>
+
+--- Page 34 ---
+<lang>None</lang>
+<meta>Blank page; the image shows the textured brown leather cover or binding of the manuscript. There is no text or illustrative content present on this page.</meta>
+
+<vocab>leather binding, cover, texture</vocab>

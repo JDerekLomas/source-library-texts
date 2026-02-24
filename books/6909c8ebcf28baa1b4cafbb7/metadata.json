@@ -1,0 +1,26 @@
+{
+  "id": "6909c8ebcf28baa1b4cafbb7",
+  "title": "Brunnen der Weisheit und Erkänntniss der Natur",
+  "display_title": "Fountain of Wisdom and Knowledge of Nature",
+  "author": "anonymous",
+  "language": "German",
+  "year": 1706,
+  "published": "1706",
+  "pages_count": 30,
+  "pages_with_ocr": 30,
+  "pages_with_translation": 30,
+  "source_url": "https://sourcelibrary.org/book/6909c8ebcf28baa1b4cafbb7",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-2.0-flash"
+  },
+  "synced_at": "2026-02-24T18:29:52.481Z",
+  "_hashes": {
+    "ocr": "240012e8ee0e1707",
+    "translation": "6eb57b2787b8b886"
+  }
+}

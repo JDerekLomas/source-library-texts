@@ -1,0 +1,28 @@
+{
+  "id": "69906702249ce014347d2339",
+  "title": "A Candle in the Dark; or, A Treatise Concerning the Nature of Witches & Witchcraft",
+  "display_title": "A Candle in the Dark; or, A Treatise Concerning the Nature of Witches & Witchcraft",
+  "author": "Thomas Ady",
+  "language": "English",
+  "year": 1656,
+  "published": "Unknown",
+  "pages_count": 185,
+  "pages_with_ocr": 20,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/69906702249ce014347d2339",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "per_witchcraft-in-europe-and-america_a-candle-in-the-dark-or_ady-thomas_1656_9"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:29:56.060Z",
+  "_hashes": {
+    "ocr": "5940641703f1100d",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

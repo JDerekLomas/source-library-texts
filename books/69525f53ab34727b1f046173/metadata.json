@@ -1,0 +1,28 @@
+{
+  "id": "69525f53ab34727b1f046173",
+  "title": "Oratio de hominis dignitate",
+  "display_title": "Oration on the Dignity of Man",
+  "author": "Giovanni Pico della Mirandola",
+  "language": "Latin",
+  "year": 1486,
+  "published": "1486",
+  "pages_count": 17,
+  "pages_with_ocr": 17,
+  "pages_with_translation": 17,
+  "source_url": "https://sourcelibrary.org/book/69525f53ab34727b1f046173",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "PicoDellaMirandola--OratioDeHominisDignitate"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:57.590Z",
+  "_hashes": {
+    "ocr": "b47db668af464c23",
+    "translation": "755af57631e327b7"
+  }
+}
