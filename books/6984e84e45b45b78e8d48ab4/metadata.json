@@ -1,0 +1,26 @@
+{
+  "id": "6984e84e45b45b78e8d48ab4",
+  "title": "[Hebrew: Sefer pa'amon ve'rimon]",
+  "display_title": "[Hebrew: Sefer pa'amon ve'rimon]",
+  "author": "Unknown",
+  "language": "Hebrew",
+  "year": 1708,
+  "published": "1708",
+  "pages_count": 245,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 5,
+  "source_url": "https://sourcelibrary.org/book/6984e84e45b45b78e8d48ab4",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:31:21.112Z",
+  "_hashes": {
+    "ocr": "75d8762f5ed3743b",
+    "translation": "ee73301448d4ac33"
+  }
+}

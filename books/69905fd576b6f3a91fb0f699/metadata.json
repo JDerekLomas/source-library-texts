@@ -1,0 +1,28 @@
+{
+  "id": "69905fd576b6f3a91fb0f699",
+  "title": "The Principles of Psychology, Vol. I",
+  "display_title": "The Principles of Psychology (Vol. I)",
+  "author": "William James",
+  "language": "English",
+  "year": 1890,
+  "published": "Unknown",
+  "pages_count": 711,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/69905fd576b6f3a91fb0f699",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "principlespsych00jamegoog"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:31:18.145Z",
+  "_hashes": {
+    "ocr": "269a0443cecc4a43",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "6958e07cd34d35c8156624c8",
+  "title": "Kalendarium Hortense: The Gardners Almanac",
+  "display_title": "Kalendarium Hortense: The Gardners Almanac",
+  "author": "John Evelyn",
+  "language": "English",
+  "year": 1664,
+  "published": "Unknown",
+  "pages_count": 129,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6958e07cd34d35c8156624c8",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bim_early-english-books-1641-1700_kalendarium-hortense-or_evelyn-john_1666"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:31:22.556Z",
+  "_hashes": {
+    "ocr": "25357c056b2c8c22",
+    "translation": "3f38f31cff09faaa"
+  }
+}

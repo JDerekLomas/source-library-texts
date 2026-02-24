@@ -1,0 +1,28 @@
+{
+  "id": "69905f5e16e44b939ade6568",
+  "title": "Flores Astrologiae",
+  "display_title": "Flores Astrologiae",
+  "author": "Abu Mashar (Albumasar); Johannes Hispalensis (trans.)",
+  "language": "Latin",
+  "year": 1488,
+  "published": "Unknown",
+  "pages_count": 186,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/69905f5e16e44b939ade6568",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "ita-bnc-in2-00001888-001"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:31:18.393Z",
+  "_hashes": {
+    "ocr": "ccc824a226f386c9",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

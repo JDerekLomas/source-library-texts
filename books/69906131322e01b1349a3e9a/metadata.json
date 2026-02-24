@@ -1,0 +1,28 @@
+{
+  "id": "69906131322e01b1349a3e9a",
+  "title": "Practica Inquisitionis Haereticae Pravitatis",
+  "display_title": "Practica Inquisitionis Haereticae Pravitatis",
+  "author": "Bernardus Guidonis",
+  "language": "Latin",
+  "year": 1603,
+  "published": "Unknown",
+  "pages_count": 392,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/69906131322e01b1349a3e9a",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "practicainquisit00bern"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:31:15.199Z",
+  "_hashes": {
+    "ocr": "b45ea735f92ca40b",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

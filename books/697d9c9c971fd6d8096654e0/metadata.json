@@ -1,0 +1,26 @@
+{
+  "id": "697d9c9c971fd6d8096654e0",
+  "title": "Guida alla chimica",
+  "display_title": "Guida alla chimica",
+  "author": "Lancilotti, Carlo",
+  "language": "Italian",
+  "year": 1679,
+  "published": "1679",
+  "pages_count": 571,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 5,
+  "source_url": "https://sourcelibrary.org/book/697d9c9c971fd6d8096654e0",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:31:22.481Z",
+  "_hashes": {
+    "ocr": "fb0e15372d046fec",
+    "translation": "250cb8549f89decc"
+  }
+}

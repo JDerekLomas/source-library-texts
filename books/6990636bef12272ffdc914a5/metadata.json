@@ -1,0 +1,28 @@
+{
+  "id": "6990636bef12272ffdc914a5",
+  "title": "The Soul in Nature, with Supplementary Contributions",
+  "display_title": "The Soul in Nature",
+  "author": "Hans Christian Ørsted",
+  "language": "English",
+  "year": 1852,
+  "published": "Unknown",
+  "pages_count": 520,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/6990636bef12272ffdc914a5",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "soulinnaturewith00rste"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:31:22.888Z",
+  "_hashes": {
+    "ocr": "d59565ec5258f76b",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

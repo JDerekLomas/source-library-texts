@@ -1,0 +1,26 @@
+{
+  "id": "6953ab9577f38f6761bd786e",
+  "title": "Ars Magna (with tables and wheels)",
+  "display_title": "Pal.lat.984",
+  "author": "Ramon Llull",
+  "language": "Latin",
+  "year": null,
+  "published": "Medieval",
+  "pages_count": 780,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6953ab9577f38f6761bd786e",
+  "license": "CC-BY-NC-4.0",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:31:17.681Z",
+  "_hashes": {
+    "ocr": "43937283dc969617",
+    "translation": "226a9b31159f31c4"
+  }
+}

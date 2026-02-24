@@ -1,0 +1,28 @@
+{
+  "id": "695361cd9c494f9f9f042f19",
+  "title": "Ghayat al-Hakim (Arabic MS)",
+  "display_title": "Ghayat al-Hakim (Arabic MS)",
+  "author": "Maslama al-Majriti",
+  "language": "Arabic",
+  "year": 960,
+  "published": "MS",
+  "pages_count": 129,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/695361cd9c494f9f9f042f19",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "20200227_20200227_0309"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:31:22.116Z",
+  "_hashes": {
+    "ocr": "787047813af98e2a",
+    "translation": "68f2c3100a91ea43"
+  }
+}

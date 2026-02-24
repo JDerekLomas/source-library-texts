@@ -1,0 +1,28 @@
+{
+  "id": "6990633fef12272ffdc90a16",
+  "title": "Contra Celsum libri octo (1658 edition)",
+  "display_title": "Contra Celsum libri octo (1658 edition)",
+  "author": "Origen",
+  "language": "Latin",
+  "year": 1658,
+  "published": "Unknown",
+  "pages_count": 701,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/6990633fef12272ffdc90a16",
+  "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bub_gb_DSQTAAAAYAAJ"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:31:23.297Z",
+  "_hashes": {
+    "ocr": "1a22b5387df25ae5",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

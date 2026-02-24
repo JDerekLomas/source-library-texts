@@ -1,0 +1,28 @@
+{
+  "id": "6990612f322e01b1349a3d7f",
+  "title": "A Discourse of the Damned Art of Witchcraft",
+  "display_title": "A Discourse of the Damned Art of Witchcraft",
+  "author": "William Perkins",
+  "language": "English",
+  "year": 1608,
+  "published": "Unknown",
+  "pages_count": 281,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/6990612f322e01b1349a3d7f",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bim_early-english-books-1475-1640_a-discourse-of-the-damne_perkins-william_1608"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:31:16.470Z",
+  "_hashes": {
+    "ocr": "56a5154987c1d20f",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

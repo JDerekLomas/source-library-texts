@@ -1,0 +1,28 @@
+{
+  "id": "6953c87177f38f6761bdc555",
+  "title": "Hermetical and Alchemical Writings of Paracelsus",
+  "display_title": "Hermetical and Alchemical Writings of Paracelsus",
+  "author": "Paracelsus; ed. A.E. Waite",
+  "language": "English",
+  "year": 1894,
+  "published": "1894",
+  "pages_count": 418,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6953c87177f38f6761bdc555",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "hermeticandalch00paragoog"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:31:18.900Z",
+  "_hashes": {
+    "ocr": "37f21b6623a5563a",
+    "translation": "d4e72a854ec54865"
+  }
+}

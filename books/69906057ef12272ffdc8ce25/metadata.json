@@ -1,0 +1,28 @@
+{
+  "id": "69906057ef12272ffdc8ce25",
+  "title": "Tetrabiblos",
+  "display_title": "Tetrabiblos",
+  "author": "Ptolemy; Proclus (paraphrase); J. M. Ashmand (trans.)",
+  "language": "Greek",
+  "year": 1822,
+  "published": "Unknown",
+  "pages_count": 202,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 5,
+  "source_url": "https://sourcelibrary.org/book/69906057ef12272ffdc8ce25",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "ptolemystetrabib00ptol"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:31:20.398Z",
+  "_hashes": {
+    "ocr": "644e0e44d34e3a91",
+    "translation": "ca3619d2917df95b"
+  }
+}

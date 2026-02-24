@@ -1,0 +1,26 @@
+{
+  "id": "6984e84f8e42dbf1a2806f54",
+  "title": "Die Philosophen der drey ersten Jahrhunderte der Kirche",
+  "display_title": "Die Philosophen der drey ersten Jahrhunderte der Kirche",
+  "author": "Nonnotte, Claude François",
+  "language": "German",
+  "year": 1790,
+  "published": "1790",
+  "pages_count": 376,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 7,
+  "source_url": "https://sourcelibrary.org/book/6984e84f8e42dbf1a2806f54",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:31:24.654Z",
+  "_hashes": {
+    "ocr": "30ef40c0d2e0ca8c",
+    "translation": "d3d801495ccfa44b"
+  }
+}

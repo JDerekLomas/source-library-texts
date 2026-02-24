@@ -1,0 +1,28 @@
+{
+  "id": "6955953d7bd6d2cd1d61eeb5",
+  "title": "Swedenborg Works Vol. 15",
+  "display_title": "Swedenborg Works Vol. 15",
+  "author": "Emanuel Swedenborg",
+  "language": "English",
+  "year": 1850,
+  "published": "Unknown",
+  "pages_count": 346,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6955953d7bd6d2cd1d61eeb5",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "works15swed"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:31:20.699Z",
+  "_hashes": {
+    "ocr": "e832958580ce5c75",
+    "translation": "87108888fd800d4e"
+  }
+}

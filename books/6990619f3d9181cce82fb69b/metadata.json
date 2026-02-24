@@ -1,0 +1,28 @@
+{
+  "id": "6990619f3d9181cce82fb69b",
+  "title": "The Most Strange and Admirable Discoverie of the Three Witches of Warboys",
+  "display_title": "The Most Strange and Admirable Discoverie of the Three Witches of Warboys",
+  "author": "Anonymous",
+  "language": "English",
+  "year": 1593,
+  "published": "Unknown",
+  "pages_count": 106,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/6990619f3d9181cce82fb69b",
+  "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "WarboysWitchesTrialAndExecution"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:31:15.569Z",
+  "_hashes": {
+    "ocr": "db6b1391455942bc",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

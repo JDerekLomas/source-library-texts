@@ -1,0 +1,26 @@
+{
+  "id": "6985ca7194b042cd03912166",
+  "title": "[Hebrew: Ze sifra de-adam kadma'ah she natan lo Raziel ha-malach]",
+  "display_title": "[Hebrew: Ze sifra de-adam kadma'ah she natan lo Raziel ha-malach]",
+  "author": "Unknown",
+  "language": "Hebrew",
+  "year": 1701,
+  "published": "1701",
+  "pages_count": 113,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 6,
+  "source_url": "https://sourcelibrary.org/book/6985ca7194b042cd03912166",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:31:19.458Z",
+  "_hashes": {
+    "ocr": "a48059bafe51cb3c",
+    "translation": "6b20a7b8c6c597c6"
+  }
+}

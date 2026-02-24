@@ -1,0 +1,28 @@
+{
+  "id": "6990617d322e01b1349a496f",
+  "title": "A Declaration of Egregious Popish Impostures",
+  "display_title": "A Declaration of Egregious Popish Impostures",
+  "author": "Samuel Harsnett",
+  "language": "English",
+  "year": 1603,
+  "published": "Unknown",
+  "pages_count": 312,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/6990617d322e01b1349a496f",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "declarationofegr00hars"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:31:16.318Z",
+  "_hashes": {
+    "ocr": "4f7cdaa7565cb71b",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

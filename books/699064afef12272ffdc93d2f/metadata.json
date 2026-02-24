@@ -1,0 +1,28 @@
+{
+  "id": "699064afef12272ffdc93d2f",
+  "title": "Compendio di Revelatione",
+  "display_title": "Compendio di Revelatione",
+  "author": "Girolamo Savonarola",
+  "language": "Italian",
+  "year": 1495,
+  "published": "Unknown",
+  "pages_count": 120,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/699064afef12272ffdc93d2f",
+  "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "compendiodirevel00savo"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:31:21.696Z",
+  "_hashes": {
+    "ocr": "13bc3184a687d0ab",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

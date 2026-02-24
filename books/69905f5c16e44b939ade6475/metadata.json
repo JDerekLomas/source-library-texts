@@ -1,0 +1,28 @@
+{
+  "id": "69905f5c16e44b939ade6475",
+  "title": "De magnis coniunctionibus",
+  "display_title": "De magnis coniunctionibus",
+  "author": "Abu Mashar (Albumasar); Johannes Angelus (ed.)",
+  "language": "Latin",
+  "year": 1489,
+  "published": "Unknown",
+  "pages_count": 241,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/69905f5c16e44b939ade6475",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "ita-bnc-in1-00001014-002"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:31:18.477Z",
+  "_hashes": {
+    "ocr": "4aad73247778be53",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

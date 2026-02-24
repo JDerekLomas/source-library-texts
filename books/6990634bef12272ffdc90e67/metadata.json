@@ -1,0 +1,28 @@
+{
+  "id": "6990634bef12272ffdc90e67",
+  "title": "The Geography of Witchcraft",
+  "display_title": "The Geography of Witchcraft",
+  "author": "Montague Summers",
+  "language": "English",
+  "year": 1927,
+  "published": "Unknown",
+  "pages_count": 650,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/6990634bef12272ffdc90e67",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "geographyofwitch0000unse"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:31:23.215Z",
+  "_hashes": {
+    "ocr": "39084ab8b6951332",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

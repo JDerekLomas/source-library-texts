@@ -1,0 +1,28 @@
+{
+  "id": "699060b5322e01b1349a3114",
+  "title": "De Judiciis Astrorum",
+  "display_title": "De Judiciis Astrorum",
+  "author": "Haly Abenragel (Ali ibn Abi al-Rijal)",
+  "language": "Latin",
+  "year": 1485,
+  "published": "Unknown",
+  "pages_count": 332,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/699060b5322e01b1349a3114",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "BSG_OEXV566_2RES"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:31:20.246Z",
+  "_hashes": {
+    "ocr": "1c06914479fc1b9f",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

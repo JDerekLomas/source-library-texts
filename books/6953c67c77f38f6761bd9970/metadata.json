@@ -1,0 +1,28 @@
+{
+  "id": "6953c67c77f38f6761bd9970",
+  "title": "Physica - Hildegard von Bingen",
+  "display_title": "Physica - Hildegard von Bingen",
+  "author": "Hildegard of Bingen",
+  "language": "Latin",
+  "year": 1533,
+  "published": "1533",
+  "pages_count": 679,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6953c67c77f38f6761bd9970",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "physica-hildegard-von-bingen"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:31:17.357Z",
+  "_hashes": {
+    "ocr": "a78c062188ee7c14",
+    "translation": "bcb9ca0f6bc1a96f"
+  }
+}

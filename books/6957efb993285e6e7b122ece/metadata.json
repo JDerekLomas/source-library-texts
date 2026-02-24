@@ -1,0 +1,28 @@
+{
+  "id": "6957efb993285e6e7b122ece",
+  "title": "Phytognomonica",
+  "display_title": "Phytognomonica",
+  "author": "Giambattista della Porta",
+  "language": "Latin",
+  "year": 1588,
+  "published": "1588",
+  "pages_count": 349,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6957efb993285e6e7b122ece",
+  "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bub_gb_rpEOJ68g8vUC"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:31:23.534Z",
+  "_hashes": {
+    "ocr": "5733af8ad75da171",
+    "translation": "01511c43d2bcad0d"
+  }
+}

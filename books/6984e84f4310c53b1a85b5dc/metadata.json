@@ -1,0 +1,26 @@
+{
+  "id": "6984e84f4310c53b1a85b5dc",
+  "title": "Palaeographia sacra. Or discourses on sacred subjects",
+  "display_title": "Palaeographia sacra. Or discourses on sacred subjects",
+  "author": "Stukeley, William",
+  "language": "Latin-English",
+  "year": 1763,
+  "published": "1763",
+  "pages_count": 196,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 1,
+  "source_url": "https://sourcelibrary.org/book/6984e84f4310c53b1a85b5dc",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:31:23.460Z",
+  "_hashes": {
+    "ocr": "a04129c9aced82cb",
+    "translation": "4f1149f8f1c659a4"
+  }
+}

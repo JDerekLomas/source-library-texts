@@ -1,0 +1,26 @@
+{
+  "id": "6984e84eb0a0cf6a811c6398",
+  "title": "Opus mago-cabbalisticum et theosophicum. Darinnen der Ursprung, Natur, Eigenschafften und Gebrauch, des Salzes, Schwefels und Mercurii",
+  "display_title": "Opus mago-cabbalisticum et theosophicum. Darinnen der Ursprung, Natur, Eigenschafften und Gebrauch, des Salzes, Schwefels und Mercurii",
+  "author": "Welling, Georg von",
+  "language": "Latin-German",
+  "year": 1735,
+  "published": "1735",
+  "pages_count": 780,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 5,
+  "source_url": "https://sourcelibrary.org/book/6984e84eb0a0cf6a811c6398",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:31:21.212Z",
+  "_hashes": {
+    "ocr": "7cd002cdbff6417c",
+    "translation": "fd48fdf5f9871dad"
+  }
+}

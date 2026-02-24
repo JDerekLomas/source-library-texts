@@ -1,0 +1,28 @@
+{
+  "id": "6957ef6bcbe1dcad7b76beff",
+  "title": "Hortus Sanitatis",
+  "display_title": "Hortus Sanitatis",
+  "author": "Jacob Meydenbach",
+  "language": "Latin",
+  "year": 1491,
+  "published": "1491",
+  "pages_count": 1544,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6957ef6bcbe1dcad7b76beff",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "McGillLibrary-rbsc_hortus-sanitatis_folioQH41H671497-22226"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:31:15.497Z",
+  "_hashes": {
+    "ocr": "631b459437b3466b",
+    "translation": "ce9bc4c025dd2345"
+  }
+}

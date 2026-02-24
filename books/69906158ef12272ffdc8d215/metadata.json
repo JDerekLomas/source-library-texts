@@ -1,0 +1,28 @@
+{
+  "id": "69906158ef12272ffdc8d215",
+  "title": "Alexicacon, hoc est Opus de Maleficiis ac Morbis Maleficis",
+  "display_title": "Alexicacon, hoc est Opus de Maleficiis ac Morbis Maleficis",
+  "author": "Candido Brognolo",
+  "language": "Latin",
+  "year": 1641,
+  "published": "Unknown",
+  "pages_count": 785,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/69906158ef12272ffdc8d215",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "per_witchcraft-in-europe-and-america_alexicacon-hoc-est-opus-_brognolo-candido-b_1668_12_169"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:31:16.887Z",
+  "_hashes": {
+    "ocr": "7e7f2c12602742d4",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

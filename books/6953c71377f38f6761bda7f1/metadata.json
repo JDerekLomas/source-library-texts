@@ -1,0 +1,28 @@
+{
+  "id": "6953c71377f38f6761bda7f1",
+  "title": "Apuleius Apology and Florida",
+  "display_title": "Apuleius Apology and Florida",
+  "author": "Apuleius / Butler (trans.)",
+  "language": "Latin",
+  "year": 1919,
+  "published": "Unknown",
+  "pages_count": 122,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6953c71377f38f6761bda7f1",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "apuleius-apology-and-florida-butler-1909"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:31:18.796Z",
+  "_hashes": {
+    "ocr": "9a7e9d57b2c02ce8",
+    "translation": "8c2772af1abee7b0"
+  }
+}

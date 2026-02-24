@@ -1,0 +1,137 @@
+--- Page 1 ---
+<lang>None</lang>
+<page-type>blank</page-type>
+
+<image-desc>A solid, dark reddish-brown book cover with a textured cloth or buckram finish. There is no text, ornamentation, or identifying marks visible on the surface.</image-desc>
+
+<vocab></vocab>
+
+--- Page 2 ---
+<lang>English</lang>
+<page-type>blank</page-type>
+<meta>Patterned endpaper from the Library of Congress</meta>
+
+<image-desc>
+The page features a repeating decorative pattern printed in a brownish-gold ink on cream-colored paper. The motif consists of the seal of the Library of Congress — an eagle with outspread wings, a shield on its chest, and a halo of stars — surrounded by the circular text "THE LIBRARY OF CONGRESS". This motif is arranged in a dense, diagonal grid across the entire surface of the page.
+</image-desc>
+
+<vocab>Library of Congress, seal, eagle, pattern, endpaper</vocab>
+
+--- Page 3 ---
+<lang>English</lang>
+<page-type>blank</page-type>
+
+<image-desc>
+This page consists of a repeating diagonal pattern of the Library of Congress seal. Each unit of the pattern includes:
+- A central circular emblem containing a shield with vertical and horizontal stripes, topped by an eagle with outstretched wings. 
+- A circular border around the emblem featuring the text "THE LIBRARY OF CONGRESS" and a series of small stars.
+- Large diagonal text reading "THE LIBRARY OF CONGRESS" that repeats across the page, creating a decorative grid.
+</image-desc>
+
+<vocab>Library of Congress, seal, emblem, pattern</vocab>
+
+--- Page 4 ---
+<lang>None</lang>
+<page-type>blank</page-type>
+
+<vocab></vocab>
+
+--- Page 5 ---
+<lang>English</lang>
+<page-type>title-page</page-type>
+
+<margin>
+<unclear>Wit Aug 27, 1911</unclear>
+</margin>
+
+### THE
+# SOUL IN NATURE,
+
+->WITH<-
+
+### SUPPLEMENTARY CONTRIBUTIONS.
+
+->BY <insert>Ørsted</insert><-
+## HANS CHRISTIAN OERSTED.
+
+->TRANSLATED FROM THE GERMAN<-
+->BY LEONORA AND JOANNA B. HORNER.<-
+
+->LONDON:<-
+### HENRY G. BOHN, YORK STREET, COVENT GARDEN.
+->1852.<-
+
+<vocab>Hans Christian Oersted, The Soul in Nature, German translation, Leonora Horner, Joanna B. Horner, Henry G. Bohn, natural philosophy, 19th century</vocab>
+
+--- Page 6 ---
+<lang>English</lang>
+<page-type>colophon</page-type>
+<meta>Handwritten library shelf mark in the upper center. Significant bleed-through of the title page text from the recto side is visible.</meta>
+
+<insert>
+BD 581
+.O2
+</insert>
+
+->PRINTED BY HARRISON AND SON,<-
+->LONDON GAZETTE OFFICE, ST. MARTIN’S LANE;<-
+->AND<-
+->ORCHARD STREET, WESTMINSTER.<-
+
+<vocab>Harrison and Son, London Gazette Office, St. Martin's Lane, Orchard Street, Westminster</vocab>
+
+--- Page 7 ---
+<lang>en</lang>
+<page-type>dedication</page-type>
+<page-num>171</page-num>
+<header>THE LIFE OF H. C. OERSTED</header>
+<meta>Handwritten page number in top right. Faint running header visible. Handwritten note in left margin.</meta>
+
+<margin>H.B. Aug 29, 1911</margin>
+
+# TO MATHILDE OERSTED.
+
+WE dedicate this translation to you, as a slight token of our friendship, and of our lively recollection of your highly gifted father, whose various philosophical researches you followed with such deep interest. We sincerely hope that we may, in some degree, have fulfilled your father’s earnest wish, that a true representation of his views of Nature should be presented to the English Public.
+
+->L. & J. B. HORNER.<-
+
+January, 1852.
+
+<vocab>Mathilde Oersted, H. C. Oersted, L. Horner, J. B. Horner, translation, philosophical researches, views of Nature</vocab>
+
+--- Page 8 ---
+<lang>English</lang>
+<page-type>blank</page-type>
+<warning>This page is a blank verso. All visible text is mirrored bleed-through from the recto side of the leaf.</warning>
+<meta>The mirrored text from the recto is a dedication to Mathilde Oersted by translators Leonora and Joanna B. Horner, dated January 1852.</meta>
+
+<note>This page is blank. The faint, reversed text visible is bleed-through from the dedication printed on the opposite side of this leaf.</note>
+
+<vocab>Mathilde Oersted, L. Horner, J. B. Horner, dedication, bleed-through</vocab>
+
+--- Page 9 ---
+<lang>English</lang>
+<page-type>text</page-type>
+<sig>b</sig>
+
+# THE LIFE OF H. C. OERSTED.
+
+IN the north of Europe, and especially in Denmark, there appeared at the end of the last century a number of distinguished men, among whom we may mention the names of Oehlenschläger, Thorwaldsen, the Swede Berzelius, the Norwegian Steffens, Rask, the greatest philologist of modern times, who died so prematurely, the philosopher Sibbern, and the two brothers Oersted. The younger brother still lives, and is the most eminent and acute jurist of the north; by his ardent and intellectual study of Kant and Fichte when still a youth, he gained for himself in the meridian of life a distinguished reputation in Germany. The eldest was the physicist, whom we will now consider from a somewhat nearer point of view.
+
+Hans Christian Oersted, the subject of our present memoir, was born in the year 1777, in the little town of Rudkjoking, on the Island of Langeland. His brother was also born there in the following year. Their father was an apothecary, and in narrow circumstances; he had, therefore, but little to spare for the education of his children, even if the small town in which they lived had not been almost entirely deficient in means of instruction. The young Oersteds, however, learned to speak and to understand German from a native of Germany, who lived in their neighbourhood. The eldest taught himself arithmetic from an old school-book, and immediately imparted his newly-acquired knowledge to his brother. Thus the two boys, eager to gain information, passed several years under their parents' roof, educating themselves
+
+<vocab>Hans Christian Oersted, Denmark, Oehlenschläger, Thorwaldsen, Berzelius, Steffens, Rask, Sibbern, Kant, Fichte, Rudkjoking, Langeland, physics, apothecary</vocab>
+
+--- Page 10 ---
+<lang>English</lang>
+<page-type>text</page-type>
+<page-num>viii</page-num>
+<header>THE LIFE OF H. C. OERSTED.</header>
+
+by mutual instruction and communication. At a later period they acquired Latin from the lessons of a private tutor, but Hans Christian, in his twelfth year, was taken into the shop as an assistant to his father, where he soon took the greatest pleasure in the chemical part of his employment; at the same time, however, eagerly devouring all the warlike and historical books which fell into his hands in this retired spot.
+
+The brothers soon discovered that, supported by the happy talents with which nature had endowed them, and by the constant exchange of the knowledge they had separately acquired, they might, with a little additional assistance, pass the examination in such a manner as to enable them to enter the University of Copenhagen; and in this they were successful. In 1794 they went to Copenhagen, where they were at first, indeed, obliged to live very sparingly; but they desired nothing better than to bury themselves in their studies, and they passed the two first examinations with the happiest results. They received some assistance from the Government, and supplied what was deficient by private lessons; but at this point their mental paths divided. Almost forgetful of the surrounding world, and following inclinations which had manifested themselves at an early period of life, the younger brother immersed himself in philosophy and law; the elder in astronomy, physics, and medicine. They still continued, however, to live together, and to impart to each other the results of their different studies, but they entered very little into general society. Rarely had the University beheld two students who, scarcely recognizing or appreciating the pleasures of the exciting days of youth, resigned themselves with such eagerness and delight to an earnest life of study.
+
+Oehlenschläger, whose sister at a later period became the wife of the younger Oersted, was almost the only friend of
+
+<vocab>Hans Christian Oersted, Latin, University of Copenhagen, philosophy, law, astronomy, physics, medicine, Oehlenschläger</vocab>

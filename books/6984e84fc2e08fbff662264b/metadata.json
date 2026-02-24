@@ -1,0 +1,26 @@
+{
+  "id": "6984e84fc2e08fbff662264b",
+  "title": "Philosophie d'amour",
+  "display_title": "Philosophie d'amour",
+  "author": "Abrabanel, Jehuda",
+  "language": "French",
+  "year": 1595,
+  "published": "1595",
+  "pages_count": 906,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 4,
+  "source_url": "https://sourcelibrary.org/book/6984e84fc2e08fbff662264b",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:31:17.177Z",
+  "_hashes": {
+    "ocr": "f2fc22338763dfd6",
+    "translation": "8fdf3caa93bfaf2a"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "69906544726f64800c10ad65",
+  "title": "Hydriotaphia, Urne-Buriall",
+  "display_title": "Hydriotaphia, Urne-Buriall",
+  "author": "Sir Thomas Browne",
+  "language": "English",
+  "year": 1658,
+  "published": "Unknown",
+  "pages_count": 254,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/69906544726f64800c10ad65",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "hydriotaphiaurne00browuoft"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:31:23.878Z",
+  "_hashes": {
+    "ocr": "058e82e42cefac60",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

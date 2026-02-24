@@ -1,0 +1,28 @@
+{
+  "id": "6990648aef12272ffdc93ca5",
+  "title": "Horologium Aeternae Sapientiae (1497 incunabulum)",
+  "display_title": "Horologium Aeternae Sapientiae (1497 incunabulum)",
+  "author": "Henry Suso (Heinrich Seuse)",
+  "language": "Latin",
+  "year": 1497,
+  "published": "Unknown",
+  "pages_count": 136,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/6990648aef12272ffdc93ca5",
+  "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "incipithorologiu00seus"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:31:21.800Z",
+  "_hashes": {
+    "ocr": "31fbf56dd08badb7",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

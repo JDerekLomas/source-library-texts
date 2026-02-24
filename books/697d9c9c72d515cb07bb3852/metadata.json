@@ -1,0 +1,26 @@
+{
+  "id": "697d9c9c72d515cb07bb3852",
+  "title": "Der hermetische Triumph oder der siegende philosophische Stein",
+  "display_title": "Der hermetische Triumph oder der siegende philosophische Stein",
+  "author": "[Limojon de Saint-Didier, Alexandre Toussaint de]",
+  "language": "German",
+  "year": 1765,
+  "published": "1765",
+  "pages_count": 241,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 8,
+  "source_url": "https://sourcelibrary.org/book/697d9c9c72d515cb07bb3852",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:31:23.796Z",
+  "_hashes": {
+    "ocr": "e985c1879cb4bc07",
+    "translation": "68c2cdbac9ffa5d2"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "699061aa3d9181cce82fb7aa",
+  "title": "The Geomancie of Maister Christopher Cattan",
+  "display_title": "The Geomancie of Maister Christopher Cattan",
+  "author": "Christophe de Cattan; Francis Sparry (trans.)",
+  "language": "English",
+  "year": 1591,
+  "published": "Unknown",
+  "pages_count": 275,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/699061aa3d9181cce82fb7aa",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bim_early-english-books-1475-1640_the-geomancie-of-maister_cattan-christophe-de_1608"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:31:20.626Z",
+  "_hashes": {
+    "ocr": "0d6623674379fc26",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

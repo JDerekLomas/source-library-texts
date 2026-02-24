@@ -1,0 +1,28 @@
+{
+  "id": "6990650b3dc2ed39a49f05e2",
+  "title": "Philosophus Autodidactus",
+  "display_title": "Philosophus Autodidactus (Hayy ibn Yaqzan)",
+  "author": "Ibn Tufayl",
+  "language": "Arabic",
+  "year": 1671,
+  "published": "Unknown",
+  "pages_count": 223,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 9,
+  "source_url": "https://sourcelibrary.org/book/6990650b3dc2ed39a49f05e2",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bim_early-english-books-1641-1700_philosophus-autodidactus_abu-bakr-ibn-a-tufail_1671"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:31:24.882Z",
+  "_hashes": {
+    "ocr": "b544b270580dd993",
+    "translation": "3504cbe5ef977ed1"
+  }
+}

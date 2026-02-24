@@ -1,0 +1,26 @@
+{
+  "id": "6953ab8677f38f6761bd7725",
+  "title": "Geber, Hermes & Morienus on Alchemy",
+  "display_title": "Pal.lat.1339",
+  "author": "Geber; Hermes; Morienus; Archelaus",
+  "language": "Latin",
+  "year": null,
+  "published": "Medieval (parchment)",
+  "pages_count": 328,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6953ab8677f38f6761bd7725",
+  "license": "CC-BY-NC-4.0",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:31:17.603Z",
+  "_hashes": {
+    "ocr": "59863bec7707a5e5",
+    "translation": "802918a4a43113f8"
+  }
+}

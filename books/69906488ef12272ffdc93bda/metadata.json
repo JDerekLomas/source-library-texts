@@ -1,0 +1,28 @@
+{
+  "id": "69906488ef12272ffdc93bda",
+  "title": "Les Vrayes Centuries et Propheties (1668 Amsterdam)",
+  "display_title": "Les Vrayes Centuries et Propheties (1668 Amsterdam)",
+  "author": "Michel Nostradamus",
+  "language": "French",
+  "year": 1668,
+  "published": "Unknown",
+  "pages_count": 201,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/69906488ef12272ffdc93bda",
+  "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "NostradamusPropheties1668Amsterdam"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:31:21.878Z",
+  "_hashes": {
+    "ocr": "52c688204bc5c511",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

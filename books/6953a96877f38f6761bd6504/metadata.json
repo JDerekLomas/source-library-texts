@@ -1,0 +1,28 @@
+{
+  "id": "6953a96877f38f6761bd6504",
+  "title": "Leonis Diaconi Historia",
+  "display_title": "Leonis Diaconi Historia",
+  "author": "Leo the Deacon",
+  "language": "Greek",
+  "year": 1828,
+  "published": "1828",
+  "pages_count": 675,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6953a96877f38f6761bd6504",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "leonisdiaconica00liutgoog"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:31:17.522Z",
+  "_hashes": {
+    "ocr": "247cc2c4b2077dc9",
+    "translation": "27be517b881331a6"
+  }
+}

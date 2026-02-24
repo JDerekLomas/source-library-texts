@@ -1,0 +1,28 @@
+{
+  "id": "6990615bef12272ffdc8d528",
+  "title": "Thesaurus Exorcismorum Atque Conjurationum Terribilium (Part 1)",
+  "display_title": "Thesaurus Exorcismorum Atque Conjurationum Terribilium (Part 1)",
+  "author": "Menghi; Visconti; Polidoro et al.",
+  "language": "Latin",
+  "year": 1608,
+  "published": "Unknown",
+  "pages_count": 166,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/6990615bef12272ffdc8d528",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "thesaurus-exorcismorum-atque-conjurationum-terribilium-part-1"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:31:16.799Z",
+  "_hashes": {
+    "ocr": "64e7ee32dc9b4967",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

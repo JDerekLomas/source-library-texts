@@ -1,0 +1,28 @@
+{
+  "id": "6990612b322e01b1349a39cf",
+  "title": "Directorium Inquisitorum",
+  "display_title": "Directorium Inquisitorum",
+  "author": "Nicolas Eymerich; Francisco Pegna (comm.)",
+  "language": "Latin",
+  "year": 1578,
+  "published": "Unknown",
+  "pages_count": 942,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/6990612b322e01b1349a39cf",
+  "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bub_gb_flCg6iBRV6EC"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:31:19.927Z",
+  "_hashes": {
+    "ocr": "f69096acb4d3f200",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

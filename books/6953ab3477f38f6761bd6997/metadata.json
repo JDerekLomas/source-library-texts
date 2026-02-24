@@ -1,0 +1,26 @@
+{
+  "id": "6953ab3477f38f6761bd6997",
+  "title": "De Lapide Philosophorum (Philosophers Stone)",
+  "display_title": "Reg.lat.1266",
+  "author": "John Dee",
+  "language": "German",
+  "year": 1650,
+  "published": "16th-17th century",
+  "pages_count": 282,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6953ab3477f38f6761bd6997",
+  "license": "CC-BY-NC-4.0",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:31:22.808Z",
+  "_hashes": {
+    "ocr": "391e8c0211ac211f",
+    "translation": "060a649364b9485d"
+  }
+}

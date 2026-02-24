@@ -1,0 +1,26 @@
+{
+  "id": "6985ca718cc5870aa46cfd9c",
+  "title": "Poesis tacens, pictura loquens",
+  "display_title": "Poesis tacens, pictura loquens",
+  "author": "Mannasser, Daniel",
+  "language": "Latin",
+  "year": 1630,
+  "published": "1630",
+  "pages_count": 187,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 6,
+  "source_url": "https://sourcelibrary.org/book/6985ca718cc5870aa46cfd9c",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:31:19.293Z",
+  "_hashes": {
+    "ocr": "e5ef5216db49858c",
+    "translation": "370ae8e22ca7f961"
+  }
+}

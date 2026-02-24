@@ -1,0 +1,28 @@
+{
+  "id": "6953c90c77f38f6761bde04b",
+  "title": "Poems from the Divan of Hafiz",
+  "display_title": "Poems from the Divan of Hafiz",
+  "author": "Hafiz / Gertrude Bell",
+  "language": "Persian",
+  "year": 1897,
+  "published": "Unknown",
+  "pages_count": 164,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6953c90c77f38f6761bde04b",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "poemsfromdivanof00hafiiala"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:31:19.202Z",
+  "_hashes": {
+    "ocr": "02e01b20a7bd0fbc",
+    "translation": "ee14961af8e3b96f"
+  }
+}

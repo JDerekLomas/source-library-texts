@@ -1,0 +1,26 @@
+{
+  "id": "6984e84e2e485a023c5f62a8",
+  "title": "La pierre de touche",
+  "display_title": "La pierre de touche",
+  "author": "Bourignon, Antoinette",
+  "language": "French",
+  "year": 1679,
+  "published": "1679",
+  "pages_count": 477,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 9,
+  "source_url": "https://sourcelibrary.org/book/6984e84e2e485a023c5f62a8",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:31:19.115Z",
+  "_hashes": {
+    "ocr": "866f68f74cabe750",
+    "translation": "9f37f64248f473a9"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "69905fd8bb4fb4d3519a60b2",
+  "title": "The Principles of Psychology, Vol. II",
+  "display_title": "The Principles of Psychology (Vol. II)",
+  "author": "William James",
+  "language": "English",
+  "year": 1890,
+  "published": "Unknown",
+  "pages_count": 722,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/69905fd8bb4fb4d3519a60b2",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "principlesofpsyc0002jame"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:31:17.994Z",
+  "_hashes": {
+    "ocr": "52c0121e3c81ee92",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

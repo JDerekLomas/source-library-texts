@@ -1,0 +1,251 @@
+--- Page 1 ---
+<lang>English</lang>
+<page-type>blank</page-type>
+
+<insert>
+WIDENER LIBRARY
+HX JNXZ V
+</insert>
+
+<image-desc>The image shows the front cover of a book, bound in dark brown cloth with a textured, fine-grain finish. A white rectangular library label is affixed to the top-left corner, containing a barcode and printed text. In the bottom-right corner, there is a translucent watermark from the digitization process.</image-desc>
+
+<vocab>Widener Library</vocab>
+
+--- Page 2 ---
+<lang>English</lang>
+<page-type>frontispiece</page-type>
+<meta>Pencil notation at top: C 741. 40</meta>
+
+<insert>
+<image-desc>The Harvard University bookplate. At the top is a shield containing three open books. The top left book is inscribed with "VE", the top right with "RI", and the bottom centered book with "TAS", spelling out the Latin motto "VERITAS". Below the shield, text is printed in a clean serif font.</image-desc>
+
+-> HARVARD <-
+-> COLLEGE <-
+-> LIBRARY <-
+</insert>
+
+<vocab>Harvard College Library, Veritas, bookplate</vocab>
+
+--- Page 3 ---
+<lang>en</lang>
+<page-type>text</page-type>
+<meta>Handwritten shelfmark at top: C 741. 40</meta>
+
+<insert>
+<image-desc>A printed bookplate for the Harvard College Library. It features the Harvard University coat of arms: a shield with three open books. The top left book is inscribed with "VE", the top right with "RI", and the bottom book with "TAS", forming the Latin motto "VERITAS" (Truth). Below the shield, the institutional name is printed in a serif font.</image-desc>
+
+->HARVARD<-
+->COLLEGE<-
+->LIBRARY<-
+</insert>
+
+<vocab>Harvard College Library, Veritas, bookplate, shelfmark</vocab>
+
+--- Page 4 ---
+<lang>English</lang>
+<page-type>text</page-type>
+<meta>Ownership inscriptions on a front flyleaf or title page. The name "Mousley" is written in a large, formal hand and appears to be crossed out with horizontal lines.</meta>
+
+->N<-
+->R. Twopeny Casterton P.<-
+->1802.<-
+
+## Mousley
+
+->Ex: Coll: X<sup>ti</sup>:<-
+->Oxon<-
+
+<vocab>Twopeny, Casterton, Mousley, Oxon, Christ Church</vocab>
+
+--- Page 5 ---
+<lang>und</lang>
+<page-type>blank</page-type>
+<meta>The page is a blank flyleaf or endpaper containing very faint, mostly illegible pencil or ink markings near the top left. There are visible stains and foxing throughout.</meta>
+<warning>faded text, staining</warning>
+
+<unclear>Valentii</unclear>
+
+<vocab>blank page, flyleaf</vocab>
+
+--- Page 6 ---
+<lang>Latin, Greek</lang>
+<page-type>title-page</page-type>
+<page-num>1034</page-num>
+<meta>The title page is printed in both red and black ink. There is a faint institutional stamp at the top (likely University Library) and handwritten shelf marks.</meta>
+
+<insert>Anal: 2d <unclear>fer.</unclear></insert>
+
+# **ΩΡΙΓΕΝΗΣ**
+### ΚΑΤΑ
+# **ΚΕΛΣΟΥ**
+### ἘΝ ΤΟΜΟΙΣ Η.
+->ΤΟΥ ΑΥΤΟΥ<-
+## **ΦΙΛΟΚΑΛΙΑ**.
+
+# **ORIGENIS**
+### CONTRA
+# **CELSUM**
+### LIBRI OCTO.
+->EJUSDEM<-
+## ***PHILOCALIA***.
+
+---
+
+## **GULIELMUS SPENCERUS**,
+### *Cantabrigienfis, Collegii* **Trinitatis** *Socius*,
+->*utriufque operis verſionem recognovit,*<-
+->*&* **ANNOTATIONES** *adjecit.*<-
+
+->*Cum Indice Rerum & Verborum Locupletiffimo.*<-
+
+---
+
+# ***CANTABRIGIÆ***,
+### Excudebat **JOAN. FIELD**, celeberrimæ Academiæ Typographus.
+->Impenſis **GULIELMI MORDEN**, Bibliopolæ.<-
+->**M D C L V I I I.**<-
+
+<vocab>Origen, Celsus, Contra Celsum, Philocalia, Gulielmus Spencerus, William Spencer, Cambridge, Trinity College, Joan Field, 1658, early modern printing</vocab>
+
+--- Page 7 ---
+<lang>en</lang>
+<page-type>text</page-type>
+<warning>This page exhibits severe ghosting (bleed-through) from the printed text on the verso side. The primary legible content on this specific side consists of library stamps and handwritten provenance markings.</warning>
+<meta>Provenance markings and library accession stamps on a flyleaf.</meta>
+
+c 741.40
+
+->Harvard College Library<-
+->Bowie Collection<-
+->Gift of<-
+->Mrs. E. D. Brandegee<-
+->Nov. 9, 1908.<-
+
+->BOUND 23 JAN 1912<-
+
+<margin>
+382
+54-11
+10
+</margin>
+
+<image-desc>The page shows a significant mirrored imprint of the title page from the reverse side. Legible mirrored text includes the Greek and Latin titles for Origen's works: "ΩΡΙΓΕΝΟΥΣ ΦΙΛΟΚΑΛΙΑ" (Origenis Philocalia) and "KATA KEΛΣΟΥ" (Contra Celsum). The name "GULIELMUS SPENCERUS" (William Spencer) and reference to Trinity College, Cambridge ("Cantabrigiensis, Collegii Trinitatis Socius") are also visible in reverse.</image-desc>
+
+<vocab>Harvard College Library, Bowie Collection, Mrs. E. D. Brandegee, Origen, Philocalia, William Spencer, provenance, shelf mark</vocab>
+
+--- Page 8 ---
+<lang>Latin</lang>
+<page-type>dedication</page-type>
+<sig>* 2</sig>
+<meta>catchword: gnitatem</meta>
+
+### Honoratiſsimo Domino,
+# Dom. JOANNI ROOS
+## JOANNIS Illuſtriſsimi Rutlandiae
+### Comitis filio
+### GULIELMUS SPENCERUS.
+
+<image-desc>An ornate woodcut initial 'G' featuring leafy vines and scrolling floral patterns on a hatched background.</image-desc>
+
+GEſtit hic liber ( Honoratiſsime Domine ) non mi-
+nùs *Tuum* ſibi, quàm *Ambroſii* nomen præfigere;
+iſthoc, quod tractat, argumento fretus, fidei *Ca-
+tholicæ*, & *Chriſtianæ* Religionis patrocinio: quæ
+res Tibi una in amore atque delitiis eſt, tantósq;
+& tam mirabiles ardores, quaſi aliquantum pul-
+chrior eſſet *honeſti* facie, excitavit; ut Tibi debi-
+tos honores, & cauſæ honeſtiſſimæ patronum integerrimum detra-
+cturus viderer, niſi hoc *Origenis* volumen fortiori tutelæ, & Illuſtrif-
+ſimo nomini quâ Tuum eſt, commendarem. Dignum planè Tuâ pie-
+tate, dignum & iſthoc, quo Te Deus Opt. Max. collocavit, ordine,
+cauſæ *Chriſtianæ* proſpicere, & *Origenis* cineri atque oſſibus hoc ſola-
+tii dare; ut qui clariſſimum Eccleſiarum lumen caligine & tene-
+bris occultari maluerunt, in lucem revocatum videant, & Tui no-
+minis ſplendore cohoneſtatum. Quàm gratum & jucundum *Chriſti-
+anorum* populo, cùm clara pietatis & protegendæ Religionis exempla
+à ſummis viris petet! cùm purpuratus detritas Literatorum togas non
+erubeſcet! cùm antiquiſſima de ſtirpe prognatus veritatem, omni pro-
+pagine venuſtiorem, à Novatorum fraudibus, & fuco puerili, vindi-
+cabit! Quàm pulchrum ætate primâ hæc bonæ mentis exercitia, &
+germanæ pietatis munera obire, quæ viri declinant, & vix ediſcunt
+ſenes! Quàm glorioſum populares inſanias contemnere, ac ſollicitiùs
+cœlum & beatorum ſedes, quàm latos agros, & auguſta, de quibus
+plerique gloriari ſolent, palatia curare! Quàm beatum ab integritate
+vitæ, & morum innocentia, nè tranſverſum unguem diſcedere, &
+præclarâ rerum geſtarum conſcientiâ ſuſtentari: ut Te quandoque,
+prout ſors hominum communis tulit, è terris migraturum magna ſpes
+foveat: atque cippus levior corpus ornet, animam conſcientia nè
+minimi peccati pondere degravata. Quin hæc omnia ex animi
+ſententia eventura ſint, optimis auſpiciis freti, non deſperamus. Equi-
+dem incredibile eſt, quâ nos lætitiâ fruimur, quantas voluptates per-
+cipimus, quantis gaudiis exultamus; dum pietatem abſque fuco, di-
+
+<vocab>JOANNIS ROOS, Rutlandiae, Origenis, William Spencer, dedication</vocab>
+
+--- Page 9 ---
+<lang>lat</lang>
+<page-type>text</page-type>
+<warning>Heavy bleed-through from the preceding page obscures some of the printed characters.</warning>
+<meta>Catchword is not present on this page. Text bleed is significant.</meta>
+
+gnitatem supercilii nesciam, comitatem morum in summo fastigio, in
+amplissima fortuna, quæ multifariis illecebris undique obsidetur, so-
+brietatem, erga pauperes munificentiam, in studiosos benignitatem,
+in temporibus diræ impietatis conscientiam culpis immunem, erga
+Religionem affectus, à lacrymosa & muliebri pietate, quæ summæ rei
+periculum facit, abhorrentes, virum denique ex ampla virtutum &
+ornamentorum copia concinnatum spectare licet: eò tantùm infeli-
+ces, quòd illustre virtutis exemplar videre possumus, non imitari.
+Cùm hæc corona ( *Domine Honoratißime* ) Tuum caput cingat; cùm
+hæc emigraturæ animæ solatia Tua præcordia voluptate solidâ titil-
+lent: veniet illa *Dies Tibi* magis grata; quàm avaris, sacrilegis, tyran-
+<margin>
+*Hieronymus*
+*in Epist. ad*
+*Heliodorum.*
+</margin>
+nis, ceterísque hominum monstris, formidanda. Tunc ad vocem tubæ
+pavebit terra cum populis, & tu gaudebis. *Judicaturo Domino*, lugubre
+mundus emugiet *Tribus ad Tribum* pectora ferient, potentißimi
+quondam Reges nudo latere palpitabunt, exhibebitur cum prole sua *Venus* :
+tunc ignitus *Jupiter* adducetur; & cum suis stultus *Plato* discipulis:
+*Aristoteli* sua argumenta non proderunt: tunc Tu bonarum literarum
+fautor, defensor fidei *Catholicæ*, adjutor pauperum, pietatis amator
+ardentior, amicus hominum, & dilectus Deo, exultabis, & ridebis,
+& dices; **ECCE CRUCIFIXUS MEUS!** Deus pacis, & mi-
+sericordiarum, *Tibi* ( *Domine Amplißime* ) vitam in terris quietam,
+longam, lætam & innocentem, in cœlis æternam, & perbeatam
+largiatur; Téque restaurandæ pietati, protegendæ Religioni, conso-
+landis miseris, & provehendis studiosis quàm diutißimè servet inco-
+lumem.
+
+->E Coll. Trin. Cantabrig. Anno Salutis MDCLVIII.<-
+
+### CALENDIS JULIIS.
+
+---
+
+# LECTO-
+
+<vocab>Trinity College Cambridge, 1658, Hieronymus, Plato, Aristoteles, Catholicæ, Crucifixus, Lectori</vocab>
+
+--- Page 10 ---
+<lang>la</lang>
+<page-type>preface</page-type>
+<header>LECTORI.</header>
+
+Miraris forsan, & libentissimè audires, quæ nos ad accurandam novam Origenis editionem impulerunt rationes: cùm Literatorum pars magna, & saniores Theologi, quibus cordi est recta in Deum fides, triumphos agerent, si Origeni interitus contigisset, & Metempsychoseos strenuo defensori silentium plusquam Pythagoricum injungeretur; utpote quos non fugit *antiquissimos veritatis Christianæ antistites, simul ac infinitam malum in Ecclesia serperet, idque manaret indies latiùs, censoriâ severitate usos, Hereseos & blasphemiæ notam ejus scriptis inussisse;* mirum, ni plus satis incalefcente cerebro sex millia librorum, quos Origenes, *referente Epiphanio,* in cineres redegissent. Eorum unusquisque lectione Patrum mirificè delectatus, exinde plenissimam rerum Ecclesiasticarum scientiam assecutus est, *jam fulgurare, tonare, & permiscere Ecclesiam, ut Græciam Pericles, valet, atque ex Patrum monumentis testes excitare, qui Origenem Hereseos arguent, & omnium aures recitatione dogmatum impurorum usque ad nauseam pascent, & exsaturabunt:* quos inter primas teneat Hieronymus, qui te ei enuntianti fidem adhibere petit, *à vera & Orthodoxa, si alia tuam mentem occupaverit opinio, discessurum.*
+
+<margin>Hieronym. in Epist. Ad Pammachium & Oceanum de erroribus Origenis.</margin>
+Credite experto: quasi Christianus Christianis loquor: venenata sunt illius dogmata, aliena à Scripturis sanctis, vim Scripturis facientia. *Pergit eruditus Pater, acri, quo solet, judicio Origenis levitatem castigans, nec satis erit ejus somnia narravisse, nisi & Origenistarum ineptias refellat, & vaferrimos tam pravi Dogmatistæ patronos omnium risui & ludibrio propinet.* 
+
+<margin>Hieronymus ibid.</margin>
+Quidam constantiùs, *Quomodo, inquit, damnabimus, quos Synodus Nicæna non tetigit? Quæ enim damnavit Arium, damnâsset utique & Origenem; si illius dogmata reprobâsset.* Scilicet uno medicamine omnes simul morbos debere curare: & idcirco Spiritûs Sancti neganda majestas est, quia in illa Synodo super substantia ejus silentium fuit. De Ario tunc, non de Origene quæstio fuit; de Filio, non de Spiritu Sancto. Confessi sunt quod negabatur: tacuerunt, de quo nemo quærebat. Quanquam latenter Origenem, fontem Arii, percusserunt. Damnantes enim eos, qui Filium de Patris negant esse substantia, illum pariter Ariúmque damnaverunt. 
+
+<margin>Hieronym. Apolog. adversus Ruffinum.</margin>
+*Cùm hæc parvi æstimari sentit, Reges in auxilium vocat, ut quos argumentationes & leniora monita non emendârunt, Imperatorum leges & arma coercerent. Imperatorum quoque scripta, quæ de Alexandria & Ægypto Origenistas pelli jubent, me suggerente dictata sunt:* ut Ro-
+
+<sig>* 3</sig>
+<meta>catchword: manæ</meta>
+
+<vocab>Origenes, Hieronymus, Epiphanius, Synodus Nicæna, Arius, Metempsychoseos, Origenistæ, dogmata</vocab>

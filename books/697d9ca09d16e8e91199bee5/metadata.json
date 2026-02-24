@@ -1,0 +1,26 @@
+{
+  "id": "697d9ca09d16e8e91199bee5",
+  "title": "Het graf der valsche theologie",
+  "display_title": "Het graf der valsche theologie",
+  "author": "Bourignon, Antoinette",
+  "language": "Dutch",
+  "year": 1669,
+  "published": "1669-1672",
+  "pages_count": 802,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 3,
+  "source_url": "https://sourcelibrary.org/book/697d9ca09d16e8e91199bee5",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:31:19.743Z",
+  "_hashes": {
+    "ocr": "cb072a26aa82898d",
+    "translation": "bbdfd815b7ed6fe7"
+  }
+}

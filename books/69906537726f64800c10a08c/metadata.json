@@ -1,0 +1,28 @@
+{
+  "id": "69906537726f64800c10a08c",
+  "title": "Pseudodoxia Epidemica (Vulgar Errors)",
+  "display_title": "Pseudodoxia Epidemica (Vulgar Errors)",
+  "author": "Sir Thomas Browne",
+  "language": "English",
+  "year": 1646,
+  "published": "Unknown",
+  "pages_count": 407,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/69906537726f64800c10a08c",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bim_early-english-books-1641-1700_pseudodoxia-epidemica_browne-sir-thomas_1646"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:31:24.503Z",
+  "_hashes": {
+    "ocr": "7e900dae1088dc59",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

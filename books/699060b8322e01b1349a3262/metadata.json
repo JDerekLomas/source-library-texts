@@ -1,0 +1,28 @@
+{
+  "id": "699060b8322e01b1349a3262",
+  "title": "Astronomicorum Libri (Firmicus, Manilius, Aratus)",
+  "display_title": "Astronomicorum Libri (Firmicus, Manilius, Aratus)",
+  "author": "Julius Firmicus Maternus; Marcus Manilius; Aratus",
+  "language": "Latin",
+  "year": 1499,
+  "published": "Unknown",
+  "pages_count": 764,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/699060b8322e01b1349a3262",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "gri_33125008465672"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:31:20.170Z",
+  "_hashes": {
+    "ocr": "19dfc88ad4fcdd04",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

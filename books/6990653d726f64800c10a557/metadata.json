@@ -1,0 +1,28 @@
+{
+  "id": "6990653d726f64800c10a557",
+  "title": "Natya Shastra of Bharata",
+  "display_title": "Natyashastra",
+  "author": "Bharata Muni",
+  "language": "Sanskrit",
+  "year": 1929,
+  "published": "1929",
+  "pages_count": 422,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/6990653d726f64800c10a557",
+  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "jiwa_natya-shastra-of-bharata-edited-by-batuk-nath-sharma-1929-benaras-chaukhamba"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:31:24.123Z",
+  "_hashes": {
+    "ocr": "5286f7b156e42b5a",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

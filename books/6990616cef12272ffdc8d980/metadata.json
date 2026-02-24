@@ -1,0 +1,28 @@
+{
+  "id": "6990616cef12272ffdc8d980",
+  "title": "De Abstinentia ab Esu Animalium Libri Quatuor",
+  "display_title": "De Abstinentia ab Esu Animalium Libri Quatuor",
+  "author": "Porphyry",
+  "language": "Latin",
+  "year": 1500,
+  "published": "Unknown",
+  "pages_count": 452,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/6990616cef12272ffdc8d980",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "b30416425"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:31:15.381Z",
+  "_hashes": {
+    "ocr": "5e6ba5715c70e446",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

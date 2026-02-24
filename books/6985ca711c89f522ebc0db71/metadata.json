@@ -1,0 +1,26 @@
+{
+  "id": "6985ca711c89f522ebc0db71",
+  "title": "Prophetia anglicana et romana",
+  "display_title": "Prophetia anglicana et romana",
+  "author": "[Geoffrey of Monmouth]",
+  "language": "Latin",
+  "year": 1608,
+  "published": "1608",
+  "pages_count": 375,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 2,
+  "source_url": "https://sourcelibrary.org/book/6985ca711c89f522ebc0db71",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:31:20.862Z",
+  "_hashes": {
+    "ocr": "81c65f4a643943b5",
+    "translation": "3214502c39698c7c"
+  }
+}

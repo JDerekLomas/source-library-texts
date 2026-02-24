@@ -1,0 +1,28 @@
+{
+  "id": "699060328cbcc9a4dba2d836",
+  "title": "Astrologicorum Libri VI",
+  "display_title": "Astrologicorum Libri VI",
+  "author": "Tommaso Campanella",
+  "language": "Latin",
+  "year": 1629,
+  "published": "Unknown",
+  "pages_count": 264,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/699060328cbcc9a4dba2d836",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "astrologicorum-libri-vi_202304"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:31:21.407Z",
+  "_hashes": {
+    "ocr": "8823da3c0ca0ef8a",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

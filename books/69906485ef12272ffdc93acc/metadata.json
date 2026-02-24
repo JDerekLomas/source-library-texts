@@ -1,0 +1,28 @@
+{
+  "id": "69906485ef12272ffdc93acc",
+  "title": "Les Prophéties de M. Michel Nostradamus (1605)",
+  "display_title": "Les Prophéties de M. Michel Nostradamus (1605)",
+  "author": "Michel Nostradamus",
+  "language": "French",
+  "year": 1605,
+  "published": "Unknown",
+  "pages_count": 268,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/69906485ef12272ffdc93acc",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "hin-wel-all-00002530-001"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:31:21.962Z",
+  "_hashes": {
+    "ocr": "1ed5ee519996145d",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

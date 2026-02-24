@@ -1,0 +1,26 @@
+{
+  "id": "6984e84f99e67a12430e0685",
+  "title": "Philadelphia, or brotherly love to the studious in the hermetick art",
+  "display_title": "Philadelphia, or brotherly love to the studious in the hermetick art",
+  "author": "anonymous",
+  "language": "English",
+  "year": 1694,
+  "published": "1694",
+  "pages_count": 116,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 2,
+  "source_url": "https://sourcelibrary.org/book/6984e84f99e67a12430e0685",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:31:23.132Z",
+  "_hashes": {
+    "ocr": "482d03d8d75fc9ac",
+    "translation": "c14112cd8e88aa31"
+  }
+}

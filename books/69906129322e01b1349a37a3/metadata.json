@@ -1,0 +1,28 @@
+{
+  "id": "69906129322e01b1349a37a3",
+  "title": "De Mysteriis Aegyptiorum (Iamblichus, Proclus, Porphyry, Psellus, Hermetica)",
+  "display_title": "De Mysteriis Aegyptiorum (Iamblichus, Proclus, Porphyry, Psellus, Hermetica)",
+  "author": "Iamblichus; Proclus; Porphyry; Psellus; Ficino (ed.)",
+  "language": "Latin",
+  "year": 1497,
+  "published": "Unknown",
+  "pages_count": 554,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 2,
+  "source_url": "https://sourcelibrary.org/book/69906129322e01b1349a37a3",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "hin-wel-all-00001264-001"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:31:20.009Z",
+  "_hashes": {
+    "ocr": "9e4620e390f069f3",
+    "translation": "2a7d59c80f300c61"
+  }
+}

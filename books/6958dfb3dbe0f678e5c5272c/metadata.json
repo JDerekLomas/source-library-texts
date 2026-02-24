@@ -1,0 +1,28 @@
+{
+  "id": "6958dfb3dbe0f678e5c5272c",
+  "title": "Kreuter Buch",
+  "display_title": "Kreuter Buch",
+  "author": "Hieronymus Bock (Tragus)",
+  "language": "German",
+  "year": 1546,
+  "published": "Unknown",
+  "pages_count": 890,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6958dfb3dbe0f678e5c5272c",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "mobot31753000815859"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:31:22.723Z",
+  "_hashes": {
+    "ocr": "c3f61900ad1caf36",
+    "translation": "6476f0eede484853"
+  }
+}

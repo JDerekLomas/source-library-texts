@@ -1,0 +1,28 @@
+{
+  "id": "6958de4ecf7070242ed412dc",
+  "title": "Stirpium adversaria nova",
+  "display_title": "Stirpium adversaria nova",
+  "author": "Matthias de Lobel",
+  "language": "Latin",
+  "year": 1571,
+  "published": "Unknown",
+  "pages_count": 500,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6958de4ecf7070242ed412dc",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "b30333180"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:31:24.424Z",
+  "_hashes": {
+    "ocr": "5b6beceaccb0e330",
+    "translation": "3e6b199a2e04d672"
+  }
+}
