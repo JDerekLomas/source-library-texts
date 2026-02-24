@@ -1,0 +1,28 @@
+{
+  "id": "695575b157e3b773024f206d",
+  "title": "De Musica Libri Septem",
+  "display_title": "De Musica Libri Septem",
+  "author": "Francisco de Salinas",
+  "language": "Latin",
+  "year": 1577,
+  "published": "1577",
+  "pages_count": 478,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/695575b157e3b773024f206d",
+  "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bub_gb_CMdCAAAAcAAJ"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:31:08.860Z",
+  "_hashes": {
+    "ocr": "f9d695c88028bbd6",
+    "translation": "318b8a04f7d73c45"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "698192052d58020467d2dd57",
+  "title": "Medulla alchimiae ... Das ist vom Stein der Weisen. Ein lustig alchymische Epistel",
+  "display_title": "Medulla alchimiae ... Das ist vom Stein der Weisen. Ein lustig alchymische Epistel",
+  "author": "Bacon, Roger|Alexander",
+  "language": "Latin-German",
+  "year": 1608,
+  "published": "1608",
+  "pages_count": 279,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 7,
+  "source_url": "https://sourcelibrary.org/book/698192052d58020467d2dd57",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:31:11.256Z",
+  "_hashes": {
+    "ocr": "aba4b1a3a48e9016",
+    "translation": "9c64c6da35673759"
+  }
+}

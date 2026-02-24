@@ -1,0 +1,28 @@
+{
+  "id": "69906143322e01b1349a441b",
+  "title": "A Dialogue of Witches (De Veneficis, English)",
+  "display_title": "A Dialogue of Witches (De Veneficis, English)",
+  "author": "Lambert Daneau; Thomas Twyne (trans.)",
+  "language": "English",
+  "year": 1575,
+  "published": "Unknown",
+  "pages_count": 162,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/69906143322e01b1349a441b",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "per_witchcraft-in-europe-and-america_a-dialogue-of-witches-in_daneau-lambert-ca-153_1575_243"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:31:12.608Z",
+  "_hashes": {
+    "ocr": "39d23e36849b08cf",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "695435031479a63c1108a988",
+  "title": "Lectures on the Philosophy of History",
+  "display_title": "Lectures on the Philosophy of History",
+  "author": "Georg Wilhelm Friedrich Hegel",
+  "language": "English",
+  "year": 1837,
+  "published": "Unknown",
+  "pages_count": 560,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/695435031479a63c1108a988",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "lecturesonphilos00hegerich"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:31:05.276Z",
+  "_hashes": {
+    "ocr": "2b74a136ffee8236",
+    "translation": "6d0891b5874352d0"
+  }
+}

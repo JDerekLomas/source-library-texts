@@ -1,0 +1,28 @@
+{
+  "id": "695573b6f63a7571091724f2",
+  "title": "Harmonika Stoicheia (Greek with English)",
+  "display_title": "Harmonika Stoicheia (Greek with English)",
+  "author": "Aristoxenus; H.S. Macran (ed.)",
+  "language": "Greek/English",
+  "year": 1902,
+  "published": "1902",
+  "pages_count": 461,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/695573b6f63a7571091724f2",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "aristoxenoyarmo00macrgoog"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:31:06.567Z",
+  "_hashes": {
+    "ocr": "c659d0889d7806b2",
+    "translation": "e4afae1858826f9a"
+  }
+}

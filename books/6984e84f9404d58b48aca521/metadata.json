@@ -1,0 +1,26 @@
+{
+  "id": "6984e84f9404d58b48aca521",
+  "title": "Operum philosophicorum omnium libri 54",
+  "display_title": "Operum philosophicorum omnium libri 54",
+  "author": "Plotinus",
+  "language": "Latin",
+  "year": 1580,
+  "published": "1580",
+  "pages_count": 996,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 6,
+  "source_url": "https://sourcelibrary.org/book/6984e84f9404d58b48aca521",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:31:14.059Z",
+  "_hashes": {
+    "ocr": "a11b0f0ade3dfda2",
+    "translation": "691d450f5a84d5d7"
+  }
+}

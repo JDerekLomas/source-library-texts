@@ -1,0 +1,28 @@
+{
+  "id": "695592cd7bd6d2cd1d61b759",
+  "title": "Leibniz The Monadology and Other Philosophical Writings",
+  "display_title": "Leibniz The Monadology and Other Philosophical Writings",
+  "author": "Gottfried Wilhelm Leibniz",
+  "language": "English",
+  "year": 1898,
+  "published": "1898",
+  "pages_count": 462,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/695592cd7bd6d2cd1d61b759",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "monadologyandot00leibgoog"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:31:09.834Z",
+  "_hashes": {
+    "ocr": "b801760615787f90",
+    "translation": "bd9721ee3fdc52ad"
+  }
+}

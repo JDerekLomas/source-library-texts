@@ -1,0 +1,28 @@
+{
+  "id": "695594307bd6d2cd1d61ccaa",
+  "title": "Epictetus Enchiridion and Cebes Tabula (1660)",
+  "display_title": "Epictetus Enchiridion and Cebes Tabula (1660)",
+  "author": "Epictetus / Cebes",
+  "language": "English",
+  "year": 1651,
+  "published": "1651",
+  "pages_count": 392,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/695594307bd6d2cd1d61ccaa",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "ned-kbn-all-00003458-001"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:31:10.084Z",
+  "_hashes": {
+    "ocr": "2d651a19359ee097",
+    "translation": "e70430713b5bf8cb"
+  }
+}

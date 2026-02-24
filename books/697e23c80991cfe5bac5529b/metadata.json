@@ -1,0 +1,26 @@
+{
+  "id": "697e23c80991cfe5bac5529b",
+  "title": "Historia ecclesiastica. Dat is Warachtighe beschrijvinge aller ouder Christelijcker kercken",
+  "display_title": "Historia ecclesiastica. Dat is Warachtighe beschrijvinge aller ouder Christelijcker kercken",
+  "author": "Eusebius Caesariensis",
+  "language": "Latin-Dutch",
+  "year": 1613,
+  "published": "1613",
+  "pages_count": 739,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 5,
+  "source_url": "https://sourcelibrary.org/book/697e23c80991cfe5bac5529b",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:31:14.317Z",
+  "_hashes": {
+    "ocr": "7b440495e32a6eab",
+    "translation": "b410a12630cf26c4"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "69819209c73493ba18172b35",
+  "title": "Magia philosophica. 320 oracula Chaldaica. Asclepius. Poemander. Sermo sacer. Clavis. Sermo ad filium. Sermo ad Asclepium. Minerva mundi & alia miscellanea",
+  "display_title": "Magia philosophica. 320 oracula Chaldaica. Asclepius. Poemander. Sermo sacer. Clavis. Sermo ad filium. Sermo ad Asclepium. Minerva mundi & alia miscellanea",
+  "author": "Patrizi, Francesco|Zoroaster|Hermes Trismegistus",
+  "language": "Latin",
+  "year": 1593,
+  "published": "1593",
+  "pages_count": 685,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 5,
+  "source_url": "https://sourcelibrary.org/book/69819209c73493ba18172b35",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:31:07.477Z",
+  "_hashes": {
+    "ocr": "053fc8266f91b85c",
+    "translation": "b585dc7c5f3c1664"
+  }
+}

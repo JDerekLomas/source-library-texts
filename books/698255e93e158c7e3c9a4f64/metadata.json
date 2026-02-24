@@ -1,0 +1,26 @@
+{
+  "id": "698255e93e158c7e3c9a4f64",
+  "title": "Microcosmische Vorspiele",
+  "display_title": "Microcosmische Vorspiele",
+  "author": "[Dippel, Johann Konrad]",
+  "language": "German",
+  "year": 1733,
+  "published": "1733",
+  "pages_count": 151,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 4,
+  "source_url": "https://sourcelibrary.org/book/698255e93e158c7e3c9a4f64",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:31:06.925Z",
+  "_hashes": {
+    "ocr": "e06c7654f7b43313",
+    "translation": "59932e29ebc5cd21"
+  }
+}

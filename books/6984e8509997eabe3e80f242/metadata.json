@@ -1,0 +1,26 @@
+{
+  "id": "6984e8509997eabe3e80f242",
+  "title": "Ein philosophischer und chemischer Tractat: genannt Der kleine Baur",
+  "display_title": "Ein philosophischer und chemischer Tractat: genannt Der kleine Baur",
+  "author": "[Grasshoff, Johann]",
+  "language": "German",
+  "year": 1619,
+  "published": "1619",
+  "pages_count": 448,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/6984e8509997eabe3e80f242",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:31:13.432Z",
+  "_hashes": {
+    "ocr": "bf7015121deba99e",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

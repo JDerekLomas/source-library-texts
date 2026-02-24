@@ -1,0 +1,26 @@
+{
+  "id": "698192057ae81699f5f20d48",
+  "title": "Mémoires historiques sur les Templiers",
+  "display_title": "Mémoires historiques sur les Templiers",
+  "author": "[Grouvelle, Philippe]",
+  "language": "French",
+  "year": 1805,
+  "published": "1805",
+  "pages_count": 471,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 3,
+  "source_url": "https://sourcelibrary.org/book/698192057ae81699f5f20d48",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:31:11.112Z",
+  "_hashes": {
+    "ocr": "419522faa31b0874",
+    "translation": "46a94079f4780d34"
+  }
+}

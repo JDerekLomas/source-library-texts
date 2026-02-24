@@ -1,0 +1,28 @@
+{
+  "id": "695685cebe7c607c5f03be4e",
+  "title": "Opera Mathematica Vol 2 - De Algebra Tractatus",
+  "display_title": "Opera Mathematica Vol 2 - De Algebra Tractatus",
+  "author": "John Wallis",
+  "language": "Latin",
+  "year": 1693,
+  "published": "1693",
+  "pages_count": 907,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/695685cebe7c607c5f03be4e",
+  "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bub_gb_39szm1zaXXAC"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:31:07.036Z",
+  "_hashes": {
+    "ocr": "c6658052eaaabff4",
+    "translation": "0734e45b14608ef4"
+  }
+}

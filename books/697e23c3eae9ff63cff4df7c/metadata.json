@@ -1,0 +1,26 @@
+{
+  "id": "697e23c3eae9ff63cff4df7c",
+  "title": "Jezus en de ziel",
+  "display_title": "Jezus en de ziel",
+  "author": "Luyken, Jan",
+  "language": "Dutch",
+  "year": 1771,
+  "published": "1771",
+  "pages_count": 232,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/697e23c3eae9ff63cff4df7c",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:31:09.752Z",
+  "_hashes": {
+    "ocr": "92ef8ade6f05dda9",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

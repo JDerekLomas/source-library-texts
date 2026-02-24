@@ -1,0 +1,28 @@
+{
+  "id": "69557472f63a7571091733f1",
+  "title": "Expositio rerum mathematicarum ad legendum Platonem utilium",
+  "display_title": "Expositio rerum mathematicarum ad legendum Platonem utilium",
+  "author": "Theon of Smyrna; Eduard Hiller (ed.)",
+  "language": "Greek/Latin",
+  "year": 1878,
+  "published": "1878",
+  "pages_count": 242,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/69557472f63a7571091733f1",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "theonissmyrnaei00theogoog"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:31:12.452Z",
+  "_hashes": {
+    "ocr": "dae9caed8638be11",
+    "translation": "ebc9b202ac1a0bd0"
+  }
+}

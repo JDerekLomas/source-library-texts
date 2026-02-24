@@ -1,0 +1,28 @@
+{
+  "id": "69557dd157e3b773024f4041",
+  "title": "Declaración de Instrumentos Musicales",
+  "display_title": "Declaración de Instrumentos Musicales",
+  "author": "Juan Bermudo",
+  "language": "Spanish",
+  "year": 1555,
+  "published": "1555",
+  "pages_count": 258,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/69557dd157e3b773024f4041",
+  "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "Juan-Bermudo-Declaracion-1555"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:31:08.941Z",
+  "_hashes": {
+    "ocr": "c8ca1717d7a412f1",
+    "translation": "3b399b6685e59dfb"
+  }
+}

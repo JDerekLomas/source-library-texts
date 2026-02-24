@@ -1,0 +1,26 @@
+{
+  "id": "6981920750e2d1bcc98aeee3",
+  "title": "Mémoires",
+  "display_title": "Mémoires",
+  "author": "Mornay, Philippe de",
+  "language": "French",
+  "year": 1652,
+  "published": "1652",
+  "pages_count": 1457,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 5,
+  "source_url": "https://sourcelibrary.org/book/6981920750e2d1bcc98aeee3",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:31:11.028Z",
+  "_hashes": {
+    "ocr": "742038cf6deb28a7",
+    "translation": "50373c4392491a4b"
+  }
+}

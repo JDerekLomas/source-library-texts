@@ -1,0 +1,28 @@
+{
+  "id": "695435001479a63c1108a7ed",
+  "title": "Hegels Philosophy of Right",
+  "display_title": "Hegels Philosophy of Right",
+  "author": "Georg Wilhelm Friedrich Hegel",
+  "language": "English",
+  "year": 1821,
+  "published": "Unknown",
+  "pages_count": 410,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/695435001479a63c1108a7ed",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "cu31924014578979"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:31:04.745Z",
+  "_hashes": {
+    "ocr": "c3b73badf0f09721",
+    "translation": "357de46858cb98e4"
+  }
+}

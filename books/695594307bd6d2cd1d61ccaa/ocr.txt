@@ -1,0 +1,133 @@
+--- Page 1 ---
+<lang>None</lang>
+<page-type>blank</page-type>
+
+<image-desc>The image shows the front cover of a bound manuscript. The cover is decorated with marbled paper featuring a "stone" pattern in shades of brown and tan, separated by veins of deep blue and red. The spine is bound in a dark brown, textured leather or cloth.</image-desc>
+
+<vocab>marbled paper, bookbinding, stone pattern</vocab>
+
+--- Page 2 ---
+<lang>Latin</lang>
+<page-type>text</page-type>
+<meta>Image of the book spine. Institutional metadata: Koninklijke Bibliotheek, Den Haag, shelf mark 234 M 11. Digitized by ProQuest LLC (Early European Books).</meta>
+
+<image-desc>A photograph showing the spine of a leather-bound book laid horizontally. The spine is dark brown and features gold-tooled decorative horizontal bands. There are three light-colored oval paper labels and one section with gold-stamped text. From left to right: an oval label containing the number "234"; a section stamped in gold with the title "Epicteti Enchiridion."; an oval label containing the letter "M"; and an oval label containing the number "11". A small piece of white string is visible at the top right edge of the book.</image-desc>
+
+---
+
+->234<-
+
+---
+
+->**Epicteti**<-
+->**Enchiridion.**<-
+
+---
+
+->M<-
+
+---
+
+->11<-
+
+<vocab>Epictetus, Enchiridion, shelf mark</vocab>
+
+--- Page 3 ---
+<lang>None</lang>
+<page-type>blank</page-type>
+<meta>Shelfmark: 234 M 11</meta>
+
+<image-desc>
+The image shows the front cover of a historical book. The cover is decorated with marbled paper, featuring a pattern of large, irregular brown and tan spots or "cells" bordered by dark blue and thin red veins. The spine is bound in a dark brown material with a coarse, pebbled texture, possibly leather or cloth. 
+</image-desc>
+
+<vocab>marbled paper, bookbinding, shelfmark</vocab>
+
+--- Page 4 ---
+<lang>English</lang>
+<page-type>illustration</page-type>
+<meta>Early European Books, Copyright © 2011 ProQuest LLC. Images reproduced by courtesy of Koninklijke Bibliotheek, Den Haag. 234 M 11</meta>
+
+<image-desc>A photograph showing the fore-edge of a closed, thick manuscript volume. The text block consists of numerous pages with darkened, slightly irregular edges. The binding is visible at the top and bottom, appearing to be a dark material with traces of marbled paper in red and blue. A small white paper slip or bookmark is tucked between the pages and protrudes from the top edge of the volume.</image-desc>
+
+<vocab>binding, fore-edge, manuscript volume, marbling</vocab>
+
+--- Page 5 ---
+<lang>en</lang>
+<page-type>illustration</page-type>
+<meta>View of the fore-edge of a closed volume.</meta>
+
+<image-desc>A photograph of the fore-edge of a closed historical book. The edges of the paper block are brown and aged. A light-colored, woven fabric ribbon bookmark extends from between the pages near the top of the volume. The inner boards, visible at the edges, are covered with marbled paper featuring a pattern of blue, red, and tan swirls. The photograph is set against a black background which contains printed metadata at the bottom.</image-desc>
+
+Early European Books, Copyright © 2011 ProQuest LLC.
+Images reproduced by courtesy of Koninklijke Bibliotheek, Den Haag.
+234 M 11
+
+<vocab>fore-edge, ribbon bookmark, marbled paper, shelfmark</vocab>
+
+--- Page 6 ---
+<lang>en</lang>
+<page-type>illustration</page-type>
+<meta>Shelfmark: 234 M 11. Institutional metadata: Early European Books, Copyright © 2011 ProQuest LLC. Images reproduced by courtesy of Koninklijke Bibliotheek, Den Haag.</meta>
+
+<image-desc>A photographic view of the fore-edge of a closed historical book. The pages are tightly packed, showing a darkened, aged appearance. The edges of the binding's boards are visible, featuring a marbled pattern with hints of blue and red. A small, light-colored material tab or bookmark fragment is visible extending from the top edge of the book block.</image-desc>
+
+<vocab>fore-edge, book block, marbled covers, shelfmark</vocab>
+
+--- Page 7 ---
+<lang>Dutch</lang>
+<page-type>frontispiece</page-type>
+<meta>image quality: good; catchword: none</meta>
+
+<image-desc>A woodcut or engraved emblem centered on the upper portion of a flyleaf. The emblem is contained within a square frame and consists of a circular border with quatrefoil indentations. Around the perimeter of the circle is the Dutch motto "DOOR STERKHEID FIER". Inside the quatrefoil, letters are arranged in a cross formation: a central "S" is flanked horizontally by the letter groups "DF" and "FD", and vertically by "F" and "D" both above and below. Small decorative floral rosettes fill the interstices between the letters and the border.</image-desc>
+
+->DOOR<-
+->STERK FIER<-
+->HEID<-
+
+->D<-
+->F<-
+->DF S FD<-
+->F<-
+->D<-
+
+<vocab>Door sterkheid fier, emblem, motto, quatrefoil, printer's mark</vocab>
+
+--- Page 8 ---
+<lang>None</lang>
+<page-type>blank</page-type>
+<meta>This page is a blank flyleaf or endpaper. Modern digital metadata is visible at the bottom of the frame.</meta>
+<vocab></vocab>
+
+--- Page 9 ---
+<lang>lat</lang>
+<page-type>blank</page-type>
+<warning>This page is a blank flyleaf with a very faint pencil inscription at the top.</warning>
+
+<insert>234 M 11</insert>
+
+<vocab>shelfmark</vocab>
+
+--- Page 10 ---
+<lang>Latin</lang>
+<page-type>title-page</page-type>
+<warning>Bleed-through from the reverse side of the leaf is visible behind the primary text.</warning>
+<meta>Shelfmark "KW 234 M 11" and sequence number "122" are handwritten in pencil/ink by a later hand.</meta>
+
+<insert>KW 234 M 11</insert>
+
+# EPICTETI
+## ENCHIRIDION,
+
+->Et<-
+
+# CEBETIS
+## TABULA,
+
+->*Graecè, & Latinè.*<-
+
+---
+
+<insert>122</insert>
+
+<vocab>Epictetus, Enchiridion, Cebes, Tabula Cebetis, Stoicism, Greek, Latin</vocab>

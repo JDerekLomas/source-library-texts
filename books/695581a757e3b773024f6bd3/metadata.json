@@ -1,0 +1,28 @@
+{
+  "id": "695581a757e3b773024f6bd3",
+  "title": "The Text of the Mabinogion (Red Book of Hergest)",
+  "display_title": "The Text of the Mabinogion (Red Book of Hergest)",
+  "author": "John Rhys & J.G. Evans (eds.)",
+  "language": "Welsh/English",
+  "year": 1887,
+  "published": "1887",
+  "pages_count": 402,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/695581a757e3b773024f6bd3",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "textofmabinogion00rhysiala"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:31:09.445Z",
+  "_hashes": {
+    "ocr": "09e974cc38b1659d",
+    "translation": "eeb3b8b1eea4085f"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "6958ea82d3a8928334815cbb",
+  "title": "The Sushruta Samhita Vol. 3 (English translation)",
+  "display_title": "The Sushruta Samhita Vol. 3 (English translation)",
+  "author": "Sushruta",
+  "language": "English",
+  "year": 1918,
+  "published": "Unknown",
+  "pages_count": 658,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6958ea82d3a8928334815cbb",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "in.ernet.dli.2015.37242"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:31:11.636Z",
+  "_hashes": {
+    "ocr": "68a33183f59d3588",
+    "translation": "3dda7bf7cc007d00"
+  }
+}

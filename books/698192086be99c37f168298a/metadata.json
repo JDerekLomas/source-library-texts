@@ -1,0 +1,26 @@
+{
+  "id": "698192086be99c37f168298a",
+  "title": "Memorialia, benevolentium honori, amori et condolentiae data",
+  "display_title": "Memorialia, benevolentium honori, amori et condolentiae data",
+  "author": "Andreae, Johann Valentin",
+  "language": "Latin",
+  "year": 1619,
+  "published": "1619",
+  "pages_count": 195,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 3,
+  "source_url": "https://sourcelibrary.org/book/698192086be99c37f168298a",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:31:06.221Z",
+  "_hashes": {
+    "ocr": "cf263c9b691a70a9",
+    "translation": "d1cba24da786c39e"
+  }
+}

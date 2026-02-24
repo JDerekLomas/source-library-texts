@@ -1,0 +1,26 @@
+{
+  "id": "69819207379d5ce6675ec02e",
+  "title": "[Greek: Magikon] oder das geheime System",
+  "display_title": "[Greek: Magikon] oder das geheime System",
+  "author": "[Kleuker, Johann Friedrich]",
+  "language": "Greek-German",
+  "year": 1784,
+  "published": "1784",
+  "pages_count": 410,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 6,
+  "source_url": "https://sourcelibrary.org/book/69819207379d5ce6675ec02e",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:31:10.870Z",
+  "_hashes": {
+    "ocr": "e932d139b0522824",
+    "translation": "197c52672cf6515b"
+  }
+}

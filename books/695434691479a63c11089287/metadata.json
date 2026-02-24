@@ -1,0 +1,28 @@
+{
+  "id": "695434691479a63c11089287",
+  "title": "Kritik der reinen Vernunft (German)",
+  "display_title": "Kritik der reinen Vernunft (German)",
+  "author": "Immanuel Kant",
+  "language": "German",
+  "year": 1796,
+  "published": "1796",
+  "pages_count": 890,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/695434691479a63c11089287",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "kritikderreinenv19kant"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:31:08.074Z",
+  "_hashes": {
+    "ocr": "b15a21cdb4615564",
+    "translation": "3eddadef3828175a"
+  }
+}

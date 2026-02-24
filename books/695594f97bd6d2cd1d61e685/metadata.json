@@ -1,0 +1,28 @@
+{
+  "id": "695594f97bd6d2cd1d61e685",
+  "title": "Swedenborg Arcana Caelestia Vol. IV (1750)",
+  "display_title": "Swedenborg Arcana Caelestia Vol. IV (1750)",
+  "author": "Emanuel Swedenborg",
+  "language": "English",
+  "year": 1750,
+  "published": "Unknown",
+  "pages_count": 572,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/695594f97bd6d2cd1d61e685",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "arcanacaelestiaq04sweduoft"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:31:12.529Z",
+  "_hashes": {
+    "ocr": "d7091b7c004eefa4",
+    "translation": "807c03e66975742e"
+  }
+}

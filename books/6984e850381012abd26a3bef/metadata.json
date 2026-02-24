@@ -1,0 +1,26 @@
+{
+  "id": "6984e850381012abd26a3bef",
+  "title": "Pansophiae diatyposis, ichnographica & orthographica delineatione",
+  "display_title": "Pansophiae diatyposis, ichnographica & orthographica delineatione",
+  "author": "Comenius, Jan Amos",
+  "language": "Latin",
+  "year": 1645,
+  "published": "1645",
+  "pages_count": 234,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6984e850381012abd26a3bef",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:31:13.003Z",
+  "_hashes": {
+    "ocr": "9297ef52ad40843f",
+    "translation": "10bda377868f2d05"
+  }
+}

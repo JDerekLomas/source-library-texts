@@ -1,0 +1,26 @@
+{
+  "id": "698192073b43a3cfc842cc4f",
+  "title": "Manichaeismus ante Manichaeos, et in Christianismo redivivus",
+  "display_title": "Manichaeismus ante Manichaeos, et in Christianismo redivivus",
+  "author": "Wolf, Johann Christoph",
+  "language": "Latin",
+  "year": 1707,
+  "published": "1707",
+  "pages_count": 577,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 3,
+  "source_url": "https://sourcelibrary.org/book/698192073b43a3cfc842cc4f",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:31:10.792Z",
+  "_hashes": {
+    "ocr": "0fe9e93452a66dba",
+    "translation": "363e9295148af234"
+  }
+}

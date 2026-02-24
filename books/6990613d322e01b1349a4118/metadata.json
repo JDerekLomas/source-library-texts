@@ -1,0 +1,28 @@
+{
+  "id": "6990613d322e01b1349a4118",
+  "title": "Tractatus de Officio Sanctissimae Inquisitionis",
+  "display_title": "Tractatus de Officio Sanctissimae Inquisitionis",
+  "author": "Cesare Carena",
+  "language": "Latin",
+  "year": 1639,
+  "published": "Unknown",
+  "pages_count": 602,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/6990613d322e01b1349a4118",
+  "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bub_gb_ERubGuOMvsUC"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:31:12.766Z",
+  "_hashes": {
+    "ocr": "fac411fb4ef69ebf",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

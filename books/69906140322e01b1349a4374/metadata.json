@@ -1,0 +1,28 @@
+{
+  "id": "69906140322e01b1349a4374",
+  "title": "A Dialogue Concerning Witches and Witchcraftes",
+  "display_title": "A Dialogue Concerning Witches and Witchcraftes",
+  "author": "George Gifford",
+  "language": "English",
+  "year": 1587,
+  "published": "Unknown",
+  "pages_count": 165,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/69906140322e01b1349a4374",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "adialogueconcer00giffgoog"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:31:12.681Z",
+  "_hashes": {
+    "ocr": "9beff30b798edf86",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

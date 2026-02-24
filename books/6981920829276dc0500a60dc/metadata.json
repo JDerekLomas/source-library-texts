@@ -1,0 +1,26 @@
+{
+  "id": "6981920829276dc0500a60dc",
+  "title": "Lumen novum phosphoris accensum",
+  "display_title": "Lumen novum phosphoris accensum",
+  "author": "Cohausen, Johann Heinrich",
+  "language": "Latin",
+  "year": 1717,
+  "published": "1717",
+  "pages_count": 402,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 2,
+  "source_url": "https://sourcelibrary.org/book/6981920829276dc0500a60dc",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:31:07.907Z",
+  "_hashes": {
+    "ocr": "39463a190cfcea29",
+    "translation": "3f0940252a888295"
+  }
+}

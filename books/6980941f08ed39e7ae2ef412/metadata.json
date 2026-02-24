@@ -1,0 +1,26 @@
+{
+  "id": "6980941f08ed39e7ae2ef412",
+  "title": "Lexicon alchemiae",
+  "display_title": "Lexicon alchemiae",
+  "author": "Ruland sr., Martin",
+  "language": "Latin",
+  "year": 1612,
+  "published": "1612",
+  "pages_count": 660,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 3,
+  "source_url": "https://sourcelibrary.org/book/6980941f08ed39e7ae2ef412",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:31:12.197Z",
+  "_hashes": {
+    "ocr": "31e99d7add7564d6",
+    "translation": "f4814a14b538e80d"
+  }
+}

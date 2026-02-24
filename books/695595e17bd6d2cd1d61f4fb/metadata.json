@@ -1,0 +1,28 @@
+{
+  "id": "695595e17bd6d2cd1d61f4fb",
+  "title": "The Posthumous Works of Robert Hooke",
+  "display_title": "The Posthumous Works of Robert Hooke",
+  "author": "Robert Hooke",
+  "language": "English",
+  "year": 1705,
+  "published": "Unknown",
+  "pages_count": 594,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/695595e17bd6d2cd1d61f4fb",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "b30454621_0001"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:31:10.550Z",
+  "_hashes": {
+    "ocr": "17841275df24d93e",
+    "translation": "5c00ff20d50555a3"
+  }
+}

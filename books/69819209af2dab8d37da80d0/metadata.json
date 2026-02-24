@@ -1,0 +1,26 @@
+{
+  "id": "69819209af2dab8d37da80d0",
+  "title": "The man-mouse taken in a trap",
+  "display_title": "The man-mouse taken in a trap",
+  "author": "[Vaughan, Thomas]",
+  "language": "English",
+  "year": 1650,
+  "published": "1650",
+  "pages_count": 137,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 9,
+  "source_url": "https://sourcelibrary.org/book/69819209af2dab8d37da80d0",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:31:07.187Z",
+  "_hashes": {
+    "ocr": "e4a023a17ea72ec3",
+    "translation": "4082304a49f887a0"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "695591d17bd6d2cd1d619a70",
+  "title": "Betser ba-Midbar (Kabbalistic Commentary on Torah)",
+  "display_title": "Betser ba-Midbar (Kabbalistic Commentary on Torah)",
+  "author": "Raphael Ben Zion",
+  "language": "Hebrew",
+  "year": 1675,
+  "published": "Unknown",
+  "pages_count": 172,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/695591d17bd6d2cd1d619a70",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "ldpd_13432731_000"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:31:08.775Z",
+  "_hashes": {
+    "ocr": "079e1338152d17f7",
+    "translation": "1dc123321dce5d0f"
+  }
+}

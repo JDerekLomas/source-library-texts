@@ -1,0 +1,26 @@
+{
+  "id": "6984e84f6aad85d382376f57",
+  "title": "Ormuzd's lebendiges Wort an Zoroaster oder Zend-Avesta",
+  "display_title": "Ormuzd's lebendiges Wort an Zoroaster oder Zend-Avesta",
+  "author": "Eckard, Friedrich Simon",
+  "language": "German",
+  "year": 1789,
+  "published": "1789",
+  "pages_count": 460,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 6,
+  "source_url": "https://sourcelibrary.org/book/6984e84f6aad85d382376f57",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:31:13.246Z",
+  "_hashes": {
+    "ocr": "a0de973c1c98f740",
+    "translation": "ade15f55f4b19b7e"
+  }
+}

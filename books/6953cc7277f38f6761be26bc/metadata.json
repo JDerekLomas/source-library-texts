@@ -1,0 +1,28 @@
+{
+  "id": "6953cc7277f38f6761be26bc",
+  "title": "Decretals with Glossa Ordinaria - Medieval Canon Law Manuscript",
+  "display_title": "Decretals with Glossa Ordinaria - Medieval Canon Law Manuscript",
+  "author": "Bernardo da Parma",
+  "language": "Latin",
+  "year": 1245,
+  "published": "Unknown",
+  "pages_count": 603,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 9,
+  "source_url": "https://sourcelibrary.org/book/6953cc7277f38f6761be26bc",
+  "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "lewis_e_077"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:31:11.541Z",
+  "_hashes": {
+    "ocr": "bcc6333cc51888fd",
+    "translation": "82253b567f3de1a9"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "6954346f1479a63c11089855",
+  "title": "Kritik der praktischen Vernunft (German)",
+  "display_title": "Kritik der praktischen Vernunft (German)",
+  "author": "Immanuel Kant",
+  "language": "German",
+  "year": 1788,
+  "published": "Unknown",
+  "pages_count": 288,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6954346f1479a63c11089855",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "kritikderpraktis00kantuoft"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:31:08.622Z",
+  "_hashes": {
+    "ocr": "fcfdc9606e5c4a20",
+    "translation": "cdd04d5d0c80db7e"
+  }
+}

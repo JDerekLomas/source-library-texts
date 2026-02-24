@@ -1,0 +1,26 @@
+{
+  "id": "6985ca6c9d0a51f652882357",
+  "title": "Portae lucis",
+  "display_title": "Portae lucis",
+  "author": "Gikatilla, Joseph ben Abraham",
+  "language": "Latin",
+  "year": 1516,
+  "published": "1516",
+  "pages_count": 143,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 2,
+  "source_url": "https://sourcelibrary.org/book/6985ca6c9d0a51f652882357",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:31:13.808Z",
+  "_hashes": {
+    "ocr": "2aec87042b70525a",
+    "translation": "6f1ff3d510be2d2d"
+  }
+}

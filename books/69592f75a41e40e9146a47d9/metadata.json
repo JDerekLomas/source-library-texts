@@ -1,0 +1,28 @@
+{
+  "id": "69592f75a41e40e9146a47d9",
+  "title": "Recueil de traités sur les sciences occultes",
+  "display_title": "Recueil de traités sur les sciences occultes",
+  "author": "Various",
+  "language": "French",
+  "year": null,
+  "published": "Unknown",
+  "pages_count": 361,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/69592f75a41e40e9146a47d9",
+  "license": "https://gallica.bnf.fr/html/und/conditions-dutilisation-des-contenus-de-gallica",
+  "doi": null,
+  "external_ids": {
+    "gallica": "btv1b525057178"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:31:04.916Z",
+  "_hashes": {
+    "ocr": "0ca11c5dd9cd98df",
+    "translation": "dc2a3b874edb80d1"
+  }
+}

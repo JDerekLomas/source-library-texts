@@ -1,0 +1,26 @@
+{
+  "id": "6985ca74e3007574295ea81b",
+  "title": "Prozess gegen den Orden der Tempelherren. Aus den Originalacten der päpstlichen Commission in Frankreich",
+  "display_title": "Prozess gegen den Orden der Tempelherren. Aus den Originalacten der päpstlichen Commission in Frankreich",
+  "author": "Moldenhawer, Daniel Gotthilf",
+  "language": "German",
+  "year": 1792,
+  "published": "1792",
+  "pages_count": 726,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 1,
+  "source_url": "https://sourcelibrary.org/book/6985ca74e3007574295ea81b",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:31:08.272Z",
+  "_hashes": {
+    "ocr": "f82e2fae54c76433",
+    "translation": "5213dfd2b546d6e5"
+  }
+}

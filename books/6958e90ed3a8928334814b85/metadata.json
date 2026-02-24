@@ -1,0 +1,28 @@
+{
+  "id": "6958e90ed3a8928334814b85",
+  "title": "Plantarum umbelliferarum distributio nova",
+  "display_title": "Plantarum umbelliferarum distributio nova",
+  "author": "Robert Morison",
+  "language": "Latin",
+  "year": 1672,
+  "published": "Unknown",
+  "pages_count": 147,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6958e90ed3a8928334814b85",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bim_early-english-books-1641-1700_plantarum-umbelliferarum_morison-robert_1672"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:31:10.309Z",
+  "_hashes": {
+    "ocr": "70b4a7115314e060",
+    "translation": "826a32d97b0fd39a"
+  }
+}

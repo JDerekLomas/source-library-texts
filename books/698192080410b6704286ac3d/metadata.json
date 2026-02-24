@@ -1,0 +1,26 @@
+{
+  "id": "698192080410b6704286ac3d",
+  "title": "La lumiere sortant par soy même des tenebres",
+  "display_title": "La lumiere sortant par soy même des tenebres",
+  "author": "[Crasselame, Marc-Antonio]",
+  "language": "French",
+  "year": 1687,
+  "published": "1687",
+  "pages_count": 374,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 8,
+  "source_url": "https://sourcelibrary.org/book/698192080410b6704286ac3d",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:31:07.988Z",
+  "_hashes": {
+    "ocr": "827b3940c71b7508",
+    "translation": "3b2f8cc4786671d5"
+  }
+}

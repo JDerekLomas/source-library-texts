@@ -1,0 +1,28 @@
+{
+  "id": "695688febe7c607c5f03c1da",
+  "title": "Theorica Musicae",
+  "display_title": "Theorica Musicae",
+  "author": "Franchinus Gaffurius",
+  "language": "Latin",
+  "year": 1492,
+  "published": "Unknown",
+  "pages_count": 252,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/695688febe7c607c5f03c1da",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "ita-bnc-in1-00000533-001"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:31:07.115Z",
+  "_hashes": {
+    "ocr": "308fa6b066db82fd",
+    "translation": "a4cb900fe4a24c88"
+  }
+}

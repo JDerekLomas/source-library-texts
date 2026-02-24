@@ -1,0 +1,26 @@
+{
+  "id": "698192058fb5ea37caee24ba",
+  "title": "Magia adamica or the antiquitie of magic",
+  "display_title": "Magia adamica or the antiquitie of magic",
+  "author": "[Vaughan, Thomas]",
+  "language": "Latin-English",
+  "year": 1650,
+  "published": "1650",
+  "pages_count": 193,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 5,
+  "source_url": "https://sourcelibrary.org/book/698192058fb5ea37caee24ba",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:31:11.183Z",
+  "_hashes": {
+    "ocr": "8ad8dee1ca975a77",
+    "translation": "9482e34cb95caec7"
+  }
+}

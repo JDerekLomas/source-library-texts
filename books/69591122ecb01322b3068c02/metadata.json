@@ -1,0 +1,28 @@
+{
+  "id": "69591122ecb01322b3068c02",
+  "title": "Compendio de la historia natural y civil de Chile",
+  "display_title": "Compendio de la historia natural y civil de Chile",
+  "author": "Giovanni Ignazio Molina",
+  "language": "Spanish",
+  "year": 1788,
+  "published": "Unknown",
+  "pages_count": 450,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/69591122ecb01322b3068c02",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "compendiodelahis01moli_0"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:31:06.303Z",
+  "_hashes": {
+    "ocr": "c7f9a956ca5d3e37",
+    "translation": "59802073776a590a"
+  }
+}

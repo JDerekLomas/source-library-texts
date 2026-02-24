@@ -1,0 +1,26 @@
+{
+  "id": "6984e850369805a0caaf5adf",
+  "title": "Origine des découvertes attribuées aux modernes",
+  "display_title": "Origine des découvertes attribuées aux modernes",
+  "author": "Dutens, Louis",
+  "language": "French",
+  "year": 1796,
+  "published": "1796",
+  "pages_count": 398,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 3,
+  "source_url": "https://sourcelibrary.org/book/6984e850369805a0caaf5adf",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:31:13.718Z",
+  "_hashes": {
+    "ocr": "7293fcbe093b3b30",
+    "translation": "ec6b7f8033991213"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "69568901be7c607c5f03c2f1",
+  "title": "Harmonie Universelle",
+  "display_title": "Harmonie Universelle",
+  "author": "Marin Mersenne",
+  "language": "French",
+  "year": 1636,
+  "published": "1636",
+  "pages_count": 132,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/69568901be7c607c5f03c2f1",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "imslp-universelle-mersenne-marin"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:31:07.743Z",
+  "_hashes": {
+    "ocr": "6c089b69296f759e",
+    "translation": "bfcf58bcf5a45310"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "6954354d1479a63c1108c210",
+  "title": "Psychologia empirica",
+  "display_title": "Psychologia empirica",
+  "author": "Christian Wolff",
+  "language": "Latin",
+  "year": 1732,
+  "published": "Unknown",
+  "pages_count": 1482,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6954354d1479a63c1108c210",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "b30506098"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:31:05.600Z",
+  "_hashes": {
+    "ocr": "ccec5c83aaa02423",
+    "translation": "5d54072b58f8f276"
+  }
+}

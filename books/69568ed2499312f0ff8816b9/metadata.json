@@ -1,0 +1,28 @@
+{
+  "id": "69568ed2499312f0ff8816b9",
+  "title": "On the Principles of Political Economy and Taxation",
+  "display_title": "On the Principles of Political Economy and Taxation",
+  "author": "David Ricardo",
+  "language": "English",
+  "year": 1817,
+  "published": "1817",
+  "pages_count": 530,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/69568ed2499312f0ff8816b9",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "onprinciplesofpo0000rica"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:31:05.797Z",
+  "_hashes": {
+    "ocr": "06bd88e0cfcf1fd8",
+    "translation": "44e03c9ba5e52e9c"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "69592f31a41e40e9146a451a",
+  "title": "De chiromantia",
+  "display_title": "De chiromantia",
+  "author": "Anonymous",
+  "language": "Latin",
+  "year": 1550,
+  "published": "1550",
+  "pages_count": 188,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/69592f31a41e40e9146a451a",
+  "license": "https://rightsstatements.org/vocab/NoC-NC/1.0/",
+  "doi": null,
+  "external_ids": {
+    "mdz": "bsb10172852"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:31:12.380Z",
+  "_hashes": {
+    "ocr": "f20f5a5bf3148ae8",
+    "translation": "8810ca4ad7128112"
+  }
+}

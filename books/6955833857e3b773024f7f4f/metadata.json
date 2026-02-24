@@ -1,0 +1,28 @@
+{
+  "id": "6955833857e3b773024f7f4f",
+  "title": "The Four Ancient Books of Wales (Cymric Poems of the Sixth Century)",
+  "display_title": "The Four Ancient Books of Wales (Cymric Poems of the Sixth Century)",
+  "author": "William Forbes Skene",
+  "language": "English",
+  "year": 1868,
+  "published": "Unknown",
+  "pages_count": 538,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6955833857e3b773024f7f4f",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "fourancientbook00skengoog"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:31:09.638Z",
+  "_hashes": {
+    "ocr": "19f03edc3222378b",
+    "translation": "2baa3484c52c4c8d"
+  }
+}

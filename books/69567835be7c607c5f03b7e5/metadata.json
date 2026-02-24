@@ -1,0 +1,28 @@
+{
+  "id": "69567835be7c607c5f03b7e5",
+  "title": "Philosophical Transactions of the Royal Society, Vol 16 (1686-1687)",
+  "display_title": "Philosophical Transactions of the Royal Society, Vol 16 (1686-1687)",
+  "author": "Royal Society of London",
+  "language": "English",
+  "year": 1686,
+  "published": "Unknown",
+  "pages_count": 510,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/69567835be7c607c5f03b7e5",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "Philosophicaltr16Roya"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:31:07.666Z",
+  "_hashes": {
+    "ocr": "fe42aa455bc8212d",
+    "translation": "f0863630683796a7"
+  }
+}

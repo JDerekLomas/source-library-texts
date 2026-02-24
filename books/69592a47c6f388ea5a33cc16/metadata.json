@@ -1,0 +1,28 @@
+{
+  "id": "69592a47c6f388ea5a33cc16",
+  "title": "Les subtilles fables de Ésope",
+  "display_title": "Les subtilles fables de Ésope",
+  "author": "Aesop / Frère Julien",
+  "language": "French",
+  "year": 1488,
+  "published": "Unknown",
+  "pages_count": 156,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/69592a47c6f388ea5a33cc16",
+  "license": "https://gallica.bnf.fr/html/und/conditions-dutilisation-des-contenus-de-gallica",
+  "doi": null,
+  "external_ids": {
+    "gallica": "bpt6k70105d"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:31:09.025Z",
+  "_hashes": {
+    "ocr": "16587f78eaa53fb7",
+    "translation": "e09fd7619d0c7e17"
+  }
+}

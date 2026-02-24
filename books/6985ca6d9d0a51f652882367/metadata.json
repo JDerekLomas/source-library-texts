@@ -1,0 +1,26 @@
+{
+  "id": "6985ca6d9d0a51f652882367",
+  "title": "Pyrotechny asserted and illustrated",
+  "display_title": "Pyrotechny asserted and illustrated",
+  "author": "Starkey, George",
+  "language": "English",
+  "year": 1658,
+  "published": "1658",
+  "pages_count": 212,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 3,
+  "source_url": "https://sourcelibrary.org/book/6985ca6d9d0a51f652882367",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:31:14.411Z",
+  "_hashes": {
+    "ocr": "51f8a3bfee291a48",
+    "translation": "b44022d017fb795c"
+  }
+}

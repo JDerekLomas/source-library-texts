@@ -1,0 +1,26 @@
+{
+  "id": "698192088a34efe8087e9ae2",
+  "title": "Lust-hof des gemoeds",
+  "display_title": "Lust-hof des gemoeds",
+  "author": "Schabaelje, Jan Philipsz",
+  "language": "Dutch",
+  "year": 1744,
+  "published": "1744",
+  "pages_count": 638,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 4,
+  "source_url": "https://sourcelibrary.org/book/698192088a34efe8087e9ae2",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:31:07.826Z",
+  "_hashes": {
+    "ocr": "f0eb632c54ea64da",
+    "translation": "74f795005e16dc7d"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "695594407bd6d2cd1d61d2cf",
+  "title": "Boethius Consolation de la Philosophie (1650)",
+  "display_title": "Boethius Consolation de la Philosophie (1650)",
+  "author": "Boethius / Ceriziers",
+  "language": "French",
+  "year": 1650,
+  "published": "Unknown",
+  "pages_count": 245,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/695594407bd6d2cd1d61d2cf",
+  "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "ConsolationDeLaPhilosophie1650"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:31:10.389Z",
+  "_hashes": {
+    "ocr": "7542b7bc04237aef",
+    "translation": "d92a348d5aa3cfb8"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "695435671479a63c1108c8ed",
+  "title": "Vernunftige Gedancken von der Menschen Thun und Lassen (Deutsche Ethik)",
+  "display_title": "Vernunftige Gedancken von der Menschen Thun und Lassen (Deutsche Ethik)",
+  "author": "Christian Wolff",
+  "language": "German",
+  "year": 1753,
+  "published": "1753",
+  "pages_count": 795,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/695435671479a63c1108c8ed",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "10042268bsb"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:31:05.704Z",
+  "_hashes": {
+    "ocr": "2f57359ba5011f12",
+    "translation": "eb8a7fa817fa1dbb"
+  }
+}

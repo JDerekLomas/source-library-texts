@@ -1,0 +1,28 @@
+{
+  "id": "6955801357e3b773024f528d",
+  "title": "The Library of Photius (English)",
+  "display_title": "The Library of Photius (English)",
+  "author": "Photius I; J.H. Freese (trans.)",
+  "language": "English",
+  "year": 1920,
+  "published": "1920",
+  "pages_count": 276,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6955801357e3b773024f528d",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "libraryp01phot"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:31:09.098Z",
+  "_hashes": {
+    "ocr": "7fc8a47b541f82d7",
+    "translation": "b4206acd77322e28"
+  }
+}

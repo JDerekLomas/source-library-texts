@@ -1,0 +1,28 @@
+{
+  "id": "69592fbea41e40e9146a4a14",
+  "title": "Traités dalchimie de Morienus Romanus",
+  "display_title": "Traités dalchimie de Morienus Romanus",
+  "author": "Morienus",
+  "language": "Latin",
+  "year": 1559,
+  "published": "1559",
+  "pages_count": 184,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/69592fbea41e40e9146a4a14",
+  "license": "https://gallica.bnf.fr/html/und/conditions-dutilisation-des-contenus-de-gallica",
+  "doi": null,
+  "external_ids": {
+    "gallica": "btv1b9066500j"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:31:07.389Z",
+  "_hashes": {
+    "ocr": "9fc59aef31d3dee9",
+    "translation": "35436a82d7f58ede"
+  }
+}

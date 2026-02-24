@@ -1,0 +1,28 @@
+{
+  "id": "695573e1f63a7571091729db",
+  "title": "Practica Musicae",
+  "display_title": "Practica Musicae",
+  "author": "Franchinus Gaffurius",
+  "language": "Latin",
+  "year": 1512,
+  "published": "1512",
+  "pages_count": 174,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/695573e1f63a7571091729db",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "practicamusicaev00gaff"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:31:11.415Z",
+  "_hashes": {
+    "ocr": "8c51b5d3bd8203ab",
+    "translation": "ae3ac04e605e0ae8"
+  }
+}

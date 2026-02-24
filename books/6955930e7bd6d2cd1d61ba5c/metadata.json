@@ -1,0 +1,28 @@
+{
+  "id": "6955930e7bd6d2cd1d61ba5c",
+  "title": "Splendor Solis (Solomon Trismosin)",
+  "display_title": "Splendor Solis (Solomon Trismosin)",
+  "author": "Solomon Trismosin",
+  "language": "French",
+  "year": 1925,
+  "published": "1925",
+  "pages_count": 166,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6955930e7bd6d2cd1d61ba5c",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "splendorsolisalc00tris"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:31:10.709Z",
+  "_hashes": {
+    "ocr": "8e14637803534ffb",
+    "translation": "372ec2338da59a4a"
+  }
+}

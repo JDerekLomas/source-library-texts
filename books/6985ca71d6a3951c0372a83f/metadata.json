@@ -1,0 +1,26 @@
+{
+  "id": "6985ca71d6a3951c0372a83f",
+  "title": "Progymnasmata alchemiae, sive Problemata chymica",
+  "display_title": "Progymnasmata alchemiae, sive Problemata chymica",
+  "author": "Ruland jr., Martin",
+  "language": "Latin",
+  "year": 1607,
+  "published": "1607",
+  "pages_count": 430,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 5,
+  "source_url": "https://sourcelibrary.org/book/6985ca71d6a3951c0372a83f",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:31:14.799Z",
+  "_hashes": {
+    "ocr": "48776cc4c6edfd83",
+    "translation": "616be70942370867"
+  }
+}
