@@ -1,0 +1,28 @@
+{
+  "id": "696925854fa3b04c6de8712e",
+  "title": "Neoplatonic Translations (Ficino for Cavalcanti, c.1475)",
+  "display_title": "Neoplatonic Translations (Ficino for Cavalcanti, c.1475)",
+  "author": "Marsilio Ficino (translator)",
+  "language": "Latin",
+  "year": 1475,
+  "published": "c.1475",
+  "pages_count": 199,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 3,
+  "source_url": "https://sourcelibrary.org/book/696925854fa3b04c6de8712e",
+  "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "ljs438"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:26.205Z",
+  "_hashes": {
+    "ocr": "e584e0ea63786d39",
+    "translation": "80f8278559bd3741"
+  }
+}

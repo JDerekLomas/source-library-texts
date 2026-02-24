@@ -1,0 +1,26 @@
+{
+  "id": "6991d89d8c1030b12444c140",
+  "title": "Chakra and Nadi in the Shaiva Tradition",
+  "display_title": "Chakra and Nadi in the Shaiva Tradition",
+  "author": "Unknown",
+  "language": "Hindi",
+  "year": null,
+  "published": "undated",
+  "pages_count": 10,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6991d89d8c1030b12444c140",
+  "license": "pdm",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:32.270Z",
+  "_hashes": {
+    "ocr": "bf14361aee380900",
+    "translation": "b8e515c61be1941e"
+  }
+}

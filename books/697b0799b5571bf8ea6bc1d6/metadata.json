@@ -1,0 +1,26 @@
+{
+  "id": "697b0799b5571bf8ea6bc1d6",
+  "title": "Elias mit der Lehre des Talmuds und der Rabbinen",
+  "display_title": "Elias mit der Lehre des Talmuds und der Rabbinen",
+  "author": "[Müller, Johann Daniel]",
+  "language": "German",
+  "year": 1772,
+  "published": "1772",
+  "pages_count": 299,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 9,
+  "source_url": "https://sourcelibrary.org/book/697b0799b5571bf8ea6bc1d6",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:27.774Z",
+  "_hashes": {
+    "ocr": "e5c4b5a35a2c77bc",
+    "translation": "4a12c4878b3c00b7"
+  }
+}

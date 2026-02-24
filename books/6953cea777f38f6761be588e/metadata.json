@@ -1,0 +1,28 @@
+{
+  "id": "6953cea777f38f6761be588e",
+  "title": "Plato Statesman & Philebus",
+  "display_title": "Plato Statesman & Philebus",
+  "author": "Plato",
+  "language": "Greek",
+  "year": 1925,
+  "published": "1925",
+  "pages_count": 482,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6953cea777f38f6761be588e",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "platoiiistatesma0003plat"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:28.892Z",
+  "_hashes": {
+    "ocr": "d2be2716a1f88f67",
+    "translation": "a945b8dd82b43360"
+  }
+}

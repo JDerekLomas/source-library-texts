@@ -1,0 +1,28 @@
+{
+  "id": "6953c75f77f38f6761bdb27a",
+  "title": "The Mathnawi of Rumi Vol. 3-4 (Nicholson)",
+  "display_title": "The Mathnawi of Rumi Vol. 3-4 (Nicholson)",
+  "author": "Jalal al-Din Rumi / R.A. Nicholson",
+  "language": "Persian",
+  "year": 1929,
+  "published": "Unknown",
+  "pages_count": 384,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6953c75f77f38f6761bdb27a",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "RUMITheMathnawiVol3Vol4"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:31.008Z",
+  "_hashes": {
+    "ocr": "8657a6201ec9d084",
+    "translation": "2bf5c468fb8a7d9a"
+  }
+}

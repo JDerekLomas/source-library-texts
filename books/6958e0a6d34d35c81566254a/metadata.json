@@ -1,0 +1,28 @@
+{
+  "id": "6958e0a6d34d35c81566254a",
+  "title": "Aromatum et simplicium medicamentorum apud Indos nascentium historia",
+  "display_title": "Aromatum et simplicium medicamentorum apud Indos nascentium historia",
+  "author": "Garcia de Orta (trans. Clusius)",
+  "language": "Latin",
+  "year": 1567,
+  "published": "1567",
+  "pages_count": 111,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 2,
+  "source_url": "https://sourcelibrary.org/book/6958e0a6d34d35c81566254a",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "hin-wel-all-00002451-001"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:28.968Z",
+  "_hashes": {
+    "ocr": "81cad2f048ddcbde",
+    "translation": "cb27f0d98cadb598"
+  }
+}

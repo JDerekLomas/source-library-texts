@@ -1,0 +1,28 @@
+{
+  "id": "6953c9c777f38f6761bdefa4",
+  "title": "The Creed of Half Japan - Japanese Buddhism",
+  "display_title": "The Creed of Half Japan - Japanese Buddhism",
+  "author": "Arthur Lloyd",
+  "language": "English",
+  "year": 1911,
+  "published": "Unknown",
+  "pages_count": 420,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6953c9c777f38f6761bdefa4",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "creedofhalfjapan00lloyrich"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:30.485Z",
+  "_hashes": {
+    "ocr": "e3b20af39a647b4a",
+    "translation": "d27cc85b680d6680"
+  }
+}

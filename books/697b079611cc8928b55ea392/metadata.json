@@ -1,0 +1,26 @@
+{
+  "id": "697b079611cc8928b55ea392",
+  "title": "Explicatio centri in trigono centri per somnium, das ist: Erläuterung dess hermetischen güldenen Fluss",
+  "display_title": "Explicatio centri in trigono centri per somnium, das ist: Erläuterung dess hermetischen güldenen Fluss",
+  "author": "Monte Hermetis, Johann de",
+  "language": "Latin-German",
+  "year": 1680,
+  "published": "1680",
+  "pages_count": 256,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 3,
+  "source_url": "https://sourcelibrary.org/book/697b079611cc8928b55ea392",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:28.121Z",
+  "_hashes": {
+    "ocr": "c538e1dc18c55fba",
+    "translation": "bd68f771e0913472"
+  }
+}

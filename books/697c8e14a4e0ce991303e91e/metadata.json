@@ -1,0 +1,26 @@
+{
+  "id": "697c8e14a4e0ce991303e91e",
+  "title": "Filum Ariadnes Das ist: Neuer chymischer Discurs",
+  "display_title": "Filum Ariadnes Das ist: Neuer chymischer Discurs",
+  "author": "[Reibehand, Christoph]",
+  "language": "Latin-German",
+  "year": 1690,
+  "published": "1690",
+  "pages_count": 179,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 2,
+  "source_url": "https://sourcelibrary.org/book/697c8e14a4e0ce991303e91e",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:31.431Z",
+  "_hashes": {
+    "ocr": "cb10bee34b39ac1d",
+    "translation": "e96d765b8c2b4f64"
+  }
+}

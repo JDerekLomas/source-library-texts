@@ -1,0 +1,28 @@
+{
+  "id": "6953ce6377f38f6761be3e63",
+  "title": "Seneca Epistulae Morales Vol. 1 (Letters 1-40)",
+  "display_title": "Seneca Epistulae Morales Vol. 1 (Letters 1-40)",
+  "author": "Seneca",
+  "language": "Latin",
+  "year": 1512,
+  "published": "1512",
+  "pages_count": 704,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6953ce6377f38f6761be3e63",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "L075SenecaTheYoungerIVEpistulaeMoralesI140"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:28.436Z",
+  "_hashes": {
+    "ocr": "428a3bc2142919a8",
+    "translation": "332416de509690d1"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "6958e0d49659a6529d5776b9",
+  "title": "Historia plantarum Vol. III",
+  "display_title": "Historia plantarum Vol. III",
+  "author": "John Ray",
+  "language": "Latin",
+  "year": 1704,
+  "published": "Unknown",
+  "pages_count": 976,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 4,
+  "source_url": "https://sourcelibrary.org/book/6958e0d49659a6529d5776b9",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "Historiaplantart3RayJ"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:28.338Z",
+  "_hashes": {
+    "ocr": "79a1bbe08da59127",
+    "translation": "65e5572f3a0ec39f"
+  }
+}

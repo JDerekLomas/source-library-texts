@@ -1,0 +1,28 @@
+{
+  "id": "6955d3d528a09ca65927eb28",
+  "title": "Experiments and Considerations Touching Colours",
+  "display_title": "Experiments and Considerations Touching Colours",
+  "author": "Robert Boyle",
+  "language": "English",
+  "year": 1665,
+  "published": "1665",
+  "pages_count": 474,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6955d3d528a09ca65927eb28",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "b30334214"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:31.253Z",
+  "_hashes": {
+    "ocr": "77a15e27c4965e24",
+    "translation": "75700109271f4cb9"
+  }
+}

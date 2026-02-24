@@ -1,0 +1,28 @@
+{
+  "id": "6955dc6c8407b7c9ae213b80",
+  "title": "Principia Philosophiae",
+  "display_title": "Principia Philosophiae",
+  "author": "René Descartes",
+  "language": "Latin",
+  "year": 1644,
+  "published": "1644",
+  "pages_count": 692,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6955dc6c8407b7c9ae213b80",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "ita-bnc-mag-00001403-001"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:31.343Z",
+  "_hashes": {
+    "ocr": "bd3b54061a390411",
+    "translation": "aeb461a352a9339b"
+  }
+}

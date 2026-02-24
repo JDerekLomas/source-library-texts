@@ -1,0 +1,26 @@
+{
+  "id": "697b079a265ada318df401ce",
+  "title": "Die erste Liebe. Das ist: wahre Abbildung der ersten Christen",
+  "display_title": "Die erste Liebe. Das ist: wahre Abbildung der ersten Christen",
+  "author": "Arnold, Gottfried",
+  "language": "German",
+  "year": 1732,
+  "published": "1732",
+  "pages_count": 1533,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 4,
+  "source_url": "https://sourcelibrary.org/book/697b079a265ada318df401ce",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:27.217Z",
+  "_hashes": {
+    "ocr": "f7d6250804bc23b9",
+    "translation": "6a9d2fa2441e184e"
+  }
+}

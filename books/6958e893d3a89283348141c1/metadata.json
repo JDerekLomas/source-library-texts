@@ -1,0 +1,28 @@
+{
+  "id": "6958e893d3a89283348141c1",
+  "title": "De natura stirpium libri tres",
+  "display_title": "De natura stirpium libri tres",
+  "author": "Jean Ruel (Ruellius)",
+  "language": "Latin",
+  "year": 1543,
+  "published": "1543",
+  "pages_count": 736,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6958e893d3a89283348141c1",
+  "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bub_gb_79YwkLVu4agC"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:30.051Z",
+  "_hashes": {
+    "ocr": "dfbc61edabd04436",
+    "translation": "1eeb83436921321d"
+  }
+}

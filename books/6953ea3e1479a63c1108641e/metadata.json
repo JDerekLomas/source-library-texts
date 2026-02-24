@@ -1,0 +1,28 @@
+{
+  "id": "6953ea3e1479a63c1108641e",
+  "title": "Magia Naturalis (1619 Latin)",
+  "display_title": "Magia Naturalis (1619 Latin)",
+  "author": "Giambattista della Porta",
+  "language": "Latin",
+  "year": 1607,
+  "published": "1607",
+  "pages_count": 1356,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6953ea3e1479a63c1108641e",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "B-001-003-706"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:35.440Z",
+  "_hashes": {
+    "ocr": "947fcc477923180e",
+    "translation": "6930bda1c3e93430"
+  }
+}

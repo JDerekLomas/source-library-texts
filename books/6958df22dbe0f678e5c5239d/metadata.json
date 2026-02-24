@@ -1,0 +1,28 @@
+{
+  "id": "6958df22dbe0f678e5c5239d",
+  "title": "Historia plantarum",
+  "display_title": "Historia plantarum",
+  "author": "Antoine Du Pinet",
+  "language": "Latin",
+  "year": 1567,
+  "published": "1567",
+  "pages_count": 910,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 3,
+  "source_url": "https://sourcelibrary.org/book/6958df22dbe0f678e5c5239d",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "hin-wel-all-00002371-001"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:32.546Z",
+  "_hashes": {
+    "ocr": "8f112bb71aa6de81",
+    "translation": "a79ea477d1db9641"
+  }
+}

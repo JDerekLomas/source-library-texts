@@ -1,0 +1,28 @@
+{
+  "id": "6955930b7bd6d2cd1d61b98d",
+  "title": "Thomas Vaughan Magical Writings (Waite Edition)",
+  "display_title": "Thomas Vaughan Magical Writings (Waite Edition)",
+  "author": "Thomas Vaughan / A.E. Waite",
+  "language": "English",
+  "year": 1919,
+  "published": "Unknown",
+  "pages_count": 206,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6955930b7bd6d2cd1d61b98d",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "magicalwritingso0000vaug"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:33.710Z",
+  "_hashes": {
+    "ocr": "3cfa5bcf71aa47ed",
+    "translation": "35fcde52c3e438b3"
+  }
+}

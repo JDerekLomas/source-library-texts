@@ -1,0 +1,28 @@
+{
+  "id": "695936d33b43cb6630c91c01",
+  "title": "Solomonic Cycle Magic Collection",
+  "display_title": "Solomonic Cycle Magic Collection",
+  "author": "Various",
+  "language": "English",
+  "year": null,
+  "published": "Unknown",
+  "pages_count": 10,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/695936d33b43cb6630c91c01",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "solomonic-cycle-magic"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:27.883Z",
+  "_hashes": {
+    "ocr": "88040879803b5f94",
+    "translation": "00d5d3bbab12d63d"
+  }
+}

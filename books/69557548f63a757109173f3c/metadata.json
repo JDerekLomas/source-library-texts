@@ -1,0 +1,28 @@
+{
+  "id": "69557548f63a757109173f3c",
+  "title": "Sangita Ratnakara",
+  "display_title": "Sangita Ratnakara",
+  "author": "Sarangadeva",
+  "language": "Sanskrit",
+  "year": 1250,
+  "published": "13th century",
+  "pages_count": 327,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/69557548f63a757109173f3c",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "SangitaRatnakara"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:29.768Z",
+  "_hashes": {
+    "ocr": "102aa569d2a9ba6d",
+    "translation": "c7b781ddc4369e6b"
+  }
+}

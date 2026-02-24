@@ -1,0 +1,28 @@
+{
+  "id": "6953aee377f38f6761bd8cb9",
+  "title": "Iamblichus On the Mysteries",
+  "display_title": "Iamblichus On the Mysteries",
+  "author": "Iamblichus / Thomas Taylor (trans.)",
+  "language": "English",
+  "year": 1821,
+  "published": "Unknown",
+  "pages_count": 402,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6953aee377f38f6761bd8cb9",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "b29338888_0002"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:32.786Z",
+  "_hashes": {
+    "ocr": "14116fb23f703e13",
+    "translation": "15c95c1ef51bfc07"
+  }
+}

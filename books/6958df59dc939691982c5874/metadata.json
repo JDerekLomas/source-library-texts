@@ -1,0 +1,28 @@
+{
+  "id": "6958df59dc939691982c5874",
+  "title": "Rariorum aliquot stirpium per Pannoniam historia",
+  "display_title": "Rariorum aliquot stirpium per Pannoniam historia",
+  "author": "Carolus Clusius",
+  "language": "Latin",
+  "year": 1576,
+  "published": "1576",
+  "pages_count": 889,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 9,
+  "source_url": "https://sourcelibrary.org/book/6958df59dc939691982c5874",
+  "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bub_gb_uJPCmhxRjCAC"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:29.426Z",
+  "_hashes": {
+    "ocr": "0dfe9dd559678624",
+    "translation": "c5252de0fbb4004c"
+  }
+}

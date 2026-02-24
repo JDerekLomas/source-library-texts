@@ -1,0 +1,28 @@
+{
+  "id": "695d0e044afae5c3b3aead52",
+  "title": "Meditationes de prima philosophia",
+  "display_title": "Meditationes de prima philosophia",
+  "author": "Ren Descartes",
+  "language": "English",
+  "year": 1641,
+  "published": "1641",
+  "pages_count": 645,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 1,
+  "source_url": "https://sourcelibrary.org/book/695d0e044afae5c3b3aead52",
+  "license": "https://gallica.bnf.fr/html/und/conditions-dutilisation-des-contenus-de-gallica",
+  "doi": null,
+  "external_ids": {
+    "gallica": "btv1b86002964"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:26.008Z",
+  "_hashes": {
+    "ocr": "d61850615641dfa8",
+    "translation": "a3ef03c3c0c1289a"
+  }
+}

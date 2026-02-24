@@ -1,0 +1,28 @@
+{
+  "id": "696926a04fa3b04c6de8762e",
+  "title": "Theologia Platonica (editio princeps, 1482)",
+  "display_title": "Theologia Platonica (editio princeps, 1482)",
+  "author": "Marsilio Ficino",
+  "language": "Latin",
+  "year": 1482,
+  "published": "1482",
+  "pages_count": 657,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 1,
+  "source_url": "https://sourcelibrary.org/book/696926a04fa3b04c6de8762e",
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "doi": null,
+  "external_ids": {
+    "mdz": "bsb00066894"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:26.375Z",
+  "_hashes": {
+    "ocr": "c5b7c2f8bb5ec7f8",
+    "translation": "3acef8947c5b9695"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "6955d9b78407b7c9ae21309a",
+  "title": "Mystische Schriften",
+  "display_title": "Mystische Schriften",
+  "author": "Meister Eckhart",
+  "language": "German",
+  "year": 1903,
+  "published": "1903",
+  "pages_count": 266,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6955d9b78407b7c9ae21309a",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "mystischeschrift00eckhuoft"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:32.231Z",
+  "_hashes": {
+    "ocr": "547bd762fb33ae0f",
+    "translation": "7da10876ee4353bc"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "6959329ab91a6184ea943e19",
+  "title": "Le Grand Arcane, ou L'occultisme dévoilé",
+  "display_title": "Le Grand Arcane, ou L'occultisme dévoilé",
+  "author": "Eliphas Lévi",
+  "language": "French",
+  "year": 1898,
+  "published": "1898",
+  "pages_count": 405,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 9,
+  "source_url": "https://sourcelibrary.org/book/6959329ab91a6184ea943e19",
+  "license": "https://gallica.bnf.fr/html/und/conditions-dutilisation-des-contenus-de-gallica",
+  "doi": null,
+  "external_ids": {
+    "gallica": "bpt6k655196"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:35.093Z",
+  "_hashes": {
+    "ocr": "b67881fb77995d86",
+    "translation": "a084d1eaa970a795"
+  }
+}

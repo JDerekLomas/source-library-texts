@@ -1,0 +1,28 @@
+{
+  "id": "6953ce9877f38f6761be55c7",
+  "title": "Plato Laches, Protagoras, Meno, Euthydemus",
+  "display_title": "Plato Laches, Protagoras, Meno, Euthydemus",
+  "author": "Plato",
+  "language": "Greek",
+  "year": 1906,
+  "published": "1906",
+  "pages_count": 710,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6953ce9877f38f6761be55c7",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "L165PlatoIILachesProtagorasMenoEuthydemus"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:28.789Z",
+  "_hashes": {
+    "ocr": "684d5457c8c91620",
+    "translation": "b8820a3c5d76c2ed"
+  }
+}

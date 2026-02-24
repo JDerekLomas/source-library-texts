@@ -1,0 +1,28 @@
+{
+  "id": "6955831757e3b773024f76ae",
+  "title": "Abhidharmakosa with Bhashya",
+  "display_title": "Abhidharmakosa with Bhashya",
+  "author": "Vasubandhu",
+  "language": "Sanskrit",
+  "year": 1923,
+  "published": "Unknown",
+  "pages_count": 2208,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6955831757e3b773024f76ae",
+  "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "abhidharmakosawithbhashyaofvasubandhuandsuptarthacommentaryofyasomitra"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:34.084Z",
+  "_hashes": {
+    "ocr": "00c370101feae70b",
+    "translation": "056a95016cf2c48d"
+  }
+}

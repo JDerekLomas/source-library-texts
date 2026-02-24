@@ -1,0 +1,28 @@
+{
+  "id": "6953c68777f38f6761bd9e16",
+  "title": "Aristotelis Opera Omnia (Greek)",
+  "display_title": "Aristotelis Opera Omnia (Greek)",
+  "author": "Aristotle",
+  "language": "Greek",
+  "year": 1837,
+  "published": "1837",
+  "pages_count": 201,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6953c68777f38f6761bd9e16",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "aristotelisoper16arisgoog"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:31.174Z",
+  "_hashes": {
+    "ocr": "534f02915a306dfd",
+    "translation": "c5ba4a61572e4f02"
+  }
+}

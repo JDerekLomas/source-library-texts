@@ -1,0 +1,28 @@
+{
+  "id": "6958de51cf7070242ed414d1",
+  "title": "Paradisi in Sole Paradisus Terrestris",
+  "display_title": "Paradisi in Sole Paradisus Terrestris",
+  "author": "John Parkinson",
+  "language": "English",
+  "year": 1629,
+  "published": "1629",
+  "pages_count": 638,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 9,
+  "source_url": "https://sourcelibrary.org/book/6958de51cf7070242ed414d1",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "mobot31753000703782"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:34.428Z",
+  "_hashes": {
+    "ocr": "023f8994868d4875",
+    "translation": "db3944022eb19be8"
+  }
+}

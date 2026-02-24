@@ -1,0 +1,28 @@
+{
+  "id": "6958dec2cf7070242ed42151",
+  "title": "Hortus Eystettensis",
+  "display_title": "Hortus Eystettensis",
+  "author": "Basilius Besler",
+  "language": "Latin",
+  "year": 1640,
+  "published": "1640",
+  "pages_count": 389,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 8,
+  "source_url": "https://sourcelibrary.org/book/6958dec2cf7070242ed42151",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "mobot31753003651095"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:32.151Z",
+  "_hashes": {
+    "ocr": "856e3be384711a7b",
+    "translation": "81c081e815f079c9"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "6953cee877f38f6761be5dd8",
+  "title": "Plato Euthyphro, Apology, Crito, Phaedo, Phaedrus",
+  "display_title": "Plato Euthyphro, Apology, Crito, Phaedo, Phaedrus",
+  "author": "Plato",
+  "language": "Greek",
+  "year": 1683,
+  "published": "1683",
+  "pages_count": 618,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6953cee877f38f6761be5dd8",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "euthyphrapologyc01plat"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:29.330Z",
+  "_hashes": {
+    "ocr": "a2b794754f90fc61",
+    "translation": "3646b7786a7e58e8"
+  }
+}

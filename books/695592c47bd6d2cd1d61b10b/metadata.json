@@ -1,0 +1,28 @@
+{
+  "id": "695592c47bd6d2cd1d61b10b",
+  "title": "Ramon Llull Ars Inventiua Veritatis (1515)",
+  "display_title": "Ramon Llull Ars Inventiua Veritatis (1515)",
+  "author": "Ramon Llull",
+  "language": "Latin",
+  "year": 1515,
+  "published": "1515",
+  "pages_count": 452,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/695592c47bd6d2cd1d61b10b",
+  "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "ARes54311"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:33.800Z",
+  "_hashes": {
+    "ocr": "f2d7e675b3b0e437",
+    "translation": "ef611788675a5bb3"
+  }
+}

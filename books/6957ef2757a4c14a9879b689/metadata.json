@@ -1,0 +1,28 @@
+{
+  "id": "6957ef2757a4c14a9879b689",
+  "title": "Herbarum vivae eicones",
+  "display_title": "Herbarum vivae eicones",
+  "author": "Otto Brunfels",
+  "language": "Latin",
+  "year": 1532,
+  "published": "1532",
+  "pages_count": 338,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6957ef2757a4c14a9879b689",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "mobot31753003125165"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:31.522Z",
+  "_hashes": {
+    "ocr": "ad5b95b9ef5ba84d",
+    "translation": "2b88e0ce88d80c31"
+  }
+}

@@ -1,0 +1,121 @@
+--- Page 1 ---
+<lang>None</lang>
+<page-type>blank</page-type>
+<meta>This image shows the blank front cover or flyleaf of a parchment-bound manuscript.</meta>
+
+<image-desc>The image depicts a plain, aged parchment or vellum book cover. The surface is a light cream or beige color with natural mottled textures and some minor staining. Along the left edge, there are visible indentations and small dark marks corresponding to the internal binding structure.</image-desc>
+
+<vocab></vocab>
+
+--- Page 2 ---
+<lang>None</lang>
+<page-type>blank</page-type>
+<warning>Blank page with visible foxing, creases, and faint bleed-through or ghosting of text from a facing page on the right side.</warning>
+
+<image-desc>A blank parchment or paper page, likely a flyleaf or the interior of a book cover. It shows age-related wear, including some discoloration (foxing) and vertical creases. There is a faint rectangular impression visible on the surface, possibly from the binding process or a previously adjacent object. Some illegible ghosting of text is visible on the far right edge.</image-desc>
+
+<vocab></vocab>
+
+--- Page 3 ---
+<lang>None</lang>
+<page-type>blank</page-type>
+<warning>The page is blank and shows significant foxing and light staining consistent with age.</warning>
+
+<image-desc>A blank leaf of historical manuscript paper. The surface is off-white with scattered brown foxing spots and some darker discoloration along the top and left edges. There is a faint rectangular indentation visible in the center of the page.</image-desc>
+
+<vocab></vocab>
+
+--- Page 4 ---
+<lang>None</lang>
+<page-type>blank</page-type>
+<meta>Blank page with visible foxing and age spots.</meta>
+
+<vocab></vocab>
+
+--- Page 5 ---
+<lang>None</lang>
+<page-type>blank</page-type>
+
+--- Page 6 ---
+<lang>None</lang>
+<page-type>blank</page-type>
+<meta>This page is a blank sheet of aged, cream-colored paper with visible texture and scattered foxing (small brown age spots).</meta>
+<vocab></vocab>
+
+--- Page 7 ---
+<lang>None</lang>
+<page-type>blank</page-type>
+<meta>This page is blank and contains no text or markings.</meta>
+<vocab></vocab>
+
+--- Page 8 ---
+<lang>English</lang>
+<page-type>blank</page-type>
+<meta>Manuscript flyleaf containing library shelfmarks and an institutional stamp.</meta>
+
+-><insert>R 2493</insert><-
+
+<image-desc>A faint red circular institutional library stamp is visible on the right edge of the page.</image-desc>
+
+---
+
+<insert>13444</insert>
+
+<vocab>shelfmark, accession number</vocab>
+
+--- Page 9 ---
+<lang>Latin</lang>
+<page-type>title-page</page-type>
+<meta>First edition of Descartes' Meditations, published by Michel Soly in Paris, 1641.</meta>
+
+### RENATI
+# DES-CARTES,
+## MEDITATIONES
+### DE PRIMA
+# PHILOSOPHIA,
+->IN QVA DEI EXISTENTIA<-
+->ET ANIMÆ IMMORTALITAS<-
+->DEMONSTRATUR.<-
+
+<insert>
+<image-desc>A woodcut printer's mark depicting a phoenix rising from flames inside an oval frame. The Latin motto "ÆTERNITATI SOLI" (For Eternity Alone) is inscribed around the border. The oval is set within an ornate decorative frame with scrollwork. Below the oval is a monogram consisting of a '4' above the letter 'M' and the name 'MAXS'.</image-desc>
+</insert>
+
+<insert>
+<note>Red ink circular library stamp on the left</note>
+BIBLIOTH. REGIA
+</insert>
+
+->PARISIIS,<-
+->Apud **Michaelem Soly**, viâ Iacobeâ, sub<-
+->signo Phœnicis.<-
+
+---
+
+->M. DC. XLI.<-
+->*Cum Priuilegio, & Approbatione Doctorum.*<-
+
+<insert>
+<note>Handwritten shelfmark in bottom left corner</note>
+H. p. R. 693
+</insert>
+
+<vocab>Renatus Descartes, Meditationes de Prima Philosophia, Dei existentia, animae immortalitas, Michael Soly, Parisiis, Phœnicis</vocab>
+
+--- Page 10 ---
+<lang>lat</lang>
+<page-type>blank</page-type>
+<warning>The page is a blank leaf showing significant bleed-through (ghosting) from the title page on the verso. The text visible across the page is mirrored and originates from the other side.</warning>
+<meta>Visible bleed-through of title page (reversed): RENATI DES CARTES / MEDITATIONES / DE PRIMA PHILOSOPHIA / ... / PARISIIS / MDCXLI</meta>
+
+<insert>
+15
+</insert>
+
+<insert>
+<image-desc>Circular red institutional stamp from the Bibliothèque Nationale.</image-desc>
+BIBLIOTH. NATIONALE
+R. F.
+</insert>
+
+<vocab>Bibliothèque Nationale, René Descartes, Meditationes de Prima Philosophia, R.F.</vocab>

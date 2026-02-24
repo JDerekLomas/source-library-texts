@@ -1,0 +1,28 @@
+{
+  "id": "6955d43328a09ca65927f6e0",
+  "title": "Historia Coelestis Britannica Vol. 2",
+  "display_title": "Historia Coelestis Britannica Vol. 2",
+  "author": "John Flamsteed",
+  "language": "Latin",
+  "year": 1725,
+  "published": "1725",
+  "pages_count": 2125,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6955d43328a09ca65927f6e0",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "historia-coelestis-britannica-vol-2"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:32.454Z",
+  "_hashes": {
+    "ocr": "acff8a1c585d16be",
+    "translation": "40bb2627c6ca5082"
+  }
+}

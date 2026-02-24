@@ -1,0 +1,28 @@
+{
+  "id": "69557478f63a7571091738aa",
+  "title": "Orphicorum Fragmenta",
+  "display_title": "Orphicorum Fragmenta",
+  "author": "Otto Kern (ed.)",
+  "language": "Greek",
+  "year": 1922,
+  "published": "1922",
+  "pages_count": 434,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/69557478f63a7571091738aa",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "orphicorumfragme00orphuoft"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:29.681Z",
+  "_hashes": {
+    "ocr": "9396998f74433867",
+    "translation": "4a46fc3f8c22cda2"
+  }
+}

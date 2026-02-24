@@ -1,0 +1,223 @@
+--- Page 1 ---
+<warning>The image shows a worn and scuffed leather book binding with some surface loss at the bottom right corner.</warning>
+<lang>None</lang>
+<page-type>illustration</page-type>
+<meta>Front cover of a leather-bound volume.</meta>
+
+<image-desc>The image shows the front cover of a historical leather-bound book. The binding is made of dark brown leather, showing signs of age and wear, including scuffs, scratches, and a small patch of material loss in the lower right corner. A thin, double gold-tooled border runs around the perimeter of the cover. In the center is a gilded decorative centerpiece consisting of an elaborate oval cartouche with intricate scrollwork and foliate patterns. The spine, partially visible on the left, features raised bands. There is no visible text on the cover.</image-desc>
+
+<vocab>binding, leather, gold-tooling, cartouche, centerpiece, raised bands, bookbinding</vocab>
+
+--- Page 2 ---
+<lang>lat</lang>
+<page-type>text</page-type>
+<meta>The page contains pencil shelfmarks and a pasted-in heraldic bookplate. There is a small ink flourish in the top right corner.</meta>
+
+<margin>WWtyxl</margin>
+
+->CC 7 WM<-
+
+->E folio<-
+
+<insert>
+<image-desc>A circular bookplate (ex-libris) with a central oval scene. In the center, a pelican in its piety—a mother bird vulning herself to feed three chicks with her own blood—rests in a nest. Above her, rays of light descend from a sun at the top of the oval. Below the nest is a shield featuring four red roses arranged in a cross-like formation. A circular border around the oval contains the Latin text: PHILOSOPHIA·HERMETICA·</image-desc>
+
+->PHILOSOPHIA·HERMETICA·<-
+</insert>
+
+<margin>224/B</margin>
+
+<vocab>Philosophia Hermetica, pelican in its piety, Rosicrucian, ex-libris, shelfmark</vocab>
+
+--- Page 3 ---
+<lang>Latin</lang>
+<page-type>text</page-type>
+<meta>Ownership inscription on a flyleaf or title precursor; faint bleed-through visible from the following page.</meta>
+
+->Ex libris Claudij le Choiselat<-
+->1660<-
+---
+
+<vocab>Ex libris, Claudij le Choiselat, ownership inscription</vocab>
+
+--- Page 4 ---
+<lang>English</lang>
+<page-type>blank</page-type>
+<meta>Flyleaf or endpaper with library shelfmarks. Faint mirror-image offset from a facing page is visible at the top left, appearing to read "(Catalog of <unclear>)".</meta>
+
+<insert>
+$g \frac{x \equiv}{r}$
+</insert>
+
+->Sh. 22. 16.<-
+
+<vocab>shelfmark</vocab>
+
+--- Page 5 ---
+<lang>el, la</lang>
+<page-type>title-page</page-type>
+<page-num>303</page-num>
+<meta>Bleed-through of Greek text from the reverse page is visible across the center of the leaf.</meta>
+<warning>Strong bleed-through from the verso page.</warning>
+
+# ΕΥΣΕΒΙΟΥ ΤΟΥ ΠΑΜΦΙΛΟΥ ΕΥΑΓ-
+## ΓΕΛΙΚΗΣ ΠΡΟΠΑΡΑΣΚΕΥΗΣ
+### ΒΙΒ. ΠΕΝΤΕΚΑΙΔΕΚΑ.
+
+#### Eusebii Pamphili Evangelicæ præparationis Lib. XV.
+
+->EX BIBLIOTHECA REGIA.<-
+
+<image-desc>The printer's mark of Robert Estienne (Robertus Stephanus): a serpent coiled around a spear, which is entwined with an olive branch. This device symbolizes the union of wisdom, peace, and power.</image-desc>
+
+->Βασιλῆ τ' ἀγαθῷ κρατερῷ τ' αἰχμητῇ.<-
+
+->LVTETIAE.<-
+->Ex officina Rob. Stephani, Typographi Regii, Regiis typis.<-
+->M. D. XLIIII.<-
+
+# Cum priuilegio Regis.
+
+<vocab>Eusebius Pamphili, Evangelica praeparatio, Robert Estienne, Lutetia, Paris, 1544, Greek typography, Royal Printer</vocab>
+
+--- Page 6 ---
+<lang>la</lang>
+<page-type>blank</page-type>
+<warning>This is a flyleaf containing library shelf marks. It features significant mirrored bleed-through from a preceding page at the top left and shows text from the facing page along the right edge.</warning>
+
+<meta>Mirrored bleed-through at top left appears to read: "Clariss: ad Lectorem"</meta>
+
+<insert>
+-> <unclear>g x \equiv</unclear> <-
+-> <unclear>r</unclear> <-
+</insert>
+
+-> Sh. 22. 16. <-
+
+<vocab>shelfmark</vocab>
+
+--- Page 7 ---
+<lang>Ancient Greek, Latin</lang>
+<page-type>title-page</page-type>
+<page-num>301</page-num>
+<meta>Handwritten page number in top right corner with a small cross symbol.</meta>
+
+# ΕΥΣΕΒΙΟΥ ΤΟΥ ΠΑΜΦΙΛΟΥ ΕΥΑΓ-
+## ΓΕΛΙΚΗΣ ΠΡΟΠΑΡΑΣΚΕΥΗΣ
+### ΒΙΒ. ΠΕΝΤΕΚΑΙΔΕΚΑ.
+
+->Eusebii Pamphili Evangelicæ præparationis Lib. XV.<-
+
+### EX BIBLIOTHECA REGIA.
+
+---
+
+<image-desc>Printer's device of Robert Estienne (Robertus Stephanus). It depicts a serpent coiled around the trunk of an olive tree with several leafy branches and olives. Below the illustration is a motto in Ancient Greek.</image-desc>
+
+->Βασιλεῖ τ᾿ ἀγαθῷ κρατερῷ τ᾿ αἰχμητῇ.<-
+
+->L V T E T I A E.<-
+->Ex officina Rob. Stephani, Typographi Regii, Regiis typis.<-
+->M. D. XLIIII.<-
+
+# Cum priuilegio Regis.
+
+<vocab>Eusebius Pamphili, Evangelica praeparatio, Robert Estienne, Lutetia, Greek typography, Royal Library, printer's mark</vocab>
+
+--- Page 8 ---
+<lang>grc</lang>
+<page-type>toc</page-type>
+<warning>Significant bleed-through from the title page on the reverse side is visible, including the text "LVTETIAE", "M. D. XLIIII", and "Cum privilegio Regis" in reverse. This should be ignored as it does not belong to the current page's text.</warning>
+
+## Τάδε περιέχει τὸ πρῶτον σύγγραμμα τῆς Εὐαγγελικῆς προπαρασκευῆς.
+
+Τίς ἡ τῆς εὐαγγελικῆς ὑποθέσεως ἐπαγγελία.
+Τίνα πρὸς ἡμᾶς σωτήριός ἐστι λόγος τοῖς τὰ καθ’ ἡμᾶς διαβολὴν ἐπιχειροῦσιν.
+Οὐ μὴ ἀνεξετάστως τῷ τοῦ σωτηρίου λόγου φρονεῖν εἱλόμεθα.
+Οὐ μὴ ἀκρίτως ἡμῖν ἡ περὶ τῶν ὠφελιμωτάτων πίστις κατὰ καιρὸν παραλαμβάνεται.
+Οὐ μὴ ἀλόγῳ φρενὸς λογισμῷ τῆς πατρίου δεισιδαιμονίας πλάνης ἀνεχωρήσαμεν.
+Ὅσα παρ’ Ἕλλησι, καὶ οἷα περὶ τῆς πρώτης κοσμοποιΐας ἀναγράφεται, καὶ ὡς εὐλόγως αὐτῶν ἀνεχωρήσαμεν.
+Οὐ τοῖς φυσικοῖς φιλοσόφοις περὶ ἀρχῶν διαπεφώνηται, καὶ ὡς τούτων μετ’ κρίσεως ἀπέστημεν.
+Οὐ πλέον οὐδὲν οἱ παλαιοὶ τῶν κατ’ οὐρανὸν φαινομένων ἄστρων ἐθεολόγουν.
+Οὐ μηδεμία τις ἦν αὐτοῖς περὶ θεῶν μυθολογία, οὐδέ γε ξοάνων ἵδρυσις.
+Οὐ νεώτερα ἐφ’ οἷς προσθήκη τὰ δόξαντα τοῖς παλαιοῖς περὶ θεῶν τε θρυλλημένα.
+Ἐπιτομὴ τῆς Φοινίκων ἀρχαιολογουμένης θεολογίας, καὶ περὶ τῶν ταύτην συγγραψαμένων, καὶ ὅτι δικαίως αὐτῆς κατεπτύσαμεν.
+
+Εὐσεβίου
+
+<vocab>Εὐσέβιος, Εὐαγγελικὴ προπαρασκευή, θεολογία, Φοινίκων, κοσμοποιΐα, σύγγραμμα</vocab>
+
+--- Page 9 ---
+<lang>grc</lang>
+<page-type>text</page-type>
+<page-num>3</page-num>
+<header>ΕΥΑΓΓΕΛΙΚΗΣ ΠΡΟΠΑΡΑΣΚΕΥΗΣ</header>
+<sig>a.ii.</sig>
+<warning>The running header at the top of the page is extremely faded and barely legible. There is visible ghosting from the opposite page, particularly on the right side.</warning>
+
+<image-desc>An ornamental rectangular woodcut headpiece featuring symmetrical foliate designs, vines, and mythical figures or cherubs arranged around a central circular medallion.</image-desc>
+
+# ΕΥΣΕΒΙΟΥ ΤΟΥ ΠΑΜΦΙΛΟΥ ΕΥΑΓ-
+### γελικῆς προπαρασκευῆς τῶν πεντεκαίδεκα βιβλίων τὸ πρῶτον.
+### Τίς ἡ τῆς εὐαγγελικῆς ὑποθέσεως ἐπαγγελία.
+
+<image-desc>A large ornamental drop cap 'T' within a square frame decorated with dense floral and vine patterns.</image-desc>
+
+TON χριστιανισμὸν ὃ, τί ποτέ ἐστιν, ἡγούμενος τοῖς
+οὐκ εἰδόσι παραστήσασθαι διὰ τῆς προκειμένης
+πραγματείας τὴν εὐαγγελικὴν ἀπόδειξιν περιέ-
+ξουσαν ἐπαγγέλλομαι, τήνδε σοι θείων ἐπισκόπων χρη-
+μα Θεόδοτε φίλη θεοῦ καὶ ἱερὰ κεφαλὴ, σὺν εὐχαῖς
+ἐπεφώνησα, εἴπως ἄρα τῆς παρούσου τύχοιμι βοη-
+θείας, τῷ φιλοθέῳ σοῦ λίαν ἱερουργίας τὰ με-
+γάλα μοι συμβαλοῦντος εἰς τὴν προβεβλημένην
+τῆς εὐαγγελικῆς διδασκαλίας ὑπόθεσιν. Ἀλλὰ γὰρ
+τί βούλεται τοῦτο δηλοῦν τὸ φαιδρὸν εὐαγγέλιον, πρῶτον διαρθρῶσαι κα-
+λόν. Τοῦτο δὴ πᾶσιν ἀνθρώποις τῶν προοιμίων ὢν ἀνωτάτων καὶ μεγίστων ἀγα-
+θῶν, πάλαι μὲν προκηρυχθὲν, νεωστὶ δὲ τοῖς πᾶσιν ἐπιλαμψάντων εὐαγγε-
+λίζεται, οὐ τὸν οὐ βλέποντα πλοῦτον, οὐδὲ τὴν σμικρὰν καὶ πολυπαθῆ ταύτην ζωὴν
+παρενοχλοῦν, οὐδ' ὅσα σώματος καὶ φθορᾶς οἰκεῖα. Τὰ δὲ ψυχαῖς νοεράν οὐσίαν κε-
+κτημέναις, φίλα τε καὶ προσήγορα, ὧν τὰ χωρί’ ἐξήπται σκιᾶς ἐφεπόμενα
+δίκην. εἰσὶν οὖν τούτων τὸ κεφάλαιον, εὐσέβεια, οὐχ ἡ ψευδώνυμος καὶ πολυπλα-
+νὴς, ἀλλ’ ἡ σὺν ἀληθείᾳ τὴν θεωρίαν ἐπιγραφομένη. ἔστι δὲ αὕτη ἡ πρὸς
+τὸν ἕνα καὶ μόνον ὡς ἀληθῶς ὁμολογούμενον τὸν ὄντα θεὸν ἀνάνευσις, καὶ ἡ κατ' αὐ-
+τὸν ζωή. ἐξ ἧς καὶ ἡ πρὸς αὐτὸν ἐγγίνετ' φιλία, ἢ παρέπετ' ὁ θεοφιλὴς ὄντως καὶ τρις-
+μακάριον τέλος ἄνωθεν ἐκ τοῦ κράτιστον ἀπηωρημένον, καὶ πρὸς αὐτὸ διακυ-
+βερνώμενον, καὶ πάλιν εἰς αὐτὸ καταλῆγον. τί οὖν ἂν γένοιτο τοῦ ἀγαθῆς ταύτης
+καὶ πολυολβίου θεοφιλίας μακαριώτερον; οὐχὶ καὶ ζωῆς αὐτὸς καὶ φωτὸς καὶ ἀληθείας, καὶ
+πάντων ἀγαθῶν ταμίας καὶ χορηγὸς τοῖς πᾶσι καθέστηκεν; οὐχὶ καὶ τὸ εἶναι τὰ πάντα καὶ
+τὸ ζῇν αὐτὸς τὴν αἰτίαν περιείληχε; τῷ δὴ οὖν τὴν πρὸς αὐτὸν ἐζηλωμένῳ φιλίαν, τί
+ἂν ἔτι λείποιτο; τίνος δ’ ἂν ὑστεροῖτο ὁ τῶν ἀγαθῶν τῷ δημιουργῷ ἐξοικειούμενος; ἢ
+τίνος ἂν οὐχ ἅπτοιτο ὁ καὶ παῖδος ἐν χώρᾳ καὶ κηδεμόνος τὸν μέγαν προστάτην καὶ παμ-
+βασιλέα τῶν ὅλων ἐπιγραφόμενος; ἀλλ’ οὐκ ἔστιν εἰπεῖν, ὅτι μὴ οὐχὶ ὁ τῷ διὰ θεοῦ
+τῷ παμβασιλεῖ θεῷ πλησιάζων, καὶ τὴν παμμακαρίστου φιλίας διὰ τοῦ ἐπιστημο-
+νικῆς εὐσεβείας ἠξιωμένος, ὁμοῦ καὶ ψυχῆς καὶ σώματος, καὶ τῶν ἐκτὸς ἁπάντων εὖ
+ἂν ἔχοι. ταύτην δὴ τοίνυν τὴν ἀγαθὴν καὶ σωτήριον πρὸς θεὸν ἀνθρώπων φιλίαν,
+ἄνωθεν ἐκ τοῦ παναγάθου θεοῦ καταπεμφθεὶς ὁ θεὸς λόγος, ὥσπερ τις ἀπειρο-
+
+<vocab>Εὐσέβιος, Πάμφιλος, Εὐαγγελικὴ Προπαρασκευή, χριστιανισμός, Θεόδοτος, εὐσέβεια, θεοφιλία, θεὸς λόγος</vocab>
+
+--- Page 10 ---
+<lang>grc</lang>
+<page-type>toc</page-type>
+<warning>There is heavy bleed-through from the preceding title page visible on this leaf.</warning>
+
+### Τάδε περιέχει τὸ πρῶτον σύγγραμμα τῆς Εὐαγγελικῆς προπαρασκευῆς.
+
+Τίς ἡ τῆς εὐαγγελικῆς ὑποθέσεως ἐπαγγελία.
+Τίνα πρὸς ἡμᾶς συνήθειαν ἔχει λέγειν τοῖς τὰ καθ' ἡμᾶς διαβολὴν ἐπιχειροῦσιν.
+Ὅτι μὴ ἀνεξετάστως τὰ τοῦ σωτηρίου λόγου φρονεῖν εἱλόμεθα.
+Ὅτι μὴ ἀκρίτως ἡμῖν ἡ περὶ τῶν ὠφελιμωτάτων πίστις κατὰ καιρὸν παραλαμβάνεται.
+Ὅτι μὴ ἀλόγῳ φρενὸς λογισμῷ τῆς πατρίου δεισιδαίμονος πλάνης ἀνεχωρήσαμεν.
+Ὅσα πρὶν ᾤησαν, καὶ οἷα περὶ τῆς πρώτης κοσμοποιΐας ἀναγράφουσι, καὶ ὡς εὐλόγως αὐτῶν ἀνεχωρήσαμεν.
+Ὅσα τοῖς φυσικοῖς φιλοσόφοις περὶ ἀρχῶν διαπεφώνηται, καὶ ὡς τούτων μετ' κρίσεως ἀπέστημεν.
+Ὅτι πλέον οὐδὲν οἱ παλαιοὶ τῶν κατ' οὐρανὸν φαινομένων ἄστρων ἐθεολόγουν.
+Ὅτι μηδεμία τις ἦν αὐτοῖς περὶ θεῶν μυθολογία, οὐδέ γε ξοάνων ἵδρυσις.
+Ὅτι νεώτερα τῷ βίῳ προσῆκται τὰ δόξαντα τοῖς παλαιοῖς περὶ θεῶν τε θρυλλημένα.
+Ἐπιτομὴ τῆς Φοινίκων ἀρχαιολογουμένης θεολογίας, καὶ περὶ ὧν ταύτην συγγράψαμεν, καὶ ὅτι δικαίως αὐτῆς κατεπτύσαμεν.
+
+<image-desc>A small decorative floral tailpiece, resembling a stylized fleur-de-lis, follows the text.</image-desc>
+
+-> Εὐσεβίου <-
+
+<vocab>Εὐαγγελικὴ προπαρασκευή, Εὐσεβίου, κοσμοποιΐας, θεολογία, Φοινίκων, ἀρχαιολογουμένης</vocab>

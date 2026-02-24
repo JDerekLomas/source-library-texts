@@ -1,0 +1,28 @@
+{
+  "id": "69557431f63a75710917329b",
+  "title": "De Musica",
+  "display_title": "De Musica",
+  "author": "Pseudo-Plutarch; R. Volkmann (ed.)",
+  "language": "Greek/Latin",
+  "year": 1856,
+  "published": "1856",
+  "pages_count": 112,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/69557431f63a75710917329b",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "demusica00plut"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:29.594Z",
+  "_hashes": {
+    "ocr": "402a02e13b017441",
+    "translation": "7af69fb2f5aa5e63"
+  }
+}

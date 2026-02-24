@@ -1,0 +1,28 @@
+{
+  "id": "6955831157e3b773024f7195",
+  "title": "Select Discourses",
+  "display_title": "Select Discourses",
+  "author": "John Smith",
+  "language": "English",
+  "year": 1660,
+  "published": "Unknown",
+  "pages_count": 596,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6955831157e3b773024f7195",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "selectdiscourses00smit"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:34.173Z",
+  "_hashes": {
+    "ocr": "c263f512c05c3a46",
+    "translation": "356b3da2197a179e"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "6955957b7bd6d2cd1d61f2c4",
+  "title": "William James Varieties of Religious Experience (1902)",
+  "display_title": "William James Varieties of Religious Experience (1902)",
+  "author": "William James",
+  "language": "English",
+  "year": 1902,
+  "published": "1902",
+  "pages_count": 566,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6955957b7bd6d2cd1d61f2c4",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "varietiesofrelig1902jame"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:33.358Z",
+  "_hashes": {
+    "ocr": "d0ac480bc34e2c43",
+    "translation": "78121a0294f578a0"
+  }
+}

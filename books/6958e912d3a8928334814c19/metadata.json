@@ -1,0 +1,28 @@
+{
+  "id": "6958e912d3a8928334814c19",
+  "title": "Plantarum historiae universalis Oxoniensis pars secunda",
+  "display_title": "Plantarum historiae universalis Oxoniensis pars secunda",
+  "author": "Robert Morison",
+  "language": "Latin",
+  "year": 1669,
+  "published": "1669",
+  "pages_count": 777,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 7,
+  "source_url": "https://sourcelibrary.org/book/6958e912d3a8928334814c19",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bim_early-english-books-1641-1700_plantarum-historiae-_morison-robert_1680"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:30.833Z",
+  "_hashes": {
+    "ocr": "966658dc22776ecf",
+    "translation": "02b14bb4478ae08b"
+  }
+}

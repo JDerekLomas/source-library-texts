@@ -1,0 +1,28 @@
+{
+  "id": "69593413b282844d7b277aaf",
+  "title": "Utriusque Cosmi Historia - Tomus Primus (De Macrocosmi)",
+  "display_title": "Utriusque Cosmi Historia - Tomus Primus (De Macrocosmi)",
+  "author": "Robert Fludd",
+  "language": "Latin",
+  "year": 1617,
+  "published": "1617",
+  "pages_count": 214,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 7,
+  "source_url": "https://sourcelibrary.org/book/69593413b282844d7b277aaf",
+  "license": "https://rightsstatements.org/vocab/NoC-NC/1.0/",
+  "doi": null,
+  "external_ids": {
+    "mdz": "bsb11057771"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:27.453Z",
+  "_hashes": {
+    "ocr": "a70a7b7aac6f845b",
+    "translation": "312ad53d1f8238c2"
+  }
+}

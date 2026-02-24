@@ -1,0 +1,28 @@
+{
+  "id": "695934afb282844d7b278396",
+  "title": "Magia Adamica, or The Antiquitie of Magic",
+  "display_title": "Magia Adamica, or The Antiquitie of Magic",
+  "author": "Thomas Vaughan",
+  "language": "English",
+  "year": 1749,
+  "published": "1749",
+  "pages_count": 200,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 6,
+  "source_url": "https://sourcelibrary.org/book/695934afb282844d7b278396",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "magiaadamicaoran00vaug"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:27.612Z",
+  "_hashes": {
+    "ocr": "73b0d9b76f009bba",
+    "translation": "101f97a3c1eed0ea"
+  }
+}

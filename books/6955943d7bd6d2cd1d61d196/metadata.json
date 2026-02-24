@@ -1,0 +1,28 @@
+{
+  "id": "6955943d7bd6d2cd1d61d196",
+  "title": "Boethius Consolation of Philosophy (English 1609)",
+  "display_title": "Boethius Consolation of Philosophy (English 1609)",
+  "author": "Boethius / I.T.",
+  "language": "English",
+  "year": 1671,
+  "published": "1671",
+  "pages_count": 312,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6955943d7bd6d2cd1d61d196",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "fivebookesofphil00boet"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:33.531Z",
+  "_hashes": {
+    "ocr": "ef3a1bc66b318a1a",
+    "translation": "1c6159ee66dbd006"
+  }
+}

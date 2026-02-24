@@ -1,0 +1,28 @@
+{
+  "id": "695595e57bd6d2cd1d61f909",
+  "title": "The Secret Doctrine Vol. I",
+  "display_title": "The Secret Doctrine Vol. I",
+  "author": "Helena Petrovna Blavatsky",
+  "language": "English",
+  "year": 1888,
+  "published": "1888",
+  "pages_count": 2333,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/695595e57bd6d2cd1d61f909",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "in.ernet.dli.2015.62045"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:33.271Z",
+  "_hashes": {
+    "ocr": "f9bdb30f29f1cf20",
+    "translation": "335994fa93545479"
+  }
+}

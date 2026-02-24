@@ -1,0 +1,26 @@
+{
+  "id": "697b0799606defbadb0f6d0b",
+  "title": "Des englischen Grafen von S. experimentirte Kunst-Stuecke",
+  "display_title": "Des englischen Grafen von S. experimentirte Kunst-Stuecke",
+  "author": "anonymous",
+  "language": "German",
+  "year": 1731,
+  "published": "1731-1733",
+  "pages_count": 335,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 7,
+  "source_url": "https://sourcelibrary.org/book/697b0799606defbadb0f6d0b",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:34.334Z",
+  "_hashes": {
+    "ocr": "99a104255dc2db50",
+    "translation": "360a1cfbf9730d50"
+  }
+}

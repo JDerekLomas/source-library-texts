@@ -1,0 +1,28 @@
+{
+  "id": "6953cc3677f38f6761be156e",
+  "title": "Fragmenta Herculanensia - Herculaneum Papyri Catalogue with Facsimiles",
+  "display_title": "Fragmenta Herculanensia - Herculaneum Papyri Catalogue with Facsimiles",
+  "author": "Walter Scott",
+  "language": "Greek",
+  "year": 1885,
+  "published": "Unknown",
+  "pages_count": 398,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6953cc3677f38f6761be156e",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "fragmentahercul00librgoog"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:30.319Z",
+  "_hashes": {
+    "ocr": "8295c540d9b139fc",
+    "translation": "548976fe2f3a2ab5"
+  }
+}

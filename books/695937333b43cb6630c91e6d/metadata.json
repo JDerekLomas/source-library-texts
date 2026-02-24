@@ -1,0 +1,28 @@
+{
+  "id": "695937333b43cb6630c91e6d",
+  "title": "De Occultis Literarum Notis (Secret Writing)",
+  "display_title": "De Occultis Literarum Notis (Secret Writing)",
+  "author": "Giambattista della Porta",
+  "language": "Latin",
+  "year": 1593,
+  "published": "1593",
+  "pages_count": 634,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 8,
+  "source_url": "https://sourcelibrary.org/book/695937333b43cb6630c91e6d",
+  "license": "https://rightsstatements.org/vocab/NoC-NC/1.0/",
+  "doi": null,
+  "external_ids": {
+    "mdz": "bsb11110187"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:28.044Z",
+  "_hashes": {
+    "ocr": "831b415393548ff8",
+    "translation": "7747c577ef9e43ee"
+  }
+}

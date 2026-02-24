@@ -1,0 +1,28 @@
+{
+  "id": "6953cc0c77f38f6761be0ed8",
+  "title": "Book of Kells Facsimile",
+  "display_title": "Book of Kells Facsimile",
+  "author": "Edward Sullivan",
+  "language": "Latin",
+  "year": 1927,
+  "published": "1927",
+  "pages_count": 192,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6953cc0c77f38f6761be0ed8",
+  "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "TheBookOfKells"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:30.397Z",
+  "_hashes": {
+    "ocr": "4579562afb2024d2",
+    "translation": "05612921c664d00e"
+  }
+}

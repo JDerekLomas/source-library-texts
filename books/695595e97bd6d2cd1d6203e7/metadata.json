@@ -1,0 +1,28 @@
+{
+  "id": "695595e97bd6d2cd1d6203e7",
+  "title": "The Secret Doctrine Vol. II",
+  "display_title": "The Secret Doctrine Vol. II",
+  "author": "Helena Petrovna Blavatsky",
+  "language": "English",
+  "year": 1899,
+  "published": "1899",
+  "pages_count": 419,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/695595e97bd6d2cd1d6203e7",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "in.ernet.dli.2015.212116"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:33.079Z",
+  "_hashes": {
+    "ocr": "773dad4516046741",
+    "translation": "4ec54722b7924edc"
+  }
+}

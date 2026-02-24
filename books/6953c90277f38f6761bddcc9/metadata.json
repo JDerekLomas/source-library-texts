@@ -1,0 +1,28 @@
+{
+  "id": "6953c90277f38f6761bddcc9",
+  "title": "Zend-Avesta (Darmesteter)",
+  "display_title": "Zend-Avesta (Darmesteter)",
+  "author": "Zoroaster / James Darmesteter",
+  "language": "Avestan",
+  "year": 1880,
+  "published": "Unknown",
+  "pages_count": 448,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6953c90277f38f6761bddcc9",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "zendavesta02darm"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:30.656Z",
+  "_hashes": {
+    "ocr": "4adfb62d7849fa4d",
+    "translation": "3d107927e7db6e26"
+  }
+}

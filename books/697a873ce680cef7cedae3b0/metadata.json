@@ -1,0 +1,26 @@
+{
+  "id": "697a873ce680cef7cedae3b0",
+  "title": "Die drey Säulen",
+  "display_title": "Die drey Säulen",
+  "author": "[Schumacher, Balthasar Gerhard]",
+  "language": "German",
+  "year": 1780,
+  "published": "1780",
+  "pages_count": 370,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 6,
+  "source_url": "https://sourcelibrary.org/book/697a873ce680cef7cedae3b0",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:34.502Z",
+  "_hashes": {
+    "ocr": "7dde16461ff5c4b0",
+    "translation": "88c29c4c98472068"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "6958e011cf7070242ed4235c",
+  "title": "Herbarum varias qui vis cognoscere vires",
+  "display_title": "Herbarum varias qui vis cognoscere vires",
+  "author": "Macer Floridus",
+  "language": "Latin",
+  "year": 1150,
+  "published": "1150",
+  "pages_count": 312,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6958e011cf7070242ed4235c",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "herbarumvariasq00macegoog"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:29.067Z",
+  "_hashes": {
+    "ocr": "119e913333d3c5b5",
+    "translation": "fe1680d44acab511"
+  }
+}

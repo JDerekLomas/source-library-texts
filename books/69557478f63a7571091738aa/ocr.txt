@@ -1,0 +1,129 @@
+--- Page 1 ---
+<lang>None</lang>
+<page-type>blank</page-type>
+<meta>Modern library barcode sticker: 3 1761 03521 7918</meta>
+
+<image-desc>The image shows the front cover of a bound manuscript or book. The material is a dark green cloth with a fine, woven texture. In the upper left-hand corner, there is a modern, white, rectangular library sticker containing a barcode and the identification number 3 1761 03521 7918.</image-desc>
+
+<vocab>book cover, barcode, library sticker</vocab>
+
+--- Page 2 ---
+<lang>None</lang>
+<page-type>blank</page-type>
+<meta>Blank page with vertical fold lines and adhesive residue at top right.</meta>
+
+<image-desc>A blank, aged page of off-white paper. The paper shows a slight texture and two distinct vertical crease lines. In the top right corner, there is a rectangular patch of translucent tape or adhesive residue.</image-desc>
+
+<vocab></vocab>
+
+--- Page 3 ---
+<lang>None</lang>
+<page-type>blank</page-type>
+<meta>This page contains no text or illustrations.</meta>
+<vocab></vocab>
+
+--- Page 4 ---
+<lang>None</lang>
+<page-type>blank</page-type>
+
+<vocab></vocab>
+
+--- Page 5 ---
+<lang>Latin</lang>
+<page-type>blank</page-type>
+<meta>Blank page with bleed-through from the reverse side and a faint, circular institutional stamp in the center.</meta>
+<warning>The page is blank; the visible text is bleed-through from the reverse side of the leaf.</warning>
+
+<image-desc>A blank page of parchment-colored paper. Faint ghosting of text from the reverse side is visible, notably what appears to be a heading at the top. A faded, circular stamp is present in the center of the page, though its contents are illegible.</image-desc>
+
+<vocab></vocab>
+
+--- Page 6 ---
+<lang>None</lang>
+<page-type>blank</page-type>
+
+<vocab></vocab>
+
+--- Page 7 ---
+<lang>lat</lang>
+<page-type>title-page</page-type>
+<page-num>71</page-num>
+<meta>This is the title page of Otto Kern's collection of Orphic fragments, published in 1922. It contains several handwritten library annotations and a faded University of Toronto Library stamp.</meta>
+
+<insert>274 my K.2</insert>
+
+<insert>
+Orpheus. Orphica
+9175
+</insert>
+
+# ORPHICORVM FRAGMENTA,
+
+<image-desc>A circular ink stamp from the University of Toronto Library, partially faded, featuring the university's crest in the center.</image-desc>
+
+->COLLEGIT<-
+
+## OTTO KERN
+
+<image-desc>A circular printer's device for the publisher Weidmannsche Buchhandlung. The woodcut illustration depicts a bearded scholar in profile, wearing a robe, sitting on a bench and reading a book resting on a stand. The border of the circle contains the text: WEIDMANNSCHE BVCHHANDLVNG BERLIN.</image-desc>
+
+<insert>
+335054
+---
+19. 1. 37.
+</insert>
+
+->BEROLINI<-
+->APVD WEIDMANNOS<-
+->MDCCCCXXII<-
+
+<vocab>Orphicorum Fragmenta, Otto Kern, Berolini, Weidmannsche Buchhandlung, Orphica</vocab>
+
+--- Page 8 ---
+<warning>Significant bleed-through from the recto side of the leaf (the title page) makes the reverse image of the title and publication details visible. There is also mirror-image text from a facing page at the top right.</warning>
+
+<lang>English</lang>
+<page-type>text</page-type>
+
+<image-desc>A circular library stamp is located in the upper left quadrant. It features a central crown with radiating lines, surrounded by the text "UNIVERSITY OF TORONTO LIBRARY".</image-desc>
+
+<insert>
+->PA<-
+->4258<-
+->O7<-
+->1922<-
+->cop. 2<-
+</insert>
+
+<image-desc>A faint, partially legible circular library stamp is visible in the center of the page.</image-desc>
+
+<insert>
+->332027<-
+->15 . 4 . 52<-
+</insert>
+
+<meta>The bleed-through text from the recto side of this leaf identifies the work as: ORPHICORUM FRAGMENTA, COLLEGIT OTTO KERN, BEROLINI APUD WEIDMANNOS, MDCCCCXXII. The call number corresponds to this edition.</meta>
+
+<vocab>University of Toronto Library, call number, accession number, cop. 2</vocab>
+
+--- Page 9 ---
+<warning>Faint bleed-through from the preceding page (containing a Latin "PRAEFATIO") is visible across the entire surface.</warning>
+<lang>lat</lang>
+<page-type>dedication</page-type>
+
+## D ▼ M
+
+# HERMANNI DIELS
+
+->ΣΕ ΔΗ ΛΙΕ ΑΥΔΩ ΤΟΝ ΚΑΤΑ ΧΘΟΝΟΣ ΝΕΚΥΝ<-
+->ΝΥΝ ΔΕ ΕΝ ΘΕΟΙΣ ΝΑΙΟΝΤΑ ΜΕΤΑ ΣΟΦΩΝ ΣΟΦΟΝ<-
+
+<vocab>Hermann Diels, Dis Manibus, funerary epigram, classical scholarship, Ancient Greek verse</vocab>
+
+--- Page 10 ---
+<lang>Latin</lang>
+<page-type>blank</page-type>
+<warning>The page is blank. The faint text visible is mirrored bleed-through or show-through from the reverse side of the leaf.</warning>
+<meta>Mirrored text from the reverse side includes "HERMANNI DIELS" and "M G".</meta>
+
+<vocab>Hermann Diels</vocab>

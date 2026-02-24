@@ -1,0 +1,26 @@
+{
+  "id": "697c8e13d4a23f3bc792c88a",
+  "title": "Fürstl. Anhaltische gehaimbe Cantzley",
+  "display_title": "Fürstl. Anhaltische gehaimbe Cantzley",
+  "author": "[Jocher, Wilhelm]",
+  "language": "German",
+  "year": 1621,
+  "published": "1621",
+  "pages_count": 468,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 5,
+  "source_url": "https://sourcelibrary.org/book/697c8e13d4a23f3bc792c88a",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:31.918Z",
+  "_hashes": {
+    "ocr": "ffd59c16c60bbe9a",
+    "translation": "4e958a41190ed403"
+  }
+}

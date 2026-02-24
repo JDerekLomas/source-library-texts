@@ -1,0 +1,28 @@
+{
+  "id": "6958de54cf7070242ed41750",
+  "title": "Theatrum Botanicum: The Theater of Plants",
+  "display_title": "Theatrum Botanicum: The Theater of Plants",
+  "author": "John Parkinson",
+  "language": "English",
+  "year": 1629,
+  "published": "1629",
+  "pages_count": 1785,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/6958de54cf7070242ed41750",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "theatrumbotanicum00park"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:30:32.059Z",
+  "_hashes": {
+    "ocr": "9983a3c66ba73444",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

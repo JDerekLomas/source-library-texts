@@ -1,0 +1,28 @@
+{
+  "id": "6959369c3b43cb6630c917aa",
+  "title": "Liber Spirituum Potentissimorum (Compendium Magiae Nigrae)",
+  "display_title": "Liber Spirituum Potentissimorum (Compendium Magiae Nigrae)",
+  "author": "J.G. Herpentil",
+  "language": "Latin",
+  "year": 1680,
+  "published": "Unknown",
+  "pages_count": 144,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 8,
+  "source_url": "https://sourcelibrary.org/book/6959369c3b43cb6630c917aa",
+  "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "HerpentilLiberSpirituumPotentissimorum"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:27.846Z",
+  "_hashes": {
+    "ocr": "0af79f505e380dbf",
+    "translation": "4fb776d58b0e0fe4"
+  }
+}

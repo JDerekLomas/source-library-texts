@@ -1,0 +1,28 @@
+{
+  "id": "6955da57646474023271beb0",
+  "title": "Sergius uel Capitis Caput",
+  "display_title": "Sergius uel Capitis Caput",
+  "author": "Johann Reuchlin",
+  "language": "Latin",
+  "year": 1513,
+  "published": "Unknown",
+  "pages_count": 102,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6955da57646474023271beb0",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "ita-bnc-mag-00000668-002"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:31.689Z",
+  "_hashes": {
+    "ocr": "ba6cdd9aa0595b04",
+    "translation": "cb121c468acb0a95"
+  }
+}

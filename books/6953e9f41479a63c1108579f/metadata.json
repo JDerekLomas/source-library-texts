@@ -1,0 +1,28 @@
+{
+  "id": "6953e9f41479a63c1108579f",
+  "title": "Mechanica Vol. I (1736)",
+  "display_title": "Mechanica Vol. I (1736)",
+  "author": "Leonhard Euler",
+  "language": "Latin",
+  "year": 1736,
+  "published": "1736",
+  "pages_count": 544,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6953e9f41479a63c1108579f",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "mechanicasivemot01eule"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:35.189Z",
+  "_hashes": {
+    "ocr": "78204e9b9676f433",
+    "translation": "ba25ede600b36602"
+  }
+}

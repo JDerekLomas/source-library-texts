@@ -1,0 +1,28 @@
+{
+  "id": "6953c85b77f38f6761bdc00b",
+  "title": "An Encyclopaedia of Occultism",
+  "display_title": "An Encyclopaedia of Occultism",
+  "author": "Lewis Spence",
+  "language": "English",
+  "year": 1920,
+  "published": "1920",
+  "pages_count": 516,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6953c85b77f38f6761bdc00b",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "encyclopaediaofo1920spen"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:30.923Z",
+  "_hashes": {
+    "ocr": "b055d0964c3452bf",
+    "translation": "2f123896a310effc"
+  }
+}

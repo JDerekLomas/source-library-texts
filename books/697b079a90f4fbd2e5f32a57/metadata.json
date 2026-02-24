@@ -1,0 +1,26 @@
+{
+  "id": "697b079a90f4fbd2e5f32a57",
+  "title": "Der erste Tempel Gottes in Christo",
+  "display_title": "Der erste Tempel Gottes in Christo",
+  "author": "Glüsing, Johann Otto",
+  "language": "German",
+  "year": 1720,
+  "published": "1720",
+  "pages_count": 1204,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 6,
+  "source_url": "https://sourcelibrary.org/book/697b079a90f4fbd2e5f32a57",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:26.692Z",
+  "_hashes": {
+    "ocr": "4dbe72cb153d90fa",
+    "translation": "35d4808f6f75eedf"
+  }
+}

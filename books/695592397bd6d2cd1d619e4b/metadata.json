@@ -1,0 +1,28 @@
+{
+  "id": "695592397bd6d2cd1d619e4b",
+  "title": "Agrippa Fourth Book of Occult Philosophy with Geomancy",
+  "display_title": "Agrippa Fourth Book of Occult Philosophy with Geomancy",
+  "author": "Agrippa / Petrus de Abano / Gerardus Cremonensis",
+  "language": "English",
+  "year": 1559,
+  "published": "Unknown",
+  "pages_count": 252,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/695592397bd6d2cd1d619e4b",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "cu31924006718757"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:33.880Z",
+  "_hashes": {
+    "ocr": "8d203653806a3239",
+    "translation": "9c2fcc8706df3ef2"
+  }
+}

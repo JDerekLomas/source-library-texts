@@ -1,0 +1,28 @@
+{
+  "id": "695596277bd6d2cd1d620d04",
+  "title": "The Secret Tradition in Freemasonry",
+  "display_title": "The Secret Tradition in Freemasonry",
+  "author": "Arthur Edward Waite",
+  "language": "English",
+  "year": 1911,
+  "published": "Unknown",
+  "pages_count": 498,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/695596277bd6d2cd1d620d04",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "secrettraditioni01waituoft"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:32.955Z",
+  "_hashes": {
+    "ocr": "85bdf5f5c11364e3",
+    "translation": "01510584c4697507"
+  }
+}

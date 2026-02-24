@@ -1,0 +1,28 @@
+{
+  "id": "6953ce6577f38f6761be4124",
+  "title": "Seneca Epistulae Morales Vol. 2 (Letters 66-92)",
+  "display_title": "Seneca Epistulae Morales Vol. 2 (Letters 66-92)",
+  "author": "Seneca",
+  "language": "Latin",
+  "year": 1639,
+  "published": "1639",
+  "pages_count": 729,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6953ce6577f38f6761be4124",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "L076SenecaTheYoungerEpistulaeMoralesV6692"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:28.686Z",
+  "_hashes": {
+    "ocr": "4fb2b5b237ab0ae7",
+    "translation": "72e082dd11ac9179"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "6970a31cd0c3aedc9cf10a92",
+  "title": "50 Homilien oft verclaringhen",
+  "display_title": "50 Homilien oft verclaringhen",
+  "author": "Macarius",
+  "language": "Dutch",
+  "year": 1580,
+  "published": "1580",
+  "pages_count": 338,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 6,
+  "source_url": "https://sourcelibrary.org/book/6970a31cd0c3aedc9cf10a92",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:26.458Z",
+  "_hashes": {
+    "ocr": "f2c6c4557bf4f26f",
+    "translation": "8ebe37c60d068bbc"
+  }
+}

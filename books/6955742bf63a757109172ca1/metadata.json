@@ -1,0 +1,28 @@
+{
+  "id": "6955742bf63a757109172ca1",
+  "title": "Antiquae Musicae Auctores Septem (Graece et Latine)",
+  "display_title": "Antiquae Musicae Auctores Septem (Graece et Latine)",
+  "author": "Marcus Meibom (ed.); Aristoxenus; Euclid; Nicomachus; Alypius; Gaudentius; Bacchius; Aristides Quintilianus",
+  "language": "Greek/Latin",
+  "year": 1652,
+  "published": "1652",
+  "pages_count": 910,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6955742bf63a757109172ca1",
+  "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bub_gb_JgtAAAAAcAAJ"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:29.518Z",
+  "_hashes": {
+    "ocr": "bfb5d08669e672f6",
+    "translation": "bb9ce91b2fc5a192"
+  }
+}

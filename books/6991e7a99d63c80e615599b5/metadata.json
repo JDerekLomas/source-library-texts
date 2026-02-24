@@ -1,0 +1,28 @@
+{
+  "id": "6991e7a99d63c80e615599b5",
+  "title": "Codex Atlanticus (partial)",
+  "display_title": "Codex Atlanticus (partial)",
+  "author": "Leonardo da Vinci",
+  "language": "Italian",
+  "year": 1894,
+  "published": "Unknown",
+  "pages_count": 10,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6991e7a99d63c80e615599b5",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "codex-atlanticus-leonardo-da-vinci"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:32.993Z",
+  "_hashes": {
+    "ocr": "7c4a82ecaa4cd427",
+    "translation": "73e2ed76cf88abd7"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "695933aab282844d7b277612",
+  "title": "Chymische Hochzeit Christiani Rosencreutz",
+  "display_title": "Chymische Hochzeit Christiani Rosencreutz",
+  "author": "Johann Valentin Andreae",
+  "language": "German",
+  "year": 1616,
+  "published": "1616",
+  "pages_count": 150,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 8,
+  "source_url": "https://sourcelibrary.org/book/695933aab282844d7b277612",
+  "license": "https://rightsstatements.org/vocab/NoC-NC/1.0/",
+  "doi": null,
+  "external_ids": {
+    "mdz": "bsb10434959"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:27.376Z",
+  "_hashes": {
+    "ocr": "fe84311ff47a37bc",
+    "translation": "6c2e47976127d0e2"
+  }
+}

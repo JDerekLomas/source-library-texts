@@ -1,0 +1,28 @@
+{
+  "id": "6958df52dc939691982c56f3",
+  "title": "De plantis Aegypti liber",
+  "display_title": "De plantis Aegypti liber",
+  "author": "Prospero Alpini",
+  "language": "Latin",
+  "year": 1592,
+  "published": "1592",
+  "pages_count": 201,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 5,
+  "source_url": "https://sourcelibrary.org/book/6958df52dc939691982c56f3",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "gri_33125015923333"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:32.625Z",
+  "_hashes": {
+    "ocr": "748c61cfda13336a",
+    "translation": "85b455834eaae51e"
+  }
+}

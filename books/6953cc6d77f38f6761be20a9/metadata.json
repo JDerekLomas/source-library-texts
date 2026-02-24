@@ -1,0 +1,28 @@
+{
+  "id": "6953cc6d77f38f6761be20a9",
+  "title": "De Proprietatibus Rerum - Medieval Manuscript",
+  "display_title": "De Proprietatibus Rerum - Medieval Manuscript",
+  "author": "Bartholomaeus Anglicus",
+  "language": "Latin",
+  "year": 1275,
+  "published": "1275",
+  "pages_count": 530,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6953cc6d77f38f6761be20a9",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "deproprietatibu00bart"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:29.957Z",
+  "_hashes": {
+    "ocr": "c6506eaca484c3c7",
+    "translation": "1419b6c11093be5c"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "6958e00ecf7070242ed422d7",
+  "title": "De viribus herbarum",
+  "display_title": "De viribus herbarum",
+  "author": "Macer Floridus (Odo of Meung)",
+  "language": "Latin",
+  "year": 1090,
+  "published": "Unknown",
+  "pages_count": 132,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 3,
+  "source_url": "https://sourcelibrary.org/book/6958e00ecf7070242ed422d7",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "hin-wel-all-00002301-001"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:29.238Z",
+  "_hashes": {
+    "ocr": "43e8d4f905ee8aac",
+    "translation": "2e5e3ac71139248c"
+  }
+}

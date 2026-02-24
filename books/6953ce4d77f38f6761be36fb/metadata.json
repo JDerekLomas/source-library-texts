@@ -1,0 +1,28 @@
+{
+  "id": "6953ce4d77f38f6761be36fb",
+  "title": "Meditations of Marcus Aurelius (Communings with Himself)",
+  "display_title": "Meditations of Marcus Aurelius (Communings with Himself)",
+  "author": "Marcus Aurelius",
+  "language": "Greek",
+  "year": 1916,
+  "published": "1916",
+  "pages_count": 194,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6953ce4d77f38f6761be36fb",
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "the-communings-with-himself-of-marcus-aurelius-antoninus"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:29.164Z",
+  "_hashes": {
+    "ocr": "3c0409550e86b36e",
+    "translation": "b9566dc1774a13bf"
+  }
+}
