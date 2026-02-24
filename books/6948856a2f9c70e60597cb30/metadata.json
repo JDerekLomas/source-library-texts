@@ -1,0 +1,28 @@
+{
+  "id": "6948856a2f9c70e60597cb30",
+  "title": "Marsilii Ficini Florentini medici atq[ue] philosophi celeberrimi, de vita libri tres, recens iam à mendis sitúq[ue] uindicati : qvorvm primus, de studiosorum sanitate tuenda ; secundus, de vita producenda ; tertius, de vita coelitus comparanda ; apologia ; his accessit eiusdem epidemiarum antidotus, tutelae quoq[ue] bonae ualetudinis attinens ; cum omnium nouo rerum atque indice",
+  "display_title": "Three Books on Life",
+  "author": "Ficino, Marsilio, 1433-1499",
+  "language": "Latin",
+  "year": 1529,
+  "published": "1529",
+  "pages_count": 400,
+  "pages_with_ocr": 400,
+  "pages_with_translation": 390,
+  "source_url": "https://sourcelibrary.org/book/6948856a2f9c70e60597cb30",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "2236046R.nlm.nih.gov"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:25:36.317Z",
+  "_hashes": {
+    "ocr": "80173384ea6a68ae",
+    "translation": "3300e7fcf0aa739d"
+  }
+}

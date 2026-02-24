@@ -1,0 +1,28 @@
+{
+  "id": "9f2fd808-7d15-40c2-a333-885c67ff3cb5",
+  "title": "Volumen Paramirum und Opus Paramirum",
+  "display_title": "Paramirum Works",
+  "author": "Paracelsus",
+  "language": "German",
+  "year": 1904,
+  "published": "1904",
+  "pages_count": 428,
+  "pages_with_ocr": 428,
+  "pages_with_translation": 428,
+  "source_url": "https://sourcelibrary.org/book/9f2fd808-7d15-40c2-a333-885c67ff3cb5",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "b24867330"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:25:11.238Z",
+  "_hashes": {
+    "ocr": "bb7ac2eb2c4ec0d2",
+    "translation": "a8a9bd988f0db37a"
+  }
+}

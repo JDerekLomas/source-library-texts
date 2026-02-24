@@ -1,0 +1,28 @@
+{
+  "id": "6990647bef12272ffdc925d4",
+  "title": "Jataka Bharnam",
+  "display_title": "Jataka Bharnam",
+  "author": "Dhundhiraj",
+  "language": "Sanskrit",
+  "year": 1610,
+  "published": "Unknown",
+  "pages_count": 442,
+  "pages_with_ocr": 442,
+  "pages_with_translation": 442,
+  "source_url": "https://sourcelibrary.org/book/6990647bef12272ffdc925d4",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "jataka-bharnam-dhundhiraj-hindi"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:25:01.089Z",
+  "_hashes": {
+    "ocr": "3c74f942a2904075",
+    "translation": "fcbada189ab900c5"
+  }
+}

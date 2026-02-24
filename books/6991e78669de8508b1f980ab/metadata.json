@@ -1,0 +1,28 @@
+{
+  "id": "6991e78669de8508b1f980ab",
+  "title": "Les Manuscrits de Leonardo da Vinci (Peladan compilation)",
+  "display_title": "Les Manuscrits de Leonardo da Vinci (Peladan compilation)",
+  "author": "Leonardo da Vinci",
+  "language": "French",
+  "year": 1910,
+  "published": "Unknown",
+  "pages_count": 424,
+  "pages_with_ocr": 424,
+  "pages_with_translation": 424,
+  "source_url": "https://sourcelibrary.org/book/6991e78669de8508b1f980ab",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "lesmanuscritsdel00leonuoft"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:25:13.764Z",
+  "_hashes": {
+    "ocr": "061a487d9b5cb7a4",
+    "translation": "ed8f5beb17ac6c6e"
+  }
+}

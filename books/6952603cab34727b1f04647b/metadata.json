@@ -1,0 +1,28 @@
+{
+  "id": "6952603cab34727b1f04647b",
+  "title": "De signatura rerum",
+  "display_title": "Signatura Rerum (Signature of All Things)",
+  "author": "Jakob Böhme",
+  "language": "German",
+  "year": 1635,
+  "published": "1635",
+  "pages_count": 410,
+  "pages_with_ocr": 410,
+  "pages_with_translation": 405,
+  "source_url": "https://sourcelibrary.org/book/6952603cab34727b1f04647b",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bub_gb_3AdRAAAAcAAJ"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:25:24.225Z",
+  "_hashes": {
+    "ocr": "27e6e53cba220abb",
+    "translation": "6247713cbf778829"
+  }
+}

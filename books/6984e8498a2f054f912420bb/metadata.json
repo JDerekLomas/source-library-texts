@@ -1,0 +1,26 @@
+{
+  "id": "6984e8498a2f054f912420bb",
+  "title": "Paradoxa CCLXXX. Das ist: zweyhundert und achtzig Wunder-Reden",
+  "display_title": "Paradoxa CCLXXX. Das ist: zweyhundert und achtzig Wunder-Reden",
+  "author": "Franck, Sebastian",
+  "language": "German",
+  "year": 1690,
+  "published": "1690",
+  "pages_count": 805,
+  "pages_with_ocr": 438,
+  "pages_with_translation": 4,
+  "source_url": "https://sourcelibrary.org/book/6984e8498a2f054f912420bb",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:25:03.139Z",
+  "_hashes": {
+    "ocr": "127dfb68cda396f8",
+    "translation": "f2b3bc1850416f71"
+  }
+}

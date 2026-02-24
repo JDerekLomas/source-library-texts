@@ -1,0 +1,28 @@
+{
+  "id": "6991eb0b2f801130a473f292",
+  "title": "Leonardo Prosatore: scelta di scritti Vinciani",
+  "display_title": "Leonardo Prosatore: scelta di scritti Vinciani",
+  "author": "Leonardo da Vinci",
+  "language": "Italian",
+  "year": 1900,
+  "published": "Unknown",
+  "pages_count": 406,
+  "pages_with_ocr": 405,
+  "pages_with_translation": 405,
+  "source_url": "https://sourcelibrary.org/book/6991eb0b2f801130a473f292",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "leonardoprosator00leonuoft"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:25:29.610Z",
+  "_hashes": {
+    "ocr": "68a9754ac8b837ad",
+    "translation": "74ee1a525e01944f"
+  }
+}

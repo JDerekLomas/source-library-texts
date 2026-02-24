@@ -1,0 +1,28 @@
+{
+  "id": "69907cfca3654a711c0b6e8f",
+  "title": "Pancha Svara of Prajapati Das",
+  "display_title": "Pancha Svara (Prajapati Das)",
+  "author": "Prajapati Das",
+  "language": "Sanskrit",
+  "year": 1800,
+  "published": "1800",
+  "pages_count": 394,
+  "pages_with_ocr": 394,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/69907cfca3654a711c0b6e8f",
+  "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "PanchaSvaraPrajapatiDasAlm27Shlf361181828KDevanagariJyotish"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:25:38.912Z",
+  "_hashes": {
+    "ocr": "2e5be869c92a76d1",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "6988a5a067c850b3e65d943e",
+  "title": "Les ruines, ou méditation sur les révolutions des empires",
+  "display_title": "Les ruines, ou méditation sur les révolutions des empires",
+  "author": "Volney, Constantin François Chasseboeuf de",
+  "language": "French",
+  "year": 1792,
+  "published": "1792",
+  "pages_count": 476,
+  "pages_with_ocr": 430,
+  "pages_with_translation": 72,
+  "source_url": "https://sourcelibrary.org/book/6988a5a067c850b3e65d943e",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:25:08.099Z",
+  "_hashes": {
+    "ocr": "edae5473303dccd0",
+    "translation": "41e12177c9af8142"
+  }
+}

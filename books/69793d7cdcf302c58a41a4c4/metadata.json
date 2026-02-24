@@ -1,0 +1,26 @@
+{
+  "id": "69793d7cdcf302c58a41a4c4",
+  "title": "Commentarii in mysticam theologiam S. Dionysii Areopagitae",
+  "display_title": "Commentarii in mysticam theologiam S. Dionysii Areopagitae",
+  "author": "Eck, Johann",
+  "language": "Latin",
+  "year": 1610,
+  "published": "1610",
+  "pages_count": 430,
+  "pages_with_ocr": 430,
+  "pages_with_translation": 5,
+  "source_url": "https://sourcelibrary.org/book/69793d7cdcf302c58a41a4c4",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:25:07.703Z",
+  "_hashes": {
+    "ocr": "62c5c4e9f0d7d599",
+    "translation": "7342d2187ad0e844"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "697d9c999788c62e1238c886",
+  "title": "Histoire de Barlaam et de Josaphat",
+  "display_title": "Histoire de Barlaam et de Josaphat",
+  "author": "anonymous",
+  "language": "French",
+  "year": 1574,
+  "published": "1574",
+  "pages_count": 432,
+  "pages_with_ocr": 432,
+  "pages_with_translation": 2,
+  "source_url": "https://sourcelibrary.org/book/697d9c999788c62e1238c886",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:25:06.830Z",
+  "_hashes": {
+    "ocr": "6825bf1f4dcda5ff",
+    "translation": "d289480db3b78256"
+  }
+}

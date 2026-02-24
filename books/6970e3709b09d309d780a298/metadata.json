@@ -1,0 +1,26 @@
+{
+  "id": "6970e3709b09d309d780a298",
+  "title": "Ueber die alten und neuen Mysterien",
+  "display_title": "Ueber die alten und neuen Mysterien",
+  "author": "[Starck, Johann August von]",
+  "language": "German",
+  "year": 1782,
+  "published": "1782",
+  "pages_count": 425,
+  "pages_with_ocr": 425,
+  "pages_with_translation": 406,
+  "source_url": "https://sourcelibrary.org/book/6970e3709b09d309d780a298",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:25:12.697Z",
+  "_hashes": {
+    "ocr": "f0c64a66a373e84b",
+    "translation": "7c9065c400a3261b"
+  }
+}

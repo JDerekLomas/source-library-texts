@@ -1,0 +1,28 @@
+{
+  "id": "695591637bd6d2cd1d618cf0",
+  "title": "Paracelsus Opera (Huser Edition)",
+  "display_title": "Paracelsus Opera (Huser Edition)",
+  "author": "Paracelsus / Johannes Huser",
+  "language": "German",
+  "year": 1589,
+  "published": "Unknown",
+  "pages_count": 722,
+  "pages_with_ocr": 455,
+  "pages_with_translation": 198,
+  "source_url": "https://sourcelibrary.org/book/695591637bd6d2cd1d618cf0",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "aureoliphilippit00para"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:24:52.525Z",
+  "_hashes": {
+    "ocr": "5ffc9bb583aad945",
+    "translation": "38d1688527fe9b79"
+  }
+}

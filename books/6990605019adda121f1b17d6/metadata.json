@@ -1,0 +1,28 @@
+{
+  "id": "6990605019adda121f1b17d6",
+  "title": "Sarvartha Chintamani",
+  "display_title": "Sarvartha Chintamani",
+  "author": "Venkatesa Daivagya",
+  "language": "Sanskrit",
+  "year": 1350,
+  "published": "Unknown",
+  "pages_count": 452,
+  "pages_with_ocr": 452,
+  "pages_with_translation": 452,
+  "source_url": "https://sourcelibrary.org/book/6990605019adda121f1b17d6",
+  "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "SarvarthaChintamaniPanjabUni"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:24:54.259Z",
+  "_hashes": {
+    "ocr": "f46c4598cbacb591",
+    "translation": "c6692a99b48abf3f"
+  }
+}

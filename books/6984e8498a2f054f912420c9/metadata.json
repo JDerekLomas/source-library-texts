@@ -1,0 +1,26 @@
+{
+  "id": "6984e8498a2f054f912420c9",
+  "title": "De orbis terrae concordia libri quatuor",
+  "display_title": "De orbis terrae concordia libri quatuor",
+  "author": "Postel, Guillaume",
+  "language": "Latin",
+  "year": 1544,
+  "published": "1544",
+  "pages_count": 520,
+  "pages_with_ocr": 439,
+  "pages_with_translation": 5,
+  "source_url": "https://sourcelibrary.org/book/6984e8498a2f054f912420c9",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:25:01.670Z",
+  "_hashes": {
+    "ocr": "42ba8bd2cc50f342",
+    "translation": "29de1287be1db485"
+  }
+}

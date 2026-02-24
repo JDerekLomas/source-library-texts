@@ -1,0 +1,26 @@
+{
+  "id": "6909f42ecf28baa1b4cb0dc3",
+  "title": "Erzählungen zum Vergnügen und zur Seelenbildung",
+  "display_title": "Stories for Pleasure and Edification",
+  "author": "Eckartshausen, Karl von",
+  "language": "German",
+  "year": 1785,
+  "published": "1785",
+  "pages_count": 424,
+  "pages_with_ocr": 424,
+  "pages_with_translation": 424,
+  "source_url": "https://sourcelibrary.org/book/6909f42ecf28baa1b4cb0dc3",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:25:14.205Z",
+  "_hashes": {
+    "ocr": "44ec6a4baa68dd53",
+    "translation": "20fe8e8be034bc39"
+  }
+}

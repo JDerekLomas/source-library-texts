@@ -1,0 +1,26 @@
+{
+  "id": "697c8e0fbaa544415f85b6c8",
+  "title": "Geschichte der menschlichen Narrheit",
+  "display_title": "Geschichte der menschlichen Narrheit",
+  "author": "[Adelung, Johann Christoph]",
+  "language": "German",
+  "year": 1785,
+  "published": "1785-1789",
+  "pages_count": 392,
+  "pages_with_ocr": 392,
+  "pages_with_translation": 6,
+  "source_url": "https://sourcelibrary.org/book/697c8e0fbaa544415f85b6c8",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:25:39.619Z",
+  "_hashes": {
+    "ocr": "1deb98c0da8c6faf",
+    "translation": "1054659f90e0d392"
+  }
+}

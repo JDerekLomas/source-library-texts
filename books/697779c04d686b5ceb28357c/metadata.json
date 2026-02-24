@@ -1,0 +1,26 @@
+{
+  "id": "697779c04d686b5ceb28357c",
+  "title": "Bücher und Schrifften, so viel deren ans Liecht kommen. Sambt seinem heiligen wunderbarlichen Leben",
+  "display_title": "Bücher und Schrifften, so viel deren ans Liecht kommen. Sambt seinem heiligen wunderbarlichen Leben",
+  "author": "Seuse, Heinrich",
+  "language": "German",
+  "year": 1661,
+  "published": "1661",
+  "pages_count": 404,
+  "pages_with_ocr": 404,
+  "pages_with_translation": 5,
+  "source_url": "https://sourcelibrary.org/book/697779c04d686b5ceb28357c",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:25:31.569Z",
+  "_hashes": {
+    "ocr": "d6e91b10a150dfb6",
+    "translation": "3eb94ac1b44c15ef"
+  }
+}

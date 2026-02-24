@@ -1,0 +1,28 @@
+{
+  "id": "6952b02277f38f6761bc1f63",
+  "title": "Examen vanitatis doctrinae gentium",
+  "display_title": "Examination of the Vanity of Pagan Doctrine",
+  "author": "Pico della Mirandola, Giovanni Francesco",
+  "language": "Latin",
+  "year": 1520,
+  "published": "1520",
+  "pages_count": 438,
+  "pages_with_ocr": 438,
+  "pages_with_translation": 368,
+  "source_url": "https://sourcelibrary.org/book/6952b02277f38f6761bc1f63",
+  "license": "https://rightsstatements.org/vocab/NoC-NC/1.0/",
+  "doi": null,
+  "external_ids": {
+    "mdz": "bsb10138932"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:25:02.734Z",
+  "_hashes": {
+    "ocr": "e03f34fc11c8c3ae",
+    "translation": "ef2246569a4f9685"
+  }
+}

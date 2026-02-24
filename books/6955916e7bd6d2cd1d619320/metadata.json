@@ -1,0 +1,28 @@
+{
+  "id": "6955916e7bd6d2cd1d619320",
+  "title": "Deutsches Theatrum Chemicum Vol. I",
+  "display_title": "Deutsches Theatrum Chemicum Vol. I",
+  "author": "Various",
+  "language": "German",
+  "year": 1728,
+  "published": "Unknown",
+  "pages_count": 1130,
+  "pages_with_ocr": 460,
+  "pages_with_translation": 442,
+  "source_url": "https://sourcelibrary.org/book/6955916e7bd6d2cd1d619320",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "b30528215_0001"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:24:49.665Z",
+  "_hashes": {
+    "ocr": "a1ce1a999f1ab927",
+    "translation": "50cecdd80b0eca67"
+  }
+}

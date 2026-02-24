@@ -1,0 +1,26 @@
+{
+  "id": "6970e35f9b09d309d780a264",
+  "title": "De alchemia. De investigatione perfectionis metallorum. Summae perfectionis metallorum. De inventione veritatis. De fornacibus construendis. Speculum alchimiae. Correctorium alchimiae. Rosarius minor. Liber secretorum alchemiae. Tabula smaragdina. Super tabulam smaragdinam Hermetis commentarius",
+  "display_title": "De alchemia. De investigatione perfectionis metallorum. Summae perfectionis metallorum. De inventione veritatis. De fornacibus construendis. Speculum alchimiae. Correctorium alchimiae. Rosarius minor. Liber secretorum alchemiae. Tabula smaragdina. Super tabulam smaragdinam Hermetis commentarius",
+  "author": "Geber|Bacon, Roger|Richardus Anglicus|Calid|Hermes Trismegistus|Hortulanus",
+  "language": "Latin",
+  "year": 1541,
+  "published": "1541",
+  "pages_count": 414,
+  "pages_with_ocr": 414,
+  "pages_with_translation": 405,
+  "source_url": "https://sourcelibrary.org/book/6970e35f9b09d309d780a264",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:25:20.956Z",
+  "_hashes": {
+    "ocr": "117fd1ce9dae1589",
+    "translation": "b504772f1d274829"
+  }
+}

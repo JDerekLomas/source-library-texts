@@ -1,0 +1,28 @@
+{
+  "id": "6990694d2f82e0fda48068c9",
+  "title": "Brihat Samhita (Venkateshwara Steam Press)",
+  "display_title": "Brihat Samhita (Venkateshwara Steam Press)",
+  "author": "Varahamihira; ed. Baldev Prasad Misra",
+  "language": "Sanskrit",
+  "year": 1900,
+  "published": "Unknown",
+  "pages_count": 454,
+  "pages_with_ocr": 454,
+  "pages_with_translation": 454,
+  "source_url": "https://sourcelibrary.org/book/6990694d2f82e0fda48068c9",
+  "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "brihatsamhitavarahamihirabruhatbaldevprasadmisravenkateswarasteampress_788_L"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:24:53.795Z",
+  "_hashes": {
+    "ocr": "a589dcdfff0ec704",
+    "translation": "a0736915e7c3e353"
+  }
+}

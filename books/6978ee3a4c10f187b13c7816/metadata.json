@@ -1,0 +1,26 @@
+{
+  "id": "6978ee3a4c10f187b13c7816",
+  "title": "Chronyck der Waldensen",
+  "display_title": "Chronyck der Waldensen",
+  "author": "[Sudermann, D.]",
+  "language": "Dutch",
+  "year": 1657,
+  "published": "1657",
+  "pages_count": 404,
+  "pages_with_ocr": 404,
+  "pages_with_translation": 195,
+  "source_url": "https://sourcelibrary.org/book/6978ee3a4c10f187b13c7816",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:25:31.035Z",
+  "_hashes": {
+    "ocr": "beff68aea37081d0",
+    "translation": "10e57ea975212285"
+  }
+}

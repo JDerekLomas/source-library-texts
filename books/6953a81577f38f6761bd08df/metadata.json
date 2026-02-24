@@ -1,0 +1,28 @@
+{
+  "id": "6953a81577f38f6761bd08df",
+  "title": "David the Invincible: Works on Porphyry and Aristotle",
+  "display_title": "David the Invincible: Works on Porphyry and Aristotle",
+  "author": "David Anhaght (Dawit Anyalt)",
+  "language": "Armenian",
+  "year": 1300,
+  "published": "1300-1399",
+  "pages_count": 461,
+  "pages_with_ocr": 461,
+  "pages_with_translation": 460,
+  "source_url": "https://sourcelibrary.org/book/6953a81577f38f6761bd08df",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "gallica": "btv1b100871557"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:24:49.204Z",
+  "_hashes": {
+    "ocr": "bf0a3073b9da7b9b",
+    "translation": "64d8911a05380a92"
+  }
+}

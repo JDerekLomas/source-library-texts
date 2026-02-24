@@ -1,0 +1,28 @@
+{
+  "id": "6991eaaf2f801130a473de22",
+  "title": "Les manuscrits de Leonard de Vinci, Vol. 5",
+  "display_title": "Les manuscrits de Leonard de Vinci, Vol. 5",
+  "author": "Leonardo da Vinci (ed. Ravaisson-Mollien)",
+  "language": "French",
+  "year": 1888,
+  "published": "Unknown",
+  "pages_count": 436,
+  "pages_with_ocr": 436,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/6991eaaf2f801130a473de22",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "lesmanuscritsdel05lo"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:25:05.618Z",
+  "_hashes": {
+    "ocr": "789b02513f61f3e7",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

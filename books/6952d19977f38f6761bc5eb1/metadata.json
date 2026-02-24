@@ -1,0 +1,28 @@
+{
+  "id": "6952d19977f38f6761bc5eb1",
+  "title": "A new light of alchymie",
+  "display_title": "New Light of Alchemy (with Paracelsus)",
+  "author": "Sendivogius, Michael | Paracelsus",
+  "language": "English",
+  "year": 1650,
+  "published": "1650",
+  "pages_count": 390,
+  "pages_with_ocr": 390,
+  "pages_with_translation": 390,
+  "source_url": "https://sourcelibrary.org/book/6952d19977f38f6761bc5eb1",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "newlightofalchym00sedz"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:25:40.006Z",
+  "_hashes": {
+    "ocr": "dd33ba0beae2c8d2",
+    "translation": "85c4103ab08f6579"
+  }
+}

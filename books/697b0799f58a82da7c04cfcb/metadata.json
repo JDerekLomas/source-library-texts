@@ -1,0 +1,26 @@
+{
+  "id": "697b0799f58a82da7c04cfcb",
+  "title": "D.O.M.A. Examen philosophiae novae",
+  "display_title": "D.O.M.A. Examen philosophiae novae",
+  "author": "Libavius, Andreas",
+  "language": "Latin",
+  "year": 1615,
+  "published": "1615",
+  "pages_count": 432,
+  "pages_with_ocr": 431,
+  "pages_with_translation": 2,
+  "source_url": "https://sourcelibrary.org/book/697b0799f58a82da7c04cfcb",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:25:07.444Z",
+  "_hashes": {
+    "ocr": "441654953b63bdc6",
+    "translation": "030944c3be4c3d93"
+  }
+}

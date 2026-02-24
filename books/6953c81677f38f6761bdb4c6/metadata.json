@@ -1,0 +1,28 @@
+{
+  "id": "6953c81677f38f6761bdb4c6",
+  "title": "Yoga-System of Patanjali (Woods - Harvard)",
+  "display_title": "Yoga-System of Patanjali (Woods - Harvard)",
+  "author": "Patanjali / James Haughton Woods",
+  "language": "Sanskrit",
+  "year": 1914,
+  "published": "Unknown",
+  "pages_count": 438,
+  "pages_with_ocr": 434,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/6953c81677f38f6761bdb4c6",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "yogasystemofpata00wooduoft"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:25:05.939Z",
+  "_hashes": {
+    "ocr": "88a9ae459aacd888",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "69804b901fb2ba7cf1d43a10",
+  "title": "Kern aller Gebethe",
+  "display_title": "Kern aller Gebethe",
+  "author": "Neumann, Caspar",
+  "language": "German",
+  "year": 1714,
+  "published": "1714",
+  "pages_count": 408,
+  "pages_with_ocr": 408,
+  "pages_with_translation": 5,
+  "source_url": "https://sourcelibrary.org/book/69804b901fb2ba7cf1d43a10",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:25:26.263Z",
+  "_hashes": {
+    "ocr": "2351dd138e19fa2e",
+    "translation": "b3c7f95fdf5e92db"
+  }
+}

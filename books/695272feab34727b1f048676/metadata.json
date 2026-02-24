@@ -1,0 +1,28 @@
+{
+  "id": "695272feab34727b1f048676",
+  "title": "Le Opere Italiane",
+  "display_title": "Le Opere Italiane di Giordano Bruno",
+  "author": "Giordano Bruno",
+  "language": "Italian",
+  "year": 1888,
+  "published": "1888",
+  "pages_count": 409,
+  "pages_with_ocr": 398,
+  "pages_with_translation": 398,
+  "source_url": "https://sourcelibrary.org/book/695272feab34727b1f048676",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "leopereitalianed01brun"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:25:36.977Z",
+  "_hashes": {
+    "ocr": "d9d5a7f07eb21931",
+    "translation": "362ba4f3eeaf2a48"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "695591667bd6d2cd1d618fc3",
+  "title": "Paracelsus Chirurgische Bücher und Schrifften",
+  "display_title": "Paracelsus Chirurgische Bücher und Schrifften",
+  "author": "Paracelsus / Johann Huser",
+  "language": "German",
+  "year": 1589,
+  "published": "Unknown",
+  "pages_count": 860,
+  "pages_with_ocr": 460,
+  "pages_with_translation": 200,
+  "source_url": "https://sourcelibrary.org/book/695591667bd6d2cd1d618fc3",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "chirurgischebuch00para"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:24:50.465Z",
+  "_hashes": {
+    "ocr": "86cd66e02d66861e",
+    "translation": "1e713e71004f6a49"
+  }
+}

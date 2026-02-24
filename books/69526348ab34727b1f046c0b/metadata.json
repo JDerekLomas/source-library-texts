@@ -1,0 +1,28 @@
+{
+  "id": "69526348ab34727b1f046c0b",
+  "title": "Miracula et mysteria chymico-medica",
+  "display_title": "Miracula chymico-medica (with Sendivogius Novum Lumen)",
+  "author": "Philipp Müller; Michael Sendivogius; Jean Béguin",
+  "language": "Latin",
+  "year": 1656,
+  "published": "1656",
+  "pages_count": 424,
+  "pages_with_ocr": 424,
+  "pages_with_translation": 424,
+  "source_url": "https://sourcelibrary.org/book/69526348ab34727b1f046c0b",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "b32991265"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:25:14.994Z",
+  "_hashes": {
+    "ocr": "a499b55bad7118bb",
+    "translation": "eacd98e7f84b0328"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "0a481175-492d-46c5-95b9-8042e7b6710a",
+  "title": "De Subtilitate",
+  "display_title": "Cardano: De Subtilitate (1550)",
+  "author": "Girolamo Cardano",
+  "language": "Latin",
+  "year": 1550,
+  "published": "1550",
+  "pages_count": 414,
+  "pages_with_ocr": 414,
+  "pages_with_translation": 414,
+  "source_url": "https://sourcelibrary.org/book/0a481175-492d-46c5-95b9-8042e7b6710a",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bub_gb_Tmf3wRsurVsC"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:25:22.365Z",
+  "_hashes": {
+    "ocr": "af2cab56cffae1e6",
+    "translation": "3f05e3238ed34f7e"
+  }
+}

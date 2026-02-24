@@ -1,0 +1,28 @@
+{
+  "id": "6991eaa82f801130a473d90a",
+  "title": "Les manuscrits de Leonard de Vinci, Vol. 2",
+  "display_title": "Les manuscrits de Leonard de Vinci, Vol. 2",
+  "author": "Leonardo da Vinci (ed. Ravaisson-Mollien)",
+  "language": "French",
+  "year": 1882,
+  "published": "Unknown",
+  "pages_count": 438,
+  "pages_with_ocr": 437,
+  "pages_with_translation": 351,
+  "source_url": "https://sourcelibrary.org/book/6991eaa82f801130a473d90a",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "lesmanuscritsdel02lo"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:25:05.031Z",
+  "_hashes": {
+    "ocr": "a6828c1882d26913",
+    "translation": "d183917a6c2ff469"
+  }
+}

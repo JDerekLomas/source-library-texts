@@ -1,0 +1,28 @@
+{
+  "id": "69905f3d40bc3a0478efb0a8",
+  "title": "Surya Siddhanta with Gudhartha-prakasaka",
+  "display_title": "Surya Siddhanta with Gudhartha-prakasaka",
+  "author": "Ranganatha",
+  "language": "Sanskrit",
+  "year": 1603,
+  "published": "Unknown",
+  "pages_count": 406,
+  "pages_with_ocr": 406,
+  "pages_with_translation": 406,
+  "source_url": "https://sourcelibrary.org/book/69905f3d40bc3a0478efb0a8",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "dli.csl.5298"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:25:28.847Z",
+  "_hashes": {
+    "ocr": "d3f4c79f5115ffcd",
+    "translation": "7a17cdf9aacfea1b"
+  }
+}

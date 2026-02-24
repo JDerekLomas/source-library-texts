@@ -1,0 +1,28 @@
+{
+  "id": "6952e50377f38f6761bc933f",
+  "title": "Erasmus Opera Omnia - Novum Testamentum",
+  "display_title": "Erasmus: New Testament with Greek Text and Annotations",
+  "author": "Desiderius Erasmus",
+  "language": "Latin",
+  "year": 1705,
+  "published": "1705",
+  "pages_count": 666,
+  "pages_with_ocr": 438,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/6952e50377f38f6761bc933f",
+  "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bub_gb_m-H70E1ssHAC"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:25:04.420Z",
+  "_hashes": {
+    "ocr": "5e91b7305ad62542",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

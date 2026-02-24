@@ -1,0 +1,28 @@
+{
+  "id": "694f49d3f9b1ecc07965e424",
+  "title": "De revolutionibus orbium coelestium libri VI",
+  "display_title": "On the Revolutions of the Heavenly Spheres (1543 First Edition)",
+  "author": "Copernicus, Nicolaus (1473-1543)",
+  "language": "Latin",
+  "year": 1543,
+  "published": "1543",
+  "pages_count": 422,
+  "pages_with_ocr": 422,
+  "pages_with_translation": 422,
+  "source_url": "https://sourcelibrary.org/book/694f49d3f9b1ecc07965e424",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "nicolaicopernici00cope_1"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:25:16.739Z",
+  "_hashes": {
+    "ocr": "41d0163e145dd630",
+    "translation": "cdce76a5d6ed5b36"
+  }
+}

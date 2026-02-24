@@ -1,0 +1,28 @@
+{
+  "id": "695591547bd6d2cd1d618a62",
+  "title": "Les Douze Clefs de Philosophie (Twelve Keys of Basil Valentine)",
+  "display_title": "Les Douze Clefs de Philosophie (Twelve Keys of Basil Valentine)",
+  "author": "Basilius Valentinus",
+  "language": "French",
+  "year": 1618,
+  "published": "Unknown",
+  "pages_count": 408,
+  "pages_with_ocr": 408,
+  "pages_with_translation": 391,
+  "source_url": "https://sourcelibrary.org/book/695591547bd6d2cd1d618a62",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "lesdovzeclefsdep00basi"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:25:25.159Z",
+  "_hashes": {
+    "ocr": "839723dc44f0e82e",
+    "translation": "897273c6274ee499"
+  }
+}

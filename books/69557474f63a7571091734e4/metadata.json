@@ -1,0 +1,28 @@
+{
+  "id": "69557474f63a7571091734e4",
+  "title": "Commentarius in Platonis Timaeum",
+  "display_title": "Commentarius in Platonis Timaeum",
+  "author": "Proclus Diadochus",
+  "language": "Greek/Latin",
+  "year": 1820,
+  "published": "1820",
+  "pages_count": 965,
+  "pages_with_ocr": 403,
+  "pages_with_translation": 331,
+  "source_url": "https://sourcelibrary.org/book/69557474f63a7571091734e4",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "proclicommentar00procgoog"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:25:33.790Z",
+  "_hashes": {
+    "ocr": "edd37b87c37d2458",
+    "translation": "6459d53f6d7c5143"
+  }
+}

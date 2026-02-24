@@ -1,0 +1,28 @@
+{
+  "id": "69906540726f64800c10a6ff",
+  "title": "Sangita Ratnakara Vol. 1: Svaragatadhyaya",
+  "display_title": "Sangita Ratnakara (Ocean of Music)",
+  "author": "Sarngadeva",
+  "language": "Sanskrit",
+  "year": 1898,
+  "published": "Unknown",
+  "pages_count": 444,
+  "pages_with_ocr": 444,
+  "pages_with_translation": 444,
+  "source_url": "https://sourcelibrary.org/book/69906540726f64800c10a6ff",
+  "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "sangitaratnakaravol1adhyaya1subrahmanyashastris.adyarlibrary"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:24:58.773Z",
+  "_hashes": {
+    "ocr": "d268472a889065b8",
+    "translation": "e77da00db68b3fa5"
+  }
+}

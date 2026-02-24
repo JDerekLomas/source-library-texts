@@ -1,0 +1,26 @@
+{
+  "id": "6978ee3aa5bfdfb63c9a9f63",
+  "title": "Reconditorium ac reclusorium opulentiae sapientiaeque numinis magni, cui deditur in titulum chymica vannus",
+  "display_title": "Reconditorium ac reclusorium opulentiae sapientiaeque numinis magni, cui deditur in titulum chymica vannus",
+  "author": "anonymous",
+  "language": "Latin",
+  "year": 1666,
+  "published": "1666",
+  "pages_count": 442,
+  "pages_with_ocr": 442,
+  "pages_with_translation": 409,
+  "source_url": "https://sourcelibrary.org/book/6978ee3aa5bfdfb63c9a9f63",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:25:00.182Z",
+  "_hashes": {
+    "ocr": "7bb009afaca554a9",
+    "translation": "de8c6b001468b228"
+  }
+}

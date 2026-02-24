@@ -1,0 +1,26 @@
+{
+  "id": "6974b63c19126e775cf6d7cd",
+  "title": "Apostolici: or, the history of the lives, acts, death and martyrdoms of those who were contemporary with or immediately succeeded the apostles",
+  "display_title": "Apostolici: or, the history of the lives, acts, death and martyrdoms of those who were contemporary with or immediately succeeded the apostles",
+  "author": "Cave, William",
+  "language": "English",
+  "year": 1677,
+  "published": "1677",
+  "pages_count": 428,
+  "pages_with_ocr": 428,
+  "pages_with_translation": 156,
+  "source_url": "https://sourcelibrary.org/book/6974b63c19126e775cf6d7cd",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:25:10.375Z",
+  "_hashes": {
+    "ocr": "2ee04c50490c5f9e",
+    "translation": "9aa248386d4bfc93"
+  }
+}

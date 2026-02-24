@@ -1,0 +1,28 @@
+{
+  "id": "69528570ab34727b1f04b8a1",
+  "title": "Principia Philosophiae Antiquissimae",
+  "display_title": "Principia Philosophiae Antiquissimae et Recentissimae",
+  "author": "Francis Mercury van Helmont",
+  "language": "Latin",
+  "year": 1690,
+  "published": "1690",
+  "pages_count": 410,
+  "pages_with_ocr": 410,
+  "pages_with_translation": 410,
+  "source_url": "https://sourcelibrary.org/book/69528570ab34727b1f04b8a1",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bub_gb_y6hbDBQqTiQC"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:25:24.587Z",
+  "_hashes": {
+    "ocr": "e12e62626e0333bb",
+    "translation": "31b7d69a6e7de51d"
+  }
+}

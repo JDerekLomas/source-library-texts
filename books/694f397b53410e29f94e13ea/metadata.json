@@ -1,0 +1,28 @@
+{
+  "id": "694f397b53410e29f94e13ea",
+  "title": "Marsilij Ficini florentini Platonica theologia de immortalitate animorum",
+  "display_title": "Platonic Theology on the Immortality of Souls (1525 Edition)",
+  "author": "Ficino, Marsilio (1433-1499)",
+  "language": "Latin",
+  "year": 1525,
+  "published": "1525",
+  "pages_count": 455,
+  "pages_with_ocr": 455,
+  "pages_with_translation": 455,
+  "source_url": "https://sourcelibrary.org/book/694f397b53410e29f94e13ea",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bub_gb_mLvcAyPxuQoC"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:24:51.705Z",
+  "_hashes": {
+    "ocr": "c1b85f1995a0c0da",
+    "translation": "c3cae2b93a935317"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "606a74d7-2ac1-420b-924d-de761439fb3f",
+  "title": "De Revolutionibus Orbium Coelestium",
+  "display_title": "De Revolutionibus (1543 First Edition)",
+  "author": "Nicolaus Copernicus",
+  "language": "Latin",
+  "year": 1543,
+  "published": "1543",
+  "pages_count": 426,
+  "pages_with_ocr": 426,
+  "pages_with_translation": 426,
+  "source_url": "https://sourcelibrary.org/book/606a74d7-2ac1-420b-924d-de761439fb3f",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "McGillLibrary-osl_nicolai_copernici_de-revolutionibus-orbium-coelestium_WZ240C7826n1543-21037"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:25:12.253Z",
+  "_hashes": {
+    "ocr": "74797c0aaee6463c",
+    "translation": "1e4a438ae9f1ef47"
+  }
+}

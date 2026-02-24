@@ -1,0 +1,26 @@
+{
+  "id": "6970e0757c9ab1d50ed22d41",
+  "title": "Abraham, de aartsvader",
+  "display_title": "Abraham, de aartsvader",
+  "author": "Hoogvliet, Arnold",
+  "language": "Dutch",
+  "year": 1766,
+  "published": "1766",
+  "pages_count": 442,
+  "pages_with_ocr": 442,
+  "pages_with_translation": 217,
+  "source_url": "https://sourcelibrary.org/book/6970e0757c9ab1d50ed22d41",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:24:59.143Z",
+  "_hashes": {
+    "ocr": "0340c8b276eb0a2d",
+    "translation": "c5cb43b573e53327"
+  }
+}

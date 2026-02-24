@@ -1,0 +1,26 @@
+{
+  "id": "6978ee3a9ff927bc53947517",
+  "title": "Umständliche Erzehlung, wie es seinem vermeinten Tode zugegangen sey",
+  "display_title": "Umständliche Erzehlung, wie es seinem vermeinten Tode zugegangen sey",
+  "author": "[Bachstrom, Johann Friedrich]",
+  "language": "German",
+  "year": 1736,
+  "published": "1736",
+  "pages_count": 436,
+  "pages_with_ocr": 436,
+  "pages_with_translation": 4,
+  "source_url": "https://sourcelibrary.org/book/6978ee3a9ff927bc53947517",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:25:05.245Z",
+  "_hashes": {
+    "ocr": "bb9f6bdd69d0194d",
+    "translation": "c5783e2281d26e02"
+  }
+}

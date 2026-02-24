@@ -1,0 +1,28 @@
+{
+  "id": "6952caa577f38f6761bc4c0f",
+  "title": "Iamblichus on the Mysteries of the Egyptians, Chaldeans, and Assyrians",
+  "display_title": "On the Mysteries (Thomas Taylor trans.)",
+  "author": "Iamblichus | Taylor, Thomas (trans.)",
+  "language": "English",
+  "year": 1821,
+  "published": "1821",
+  "pages_count": 405,
+  "pages_with_ocr": 404,
+  "pages_with_translation": 404,
+  "source_url": "https://sourcelibrary.org/book/6952caa577f38f6761bc4c0f",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "iamblichusonmys00taylgoog"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:25:30.377Z",
+  "_hashes": {
+    "ocr": "a617fa9815f291bb",
+    "translation": "ebb81a8980dcea62"
+  }
+}

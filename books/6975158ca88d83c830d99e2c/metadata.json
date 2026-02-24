@@ -1,0 +1,26 @@
+{
+  "id": "6975158ca88d83c830d99e2c",
+  "title": "Sereniss. domus Augustae selenianae princip. juventutis utriusque sexus pietatis, erudirionis, comitatisque exemplum sine pari",
+  "display_title": "Sereniss. domus Augustae selenianae princip. juventutis utriusque sexus pietatis, erudirionis, comitatisque exemplum sine pari",
+  "author": "Andreae, Johann Valentin",
+  "language": "Latin",
+  "year": 1654,
+  "published": "1654",
+  "pages_count": 397,
+  "pages_with_ocr": 397,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6975158ca88d83c830d99e2c",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:25:38.352Z",
+  "_hashes": {
+    "ocr": "7b4417b3ac4c32e1",
+    "translation": "d0bcb99cc3d56391"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "696925034fa3b04c6de86f6b",
+  "title": "Pluteus 71.33 (Corpus Hermeticum - Ficino Source)",
+  "display_title": "E dialectice Petri Hispani . Ek tes dialektikes Petrou tou Ispanou . Ac praeterea Philosophorum Thomae, Boetii, Dexippi, Procli Diadochi, Mercurii Trismegisti, Magentini, Alexandri Aphrodisiensis, Alcinoi, et anonymi varia",
+  "author": "Various (Greek Hermetic texts)",
+  "language": "Greek",
+  "year": 1350,
+  "published": "14th century",
+  "pages_count": 450,
+  "pages_with_ocr": 450,
+  "pages_with_translation": 426,
+  "source_url": "https://sourcelibrary.org/book/696925034fa3b04c6de86f6b",
+  "license": "unknown",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:24:55.268Z",
+  "_hashes": {
+    "ocr": "7bd0266064684643",
+    "translation": "4c46c45328f9056f"
+  }
+}

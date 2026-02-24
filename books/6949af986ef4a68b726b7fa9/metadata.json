@@ -1,0 +1,28 @@
+{
+  "id": "6949af986ef4a68b726b7fa9",
+  "title": "De architectura libri decem",
+  "display_title": "Ten Books on Architecture",
+  "author": "Vitruvius Pollio",
+  "language": "Latin",
+  "year": 1522,
+  "published": "1522",
+  "pages_count": 480,
+  "pages_with_ocr": 423,
+  "pages_with_translation": 423,
+  "source_url": "https://sourcelibrary.org/book/6949af986ef4a68b726b7fa9",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "mvitrvviidearchi00vitr"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:25:16.051Z",
+  "_hashes": {
+    "ocr": "2cb240a8cda190dd",
+    "translation": "82e1af864cf55ad6"
+  }
+}

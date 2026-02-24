@@ -1,0 +1,26 @@
+{
+  "id": "6902ed49583dd7d2641408a5",
+  "title": "Morgenroete im Aufgang",
+  "display_title": "Dawn rising",
+  "author": "Boehme, Jacob",
+  "language": "German",
+  "year": 1780,
+  "published": "1780",
+  "pages_count": 447,
+  "pages_with_ocr": 447,
+  "pages_with_translation": 447,
+  "source_url": "https://sourcelibrary.org/book/6902ed49583dd7d2641408a5",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini"
+  },
+  "synced_at": "2026-02-24T18:24:56.607Z",
+  "_hashes": {
+    "ocr": "bf5de20d8879fbcc",
+    "translation": "67c9842933654abe"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "694b3b5b58a47807cc735dce",
+  "title": "De revolutionibus orbium coelestium, libri VI",
+  "display_title": "On the Revolutions of the Celestial Spheres",
+  "author": "Copernicus, Nicolaus, 1473-1543",
+  "language": "Latin",
+  "year": 1543,
+  "published": "1543",
+  "pages_count": 412,
+  "pages_with_ocr": 412,
+  "pages_with_translation": 410,
+  "source_url": "https://sourcelibrary.org/book/694b3b5b58a47807cc735dce",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "ARes18421"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:25:23.632Z",
+  "_hashes": {
+    "ocr": "56538ff221993c96",
+    "translation": "3ef368093b4affea"
+  }
+}

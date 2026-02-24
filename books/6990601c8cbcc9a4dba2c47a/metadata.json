@@ -1,0 +1,28 @@
+{
+  "id": "6990601c8cbcc9a4dba2c47a",
+  "title": "Muhurta Chintamani",
+  "display_title": "Muhurta Chintamani",
+  "author": "Daivagya Ramacharya",
+  "language": "Sanskrit",
+  "year": 1590,
+  "published": "Unknown",
+  "pages_count": 424,
+  "pages_with_ocr": 424,
+  "pages_with_translation": 424,
+  "source_url": "https://sourcelibrary.org/book/6990601c8cbcc9a4dba2c47a",
+  "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "MuhurtaChintamaniVenkateshwarPress1906ShriKrishnaMuseumKurukshetra"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:25:13.188Z",
+  "_hashes": {
+    "ocr": "438b7c58c3d5075a",
+    "translation": "cb526bd667f87863"
+  }
+}

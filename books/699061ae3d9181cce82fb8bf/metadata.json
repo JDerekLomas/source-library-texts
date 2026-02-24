@@ -1,0 +1,26 @@
+{
+  "id": "699061ae3d9181cce82fb8bf",
+  "title": "Theatrum de Veneficis",
+  "display_title": "Theatrum de Veneficis",
+  "author": "Abraham Saur",
+  "language": "German",
+  "year": 1586,
+  "published": "1586",
+  "pages_count": 428,
+  "pages_with_ocr": 428,
+  "pages_with_translation": 425,
+  "source_url": "https://sourcelibrary.org/book/699061ae3d9181cce82fb8bf",
+  "license": "PDM 1.0",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:25:09.072Z",
+  "_hashes": {
+    "ocr": "3608a34fee663ef9",
+    "translation": "114c841edb0bfb0c"
+  }
+}

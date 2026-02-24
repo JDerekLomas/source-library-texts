@@ -1,0 +1,26 @@
+{
+  "id": "6975158ca88d83c830d99e32",
+  "title": "Aurea Catena Homeri. Das ist: eine Beschreibung von dem Ursprung der Natur",
+  "display_title": "Aurea Catena Homeri. Das ist: eine Beschreibung von dem Ursprung der Natur",
+  "author": "[Kirchweger, Anton Joseph]",
+  "language": "German",
+  "year": 1738,
+  "published": "1738",
+  "pages_count": 461,
+  "pages_with_ocr": 461,
+  "pages_with_translation": 446,
+  "source_url": "https://sourcelibrary.org/book/6975158ca88d83c830d99e32",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:24:48.400Z",
+  "_hashes": {
+    "ocr": "0a3bf1f2e64828cb",
+    "translation": "7a2733e568469303"
+  }
+}

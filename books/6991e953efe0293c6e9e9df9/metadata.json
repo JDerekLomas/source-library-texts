@@ -1,0 +1,28 @@
+{
+  "id": "6991e953efe0293c6e9e9df9",
+  "title": "Trattato della pittura",
+  "display_title": "Trattato della pittura",
+  "author": "Leonardo da Vinci",
+  "language": "Italian",
+  "year": 1651,
+  "published": "Unknown",
+  "pages_count": 404,
+  "pages_with_ocr": 402,
+  "pages_with_translation": 324,
+  "source_url": "https://sourcelibrary.org/book/6991e953efe0293c6e9e9df9",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "trattatodellapit00leon_0"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:25:34.298Z",
+  "_hashes": {
+    "ocr": "ea167861a9cedd5c",
+    "translation": "06f65281f2e0af10"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "5ddd6b40-5a26-4994-86ea-e2dfd4957597",
+  "title": "Opera Sancti Dionysii",
+  "display_title": "Pseudo-Dionysius: Opera (1516)",
+  "author": "Pseudo-Dionysius the Areopagite",
+  "language": "Latin",
+  "year": 1516,
+  "published": "1516",
+  "pages_count": 412,
+  "pages_with_ocr": 412,
+  "pages_with_translation": 412,
+  "source_url": "https://sourcelibrary.org/book/5ddd6b40-5a26-4994-86ea-e2dfd4957597",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bub_gb_SUHKrROwiwEC"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:25:23.056Z",
+  "_hashes": {
+    "ocr": "e7e7e10430c8611c",
+    "translation": "af81ab41c9c7a76d"
+  }
+}

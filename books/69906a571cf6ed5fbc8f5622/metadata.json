@@ -1,0 +1,28 @@
+{
+  "id": "69906a571cf6ed5fbc8f5622",
+  "title": "Ganita Sara Sangraha",
+  "display_title": "Ganita Sara Sangraha",
+  "author": "Mahaviracharya",
+  "language": "Sanskrit",
+  "year": 850,
+  "published": "Unknown",
+  "pages_count": 417,
+  "pages_with_ocr": 417,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/69906a571cf6ed5fbc8f5622",
+  "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "ganitasarasangrahamahaviracharyarangacharyam._326_"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:25:17.581Z",
+  "_hashes": {
+    "ocr": "a53e156bad6c8f3a",
+    "translation": "e3b0c44298fc1c14"
+  }
+}
