@@ -1,0 +1,28 @@
+{
+  "id": "699065ce3dc2ed39a49f279b",
+  "title": "Songs of Kabir",
+  "display_title": "Songs of Kabir",
+  "author": "Kabir (Rabindranath Tagore, trans.)",
+  "language": "Sanskrit",
+  "year": 1915,
+  "published": "Unknown",
+  "pages_count": 175,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/699065ce3dc2ed39a49f279b",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "songskabir01kabigoog"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:30:14.133Z",
+  "_hashes": {
+    "ocr": "9a013e7240869852",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

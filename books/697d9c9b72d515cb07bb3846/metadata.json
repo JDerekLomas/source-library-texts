@@ -1,0 +1,26 @@
+{
+  "id": "697d9c9b72d515cb07bb3846",
+  "title": "Hermippus redivivus: or, the sage's triumph over old age and the grave",
+  "display_title": "Hermippus redivivus: or, the sage's triumph over old age and the grave",
+  "author": "[Cohausen, Johann Heinrich]",
+  "language": "English",
+  "year": 1744,
+  "published": "1744",
+  "pages_count": 208,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 1,
+  "source_url": "https://sourcelibrary.org/book/697d9c9b72d515cb07bb3846",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:08.918Z",
+  "_hashes": {
+    "ocr": "40f4f3f7dbf627ef",
+    "translation": "3fe2e536e4cc21f3"
+  }
+}

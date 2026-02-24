@@ -1,0 +1,26 @@
+{
+  "id": "6990660aef12272ffdc94ef0",
+  "title": "Marsilio Ficino Epistolae",
+  "display_title": "Vat.lat.5953",
+  "author": "Marsilio Ficino",
+  "language": "Latin",
+  "year": 1490,
+  "published": "1490",
+  "pages_count": 868,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 2,
+  "source_url": "https://sourcelibrary.org/book/6990660aef12272ffdc94ef0",
+  "license": "CC-BY-NC-4.0",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:13.806Z",
+  "_hashes": {
+    "ocr": "f0c54ee98471004a",
+    "translation": "12765121e3f77fd6"
+  }
+}

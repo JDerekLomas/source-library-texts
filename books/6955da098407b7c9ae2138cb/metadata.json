@@ -1,0 +1,28 @@
+{
+  "id": "6955da098407b7c9ae2138cb",
+  "title": "Castigationes seu Emendationes",
+  "display_title": "Castigationes seu Emendationes",
+  "author": "Symphorien Champier",
+  "language": "Latin",
+  "year": 1532,
+  "published": "1532",
+  "pages_count": 342,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6955da098407b7c9ae2138cb",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "1905418.med.yale.edu"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:07.302Z",
+  "_hashes": {
+    "ocr": "e6f6b6d9a0aecfbc",
+    "translation": "68a1ae72562230b5"
+  }
+}

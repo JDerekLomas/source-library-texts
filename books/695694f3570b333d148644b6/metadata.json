@@ -1,0 +1,28 @@
+{
+  "id": "695694f3570b333d148644b6",
+  "title": "Liberty, Order and Law Under Native Irish Rule",
+  "display_title": "Liberty, Order and Law Under Native Irish Rule",
+  "author": "Eoin MacNeill",
+  "language": "English",
+  "year": 1923,
+  "published": "Unknown",
+  "pages_count": 440,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/695694f3570b333d148644b6",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "libertyorderandl00bryauoft"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:10.182Z",
+  "_hashes": {
+    "ocr": "0e01186cc1b2fb51",
+    "translation": "7894a9f011e81b24"
+  }
+}

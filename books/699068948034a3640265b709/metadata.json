@@ -1,0 +1,28 @@
+{
+  "id": "699068948034a3640265b709",
+  "title": "Margarita Philosophica",
+  "display_title": "Margarita Philosophica",
+  "author": "Gregor Reisch",
+  "language": "Latin",
+  "year": 1503,
+  "published": "Unknown",
+  "pages_count": 612,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/699068948034a3640265b709",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "margaritaphiloso00reis_1"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:30:06.853Z",
+  "_hashes": {
+    "ocr": "a76cea73db4a93ff",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

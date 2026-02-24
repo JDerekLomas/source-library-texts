@@ -1,0 +1,28 @@
+{
+  "id": "6958eafed3a8928334816c79",
+  "title": "Traite des fougeres de l Amerique",
+  "display_title": "Traite des fougeres de l Amerique",
+  "author": "Charles Plumier",
+  "language": "French",
+  "year": 1705,
+  "published": "1705",
+  "pages_count": 532,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6958eafed3a8928334816c79",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "traitedesfouger00plum"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:08.024Z",
+  "_hashes": {
+    "ocr": "ffc6139e95040783",
+    "translation": "027855128cdeaf86"
+  }
+}

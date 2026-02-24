@@ -1,0 +1,28 @@
+{
+  "id": "699069542f82e0fda4806eb6",
+  "title": "A History of the Inquisition of the Middle Ages, Vol. I",
+  "display_title": "A History of the Inquisition of the Middle Ages, Vol. I",
+  "author": "Henry Charles Lea",
+  "language": "English",
+  "year": 1887,
+  "published": "Unknown",
+  "pages_count": 764,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/699069542f82e0fda4806eb6",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "aga6664.0003.001.umich.edu"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:30:08.367Z",
+  "_hashes": {
+    "ocr": "a80b256250ba65f4",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

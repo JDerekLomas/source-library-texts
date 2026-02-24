@@ -1,0 +1,28 @@
+{
+  "id": "695435261479a63c1108b306",
+  "title": "Philosophia moralis sive Ethica",
+  "display_title": "Philosophia moralis sive Ethica",
+  "author": "Christian Wolff",
+  "language": "Latin",
+  "year": 1753,
+  "published": "1753",
+  "pages_count": 861,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/695435261479a63c1108b306",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "philosophiamora00vongoog"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:11.414Z",
+  "_hashes": {
+    "ocr": "846d789706dfa487",
+    "translation": "68de0e136c73668d"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "69906606ef12272ffdc94dd0",
+  "title": "Hekhalot and Kabbalistic Texts",
+  "display_title": "Vat.ebr.228",
+  "author": "Unknown",
+  "language": "Hebrew",
+  "year": 1300,
+  "published": "1300",
+  "pages_count": 284,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 5,
+  "source_url": "https://sourcelibrary.org/book/69906606ef12272ffdc94dd0",
+  "license": "CC-BY-NC-4.0",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:13.143Z",
+  "_hashes": {
+    "ocr": "15cf6b73543445cb",
+    "translation": "cd641b54eb5d0ef8"
+  }
+}

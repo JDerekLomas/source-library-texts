@@ -1,0 +1,26 @@
+{
+  "id": "699067f4249ce014347d51cd",
+  "title": "Steganographia, Picatrix, and Paracelsian Texts",
+  "display_title": "Reg.lat.1344",
+  "author": "Various (Trithemius, Pseudo-Maslama, Paracelsus)",
+  "language": "Latin",
+  "year": 1550,
+  "published": "1550",
+  "pages_count": 314,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/699067f4249ce014347d51cd",
+  "license": "CC-BY-NC-4.0",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:30:10.261Z",
+  "_hashes": {
+    "ocr": "02ff6f1c2ca25ba5",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

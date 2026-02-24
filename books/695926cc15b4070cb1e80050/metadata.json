@@ -1,0 +1,28 @@
+{
+  "id": "695926cc15b4070cb1e80050",
+  "title": "The Discoverie of Witchcraft",
+  "display_title": "The Discoverie of Witchcraft",
+  "author": "Reginald Scot",
+  "language": "English",
+  "year": 1584,
+  "published": "Unknown",
+  "pages_count": 696,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/695926cc15b4070cb1e80050",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "discoverieofwitc00scot"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:10.846Z",
+  "_hashes": {
+    "ocr": "577f64c4a5e97037",
+    "translation": "0e93f05dea75ae37"
+  }
+}

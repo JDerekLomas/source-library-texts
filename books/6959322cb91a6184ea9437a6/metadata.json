@@ -1,0 +1,28 @@
+{
+  "id": "6959322cb91a6184ea9437a6",
+  "title": "The Sixth and Seventh Books of Moses",
+  "display_title": "The Sixth and Seventh Books of Moses",
+  "author": "L.W. De Laurence",
+  "language": "English",
+  "year": 1910,
+  "published": "Unknown",
+  "pages_count": 204,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 3,
+  "source_url": "https://sourcelibrary.org/book/6959322cb91a6184ea9437a6",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "sixthseventhbook00dela"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:15.332Z",
+  "_hashes": {
+    "ocr": "e1191c62e46ec20f",
+    "translation": "4d5a6e5dac8a46c8"
+  }
+}

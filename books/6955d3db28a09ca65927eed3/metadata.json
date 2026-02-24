@@ -1,0 +1,28 @@
+{
+  "id": "6955d3db28a09ca65927eed3",
+  "title": "Tracts on Hidden Qualities of Air and Vacuum",
+  "display_title": "Tracts on Hidden Qualities of Air and Vacuum",
+  "author": "Robert Boyle",
+  "language": "English",
+  "year": 1670,
+  "published": "1670",
+  "pages_count": 338,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6955d3db28a09ca65927eed3",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "tractscontaining0106boyl"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:07.694Z",
+  "_hashes": {
+    "ocr": "e9bbea8d571d852c",
+    "translation": "f09dc3109a0de7ca"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "695595337bd6d2cd1d61eae7",
+  "title": "Swedenborg Heaven and Its Wonders and Hell (1875)",
+  "display_title": "Swedenborg Heaven and Its Wonders and Hell (1875)",
+  "author": "Emanuel Swedenborg",
+  "language": "English",
+  "year": 1782,
+  "published": "1782",
+  "pages_count": 466,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/695595337bd6d2cd1d61eae7",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "heavenanditswon01swedgoog"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:08.110Z",
+  "_hashes": {
+    "ocr": "7b0715a264ed73f2",
+    "translation": "eb673a923ef88d19"
+  }
+}

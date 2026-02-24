@@ -1,0 +1,28 @@
+{
+  "id": "6958e9af9659a6529d577ba1",
+  "title": "Ben cao gang mu (Compendium of Materia Medica) Vol. 8",
+  "display_title": "Ben cao gang mu (Compendium of Materia Medica) Vol. 8",
+  "author": "Li Shizhen",
+  "language": "Chinese",
+  "year": 1596,
+  "published": "Unknown",
+  "pages_count": 246,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6958e9af9659a6529d577ba1",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "McGillLibrary-osl_ealw_ben-cao-gang-mu_WB50JC6L6931p1888_v8-21374"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:09.690Z",
+  "_hashes": {
+    "ocr": "b165046b20b63a38",
+    "translation": "b549a9a50d36e489"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "699067eb249ce014347d4bf2",
+  "title": "Alchemical Miscellany",
+  "display_title": "Pal.lat.1329",
+  "author": "Various",
+  "language": "Latin",
+  "year": 1430,
+  "published": "1430",
+  "pages_count": 370,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/699067eb249ce014347d4bf2",
+  "license": "CC-BY-NC-4.0",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:30:10.097Z",
+  "_hashes": {
+    "ocr": "bb4f93f87ca02f54",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

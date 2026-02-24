@@ -1,0 +1,28 @@
+{
+  "id": "69557dcd57e3b773024f3e1d",
+  "title": "The Hymns of the Sama Veda",
+  "display_title": "The Hymns of the Sama Veda",
+  "author": "Ralph T.H. Griffith (trans.)",
+  "language": "English/Sanskrit",
+  "year": 1893,
+  "published": "1893",
+  "pages_count": 547,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/69557dcd57e3b773024f3e1d",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "in.ernet.dli.2015.47949"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:14.986Z",
+  "_hashes": {
+    "ocr": "674ecb41aa2531ce",
+    "translation": "38df6d76f05c30a7"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "699065d9726f64800c10c2a3",
+  "title": "Of Credulity and Incredulity, in Things Natural",
+  "display_title": "Of Credulity and Incredulity, in Things Natural",
+  "author": "Meric Casaubon",
+  "language": "English",
+  "year": 1668,
+  "published": "Unknown",
+  "pages_count": 339,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/699065d9726f64800c10c2a3",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bim_early-english-books-1641-1700_of-credulity-and-incredu_casaubon-meric_1668"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:30:13.061Z",
+  "_hashes": {
+    "ocr": "cb330784de144ce5",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

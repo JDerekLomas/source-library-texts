@@ -1,0 +1,26 @@
+{
+  "id": "697d9c9c72d515cb07bb384c",
+  "title": "Das Grund-Stuck",
+  "display_title": "Das Grund-Stuck",
+  "author": "[Barrefelt, Hendrik Jansen van]|",
+  "language": "German",
+  "year": 1687,
+  "published": "1687",
+  "pages_count": 346,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 8,
+  "source_url": "https://sourcelibrary.org/book/697d9c9c72d515cb07bb384c",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:09.168Z",
+  "_hashes": {
+    "ocr": "595c3a4ec7436ca7",
+    "translation": "6a53cac31f353c0f"
+  }
+}

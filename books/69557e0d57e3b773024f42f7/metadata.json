@@ -1,0 +1,28 @@
+{
+  "id": "69557e0d57e3b773024f42f7",
+  "title": "Life of Pythagoras with Symbols and Golden Verses (Hierocles Commentary)",
+  "display_title": "Life of Pythagoras with Symbols and Golden Verses (Hierocles Commentary)",
+  "author": "André Dacier; Nicholas Rowe (trans.)",
+  "language": "English",
+  "year": 1707,
+  "published": "1707",
+  "pages_count": 462,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/69557e0d57e3b773024f42f7",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "b30517102"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:14.722Z",
+  "_hashes": {
+    "ocr": "edd8c91ccec40835",
+    "translation": "d60e430063b04992"
+  }
+}

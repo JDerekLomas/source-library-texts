@@ -1,0 +1,26 @@
+{
+  "id": "699065ffef12272ffdc94bc3",
+  "title": "Alchemical and Medical Illustrations",
+  "display_title": "Pal.lat.1885",
+  "author": "Unknown",
+  "language": "Latin",
+  "year": 1400,
+  "published": "1400",
+  "pages_count": 118,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 2,
+  "source_url": "https://sourcelibrary.org/book/699065ffef12272ffdc94bc3",
+  "license": "CC-BY-NC-4.0",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:14.446Z",
+  "_hashes": {
+    "ocr": "9c43df5915d35744",
+    "translation": "d264da3a391dbc99"
+  }
+}

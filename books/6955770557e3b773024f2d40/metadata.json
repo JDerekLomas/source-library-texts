@@ -1,0 +1,28 @@
+{
+  "id": "6955770557e3b773024f2d40",
+  "title": "Opuscula Tria (incl. Vita Pythagorae)",
+  "display_title": "Opuscula Tria (incl. Vita Pythagorae)",
+  "author": "Porphyry; August Nauck (ed.)",
+  "language": "Greek",
+  "year": 1886,
+  "published": "1886",
+  "pages_count": 278,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6955770557e3b773024f2d40",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "opusculatria00porpuoft"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:12.063Z",
+  "_hashes": {
+    "ocr": "cf2b0181892ef653",
+    "translation": "f0b7ccec8aa64da0"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "695580c057e3b773024f5e03",
+  "title": "In Aristotelis Physicorum Libros Commentaria",
+  "display_title": "In Aristotelis Physicorum Libros Commentaria",
+  "author": "Simplicius; Hermann Diels (ed.)",
+  "language": "Greek",
+  "year": 1882,
+  "published": "1882",
+  "pages_count": 842,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/695580c057e3b773024f5e03",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "simpliciiinarist09simp"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:14.640Z",
+  "_hashes": {
+    "ocr": "b63c0625ae283392",
+    "translation": "61e1ef734a98af4a"
+  }
+}

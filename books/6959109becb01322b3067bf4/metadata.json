@@ -1,0 +1,28 @@
+{
+  "id": "6959109becb01322b3067bf4",
+  "title": "Flora Capensis (South African plants)",
+  "display_title": "Flora Capensis (South African plants)",
+  "author": "Carl Peter Thunberg",
+  "language": "Latin",
+  "year": 1820,
+  "published": "1820",
+  "pages_count": 598,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6959109becb01322b3067bf4",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "floracapensissis00thun"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:13.890Z",
+  "_hashes": {
+    "ocr": "5a7ef07c88bfdcb1",
+    "translation": "77a6836cd2d839f1"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "6955d3d828a09ca65927ed03",
+  "title": "The Origine of Formes and Qualities",
+  "display_title": "The Origine of Formes and Qualities",
+  "author": "Robert Boyle",
+  "language": "English",
+  "year": 1688,
+  "published": "1688",
+  "pages_count": 463,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6955d3d828a09ca65927ed03",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bim_early-english-books-1641-1700_the-origine-of-formes-an_boyle-robert_1666"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:07.775Z",
+  "_hashes": {
+    "ocr": "c8f6e65ef60315a5",
+    "translation": "c4f29629a3b0d81c"
+  }
+}

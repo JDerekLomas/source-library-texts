@@ -1,0 +1,304 @@
+--- Page 1 ---
+<lang>en</lang>
+<page-type>blank</page-type>
+<meta>Modern library binding with a barcode sticker.</meta>
+
+<image-desc>A dark, textured book cover, likely buckram or similar cloth binding. A white library barcode sticker is applied vertically to the upper left quadrant.</image-desc>
+
+<insert>
+UNIVERSITY OF TORONTO
+3 1761 00256734 5
+</insert>
+
+<vocab>University of Toronto</vocab>
+
+--- Page 2 ---
+<lang>None</lang>
+<page-type>blank</page-type>
+
+<vocab></vocab>
+
+--- Page 3 ---
+<warning>The text on this page is extremely faint and has very low contrast, appearing as if it is a light print impression or bleed-through from a facing page.</warning>
+
+<lang>de</lang>
+<page-type>title-page</page-type>
+
+# IMMANUEL KANT
+
+## DIE RELIGION
+### INNERHALB DER GRENZEN
+### DER BLOSSEN VERNUNFT
+
+-> <unclear>Text der Ausgabe 1793 (A) unter Berücksichtigung</unclear> <-
+-> <unclear>der Ausgabe 1794 (B)</unclear> <-
+
+---
+
+-> Herausgegeben von <-
+-> <unclear>Karl Kehrbach</unclear> <-
+
+<image-desc>A circular emblem or publisher's device is centered in the lower third of the page, consisting of a monogram or stylized figure within a double-bordered circle.</image-desc>
+
+-> <unclear>LEIPZIG</unclear> <-
+-> <unclear>VERLAG VON PHILIPP RECLAM JUN.</unclear> <-
+
+<vocab>Immanuel Kant, Religion, Vernunft, Philosophie, Karl Kehrbach, Philipp Reclam jun.</vocab>
+
+--- Page 4 ---
+ thoughtful
+The user wants a transcription of the provided image into Markdown format, following specific rules for scholarly digitization.
+
+**1. Analysis of the image:**
+- It's a modern insertion into a digital copy of an older book.
+- There's a faint watermark or logo of a classical building (temple/library style) with columns.
+- Text in the center: "Digitized by the Internet Archive in 2008 with funding from Microsoft Corporation".
+- Text at the bottom: "http://www.archive.org/details/diereligioninner00kantuoft".
+- The image is very light, likely a flyleaf or a digital insertion page.
+- Language: English.
+
+**2. Applying the format rules:**
+- `<lang>English</lang>`
+- `<page-type>text</page-type>` (or maybe `blank` with text? It's a digitization notice, so `text` or a custom one. Given the options: title-page, frontispiece, dedication, preface, toc, index, errata, colophon, appendix, blank, illustration, diagram, map, text. I'll go with `text` because it contains information about the digital edition).
+- No page numbers, headers, or signatures are visible.
+- Centered text: `->centered text<-`.
+- Link at bottom.
+
+**3. Transcription:**
+- Image description: A faint, large watermark/logo depicting a classical portico with four columns and a triangular pediment.
+- Text:
+->Digitized by the Internet Archive<-
+->in 2008 with funding from<-
+->Microsoft Corporation<-
+
+->http://www.archive.org/details/diereligioninner00kantuoft<-
+
+Wait, the instructions say: "# ## ### for headings (bigger text = bigger heading) — NEVER combine with centering syntax". The text "Digitized by..." isn't really a heading in the context of the book's content, it's metadata. But I should transcribe it as it appears. It's centered.
+
+Let's re-read the rules carefully:
+- `->centered text<-` for centered lines (NOT for headings).
+- Metadata tags are hidden.
+- I need a `<vocab>` tag at the end.
+
+**Detailed Breakdown:**
+- `<lang>English</lang>`
+- `<page-type>text</page-type>`
+- `<image-desc>A light grey watermark or logo of a Greek or Roman style temple (portico) with four columns and a pediment, behind the main text.</image-desc>`
+- Transcription:
+->Digitized by the Internet Archive<-
+->in 2008 with funding from<-
+->Microsoft Corporation<-
+
+->http://www.archive.org/details/diereligioninner00kantuoft<-
+
+Wait, the URL is at the bottom.
+Let's check the centering. Yes, the whole block is centered.
+
+Let's refine the metadata.
+`vocab`: Internet Archive, Microsoft Corporation, digitization.
+
+Final check on rules:
+- No headings here as it's a modern insertion.
+- No page numbers.
+- Original spelling etc. (standard modern English here).
+
+Wait, is the temple logo an "illustration"? The instructions say "Describe any images/diagrams with <image-desc>... using prose".
+
+Let's look at the text again.
+"Digitized by the Internet Archive"
+"in 2008 with funding from"
+"Microsoft Corporation"
+
+And at the bottom:
+"http://www.archive.org/details/diereligioninner00kantuoft"
+
+Transcription draft:
+<lang>English</lang>
+<page-type>text</page-type>
+<image-desc>Behind the text is a large, faded watermark of a classical building with four columns and a triangular pediment, suggestive of a library or university logo.</image-desc>
+
+->Digitized by the Internet Archive<-
+->in 2008 with funding from<-
+->Microsoft Corporation<-
+
+->http://www.archive.org/details/diereligioninner00kantuoft<-
+
+<vocab>Internet Archive, Microsoft Corporation, digitization</vocab>
+
+Actually, the URL at the bottom is just a line of text.
+Let's make sure I'm following "NEVER combine with centering syntax" for headings. Since these aren't headings, I can center them.
+
+One detail: the prompt says "16th-18th century". This page is clearly modern (2008), but it's part of the digital file provided. I must transcribe it as instructed for the provided image.
+
+Is it a colophon? A colophon is "a brief statement containing information about the publication of a book". Usually at the end, but this is a digital colophon of sorts. I'll stick with `text`.
+
+Wait, the URL has "kantuoft". This likely refers to Immanuel Kant, University of Toronto. This confirms it's a digital insertion page for a Kant manuscript/book.
+
+Let's finalize the tags.
+<lang>English</lang>
+<page-type>text</page-type>
+<meta>digitization notice</meta>
+<image-desc>A light, faded watermark of a classical portico with four pillars and a pediment appears in the background of the page.</image-desc>
+
+->Digitized by the Internet Archive<-
+->in 2008 with funding from<-
+->Microsoft Corporation<-
+
+->http://www.archive.org/details/diereligioninner00kantuoft<-
+
+<vocab>Internet Archive, Microsoft Corporation, digitization, Immanuel Kant, University of Toronto</vocab>
+
+--- Page 5 ---
+<lang>de</lang>
+<page-type>title-page</page-type>
+<meta>Faint circular institutional stamp with a crown at the top is visible on the right center of the page.</meta>
+
+# IMMANUEL KANT
+
+# DIE RELIGION
+# INNERHALB DER GRENZEN
+# DER BLOSSEN VERNUNFT
+
+### FÜNFTE AUFLAGE
+
+->HERAUSGEGEBEN UND MIT EINER<-
+->EINLEITUNG SOWIE EINEM PERSONEN-<-
+->UND SACHREGISTER VERSEHEN VON<-
+
+## KARL VORLÄNDER
+
+<image-desc>Publisher's logo of the Felix Meiner Verlag: a simple black circle containing stylized, interlocking letters 'F' and 'M'.</image-desc>
+
+->DER PHILOSOPHISCHEN BIBLIOTHEK BAND 45<-
+->LEIPZIG 1922 / VERLAG VON FELIX MEINER<-
+
+<vocab>Immanuel Kant, Die Religion innerhalb der Grenzen der bloßen Vernunft, Fünfte Auflage, Karl Vorländer, Philosophische Bibliothek, Felix Meiner Verlag, Leipzig 1922</vocab>
+
+--- Page 6 ---
+<warning>Significant bleed-through of the title page from the recto side; the mirror-imaged text is clearly visible but does not belong to the content of this page surface.</warning>
+
+<lang>de</lang>
+<page-type>text</page-type>
+<meta>This page is the verso of a title page, containing library accession marks and a printed copyright notice. The mirrored bleed-through from the recto identifies the work as Immanuel Kant's "Die Religion innerhalb der Grenzen der bloßen Vernunft," edited by Karl Vorländer.</meta>
+
+<insert>
+->B<-
+->2789<-
+->V6<-
+->1922<-
+
+->649960<-
+---
+->24 . 1 . 57<-
+</insert>
+
+<image-desc>Faint circular ink stamp in the lower-center of the page, likely a library ownership mark; the internal text is illegible due to fading.</image-desc>
+
+Alle Rechte, einschließlich des Übersetzungsrechts, vorbehalten
+
+<vocab>Immanuel Kant, Karl Vorländer, Religionsphilosophie, Urheberrecht, Bibliotheksstempel, shelf mark, accession number</vocab>
+
+--- Page 7 ---
+<lang>de</lang>
+<page-type>preface</page-type>
+<sig>A*</sig>
+<meta>Visible bleed-through from the preceding page is present at the top and bottom of the sheet.</meta>
+
+# Vorwort zur dritten Auflage.
+
+Die Grundsätze, die ich bei vorliegender Neuausgabe von Kants „Philosophischer Religionslehre“ befolgt habe, sind dieselben, die mich bei meinen Ausgaben der *Kritik der reinen Vernunft (O. Hendel, 1899)* und der *Kritik der Urteilskraft (Dürr, 1902)* geleitet haben. Ich darf den Leser auf die dortigen ausführlicheren Vorreden verweisen.
+
+Die Einleitung hat eine Erweiterung dadurch erfahren, daß den Abschnitten über Entstehung, Inhalt, Grundtendenz, Aufnahme und Nachwirkungen der Schrift eine zusammenhängende Darstellung von Kants religiösem Entwicklungsgange vorausgeschickt ist. Den vorletzten (V.) Abschnitt der Einleitung bilden diesmal die auf das knappste Maß beschränkten textphilologischen Bemerkungen. Als „Beilagen“ folgen endlich drei bisher noch in keiner Kantausgabe abgedruckte, zum erstenmal von *W. Dilthey* im *Archiv f. Gesch. d. Philosophie (1890) Bd. III, Heft 3, S. 429 ff.* veröffentlichte Stücke: 1) Der Entwurf von Kants Schreiben an eine theologische Fakultät betr. Druckfreiheit seiner Schrift, 2) und 3) zwei vorher ungedruckte Entwürfe zu der Vorrede unserer Schrift. — Dem Personen- und Sachregister (terminologischen Wörterbuch) ist noch ein Verzeichnis der von Kant zitierten oder gedeuteten Bibelstellen beigegeben worden.
+
+Dem Texte wurde die zweite Original-Auflage (von 1794) zugrunde gelegt, aber sämtliche Abweichungen von der ersten (soweit sie nicht Orthographie oder Interpunktion betrafen) notiert, desgleichen die Varianten der übrigen Ausgaben; unsere eigenen Textänderungen bringt ein besonderes Verzeichnis (Näheres s. Abschnitt V der Einleitung).
+
+Im Einverständnis mit dem Herrn Verleger ist — die vorhin genannten Aktenstücke, die gewissermaßen urkundlichen Charakter an sich tragen, und einen Abdruck aus den *Losen Blättern aus Kants Nachlaß* in
+
+<vocab>Kant, Philosophischer Religionslehre, Kritik der reinen Vernunft, Kritik der Urteilskraft, W. Dilthey, Bibelstellen, Sachregister, Nachlaß, Druckfreiheit</vocab>
+
+--- Page 8 ---
+<lang>de</lang>
+<page-type>preface</page-type>
+<page-num>IV</page-num>
+<header>Vorwort.</header>
+
+Abschnitt IV, B der Einleitung ausgenommen — die neue Rechtschreibung angewandt. Ich glaube damit, wie ich schon in der Vorrede zu meiner Ausgabe der Kritik der reinen Vernunft auseinandergesetzt habe, im eigensten Sinne Kants selbst gehandelt zu haben. Ohne Andersdenkende verletzen zu wollen, bekenne ich mich zu dem Worte des ersten Herausgebers von Kants Sämtlichen Werken, Rosenkranz (*Vorrede zum I. Bd., Seite XVII*): „Es gibt einen servilen Archaismus der Treue, dem es nicht sowohl um die Sache und ihre Vernunft als um Befriedigung paläologischer Akribie zu tun ist.“ Wer mit unserem Text jene eben erwähnten Ausnahmen vergleicht, wird den Unterschied in der Lektüre schon merken.
+
+Es würde der schönste Lohn meiner Arbeit sein, wenn diese in neuem, zeitgemäßem Gewande erscheinende Ausgabe von Kants *Religion* dazu beiträge, das Studium einer Schrift aufs neue zu fördern, die, trotz ihres Alters und gewisser in ihrer Zeit liegenden Einseitigkeiten, auch heute noch, in den religiösen Kämpfen der Gegenwart, die fruchtbarsten Gedanken anzuregen, ja manchem ein Leitstern zu werden geeignet ist.
+
+Solingen, 18. August 1903.
+**Dr. K. Vorländer.**
+
+### Zur vierten Auflage.
+
+Die gesamte Einleitung ist neu bearbeitet worden und hat zahlreiche, zuweilen ziemlich einschneidende, Verbesserungen erfahren. Für den Text sind die seit 1903 erschienenen Neuausgaben der Akademie (Wobbermin) und Cassirers (A. Buchenau) verglichen worden. Im allgemeinen bin ich in den seit meiner ersten Ausgabe der *Religion* verstrichenen Jahren bezüglich der Textgestaltung konservativer geworden und habe daher einen Teil meiner damaligen Änderungen gestrichen.
+
+Solingen, Juli 1919.
+**Karl Vorländer.**
+
+<vocab>Immanuel Kant, Kritik der reinen Vernunft, Karl Vorländer, Rosenkranz, Textgestaltung, Rechtschreibung, Wobbermin, Cassirer, Buchenau</vocab>
+
+--- Page 9 ---
+<lang>de</lang>
+<page-type>toc</page-type>
+<warning>Bleed-through text from the reverse side of the page is visible throughout.</warning>
+
+# Inhalt.
+
+->Seite<-
+
+| | |
+|----------|----------|
+| Vorwort des Herausgebers . . . . . . . . . . . . | III |
+| **Einleitung des Herausgebers** . . . . . . . . . . | **IX** |
+| I. Kants religiöser Entwicklungsgang . . . . . | IX |
+| &nbsp;&nbsp;&nbsp;&nbsp;a) Jugend S. IX. — b) Vorkritische Periode S. XII. — c) Kritische Periode S. XII. — d) Ergebnisse. Sonstige Zeugnisse über Kants Stellung zur Religion S. XXV. | |
+| II. Zur Entstehungsgeschichte der Schrift . . . | **XXX** |
+| III. Grundtendenz und Inhalt der Schrift . . . . | **XL** |
+| IV. Wirkungen . . . . . . . . . . . . . . . . | **LI** |
+| &nbsp;&nbsp;&nbsp;&nbsp;a) Aufnahme bei den Zeitgenossen: 1. Gegner S. LI. 2. Anhänger S. LV. — b) Kant und Schiller S. LIX. — c) Weitere Nachwirkungen: 1. Der theologische Rationalismus S. LXVIII. 2. Urteile moderner Theologen S. LXXI. | |
+| V. Textphilologisches . . . . . . . . . . . . . | **LXXV** |
+| &nbsp;&nbsp;&nbsp;&nbsp;a) Die bisherigen Ausgaben S. LXXV. b) Zur Textgeschichte S. LXXVI. c) Textänderungen des Herausgebers S. LXXVIII. | |
+| VI. Beilagen . . . . . . . . . . . . . . . . . | **LXXIX** |
+
+---
+
+## Kant: Die Religion innerhalb der Grenzen der bloßen Vernunft.
+
+| | |
+|----------|----------|
+| Vorrede zur ersten Auflage (von 1793) . . . . . . | **1** |
+| Vorrede zur zweiten Auflage (1794) . . . . . . | **11** |
+| **Erstes Stück. Von der Einwohnung des bösen Prinzips neben dem guten, d. i. vom radikalen Bösen in der menschlichen Natur** . . . . . . . | **15** |
+| I. Von der ursprünglichen Anlage zum Guten in der menschlichen Natur . . . . . . . . . . | **25** |
+| II. Von dem Hange zum Bösen in der menschlichen Natur . . . . . . . . . . . . . . . | **28** |
+| III. Der Mensch ist von Natur böse . . . . . . . | **32** |
+
+<vocab>Immanuel Kant, Religionsphilosophie, Entwicklungsgang, Vorkritische Periode, Kritische Periode, Textphilologisches, Radikales Böse, Herausgeber, Theologischer Rationalismus</vocab>
+
+--- Page 10 ---
+<lang>German</lang>
+<page-type>toc</page-type>
+<page-num>VI</page-num>
+<header>VI &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Inhalt.</header>
+
+<margin>Seite</margin>
+
+IV. Vom Ursprung des Bösen in der menschlichen Natur . . . . . . . . . . . . . . . . . . . . . . . . 41
+&nbsp;&nbsp;&nbsp;&nbsp;Allgemeine Anmerkung. Von der Wiederherstellung der ursprünglichen Anlage zum Guten in ihre Kraft . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 47
+**Zweites Stück.** Von dem Kampfe des guten Prinzips mit dem bösen um die Herrschaft über den Menschen . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 59
+&nbsp;&nbsp;&nbsp;&nbsp;1. Abschn. Von dem Rechtsanspruche des guten Prinzips auf die Herrschaft über den Menschen . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 66
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a) Personifizierte Idee des guten Prinzips S. 66. — b) Objektive Realität dieser Idee S. 68. — c) Schwierigkeiten gegen die objektive Realität dieser Idee und Auflösung derselben S. 73.
+&nbsp;&nbsp;&nbsp;&nbsp;2. Abschn. Von dem Rechtsanspruche des bösen Prinzips und dem Kampfe beider Prinzipien miteinander . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 88
+&nbsp;&nbsp;&nbsp;&nbsp;Allgemeine Anmerkung. (Von den Wundern.) . . . . . . . . . . . . . . . . . . . . . . 95
+**Drittes Stück.** Der Sieg des guten Prinzips über das böse und die Gründung eines Reiches Gottes auf Erden . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 103
+&nbsp;&nbsp;&nbsp;&nbsp;1. Abteilung. Philosophische Vorstellung des Sieges des guten Prinzips . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 108
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I. Von dem ethischen Naturzustande S. 108.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;II. Der Mensch soll aus dem ethischen Naturzustande herausgehen, um ein Glied eines ethischen gemeinen Wesens zu werden S. 110.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;III. Der Begriff eines ethischen gemeinen Wesens ist der Begriff von einem Volke Gottes unter ethischen Gesetzen S. 112.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;IV. Die Idee eines Volkes Gottes ist nicht anders als in der Form einer Kirche auszuführen S. 114.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;V. Die Konstitution einer jeden Kirche geht von einem historischen (Offenbarungs-) Glauben aus S. 117.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;VI. Der Kirchenglauben hat zu seinem höchsten Ausleger den reinen Religionsglauben S. 125.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;VII. Der allmähliche Übergang des Kirchenglaubens zur Alleinherrschaft des reinen Religionsglaubens ist die Annäherung des Reiches Gottes S. 132.
+
+<vocab>Inhalt, Ursprung des Bösen, gute Prinzip, böse Prinzip, Herrschaft, Rechtsanspruch, Personifizierte Idee, objektive Realität, Wunder, Sieg des guten Prinzips, Reiches Gottes, ethischen Naturzustande, ethischen gemeinen Wesens, Volke Gottes, Kirche, Kirchenglauben, Religionsglauben</vocab>

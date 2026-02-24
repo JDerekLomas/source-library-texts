@@ -1,0 +1,28 @@
+{
+  "id": "695594957bd6d2cd1d61d821",
+  "title": "Ante-Nicene Christian Library Vol. 11",
+  "display_title": "Ante-Nicene Christian Library Vol. 11",
+  "author": "Alexander Roberts / James Donaldson",
+  "language": "English",
+  "year": 1869,
+  "published": "Unknown",
+  "pages_count": 526,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/695594957bd6d2cd1d61d821",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "antenicenechrist11robe"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:09.848Z",
+  "_hashes": {
+    "ocr": "ff98fb105db78971",
+    "translation": "83cfa2e4eac965ae"
+  }
+}

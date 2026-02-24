@@ -1,0 +1,28 @@
+{
+  "id": "6953ea1d1479a63c11085fc9",
+  "title": "Vollständige Anleitung zur Algebra (1771)",
+  "display_title": "Vollständige Anleitung zur Algebra (1771)",
+  "author": "Leonhard Euler",
+  "language": "German",
+  "year": 1771,
+  "published": "Unknown",
+  "pages_count": 669,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6953ea1d1479a63c11085fc9",
+  "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bub_gb_nfYGAAAAcAAJ"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:12.903Z",
+  "_hashes": {
+    "ocr": "f47a8d5da6e8d854",
+    "translation": "fa0ffb2f5067b2e9"
+  }
+}

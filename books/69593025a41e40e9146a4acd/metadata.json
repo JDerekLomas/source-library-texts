@@ -1,0 +1,28 @@
+{
+  "id": "69593025a41e40e9146a4acd",
+  "title": "A True & Faithful Relation of Dr. John Dee and Some Spirits",
+  "display_title": "A True & Faithful Relation of Dr. John Dee and Some Spirits",
+  "author": "John Dee / Meric Casaubon",
+  "language": "English",
+  "year": 1659,
+  "published": "Unknown",
+  "pages_count": 500,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 4,
+  "source_url": "https://sourcelibrary.org/book/69593025a41e40e9146a4acd",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "truefaithfulrela00deej"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:15.419Z",
+  "_hashes": {
+    "ocr": "f1c366b77e617717",
+    "translation": "e5e40de7fb1a6a40"
+  }
+}

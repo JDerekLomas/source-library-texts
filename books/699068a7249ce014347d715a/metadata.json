@@ -1,0 +1,28 @@
+{
+  "id": "699068a7249ce014347d715a",
+  "title": "Théorie analytique de la chaleur",
+  "display_title": "Théorie analytique de la chaleur (Fourier Analysis)",
+  "author": "Joseph Fourier",
+  "language": "French",
+  "year": 1822,
+  "published": "Unknown",
+  "pages_count": 684,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/699068a7249ce014347d715a",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "thorieanalytiq00four"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:30:07.230Z",
+  "_hashes": {
+    "ocr": "33851a299e180623",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

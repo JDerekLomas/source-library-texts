@@ -1,0 +1,28 @@
+{
+  "id": "6990689d8034a3640265bc68",
+  "title": "Cosmographicus Liber",
+  "display_title": "Cosmographicus Liber",
+  "author": "Peter Apian",
+  "language": "Latin",
+  "year": 1524,
+  "published": "Unknown",
+  "pages_count": 196,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/6990689d8034a3640265bc68",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "Cosmographicusl00Apia"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:30:07.148Z",
+  "_hashes": {
+    "ocr": "d9b3e597ec172999",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

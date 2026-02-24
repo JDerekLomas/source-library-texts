@@ -1,0 +1,28 @@
+{
+  "id": "6955839857e3b773024f88c2",
+  "title": "The Metrical Dindshenchas (Irish Place-Lore in Verse)",
+  "display_title": "The Metrical Dindshenchas (Irish Place-Lore in Verse)",
+  "author": "Edward John Gwynn / Royal Irish Academy",
+  "language": "English",
+  "year": 1903,
+  "published": "Unknown",
+  "pages_count": 128,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6955839857e3b773024f88c2",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "metricaldindsenc02royauoft"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:14.283Z",
+  "_hashes": {
+    "ocr": "58b984b9971bf8e8",
+    "translation": "6c28a0d50ab18c93"
+  }
+}

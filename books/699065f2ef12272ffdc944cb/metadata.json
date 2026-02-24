@@ -1,0 +1,28 @@
+{
+  "id": "699065f2ef12272ffdc944cb",
+  "title": "The Works of Joseph Mede",
+  "display_title": "The Works of Joseph Mede",
+  "author": "Joseph Mede",
+  "language": "English",
+  "year": 1664,
+  "published": "Unknown",
+  "pages_count": 1051,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/699065f2ef12272ffdc944cb",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bim_early-english-books-1641-1700_the-works-of-_mede-joseph_1677"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:30:15.078Z",
+  "_hashes": {
+    "ocr": "6a210a7df5922a4a",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

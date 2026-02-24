@@ -1,0 +1,28 @@
+{
+  "id": "6958e9ff538549809db82bc4",
+  "title": "Canon medicinae Lib. 1-7",
+  "display_title": "Canon medicinae Lib. 1-7",
+  "author": "Avicenna (Ibn Sina)",
+  "language": "Latin",
+  "year": 1490,
+  "published": "1490",
+  "pages_count": 285,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6958e9ff538549809db82bc4",
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "doi": null,
+  "external_ids": {
+    "mdz": "bsb00055831"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:07.068Z",
+  "_hashes": {
+    "ocr": "544865e0417d18f2",
+    "translation": "1d57c7e9b9f46d38"
+  }
+}

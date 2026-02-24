@@ -1,0 +1,26 @@
+{
+  "id": "699067e68da6face82f779a6",
+  "title": "Liber Razielis Archangeli",
+  "display_title": "Reg.lat.1300",
+  "author": "Unknown (attributed to Angel Raziel)",
+  "language": "Latin",
+  "year": 1350,
+  "published": "1350",
+  "pages_count": 444,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/699067e68da6face82f779a6",
+  "license": "CC-BY-NC-4.0",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:30:09.927Z",
+  "_hashes": {
+    "ocr": "94eebaeff8befb57",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "695434e11479a63c1108a3ab",
+  "title": "The Logic of Hegel",
+  "display_title": "The Logic of Hegel",
+  "author": "Georg Wilhelm Friedrich Hegel",
+  "language": "English",
+  "year": 1874,
+  "published": "Unknown",
+  "pages_count": 528,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/695434e11479a63c1108a3ab",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "logicofhegel00hege"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:11.499Z",
+  "_hashes": {
+    "ocr": "d3722dbcb2c79697",
+    "translation": "bb3352ec101614ff"
+  }
+}

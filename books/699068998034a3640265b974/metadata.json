@@ -1,0 +1,28 @@
+{
+  "id": "699068998034a3640265b974",
+  "title": "Protomathesis",
+  "display_title": "Protomathesis",
+  "author": "Oronce Finé",
+  "language": "Latin",
+  "year": 1532,
+  "published": "Unknown",
+  "pages_count": 444,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/699068998034a3640265b974",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "gri_33125009331030"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:30:06.949Z",
+  "_hashes": {
+    "ocr": "bfc29c4f7675bb54",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

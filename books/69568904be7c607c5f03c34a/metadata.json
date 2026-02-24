@@ -1,0 +1,28 @@
+{
+  "id": "69568904be7c607c5f03c34a",
+  "title": "Dimostrationi Harmoniche",
+  "display_title": "Dimostrationi Harmoniche",
+  "author": "Gioseffo Zarlino",
+  "language": "Italian",
+  "year": 1571,
+  "published": "Unknown",
+  "pages_count": 340,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/69568904be7c607c5f03c34a",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "imslp-dimostrationi-harmoniche-zarlino-gioseffo"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:10.683Z",
+  "_hashes": {
+    "ocr": "1ec4d6fb8990c448",
+    "translation": "d6d7aa057a3c5d65"
+  }
+}

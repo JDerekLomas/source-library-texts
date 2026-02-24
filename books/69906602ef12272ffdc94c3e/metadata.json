@@ -1,0 +1,26 @@
+{
+  "id": "69906602ef12272ffdc94c3e",
+  "title": "De iudiciis astrorum",
+  "display_title": "Barb.lat.172",
+  "author": "Haly Abenragel",
+  "language": "Latin",
+  "year": 1400,
+  "published": "1400",
+  "pages_count": 396,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/69906602ef12272ffdc94c3e",
+  "license": "CC-BY-NC-4.0",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:30:14.211Z",
+  "_hashes": {
+    "ocr": "c012a24e56d45845",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "6952e4b477f38f6761bc7d4c",
+  "title": "Septuaginta (Greek Old Testament)",
+  "display_title": "Vetus Testamentum Graecum: Septuagint with Latin Translation",
+  "author": "Septuagint",
+  "language": "Greek",
+  "year": 1855,
+  "published": "1855",
+  "pages_count": 741,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6952e4b477f38f6761bc7d4c",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "hpalaiadiathkka00jagegoog"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:15.508Z",
+  "_hashes": {
+    "ocr": "e12a1d6d4d5bada1",
+    "translation": "f0d2aad52a737c0e"
+  }
+}

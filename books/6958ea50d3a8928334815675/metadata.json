@@ -1,0 +1,28 @@
+{
+  "id": "6958ea50d3a8928334815675",
+  "title": "De materia medica (Greek manuscript Grec 2179)",
+  "display_title": "De materia medica (Greek manuscript Grec 2179)",
+  "author": "Dioscorides",
+  "language": "Latin",
+  "year": 1523,
+  "published": "1523",
+  "pages_count": 358,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6958ea50d3a8928334815675",
+  "license": "https://gallica.bnf.fr/html/und/conditions-dutilisation-des-contenus-de-gallica",
+  "doi": null,
+  "external_ids": {
+    "gallica": "btv1b525002505"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:07.947Z",
+  "_hashes": {
+    "ocr": "ed816e9337f29a94",
+    "translation": "0a8fd5688023d85b"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "6954343f1479a63c11088b5b",
+  "title": "Ethica (Latin Original)",
+  "display_title": "Ethica (Latin Original)",
+  "author": "Baruch Spinoza",
+  "language": "Latin",
+  "year": 1915,
+  "published": "1915",
+  "pages_count": 203,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6954343f1479a63c11088b5b",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "ethica00unkngoog"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:11.771Z",
+  "_hashes": {
+    "ocr": "21f4135c42036a10",
+    "translation": "e16141c1b952ea69"
+  }
+}

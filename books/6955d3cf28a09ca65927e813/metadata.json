@@ -1,0 +1,28 @@
+{
+  "id": "6955d3cf28a09ca65927e813",
+  "title": "Philosophical Works Vol. 3",
+  "display_title": "Philosophical Works Vol. 3",
+  "author": "Robert Boyle",
+  "language": "English",
+  "year": 1725,
+  "published": "Unknown",
+  "pages_count": 788,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6955d3cf28a09ca65927e813",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "philosophicalwor03boyl"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:07.865Z",
+  "_hashes": {
+    "ocr": "7e5f13c7c666d05b",
+    "translation": "57741cf2539d7f99"
+  }
+}

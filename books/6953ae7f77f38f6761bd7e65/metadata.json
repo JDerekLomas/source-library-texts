@@ -1,0 +1,28 @@
+{
+  "id": "6953ae7f77f38f6761bd7e65",
+  "title": "Papyri Graecae Magicae (Preisendanz)",
+  "display_title": "Papyri Graecae Magicae (Preisendanz)",
+  "author": "Karl Preisendanz (ed.)",
+  "language": "Greek",
+  "year": 1928,
+  "published": "1928",
+  "pages_count": 234,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6953ae7f77f38f6761bd7e65",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "papyrigraecaemag0001unse_x4f6"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:15.671Z",
+  "_hashes": {
+    "ocr": "cbab426924dd44b8",
+    "translation": "14c75edf26162079"
+  }
+}

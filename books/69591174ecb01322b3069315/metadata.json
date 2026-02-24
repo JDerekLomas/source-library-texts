@@ -1,0 +1,28 @@
+{
+  "id": "69591174ecb01322b3069315",
+  "title": "Plantae Asiaticae rariores Vol. 1",
+  "display_title": "Plantae Asiaticae rariores Vol. 1",
+  "author": "Nathaniel Wallich",
+  "language": "Latin",
+  "year": 1830,
+  "published": "Unknown",
+  "pages_count": 197,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/69591174ecb01322b3069315",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "mobot31753000666260"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:11.982Z",
+  "_hashes": {
+    "ocr": "4d2690da3a9d13f5",
+    "translation": "17b7c7cb252edc14"
+  }
+}

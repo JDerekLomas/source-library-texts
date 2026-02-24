@@ -1,0 +1,28 @@
+{
+  "id": "6953efed1479a63c11088ad6",
+  "title": "An Inquiry Concerning Virtue or Merit",
+  "display_title": "An Inquiry Concerning Virtue or Merit",
+  "author": "Third Earl of Shaftesbury",
+  "language": "English",
+  "year": 1711,
+  "published": "Unknown",
+  "pages_count": 132,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6953efed1479a63c11088ad6",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "inquiryconcernin00shafuoft"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:12.136Z",
+  "_hashes": {
+    "ocr": "fd6aad2c329e0e77",
+    "translation": "0061f73f54fb138d"
+  }
+}

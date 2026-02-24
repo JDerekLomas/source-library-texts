@@ -1,0 +1,28 @@
+{
+  "id": "695434421479a63c11088c27",
+  "title": "Ethic Demonstrated in Geometrical Order (White Translation)",
+  "display_title": "Ethic Demonstrated in Geometrical Order (White Translation)",
+  "author": "Baruch Spinoza",
+  "language": "English",
+  "year": 1883,
+  "published": "Unknown",
+  "pages_count": 356,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/695434421479a63c11088c27",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "ethicdemonstrate00spinuoft"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:11.695Z",
+  "_hashes": {
+    "ocr": "2a04f645177ecced",
+    "translation": "a36ffbddc2165682"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "6958e968813ea03889c32a24",
+  "title": "Serpentum et draconum historiae libri duo",
+  "display_title": "Serpentum et draconum historiae libri duo",
+  "author": "Ulisse Aldrovandi",
+  "language": "Latin",
+  "year": 1640,
+  "published": "1640",
+  "pages_count": 466,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6958e968813ea03889c32a24",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "vlyssisaldrouan00berngoog"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:09.257Z",
+  "_hashes": {
+    "ocr": "610bf6e515422ed5",
+    "translation": "defe7158fbf447f5"
+  }
+}

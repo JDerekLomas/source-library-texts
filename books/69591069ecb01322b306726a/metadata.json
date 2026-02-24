@@ -1,0 +1,28 @@
+{
+  "id": "69591069ecb01322b306726a",
+  "title": "The Natural History of Carolina Florida and Bahama Islands Vol. 1",
+  "display_title": "The Natural History of Carolina Florida and Bahama Islands Vol. 1",
+  "author": "Mark Catesby",
+  "language": "Latin",
+  "year": 1777,
+  "published": "1777",
+  "pages_count": 325,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/69591069ecb01322b306726a",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "naturalhistoryc1cateb"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:13.553Z",
+  "_hashes": {
+    "ocr": "9773844fb3c6b3f0",
+    "translation": "025bbeaabc300c51"
+  }
+}

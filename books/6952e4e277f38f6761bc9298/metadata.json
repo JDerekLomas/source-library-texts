@@ -1,0 +1,28 @@
+{
+  "id": "6952e4e277f38f6761bc9298",
+  "title": "Vetus Testamentum ex Versione Septuaginta",
+  "display_title": "Septuagint: Greek Old Testament (Vatican Codex Edition)",
+  "author": "Septuagint (ed. Bos)",
+  "language": "Greek",
+  "year": 1822,
+  "published": "1822",
+  "pages_count": 613,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6952e4e277f38f6761bc9298",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "hpalaiadiathkka00bosgoog"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:07.527Z",
+  "_hashes": {
+    "ocr": "a1a8842ddd234fb5",
+    "translation": "3fa3d88ed253f7da"
+  }
+}

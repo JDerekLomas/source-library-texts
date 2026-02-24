@@ -1,0 +1,28 @@
+{
+  "id": "69568ed7499312f0ff881a99",
+  "title": "Principles of Political Economy with Applications to Social Philosophy",
+  "display_title": "Principles of Political Economy with Applications to Social Philosophy",
+  "author": "John Stuart Mill",
+  "language": "English",
+  "year": 1848,
+  "published": "1848",
+  "pages_count": 589,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/69568ed7499312f0ff881a99",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "principlespolit28millgoog"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:10.429Z",
+  "_hashes": {
+    "ocr": "18657b757c40a9b1",
+    "translation": "c98076fa9a9f28f1"
+  }
+}

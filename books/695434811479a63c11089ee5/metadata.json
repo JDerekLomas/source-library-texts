@@ -1,0 +1,28 @@
+{
+  "id": "695434811479a63c11089ee5",
+  "title": "Die Religion innerhalb der Grenzen der blossen Vernunft",
+  "display_title": "Die Religion innerhalb der Grenzen der blossen Vernunft",
+  "author": "Immanuel Kant",
+  "language": "German",
+  "year": 1793,
+  "published": "Unknown",
+  "pages_count": 366,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/695434811479a63c11089ee5",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "diereligioninner00kantuoft"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:11.590Z",
+  "_hashes": {
+    "ocr": "ff6f514759a7bfcc",
+    "translation": "6a14d2f325e4cc4f"
+  }
+}

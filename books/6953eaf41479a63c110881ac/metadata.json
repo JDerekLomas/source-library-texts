@@ -1,0 +1,28 @@
+{
+  "id": "6953eaf41479a63c110881ac",
+  "title": "De Mundo Nostro Sublunari Philosophia Nova (1651)",
+  "display_title": "De Mundo Nostro Sublunari Philosophia Nova (1651)",
+  "author": "William Gilbert",
+  "language": "Latin",
+  "year": 1651,
+  "published": "Unknown",
+  "pages_count": 350,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6953eaf41479a63c110881ac",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "ita-bnc-mag-00001408-001"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:12.628Z",
+  "_hashes": {
+    "ocr": "da879cf3c28883e7",
+    "translation": "cf1efa189a229aad"
+  }
+}

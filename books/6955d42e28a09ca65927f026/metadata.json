@@ -1,0 +1,28 @@
+{
+  "id": "6955d42e28a09ca65927f026",
+  "title": "Parentalia - Memoirs of the Wrens",
+  "display_title": "Parentalia - Memoirs of the Wrens",
+  "author": "Christopher Wren Jr.",
+  "language": "English",
+  "year": 1750,
+  "published": "Unknown",
+  "pages_count": 398,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6955d42e28a09ca65927f026",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "gri_33125011157357"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:07.616Z",
+  "_hashes": {
+    "ocr": "06bbf12516dc48ce",
+    "translation": "fb607afc66958136"
+  }
+}

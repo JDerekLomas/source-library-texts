@@ -1,0 +1,28 @@
+{
+  "id": "695910f2ecb01322b3068302",
+  "title": "Historia natural y moral de las Indias",
+  "display_title": "Historia natural y moral de las Indias",
+  "author": "Jose de Acosta",
+  "language": "Spanish",
+  "year": 1608,
+  "published": "1608",
+  "pages_count": 586,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/695910f2ecb01322b3068302",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "historianatvraly00acos"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:13.980Z",
+  "_hashes": {
+    "ocr": "69c73d719c5971bc",
+    "translation": "c3ec46ac7a97c64b"
+  }
+}

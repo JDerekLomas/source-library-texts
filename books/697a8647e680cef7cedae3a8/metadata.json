@@ -1,0 +1,26 @@
+{
+  "id": "697a8647e680cef7cedae3a8",
+  "title": "Divine Pymander. Asclepius",
+  "display_title": "Divine Pymander. Asclepius",
+  "author": "Hermes Trismegistus",
+  "language": "English",
+  "year": 1657,
+  "published": "1657",
+  "pages_count": 418,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 6,
+  "source_url": "https://sourcelibrary.org/book/697a8647e680cef7cedae3a8",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:15.251Z",
+  "_hashes": {
+    "ocr": "b37383c6e44f404a",
+    "translation": "1429c62da38577db"
+  }
+}

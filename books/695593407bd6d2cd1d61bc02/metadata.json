@@ -1,0 +1,28 @@
+{
+  "id": "695593407bd6d2cd1d61bc02",
+  "title": "Iamblichus De Vita Pythagorica (Greek/Latin 1815)",
+  "display_title": "Iamblichus De Vita Pythagorica (Greek/Latin 1815)",
+  "author": "Iamblichus",
+  "language": "Greek/Latin",
+  "year": 1815,
+  "published": "1815",
+  "pages_count": 415,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/695593407bd6d2cd1d61bc02",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "iamblichichalci00kegoog"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:13.227Z",
+  "_hashes": {
+    "ocr": "ed36d2aaf598e09e",
+    "translation": "3efd7281a91df97e"
+  }
+}

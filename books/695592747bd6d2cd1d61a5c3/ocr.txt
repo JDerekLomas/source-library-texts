@@ -1,0 +1,236 @@
+--- Page 1 ---
+<lang>English</lang>
+<page-type>diagram</page-type>
+
+<image-desc>This image shows a professional photographic calibration target, used for color and spatial accuracy in digitization. It features a vertical ruler on the right edge marked in inches and centimeters. Centrally, it contains two tables of colorimetric data (L* a* b* values) corresponding to numbered color patches. A grayscale density scale is present on the left, along with resolution charts (slanted-edge and wedge targets) in the center. Text identifies it as a "Golden Thread" target with "Colors by Munsell Color Services Lab," calibrated for "D50 Illuminant, 2 degree observer." The name "Don Williams" appears at the bottom.</image-desc>
+
+->**inches**<-
+
+| | L* | a* | b* |
+|---|---|---|---|
+| 1 | 39.12 | 13.24 | 15.07 |
+| 2 | 65.43 | 18.11 | 18.72 |
+| 3 | 49.87 | -4.34 | -22.29 |
+| 4 | 44.26 | -13.80 | 22.85 |
+| 5 | 55.56 | 9.82 | -24.49 |
+| 6 | 70.82 | -33.43 | -0.35 |
+| 7 | 63.51 | 34.26 | 59.60 |
+| 8 | 39.92 | 11.81 | -46.07 |
+| 9 | 52.24 | 48.55 | 18.51 |
+| 10 | 97.06 | -0.40 | 1.13 |
+| 11 (A) | 92.02 | -0.60 | 0.23 |
+| 12 | 87.34 | -0.75 | 0.21 |
+| 13 | 82.14 | -1.06 | 0.43 |
+| 14 | 72.06 | -1.19 | 0.28 |
+| 15 | 62.15 | -1.07 | 0.19 |
+
+->D50 Illuminant, 2 degree observer<-
+
+->**Density**<-
+
+| 0.04 | 0.09 | 0.15 | 0.22 | 0.36 | 0.51 |
+|------|------|------|------|------|------|
+
+->*Golden Thread*<-
+
+| | L* | a* | b* |
+|---|---|---|---|
+| 16 (M) | 49.25 | -0.16 | 0.01 |
+| 17 | 38.62 | -0.18 | -0.04 |
+| 18 (B) | 28.86 | 0.54 | 0.60 |
+| 19 | 16.19 | -0.05 | 0.73 |
+| 20 | 8.29 | -0.81 | 0.19 |
+| 21 | 3.44 | -0.23 | 0.49 |
+| 22 | 31.41 | 20.98 | -19.43 |
+| 23 | 72.46 | -24.45 | 55.93 |
+| 24 | 72.95 | 16.83 | 68.80 |
+| 25 | 29.37 | 13.06 | -49.49 |
+| 26 | 54.91 | -38.91 | 30.77 |
+| 27 | 43.96 | 52.00 | 30.01 |
+| 28 | 82.74 | 3.45 | 81.29 |
+| 29 | 52.79 | 50.88 | -12.72 |
+| 30 | 50.87 | -27.17 | -29.46 |
+
+->Colors by Munsell Color Services Lab<-
+
+->**centimeters**<-
+
+->*Don Williams*<-
+
+<vocab>Golden Thread, Munsell Color Services Lab, color calibration, D50 Illuminant, density scale, Lab values, colorimetry</vocab>
+
+--- Page 2 ---
+<lang>None</lang>
+<page-type>blank</page-type>
+<image-desc>This image shows the heavily worn and distressed surface of an antique book cover or a blank endpaper. The background is predominantly black, covered with a dense network of fine scratches, abrasions, and white or grey speckles. On the left margin, there are visible horizontal ridges or "bands" indicating the structure of the book's spine. On the right side, there are vertical streaks or drip-like wear marks. No legible text is present on the page.</image-desc>
+<vocab></vocab>
+
+--- Page 3 ---
+<lang>Latin</lang>
+<page-type>text</page-type>
+
+<image-desc>
+The page consists of decorative marbled paper featuring a "snail" or "curl" pattern in shades of black, grey, and white. A rectangular printed bookplate (ex-libris) is pasted in the upper third of the page. The bookplate has a double-lined frame, with the inner frame composed of decorative star-shaped floral motifs.
+</image-desc>
+
+<insert>
+<margin>IN.</margin>
+
+->COLL. TAUR. SOC. JESU<-
+->AD SS. MARTYRUM<-
+
+---
+
+->*Addict. Bibl. Domestic.*<-
+</insert>
+
+<vocab>Coll. Taur. Soc. Jesu, Collegium Taurinense Societatis Jesu, Ad SS. Martyrum, Addictum Bibliothecae Domesticae, Jesuits, Turin</vocab>
+
+--- Page 4 ---
+<lang>lat</lang>
+<page-type>text</page-type>
+<warning>The page shows significant water damage, mold staining, and foxing, though the central text remains legible.</warning>
+<meta>Provenance inscription on a flyleaf or title-page verso.</meta>
+
+->Ex libris<-
+
+->Victorij Amedei Rosa Fiorè<-
+
+->I. U. <term>Doctoris</term><-
+
+->1740<-
+
+---
+
+<insert>30 15583 V/II</insert>
+<note>Modern library shelfmark in pencil at the bottom left.</note>
+
+<vocab>Ex libris, Victorij Amedei Rosa Fiorè, I. U. Doctoris, Iuris Utriusque Doctor, provenance</vocab>
+
+--- Page 5 ---
+<lang>la</lang>
+<page-type>blank</page-type>
+<warning>This page exhibits significant water damage, foxing, and heavy bleed-through from the verso side. The original text on this side, if present, is obscured by these conditions.</warning>
+
+<insert>LIPR</insert>
+
+<vocab>shelfmark, bleed-through, foxing</vocab>
+
+--- Page 6 ---
+<lang>la</lang>
+<page-type>title-page</page-type>
+<meta>image quality: clear; accession numbers: 106351 (top right), 5233310 (bottom left), 20210 (bottom center); shelfmark: Axc 19 3/2 (bottom center), ARTE III 20 (faded, right margin)</meta>
+
+# ATHANASII KIRCHERI
+## FULDENSIS
+### SOC. IESV PRESBYTERI.
+# MVSVRGIA
+## VNIVERSALIS
+
+<insert>Ex eleemosynis a P. Fr. Obtentis opus dicatum Roberto a Taurino studio, et labore Conventui S. Mariæ Angelorum Taurini</insert>
+
+### S I V E
+# ARS MAGNA
+## CONSONI ET DISSONI.
+### Tomus II.
+
+<margin>Qui continet.</margin>
+*   In Lib. VIII. Musicam Mirificam.
+*   In Lib. IX. Magiam Consoni & Dissoni.
+*   In Lib. X. Harmoniam Mundi.
+
+> Mille velut Philomela sonos Epiglottide promit,
+> Sic Ars Magna suo hoc dat mille Volumine voces.
+
+<image-desc>An oval woodcut illustration depicts a bird (likely a nightingale or "Philomela" as referenced in the text) perched upon a set of musical pipes (syrinx or panpipes). To the lower right of the image is a circular library stamp containing the Jesuit "IHS" monogram surmounted by a cross.</image-desc>
+
+> Præsaga Vati Auis est Apollini,
+> Qui Musicæ almus fertur & metri parens. **Terent.**
+
+---
+
+-> ROMÆ, Typis Ludovici Grignani. Anno Iubilæi MDCL. <-
+
+---
+
+-> SVPERIORVM PERMISSV. <-
+
+<vocab>Athanasius Kircher, Musurgia Universalis, Ars Magna, Consoni et Dissoni, Tomus II, Philomela, Apollo, Terentius, Ludovicus Grignanus, Roma, 1650, Jesuit, Musicology</vocab>
+
+--- Page 7 ---
+<lang>Latin, Greek</lang>
+<page-type>text</page-type>
+
+# TRISTYCHON IN TOMVM II.
+
+Organum agit Mundus denis vocale Regiftris,
+Rerum in eo quot funt Entia, tot Metra funt.
+Eft DEVS Harmoftes, in quo Sapientia Patris,
+Quæ benè difpofuit, Spiritus vnit Amor.
+Hic amor harmonia eft, hoc Mundus amore ligatur;
+O' <unclear>ἐξαγὸς</unclear> hunc mundum Numinis effe negas?
+
+<image-desc>A diagram illustrating the "Organum Mundi" (World Organ) and its ten registers mentioned in the poem. A large circle contains a triangle and a central vertical axis. At the top vertex of the triangle is a small circle labeled "DEVS". The left and right vertices on the perimeter of the large circle are labeled "INTELLECTVS" and "MEMORIA". Horizontal lines bridge the triangle along the central axis, labeled from top to bottom: "MENS", "RATIO", "SENSVS", "VITA", "COELVM", "ELEMENTVM", and "ANGELVS". At the very bottom point of the main circle is a final small circle labeled "DEVS". These labels represent the ten registers of the cosmic organ.</image-desc>
+
+### TRISMEGISTVS IN ASCLEPIO.
+
+> ἡ μουσικὴ μηδὲν ἐστὶν ἕτερον, ἢ πάντων τάξιν εἰδέναι.
+> Mufica nihil aliud eft, quam omnium ordinem fcire.
+
+<vocab>Organum Mundi, Harmoftes, Hermes Trismegistus, Asclepius, Mens, Ratio, Sensus, Vita, Coelum, Elementum, Angelus, Intellectus, Memoria, Deus</vocab>
+
+--- Page 8 ---
+<lang>Latin</lang>
+<page-type>illustration</page-type>
+<header>Initium.</header>
+<meta>Artist signature at bottom left: Petrus Miotte Bur. Sculp. (Pierre Miotte, Burgundian engraver).</meta>
+
+<image-desc>A full-page engraving of the god Apollo standing on a decorative circular pedestal. Apollo is depicted as a youthful, idealized male figure with curly hair, nude except for a draped cloak. He holds a large lyre (kithara) and appears to be tuning or playing it. At his feet, on the pedestal, sits Cerberus, the three-headed dog of Hades, representing his mastery over both the celestial and infernal realms. The background features a divided landscape: on the left, a fortified castle sits atop a rocky hill amidst trees; on the right, a coastal scene with a harbor, ships, and mountains is visible. A large, fluted Corinthian column stands prominently on the far right. The pedestal itself is adorned with a bas-relief featuring a collection of musical instruments (drums, flutes, trumpets) and military trophies (flags, shields). Two lines of Latin verse are inscribed at the base of the pedestal.</image-desc>
+
+-> Mundanam dexter Cytharam tenet, aptat acutum <-
+-> Cuncta APOLLO regit, bona mista malis. <-
+
+<vocab>Apollo, Cerberus, lyre, Petrus Miotte, Mundana Cythara, Harmonia Mundi</vocab>
+
+--- Page 9 ---
+<lang>und</lang>
+<page-type>blank</page-type>
+
+<vocab></vocab>
+
+--- Page 10 ---
+<lang>la</lang>
+<page-type>preface</page-type>
+<page-num>1</page-num>
+<sig>A xi ;</sig>
+<meta>The page features a large ornamental headpiece and an ornate woodcut drop-cap. The text uses a mix of Roman and Italic typefaces. The italicized preface text utilizes the e-caudata (ę) and preserves the 'v'/'u' distinction of the period (initial 'v' for 'u').</meta>
+
+<image-desc>A large horizontal decorative woodcut headpiece featuring symmetrical scrolling acanthus leaves, floral motifs, and stylized grotesque elements.</image-desc>
+
+# ARTIS
+# MAGNAE
+# CONSONI,
+-> ET <-
+# DISSONI
+## LIBER OCTAVVS
+### DE
+## MVSVRGIA MIRIFICA
+-> hoc est <-
+### ARS NOVA MVSARITHMICA RECENTER INVENTA;
+-> *qua quiuis etiam quantumuis Musicæ imperitus, ad perfectam componendi notitiam breui tempore pertingere potest.* <-
+
+## P R A E F A T I O.
+
+<image-desc>Ornamental woodcut decorative initial 'I' depicting foliate patterns and scrolling vines within a square border.</image-desc>
+
+*ITA in omnibus artibus & scientijs Praxis & Theoria coniun-*
+*ctionem ambiunt, vt una si alteram destituat, meritò vtraquè*
+*cadat ; neque enim praxis suam sine Theoria obtinet existimatio-*
+*nem; neque sine praxi sola suam Theoria, quę vti in alijs, ita po-*
+*tissimum in Musica facultate locum habent ; Etsi enim Theoria*
+*Musicę solo veritatis amore contenta finem aliquo modo consecu-*
+*ta dici possit, scilicet propriam delectationem: fieri tamen nulla ra-*
+*tione poterit, vt si omnimoda praxi destitutus sit Musicus, quicquam circa dictam fa-*
+*cultatem dignum præstet ; Hinc ab ineunte ętate ego vtrique ex ęquo incumbendum du-*
+
+<vocab>Musurgia Mirifica, Ars Nova Musarithmica, Praxis, Theoria, Musicus, delectatio, Musarithmica</vocab>

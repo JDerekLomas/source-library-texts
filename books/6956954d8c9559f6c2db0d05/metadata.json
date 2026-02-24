@@ -1,0 +1,28 @@
+{
+  "id": "6956954d8c9559f6c2db0d05",
+  "title": "The Politics of Aristotle (with English notes by Richard Congreve)",
+  "display_title": "The Politics of Aristotle (with English notes by Richard Congreve)",
+  "author": "Aristotle",
+  "language": "English",
+  "year": 1855,
+  "published": "Unknown",
+  "pages_count": 572,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6956954d8c9559f6c2db0d05",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "aristoteloustapo00arisuoft"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:09.767Z",
+  "_hashes": {
+    "ocr": "f9873d32fd52e177",
+    "translation": "ebd45d84d856602b"
+  }
+}

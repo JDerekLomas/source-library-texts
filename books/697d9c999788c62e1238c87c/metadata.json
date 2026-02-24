@@ -1,0 +1,26 @@
+{
+  "id": "697d9c999788c62e1238c87c",
+  "title": "Histoire naturelle de la parole",
+  "display_title": "Histoire naturelle de la parole",
+  "author": "Court de Gébelin, Antoine",
+  "language": "French",
+  "year": 1776,
+  "published": "1776",
+  "pages_count": 482,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 1,
+  "source_url": "https://sourcelibrary.org/book/697d9c999788c62e1238c87c",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:14.904Z",
+  "_hashes": {
+    "ocr": "e16c92e816fa269a",
+    "translation": "b8e42a8ea7df6d06"
+  }
+}

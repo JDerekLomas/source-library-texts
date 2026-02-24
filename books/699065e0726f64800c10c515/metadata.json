@@ -1,0 +1,28 @@
+{
+  "id": "699065e0726f64800c10c515",
+  "title": "Pharsalia (1486 edition)",
+  "display_title": "Pharsalia (1486 edition)",
+  "author": "Lucan (Marcus Annaeus Lucanus)",
+  "language": "Latin",
+  "year": 1486,
+  "published": "Unknown",
+  "pages_count": 370,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/699065e0726f64800c10c515",
+  "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "pharsaliacommomn00luca"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:30:12.386Z",
+  "_hashes": {
+    "ocr": "1dfa512b203639bf",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

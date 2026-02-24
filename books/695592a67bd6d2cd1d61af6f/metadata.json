@@ -1,0 +1,28 @@
+{
+  "id": "695592a67bd6d2cd1d61af6f",
+  "title": "John Dee Monas Hieroglyphica (1591)",
+  "display_title": "John Dee Monas Hieroglyphica (1591)",
+  "author": "John Dee",
+  "language": "Latin",
+  "year": 1591,
+  "published": "Unknown",
+  "pages_count": 124,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/695592a67bd6d2cd1d61af6f",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "monashieroglyphi00deej"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:13.384Z",
+  "_hashes": {
+    "ocr": "ef9b33538a888fef",
+    "translation": "14ce7b4b7ded88cc"
+  }
+}

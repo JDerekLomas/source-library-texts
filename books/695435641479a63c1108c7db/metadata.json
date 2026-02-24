@@ -1,0 +1,28 @@
+{
+  "id": "695435641479a63c1108c7db",
+  "title": "Vernunftige Gedanken Kraften Erkenntnis (Deutsche Logik)",
+  "display_title": "Vernunftige Gedanken Kraften Erkenntnis (Deutsche Logik)",
+  "author": "Christian Wolff",
+  "language": "German",
+  "year": 1740,
+  "published": "1740",
+  "pages_count": 273,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/695435641479a63c1108c7db",
+  "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bub_gb_9-gBAAAAcAAJ"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:11.008Z",
+  "_hashes": {
+    "ocr": "ec1219c5430553c9",
+    "translation": "6427b9b00ae8df2f"
+  }
+}

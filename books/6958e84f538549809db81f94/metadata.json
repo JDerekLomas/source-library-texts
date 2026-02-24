@@ -1,0 +1,28 @@
+{
+  "id": "6958e84f538549809db81f94",
+  "title": "Ortus sanitatis",
+  "display_title": "Ortus sanitatis",
+  "author": "Jacob Meydenbach",
+  "language": "Latin",
+  "year": 1491,
+  "published": "1491",
+  "pages_count": 2558,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6958e84f538549809db81f94",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "9413026.nlm.nih.gov"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:09.611Z",
+  "_hashes": {
+    "ocr": "3bf5031eda24cc46",
+    "translation": "092454d341b3be13"
+  }
+}

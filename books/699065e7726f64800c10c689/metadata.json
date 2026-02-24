@@ -1,0 +1,28 @@
+{
+  "id": "699065e7726f64800c10c689",
+  "title": "The Song Celestial, or Bhagavad-Gita (From the Mahabharata)",
+  "display_title": "Bhagavad Gita (The Song Celestial)",
+  "author": "Edwin Arnold (trans.)",
+  "language": "Sanskrit",
+  "year": 1885,
+  "published": "Unknown",
+  "pages_count": 198,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/699065e7726f64800c10c689",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "songcelestialorb00edwi"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:30:12.222Z",
+  "_hashes": {
+    "ocr": "56c4813bf34fea21",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "6955839b57e3b773024f8943",
+  "title": "The Topographical Poems of O Dubhagain and O Huidhrin (14th-15th c.)",
+  "display_title": "The Topographical Poems of O Dubhagain and O Huidhrin (14th-15th c.)",
+  "author": "Seán Mór Ó Dubhagáin / Gilla na naomh Ó Huidhrin / John O Donovan",
+  "language": "English",
+  "year": 1862,
+  "published": "Unknown",
+  "pages_count": 370,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6955839b57e3b773024f8943",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "topographicalpoe00odon"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:14.060Z",
+  "_hashes": {
+    "ocr": "76973d801fed9c2e",
+    "translation": "5a4997fe92e97fe8"
+  }
+}

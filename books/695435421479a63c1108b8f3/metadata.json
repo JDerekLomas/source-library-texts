@@ -1,0 +1,28 @@
+{
+  "id": "695435421479a63c1108b8f3",
+  "title": "Psychologia rationalis",
+  "display_title": "Psychologia rationalis",
+  "author": "Christian Wolff",
+  "language": "Latin",
+  "year": 1737,
+  "published": "1737",
+  "pages_count": 718,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/695435421479a63c1108b8f3",
+  "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bub_gb_szJNAAAAMAAJ"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:11.310Z",
+  "_hashes": {
+    "ocr": "e284186041686271",
+    "translation": "10c114b197fbbd8c"
+  }
+}

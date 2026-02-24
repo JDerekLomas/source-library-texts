@@ -1,0 +1,26 @@
+{
+  "id": "697d9c999788c62e1238c86e",
+  "title": "Haliographia, das ist: gründliche unnd eigendliche Beschreibung aller Saltz-mineralien",
+  "display_title": "Haliographia, das ist: gründliche unnd eigendliche Beschreibung aller Saltz-mineralien",
+  "author": "Thölde, Johann",
+  "language": "German",
+  "year": 1612,
+  "published": "1612",
+  "pages_count": 383,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 7,
+  "source_url": "https://sourcelibrary.org/book/697d9c999788c62e1238c86e",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:07.443Z",
+  "_hashes": {
+    "ocr": "5ba0d3cd55d89f1a",
+    "translation": "a68f4b303dd58910"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "695592747bd6d2cd1d61a5c3",
+  "title": "Kircher Musurgia Universalis Vol. II (1650)",
+  "display_title": "Kircher Musurgia Universalis Vol. II (1650)",
+  "author": "Athanasius Kircher",
+  "language": "Latin",
+  "year": 1650,
+  "published": "Unknown",
+  "pages_count": 535,
+  "pages_with_ocr": 10,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/695592747bd6d2cd1d61a5c3",
+  "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "chepfl-lipr-AXC19_02"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:30:13.473Z",
+  "_hashes": {
+    "ocr": "7af6ddc8fc9fc279",
+    "translation": "4afeb592cd4e2a94"
+  }
+}
