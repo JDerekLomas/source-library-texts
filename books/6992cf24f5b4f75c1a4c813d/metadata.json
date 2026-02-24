@@ -1,0 +1,28 @@
+{
+  "id": "6992cf24f5b4f75c1a4c813d",
+  "title": "武備志(一百)",
+  "display_title": "武備志(一百)",
+  "author": "茅元儀",
+  "language": "Chinese",
+  "year": 1621,
+  "published": "1621",
+  "pages_count": 93,
+  "pages_with_ocr": 93,
+  "pages_with_translation": 75,
+  "source_url": "https://sourcelibrary.org/book/6992cf24f5b4f75c1a4c813d",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "02092358.cn"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:01.718Z",
+  "_hashes": {
+    "ocr": "af82c8081ec74b4c",
+    "translation": "0da58bf8d8c129fa"
+  }
+}

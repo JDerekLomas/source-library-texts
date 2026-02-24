@@ -1,0 +1,26 @@
+{
+  "id": "6977573d61ed34486ac0e43d",
+  "title": "Das Blut der Natur, oder Entdeckung des allergeheimesten Schatzes der Weisen",
+  "display_title": "Das Blut der Natur, oder Entdeckung des allergeheimesten Schatzes der Weisen",
+  "author": "anonymous",
+  "language": "German",
+  "year": 1767,
+  "published": "1767",
+  "pages_count": 98,
+  "pages_with_ocr": 98,
+  "pages_with_translation": 98,
+  "source_url": "https://sourcelibrary.org/book/6977573d61ed34486ac0e43d",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:55.088Z",
+  "_hashes": {
+    "ocr": "eea75e028608d289",
+    "translation": "c26b6ee1b219a34a"
+  }
+}

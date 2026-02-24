@@ -1,0 +1,28 @@
+{
+  "id": "6991eadd2f801130a473ea3c",
+  "title": "Notes et dessins sur le corps humain",
+  "display_title": "Notes et dessins sur le corps humain",
+  "author": "Leonardo da Vinci",
+  "language": "Italian",
+  "year": 1880,
+  "published": "Unknown",
+  "pages_count": 94,
+  "pages_with_ocr": 94,
+  "pages_with_translation": 94,
+  "source_url": "https://sourcelibrary.org/book/6991eadd2f801130a473ea3c",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "gri_33125001134143"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:59.959Z",
+  "_hashes": {
+    "ocr": "1d860b37a76edf0d",
+    "translation": "4d4f7186361c1c21"
+  }
+}

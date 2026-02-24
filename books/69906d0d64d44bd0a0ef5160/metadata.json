@@ -1,0 +1,28 @@
+{
+  "id": "69906d0d64d44bd0a0ef5160",
+  "title": "Jyotisha Grantha (Astrology Collection)",
+  "display_title": "Jyotisha Grantha (Astrology Collection)",
+  "author": "Unknown",
+  "language": "Sanskrit",
+  "year": null,
+  "published": "Unknown",
+  "pages_count": 97,
+  "pages_with_ocr": 97,
+  "pages_with_translation": 77,
+  "source_url": "https://sourcelibrary.org/book/69906d0d64d44bd0a0ef5160",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "jyotishagrantha-CGV-PSS-0141-0240"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:56.178Z",
+  "_hashes": {
+    "ocr": "82c2fbefc5adfbea",
+    "translation": "216fd0ae3f4d13f7"
+  }
+}

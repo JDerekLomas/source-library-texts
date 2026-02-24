@@ -1,0 +1,26 @@
+{
+  "id": "69942f78b2f6748db4ac1229",
+  "title": "Psellos Philosophical Treatises and Kamateros",
+  "display_title": "Michael Psellos and John Kamateros (Cambridge, Trinity College, MS O.1.32)",
+  "author": "Michael Psellos",
+  "language": "Greek",
+  "year": 1550,
+  "published": "1550",
+  "pages_count": 97,
+  "pages_with_ocr": 97,
+  "pages_with_translation": 78,
+  "source_url": "https://sourcelibrary.org/book/69942f78b2f6748db4ac1229",
+  "license": "CC-BY-NC-4.0",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:55.700Z",
+  "_hashes": {
+    "ocr": "a16a2219fde521be",
+    "translation": "29dee86239d1f5c5"
+  }
+}

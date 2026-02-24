@@ -1,0 +1,28 @@
+{
+  "id": "6990664f2ec9f7db57179fb3",
+  "title": "Uttara Kalamrita",
+  "display_title": "Uttara Kalamrita",
+  "author": "Kalidasa",
+  "language": "Sanskrit",
+  "year": 1894,
+  "published": "Unknown",
+  "pages_count": 93,
+  "pages_with_ocr": 93,
+  "pages_with_translation": 93,
+  "source_url": "https://sourcelibrary.org/book/6990664f2ec9f7db57179fb3",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "p.-s.-sastri-uttarakaalaamruta-of-kaalidaasa-hindi"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:01.542Z",
+  "_hashes": {
+    "ocr": "00cb652a583a43bd",
+    "translation": "f7a7dde2aa5b0f49"
+  }
+}

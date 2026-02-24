@@ -1,0 +1,26 @@
+{
+  "id": "69938921ce15387065946912",
+  "title": "Michael Psellos on Plato and Chaldaean Oracles",
+  "display_title": "Michael Psellos (Cambridge, University Library, MS Gg.6.10)",
+  "author": "Michael Psellos",
+  "language": "Greek",
+  "year": 1525,
+  "published": "1525",
+  "pages_count": 93,
+  "pages_with_ocr": 93,
+  "pages_with_translation": 75,
+  "source_url": "https://sourcelibrary.org/book/69938921ce15387065946912",
+  "license": "CC-BY-NC-4.0",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:01.181Z",
+  "_hashes": {
+    "ocr": "ae89d0a115daff58",
+    "translation": "9023b95b59e58565"
+  }
+}

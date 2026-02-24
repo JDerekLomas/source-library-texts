@@ -1,0 +1,28 @@
+{
+  "id": "695285d5ab34727b1f04c36f",
+  "title": "The Lesser Key of Solomon (Goetia)",
+  "display_title": "The Lesser Key of Solomon (Goetia)",
+  "author": "Anonymous; L.W. de Laurence",
+  "language": "English",
+  "year": 1916,
+  "published": "1916",
+  "pages_count": 97,
+  "pages_with_ocr": 97,
+  "pages_with_translation": 97,
+  "source_url": "https://sourcelibrary.org/book/695285d5ab34727b1f04c36f",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "lesserkeysolomo00laurgoog"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:56.303Z",
+  "_hashes": {
+    "ocr": "9ebf721da1935973",
+    "translation": "2c2aa68521b1c46d"
+  }
+}

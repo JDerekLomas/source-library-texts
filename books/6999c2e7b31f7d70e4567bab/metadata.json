@@ -1,0 +1,28 @@
+{
+  "id": "6999c2e7b31f7d70e4567bab",
+  "title": "De ratione studii ac legendi interpretandique auctores",
+  "display_title": "De ratione studii ac legendi interpretandique auctores",
+  "author": "Erasmus von Rotterdam",
+  "language": "Latin",
+  "year": 1520,
+  "published": "1520",
+  "pages_count": 93,
+  "pages_with_ocr": 93,
+  "pages_with_translation": 91,
+  "source_url": "https://sourcelibrary.org/book/6999c2e7b31f7d70e4567bab",
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "doi": null,
+  "external_ids": {
+    "mdz": "bsb00028843"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:01.361Z",
+  "_hashes": {
+    "ocr": "339f7a7616192a84",
+    "translation": "faeee3215394a8ed"
+  }
+}

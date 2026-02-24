@@ -1,0 +1,28 @@
+{
+  "id": "6992cec1673ee1e40e321770",
+  "title": "武備志(七十九)",
+  "display_title": "武備志(七十九)",
+  "author": "茅元儀",
+  "language": "Chinese",
+  "year": 1621,
+  "published": "1621",
+  "pages_count": 98,
+  "pages_with_ocr": 98,
+  "pages_with_translation": 79,
+  "source_url": "https://sourcelibrary.org/book/6992cec1673ee1e40e321770",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "02092337.cn"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:54.047Z",
+  "_hashes": {
+    "ocr": "a98ea71b03d0b1c5",
+    "translation": "92db780d161ac829"
+  }
+}

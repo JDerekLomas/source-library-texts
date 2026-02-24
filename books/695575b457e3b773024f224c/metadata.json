@@ -1,0 +1,28 @@
+{
+  "id": "695575b457e3b773024f224c",
+  "title": "Musica Practica",
+  "display_title": "Musica Practica",
+  "author": "Bartolomeo Ramis de Pareja",
+  "language": "Latin",
+  "year": 1482,
+  "published": "1482",
+  "pages_count": 96,
+  "pages_with_ocr": 96,
+  "pages_with_translation": 96,
+  "source_url": "https://sourcelibrary.org/book/695575b457e3b773024f224c",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "ita-bnc-in1-00000593-001"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:57.661Z",
+  "_hashes": {
+    "ocr": "65e94afb1093075e",
+    "translation": "409fc1d258685c5d"
+  }
+}

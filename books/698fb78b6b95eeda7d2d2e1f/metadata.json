@@ -1,0 +1,28 @@
+{
+  "id": "698fb78b6b95eeda7d2d2e1f",
+  "title": "Zur Farbenlehre, Zweyter Band",
+  "display_title": "Zur Farbenlehre, Zweyter Band",
+  "author": "Johann Wolfgang von Goethe",
+  "language": "German",
+  "year": 1810,
+  "published": "1810",
+  "pages_count": 824,
+  "pages_with_ocr": 98,
+  "pages_with_translation": 94,
+  "source_url": "https://sourcelibrary.org/book/698fb78b6b95eeda7d2d2e1f",
+  "license": "https://rightsstatements.org/vocab/NoC-NC/1.0/",
+  "doi": null,
+  "external_ids": {
+    "mdz": "bsb10857916"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:55.222Z",
+  "_hashes": {
+    "ocr": "7e31bb3e6cbeabbf",
+    "translation": "f07715583dfacfad"
+  }
+}

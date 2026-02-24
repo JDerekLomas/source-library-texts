@@ -1,0 +1,26 @@
+{
+  "id": "697d9ca36ee2f39a34458cc5",
+  "title": "The grave",
+  "display_title": "The grave",
+  "author": "Blair, Robert",
+  "language": "English",
+  "year": 1808,
+  "published": "1808",
+  "pages_count": 102,
+  "pages_with_ocr": 97,
+  "pages_with_translation": 46,
+  "source_url": "https://sourcelibrary.org/book/697d9ca36ee2f39a34458cc5",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:56.744Z",
+  "_hashes": {
+    "ocr": "7565127a1ef0aef8",
+    "translation": "9cda84086e99addb"
+  }
+}

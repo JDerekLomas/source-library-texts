@@ -1,0 +1,28 @@
+{
+  "id": "6955833b57e3b773024f816a",
+  "title": "Musical and Poetical Relicks of the Welsh Bards",
+  "display_title": "Musical and Poetical Relicks of the Welsh Bards",
+  "author": "Edward Jones",
+  "language": "English",
+  "year": 1784,
+  "published": "Unknown",
+  "pages_count": 92,
+  "pages_with_ocr": 92,
+  "pages_with_translation": 92,
+  "source_url": "https://sourcelibrary.org/book/6955833b57e3b773024f816a",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bim_eighteenth-century_musical-and-poetical-rel_jones-edward_1784"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:02.180Z",
+  "_hashes": {
+    "ocr": "29a878aeae759b76",
+    "translation": "903c857d30117edd"
+  }
+}

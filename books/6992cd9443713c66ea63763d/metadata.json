@@ -1,0 +1,28 @@
+{
+  "id": "6992cd9443713c66ea63763d",
+  "title": "武備志(十六)",
+  "display_title": "武備志(十六)",
+  "author": "茅元儀",
+  "language": "Chinese",
+  "year": 1621,
+  "published": "1621",
+  "pages_count": 94,
+  "pages_with_ocr": 94,
+  "pages_with_translation": 76,
+  "source_url": "https://sourcelibrary.org/book/6992cd9443713c66ea63763d",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "02092274.cn"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:00.213Z",
+  "_hashes": {
+    "ocr": "b2902e188ef9cfa6",
+    "translation": "93e21a5e7307d085"
+  }
+}

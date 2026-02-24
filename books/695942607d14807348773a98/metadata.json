@@ -1,0 +1,28 @@
+{
+  "id": "695942607d14807348773a98",
+  "title": "Sepher Yetzirah (Book of Formation) - Westcott",
+  "display_title": "Sepher Yetzirah (Book of Formation) - Westcott",
+  "author": "Rabbi Akiba ben Joseph (attr.)",
+  "language": "English",
+  "year": 1887,
+  "published": "Unknown",
+  "pages_count": 97,
+  "pages_with_ocr": 97,
+  "pages_with_translation": 97,
+  "source_url": "https://sourcelibrary.org/book/695942607d14807348773a98",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bookofcreation1893westcottsepheryetzirah"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:56.644Z",
+  "_hashes": {
+    "ocr": "9ac808cbe937f26f",
+    "translation": "209cb6c31f92fa31"
+  }
+}

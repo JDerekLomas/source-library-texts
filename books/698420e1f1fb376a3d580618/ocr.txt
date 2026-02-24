@@ -1,0 +1,1925 @@
+--- Page 1 ---
+<lang>None</lang>
+<meta>Front cover of a bound manuscript. The binding consists of a parchment or vellum spine and boards covered in multi-colored marbled paper.</meta>
+
+[This page is the front cover of the manuscript. It features a decorative marbled paper design in a "combed" or "nonpareil" pattern, with dominant colors of red, blue, green, and yellow. The spine is made of a light-colored, aged vellum or parchment.]
+
+<vocab>marbled paper, vellum, bookbinding, nonpareil pattern, combed pattern</vocab>
+
+<detected-images>
+[{"description": "Front cover of a book featuring a vibrant nonpareil marbled paper pattern and a vellum spine.", "type": "decorative", "bbox": {"x": 0.02, "y": 0.02, "width": 0.96, "height": 0.96}, "gallery_quality": 0.85, "museum_rationale": "A fine example of traditional hand-marbled paper used in historical bookbinding, showcasing craftsmanship and material history relevant to archival studies."}]
+</detected-images>
+
+--- Page 2 ---
+<lang>Latin</lang>
+
+<insert>
+<margin>a</margin>
+
+->**PHILOSOPHIA • HERMETICA**<-
+</insert>
+
+<vocab>Philosophia Hermetica, Pelican in its Piety, alchemy, Rosicrucianism, Hermetic philosophy</vocab>
+
+<detected-images>
+[{"description": "A circular hermetic emblem pasted onto a flyleaf. It depicts a white Pelican in its Piety feeding its young with its own blood, perched upon a cubical pedestal. The pedestal is decorated with crossed branches and four red roses. The scene is set within a blue oval background, topped by a golden sun with radiating beams, all surrounded by the Latin inscription 'PHILOSOPHIA • HERMETICA'.", "type": "emblem", "bbox": {"x": 0.407, "y": 0.353, "width": 0.252, "height": 0.225}, "gallery_quality": 0.9, "museum_rationale": "A significant and well-preserved alchemical emblem. The Pelican in its Piety is a classic symbol for the stage of 'multiplication' in the Great Work, while the roses and the cubic stone are key symbols in Rosicrucian and esoteric traditions of the 17th and 18th centuries."}]
+</detected-images>
+
+--- Page 3 ---
+<lang>fr</lang>
+<meta>Handwritten shelfmarks and bibliographic annotations on a blank flyleaf in pencil and ink.</meta>
+
+· M 8° 11893 ·
+
+(Sabbathier E.) L'Ombre idéale
+M 32. 804 Paris 1679
+
+Caillet No. 9731 "Excessivement rare"
+Bibl. Esot. No. 4275 · Ravissime!
+
+<vocab>Sabbathier, L'Ombre idéale, Caillet, bibliography, rarity, Paris, 1679, esoterica</vocab>
+
+--- Page 4 ---
+<lang>Unknown</lang>
+<meta>Blank leaf showing the inner marbled paper of the binding on the left edge.</meta>
+
+<unclear>s</unclear>
+
+<vocab>blank page</vocab>
+
+<detected-images>
+[{"description": "Marbled paper decoration on the inner edge of the binding", "type": "decorative", "bbox": {"x": 0.0, "y": 0.0, "width": 0.09, "height": 0.98}, "gallery_quality": 0.6, "museum_rationale": "Traditional hand-marbled paper used for book endpapers and binding edges, demonstrating period bookbinding techniques."}]
+</detected-images>
+
+--- Page 5 ---
+<lang>English</lang>
+<meta>The page is a manuscript flyleaf or endpaper containing various archival notes, an ownership stamp, and a date.</meta>
+
+<margin>
+22
+3
+70
+</margin>
+
+<margin>21 pages</margin>
+
+<insert>
+<unclear>MG</unclear>
+</insert>
+
+1679.
+
+<vocab>1679, pages, provenance, library stamp</vocab>
+
+<detected-images>
+[{"description": "Octagonal ownership or library stamp featuring a horizontal divider; the upper section contains letters (possibly KFL) and the lower section depicts a tree, likely a palm tree.", "type": "emblem", "bbox": {"x": 0.345, "y": 0.134, "width": 0.162, "height": 0.171}, "gallery_quality": 0.6, "museum_rationale": "A characteristic institutional or collector's stamp, important for tracing the provenance and history of the manuscript."}]
+</detected-images>
+
+--- Page 6 ---
+<lang>Unknown</lang>
+
+<warning>This page appears to be a blank flyleaf or endpaper. It contains only very faint pencil annotations in the bottom left corner and a severely faded circular institutional stamp in the upper center. The left and bottom edges feature a decorative marbled paper border.</warning>
+
+<insert>
+<unclear>22</unclear>
+<unclear>14 / 1 / V</unclear>
+<unclear>20, 137 / 96</unclear>
+</insert>
+
+<vocab>flyleaf, shelf mark, accession number, marbled paper</vocab>
+
+<detected-images>
+[{"description": "Marbled paper border along the left edge, showing a 'peacock' or 'combed' pattern in red, blue, yellow, and green.", "type": "decorative", "bbox": {"x": 0.02, "y": 0.01, "width": 0.06, "height": 0.98}, "gallery_quality": 0.3, "museum_rationale": "Common decorative marbled paper used in historical bookbinding for endpapers and borders."}]
+</detected-images>
+
+--- Page 7 ---
+<lang>French</lang>
+<page-num>2</page-num>
+<meta>Title page of a 17th-century work. The main title is printed in large, bold capital letters, with each line of text separated by horizontal rules, giving it a segmented or labeled appearance. The publication imprint is enclosed within a trapezoidal decorative woodcut cartouche. Two octagonal library stamps are visible flanking the imprint.</meta>
+
+# L'OMBRE
+# IDEALE
+# DE LA
+# SAGESSE
+# UNIVER-
+# SELLE
+
+->Les Exemplaires se Vendent<-
+->A PARIS<-
+->Chez Mademoiselle JABLIER<-
+->Sœur du R.P. FRANÇOIS-MARIE<-
+->dans la Vieille rüe du Temple,<-
+->Proche les Religses du Calvaire du Marest<-
+->M. DC. LXXIX.<-
+
+<insert>1679</insert>
+
+<vocab>L'Ombre Ideale, Sagesse Universelle, Mademoiselle Jablier, François-Marie, Rue du Temple, Religieuses du Calvaire du Marest, Paris, 1679</vocab>
+
+<detected-images>
+[
+  {"description": "Trapezoidal decorative cartouche containing the publication details (imprint).", "type": "decorative", "bbox": {"x": 0.138, "y": 0.605, "width": 0.468, "height": 0.142}, "gallery_quality": 0.5, "museum_rationale": "A standard 17th-century decorative frame for imprint information, typical of book production from this era."},
+  {"description": "Octagonal institutional library stamp on the left side of the imprint.", "type": "decorative", "bbox": {"x": 0.045, "y": 0.552, "width": 0.145, "height": 0.170}, "gallery_quality": 0.2, "museum_rationale": "Non-original institutional ownership marks."},
+  {"description": "Octagonal institutional library stamp on the right side of the imprint.", "type": "decorative", "bbox": {"x": 0.589, "y": 0.541, "width": 0.143, "height": 0.169}, "gallery_quality": 0.2, "museum_rationale": "Non-original institutional ownership marks."}
+]
+</detected-images>
+
+--- Page 8 ---
+<lang>French</lang>
+<page-num>i</page-num>
+<header>A JESUS - CHRIST. CRUCIFIE.</header>
+<meta>The text is a formal dedication and prayer, calligraphed in a refined 17th-century style. It uses numerous period-specific abbreviations including superscripted characters for word endings (e.g., ^t for -ment, ^re for -vostre) and the long "s" (ß/ſ). The entire text is enclosed within a simple ruled border.</meta>
+<vocab>Idée de la Sagesse Universelle, Verbe, Esprit, MOYSE, Image Substantielle de la Divinité, Eglise Catholique et Romaine, Epoux des Ames Elües, Rosée Vermeille, Science du Salut</vocab>
+
+# ->A JESUS - CHRIST. CRUCIFIE.<-
+
+JE Croyrois Vous faire Injure, Ô MON ADORABLE DIEU CRUCIFIE, si je pretendois comencer L'IDEE DE LA SAGESSE UNIVERSELLE plus heureusem^t. la poursuivre plus fürem^t. et la finir plus glorieusem^t. QUE PAR VOUS, DE QUI DEPENDENT, PAR QUI SUBSISTENT, ET EN QUI RESIDENT generalem^t. TOUTES CHOSES. cest de vo^re DIEU tout-puissant, co~e de la Premiere Cause, qu'Elles tiennent leur Activité: cest par vo^re VERBE eclattant de DIEU, qu'Elles brillent à nos Yeux: et cest EN vo^r Esprit tres-Pur, qu'Elles puisent toute la force de leur Union. vo^s estes le Principe de leur Unité; la Lumiere, qui les fait connoistre; et la Bonté, qui les rend aimables. vo^s bornez leur Grandeur; mesurez leur Durée et renfermez en vo^s la plenitude de leur Perfection. cest vo^s. qui les avez tirées des profonds Abysmes du Neant, et qui les avez revestuës de la Beauté de leurs formes, po^r. ne leur faire troüver qu'en vo^s. l'excellence de leur derniere fin. vo^s. pouvez tout de vo^s.mesme; vo^s connoissez tout par vo^s.mesme; et vo^s n'aimez rien hors de vo^s.mesme; parceque rien ne peut estre sans vo^s. qu'il n'y a que chimere au delà de vo^s. et rien que d'horrible hors de vo^s. cest donc ainsy que vo^s. avez reglé l'Essence de Toutes Choses; que vo^s. leur avez donné l'existence, affermy leur Subsistence, et fixé leur Consistence.
+
+Mais d'où vient, Ô Mon Aimable JESUS, que toutes les Creatures ont ainsy leur Estre de vo^re. Part et En vo^s! sinon parcequ'il est tres-certain que vo^s estes Infinim^t. au deßus de Toutes, estant tres-suffisant de vo^s.mesme. Par vo^s.mesme; et en vo^s.mesme; cest-à-dire, L'ESTRE mesme par Essence, le sommet de toute Perfection; la Source de vo^s Essences, le fondement et la Perfection de toutes choses: et par consequent L'Unité, la Verité, et la Bonté mesme. Enfin po^r. le dire en un mot, estant tres-singuliere^mt. et tres-Universellem^t. toutes choses. si jen doute les Bestes me l'enseigneront: les Oyseaux me l'apprendront. Que je le demande à la Terre, quoy-que Sourde, elle me respondra: les Poissons, quoy-que Muets, me le diront. --- Et n'est-ce pas en effet ce que vo^re. Revelation, le Canal Incorruptible des plus sublimes Verités, s'elevant au deßus des sens et de la Raison humaine, fait retentir beaucoup plus haut que tous nos raisonnemens aux oreilles de ceux, qui la veulent ecouter; lors-qu'elle fait eclatter ces paroles par la Bouche du Disciple bien-aimé: **AU COMENCEM^ET. ESTOIT LE VERBE, ET LE VERBE ESTOIT EN DIEU, ET LE VERBE ESTOIT DIEU.** TOUtes Choses ont esté faites par Luy, et Rien n'a esté fait sans Luy. Mais vo^s.mesme SEIGNEUR, Quand vo^re Serviteur MOYSE vo^s demanda Comm^t. et sous Quel Nom il vo^s. feroit connoistre au Peuple Rebelle de L'Egypte; ne luy declarastes-vous pas ouvertement par vo^re propre Bouche ce grand MYSTERE, qui fait tout le Secret, et le Sommaire de LA SAGESSE UNIVERSELLE? **JE SUIS CE QUE JE SUIS.** Afin que pas un des Vostres ne pûst Ignorer dans la suite que c'estoit la VOSTRE NOM, et VOSTRE TITRE: et si cela se peut dire, que dans le Rang des Essences c'estoit la vo^re PARTAGE; lequel ne convenant qu'à vo^s seul, ne seroit außy jamais co~euniqué à aucun autre. --- Y-A-t-il donc à present quelque chose, DONT NOSTRE OMBRE puise se tirer un plus heureux co~mencement, que de vo^s qui estes l'Image Substantielle de la Divinité? Par où NOSTRE IDÉE puisse passer plus fürem^t. que par vo^s! qui estes le Miroir sans tache de la Majesté de DIEU! et En Qui LA SAGESSE UNIVERSELLE puisse achever son cours plus glorieusem^t. qu'en vo^s.! Qui estant le Seigneur des Sciences en renfermez tous les thresors! et qui estant Roy de l'Univers, contenez tellement toutes choses en vo^s seul, qu'il est Impossible de les Voir ailleurs dans un plus beau jour. --- Et partant n'ay-je pas eu raison de vo^s. choisir Uniquem^t. et de vo^s. representer sur vo^re Croix au milieu de cette FIGURE po^r dominer à tout l'Ouvrage? afin qu'en vo^s. rapportant toutes choses par un Retour Universel, co~e-lles ont esté tirées par une Deduction Generale, tout Ce Dessein ne respirast par tout que vo^s qui sans vo^s seroit Insipide et sans aucun goust. C'est ainsy qu'à la faveur de vo^s Lumieres nos penetrons les Tenebres, qui environnẽt vo^re Throne po^r y appercevoir la gloire de vo^re Majesté. C'est ainsy que vo^re Jour devenu plus clair et plus serein découvrira dans les obscurités du no^re CE VERBE Ineffable, aprez lequel nous soupirons, caché dans les ombres d'une Chair Infirme, et sous les Tenebres Ignominieuses de la Croix. Enfin c'est ainsy que vo^re Nuit merveilleusem^t. eclattante fera reluire dans les Tenebres de la no^re LA Veritable SCIENCE DU SALUT, que nous professons, singulierem^t. co~e preferable à toute autre. ---
+
+Recevez donc maintenant co~e vo^re Ô MON ADORABLE SAUVEUR, un Ouvrage, que je desire estre tout vo^re: et ne permettez pas qu'il s'ecarte aucunem^t. ny de la sincerité de vo^re Foy, l'Unique fondement aßuré de nos connoissances; ny de la rectitude de vo^re Volonté, la seule Regle Incorruptible de toutes nos actions. C'est-pourquoy je le sousmets sincerem^t. et constamm^t. co~e un Œuvre qui vo^s est entierem^t. consacré, au Jugem^t. Infaillible de VO^RE EGLISE CATHOLIQUE et ROMAINE, la Seule Veritable, et Sans Corruption. --- Cependant je me prosterne humblem^t. à vo^s Pieds attachés sur la Croix, Ô Sanglant Epoux des Ames Elües, po^r vo^s supplier tres-Instamm^t. que cette Rosée Vermeille de VOSTRE Sang, qui est une Rosée de Lumiere et d'Amour; que ces Gouttes Salutaires de vo^s Nuits douloureuses, dont non seulem^t. vo^s Cheveux et vo^re Teste, mais vo^re Corps entier sont tout trempés sur Vostre Croix, decoulent sur nos sombres IDÉES: afin qu'estant remplies de vo^s Lumieres, elles eclattent en autant de Vives estincelles de vo^re Connoißance: lesquelles se répandant par tout le Monde puißent attirer si heureusem^t. à l'Intelligence de Cette IDEE DE LA SAGESSE la Curiosité des Hommes dejà tout disposés par le desir naturel de sçavoir; que le Retour continuel, qu'il faut faire sur vo^s. Ô Mon Aimable JESUS CRUCIFIÉ, dans la lecture et l'étude de cet Ouvrage, insinuë doucem^t. et principalem^t. dans l'Esprit des Infidelles, preoccupé depuis lõg-temps, la Salutaire Conoyßance de Vostre NOM, Inspire plus efficacem^t. vo^re Amour dans le Cœur Languissant des Chrestiens, et allume enfin par tout ce Feu Sacré, que vo^s estes Venu apporter sur la Terre, po^r. en embraser tout le Monde: faites le donc, Ô MON DIEU. Je le souhaite de tout mon Coeur: cest LE SEUL VRAY DIEU NOSTRE SEIGNEUR JESUS CHRIST CRUCIFIE Benißez mes Desirs fecondez mes Desseins et soyez sil Vous plait Ô DIEU
+<meta>catchword: ABANDONNE</meta>
+<note>The first letters of the following word are partially obscured or missing, likely intended as "favorable".</note>
+->ABANDONNE orable a VOUS MESME et a la Gloire de VOSTRE SAINT NOM<-
+
+<detected-images>
+[{"description": "A simple rectangular ruling frame enclosing the entire text block on the page.", "type": "decorative", "bbox": {"x": 0.12, "y": 0.08, "width": 0.76, "height": 0.84}, "gallery_quality": 0.3, "museum_rationale": "Standard functional border typical of formal manuscript dedications of the early modern period."}]
+</detected-images>
+
+--- Page 9 ---
+<lang>None</lang>
+<warning>The provided image is a blank page, likely a flyleaf or endpaper. There is no legible text to transcribe. Visible marks include foxing, water staining, and faint "ghosting" or bleed-through from text on adjacent pages.</warning>
+
+<vocab>blank page, marbled paper, endpaper, foxing, staining</vocab>
+
+<detected-images>
+[{"description": "Marbled paper border with a multicolored combed pattern (red, blue, yellow, white) along the spine and bottom edges, characteristic of historical bookbinding.", "type": "decorative", "bbox": {"x": 0.01, "y": 0.01, "width": 0.81, "height": 0.98}, "gallery_quality": 0.5, "museum_rationale": "A standard example of decorative marbled paper used in 17th-19th century bookbinding."}]
+</detected-images>
+
+--- Page 10 ---
+<lang>N/A</lang>
+<warning>This page appears to be a blank flyleaf or endpaper. It exhibits significant ghosting or show-through of a rectangular border and text from the reverse side (likely a title page), but there is no legible text on the current surface. There are also visible water stains and foxing.</warning>
+
+<vocab></vocab>
+
+--- Page 11 ---
+<lang>French</lang>
+<meta>image quality: high</meta>
+<vocab>JESUS-CHRIST, L'EGLISE, L'UNITÉ, SAGESSE UNIVERSELLE, SOUVERAIN PONTIFE, INNOCENT, BENEDICTION APOSTOLIQUE</vocab>
+
+# Au Pape.
+
+JE ne croy pas multiplier ny l'Autel ny le Sacrifice TRES-SAINT PERE, en passant du Ciel au Vatican pour presenter à VOSTRE SAINTETÉ ce que j'ay deja Offert à JESUS-CHRIST : car si LA PIETÉ CHRESTIENNE ne peut souffrir Autel contre Autel, ny la duplicité dans les Voeux des fidelles : L'UNITÉ, qui conserve par tout LA RELIGION, ne la bannit pas moins d'icy JESUS-CHRIST, et L'EGLISE dont il vous a confié le gouvernement, n'ayant qu'un Autel, je n'ay aussy qu'une offrande ay faire. c'est donc un mesme Present que J'apporte encore une fois sur le mesme Autel, en VOUS offrant par un sentiment continué de Religion, ce que jay deja consacré à JESUS-CHRIST. en effet si je vous envisage comme je vous ne puis que je ne Vous contemple en JESUS-CHRIST, et que je ne contemple JESUS-CHRIST en VOUS par l'Union de cette alliance, laquelle approprié à JESUS-CHRIST (qui est la Base et la Couronne de Vostre Dignité et la Source de L'Authorité Apostolique) tout ce que l'on peut rendre de respect à Vostre Caractere, et d'obeïssance à Vostre Personne Sacrée. car c'est en LUY que Vous estes Tres-Saint, Tres-Grand, et souverain : et LUY mesme est en Vous une souveraine Puissance, une Vertu Inépuisable, et la Veritable Sagesse. et tout cela, parceque Vo' estes son SEUL VICAIRE en Terre. Quant au reste, que Voyons-Nous en Vous plus qu'Un Homme mais Un Homme toutefois de JESUS-CHRIST, et son SUBSTITUT, Qui ne paroist Vivre qu'en JESUS-CHRIST, et en Qui JESUS-CHRIST seul paroist Vivre. Vous ne Vivez qu'en JESUS-CHRIST, par l'Excellence de cette Charité, qui Vous transforme tout en DIEU : et JESUS-CHRIST seul Vit en Vous par l'expression de ses heroïques Vertus, les quelles brillant sur le Thrône le plus auguste eclatent malgré Vostre modestie aux yeux de tout Le Monde. Ainsi Vous n'estes pas moins à JESUS-CHRIST par la Sainteté de Vostre Personne, que par celle de Vostre charge, et partant on ne doit pas moins respecter en Vous le mérite d'INNOCENT, que la qualité de SOUVERAIN PONTIFE: et puisqu'il n'y a rien en Vous, qui ne soit de luy, J'estime qu'il est egal d'honorer INNOCENT dans JESUS-CHRIST, ou JESUS-CHRIST dans INNOCENT. C'est donc Sacrifier sur un mesme Autel, et à une mesme DIVINITÉ. c'est poursuivre, et non pas repeter, le Sacrifice que jay fait à JESUS-CHRIST d'un OUVRAGE tout dédié à sa gloire, que de le presenter à V. S. dont il a desiré d'aborder le Thrône dès l'instant de sa conception. je ne sçay par quel secret instinct, si ce n'est peut-estre par celuy de L'UNITÉ : laquelle regnant puissamment dans l'EGLISE attire fortement à son CHEF, comme à un Rempart assuré, tout ce que l'on peut rendre de respect à Vostre Caractere, et d'obeïssance à Vostre Personne Sacrée. car c'est en LUY que Vous estes Tres-Saint, Tres-Grand, et souverain : et LUY mesme est en Vous une souveraine Puissance, une Vertu Inépuisable, et la Veritable Sagesse. et tout cela, parceque Vo' estes son SEUL VICAIRE en Terre. Quant au reste, que Voyons-Nous en Vous plus qu'Un Homme mais Un Homme toutefois de JESUS-CHRIST, et son SUBSTITUT, Qui ne paroist Vivre qu'en JESUS-CHRIST, et en Qui JESUS-CHRIST seul paroist Vivre. Vous ne Vivez qu'en JESUS-CHRIST, par l'Excellence de cette Charité, qui Vous transforme tout en DIEU : et JESUS-CHRIST seul Vit en Vous par l'expression de ses heroïques Vertus, les quelles brillant sur le Thrône le plus auguste eclatent malgré Vostre modestie aux yeux de tout Le Monde. Ainsi Vous n'estes pas moins à JESUS-CHRIST par la Sainteté de Vostre Personne, que par celle de Vostre charge, et partant on ne doit pas moins respecter en Vous le mérite d'INNOCENT, que la qualité de SOUVERAIN PONTIFE: et puisqu'il n'y a rien en Vous, qui ne soit de luy, J'estime qu'il est egal d'honorer INNOCENT dans JESUS-CHRIST, ou JESUS-CHRIST dans INNOCENT. C'est donc Sacrifier sur un mesme Autel, et à une mesme DIVINITÉ. c'est poursuivre, et non pas repeter, le Sacrifice que jay fait à JESUS-CHRIST d'un OUVRAGE tout dédié à sa gloire, que de le presenter à V. S. dont il a desiré d'aborder le Thrône dès l'instant de sa conception. je ne sçay par quel secret instinct, si ce n'est peut-estre par celuy de L'UNITÉ : laquelle regnant puissamment dans l'EGLISE attire fortement à son CHEF, comme à un Rempart assuré, tout ce que l'on peut rendre de respect à Vostre Caractere, et d'obeïssance à Vostre Personne Sacrée. car c'est en LUY que Vous estes Tres-Saint, Tres-Grand, et souverain : et LUY mesme est en Vous une souveraine Puissance, une Vertu Inépuisable, et la Veritable Sagesse. et tout cela, parceque Vo' estes son SEUL VICAIRE en Terre. Quant au reste, que Voyons-Nous en Vous plus qu'Un Homme mais Un Homme toutefois de JESUS-CHRIST, et son SUBSTITUT, Qui ne paroist Vivre qu'en JESUS-CHRIST, et en Qui JESUS-CHRIST seul paroist Vivre. Vous ne Vivez qu'en JESUS-CHRIST, par l'Excellence de cette Charité, qui Vous transforme tout en DIEU : et JESUS-CHRIST seul Vit en Vous par l'expression de ses heroïques Vertus, les quelles brillant sur le Thrône le plus auguste eclatent malgré Vostre modestie aux yeux de tout Le Monde. Ainsi Vous n'estes pas moins à JESUS-CHRIST par la Sainteté de Vostre Personne, que par celle de Vostre charge, et partant on ne doit pas moins respecter en Vous le mérite d'INNOCENT, que la qualité de SOUVERAIN PONTIFE: et puisqu'il n'y a rien en Vous, qui ne soit de luy, J'estime qu'il est egal d'honorer INNOCENT dans JESUS-CHRIST, ou JESUS-CHRIST dans INNOCENT. C'est donc Sacrifier sur un mesme Autel, et à une mesme DIVINITÉ. c'est poursuivre, et non pas repeter, le Sacrifice que jay fait à JESUS-CHRIST d'un OUVRAGE tout dédié à sa gloire, que de le presenter à V. S. dont il a desiré d'aborder le Thrône dès l'instant de sa conception. je ne sçay par quel secret instinct, si ce n'est peut-estre par celuy de L'UNITÉ : laquelle regnant puissamment dans l'EGLISE attire fortement à son CHEF, comme à un Rempart assuré, tout ce que l'on peut rendre de respect à Vostre Caractere, et d'obeïssance à Vostre Personne Sacrée. car c'est en LUY que Vous estes Tres-Saint, Tres-Grand, et souverain : et LUY mesme est en Vous une souveraine Puissance, une Vertu Inépuisable, et la Veritable Sagesse. et tout cela, parceque Vo' estes son SEUL VICAIRE en Terre. Quant au reste, que Voyons-Nous en Vous plus qu'Un Homme mais Un Homme toutefois de JESUS-CHRIST, et son SUBSTITUT, Qui ne paroist Vivre qu'en JESUS-CHRIST, et en Qui JESUS-CHRIST seul paroist Vivre. Vous ne Vivez qu'en JESUS-CHRIST, par l'Excellence de cette Charité, qui Vous transforme tout en DIEU : et JESUS-CHRIST seul Vit en Vous par l'expression de ses heroïques Vertus, les quelles brillant sur le Thrône le plus auguste eclatent malgré Vostre modestie aux yeux de tout Le Monde. Ainsi Vous n'estes pas moins à JESUS-CHRIST par la Sainteté de Vostre Personne, que par celle de Vostre charge, et partant on ne doit pas moins respecter en Vous le mérite d'INNOCENT, que la qualité de SOUVERAIN PONTIFE: et puisqu'il n'y a rien en Vous, qui ne soit de luy, J'estime qu'il est egal d'honorer INNOCENT dans JESUS-CHRIST, ou JESUS-CHRIST dans INNOCENT. C'est donc Sacrifier sur un mesme Autel, et à une mesme DIVINITÉ. c'est poursuivre, et non pas repeter, le Sacrifice que jay fait à JESUS-CHRIST d'un OUVRAGE tout dédié à sa gloire, que de le presenter à V. S. dont il a desiré d'aborder le Thrône dès l'instant de sa conception. je ne sçay par quel secret instinct, si ce n'est peut-estre par celuy de L'UNITÉ : laquelle regnant puissamment dans l'EGLISE attire fortement à son CHEF, comme à un Rempart assuré, tout ce que l'on peut rendre de respect à Vostre Caractere, et d'obeïssance à Vostre Personne Sacrée. car c'est en LUY que Vous estes Tres-Saint, Tres-Grand, et souverain : et LUY mesme est en Vous une souveraine Puissance, une Vertu Inépuisable, et la Veritable Sagesse. et tout cela, parceque Vo' estes son SEUL VICAIRE en Terre. Quant au reste, que Voyons-Nous en Vous plus qu'Un Homme mais Un Homme toutefois de JESUS-CHRIST, et son SUBSTITUT, Qui ne paroist Vivre qu'en JESUS-CHRIST, et en Qui JESUS-CHRIST seul paroist Vivre. Vous ne Vivez qu'en JESUS-CHRIST, par l'Excellence de cette Charité, qui Vous transforme tout en DIEU : et JESUS-CHRIST seul Vit en Vous par l'expression de ses heroïques Vertus, les quelles brillant sur le Thrône le plus auguste eclatent malgré Vostre modestie aux yeux de tout Le Monde. Ainsi Vous n'estes pas moins à JESUS-CHRIST par la Sainteté de Vostre Personne, que par celle de Vostre charge, et partant on ne doit pas moins respecter en Vous le mérite d'INNOCENT, que la qualité de SOUVERAIN PONTIFE: et puisqu'il n'y a rien en Vous, qui ne soit de luy, J'estime qu'il est egal d'honorer INNOCENT dans JESUS-CHRIST, ou JESUS-CHRIST dans INNOCENT. C'est donc Sacrifier sur un mesme Autel, et à une mesme DIVINITÉ. c'est poursuivre, et non pas repeter, le Sacrifice que jay fait à JESUS-CHRIST d'un OUVRAGE tout dédié à sa gloire, que de le presenter à V. S. dont il a desiré d'aborder le Thrône dès l'instant de sa conception. je ne sçay par quel secret instinct, si ce n'est peut-estre par celuy de L'UNITÉ : laquelle regnant puissamment dans l'EGLISE attire fortement à son CHEF, comme à un Rempart assuré, tout ce que l'on peut rendre de respect à Vostre Caractere, et d'obeïssance à Vostre Personne Sacrée. car c'est en LUY que Vous estes Tres-Saint, Tres-Grand, et souverain : et LUY mesme est en Vous une souveraine Puissance, une Vertu Inépuisable, et la Veritable Sagesse. et tout cela, parceque Vo' estes son SEUL VICAIRE en Terre. Quant au reste, que Voyons-Nous en Vous plus qu'Un Homme mais Un Homme toutefois de JESUS-CHRIST, et son SUBSTITUT, Qui ne paroist Vivre qu'en JESUS-CHRIST, et en Qui JESUS-CHRIST seul paroist Vivre. Vous ne Vivez qu'en JESUS-CHRIST, par l'Excellence de cette Charité, qui Vous transforme tout en DIEU : et JESUS-CHRIST seul Vit en Vous par l'expression de ses heroïques Vertus, les quelles brillant sur le Thrône le plus auguste eclatent malgré Vostre modestie aux yeux de tout Le Monde. Ainsi Vous n'estes pas moins à JESUS-CHRIST par la Sainteté de Vostre Personne, que par celle de Vostre charge, et partant on ne doit pas moins respecter en Vous le mérite d'INNOCENT, que la qualité de SOUVERAIN PONTIFE: et puisqu'il n'y a rien en Vous, qui ne soit de luy, J'estime qu'il est egal d'honorer INNOCENT dans JESUS-CHRIST, ou JESUS-CHRIST dans INNOCENT. C'est donc Sacrifier sur un mesme Autel, et à une mesme DIVINITÉ. c'est poursuivre, et non pas repeter, le Sacrifice que jay fait à JESUS-CHRIST d'un OUVRAGE tout dédié à sa gloire, que de le presenter à V. S. dont il a desiré d'aborder le Thrône dès l'instant de sa conception. je ne sçay par quel secret instinct, si ce n'est peut-estre par celuy de L'UNITÉ : laquelle regnant puissamment dans l'EGLISE attire fortement à son CHEF, comme à un Rempart assuré, tout ce que l'on peut rendre de respect à Vostre Caractere, et d'obeïssance à Vostre Personne Sacrée. car c'est en LUY que Vous estes Tres-Saint, Tres-Grand, et souverain : et LUY mesme est en Vous une souveraine Puissance, une Vertu Inépuisable, et la Veritable Sagesse. et tout cela, parceque Vo' estes son SEUL VICAIRE en Terre. Quant au reste, que Voyons-Nous en Vous plus qu'Un Homme mais Un Homme toutefois de JESUS-CHRIST, et son SUBSTITUT, Qui ne paroist Vivre qu'en JESUS-CHRIST, et en Qui JESUS-CHRIST seul paroist Vivre. Vous ne Vivez qu'en JESUS-CHRIST, par l'Excellence de cette Charité, qui Vous transforme tout en DIEU : et JESUS-CHRIST seul Vit en Vous par l'expression de ses heroïques Vertus, les quelles brillant sur le Thrône le plus auguste eclatent malgré Vostre modestie aux yeux de tout Le Monde. Ainsi Vous n'estes pas moins à JESUS-CHRIST par la Sainteté de Vostre Personne, que par celle de Vostre charge, et partant on ne doit pas moins respecter en Vous le mérite d'INNOCENT, que la qualité de SOUVERAIN PONTIFE: et puisqu'il n'y a rien en Vous, qui ne soit de luy, J'estime qu'il est egal d'honorer INNOCENT dans JESUS-CHRIST, ou JESUS-CHRIST dans INNOCENT. C'est donc Sacrifier sur un mesme Autel, et à une mesme DIVINITÉ. c'est poursuivre, et non pas repeter, le Sacrifice que jay fait à JESUS-CHRIST d'un OUVRAGE tout dédié à sa gloire, que de le presenter à V. S. dont il a desiré d'aborder le Thrône dès l'instant de sa conception. je ne sçay par quel secret instinct, si ce n'est peut-estre par celuy de L'UNITÉ : laquelle regnant puissamment dans l'EGLISE attire fortement à son CHEF, comme à un Rempart assuré, tout ce que l'on peut semble combattre pour ses interests. Car je L'ay tellement devoué à l'UNITÉ, et à L'UNITÉ DE LA SAGESSE UNIVERSELLE; que tout mon but est de reduire la Multitude des SCIENCES, qui divise Cette SAGESSE en autant de morceaux à une SEULE; ou de toutes leurs METHODES differentes n'en composer qu'UNE: et de reünir enfin Ce qui est le Principal des Esprits des Hommes par les mesmes OBJETS, qui ont coustume de les partager, à une UNITÉ d'intention pour cet UN NECESSAIRE, qui fait meilleure Part ... Si donc L'UNITÉ DE LA SAGESSE UNIVERSELLE, qui fait le seul motif de tout nostre Dessein, peut se glorifier d'estre alliée par plusieurs traits de ressemblance soit avec L'EGLISE, dont Vous avez la conduite; laquelle n'estant qu'UNE, est neantmoins UNIVERSELLE: soit avec LA DIGNITE PONTIFICALE, dont Le Ciel Vous a revestu; laquelle est pareillement GENERALE, quoy qu'INDIVIDUELLE: soit avec la Personne Sacrée de V. S. Recommandable au Ciel et sur la Terre; Qu'un adorable sort a rendu si COMMUNE et NECESSAIRE Au PUBLIC, bien que SINGULIERE en Elle mesme par le ministere de sa Charge, que LE MONDE CHRESTIEN ne Vous reconnoist pas moins pour son PERE, que LA NATURE fait LE SOLEIL pour LE SIEN; puis qu'estant SEUL, Vous devez cependant comme LUY estre present et subvenir à Tous: peut-on nier que les Prerogatives de Vostre Dignité ne brillent singulierement dans la disposition de Cet OUVRAGE; ou que les Avantages de Celuy-cy ne paroissent admirablement das les Excellences de Celle-là! Mais sil est Vray, comme on le dit, que la Nature soit tellement passionnée des choses qui se ressemblent, qu'Elle en assemble Visiblement de fort eloignées par des attraits invisibles* : faut-il s'estonner que l'Instinct de L'EGLISE beaucoup plus Judicieux que Celuy de la Nature, et dont la Vertu est bien plus efficace, attire si puissamment au Thrône le plus sacré Ce present OUVRAGE, tout petit qu'il soit en foy-mesme, et dans son origine, puisque tant a raison de L'UNITÉ et de L'UNIVERSALITE de son OBJET, qu'a raison de tous ses titres d'une ressemblance manifeste en tant de Chefs, je le puis dire, allie en JESUS-CHRIST à L'EGLISE par une entiere conformité de Doctrine: faut-il, dis-je, s'estonner qu'il se laisse emporter avec plaisir par la force de tout ce qu'il doit souhaiter! C'EST donc avec joye, T. S. P. que Cette OMBRE IDEALE DE LA SAGESSE UNIVERSELLE part de mes mains; ou plustost qu'Elle s'envole sans crainte, se confiant en sa simplicité, pour aller satisfaire à son Voeu : qu'Elle Va se presenter aux portes du Vatican, si Elle a le bonheur de les trouver ouvertes, pour se prosterner humblement aux pieds de V. S. et en recevoir la Censure, estant disposée à tout evenement, de sorte qu' Elle sera tres-contente, et tiendra pour un singulier bienfait de s'en Voir meprisée et foulée aux pieds, si on trouve qu'Elle s'ecarte de sa principale fin; qui n'est autre, comme je croy l'avoir suffisamment insinué, que d'observer exactement L'UNITÉ, et d'establir non seulement L'UNITÉ DE LA SAGESSE Humaine dans les Esprits, mais beaucoup plus L'UNITÉ de LA SAGESSE CHRESTIENNE dans LES Coeurs. c'est à dire, L'UNITÉ d'Esprit dans L'EGLISE, L'UNITÉ de LA FOY dans LE MONDE, et par tout L'UNITÉ DE LA RELIGION DE JESUS-CHRIST. Si au reste Elle a le bonheur d'estre Jugée Utile à ce dessein; Elle se flatte deja d'un sort bien plus favorable, et ose bien esperer que sous le titre d'un tres-humble, tres-respectueux, et tres-fidele service, Vous accorderez à ses Innocens desirs la grace de LA BENEDICTION APOSTOLIQUE, qui sans diviser son aimable UNITE, la fera croistre et multiplier heureusement par tout.
+
+\* cet attrait, ou il ne prevoit pas qu'il luy puisse rien manquer de tout
+
+--- Page 12 ---
+<lang>None</lang>
+<meta>Blank flyleaf or endpaper with marbled binding edge.</meta>
+<warning>This page is blank. There is significant foxing and water staining at the top edge, and faint ghosting/bleed-through of text from the reverse side that is illegible.</warning>
+
+[Blank Page]
+
+<vocab>endpaper, flyleaf, marbled paper, foxing, bleed-through</vocab>
+
+<detected-images>
+[{"description": "Marbled paper border on the left and bottom edges, commonly used in historical bookbinding for endpapers and hinge reinforcement.", "type": "decorative", "bbox": {"x": 0.01, "y": 0.01, "width": 0.78, "height": 0.98}, "gallery_quality": 0.6, "museum_rationale": "Demonstrates period-typical marbling techniques used in institutional manuscript preservation and binding."}]
+</detected-images>
+
+--- Page 13 ---
+<lang>None</lang>
+
+<warning>This page is a blank flyleaf or endleaf. No handwritten or printed text is present. The paper exhibits minor foxing and water staining, and the marbled edges of the book block are visible on the right.</warning>
+
+<meta>blank page, flyleaf, endpaper</meta>
+<vocab>blank page, foxing, staining, flyleaf</vocab>
+
+--- Page 14 ---
+<lang>fr</lang>
+<meta>Dedicatory epistle to King Louis XIV, referencing a philosophical/educational work titled "Methode Royale d'Estudier" and "L'Ombre Ideale de la Sagesse Universelle". The text mentions the Peace of the Pyrenees (1659) and the Peace of Nimeguen (1678-79). It addresses the King and refers to the Pope (Innocent XI).</meta>
+
+# Au Roy.
+
+**SIRE,**
+
+VOSTRE MAJESTÉ ayant eu la bõte de m’interroger un Jour à Bourdeaux sur un bruit venu Jusques à Elle par je ne scay quel heureux destin, de quelque production toute recente alors de mes Meditatiõs, tracé d’un plan assez uniforme dãs sa Multiplicité sur une seule Carte: il me souvint d’avoir eu l’hõneur de Luy respõdre dans le sty-le du Pays que c’estoit UNE METHODE ROYALE DESTUDIER, pour quãd Elle seroit touchée de ce noble Desir; aller à la CHASSE DES SCIENCES, les courre avec plaisir; et les attraper sans peine. LA REYNE MERE, de glorieuse memoire, qui se trouva presente, me fit aussy la grace de me demander s’il y avoit quelque chose po-Elle. J’eus le bien de Luy dire que JESUS-CHRIST, LE ROY DES ROYS, qui seul nous en pouvoit découvrir le Mystere; estoit exposé en Croix à sa Devotiõ Royale, tout envirõné des Celestes semences de l’une et de l’autre Oraison, qui dans leur petit sein renfermoient une riche moisson de Meditations et Affections tres-pieuses, avec de tres-Saints maximes põ regler toutes nos actions, et conformer exactem.t le Cours de cette Vie à l’Esprit de son EVANGILE. Sur cela VOSTRE MAJESTÉ me comanda de produire aussytost la Piece: mais l’Ouvrage estant encore brut et mal poli, je ne crus pas pouvoir l’exposer à ses yeux en cet estat sãs temerité. Ce que le defaut de lumiere avoit en ce temps-là tenu caché, Viẽt aujourd’huy, se represẽter avec avantage. C’est cette FIGURE, que je n’ay osé intituler par modestie, que L’OMBRE IDEALE DE LA SAGESSE UNIVERSELLE, plus parfaite en sa forme, et plus estenduë en sa matiere: laquelle començant à briller par les premiers rayons de sa lumiere, vient sa-tisfaire au comãdemẽt de V.M. Cependant, q’une autre raisõ bien plus puissante m’engage a võ rendre cette obeyssance: c’est que la vaste estenduë de Cette FIGURE GENERALE, resserrée dans si peu d’espace, et qui fait assez conoitre que je suis un ESPRIT, qui va et vient par tout de pensée, m’ayant fait sortir du plus haut des Cieux, où ma Curiosité m’avoit porté põ cõtempler J.C. à la Droite de DIEU SON PERE, m’a fait passer de là au VATICAN, où j’ay trouvé LE VICAIRE DE JESUS-C- dans la Chaire de S. PIERRE, et m’a cõduit en suite jusques au sõmet de la France, où j’ay rencõtré V. M. sur le Thrône de Ce ROYAUME, et par un juste rapport des Lieux et des Persõnes j’ay trouvé assis avec ordre dans chacune de Ces Regions si eloignées tout ce qu’il y a de plus sublimes Dignités sur les plus hauts degrés d’hõneur et de Puissance, scavoir JESUS-CHRIST, dans le CIEL, INNOCENT dans l’EGLISE, et LOUYS dans la FRANCE: parceque marchant dans la droite Ligne du Christianisme, je les y ay trouvé Tous Trois si estroitem.t unis, quencore qu’ils soient TROIS, neantmoins (sans blesser le Mystere Adorable de ce Nombre Divin) ils ne font qu’ UN: J’entens de cette Unité d’esprit, qui reünit la Diversité des Nations sous un seul Nom Chrestien põ en faire une mes chose dans l’Union parfaite d’une mesme Verité Catholique. En effet JESUS-CHRIST n’est il-pas Celuy qui est hier, aujourd’huy, et dans tous les siecles? et Qui est plus en Terre à JESUS-CHRIST, que l’UNIQUE VICAIRE DE JESUS-CHRIST? et Qui est dans tout l’Univers plus CHRESTIEN que LE ROY TRES-CHRESTIEN? ils demeurẽt donc TOUS TROIS EN UN; JESUS-CHRIST, INNOCENT, et LOUYS. et le plus grand des trois est JESUS-CHRIST, puis qu’il est LE CHEF DE L’EGLISE et LE ROY souverain de tout le Monde. C’est cette heureuse rẽcontre, SIRE, qui m’a fait naistre l’occasion favorable de leur rẽdre à Chacun dans cet Ouvrage une marque authentique de mes justes devoirs. Aprez donc avoir offert mes Voeux à J.C. et rendu mes respects à INNOCENT, son VICAIRE, n’est-il pas raisonable, q’en qualité de Vostre Sujet, je rẽde mes homages à V.M. d’autant plus que se trouvant jointe à tous les Deux; J.C. et son VICAIRE; jusqu’à l’estroite Uniõ de l’Unité, par ces alliance sacrées de Religio Divine, de souveraineté Royale, et de l’Esprit Saint qui les vnit Elle participe à tous ses singulieres Prerogati-ves par lesquelles L’EGLISE les embrasse indivisiblem.t Tous Trois. Car si Elle est la Maisõ de DIEU; C’est VOUS qui cõe le Fort Armé en gardez le Sanctuaire: si Elle paroist cõe une Ville, VO. en estes la Tour bien munie, où se trouvẽt mille boucliers põ sa defẽse: si Elle est cosiderée coẽ un Vaisseau; V.M. est un Phare, qui luy offre un Port assuré dans la tẽpeste: si on la regarde coẽ une Armée bien rãgée, ON VO.Y voit LE MARS FRANÇOIS: si Elle dõpte les Monstres de toutes les Heresies; VO. en estes l’Hercule Chrestien: si Elle combat põ la Paix; VO.Y occupez le rang de LOUYS LE PACIFIQUE: si on l’admire coẽ un Chãp bien fleuri; VO. en estes LE LYS ROYAL, l’ornemẽt et la Majesté des fleurs: si on la cõteple coẽ un Ciel, VO.Y tenez le lieu de Jupiter, de tous les Astres le plus favorable à la Religio: si on la tiẽt põ la Mere des fidelles, on VO.Y recõnoist põ son FILS AISNÉ: si enfin Cette mesme EGLISE est envisagée coẽ LE ROYAUME DE JESUS-CHRIST, VO.Y rem-plissez par la grace de DIEU la place de ROY TRES-CHRESTIEN. C’est donc, SIRE, põ ne me point écarter, que je Viens rendre à LOUYS-LE-GRAND Sous tãt de titres de pareils devoirs qu’à JESUS-CHRIST, Chef souverain de L’EGLISE; et qu’à INNOCENT, son souverain PONTIFE; et faire à VOSTRE MAJESTÉ le mesme present du Chef-d’oeuvre de mon travail; en attendant que par le secours des lumieres du Ciel, et la faveur de VOSTRE MAJESTÉ je puisse rendre le corps de l’Ouvrage plus parfait comme son horoscope avantageux semble me le promettre par un favorable aspect de Nostre MARS FRANÇOIS: lequel ayant changé tout d’un coup son humeur guerriere en pacifique, pour calmer LE CIEL en faveur de LA TERRE, et retenu le torrent de ses Victoires, que la puissante Confederation de tous ses Ennemis n’avoit pû arrester Aussy n’y avoit-il qu’un LOUYS-LE-GRAND, qui pûst triompher de LOUYS-LE-GRAND, pour donner la Paix à L’EUROPE, me fait espérer un obligeant accez auprès de VOSTRE MAJESTÉ, tant pour la premiere partie de cet Ouvrage, que je puis appel-ler un Ouvrage de Paix, ayant esté conceu dans la Paix des Pyrenées, et enfanté dans celle de Nimmegue: que pour Celles qui doivent suivre, lorsqu’elles paroistront au Jour à la gloire de JESUS-CHRIST, DE QUI, PAR QUI, et EN QUI sont generalement toutes Choses. Vivez, SIRE, eternellement pour Cette gloire, et pour la felicite de Tous LES VOSTRES.
+
+<vocab>Methode Royale d'Estudier, Ombre Ideale de la Sagesse Universelle, Vicaire de Jesus-Christ, Mars François, Hercule Chrestien, Louys le Pacifique, Lys Royal, Louys-le-Grand, Paix des Pyrenées, Paix de Nimmegue, Innocent XI</vocab>
+
+--- Page 15 ---
+<lang>Unknown</lang>
+<warning>The page is a blank flyleaf or endpaper with extremely faint, faded manuscript inscriptions at the top that are largely illegible due to age and abrasion.</warning>
+
+<unclear>illegible faint manuscript inscription</unclear>
+
+<vocab>flyleaf, blank page, endpaper, manuscript</vocab>
+
+--- Page 16 ---
+<lang>Unknown</lang>
+<page-num>1, 25</page-num>
+<meta>The page is a blank flyleaf or introductory leaf with minimal handwritten notation and a faint blue stamp. The number '1' is written in the top center, and '25' is in the top right corner.</meta>
+
+<unclear>[stamp]</unclear>
+
+<vocab>blank page, folio, library stamp</vocab>
+
+--- Page 17 ---
+<lang>French</lang>
+<page-num>1</page-num>
+
+# AVANT - PROPOS.
+
+POUR-QUOY vous arrestez vous sur la porte, Quiconque vous presentez icy pour contempler cette FIGURE? et d'ou vient
+qu'estant sur le point de penetrer dans le Sanctuaire et les secrets de la SAGESSE vous vous retirez si viste avec estonnement!
+N'est-ce point la rencontre inopinée de cette OMBRE, qui vous en fait apprehender l'entrée? ou bien, cette alliance peu croy-
+able qui paroist dans le TITRE, des Tenebres avec la Lumiere, et de la SAGESSE avec les OMBRES, qui vous tient l'esprit en suspès!
+Remarquez, s'il vous plaist, que Celuy qui a voulu placer son Thrône dans le Soleil, a pris plaisir de l'environner de Tenebres, c'est pour-
+quoy voulant donner un crayon de ma pensée dans cette CARTE, la connoissance de mon peu de Lumiere en une si haute entre-
+prise me la fait qualifier du TITRE que vous voyez, pour reverer d'abord et relever la grandeur du sujet par un prompt et sincere
+aveu de mon Insuffisance. Peut-estre que ce melange de Mysteres Chrestiens avec ceux des Juifs sous une Langue estrange vous surprend,
+et vous y fait soupconner quelque chose de fâcheux! tant s'en faut, c'est icy que ces deux Religions cachent leur sainte Alliance, pour
+nous faire voir que la secrette et sacrée Tradition des Hebreux qu'ils appellent KABBALE convient parfaitement avec nos Mysteres
+dans la personne de JESUS-CHRIST. Ou il faut enfin que cette multiplicité de Figures et d'Images, cette diversité de Couleurs, et cet em-
+barras d'Orbes et de Cercles enchassés les uns dans les autres, vous paroisent un LABYRINTHE impenetrable, et qu'en apprehendant les dé-
+tours et les égaremens, aussy bien que la peine à vous en demesler, vous craignez de vous engager dans un lieu, dont vous n'ap-
+percevez ny l'entrée, ny la sortie: mais n'apprehendez point: c'est une terreur panique. Regardez ce TITRE, et CELLE qui le Supportent: que
+peut-on craindre sous la conduite de la SAGESSE, et dans la compagnie de la VERTU!
+
+La Sagesse peut tout dans son Unité. Et si cela ne suffit: <gloss>Car Dans la Sagesse Il n'y a qu'un Seul Esprit d'Intelligence pour bien connoistre;</gloss>
+La Vertu bien Unie Triomphe de Tout. <gloss>Et Dans la Vertu, l'esprit d'Union est merveilleusement Efficace pour bien agir.</gloss>
+
+De plus considerez que vous avez icy L'EGLISE Figurée sous l'Image de la SAGESSE, et la FRANCE, sous celle de la VERTU. C'est vous
+ILLUSTRE FRANCE, qui estant la Fille Aisnée de l'Epouse Sacrée de JESUS-CHRIST n'avez choisy de toutes les Fleurs de la terre
+que LE LYS pour symbole: 4. Esd. 5. MAIS L'EGLISE, Seule contemplatrice de la Pure Verité, a pris la GRENADE pour son Hieroglyphe.
+Et Comme L'UNITE de L'EGLISE PORTE ICY UNE TRIPLE COURONNE; LA AUSSY D'UNE SEULE COURONNE EST ORNÉE LA TRIADE DES LYS.
+Quel sujet donc avez vous de craindre? et qu'apprehendez vous, je vous prie? sous une si puissante protection invoquez la SAGESSE, Invoquez
+la VERTU: l'entends la SAGESSE et la VERTU de DIEU, qui est JESUS-CHRIST. La SAGESSE vous conduira par un Chemin admirable, et
+la VERTU vous Armera du Casque de Salut. Appellez encore L'EGLISE, et Reclamez la FRANCE: l'une vous defendra avec l'Epée de la
+parole, et l'autre vous couvrira du Bouclier de la Justice. Reprenez donc courage, et vous animez d'esperance, et sans em-
+prunter le Fil d'Ariadne, ne faignez point d'entrer avec moy dans ce LABYRINTHE sous la sage conduite de JESUS-CHRIST. Il
+conduira vos pas dans ses sentiers pour vous empescher de broncher, vous y verrez avec admiration la Lumiere sortir des Tenebres,
+et vous y sentirez naitre une agreable esperance d'arriver plus aisement par cette voye, en moins de temps, et bien plus seure:
+ment, que par une autre, A LA SCIENCE DE LA VERITE.
+Et pour en juger par experience, entrons, s'il vous plaist, dans ce Temple de la SAGESSE; et aprés vous avoir fait connois-
+tre auparavant le dessein de l'Ouvrage et son occasion, parcourons en legerement toutes les parties avec autant d'exa-
+ctitude qu'un avant coureur et une Introduction nous le peuvent permettre, Jusqu'à ce que nous puissions examiner
+chaque chose en detail dans une plus ample explication.
+
+## INTRODUCTION PREAMBULAIRE A L'OMBRE IDEALE DE LA SAGESSE UNIVERSELLE.
+
+JE ne puis mieux vous informer, mon cher Lecteur, de l'occasion que J'ay eüe d'Inventer ce nouveau SYSTEME UNIVERSEL, que
+par l'explication de sa Bordure, et des Mysteres, qu'elle contient: car il n'y a rien d'Inutile, et tout y parle un langage Kabbalis-
+tique; soit pour en ouvrir le Prelude, ou pour en fermer l'EPILOGUE: estant aussy disposée pour satisfaire egalement à ces deux foctio̅s:
+le Prelude partage cette Bordure dans les quatre parties ordinaires du Monde, qui sont L'ORIENT, L'OCCIDENT, LE MIDY, et LE SEP-
+TENTRION. Le Haut de la Bordure, comme dans le plan MIDY d'une Lumiere Inaccessible, et sous le caractere d'un JOD Lumi-
+neux (qui est la plus simple Lettre des Hebreux, et L'Origine des autres, dont Ils ont fait Judicieusement pour ce sujet un Symbole
+de la Nature Divine) nous represente Kabbalistiquement UNE SEULE DIVINITE. Le Bas, comme au SEPTENTRION, et dans
+son opposé, sous l'image d'une Dame Venerable revestue pontificalement, qui offre de l'Encens à DIEU, nous propose UNE SEULE
+EGLISE. La Droite, comme dans un clair ORIENT, sous la Figure d'un Soleil Rayonnant nous découvre UNE SEULE VE-
+RITE. Et la Gauche, comme dans son OCCIDENT, sous le Symbole d'un Miroir bien poli, qui represente Ce Soleil, luy
+
+<meta>Catchwords at bottom left: EGLISE, RITE.</meta>
+<vocab>Sagesse, Kabbalistique, Labyrinthe, JOD, Esprit d'Intelligence, Epouse Sacrée, France, Eglise, Science de la Verité, Introduction Préambulaire, Ombre Idéale.</vocab>
+
+--- Page 18 ---
+<lang>N/A</lang>
+<meta>Blank flyleaf or endpaper with marbled paper binding visible on the left edge.</meta>
+<warning>This page is blank and contains no legible text, headings, or annotations.</warning>
+
+[This page is blank.]
+
+<vocab></vocab>
+
+--- Page 19 ---
+<lang>English</lang>
+<page-num>2</page-num>
+<meta>pencil handwriting, very faint; page number in ink</meta>
+<warning>The manuscript contains very faint pencil writing that is difficult to decipher. The third line appears to be in a different language, likely German.</warning>
+
+->2 parts Hydrogen<-
+->1 do oxygen<-
+-><unclear>Eben so d platine</unclear><-
+
+---
+
+<vocab>Hydrogen, oxygen, platine</vocab>
+
+--- Page 20 ---
+<lang>fra</lang>
+<page-num>4</page-num>
+
+OPPOSE UNE SEULE SCIENCE. Mais chacune de ces quatre choses, comme la Premiere de son rang, est accompagnée de quelques perfections, qui luy sont propres, et qui sont remarquables par leurs Unités. car la DIVINITE a ses Dignités, a ses costes: L’EGLISE a ses Prerogatives; LA VERITE, ses Avantages; et LA SCIENCE, ses Conditions; toutes représentées par leurs Emblemes, et qui dans leur multiplicité conservent constament leur Unité <gloss>de sa Lumiere,</gloss> Car Demesme que DIEU Vit et Regne dans l’Unité; Et Comme LA VERITE se fait Jour d’elle mesme par l’Unité L’EGLISE aussy conserve avec soin l’Unité de son Esprit. Ainsy Cette mesme Verité ne forme par son Unité Or cette Illustre suite d’Unités, que vous voyez sur cette Bordure, me Vint un Jour en pensée dans le <gloss>qu’une seule SCIENCE</gloss> profond silence d’une agreable solitude apres une serieuse meditation que Je fis sur la Nature et les Perfections de DIEU, m’arrestant particulierement sur son UNITE. car le considerant dans le centre de sa Lumiere, et dans la plenitude Incomprehensible de sa DIVINITE. Je le Vis tellement affecter la Solitude Inaccessible de l’UNITE, que tous les differens biens, qu’il possede en luy mesme, ne luy peuvent plaire, sans avoir en eux et conserver avec les autres une parfaite Unité: de sorte qu’il ne peut rien souffrir dans L’EGLISE, qui est sa Maison, non plus qu’en soy mesme, s’il ne porte le caractere de cette Dignité. 
+AINSY quoy qu’il soit toutes choses par eminence, il est neanmoins tellement UN par Nature, que
+
+| | |
+|---|---|
+| Sil est exempt de changement, c'est par UNE seule **A. IMMUTABILITE**, Qui est la Necesité absolue de son Existence. | Sil est Victorieux de tout, c’est par UNE seule **D. VERTU** Qui est sa Toute-puissance Admirable; |
+| Sil Excelle par dessus tout, c'est par UNE seule **B. MAJESTE**, Qui est sa Gloire Incomparable; | Sil Pourvoit à tout, c’est par UNE seule **E. VIGILANCE**, Qui est sa singuliere Providence; |
+| Sil Regne sur toutes choses, c’est par UN seul **C. EMPIRE**, Qui est sa souveraine Authorité; | Enfin sil est suffisant à tous, c'est par UNE seule **F. PLENITUDE**, Qui est son Infinité en toute maniere. |
+
+Ne vous imaginez pas neanmoins que de toutes ces Unités il s’en forme en luy, seulement Une ombre de Multitude: car par le moyen de cette Infinité, qui les embrasse toutes, son extrême SIMPLICITE les Unit si parfaitement, que de TOUTES elle n’en fait QU’UNE. De mesme il ne s’est choisy hors de soy par le decret de son conseil qu’UNE seule EGLISE pour se faire connoistre et adorer pendant le temps et dans l’eternité et a Voulu que L’UNITE regnast sur toutes ses Prerogatives, et qu’Elle n’eust
+
+| | |
+|---|---|
+| Pour donner entrée à tous les Hommes, qu'UNE seule **G. PORTE**, Qui est le Baptesme de Regeneration; Pour les éclairer divinement, qu’UNE seule **H. LUMIERE**, Qui est la **FOY Catholique EN JESUS-CHRIST**; Pour honorer Dieu souverainement, qu'un seul **I. SACRIFICE**, Qui est l'Adorable Eucharistie; | Pour estre gouvernée sagement, qu’UN seul **K. CHEF**, Qui est nostre Saint Pere le Pape; Pour estre Unie plus étroitement, qu'UN seul **L. CŒUR**, Qui est une Charité Unanime; Pour estre Vivifiée continuellement, qu'un seul **M. ESPRIT**, Qui est le Consolateur Septiforme. |
+
+Sur cette meditation J’entray en doute, si LA VERITE, laquelle bien que répanduë dans toutes choses, ne laisse pas d’estre pareillement UNE, et recommandable par les Unités de ses Avantages et qui n’a
+
+| | |
+|---|---|
+| Pour se faire Voir a tous, qu’un seul **N. VISAGE**, Qui est son Eclat Naturel; Pour demeure fixe, qu’UN seul **O. ELEMENT**, Qui est une Sincerité Incorruptible; Pour son Throne, qu’un seul **P. SIEGE**, Qui est Une Perpetuelle Egalité; | Pour eternel soustien, qu’UN seul **Q. APPUY**, Qui est une SOLIDITÉ Inebranlable; Pour se laisser aborder plus surement, qu’UN seul **R. CHEMIN**, Qui est une Prudente **DOCILITÉ**; Pour se faire gouster agreablement, qu’UN seul **S. FRUIT**, Qui est une sobre sagesse; |
+
+Si, dis-je, LA VERITE ne pourroit point, pour se faire connoistre, se contenter D’UNE seule SCIENCE, pourveu qu’Elle fust GENERALE afin d’épargner et la peine et le temps des personnes d’estude, et qui n’eust
+
+| | |
+|---|---|
+| **A Traiter** uniquement, qu'UN seul **T. SUJET**, Qui est un Objet Proportionné; **A Examiner** fonsierement, qu'un seul **U. MOYEN**, Qui est la **DEFINITION Exacte** de l'Objet; **A Croire** sinceremēt, qu'UN seul **X. JUGE**, Qui est la Droite Raison; | **A Ecouter** soigneusemēt, qu'un seul **V. MAISTRE**, Qui est le Plus Habile en tout; **A suivre** exactemet, qu'un seul **Z. ORDRE**, Qui est une **METHODE** uniforme; **A Envisager** Incessamment, qu'un seul **&. BUT**, Qui est sa Propre **Fin**. |
+
+Or toutes ces Unités représentées par leurs Symboles m’ayant fait concevoir le Dessein d’une SCIENCE GENERALE po’ abreger le Temps et le travail Jay tâché d’en former l’Idée sur **JESUS-CHRIST CRUCIFIE**, po’ sanctifier par ses Lumieres et sous sa conduite les **ESTUDES** et **LES PERSONNES**; et d’en composer **CE SYSTEME UNIVERSEL**,
+
+| qui sous ces trois FACES differentes, qui | L'UNIVERS | Dans | Comme |
+| :--- | :--- | :--- | :--- |
+| | **CONFUZ** | **SA Generalité,** | **UNE NUIT Obscure;** |
+| me sōt venues dans l’esp. no' represente: | **COMPLIQUÉ** | **JESUS-CHRIST,** | **une AURORE Naissante;** |
+| | **EXPLIQUE** | **Ses Parties,** | **a JOUR Eclatant.** |
+
+<vocab>DIVINITE, EGLISE, VERITE, SCIENCE, UNITE, IMMUTABILITE, MAJESTE, EMPIRE, VERTU, VIGILANCE, PLENITUDE, PORTE, LUMIERE, SACRIFICE, CHEF, CŒUR, ESPRIT, VISAGE, ELEMENT, SIEGE, APPUY, CHEMIN, FRUIT, SUJET, MOYEN, JUGE, MAISTRE, ORDRE, BUT, JESUS-CHRIST</vocab>
+
+<detected-images>
+[{"description": "Ornate decorative border surrounding the text block with floral and geometric patterns, visible along the top and right edges.", "type": "decorative", "bbox": {"x": 0.05, "y": 0.0, "width": 0.95, "height": 0.98}, "gallery_quality": 0.6, "museum_rationale": "High-quality early modern book decoration typical of scholarly or theological editions, providing a structured frame for the dense philosophical content."}]
+</detected-images>
+
+--- Page 21 ---
+<lang>French</lang>
+<page-num>4</page-num>
+<meta>image quality: excellent; legible cursive-style print script; page number 4 in the left margin</meta>
+
+OPPOSE UNE SEULE SCIENCE. Mais chacune de ces quatre choses, comme la Premiere de son rang, est accompagnée de quelques perfections, qui luy sont propres, et qui sont remarquables par leurs Unités. car la DIVINITE a ses Dignités, à ses costes: L'EGLISE a ses Prerogatives; LA VERITE, ses Avantages; et LA SCIENCE, ses Conditions; toutes representées par leurs Emblemes, et qui dans leur multiplicité conservent constament leur Unité.
+<margin>de sa Lumiere</margin>
+Car Demesme que DIEU Vit et Regne dans l'Unité; Et Comme la VERITE se fait Jour d'Elle mesme par l'Unité; L'EGLISE aussy conserve avec soin l'Unité de son Esprit. Ainsy cette mesme Verité ne forme par son Unité qu'une seule SCIENCE.
+Or cette Illustre suite d'Unités, que vous voyez sur cette Bordure, me vint un Jour en pensée dans le profond silence d'une agreable solitude aprés une serieuse meditation que Je fis sur la Nature et les Perfections de DIEU, m'arrestant particulierement sur son UNITE. car le considerant dans le centre de sa Lumiere, et dans la plenitude Incomprehensible de sa DIVINITE, Je le Vis tellement affecter la Solitude Inaccessible de l'UNITE, que tous les differens biens, qu'il possede en luy mesme, ne luy peuvent plaire, sans avoir en eux et conserver avec les autres une parfaite Unite: de sorte qu'il ne peut rien souffrir dans L'EGLISE, qui est sa Maison, non plus qu'en soy mesme, sil ne porte le caractere de cette Dignité.
+
+AINSY quoy qu'il soit toutes choses par eminence, il est neanmoins tellement UN par Nature, que
+Sil est exempt de changement, c'est par UNE seule **A. IMMUTABILITE**, Qui est la Necessité absoluë de son Existence;
+Sil Excelle par dessus tout, c'est par UNE seule **B. MAJESTE**, Qui est sa Gloire Incomparable;
+Sil Regne sur toutes choses, c'est par UN seul **C. EMPIRE**, Qui est sa souveraine Authorité;
+Sil est Victorieux de tout, c'est par UNE seule **D. VERTU** Qui est sa Toute-puissance Admirable;
+Sil Pourvoit à tout, c'est par UNE seule **E. VIGILANCE**, Qui est sa singuliere Providence;
+Enfin sil est suffisant à tous, c'est par UNE seule **F. PLENITUDE**, QUI est son Infinité en toute maniere.
+
+Ne vous imaginez pas neanmoins que de toutes ces Unités il s'en forme en luy, seulement Une ombre de Multitude: car par le moyen de cette Infinité, qui les embrasse toutes, son extrême SIMPLICITE les Unit si parfaitement, que de TOUTES elle n'en fait QU'UNE.) De mesme il ne s'est choisy hors de soy par le decret de son conseil qu'UNE seule EGLISE pour se faire connoistre et adorer pendant le temps et dans l'eternité et a Voulu que l'UNITE regnast sur toutes ses Prerogatives. et qu'Elle neust
+
+Pour doner entré à tous les Hommes, qu'UNE seule **G. PORTE**, Qui est le Bapthême de Regeneration; Pour les éclairer divinement, qu'UNE seule **H. LUMIERE**, Qui est la FOY Catholique en JESUS-CHRIST; Pour honorer Dieu souverainement, qu'un seul **I. SACRIFICE**, Qui est l'Adorable Eucharistie;
+Pour estre gouvernée sagement, qu'UN seul **K. CHEF**, Qui est nostre Saint Pere le Pape; Pour estre Unie plus estroitemet, qu'un seul **L. COEUR**, Qui est une Charité Unanime;
+Pour estre Vivifiée continuellemēt, qu'un seul **M. ESPRIT**, Qui est le Consolateur Septiforme.
+
+Sur cette meditation J'entray en doute, si LA VERITE, laquelle bien que respanduë dans toutes choses, ne laisse pas d'estre pareillement UNE, et recommandable par les Unités de ses Avantages, et qui n'a
+
+Pour se faire Voir à tous, qu'un seul **N. VISAGE**, Qui est son Eclat Naturel; Pour demeure fixe, qu'un seul **O. ELEMENT**, Qui est une Sincerité Incorruptible; Pour son Trône, qu'un seul **P. SIEGE**, Qui est Une Perpetuelle Egalité;
+Pour eternel soustien, qu'un seul **Q. APPUY**, Qui est une Solidité Inebranlable; Pour se laissé aborder plus surement, qu'UN seul **R. CHEMIN**, Qui est une Prudente DOCILITE; Pour se faire gouster agreablement, qu'un seul **S. FRUIT**, Qui est une sobre sagesse:
+
+si, dis-je, LA VERITE ne pouvoit point, pour se faire connoistre, se contenter D'UNE seule SCIENCE, pourveu qu'Elle fust GENERALE afin d'épargner et la peine et le temps des personnes d'étude, et qui n'eust
+
+A Traiter uniquement, qu'un seul **T. SUJET**, Qui est un Objet Proportionné; A Examiner foncierement, qu'un seul **U. MOYEN**, Qui est la Definition Exacte de l'Objet; A Croire sinceremēt, qu'UN seul **X. JUGE**, Qui est la Droite Raison;
+A Ecouter soigneusemēt, qu'un seul **Y. MAISTRE**, Qui est le Plus Habile en tout; A suivre exactemet, qu'un seul **Z. ORDRE**, Qui est une METHODE uniforme; A Envisager Incessamment, qu'un seul **&. BUT**, Qui est sa Propre Fin.
+
+Or toutes ces Unites representées par leurs Symboles m'ayant fait concevoir le Dessein d'une SCIENCE GENERALE <term>po.</term> abreger le Temps et le travail Jay tâché d'en former l'Idée sur JESUS-CHRIST CRUCIFIE, <term>po.</term> sanctifier par ses Lumieres et sous sa Conduite LES ESTUDES et LES PERSONES; et d'en composer CE SYSTEME UNIVERSEL,
+
+<insert>
+qui sous ces trois FACES differentes,
+me sōt venuës dans l'esp. nos represente.
+</insert>
+
+| qui l'UNIVERS | Dans | Comme |
+| :--- | :--- | :--- |
+| { CONFU-S | { SA Generalité, | { une NUIT Obscure; |
+| { COMPLIQUE | { JESUS-CHRIST, | { une AURORE Naissante; |
+| { EXPLIQUE | { Ses Parties, | { un JOUR Eclatant. |
+
+<vocab>DIVINITE, EGLISE, VERITE, SCIENCE, JESUS-CHRIST CRUCIFIE, IMMUTABILITE, MAJESTE, EMPIRE, VERTU, VIGILANCE, PLENITUDE, Bapthême de Regeneration, FOY Catholique, Eucharistie, Pape, Charité Unanime, Consolateur Septiforme, Sincerité Incorruptible, Droite Raison, METHODE</vocab>
+
+--- Page 22 ---
+<lang>None</lang>
+<meta>Blank flyleaf or endpaper from a bound volume. Marbled paper binding visible on the left and bottom edges.</meta>
+<warning>This page is blank and contains significant foxing, moisture staining, and surface wear.</warning>
+
+[This page is blank and contains no text or illustrations to transcribe.]
+
+<vocab>blank page, flyleaf, foxing, staining, marbled paper</vocab>
+
+--- Page 23 ---
+<lang>Unknown</lang>
+<page-num>3</page-num>
+<meta>Blank page with a large irregular brown stain in the lower left quadrant. Marbled paper visible at the right edge of the book block.</meta>
+
+<vocab>numeral</vocab>
+
+--- Page 24 ---
+<lang>French</lang>
+<meta>The text provides a philosophical and theological explanation of the universe through the symbolic representation of the crucified body of Jesus Christ, utilizing heraldic color codes (hachures) to represent different states of being (Confusion, Complication, Explication).</meta>
+<vocab>UNIVERS, CONFUSION, COMPLICATION, EXPLICATION, CAHOS, AURORE, FOY, RAISON, BLASON, Hachures, JESUS-CHRIST, POINTS CARDINAUX, L'ASSEMBLAGE</vocab>
+
+L'UNIVERS dans sa CONFUSION est une nuit obscure, par le meslange sans ordre de toutes choses, qui y sont renfermées comme dans un CAHOS;
+DANS sa COMPLICATION, c'est une AURORE naissante par le moyen de LA FOY, qui est la premiere ESTINCELLE de nostre con-
+DANS son EXPLICATION, c'est un JOUR eclatant, par le moyen de LA RAISON qui fait icy tout nostre JOUR; naissa-
+
+<margin>Ce GLOBE noir sis au centre de la FIGURE Represente..
+{ la nuit de cet UNIVERS Confus;
+{ l'Aurore de cet UNIVERS Compliqué;
+{ le Jour de cet UNIVERS Expliqué;</margin>
+
+Chacune selon les Regles ordinaires du BLASON, par leurs differentes Couleurs, qui se marquent dans l'Escu par des Hachures, ou Lignes differentes en cette sorte scavoir:
+
+->**l'Azur,**<-
+<insert>Square with horizontal lines</insert>
+->Par des Lignes Horizontales;<-
+
+->**le Gueules,**<-
+<insert>Square with vertical lines</insert>
+->Par des Lignes Verticales;<-
+
+->**le Sinople,**<-
+<insert>Square with diagonal lines (top-right to bottom-left)</insert>
+->Par des Lignes à Gauche;<-
+
+->**le Pourpre,**<-
+<insert>Square with diagonal lines (top-left to bottom-right)</insert>
+->Par des Lignes à Droite;<-
+
+->**le Sable,**<-
+<insert>Square with cross-hatching</insert>
+->Par des Lignes Croisées;<-
+
+->**l'Argent,**<-
+<insert>Empty square</insert>
+->Par des Blanches ou Laissées;<-
+
+->**l'Or,**<-
+<insert>Square with dots</insert>
+->Par des Points.<-
+
+Mais pour bien faire la difference de toutes ces Couleurs ou Hachures, il faut juger de celles, qui sont comprises dans la capacité du CIEL, par rapport au bas de LA FIGURE, et regarder de son Centre toutes celles qui se trouvent hors de cette circonference.
+L'UNIVERS CONFUS est au milieu de sa nuit dans un silence inviolable aux yeux de ceux qui le contemplent; et ne leur presente de toutes parts que L'Abysme impenetrable d'une profonde obscurité.
+L'UNIVERS EXPLIQUE fuit dans son Jour, ou du moins eslouit par son trop grand eclat la foiblesse de nostre Veüe, et nos Yeux ne peuvent pas au sortir des tenebres d'une nuit supporter d'abord une si grande clarté, sans s'y estre accoutumés peu à peu, et s'estre insensiblement fortifiés par une plus douce Lumiere.
+Mais sitost que l'on vient à envisager JESUS-CHRIST sur sa Croix pour l'invoquer par ce mot [**APERI, ouvrez,**] (car c'est DE LUY, PAR LUY, et EN LUY, que sont toutes Choses: C'est Luy qui possede les Thresors de la SAGESSE: Qui tient la Clef de LA SCIENCE pour l'ouvrir et fermer à son gré, sans qu'aucun autre la puisse ouvrir ou fermer.) Ou plustost disons mieux: dez que l'on vient à considerer un peu plus attentivement cet UNIVERS COMPLIQUE en JESUS-CHRIST CRUCIFIE, comme dans son Aurore; vous le voyez paroistre sur sa POITRINE, et rayonner autour dans les extremités de son CORPS QUATRE POINTS CARDINAUX en cet ordre, scavoir
+
+<insert>
+                / SA TESTE,             LA DIRECTION;
+                | SA MAIN DROITE,       LA CONSTITUTION;
+DANS SA POITRINE, L'UNIVERS;
+                | SA MAIN GAUCHE,       LA DISTRIBUTION;
+                \ SES PIEDS,            L'ASSEMBLAGE.
+</insert>
+
+L'UNIVERS paroist sur sa POITRINE, comme dans le Centre de toute LA COMPLICATION.
+LA DIRECTION, dans sa TESTE; comme dans la Source, et dans le Throne des LUMIERES, car il est Luy-mesme la vraye Lumiere, qui éclaire tout Homme venant au Monde.
+LA CONSTITUTION, dans sa DROITE; Qui marque par ses cinq DOIGTS Autant d'ORDRES de Raisons Constituüi:
+LA DISTRIBUTION, dans sa GAUCHE; Autant de CLASSES, ou de CATEGORIES des <unclear>ves;</unclear>
+Et L'ASSEMBLAGE, dans ses PIEDS; lesquels sont joints ensemble par un Cloud, pour nous figurer par Choses.
+leurs dix DOIGTS ainsy assembles, les dix LIGAMENS qui maintiennent toutes Choses dans L'UNITE, pour la conservation de L'UNIVERS. C'est afin qu'en appliquant de pensée Ces Quatre Choses sur cet ABYSME de tenebres pour les y developper avec soin, on pust en dissiper la nuit, et faire naistre enfin quelque Jour dans cet UNIVERS.
+Et comme LA FOY de JESUS-CHRIST (qui ne conseille jamais rien de mal) persuade aisement au Chrestien que dans la recherche des choses c'est un grand bonheur à LA RAISON d'estre precedée par son flambeau, comme par une Divine AURORE, qui luy en découvre la Verité: Ce fut Elle aussy, qui m'inspira de dresser sur ces QUATRE POINTS CARDINAUX Cette MANIERE CATHOLIQUEMENT-CHRESTIENNE d'appliquer ala connoissance de L'UNIVERS, et c'est à quoy doivent servir toutes les Parties de ce SYSTEME, qui ne sont que pour developper Ces QUATRE POINTS suivant l'idée que j'en ay conceüe sur le CORPS CRUCIFIE de JESUS-CHRIST.
+1. LA DIRECTION DE L'UNIVERS par le JESUS-CHRIST.
+
+<detected-images>
+[{"description": "A set of seven heraldic hatching (hachures) patterns with corresponding color names and textual descriptions.", "type": "diagram", "bbox": {"x": 170, "y": 240, "width": 645, "height": 78}, "gallery_quality": 0.75, "museum_rationale": "Provides a clear and historical visual key for heraldic symbolism used in esoteric or theological manuscripts of the period."},
+{"description": "A structured relational text diagram using brackets to link parts of the human body (of Christ) to cosmological concepts (Direction, Constitution, Distribution, Assemblage).", "type": "diagram", "bbox": {"x": 235, "y": 526, "width": 575, "height": 84}, "gallery_quality": 0.6, "museum_rationale": "Interesting early modern layout combining text and spatial organization to convey complex theological relationships."}]
+</detected-images>
+
+--- Page 25 ---
+<lang>None</lang>
+<meta>Blank page, likely a flyleaf or endpaper. The page shows significant foxing and a large damp stain in the lower right area. Marbled paper binding is visible on the left edge.</meta>
+<warning>This page is blank and contains no legible text or illustrations.</warning>
+
+--- Page 26 ---
+<lang>Unknown</lang>
+<page-num>4</page-num>
+<warning>The page is almost entirely blank, likely a flyleaf or endpaper. It contains a manuscript page number and some extremely faint, illegible markings.</warning>
+<meta>Page features marbled paper edges on the right and top/bottom; a smudge or water stain is present in the lower center.</meta>
+
+<unclear/>
+
+<vocab>blank page, numeral, pagination</vocab>
+
+--- Page 27 ---
+<lang>French</lang>
+<page-num>4</page-num>
+
+->moyen des LUMINAIRES, qui sont | Et | nostre conduite.<-
+->LES LOIX, NOUS, est representée,<-
+->1.o. Par L'IMAGE de JESUS-CHRIST SOUFFRANT. car il est Luy seul la Veritable Regle de toute<-
+->2.o. Par ces grands RAYONS, qui sortent des extremités de LA FIGURE s'avancent davantage en dehors pour porter<-
+->plus loin l'éclat des LOIX et des MAXIMES DE LA SAGESSE, qu'ils renferment avec leurs SYMBOLES. nous en parle:<-
+->rons en détail plus commodement ailleurs.<-
+
+# LA CONSTITUTION DE L'UNIVERS
+## II. Estable par Ces Cinq ORDRES de RAISONS, QUI sont
+
+<insert>
+L'HYPOSTATIQUE,
+LE SEMINAL,
+L'INSTRUCTIF,
+L'ACTUATIF,
+LE STATIF, Nous est désigné par ces FIGURES particulierés qui suivēt, dont
+</insert>
+
+la 1.ere est Ce TRIANGLE, qui environnant ce Globe Tenebreux, renferme L'ORDRE HYPOSTATIQUE des Raisons Constitutives, Qui sont
+->L'ACTIVITÉ,      LA PASSIBILITÉ,      LA LIAISON.<-
+
+La 2.de sont Ces trois QUARRÉS D'EAU, qui contiennent L'ORDRE SEMINAL des RAISONS CONSTITU: TIVES: dont les trois Principales Marchant chacune à la teste de son Quarré sont suivies de trois Absoluës et d'autant de Relatives, et poursuivies aussy des trois PRINCI: PES de DESTRUCTION, qui rodent continuellement au tour de Ces trois QUARRÉS, pour y entrer de force, ou par surprise, et ruiner en suite LA CO: NSTITUTION. LA TABLE suivante fait voir en deux Rangs, l'un de trois fois Huit, et l'autre de Huit fois trois, la nature et le genie, la suite et l'Economie, le rapport et l'habitude de toutes ces Rai: sons. la 3.e est la REGION de L'AIR, qui renferme L'ORDRE INSTRUCTIF des RAISONS CONSTITUTIVES dont les Douze du milieu, qui composent un ZODI: AQUE, roulent sur deux Autres, qui sont à la Cir: conference, comme sur deux POLES en cet ordre.
+
+---
+
+<margin>Table de Raisons seminales en huit Rangs de trois.</margin>
+
+**L' IF, ♃** | **L' E - R E. ♁** | **le LE, ♀**
+
+### Table Des Raisons seminales en Trois Rangs de 8.
+
+| | 1 . | 2 | 3 . | |
+|---|---|---|---|---|
+| | **Raisons Initiales.** | **Moyennes.** | **Finales.** | **Raisons Absoluës.** |
+| **L A** | L' UNITÉ. | B LA VERITÉ. | C LA BONTÉ. | |
+| **2 H** | la Naissance. | E la sagesse. | F la Volonté. | |
+| **3 G** | la Vertu. | H l'Opération. | I la Gloire. | |
+| **4 K** | la Grandeur. | L la Durée. | m la Perfection. | |
+| **5 N** | la Différence | o l'Égalité. | p la Covēnāce. | **Raisons Relatives.** |
+| **6 O** | le Principe | r le Milieu. | s la Fin. | |
+| **7 T** | la Nécessité | u l'Ordre. | x l'Harmonie | |
+| **8 V** | L' Excés | z le Défaut | & le Contrar. | **Malignes.** |
+
+---
+
+<margin>LA POSSIBILITÉ.</margin>
+<margin>LA RAISON.</margin>
+
+| | | | | | | | | | | | | | |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| le Belier, ♈ | le Taureau ♉ | les Gemeaux ♊ | A Absoluë. | 4. Lion ♌ | le | ♋ | G de Complemē: | la Balance ♎ | la Quan | N-Continuë | 10. le Capri | le | l'Interieur. |
+| la Quid: | l'Ori | le Rap | B Relative. | L' OR | ve, | la Maternité | H de Composition. | l'Assistance, | tité | O-Discrete. | corné, ♑ | Lieu | l'Exterieur. |
+| dité. | gine | port | C Primitive. | Lion ♌ | le | la FORME | Essentialle. | les Scor | la Qua | P Naturelle | 11. le Verse | la ma | Substantielle |
+| | | | D Derivati: | 6 la Vier | on | la linait. | Accidentelle. | pion, M- | lité | Q Empruntée | eau ♒ | niere | Accidentelle. |
+| | | | E Ideal. on | ge, | | le LITE | Derniere. | le Sagit | le Tem | R Interne, | 12. les Pois | l'Acco | de Presence, |
+| | | | F de Possessi | Ite | | | Moyenne. | taire, ♐ps | ps | S-Externe | sons, ♓ | pagnemēt | de secours. |
+
+---
+
+La 4.e est LA SPHERE DU FEU, qui contient l'ORDRE ACTUATIF des RAISONS CONSTITUTIVES, qui sont L'ESSENCE, L'EXISTENCE, LA SUBSISTENCE.
+La 5.e est le CIEL Azuré, qui dans son estenduë comprend tout l'ORDRE STATIF en gros caractere sous une seule RAISON CONSTITU: TIVE, qui est
+->LA CONSISTENCE.<-
+
+# III. LA DISTRIBUTION DE L' UNIVERS En Cinq CLASSES, ou CATEGORIES, qui sont
+->Les Estats.<-
+->Les Conditions, ou Attributs,<-
+->LE MOD.<-
+
+<vocab>Luminaires, Jesus-Christ, Constitution de l'Univers, Ordre Hypostatique, Ordre Seminal, Ordre Instructif, Ordre Actuatif, Ordre Statif, Raisons Constitutives, Table des Raisons Seminales, Zodiaque, Belier, Taureau, Gemeaux, Lion, Vierge, Cancer, Balance, Scorpion, Sagittaire, Capricorne, Verseau, Poissons, Essence, Existence, Subsistence, Categories</vocab>
+
+--- Page 28 ---
+<lang>N/A</lang>
+<warning>The provided image is a blank page, likely a flyleaf or endpaper from a bound manuscript. It contains no legible text, annotations, or inscriptions. The paper shows significant foxing and water staining, particularly in the lower right quadrant.</warning>
+<meta>Blank page</meta>
+
+<detected-images>
+[{"description": "Marbled decorative paper on the binding edge", "type": "decorative", "bbox": {"x": 0.0, "y": 0.0, "width": 0.08, "height": 0.98}, "gallery_quality": 0.4, "museum_rationale": "Common 17th-19th century marbled paper used for bookbinding endpapers."}]
+</detected-images>
+
+--- Page 29 ---
+<lang>und</lang>
+<page-num>5</page-num>
+<meta>This page is a blank flyleaf or endpaper from a bound manuscript. The only markings are a handwritten folio number at the top center and the decorative marbled paper of the binding visible at the edges.</meta>
+
+<vocab>folio number, flyleaf, marbled paper</vocab>
+
+<detected-images>
+[{"description": "Marbled paper border with blue, red, and yellow 'combed' pattern visible at the top, bottom, and right edges of the book block.", "type": "decorative", "bbox": {"x": 0.01, "y": 0.0, "width": 0.99, "height": 0.04}, "gallery_quality": 0.3, "museum_rationale": "Standard 18th-19th century marbled bookbinding decoration."},
+{"description": "Marbled paper edge of the book block showing the vertical pattern.", "type": "decorative", "bbox": {"x": 0.92, "y": 0.0, "width": 0.08, "height": 1.0}, "gallery_quality": 0.3, "museum_rationale": "Standard decorative binding element."}]
+</detected-images>
+
+--- Page 30 ---
+<lang>French</lang>
+<page-num>5</page-num>
+<header>LES HISTOIRES, LES SCIENCES</header>
+
+### LES SCIENCES, est exprimée par ces Figures suivantes, dont
+
+La $1^{ere}$ est CE GLOBE BLANCHASTRE, qui paroist sur la surface tenebreuse de Cet Abysme: et qui fait une DISTRIBUTION GENERALISSIME de L'UNIVERS en trois grands ESTATS;
+
+> Scavoir
+> - **L'ESTRE**, Qui Est l'Estat Supreme;
+> - **JESUS-CHRIST**, Qui Est l'Estat Moyen;
+> - **L'ESTANT**, Qui Est l'Estat Inferieur.
+
+La $2^e$ est CE SOLEIL RAYONNANT au milieu du Ciel; et qui fait une autre DISTRIBUTION GENERALE de L'UNIVERS dans les plus sublimes Conditions, ou Attributs de ces trois ESTATS, tirees et composees des RAISONS INSTRUCTIVES, les voicy d'ordre.
+
+**1. Dans le Corps du SOLEIL sont les CONDITIONS, ou Attributs de L'ESTRE, qui est DIEU MESME: et sont Celles-cy**
+- AB. un Abysme d'essence; GH. Une Spiritualité tres-degagée; NO. Une Infinité en tout genre; TU. Une Immensité de presence;
+- CD. Un Principe sans principe; IK. Un Acte tres-pur; PQ. L'Identité mesme; XY. Une surnaturalité tres-elevée;
+- EF. Le Seigneur des Seigneurs; LM. Une Activité tres-paisible; RS. Une Eternité Immobile; Z. Une Singularité tres-Universelle;
+
+**2. Dans ses Rayons Droits sont les Conditions, ou Attributs de JESUS-CHRIST, qui est le SOMAIRE de toutes Choses. Les Voicy.**
+- AB. Dieu fait Homme: né de la terre; GH. Verbe et Chair: celle de serviteur; NO. le Salut des Ames; et le pris de leur redemtiō; TU. Découvert dans le Ciel, et chaché dans un Sq-
+- CD. Celeste, descendu du Ciel: terrestre; IK. Avant la forme de Dieu, et prenant PQ. un Prophete de Verité, et un Roy de justice: XY. Prestre, et Victime: dre.
+- EF. L'Image de Dieu, et le Fils d'une Vierge; LM. Mediateur de Dieu, et des Hommes: RS. Engendré devāt les Siecles; et né dedāns le tēps; Z. un, et toutes choses crement.
+
+**3. Dans ses Rayons Ondoyants sont les CONDITIONS ou ATTRIBUTS disjonctives de L'ESTANT, ou de L'ESTRE Créé; qui sont Celles-cy.**
+- Participẽ:
+    - A. Actuel, B. En Puissāce.
+    - C. Naturel, D. Artificiel. E. Portatif.
+    - F. L'Image, G. Spirituel. H. Materiel. I. Substantiel. K. Accidentel. L. Complet. M. Incomplet. N. PLUS, ou O. MOINS.
+    - P. Simple. Q. Composé. R. Permanent. S. Successif. T. Defini. U. Circonscrit. X. De mesme. Y. Diferent. Z. Universel. & Singulier.
+
+---
+
+LA $3^e$ FIGURE sont trois SPHERES de differente COULEUR, **VERTE, ROUGE, et JAUNE**: Qui font une DISTRIBUTION SPECIALE de L'UNIVERS en Trois differents Mondes, qui sont....
+
+> **LE MONDE**
+> - NATUREL Physique;
+> - MORAL, ou Chrestien;
+> - DIVIN, ou Theologiq.
+
+---
+
+| LA plus BASSE de ces Spheres, qui est Verte, contient, dans Trois OVALES **LES PRINCIPES** du MONDE NATUREL; ses FAMILLES dans des Triangles et leurs **DEFAUTS**, ou leurs **OPPOSES**, dans les Intervalles de ces Figures. Les Voicy dans cette TABLE. | **LES PRINCIPES**<br>A. LA MATIERE, ou la Nature Passive;<br>B. LA FORME, ou la Nature Active;<br>C. L'UNION, ou la Nature Moyen;<br><br>**LES FAMILLES**<br>D. L'Artifice;<br>E. le Ciel;<br>F. l'Element;<br>G. le Meteore;<br>H. le Mineral;<br>I. la Plante;<br>K. la Brute;<br>L. l'Homme;<br>M. l'Ange. | **LES OPPOSES**<br>N. le Vuide,<br>O. la Privation,<br>P. la Division.<br><br>Q. L'Empeschemēt;<br>R. L'Espace Imagī;<br>S. Le Corruptible;<br>T. Le Monstre;<br>U. Le Demi-mineral;<br>X. Le Champignon;<br>Y. Le Zoophyte;<br>Z. la Chimere,<br>& le DEMON. | Au dessous de Cette Sphere du Monde Naturel est un ALPHABET avec un CHAPELET Composé de Propositions Physiques sur **LA NATURE.**<br><br>A. LA NATURE fait l'Union des Choses. O. C'est une Mere equitable à Tous.<br>B. Elle ne donne point lieu au Vuide. P. Elle est par tout la Mesme.<br>C. Elle procure l'integrité des Choses. Q. Ses Commencemens sont fort petits.<br>D. Sa Force est Puissante. R. Elle prend les plus courts Chemins.<br>E. Elle est guidée d'un Sage Instinct. S. Elle tend a sa fin de toutes ses forces.<br>F. Elle fait tout mouvoir par Amour. T. Par un mouvemēt necessaire mais non pas force.<br>G. Elle est douée d'une Vertu Interieure. U. Elle ne fait Jamais rien contre l'ordre.<br>H. Elle n'est Jamais oisive. X. Elle fait toute l'harmonie<br>I. Elle Couronne la fin de delices. Inferieure.<br>K. Elle Environne toutes les Creatures. Y. Elle abhorre les Excez Vicieux.<br>L. Elle tend tousjours à se perpetuer. Z. Elle ne souffre les<br>M. Elle s'estudie a perfectionner ses Ouvrages. Defauts qu'avec Peine.<br>N. Elle agit differemment sur des Sujets differens. & lors qu'on l'empesche, elle ne produit que des Monstres. |
+| :--- | :--- | :--- | :--- |
+
+---
+
+| **LA SPHERE** du milieu, qui est Rouge, renferme dans trois Losanges LES 3 FONDEMENS. | **LES FONDEMĒS.**<br>A. LA LOY.<br>B. L'EGLISE.<br>C. L'EVANGILE. | **LES DEFAUTS.**<br>N. le Libertinage<br>O. L'Heresie.<br>P. L'Antichristianisme. | Au bas de cette Sphere du Monde Moral est aussy un ALPHABET, et un CHAPELET Composé de Sentences Morales sur **LA GRACE.**<br><br>A. B. LA GRACE unit Sincerement les Coeurs. EF. C'est le flambeau d'une Sainte Liberté.<br>BC. la Nature sans la Grace est Vaine. FG. Elle touche tous les Coeurs, et n'attire que ceux qui le Veulent. |
+| :--- | :--- | :--- | :--- |
+
+<vocab>Estre, Jesus-Christ, Estant, Monde Naturel, Monde Moral, Monde Divin, La Grace, La Nature, Principes, Familles, Opposes, Defauts, Alphabet, Chapelet</vocab>
+
+--- Page 31 ---
+<lang>N/A</lang>
+<meta>Blank page; marbled paper edge visible on the left.</meta>
+<warning>This page contains no text or illustrations.</warning>
+
+[This page is blank]
+
+<vocab>blank page, endpaper, marbled paper</vocab>
+
+--- Page 32 ---
+<lang>Unknown</lang>
+<page-num>6</page-num>
+<meta>This page is blank except for the handwritten page number "6" at the top center and a small, cursive-like character at the top right. There is significant foxing and some bleed-through from the verso.</meta>
+
+<vocab>blank page, manuscript, folio number</vocab>
+
+--- Page 33 ---
+<lang>fr</lang>
+<warning>The manuscript contains complex tabular data and stylistic Hebrew script. Some text near the bottom edge is slightly cramped.</warning>
+
+<margin>
+Ides de nostre
+Monde Chres-
+tien ou Mo-
+ral; ses ESTATS
+dans des Quar-
+rés, et tous ses
+DEFAUTS dans
+les Espaces Me-
+toyens. Voyez les
+en Cette TABLE.
+</margin>
+
+| LES ESTATS. | LES DEFAUTS. |
+| :--- | :--- |
+| **D. l'Innocence.** | **Q. le Peché.** |
+| **E. la Liberté.** | **R. l'Esclavage.** |
+| **F. la Vertu.** | **S. le Vice.** |
+| **G. la Grace.** | **T. la Concupis.** |
+| **H. le Conseil.** | **U. la Tentation.** |
+| **I. la Beatitude.** | **X. la Maledictio.** |
+| **K. le Sacrament.** | **Y. la censure.** |
+| **L. le Don.** | **Z. l'Endurcissemet.** |
+| **M. le Fruit.** | **& les Pleurs.** |
+
+---
+
+**C. D.** le pouvoir de la Grace n'est que pour le bien.
+**D. E.** Elle seule peut éclairer l'esprit.
+**I. K.** Elle n'est due à pas un ny refusée à personné.
+**K. L.** Elle glorifie à jamais ceux qui luy fōt accueil.
+**L. M.** Elle passe quand elle ne peut avoir sō effet.
+**M. N.** Sa perfection est de distinguer les elus dans les effets.
+**N. O.** La difference de la Grace est sans Injustice.
+**O. P.** des Graces egales n'ont pas tous-jours des effets semblables.
+**P. Q.** toutes les Graces ont un mesme Principe.
+**Q. R.** le Ministere de la Grace est un Mystere Impenetrable.
+
+**G. H.** Elle est de soy efficace, et par accident sans effet.
+**H. I.** Heureux qui luy obeit: malheureux qui luy resiste.
+**R. S.** C'est l'instrument de Dieu pour le Salut des Ames.
+**S. T.** La fin de la Grace est l'unique necessaire.
+**T. U.** Elle est necssaire dans l'ordre de sa conduite.
+**U. X.** Sa conduite est toute Harmonieuse.
+**X. Y.** L'Harmonie de la Grace surpasse celle de la Nature.
+**Y. Z.** L'excez et le defaut font perdre la Grace.
+**Z. &** La moindre Infidelité est opposée à la Grace.
+**& A.** La Grace opere sur la Nature, sur le Cahos & la Liberté, cō.
+
+---
+
+# LA plus HAUTE de Ces SPHERES, qui est JAUNE, represente tous LES MYSTERES du MONDE Divin, ou de la Sacrée THÉOLOGIE, tant CHRESTIENNE, que MOSAÏQUE, dans tout le nombre, et avec le meilleur ordre, quil est possible: LES PREMIERS, dans des Cercles d'Azur, LES SECONDS, dans des Bandes, ou Rouleaux de Pourpre.
+
+---
+
+### Entre LES MYSTERES du Christianisme on Voit Briller dabord sous un TRIPLE SOLEIL ARDENT
+
+-> LA DIVINITÉ dans ses trois SUPPOSTS, qui sōt <-
+
+> **A. L'UNITÉ ACTIVE** — DIEU LE PERE
+> **B. L'UNITÉ PASSIVE ACTIVE** — DIEU LE FILS
+> **C. L'UNITÉ PASSIVE** — DIEU LE SAINT ESPRIT
+
+Apres sont, les Notions, les Personnalités, Et les Relations.
+
+| | |
+| :--- | :--- |
+| **G.** les Notions. | **K.** la Providence. |
+| **H.** la Circum-Incession. | **L.** le Jugement. |
+| **E.** les Relations. | **M.** la Consommation. |
+| | **F.** la creation. |
+
+---
+
+| les Intelligences des Spheres. | les Ordres des Bien-Heureux. | les Sephiroths. | les Noms de DIEU selon le nombre de Lettres. | les noms de DIEU Kabbalistiques. |
+| :--- | :--- | :--- | :--- | :--- |
+| **♄ Prince du Monde** - Mittatron <gloss>מטטרון</gloss> | **Seraphins Saints Animaux** Hakkôdesh hayoth <gloss>חיות הקודש</gloss> | **Couronne** Kether <gloss>כתר</gloss> | Moy **I** | **Je Seray** Ehje <gloss>אהיה</gloss> |
+| **♃ Courrier de Dieu** - Ratsiel <gloss>רציאל</gloss> | **Cherubins Roues** Ophannim <gloss>אופנים</gloss> | **Sagesse** hochma <gloss>חכמה</gloss> | **Dieu** El <gloss>אל</gloss> / **Estre de Soy** Jah <gloss>יה</gloss> **II** | **l'Estre des Estres Moy** Jehova <gloss>יהוה</gloss> |
+| **♂ Contemplation de Dieu** - Tsaphkiel <gloss>צפקיאל</gloss> | **Thrônes Puissans** Erelim <gloss>אראלים</gloss> | **Intelligence** Bina <gloss>בינה</gloss> | **Jesus** Jeschou <gloss>ישו</gloss> / **Toutpuissant** Schaddai <gloss>שדי</gloss> **III** | **Dieu Estre des Estres** Elohim Jehova <gloss>יהוה אלהים</gloss> |
+| **☉ Justice de Dieu** - Tsadkiel <gloss>צדקיאל</gloss> | **Dominations Etincellans** haschmalim <gloss>חשמלים</gloss> | **Liberalité** hesèd <gloss>חסד</gloss> | Jehova <gloss>יהוה</gloss> **IV** | **Dieu Fort** El <gloss>אל</gloss> |
+| **♀ Punition de Dieu** - Sammael <gloss>סמאל</gloss> | **Puissances Enflammées** Seraphim <gloss>שרפים</gloss> | **Force** Gevoura <gloss>גבורה</gloss> | **Sauveur** Jehoschouh <gloss>יהושוח</gloss> / **Dieu** Elohim <gloss>אלהים</gloss> / **Tres-Haut** helion <gloss>עליון</gloss> **V** | **Dieu Fort** Elohim Gibbor <gloss>אלהי גבור</gloss> |
+| **☿ Qui est semblable a Dieu** - Michael <gloss>מיכאל</gloss> | **Vertus Roys** Melachim <gloss>מלכים</gloss> | **Beauté** Tiphèreth <gloss>תפארת</gloss> | **VI** | **Dieu** Eloah <gloss>אלוה</gloss> |
+| **☽ Grace de Dieu** | **Principautés, Dieux** | **Victoire** | Immuabl | **Des Armees Seigneur** |
+
+<insert>
+**LES MYSTERES De la THEOLOGIE MOSAI-**
+que font exprimes Icy SOUS LES NOMS DE DIEU KABBALISTIQUES; ayant Onze Autres NOMS DE DIEU à leur coste, diffe- rens par le nombre des Lettres, qui les composet Vous avez en suite leurs Titres, Attributs, ou Sephiroths; les or- dres des Esprits Bien-Heureux; et Les Intelligences, qui president Aux spheres du Monde Sensible; et le tout dans l'ordre, qui fuit.
+</insert>
+
+<vocab>Theologie Mosaique, Kabbalah, Sephiroths, Mittatron, Seraphim, Cherubim, Kether, Elohim, Jehova, Jeschou, Schaddai, Spheres du Monde</vocab>
+
+<detected-images>
+[{"description": "A complex kabbalistic and theological table mapping planetary spheres, angelic orders, sephiroth, and divine names in Hebrew and French.", "type": "diagram", "bbox": {"x": 140, "y": 470, "width": 710, "height": 385}, "gallery_quality": 0.85, "museum_rationale": "Significant esoteric diagram from the 17th or 18th century, illustrating the synthesis of Christian theology and Jewish Kabbalah through planetary and angelic correspondences."}]
+</detected-images>
+
+--- Page 34 ---
+<lang>None</lang>
+<warning>The page appears to be a blank flyleaf or endpaper with no legible text or manuscript content.</warning>
+<meta>faint bleed-through of a rectangular border and lines of text from the verso; marbled paper visible on the left binding edge; light foxing present</meta>
+<vocab>flyleaf, endpaper, foxing, marbled paper</vocab>
+
+--- Page 35 ---
+<lang>Undetermined</lang>
+<page-num>7</page-num>
+<meta>This page is largely blank, containing only a handwritten numeral at the top. Faint impressions of a rectangular border from a preceding or following page are visible on the paper surface.</meta>
+
+***
+
+*(Page is blank)*
+
+--- Page 36 ---
+<lang>fr</lang>
+
+| | | | | | |
+|---|---|---|---|---|---|
+| <margin>א</margin> | **חניאל** | **אלהים** | **נצח** | **אראריתא** | **יהוה צבאות** |
+| | Hanniel | Elohim | Netsah | Ararit'ha | Tsevaoth Jehova |
+| | Medecine de Dieu | Arcanges Enfans de Dieu | Louange | La Science De Dieu | Des Armees Dieu |
+| <margin>ב</margin> | **רפאל** | **בני אלהים** | **הוד** | **ודעת** | **אלהי צבאות** |
+| | Raphael | Elohim Bene | Hod | Vedahath | Tsevaoth Elohim |
+| | Homme Dieu | Anges Come des Enfans | Establissement | Des Armees Seigneur | Toutpuissant |
+| <margin>ג</margin> | **גבריאל** | **כרובים** | **יסוד** | **צבאות** | **שדי** |
+| | Gavriel | Kerouvim | Jesod | tzevaoth | Schaddaï |
+| | Messie | Ames Bienheu reuses | | Des Armees | Seigneur |
+| <margin>ד</margin> | **מטטרון** | **אשים** | **מלכות** | **אלהים** | **אדני** |
+| | Mittatron | Ischim | Malchouth | Elohim. | Adonaï |
+
+<margin>
+ה
+ו
+ז
+ח
+ט
+</margin>
+
+<note>Notes placed to the right of the table:</note>
+->T.<-
+->U.<-
+->X.<-
+->S.<-
+->Y.<-
+->Z.<-
+->&<-
+
+> Pour achever le nombre de Douze, nous avons ajouté aux autres, ces deux NOMS DE DIEU, qui font en effet des Noms Kabbalistiques; mais qui n'ont aucune correspondance avec Les Sephiroths.
+
+---
+
+| | | |
+|---|---|---|
+| Les Hebreux n'ont point de NOM de DIEU compose de douze Lettres; parceque ce nombre passe chez Eux pour Imparfait, propre aux Pecheurs, et Penitens. | | Lieu <br> **מקום** <br> Makom |
+| On fait encore mention dans La Kabbale des NOMS DE DIEU de 42 et de 72 Lettres. il faut Voir là dessus les Kabbalistes. | Saint Esprit et Fils Pere <br> **אב בן ורוח הקדש** <br> Hakkodesch Verouah Ben Ab | Dieu Uni-trin <br> **אגלא** <br> Agla |
+
+---
+
+Dans les deux dernieres Bandes, ou Rouleaux, les plus profonds MYSTERES DE LA NATURE DIVINE et de la Creation sont representez Kabbalistiquement sous Certaines FIGURES JEROGLYPHIQUES, dont Voicy le secret expliqué.
+
+<margin>☉</margin> C'EST L'ESPRIT saint et Sacré de DIEU, qui represente l'Unité adorable de la DIVINITÉ dans la Majesté ineffable de son eternité, comme un Centre dans son Cercle De Qui procedent, Par Qui subsistent, En Qui resident, et A Qui aboutissent toutes Choses, comme au PRINCIPE eternel et mysterieux de toutes choses.
+
+<margin>⦶</margin> C'EST le premier Rayon de LA TRI+UNITÉ DIVINE, qui sortant du fond de l'Eternité represente LE PERE ETERNEL C'EST LA SOURCE DE LA SAGESSE.
+
+<margin>𐤄</margin> C'EST L'ESPRIT PREMIER CREÉ de l'Univers, issu du Centre du Ternaire Incréé comme un Rayon de son soleil lequel comme un Esprit né d'un autre Esprit fait comprendre et penetrer les Mysteres de Cette Parole <insert>FIAT Soit Fait</insert> en mettant le gage de l'Alliance de DIEU avec les Anges et les Hommes au pouvoir de la Langue et dans la Science de la Voix pour publier les Merveilles de la sagesse Divine : afin que nous soyons tous Veritablement des Dieux, et les Enfans du TRES-HAUT, Engendrés de la Parolle de DIEU par l'Intelligence de son VERBE. C'est le premier CHAR de cette LUMIERE Inaccessible.
+
+<margin>△</margin> C'est le Nom Ineffable de LA TRI-UNITÉ DIVINE, symbole Jeroglyphique de la Creation Gravé par le doit de DIEU dans tous les Estres. Qui fait Voir l'Union mysterieuse du CREATEUR avec les Creatures par <insert>ת</insert> la derniere Lettre de ce Nom Saint et terrible; et nous decouvre les 72 EXCELLENCES de L'EXISTENCE DIVINE, et le FILS de son ENTENDEMENT, OU LE VERBE DE DIEU. C'EST LE RUISSEAU DE L'INTELLIGENCE.
+
+<margin>Pyramid of the Tetragrammaton</margin> C'est le Nom sacro-saint mystique et adorable de la Majesté du VERBE ETERNEL qui manifeste la gloire de sa DIVINITÉ, de son Incarnation, Passion, et Resurrection. NOM au dessus de tous les Noms, donne aux Hommes pour leur salut par l'Ange du grand Conseil. C'EST LE SANCTUAIRE DE LA VERITÉ KABBALISTIQUE.
+
+<margin>♁</margin> C'EST LEAU SURCELESTÉ OU LA MATIERE Metaphysique du MONDE, sortie de l'Esprit Prototype la Mere de toutes choses qui du Binaire produit le Quaternaire. C'est le premier ORGANĘ de la Division, Multitude, disparité, Opposition, discorde, et Contrariete qui se rencontre dans les Estres: tous ses mouvemens tendent en bas: et de la Vient quelle Individuë les Matieres particulieres, et les Corps de toutes choses, en leur donnant l'Existence.
+
+<margin>Ten dot Sephirotic arrangement</margin> C'EST l'Evolution Circulaire des Emanations de LA TRI-UNITÉ ETERNELLE sur le Centre de L'UNITÉ INCRÉÉE qui fait admirablement paroistre la Mysterieuse Harmonie du Monde dans Le Poids, le Nombre, et la Mesure, avec lesquels DIEU par sa Sagesse a Veu, Créé, Conté, et Mesuré toutes choses: car le Nombre consiste dans l'Ordre et dans la Mesure; la Mesure, dans
+
+<vocab>Kabbala, Sephiroths, Hanniel, Elohim, Netsah, Ararit'ha, Tsevaoth, Raphael, Hod, Vedahath, Gavriel, Kerouvim, Jesod, Schaddaï, Mittatron, Ischim, Malchouth, Adonaï, Makom, Agla, Ternaire, Fiat, Verbe, Incréé, Estres, Jeroglyphiques</vocab>
+
+<detected-images>
+[{"description": "Monad symbol: a circle with a center point representing the Divine Spirit.", "type": "diagram", "bbox": {"x": 0.156, "y": 0.490, "width": 0.052, "height": 0.043}, "gallery_quality": 0.7, "museum_rationale": "Simple but foundational esoteric symbol of the Monad/Unity."},
+{"description": "Circle divided by a vertical line, representing the first ray of the Trinity.", "type": "diagram", "bbox": {"x": 0.158, "y": 0.537, "width": 0.050, "height": 0.030}, "gallery_quality": 0.65, "museum_rationale": "Occult diagram representing divine emanation."},
+{"description": "A triangular arrangement of letters (Tetragrammaton pyramid), a common Kabbalistic visual representation of the name of God.", "type": "diagram", "bbox": {"x": 0.158, "y": 0.654, "width": 0.048, "height": 0.044}, "gallery_quality": 0.85, "museum_rationale": "Iconic Kabbalistic diagram of the Tetragrammaton used for mystical meditation."},
+{"description": "Symbol of the Materia Prima or Earth: a cross atop a circle.", "type": "diagram", "bbox": {"x": 0.160, "y": 0.743, "width": 0.052, "height": 0.051}, "gallery_quality": 0.75, "museum_rationale": "Standard alchemical/esoteric symbol for material existence."},
+{"description": "A ten-dot arrangement representing the ten Sephiroth of the Kabbalistic Tree of Life.", "type": "diagram", "bbox": {"x": 0.164, "y": 0.835, "width": 0.038, "height": 0.031}, "gallery_quality": 0.8, "museum_rationale": "Simplified Sephirotic diagram illustrating divine emanations."}]
+</detected-images>
+
+--- Page 37 ---
+<lang>None</lang>
+<page-num>22</page-num>
+<warning>This page is blank. There is significant ghosting of text from the underlying pages and some light staining/foxing. A decorative marbled paper edge is visible on the left side of the frame.</warning>
+<meta>blank page</meta>
+
+[This page contains no legible text.]
+
+<vocab>blank page, folio number</vocab>
+
+<detected-images>
+[{"description": "Marbled paper decorative pattern along the edge of the book block", "type": "decorative", "bbox": {"x": 0.0, "y": 0.0, "width": 0.078, "height": 1.0}, "gallery_quality": 0.3, "museum_rationale": "Shows a typical example of historical bookbinding decoration (marbling) on the edge of the pages."}]
+</detected-images>
+
+--- Page 38 ---
+<lang>Unknown</lang>
+<page-num>8</page-num>
+<meta>This page appears to be blank except for a handwritten page number at the top center.</meta>
+
+<vocab></vocab>
+
+--- Page 39 ---
+<lang>fr</lang>
+<page-num>81</page-num>
+<meta>Manuscript in early modern French script with alchemical and kabbalistic themes. Dense block of text with marginal symbols. Note the use of "81" at the start of the first line as a page or entry number.</meta>
+
+81 l'Ordre et le Nombre; et l'Ordre enfin dans le Nombre et la Mesure. C'est pourquoy la Loy de l'Ordre, et l'Ordre de la Loy de <term>DIEU</term>, et de la <term>NATURE</term> sont un Sacrement à l'Ame Immortelle pour faire au Ciel et en la Terre la Volonté de <term>DIEU</term>, qui est Celle de C'est la Cet <term>ESPRIT SAINT</term>, qui remplissant toute la Terre, communique à tout <term>L'UNIVERS</term> le don de la parole pour faire an= <insert>la Loy</insert> noncer par les Cieux la Gloire de <term>DIEU</term> à toutes les Nations, et manifester sa presence avec Louange par toutes les Creatures. Là est aussy <term>LE FLEUVE de la SCIENCE</term>.
+
+<margin>Radiate sun icon</margin>
+C'EST LE MYSTERE Jerarchique de la Lumiere, et LA MATIERE RADICALE du Feu Elementaire, c'est <term>LE PRINCIPE</term> formel du <term>SOLEIL</term>, de la <term>LUNE</term>, des <term>ESTOILES</term>, et de toute la Vie naturelle. Cette Lumiere Primitive porte en haut tous les phenomenes de sa Vertu; parce que, étant purifiée par l'unité de la Lumiere Incréée, elle s'élance toujours vers <term>L'UNITE</term>, d'où elle emprunte son ardeur.
+
+<margin>Cluster of seven stars/points</margin>
+C'EST la Constitution Interieure du <term>CIEL</term>, et de <term>LA TERRE</term>, ou la Tri-Une Substance, la Base et le Centre du Quaternaire formel des <term>ELEMENS</term> concrets, ou corporels, d'ou Proviennent, Par Qui se meuvent, et où Retournent tous les <term>Mixtes</term>. Enfin c'est <term>LA MATIERE PREMIERE</term> des derniers Corps, ou de la Matiere Seconde, et dont la Triple Vertu est cette Chaine Celeste qui attire comme l'aimant, et marie les Vertus des Cieux avec celles de la Terre, afin de reduire le Ternaire par le moyen du Quaternaire à la simplicité de l'Unité.
+
+<margin>Schematic diagram of the Kabbalistic Tree of Life</margin>
+C'EST LARBRE KABBALISTIQUE de LA NATURE, dont la Racine, qui est le Centre de la Vie, sortant du <term>TRIANGLE de la Lumiere</term> de l'Unité-Incréée, pousse Trois Rayons de Vie: dont l'Un porte à droite, et l'autre à gauche representent la <term>VERTU VIVIFIQUE</term> du Zodiaque Celeste à l'imitation du <term>SOLEIL</term>, et le Troisième, qui est droit au milieu, reuniissant la Vertu des deux autres, qui sont à ses costez, forme <term>LE FIAT</term>, "Soit Fait"; et de ce Commandement <term>CROISSEZ, et MULTIPLIEZ</term>. Enfin c'est ce <term>LIMON Mystique</term> dont <term>L'HOMME Animal</term> fut formé par la Main de <term>DIEU</term>, comme en fait foy ce Signe <term>TAV</term> ou ∆ Aleph Kabbalistique, autrement <term>LE TERNAIRE SACRE</term>, <term>L'ARCHETYPE de l'Ame Immortelle</term> que l'HOMME portoit caché sur son front devant sa chute tout entier et sans division, et uni dans le Mysterieux <term>Trian- gion</term> de l'<term>UNITE DIVINE</term>, ce qui le rendoit Immortel: mais qui s'est rompu par sa chute, et en suite est demeuré ouvert, d'où vient que flottant du depuis dans l'Instabilité du Binaire de la Matiere, il experimente tous les Jours la discorde et les Contrarietez du Quaternaire, dans lequel il est tombé: d'où Viennent les Maladies, la Corruption, et la Mort. mais <term>l'Incarnation de JESUS-CHRIST</term> a repare cette perte par le Sacrement de la Regeneration; de même que sa Passion par la Gloire de sa Resurrection.
+
+<margin>Pointed star or cross symbol</margin>
+C'EST la Perfection de <term>L'UNIVERS</term> dans <term>l'Ouvrage Mystique des six Jours</term>, où l'on assigne au Monde le Haut, et le Bas; l'Orient, et l'Occident; le Midy, et le Septentrion. Ainsy ce <term>Hieroglyphe du Monde</term> en decouvre les Sept Lumieres dans le Mystere des sept Jours de la Creation: car le Centre du Senaire fait le <term>Septenaire</term>, sur lequel roule et se repose <term>la Nature</term>; et que <term>DIEU</term> a choisi pour Sanctifier son <term>NOM Adorable</term>. je dis donc que <term>LA LUMIERE du Monde</term> sort du Septenaire, parce que l'on monte de Luy au Denaire, qui est <term>L'Horizon de l'Eternité</term>, d'où part toute la puissance, et la Vertu des choses.
+
+<margin>Sun with central point</margin>
+C'EST LA VERTU du Premier Mobile du Monde, ou Le Mouvement Astral et continuel de <term>LA NATURE</term>, le quel Imite le cours et la perfection du Cercle dans l'Economie perpetuelle des generations. car ce sont les <term>Cieux</term>, qui des Thresor-fconds des <term>Raisons Seminales</term> tirent la Regeneration des Individus, afin qu'au moyen du grand Ascendant de la <term>MONARCHIE du MONDE</term> les choses puissent Imiter <term>l'Eternité</term>, d'où elles sont sorties, par le Firmament de leurs Semences.
+
+<margin>Radiate circle with dense rays</margin>
+C'EST L'ESPRIT UNIVERSEL du Monde, capable de produire toutes choses, qui par le moyen de <term>L'AZOT</term>, ou de <term>L'Ame du Monde</term> repand de tous costez la Vertu des semences, et Insinue la Vie à tout, pour entretenir <term>l'Harmonie de l'Economie du Monde</term>. C'est luy, qui renouvelle et regenere toutes choses; et qui poussant les Vertus Seminales de la Circonference au Centre du Monde, et les ramenant du Centre à la Circonference, et sur la face de la Matiere, Joint les choses Inferieures aux Superieures, et les Celestes aux Terrestres. Ainsy la Generation n'est autre chose que la descente de l'azot, ou le <term>Flux des Semences</term>.
+
+<margin>Small circle icon</margin>
+C'EST L'ESTAT Individuel, exterieur, et parfait de l'Existence de chaque Corps, demeurant fixe dans son <term>Esprit</term> sur le <term>Cube</term> de sa propre solidité, consistant dans le temperament des quatre qualitez Vitales des <term>ELEMENS</term>, qui le nourissent, l'accroissent, et le conservent dans son estre corporel. Ce sont, dis-je, les quatre Mères des choses Naturelles, c'est à dire <term>LES ELEMENS</term>, d'où sortent et ou retournent generalement tous les <term>Mixtes</term>. Ainsy la Mort et la Corruption des choses Naturelles n'est autre chose que le Retour de <term>L'AZOT</term>, ou le <term>Reflux des Semences</term>.
+
+---
+
+->Au deβous de toutes ces figures, cette <term>Sphere du Monde Divin</term> apareillement son <term>ALPHABET</term> son <term>CHAPELET THEOLOGIQUE</term>, applique singulierement ala <term>GLOIRE</term> en cette sorte :<-
+
+| | |
+|---|---|
+| **A** La Vraye BEATITUDE ne consiste pas | **I** O Combien grande est la douceur de la unité. |
+| **BC** dans la mutitude des biens créés. | **KL** Gloire, qui doit durer en suite autant que l'Eternité. |
+| | **R** Le Monde Moral fournit les Moyens necessaires pour une si noble fin. |
+
+<vocab>Ordre, Nombre, Mesure, Esprit Saint, Matiere Radicale, Ciel, Terre, Arbre Kabbalistique, Fiat, TAV, Septenaire, Azot, Semences, Beatitude, Ternaire, Quaternaire</vocab>
+
+<detected-images>
+[
+  {"description": "A series of seven small alchemical and kabbalistic marginal icons: a sun, a star cluster, a Tree of Life diagram, a seven-pointed star, a circle with a dot, a radiate sun, and a small circle.", "type": "diagram", "bbox": {"x": 0.165, "y": 0.174, "width": 0.05, "height": 0.638}, "gallery_quality": 0.8, "museum_rationale": "These icons are precise symbolic representations within a larger philosophical system, essential to the reading of the manuscript and characteristic of 17th-century Hermetic traditions."}
+]
+</detected-images>
+
+--- Page 40 ---
+<lang>None</lang>
+<warning>This page appears to be a blank flyleaf or endpaper with no visible text, handwriting, or printed content.</warning>
+<meta>blank page, marbled endpaper visible at left edge</meta>
+<vocab>blank page, endpaper, flyleaf</vocab>
+
+--- Page 41 ---
+<lang>Unknown</lang>
+<page-num>9</page-num>
+<warning>This page is essentially blank, containing only a handwritten page number. There is significant ink bleed-through from the reverse side (verso) which creates faint, illegible shadows of text.</warning>
+<meta>The page shows the inner marbled paper of the book's binding on the right edge.</meta>
+
+<vocab>blank page, pagination</vocab>
+
+--- Page 42 ---
+<lang>French</lang>
+
+| Column 1 | Column 2 |
+|----------|----------|
+| AB **La solide felicité** ne se peut rencontrer que | KA Chacun suffit |
+| CD dans le souverain bien, qui est **DIEU**. | LM. et l'Eternité d<unclear>e</unclear> |
+| C L'Essence de la Beatitude ne paroist pas | L L'Eternité de l<unclear>a</unclear> |
+| DE complete dans la seule vision de **DIEU**. | MN. en Chacun |
+| D L'Entendement et la Volonté sont capa- | M Une parfaite |
+| EF bles de la Beatitude essentielle. | NO. different de |
+| E La Charité de cette Vie est Recompensée | N La Justice et L<unclear>a</unclear> |
+| FG dans l'autre de la Vision de **DIEU**. | OP. dans cette |
+| F par le moyen d'une *Vertu Nouvelle* nos | O L'Admirable eq<unclear>ui</unclear> |
+| F: Cette aimable Vertu accorde toutes | PQ Bienheureux j<unclear>u</unclear> |
+| GH puissances par les actes de la Beatitude. | Inviol<unclear>able</unclear> |
+| G Cette Vertu requise pour une si noble ope | PT u auras dans |
+| HI ration, se nomme **la Lumiere de Gloire**. | QR Intarrißable |
+| H **La Lumiere de Gloire** se done pour cette | Q Le Principe de l<unclear>a</unclear> |
+| IK operation selon la mesure de la Grace. | RS Vitale, l'Objet est |
+
+**LA 4.e Figure de LA DISTRIBUTION** est un CERCLE DAZ<unclear>UR</unclear> (la derniere des Naturelles) de **L'UNIVERS DANS LES SING**<unclear>ULIERS</unclear> tre connoißance: mais les plus Signalés seulement, qui pour q<unclear>uoy</unclear> Voicy les Principaux Chefs, rapportés dans l'ordre d<unclear>e</unclear>
+
+| | | | |
+|---|---|---|---|
+| | A- DE LA DIVINITE, | E DES Elemens, | I- DES F<unclear>ormes</unclear> |
+| | B- De la Creation, | F DES Meteores, | K- DES H<unclear>ommes</unclear> |
+| **L'HISTOIRE** | C- DES Principes, | G- DES Mineraulx, | L- DES A<unclear>nimaulx</unclear> |
+| | D- DES Cieux, | H- DES Plantes, | M- DES O<unclear>uvrages</unclear> |
+
+**LA 5.e** est Cette **COURONNE D'ARCADES** ornée de diverse *Une DISTRIBUTION ARTIFICIELLE*, qui pour Imiter et renfer<unclear>mer</unclear> l'Esprit Humain que les Idées des Choses) representées par <unclear>c</unclear> tiennent plus distinctement.
+
+-> L'ASSEMBLAGE <-
+-> IV.O DE L'UNIVERS par <-
+-> Ces dix **LIGAMENS**, sçavoir <-
+
+| Item | Action |
+|------|--------|
+| **L'alliance**, | Concilie |
+| **La Proportion**, | Ajuste |
+| **La Sympathie**, | Tourne |
+| **Le Poids**, | Incline |
+| **Le Plaisir**, Qui | Attire |
+| **La Neceßité**, | Mene |
+| **L'Ordre**, | Dirige |
+| **Le Droit**, | Assure |
+| **La Loy**, | Arreste |
+| **L'Esprit Universel**, Qui Pe- | netre, Environe, et Assemble |
+
+-> TOUTE <-
+-> A L'UN <-
+
+Il nous reste à present de la Premiere Partie de **L'EXPLICATION**, qu<unclear>e</unclear> geße, qui sont Gravés dans ces Grands **RAYONS**, et qui semble<unclear>nt</unclear> les l'enrichißent de beaux Emblemes en cet ordre.
+**A-** L'ATTENTION à la fin; **G-** L'Observance du Degré **N-** La Scienc<unclear>e</unclear>
+**B-** Le Rebut du Binaire; **H-** la Fuite des Obstacles; **O-** L'Economie
+**C-** Le Culte du Ternaire; **I-** L'Idée de la Conduite; **P-** La Perspec<unclear>tive</unclear>
+**D-** Monter et Descendre **K-** L'Intelligence du ses Cache; **Q-** L'Adreße
+**E-** la Discretion du Choix; **L-** L'Exactitude aux Loix; **R-** L'examen
+**F-** le Respect des Alliances; **M-** L'Art du Moyen; **S-** le Secret d<unclear>e</unclear>
+
+<vocab>La solide felicité, souverain bien, Beatitude essentielle, Lumiere de Gloire, Cercle d'azur, Couronne d'arcades, Ligamens, Esprit Universel, L'alliance, La Proportion, La Sympathie, Le Poids, Le Plaisir, La Neceßité, L'Ordre, Le Droit, La Loy</vocab>
+
+<detected-images>
+[{"description": "A diagram entitled 'L'Assemblage de l'Univers' consisting of ten rows of terms within a decorative arched framework or 'Crown of Arches'.", "type": "diagram", "bbox": {"x": 0.435, "y": 0.525, "width": 0.528, "height": 0.176}, "gallery_quality": 0.7, "museum_rationale": "A characteristic 17th-century intellectual diagram using architectural metaphors (arcades) to organize metaphysical and physical concepts."}]
+</detected-images>
+
+--- Page 43 ---
+<lang>French</lang>
+<warning>The text on the left side of the page is cut off inside the border, likely due to tight binding or cropping during the digitization process, resulting in missing characters at the start of many lines.</warning>
+
+<meta>image quality: high; catchwords: none; marbled border on right and top edges; tight binding on left</meta>
+
+...a pleinẽment l'Excellence <margin>S Les Bienheureux sont Inseparabl.emẽt atta-</margin>
+...e sa Gloire. <margin>T U.chés à leur derniere fin par une agreable nece<gloss>ssi</gloss>té.</margin>
+...a Gloire est sagemẽt distinguée <margin>I L’Ordre Inviolable de la Beatitude <gloss>Bité</gloss></margin>
+...par la difference du degré. <margin>UI. fait une Eternelle Melodie.</margin>
+...egalité de Justice regle le <margin>U C’est l’excelle.ce de L'Objet, qui maintient</margin>
+...dre de la Gloire. <margin>XV. cet Ordre Harmonieux de la Beatitude.</margin>
+...a Paix s’acorderont fort bien <margin>X Il y a dans la terre des Vivans une parfai-</margin>
+...Inegalité. <margin>Y Z. te Union d’Esprit et de Coeur depuis le</margin>
+...uité, qui regnera dans les <margin>plus petit Jusqu’au plus grand.</margin>
+...era la Source de cette Paix <margin>Y Dans cet Estat de consomation on n’y apperçoit</margin>
+...able. <margin>Z &c. ny Excez, ny Defaut aucun.</margin>
+
+...ton San Jerusalẽm, la Source <margin>Z L’Unité, la Reğne de la Beatitude, bannit de</margin>
+...d’vne très delicieuse Paix. <margin>&A. là les moindres Ombres de differend.</margin>
+...a Beatitude est la Faculté <margin>&B. C'est ainsy que dans les Cieux on Vit dans</margin>
+...DIEU; et le moyen est l’Acte <margin>A. B. Une très-folide Unité, à l’abry de tous les Maux.</margin>
+...VR. plein de VOLUMES, qui contient. <margin>une DISTRIBUTION PARTICULIERE</margin>
+...ULIERS, non pas Tous, neahtmoins, leur nombre excessif estant au dela de nos
+quelque particularité remarquable ont esté couchés dans L'Histoire, dont
+peu prez de cet UNIVERS.
+
+| | | |
+| :--- | :--- | :--- |
+| **N. Des Empeschemens.** | **R. De l'Innocence.** | **X. Des Religions.** |
+| **O. Des Prodiges.** | **S. De la Liberté.** | **V. Des Fables.** |
+| **P. De la Providence.** | **T. Des Vertus.** | **Z. Des Sciences.** |
+| **Q. Des LOIX.** | **U. De la Grace.** | **&C. Meslée.** |
+
+...s Couleurs, et ou l’Or sefait remarquer davantage: dans laquelle on voit
+...mer les autres partage l’UNIVERS entre LES SCIENCES, qui ne font dans
+ordre avec toutes leurs suites sous ces Voûtes dorées. nous en traiterons Inco-
+
+> N’est pas representé par aucunes Figures, qui soient Icy depein-
+> tes exprez et à ce dessein, mais par LA LIAISON CONTINUE
+> de toutes Les Parties de CE SYSTEME, et par L’EFFORT
+> puissant et sans relasche que font Unaniment toutes cho-
+> ses pour arriver, ou se maintenir dans L’UNITE, et qui est
+> si bien secon-dé et fortifié par ces Dix FONDEMENS, et Ces Dix
+> LIENS.
+
+---
+
+...u est LA DIRECTION, à examiner en détail LES LOIX, ou les Maximes, de la Sa-
+...nt composer à cette FIGURE une Couronne d’autant de pierres precieuses, qu’el
+
+| | | |
+| :--- | :--- | :--- |
+| ...e du Neud: | **T La Teinture de Specification;** | la Foy, |
+| ...de la Conoissañce: | **V. l'usage de l'application;** | la Meditation, |
+| ...tuye du trañfendat; | **X. la Sale de l'Acquisition;** | <insert>Où on arrive par ces dix Degrés, qui sont</insert> | la Connoissance, |
+| ...de Chercher; | **Y. la Santé de l'Esprit;** | L’Amour, |
+| ...des Raisons; | **Z. le Zele de la Sincerité;** | L’Esperance, |
+| ...u Meslange; | **&. & la Seureté de l’Humilité.** | L’Oraison, |
+| | | La Conjonction, |
+
+<vocab>Beatitude, L’Unité, Système, Loix, Sciences, Degrés, Connoissance, Humilité, Sincerité, Méditation, Providence</vocab>
+
+--- Page 44 ---
+<lang>None</lang>
+<warning>This page appears to be a blank flyleaf or endpaper. Faint, ghostly impressions of text are visible due to "show-through" from the reverse side (recto), but there is no original ink or legible text on this surface.</warning>
+
+[This page is blank and contains no transcribable text.]
+
+<vocab>blank page, endpaper, flyleaf, show-through, foxing</vocab>
+
+--- Page 45 ---
+<lang>Unknown</lang>
+<page-num>10</page-num>
+<warning>The page is blank with some foxing and a faint rectangular indentation visible in the center-bottom area.</warning>
+<meta>This page appears to be a blank leaf or flyleaf. The right edge shows the marbled endpaper and the fore-edge of the text block.</meta>
+
+[This page is blank except for the page number recorded in the metadata.]
+
+<vocab>blank page, folio number</vocab>
+
+--- Page 46 ---
+<lang>fr</lang>
+
+<warning>The manuscript contains numerous astrological and planetary symbols. The text features dense tabular layouts and specific typographic choices, including boxed text and vertical grouping.</warning>
+
+CEST a ces MAXIMES, ou a ces loix de la Sagesse qu'il faut rapporter
+10. I. LES SIGNES DU ZODIAQUE: parce que toutes LES QUESTIONS, qui leur sont attribuées regardent L'Adresse de CIEL, et roulent toutes autour de deux POLES (qui sont aupres du Triangle de la Terre) dans le mesme ordre, que LES RAISONS INSTRUCTIVES.
+
+1. Mais afin d'avoir mieux en main la Correspondance des QUESTIONS et des REPONSES, nous avons Jugé à propos de repeter Icy LES RAISONS INSTRUCTIVES, ou objets des Questions.
+
+| LES SIGNES DU ZODIAQUE | | LES QUESTIONS | LES OBJETS . |
+|:---|:---:|:---|:---|
+| LE PREMIER POLE * | | SCAVOIR SI ! | LA POSSIBILITE . |
+| 1. le Bélier, | ♈ | A Quoy ! | la Quiddité, |
+| 2. le Taureau, | ♉ | B De Qui ! | l'Origine, |
+| 3. les Gemeaux, | ♊ | C A Qui ! | le Rapport, |
+| 4. L'Ecrevisse, | ♋ | D De Quoy ? | la Materialité, |
+| 5. le Lion, | ♌ | E Par Quoy ? | la Formalité, |
+| 6. la Vierge, | ♍ | F A Quoy ? | la Finalité, |
+| 7. la Balance, | ♎ | G Combien | la Quantité |
+| 8. le Scorpion, | ♏ | H Quel | la Qualité |
+| 9. le Sagittaire, | ♐ | I Quand | le Temps |
+| 10. le Capricorne, | ♑ | K Ou | le Lieu, |
+| 11. le Verseau, | ♒ | L Coment ? | la Maniere, |
+| 12. les Poissons. | ♓ | M Avec Quoy | L'ACCOMPAGNEMENT. |
+| LE SECOND POLE * | | POUR QUOY | LA RAISON . |
+
+---
+
+2. Le Chœur DES PLANETES; parce qu'elles portent LES FLAMBEAUX de L'INTERPRETATION, qui dependent de l'inteligence du SENS Caché, et decouvrent les SECRETS Du Discours par le different SENS des Paroles: et comme il y en a de Sept sortes, Ils sont marqués par autant de PLANETES; sçavoir
+
+| | | | | | |
+|:---|:---|:---|:---:|:---|:---|
+| 1. | N. Naturel, | la Nature, | ☾ | la Lune; | la Repetition, |
+| 2. | O. Litteral, | La Lettre, | ☿ | Mercure; | la Familiarité, |
+| 3. | P. Allegorique | Allegorie, | ♀ | Venus; | la Ressemblance |
+| 4. LES SENS | ADAPTE, | OU L'APPLICATION PAR | ☉ | LE SOLEIL; | |
+| 5. | O. Moral, | la Moralité, | ♂ | Mars; | |
+| 6. | R. Anagogique, | l'Anagogie, | ♃ | Jupiter; | |
+| 7. | S. Figure, | la Figure. | ♄ | Saturne, | |
+
+---
+
+3. Les Marques DES ASPECTS, et DES NEUDS ECLIPTIQUES, placées entre LES PLANETES, SÇAVOIR
+
+| | | | | | |
+|:---:|:---|:---|:---|:---:|:---|
+| ☌ | la Conjonction, | <note>Par Ceux cy on Admet</note> | L'UNITE | | La 1.e |
+| ⚹ | le Sextil, | | LA DUALITE | | La 2.e Operation |
+| △ | le Trigone, | | LE TERNAIRE | DES RAI- | La 3.e |
+| □ | le Quadrat, | <note>Par Ceux la On Rejette</note> | L'EXCEZ | SONS DANS | le Quaternaire, |
+| ☍ | l'Opposition, | | la Fausseté | | la Contradiction |
+| ☊ ☋ | la Teste du Dragon la Queüe | | le Defaut | | L'Obscurité |
+
+---
+
+4. L'HORIZON CELESTE, qui contient Ce grand Mystere de la Reduction Kabbalistique:
+<insert>REJETTEZ LE BINAIRE, ET VOUS REDUIREZ LE TERNAIRE PAR LE MOYEN DU QUATERNAIRE A LA SIMPLICITE DE L'UNITE</insert> tude.
+Ce qui concerne le Rebut du Binaire, aussy bien que LA MARGE DE LA FIGURE, où l'on Voit L'UNITE triompher de la Multi tude.
+
+5. Enfin les Caracteres des NOMBRES, et DES LETTRES, qui regardent le Secret DU MESLANGE, de mesme que ces CHAPELETS, qui sont au dessous de chaque Monde, et renferment plusieurs beaux Axiomes sur LA NATURE, sur LA GRACE, et sur LA GLOIRE.
+Toutes lesquelles Choses decouvrent tout L'Artifice de la FIGURE, et le Different Tour DU JEU SYNTHETIQUE, ou de LA COMPOSITION. Qui est, Une METHODE facile pour composer et estendre un Discours sur un SUJET proposé par le different meslage de toutes les choses que fournit <insert>CETTE FIGURE .</insert>
+
+CEST donc en examinant soigneusement Ces Quatre Points Cardinaux de l'univers, sçavoir
+
+->LA DIRECTION, LA CONSTITUTION, LA DISTRIBUTION, L'ASSEMBLAGE,<-
+->OBJECTIVEMENT ET SUBJECTIVEMENT .<-
+->GENERALEMENT, SPECIALEMENT, ET PARTICULIEREMENT,<-
+
+que j'ay tasché de developper le mieux qu'il m'a esté possible Tout Ce Vaste UNIVERS, et cette Evolution semble former UN SYSTEME assez Raisonnable de LA SCIENCE UNIVERSELLE.
+MAIS parce que la pluspart de ceux, qu'un long Usage a rendu esclaves de la Multitude, ne gouteront peut-estre pas UNE SCIENCE de si vaste Estendüe: ou que mesme la Condition bornée de quelques
+
+<vocab>Zodiaque, Chœur des Planetes, Aspects, Reduction Kabbalistique, Science Universelle, Jeu Synthetique, Naturel, Litteral, Allegorique, Moral, Anagogique</vocab>
+
+<detected-images>
+[{"description": "Decorative border frame surrounding the entire text page with floral and geometric patterns in blue, red, and yellow.", "type": "decorative", "bbox": {"x": 0.0, "y": 0.0, "width": 1.0, "height": 1.0}, "gallery_quality": 0.6, "museum_rationale": "A standard but well-preserved decorative border typical of 17th-18th century specialized prints or manuscripts."}]
+</detected-images>
+
+--- Page 47 ---
+<lang>None</lang>
+<warning>The page is blank and contains no written or printed text. It appears to be a flyleaf or endpaper.</warning>
+<meta>The page features a faint rectangular impression (platemark) and some minor foxing. A small, faint mark resembling a caret or tick is visible in the bottom margin.</meta>
+
+<vocab></vocab>
+
+<detected-images>
+[{"description": "Decorative marbled paper border on the edge of the page/binding", "type": "decorative", "bbox": {"x": 0.0, "y": 0.0, "width": 0.08, "height": 1.0}, "gallery_quality": 0.6, "museum_rationale": "A characteristic example of marbled endpapers common in 18th and 19th-century bookbinding."}]
+</detected-images>
+
+--- Page 48 ---
+<lang>Unknown</lang>
+<page-num>11</page-num>
+<meta>This page is blank except for a handwritten folio or page number at the top center-left. Faint vertical line/fold visible on the left side of the page.</meta>
+
+<vocab>blank page</vocab>
+
+--- Page 49 ---
+<lang>fr</lang>
+<meta>Manuscript page in a refined 17th or 18th-century calligraphic hand, likely from a treatise on the organization of knowledge. It proposes a symbolic system for classifying the sciences based on the allegory of the Crucifix and an architectural/heraldic diagram.</meta>
+
+Uns ne pourra pas en effet se accommoder, J’ay examiné s’il ne seroit pas plus avantageux aux estydes de plusieurs Personnes, mesme pour leur en abbreger le temps et la peine, de reduire ce grand Nombre de Sciences à l’unité d’un seul ORDRE, (sans toutefois confondre leurs differences particulieres) de sorte qu’on pūst Voir en Chacune LA DISPOSITION de Toutes les Autres C’est ce que j’ay TASCHÉ de faire encore.
+Et comme LE CAPITAL d’une SCIENCE consiste dans la parfaite Connoissance de son OBJET; ainsy qu’on l’a pū remarquer dans la SCIENCE GENERALE par l’evolution de ces Quatre Points Cardinaux, signifiez allegoriquement par les Quatre Extremitez du Corp Crucifié DE JESUS-CHRIST; lorsque je Travaillois un jour sur cette Idée, taschant de rendre la Fille plus semblable à la Mere, et que je Contemploïs NOSTRE MODELE ordinaire, qui estoit devant mes Yeux; il me sembla que les Parties DU CRUCIFIX me marquoient fort à propos et par un rapport assez juste autant de POINTS CAPITAUX, qui pouvoient composer LE SYSTEME DE LA SCIENCE PARTICULIERE dans un Ordre si égal et si uniforme, que toutes les Choses Inferieures et Particulieres respondroient parfaitement aux Superieures et Generales, et n’en differeroient que par leur seulle specification. car il me sembla qu’on pouvoit fort bien representer
+
+| | | | | |
+|:---|:---|:---|:---|:---|
+| | *Sa teste,* | LA FIN | *la Science* | **LA DIRECTION;** |
+| | *Sa Main Droite,* | LA NATURE | *L'Objet,* | **LA CONSTITUTION;** |
+| **Par Sa Poitrine** | | **L'OBJET,** | *De la Science,* | **L'UNIVERS;** |
+| | *Sa Main Gauche,* | LA CONDITION | *l'objet,* | **LA DISTRIBUTION;** |
+| | *Ses Pieds,* | LE SYSTEME | *la Science,* | **L'ASSEMBLAGE.** |
+<note>In the original manuscript, the central three rows are linked by a brace to the phrase "Qui Respond fort bien A" before reaching the final column.</note>
+
+C’est donc pour reduire sur ce MODELE à l’uniformité d’un mesme Ordre, autant que j’ay pû, toutes les SCIENCES Particulieres, que j’ay dressé CE CERCLE, orné de diverses couleurs, et composé de plusieurs ARCADES, sous lesquelles j’ay representé en Camayeules PRINCIPALES, qui partagent entre Elles L’UNIVERS en autant d’Objets differés, et les y ay rangées Encyclopédiquement de cette sorte.
+
+<margin>Dans</margin> LE HAUT de chaque VOÜTE, ou Arcade, on Voit écrit en grosses Lettres, . . . . . . . . . . . . . . . . . . . . . . **LE NOM** <insert>} DE LA SCIENCE.</insert>
+LE MILIEU DE L'ARCADE, sous le Visage d’une Jeune Fille est representee . . . . . . . . . . . . . . . . . . . . . . . . . **L'IMAGE**
+Elle est accompagnée de deux PERSONNAGES, dont L'UN est . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . **LAUTEUR**
+L’AUTRE, qui luy est attribué par un motif de piete, est Comme . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . **LE PATRON**
+(si ce n’est comme il arrive quelquefois, qu’un mesme Personnage ne porte en mesme temps la qualité d’AUTEUR et de PATRON; car on luy donne alors pour Compagnon quelqu’un de ceux, qui ont davantage cultivé cette Science; c’est toujours quelque SAINT PERSONNAGE, qui par sa profession particuliere, ou par le rapport et l’analogie de sa Sainteté, ou de quel qu’une de ses Actions, semble avoir plus honoré cette SCIENCE; afin qu’il n’y en ait pas UNE, qui ne porte quelque caractere de pieté toujours bien-seante à vn CHRESTIEN.
+
+LE RAYON droit du Milieu, qui paroist au dessus de la Voūte, on Voit . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . **LA FIN**
+la Cambrure Interieure de la VOÜTE qu'au dessous du NOM, est **la Definition de l'Objet** . . . . . . . . . . . . . . . . **LE REGARD**
+FORMEL, qui fait Voir sur L'UNIVERS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . **L'OBJET** <insert>} DE L'OBJET.</insert>
+le grand Demi-cercle rouge, qui est au Milieu, on Voit paroistre . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . *la Nature*
+Les deux Demi-cercles, qui precedent ala droite, est representée . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . *Les Principes*
+le Premier Des quels, qui est Noir, . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . *Les Parties*
+le Second Des quels, qui est Verd, sont . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . *la Condition*
+les deux Demi-cercles, qui Suivent ala gauche, paroist . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . *Les Proprietez*
+le Premier Des quels, qui est Jaune, vous avez . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . *Les Especes*
+le Second Des quels, qui est Bleu, . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . **LES ESPECES**
+les Six Rayons Ondoyans, qui sont au dessus de la Voūte, font . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . **LE SYSTEME** <insert>} DE LA SCIENCE.</insert>
+L'IMAGE DE LA SCIENCE, assortie de ses Symboles et Instrumens, est representée tout . . . . . . . . . . . . . . . . . . . . . . .
+le Ecusson enfin, qui pour faire le dernier ornement de tout cecy sont Inserés dans
+le Front de chaque Voūte, on Voit . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . **LES ARMOIRIES**
+
+Les quelles par autant de CROIX differentes, et par les Instrumens particuliers de la Sanglante Passion DE JESUS-CHRIST font connoistre que toutes ces Sciences font entierement consacrées à leur SEIGNEUR SOUFFRANT; distinguent par ces YEUX et ces MAINS, qui les timbrent, LES SCIENCES SPECULATIVES d'avec les PRATIQUES: et monstrent enfin par toutes ces pieces, et les autres, qui les composent les premiers Elemens de L'ART DU BLASON.
+
+<vocab>Sciences, Crucifix, Ordre, Arcade, Camayeules, Art du Blason, Armoiries, Jesus-Christ</vocab>
+
+--- Page 50 ---
+<lang>None</lang>
+<meta>Blank page, possibly a flyleaf or endpaper.</meta>
+<warning>This page contains no text or illustrations to transcribe. It appears to be a blank leaf from the beginning or end of a manuscript or printed volume.</warning>
+<vocab></vocab>
+
+--- Page 51 ---
+<lang>undetermined</lang>
+<page-num>12</page-num>
+<meta>This page appears to be a blank flyleaf or endpaper from a bound volume. It contains a handwritten numeral "12" at the top center and exhibits faint ghosting or bleed-through of text from neighboring pages. Marbled paper is visible along the right and bottom edges, characteristic of 18th-century bookbinding.</meta>
+
+<unclear>...</unclear>
+
+<vocab>blank page, marbled paper, manuscript</vocab>
+
+<detected-images>
+[{"description": "Decorative marbled paper border on the right and bottom edges", "type": "decorative", "bbox": {"x": 0.02, "y": 0.95, "width": 0.98, "height": 0.05}, "gallery_quality": 0.5, "museum_rationale": "Typical marbled endpaper decoration used in early modern bookbindings."}]
+</detected-images>
+
+--- Page 52 ---
+<lang>None</lang>
+<warning>The page is a blank flyleaf with faint bleed-through or ghosting of text from the verso side. No legible text or illustrations are present on this page.</warning>
+<meta>blank page, flyleaf</meta>
+<vocab></vocab>
+
+--- Page 53 ---
+<lang>Unknown</lang>
+<page-num>12</page-num>
+<warning>The page is functionally blank, containing only a handwritten folio number. Faint ghosting or bleed-through of text from the reverse side is visible but illegible.</warning>
+<meta>Handwritten folio number in the top center of an otherwise blank page.</meta>
+<vocab>folio number</vocab>
+
+--- Page 54 ---
+<page-num>7</page-num>
+
+Cest donc sur ce pied que doit marcher CETTE ENCYCLOPEDIE CATHOLIQUEMENT-CHRESTIENNE pour ouvrir de tous costés un chemī facile a CHAQUE SCIENCE, et pour en abbreger notablement les difficultés, et le COURS. —
+
+| | | | | |
+| :--- | :--- | :--- | :--- | :--- |
+| A la Droite, | | A L’Orient | | **LA METAPHYSIQUE;** |
+| A la Gauche, | Com- | A L’Occident | | **LA MORALE;** |
+| En Bas, | me | Au Septentrion | | **LA PHYSIQUE;** |
+| En Haut, | | Au Midy | | **L'IDEHOLOSOPHISCIE.** |
+
+<margin>
+C'est ainsy que L'AUTEUR Unissant quatre mots en un seul a trouvé à propos de nōmer son OMBRE IDEALE DE LA SAGESSE UNIVERSEL ayant voulu la reduire au petit pied pour la placer au CHACUNE au reste de ces Quatre a ses plus Illustres Branches à costé d'Elle et ainsy
+</margin>
+
+**LA METAPHYSIQUE**
+> A sa Gauche a
+- la Pneumatique,
+- la Theologie,
+- la Jurisprudence,
+- la Politique:
+
+**LA MORALE**
+<margin>
+rang des autres quoyque comme leur MERE, et en qualité D'UNIVERSELLE,, Elle les renfermast toutes dans son sein
+</margin>
+> A sa Droite a
+- les Sept Arts Liberaux a sa droite, scavoir
+    - la Grammaire,
+    - la Logique,
+    - l'Arithmetique,
+    - la Geometrie,
+    - la Cosmographie,
+    - la Musique,
+    - la Perspective;
+
+**LA PHYSIQUE** en a Quatorze, Qui sont
+> les Sept Arts Mecaniques à sa Gauche, scavoir
+- la Tisserandrie,
+- l'Architecture,
+- la Venerie,
+- la Milice,
+- la Marine,
+- la Medecine,
+
+**L'IDEHOLOSOPHISCIE** les regarde Toutes comme ses Filles parce qu'Elles en sortent et en descendent Toutes de part et d'autre mais les plus Proches et qui sont à ses costés, comme ses plus Nobles Instrumens sont
+> A Gauche: la Rhetorique,
+> A Droite: la Magie.
+
+---
+
+Mais lors que je taschois de ranger Toutes Celles, que je viens de rapporter sous ce mesme Ordre, je m'apperçeus que la Plus-part estoient si peu traitables, et d'un naturel si different et si fascheus, que je ne voy-pas lieu d'esperer, qu'on pust jamais accorder sous une mesme regle des humeurs si differentes et si revesches, ny qu'on pust les reduire Toutes à une mesme FORME DE METHODE. Cependant une plus serieuse reflexion a corrigé leur grande bizarre-rie, et leur Indocilité presque Insurmontable, s'est laissee vaincre à l'assiduité d'un Travail plus opiniastre, de sorte qu'estant presente-ment apprivoisees, et assujetties a UN ORDRE fort egal et Uniforme, Vous les voyez paroistre icy CHACUNE avec tout son SYSTÉME dans une egale et semblable ordonnance en cette sorte.
+
+# L'ORDRE ET L'ECONOMIE DES PRINCIPALES SCIENCES.
+## VOICY DE CHACUNE
+
+| LE NOM | L'AUTEUR | | LA FIN, Est | LE REGARD SUR L'UNIVERS, L'OBJET | | <note>Dont on Considere: la Nature, & La Condition</note> | | | LES ESPECES sont |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| | | | | | **JET;** | **Ily a das Celle-cy les Principes,** | **les Parties;** | **Et Das Celle-là, les Propriétés,** | |
+| **A LA METAPHYSIQUE, dont** | A. Hermes; | A. Henoch; | la Conoissance de L'ESTRE; | Regarde l'Univers dans sa Realité; et considerant en tout sa Quintessence aprez l'avoir bien épurée par une exacte precision d'esprit, elle l'a pour son Objet, | **A L'ESTRE:** | L'Essence, L'Acte, la Pussance, l'Existence, | la Verité, la Bonté, L'Unité, L'Accident, | la Substance, la Substantielle, l'Accidentelle, la Moderne. | L'Intentionnelle, la Réelle, la Platonicienne, L'Aristotelicienne, la Moderne. |
+| **& LA PN**<note>eumatique</note> | & Lamb | & Saint | la Connois- | Regarde l'Univers dans ce quil a de Spirituel, et rejettant tout ce quil a de Corporel, l'ES... | **& L'ES...** | la Nature, tialité, | L'Entendement, | Dieu, L'Ange, | la Divine, l'Angelique, la Psychologique, celle de la Bi... |
+
+<meta>Catchword: & LA PN</meta>
+<lang>fr</lang>
+<vocab>Encyclopedie Catholiquement-Chrestienne, Metaphysique, Morale, Physique, Ideholosophiscie, Sept Arts Liberaux, Sept Arts Mecaniques, Hermes, Henoch, L'Estre, Pneumatique, Ombre Ideale de la Sagesse Universelle</vocab>
+
+--- Page 55 ---
+<lang>und</lang>
+<warning>The page is a blank flyleaf or endpaper. There is no transcribable text or manuscript content. Only paper texture, faint staining (foxing), and a decorative marbled border are visible.</warning>
+
+<vocab></vocab>
+
+<detected-images>
+[{"description": "Marbled paper border with a 'combed' or 'nonpareil' pattern in red, blue, yellow, and green along the left and bottom edges.", "type": "decorative", "bbox": {"x": 0.01, "y": 0.03, "width": 0.76, "height": 0.95}, "gallery_quality": 0.6, "museum_rationale": "A well-preserved example of historical marbled paper used in bookbinding for endpapers or cover edges."}]
+</detected-images>
+
+--- Page 56 ---
+<lang>Unknown</lang>
+<page-num>13</page-num>
+<meta>Small handwritten "4" or "9" with a flourish in the top right corner. Significant show-through/ghosting of text from the reverse side of the leaf. The page appears otherwise blank.</meta>
+
+<vocab>blank page, foliation</vocab>
+
+--- Page 57 ---
+<lang>French</lang>
+<meta>image quality: good; layout: tabular; text truncated at right margin; binding visible on left</meta>
+
+| | | | | |
+| :--- | :--- | :--- | :--- | :--- |
+| <unclear>PNEU</unclear>MATIQUE dont | Denys; | | <unclear>connois</unclear>sance de l'Esprit; | elle prend seulement pour Objet, |
+| **Z.** LA THEOLOGIE, dont | **Z.** Platon; | **Z.** Saint Pierre; | **Z.** une Connoissance Respectueuse de DIEU; | Ragarde l'Univers par Rapport a l'Et- nite; et s'elevant sur les ailes de la Na- ture et de la Revelation, elle va dans une Souveraine Eminence ou il y a de plus sublime pour son Ob |
+| **R.** LA MORALE, dont | **R.** Socrates; | **R.** Job; | **R.** la Beatitude; | Regarde dans l'Univers l'Honesteté des Moeurs; et afin de les Regler par la Rai- son, elle fait choix par son Objet |
+| **S.** LA JURISPRUDENCE, dont | **S.** Justinien; | **S.** S. Jean Baptiste | **S.** la Concorde; | Regarde l'Univers dans une Juste Distribu- tion; et pour terminer equitablement les differends des Parties, on l'a pour son Objet den prononcer |
+| **T.** LA POLITIQUE, dont | **T.** Lycurgue; | **T.** Salomon; | **T.** la Felicite Publique; | Regarde dans l'Univers le Gouvernem des Etats; et pour maintenir en paix les Peuples, qui luy sont commis, elle a pour son Objet la Charge de |
+| **I.** LA PHYSIQUE, dont | **I.** <unclear>Aristote</unclear>; | **I.** Moyse; | **I.** la Connoissance du Corps; | Regarde L'Univers, et Entant qu'et- re, et considerant la Nature dans l'em- lange et l'embarras de la Matiere, elle forme son Objet, qui est |
+| **H.** LA GRAMMAIRE, dont | **H.** Epicure; | **H.** Saint Cassien | **H.** L'Elegance; | Regarde dans l'Univers la Pureté du Lan- ge, et pour expliquer les choses en pa- roles justes, l'Objet auquel elle s'at- est |
+| **G.** LA LOGIQUE, dont | **G.** Aristote; | **G.** Saint Augustin | **G.** La Veracite; | Regarde dans l'Univers la Conduite du Raisonnement; et pour nous faire dé- couvrir la Verité des choses, l'Ob- qu'elle nous explique, est |
+| **F.** L'ARITHMETIQUE, dont | **F.** Pythagore; | **F.** Saint Matthieu; | **F.** la Connoissance du Nombre; | Regarde l'Univers dans la Multitude de ses Parties, et pour la bien com- prendre, elle doit pour son Ob- Jet en estudier |
+| **E.** LA GEOMETRIE dont | **E.** Euclide; | **E.** Ezechiel; | **E.** la Connoissance de la Mesure; | Regarde L'Univers dans sa Grandeur et pour en connoistre les Limites il faut pour son Objet qu'elle en examine |
+| **D.** | **D.** | **D.** | **D.** | Regarde L'Univers dans sa Situation |
+
+<vocab>Theologie, Morale, Jurisprudence, Politique, Physique, Grammaire, Logique, Arithmetique, Geometrie, Pneumatique, Platon, Saint Pierre, Socrates, Job, Justinien, Salomon, Moyse, Epicure, Aristote, Pythagore, Euclide, Ezechiel</vocab>
+
+--- Page 58 ---
+<lang>French</lang>
+<warning>The text on the far left edge of the page is partially cut off due to the binding or framing of the manuscript.</warning>
+
+| [Cut Text] | | | | | | | |
+|------------|---|---|---|---|---|---|---|
+| ...ur son | PRIT. | | la Perso nalite; | L'Intimite, la Spiritualite; | la Volō te; | L'Ame, Rais: | ble, des Rabbins des Philo sophes. |
+| ...ort à la Divi <br> de la Na <br> chercher <br> nce ce qui <br> et, qui est | **Z.** | **DIEU** | L'Es tre, la Di gnite; | L'Encyclope die, L'Identi te, la Simpli cite; | L'Indepe dance, la Tou te-puis sance; la totalite des Perfections | Uni que; le Cercle ou la mādée | la Naturelle, la Secrete, la Prophane, la Sacree; l'Hebraique; la Chrestienne: la Positive, l'expositive, la Mysti que, la Scolastique; la Mo rale, la Controverse. |
+| ...teté des <br> ...par la Rai <br> ...oj et de | **R.** | **L'ACTI ON HO NESTE** | la Liber te, la Ver tu; | L'Acte, L'Intention, L'Honestete; | L'Excelle ce, le Merite | L'Elicite, la Com mādée. | la Monastique, la Politi que: la Payenne, la Judai que, la Chrestienne. <br> * L'Economique. |
+| ...Dispensa <br> ...lement <br> ...uy donne <br> ...oncer | **S.** | **LE JUGE MENT** | L'Autho rite, la Suje tion; | la Personne, L'Egalement, la Chose; | A Chacu le Sien, L'Equite Juridique. | L'Arbi tral, le Juri dique. | la Naturelle, la Positive, la Civile, l'Ecclesiastique, la Seculiere, la Reguliere: celle des Gentils, des Juifs, des Romains, des François, l'Ancienne, la Nouvelle. |
+| ...vernemēt <br> ...n Paix <br> ...elle prend <br> ...e | **T.** | **LA RE PUBLI QUE;** | les Cito yens, les Bi ens; | le Peuple, la Police, le Magis trat; | L'Abonda ce, la Tran quillite; | la Mo narchie, la Poly archie, la Pan archie. | la Monarchique, la Tyrannique, la Polyarchique, l'Holo-cratique, l'Aristocratique, la Democratique, la Timocratique; la Civile, l'Ecclesiastique, celle de Platon, d'Aristote. <br> l'Oligarchique. |
+| ...ue Corpo <br> ...s le mes <br> ...elle en | **I.** | **LE COR PS** | le Ca hos, L'Ato me; | la Matiere L'Union, la Forme; | la Quan tite, la Mo bilite; | le Sim ple, le Mix te. | la Speculative, l'alchymique: celle des Cieux, des Elemens; des Mixtes, de l'Ame, de la Bible, des Kabbalistes, D'Hermes, des Peripateticiens, des Atomistes, des Cartesiens. |
+| ...u Langa <br> ...des pa <br> ...pplique, <br> ...cours | **H.** | **LE DIS COURS;** | la Lettre, la Syl labe; | le Mot, la Constru ction, la Significa tion; | la Pure te, la Clar te', | le Fami lier, le Bigu re'. | L'Etymologie, le Lexique, la Syntactique: l'Hebraique, la Grecque, la Latine, la Maternelle. |
+| ...ite du <br> ...bien de <br> ...Objet, | **G.** | **LA DIS SERTA TION;** | la Cho se, la No tion; | le Theme, la Combi naison, L'Argumēt; | la Scien ce, L'Opini on; | la Con ception, le Juge ment. | la Naturelle, l'Acquise, la Thematique, la Categorique, l'Axiomatique, la Syllogistique, la Methodique. |
+| ...titude <br> ...n com <br> ...= Ob | **F.** | **LE NOM BRE;** | L'Uni te, la Dis tinctio; | la Pluralite, la Totite, la Discre tion; | la Num erabilite, la Suppu tabilite; | le Digi tal, L'Articu laire. | L'Algorithmique, ou la Simple; la Figuree, ou la Geometrique: la Cossique, ou l'Algebre; L'Astronomique, la Geodetique, ou la Stathique, la Vulgaire. |
+| ...andeur <br> ...mites, <br> ...qu'elle | **E.** | **LA MESU RE;** | le Point, le Flux; | L'Estendue, la Tantite, la Continu ite; | la Mesu rabilite, la Divisi bilite; | la Li gne, la Figu re. | La Longimetrie, la Planimetrie, la Stereometrie, la Geodetique, L'Astronomique, L'Optique. |
+| ...ation; | **D.** | | le Centre | le Ciel, | la Figure | la Celes | L'Astronomie, L'Astrologie; |
+
+<vocab>Dieu, Raisonnable, Rabbins, Philosophes, Hebraique, Chrestienne, Scolastique, Monastique, Politique, Economique, République, Monarchie, Aristocratie, Democratie, Alchymique, Kabbalistes, Peripateticiens, Cartesiens, Etymologie, Algorithmique, Algebre, Astronomie, Astrologie</vocab>
+
+--- Page 59 ---
+<lang>None</lang>
+<warning>This page is a blank flyleaf or endpaper and contains no legible text. There are visible signs of aging, including foxing, water staining in the lower right corner, and faint bleed-through (ghosting) of text from the reverse side.</warning>
+
+<vocab></vocab>
+
+--- Page 60 ---
+<lang>Latin</lang>
+<page-num>14</page-num>
+<meta>Secondary handwritten numeral "41" in pencil or light ink in the top right corner.</meta>
+<warning>The page is blank except for the numbering. There is significant moisture staining and foxing at the bottom, and some bleed-through from the verso is visible.</warning>
+
+<note>This page is a blank folio, typically used as a flyleaf or a divider within the manuscript volume. Only foliation and a later archival mark are present.</note>
+
+<vocab>folio, blank page, moisture stain, foxing</vocab>
+
+<detected-images>
+[{"description": "Marbled paper decoration on the fore-edge and top/bottom edges of the book block.", "type": "decorative", "bbox": {"x": 0.05, "y": 0.02, "width": 0.9, "height": 0.97}, "gallery_quality": 0.6, "museum_rationale": "The marbled edges are a standard decorative feature of period bookbinding, showing a colorful comb or peacock pattern typical of the 17th-18th centuries."}]
+</detected-images>
+
+--- Page 61 ---
+<lang>French</lang>
+<warning>The text on the left edge is partially obscured by the binding, and the right edge is tightly cropped, resulting in some word endings being cut off or obscured.</warning>
+
+| | | | | |
+|----------|----------|----------|----------|----------|
+| **A -**<br/>LA CO-<br/>SMOGR-<br/>APHIE,<br/>dont | **A -**<br/>Ptole-<br/>mée; | **A -**<br/>les<br/>Roys<br/>Mages; | **A -**<br/>la Connoiss-<br/>sance du<br/>Mōde Visible, | et pour en distinguer les Parties<br/>plus éloignées, L'Objet, qu'elle<br/>propose, est |
+| **C.** -<br/>LA<br/>MUSI-<br/>QUE,<br/>dont | **C.** -<br/>Or-<br/>phé-<br/>e; | **C.** -<br/>Da-<br/>vid; | **C.** -<br/>La<br/>Melo-<br/>die; | Regarde L'Harmonie dans L'Uni-<br/>vers; et pour faire un Concert,<br/>meslange de plusieurs sons diff-<br/>rens, L'Objet de ses plus agrea.<br/>occupations est |
+| **B.** -<br/>LAPER-<br/>SPECTI-<br/>VE, dont | **B.** -<br/>Vitel-<br/>lon; | **B.** -<br/>Saint<br/>Estien-<br/>ne; | **B.** -<br/>L'Explicatiō<br/>des Pheno-<br/>menes ; | Regarde l'Univers dans la Varieté<br/>ses Veuës; et pour découvrir les su-<br/>prises de la Lumiere et de la Veuë, elle<br/>envisage pour son Objet, |
+| **K.** -<br/>LA GE-<br/>ORGI-<br/>QUE, dōt | **K.** -<br/>Hesi-<br/>ode; | **K.** -<br/>Adam | **K.** -<br/>les<br/>Fruits, | Regarde dans l'Univers ce qu'il y a<br/>Propre à la Culture des Fruits Necess.<br/>à la Vie; et pour en tirer la Subsistan.<br/>des Hommes, elle prend pour son Ob. |
+| **L.** -<br/>LATISSE-<br/>RANDRIE<br/>dont | **L.** -<br/>Arac-<br/>hné, | **L.** -<br/>la Sainte<br/>Vierge, | **L.** -<br/>L'Habille-<br/>ment; | Regarde dans L'Univers ce qu'il ya<br/>Propre à la Tissure; et pour nous fo-<br/>nir de quoy nous Vestir, elle nous p-<br/>pare son Objet, qui est |
+| **M.** -<br/>LARCHI-<br/>TECTU-<br/>RE,<br/>dont | **M.** -<br/>Vitru-<br/>ve; | **M.** -<br/>Saint<br/>Jose-<br/>ph; | **M.** -<br/>L'Habita-<br/>tion; | Regarde dans L'Univers ce qu'il ya<br/>Propre à Bastiment pour nous mett.<br/>à couvert des Incommodites des Sai-<br/>sons, elle se designe pour Obje. |
+| **N -**<br/>LA<br/>VENE-<br/>RIE,<br/>dont | **N.** -<br/>Xeno-<br/>ph-<br/>on; | **N.** -<br/>Saint<br/>Eusta-<br/>che; | **N.** -<br/>la<br/>Prise | Regarde dans l'Univers ce qu'il ya<br/>Propre à la Chasse; car entre les in-<br/>nocens plaisirs de la Vie humai-<br/>ne, L'Objet de ses plus gran-<br/>delices est |
+| **O -**<br/>LA<br/>MILI-<br/>CE,<br/>dont | **O.** -<br/>Vege-<br/>ce; | **O.** -<br/>Saint<br/>Guillau-<br/>me; | **O.** -<br/>la<br/>Victoire; | Regarde de dans L'Univers la<br/><unclear>fatalité</unclear> d'Ennemy; et pour en Re-<br/>uſſer les efforts et la Violence,<br/>entreprend pour son Objet de faire |
+| **P.** -<br/>LA<br/>MARI-<br/>NE, | **P.** -<br/>Ja-<br/>son; | **P.** -<br/>Noé; | **P.** -<br/>Une Heu-<br/>reuse Cou | Regarde L'Univers dans ſes Par-<br/>Navigeables; et pour avoir comm-<br/>ce avec les Pays estranger, elle p |
+
+<vocab>Cosmographie, Ptolemée, Roys Mages, Musique, Orphée, David, Perspective, Vitellon, Saint Estienne, Georgique, Hesiode, Adam, Tisserandrie, Arachné, Sainte Vierge, Architecture, Vitruve, Saint Joseph, Venerie, Xenophon, Saint Eustache, Milice, Vegece, Saint Guillaume, Marine, Jason, Noé</vocab>
+
+--- Page 62 ---
+<lang>fra</lang>
+<page-num>4</page-num>
+
+| | | | | | |
+|---|---|---|---|---|---|
+| A. LA SPHERE DU MONDE | la Circonference; | L'Ordre la Terre; | le Mouvement; | le <unclear>Celes</unclear>te, l'Elementaire. | la Geographie l'Hydrogra: phie; celle de Ptolomée, de Copernic, de Tycho-Brahé. |
+| C. LE CHANT | le Son la Proportion; | L'Intervalle la Modulation, L'Harmonie; | L'Agrée ment, la Passion | le Recit, la Symphonie. | la Plaine, la Figureé; la Simple, la Symphonique; l'Ancienne, la Nouvelle, la Gameé, l'Amerique, la Vocale, l'Organique, la Mixte. |
+| B. LE PHENOMENE | la Lumiere L'Objet Visible; | le Rayon, la Modification, L'Organe; | la Fallace, la Beveüe; | le Simple le Cõposé | l'Optique, la Catoptrique, la Dioptrique, l'Ichnographique, l'Orthographique, la Scenographique, la Stereographique celle de Vitellon, d'Alhazene. |
+| K. LA VIE RUSTIQUE | la Terre, la Seméce; | le Labourage, la Semaille la Recolte; | la Fructification, la Multiplication; | le Labour la Nourriture. | l'Agriculture, la Viticulture, le Jardinage; le Pasturage, la Menagerie, le soin des Abeilles. |
+| L. L'ETOFFE | la Laine le Lin, | la Chaîne, la tissure, la Trame; | le Vastement, L'Ornement; | la Toile, le Drap. | la Toilerie, le Lanifice: la Draperie, en Soye, en Or, en Brocart la Broderie. |
+| M. L'EDIFICE: | la Pierre le Bois; | les Murs, la Structure, le Toict; | la Seureté, la Comodité; | le Temple la Maison | la Rustique, la Toscanne, la Dorique, l'Ionique, la Corintheenne, la Composite, la Civile, la Militaire, la Sacree, la Profane; la Publique, la Privée. |
+| N. LA CHASSE; | le Chasseur, le Page; | la Proye, la Queste la Poursuite; | le Plaisir, L'Utilité | Aux Bestes, aux Oiseaux Aux Poissons. | la Generale, la Particuliere; celle des Pays; la Thereutique la Fauconnerie, la Pesche. |
+| O. LA GUERRE | les Soldats les Armes; | L'Armée, la Discipline, le Comandant; | le Ravage, le Carnage | L'Attaque, la Defense. | la Spirituelle, la Visible, la Generale, la Nationelle, la Navale, la Terrestre; celle de la Cavalerie, de l'Infanterie; l'Offensive, la Defensive, celle pour Assieger, celle pour Repousser. |
+| P. LA NAVIGATION | L'Eau, le Vent, le Vais: te | le Commandement, la Conduite | L'Agitation, le | Avoiles, ARA | Celle de la Mer, de l'Ocean, de la Mediterranee, des Rivieres; Des Pays; du Negoce, |
+
+<vocab>Sphere, Chant, Phenomene, Vie Rustique, Etoffe, Edifice, Chasse, Guerre, Navigation, Hydrographie, Ptolomée, Copernic, Tycho-Brahé, Symphonie, Catoptrique, Dioptrique, Ichnographique, Orthographique, Scenographique, Stereographique, Vitellon, Alhazene, Viticulture, Lanifice, Brocart, Thereutique, Fauconnerie</vocab>
+
+--- Page 63 ---
+<warning>The page is a blank flyleaf or endpaper containing no legible text. There is a prominent triangular water stain in the lower-left area and very faint ghosting (bleed-through) of printed text from the reverse side of the leaf.</warning>
+
+<lang>N/A</lang>
+<meta>blank page, water stain, bleed-through from verso</meta>
+
+[Blank Page]
+
+<vocab></vocab>
+
+--- Page 64 ---
+<lang>Unknown</lang>
+<page-num>15</page-num>
+<warning>The page is a blank leaf with significant water or age staining in the lower corners. There is a faint, illegible pencil mark in the upper right corner.</warning>
+<meta>Blank page with handwritten pagination "15" centered at the top. Marbled paper border visible on the right and bottom edges.</meta>
+
+<vocab>blank page, pagination, marbled paper, staining</vocab>
+
+<detected-images>
+[{"description": "Decorative marbled paper border on the right edge of the page.", "type": "decorative", "bbox": {"x": 0.918, "y": 0.024, "width": 0.076, "height": 0.948}, "gallery_quality": 0.5, "museum_rationale": "Standard example of marbled paper used in historical bookbinding."}]
+</detected-images>
+
+--- Page 65 ---
+<lang>fra</lang>
+<page-num>41</page-num>
+<warning>Some text at the top and bottom of the page is slightly faded; however, all primary text remains legible.</warning>
+<meta>Table summarizing four sciences: Medicine (Q), Ideholosophie (X), Rhetoric (U), and Magic (Y). Catchword "Compose" appears before the lower text block.</meta>
+
+| dont | rse; | | | pour son Objet le Secours de | TION | seau, | la Manœuvre, | Peril; | mes. | De la Guerre. |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **Q- LA MEDECINE dont** | **Q- Hippo crate;** | **Q- Saint Luc;** | **Q- la Guerison** | Regarde dans l’Univers les Sujets Remediables; et pour en detourner les Maladies afin de leur conserver, ou leur reparer la Sante, l’Objet de ses plus grands soins est | **Q- LA MEDICATION.** | le Tem, la Ma-ladie, | le Malade l’Appo-sition, le Remede; | l’Altera-tion, la Tempe-rature; | l’Adjec-tive, la Detra-ctive; | **la Conservative, la Preser-vative, la Restorative, la Dietetique, la Pharmacie, la Chirurgie, la Rationnelle, l’Empyrique, la Methodique, la Jatro-mathematique; la Chymique, la Galenique.** |
+| **X- L’IDE-HOLO-SOPHIO-SCIE, dont** | **X- le Solitaire, ou le R.P. Esprit Sabbathier;** | **X- le Bienheureux Raymon Lulle;** | **X- le Repos en DIEU;** | Regarde l’Univers de Tous costés, et en Tout sens; car de Toutes les choses connoissables et penetrables à l’Esprit humain dans cette Vie, il ne luy faut pas un plus petit Objet, que | **X- L’UNI-VERS-ITÉ;** | L’Hypos-tase, l’Actualité; | les Estats, l’Assem-blage, les Mon-des; | les Questi-ons, les Loix; | les Trois Faces. | **la Kabbalistique, la Jeroglyphi-que, la Mythologique, l’Enigmatique, la Paremique, la Parabolique, l’Alphabetique, la Squematique: celle de Pythagore, de R. Lulle: la Catholique-chrestienne, la Chrestienne-Kabbalistique.** |
+| **U- LA RHE-TORI-QUE, dont** | **U- MTull Cice ron;** | **U- Saint Paul;** | **U- la Persua-sion;** | Regarde dans l’Univers ce qui est Propre à Persuader, et pour enrichir un Discours et le rendre Eloquent, elle prend pour son Objet, | **U- SON L’ARGU-MENT;** | le Theme, l’Argu-ment; | l’Invention, L'Elocution, la Dispo-sition; | la Polite-se, L’Ener-gie; | la Dog-matiquetique. | **la Didascalique, la Demon-strative, la Deliberative, la Ju-diciaire: la Prosaïque, la Poët-ique: la Scolastique, l’Ecclesiastique: celle du Bareau, celle de la Guerre: de Demosthene, de Ciceron.** |
+| **Y- LA MA-GIE, dont** | **Y- Zoro astre,** | **Y- Saint Fran-çois;** | **Y- l’Admi-ration;** | Regarde l’Univers dans ses Merveil-les; et pour faire des Effets surpre-nants par l’alliance des Vertus secrettes de la Nature, elle s’attribue pour Objet, | **Y- LE PRO-DIGE;** | la Nature L’Art; | L’Actif, L’Appli-cation, le Passif; | la Mer-veille, la Curi-osité; | de DIEU, de la Nature, de l’Art. | **L’Operatrice, la Divinatrice, la Divine, la Diabolique: la Physique, la Mathe-matique.** |
+
+---
+
+LE SYSTEME entier de Chacune de ces SCIENCES est representé fort à propos par son IMAGE: mais Il n'est que de l'ASSEMBLAGE Methodique et de l’UNION Indissoluble de toutes LES PARTIES rapportées en détail DANS CETTE TABLE
+
+<meta>Compose</meta>
+
+QUE NOSTRE SCIENCE GENERALE ayant commencé sous de favorables auspices, et l’ayant poursuivi avec quel que suc cez, semble l’avoir achevé avec assez de bonheur, comme elle l’expose Icy, en faisant Elle mesme avec ses deux Compagnes, la Rhetorique et la Magie, l’heureuse Conclusion de tout ce CHOEUR DES SCIENCES.
+J’entends parler principalement de la Rhetorique Chrestienne, et de la Magie Divine; qui toutes deux Viennent du Ciel pour nous enseigner, L’UNE, à PRIER plus Saintement; L’Autre à OPERER plus noblement.
+C’est sur ces deux Ailes de Seraphin que de Toutes les Choses de L’UNIVERS on s’eleve Kabbalistiquement PAR JESUS-CHRIST Jusques aux Delices Inexplicables de DIEU MESME; et qu’on S’envole heureusement dans son Sein pour s’y reposer, C’EST là le Sommaire et le Sommet de LA PERFECTION.
+
+<vocab>Medecine, Ideholosophie, Rhetorique, Magie, Hippocrate, Saint Luc, Esprit Sabbathier, Raymon Lulle, Zoroastre, Saint François, Kabbalistique, Rhetorique Chrestienne, Magie Divine</vocab>
+
+--- Page 66 ---
+<lang>None</lang>
+<warning>This page is a blank flyleaf or endpaper and contains no legible text, illustrations, or diagrams. Only show-through from the reverse side and a large triangular moisture stain at the bottom are visible.</warning>
+
+<meta>The page is an empty leaf, likely part of the front matter or binding of the manuscript. The left edge shows the marbled paper of the inner cover (combed pattern). There is a prominent damp stain in the lower center-left area.</meta>
+
+<vocab>blank page, flyleaf, endpaper, moisture stain, marbled paper</vocab>
+
+--- Page 67 ---
+<lang>Unknown</lang>
+<page-num>16, 4</page-num>
+<meta>The page is largely blank, containing only handwritten folio or page numbers. There is a prominent triangular water or damp stain extending from the middle of the right edge to the bottom right corner. Faint bleed-through from the verso side is visible in several areas. A marbled paper edge from the binding is visible on the right.</meta>
+
+<vocab>blank page, folio numbering, water damage</vocab>
+
+--- Page 68 ---
+<lang>French</lang>
+<page-num>26</page-num>
+<header>LESSOR DE L'ESPRIT POUR SELEVER DES CREATVRES ET ALLER PAR JESUS-CHRIST SE REPOSER EN DIEU .</header>
+
+# LESSOR DE L'ESPRIT POUR SELEVER DES CREATVRES ET ALLER PAR JESUS-CHRIST SE REPOSER EN DIEU .
+
+L'idée de Nostre SageSse Vniverselle aparu jusques à present CATHOLIQUEMENT-CHRESTIENNE, lorsqu'en descendant fort exactement des Premieres Parties de L'UNIVERS jusques aux Dernieres, elle les a consideré toutes comme COMPLIQUEES en JESUS-CHRIST. Elle va maintenant paroistre CHRESTIENNEMENT-KABBALISTIQUE; eten montant des plus Basses aux plus Hautes contempler avec respect JESUS-CHRIST à son tour, et l'honorer comme representé par ses Vertus dans toutes ces mesmes choses. Aprez donc nous avoir fait decouvrir par LA FOY, connoistre par la Raison, et Penetrer par l'Entendement la Presence adorable de ce DIEU-HOMME; elle tasche à nous le representer ou dans sa Realité, ou dans son Image, on dans son Opposition, pour nous le faire gouster en Esprit dans toutes choses, et de toutes les manieres.
+Elle nous le represente dans sa REALITÉ par sa propre NATURE: soit par son HUMANITÉ, qui le fait communiquer avec toutes les Creatures; soit par son DIVINITÉ qui le rend Intimement present à toutes choses et en tous lieux par son Immensité.
+Dans son IMAGE, Elle nous le represente mystiquement; oupar quelque Allegorie, ou par quelque Moralité, ou par quelque Anagogie.
+Enfin dans son OPPOSITION, Elle nous le represente, ou sous quelque Antithese, ou sous quelque Disproportion.
+
+| | |
+|---|---|
+| Ainsy pour commencer par le plus Bas Etage de L'UNIVERS, elle nous aprend a contempler dans les PREMIERS PRINCIPES de la NATURE les PRINCIPES, qui establiSsent Immediatement JESUS-CHRIST dans son Estre; sçavoir | Mais dans les OPPOSES, ou les DEFAUTS de tout cecy Elle nous en done une IMAGE bien differente; car Elle nous decouvre dans les OPPOSES des Principes de la Nature, Comme |
+| Dans LA MATIERE, son Humanité, soumiSe à sa DIVINITÉ; | le Vuide, l'AnéantiSsemet de sa MAJESTÉ sous la forme de Serviteur. |
+| Dans LA FORME, sa DIVINITÉ, qui preside à son Humanité; | Dans la privation, la Rigueur Inconcevable de l'Abandonnement de son PE<gloss>RE</gloss> EN la Croix; |
+| L'UNION NATURELLE, son UNION HYPOSTATIQUE. | la Division, la Separation violente de son Ame d'avec son Corps par la Mort. |
+
+DANS LES FAMILLES de la Nature, Elle nous découvre ses plus beaux ATTRIBUTS; sçavoir
+
+| | |
+|---|---|
+| L'Artifice, la SageSse de son Art tout divin; | l'empeschement, les Contradictions, qu'il a souffertes de la part des Pecheurs; |
+| les Cieux, L'Esten-duë de sa Charité, qui ne veut pas qu'aucun PeriSse; | L'Espace Imaginaire, l'AbySme Impenetrable de ses douleurs en sa PASSION; |
+| les Elemens, les plus excellentes de ses Vertus Morales; | le Corruptif, sa Laideur effroyable, et semblable à celle <gloss>du</gloss> Lepreux, causée par ses Playes; |
+| les Meteores, les Organes de sa double Providence; | le Monstre, la Figure horrible de Pecheur, dont il s'est <insert>revestu</insert> revestu; |
+| Dans les Minéraux, les RicheSses et les Ornemens de sa Maison; | Dans le Demi-Mineral, les Extremitez de sa tres-haute Pauvreté; |
+| les Plantes, la Fleur de sa Beauté, et les Fruits de sa Bonté; | le Champignon, ses Extrêmes Mespris, et ses AbbaiSsemes profonds; |
+| les Animaux, la TendresSe et la Sensibilité de son Amour; | les Zoophytes, son Silence admirable, et les Innocens Defauts de son HUMANITE; |
+| les Hommes, la Sublimité de sa Raison; | la Chimere, les Blasphemes des Impies, et les Resveries des Mescro-yans sur luy; |
+| les Anges, la Subtilité de son Intelligence. | le Demon, la Puissance des Tenebres, et la Guerre du Peché Contre luy; |
+
+Puis selevant du plus Bas des choses à leur Moyenne Region, Elle nous fait Voir JESUS-CHRIST
+
+DANS LES FONDEMENS de la Morale, Comme
+
+| | |
+|---|---|
+| DANS LA LOY, PROMIS, FIGURE, ET ATTENDU; | DANS LES OPPOSES de ces choses, qui sont TOUS LES MAUX de la Morale, Elle nous propose son extreme DOUCEUR a supporter nos defauts, et les tristes effets de sa juste Colere, et de sa Haute redoutable : car elle nous le fait Voir dans les OPPOSES des fondemens de la Loy |
+| DANS L'EGLISE, Establi de DIEU PONTIFE, et ROY; | Comme le Libertinage, Attendant les MESCHANTS à Resipiscence |
+| DANS L'EVANGILE, DONNE, ET MANIFESTE, | DANS L'Heresie, Rapellant les Devoyés au giron de l'Eglise |
+| Dans les divers ESTATS de la Morale, Elle nous monstre ses PERFECTIONS; comme | L'Antichristianisme, Eclairant Tous les Hommes |
+| de l'Innocence, son Impeccabilité; | Et dans LES OPPOSES des Estats de la Morale, |
+| de la Liberté, la Rectitude, et l'Integrité de son Franc Arbitre; | le Peché Misericordieux à Pardonner; |
+| | L'Esclavage, invitant au REPOS Ceux, qui sont Chargés et, |
+
+<vocab>Kabbalistique, Hypostatique, Antichristianisme, Resipiscence, Anagogie, SageSse, Providence</vocab>
+
+--- Page 69 ---
+<lang>None</lang>
+<meta>Blank flyleaf or endpaper with decorative marbled paper binding visible along the left and bottom edges.</meta>
+<warning>The page is blank and contains no transcribable text. It exhibits foxing and a large diagonal stain in the lower-left area.</warning>
+
+[This page is blank.]
+
+<vocab>flyleaf, endpaper, marbled paper, foxing, staining</vocab>
+
+--- Page 70 ---
+---
+
+<lang>Unknown</lang>
+<page-num>17, 4</page-num>
+<meta>The page is a blank interleaf or flyleaf. It contains two sets of handwritten numbers in ink: a large "17" centered in the upper portion and a smaller "4" in the upper right corner (with a faint duplicate or bleed-through of the "4" adjacent to it). Faint staining and ghosting from other pages are visible on the aged paper.</meta>
+<vocab>pagination, foliation</vocab>
+
+--- Page 71 ---
+<lang>French</lang>
+<page-num>17</page-num>
+<warning>The text layout uses columns and brackets to show correspondences between Christian mysteries and the Sephiroth/celestial spheres; spelling and capitalization are preserved as in the original manuscript.</warning>
+
+| | |
+|:---|:---|
+| **de la Vertu**, L’Alliance heroïque de toutes les Vertus en luy; | **le Vice**, Appellant les Pecheurs à la Penitence; |
+| Dans **de la GRACE**, la Plenitude, L’empire, et l’Efficacité de sa Grace; Dans | **la Concupiscence**, Nous la Laissant à Combatre pour exercice; |
+| les **de la L’ESTAT des CONSEILS**, l’Excellence de sa Vie Parfaite, Eminente; | **la Tentation**, Nous éprouvant pour nous couronner; |
+| **des Beatitudes**, les sublimes, et difficiles voyes de sa Vie Sure | **la Malediction**, Nous menaçant pour nous effrayer; |
+| **des SACREMENS**, les Inventions admirables de son Amour et de sa | **la Censure**, Nous Chastiánt pour nous Convertir; ce |
+| **des DONS**, son Inclination Inépuisable à faire du Bien; sagesse; | **l’Endurcissemẽt**, Abandonnant le Pecheur à l’Impenite |
+| **des Fruits**, ses Douceurs, et ses Delices Ineffables. | **les Pleurs**, Implacable dans ses Vengeances. |
+
+---
+
+### Enfin de cette Region Moyenne, elle monte a la SUPREME pour y considerer les plus HAUTS MYSTERES DU MONDE THEOLOGIQUE, ou DIVIN, et nous faire adorer particulierement dans les MYSTERES CHRESTIENS,
+
+->**Sçavoir**<-
+
+| Dans les **MYSTERES CHRESTIENS** | Explication | DANS LES **MYSTERES MOSAÏQUES** (qui sous les Principaux NOMS de DIEU, et sous les dix ATTRIBUTS, qu'ils nomment SEPHIROTHS, comprennent toute LA KABBALE, ou THEOLOGIE des Hebreux) Elle nous fait admirer JESUS-CHRIST particulierement dans les SEPHIROTHS, Sçavoir | Influences Célestes (**INFLUANT Par l'ordre Des**) |
+|:---|:---|:---|:---|
+| **l’Unité DELA DIVINITE**, | la Comunication de JESUS-CHRIST à toute l’ESSENCE DIVINE; | **LA COURONNE**, | Seraphins sur le Premier Mobile, pour donner l’Estre à toutes choses, |
+| **la Dualité DES PROCESSIONS**, | la Primauté de son Origine à l’egard du SAINT ESPRIT; | **LA SAGESSE**, | Cherubins, sur le Firmament, pour demesler le Cahos; |
+| **la Trinité DES PERSONNES**, | Sa Condition de Metoyen, sa splendeur de VERBE, et D’IMAGE; | **L’INTELLIGENCE**, | Thrônes, sur la Sphere de Saturne po. dôner la Forme à la Matiere Indeterminée; |
+| **le Quaternaire des RELATIONS**, | Ses Titres Inexplicables de PRODUIT par Generation, et de PRODUISANT par Spiration; | **LA LIBERALITE**, | Dominatiõs, sur la Sphere de Jupiter, pour former la diversité des Corps; |
+| **les Cinq NOTIONS**, | Ses Caracteres honorables de Filiation, et de Spiration Active; | **LA FORCE**, | Puissances, sur la Sphere de Mars, pour produire les Elemens; |
+| **le Sizain DE LA CIRCUM-INSESSION**, | la Reciprocation mutuelle d’vne Secrette IMMANENCE; | **LA BEAUTE**, | Vertus, sur la Sphere du SOLEIL, pour forger Les Metaux; |
+| **le Septenaire de LA CREATION**, | son Jeu dans le Monde à Regler avec DIEU toutes Choses; | **LA VICTOIRE**, | Principautés, sur la Sphere de Venus, pour faire germer et fleurir les Plantes; |
+| **l’Octave DE LA CREATION, qui est LA PROVIDENCE**, | la Force, et la Douceur de ses Dispositions dans la Conduite de L’UNIVERS; | **LA LOUANGE**, | Archanges, sur la Sphere de Mercure, pour engendrer Les Animaux; |
+| **la Neuvaine, ou la Nouveauté DU JUGEMENT FINAL**, | la Certitude, et la Vivacité de son Discernement à Penetrer toutes Choses; | **L’ESTABLISSEMENT**, | Anges, sur la Sphere de la Lune, pour gouverner les Hommes; |
+| **la Dizaine, ou la Generalité de LA CONSOMMATION des Choses**, | les Embrassemens et le parfait Accord de sa Justice avec sa Misericorde dans l’equité des Retributions; Enfin, l’Eminence de sa GLOIRE à la Droite de son PERE, et son REGNE sans fin sur toutes les Creatures. | **LA ROYAUTE**, | Ames Bien-Heureuses, sur la Sphere des Elémes, po. Inspirer la Science aux HOMMES. |
+
+->**THS, Sçavoir**<-
+
+---
+
+Ne Vous estonnez pas maintenant si l’OMBRE IDEALE DE NOST**re** SAGESSE UNIVERSELLE passe si legerement sur toutes ces matieres: c’est pour ne vous pas ennuyer par la longueur des exemples, qu’elle ne fait qu’effleurer doucement les Principaux POINTS de ces Trois MONDES; afin de vous laisser le plaisir et la liberté de vous égayer à parcourir Succinctement vous mesme les autres PARTIES de **LA FIGURE**, et de vous y arrester tant qu’il vous plaira; pour y Remarquer par tout JESUS-CHRIST, et sous toutes les manieres, qui y sont expliquées. Jugez quelle prodigieuse et abondante moisson de Meditations de toutes sortes.
+
+Vous vous excuserez peut-estre, mais en Vain, sur la sterilité de Vostre esprit; sur le defaut d’vne matiere presente; et sur le manque de Livres, ou d’estudes; car **VOICY** le Grand Livre de **L’UNIVERS**, qu’on Vous presente sur la Croix: vous vous plaignez qu’il est fermé; il est Vray: mais il s’ouvre aisement de Luy mesme, sans qu’aucun le puisse fermer, a Celuy qui cherche a le lire avec soin, et dans vne grande simplicité de coeur.
+
+Approchez vous donc, Qui que vous Soyez, avec Amour et sincerité: approchez Vous avec vñ coeur plein de desirs. Venez avec la qualité de Disciple de JESUS-CHRIST, et vous approchez de cette **SACRÉE POITRINE**, qui fait le Centre de **L’UNIVERS COMPLIQUÉ**: vous y trouverez vne pepiniere de contemplation Infinie.
+
+Vous cherchez peut-estre par où entrer: levez les yeux a cet Auguste <unclear>CHEF</unclear>, c’est là le Phare assuré de toute nostre **CONDUITE**. Prenez
+
+<vocab>Sephiroth, Kabbalah, Mystères Chrestiens, Mystères Mosaïques, Jésus-Christ, Sphères, Seraphins, Cherubins, Thrônes, Dominations, Puissances, Vertus, Principautés, Archanges, Anges, Âmes Bien-Heureuses, L'Univers Compliqué</vocab>
+
+--- Page 72 ---
+<lang>Unknown</lang>
+
+<warning>This page is a blank flyleaf or endpaper. There is faint bleed-through (ghosting) from the text on the reverse side, but it is not legible for transcription.</warning>
+
+<meta>blank page, marbled paper binding edge visible on the left</meta>
+
+<detected-images>
+[{"description": "Marbled paper binding edge with a pattern of blue, red, and yellow 'combed' or 'peacock' design.", "type": "decorative", "bbox": {"x": 0.012, "y": 0.021, "width": 0.065, "height": 0.957}, "gallery_quality": 0.6, "museum_rationale": "Representative example of 17th-18th century bookbinding marbled paper, showing a traditional hand-marbled pattern used for endpapers."}]
+</detected-images>
+
+--- Page 73 ---
+<lang>None</lang>
+<page-num>18</page-num>
+<meta>The page is blank except for a large handwritten numeral "18" in the upper left quadrant. A faint rectangular indentation is visible in the center of the paper, possibly an offset from another page or a watermark frame.</meta>
+
+<vocab>folio number, blank page, manuscript</vocab>
+
+--- Page 74 ---
+<lang>French</lang>
+<page-num>18</page-num>
+<meta>The manuscript is written in a formal 17th or 18th-century calligraphic hand. The text contains mystical and philosophical Christian content, specifically referencing "Oraïson Chrestiennement-Kabbalistique".</meta>
+
+Cette Lumiere pour considerer et ses MAINS, et ses PIEDS, sa DROITE Vous menera aux SOURCES des CHOSES et des SCIENCES : sa GAU-
+CHE Vous conduira par tous Leurs ESTATS, leurs GENRES, leurs ESPECES, leurs INDIVIDUS, et leurs IMAGES : ses PIEDS vous feront
+Voir les LIENS, qui font LASSEMBLAGE ET L'UNION des choses : ou tend et Aboutit tout L'UNIVERS.
+Mais aprez que Vous aurez consideré toutes ces choses depuis les Premieres jusques aux dernieres suivant les LOIX et les MAXI-
+mes de la SAGESSE sous la favorable Conduite de JESUS-CHRIST-CRUCIFIÉ; retournez sur vos pas, et remontant jusques
+aux plus HAUTES, remarquez y par tout JESUS-CHRIST, que toutes ces choses nous font connoistre en tant de manieres : et admirez
+de Voir que Celuy, qui vous a découvert toutes choses, se rencontre par tout LUY-MESME, et soit reciproquement decouvert par toutes
+choses, d'où il faut conclure qu'autant qu'il y a de choses dans L'UNIVERS, ce sont autant d'ORATOIRES propres ala Contē-
+plation, et autant de LABORATOIRES d'une tres-haute SAGESSE, où l'on peut ESTUDIER en priant, et PRIER en estudyant.
+C'est la que dans une Oraïson Chrestiennement-Kabbalistique une Ame Fidelle aperçoit en tout son BIEN-AIMÉ par la Pen-
+sée; qu'Elle l'y trouve par le Jugement; et l'y Comprend par le Raisonnement.
+Cest là qu'en suite par une Operation Divinement-Magique Elle l'embrasse en tout par un Sentiment Spirituel; L'y Cherit du
+Coeur Epure; et l'y gouste de tout son Esprit : et que s'elevant sur ces deux Ailes de Seraphin, Elle s'envole par le moyen de son BI-
+EN-AIME' dans le Sein du PERE ETERNEL pour y jouir d'un Delicieux Repos, qui passe tout ce qu'on en peut dire, qu'penser.
+Toutes ces choses estant ainsi bien conceües et demeslées, il ne manquoit plus pour Couronner Nostre Idée de LA SAGESSE
+UNIVERSELLE, que de dresser sur le Plan de son EXPLICATION la METHODE COMPLETTE de LA SCIENCE pour traiter avec ordre, et
+expliquer de toutes les manieres convenables les OBJETS de NOS CONNOISSANCES, qui sont renfermés dans cet OUVRAGE. Ces-
+toit une chose de grand estude, et aussy difficile, que necessaire, à trouver.
+J'EUS pour cela recours selon ma coustume a Nostre ORACLE CRUCIFIE, et aprez avoir consulté la deïfussa DIVINITÉ par la pri-
+ere et la meditation, LUY se rendant present et favorable en cecy comme en tout le reste, me parut partager fort pertinemment
+par les Extremités de son Corps estendu, comme par autant D'ESTOILES RAYONNANTES, L'ENTIERE ET PARFAITE EXPLICATION
+DE LA SCIENCE EN CINQ PARTIES, et en marquer fort expressément
+
+Par
+- SA TESTE, LA PROPOSITIVE; Qui faisant la Teste de L'OUVRAGE, en decouvroit LA FACE, et le Dessein;
+- SA DROITE, LA POSITIVE; Qui en Definissant chaque chose, jettoit les Fondemens de toutes nos Connoissances;
+- SA GAUCHE, L'EXPOSITIVE; Qui Jugeoit des choses definies, en leur Attribuant ce qui leur Convient;
+- SES PIEDS,
+  { LA COMPOSITIVE; Qui Appuyoit ses Jugemens par des Raisonnemens, qu'Elle compose;
+    <gloss>judicieusement a leurs propres Usages.</gloss>
+    Et
+    LA DISPOSITIVE; Qui ayant ainsy bien Digere toutes choses, travailloit à les ranger en bon ordre, et à les appliquer }
+
+Il est temps à present, MON CHER LECTEUR, aprez avoir parcouru, quoy-qu'assez promptement le LABERINTHE de Nostre OM-
+BRE IDEALE, aprez en avoir Visité, quoy-qu'à la haste, et comme en courant, tous les tours et les détours, les coins et les recoins, autant
+qu'il est permis a un AVANT-COUREUR, il est, dis-je, temps de finir la carriere : et pour fermer nostre INTRODUCTION par quelque a-
+greable Probleme en faveur et à la gloire de L'UNITÉ, retournons, je vous prie, par cette BORDURE: et puis que nous sommes entrés
+dans l'explication de L'OUVRAGE, et que nous en avons commencé le Prelude par ces Quatre CARTOUCHES, qui font le MILIEU des Qua-
+tre COSTÉS de LA BORDURE; sortons en par les COINS de Cette mesme BORDURE, et finissons en L'Epilogue par Ces Quatre FLEURS DE LYS, sur les
+quelles vous voyez Gravé cet Avis de nostre unique MAISTRE: CONSIDEREZ LES LYS, COMMENT ILS CROISSENT.
+En effet jettez les yeux sur l'éclat de ces Lys répandus ça et là, pesle-mesle avec ces Estoiles tout le long de cette BORDURE. conside-
+rez les, je vous prie; et voyez dans la gravité de leur maintien qu'ils ne respirent rien que de Royal, soit par la hauteur et la Soli-
+dité de leur tige, soit par la fraîcheur et la Verdure de leurs Feuilles, soit enfin par la blancheur et la Majesté de leurs Fleurs.
+de sorte que se sentant de leur Noblesse, ils se declarent Volontiers tout DIVINS par la Triade de
+leur nombre, et beaucoup plus par leur estroite Union, qui en assemble Trois sur Un seul tronc.
+Sçavez vous quel est le Principe Radical de cette admirable blancheur, et de l'accroissement de ... NOS LYS? c'est leur singuliere
+UNITÉ : laquelle est dautant plus forte, qu'ils sont plus enracines sur la Sainte Montagne, qui est Nostre MERE, la SAINTE EGLISE; et
+qu'ils sont mieux exposés aux benignes Influences de son ASTRE, L'ESTOILE de JACOB, NOSTRE SAUVEUR JESUS-CHRIST, dont ils emprun-
+tent le nom de CHRESTIENS, et auquel ils font gloire d'estre Irrevocablement assujettis par la Constance et l'Integrité de LA RELIGION.
+Faut-il donc s'étonner aprez cela que NOS LYS si Saintement Indivisibles, Elevés dans le Sein de l'EGLISE, et INDUSTRES CHRESTI-
+ENS par l'Aspect fixe et continuel d'un DIEU CRUCIFIÉ, Croissent si heureusement? Voicy qu'Eux-mesmes respondent Comment, A touts Ceux
+qui sont Curieux de le sçavoir.
+
+<vocab>Oraïson Chrestiennement-Kabbalistique, Sagesse Universelle, Jesus-Christ-Crucifié, La Propositive, La Positive, L'Expositive, La Compositive, La Dispositive, L'Unité, Bordure, Fleurs de Lys, Estoile de Jacob</vocab>
+
+--- Page 75 ---
+<lang>None</lang>
+<warning>The image provided is a blank page, likely a flyleaf or endpaper, and contains no legible text, headings, or illustrations to transcribe. There is some minor foxing and ghosting from the reverse side, but no direct content on this page.</warning>
+
+--- Page 76 ---
+<lang>und</lang>
+<page-num>19</page-num>
+<meta>This page is a blank leaf, likely a flyleaf or endpaper, containing only a handwritten folio number. There is visible foxing and some show-through from the verso side.</meta>
+
+--- Page 77 ---
+<lang>None</lang>
+<meta>Blank leaf, likely a flyleaf or endpaper; faint ghosting/offset from an adjacent printed page is visible in the center.</meta>
+<warning>This page contains no visible or legible text.</warning>
+
+[The page is blank.]
+
+<vocab>blank page, flyleaf, foxing, offset</vocab>
+
+--- Page 78 ---
+<lang>und</lang>
+<page-num>19</page-num>
+<warning>The page is largely blank with significant foxing and some light ink bleed-through from the reverse side.</warning>
+<meta>Handwritten number '19' located at top center.</meta>
+
+<vocab>pagination</vocab>
+
+<detected-images>
+[{"description": "Marbled paper visible on the right and bottom edges of the book binding.", "type": "decorative", "bbox": {"x": 0.0, "y": 0.0, "width": 1.0, "height": 1.0}, "gallery_quality": 0.3, "museum_rationale": "The marbled paper is a standard decorative element of a period bookbinding, specifically visible at the fore-edge and tail-edge."}]
+</detected-images>
+
+--- Page 79 ---
+<lang>fr</lang>
+<page-num>19.</page-num>
+<meta>Handwritten "4" in the top right margin. The text is engraved within a simple rectangular border.</meta>
+<sig>Caumartin, Fecit.</sig>
+
+### LES LYS CROISSENT PAR LA VERTU DE L'UNITÉ.
+
+Car c'est par le moyen de **l'UNITÉ** que **LA JUSTICE**, qui fait **l'AME** d'un **ROYAUME**, s'insinuë dans ses **LOIX**, et ses **LOIX** dans ses **PEUPLES**. c'est Elle, qui fait **L'AUTHORITÉ** de la **Majesté Royale**, et **LE NERF** de sa **Puissance**. C'est Elle, qui donne de **LA FORCE AUX COURAGES**, du **COURAGE** a ses **FORCES**, et **DE LA TERREUR** a ses **Armes Victorieuses** : Qui fait reussir **LES ARTS**, **Fleurir LES SCIENCES, Prosperer LE COMMERCE**. C'est Elle, enfin, qui par toutes ces choses forme et maintient dans sa splendeur **l'UNITE** florissant **EMPIRE de LA REPUBLIQUE DES LYS**. Voila donc comment **Croissent NOS LYS** par le moyen d'une si favorable **UNITE** je veux dire sous les auspices particuliers de **JESUS-CHRIST**, qui rassemble et reünit tout ce qui luy appartient, comme font principalement **NOS LYS** en qualité de **TRES-CHRESTIENS**. Puis sous la **Protection de L'EGLISE Nostre MERE**, qui est singulierement **UNE**, et qui les favorise comme ses **Aisnés** par des graces **Signalées** pour cimenter encore davantage et augmenter cette **UNITE**. enfin sous la plus excellente **FORME du Gouvernement Politique**; laquelle prenant le Nom de **MONARCHIE** de l'Unité de son **Chef**, a pour **Exemplaires les Souverains Gouvernemens DE L'UNIVERS** et du **CHRISTIANISME**, qui sont tous deux reglés par **LA PUISSANCE** d'une seule **Majesté**, afin d'unir les **Esprits** des fidelles dans **L'EGLISE**, et des **Peuples** dans un **ROYAUME**, comme le font dans **LE MONDE les ESPECES** et les **Vertus** des **choses**.
+
+C'est ce qui nous est magnifiquement **Insinué**, tant par **LA SAINTETÉ D'INNOCENT XI.** seant heureusement aujourd'huy sur **LA CHAIRE DE SAINT PIERRE**, que par **l'Auguste MAJESTÉ de LOUIS XIIII.** de **Glorieux** et **Triomphant Regne**. les Voilà tous deux **Assis**, chacun de son costé sur **son Throne, Attachés Inseparablement à l'UNITE** ; (Car
+
+->**COMME UN SEUL VIENT D'UN SEUL; DE MESME A UN SUJET UN SEUL;**<-
+
+Qui pouroit cependant **suffire** à plusieurs autres,) et qui d'un regard **fixe** et **attentif** sur **JESUS-CHRIST** semblent estudier en **LUY** fort à propos les **LOIX de L'UNIVERS**, qui ne respirent que **L'UNITE**, pour gouverner heureusement **Chacun son ESTAT** sur ce **DIVIN ORIGINAL**. Au reste nous devions **DES SPECTATEURS** de ce **CARACTERE** à **Nostre UNIVERS**; et nous devions **Nostre UNIVERS** à **DES Spectateurs** de ce **RANG**. nous devions **CES SPECTATEURS** a **Nostre UNIVERS**, puis que nous n'avons rien de plus **Illustre** dans **LE MONDE** pour soustenir le merite de cet **OUVRAGE**, et le rendre recommandable: et **Nous devions Nostre UNIVERS** à **Ces Spectateurs**, puis qu'ayant pris naissance sous leur **Regne**, et estant tout a **JESUS-CHRIST**, parcequ'il est tout **CHRESTIEN**, il ne pouvoit appartenir de plus prez a **Aucun Autre**, qu'**AU VICAIRE LEGITIME DE JESUS-CHRIST ET AU ROY TRES-CHRESTIEN**.
+
+<note>Les Permissions et Approbations estant sur la Planche Latine je me suis contenté de mettre icy les sentimens de quelques scavans sur cet ouvrage, apres les avoir tirés de leurs lettres ecrites a l'Auteur, n'ayat pû les doner toutes entieres au Public, ainsy que j'aurois souhaité, a cause du peu de place qui me restoit icy Mais si-tost que l'occasion s'en presentera je ne manqueray pas de faire, tant po l'honeur dû au merite de ces Illustres Persones, que pour la gloire de nostre Auteure</note>
+
+<vocab>Lys, Unité, Justice, Louis XIV, Innocent XI, Monarchie, Christianisme, Caumartin, TRES-CHRESTIENS</vocab>
+
+--- Page 80 ---
+<lang>None</lang>
+<meta>Blank flyleaf or endpaper. Marbled binding and page edges visible on the left.</meta>
+<warning>The page is blank. There is faint ghosting or show-through of text from the reverse side or facing page, which is illegible.</warning>
+
+_This page is blank._
+
+--- Page 81 ---
+<lang>Unknown</lang>
+<page-num>20</page-num>
+<page-num>4</page-num>
+<meta>The page is a blank sheet of paper, likely a flyleaf or endpaper, containing two handwritten numbers. A large "20" is written in ink in the upper-middle section, and a smaller "4" is written in the top right corner.</meta>
+
+<note>The page contains no primary text, only archival or folio numbers.</note>
+
+<vocab>manuscript, blank page, foliation, archival numbering</vocab>
+
+--- Page 82 ---
+<lang>French</lang>
+<meta>
+- Image quality: High-resolution, clear engraving.
+- Page Type: Printed preface/dedication leaf from a 17th-century work, likely "L'Ombre Idéale de la Sagesse Universelle" (1679).
+- The text appears to be an engraved plate rather than moveable type, given the specific ligatures and layout.
+- Catchwords/Signatures: None visible on the plate.
+- The page is mounted on a larger sheet with marbled paper edges.
+</meta>
+
+VOILA en quoy Consiste NOSTRE IDEHOLOSOPHISCHIE, OU L'OMBRE IDÉALE DE LA SAGESSE UNIVERSELLE, Catholique-Chrestienne, et Chrestienne-Kabbalistique: je laisse maintenant MON CHER LECTEUR, aux Lumieres d'un Homme éclairé comme Vous, et à la sincerité de vostre bonne foy, à juger par cette INTRODUCTION PREAMBULAIRE d'une chose assez claire, ce me semble, aux yeux de ceux qui la considerent avec quelque connoissance: si Cette IDÉE VOUS paroit, comme elle a deja fait a quelques-uns, nestre pas toutafait deraisonnable, rendez en graces A JESUS-CHRIST CRUCIFIE, et Luy en rapportez la gloire, comme a L'AUTEUR de tout le bien, en attendant une plus ample Explication de Cet OUVRAGE: si au contraire, vous n'y trouvez pas la satisfaction, que vous vous en promettiez, j'espere que Vostre Charité excusera l'innocence de ma Simplicité: quoy-qu'il en puis-se arriver: voila les reflexions d'un Esprit, sur ce VASTE SUJET. Voila ce qu'en a conceu et pensé autrefois en son Coeur, cherchant du Repos dans une profonde Solitude (il la rencontre maintenant dedans l'Eternité) et ce que DEDIE VOÜE, et CONSACRE à present de tout son Coeur
+
+->AU DIEU ABANDONNE,<-
+->JESUS-CHRIST CRUCIFIE;<-
+->AU PAPE, ET AU ROY,<-
+->LE R. P. ESPRIT SABBATHIER, d'Ivoy en Berry, PREDICATEUR CAPUCIN.<-
+->L'OUVRAGE paroist au Jour en qualité de Posthume par les Soins et la diligence du R.P. FRANÇOIS-MARIE de Paris, Capucin<-
+->Predicateur, Ami tres-affectionné de L'AUTEUR. A. PARIS. M. DC. LXXVIIII.<-
+->Avec Ordre et Permission des Superieurs, Approbation des Docteurs, et PRIVILEGE DU ROY.<-
+
+---
+
+### Sentimens De Quelques Sçavans sur l'Ouvrage DU R.P. ESRIT, Tires de Leurs Lettres, Escrites A L'Auteur.
+
+MON REVEREND PERE, VOSTRE FIGURE PHILOSOPHIQUE nous a Paru si belle, ... et nous avons trouvé dans Vostre Dessein la nature des choses mariée si adroitement avec l'Art, et toutes Vos pensées exprimées par des termes si propres et si elegans, que lon peut dire que vous embrassez seul ce qui est traité dans les Ouvrages de tous les Autres, qui ont entrepris de faciliter les Sciences aux Hommes, sans rien retrancher de l'estenduë de leur Objet; et qui se sont proposé de joindre la speculation à la pratique. L'Entendemēt dans Vostre Methode est satisfait par les subtiles abstractions, qui luy developent jusques aux circonstances les plus cachees des sujets, qu'il veut considerer: la Volonté est remplie par la direction qu'elle reçoit vers son Objet legitime: Et la Memoire est soulagée par le moyen de l'ordre et de l'economie qui regnent dans tout ce bel Ouvrage: Vous avez mesme trouvé des manieres de representer Vos pensées par des Jeroglyphes si agreables a la Veuë et a l'Imagination, qu'il semble que Vous ayez spiritualisé les Couleurs et les Figures pour exprimer les choses les plus elevées, et les plus eloignées des sens: en sorte que les personnes les moins subtiles peuvent découvrir avec ce secours ce qui leur seroit Inconcevable par une autre voye. Ainsy, Mon R. P. nous ne doutons pas que, si vostre Ouvrage est rendu public, ... Il ne
+
+<vocab>Ideholosophischie, Kabbalistique, Esprit Sabbathier, Capucin, Posthume, Sçavans, Jeroglyphes, Figure Philosophique</vocab>
+
+--- Page 83 ---
+<lang>None</lang>
+<meta>This is a blank page, likely a flyleaf or endpaper. The left edge shows the marbled paper of the inner binding and the edges of the book's pages.</meta>
+
+<vocab>blank page, flyleaf, endpaper</vocab>
+
+--- Page 84 ---
+<lang>fr</lang>
+<page-num>44</page-num>
+<meta>Faint circular stain in center of page, likely bleed-through or offset.</meta>
+
+-> 21^e et derniere <-
+
+<vocab>21e, derniere</vocab>
+
+--- Page 85 ---
+<lang>fr</lang>
+<meta>image quality: excellent, etched/engraved text</meta>
+<vocab>Idealis Umbra Sapientiæ Generalis, Esprit Sabbathier, François-Marie de Paris, Eschelle de Jacob, Privilége du Roy, Sciences, Arts</vocab>
+
+Soit vn grand secours pour éclaircir et faciliter les sciences et nous esperons que par une promte Impression nous aurons le moyen de profiter plus aloisir de toutes ces Lumieres cependant nous sommes, MON R.P. Vos tres humbles et tres Obeissans
+A Paris, le 23.e May 1668. Serviteurs FORMAGET, MARIGNER.
+
+J'AVOÜE fort Ingénuement, MON R.P. que, quand hier vous me fistes voir vostre CARTE je me remis aussytost en memoire cette Eschelle q' Jacob vit en son Sommeil : elle estoit posée sur la Terre, le bout touchoit le Ciel : les Anges de DIEU y montoient et descendoient, et LE SEIGNEUR y estoit appuyé... Vostre Ouvrage est une Eschelle de toutes les Sciences et de tous les Arts : c'est un Abbregé de tout ce qui peut estre connu par L'Homme, et de tout ce que L'Esprit humain est capable de comprendre. Dans cet Ouvrage, qui peut estre appelle' Tres-grand, LE P. ESPRIT est tout Esprit : et il n'y aura point d'Homme, que DIEU a formé avec un peu de diminution des Anges, qui ne puisse monter et descendre par cette Eschelle, l'on peut y appren dre tout ce qui doit, et qui peut estre sçeu. Vous l'avez tellement disposée, qu'elle est L'Appuy de JESUS-CHRIST, et qu'il en est Veritablement le Principe et La Fin... Ce n'est pas assez de dire qu'en cet Oeuvre... La Grammaire, La Mythologie, La Rhétorique, L'Oraison, et L'Histoire : La Poësie, La Logique, L'Arithmetique, et L'Algebre : La Musique, La Geometrie, La Geographie, Les Hydrauliques, L'Optique, L'Astronomie, L'Astro logie, et toutes les autres parties de Mathematique; La Morale, L'Economique, La Politique, La Physique, La Metaphysique; Les Facultés de la Juris-prudence de la Medecine, et toute La Theologie; La Police, L'Estat, L'Eglise, et la Religion ne sont encore que des parties de ce que vous avez fait : car toutes les Puissances, et seculieres, et spirituelles, et Divines, que vous y avez si parfaitement representées, y rencontrent tout ce qui peut leur appartenir. Pour dire tout en moins de mots, vous n'avez fait qu'une seule Chose de toutes choses, et ayant Vostre seule TABLE, l'on a tout. Je vous prie, Mon R.P. de ne pas dényer cet ouvrage au Publique : Chacun sans doute vous le demandera pour s'en servir : il est bien Juste que le P. Esprit dône de l'esprit à tout le Monde. Servez de secours tant à ceux qui comencent d'estudier, qu'a ceux qui sont les plus sçavans. Ce sera une Methode aux uns, et une espece de Reminiscence aux Autres. Rendez donc Public, s'il vous plaist, ce qui vous rendra... Une pareille recompense... et Vous serez benit en tous les coins du Monde. Adieu. DE GOMONT, L'Avocat.
+
+---
+
+### Extrait Du Privilége DU ROY.
+
+PAR Grace et Privil' DE SA MAJESTE' il est permis au R.P. FRANÇOIS-MARIE de Paris, Cap.n Pred.r de faire Graver et Imprimer un Ouvrage Intitulé <term>IDEALIS UMBRA SAPIENTIÆ GENERALIS</term> &c. avec son Explication le tout Inventé et Composé par le feu R.P. ESPRIT SABBATHIER, Cap.n Pred.r par tel Grav.r et Imprim.r que bon luy semblera, pendant l'espace de dix Années, et est pareillement defendu a tous autres, de quelque qualité et condition qu'ils soient, de Graver ou faire Graver, d'imprimer ou fai re Imprimer, de Vendre, faire Védre, ou debiter ledit Ouvrage, ou son Explication, en tout ou en partie, sous quelque pretexte que ce soit d'augmentation, changemét, ou diminutiõ, pendant ledit temps, sans le consentement du dit R.P. FRANC.MARIE, ou de ceux qui auront droit de luy, à peine de trois Mil Livres d'amande, et d'autres peines portées plus au long par ledit Privilege. Donné à Versailles le 21.e Jour d'Octobre, 1677. <note>J'ay lü vn ouvrage Intil. ID. UMB. SAP. GEN. Auth. R.P. SP. Sabber. Cap. fait ce 10 Oct. 1677. M. GR.</note>
+
+->PAR LE ROY en son Conseil, Signé JEANNIN.<-
+
+Registré sur le Livre de la Comunaute des Libraires et Imprimeurs de Paris le 27.e Octobre, 1677. Par E. COUTEROT, Syndic.
+
+Et ledit R.P. FRANC.MARIE a cedé et transporté le droit du preset Privil. A MAD.LLE JABLIER sa Sœur po.r en Jouïr pendant ledit temps, à condition d'en faire les frais, suivant l'accord fait entre eux le 9.e Février, 1678. Achevé d'Imprimer po.r la premiere fois le 10.e Avril, 1679.
+
+--- Page 86 ---
+<lang>Unknown</lang>
+<meta>Blank page with a visible rectangular plate mark impression and light foxing. The marbled endpaper of the binding is visible along the left edge.</meta>
+
+[This page is blank and contains no text.]
+
+<vocab>blank page, plate mark, foxing, marbled paper</vocab>
+
+--- Page 87 ---
+<lang>None</lang>
+<warning>This page is a blank flyleaf and contains no text, diagrams, or annotations to transcribe.</warning>
+<meta>Blank endpaper; decorative marbled paper from the inner cover is visible along the right edge.</meta>
+
+<vocab>blank page, flyleaf, endpaper, marbled paper</vocab>
+
+<detected-images>
+[{"description": "Decorative marbled paper border in a repeating scalloped pattern of blue, red, and yellow, appearing on the edge of the book's binding.", "type": "decorative", "bbox": {"x": 0.928, "y": 0.017, "width": 0.063, "height": 0.941}, "gallery_quality": 0.4, "museum_rationale": "Representative example of historical marbled paper used in bookbinding."}]
+</detected-images>
+
+--- Page 88 ---
+<lang>None</lang>
+<meta>This page is blank. It appears to be a flyleaf or endpaper, with the marbled paper of the binding visible along the left, top, and bottom edges.</meta>
+
+<vocab>blank page, flyleaf, endpaper, marbled paper</vocab>
+
+<detected-images>
+[{"description": "Marbled paper binding with a traditional comb pattern in blue, red, yellow, and white, visible on the inner edges of the book cover.", "type": "decorative", "bbox": {"x": 0.0, "y": 0.0, "width": 1.0, "height": 1.0}, "gallery_quality": 0.4, "museum_rationale": "Standard decorative marbled paper used in historical bookbinding for endpapers and covers."}]
+</detected-images>
+
+--- Page 89 ---
+<lang>None</lang>
+<page-num>1</page-num>
+<meta>Blank flyleaf or endpaper with marbled binding visible at the edges. Minor foxing and stains are present on the paper surface.</meta>
+
+[The page is blank.]
+
+<detected-images>
+[{"description": "Marbled paper decorative border from the book binding, featuring a traditional 'combed' or 'non-pareil' pattern in blue, red, yellow, and white.", "type": "decorative", "bbox": {"x": 0.0, "y": 0.0, "width": 1.0, "height": 1.0}, "gallery_quality": 0.6, "museum_rationale": "The marbled edges are a significant example of period bookbinding techniques and decorative arts typical of 17th-19th century manuscripts."}]
+</detected-images>
+
+--- Page 90 ---
+<lang>None</lang>
+<warning>This page is a blank leaf and contains no manuscript or printed text.</warning>
+<meta>Image shows a blank page, likely a flyleaf, with marbled paper visible at the left edge from the inner cover binding. There is a small foxing mark or stain in the upper-right quadrant.</meta>
+<vocab>blank page, flyleaf, marbled paper, bookbinding</vocab>
+
+<detected-images>
+[{"description": "Decorative marbled paper edge along the binding side", "type": "decorative", "bbox": {"x": 0.0, "y": 0.015, "width": 0.084, "height": 0.985}, "gallery_quality": 0.4, "museum_rationale": "Standard decorative marbled paper commonly used for endpapers and cover edges in early modern bookbinding."}]
+</detected-images>
+
+--- Page 91 ---
+<lang>zxx</lang>
+<meta>This is a blank flyleaf or endpaper from a bound manuscript. The right edge shows the marbled paper of the interior cover binding.</meta>
+<warning>The page contains no text.</warning>
+
+<detected-images>
+[{"description": "Marbled paper decorative border on the book's inner cover and flyleaf edge", "type": "decorative", "bbox": {"x": 0.915, "y": 0.031, "width": 0.081, "height": 0.941}, "gallery_quality": 0.5, "museum_rationale": "A standard example of marbled paper used in historical bookbinding for decorative endpapers."}]
+</detected-images>
+
+--- Page 92 ---
+<lang>None</lang>
+<meta>This is a blank manuscript page, likely a flyleaf or endpaper. There is visible foxing and some minor staining. A decorative marbled paper border is visible along the left and bottom edges, which belongs to the volume's binding or the adjacent pastedown.</meta>
+
+[Blank Page]
+
+<vocab></vocab>
+
+<detected-images>
+[{"description": "Decorative marbled paper border on the left and bottom edges of the leaf.", "type": "decorative", "bbox": {"x": 0.0, "y": 0.0, "width": 0.81, "height": 0.98}, "gallery_quality": 0.5, "museum_rationale": "The marbled paper is a standard decorative element of historical bookbindings, showing a typical 'peacock' or 'combed' pattern popular in the 17th-19th centuries."}]
+</detected-images>
+
+--- Page 93 ---
+<lang>nl</lang>
+<meta>Archival flyleaf with library notations and marbled paper edges. The primary language of the annotations is Dutch.</meta>
+
+<insert>
+28994
+LGKT
+</insert>
+
+<insert>
+c III, 9731
+</insert>
+
+<insert>
+coll: compl (plano tot blzz. verknipt)
+6/4/94
+JB
+</insert>
+
+<insert>
+UBN 10425
+</insert>
+
+<vocab>UBN, collatio, compl, plano, blzz, verknipt</vocab>
+
+<detected-images>
+[{"description": "Marbled paper decorative border on the edges of the flyleaf", "type": "decorative", "bbox": {"x": 0.0, "y": 0.0, "width": 1.0, "height": 1.0}, "gallery_quality": 0.3, "museum_rationale": "Standard marbled paper used for endpapers and borders in historical bookbinding."}]
+</detected-images>
+
+--- Page 94 ---
+<lang>None</lang>
+
+<vocab>marbled paper, nonpareil pattern, comb pattern, bookbinding, vellum spine, book cover</vocab>
+
+<detected-images>
+[{"description": "Decorative marbled paper cover with a nonpareil/comb pattern in shades of red, blue, green, and yellow, attached to a vellum spine.", "type": "decorative", "bbox": {"x": 0.0, "y": 0.0, "width": 1.0, "height": 1.0}, "gallery_quality": 0.85, "museum_rationale": "High-quality representative example of historical bookbinding decorative techniques, specifically nonpareil marbling common from the 17th to 19th centuries."}]
+</detected-images>

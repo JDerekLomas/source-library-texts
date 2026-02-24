@@ -1,0 +1,28 @@
+{
+  "id": "69905c9eaaa7f10ed4cfc7d2",
+  "title": "The Power of Silence: An Interpretation of Life in Its Relation to Health and Happiness",
+  "display_title": "The Power of Silence",
+  "author": "Horatio W. Dresser",
+  "language": "English",
+  "year": 1903,
+  "published": "Unknown",
+  "pages_count": 230,
+  "pages_with_ocr": 93,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/69905c9eaaa7f10ed4cfc7d2",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "powerofsilencein00dres"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:29:01.631Z",
+  "_hashes": {
+    "ocr": "1b80bf94d51793fa",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

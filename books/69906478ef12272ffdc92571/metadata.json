@@ -1,0 +1,28 @@
+{
+  "id": "69906478ef12272ffdc92571",
+  "title": "Hora Sara and Ashtavarga Jataka (manuscript)",
+  "display_title": "Hora Sara and Ashtavarga Jataka (manuscript)",
+  "author": "Prithuyashas",
+  "language": "Sanskrit",
+  "year": null,
+  "published": "Unknown",
+  "pages_count": 97,
+  "pages_with_ocr": 97,
+  "pages_with_translation": 97,
+  "source_url": "https://sourcelibrary.org/book/69906478ef12272ffdc92571",
+  "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "B95FHoraSaraAshtavargaJatakManuscriptsByIAMVISIONARYTUNES"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:56.468Z",
+  "_hashes": {
+    "ocr": "8f0a5a7e5c73e3a4",
+    "translation": "7d36bb4e0f8858d1"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "6992ce6d77d26f9321776d69",
+  "title": "三才圖會(九十七)",
+  "display_title": "三才圖會(九十七)",
+  "author": "王圻, 王思義",
+  "language": "Chinese",
+  "year": 1607,
+  "published": "1607",
+  "pages_count": 95,
+  "pages_with_ocr": 95,
+  "pages_with_translation": 76,
+  "source_url": "https://sourcelibrary.org/book/6992ce6d77d26f9321776d69",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "02098364.cn"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:59.634Z",
+  "_hashes": {
+    "ocr": "955c0245e39076fc",
+    "translation": "b8ea2532ae323b41"
+  }
+}

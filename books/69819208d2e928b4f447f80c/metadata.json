@@ -1,0 +1,26 @@
+{
+  "id": "69819208d2e928b4f447f80c",
+  "title": "La loy salique",
+  "display_title": "La loy salique",
+  "author": "Postel, Guillaume",
+  "language": "French",
+  "year": 1553,
+  "published": "1553",
+  "pages_count": 92,
+  "pages_with_ocr": 92,
+  "pages_with_translation": 92,
+  "source_url": "https://sourcelibrary.org/book/69819208d2e928b4f447f80c",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:02.275Z",
+  "_hashes": {
+    "ocr": "834972d55851ede2",
+    "translation": "5710747c96bd610d"
+  }
+}

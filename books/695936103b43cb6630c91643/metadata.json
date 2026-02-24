@@ -1,0 +1,28 @@
+{
+  "id": "695936103b43cb6630c91643",
+  "title": "Lesser Key of Solomon (Goetia) - De Laurence Edition",
+  "display_title": "Lesser Key of Solomon (Goetia) - De Laurence Edition",
+  "author": "King Solomon (attr.)",
+  "language": "English",
+  "year": 1916,
+  "published": "Unknown",
+  "pages_count": 98,
+  "pages_with_ocr": 98,
+  "pages_with_translation": 98,
+  "source_url": "https://sourcelibrary.org/book/695936103b43cb6630c91643",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "lesserkeyofsolom00dela"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:54.265Z",
+  "_hashes": {
+    "ocr": "5bab195763c4cff1",
+    "translation": "ac12d1f84ff97da8"
+  }
+}

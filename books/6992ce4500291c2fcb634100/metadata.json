@@ -1,0 +1,28 @@
+{
+  "id": "6992ce4500291c2fcb634100",
+  "title": "武備志(五十二)",
+  "display_title": "武備志(五十二)",
+  "author": "茅元儀",
+  "language": "Chinese",
+  "year": 1621,
+  "published": "1621",
+  "pages_count": 98,
+  "pages_with_ocr": 98,
+  "pages_with_translation": 79,
+  "source_url": "https://sourcelibrary.org/book/6992ce4500291c2fcb634100",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "02092310.cn"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:53.470Z",
+  "_hashes": {
+    "ocr": "9b154019b2b30423",
+    "translation": "c37a68347725a8fd"
+  }
+}

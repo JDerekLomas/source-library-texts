@@ -1,0 +1,28 @@
+{
+  "id": "69906834249ce014347d5cef",
+  "title": "Shiva Svarodaya with Bhasha Tika",
+  "display_title": "Shiva Svarodaya with Bhasha Tika",
+  "author": "Mihira Chandra",
+  "language": "Sanskrit",
+  "year": 1920,
+  "published": "Unknown",
+  "pages_count": 98,
+  "pages_with_ocr": 98,
+  "pages_with_translation": 98,
+  "source_url": "https://sourcelibrary.org/book/69906834249ce014347d5cef",
+  "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "OMtY_shiva-svarodaya-with-bhasha-tika-by-pt.-mihira-chandra-khemaraja"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:54.399Z",
+  "_hashes": {
+    "ocr": "6c51900e2613ea28",
+    "translation": "01b7387b9cbbdf3f"
+  }
+}

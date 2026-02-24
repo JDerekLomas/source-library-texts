@@ -1,0 +1,28 @@
+{
+  "id": "69905c85aaa7f10ed4cfbbc3",
+  "title": "The Principles of Nature, Her Divine Revelations, and a Voice to Mankind",
+  "display_title": "The Principles of Nature",
+  "author": "Andrew Jackson Davis",
+  "language": "English",
+  "year": 1847,
+  "published": "Unknown",
+  "pages_count": 822,
+  "pages_with_ocr": 99,
+  "pages_with_translation": 91,
+  "source_url": "https://sourcelibrary.org/book/69905c85aaa7f10ed4cfbbc3",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "principlesofnatu00davi"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:52.530Z",
+  "_hashes": {
+    "ocr": "74318365f2c642dc",
+    "translation": "ea538b8c686b23f8"
+  }
+}

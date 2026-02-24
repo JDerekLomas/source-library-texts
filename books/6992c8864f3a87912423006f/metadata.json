@@ -1,0 +1,28 @@
+{
+  "id": "6992c8864f3a87912423006f",
+  "title": "三才圖會 (Sancai Tuhui) - Illustrated Encyclopedia of the Three Realms",
+  "display_title": "三才圖會 (Sancai Tuhui) - Illustrated Encyclopedia of the Three Realms",
+  "author": "Wang Qi (王圻) & Wang Siyi (王思義)",
+  "language": "Chinese",
+  "year": 1609,
+  "published": "1609",
+  "pages_count": 96,
+  "pages_with_ocr": 96,
+  "pages_with_translation": 77,
+  "source_url": "https://sourcelibrary.org/book/6992c8864f3a87912423006f",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "02098268.cn"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:58.257Z",
+  "_hashes": {
+    "ocr": "2e670c7f2e0cdab7",
+    "translation": "e0f48276589351da"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "699258718812793469fd9b31",
+  "title": "Gitanjali (Song Offerings)",
+  "display_title": "Gitanjali (Song Offerings)",
+  "author": "Rabindranath Tagore (intro. W.B. Yeats)",
+  "language": "English",
+  "year": 1912,
+  "published": "Unknown",
+  "pages_count": 94,
+  "pages_with_ocr": 94,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/699258718812793469fd9b31",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "gitanjalisongoff00tago_0"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:29:00.256Z",
+  "_hashes": {
+    "ocr": "3f3458f2ab928562",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

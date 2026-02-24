@@ -1,0 +1,26 @@
+{
+  "id": "69791d88f35c6bbfbfd252dd",
+  "title": "La clavicule de la science hermetique",
+  "display_title": "La clavicule de la science hermetique",
+  "author": "anonymous",
+  "language": "French",
+  "year": 1751,
+  "published": "1751",
+  "pages_count": 93,
+  "pages_with_ocr": 93,
+  "pages_with_translation": 93,
+  "source_url": "https://sourcelibrary.org/book/69791d88f35c6bbfbfd252dd",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:01.272Z",
+  "_hashes": {
+    "ocr": "229e42cbf2642700",
+    "translation": "656b735b3528b01e"
+  }
+}

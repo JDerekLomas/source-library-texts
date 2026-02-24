@@ -1,0 +1,28 @@
+{
+  "id": "6992ceea673ee1e40e321bf3",
+  "title": "武備志(八十八)",
+  "display_title": "武備志(八十八)",
+  "author": "茅元儀",
+  "language": "Chinese",
+  "year": 1621,
+  "published": "1621",
+  "pages_count": 95,
+  "pages_with_ocr": 95,
+  "pages_with_translation": 76,
+  "source_url": "https://sourcelibrary.org/book/6992ceea673ee1e40e321bf3",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "02092346.cn"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:59.032Z",
+  "_hashes": {
+    "ocr": "54952839d8b75ab4",
+    "translation": "e7b97b291c3db799"
+  }
+}

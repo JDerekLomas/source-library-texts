@@ -1,0 +1,26 @@
+{
+  "id": "698420e1f1fb376a3d580618",
+  "title": "L'Ombre ideale de la sagesse universelle",
+  "display_title": "L'Ombre ideale de la sagesse universelle",
+  "author": "[Sabbathier, le R.P Esprit]",
+  "language": "French",
+  "year": 1679,
+  "published": "1679",
+  "pages_count": 94,
+  "pages_with_ocr": 94,
+  "pages_with_translation": 94,
+  "source_url": "https://sourcelibrary.org/book/698420e1f1fb376a3d580618",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:00.414Z",
+  "_hashes": {
+    "ocr": "aec56653caaed0a1",
+    "translation": "3f012057774cecf4"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "69520539ab34727b1f04267d",
+  "title": "Sphinx mystagoga",
+  "display_title": "Sphinx mystagoga",
+  "author": "Athanasius Kircher",
+  "language": "Latin",
+  "year": 1676,
+  "published": "1676",
+  "pages_count": 99,
+  "pages_with_ocr": 99,
+  "pages_with_translation": 99,
+  "source_url": "https://sourcelibrary.org/book/69520539ab34727b1f04267d",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "gallica": "bpt6k111870k"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": null,
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:52.327Z",
+  "_hashes": {
+    "ocr": "1557473669c9b927",
+    "translation": "f4ae727a825eea7f"
+  }
+}

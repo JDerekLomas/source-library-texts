@@ -1,0 +1,26 @@
+{
+  "id": "6988a5a042616682a1d17809",
+  "title": "Der Röm. Spannischen Cantzley Appendix",
+  "display_title": "Der Röm. Spannischen Cantzley Appendix",
+  "author": "anonymous",
+  "language": "German",
+  "year": 1625,
+  "published": "1625",
+  "pages_count": 98,
+  "pages_with_ocr": 98,
+  "pages_with_translation": 98,
+  "source_url": "https://sourcelibrary.org/book/6988a5a042616682a1d17809",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:53.640Z",
+  "_hashes": {
+    "ocr": "807e56819a9e4bbf",
+    "translation": "3c41c83bde4118e7"
+  }
+}

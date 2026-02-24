@@ -1,0 +1,28 @@
+{
+  "id": "69905e372fd6a039938a1793",
+  "title": "Liber Aggregationis, seu Liber Secretorum de Virtutibus Herbarum",
+  "display_title": "Liber Aggregationis, seu Liber Secretorum de Virtutibus Herbarum",
+  "author": "Albertus Magnus",
+  "language": "Latin",
+  "year": 1478,
+  "published": "Unknown",
+  "pages_count": 92,
+  "pages_with_ocr": 92,
+  "pages_with_translation": 92,
+  "source_url": "https://sourcelibrary.org/book/69905e372fd6a039938a1793",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "ita-bnc-in2-00001663-001"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:29:02.591Z",
+  "_hashes": {
+    "ocr": "9c536b3812d65191",
+    "translation": "2b6225ac09f94d9f"
+  }
+}

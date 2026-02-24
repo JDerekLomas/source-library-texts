@@ -1,0 +1,28 @@
+{
+  "id": "6991ea602f801130a473d44e",
+  "title": "La Legge del Catasto fiorentino del 1427",
+  "display_title": "La Legge del Catasto fiorentino del 1427",
+  "author": "Otto Karmin (ed.)",
+  "language": "Italian",
+  "year": 1912,
+  "published": "Unknown",
+  "pages_count": 92,
+  "pages_with_ocr": 92,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/6991ea602f801130a473d44e",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "laleggedelcatas00firegoog"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-02-24T18:29:02.323Z",
+  "_hashes": {
+    "ocr": "69019f041a571321",
+    "translation": "e3b0c44298fc1c14"
+  }
+}

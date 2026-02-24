@@ -1,0 +1,26 @@
+{
+  "id": "697b079aea5a5d2bda197d25",
+  "title": "Epistolae de secretis operibus artis et naturae",
+  "display_title": "Epistolae de secretis operibus artis et naturae",
+  "author": "Bacon, Roger",
+  "language": "Latin",
+  "year": 1618,
+  "published": "1618",
+  "pages_count": 95,
+  "pages_with_ocr": 95,
+  "pages_with_translation": 95,
+  "source_url": "https://sourcelibrary.org/book/697b079aea5a5d2bda197d25",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:58.852Z",
+  "_hashes": {
+    "ocr": "1b0c0e49c173c47e",
+    "translation": "ba3134d356588a9e"
+  }
+}

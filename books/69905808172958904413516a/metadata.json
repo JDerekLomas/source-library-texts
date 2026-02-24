@@ -1,0 +1,28 @@
+{
+  "id": "69905808172958904413516a",
+  "title": "Entdeckungen ueber die Theorie des Klanges",
+  "display_title": "Entdeckungen über die Theorie des Klanges",
+  "author": "Ernst Florens Friedrich Chladni",
+  "language": "German",
+  "year": 1787,
+  "published": "Unknown",
+  "pages_count": 123,
+  "pages_with_ocr": 95,
+  "pages_with_translation": 77,
+  "source_url": "https://sourcelibrary.org/book/69905808172958904413516a",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "10908815bsb"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-02-24T18:28:58.773Z",
+  "_hashes": {
+    "ocr": "57672a32fafed3de",
+    "translation": "da5b5c61bd96ea67"
+  }
+}
