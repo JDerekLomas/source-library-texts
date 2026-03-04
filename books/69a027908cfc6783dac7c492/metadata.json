@@ -1,0 +1,26 @@
+{
+  "id": "69a027908cfc6783dac7c492",
+  "title": "Tetradymus. Containing I. Hodegus ... II. Clidophorus ... III. Hypatia. ... IV. Mangoneutes",
+  "display_title": "Tetradymus. Containing I. Hodegus ... II. Clidophorus ... III. Hypatia. ... IV. Mangoneutes",
+  "author": "Toland, John",
+  "language": "English",
+  "year": 1720,
+  "published": "1720",
+  "pages_count": 298,
+  "pages_with_ocr": 297,
+  "pages_with_translation": 279,
+  "source_url": "https://sourcelibrary.org/book/69a027908cfc6783dac7c492",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-04T22:01:03.257Z",
+  "_hashes": {
+    "ocr": "cc86032908877bf7",
+    "translation": "c7397f2e55511f42"
+  }
+}
