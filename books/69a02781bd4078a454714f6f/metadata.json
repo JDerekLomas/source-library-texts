@@ -1,0 +1,26 @@
+{
+  "id": "69a02781bd4078a454714f6f",
+  "title": "The third booke of the authour being the high and deepe searching out of the threefold life of man",
+  "display_title": "The third booke of the authour being the high and deepe searching out of the threefold life of man",
+  "author": "Boehme, Jacob",
+  "language": "English",
+  "year": 1650,
+  "published": "1650",
+  "pages_count": 386,
+  "pages_with_ocr": 386,
+  "pages_with_translation": 125,
+  "source_url": "https://sourcelibrary.org/book/69a02781bd4078a454714f6f",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-04T21:50:53.619Z",
+  "_hashes": {
+    "ocr": "1aae3d25eb18c8cc",
+    "translation": "862ac4b4b4c3f29e"
+  }
+}
