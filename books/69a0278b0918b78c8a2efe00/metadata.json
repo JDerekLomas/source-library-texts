@@ -1,0 +1,26 @@
+{
+  "id": "69a0278b0918b78c8a2efe00",
+  "title": "Traces du magnetisme",
+  "display_title": "Traces of Magnetism",
+  "author": "[Cambry, Jacques]",
+  "language": "French",
+  "year": 1784,
+  "published": "1784",
+  "pages_count": 56,
+  "pages_with_ocr": 56,
+  "pages_with_translation": 51,
+  "source_url": "https://sourcelibrary.org/book/69a0278b0918b78c8a2efe00",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-04T22:10:47.426Z",
+  "_hashes": {
+    "ocr": "180e62dbe76857c3",
+    "translation": "cd4342dbb7189ff3"
+  }
+}
