@@ -1,14 +1,14 @@
 {
   "id": "6978ee3a80caf3f781acfd97",
   "title": "Christus der groesste Held im Kampfe",
-  "display_title": "Christus der groesste Held im Kampfe",
+  "display_title": "Christ the Greatest Hero in Battle",
   "author": "Eckartshausen, Karl von",
   "language": "German",
   "year": 1804,
   "published": "1804",
   "pages_count": 260,
   "pages_with_ocr": 260,
-  "pages_with_translation": 200,
+  "pages_with_translation": 253,
   "source_url": "https://sourcelibrary.org/book/6978ee3a80caf3f781acfd97",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:27:06.038Z",
+  "synced_at": "2026-03-04T14:10:38.277Z",
   "_hashes": {
     "ocr": "e80faab1c923765e",
-    "translation": "aa4bf41e0a965623"
+    "translation": "83bca597d0bb3b6b"
   }
 }
