@@ -1,0 +1,26 @@
+{
+  "id": "699efa00eb65a28130254492",
+  "title": "Sofompaneas of Josef in 't hof",
+  "display_title": "Sophompaneas, or Joseph at Court",
+  "author": "Groot, Hugo de",
+  "language": "Dutch",
+  "year": 1655,
+  "published": "1655",
+  "pages_count": 65,
+  "pages_with_ocr": 65,
+  "pages_with_translation": 54,
+  "source_url": "https://sourcelibrary.org/book/699efa00eb65a28130254492",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-04T17:00:47.602Z",
+  "_hashes": {
+    "ocr": "85523d25ddd0983e",
+    "translation": "18b6f6a2e6c173ad"
+  }
+}
