@@ -19,16 +19,19 @@ He himself, however, who rashly coveted his place while he was still living, bei
 <keywords>Bishop Stephen, Church of Malta, canon law, deposition, penance, viaticum, ecclesiastical justice, monastery</keywords>
 
 --- Page 2 ---
-<meta>Ex-libris page showing ownership of the volume.</meta>
-<page-num>130</page-num>
-<header>None</header>
+<meta>This page represents a shift from the historical 6th-century ecclesiastical text of the previous folios to the modern history of the physical volume itself. It contains the personal bookplate of a former owner, Theodore Besterman, which was likely added during the 20th century when the manuscript was part of his private collection.</meta>
 
-<image-desc>An ownership label (ex-libris) is pasted at the top left. It features a decorative border and calligraphic script.</image-desc>
+### Page 130
 
-Theodore Besterman <note>Besterman (1904–1976) was a noted bibliographer and biographer of Voltaire.</note>
+<insert>
+<image-desc>A rectangular bookplate <note>Also known as an *ex-libris*, a printed label pasted into a book to indicate ownership</note> is pasted into the upper left corner of the page. The label features a double-line border with stylized fleur-de-lis <note>A decorative lily symbol often used in heraldry</note> ornaments at each corner. The name "Theodore Besterman" is written in an ornate, calligraphic script with extensive decorative flourishes. Small initials "P." and "S." appear in the lower left and right corners of the inner border, respectively. A handwritten number "130" is circled in pencil, overlapping the bottom of the calligraphic design.</image-desc>
 
-<summary>A blank page containing the personal bookplate of the bibliographer Theodore Besterman.</summary>
-<keywords>Theodore Besterman, ex-libris, bookplate, ownership</keywords>
+->Theodore<-
+->Besterman<- <note>Theodore Besterman (1904–1976) was a world-renowned British bibliographer and biographer, most famous for his monumental work on Voltaire and his "World Bibliography of Bibliographies." This plate confirms that this manuscript was once part of his esteemed library.</note>
+</insert>
+
+<summary>This page features the personal bookplate of the 20th-century bibliographer Theodore Besterman, providing important evidence of the manuscript's provenance and its journey through private collections.</summary>
+<keywords>Theodore Besterman, bookplate, ex-libris, provenance, bibliography, fleur-de-lis, manuscript history</keywords>
 
 --- Page 3 ---
 <meta>Continuing from the previous page featuring the bookplate of Theodore Besterman; this page is a modern administrative addition documenting the book's transition into a digital format.</meta>
@@ -45,14 +48,6 @@ Theodore Besterman <note>Besterman (1904–1976) was a noted bibliographer and b
 
 <summary>This page is a modern digitization placeholder added by the Getty Research Institute to document the electronic preservation of the volume in 2012.</summary>
 <keywords>digitization, Internet Archive, Getty Research Institute, provenance, Albrecht Dürer</keywords>
-
---- Page 4 ---
-<meta>Blank page with a physical blemish.</meta>
-
-<image-desc>A plain page with a single brown stain in the center.</image-desc>
-
-<summary>A blank leaf from the manuscript or printed book, notable only for a centered age stain.</summary>
-<keywords>blank page, stain</keywords>
 
 --- Page 5 ---
 <meta>This page follows a blank introductory leaf with a minor blemish. The current page is the title page of Albrecht Dürer's seminal work on geometry. Note that there is significant ink "ghosting" or "show-through" from the reverse side and a prominent damp stain in the center.</meta>
@@ -250,17 +245,23 @@ But if you wish to expand the fields even more on the outside of the spiral and 
 <keywords>geometry, spiral construction, Albrecht Dürer, drafting techniques, snail line, mathematical instruments, perspective</keywords>
 
 --- Page 13 ---
-## The modified snail-line
-## The modified snail-line, empty
+<meta>This page continues the technical instructions for constructing geometric curves. The previous page detailed the division of a straightedge into 24 unequal segments using a geometric method involving a curve and a diagonal line. These segments are now applied to create a "snail line" or spiral where the distance between the lines decreases as they approach the center.</meta>
 
-<insert>
-Also, if you want to place straight lines on a <term>snail-line</term> <note>original: "schneckenlini"</note> at all the numbers of the points, which arrange themselves in order, then do it thus: take a <term>straightedge</term> <note>original: "richscheyt"</note> and let one end touch the <term>Center .a.</term> and the other part lie on point 12, and then draw a straight line upwards. Also, let the straightedge stay still with one part constantly at the <term>Center .a.</term>, but with the other part travel all around to all points of the <term>snail-line</term>, as it is at 1, 2, 3, 4, etc., and draw straight lines upwards until you come around to the <term>Center .a.</term> This you will see drafted here below.
-</insert>
+## The altered <term>spiral</term> <note>original: "schneckenlini", literally "snail line"</note>
+## The altered spiral, plain <note>original: "ledig"; referring to the diagram stripped of its construction lines</note>
 
-### How one should properly place the lines upon the snail-line.
+<image-desc>Two geometric diagrams of spirals labeled with the number 9. The left diagram shows a spiral constructed within a circle, with points numbered 1-12 on the outer rim and 1-21 along the spiral's path. A vertical scale and a decorative bracket-like shape are positioned along the central axis. The right diagram shows the same spiral simplified ("plain"), with points 1-23 marked and the center labeled 'a'.</image-desc>
 
-<summary>Dürer provides visual examples of the modified spirals discussed on the previous page and gives instructions for drawing radiating lines from the center through each point of the spiral. This creates a starburst or fan-like effect over the curved line.</summary>
-<keywords>spiral, radiating lines, geometry, drafting, center point, snail-line</keywords>
+Furthermore, if you wish to place straight lines upon a spiral at all the numbered points, which follow one another in order, do it thus: take a <term>straightedge</term> <note>original: "richtscheynt"</note> and let one end of it touch the <term>center</term> <note>original: "centro"</note> *a*, and place the other part on point 12. From there, draw a straight line outward along the straightedge. In this manner, keep one part of the straightedge constantly still at the center *a*, but with the other part, move all the way around to all the points of the spiral—such as 1, 2, 3, 4, etc.—and draw straight lines outward until you come back around to the center *a*. This you see <term>drawn</term> <note>original: "geryssen"; often implying a precise draft or incision</note> below.
+
+->How one should properly place the lines upon the spiral.<-
+
+<image-desc>A third geometric diagram labeled with a large number 10. It shows a spiral with radial lines extending outward from the central point 'a' through various numbered points (1-23) along the curve of the spiral.</image-desc>
+
+<vocab>spiral, center, straightedge, points, digits, drawn</vocab>
+
+<summary>This page demonstrates how to draw radial lines from the center of an "altered" spiral through its numbered points to create a structured geometric figure. It emphasizes the use of a stationary straightedge at the center to ensure all lines intersect the curve's points accurately.</summary>
+<keywords>spiral, geometry, straightedge, radial lines, construction, Albrecht Dürer, measurement, center point</keywords>
 
 --- Page 14 ---
 However, how you should find, in order, the length of each straight line that is fixed upon the snail-line, do thus: take a compass, set it with one foot in point 12 and the other in point 1, and draw from there roundly upwards. Then place the compass foot in point 1 and the other in point 12; from there also draw roundly upwards. Where the two round strokes then intersect each other, there set a point .c. Do the same between all points of the figures in the snail-line, such as between 1/2 and 2/3, etc., and mark the closures of the round strokes above one after another, such as .d.e.f.g., etc., through the whole alphabet as far as it reaches. If you then draw straight lines together, .c.d. and .d.e. and .e.f. and .f.g., etc., and so through the whole revolution of all letters, they will cut for you the requested lines that are drawn out of the points 1, 2, 3, 4, etc., and so through all the other numbers. But if you want to properly divide the leaves <note>Dürer uses "leaves" to describe the petal-like shapes created by these construction arcs.</note> that have been created by the round strokes with a middle stroke, then first draw straight lines from point .c., thereafter from points .d.e.f.g., etc., toward the <term>Center .a.</term> until they reach the snail-line. Thus these things come in order, as you see drafted here below.
@@ -293,22 +294,26 @@ What I have described above, I have followed by drafting it twofold: first with 
 <keywords>geometry, compass construction, spiral, volute, Bishop's staff, leaf-boss, architectural ornament, 16th-century design</keywords>
 
 --- Page 16 ---
-These little flowers of a Bishop's
-staff <note>The "Bischoff stabs" refers to a crozier, the ornamental staff carried by high-ranking clergy. Dürer is showing how to use geometry to design the decorative "curls" or "volutes" often found on the head of the staff.</note>
+<meta>This page continues the geometric instructions from the previous page regarding the construction of a spiral and its decorative foliate elements. The previous page ended with instructions on how to divide the central vertical axis to begin the "snail-line" (spiral).</meta>
 
-<image-desc>A stylized floral or foliate design, resembling a bishop's crozier head. It consists of a central spiral from which five large, pointed petals or leaves emerge, each marked with a small horizontal line. A short, straight stem extends downwards from the center. Below the image is the number "13".</image-desc>
+This is the bare line of the bishop’s staff <note>original: *Bischoff stabs*; a crozier, the stylized ornamental staff carried by high-ranking Christian prelates.</note>.
 
-->13<-
+## 13
 
-This line serves
-for a piece of foliage.
+---
 
-<image-desc>A second stylized floral or foliate design, similar in style to the first, also resembling a crozier head or a piece of foliage. This design features a central spiral with numbered points (1 through 8, and then 10, 11) marked along its curves and the edges of the emerging petals/leaves, suggesting a construction sequence. A curved stem extends downwards and to the right from the base of the design. Below the image is the number "14".</image-desc>
+This line serves for a foliage-boss <term>foliage-boss</term> <note>original: *laubossen*; an ornamental architectural element, often found where vaulting ribs meet, carved here in a stylized leafy spiral.</note>.
 
-->14<-
+## 14
 
-<summary>This page illustrates the practical application of the previously described geometric "leaf" construction, showing how these forms can be used to design a bishop's crozier and other foliate ornaments.</summary>
-<keywords>crozier, bishop's staff, foliage, ornament, geometric design</keywords>
+Place one foot of the <term>compass</term> <note>original: *zirckel*</note> on the <term>circle-stroke</term> <note>original: *zirckelriß*; the construction line drawn with a compass.</note> at point 9, and with the other foot at point 7. And draw from there roundly outwards a round <term>circle-segment</term> <note>original: *zirckeltrum*; a portion of a circle's circumference.</note>. Then place one foot at point 7 and draw with the other foot out from point 9. And where the two curved lines meet, there place a point **c.** And draw a straight line from the circle-line at point 8 to point **c.** Do the same also between the two points 9 and 11, and place a **d** at the top where the curves meet.
+
+Thereafter, set one foot of the compass on the circle-stroke at point 11, and the other foot on the <term>spiral</term> <note>original: *schneckenlini*; literally "snail-line," a common term for a volute or spiral in 16th-century geometry.</note> at point 1, and draw from there upwards. Then again place one foot at the aforementioned point 1 and the other at point 11, and draw from there until the curved lines meet; there place an **e.** Do the same thereafter in the same way on the spiral between points 1 and 2, and 3 and 5, and 5 and 7, and 7 and 9, and 9 and 11, and mark their closures at the top, one after another: **f. g. h. i. k.**
+
+Thereafter, draw the lines for the leaves upon the spiral with straight strokes: **e. 1** <note>The transcription reads "e. 12," but based on the sequence of numbering and the diagram, this likely refers to point 1.</note>, **f. 2, g. 4, h. 6, i. 8, k. 10.** Thereafter, there remains a segment at the top between 11 and the **Center .a.**; draw that to the point **a** to complete the innermost curve.
+
+<summary>This page provides geometric instructions for drafting two specific ornaments: the basic curve of a bishop's staff and a complex foliage boss constructed through a series of overlapping compass arcs.</summary>
+<keywords>geometry, Albrecht Dürer, spiral, volute, bishop's staff, crozier, foliage boss, ornament, architectural drawing, compass construction</keywords>
 
 --- Page 17 ---
 <meta>Following the previous page's discussion on decorative foliate spirals (like those on a bishop’s staff), Dürer here explains the mathematical principles for constructing spirals—both flat and projected into three-dimensional space for architectural use.</meta>
@@ -341,41 +346,37 @@ Likewise, the aforementioned snail-lines may also be drawn with corners <note>an
 <keywords>spiral, snail-line, geometry, projection, ground plan, spiral staircase, architecture, measurement, helix</keywords>
 
 --- Page 18 ---
-<meta>This page provides the visual figure for the 3D projection described on the previous page.</meta>
+<meta>Following the previous page’s instructions on drawing a flat, two-dimensional spiral (or "snail-line"), Dürer now demonstrates how to project this shape into three-dimensional space. This technique is essential for architects and craftsmen designing spiral staircases or screw threads.</meta>
 
-15
+->This is the spiral<- <note>original: *Schnech*; literally "snail." Dürer uses this term to describe both flat spirals and three-dimensional helices.</note>
+->projected upward from<-
+->the ground plan,<- <note>original: *grund*; the base layout or plan view.</note>
+->with all the necessary lines<- <note>These are the construction lines or "projectors" seen in the diagram that connect the top view to the side view.</note>
+->from which it is made.<-
 
-This is the snail <note>original: "schnech," referring to the helix or spiral.</note>
-drawn up from
-the ground plan /
-with all the
-necessary lines
-from which it
-is made.
+<sig>C iiii</sig>
 
-<image-desc>A geometric diagram illustrating a helix (spiral) drawn on a cylinder. The cylinder is shown in perspective, with its base as a circle. The helix ascends from the center of the base, marked with points numbered 1 through 23, culminating in an alpha symbol (α) at the top. Vertical lines project from the base circle upwards, intersecting the helix. Horizontal lines also mark divisions along the cylinder's height. The base circle itself contains a spiral, also marked with corresponding numbers 1 through 23, starting from a central point labeled 'a'. The diagram includes coordinate axes labeled 'r' and 's' near the bottom right.</image-desc>
+<summary>This page illustrates the geometric construction of a three-dimensional helix by projecting points from a circular ground plan onto a vertical elevation. It marks a transition from flat geometry to the spatial projections required for architectural elements like winding stairs.</summary>
 
-<summary>This figure demonstrates the 3D projection of a spiral onto a cylinder, creating a helix. It visually represents the "upward drawing" of points from a circular ground plan to a vertical elevation.</summary>
-<keywords>helix, cylinder, projection, geometry, spiral</keywords>
+<keywords>descriptive geometry, helix, spiral, projection, ground plan, elevation, Albrecht Dürer, construction lines, architectural drafting</keywords>
 
 --- Page 19 ---
-### Here you see the snail plainly <note>The "snail" (Schnecke) refers to the spiral curve itself, shown here as a flattened or "bare" line without the cylinder structure.</note>
+<meta>Continuing from the previous page's focus on projecting a spiral into three-dimensional space, Dürer now illustrates the underlying geometric scaffold. He demonstrates how a "proportional triangle" is used to precisely divide the segments of a curve, ensuring the spiral's ascent or expansion is mathematically consistent.</meta>
 
-<image-desc>
-A geometric diagram illustrating the construction of a spiral curve. At the bottom left, there is a large right-angled triangle with vertices labeled a (top left), b (bottom left), and e (bottom right). The vertical side a-b is divided into 23 equal segments, with numbers 1 through 23 marked along its length. An arc is drawn from b to c, centered at a. Intersection points on the arc are also numbered. Above and to the right of the triangle, a spiral curve is drawn, its points corresponding to the divisions on the triangle.
-</image-desc>
+<sig>B ij</sig>
 
-From this triangle
-a.b.c. is
-the line a.b. from
-which the spiral
-line is divided
-and made.
+->Here you see the<-
+->spiral plainly<- <note>original: *Schnecken bloß*. Dürer uses the word "Schnecke" (snail) to describe both flat spirals and three-dimensional helices due to their resemblance to a snail's shell.</note>
 
-**B ij** <note>Signature mark for the second leaf of the 'B' gathering.</note>
+<image-desc>A complex geometric construction for a spiral curve. On the left, a large triangle is defined by vertices 'a' at the top, 'b' at the bottom left, and 'c' at the bottom right. The vertical line segment a-b is divided into 23 intervals, numbered 1 through 23 from bottom to top. An arc labeled 'e' extends from point 'b' into the interior of the triangle. A series of lines radiate from vertex 'a' to intersect the arc 'e'. Within the triangle, the number 16 is printed. To the right of this construction, a serpentine or spiral-like line is drawn, composed of 23 connected segments, each numbered from 1 to 23 corresponding to the divisions on the triangle. Labels 'a' and 'b' are also placed at the endpoints of this spiral line.</image-desc>
 
-<summary>This page illustrates the geometric relationship between a triangle, an arc, and the resulting spiral curve. It provides the "unrolled" or flattened view of the construction shown on the previous pages.</summary>
-<keywords>triangle geometry, spiral construction, flat projection</keywords>
+From this <term>triangle</term> <note>original: *drey angel*; literally "three-angle."</note> **a.b.c.** the line **a.b.** is made, from which the <term>spiral-line</term> <note>original: *schnecke-lini*.</note> is divided. <note>This construction shows a method of "descriptive geometry" where the dimensions of a complex curve are derived from a simpler linear scale on a triangle.</note>
+
+<gloss>Spiral, triangle, line, divided</gloss>
+
+<summary>This page illustrates the use of a proportional triangle to subdivide a spiral into twenty-three precise segments. It provides the mathematical basis for the curves shown on the preceding pages, moving from conceptual shape to practical drafting measurement.</summary>
+
+<keywords>geometry, proportional triangle, spiral, snail-line, Albrecht Dürer, drafting, measurement, subdivision</keywords>
 
 --- Page 20 ---
 <meta>This page continues the technical geometric instructions for constructing complex curves, moving from flat spirals to three-dimensional helical curves used in architecture and engineering.</meta>
@@ -410,12 +411,19 @@ Now that this base is prepared, then mark the vertical line **a. b.** into as ma
 <keywords>helix construction, stonemasonry, spiral staircases, Albrecht Dürer, engineering geometry, screw threads</keywords>
 
 --- Page 21 ---
-->This is the previously 
-described <term>spiral</term> <note>original: "schneck"</note> 
-and its <term>ground plan</term> <note>original: "grund"</note>.<--
+<meta>This page provides the visual completion of the geometric construction started on the previous page. It illustrates the "screw-line" or helix by projecting points from a circular ground plan onto a vertical elevation, a technique fundamental to both architectural drafting and mechanical engineering in the Renaissance.</meta>
 
-<summary>This page features a diagram illustrating the construction of a spiral or helix, showing both the vertical elevation and the circular base (ground plan) with their respective coordinate points.</summary>
-<keywords>spiral, ground plan, geometry, diagram, helix</keywords>
+<page-num>17</page-num>
+
+->This is the previously
+described **helix** <note>original: "schneck," literally "snail." In 16th-century technical German, this term was used for both two-dimensional spirals and three-dimensional helices, like those found in screw threads or spiral staircases.</note>
+and its **plan** <note>original: "grund." In architectural drawing, this is the horizontal base or bird’s-eye view. The diagram shows how the circle at the bottom—the plan—is used to determine the width and rotation of the vertical helix above it.</note>.<-
+
+<sig>B iij</sig>
+
+<summary>This page features a technical diagram illustrating the construction of a three-dimensional helix (screw-line) projected from a circular plan. It serves as a visual aid to the geometric instructions provided on the preceding page of the treatise.</summary>
+
+<keywords>helix, screw-line, plan view, geometric projection, Albrecht Dürer, technical drawing, 16th-century geometry</keywords>
 
 --- Page 22 ---
 <meta>This page continues the geometric instructions for constructing spirals, moving from the method described previously to a new technique involving the projection of points from a quadrant onto a semicircle.</meta>
@@ -786,14 +794,17 @@ For this line made above, one may prepare a tool so that it can be made easily, 
 <keywords>conchoid, shell-line, muschellini, geometry, drafting tools, straightedge, Albrecht Dürer, mechanical drawing</keywords>
 
 --- Page 41 ---
-<meta>This page concludes a previous geometric demonstration regarding the trajectory of a line and introduces a visual representation of a measuring rod or drafting tool.</meta>
+<meta>This page continues the technical instructions for constructing a "shell-line" (conchoid) which began on the previous page. The text describes how a mechanical device can be used to automate the manual plotting process previously explained.</meta>
 
-this little rod <note>original: "lengklein"</note> will lead this line for you from the tip, just as it should be. I have drawn my design <note>original: "meinung," literally "opinion" or "intention"</note> as follows.
+...the little pivoting arm <term>lenklein</term> <note>original: "lenklein." This refers to a movable guide-arm or small straightedge used as part of a drawing instrument.</note> will guide this line with its point at the front, just as it ought to be. I have drafted <note>original: "aufgeryssen." In this period, to "rip up" or "tear open" a line meant to draft or plot it on paper.</note> this design of mine in the following illustration.
 
-*The diagram shows a vertical scaled staff (1–32) and a horizontal scaled ruler (1–31). A diagonal rod, the "lengklein," is hinged at the base and passes through the vertical staff, ending in a spear-like tip. This appears to be a tool for calculating proportions or projecting points.*
+<column-break/>
 
-<summary>This page concludes the instruction on how a specific rod or drafting tool generates a line trajectory, accompanied by a detailed diagram of the instrument's scale and movement.</summary>
-<keywords>drafting tool, trajectory, geometry, scale, length, mechanical drawing</keywords>
+->**[DIAGRAM]**<-
+<note>A technical illustration of a specialized drafting instrument used to draw the conchoid. It consists of a T-shaped wooden or metal frame. The vertical post is marked with a scale from 1 (bottom) to 32 (top). The horizontal crossbar is similarly graduated, with the right side numbered 1 to 16 and the left side 17 to 32. A diagonal sighting arm, representing the "straightedge" from the previous page's instructions, is shown passing through the vertical post at position 11 and resting on the horizontal base at position 10. The top of this arm features a decorative, spear-like tip which would trace the actual curve.</note>
+
+<summary>This page illustrates a mechanical instrument designed to automate the drawing of a conchoid (shell-line). It shows how a pivoting straightedge, guided by numbered scales on a T-shaped frame, can accurately trace the complex geometric curve.</summary>
+<keywords>conchoid, shell-line, drafting instrument, geometry, Albrecht Dürer, technical drawing, measurement</keywords>
 
 --- Page 42 ---
 <meta>This page follows a discussion on drafting tools and geometric scales. It transitions from a simple rod-based demonstration to the construction of complex curved lines, specifically a spiral-like "spider line" and a serpentine "snake line."</meta>
@@ -845,16 +856,27 @@ and as he has need.
 <keywords>drawing instrument, drafting, scaling, mechanical rods, geometry, handicrafts, technical illustration</keywords>
 
 --- Page 45 ---
-<meta>This page begins a new section of the treatise, moving from the construction of specific curves and instruments to the broader theory of lines, planes, and solid bodies.</meta>
+<meta>This page continues the discussion of an adjustable geometric instrument, specifically moving from the physical construction of the rods mentioned on the previous page to the theoretical transition from lines to planes and solid bodies.</meta>
 
-->43<-
+->41<-
 
-**S**traight lines maintain themselves in their length in many various ways in their types against one another. I want to show a part of their differences because they are useful for many things; for one can make many kinds of work from them, as it will not simply remain with the lines, but they may be drawn around to make flat planes or whole **Solids** <note>original: "Corpora"</note>, as the work requires out of necessity, from which many practical and useful things are to be invented.
+Straight lines vary in length across many different types relative to one another; I wish to demonstrate some of these distinctions because they are useful for so many things. For one can create various works from them, as the work will not simply remain limited to lines, but rather these may be bent around to form <term>flat planes</term> <note>original: "ebne feldt"; referring to two-dimensional surfaces</note> or entire <term>solid bodies</term> <note>original: "Corpora"; Latin for three-dimensional geometric objects</note>, just as the requirements of the task demand. From this, many practical and useful things are to be devised.
 
-*The large illustration at the top shows a complex mechanical variant of the drafting instrument, featuring multiple geared dials and articulating arms, used for precise measurement or surveying.*
+<column-break/>
 
-<summary>Dürer introduces the next phase of his geometric study, explaining how straight lines are the foundation for creating two-dimensional planes and three-dimensional solid bodies.</summary>
-<keywords>straight lines, geometry, planes, solid bodies, theoretical geometry, practical application</keywords>
+*Technical Illustration:*
+[A technical diagram illustrating a mechanical instrument, likely a device for measuring or drawing geometric forms. The main figure features a long vertical staff with a graduated scale near its base, marked with numbers 1 through 7. At the top of the staff is a circular dial with numerals 1 through 12 around its perimeter. A long, hinged arm extends from the center of this upper dial, terminating in a second circular dial, also numbered 1 to 12. To the right is a smaller, secondary illustration showing the device in a different configuration. The number "41" is printed in the center of the page between the staff and the extended arm.]
+
+*Geometric Diagram:*
+[A geometric diagram showing a square with inscribed circles and intersecting lines that form a smaller square and various triangles. Key points and vertices are labeled with the letters a, b, c, d, e, f, g, h, and i.]
+
+*Instrument Detail:*
+[A technical illustration of a mechanical drawing instrument with adjustable, pivoted arms. To the left of the instrument are four vertical reference lines of increasing height, labeled d, c, b, and a. The instrument itself features a long vertical base labeled 'a' and several arms radiating from a central pivot point labeled 'f'. One of the diagonal arms is labeled 'b'.]
+
+->D iij<-
+
+<summary>This page explains the transition from one-dimensional lines to two-dimensional planes and three-dimensional solids, illustrating these concepts with technical diagrams of a mechanical drawing instrument.</summary>
+<keywords>geometry, straight lines, planes, solid bodies, Corpora, mechanical instrument, drafting tools, proportions</keywords>
 
 --- Page 46 ---
 <meta>This page continues the discussion of geometry and its practical applications for artists and craftsmen, specifically focusing on how to determine proportional lengths of lines to create two-dimensional planes and three-dimensional solids.</meta>
@@ -1690,22 +1712,47 @@ Now, if you wish to wind the column with a double spiral—spiraling against eac
 <keywords>column decoration, fluting, spiral columns, architectural geometry, entasis, technical drafting</keywords>
 
 --- Page 88 ---
-->### Geometric Diagrams for Column Decoration<-
+<meta>This page provides the visual diagrams for the technical instructions provided on the previous page. It illustrates the proportions of the column shaft, the application of decorative patterns, and the geometric "triangle" method used to calculate the tapering of these decorations.</meta>
 
-<margin>Plan for Entasis and Fluting</margin>
-*The diagram on the left illustrates a column shaft in elevation. The horizontal divisions, marked 1, 2, and 3, correspond to the points used to calculate the entasis or "belly." The numbers 1 through 8 at the base indicate the plan for fluting or vertical channels.*
+# Proportions and Decorative Geometry of the Column
 
-<margin>Design for a Lattice-Wound Column</margin>
-*The central diagram shows a column decorated with a repeating diamond or lattice pattern, referred to in the text as "winding." The letter B marks the base of the shaft.*
+->**1**<-
+<note>The number 1 at the top indicates the starting point for the column's diameter or the first segment of the shaft.</note>
 
-<margin>The Proportional Triangle for Tapering</margin>
-*The large triangle on the right, marked with points A, B, and C, is a geometric tool. It is used to determine how the width of decorative elements should be scaled or "shortened" as the column tapers toward the top.*
+<column-break/>
 
-<margin>Upper Plan Views</margin>
-*The circular diagrams in the top right represent the "ground plan" of the column's decoration: one showing a scalloped edge for fluting, and the other a serrated edge for more complex moldings.*
+**1**
+**1**
+**2**
+**2**
+**3**
+**3**
+<note>These numbers along the left and right sides of the column shaft correspond to the segments used to create the <term>entasis</term>—the slight outward curve of the column that makes it appear straight and strong to the human eye.</note>
+**1**
+**2**
+**3**
 
-<summary>This page provides visual technical drawings for the geometric theories described in the text, focusing on the scaling of decorations along a tapering shaft.</summary>
-<keywords>diagrams, column shaft, entasis, lattice pattern, geometric scaling, proportional triangle, plan view</keywords>
+<column-break/>
+
+->**1 2 3 4 5 6 7 8**<-
+<note>This horizontal scale at the base defines the width of the column in "parts" or modules, a standard unit of measurement in classical architecture.</note>
+
+<column-break/>
+
+**a**
+**b**
+**c**
+<note>This right-angled triangle, labeled **a-b-c**, is the geometric tool mentioned on the previous page. It is used to calculate how much a spiral or diamond pattern must "shrink" as it moves up the tapering shaft of the column.</note>
+
+**1 2 3 4 5 6 7 8 9 10 11 12 13 14 15**
+<note>The arc, or <term>compass-drawing</term>, is divided into fifteen segments. By drawing lines from point **a** through these numbers, an architect can precisely plot the decreasing height of each decorative diamond or spiral turn.</note>
+
+### Technical Terms Used
+<term>Column</term>, <term>Architectural Drawing</term>, <term>Geometry</term>, <term>Design</term>, <term>Ground Plan</term> <note>The horizontal cross-section or bird's-eye view.</note>, <term>Elevation</term> <note>The vertical view of the column as it stands.</note>
+
+<summary>This page contains technical diagrams illustrating the geometric construction of a column's curve and its decorative lattice patterns. It specifically visualizes the "triangle a-b-c" method for calculating proportional ornaments on a tapering surface.</summary>
+
+<keywords>column design, architectural geometry, entasis, spiral decoration, technical drawing, proportions</keywords>
 
 --- Page 89 ---
 <meta>This page continues the technical instructions for column design, moving from the shaft's tapering and decoration discussed on the previous page to the specific geometric construction of the capital and the proportions of a twisted memorial column.</meta>
@@ -1774,51 +1821,47 @@ But while the horizontal lines in a straight column represent circular planes st
 <keywords>spiral column, geometry, sphere, horizontal line, perspective distortion, architectural drafting, Albrecht Dürer</keywords>
 
 --- Page 92 ---
-<margin>Page 9</margin>
+<meta>This page continues the geometric explanation of the "wound" or spiral column. While the previous page established the ground plan and the central axis, this text explains how to give that axis three-dimensional volume by imagining a series of spheres along the path.</meta>
 
-# [Geometric Construction of the Winding Column]
+->H ij<-
 
-<margin>Diagram 36</margin>
-*This diagram illustrates a vertical scale used to measure the height and curvature of the column. The scale on the right is divided into 60 units, representing the total height.*
+If you take a sphere and move it back and forth as you wish, it can always be sliced directly through its center by a **flat plane** <term>flat plane: a perfectly level surface; translated from the Latin *plano*</term>. If you then have a round column that is bent or curved, you should visualize a series of these spheres nested within it. These spheres can be divided by the cross-sections mentioned earlier, using as many center points as you choose to designate.
 
-**b** <note>The top-most point of the vertical scale.</note>
-**c** <note>A point slightly below the top, within the scale.</note>
+Now, imagine and assume that every point along the winding path of the column is the center of such a sphere. From each of those points, draw a **circle** <note>original: *cirkelryß*</note> upon the same **horizontal line** <note>original: *zwerch lini*</note> where that point is located. The circle should be as thick as the straight column would be at that specific point. You must do this for every point along the path of the spiral column.
 
-*On the left, a quarter-circle arc is used to determine the angles of curvature. Lines radiate from point **f** on the baseline to various degrees marked on the arc (5, 10, 20, 30, 40, 50, 60).*
+In this way, the thickness of the column is determined throughout all its curves. Once all these circles have been drawn, trace a line connecting their outer edges; from this, the **contours** <note>German: *bossen*; refers to the outer profile or rough form of the stone</note> of the column will emerge.
 
-**g** <note>Point near the top of the angular arc.</note>
-**f** <note>The origin point on the horizontal baseline.</note>
-**1** **2** <note>Intermediate points on the baseline.</note>
-**h** **a** <note>Points leading to the base of the vertical column.</note>
+However, if you draw a straight horizontal line through the centers of all those circles—which represent the cross-sections of the spheres—just as it was drawn before (which, in a curved column, signifies a circular line), and then connect those points on both sides along the entire length of the spiral column, you will see how the lines of the spiral narrow and pull together in certain places because of the twisting of the column.
 
-<margin>Diagram 37</margin>
-*The circular chart in the lower right represents the "plan" or top-down view of the winding path. The numbers 1 through 60 correspond to the 60 divisions on the vertical scale, showing how the center of the column shifts horizontally as it rises.*
+But while the horizontal line...
 
-**d** <note>The center point of the circular plan.</note>
-**c** <note>A point near the center.</note>
-**e** <note>A point on one of the radial construction lines.</note>
-
-<summary>A detailed technical diagram showing the coordinate system for a winding column, using a vertical scale of 60 units and a corresponding circular plan to map the serpentine movement.</summary>
-<keywords>coordinate system, vertical scale, angular arc, circular plan, geometric drafting, proportions</keywords>
+<summary>This page explains a geometric method for calculating the three-dimensional volume and outer profile of a spiral column by mapping circular cross-sections along a curved central axis.</summary>
+<keywords>geometry, spiral column, technical drawing, spheres, Albrecht Dürer, architectural theory, contours, cross-sections</keywords>
 
 --- Page 93 ---
-<margin>Signature D iii</margin>
+<meta>This page provides the visual diagrams for the construction methods described on the previous page (H ij). While the previous text explained how to conceptualize a spiral column as a series of spheres, these illustrations demonstrate how to plot that path on a grid and then flesh it out using overlapping circles.</meta>
 
-# [Visualizing the Serpentine Path and Volume]
+->h iii<-
 
-<margin>Diagram 38</margin>
-*The left diagram shows a vertical axis marked from 1 to 60. A serpentine line—the "path" of the column's center—winds upward. The numbers along the curve show exactly where the center of the column should be positioned at each of the 60 height intervals.*
+### Geometric Construction of the Curved Column
 
-**B** <note>The top of the column's path.</note>
-**a** <note>The base of the column's path.</note>
+This diagram illustrates the mathematical "spine" of the column. A vertical axis, marked **a** at the base and **b** (representing the number 60) at the top, is intersected by sixty horizontal parallel lines. A sinusoidal curve—the path of the spiral—weaves back and forth across this vertical axis. Numerical values on the right (ranging from 10 up to 60) track the height, while small numerals along the curve itself track the precise progression of the winding path as it rises from the bottom to the top.
 
-<margin>Diagram 39</margin>
-*The right diagram applies the "sphere" logic described on the first page. By drawing circles (representing the column's thickness) centered on the points of the serpentine path, the three-dimensional form of the winding column begins to emerge.*
+<column-break/>
 
-*Note the dense overlapping at the bottom, which illustrates how the "rounded lines" of the column's surface appear to compress or twist more tightly from certain perspectives.*
+This second diagram demonstrates how to give the column its physical volume. A series of overlapping circles forms a vertical, serpentine shape. While the stack begins as a straight vertical column at the top (marked **b**), the centers of the circles shift as they descend toward the base (marked **a**), creating a winding "S" curve. A series of small dots traces the central axis through the centers of these circles, showing how these circular cross-sections define the outer edges and "thickness" of the curved column.
 
-<summary>Two construction drawings showing the central path of a winding column and the subsequent buildup of its volume using overlapping circles.</summary>
-<keywords>serpentine path, helix, overlapping circles, geometric volume, vertical axis, drafting</keywords>
+### Technical Vocabulary
+
+- <term>Geometry: the mathematical study of shapes, lines, and points; translated from *Geometrie*</term>
+- <term>Curve: a continuous bending line without angles; translated from *Kurve*</term>
+- <term>Compasses: the tool used to draw circles, or the circular lines themselves; translated from *Zirkel*</term>
+- <term>Scale: a rule or standard for measurement; translated from *Maßstab*</term>
+- <term>Construction: the systematic drawing or building of a form; translated from *Konstruktion*</term>
+
+<summary>This page contains two technical diagrams illustrating how to plot a spiral column's path on a coordinate grid and how to use overlapping circles to define its three-dimensional volume.</summary>
+
+<keywords>geometry, spiral column, technical drawing, architectural design, coordinate grid, serpentine form</keywords>
 
 --- Page 94 ---
 <meta>This page continues the instructions for constructing a winding or serpentine column, moving from the geometry of the shaft to the specific proportions and design of its base and capital.</meta>
@@ -1923,22 +1966,32 @@ Then, stick into the top of the cannon a bell with its handle <note>original: "o
 <keywords>victory monument, artillery, mortar, cannon, gunpowder barrel, architectural proportions, fillets, armor, pavise, Albrecht Dürer, military spoils</keywords>
 
 --- Page 100 ---
-15
+<meta>This page continues the technical specifications for the victory monument's pedestal and moves into the vertical elevation of the pillar and its heraldic crest. It follows the previous page's discussion on the geometric profiles of the stone moldings.</meta>
 
-**4** — <note>Measurement for the decorative finial at the very top</note>
-**3** — <note>Measurement for the upper decorative section of the capital</note>
-**21** — <note>Length of the main column shaft, formed by the barrel of a cannon</note>
-**10** — <note>Height of the middle pedestal section, representing the mortar and its frame</note>
-**12** — <note>Height of the main rectangular pedestal base</note>
-**1, 1, 1/2, 1/2, 1/2** — <note>Proportional units for the stepped moldings and base layers</note>
-**12** — <note>Width of the upper part of the stepped base</note>
-**9** — <note>Height of the primary foundation block</note>
-**25** — <note>Total width of the foundation base</note>
+...and conclude the profile where it meets the vertical face of the stone.
 
-<note>The illustration shows the completed "Victory Column" described on the previous page. It is a literal stack of military trophies: a stone foundation, a pedestal decorated with a mortar, a long cannon serving as the column shaft, and a crest of armor and plumes at the top.</note>
+## Elevation and Proportions of the Monument
 
-<summary>A technical drawing of the "Victory Column" with numerical labels indicating the proportions and dimensions discussed in the preceding text.</summary>
-<keywords>proportional drawing, victory column, architectural diagram, foundation, cannon shaft, military monument</keywords>
+For the elevation <term>Aufriss: a scaled architectural drawing of a vertical surface</term> of the entire monument <term>monument</term>, the foundation <term>fundament</term> must be laid twenty-five feet wide at the bottom and nine feet in height. Upon this foundation, set three wide steps. On the right side of these steps, place a small wooden barrel <note>likely a powder barrel, continuing the military theme</note> and a solid sphere or stone shot.
+
+The pedestal <term>postament</term> sits upon these steps and should be twelve feet wide. In the center of this section, mark the number **8** <note>this likely refers to a specific proportion or a reference to a ledger of parts</note>. Above the pedestal, the shaft of the pillar <term>pfeiler</term> rises, tapering slightly as it ascends.
+
+### The Vertical Scale
+
+The proportions of the pillar <term>säule</term> and its base are determined by the following measurements <term>maße</term>, to be followed strictly from the bottom upward:
+
+*   The base section: **4** and **3**
+*   The main shaft: **13**
+*   The upper decorative sections: **10**, **1**, **1 1/2**, and **3/4**
+
+A secondary scale is marked to the left to ensure the heights of the major divisions are correct: **12**, **3**, **1**, and **1 1/2**, with the final crowning element measured at **3/4**.
+
+### The Heraldic Crest
+
+The monument is topped with an elaborate decorative crest. At the summit of the shaft, place a heraldic helmet <term>wappenhelm: a helmet used in armorial displays, typically shown above a shield</term>. From the top of this helmet, three large plumes of feathers shall rise, spreading outward to provide a grand finish to the structure.
+
+<summary>This page provides the technical elevation and vertical measurements for a ceremonial monument, detailing its foundation, pedestal, and a crowning heraldic helmet with plumes.</summary>
+<keywords>elevation drawing, architectural proportions, pedestal, heraldic helmet, pillar design, measurements</keywords>
 
 --- Page 101 ---
 <meta>This page continues the discussion of monumental architecture from page 15, moving from traditional military victory columns to satirical and thematic monuments designed for specific social classes or lifestyles, specifically the "Victory Column" for the Peasants' War and a memorial for a drunkard.</meta>
@@ -1963,29 +2016,36 @@ A technical woodcut illustration showing the base and foundation of a monumental
 <keywords>Peasants' War, victory column, satirical architecture, agricultural tools, monuments, grave markers, Albrecht Dürer, measurement, livestock, drunkard's memorial</keywords>
 
 --- Page 102 ---
-<page-num>16</page-num>
+<meta>This page continues the detailed instructions for constructing a symbolic "Victory Column" for the Peasants' War, as introduced on page 15. It focuses on the proportions and the specific agricultural objects that form the stack of the monument.</meta>
 
-->**IN THE YEAR OF OUR LORD 1525**<-
-<note>original: "ANNO DOMINI 1525"</note>
+16.
 
-->**THE LORD'S GUARD**<-
-<note>original: "HEERENHUT" - likely referring to a place name or a symbolic title for the mourning figure at the top.</note>
+**J**
 
-**3** — <note>Measurement for the seated peasant figure</note>
-**1** — <note>Height of the chicken basket pedestal</note>
-**1** — <note>Height of the bowl assembly</note>
-**5** — <note>Height of the sheaf of grain bound with tools</note>
-**III** — <note>Height of the milk trough and support bowls</note>
-**3** — <note>Height of the butter churn section</note>
-**I½** — <note>Height of the kettle section</note>
-**II** — <note>Height of the oat chest</note>
-**1** — <note>Height of the middle pedestal stone</note>
-**4** — <note>Height of the primary pedestal stone decorated with baskets</note>
-**I** — <note>Height of the wide base stone</note>
-**7** — <note>Width or depth of the primary pedestal block</note>
+Anyone who wishes to erect a victory monument <note>original: "victoria"; here referring to a commemorative column</note> because he has overcome the rebellious peasants <note>This refers to the German Peasants' War of 1524–1525, a massive failed uprising in the Holy Roman Empire</note> might make use of such a design as I will teach hereafter. First, set a squared stone ten feet <note>original: "schuch"; literally "shoes," a historical unit of measurement roughly equivalent to a foot</note> long on each side and four feet high. This should stand upon a squared slab twenty feet long on each side and one foot high. On a mound at the four corners, place bound cows, sheep, pigs, and all sorts of livestock. But on the upper squared stone, set four baskets at the four corners with cheese, butter, eggs, onions, and herbs, or whatever you happen to have. 
 
-<summary>A detailed technical illustration of the "Victory Column" for the Peasants' War, showing the stack of agricultural motifs described on the previous page with specific proportional measurements.</summary>
-<keywords>architectural drawing, peasant monument, 1525, proportions, victory column</keywords>
+Thereafter, place another squared stone in the middle of this stone, seven feet long on each side and one foot high. In the center of this stone, set an oat chest <note>a storage bin for grain</note> four feet high; at the bottom, it should be six and a half feet long, but at the lock it should be six feet long, and at the very top of the lid, four feet long. Upon this, turn over a kettle three and a half feet wide, but only three feet at the base. In the middle of the kettle's base, set a cheese bowl half a foot high, two feet wide at the top, but no more than one and a half at the base. Cover this with a thick plate that overlaps it well. In the middle of the plate, set a butter churn three feet high, one and a half feet wide at the bottom, but only one foot wide at the top; however, the spouts from...
+
+<margin>3 1/2</margin>
+<margin>1</margin>
+<margin>1/2</margin>
+<margin>5</margin>
+<margin>2 1/2</margin>
+<margin>3</margin>
+<margin>1/2</margin>
+<margin>1 1/2</margin>
+<margin>1</margin>
+<margin>4</margin>
+<margin>1/2</margin>
+<margin>1</margin>
+
+->In the Year of the Lord <note>original: "Anno Domini"</note><-
+->1525<-
+
+<margin>7</margin>
+
+<summary>This page contains Albrecht Dürer's satirical yet technical design for a monument to the defeated peasants, describing how to stack agricultural tools and livestock into a classical column shape.</summary>
+<keywords>Albrecht Dürer, Peasants' War, victory column, commemorative monument, measurement, agricultural symbolism, 1525</keywords>
 
 --- Page 103 ---
 <meta>This page continues the instructional series on monumental structures. Following the previous page's design for a peasant-themed "Victory Column," Dürer now moves toward the design of a more general, functional civic tower intended for a city center.</meta>
@@ -2025,20 +2085,25 @@ Next, make the pole, the finial <note>original: "knopf," literally "button" or "
 <keywords>architecture, measurement, spiral staircase, bell house, tower warden, masonry, proportions, geometry, marketplace tower</keywords>
 
 --- Page 105 ---
-<page-num>18</page-num>
+<meta>This page provides the visual technical drawing for the tower described on the previous page. It illustrates the proportions of the structure—referred to as either a column or an obelisk—and provides a vertical scale to match the 200-foot height mentioned in the earlier instructions.</meta>
 
-**10** — <note>Height of the finial and weather vane</note>
-**10** — <note>Height of the bell house roof</note>
-**10** — <note>Height of the bell house columns and structure</note>
-**50** — <note>Height of the main domed masonry roof</note>
-**8** — <note>Height of the gallery and upper molding</note>
-**200** — <note>Total height of the main cylindrical tower shaft</note>
-**10** — <note>Height of the stepped base and entrance stairs</note>
+# Page 18
+->J iij<-
 
-<note>The illustration shows the completed "Sturdy Round Tower" described on the previous page. It is a massive, tapering cylinder with a gallery near the top, surmounted by a dome and a smaller cupola. A tiny human figure is drawn at the base to emphasize the structure's immense scale.</note>
+(An architectural drawing of a monumental column or obelisk standing on a tiered, stepped base. The column is tall and slightly tapering, topped with a decorative cornice, a ribbed dome, and a spire with a cross-like finial. A tiny human figure carrying a long pike is depicted at the foot of the column to indicate its massive scale. To the right is a vertical measurement scale with marked intervals and numbers indicating dimensions for different sections of the structure.)
 
-<summary>An architectural elevation of the monumental city tower, with a scale bar indicating the heights of each section from the base to the weather vane.</summary>
-<keywords>architectural drawing, tower, scale, elevation, masonry, dome, landmark</keywords>
+10
+10
+10
+50
+8
+200
+10
+
+<term>Obelisk<note>original: "Obelisk"; a tall, four-sided, tapering monument.</note></term>, <term>Column<note>original: "Säule"; a vertical architectural element.</note></term>, Architectural drawing <note>original: "Architekturzeichnung"</note>, Scale <note>original: "Maßstab"</note>, Stepped construction <note>original: "Stufenbau"</note>, Proportions <note>original: "Proportionen"</note>
+
+<summary>This page contains a technical elevation of a monumental obelisk or column, providing a visual scale for the measurements detailed in the preceding text. It demonstrates the use of a stepped base and a 200-unit high shaft to achieve imposing civic proportions.</summary>
+<keywords>obelisk, column, architectural drawing, scale, stepped construction, proportions, monument design</keywords>
 
 --- Page 106 ---
 <meta>This page continues from the previous illustration of the monumental tower, moving from the architectural design to the practical geometry required to measure such a structure in the field.</meta>
@@ -2057,18 +2122,43 @@ This method does not fail, but you must be diligent in your measuring. I have il
 <keywords>geometry, surveying, measurement, tower height, Astrolabe, Jacob's staff, right-angle square, congruent triangles</keywords>
 
 --- Page 107 ---
-<page-num>19</page-num>
-->**3 iij**<-
-<meta>This diagram illustrates the geometric method described on the previous page for calculating the height of a tower (or column) by projecting its vertical height onto a horizontal plane.</meta>
+<meta>This page provides the visual mathematical proof for the surveying techniques described on page 18. It transitions from the physical instructions of using a square to the geometric principles of triangulation, illustrating how the observer’s line of sight (point b) relates to the height of the column (points a to c).</meta>
 
-->19<-
+<warning>Extensive bleed-through from the reverse side of the leaf is visible across the entire page.</warning>
 
-->[Diagram showing the geometric measurement of a tower]<-
+-> J iiij <-
+-> Page 19 <-
 
-<note>The diagram depicts a tall, ornate column labeled with point **G** at the top and **C** at the base. An observer at point **A** (represented by an eye) sightings the top. By rotating this angle down to the ground (point **D**), the surveyor can measure the horizontal distance on the ground to determine the tower's vertical height.</note>
+### [Diagram: The Geometry of Height Measurement]
 
-<summary>An illustration of a surveyor using a geometric instrument to calculate the height of a monument by translating vertical angles into measurable horizontal distances.</summary>
-<keywords>diagram, geometry, surveying, perspective, measurement instrument, architectural height</keywords>
+<image-desc>
+A technical geometric diagram, likely from a treatise on surveying or perspective, demonstrating a method for measuring height via triangulation. 
+
+On the left, a tall, cylindrical column is depicted resting on a base of three concentric steps. A vertical axis is drawn through the center of the column, extending from an ornamental finial at the top down to a point below the horizontal ground line. Specific points on this vertical axis are labeled with lowercase letters:
+- **a**: Located at the top of the column's ornament.
+- **c**: Located at the intersection of the column's base and the ground line.
+- **d**: Located at the bottom terminus of the vertical line, below ground level.
+
+On the right side of the diagram, a sighting instrument or measuring device is shown, consisting of a vertical post and a triangular frame. A horizontal ground line connects point **c** to the base of the instrument's vertical post. Two diagonal lines converge at a single vertex on the far right of the device (labeled with point **b**): one line descends from point **a** and the other rises from point **d**. Both diagonal lines pass through the cross-beams of the sighting device's triangular frame before meeting at the vertex.
+</image-desc>
+
+***
+
+### Technical Terms in this Illustration
+
+| Term | English Translation |
+| :--- | :--- |
+| **Geometry** | <term>Geometry</term> <note>original: 'Geometrie'; the mathematical study of shapes, sizes, and the properties of space.</note> |
+| **Surveying** | <term>Surveying</term> <note>original: 'Vermessung'; the science of determining the relative positions of points on or beneath the Earth's surface.</note> |
+| **Column** | <term>Column</term> <note>original: 'Säule'; the architectural element being measured in this example.</note> |
+| **Triangulation** | <term>Triangulation</term> <note>original: 'Triangulation'; a method of determining the distance to a point by measuring the angles to it from known points at either end of a fixed baseline.</note> |
+| **Measuring Instrument** | <term>Measuring instrument</term> <note>original: 'Messinstrument'; refers here to the sighting device or quadrant used by the surveyor.</note> |
+| **Base** | <term>Base</term> <note>original: 'Basis'; the bottom of the column or the baseline of the geometric calculation.</note> |
+| **Cathetus** | <term>Cathetus</term> <note>original: 'Kathete'; a technical term for either of the two sides of a right-angled triangle that meet to form the 90-degree angle.</note> |
+| **Hypotenuse** | <term>Hypotenuse</term> <note>original: 'Hypotenuse'; the longest side of a right-angled triangle, which sits opposite the right angle.</note> |
+
+<summary>This page features a geometric diagram illustrating the method of triangulation used to determine the height of a structure (a column) using a sighting instrument. It provides the visual proof for the surveying methods discussed in the preceding text.</summary>
+<keywords>triangulation, height measurement, surveying, geometry, column, cathetus, hypotenuse, sighting instrument</keywords>
 
 --- Page 108 ---
 <meta>This page transitions from general geometric surveying techniques to the specific application of geometry for constructing sundials, continuing the theme of practical mathematics for craftsmen.</meta>
@@ -2153,28 +2243,48 @@ By this method, the <term>cube</term> <note>original: "cubus"</note> on the squa
 <keywords>Nuremberg, latitude, axis mundi, equinoctial, sundial construction, geometry, horologia, celestial coordinates</keywords>
 
 --- Page 112 ---
-->25<-
+<meta>This page provides visual diagrams for the construction described on the previous page. Having explained the mathematical division of a cube into an eight-sided solid for the latitude of Nuremberg (49 degrees), the author now illustrates how the celestial coordinates—the zenith, the meridian, the poles, and the equinoctial line—map onto both a flat projection and the physical faces of the polyhedral sundial.</meta>
 
-->[A two-dimensional octagonal diagram representing a celestial projection]<-
-->**Zenith** <term>zenit: the point directly overhead</term><-
-->**Noon within**<-
-->**Noon** | **Midnight**<-
-->**Day and night width**<-
-->**Axis the width** <note>original: Apt [axis] die weite</note><-
-->**Base** <note>original: basio</note><-
+->Zenith<- <note>the point in the sky directly above the observer</note>
+->meridian line<- <note>original: "mittag lini"; the north-south line used to determine noon</note>
 
-->[A three-dimensional illustration of a polyhedral sundial]<-
-->**On the zenith plane**<-
-->**Toward the Arctic Pole**<-
-->**Oriental** <note>East</note><-
-->**Equinoctial** | **World** <note>original: mundi</note><-
-->**Toward the Equinoctial**<-
-->**Noon, upright**<-
-->**Toward midnight, upright**<-
-->**Toward the Antarctic Pole under the earth**<-
-->**Toward the equinoctial under the earth**<-
-->**Occidental on the other side** <note>West</note><-
-->**Base**<-
+South <note>original: "Mittag"; literally "midday"</note>
+
+Day and night <note>likely referring to the equinox, when day and night are equal</note>
+Divider of the world axis <note>original: "Art der welt teiler"; referring to the line that bisects the celestial sphere</note>
+
+North <note>original: "Mitnacht"; literally "midnight"</note>
+
+->base<- <note>original: "basio"</note>
+
+---
+
+->On the plane / zenith<-
+
+Toward the <term>equinoctial</term> <note>original: "Equinoctial"; the celestial equator</note>
+
+Toward the <term>Arctic pole</term> <note>original: "polo artico"; the North Pole</note>
+
+South-facing upright [surface] <note>original: "Mittag aufgericht"</note>
+
+Toward the North upright [surface] <note>original: "gegen Mitnacht aufrecht"</note>
+
+Eastern <note>original: "Oriental"</note>
+
+[Axis] of the world <note>original Latin: "mundi"</note>
+
+equinoctial
+
+Western <note>original: "Occidental"</note> on the other side
+
+base <note>original: "basio"</note>
+
+Toward the <term>Antarctic pole</term> <note>original: "polo antartico"; the South Pole</note> beneath the earth
+
+Toward the equinoctial beneath the earth
+
+<summary>This page illustrates the geometry of a complex polyhedral sundial, showing how a cube is truncated to create multiple faces aligned with the celestial poles and the equator. The diagrams provide the specific labels for each face—such as the Arctic and Antarctic poles—necessary for accurate timekeeping at different orientations.</summary>
+<keywords>polyhedral sundial, meridian line, celestial equator, North Pole, South Pole, gnomonics, geometry, Nuremberg latitude</keywords>
 
 --- Page 113 ---
 <meta>This page continues the technical instructions for constructing sundials (horalogia) from the previous page, specifically focusing on dials oriented toward the celestial equator (equinoctial) and those placed on walls regardless of their orientation.</meta>
@@ -2550,23 +2660,49 @@ In this script, the <term>versal: capital letters</term> are made in the same pr
 <keywords>typography, geometric construction, capital letters, Albrecht Dürer, versal, proportion, Renaissance lettering</keywords>
 
 --- Page 132 ---
-<meta>Continuity from previous page: this begins the sequence for the next set of capital letters (E through L) following the same geometric principles.</meta>
+<meta>This page continues the sequence of Roman majuscule (capital) letter construction begun on the previous page (which covered A through D). It details the geometric proportions for letters E through L, maintaining the same grid-based system.</meta>
 
-->because if it does not have<- <note>original Latin: "quod si non habet." This fragment likely concludes a sentence from the previous page regarding specific geometric requirements for the letters.</note>
+### The Geometric Construction of Roman Capitals (Continued)
 
-**E**
-**F**
+<note>Following the principles of <term>Antiqua: a style of Roman typeface based on classical inscriptions</term>, these diagrams demonstrate how Renaissance artists like Albrecht Dürer used geometry to standardize letterforms.</note>
 
-**G**
-**H**
+***
 
-**I**
-**K**
+->E<-
+<note>The construction for the letter **E** is set within a square frame. The diagram uses points **a** through **f** to locate the centers for the circular arcs that form the <term>serifs</term> and to define the length of the three horizontal bars. Notice that the middle bar is slightly shorter than the top and bottom for visual harmony.</note>
 
-**L**
+->F<-
+<note>The letter **F** utilizes nearly the same geometric framework as the 'E,' but the bottom horizontal bar is omitted. The placement of the middle bar (at points **e** and **f**) is crucial to prevent the letter from appearing top-heavy.</note>
 
-<summary>This page continues the demonstration of capital letter construction, providing the geometric diagrams for the letters E, F, G, H, I, K, and L.</summary>
-<keywords>letter construction, typography, geometric forms, E, F, G, H, I, K, L</keywords>
+***
+
+->G<-
+<note>The **G** is a complex construction of circles. The diagram shows multiple intersecting circles and arcs centered at points **a** through **h**. This method ensures that the curve of the letter has a "swelled" appearance—thickest in the middle and tapering at the ends—mimicking the natural stroke of a broad-edged pen.</note>
+
+->H<-
+<note>Construction for the letter **H** consists of two vertical stems of equal weight. The horizontal crossbar is placed precisely at the vertical center (points **e** and **f**), ensuring the internal "counter" or white space is perfectly balanced.</note>
+
+***
+
+->I<-
+<note>The letter **I** serves as the foundational unit for many other letters. It is a single vertical stem. The geometry focuses on the flared serifs at the top and bottom, which are defined by points **a, b, c,** and **d**.</note>
+
+->K<-
+<note>The **K** requires the intersection of three distinct strokes. The diagram shows how the diagonal legs are anchored to the vertical stem. Points **e** and **f** mark the junctions, ensuring that the angles are consistent and the letter maintains its center of gravity.</note>
+
+***
+
+->L<-
+<note>The construction for the letter **L** mirrors the 'I' in its verticality but adds a horizontal base. The length of this base is determined by the square grid, providing a stable foundation for the letter.</note>
+
+***
+
+<note>original: "Antiqua, Majuskel, Geometrie, Typografie, Albrecht Dürer, Proportionslehre, Buchstabenbau, Renaissance"</note>
+<note>These keywords reflect the core of Dürer's project: the application of <term>Proportionslehre: the theory of proportions</term> to the art of <term>Buchstabenbau: letter construction</term>. This was a hallmark of the Northern Renaissance, bringing mathematical precision to the visual arts.</note>
+
+<summary>This page illustrates the geometric methods for constructing the Roman capital letters E through L using a square grid, compass points, and rulers. It emphasizes the Renaissance transition from freehand calligraphy to mathematically standardized typography.</summary>
+
+<keywords>Roman capitals, typography, geometry, Albrecht Dürer, Renaissance, letter construction, serifs, proportions</keywords>
 
 --- Page 133 ---
 <meta>Continuity from previous page: this page continues the alphabetical sequence of Roman capital letters, following the construction of letters E through L. The focus here is on the geometric principles for the letters M, N, O, and P.</meta>
@@ -2597,32 +2733,75 @@ In this script, the <term>versal: capital letters</term> are made in the same pr
 <keywords>letter construction, typography, geometric forms, Roman capitals, Albrecht Dürer, Antiqua, M, N, O, P, Renaissance art</keywords>
 
 --- Page 134 ---
-<meta>Continuing the sequence for the letters Q through V.</meta>
+<meta>Continuity from previous page: this page continues the alphabetical sequence of Roman capital letters, following the construction of letters E through L. The focus here is on the geometric principles for the letters M, N, O, and P.</meta>
 
+<image-desc>A manuscript page illustrating the geometric construction and finished forms of Roman capital letters (Uppercase). Each row features diagrams of letters inscribed within squares, showing compass points, guide circles, and diagonals labeled with lowercase letters to define proportions. There is significant "ghosting" or bleed-through from the following page visible in the background.</image-desc>
+
+<image-desc>Top row: A diagram showing the construction of the letter 'Q' using concentric circles and a diagonal line to guide the tail, followed by two calligraphic examples of the letter 'Q' with long, decorative swash tails.</image-desc>
 Q Q
 
+---
+
+<image-desc>Second row: A geometric diagram for the letter 'R' within a square, with various points labeled 'a' through 's'. It is followed by two calligraphic examples of the letter 'R'.</image-desc>
 R R
 
+---
+
+<image-desc>Third row: A geometric diagram for the letter 'S' showing the use of two circles to create the curves, followed by two calligraphic examples of 'S'. To the right is an additional diagram showing the proportions and construction of two vertical stems within a square.</image-desc>
 S S
 
-T T
+---
 
-V
+<image-desc>Bottom row: Two calligraphic examples of the letter 'T'. These are followed by a geometric diagram for the letter 'V' showing the convergence of lines and the use of small circles for the serifs, and finally one finished calligraphic 'V'.</image-desc>
+T T V
 
-<summary>Detailed diagrams for the construction of the letters Q, R, S, T, and V, illustrating how to handle curves and diagonal legs using a compass and ruler.</summary>
-<keywords>Q, R, S, T, V, alphabet, geometric diagrams, letter design</keywords>
+->because if it does not have<- <note>original Latin: "quod si non habet." This fragment likely concludes a sentence from the previous page regarding specific geometric requirements for the letters.</note>
+
+# M M
+
+# M M
+
+# N
+
+# N N
+
+# O
+
+# P P P
+<note>The construction diagrams for these letters utilize a coordinate system of points. In the diagram for the letter P, Dürer employs the Greek letter epsilon (ε) <note>original: "ε"</note> to mark a specific point in the interior curve of the bowl.</note>
+
+<term>Albrecht Dürer</term> (1471–1528), a foundational figure of the German Renaissance.
+<term>Instruction in Measurement</term> <note>original German: "Underweysung der Messung"</note>, Dürer's influential treatise on geometry and its practical applications in art and typography.
+<term>Antiqua</term>, the "antique" style of Roman capital letters based on classical inscriptions.
+<term>Uppercase</term> <note>original German: "Majuskel"</note>, large capital letters.
+<term>Letter geometry</term> <note>original German: "Buchstabengeometrie"</note>, the mathematical system used to define the proportions of each character.
+<term>Renaissance typography</term>, the revival of classical letterforms during the 15th and 16th centuries.
+
+<summary>This page presents the geometric diagrams for constructing the Roman capital letters M, N, O, and P within square frames, while the visual diagrams also illustrate the progression into Q, R, S, T, and V. These illustrations demonstrate how Renaissance artists used mathematical points and circles to standardize the proportions of classical typography.</summary>
+<keywords>letter construction, typography, geometric forms, Roman capitals, Albrecht Dürer, Antiqua, M, N, O, P, Q, R, S, T, V, Renaissance art</keywords>
 
 --- Page 135 ---
-<meta>This page concludes the Latin alphabet construction series with the final three letters.</meta>
+<meta>Continuity: This page completes the sequence of Roman capital letters. The previous page detailed the construction of letters Q through V (notably omitting 'W', as was common in Renaissance typography). This concluding page focuses on the geometric proportions of X, Y, and Z.</meta>
 
-X X
+# X X
 
-Y
+<note>The diagram for the letter X shows it inscribed within a perfect square frame. The character is formed by two intersecting diagonal strokes. To achieve the elegant, flared ends (serifs), the artist has used a compass to draw circular arcs at the terminals, guided by construction points labeled 'e', 'g', 'b' at the top and 'f', 'h', 'd' at the bottom.</note>
 
-Z Z
+# Y
 
-<summary>The final page of the alphabet construction guide, illustrating the geometric diagrams for the letters X, Y, and Z.</summary>
-<keywords>X, Y, Z, typography, geometry, drafting, Latin alphabet</keywords>
+<note>The letter Y is constructed by bringing two diagonal arms together to meet a central vertical stem. The diagram uses circular guides to ensure the serifs at the top (points 'a' and 'b') and the base (points 'e' and 'd') are consistent in weight. The junction where the arms meet the stem is precisely marked at 'c' and 'f'.</note>
+
+# Z
+
+<note>The construction of the letter Z involves two horizontal bars connected by a diagonal stroke. The diagram illustrates how the corners and terminals are rounded or weighted using circular guides labeled 'a', 'f', 'b' at the top and 'e', 'c', 'd', 'g' at the bottom. This ensures the letter maintains the same "visual gravity" as the rest of the alphabet.</note>
+
+# Z Z
+
+<note>The final examples show the finished typographic form of the letter Z. The entire page bears "ghosting" or "bleed-through," where text from the reverse side of the paper has seeped through over the centuries, a common feature in historical manuscripts.</note>
+
+<summary>This page concludes the geometric treatise on the Roman alphabet, providing the structural blueprints and finished forms for the letters X, Y, and Z. It demonstrates the 16th-century preoccupation with using Euclidean geometry—specifically squares and circles—to create "perfect" letterforms.</summary>
+
+<keywords>typography, X, Y, Z, letter construction, geometric proportion, serifs, Renaissance calligraphy, alphabet design</keywords>
 
 --- Page 136 ---
 <meta>This page begins a new section following the construction of the Latin capital letters. The author is now transitioning into the construction of "Textur," a Gothic Blackletter script, using geometric principles based on the letter "i."</meta>
@@ -2712,37 +2891,58 @@ This is now the old method as previously mentioned / but now the <term>Textur<no
 <keywords>Textur, calligraphy, typography, letterform construction, geometry, short s, flourishes, Blackletter</keywords>
 
 --- Page 139 ---
-<meta>This page displays an alphabet constructed from geometric shapes, primarily squares and diamonds, demonstrating letterform design.</meta>
+<meta>This page provides the visual plate corresponding to the technical instructions for constructing the lowercase Gothic alphabet. It follows the previous page’s detailed descriptions of letters like 'm', 'n', and 's', providing the geometric templates (the "skeletons") for the entire character set.</meta>
 
-->**M ii.**<-
+->**M ij**<-
 
-**C**
+### Plate: The Construction of the Lowercase Alphabet
 
-<image-desc>A diagram illustrating the construction of an alphabet using geometric shapes, primarily squares and diamonds. The letters are presented in four rows, each letter meticulously outlined with a grid-like structure and a subtle drop shadow. The letters shown are:
-Row 1: i, n, m, r, long s, u, v
-Row 2: w, b, q, e, c, t, l
-Row 3: f, f, h, k, d, o, p
-Row 4: a, x, z, g, r, s</image-desc>
+This plate features a technical diagram illustrating the geometric construction of a lowercase <term>Fraktur<note>A specific style of Gothic calligraphy characterized by its "broken" appearance, where curves are replaced by sharp angles.</note></term> alphabet. Each letter is meticulously built using a modular system of <term>diamonds<note>original: "ortfierung"; squares rotated 45 degrees, which serve as the basic unit of measurement for the pen's width and the letter's proportions.</note></term> and rectangles. This demonstrates exactly how many pen strokes or blocks are required to form each character. A faint, shaded version of each completed letter sits behind its respective geometric skeleton to guide the scribe.
 
-<summary>A visual reference page showing the results of the geometric construction for the entire lowercase alphabet, arranged in a grid with technical outlines.</summary>
-<keywords>alphabet, letterforms, geometric construction, calligraphy, typography, visual guide</keywords>
+The letters are arranged in four horizontal rows:
+
+**First Row:** The letters **i, n, m, r, u, v**.
+<margin>c</margin> <margin>v</margin>
+<note>In the margins, a small "c" is visible at the top left, and a flourished "v" is positioned above the "u", likely indicating alternate forms or common ligatures.</note>
+
+**Second Row:** The letters **w, b, q, e, c, t, l**.
+
+**Third Row:** The letters **f, h, k, d, o, p**.
+
+**Fourth Row:** The letter **a**, followed by three decorative flourishes representing <term>descenders<note>The portions of a letter that extend below the baseline, such as the tail of a 'g' or 'y'.</note></term> or alternate stroke components, and concluding with the letters **g, y,** and **s**.
+
+The construction highlights the <term>broken style<note>The hallmark of Gothic scripts, where the "fluidity" of a pen stroke is broken into modular, geometric parts.</note></term> of calligraphy, where traditional curves are entirely replaced by sharp angles and modular blocks.
+
+<summary>This page is a technical illustration (Plate M ij) demonstrating the geometric "skeletons" of the Gothic lowercase alphabet using a modular diamond-grid system.</summary>
+<keywords>Gothic script, Fraktur, alphabet construction, calligraphy diagram, typography, modular design, pen strokes</keywords>
 
 --- Page 140 ---
-<meta>This page presents a finished Gothic alphabet, showing how the geometric principles translate into fluid calligraphic forms.</meta>
+<meta>This page serves as the visual plate (marked M ii) for the lowercase Gothic alphabet. It follows the theoretical instructions provided on the previous pages, offering the reader a complete set of templates for the geometric construction of each character.</meta>
 
-<image-desc>A display of a complete lowercase Gothic alphabet, likely a Textura or Fraktur script, presented in four rows. The letters are rendered in black ink on a light-colored page. Faint geometric guidelines are visible in the background, suggesting a calligraphic or type design context.
-Row 1: a (with a small decorative circle above its top-left curve), b, c, d, r rotunda (a variant of 'r' used after rounded letters), f, g, h.
-Row 2: i (with a small mark above it to distinguish it from other strokes), k, l, m, n, o, o (repeated variant), p.
-Row 3: q, r (standard form), i (repeated), l, long s (an 's' that looks like an 'f' without the crossbar), t, u, ü (u with umlaut).
-Row 4: w, r (repeated standard form), y, yogh/ezh (a medieval letter for 'y' or 'z' sounds), yogh/ezh (repeated), z (standard z with a decorative loop).</image-desc>
+->**M ii**<- 
+<note>original: "M ij"; This is a signature mark used by early printers to keep the pages in the correct order for binding. "M" refers to the section, and "ii" indicates it is the second leaf.</note>
 
-a b c d <term>r rotunda</term> <note>A specialized form of 'r' shaped like a '2', used after letters with rounded right sides.</note> f g h
-i k l m n o o p
-q r i l <term>long s</term> <note>A form of the letter 's' used at the beginning or middle of words.</note> t u ü
-w r y <term>yogh</term> <note>A letter used in Middle English and early modern scripts, here resembling a '3' or 'z'.</note> <term>yogh</term> z
+### Plate: The Lowercase Gothic Alphabet
 
-<summary>A complete calligraphic lowercase alphabet in Gothic script, showcasing the final aesthetic of the letters including various historical ligatures and variants like the long s and r rotunda.</summary>
-<keywords>Gothic alphabet, Textura, Fraktur, r rotunda, long s, yogh, calligraphy, script variants</keywords>
+This page presents the completed lowercase alphabet, demonstrating the <term>Fraktur<note>A style of Gothic calligraphy characterized by "broken" or fractured lines rather than smooth curves.</note></term> style. Every letter is designed with mathematical precision, likely following the modular system of <term>diamonds<note>original: "ortfierung"; the square unit created by the flat tip of a pen held at a 45-degree angle, used here as the basic building block for letter height and width.</note></term> and rectangles mentioned in the preceding text.
+
+The letters are displayed in a clear sequence:
+
+**a  b  c  d  e  f  g  h**
+
+**i  k  l  m  n  o  p**
+
+**q  r  ſ  s  t  u  v**
+<note>This row includes both the "long s" (ſ), which was used at the start or in the middle of words, and the "round s" (s), used at the end of words.</note>
+
+**w  x  y  z  z  z**
+<note>The final characters show variations of the letter 'z' or perhaps decorative <term>flourishes<note>Ornamental strokes added to letters to fill space or add aesthetic beauty to the page.</note></term> used to conclude a line of text.</note>
+
+Behind the bold forms of the letters, one can see the geometric "skeletons"—the construction lines that guide the scribe or engraver in placing each stroke. This highlights the transition from handwriting to a more mechanical, <term>typographic<note>The art and technique of arranging type for printing.</note></term> system where every letter shares a common structural DNA.
+
+<summary>This page provides a visual reference for the entire lowercase Gothic alphabet, illustrating the geometric templates used to construct each letter consistently. It serves as a practical application of the calligraphy and typography rules of the era.</summary>
+
+<keywords>lowercase alphabet, Gothic script, Fraktur, letter construction, typography, long s, signature mark, calligraphy</keywords>
 
 --- Page 141 ---
 <meta>This page serves as the concluding reference for Book Three, presenting the full Fraktur alphabet that was geometrically constructed in the preceding sections. It follows the detailed demonstrations of individual lowercase and uppercase letterforms.</meta>
@@ -2803,14 +3003,22 @@ The third <term>body</term> <note>original: "corpus"; Dürer uses this for a thr
 <keywords>octahedron, icosahedron, Platonic solids, geometry, ground plan, elevation, Albrecht Dürer, vertices, edges</keywords>
 
 --- Page 144 ---
-<meta>The author continues the sequence of the five regular bodies, moving to the cube.</meta>
+<meta>Continuity note: This page concludes the discussion of the third regular solid, the icosahedron, and introduces the fourth, the cube (hexahedron). The diagrams provided on this page relate to the construction and unfolding of the icosahedron described in the preceding text.</meta>
 
-<image-desc>A diagram of ten interconnected rhombuses and circular diagrams showing inscribed hexagons and dodecagons, used to calculate the proportions of the solids.</image-desc>
+<sig>R iiij</sig> <note>This is a signature mark, used by early printers and bookbinders to ensure the pages were assembled in the correct order.</note>
 
-The fourth body is like a four-cornered cube; it has six squared, right-angled flat faces, and eight right-angled triangular corners <note>The vertices where three squares meet.</note>, and twelve sharp edges. I have drawn all of this out: completely open, then closed, laid in a ground plan, and then drawn out again.
+<gloss>points</gloss> corners and twelve sharp sides. As I have illustrated below, first entirely unfolded, then closed together, laid out in a ground plan, and finally drawn in elevation.
 
-<summary>Description of the fourth regular body, the cube (hexahedron), including its construction and physical properties.</summary>
-<keywords>cube, hexahedron, geometry, right angles, geometric construction</keywords>
+---
+
+The third <term>body</term> <note>original: "corpus"; Dürer uses this term to refer to any of the five three-dimensional Platonic solids.</note> has twenty triangular equal faces with equal angles, and twelve equal five-sided <note>Dürer is describing the vertices (corners) of the icosahedron, where five triangular faces meet at a single point.</note> corners, and thirty sharp, equal sides. As I have illustrated below, first entirely unfolded, then closed together, laid out in a ground plan, and finally drawn in elevation.
+
+The fourth **body** is like a square cube; it has six square, right-angled flat faces, and eight right-angled triangular corners <note>original: "rechter dreyecketer eck"; Dürer describes the cube's vertices as "triangular" because three lines—and three planes—meet at each point.</note>, and twelve sharp sides <note>edges</note>. As I have drafted it all below: first entirely unfolded, then closed, laid out in a ground plan, and finally raised up into elevation <note>original: "aufgerissen" (drafted/drawn) and "aufgezogen" (drawn in elevation). "Elevation" refers to a perspective or vertical view of the three-dimensional object.</note>.
+
+<note>Key geometric terms used by Dürer: **vierecketer würffel** (four-sided cube), **gevierter** (squared), **ebner felder** (flat faces), **grund gelegt** (laid out in a ground plan).</note>
+
+<summary>This page concludes the geometrical description of the icosahedron (the third solid) and begins the description of the cube (the fourth solid), detailing its faces, corners, and edges.</summary>
+<keywords>geometry, Albrecht Dürer, icosahedron, cube, hexahedron, Platonic solids, elevation, technical drafting</keywords>
 
 --- Page 145 ---
 <meta>The author continues from the fourth regular body, the cube, to the fifth and final Platonic solid: the dodecahedron.</meta>
@@ -2823,18 +3031,17 @@ The fifth body <term>the dodecahedron</term> is made purely of five-cornered fla
 <keywords>dodecahedron, pentagon, geometry, Platonic solids, geometric construction, vertices, edges</keywords>
 
 --- Page 146 ---
-<meta>This page continues the exploration of geometric solids and their projection onto flat surfaces, moving from the basic construction of shapes to the unfolding of spherical forms into flat patterns.</meta>
+<meta>The author transitions from the general description of the dodecahedron to the specific problem of projecting a sphere or spherical body onto a flat surface, illustrating the relationship between three-dimensional curves and two-dimensional planes.</meta>
 
-### Sphere, or a globe, when it is cut through its meridian lines and laid out on a plane,
-it takes the shape of a comb, as I have drawn here below in a spherical and open manner.
+The sphere <note>original: "spera"</note> or a globe, if one cuts it through its meridian lines <note>original: "mittag linien"; literally "mid-day lines," the lines of longitude running from pole to pole</note> and lays it on a flat plane <note>original: "planum"</note>, it takes on the shape of a comb, as I have sketched it below in an open bird’s-eye view <note>original: "fugels weyß"</note>.
 
-### How things made in a spherical form are made from a globe.
+## How to correctly lay down the circles from a given [measure]
 
-One can make spherical items from a globe.
-And from the globes that I have drawn above, one can make the spherical form, and that is a—
+To correctly arrange what is taken from a globe, do it as follows: Draw a circle with a line that is the diagonal <note>original: "Diaginal"</note> of the circumference <note>original: "Circulierung"</note> of your globe, and mark the lines <note>original: "ritz"</note> here as **a b c d e**. Then divide the circumference of the globe—that is, the line **f r**—into 12 parts as **1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12**, or into 10 parts if you prefer, and into 4 parts as **1 2 3 4**. Now take the width of a quarter with a compass <note>original: "Zirckel"</note> and set one foot on the point **m**, and with the other foot on both sides **d l**, mark a point **g r**. Do the same on the other side of the circumference and also have seven regular lines at point **j f**. Then [draw] **3** from the point **g** to the point, and do the same for **r** at **d 4**. A small point is entirely on line **a d**, which is always equal to three parallel lines <note>original: "paraller lundt"</note>. Now set the compass at **m d** in front as **3 [of] 11** parts and move from **1** to **3** on **11**, and set one foot in the **d r** and the other **3** with the other in **3** at **3**, then **r** against the hidden line <note>original: "blindt lini"</note> **r. f.** at point **3 4 r** and <unclear>Riemann ß</unclear>. After that, set the compass out of the hidden line **r. f.** and take 1/4 from **3**, then **r** against the hidden line at the front piece **3 5. 10.** Then you must [use] the compass <unclear>dry d vorden pieren</unclear>. **3.** When this is correct, take with the compass behind its marks equally out of the points **11**, the other enclosing **p. 11. y** then the front as **3**. Continue thus until **t** length of the [section] from **12** until half the <unclear>garn</unclear> is made. For that reason, because it <unclear>vill weyge</unclear>, one must first pull the compass to the other small points... when you have now made the **h / 12**, [set] the compass on the other points of the lines, namely **v d**.
 
-<summary>This page explains how a sphere or globe can be mathematically "unrolled" into a flat plane, resulting in a comb-like shape known in cartography as a gore projection.</summary>
-<keywords>sphere, globe, meridian, plane, projection, geometric construction</keywords>
+<summary>This page explains how to project a three-dimensional sphere onto a two-dimensional surface by "unfolding" it along its meridians, a process that creates a comb-like shape. It provides complex, step-by-step instructions for using a compass to plot the necessary points and lines for this geometric transformation.</summary>
+
+<keywords>sphere, globe, meridian, geometry, compass, projection, dodecahedron, circumference, technical drawing</keywords>
 
 --- Page 147 ---
 <meta>This page continues the technical instructions for constructing map projections, specifically focusing on the geometric layout required to create "gores"—the tapered segments of paper used to cover a spherical globe.</meta>
@@ -2907,14 +3114,12 @@ The other irregular body has six octagonal and eight triangular faces; if one jo
 <keywords>geometry, polyhedra, Archimedean solids, hexagonal faces, octagonal faces, triangular faces, geometric nets, vertices, edges</keywords>
 
 --- Page 150 ---
-<meta>The sequence concludes with the construction of a cuboctahedron, further illustrating the variety of irregular solids that can be inscribed in a sphere.</meta>
+<meta>This page continues the sequence of polyhedral "nets" or unfolded plans. Page 35 concluded with the description of a truncated cube (six octagonal and eight triangular faces); this page describes the third irregular solid in the series, known today as the cuboctahedron.</meta>
 
-36
+The third irregular <term>corpus</term> <note>From the Latin for "body," referring here to a three-dimensional geometric solid.</note> has six square and eight triangular faces; when one joins this body together while it is open <note>Referring to the folding of the flattened "net" diagram into a solid shape.</note>, it results in twelve corners <note>vertices</note> and twenty-four edges <note>original: "scharpfer seyten," literally "sharp sides."</note>.
 
-This irregular body <term>body</term> <note>original: *corpus*</note> has six square faces and eight triangular faces. When this body is folded together from its open form, it gains twelve corners and twenty-four sharp edges.
-
-<summary>This page describes the construction of a cuboctahedron, a solid composed of squares and triangles, providing its specific count of faces, corners, and edges.</summary>
-<keywords>cuboctahedron, square faces, triangular faces, polyhedron net, geometry, corners, edges</keywords>
+<summary>This page defines the third "irregular" (semi-regular) solid, a cuboctahedron, by identifying its six square and eight triangular faces, as well as its resulting twelve vertices and twenty-four edges.</summary>
+<keywords>geometry, polyhedra, cuboctahedron, Archimedean solids, vertices, edges, geometric nets</keywords>
 
 --- Page 151 ---
 <meta>This page continues the catalog of geometric solids, moving from the cuboctahedron described on page 36 to the "fourth body," known today as the truncated octahedron. The transcription notes indicate some physical damage (staining and ghosting) to the paper, but the text and the geometric net remain legible.</meta>
@@ -2948,13 +3153,28 @@ The fifth body <term>body</term> <note>original: *corpus*; a term used in early 
 <keywords>rhombicuboctahedron, Archimedean solid, polyhedral net, geometry, square faces, triangular faces, vertices, edges</keywords>
 
 --- Page 153 ---
-<page-num>39</page-num>
-->D ii<- <note>A signature mark indicating the sequence of the gathering.</note>
+<meta>This page provides the visual geometric net for the "fifth body" (the small rhombicuboctahedron) described on page 38, showing how the eighteen squares and eight triangles are connected before being folded into a three-dimensional solid.</meta>
 
-<meta>This page contains no descriptive text, only a geometric diagram of a net for a polyhedron. The diagram consists of a central column of four squares with additional squares and triangles attached, likely forming a version of a truncated or augmented cube.</meta>
+39
 
-<summary>A wordless page featuring a complex geometric net diagram for a polyhedral solid.</summary>
-<keywords>geometry, diagram, polyhedron, net, square, triangle</keywords>
+<image-desc>
+A geometric <term>net</term> <note>a flat, two-dimensional pattern that can be folded to create a three-dimensional solid</note> for a complex <term>polyhedron</term> <note>original: *polyeder*; a solid figure with many plane faces</note>, meticulously drawn with thin black lines. The net is composed of squares and equilateral triangles arranged in a vertical, symmetrical pattern. 
+
+At the top, the diagram begins with a central square that has an equilateral triangle attached to its top, left, and right edges. 
+
+Below this, the structure consists of a repeating vertical sequence of horizontal rows:
+1. A row of three squares joined side-by-side.
+2. A row consisting of a central square with an equilateral triangle attached to its left and right sides.
+
+This two-row sequence repeats three additional times, ending with a final row of three squares at the base of the diagram. The net is designed to be folded into the rhombicuboctahedron, a shape often prized by Renaissance geometers for its symmetry.
+</image-desc>
+
+<sig>B iii</sig> <note>This is a signature mark, used by early modern printers to ensure pages were bound in the correct order; "B iii" indicates the third leaf of the second section.</note>
+
+<gloss>Geometry, Polyhedron, Net, Square, Triangle</gloss>
+
+<summary>This page presents the technical drawing for the "fifth body," a small rhombicuboctahedron, illustrating the precise arrangement of its 18 square and 8 triangular faces in an unfolded state.</summary>
+<keywords>geometry, polyhedron, net, Archimedean solid, rhombicuboctahedron, square, triangle, technical drawing, signature mark</keywords>
 
 --- Page 154 ---
 <meta>This page continues the systematic catalog of polyhedral solids from the previous pages. While page 39 featured an unlabeled diagram, page 40 provides descriptive text and "nets" (flattened layouts) for the sixth and seventh solids in the series, identifying their component shapes and the mathematical properties of the finished forms.</meta>
@@ -2973,25 +3193,35 @@ The seventh and following solid, when it lies open, has six octagons, eight hexa
 <keywords>geometry, polyhedra, snub cube, great rhombicuboctahedron, Archimedean solids, geometric nets, vertices, edges</keywords>
 
 --- Page 155 ---
-<page-num>41</page-num>
-->N iiii<- <note>Signature mark.</note>
+<meta>This page provides the visual "net" (the unfolded flat pattern) for the seventh solid described on page 40, known today as the truncated cuboctahedron or great rhombicuboctahedron. It continues the systematic presentation of Archimedean solids by showing how the 3D form is constructed from flat shapes.</meta>
 
-8 - 1/2 <term>common</term> <note>original: "com.", likely for "commensurabilis," meaning a common measure in geometric proportions</note> 5 1/4 <term>diameter</term> <note>original: "diam"</note>
+<margin>
+<unclear>g</unclear> 1/2 <term>semidiameter<note>original: "semid."; the radius of the solid or its circumscribed sphere.</note></term>, 5 1/4 <term>diameter<note>original: "diam."; the full width across the center of the solid.</note></term>
+</margin>
 
-<summary>A large, intricate geometric diagram showing a complex net composed of octagons and squares, accompanied by technical measurements of diameter and proportion.</summary>
-<keywords>geometry, octagon, tessellation, diameter, measurement, geometric net</keywords>
+<image-desc>A large, complex geometric diagram showing the net (unfolded surface) of a polyhedron, likely a truncated cuboctahedron. It consists of a central regular octagon, with eight squares radiating from each of its sides. Each of these squares is connected to another regular octagon. At the outermost edges of the north, south, east, and west octagons, four additional squares are attached. The linework for the shapes at the bottom of the diagram is notably fainter and partially missing compared to the rest of the figure.</image-desc>
+
+<note>This diagram illustrates the "seventh solid" mentioned on the previous page. To form the three-dimensional body, the reader would imagine cutting this pattern out and folding the edges together. The faint lines at the bottom suggest a printing error or a worn woodblock used during the original publication.</note>
+
+->N iiij<-
+
+<summary>This page features the geometric net for the truncated cuboctahedron, illustrating the spatial arrangement of the octagons and squares that comprise the solid's surface.</summary>
+<keywords>geometry, polyhedron, truncated cuboctahedron, geometric net, semidiameter, diameter, early modern printing</keywords>
 
 --- Page 156 ---
-<meta>This page marks a transition from simple geometric nets to the construction of complex polyhedra, following the previous discussion on solid bodies.</meta>
+<meta>This page continues the sequence of polyhedral nets, moving from the seventh solid (the truncated cuboctahedron) shown on page 41 to the eighth solid in this series. The layout follows the established pattern of providing a textual description of the faces followed by a geometric net for construction.</meta>
 
-4 z
+The eighth solid <note>original: "Acht corpus"</note>: construct it from six twelve-sided faces <note>dodecagons</note>, and between these, place thirty-two triangles. However, these triangles do not all have equal sides <note>meaning they are isosceles or scalene rather than equilateral</note>, as is clearly shown in the unfolded drawing <note>original: "aufgerissen"; referring to the geometric net or "pattern" of the shape</note> below.
 
-The eighth body / make it from six twelve-angled fields <note>The text specifies dodecagons, though the accompanying diagram shows octagons.</note> / and between them make thirty-two triangles / however, they do not all have equal sides / as is clearly drawn out hereafter.
+<image-desc>
+A line-drawn geometric net (unfolded pattern) for a complex polyhedron. The diagram consists of six large dodecagons (twelve-sided polygons) arranged in a cross configuration: four dodecagons form a vertical column, with the second dodecagon from the top having two additional dodecagons attached to its left and right sides. Numerous small triangles are positioned at the junctions where the dodecagons meet, intended to form the vertices and intermediate faces of the solid when folded. The drawing is executed in dark ink on aged paper.
+</image-desc>
 
-<note>There is a known discrepancy in early modern geometric texts, including those by Albrecht Dürer, where the written description of a complex solid may not perfectly match the provided fold-out "net" or diagram. The diagram here depicts a net of octagons and triangles rather than dodecagons.</note>
+->N iiij<-
+<note>This is a printer's signature mark, indicating the position of this leaf within the book's physical structure (the fourth leaf of gathering N).</note>
 
-<summary>A description and geometric net for constructing a complex solid body (polyhedron) using a combination of polygons and triangles.</summary>
-<keywords>polyhedron, geometry, net diagram, octagons, dodecagons, triangles, solid bodies</keywords>
+<summary>This page describes and illustrates the net for the "eighth solid," a complex polyhedron composed of six dodecagons and thirty-two non-equilateral triangles.</summary>
+<keywords>geometry, eighth solid, polyhedron, dodecagon, triangle, geometric net, mathematical illustration</keywords>
 
 --- Page 157 ---
 <meta>This page transitions from the construction of specific polyhedra to the practical application of geometry in carving and the classic "Delian Problem" of doubling the cube.</meta>
@@ -3208,31 +3438,35 @@ And note especially that these two lights are actually one light, just as the li
 <keywords>perspective, geometry, cube construction, shadow projection, light source, ground plan, elevation, technical drawing, Albrecht Dürer</keywords>
 
 --- Page 168 ---
-<meta>This page consists of a complex geometric diagram that serves as a visual reference for the construction described on the previous page.</meta>
+<meta>This page provides the visual diagram corresponding to the geometric construction described on the previous page. It illustrates the relationship between a three-dimensional object (the cube), its elevation, its perspective ground plan, and the resulting cast shadow.</meta>
 
-52
+### Perspective and Shadow Projection
 
-G
+Light <note>original: "Licht"; the source of illumination, defining the angle and length of the cast shadow.</note>
 
--> **Light** <-
-<note>original: "Licht" at point o</note>
+**Upright Cube** <note>original: "Cubus aufrecht"; this is the elevation view, showing the cube from the side as it stands on the ground line.</note>
+1 2
+4 3
 
--> **The Eye** <-
-<note>original: "Aug" at point P</note>
+e b d a 7 8 c f g <note>These letters and numbers mark specific points of intersection on the ground line where vertical projections meet the horizontal plane.</note>
 
-**The Cube in Elevation**
-<note>original: "Cubus anfrischs"</note>
+**Eye** <note>original: "Auge"; the viewer's fixed vantage point.</note>
+**P** <note>Point P likely represents the principal point or vanishing point in the perspective construction.</note>
 
-**The Cube in the Ground Plan**
-<note>original: "Cubus Im grund"</note>
+**Cube on the ground** <note>original: "Cubus Im grund"; the perspective representation of the cube's base on the horizontal plane.</note>
+α β <note>alpha, beta</note>
+δ γ <note>delta, gamma</note>
 
-**Shadow**
-<note>original: "Schatten"</note>
+**Shadow** <note>original: "Schatten"; the area of the ground plane where light is obstructed by the mass of the cube.</note>
+x s h
 
-<note>The diagram illustrates how rays from the light (o) pass through the corners of the upper cube (1, 2, 3, 4) to project points (i, f) onto the horizon line. Simultaneously, rays from the lower light source (P) pass through the corners of the ground-plan cube (a, b, c, d) to define the boundaries (l, m, n) of the shaded area on the ground.</note>
+f g
+f
 
-<summary>A detailed geometric diagram illustrating the intersection of visual and light rays to construct the perspective and shadow of a cube on a plane.</summary>
-<keywords>perspective diagram, shadow casting, visual rays, geometry, cube</keywords>
+g g
+
+<summary>This page features a technical diagram illustrating the geometric principles of perspective and shadow casting. It demonstrates how an upright cube's height and position are projected from a viewer's eye and a light source onto a ground plane.</summary>
+<keywords>perspective, shadow projection, geometry, elevation, ground plan, optics, technical drawing</keywords>
 
 --- Page 169 ---
 <meta>This page continues the technical instructions for drawing a cube in perspective, moving from the geometric construction of shadows to the fundamental principles of optics and the "picture plane" (the transparent intersection between the eye and the object).</meta>
@@ -3299,39 +3533,59 @@ Therefore, make this upright parallel line close to the ground plans, positioned
 <keywords>perspective, ray-lines, picture plane, superficies, plan view, cube construction, Albrecht Dürer, geometry</keywords>
 
 --- Page 172 ---
-<meta>This page provides the visual accompaniment to the technical instructions on the previous page, showing the geometric layout of the cube and its perspective projection.</meta>
+<meta>This page provides the visual diagrams and geometric proofs for the perspective theories described on page 55, specifically illustrating how the intersection of ray-lines and the "transparent plane" creates a mathematically accurate representation of a cube and its shadow.</meta>
 
-56
+### Perspective Projection and Shadow Construction
 
-->**56**<-
+<note>This page is primarily a technical diagram illustrating the principles of linear perspective. Due to significant ink bleed-through from the reverse side, some construction lines may appear faint or overlapping.</note>
 
-<note>The diagram illustrates the geometric construction of perspective. At the top left, point "o" is the **light source** and point "p" is the **viewpoint** or eye. A grid of visual rays extends toward two cubes.</note>
+->**Light Source**<-
+<note>original: "Liecht"</note>
 
-**Upright Cube** <note>original: "Cubus auffrecht."</note>
-<note>The upper cube has corners marked 1, 2, 3, and 4. Point 3 is also marked 'z'.</note>
+In the top diagram, the **Upright Cube** <note>original: "Cubus aufrecht"</note> is positioned vertically. Projection lines radiate from the light source, marked with a circle, through a specific point **o**. These rays target the corners of the square labeled **1, 2, 3,** and **4**. On the horizontal line below—the horizon—various points of construction are marked (**β, e, d, a, c, b, e, g, h, i, k**) to establish the depth and scale of the cube within the **perspective** <term>Perspektive; the art of representing three-dimensional objects on a two-dimensional surface</term>.
 
-**Cube on the ground** <note>original: "Cubus ym gründ."</note>
-<note>The lower cube shows the front corners 'a' and 'B' and the lower corner 'δ'.</note>
+<column-break/>
 
-**Shadow** <note>original: "schattē."</note>
-<note>The hatched area labeled 'shadow' is cast by the lower cube, with its bounds marked by the letters x, r, n, and m.</note>
+->**The Cube on the Ground Plan**<-
+<note>original: "Cubus im grund"</note>
 
-<note>Additional construction points e, f, g, h, i, k, l, and β are used to align the projection onto the vertical "surface" or "intersection plane" represented by the right-hand markers.</note>
+The lower diagram demonstrates the projection of a **shadow** <note>original: "schatten"</note> from a cube resting on the base plane. 
 
-<summary>A detailed geometric diagram demonstrating how to project an upright cube and its shadow onto a ground plane using a single light source and a specific viewpoint.</summary>
-<keywords>diagram, upright cube, ground cube, shadow casting, perspective projection, light source</keywords>
+1.  A second **Light Source** <note>original: "Liecht"</note> at the upper left directs a primary ray **p** toward the object.
+2.  The cube's volume is defined by corners marked with numbers **1–4** and the Greek letters **α, β, γ, δ**.
+3.  The resulting **shadow-outline** <term>Schattenriss; the silhouette cast by an object onto a surface</term> is mapped onto the ground at points **l, m,** and **n**.
+
+By following this **geometry** <term>Geometrie</term>, the artist can precisely calculate how the shadow stretches or compresses based on the height and angle of the light, ensuring the **ground plan** <term>grund; the floor or base surface of the drawing</term> is perfectly aligned with the viewer's eye.
+
+<summary>This page contains two technical diagrams demonstrating how to project an upright cube and its cast shadow onto a ground plan using a light source and perspective points.</summary>
+<keywords>linear perspective, shadow projection, geometry, upright cube, ground plan, light source, construction lines</keywords>
 
 --- Page 173 ---
-<meta>This page is physically damaged or the printing was too light to survive, but the diagram remains as a testament to the complex convergence of perspective lines.</meta>
+<meta>Continuing from the previous page’s discussion on the projection of cubes and the mapping of their shadows, this page (Signature P iii) provides the foundational geometric diagrams for these theories. It illustrates how vanishing points on a vertical axis dictate the convergence of lines in space.</meta>
 
-P III <note>Signature mark for the third leaf of gathering P.</note>
+### The Geometry of Converging Lines
 
-<unclear>The main body text of this page is extremely faint and illegible.</unclear>
+<note>This page is a technical illustration focusing on the core principles of linear perspective. It uses radiating lines to demonstrate how three-dimensional space is organized on a flat surface.</note>
 
-<note>The visible diagram shows a vertical line on the right serving as a horizon or intersection plane. Numerous lines converge from the left toward two distinct vanishing points or alignment points. Below these, a faint rectangular box is visible, sketched in perspective to show how these converging lines define its volume.</note>
+->**Linear Perspective**<-
+<term>Perspektive; the mathematical art of representing three-dimensional objects and spatial depth on a two-dimensional surface</term>
 
-<summary>Although the text is illegible, the remaining diagram illustrates the principle of convergence, where lines from a three-dimensional object meet at specific points on a vertical axis.</summary>
-<keywords>convergence, vanishing point, geometric construction, illegible text</keywords>
+The diagram centers on the relationship between a vertical axis and the viewer's field of vision. On the right side of the page, a long vertical line serves as a primary guide. Two distinct **vanishing points** <term>Fluchtpunkt; a point in a perspective drawing to which parallel lines appear to converge</term> are marked upon this line, acting as the mathematical anchors for the composition.
+
+<column-break/>
+
+->**Radiating Projections**<-
+
+From each of these focal points, a series of straight **lines** <note>original: "Linien"</note> radiate outward toward the left margin, demonstrating the laws of **geometry** <term>Geometrie</term>:
+
+*   The upper set contains approximately ten lines, spaced to show a wide angle of projection.
+*   The lower set is much denser, featuring about twenty lines at various angles to show more precise increments of spatial recession.
+
+By using these radiating lines, the artist can determine the exact "height and angle" (as referenced on the previous page) required to draw objects that appear to recede naturally into the distance. This system ensures that every part of a drawing—whether a cube, a building, or a shadow—remains proportional to the viewer's eye.
+
+<summary>This page illustrates the geometric foundation of perspective through a diagram of vanishing points and radiating lines. It provides the visual proof for how three-dimensional depth is calculated on a vertical axis.</summary>
+
+<keywords>perspective, vanishing point, linear geometry, radiating lines, spatial projection, horizon line</keywords>
 
 --- Page 174 ---
 <meta>This page continues the technical explanation of geometric perspective, moving from the theoretical layout of lines to the practical application of plotting points from two-dimensional plans onto a three-dimensional perspective grid.</meta>
@@ -3397,16 +3651,22 @@ Afterward, draw two ray lines from the **eye** to the two corners **.2.3.** Wher
 <keywords>perspective, geometry, cube construction, vanishing point, foreshortening, ray lines, plan view, Renaissance draftsmanship</keywords>
 
 --- Page 177 ---
-<note>This page consists of a woodcut illustration. It depicts a man standing in profile, using a sighting technique. He is extending his arm and pointing, possibly demonstrating the "line of sight" or how an artist aligns their eye with an object to transfer it to a drawing surface. A thin horizontal line suggests the baseline or the trajectory of his gaze.</note>
+<meta>This page transitions from the geometric theory of the ground plane to the practical application of placing a solid object—a cube—within that spatial construct. It builds directly upon the previous page's method for "stealing away" or foreshortening a flat square.</meta>
 
-<summary>A visual demonstration of an artist or surveyor sighting an object to determine its position in space.</summary>
-<keywords>sighting, observation, artist, perspective, woodcut</keywords>
+<image-desc>A technical line drawing on a strip of yellowish paper pasted at the top of a white page. The illustration depicts a man in 16th-century clothing (doublet, trunk hose, stockings, and a sword at his side) standing on a horizontal ground line. He is shown in profile, facing left, with his right arm extended. A straight line is drawn from his eye level, passing over his hand and extending to the left edge of the frame, representing a line of sight or a perspective measurement.</image-desc>
 
---- Page 178 ---
-<meta>This page is blank.</meta>
+->59<-
 
-<summary>Blank page.</summary>
-<keywords>blank</keywords>
+So now that this squared <term>plane</term><note>original Latin: "planus," referring here to the flat geometric surface upon which objects are drawn</note> has been successfully <term>foreshortened</term><note>original: "abgestolen," an evocative Renaissance-era term meaning "stolen away," used to describe the optical compression of space in perspective</note>, then place the **cube** upon it in its proper place, in the same way as it stood previously on its foreshortened plane. The way to do this is as follows:
+
+Take the length of one side of the cube from the front <term>plan view</term><note>original: "nider gedruckten grund," literally the "pressed-down ground," referring to a 2D floor plan or orthographic projection</note> and mark it with two points **.x.y.** on the lower **horizontal line .f.g.** of your current foreshortened square. Place them at the same distance from corner **.f.** as they appear in the front plan view from the side of the squared plane **.e.f.** After that, draw two <term>ray lines</term><note>original: "streym lini," meaning stream lines or rays of light that represent the path of sight toward the eye</note> from the **eye** to the two points **.x.y.** Between these two lines, the cube must be placed with its bottom square surface toward the back of this plane. 
+
+But to find how far back it goes, seek it thus: if you draw a **diagonal line .e.g.** in the front plan view, this diagonal will also be a diago<unclear>nal</unclear>...
+
+<image-desc>A perspective diagram showing the construction of a square plane (planus) on a ground surface. A horizon line is drawn with a central vanishing point depicted as an eye. Lines of sight (rays) converge from the eye to points on the ground line. The plane is labeled with letters including e, f, g, and h. The number 59 is centered above the diagram.</image-desc>
+
+<summary>This page provides technical instructions for placing a three-dimensional cube onto a foreshortened plane by mapping points from a ground plan to the perspective drawing using ray lines and vanishing points.</summary>
+<keywords>perspective, cube construction, foreshortening, plan view, ray lines, vanishing point, geometry</keywords>
 
 --- Page 179 ---
 <meta>The previous page was blank; this page begins the practical application of perspective to shadows.</meta>
@@ -3530,33 +3790,6 @@ In P, on the last leaf, on the second side, on the fifteenth line: for the two w
 
 <summary>This page lists corrections for printing errors in the text and diagrams of Dürer's manual, while also announcing that his forthcoming book on proportion will include official legal protection against piracy.</summary>
 <keywords>errata, printing errors, typography, geometry, Imperial privilege, copyright, Proportion</keywords>
-
---- Page 185 ---
-<warning>The page is entirely blank.</warning>
-
-<summary>A blank page, likely the final leaf or a flyleaf of the original printing.</summary>
-<keywords>blank page</keywords>
-
---- Page 186 ---
-<meta>This page is the starting leaf of the section and is blank.</meta>
-
-<warning>The page is entirely blank.</warning>
-
-<summary>A blank page appearing at the start of this section of the manuscript.</summary>
-<keywords>blank page</keywords>
-
---- Page 187 ---
-<meta>This page contains modern library archival markings.</meta>
-
-SPECIAL
-NC 84 B
-745 7142
-A2 Inventory #
-D85 61
-1525
-
-<summary>A page containing modern archival and library inventory numbers used for cataloging the manuscript.</summary>
-<keywords>library markings, inventory, cataloging</keywords>
 
 --- Page 188 ---
 <meta>This page continues the legal and ecclesiastical arguments from the previous section, shifting from general archival metadata to specific citations of Roman law and a letter from Pope Gregory regarding a judicial dispute involving a bishop.</meta>
