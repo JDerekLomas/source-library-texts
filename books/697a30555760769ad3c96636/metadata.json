@@ -1,14 +1,14 @@
 {
   "id": "697a30555760769ad3c96636",
   "title": "Copia resolutionis, welche Churf. Durchl. zu Sachsen etc. dem königl. hispanischen subdelegirten Gesandten gegeben, den 19. Octobris Anno 1631",
-  "display_title": "Copia resolutionis, welche Churf. Durchl. zu Sachsen etc. dem königl. hispanischen subdelegirten Gesandten gegeben, den 19. Octobris Anno 1631",
+  "display_title": "Copy of the Resolution of the Elector of Saxony",
   "author": "anonymous",
   "language": "Latin-German",
   "year": 1631,
   "published": "1631",
   "pages_count": 242,
   "pages_with_ocr": 242,
-  "pages_with_translation": 10,
+  "pages_with_translation": 242,
   "source_url": "https://sourcelibrary.org/book/697a30555760769ad3c96636",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:27:15.280Z",
+  "synced_at": "2026-03-04T18:30:42.393Z",
   "_hashes": {
     "ocr": "33fc55066ff319db",
-    "translation": "5bfe094ddd012d8a"
+    "translation": "13572b8f857a263d"
   }
 }
