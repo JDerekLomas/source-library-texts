@@ -1,14 +1,14 @@
 {
   "id": "6985ca722dee84d6b6afece9",
   "title": "[Greek] hoc est Redintegratio an die Fraternitet vom RosenCreutze",
-  "display_title": "[Greek] hoc est Redintegratio an die Fraternitet vom RosenCreutze",
+  "display_title": "Restoration to the Fraternity of the Rosy Cross",
   "author": "anonymous",
   "language": "German",
   "year": 1619,
   "published": "1619",
   "pages_count": 42,
   "pages_with_ocr": 42,
-  "pages_with_translation": 42,
+  "pages_with_translation": 31,
   "source_url": "https://sourcelibrary.org/book/6985ca722dee84d6b6afece9",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v4.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:29:46.289Z",
+  "synced_at": "2026-03-04T20:00:41.118Z",
   "_hashes": {
     "ocr": "218984f25ce39ddb",
-    "translation": "1956b7aae8b6614a"
+    "translation": "f0f63100835b63a9"
   }
 }
