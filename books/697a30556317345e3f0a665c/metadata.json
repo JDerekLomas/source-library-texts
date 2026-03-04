@@ -1,14 +1,14 @@
 {
   "id": "697a30556317345e3f0a665c",
   "title": "Consilia medica uber gantz besondere, auch rare Casus",
-  "display_title": "Consilia medica uber gantz besondere, auch rare Casus",
+  "display_title": "Medical Advice on Rare Cases",
   "author": "Clacius, Georgius",
   "language": "Latin-German",
   "year": 1739,
   "published": "1739",
   "pages_count": 131,
   "pages_with_ocr": 131,
-  "pages_with_translation": 8,
+  "pages_with_translation": 17,
   "source_url": "https://sourcelibrary.org/book/697a30556317345e3f0a665c",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:28:14.049Z",
+  "synced_at": "2026-03-04T19:20:40.715Z",
   "_hashes": {
     "ocr": "a5b396d9ae08f4c7",
-    "translation": "fbed9863e2032208"
+    "translation": "271542d7e9da12d5"
   }
 }
