@@ -1,14 +1,14 @@
 {
   "id": "6974b646457dd8909910b9f5",
   "title": "Archiv für Freimäurer und Rosenkreuzer",
-  "display_title": "Archiv für Freimäurer und Rosenkreuzer",
+  "display_title": "Archive for Freemasons and Rosicrucians",
   "author": "Unknown",
   "language": "German",
   "year": 1783,
   "published": "1783, 1785",
   "pages_count": 514,
   "pages_with_ocr": 514,
-  "pages_with_translation": 5,
+  "pages_with_translation": 506,
   "source_url": "https://sourcelibrary.org/book/6974b646457dd8909910b9f5",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:24:02.625Z",
+  "synced_at": "2026-03-04T23:30:47.590Z",
   "_hashes": {
     "ocr": "5856fa6a366dcb48",
-    "translation": "62a73faad62bb930"
+    "translation": "0481df36b9870788"
   }
 }
