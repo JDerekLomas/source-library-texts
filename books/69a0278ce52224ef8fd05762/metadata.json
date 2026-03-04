@@ -1,0 +1,26 @@
+{
+  "id": "69a0278ce52224ef8fd05762",
+  "title": "Theologia aethiopum ex liturgiis fidei confessionibus",
+  "display_title": "Theology of the Ethiopians from Liturgies and Confessions of Faith",
+  "author": "Oertel, Johann Gottfried",
+  "language": "Latin",
+  "year": 1746,
+  "published": "1746",
+  "pages_count": 306,
+  "pages_with_ocr": 306,
+  "pages_with_translation": 62,
+  "source_url": "https://sourcelibrary.org/book/69a0278ce52224ef8fd05762",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-04T21:40:51.481Z",
+  "_hashes": {
+    "ocr": "9c362d3b84667c17",
+    "translation": "d42989e19ae39e88"
+  }
+}
