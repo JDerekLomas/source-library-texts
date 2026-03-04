@@ -1,14 +1,14 @@
 {
   "id": "697a37fae1d81a84b06d2d73",
   "title": "Le diadême des sages",
-  "display_title": "Le diadême des sages",
+  "display_title": "The Diadem of the Sages",
   "author": "[Loos, Onesime Henri de]",
   "language": "French",
   "year": 1781,
   "published": "1781",
   "pages_count": 276,
-  "pages_with_ocr": 10,
-  "pages_with_translation": 2,
+  "pages_with_ocr": 276,
+  "pages_with_translation": 258,
   "source_url": "https://sourcelibrary.org/book/697a37fae1d81a84b06d2d73",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:30:23.279Z",
+  "synced_at": "2026-03-04T17:30:46.893Z",
   "_hashes": {
-    "ocr": "50c92dfceab17425",
-    "translation": "230fb444bbe0b3d1"
+    "ocr": "a73cfb0a61db4d53",
+    "translation": "73e5d7db0a69ca9c"
   }
 }
