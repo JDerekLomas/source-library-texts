@@ -1,14 +1,14 @@
 {
   "id": "69794a6ceef1c286564aa427",
   "title": "Communication einer vortrefflichen chymischen Medicin",
-  "display_title": "Communication einer vortrefflichen chymischen Medicin",
+  "display_title": "Communication of an Excellent Chemical Medicine",
   "author": "Gualdus, Fridericus",
   "language": "German",
   "year": 1700,
   "published": "1700",
   "pages_count": 170,
   "pages_with_ocr": 170,
-  "pages_with_translation": 126,
+  "pages_with_translation": 158,
   "source_url": "https://sourcelibrary.org/book/69794a6ceef1c286564aa427",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:27:52.577Z",
+  "synced_at": "2026-03-04T18:30:34.465Z",
   "_hashes": {
     "ocr": "d16255ab1d867360",
-    "translation": "85257805cbc675e0"
+    "translation": "eef9adc9225b543f"
   }
 }
