@@ -1,14 +1,14 @@
 {
   "id": "6992cdfe00f13b15f3ca3b1f",
   "title": "本草綱目拾遺(一)",
-  "display_title": "本草綱目拾遺(一)",
+  "display_title": "Supplement to the Compendium of Materia Medica, Volume 1",
   "author": "趙學敏",
   "language": "Chinese",
   "year": 1765,
   "published": "1765",
   "pages_count": 99,
   "pages_with_ocr": 99,
-  "pages_with_translation": 80,
+  "pages_with_translation": 99,
   "source_url": "https://sourcelibrary.org/book/6992cdfe00f13b15f3ca3b1f",
   "license": "publicdomain",
   "doi": null,
@@ -20,9 +20,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:28:51.232Z",
+  "synced_at": "2026-03-04T21:11:27.215Z",
   "_hashes": {
     "ocr": "57d9a28c0218e51b",
-    "translation": "61a70e6aefe2c73a"
+    "translation": "f28edaa16ac98d00"
   }
 }
