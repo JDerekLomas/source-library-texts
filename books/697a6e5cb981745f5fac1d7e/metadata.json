@@ -1,14 +1,14 @@
 {
   "id": "697a6e5cb981745f5fac1d7e",
   "title": "Discursus politici singulares: I De tribus domesticae-societatis speciebus II De jure, ordinibusque civium",
-  "display_title": "Discursus politici singulares: I De tribus domesticae-societatis speciebus II De jure, ordinibusque civium",
+  "display_title": "Singular Political Discourses",
   "author": "Besold, Christoph",
   "language": "Latin",
   "year": 1626,
   "published": "1626",
   "pages_count": 166,
   "pages_with_ocr": 166,
-  "pages_with_translation": 9,
+  "pages_with_translation": 29,
   "source_url": "https://sourcelibrary.org/book/697a6e5cb981745f5fac1d7e",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:27:56.332Z",
+  "synced_at": "2026-03-04T19:20:33.552Z",
   "_hashes": {
     "ocr": "4d199945bef48611",
-    "translation": "09d1128956cbf567"
+    "translation": "6ad2659c878d9882"
   }
 }
