@@ -1,14 +1,14 @@
 {
   "id": "6985ca72d53aa86216a37add",
   "title": "Prognosticon theologicon, oder theologische Weissagung, vom jüngsten Tage",
-  "display_title": "Prognosticon theologicon, oder theologische Weissagung, vom jüngsten Tage",
+  "display_title": "Theological Prophecy of the Last Day",
   "author": "Rostius, Georgius",
   "language": "German",
   "year": 1620,
   "published": "1620",
   "pages_count": 237,
   "pages_with_ocr": 237,
-  "pages_with_translation": 237,
+  "pages_with_translation": 232,
   "source_url": "https://sourcelibrary.org/book/6985ca72d53aa86216a37add",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v4.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:27:18.770Z",
+  "synced_at": "2026-03-04T20:00:44.169Z",
   "_hashes": {
     "ocr": "ee1c54c5a5848040",
-    "translation": "f387d028e801ccce"
+    "translation": "21a6de998afb1aad"
   }
 }
