@@ -1,14 +1,14 @@
 {
   "id": "6978ee3a783b5e7fe48ce83e",
   "title": "Chimische Versuche über die Radicalauflösung der Körper",
-  "display_title": "Chimische Versuche über die Radicalauflösung der Körper",
+  "display_title": "Chemical Experiments on the Radical Dissolution of Bodies",
   "author": "Eckartshausen, Karl von",
   "language": "German",
   "year": 1801,
   "published": "1801",
   "pages_count": 105,
   "pages_with_ocr": 105,
-  "pages_with_translation": 79,
+  "pages_with_translation": 100,
   "source_url": "https://sourcelibrary.org/book/6978ee3a783b5e7fe48ce83e",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:28:28.630Z",
+  "synced_at": "2026-03-04T14:30:40.059Z",
   "_hashes": {
     "ocr": "8f35e2656c910de0",
-    "translation": "2aad1464927f97ea"
+    "translation": "7a37444a0a62016d"
   }
 }
