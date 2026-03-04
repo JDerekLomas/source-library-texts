@@ -1,14 +1,14 @@
 {
   "id": "697b0799a875a4971652f194",
   "title": "La espositione di Geber",
-  "display_title": "La espositione di Geber",
+  "display_title": "The Exposition of Geber",
   "author": "Bracesco, Giovanni",
   "language": "Italian",
   "year": 1551,
   "published": "1551",
   "pages_count": 182,
   "pages_with_ocr": 182,
-  "pages_with_translation": 7,
+  "pages_with_translation": 171,
   "source_url": "https://sourcelibrary.org/book/697b0799a875a4971652f194",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:27:48.554Z",
+  "synced_at": "2026-03-04T18:40:47.359Z",
   "_hashes": {
     "ocr": "539d9356cfa88f7f",
-    "translation": "535a4b654b36175b"
+    "translation": "f09726abddd4a2b0"
   }
 }
