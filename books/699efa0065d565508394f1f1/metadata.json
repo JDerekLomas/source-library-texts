@@ -1,0 +1,26 @@
+{
+  "id": "699efa0065d565508394f1f1",
+  "title": "Speculum seu lapis lydius pastorum: darinnen alle Prediger und Lehrer dieser letzten Welt sich beschawen, und [...] examiniren sollen",
+  "display_title": "Mirror or Touchstone of Pastors (Speculum seu Lapis Lydius Pastorum)",
+  "author": "Breckling, Friedrich",
+  "language": "German",
+  "year": 1660,
+  "published": "1660",
+  "pages_count": 319,
+  "pages_with_ocr": 319,
+  "pages_with_translation": 316,
+  "source_url": "https://sourcelibrary.org/book/699efa0065d565508394f1f1",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-04T17:10:30.044Z",
+  "_hashes": {
+    "ocr": "4c4de9f93ed73d60",
+    "translation": "6e94a0ac4954b528"
+  }
+}
