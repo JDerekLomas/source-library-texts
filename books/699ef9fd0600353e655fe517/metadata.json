@@ -1,0 +1,26 @@
+{
+  "id": "699ef9fd0600353e655fe517",
+  "title": "[Cyrillisch:] Sleutel tot de geheimen van de natuur",
+  "display_title": "Key to the Secrets of Nature",
+  "author": "Eckartshausen, Karl von",
+  "language": "Russian",
+  "year": 1804,
+  "published": "1804-1821",
+  "pages_count": 433,
+  "pages_with_ocr": 433,
+  "pages_with_translation": 414,
+  "source_url": "https://sourcelibrary.org/book/699ef9fd0600353e655fe517",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-04T16:40:32.697Z",
+  "_hashes": {
+    "ocr": "2e1ac995c562e669",
+    "translation": "f92a14ea364b659d"
+  }
+}
