@@ -1,14 +1,14 @@
 {
   "id": "6975158ba88d83c830d99e2a",
   "title": "De auguriis lib. II. De hieroglyphicis notis lib. II",
-  "display_title": "De auguriis lib. II. De hieroglyphicis notis lib. II",
+  "display_title": "On Auguries and Hieroglyphics",
   "author": "Nifo, Agostino|Horapollo",
   "language": "Latin",
   "year": 1534,
   "published": "1534",
   "pages_count": 209,
   "pages_with_ocr": 209,
-  "pages_with_translation": 167,
+  "pages_with_translation": 206,
   "source_url": "https://sourcelibrary.org/book/6975158ba88d83c830d99e2a",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:27:33.432Z",
+  "synced_at": "2026-03-04T14:00:24.005Z",
   "_hashes": {
     "ocr": "44c1495ca99b071b",
-    "translation": "ecd7f7d36d84156f"
+    "translation": "ced139724511989c"
   }
 }
