@@ -1,0 +1,26 @@
+{
+  "id": "699ef9fd535742af105d25e7",
+  "title": "Den strijdt tusschen vleesch en geest",
+  "display_title": "The Combat Between Flesh and Spirit",
+  "author": "Love, Christopher",
+  "language": "Dutch",
+  "year": 1656,
+  "published": "1656",
+  "pages_count": 686,
+  "pages_with_ocr": 686,
+  "pages_with_translation": 677,
+  "source_url": "https://sourcelibrary.org/book/699ef9fd535742af105d25e7",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-04T16:40:36.634Z",
+  "_hashes": {
+    "ocr": "f3fa650b8564e54a",
+    "translation": "b547b48599245c67"
+  }
+}
