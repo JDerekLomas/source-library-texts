@@ -1,15 +1,41 @@
---- Page 1 ---
-[[meta: No text on this page.]]
-
 --- Page 2 ---
-[[meta: No text to translate; simply echoing the single letter from the original Latin page.]]
+<meta>This page serves as the frontispiece for the manuscript, establishing the thematic focus on alchemical and Rosicrucian philosophy.</meta>
+
+<insert>
 H
 
---- Page 3 ---
-[[meta: No text on this page.]]
+->**Hermetic Philosophy** <note>original: "PHILOSOPHIA HERMETICA"; Hermeticism is a philosophical and esoteric tradition named after Hermes Trismegistus, focusing on the hidden laws of nature and the soul.</note><-
+
+<image-desc>A circular emblem or bookplate is pasted onto the page. The Latin words "PHILOSOPHIA HERMETICA" (translated as "Hermetic Philosophy") are printed in a circular border. The center contains an oval image of a white pelican feeding its young with its own blood—a symbol known as a "pelican in her piety," representing self-sacrifice and the alchemical process of nourishment and perfection—set against a blue background with yellow rays at the top. Below the oval is a brown cross decorated with three red roses, the classic symbol of the **Rosy Cross** <term>Rosy Cross: An emblem representing the union of the spirit (the rose) and the physical or suffering world (the cross), central to the Rosicrucian order.</term>.</image-desc>
+</insert>
+
+<column-break/>
+
+<meta>Pencil annotation in top right corner: "LH" or "214" enclosed in a hand-drawn circle.</meta>
+
+<summary>This frontispiece features a decorative emblem for "Hermetic Philosophy," utilizing the symbolic imagery of the "Pelican in her piety" and the Rose Cross to signify spiritual transformation. Such emblems were often used as personal bookplates (ex-libris) to denote the owner's philosophical affiliations.</summary>
+
+<keywords>Hermetic Philosophy, alchemy, Rosicrucianism, Pelican in her piety, Rose Cross, emblem, frontispiece</keywords>
 
 --- Page 4 ---
-[[meta: No text to translate.]]
+<meta>This page serves as a secondary frontispiece, following the Hermetic Philosophy emblem. It features an intricate allegorical engraving signed by the artist August Zenger, emphasizing the role of fate and classical wisdom in the pursuit of knowledge.</meta>
+
+<image-desc>
+An intricate engraving depicting an allegorical scene set at night under a crescent moon and seven stars. In the foreground, a woman sits partially draped, her gaze directed upward. Beside her, to the right, is a bust of a bearded man on a classical pedestal. Several putti interact with symbolic objects: one on the left gestures toward a large, radiant triangular diagram filled with numbers; another sits near the woman's lap; a third, in the lower right, holds a scroll. At the woman's feet lie various mathematical and astronomical instruments, including an armillary sphere <note>An early astronomical instrument representing the great circles of the heavens.</note>, a square, and a pair of dividers. The triangular diagram is inscribed with numbers in a nested layout (top: 1; row 2: 12, 3; row 3: 4, 11, 8; row 4: 10, 5, 6, 9). Above the triangle, arcs of numbers curve around: on the left, hundreds from 100 to 800; on the right, single digits 1 to 9 followed by tens from 10 to 100.
+</image-desc>
+
+<insert>Pythagoras <note>original: "Phytagoras"; the ancient Greek philosopher and mathematician whose teachings often centered on the mystical properties of numbers.</note></insert>
+
+---
+
+->Chance sometimes raises us to a rank <note>original French: "Le hazard quelquefois nous éleve en un rang"</note><-
+->Where we would not have dared to aspire. <note>original French: "Ou nous n'aurions osé prétendre."</note><-
+
+<vocab>chance, Pythagoras, geometry, astronomy, armillary sphere, frontispiece</vocab>
+
+<summary>This frontispiece features an allegorical engraving of Pythagoras and a personification of Knowledge or Fortune, surrounded by astronomical and mathematical tools. The accompanying French verse reflects on how "chance" or "hazard" can elevate an individual beyond their expectations, likely referring to the transformative power of the hidden arts.</summary>
+
+<keywords>Pythagoras, Allegory, Fate, Geometry, Astronomy, Armillary Sphere, Enlightenment, Numerology</keywords>
 
 --- Page 5 ---
 <meta>This is the title page of a late 18th-century manuscript. The handwriting and terminology suggest a background in esoteric traditions, likely Rosicrucian or Masonic, which were popular in German-speaking lands during the Enlightenment. The mention of "Heliopolis" is a classic mystical pseudonym for a place of publication.</meta>
@@ -662,14 +688,6 @@ For page 22
 
 <summary>This page contains a detailed reference table mapping symbolic numbers (11–99) to the seven planets and two elemental principles, categorizing their effects based on whether the planet is in a direct or retrograde state.</summary>
 <keywords>numerology, astrology, planetary influence, Saturn, Jupiter, Mars, Sun, Venus, Mercury, Moon, alchemy, putrefaction, symbols</keywords>
-
---- Page 30 ---
-[[meta: Very poor image quality. Likely the same table as page 2, but more cut off.]]
-
-<unclear>Table with rows and columns. Text is very faint and largely illegible.</unclear>
-[[summary: This page contains a table that is unreadable due to image quality and incomplete preservation. It is likely a continuation of the symbolic number theory discussed on the previous page.]]
-[[keywords: table, symbolic numbers, Qabala, illegible]]
-```
 
 --- Page 31 ---
 <meta>Page 23. This page continues the discussion of symbolic numerology following the illegible tables on page 22. Catchword: Mes. Signature: B 4.</meta>
@@ -3533,10 +3551,6 @@ Page 116
 <summary>This page contains a reference table of square numbers and their roots, organized to show which integers round to which root. It is a tool for the practitioner to calculate numerical values for names and categories without performing complex long-form division or root extraction.</summary>
 <keywords>square roots, square numbers, arithmetic table, kabbalistic calculation, rounding thresholds, numerology</keywords>
 
---- Page 128 ---
-[[meta: poor image quality, mostly blank page]]
-[[page number: unreadable]]
-
 --- Page 129 ---
 <meta>The previous page was largely unreadable due to poor image quality, appearing mostly blank. This page continues the instructions for a mathematical or divinatory system involving the construction of a numbered grid.</meta>
 
@@ -6057,29 +6071,41 @@ building remained safe.
 <keywords>lightning rods, Solomon's Temple, Ninth House, atmosphere, biology, natural philosophy, cryptography</keywords>
 
 --- Page 184 ---
-[[meta: Continuity from page 171 with the theme of astrological influences on the human body and the environment.]]
-[[page number: 172]]
+<meta>This page continues the astrological and cryptographic calculations following the inquiry into how the atmosphere affects biological life. It provides a geometric diagram (a "Trigon" chart) and a corresponding lookup table to derive specific values or letters based on planetary positions.</meta>
 
-<insert>Astrological figure with symbols, similar to previous pages.</insert>
+<note>The diagram represents a "Trigon," a method in astrology where the zodiac is divided into four groups of three signs each, associated with the four elements. The numbers and symbols here likely function as a cipher key to answer the question posed on the previous page regarding atmospheric influence.</note>
 
-> ☉ *Amœnitas, serenitas*. <note>Latin: Pleasantness, serenity.</note>
-> ☿ V & ♀ *Lætitia, Voluptas*. <note>Latin: Joy, Delight.</note>
-> ♃ *Inamœnitas*. <note>Latin: Unpleasantness.</note> ▽ *Mæror*. <note>Latin: Grief.</note>
-> △ A *Météora*. <note>Greek: Meteors; in this context, atmospheric phenomena.</note>
+**Diagram Data:**
 
-Sequence of the Trines.
+*   **Top sections:** 11 Mercury Trine | 11 Mercury Trine | 93 Mercury Libra | 99 Mercury Water/Inverse Trine
+*   **Left section:** 15 Sun Taurus
+*   **Right section:** 39 Mercury Libra
+*   **Bottom sections:** 51 Sun Taurus | Jupiter 53 Taurus | Mercury 84 Cancer | Mercury 48 Cancer
+*   **Outer right corner:** Jupiter 86 Aries
+*   **Central triangle:** 51 (at the top point), 93 and 48 (at the base)
 
-| 1. Δ 9. 1. 5. | 23 | 51 | 48 | 15 | 55 | 45 | Pl. 10. | 20 | 60 | 50 |
-|---|---|---|---|---|---|---|---|---|---|---|
-| 2. Δ 10.2.6. | 11 | 15 | 86 | 10 | 15 | 20 | Pl. 10. | 25 | 30 | 45 |
-| 3. Δ 11.3.7. | 11 | 53 | 39 | 10 | 55 | 40 | M. 5. | 45 | 50 | 20 |
-| 4. Δ 12.4.8. | 11 | 84 | 99 | 10 | 20 | 15 | Pl. 20. | 30 | 40 | 50 |
+**Astrological Interpretations:**
+<note>original Latin: "Amoenitas, serenitas; Lætitia, Voluptas; Inamoenitas, Mæror; Mêtéora."</note>
 
-*cfa* <note>Unclear abbreviation; likely initials or a reference code.</note>
+**Sun in Taurus:** Pleasantness, serenity.
+**Jupiter in Aries & Taurus:** Joy, Pleasure.
+**Mercury in Cancer:** <note>indicated by the downward triangle ▽ symbol</note> Unpleasantness, Sorrow.
+**Mercury in Trine:** <note>indicated by the upward triangle △ symbol</note> Atmospheric phenomena. <note>In historical science, "meteors" referred to any weather event, such as wind, rain, or lightning, occurring in the air.</note>
 
-[[vocabulary: Amœnitas (Pleasantness), serenitas (Serenity), Lætitia (Joy), Voluptas (Delight), Inamœnitas (Unpleasantness), Mæror (Grief), Météora (Meteors/Atmospheric phenomena), Trigonen (Trines)]]
-[[summary: This page associates astrological symbols with states of being (pleasantness, joy, unpleasantness, grief) and atmospheric phenomena, and presents a sequence of trines.]]
-[[keywords: astrology, trines, *Amœnitas*, *serenitas*, *Lætitia*, *Voluptas*, *Inamœnitas*, *Mæror*, *Météora*]]
+### Sequence of the Trigons.
+<note>A "Trigon" or "Triplicity" is a group of three zodiac signs belonging to the same element: Fire, Earth, Air, or Water.</note>
+
+| | | Given | | | Next Consonants are | | | | | | |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| 1. | Trine 9. 1. 5. | 93 | 51 | 48 | 15 | 55 | 45 | Plus 10. | 20 | 60 | 50 |
+| 2. | Trine 10. 2. 6. | 11 | 15 | 86 | 10 | 15 | 20 | Plus 10. | 25 | 30 | 45 |
+| 3. | Trine 11. 3. 7. | 11 | 53 | 39 | 10 | 55 | 40 | Minus 5. | 45 | 50 | 20 |
+| 4. | Trine 12. 4. 8. | 11 | 84 | 99 | 10 | 20 | 15 | Plus 20. | 30 | 40 | 50 |
+
+<sig>cfq</sig>
+
+<summary>This page provides an astrological diagram and a mathematical table (Sequence of the Trigons) used to calculate the specific influences of planets like Mercury and Jupiter on the atmosphere and human temperament.</summary>
+<keywords>astrology, trigons, Mercury, Jupiter, Taurus, Cancer, atmospheric phenomena, cryptography, temperament, natural philosophy</keywords>
 
 --- Page 185 ---
 <meta>This page continues the exploration of harmonic or natural laws, shifting from the astrological tables of page 172 to a linguistic or cryptographic exercise. It demonstrates a method of encoding and decoding text by manipulating consonants and vowels, using a Latin passage about the "nerves" and "winds" as the example.</meta>
@@ -6239,30 +6265,29 @@ What is locked in the little wooden box which Count J. T. holds in his hand?
 <keywords>cryptography, vowel stripping, divination, 9th House, Vienna, Count J. T., 1765, occult practices</keywords>
 
 --- Page 189 ---
-[[meta: Continuity from page 176 with examples of astrological questions.]]
-[[page number: 177]]
+<meta>This page provides the technical data and results for the divinatory query posed on page 176: "What is locked in the little wooden box which Count J. T. holds in his hand?" It uses a complex astrological diagram and "Trigons" (triplicities of astrological houses) to categorize the contents of the box.</meta>
 
-<insert>Diagram of a heptagram with astrological symbols at each point.</insert>
-<insert>A central triangle with the number 65 in each corner.</insert>
+-> ❦ <-
 
-<insert>Astrological symbol] 48. Pearly transparent - glass-like rock.
-[[insert: Astrological symbol] 65. Set in silver.
-[[insert: Astrological symbol] A braided knight's family crest. <note>Ritterstammwappen - Family Crest - The symbols represent a family heritage.</note>
+☿ ♋ 48. <note>Mercury in Cancer</note> Pearl-colored, transparent, glass-like gemstone.
+☽ ♒ 65. <note>Moon in Aquarius</note> Set in silver.
+♂ ♏ <note>Mars in Scorpio</note> An engraved knightly family coat of arms.
 
-Sequence of the Trigons. <note>Trigons refer to groups of three signs that are 120 degrees apart, forming a harmonious aspect.</note>
+### Sequence of the Trigons. <term>Trigons: Also known as triplicities, these are groups of three astrological signs or houses that belong to the same elemental family (Fire, Earth, Air, or Water).</term>
 
-| 1. [[insert: triangle</insert> 9. 1. 5. | 48 | 65 | 72 | <unclear>mm</unclear> | 50 | 65 | 10 | M. 5. | 10 | 55 | 45 |
-|---|---|---|---|---|---|---|---|---|---|---|
-| 2. <insert>triangle</insert> 10.2.6. | 19 | 54 | 28 | <unclear>mm</unclear> | 20 | 50 | 30 | Pl. 5. | 25 | 55 | 35 |
-| 3. <insert>triangle</insert> 11.3.7. | 93 | 49 | 32 | <unclear>mm</unclear> | 10 | 50 | 30 | Pl. 10. | 20 | 55 | 35 |
-| 4. <insert>triangle</insert> 12.4.8. | 35 | 97 | 24 | <unclear>mm</unclear> | 35 | 10 | 20 | Pl. 20. | 55 | 30 | 45 |
+| Trigons | Gifts | | | Power. Constellations are | | | Code | | | |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| 1. △ 9. 1. 5. | 48 | 65 | 72 | 50 | 65 | 10 | M. 5. | 40 | 55 | 45 |
+| 2. △ 10. 2. 6. | 19 | 54 | 28 | 20 | 50 | 30 | Pl. 5. | 25 | 55 | 35 |
+| 3. △ 11. 3. 7. | 93 | 49 | 32 | 10 | 50 | 30 | Pl. 10. | 20 | 55 | 35 |
+| 4. △ 12. 4. 8. | 35 | 97 | 24 | 35 | 10 | 20 | Pl. 20. | 55 | 30 | 45 |
 
-32
+<note>The abbreviations "M." and "Pl." in the Code column likely refer to "Mercury" and "Place" or "Planet" respectively, used here as keys for a numerical cipher system.</note>
 
-[[vocabulary: Perlfarbenes (Pearly), durchsichtig (transparent), glasartiges (glass-like), Gestein (rock), Silber (silver), Ritterstammwappen (knight's family crest), Folge der Trigonen (Sequence of the Trigons)]]
+<sig>M 2</sig>
 
-[[summary: This page provides further astrological interpretations with another heptagram diagram and tables linking trigons to specific objects (like a pearly rock and a family crest) along with numerical values.]]
-[[keywords: astrology, trigons, objects, pearly rock, silver, family crest, heptagram, numerical values]]
+<summary>This page decodes the contents of the box mentioned in the previous page's query, identifying a pearl-like stone set in silver and an engraved family crest. It uses a mathematical table based on astrological Trigons to organize these results.</summary>
+<keywords>astrology, trigons, divination, gemstones, heraldry, Vienna 1765, planetary symbols, Mercury, Moon, Mars, Cancer, Aquarius, Scorpio</keywords>
 
 --- Page 190 ---
 <meta>This page continues from the previous descriptions of physical objects and astrological correspondences. While page 177 focused on a "pearly rock" and a "knight's family crest" in the context of trigons, page 178 provides a cryptographic exercise using the description of a signet seal as the sample text.</meta>
@@ -6469,9 +6494,6 @@ Of course, he must possess knowledge of the subjects about which he is asked, pr
 
 <keywords>Great Conjunction, Saturn, Jupiter, astronomy, astrology, historical cycles, oppositions</keywords>
 
---- Page 196 ---
-[[meta: Heavily faded text. Image quality is poor. The text appears to be mirrored. No translatable text is visible.]]
-
 --- Page 197 ---
 <meta>The previous page was reported as heavily faded and mirrored, making it illegible. This page marks the clear beginning of a section dedicated to the Sun.</meta>
 
@@ -6485,9 +6507,6 @@ To Page 184
 
 <summary>This page introduces a new section focused on the Sun, featuring a faint astronomical or mathematical grid visible through the paper from the reverse side.</summary>
 <keywords>the Sun, astronomy, solar observations, celestial charts</keywords>
-
---- Page 198 ---
-[[meta: Heavily faded text. Image quality is poor. The text appears to be mirrored. No translatable text is visible.]]
 
 --- Page 199 ---
 <meta>Continuity: The previous page was noted as heavily faded and unreadable, appearing mirrored in the scan. This page begins a new section of data tables.</meta>
@@ -8253,20 +8272,3 @@ Triple Alliance. In the year 1718, a Quadruple Alliance <note>An alliance betwee
 
 <summary>This page records the astrological "Earthly Trigon" and correlates the movements of Saturn and Jupiter with major European diplomatic treaties and conflicts between 1718 and 1735.</summary>
 <keywords>astrology, Saturn, Jupiter, Earthly Trigon, Quadruple Alliance, Treaty of Passarowitz, Congress of Cambrai, Treaty of Vienna, 18th-century diplomacy</keywords>
-
---- Page 247 ---
-[[meta: Blank page.]]
-
---- Page 248 ---
-[[meta: Blank page.]]
-
---- Page 249 ---
-[[meta: Page with margin notes.]]
-<margin>8 chors 175 KAET</margin>
-<margin>coll. compl. 28-3-85 JB</margin>
-<margin>UBN 648 a</margin>
-
---- Page 250 ---
-[[meta: Visible back cover of a book.]]
-[[summary: End of manuscript.]]
-[[keywords: End of manuscript]]
