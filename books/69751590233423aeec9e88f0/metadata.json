@@ -1,14 +1,14 @@
 {
   "id": "69751590233423aeec9e88f0",
   "title": "Auserlesene chymische Tractätlein",
-  "display_title": "Auserlesene chymische Tractätlein",
+  "display_title": "Select Chemical Treatises",
   "author": "[Starkey, George]",
   "language": "German",
   "year": 1748,
   "published": "1748",
   "pages_count": 390,
   "pages_with_ocr": 390,
-  "pages_with_translation": 3,
+  "pages_with_translation": 376,
   "source_url": "https://sourcelibrary.org/book/69751590233423aeec9e88f0",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:25:40.318Z",
+  "synced_at": "2026-03-04T23:30:52.235Z",
   "_hashes": {
     "ocr": "4170d3268520df53",
-    "translation": "694d62c7e5388e10"
+    "translation": "6b6ce58ab63641d5"
   }
 }
