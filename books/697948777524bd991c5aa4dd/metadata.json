@@ -1,14 +1,14 @@
 {
   "id": "697948777524bd991c5aa4dd",
   "title": "Commentarius in Obadiam. Accessit Henoch",
-  "display_title": "Commentarius in Obadiam. Accessit Henoch",
+  "display_title": "Commentary on Obadiah and Enoch",
   "author": "Pfeiffer, August",
   "language": "Latin",
   "year": 1670,
   "published": "1670",
   "pages_count": 162,
   "pages_with_ocr": 162,
-  "pages_with_translation": 130,
+  "pages_with_translation": 162,
   "source_url": "https://sourcelibrary.org/book/697948777524bd991c5aa4dd",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:27:59.938Z",
+  "synced_at": "2026-03-04T14:30:35.963Z",
   "_hashes": {
     "ocr": "4765d54cf5ab4349",
-    "translation": "3c46c582500f3457"
+    "translation": "50cc97d1e5853c6b"
   }
 }
