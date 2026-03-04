@@ -1,14 +1,14 @@
 {
   "id": "6992cfa9f5b4f75c1a4c9628",
   "title": "海國圖志(27)",
-  "display_title": "海國圖志(27)",
+  "display_title": "Illustrated Treatise on the Maritime Kingdoms (Vol. 27)",
   "author": "魏源",
   "language": "Chinese",
   "year": 1844,
   "published": "1844",
   "pages_count": 99,
   "pages_with_ocr": 99,
-  "pages_with_translation": 80,
+  "pages_with_translation": 99,
   "source_url": "https://sourcelibrary.org/book/6992cfa9f5b4f75c1a4c9628",
   "license": "publicdomain",
   "doi": null,
@@ -20,9 +20,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:28:49.261Z",
+  "synced_at": "2026-03-04T15:21:03.681Z",
   "_hashes": {
     "ocr": "aa072c4977583541",
-    "translation": "d67c09f22dbdcbb0"
+    "translation": "f1528134984e2bf7"
   }
 }
