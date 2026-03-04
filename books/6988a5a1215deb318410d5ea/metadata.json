@@ -1,14 +1,14 @@
 {
   "id": "6988a5a1215deb318410d5ea",
   "title": "Saturnia regna S.M.I.S.P. in aurea saecula conversa",
-  "display_title": "Saturnia regna S.M.I.S.P. in aurea saecula conversa",
+  "display_title": "The Saturnian Kingdoms",
   "author": "Huginus a Barma",
   "language": "Latin",
   "year": 1779,
   "published": "1779",
   "pages_count": 186,
   "pages_with_ocr": 186,
-  "pages_with_translation": 89,
+  "pages_with_translation": 166,
   "source_url": "https://sourcelibrary.org/book/6988a5a1215deb318410d5ea",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:27:45.623Z",
+  "synced_at": "2026-03-04T21:00:30.142Z",
   "_hashes": {
     "ocr": "69b5859075ff6f25",
-    "translation": "55471e226468407c"
+    "translation": "2e7744aacda71a65"
   }
 }
