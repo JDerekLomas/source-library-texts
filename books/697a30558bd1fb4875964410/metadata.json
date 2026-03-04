@@ -1,14 +1,14 @@
 {
   "id": "697a30558bd1fb4875964410",
   "title": "[Cyrillisch]: Crata repoa of inleiding in de oude geheime gemeenschap van de Egytische priesters",
-  "display_title": "[Cyrillisch]: Crata repoa of inleiding in de oude geheime gemeenschap van de Egytische priesters",
+  "display_title": "Crata Repoa: Initiation into the Ancient Secret Society of Egyptian Priests",
   "author": "[Köppen, Karl Friedrich]",
   "language": "Russian",
   "year": 1779,
   "published": "1779",
   "pages_count": 56,
   "pages_with_ocr": 56,
-  "pages_with_translation": 56,
+  "pages_with_translation": 45,
   "source_url": "https://sourcelibrary.org/book/697a30558bd1fb4875964410",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v4.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:29:38.678Z",
+  "synced_at": "2026-03-04T18:40:35.005Z",
   "_hashes": {
     "ocr": "adfbe91beabed343",
-    "translation": "02e1241a7abeb88b"
+    "translation": "3f935ee9392275be"
   }
 }
