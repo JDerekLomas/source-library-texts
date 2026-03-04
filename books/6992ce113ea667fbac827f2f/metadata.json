@@ -1,14 +1,14 @@
 {
   "id": "6992ce113ea667fbac827f2f",
   "title": "三才圖會(七十二)",
-  "display_title": "三才圖會(七十二)",
+  "display_title": "Collected Illustrations of the Three Realms (Sancai Tuhui), Vol. 72",
   "author": "王圻, 王思義",
   "language": "Chinese",
   "year": 1609,
   "published": "Unknown",
   "pages_count": 99,
   "pages_with_ocr": 99,
-  "pages_with_translation": 80,
+  "pages_with_translation": 99,
   "source_url": "https://sourcelibrary.org/book/6992ce113ea667fbac827f2f",
   "license": "publicdomain",
   "doi": null,
@@ -20,9 +20,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:28:48.355Z",
+  "synced_at": "2026-03-04T15:20:57.198Z",
   "_hashes": {
     "ocr": "68c63a33156de6e1",
-    "translation": "e5e6ca553f11d6da"
+    "translation": "2ee2cf8e3aaca2cb"
   }
 }
