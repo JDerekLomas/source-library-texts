@@ -1,14 +1,14 @@
 {
   "id": "6977b945112cb9b4f70c3ffc",
   "title": "Les ceremonies religieuses",
-  "display_title": "Les ceremonies religieuses",
+  "display_title": "Religious Ceremonies",
   "author": "Picard, Bernhard|Herrliberguer, David",
   "language": "French",
   "year": 1750,
   "published": "1750",
   "pages_count": 1262,
   "pages_with_ocr": 1262,
-  "pages_with_translation": 290,
+  "pages_with_translation": 828,
   "source_url": "https://sourcelibrary.org/book/6977b945112cb9b4f70c3ffc",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:20:37.465Z",
+  "synced_at": "2026-03-04T18:20:30.104Z",
   "_hashes": {
     "ocr": "af2c7dffad801a97",
-    "translation": "118ac9d4e969df9e"
+    "translation": "81d16cae1de0ed52"
   }
 }
