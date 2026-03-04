@@ -1,3 +1,20 @@
+--- Page 2 ---
+<meta>This page acts as a symbolic frontispiece or sectional title, introducing the philosophical and alchemical themes of the work through a complex emblem.</meta>
+
+<insert>
+E
+</insert>
+
+[The page contains a circular bookplate or emblem pasted into the center. The emblem features a blue oval center surrounded by an arch.]
+
+->HERMETIC PHILOSOPHY<-
+<note>original: "PHILOSOPHIA · HERMETICA." Hermeticism is a philosophical and religious tradition based on writings attributed to the mythical figure Hermes Trismegistus, focusing on the connection between the human soul and the divine universe.</note>
+
+[The illustration depicts a white <term>pelican in her piety<gloss>A traditional symbol of a mother pelican wounding her own breast to feed her young with her blood; in alchemy, this represents the "Great Work" and the process of spiritual or chemical "multiplication."</gloss></term> positioned above a golden sunburst or nest. Beneath the bird is a stone altar or block adorned with a <term>Rosy Cross<gloss>The primary symbol of Rosicrucianism, usually a cross with a rose at the center, representing the union of the material world with the spirit.</gloss></term>, featuring red roses at the corners of the cross.]
+
+<summary>This page presents a central emblem of Hermetic Philosophy, featuring the symbolic "Pelican in her Piety" and the Rosy Cross, identifying the text's connection to Rosicrucian alchemical traditions.</summary>
+<keywords>Hermeticism, Rosicrucianism, alchemy, Pelican in her Piety, Rosy Cross, emblems, symbolism</keywords>
+
 --- Page 5 ---
 <meta>This is the title page of a 1618 instructional manual on geometry, perspective, and anatomy by Heinrich Lautensack. The page includes a later 1623 handwritten ownership inscription by Daniel Mögling, a noted physician and mathematician.</meta>
 
@@ -1171,6 +1188,26 @@ I have made this **fountain** <term>Brunnen</term> for you for the sake of the *
 <summary>The author explains the geometry of a circle viewed in perspective (an ellipse) using a fountain as an example and transitions into drafting a ground-plan for a spiral staircase.</summary>
 <keywords>perspective, foreshortened circle, ellipse, spiral staircase, ground-plan, architectural drawing, geometry</keywords>
 
+--- Page 66 ---
+<meta>This page provides the visual figures (36 and 37) referenced in the discussion of the "foreshortened circle" and spiral staircase planning on the previous page. It illustrates the practical application of the geometric principles used to render three-dimensional architectural features on a two-dimensional surface.</meta>
+
+# On Perspective.
+
+<meta>catchword: So you</meta>
+
+36
+
+<image-desc>A detailed woodcut illustration showing a well <term>Brunnen</term> <note>While the text often uses "fountain" and "well" interchangeably, this illustration specifically depicts a draw-well with a pulley mechanism.</note> constructed of stone blocks, resting on a wide circular base. Above the well is a wooden hoisting frame consisting of two vertical posts and a thick horizontal beam. A pulley system with a chain and a bucket is suspended from the center of the beam. The drawing utilizes perspective and cross-hatching to represent three-dimensional form and shadows.</image-desc>
+
+37
+
+<image-desc>A geometric diagram presented as a square with an inscribed circle. The figure is intersected by dotted lines forming a grid and diagonals. Solid lines radiate from a small circle at the center to the outer edges, dividing the shape into sixteen equal wedge-shaped segments. This diagram provides the mathematical layout <term>grundt</term> <note>The "ground-plan" or "base" mentioned on the previous page.</note> for constructing the perspective of the circular well seen in figure 36 or the 16-step spiral staircase described by the author.</image-desc>
+
+<note>This page demonstrates the transition from abstract geometry to architectural rendering. Figure 37 shows the "ground-plan" divided into 16 parts, which the author previously noted was the standard division for a spiral staircase, while Figure 36 shows a finished structure using these principles of foreshortening.</note>
+
+<summary>This page contains two woodcut illustrations: a perspective drawing of a well with a pulley and a geometric ground-plan divided into sixteen segments. These images serve as visual proofs for the mathematical construction of circular objects in perspective.</summary>
+<keywords>perspective, well, architectural drawing, geometry, ground-plan, sixteen-part division, woodcut</keywords>
+
 --- Page 67 ---
 <meta>This page continues the technical instructions for architectural drafting, focusing on how to transition from a flat 2D ground plan to a 3D perspective drawing.</meta>
 
@@ -1231,6 +1268,106 @@ near to it / but must walk backward so far / until you see
 
 <summary>The author concludes the instructions for a spiral staircase, explaining that too many construction lines would be confusing, and begins a broader lesson on the geometry of vanishing points and the importance of viewing distance when drawing large buildings.</summary>
 <keywords>perspective, spiral staircase, construction lines, vanishing point, architectural drafting, viewing distance, geometry</keywords>
+
+--- Page 70 ---
+<meta>This page provides the visual accompaniment to the instructions started on page 25. While the previous page discussed the theoretical application of perspective to spiral staircases and architectural forms, this page presents the geometric proofs and measurement scales (Figures 39-41) required to execute those drawings.</meta>
+
+<page-num>26</page-num>
+<sig>G 2 <note>original: "G ij"; this is a printer's signature, indicating this is the second leaf of the seventh gathering (G) of the book.</note></sig>
+
+->39<-
+<note>This diagram demonstrates the projection of complex polyhedral shapes. The figure on the left shows an irregular faceted solid, while the right shows a star-shaped form. The use of solid lines for visible edges and dotted lines for construction allows the artist to understand the underlying structure of the volume in three-dimensional space.</note>
+
+---
+
+->40<-
+<note>This linear diagram acts as a measurement tool or "scale of proportion." The number 200 serves as a reference point for the artist to calculate distances and intervals along a baseline, which is essential for maintaining consistent scale in a perspective drawing.</note>
+
+---
+
+->41<-
+<note>This figure illustrates the core principle of the "vanishing point." It shows how rectangular planes on the left have lines extending toward specific points (marked 1 through 4) on a horizontal axis. This teaches the artist how to converge parallel lines to a single point on the horizon to create the illusion of receding depth.</note>
+
+<meta>catchword: successions <note>original: "vices"; a Latin term meaning turns, changes, or successions. In this context, it is a catchword—a word placed at the bottom of a page that matches the first word of the next page to ensure the binder places the sheets in the correct order.</note></meta>
+
+<summary>This page consists of three technical diagrams (39-41) illustrating the perspective projection of complex geometric solids and the mathematical convergence of lines toward vanishing points.</summary>
+<keywords>perspective diagrams, vanishing points, geometric projection, polyhedra, measurement scales, Renaissance geometry</keywords>
+
+--- Page 71 ---
+<meta>This page serves as the visual and geometric proof for the architectural perspective theories discussed previously. It transitions from the conceptual application of stairs and buildings to the specific mathematical constructions required to render complex solids and receding space.</meta>
+
+<page-num>26</page-num>
+<sig>G 2 <note>original: "G ij"; this is a printer's signature, indicating this is the second leaf of the seventh gathering (G) of the book.</note></sig>
+
+->39<-
+<note>This diagram demonstrates the projection of complex <term>polyhedral<gloss>many-sided geometric solids</gloss></term> shapes. The figure on the left shows an irregular faceted solid, while the right shows a star-shaped form. The use of solid lines for visible edges and dotted lines for construction allows the artist to understand the underlying structure of the volume in three-dimensional space.</note>
+
+---
+
+->40<-
+<note>This linear diagram acts as a measurement tool or "scale of proportion." The number 200 serves as a reference point for the artist to calculate distances and intervals along a baseline, which is essential for maintaining consistent scale in a <term>perspective<gloss>the art of representing three-dimensional objects on a two-dimensional surface</gloss></term> drawing.</note>
+
+---
+
+->41<-
+<note>This figure illustrates the core principle of the "vanishing point." It shows how rectangular planes on the left have lines extending toward specific points (marked 1 through 4) on a horizontal axis. This teaches the artist how to converge parallel lines to a single point on the horizon to create the illusion of receding depth.</note>
+
+<meta>catchword: successions <note>original: "vices"; a Latin term meaning turns, changes, or successions. In this context, it is a catchword—a word placed at the bottom of a page that matches the first word of the next page to ensure the binder places the sheets in the correct order.</note></meta>
+
+<summary>This page presents technical geometric diagrams (Figures 39-41) that illustrate the practical application of perspective, focusing on polyhedral projections, proportional scaling, and the convergence of lines toward vanishing points.</summary>
+<keywords>perspective, geometry, polyhedrons, vanishing point, scale of proportion, technical drawing, 16th-century printing</keywords>
+
+--- Page 72 ---
+<meta>This page continues the technical demonstration of geometric projections and perspective. It follows the discussion of three-dimensional solids and transitions into the practical application of measurement scales and vanishing points on a horizontal plane.</meta>
+
+26
+G 2 <note>original: "G ij"; this is a printer's signature, indicating this is the second leaf of the seventh gathering (G) of the book.</note>
+
+->39<-
+<note>This diagram demonstrates the projection of complex <term>polyhedral<gloss>many-sided geometric solids</gloss></term> shapes. The figure on the left shows an irregular faceted solid, while the right shows a star-shaped form. The use of solid lines for visible edges and dotted lines for construction allows the artist to understand the underlying structure of the volume in three-dimensional space.</note>
+
+---
+
+->40<-
+<note>This linear diagram acts as a measurement tool or "scale of proportion." The central triangle and its internal segments act as a blueprint for calculating the "wings" or projections on either side. The numbers (labeled 2, 3, and 4 along the top and 200 and 1 along the bottom) provide a mathematical basis for determining distances and intervals, which is essential for maintaining consistent scale in a <term>perspective<gloss>the art of representing three-dimensional objects on a two-dimensional surface</gloss></term> drawing.</note>
+
+---
+
+->41<-
+<note>This figure illustrates the core principle of the "vanishing point." It shows how a long, tapering form is constructed by extending lines toward specific points (marked 1 through 4) on a horizontal axis. This teaches the artist how to converge parallel lines to a single point on the horizon to create the illusion of receding depth and distance.</note>
+
+Geometry, Perspective, Construction
+
+<meta>catchword: how it <note>original: "wie es"; a catchword—a word placed at the bottom of a page that matches the first word of the next page to ensure the binder places the sheets in the correct order.</note></meta>
+
+<summary>This page provides technical geometric diagrams (39-41) that illustrate the projection of complex solids and the mathematical construction of perspective vanishing points. It serves as a practical guide for artists to translate three-dimensional depth onto a two-dimensional plane using precise measurements.</summary>
+<keywords>geometry, perspective, vanishing point, polyhedral solids, mathematical projection, scale of proportion</keywords>
+
+--- Page 73 ---
+<meta>This page continues the technical demonstration of geometric projections and perspective. It follows the discussion of three-dimensional solids and transitions into the practical application of measurement scales and vanishing points on a horizontal plane.</meta>
+
+26
+G 2 <note>original: "G ij"; this is a printer's signature, indicating this is the second leaf of the seventh gathering (G) of the book.</note>
+
+->40<-
+<note>This linear diagram acts as a measurement tool or "scale of proportion." The central triangle and its internal segments act as a blueprint for calculating the "wings" or projections on either side. The numbers (labeled 2, 3, and 4 along the top and 200 and 1 along the bottom) provide a mathematical basis for determining distances and intervals, which is essential for maintaining consistent scale in a <term>perspective<gloss>the art of representing three-dimensional objects on a two-dimensional surface</gloss></term> drawing.</note>
+
+---
+
+->41<-
+<note>This figure illustrates the core principle of the "vanishing point." It shows how a long, tapering form is constructed by extending lines toward specific points (marked 1 through 4) on a horizontal axis. This teaches the artist how to converge parallel lines to a single point on the horizon to create the illusion of receding depth and distance.</note>
+
+---
+
+->42<-
+<note>This diagram, visible at the bottom of the page, continues the technical study of linear constructions and spatial projection.</note>
+
+Geometry, Perspective, Construction
+
+<meta>catchword: how it <note>original: "wie es"; a catchword—a word placed at the bottom of a page that matches the first word of the next page to ensure the binder places the sheets in the correct order.</note></meta>
+
+<summary>This page features technical diagrams used to teach the mathematical foundations of perspective, specifically focusing on proportional scales and the use of vanishing points to create depth.</summary>
+<keywords>geometry, perspective, vanishing point, scale of proportion, technical drawing, optics, projection</keywords>
 
 --- Page 74 ---
 <meta>This page continues the technical instructions on architectural perspective drawing, specifically focusing on how the distance of the viewer (the "Eye") from the ground plan affects the visible depth of the interior spaces.</meta>
@@ -1414,6 +1551,29 @@ Now I have created for you another ground or <term>pavement</term><note>German: 
 <summary>This page explains how placing figures on tiered platforms enhances the sense of depth and emphasizes the importance of using a consistent scale, such as the height of a man, to achieve realism. It also introduces a technical perspective drawing of a long, vaulted masonry corridor.</summary>
 <keywords>perspective, linear perspective, architectural drawing, masonry, scale, measurement, human proportion, vaulted corridor</keywords>
 
+--- Page 85 ---
+<meta>This page continues the technical demonstration of perspectival construction, moving from the placement of figures on a grid to the practical application of these principles in surveying and measuring vertical heights.</meta>
+
+# On Perspective
+
+<column-break/>
+
+->[Illustration 47]<-
+
+This demonstration integrates the principles of **perspective**, **surveying**<note>Portuguese: *agrimensura*. The science of determining terrestrial or three-dimensional positions and the distances between them, often used here to measure the height of buildings.</note>, and **geometry**. 
+
+The illustration shows a horizontal plane where two men are measuring a tall, gridded vertical structure, such as a wall or tower. On the left, a figure uses a pair of dividers to calculate proportions; sight lines radiate from his eye toward the various tiers of the wall, which is labeled with the number **47**. To the right, a second practitioner holds a long staff and observes the structure through a sighting instrument to determine its height and scale. 
+
+Above the primary scene, a geometric diagram labeled **A** provides the mathematical basis for these observations, showing a triangle intersected by a curved arc and multiple horizontal lines to represent how a viewer's line of sight intersects a vertical plane.
+
+<column-break/>
+
+<sig>H ii</sig>
+<meta>catchword: In a...</meta>
+
+<summary>This page illustrates the practical application of perspective and geometry in surveying, showing two men using instruments to measure a gridded vertical structure.</summary>
+<keywords>perspective, surveying, geometry, measurement, sight lines, mathematical diagrams</keywords>
+
 --- Page 86 ---
 <meta>This page continues the discussion on perspective, following a previous figure (number 47) which demonstrated how to maintain proportions on tall vertical surfaces.</meta>
 
@@ -1431,6 +1591,24 @@ I have also provided a cross here, against which I have placed a ladder foreshor
 
 <summary>This page explains a perspectival method for painting tall structures so they appear proportional from the ground, illustrated by a foreshortened ladder leaning against a monumental cross.</summary>
 <keywords>perspective, foreshortening, optics, tower painting, architectural drawing, measurement</keywords>
+
+--- Page 87 ---
+<meta>This page follows the discussion of Figure 47 from the previous page, continuing the author's exploration of optical illusions and perspectival corrections for tall objects. The catchword "Nunba" suggests the next page begins with the word "Nun" (Now).</meta>
+
+# On Perspective.
+
+->h ii<-
+
+Now, in Figure 47 above, I have recorded another method for you. This technique is intended for use when you wish to create or paint something on a tower or a high wall so that the highest and lowest parts appear to be the same size to the viewer’s eye from below—whether these subjects are pillars or statues <note>original: "bildern," which can refer to images, paintings, or statues</note>. I have marked the base <note>original: "grundt," referring to the ground plan or the underlying geometric foundation of the drawing</note> of this diagram with the letter "A."
+
+I have also provided a cross here, against which I have placed a ladder foreshortened <note>original: "verjüngt," a period term for the tapering or diminishing effect in perspective</note> in this same manner. The person viewing this ladder stands 24 feet <note>original: "schuch," literally "shoes," a historical unit of measurement roughly equivalent to a modern foot</note> away; this specific distance causes the rungs <note>original: "sparren," here referring to the horizontal steps or cross-bars of the ladder</note> at the very top and those at the bottom to appear almost equally distant from one another.
+
+->48<-
+
+*A woodcut illustration depicting a tall monumental cross mounted on a stepped stone pedestal. A long wooden ladder leans against the cross-beam on the left side. The entire structure is drawn using linear perspective to demonstrate how the rungs appear to the eye. Behind the cross, faint horizontal and vertical lines suggest a masonry wall or a perspectival grid. To the left of the ladder, the number "48" is printed.*
+
+<summary>This page explains a method for optical correction, teaching artists how to proportion tall subjects so they appear uniform when viewed from the ground, illustrated by a foreshortened ladder on a cross.</summary>
+<keywords>perspective, foreshortening, optical correction, architectural painting, ladder, measurement, Renaissance art theory</keywords>
 
 --- Page 88 ---
 <meta>This page continues the technical instructions on perspective and optical compensation for height, specifically discussing how to ensure objects at different heights appear uniform to a viewer on the ground.</meta>
@@ -2085,6 +2263,33 @@ Since I have now drafted <note>original: "auffgerissen"; to create a technical o
 
 <keywords>proportions, anatomy, female body, male body, measurement units, skeletal structure, Renaissance drawing techniques</keywords>
 
+--- Page 114 ---
+<meta>This page transitions from comparing adult male and female torsos to the specific facial proportions of women and the full-body measurements of a child. It continues the author's systematic approach to "division" as a method for artistic construction.</meta>
+
+of people.
+
+I would have also liked to draft a woman’s head for you in its divisions <note>original: "theilung"; the schematic breakdown of features</note>, but the difference between a man’s or woman’s head is not so great, except that women are generally more delicate in their faces. One finds this to be true when portraying <note>original: "Conterfecht"; from the French 'contrefait', meaning to depict from life</note> them. The greatest difference is in the side view of a woman’s head: the back of the head does not curve inward as sharply as a man’s head does.
+
+Now I will draft for you the small child in its divisions. It should be 4 1/2 heads high. I divide that same head into 5 equal parts, just as I did for the man and woman. Using these same units, I divide the whole child; each unit is 22 <term>fractions</term> <note>original: "theil"; here referring to the smallest unit of measurement in the author's system</note> long. Although I also subdivide these parts—as I have marked here on the child’s head, one into 3 parts, one into 4, and one into 5—I take more or fewer of these small parts whenever the <term>proportions</term> <note>original: "Proportz"</note> demand it. Now, on the other side, I have divided the child’s length into 9 parts. The child's total length includes an additional 2/3 of one part; these 2/3 of a part fall between the head and the shoulder joint <note>original: "achselgläich"</note>. The head is two of these nine parts high; from the shoulder joint to the hip joint <note>original: "hüfftgläich"</note> is 3 of these 9 parts; from the hip joint to the middle of the knee is 2; and from the middle of the knee to the soles is also 2. Together these make 9 parts, and the 2/3 of a part between the chin and the hollow of the neck <note>original: "halßgrüblein"</note> completes the total length. You should remember this well, for it will serve you best hereafter when depicting the body bending and turning.
+
+### The length of the child.
+
+The head is 5 units <note>referring to the internal subdivision of the head</note> long or high.
+From the chin to the shoulder joint is 2/3 of a unit.
+From the shoulder joint to the breast is 1 unit.
+From the breast to below the armpits <note>original: "ochß"; a dialect variation of 'Achsel'</note> is 2/3 of a unit.
+Below the armpits to the nipples on the breasts is 2/3 of a unit.
+From the nipples to below the breast is 2/3 of a unit.
+Below the breast to the waist <note>original: "weich"; the soft flank of the torso</note> is 1 unit and 2/3 of a unit.
+From the waist to the navel is 1 unit.
+From the navel to the hip is 2/3 of a unit.
+From the hip to the hip joint is 1 unit and 2/3 of a unit.
+
+<meta>catchword: From the</meta>
+
+<summary>This page describes the subtle anatomical differences in a woman's head compared to a man's and provides a rigorous proportional guide for drawing a child, based on a 4.5-head height scale.</summary>
+<keywords>head proportions, child anatomy, artistic measurements, female facial structure, shoulder joint, hip joint, Renaissance drawing theory</keywords>
+
 --- Page 115 ---
 <meta>This page continues a technical breakdown of human anatomy and measurements, likely following the tradition of Albrecht Dürer’s "Four Books on Human Proportion." The focus here is on the lower body and the specific proportions of a child.</meta>
 
@@ -2391,3 +2596,450 @@ Now I have also drafted him along with the <term>quadrature</term> <note>origina
 
 <summary>This page illustrates the anatomical and geometric transformation of the human body when bending backwards, contrasting a skeletal frame with a muscular model. It explains the mechanical principles of skin stretching at the front and compressing at the back during such movement.</summary>
 <keywords>anatomy, human proportion, backward bend, quadrature, musculature, skeletal structure, artistic theory</keywords>
+
+--- Page 130 ---
+<meta>This page continues Dürer’s exploration of the human figure in motion. While the previous page focused on the static tension of bending the torso backward, this page introduces the dynamics of walking or running, demonstrating how geometric volumes (quadratures) shift and rotate when the body is in active transit.</meta>
+
+### of Men.
+
+M ij
+
+<image-desc>A woodcut illustration showing two male figures in profile, positioned as if walking or running to the right. The figure on the left is a geometric, "wireframe" construction of a human body, composed of blocks and internal structural lines used to demonstrate proportion and movement. This figure holds a small rectangular block in its raised left hand and a staff in its right. The figure on the right is a naturalistic, muscular nude male in a matching pose, holding an hourglass in his raised left hand and a staff in his right. The figures are set against a background of horizontal hatching.</image-desc>
+
+Here I have posed one for **running** / and the <term>quadrature</term> <note>original: "vierung," a Renaissance drawing technique where the body is framed within three-dimensional geometric boxes to track volume and perspective during movement</note> alongside it / with the lines of the <term>modeled figure</term> <note>original: "bossen," from the Italian *bozzetto*, referring here to the fully rendered, muscular body as opposed to the skeletal or geometric framework</note> / for bending and turning / so that you may see / how it changes / and so that you may learn to keep it well in mind.
+
+<summary>This page illustrates the anatomical and geometric transformation of the human body during the act of running. Dürer utilizes a side-by-side comparison of a "wireframe" figure and a muscular figure to teach the artist how to maintain correct proportions while the body bends and turns in motion.</summary>
+
+<keywords>Albrecht Dürer, human proportion, kinetics, quadrature, Renaissance art theory, anatomy in motion, walking, running</keywords>
+
+--- Page 131 ---
+<meta>This page continues Dürer’s instructional sequence on the human body in motion. Having previously shown a side-by-side comparison of a geometric "quadrature" figure and a rendered muscular figure, Dürer now isolates the "bossen" (the block-like structural model) to emphasize its underlying linear construction and how these proportions must be carefully observed even in complex poses.</meta>
+
+# Of Proportion
+
+<image-desc>An anatomical woodcut illustration showing two overlapping male figures in a lunging or running motion. The figure on the left is a schematic "block" figure (Bosse) constructed from geometric segments and lines to illustrate the underlying proportions and mechanics of the pose. Overlapping it to the right is a naturalistically rendered nude man in the same dynamic stance, holding a staff or rod in his outstretched hand. The figures are placed on a ground line with a dense, dark cross-hatched shadow cast behind them.</image-desc>
+
+Now I have set the <term>modeled figure</term> <note>original: "bossen," a term Dürer uses for a simplified, blocky representation of the human form—similar to a sculptor's rough model—to help artists visualize volume and weight</note> in lines alone / just as I have instructed you to take good heed of the proportions.
+
+<meta>catchword: Also</meta> <note>The catchword "Also" indicates the first word of the following page, meaning "Thus" or "In this way."</note>
+
+<summary>Dürer presents a simplified "block" figure to demonstrate the underlying linear geometry of a body in a lunging motion. He encourages the artist to master these basic structural proportions as the foundation for drawing more complex, naturalistic figures.</summary>
+
+<keywords>Albrecht Dürer, human proportion, motion, bossen, block figure, Renaissance drawing, artistic anatomy, geometry</keywords>
+
+--- Page 132 ---
+<meta>This page continues Dürer’s study of the human body in motion, transitioning from the male figure to the female form. Having previously explained the "bossen" (block model) for a lunging male, he now applies these geometric principles to a woman's body in a complex, forward-leaning posture to show how the skeleton and proportions shift during such movements.</meta>
+
+->of Humans.<-
+M iij
+<meta>catchword: Here</meta>
+
+<image-desc>A woodcut illustration depicting a nude female figure in profile, demonstrating a forward-leaning posture. The woman is kneeling on her right knee with her left leg bent forward. She holds a tall vertical staff with her hands. Dotted lines are superimposed over the figure's body, tracing the skeletal structure and axis from the head, through the spine, and along the limbs to show the geometry of the pose.</image-desc>
+
+Thus I have bent the woman forward to one side, as far as is possible for her at the top / while the lower line remains straight as far as the <term>flank</term> <note>original: "Weich," referring to the soft part of the body between the ribs and the hip, or the groin area</note> / just as you see it <term>sketched out</term> <note>original: "auffgerissen," a term Dürer uses for a technical or structural drawing</note> here in the lines.
+
+<summary>Dürer illustrates a woman in a deep forward-leaning pose, using a diagrammatic sketch to show how the upper body bends while the lower structure remains stable. He uses this to demonstrate how anatomical proportions are maintained even in extreme physical positions.</summary>
+
+<keywords>Albrecht Dürer, human proportion, female anatomy, motion, sketching, Renaissance art theory, geometry, flank</keywords>
+
+--- Page 133 ---
+<meta>This page continues Dürer’s instructional guide on human anatomy, moving from the forward-leaning female figure discussed on the previous page to a lateral (side) view. It introduces the "blind lines" or wireframe construction used to determine the positioning of limbs and joints, while also introducing the proportional relationship between an adult woman and a child.</meta>
+
+### On Proportion
+
+<image-desc>A woodcut illustration from Albrecht Dürer's "Vier Bücher von Menschlicher Proportion." It features two figures on a shared ground line. On the left is a geometric stick figure illustrating the skeletal structure and joint positions with small circles and axes. On the right is a fully rendered, shaded study of a nude woman in a matching pose, leaning slightly to her left with her palms facing forward. A cross-shaped marker is drawn on the head of the stick figure.</image-desc>
+
+Here I have also represented the <term>woman</term> <note>original: "Weible" or "Weiblein," Dürer's diminutive term for a woman</note> from the side, and marked the <term>joints</term> <note>original: "gleich"</note> with small round rings, and thereafter drawn the <term>blind lines</term> <note>original: "blindlinien," which are structural or construction lines that define the skeletal framework</note> within them. I have also placed a <term>child</term> <note>original: "Kindlein"</note> nearby, who is of the correct size in relation to this woman, as I have previously mentioned in the section on <term>proportions</term> <note>original: "Proportz"</note>, indicated by the line marked with the <term>cross</term> <note>original: "Creutz"</note>.
+
+<meta>catchword: Because</meta>
+
+<summary>Dürer demonstrates how to construct a female figure from a side profile using a geometric "stick figure" method, marking joints with rings and limbs with construction lines. He also introduces a child to show how his proportional system scales between different ages.</summary>
+
+<keywords>Albrecht Dürer, human proportion, female anatomy, skeletal structure, geometry, Renaissance art theory, child proportions, joint markers</keywords>
+
+--- Page 134 ---
+<meta>This page continues Dürer’s instructional guide on human anatomy, moving from the conceptual "stick figure" view to a more dynamic demonstration. He explains the logic of his "blind lines" (skeletal wireframes) as the essential foundation for drawing a moving body before adding the "flesh" (surface anatomy).</meta>
+
+<header>of Mankind.</header>
+<page-num>48</page-num>
+
+<image-desc>A woodcut illustration depicting a nude female figure in motion, leaning forward to the left. She holds a single arrow in her raised right hand and a bundle of arrows in her left hand, positioned behind her hip. Dotted lines with small circles at the joints are superimposed over her body to indicate anatomical structure and points of rotation. To her left is a smaller nude, winged child (a putto or Cupid) holding a bow and looking up at her. The figures stand on a horizontal ground line. Faint geometric lines, suggesting a perspective or structural grid, are visible in the background.</image-desc>
+
+Because I have presented all these images to you up to this point—from which you will have well understood how I intend for this <term>segmentation</term> <note>original: "theilung," referring to how the body is divided into proportional parts for drawing</note> to be used for bending and turning—I have nonetheless wanted to demonstrate several more positions to you here in the simplest manner. It is as if I were to pose a <term>dead man</term> <note>original: "Todten," Dürer’s term for a skeleton or anatomical model</note> and thereafter cover him again with flesh, just as I mentioned before in the section on <term>Proportion</term> <note>original: "Proportz"</note>. You should take careful note of where the bones in the dead man press into one another and where they pull apart. For this reason, I have placed two of them here against each other <note>Though the image shows a woman and a child, Dürer refers to the method of showing two versions: the skeletal frame and the finished form</note> in the simplest way with their <term>blind sketches</term> <note>original: "blindt Rissen," the faint construction lines that serve as a skeletal wireframe</note>, and thereafter covered them again with flesh along the <term>main lines</term> <note>original: "Hauptstrichen," the final contour lines of the figure</note> and placed them here.
+
+<meta>catchword: Thus have</meta>
+
+<summary>Dürer explains his process of "fleshing out" a figure, starting from a skeletal "dead man" to ensure the joints and bones move correctly. He emphasizes that the "blind sketches" or construction lines are the essential foundation for realistic movement.</summary>
+<keywords>anatomy, skeleton, joint movement, construction lines, human proportion, Albrecht Dürer, sketching technique</keywords>
+
+--- Page 135 ---
+<meta>Continuity with page 48: This page continues Dürer’s demonstration of his drawing method, moving from the theory of skeletal "blind lines" to the practical application of layering musculature over them to create dynamic poses. The catchword "Nun wil" (Now I will) indicates the transition to a new instructional step on the following page.</meta>
+
+# On Proportion
+
+<image-desc>Two woodcut illustrations arranged vertically. The upper illustration depicts two skeletal figures in dynamic, lunging poses, holding long poles that cross at an angle. The lower illustration shows the exact same figures and poses, but rendered as fully muscled, nude human males, demonstrating how to overlay anatomical form onto a proportional skeletal framework.</image-desc>
+
+Thus, I have presented four more of them here, printed one into another using <term>blind lines</term> <note>original: "blindrissen," referring to the faint construction lines or skeletal wireframes used as a guide before the final drawing</note>, and thereafter covered all of them again with flesh upon their <term>main strokes</term> <note>original: "hauptstrichen," the primary structural lines of the body</note>. From this, you can clearly see how you should arrange all manner of unusual poses to your own liking.
+
+| Original Term | English Translation |
+| :--- | :--- |
+| Proportion | Proportion |
+| Blindrissen | Blind lines / construction lines |
+| Hauptstrichen | Main strokes / structural lines |
+| Anatomie | Anatomy |
+| Fleisch | Flesh / musculature |
+
+<meta>catchword: Now I will</meta>
+
+<summary>Dürer illustrates the practical application of his anatomical system, showing how skeletal 'wireframes' serve as the basis for drawing muscular figures in complex, dynamic positions.</summary>
+<keywords>proportion, skeletal framework, anatomical drawing, construction lines, figure drawing, musculature</keywords>
+
+--- Page 136 ---
+<meta>Continuity with page 48: This page continues Dürer’s instructional guide on figure drawing, transitioning from the general theory of using skeletal "blind lines" to specific examples of difficult, foreshortened poses.</meta>
+
+### of Humans.
+
+<image-desc>Two horizontal registers demonstrating the construction of the human figure through geometry and anatomy. The top register contains two wireframe diagrams using lines and circles at the joints to map out difficult poses: a seated figure in extreme foreshortening on the left, and a figure bending forward while leaning on a staff on the right. The bottom register depicts the same two figures fully rendered with musculature and flesh, following the proportions established in the diagrams above.</image-desc>
+
+Now, I wish to present here another <term>half-stolen pose</term> <note>original: "abgestolnen possen"; Dürer uses this term to describe figures in extreme foreshortening or turned away from the viewer, where parts of the body are "stolen" from the eye's perspective</note> and one who bends forward, first setting them in their <term>blind lines</term> <note>original: "blindriß," referring to the faint construction lines or skeletal wireframes used as a guide</note>. Thereafter, I will again cover them over with the <term>main strokes</term> <note>original: "hauptstrich," the primary structural lines</note> and flesh; in this way, you will well understand through all these positions how I mean for the poses to be made.
+
+<sig>N</sig>
+<meta>catchword: So that</meta>
+
+<summary>Dürer demonstrates how to draft complex, foreshortened poses by first creating a geometric skeletal framework and then layering anatomical detail over it.</summary>
+<keywords>foreshortening, construction lines, anatomy, figure drawing, poses, Albrecht Dürer, proportion</keywords>
+
+--- Page 137 ---
+<meta>Continuity with page 49: This page concludes Dürer’s demonstration of complex figures by showing how extreme foreshortening—what he calls "stolen poses"—can be systematically constructed using the same geometric "squares" and perspective rules applied to simpler forms.</meta>
+
+# On Proportion
+
+<image-desc>A technical diagram demonstrating the geometric underlying structure of the human form. Four figures are rendered as stick-figures using spheres for joints and basic lines and shapes for the torso and limbs. They are shown in various poses: one standing with arms raised, one leaning forward with arms outstretched, one bending over another, and one lying flat on a horizontal line representing the ground plane.</image-desc>
+
+---
+
+<image-desc>An anatomical illustration corresponding to the geometric diagram above. The same four figures are now rendered with full muscular anatomy and shading. A standing figure on the left has his foot on a block; in the center, a figure reaches down toward another lying prone; on the right, a figure is seen from behind in a dynamic stride. The scene is set in a shallow architectural space with shaded backgrounds.</image-desc>
+
+Finally, I have also placed here a completely <term>stolen pose</term> <note>original: "abgestolnen bossen"; Dürer’s term for extreme foreshortening where the true length of limbs is hidden or "stolen" from the viewer's eye by the angle of the perspective</note> upon a high base, so that it may be seen all the better. However, such a figure is created through perspective. If you wish to replicate it, you must use the figure within its <term>square</term> <note>original: "vierung"; a rectangular frame or block used to plot the three-dimensional coordinates of the body</note> for <term>modeling</term> <note>original: "bossieren"; to shape or sculpt a figure, likely referring to building up the form from the geometric framework</note>, just as I have often presented in the [teachings on] Proportion. For within those same squares, you can bring the figure to completion through the use of perspective.
+
+<meta>catchword: Beginning</meta>
+
+<margin>Vocabulary: Proportion, Perspective, Pose/Figure, Square/Frame, Modeling</margin>
+
+<summary>Dürer explains that extreme foreshortening is achieved through the systematic application of perspective to a figure's proportional "square" or geometric frame.</summary>
+<keywords>perspective, foreshortening, modeling, geometric framework, Albrecht Dürer, figure construction, proportion</keywords>
+
+--- Page 138 ---
+<meta>Continuity with page 50: The previous page concluded the discussion on human anatomy, specifically addressing the "stolen poses" or extreme foreshortening of the human figure within a geometric frame.</meta>
+
+of Mankind.
+N iij
+<meta>catchword: under</meta>
+
+<image-desc>A woodcut illustration showing a human figure lying on a low rectangular platform, viewed from an extreme foreshortened perspective starting from the feet. The figure's arms are outstretched at its sides, and the drawing casts a shadow to the left. The scene is framed within a simple border with horizontal lines extending from the sides of the platform.</image-desc>
+
+# Beginning of the Proportion of the
+## Steed or Horse.
+
+Since I have presented these previous proportions of man, woman, and child to you in the simplest way, and intended to leave it at that—as I have often mentioned in this little book that I wished to demonstrate all things with brevity—I have nevertheless thought several times that I might provide you, who find a free pleasure in all that I discuss here, with a means to delight your understanding in all matters; for I share all this with you in good faith for your benefit. Since, however, one must also at times depict a <term>steed</term> <note>original: "Rossz"; in this period, "Ross" often referred to a noble horse or a warhorse</note> or <term>horse</term> <note>original: "Pferdt"; a general term for a horse</note>, I will show you my opinion in the simplest and plainest way, so that you may quickly learn to pose a horse. Yet I do not wish to prescribe any fixed measure or proportion to you in this, for one finds many different types of proportion <note>Dürer notes that because horses vary so much in build—from slender racers to heavy draft horses—a single mathematical "ideal" is harder to define than for the human form</note>.
+
+<summary>This page marks the transition from Dürer's study of human proportions to the study of the horse, explaining his intent to provide a simplified method for artists to depict animals.</summary>
+<keywords>horse proportions, equine anatomy, artistic brevity, artistic pleasure, varying proportions</keywords>
+
+--- Page 139 ---
+<meta>Continuity with page 11: The previous page introduced the study of equine proportions, noting that while the artist had previously focused on humans, he now offers a simplified method for drawing horses despite the great variety in their breeds.</meta>
+
+# On Proportion
+<meta>catchword: a cir-</meta>
+
+among horses; nearly every land has its own particular type. For example, the **Italian horses** are quite handsome, with round, full bodies, small heads, and slender <note>original: "rahanen"; this likely refers to legs that are shapely or "clean" like those of a deer</note> legs. Then there are the **Turkish steeds**, which are of a lean variety with long necks and legs. Furthermore, the **Tartar** or **Muscovite horses** are also of a special kind, short of leg and thick of body. Likewise, the **Frisian stallions** are of another distinct type, being large and strong in both body and thigh. Because of this, I can offer nothing certain here, for horses are nearly all unequal in their proportions throughout.
+
+-> I perform this division for the steed in the simplest way. <-
+
+**First**, I draw a horizontal line <note>original: "zwerglinien"</note> roughly as long as the body of the <term>steed</term> <note>original: "Rossz"; Dürer uses this specifically for a noble or war horse</note> should be. On this line, I place nine equal parts. Afterwards, I divide several of these nine parts into two [halves], as many as I need, so that I can divide the horse even more precisely. Now, I let the middle ninth part remain on the horizontal line; this leaves me with four parts on each side, marked by five points. I then take a **compass** <note>original: "Circkel"</note> and place one foot on the outermost parts. I strike two circles—one in front and the other behind—so that the remaining ninth part stays in the middle between them.
+
+The front circle gives me the thickness of the chest and the body; the rear circle gives me the thickness of the back and the thigh. Now, I draw an upright line through the center <note>original: "Centrum"</note> of the front circle, and where it meets the top of the circle, I make a point, for that is where the neck-joints <note>original: "halßglaich"; the base of the neck or withers</note> begin. I then take 3 ½ of the parts from the horizontal line and mark them one after another in an arc upward from this point on the circle; this gives me the length of the neck. After that, I attach the head, making it three parts long. Now I take a compass, place one foot in the previously made center of the circle, open it to a span of 1 ½ parts, and strike a quarter-circle...
+
+<vocab>Proportion, horse, Italian, Turkish, Muscovite, Frisian, horizontal line, circle-sketch, center, neck-joints</vocab>
+
+<summary>Dürer describes the various physical characteristics of horse breeds from different regions and begins explaining a geometric method for drawing a horse using a compass and a nine-part grid.</summary>
+<keywords>horse breeds, equine anatomy, geometry, artistic proportion, Italian horses, Turkish horses, Frisian stallions, compass drawing</keywords>
+
+--- Page 140 ---
+<meta>Continuity with page 51: The author was explaining the geometric construction of the horse's body using two circles. The text continues by describing how to place specific anatomical points for the legs relative to these circles and vertical lines.</meta>
+
+# Of the Steed or Horse.
+
+...of a circle. Thus, in the front circle, I place a point directly in front of the previously made vertical line within this circle; this point represents the upper **joint in the shoulder** <note>original: "gewerb im bug"; "bug" refers to the curve of the chest or the shoulder joint of the horse</note>. After that, I take a measurement from this joint to the middle of the **front leg** <note>original: "forder schenckel"</note> of 1 1/2 parts. From that middle joint to the lower joint on the foot, I also take the same amount. From that joint, the foot is one part long. Thus, I have the length of the front leg.
+
+The **hind leg** <note>original: "hinder schenckel"</note>, however, has one more joint than the front leg. This is because it has a bone at the top in the **hip blade** <note>original: "hüfftblat"; referring to the pelvis or ilium</note> that is 1 1/2 parts long. After that, from the same joint, there is a bone just as long as the one on the front leg—namely, 2 1/2 parts. Likewise, the lower bone down to the foot is 2 1/2 parts long, and the foot is one part. Thus, the hind leg is equal in the length of its bones to the front leg, except that it has the additional upper bone in the hip.
+
+In this way, I have the measurements for this **steed** <term>steed</term> <note>original: "Roß"; usually refers to a high-quality war horse or stallion</note> in the simplest <note>original: "schlechst"; in this historical context, this means "simplest" or "most straightforward," not "worst"</note> manner. Now, I draw the main lines of the horse everywhere as best as possible—at the head, the neck, and on the legs—just as I have placed them here with their proportions.
+
+<sig>R iiii</sig>
+<meta>catchword: Also wil</meta>
+
+<summary>This page details the specific proportional measurements for a horse's front and hind legs using a modular "part" system, explaining the skeletal differences between the forelimbs and hindlimbs. It concludes the geometric setup before moving to the final rendering of the horse's form.</summary>
+<keywords>equine anatomy, horse proportions, front leg, hind leg, hip blade, shoulder joint, geometric drawing, Renaissance art theory</keywords>
+
+--- Page 141 ---
+<meta>Continuity with page 11: The author has transitioned from general introductory remarks on animal anatomy to the specific study of equine proportions. This page continues the comparison of regional horse breeds before detailing a geometric construction method using a nine-part horizontal scale.</meta>
+
+# Of Proportion
+<meta>catchword: a cir-</meta>
+
+...among horses; almost every land has its own particular type, such as the **Italian horses** which are quite handsome, with round, full bodies, small heads, and **slender legs** <note>original: "rahanen schenckeln"; likely referring to legs as thin and elegant as those of a roe deer</note>; thereafter, the **Turkish steeds** are also of a lean type, with long necks and legs; likewise, the **Tatar** or **Muscovite horses** are also of a special type, short of leg and thick of body; also, the **Frisian stallions** are of a special type, being large and strong in body and thigh, for I can handle nothing with certainty here, because horses are almost entirely variable throughout.
+
+### I make this division of the horse in the simplest manner as follows.
+
+First, I make a **horizontal line** <term>horizontal line</term> <note>original: "zwerglinien"; literally a "cross-line" or transverse line</note> about as long as the horse's body should be, upon which I set nine equal parts. Afterward, I divide some of these nine parts again into two [half] parts—as many as I need—so that I can divide the horse more precisely. Now, I leave the middle ninth part standing on the horizontal line, so that four parts with five points remain on each side. Thus, take a **compass** <note>original: "Circkel"</note>, set it with the other foot outside on the outermost parts, and draw two **circular lines** <note>original: "Circkelriß"; lines scored or drawn with a compass</note>, one in front and the other behind, so that the remaining ninth part stays in the middle between them. In this way, the front circle gives me the thickness of the chest and the body, and the rear circle the thickness of the back and the thigh. 
+
+Now, I make an upright line through the **center** <note>original: "Centrum"; Latin for center point</note> of the front circle, and where it meets the circle at the top, I make a point, for there the **neck joints** <note>original: "halsgläich"; the vertebrae or joints where the neck meets the torso</note> begin. I then set 3 1/2 of the parts that stand on the horizontal line from this point at the top of the circle in an arc, one after another upwards; that gives me the length of the neck. After that, I make the head right next to it, three parts long. Now, I take a compass, set one foot in the previously made center of the circle, open it so that it reaches 1 1/2 parts, and draw a quarter [circle]...
+
+<summary>This page describes the diverse physical characteristics of European and Asian horse breeds and introduces a geometric system for drawing a horse using a nine-part scale and two primary circles.</summary>
+<keywords>equine anatomy, horse breeds, Italian horses, Turkish horses, Frisian stallions, geometric proportion, Renaissance drawing techniques, compass construction</keywords>
+
+--- Page 142 ---
+<meta>Continuity with page 11: The author has transitioned from general introductory remarks on animal anatomy to the specific study of equine proportions. This page continues the comparison of regional horse breeds before detailing a geometric construction method using a nine-part horizontal scale.</meta>
+
+**of the Steed or Horse.**
+<meta>Faint geometric drawings and horse anatomy are visible as bleed-through from the reverse side.</meta>
+
+...of a circle / so place within the front circle, directly before the previously made upright line in this circle, a point; that is the upper **joint** <term>joint</term> <note>original: "gewerb"; referring here to an articulation or hinge-point of the bone</note> in the **shoulder** <note>original: "bug"; the front part of the horse's chest or shoulder assembly</note>/ thereafter I take from this joint to the middle of the front leg 1 1/2 parts / and from the middle joint down to the lower joint on the foot likewise as much / from that same joint the foot is one part long / thus I have the length of the front leg / The hind leg, however, has one more joint than the front leg / for it has a bone at the top in the **hip blade** <note>original: "hüfftblat"; referring to the pelvis or ilium</note> that is 1 1/2 parts long / thereafter from that same joint is also a bone as long as on the front leg / namely 2 1/2 parts / likewise the lower bone down to the foot is 2 1/2 parts long / and the foot is one part / thus the hind leg, in its bones, is exactly the same length as the front / except only that it has the additional upper bone in the hip blade.
+
+Thus I have the measurements for this horse in the **simplest** <note>original: "auff das schlechst"; in Early New High German, "schlecht" often meant straight, simple, or plain rather than "bad."</note> manner / Now I draw the main lines of the horse everywhere as best I can / on the head, the neck / and on the legs / just as I have presented here with its divisions.
+
+<image-desc>Faint technical drawings of a horse are visible through the paper, showing circular geometry used for anatomical proportions.</image-desc>
+
+<sig>N iiii</sig>
+<meta>catchword: Also wil (Also will)</meta>
+
+<summary>This page explains the geometric and proportional construction of a horse's legs, detailing how to use "parts" to determine the length of bones and the placement of joints in both the forelegs and hindquarters.</summary>
+<keywords>horse anatomy, equine proportions, drawing techniques, geometry, limb measurements, hip joint, shoulder joint</keywords>
+
+--- Page 143 ---
+<meta>Continuity with page 51: The author previously explained the specific limb measurements and skeletal proportions using a nine-part scale. This page shifts from abstract measurements to the practical application of positioning the horse in space using geometric construction lines.</meta>
+
+# Of Proportion
+<meta>catchword: Toward further-</meta>
+
+<image-desc>A technical woodcut illustration of a horse in profile facing right, demonstrating geometric proportions. Two large circles are drawn over the horse's torso, one centered on the shoulder and one on the hindquarters. Each circle contains a central crosshair and various measurement markings. Dotted lines extend from these circles to define the placement and angles of the legs and neck. The horse is depicted with a detailed mane, tail, and bridle, with its front right leg raised in a stepping motion.</image-desc>
+
+Thus I wish to teach you here [how] to position and turn this **steed** or **horse** in its proportions in the **simplest** <note>original: "auff das schlechst"; in this context, it means a plain, direct, or foundational method.</note> manner with **construction lines** <term>construction lines</term> <note>original: "blindrissen"; literally "blind-drawings," referring to the preliminary geometric guidelines or faint sketches used to establish form before the final details are added.</note>; and afterwards also to **draft** <term>draft</term> <note>original: "auffreissen"; a technical term for laying out a drawing or architectural plan.</note> it with flesh over its main outlines, so that you can then see what I mean. Accordingly, I have placed three horses here: one facing forward, and one facing backward, and also one slightly to the side; by these, you see my meaning with the two **circular sketches** <term>circular sketches</term> <note>original: "Circkelrissen"; geometric constructions or arcs made using a compass.</note>, how they come to overlap or sit beside one another in their positioning, so that you may thereafter know how to draft the horse in its proportions.
+
+<summary>The author introduces a geometric method for positioning horses in various poses (front, back, and side views) using overlapping circles and construction lines. The text emphasizes moving from simple geometric "blind" sketches to a finished drawing with anatomical "flesh."</summary>
+<keywords>horse anatomy, equine proportions, geometric construction, drawing techniques, early modern art theory, compass work</keywords>
+
+--- Page 144 ---
+<meta>Continuity with page 52: The author continues the demonstration of geometric horse construction, moving from static poses to dynamic movements like jumping and crouching. This page focuses on how the "circular sketches" (the torso circles) must be adjusted vertically to reflect the horse's action.</meta>
+
+## Of the Steed or Horse
+
+<image-desc>
+A two-part instructional illustration showing the geometric construction of horses. 
+The top section displays three schematic wireframe sketches (construction lines) of horses in different poses: two rearing or walking and one grazing. They are constructed using two large overlapping circles for the torso, jointed lines for the legs, and a vertical line with horizontal notches for the neck's proportions. 
+The bottom section displays the same three horses fully rendered with anatomical detail (in the flesh), mirroring the poses of the schematics above.
+</image-desc>
+
+To further your understanding, I have also placed here two more **steeds** <note>original: "Roß"; an archaic or poetic term for a horse, often a spirited or noble mount.</note> with their **construction lines** <term>construction lines</term> <note>original: "blindrissen"; preliminary geometric guidelines used to establish form.</note>; there you see / how the two **circular sketches** <term>circular sketches</term> <note>original: "Circkelriß"; arcs or circles drawn with a compass to define the mass of the chest and hindquarters.</note> come higher in the front / because these two steeds are jumping / so that you may know how to position them in every manner / for if the steed were to drop down in the front / you can well imagine / that you should also make the circular sketches lower in the front / Now I have also placed these two steeds here with their main outlines **in the flesh** <note>original: "im fleisch"; meaning the final, rendered anatomical form rather than just the skeleton or geometry.</note> / I expect now / you will find a good instruction from this arrangement of mine / so that you can position and **draft** <term>draft</term> <note>original: "auffreissen"; the technical process of laying out a detailed drawing or plan.</note> a steed or horse according to your pleasure / just as you wish.
+
+<meta>catchword: Also</meta>
+
+<summary>This page demonstrates how to adapt geometric construction circles to depict horses in motion, such as jumping or crouching. It provides both wireframe schematics and finished anatomical renderings to guide the artist in dynamic posing.</summary>
+<keywords>horse anatomy, geometric construction, equine proportions, drawing techniques, motion, animal illustration</keywords>
+
+--- Page 145 ---
+<meta>Continuity with page 52: Having previously discussed how the torso circles must be adjusted vertically to account for jumping or crouching, the author now transitions to showing how these same geometric principles allow an artist to "pose and turn" the horse in three-dimensional space, providing examples from the front, back, and side.</meta>
+
+# Of Proportion
+
+<image-desc>A woodcut anatomical study of a horse in profile, facing right, with its right foreleg lifted. The drawing is overlaid with geometric construction lines: two large circles encompass the chest and the hindquarters, joined by a horizontal axis. Various vertical and diagonal dotted lines indicate proportional measurements of the neck, head, and limbs.</image-desc>
+
+Thus I wish to teach you here how to pose and turn this **steed** <note>original: "Roß"</note> or horse in its **proportion** <note>original: "Proportz"</note> simply with the **construction lines** <term>construction lines</term> <note>original: "blindtrissen"; preliminary, faint guidelines used to establish form before the final details are added.</note> / and thereafter also to draw it **in the flesh** <note>original: "mit fleisch"; meaning the fully rendered anatomical form.</note> with its **main outlines** <term>main outlines</term> <note>original: "hauptstrich"</note> / so that you may then see what I mean / Therefore I have fashioned three steeds here / one facing forward / and one facing backward / also one slightly to the side / in which you then see my meaning with the two **circular sketches** <term>circular sketches</term> <note>original: "Circkelrissen"; circles drawn with a compass to define the mass of the animal's body.</note> / how they come together or beside one another in their positioning / and so that you may also know thereafter how to draw the horse in its proportion in this way.
+
+<summary>This page explains how to use geometric "circular sketches" and construction lines to accurately draw a horse from different perspectives, including front, back, and side views. It emphasizes transitioning from a simple geometric framework to a fully rendered anatomical drawing.</summary>
+
+<keywords>proportion, horse anatomy, construction lines, perspective, drawing techniques, circular sketches, Renaissance art theory</keywords>
+
+--- Page 146 ---
+<meta>Continuity with page 52: Having demonstrated the basic geometric construction of the horse from different angles, the author now explains how to adjust these circles vertically to depict dynamic movements like jumping or grazing.</meta>
+
+### Of the Steed or Horse.
+
+For further understanding, I have also placed here two **steeds** <note>original: "Roß"</note> with their **construction lines** <term>construction lines</term> <note>original: "blindrissen"; preliminary, faint guidelines used to establish form before the final details are added.</note> / there you see how the two **circular sketches** <term>circular sketches</term> <note>original: "Circkelriß"; geometric circles used to define the mass of the animal's body.</note> rise higher in the front, because these two horses are leaping / so that you know how to pose them in every manner / for if the horse were to lower itself in the front / then you can well imagine that you should also make the circular sketches lower in the front / then you can well imagine that you should also make the circular sketches lower in the front / <note>This repetition of the phrase appears to be a printer's error in the original manuscript.</note> Now I have also placed these two horses here **in the flesh** <note>original: "im fleisch"; meaning the fully rendered anatomical form.</note> with their **main outlines** <term>main outlines</term> <note>original: "hauptstrichen"</note> / I expect now that you will find good instruction from this my positioning / so that you may pose and **draft** <note>original: "auffreissen"</note> a steed or horse according to your pleasure / however you wish.
+
+<meta>catchword: Also</meta>
+
+<summary>This page illustrates how to manipulate the geometric circles of a horse's body to depict movement, such as leaping or grazing, and provides finished drawings as examples of the technique.</summary>
+<keywords>horse anatomy, construction lines, circular sketches, artistic proportion, leaping horse, drafting techniques</keywords>
+
+--- Page 147 ---
+<meta>Continuity with page 51: The previous page explained how to adjust the geometric "circular sketches" vertically to depict the horse in dynamic poses such as leaping or grazing. This page moves from theoretical adjustment to practical application, demonstrating how to pose the horse from different perspectives (front, back, and side) using these same geometric principles.</meta>
+
+# On Proportion
+
+Thus I will here teach you how to pose and turn this **steed** or **horse** in its **proportion** in the simplest way using **construction lines** <term>construction lines</term> <note>original: "blindtrissen"; preliminary, faint guidelines or "blind" sketches used to establish form before the final details are added.</note> / and thereafter also to **draft** <term>draft</term> <note>original: "auffreissen"</note> it **in the flesh** <note>original: "mit fleisch"; meaning to render the full, muscular anatomical volume over the geometric base.</note> within its **main outline** <term>main outline</term> <note>original: "hauptstrich"</note> / so that you may then see what I mean / Thus I have placed three horses here / one facing forward / and one facing backward / and also one slightly to the side / in which you see my meaning with the two **circular sketches** <term>circular sketches</term> <note>original: "Circkelrissen"; geometric circles used by the artist to define the primary mass of the horse's chest and hindquarters.</note> / how they overlap or sit beside each other in their positioning / and so that you may also know how to draft the horse in its proportion accordingly.
+
+<meta>catchword: Too far</meta>
+
+<summary>The author introduces practical exercises for drawing horses from various angles—front, back, and side—by utilizing overlapping geometric circles to maintain correct proportions.</summary>
+<keywords>horse proportion, construction lines, circular sketches, artistic perspective, anatomical drafting, Renaissance drawing techniques</keywords>
+
+--- Page 148 ---
+<meta>Continuity with page 51: The previous page described the basic geometric framework for a horse. This page expands on those principles by demonstrating how to adjust the circular construction lines vertically to depict dynamic movement, such as jumping or lowering the head.</meta>
+
+# Of the Steed or Horse
+
+For further understanding, I have placed two more horses here with their **construction lines** <term>construction lines</term> <note>original: "blindrissen"; preliminary, faint guidelines or "blind" sketches used to establish form before the final details are added.</note> / there you see how the two **circular sketches** <term>circular sketches</term> <note>original: "Circkelriß"; geometric circles used to define the primary mass of the horse's chest and hindquarters.</note> rise higher in the front, because these two horses are jumping / so that you know how to pose them in every manner / for if the horse were to lower its front <note>referring to the horse bending down, for example, to graze or step down.</note> / you can well imagine that you should also place the circular sketches lower in the front.
+
+Now I have also placed these two horses here with their **main outlines** <term>main outlines</term> <note>original: "hauptstrichen"</note> **in the flesh** <note>original: "im fleisch"; meaning to render the full, muscular anatomical volume over the geometric base.</note> / I expect now that you will find a good instruction from this arrangement of mine / so that you can pose and **draft** <term>draft</term> <note>original: "auffreissen"</note> a steed or horse as you please, however you wish.
+
+<meta>Catchword: Also</meta>
+
+<summary>This page demonstrates how to adapt geometric construction circles to draw horses in motion, specifically showing how raising the front circles allows an artist to depict a jumping horse.</summary>
+<keywords>horse anatomy, movement, jumping horse, construction lines, circular sketches, artistic proportions, Renaissance drawing techniques</keywords>
+
+--- Page 149 ---
+<meta>Continuity with page 51: The previous page concluded by explaining how to adjust construction circles vertically to show a horse jumping or lowering its head. This page continues that instruction by demonstrating how these same circles overlap or shift when the horse is viewed from different angles (front, back, and side).</meta>
+
+# Of Proportion
+
+Thus, I wish to teach you here how to position and turn this steed or horse in its proportions simply by using **construction lines** <term>construction lines</term> <note>original: "biltriſſen"; preliminary, faint guidelines or "image-sketches" used to establish form before the final details are added.</note> / and thereafter also to **draft** <term>draft</term> <note>original: "auffreiſſen"</note> it **in the flesh** <note>original: "mit fleiſch"; meaning to render the full, muscular anatomical volume over the geometric base.</note> with its **main outlines** <term>main outlines</term> <note>original: "hauptſtrich"</note> / so that you may see what I mean / Therefore, I have placed three horses here / one facing forward / and one facing backward / and also one slightly to the side / through which you may see my intention regarding the two **circular sketches** <term>circular sketches</term> <note>original: "Circkelriſſen"; the geometric circles used to define the primary mass of the horse's chest and hindquarters.</note> / how they overlap or sit beside one another in their positioning / and so that you may also know how to draft the horse in its proportions accordingly.
+
+<meta>Catchword: Too wide</meta>
+
+<summary>This page explains how to use geometric circular guides to draw horses from various perspectives—front, back, and profile—and how to layer anatomical "flesh" over these basic outlines.</summary>
+<keywords>horse anatomy, artistic proportions, perspective, construction lines, circular sketches, drafting, Renaissance drawing techniques</keywords>
+
+--- Page 150 ---
+<meta>Continuity with page 51: The previous page introduced the geometric foundation of equine anatomy, using circles to represent the chest and hindquarters. This page applies those principles to dynamic movements—jumping and grazing—showing how the height of these circles must be adjusted to reflect the horse’s posture.</meta>
+
+# Of the Steed or Horse.
+
+<image-desc>Three geometric construction diagrams of horses in different poses: rearing, standing, and grazing. Each figure is composed of two overlapping circles for the torso and hindquarters, with articulated lines for the legs and neck. Measurement ticks appear on the neck and legs to indicate proportions.</image-desc>
+
+<image-desc>Three detailed woodcut illustrations of horses corresponding to the skeletal diagrams above. The horses are rendered with muscular detail and shading through hatching. The left horse is rearing, the middle horse is standing in a dynamic three-quarter pose, and the right horse is bowing its head as if to graze.</image-desc>
+
+For further understanding, I have also placed two steeds here with their **construction lines** <term>construction lines</term> <note>original: "blindrissen"; faint, preliminary guidelines used to establish form before the final details are added.</note>. Here you can see how the two **circular sketches** <term>circular sketches</term> <note>original: "Circkelriß"</note> rise higher at the front because these two horses are leaping; this is so you may know how to position them in every manner. For if the horse were to lower its front, you can well imagine that you should also place the circular sketches lower at the front.
+
+Now I have also placed these two horses here with their **main outlines** <term>main outlines</term> <note>original: "hauptstrichen"</note> rendered **in the flesh** <note>original: "im fleisch"; meaning to draw the full, muscular volume over the geometric base.</note>. I trust now that you will find a good instruction from this my arrangement, so that you may position and **draft** <term>draft</term> <note>original: "auffreissen"</note> a steed or horse to your liking, however you wish.
+
+<summary>This page demonstrates how to adjust geometric circular guides to depict horses in motion, such as rearing or lowering the head, providing the artist with a flexible system for any pose.</summary>
+<keywords>horse anatomy, artistic proportions, rearing horse, construction lines, circular sketches, Renaissance drawing, equine movement</keywords>
+
+--- Page 151 ---
+<meta>Continuity with page 51: Having demonstrated the geometric construction of horses in dynamic poses—rearing and grazing—the author now moves to conclude this section of the manual. He shifts from technical instruction to a personal appeal, framing the work as a pedagogical tool for the youth.</meta>
+
+# Of Proportion
+
+<image-desc>An anatomical and proportional study of horses. The top section contains two schematic diagrams of rearing horses facing each other, constructed using geometric circles for the body and segmented lines with points representing joints for the limbs and neck. Below a horizontal divider line, there are two detailed woodcut illustrations of horses in the same rearing posture, facing each other. These finished drawings show detailed musculature, manes, and facial expressions.</image-desc>
+
+So I wish herewith to conclude this **little book** <term>little book</term> <note>original: "Büchlein"; a common term for a short instructional manual or treatise during the Renaissance.</note> for now, and have kindly requested every lover of this **art** <note>original: "kunst"; referring here to the craft of draftsmanship and anatomical study.</note> that he would take this humble work of mine in the best spirit. For truly, that which I bring to light here, I do not do out of **arrogance** <note>original: "hoffart"</note> or pride; rather, I wished—and it would be my heart’s desire—that I could help and advise on how one might inspire a love for all honorable arts in our dear youth. Thus they might not spend their precious time poorly, but instead be guided toward learning something **useful** <note>original: "nützlichs"</note> while they have the time, and let go of all useless and **frivolous** <note>original: "leichtfertige"</note> things. Although I hope no one will take it...
+
+<meta>The text breaks off mid-sentence, to be continued on the following page with the word "amiss" (vngut).</meta>
+
+<summary>In this concluding passage, the author reflects on the purpose of his anatomical treatise, framing it as a moral and educational tool intended to guide young people toward honorable skills and away from idleness.</summary>
+<keywords>art education, horse anatomy, Renaissance pedagogy, draftsmanship, moral instruction, proportion</keywords>
+
+--- Page 152 ---
+<meta>This page continues the author's concluding remarks from page 51. The sentence structure bridges the gap between the author’s hope that readers will not take his efforts "amiss" but rather receive them "well."</meta>
+
+<header>of the Steed or Horse.</header>
+
+...take it well, that I, as one inexperienced, bring such a thing to light. This I know well, however: that there are many of you who are well-versed in such and all **free arts** <note>original: "freye künste"; referring to the Liberal Arts, which in the Renaissance included the mathematical and geometric foundations of drawing.</note>, and who also at times take pleasure in the arts of other people, in which they seek and have their delight. But while they could often and many times serve another with their art—which they have from God—they are nevertheless so hard in their hearts that, even when they notice and see that they could help someone with a small piece of knowledge and give them a free desire for such art, they would rather lock all doors and chests before they would do it, so that indeed no one would become aware of anything from them. What would it be, then, if one knew all the arts that were in the whole world, and had them all alone in his head and heart, and would grant no person any of it, but instead let it rot away within him? Therefore, I wish herewith to have requested every person to give his **judgment** <term>judgment</term> <note>original: "Sentenz"; a formal opinion or moral decree.</note> on what kind of **creature** <note>original: "Creatur"</note> such a person is.
+
+Since God, however (to Him be praise and thanks), has shared a little of His grace in such **Art** with me, I did not wish to keep that same **small pound** <term>small pound</term> <note>original: "kleine Pfundt"; an allusion to the Parable of the Talents (Matthew 25), where a servant is criticized for hiding his money (a "pound" or talent) in the ground rather than investing it.</note> in my **sweat-cloth** <note>original: "Schweisßtuch"; a biblical reference to the cloth or napkin used to wrap and hide the "pound" in the parable.</note>, but rather wished to bring as much to light here at this time. And I wish herewith to have friendly requested all highly-understanding artists in this and all other arts, that they might also heartily share their free arts, which they have from God, with the dear, **noble youth**. For indeed, one can never do too much of a good thing. I wish, therefore, to have commended all lovers of this and other arts, and also the dear youth who have a desire for art, into the protection and shield of God. God be praise and glory in eternity, Amen.
+
+-> E N D. <-
+
+# Printed at Frankfurt am Main /
+## In the Year 1618.
+
+<summary>In this concluding page, the author offers a moral defense for publishing his artistic methods, invoking the biblical Parable of the Talents to argue that knowledge should be shared with the youth rather than hoarded. The work concludes with a formal benediction and publication details for Frankfurt, 1618.</summary>
+
+<keywords>art education, Parable of the Talents, Frankfurt am Main, sharing knowledge, 17th-century printing, pedagogical duty, Liberal Arts, youth</keywords>
+
+--- Page 153 ---
+<meta>This page transitions from the author’s justification of his work to his formal conclusion. The catchword from the previous page, "gut auff" (take it well/favorably), suggests the preceding sentence ended by asking the reader to receive the work kindly, which leads directly into the closing remarks found here on page 53.</meta>
+
+# Of Proportion
+
+->[The page features technical drawings of rearing horses, using circles and lines to map out anatomical proportions, followed by finished woodcuts of the same poses.]<-
+
+Therefore, I wish herewith to conclude this **booklet** <term>booklet</term> <note>original: "Büchlein"; a common term for 16th-century instructional manuals or "little books."</note> for this time, and to have friendly requested every lover of this **art** <note>original: "kunst"</note> that he will receive such a humble work from me in the best spirit. For indeed, that which I bring to light herein, I do not do out of arrogance or pride; rather, I would wish—and it would be my heart’s desire—that I could help and advise by what means and how one might create a delight for dear **youth** in all **honorable arts**, so that they do not spend their precious time poorly. Instead, [my wish is] that they might be encouraged so that they might learn something useful while time is on their side, and let all useless and frivolous things go. Although I hope no one will take it from me un- <note>The text breaks off mid-word with "vn-", likely intended to be "vngut," meaning "amiss" or "unfavorably."</note>
+
+<summary>The author concludes his manual on horse proportions with a humble plea to the reader, expressing his desire to inspire the youth toward honorable arts and productive study.</summary>
+<keywords>conclusion, horse proportions, education of youth, artistic intent, humility, 16th-century art manual</keywords>
+
+--- Page 154 ---
+<meta>This page completes the sentence from page 53, transitioning from the author's request for the reader's favor to a critique of those who hoard knowledge. The catchword "gut auff" from the previous page connects to "auffnemmen" (to take or receive) at the start of this text.</meta>
+
+# Of the Steed or Horse. 54
+
+[take it] favorably, that I, as one inexperienced, bring such a thing to light. However, I know well that there are many of you who are highly skilled in these and all **liberal arts** <term>liberal arts</term> <note>original: "freye künste"; historically referring to the 'artes liberales', but here used more broadly to describe artistic and intellectual disciplines worthy of a free man.</note>, and who at times take pleasure in the arts of others, seeking and finding their delight therein. Yet, though they could frequently serve others with the art they have received from God, they are nevertheless so hardened in their hearts that—even when they notice and see that they could help someone with a small piece of knowledge and instill in them a free delight for such art—they would sooner lock all doors and chests so that no one might learn anything from them. What would it be, then, if one knew all the arts that exist in the whole world, and held them all alone in his head and heart, and would begrudge no man any part of it, and thus let it rot away within himself? Therefore, I wish herewith to ask every person to give their **judgment** <note>original: "Sententz"; a formal opinion or verdict.</note> as to what kind of creature such a person is.
+
+But since God (to whom be praise and thanks) has shared a little of His grace in such art with me, I did not wish to keep that same small **talent** <note>original: "Pfundt," literally "pound." This is a biblical allusion to the Parable of the Talents (Matthew 25), where a servant is rebuked for hiding his money rather than investing it.</note> hidden in my **napkin** <note>original: "Schweißtuch," literally a "sweat-cloth" or burial shroud. In the biblical context of the parable, it refers to the cloth used to wrap and hide the talent/money.</note>; instead, I wished to bring this much to light at this time. I wish herewith to kindly request all highly-learned artists in this and all other arts to also heartily share their liberal art, which they have from God, with the dear, noble **youth**; for indeed, one can never do too much good. I wish therefore to commend all lovers of this and all other arts, as well as the dear youth who have a desire for art, to the protection and shelter of God. Praise and glory be to God for eternity, Amen.
+
+---
+
+-> **T  H  E     E  N  D.** <-
+
+-> **Printed at Frankfurt am Main /** <-
+-> **In the Year 1618.** <-
+
+<summary>The author concludes his work by condemning those who keep artistic knowledge to themselves and encourages fellow artists to share their God-given talents with the younger generation.</summary>
+<keywords>conclusion, liberal arts, sharing knowledge, Parable of the Talents, Frankfurt am Main, 1618, artistic education</keywords>
+
+--- Page 155 ---
+<meta>This page concludes the author's introductory or main section, transitioning from his defense of sharing knowledge (the "talents" discussed on the previous page) to a concluding exhortation to the reader and the youth. The catchword from the previous page, "gut auff," completes the phrase "im besten wöll auffnemmen" (to receive in the best way/favorably) found in this text.</meta>
+
+# Of Proportion
+
+<image-desc>
+A woodcut illustration demonstrating the proportional construction of a horse. The upper section contains two geometric skeletal diagrams of horses in a rearing pose. These diagrams use circles to define the volume of the chest and haunches, and straight lines for the legs and neck. The arched line of the neck features horizontal tick marks for measurement. The lower section shows two fully rendered woodcut illustrations of horses in the same rearing poses, facing each other, with anatomical detail, musculature, and shading.
+</image-desc>
+
+Thus I wish herewith to conclude the **little book** <note>original: "Büchlein"; a modest term used by authors of the period for their manuals.</note> for this time, and have friendly requested every lover of this **art** <note>original: "kunst"; refers to the skill of drawing and the study of proportions.</note> that he will receive such a modest work from me in the best way. For indeed, that which I bring to light herein, I do not do out of **arrogance** <note>original: "hoffart"</note> or pride; rather, it is my wish and my heart's desire that I might be able to help and advise as to how one might create a delight for the dear **youth** in all honest **arts** <term>arts</term> <note>original: "künsten"; encompassing technical, creative, and intellectual disciplines.</note>, so that they do not spend their good time poorly, but that they might be encouraged to learn something useful in good time and let go of all useless and frivolous things. Although I hope no one will take it to un- <note>The word is cut off, likely continuing as "ungut" (unfavorably) or "unrecht" (wrongly) on the following page.</note>
+
+<vocab>Proportion, Little book, art, arrogance, youth, arts</vocab>
+
+<summary>The author concludes this section of the manual, expressing his humble desire to educate the youth in the "honest arts" and encourage them to spend their time productively rather than frivolously.</summary>
+<keywords>conclusion, artistic education, youth, modesty, proportion, horse anatomy</keywords>
+
+--- Page 156 ---
+<meta>This page concludes the author's afterword. It follows a passage where the author defended his decision to publish his artistic secrets, framing the sharing of knowledge as a spiritual duty. The previous page ended mid-sentence, cautioning the reader not to take his efforts "unfavorably."</meta>
+
+# of the Steed or Horse.
+### 54
+
+—favorably receive, that I, as an inexperienced person, bring such a thing to light. This I know well, however: that there are many of you who are well-versed in such and all **liberal arts** <term>liberal arts</term> <note>original: "freye künste"; historically, the "artes liberales" were the branches of knowledge worthy of a free person, though here the author applies it to the skill of drawing and proportion.</note>, and occasionally take joy in the arts of other people, in which they seek and find their pleasure. Yet, although they could often and many times serve another with their art, which they have received from God, they are nonetheless so hard in their hearts that even when they notice and see that they could help someone with a small piece of knowledge—and thereby give him a free delight for such art—they would rather lock all doors and chests before they would do so, so that no one might learn anything from them. What would it be, then, if one knew all the arts that existed in the whole world, and held them all alone in his head and heart, and would not grant any human being any part of them, and thus let them rot away within him? Therefore, I wish herewith to have asked everyone to give their **verdict** <note>original: "Sententz"; a formal opinion or judgment.</note> as to what kind of creature such a person might be.
+
+But since God (to whom be praise and thanks) has shared His grace with me a little in such art, I did not want to keep that same small **talent** <note>original: "Pfundt"; literally "pound." This is a biblical allusion to the Parable of the Talents.</note> in my **napkin** <note>original: "Schweißtuch"; literally "sweat-cloth." In the Gospel of Luke, a servant hides his master's money in a cloth rather than investing it; the author uses this to explain why he must share his knowledge rather than keeping it secret.</note>, but rather wished to bring so much to light at this time. I wish herewith to have friendly requested all highly-understanding artists in this and all other arts to also heartily share their liberal arts, which they have from God, with the dear noble **youth**. For one can never do too much of a good thing. I wish therefore herewith to have commended all lovers of this and other arts, as well as the dear youth who have a desire for art, to the protection and shelter of God; God be praised and honored in eternity, Amen.
+
+->T H E  E N D.<-
+
+---
+
+->Printed at Frankfurt am Main,<-
+->In the year 1618.<-
+
+<summary>In this concluding passage, the author delivers a moral exhortation against hoarding knowledge, using the biblical Parable of the Talents to justify his publication. He ends with a dedication to the youth and a formal colophon dating the work to 1618.</summary>
+
+<keywords>artistic education, Parable of the Talents, knowledge sharing, Frankfurt am Main, 1618, liberal arts, morality in art</keywords>
+
+--- Page 157 ---
+<meta>This page serves as the final leaf of the book, following the author's moralizing afterword about the duty to share artistic "talents" rather than hiding them. The handwritten page number indicates its place in a compiled volume, while the printed text at the bottom provides the formal publication details.</meta>
+
+42 <note>Handwritten in the upper-left margin.</note>
+
+<unclear>Large block of mirrored bleed-through text, illegible where the ink from the reverse side has seeped through the paper.</unclear>
+
+-> B. G. W. B. <-
+<note>These initials likely refer to the author, illustrator, or publisher of the work.</note>
+
+-> Printed in Frankfurt am Main / In the year 1618. <-
+<note>original: "Gedruckt in Franckfurt am Mayn / Im Jahr 1618." Frankfurt was a preeminent center for the European book trade and printing industry during this period.</note>
+
+<summary>This final page contains the colophon, identifying Frankfurt am Main as the place of publication and 1618 as the year. The majority of the page is blank or obscured by ink bleeding through from the preceding leaf.</summary>
+
+<keywords>Frankfurt am Main, 1618, colophon, printing history, 17th century</keywords>

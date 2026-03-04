@@ -1,14 +1,14 @@
 {
   "id": "697910dbeb0dcfd39912342a",
   "title": "Des Circkelsz und Richtscheyts",
-  "display_title": "Des Circkelsz und Richtscheyts",
+  "display_title": "Of the Compass and Ruler",
   "author": "Lautensack, Heinrich",
   "language": "German",
   "year": 1618,
   "published": "1618",
   "pages_count": 161,
   "pages_with_ocr": 161,
-  "pages_with_translation": 114,
+  "pages_with_translation": 151,
   "source_url": "https://sourcelibrary.org/book/697910dbeb0dcfd39912342a",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:28:00.199Z",
+  "synced_at": "2026-03-04T14:20:47.921Z",
   "_hashes": {
     "ocr": "30716f405720be3b",
-    "translation": "20f8eded0d180670"
+    "translation": "93e0302d86f19a55"
   }
 }
