@@ -1,14 +1,14 @@
 {
   "id": "6974b645457dd8909910b9f1",
   "title": "Archidoxa [...] Zehen Bücher",
-  "display_title": "Archidoxa [...] Zehen Bücher",
+  "display_title": "Archidoxes: Ten Books",
   "author": "Paracelsus, Theophrastus",
   "language": "Latin",
   "year": 1574,
   "published": "1574",
   "pages_count": 532,
   "pages_with_ocr": 532,
-  "pages_with_translation": 9,
+  "pages_with_translation": 524,
   "source_url": "https://sourcelibrary.org/book/6974b645457dd8909910b9f1",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:23:50.862Z",
+  "synced_at": "2026-03-04T23:50:47.855Z",
   "_hashes": {
     "ocr": "a3731a92070ca54f",
-    "translation": "6b3bf297f9242a41"
+    "translation": "98847127d41f61c3"
   }
 }
