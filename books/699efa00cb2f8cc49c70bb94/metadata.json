@@ -1,0 +1,26 @@
+{
+  "id": "699efa00cb2f8cc49c70bb94",
+  "title": "Sex puncta theosophica, oder von sechs theosophischen Puncten",
+  "display_title": "Six Theosophic Points (Sex Puncta Theosophica)",
+  "author": "Böhme, Jacob",
+  "language": "German",
+  "year": 1730,
+  "published": "1730",
+  "pages_count": 141,
+  "pages_with_ocr": 141,
+  "pages_with_translation": 134,
+  "source_url": "https://sourcelibrary.org/book/699efa00cb2f8cc49c70bb94",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-04T17:00:54.301Z",
+  "_hashes": {
+    "ocr": "d36da0853160f4e6",
+    "translation": "32cd554b74a447d3"
+  }
+}
