@@ -1,0 +1,26 @@
+{
+  "id": "699ef9fc7543a5cb5d64cf08",
+  "title": "Sophiae cum moria certamen",
+  "display_title": "The Contest of Wisdom with Folly",
+  "author": "Fludd, Robert",
+  "language": "Latin",
+  "year": 1629,
+  "published": "1629",
+  "pages_count": 144,
+  "pages_with_ocr": 144,
+  "pages_with_translation": 131,
+  "source_url": "https://sourcelibrary.org/book/699ef9fc7543a5cb5d64cf08",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-04T16:30:42.516Z",
+  "_hashes": {
+    "ocr": "20758a2d154e35a5",
+    "translation": "3010e89eff356b30"
+  }
+}
