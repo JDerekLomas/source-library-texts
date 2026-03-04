@@ -1,0 +1,26 @@
+{
+  "id": "699df078ec13f7d17590a0df",
+  "title": "陽明按索 (Yangming Stellar Astrology Charts)",
+  "display_title": "Yangming Stellar Astrology Charts",
+  "author": "Chen Fuxin",
+  "language": "Chinese",
+  "year": 1632,
+  "published": "1632",
+  "pages_count": 101,
+  "pages_with_ocr": 101,
+  "pages_with_translation": 46,
+  "source_url": "https://sourcelibrary.org/book/699df078ec13f7d17590a0df",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-04T16:20:43.666Z",
+  "_hashes": {
+    "ocr": "9216a480f9ed9329",
+    "translation": "1305a092f89270c4"
+  }
+}
