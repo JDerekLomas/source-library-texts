@@ -1,0 +1,26 @@
+{
+  "id": "69a0279006093ffd43c08217",
+  "title": "La suite du comte de Gabalis, ou nouveaux entretiens sur les sciences secrètes",
+  "display_title": "The Sequel to the Count of Gabalis, or New Conversations on the Secret Sciences",
+  "author": "[Villars, Nicolas de Montfaucon de]",
+  "language": "French",
+  "year": 1708,
+  "published": "1708",
+  "pages_count": 212,
+  "pages_with_ocr": 212,
+  "pages_with_translation": 205,
+  "source_url": "https://sourcelibrary.org/book/69a0279006093ffd43c08217",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-04T22:00:52.260Z",
+  "_hashes": {
+    "ocr": "b288112b492ed9f6",
+    "translation": "c050478e70e27e7f"
+  }
+}
