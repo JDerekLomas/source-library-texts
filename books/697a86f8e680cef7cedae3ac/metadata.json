@@ -1,14 +1,14 @@
 {
   "id": "697a86f8e680cef7cedae3ac",
   "title": "[Greek: cheiradodia] facilis et compendiosa ad doctrinam accentuum Ebraicorum",
-  "display_title": "[Greek: cheiradodia] facilis et compendiosa ad doctrinam accentuum Ebraicorum",
+  "display_title": "A Simple and Concise Manual for Hebrew Accents",
   "author": "Pfeiffer, August",
   "language": "Greek-Latin",
   "year": 1666,
   "published": "1666",
   "pages_count": 45,
   "pages_with_ocr": 45,
-  "pages_with_translation": 45,
+  "pages_with_translation": 41,
   "source_url": "https://sourcelibrary.org/book/697a86f8e680cef7cedae3ac",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v4.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:29:44.809Z",
+  "synced_at": "2026-03-04T19:20:29.727Z",
   "_hashes": {
     "ocr": "fa1243981cdb3c9e",
-    "translation": "08ed99082d4e698f"
+    "translation": "d185066fb97062d4"
   }
 }
