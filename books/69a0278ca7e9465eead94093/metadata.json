@@ -1,0 +1,26 @@
+{
+  "id": "69a0278ca7e9465eead94093",
+  "title": "Theologia teuetsch",
+  "display_title": "Theologia Germanica",
+  "author": "Anonymous (The Frankfurtian)",
+  "language": "German",
+  "year": 1520,
+  "published": "1520",
+  "pages_count": 102,
+  "pages_with_ocr": 102,
+  "pages_with_translation": 93,
+  "source_url": "https://sourcelibrary.org/book/69a0278ca7e9465eead94093",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-04T17:10:37.740Z",
+  "_hashes": {
+    "ocr": "8d01689cbfaae061",
+    "translation": "370d56600e892308"
+  }
+}
