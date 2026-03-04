@@ -1,14 +1,14 @@
 {
   "id": "6988a5a1a78be4e0932cb1dd",
   "title": "De secretis naturae sive quinta essentia. De mineralibus & rebus metallicis",
-  "display_title": "De secretis naturae sive quinta essentia. De mineralibus & rebus metallicis",
+  "display_title": "On the Secrets of Nature, or the Fifth Essence",
   "author": "Lull, Ramón|Albertus Magnus",
   "language": "Latin",
   "year": 1542,
   "published": "1542",
   "pages_count": 355,
   "pages_with_ocr": 355,
-  "pages_with_translation": 92,
+  "pages_with_translation": 327,
   "source_url": "https://sourcelibrary.org/book/6988a5a1a78be4e0932cb1dd",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:26:03.552Z",
+  "synced_at": "2026-03-04T21:00:33.574Z",
   "_hashes": {
     "ocr": "13635acd636183e1",
-    "translation": "f559bd9eebd0ecbb"
+    "translation": "db8498b1f815d994"
   }
 }
