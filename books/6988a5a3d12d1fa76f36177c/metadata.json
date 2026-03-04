@@ -1,14 +1,14 @@
 {
   "id": "6988a5a3d12d1fa76f36177c",
   "title": "Les Rosecroix",
-  "display_title": "Les Rosecroix",
+  "display_title": "The Rosicrucians",
   "author": "Parny, Évariste",
   "language": "French",
   "year": 1807,
   "published": "1807",
   "pages_count": 251,
   "pages_with_ocr": 251,
-  "pages_with_translation": 92,
+  "pages_with_translation": 238,
   "source_url": "https://sourcelibrary.org/book/6988a5a3d12d1fa76f36177c",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:27:09.154Z",
+  "synced_at": "2026-03-04T21:00:41.690Z",
   "_hashes": {
     "ocr": "feb16b6ea9fb5c3c",
-    "translation": "adc9e083536e2b06"
+    "translation": "b7988dd8e4b46dc2"
   }
 }
