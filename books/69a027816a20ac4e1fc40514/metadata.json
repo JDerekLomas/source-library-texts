@@ -1,0 +1,26 @@
+{
+  "id": "69a027816a20ac4e1fc40514",
+  "title": "Téléscope de Zoroastre, ou clef de la grande cabale divinatoire des mages",
+  "display_title": "The Telescope of Zoroaster, or Key to the Great Divinatory Cabala of the Magi",
+  "author": "[Nerciat, Andrea de?]",
+  "language": "French",
+  "year": 1796,
+  "published": "1796",
+  "pages_count": 218,
+  "pages_with_ocr": 218,
+  "pages_with_translation": 189,
+  "source_url": "https://sourcelibrary.org/book/69a027816a20ac4e1fc40514",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-04T22:11:02.229Z",
+  "_hashes": {
+    "ocr": "a5350b5346e4f5f0",
+    "translation": "cf7a1bf3aaed956c"
+  }
+}
