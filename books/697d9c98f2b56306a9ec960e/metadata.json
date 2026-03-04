@@ -1,14 +1,14 @@
 {
   "id": "697d9c98f2b56306a9ec960e",
   "title": "Hermes. Zeitschrift in zwanglosen Heften",
-  "display_title": "Hermes. Zeitschrift in zwanglosen Heften",
+  "display_title": "Hermes: A Journal in Occasional Issues",
   "author": "Unknown",
   "language": "German",
   "year": 1806,
   "published": "1806",
   "pages_count": 138,
   "pages_with_ocr": 138,
-  "pages_with_translation": 8,
+  "pages_with_translation": 135,
   "source_url": "https://sourcelibrary.org/book/697d9c98f2b56306a9ec960e",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:28:10.528Z",
+  "synced_at": "2026-03-04T19:30:41.804Z",
   "_hashes": {
     "ocr": "a3fa9c450623101a",
-    "translation": "e01d56baa16bdebf"
+    "translation": "1a82141b807f93e3"
   }
 }
