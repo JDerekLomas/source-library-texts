@@ -1,0 +1,26 @@
+{
+  "id": "699ef9f3b0a976d32fd37463",
+  "title": "De signatura rerum oder von der Geburt und Bezeichnung aller Wesen",
+  "display_title": "The Signature of All Things (De Signatura Rerum)",
+  "author": "Böhme, Jacob",
+  "language": "German",
+  "year": 1730,
+  "published": "1730",
+  "pages_count": 270,
+  "pages_with_ocr": 270,
+  "pages_with_translation": 260,
+  "source_url": "https://sourcelibrary.org/book/699ef9f3b0a976d32fd37463",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-04T21:20:58.678Z",
+  "_hashes": {
+    "ocr": "98f19a3a3a8efe98",
+    "translation": "0194e055a75317e2"
+  }
+}
