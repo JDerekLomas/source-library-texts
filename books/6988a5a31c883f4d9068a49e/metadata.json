@@ -1,13 +1,13 @@
 {
   "id": "6988a5a31c883f4d9068a49e",
   "title": "Seleniana Augustalia",
-  "display_title": "Seleniana Augustalia",
+  "display_title": "Augustan Seleniana",
   "author": "Andreae, Johann Valentin",
   "language": "Latin",
   "year": 1649,
   "published": "[1649]",
   "pages_count": 676,
-  "pages_with_ocr": 100,
+  "pages_with_ocr": 676,
   "pages_with_translation": 86,
   "source_url": "https://sourcelibrary.org/book/6988a5a31c883f4d9068a49e",
   "license": "publicdomain",
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:28:38.488Z",
+  "synced_at": "2026-03-04T21:00:37.901Z",
   "_hashes": {
-    "ocr": "b6d8c46933fac1a2",
+    "ocr": "3a14cd4e37b10f96",
     "translation": "87732c47523f04d2"
   }
 }
