@@ -1,14 +1,14 @@
 {
   "id": "6985ca6d9d0a51f652882365",
   "title": "Pyrrho Clidensis: redivivus. Das ist, philosophisch, doch noch zur zeit nichts determinirente [!] Consideration, von der hochberühmbten newen Brüderschafft derer von Rosencreutz",
-  "display_title": "Pyrrho Clidensis: redivivus. Das ist, philosophisch, doch noch zur zeit nichts determinirente [!] Consideration, von der hochberühmbten newen Brüderschafft derer von Rosencreutz",
+  "display_title": "Pyrrho Clidensis Redivivus: A Consideration of the Rosicrucian Brotherhood",
   "author": "[Hoffmann, Gottlieb?]",
   "language": "Latin-German",
   "year": 1616,
   "published": "1616",
   "pages_count": 80,
   "pages_with_ocr": 80,
-  "pages_with_translation": 80,
+  "pages_with_translation": 78,
   "source_url": "https://sourcelibrary.org/book/6985ca6d9d0a51f652882365",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v4.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:29:18.244Z",
+  "synced_at": "2026-03-04T20:00:33.410Z",
   "_hashes": {
     "ocr": "802f127da4fdba20",
-    "translation": "e848518c0eb58a34"
+    "translation": "6d1c9b087eaf5497"
   }
 }
