@@ -1,14 +1,14 @@
 {
   "id": "6992cbbd018b80967354aee0",
   "title": "Das Büchlein vom Leben nach dem Tode",
-  "display_title": "Das Büchlein vom Leben nach dem Tode",
+  "display_title": "The Little Book of Life After Death",
   "author": "Gustav Theodor Fechner",
   "language": "German",
   "year": 1836,
   "published": "Unknown",
   "pages_count": 56,
   "pages_with_ocr": 56,
-  "pages_with_translation": 0,
+  "pages_with_translation": 56,
   "source_url": "https://sourcelibrary.org/book/6992cbbd018b80967354aee0",
   "license": "publicdomain",
   "doi": null,
@@ -18,11 +18,11 @@
   "processing": {
     "ocr_model": "gemini-3-flash-preview",
     "prompt_version": "v3.2026-02",
-    "translation_model": null
+    "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:29:38.529Z",
+  "synced_at": "2026-03-04T21:10:47.132Z",
   "_hashes": {
     "ocr": "c02307b4781a3eb8",
-    "translation": "e3b0c44298fc1c14"
+    "translation": "6359488e64cfc3d5"
   }
 }
