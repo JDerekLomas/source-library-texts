@@ -1,14 +1,14 @@
 {
   "id": "6992cbd3018b80967354b406",
   "title": "Ueber das höchste Gut",
-  "display_title": "Ueber das höchste Gut",
+  "display_title": "On the Highest Good",
   "author": "Gustav Theodor Fechner",
   "language": "German",
   "year": 1846,
   "published": "Unknown",
   "pages_count": 74,
   "pages_with_ocr": 74,
-  "pages_with_translation": 0,
+  "pages_with_translation": 74,
   "source_url": "https://sourcelibrary.org/book/6992cbd3018b80967354b406",
   "license": "publicdomain",
   "doi": null,
@@ -18,11 +18,11 @@
   "processing": {
     "ocr_model": "gemini-2.5-flash",
     "prompt_version": "v3.2026-02",
-    "translation_model": null
+    "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:29:26.399Z",
+  "synced_at": "2026-03-04T15:20:49.248Z",
   "_hashes": {
     "ocr": "e61fa7515bd1dcd4",
-    "translation": "e3b0c44298fc1c14"
+    "translation": "0c8eaafffb33ec59"
   }
 }
