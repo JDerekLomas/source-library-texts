@@ -1,14 +1,14 @@
 {
   "id": "69773e18094afd77cbd39c0a",
   "title": "Bibliotheca chemica, oder Catalogus von chymischen-Büchern",
-  "display_title": "Bibliotheca chemica, oder Catalogus von chymischen-Büchern",
+  "display_title": "Chemical Library, or Catalogue of Chemical Books",
   "author": "Roth-Scholtz, Friedrich",
   "language": "Latin-German",
   "year": 1727,
   "published": "1727-29",
   "pages_count": 124,
   "pages_with_ocr": 124,
-  "pages_with_translation": 4,
+  "pages_with_translation": 114,
   "source_url": "https://sourcelibrary.org/book/69773e18094afd77cbd39c0a",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v5.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:28:18.509Z",
+  "synced_at": "2026-03-04T23:40:47.474Z",
   "_hashes": {
     "ocr": "2a0a25e2aee9229b",
-    "translation": "a459517e4ed5fb46"
+    "translation": "4ffa3f9d7c34e4ad"
   }
 }
