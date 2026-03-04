@@ -1,0 +1,28 @@
+{
+  "id": "6992cbd5018b80967354b452",
+  "title": "Jakob Böhme: sein Leben und seine Schriften",
+  "display_title": "Jakob Böhme: His Life and Writings",
+  "author": "Gustav Theodor Fechner",
+  "language": "German",
+  "year": 1857,
+  "published": "Unknown",
+  "pages_count": 134,
+  "pages_with_ocr": 134,
+  "pages_with_translation": 118,
+  "source_url": "https://sourcelibrary.org/book/6992cbd5018b80967354b452",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "jakobbhmeseinleb00fech"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-04T21:10:54.473Z",
+  "_hashes": {
+    "ocr": "e238ab1d041fe8d7",
+    "translation": "0ac4cf102d98a548"
+  }
+}
