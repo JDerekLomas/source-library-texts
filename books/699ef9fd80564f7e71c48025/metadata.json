@@ -1,0 +1,26 @@
+{
+  "id": "699ef9fd80564f7e71c48025",
+  "title": "Destructorium vitiorum ex similitudinum creaturarum exemplorum appropriatione per modum dyalogi",
+  "display_title": "Destructorium vitiorum ex similitudinum creaturarum exemplorum appropriatione per modum dyalogi",
+  "author": "anonymous",
+  "language": "Unknown",
+  "year": null,
+  "published": "1509",
+  "pages_count": 156,
+  "pages_with_ocr": 156,
+  "pages_with_translation": 45,
+  "source_url": "https://sourcelibrary.org/book/699ef9fd80564f7e71c48025",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-04T21:30:47.697Z",
+  "_hashes": {
+    "ocr": "f295c8e2609f030a",
+    "translation": "1987862d8932bf44"
+  }
+}
