@@ -1,0 +1,26 @@
+{
+  "id": "699ef9ff56e1710c66738155",
+  "title": "Signatura rerum: or the signature of all things",
+  "display_title": "Signatura rerum: or the signature of all things",
+  "author": "Boehme, Jacob",
+  "language": "English",
+  "year": 1651,
+  "published": "1651",
+  "pages_count": 255,
+  "pages_with_ocr": 255,
+  "pages_with_translation": 247,
+  "source_url": "https://sourcelibrary.org/book/699ef9ff56e1710c66738155",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-04T17:00:43.321Z",
+  "_hashes": {
+    "ocr": "c1c6e317045390ad",
+    "translation": "2157ebe9c0342476"
+  }
+}
