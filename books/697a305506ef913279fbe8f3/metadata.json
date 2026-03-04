@@ -1,14 +1,14 @@
 {
   "id": "697a305506ef913279fbe8f3",
   "title": "Le comte de Gabalis, ou entretiens sur les sciences secrètes",
-  "display_title": "Le comte de Gabalis, ou entretiens sur les sciences secrètes",
+  "display_title": "The Count of Gabalis",
   "author": "[Villars, Nicolas de Montfaucon de]",
   "language": "French",
   "year": 1742,
   "published": "1742",
   "pages_count": 462,
-  "pages_with_ocr": 10,
-  "pages_with_translation": 6,
+  "pages_with_ocr": 462,
+  "pages_with_translation": 455,
   "source_url": "https://sourcelibrary.org/book/697a305506ef913279fbe8f3",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:30:22.282Z",
+  "synced_at": "2026-03-04T17:30:42.863Z",
   "_hashes": {
-    "ocr": "f35c0c822448839c",
-    "translation": "331c23530600698b"
+    "ocr": "a21659cf66801acb",
+    "translation": "178b118b657f1a42"
   }
 }
