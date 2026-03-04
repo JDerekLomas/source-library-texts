@@ -1,14 +1,14 @@
 {
   "id": "6988a5a1a15916541b5aaa0a",
   "title": "Sammlungen zur Sittenlehre fuer alle Menschen",
-  "display_title": "Sammlungen zur Sittenlehre fuer alle Menschen",
+  "display_title": "Collections on Ethics for All People",
   "author": "Eckartshausen, Karl von",
   "language": "German",
   "year": 1788,
   "published": "1788",
   "pages_count": 544,
   "pages_with_ocr": 544,
-  "pages_with_translation": 97,
+  "pages_with_translation": 508,
   "source_url": "https://sourcelibrary.org/book/6988a5a1a15916541b5aaa0a",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:23:46.948Z",
+  "synced_at": "2026-03-04T20:30:43.066Z",
   "_hashes": {
     "ocr": "7873f91cb8cfe780",
-    "translation": "48a46df14b1b6153"
+    "translation": "50e2f469fe1b51cc"
   }
 }
