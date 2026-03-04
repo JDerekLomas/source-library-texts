@@ -1,0 +1,26 @@
+{
+  "id": "69a0278f677e04041df0334e",
+  "title": "Tomus secundus de supernaturali, naturali, praeternaturali et contranaturali microcosmi historia",
+  "display_title": "Second Volume on the Supernatural, Natural, Preternatural, and Contranatural History of the Microcosm",
+  "author": "Fludd, Robert",
+  "language": "Latin",
+  "year": 1619,
+  "published": "1619",
+  "pages_count": 225,
+  "pages_with_ocr": 225,
+  "pages_with_translation": 211,
+  "source_url": "https://sourcelibrary.org/book/69a0278f677e04041df0334e",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-04T22:00:48.119Z",
+  "_hashes": {
+    "ocr": "354d428c8f748458",
+    "translation": "70b32001bd8287b7"
+  }
+}
