@@ -1,14 +1,14 @@
 {
   "id": "6953a82c77f38f6761bd0bc5",
   "title": "New Testament (Armenian-Greek-Italian trilingual)",
-  "display_title": "New Testament (Armenian-Greek-Italian trilingual)",
+  "display_title": "New Testament",
   "author": "Various",
   "language": "Armenian",
   "year": 1100,
   "published": "1100-1199",
   "pages_count": 329,
-  "pages_with_ocr": 328,
-  "pages_with_translation": 327,
+  "pages_with_ocr": 329,
+  "pages_with_translation": 326,
   "source_url": "https://sourcelibrary.org/book/6953a82c77f38f6761bd0bc5",
   "license": "publicdomain",
   "doi": null,
@@ -20,9 +20,9 @@
     "prompt_version": "v4.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:26:20.462Z",
+  "synced_at": "2026-03-04T18:00:38.080Z",
   "_hashes": {
-    "ocr": "098160e81c507df9",
-    "translation": "b8a447e45e5fad8f"
+    "ocr": "6570bb769a3689f6",
+    "translation": "38373f9258c4dd76"
   }
 }
