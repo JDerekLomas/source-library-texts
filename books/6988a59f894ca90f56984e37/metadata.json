@@ -1,13 +1,13 @@
 {
   "id": "6988a59f894ca90f56984e37",
   "title": "La religion chrétienne",
-  "display_title": "La religion chrétienne",
+  "display_title": "The Christian Religion",
   "author": "Ditton, Humphry",
   "language": "French",
   "year": 1728,
   "published": "1728",
   "pages_count": 796,
-  "pages_with_ocr": 320,
+  "pages_with_ocr": 796,
   "pages_with_translation": 91,
   "source_url": "https://sourcelibrary.org/book/6988a59f894ca90f56984e37",
   "license": "publicdomain",
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:26:28.009Z",
+  "synced_at": "2026-03-04T20:20:33.288Z",
   "_hashes": {
-    "ocr": "fc8b2c71f56b15a9",
+    "ocr": "4dfeaf3baeb77f3f",
     "translation": "0f57494ae9269248"
   }
 }
