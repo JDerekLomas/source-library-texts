@@ -1,0 +1,26 @@
+{
+  "id": "699ef9ff0c193b4c7eab48d1",
+  "title": "Sendtschreiben oder einfeltige Antwort an die hocherleuchte Brüderschafft dess hochlöblichen Ordens dess RosenCreutzes",
+  "display_title": "Missive to the Highly Enlightened Brotherhood of the Rosy Cross",
+  "author": "anonymous",
+  "language": "German",
+  "year": 1615,
+  "published": "1615",
+  "pages_count": 34,
+  "pages_with_ocr": 34,
+  "pages_with_translation": 30,
+  "source_url": "https://sourcelibrary.org/book/699ef9ff0c193b4c7eab48d1",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-04T17:00:40.515Z",
+  "_hashes": {
+    "ocr": "76e30e25a5900823",
+    "translation": "6fcc14f4d7e88273"
+  }
+}
