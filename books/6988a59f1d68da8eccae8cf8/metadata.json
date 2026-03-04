@@ -1,14 +1,14 @@
 {
   "id": "6988a59f1d68da8eccae8cf8",
   "title": "Sacrarum observationum liber primus",
-  "display_title": "Sacrarum observationum liber primus",
+  "display_title": "Sacred Observations, Book One",
   "author": "Vitringa, Campegius",
   "language": "Latin",
   "year": 1683,
   "published": "1683",
   "pages_count": 620,
-  "pages_with_ocr": 100,
-  "pages_with_translation": 94,
+  "pages_with_ocr": 620,
+  "pages_with_translation": 602,
   "source_url": "https://sourcelibrary.org/book/6988a59f1d68da8eccae8cf8",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:28:47.392Z",
+  "synced_at": "2026-03-04T20:30:38.488Z",
   "_hashes": {
-    "ocr": "757090da1ca89418",
-    "translation": "4bb0bb9b69b13c6e"
+    "ocr": "1ad4ec26482bf5e7",
+    "translation": "b24d939402b45e74"
   }
 }
