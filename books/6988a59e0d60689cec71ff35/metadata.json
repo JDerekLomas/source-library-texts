@@ -1,14 +1,14 @@
 {
   "id": "6988a59e0d60689cec71ff35",
   "title": "Der Rosenkreuzer in seiner Blösse. Zum Nutzen der Staaten hingestellt durch Zweifel wider die wahre Weisheit der so genannten ächten Freymäurer oder goldnen Rosenkreutzer des alten Systems",
-  "display_title": "Der Rosenkreuzer in seiner Blösse. Zum Nutzen der Staaten hingestellt durch Zweifel wider die wahre Weisheit der so genannten ächten Freymäurer oder goldnen Rosenkreutzer des alten Systems",
+  "display_title": "The Rosicrucian Exposed",
   "author": "[Ecker und Eckhoffen, Hans Carl von]",
   "language": "German",
   "year": 1781,
   "published": "1781",
   "pages_count": 268,
   "pages_with_ocr": 268,
-  "pages_with_translation": 268,
+  "pages_with_translation": 263,
   "source_url": "https://sourcelibrary.org/book/6988a59e0d60689cec71ff35",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v4.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:26:59.154Z",
+  "synced_at": "2026-03-04T20:10:29.844Z",
   "_hashes": {
     "ocr": "cefe6529a3366e30",
-    "translation": "ada3e591c2247147"
+    "translation": "3a576f40dd99c4dc"
   }
 }
