@@ -1,0 +1,26 @@
+{
+  "id": "699ef9f2c2bcb75dbdbaad94",
+  "title": "Sol sine veste. Oder Dreyssig Experimenta",
+  "display_title": "Sun Without Clothing, or Thirty Experiments",
+  "author": "Orschall, Johann Christian",
+  "language": "German",
+  "year": 1739,
+  "published": "1739",
+  "pages_count": 27,
+  "pages_with_ocr": 27,
+  "pages_with_translation": 23,
+  "source_url": "https://sourcelibrary.org/book/699ef9f2c2bcb75dbdbaad94",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-04T21:20:55.364Z",
+  "_hashes": {
+    "ocr": "17aad80a75847514",
+    "translation": "9f8bb602c007b212"
+  }
+}
