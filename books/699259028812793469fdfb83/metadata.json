@@ -1,14 +1,14 @@
 {
   "id": "699259028812793469fdfb83",
   "title": "The Garuda Purana, Vol. 7 Part I (M.N. Dutt translation)",
-  "display_title": "The Garuda Purana, Vol. 7 Part I (M.N. Dutt translation)",
+  "display_title": "The Garuda Purana",
   "author": "Manmatha Nath Dutt",
   "language": "Sanskrit",
   "year": 1908,
   "published": "Unknown",
   "pages_count": 96,
   "pages_with_ocr": 96,
-  "pages_with_translation": 77,
+  "pages_with_translation": 96,
   "source_url": "https://sourcelibrary.org/book/699259028812793469fdfb83",
   "license": "publicdomain",
   "doi": null,
@@ -20,9 +20,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:28:58.390Z",
+  "synced_at": "2026-03-04T15:20:45.675Z",
   "_hashes": {
     "ocr": "f00801b6484733e5",
-    "translation": "33c1cd8e73e59600"
+    "translation": "b09faa6afac4d1fc"
   }
 }
