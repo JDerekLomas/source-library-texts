@@ -1,14 +1,14 @@
 {
   "id": "6974b644457dd8909910b9ef",
   "title": "Archaeologiae philosophicae sive doctrina antiqua de rerum originibus. Libri duo",
-  "display_title": "Archaeologiae philosophicae sive doctrina antiqua de rerum originibus. Libri duo",
+  "display_title": "Philosophical Archaeologies",
   "author": "Burnet, Thomas",
   "language": "Latin",
   "year": 1692,
   "published": "1692",
   "pages_count": 398,
   "pages_with_ocr": 398,
-  "pages_with_translation": 5,
+  "pages_with_translation": 389,
   "source_url": "https://sourcelibrary.org/book/6974b644457dd8909910b9ef",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:25:37.430Z",
+  "synced_at": "2026-03-04T23:50:55.925Z",
   "_hashes": {
     "ocr": "e022392be799b2a9",
-    "translation": "05c8b11ac3ef7418"
+    "translation": "11d8eba4f0e85ac2"
   }
 }
