@@ -1,14 +1,14 @@
 {
   "id": "69819209c3e109986dfc4453",
   "title": "Lucta christiana. Psalmi quinquagesimi deprecatoria",
-  "display_title": "Lucta christiana. Psalmi quinquagesimi deprecatoria",
+  "display_title": "The Christian Struggle: A Prayer on the Fiftieth Psalm",
   "author": "Moltherus, Menradus",
   "language": "Latin",
   "year": 1527,
   "published": "1527",
   "pages_count": 123,
   "pages_with_ocr": 123,
-  "pages_with_translation": 8,
+  "pages_with_translation": 22,
   "source_url": "https://sourcelibrary.org/book/69819209c3e109986dfc4453",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v4.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:28:19.299Z",
+  "synced_at": "2026-03-04T18:50:32.917Z",
   "_hashes": {
     "ocr": "683ac9604973c366",
-    "translation": "299453ab71f73898"
+    "translation": "de09406de0801bd8"
   }
 }
