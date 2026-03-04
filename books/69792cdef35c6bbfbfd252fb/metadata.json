@@ -1,14 +1,14 @@
 {
   "id": "69792cdef35c6bbfbfd252fb",
   "title": "Coelum reseratum chymicum oder philosophischen Tractat",
-  "display_title": "Coelum reseratum chymicum oder philosophischen Tractat",
+  "display_title": "The Chemical Heaven Unlocked",
   "author": "Toeltius, Johann Georg",
   "language": "Latin-German",
   "year": 1737,
   "published": "1737",
   "pages_count": 382,
   "pages_with_ocr": 382,
-  "pages_with_translation": 189,
+  "pages_with_translation": 375,
   "source_url": "https://sourcelibrary.org/book/69792cdef35c6bbfbfd252fb",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:25:49.560Z",
+  "synced_at": "2026-03-04T14:40:30.099Z",
   "_hashes": {
     "ocr": "5be849433df522a4",
-    "translation": "cd016ba29c38b559"
+    "translation": "7a7022d19fab30f8"
   }
 }
