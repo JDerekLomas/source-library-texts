@@ -1,0 +1,26 @@
+{
+  "id": "69a0278e8bd5062dbf9e3a96",
+  "title": "Tractatus chymico-philosophicus de rebus naturalibus et supernaturalibus",
+  "display_title": "Chymico-Philosophical Treatise on Natural and Supernatural Things",
+  "author": "Basilius Valentinus",
+  "language": "Latin",
+  "year": 1679,
+  "published": "1679",
+  "pages_count": 80,
+  "pages_with_ocr": 80,
+  "pages_with_translation": 72,
+  "source_url": "https://sourcelibrary.org/book/69a0278e8bd5062dbf9e3a96",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-04T22:10:58.658Z",
+  "_hashes": {
+    "ocr": "20df3931dc336e22",
+    "translation": "4c283cbad90db4f5"
+  }
+}
