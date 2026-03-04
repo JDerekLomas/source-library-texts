@@ -1,0 +1,26 @@
+{
+  "id": "699efa00f4653e687a18b3e8",
+  "title": "Sentimens des-interessés sur la retraite des pasteurs de France",
+  "display_title": "Disinterested Sentiments on the Retreat of the Pastors of France",
+  "author": "[Artis, Gabriel d']",
+  "language": "French",
+  "year": 1688,
+  "published": "1688",
+  "pages_count": 363,
+  "pages_with_ocr": 363,
+  "pages_with_translation": 233,
+  "source_url": "https://sourcelibrary.org/book/699efa00f4653e687a18b3e8",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-04T21:40:41.048Z",
+  "_hashes": {
+    "ocr": "463adbe8958915f7",
+    "translation": "a7e632b5591b5685"
+  }
+}
