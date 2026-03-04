@@ -1,14 +1,14 @@
 {
   "id": "6988a5a1f3319e17203eb918",
   "title": "Schlüssel zu dem Cabinet der geheimen Schatz-Cammer der Natur",
-  "display_title": "Schlüssel zu dem Cabinet der geheimen Schatz-Cammer der Natur",
+  "display_title": "Key to the Cabinet of the Secret Treasury of Nature",
   "author": "[Walchin, Dorothea Juliana]",
   "language": "German",
   "year": 1722,
   "published": "1722",
   "pages_count": 237,
   "pages_with_ocr": 237,
-  "pages_with_translation": 99,
+  "pages_with_translation": 232,
   "source_url": "https://sourcelibrary.org/book/6988a5a1f3319e17203eb918",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:27:17.932Z",
+  "synced_at": "2026-03-04T20:30:47.291Z",
   "_hashes": {
     "ocr": "f9492a93d1bf72f7",
-    "translation": "3ff9e298cc0af25a"
+    "translation": "c9ab062daf797f78"
   }
 }
