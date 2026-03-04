@@ -1,0 +1,26 @@
+{
+  "id": "69a02790cf8bef555d035ba8",
+  "title": "Thresor de l'histoire des langues de cest univers",
+  "display_title": "Treasury of the History of the Languages of this Universe",
+  "author": "Duret, Claude",
+  "language": "French",
+  "year": 1619,
+  "published": "1619",
+  "pages_count": 1051,
+  "pages_with_ocr": 1051,
+  "pages_with_translation": 652,
+  "source_url": "https://sourcelibrary.org/book/69a02790cf8bef555d035ba8",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-04T21:50:48.339Z",
+  "_hashes": {
+    "ocr": "21ce917458cc5df8",
+    "translation": "e077806289277c09"
+  }
+}
