@@ -1,14 +1,14 @@
 {
   "id": "6974b648457dd8909910b9fb",
   "title": "De arte cabalistica",
-  "display_title": "De arte cabalistica",
+  "display_title": "On the Art of the Kabbalah",
   "author": "Reuchlin, Johann",
   "language": "Latin",
   "year": 1530,
   "published": "1530",
   "pages_count": 220,
   "pages_with_ocr": 220,
-  "pages_with_translation": 2,
+  "pages_with_translation": 204,
   "source_url": "https://sourcelibrary.org/book/6974b648457dd8909910b9fb",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:27:27.953Z",
+  "synced_at": "2026-03-04T23:41:07.236Z",
   "_hashes": {
     "ocr": "464d6ae634dd1eb0",
-    "translation": "2acd97d80f9241c9"
+    "translation": "8e4280d574bf7506"
   }
 }
