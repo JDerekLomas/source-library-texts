@@ -1,0 +1,26 @@
+{
+  "id": "69a0278a21bd8ed4d8e01187",
+  "title": "Theologia Weigelii. Das ist: Offentliche Glaubens Bekaendtnuess",
+  "display_title": "Theology of Weigel: That is, a Public Confession of Faith",
+  "author": "Weigel, Valentin",
+  "language": "German",
+  "year": 1618,
+  "published": "1618",
+  "pages_count": 138,
+  "pages_with_ocr": 138,
+  "pages_with_translation": 137,
+  "source_url": "https://sourcelibrary.org/book/69a0278a21bd8ed4d8e01187",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-04T17:00:58.137Z",
+  "_hashes": {
+    "ocr": "03fbe48efb2524f9",
+    "translation": "7202ab032d935dc6"
+  }
+}
