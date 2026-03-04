@@ -1,0 +1,28 @@
+{
+  "id": "6992cbd0018b80967354b30f",
+  "title": "Über die physikalische und philosophische Atomenlehre",
+  "display_title": "On the Physical and Philosophical Atomic Theory",
+  "author": "Gustav Theodor Fechner",
+  "language": "German",
+  "year": 1855,
+  "published": "Unknown",
+  "pages_count": 245,
+  "pages_with_ocr": 245,
+  "pages_with_translation": 104,
+  "source_url": "https://sourcelibrary.org/book/6992cbd0018b80967354b30f",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "10043161"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-04T21:10:50.767Z",
+  "_hashes": {
+    "ocr": "4097fb14c61f9eb7",
+    "translation": "2a5ea847742491f7"
+  }
+}
