@@ -1,0 +1,26 @@
+{
+  "id": "699ef9f4b0a976d32fd37467",
+  "title": "Stonehenge",
+  "display_title": "Stonehenge",
+  "author": "Stukeley, William",
+  "language": "English",
+  "year": 1740,
+  "published": "1740",
+  "pages_count": 237,
+  "pages_with_ocr": 211,
+  "pages_with_translation": 81,
+  "source_url": "https://sourcelibrary.org/book/699ef9f4b0a976d32fd37467",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-04T21:21:02.858Z",
+  "_hashes": {
+    "ocr": "f8ab374b27a09c7c",
+    "translation": "9b480295bcd66de9"
+  }
+}
