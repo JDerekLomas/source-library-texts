@@ -1,0 +1,26 @@
+{
+  "id": "69a0278cd6077fba05ddf28e",
+  "title": "System des transcendentalen Idealismus",
+  "display_title": "System of Transcendental Idealism",
+  "author": "Schelling, Friedrich Wilhelm Joseph von",
+  "language": "German",
+  "year": 1800,
+  "published": "1800",
+  "pages_count": 526,
+  "pages_with_ocr": 520,
+  "pages_with_translation": 507,
+  "source_url": "https://sourcelibrary.org/book/69a0278cd6077fba05ddf28e",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-04T21:40:55.063Z",
+  "_hashes": {
+    "ocr": "88a5a75944166352",
+    "translation": "93a6d22dd991d2ac"
+  }
+}
