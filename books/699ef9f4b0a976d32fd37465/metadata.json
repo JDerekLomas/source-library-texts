@@ -1,0 +1,26 @@
+{
+  "id": "699ef9f4b0a976d32fd37465",
+  "title": "De signatura rerum: das ist, Bezeichnung aller dingen",
+  "display_title": "The Signature of All Things (De Signatura Rerum)",
+  "author": "Boehme, Jacob",
+  "language": "German",
+  "year": 1635,
+  "published": "1635",
+  "pages_count": 433,
+  "pages_with_ocr": 433,
+  "pages_with_translation": 418,
+  "source_url": "https://sourcelibrary.org/book/699ef9f4b0a976d32fd37465",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-04T16:30:30.713Z",
+  "_hashes": {
+    "ocr": "5c32a640a8515eaf",
+    "translation": "50b4959d194af158"
+  }
+}
