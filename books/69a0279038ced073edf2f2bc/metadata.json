@@ -1,0 +1,26 @@
+{
+  "id": "69a0279038ced073edf2f2bc",
+  "title": "Thesaurinella olympica aurea tripartita, Das ist: ein himmlisch güldenes Schatzkämmerlein",
+  "display_title": "The Golden Olympic Little Treasury in Three Parts",
+  "author": "Figulus, Benedictus",
+  "language": "German",
+  "year": 1682,
+  "published": "1682",
+  "pages_count": 436,
+  "pages_with_ocr": 436,
+  "pages_with_translation": 120,
+  "source_url": "https://sourcelibrary.org/book/69a0279038ced073edf2f2bc",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-04T22:10:54.998Z",
+  "_hashes": {
+    "ocr": "308ab6c587bce65d",
+    "translation": "53a038813d3fcb34"
+  }
+}
