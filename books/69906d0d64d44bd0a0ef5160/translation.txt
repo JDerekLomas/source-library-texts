@@ -838,6 +838,34 @@ Udaipur Longitude 78.
 <summary>This page contains a detailed astronomical table (Sayana Lagna Patram) for calculating the tropical ascendant signs for the city of Udaipur. It provides day-by-day values for the first six zodiac signs—Aries through Virgo—calibrated to the city's specific latitude and longitude.</summary>
 <keywords>Udaipur, Tropical Ascendant, Sayana Lagna, Latitude, Longitude, Aries, Taurus, Gemini, Cancer, Leo, Virgo, Ephemeris, Panchang</keywords>
 
+--- Page 18 ---
+<meta>This page continues the astronomical data for Udaipur established on the previous page. While the previous page provided a prose-like introduction to the Tropical Ascendants, this page presents the raw mathematical grid used for those calculations. It focuses on the Tropical (Sayana) system, which adjusts for the wobble of the Earth's axis to ensure the zodiac aligns with the seasons.</meta>
+
+<margin>॥ 2 ॥</margin>
+
+# Tropical Calculation Sequence
+## Latitude Shadow Parameter: 30 | Ascensional Difference Portions: 55 | 54 || 20 | Udaipur Longitudinal Distance: 18 Yojanas | Quarter-less 47 <note>The phrase "Padone 47" means 46.75</note> | Day-count: 4
+<note>original: "Sayana-maya-krama." This header defines the geographical and temporal constants for the table. "Akshabha" refers to the equinoctial noon shadow, a standard way to express latitude in Indian astronomy. "Chara-khandani" are the tables of ascensional differences used to adjust the rising times of signs for a specific latitude.</note>
+
+| Sign/Deg | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 | 26 | 27 | 28 | 29 | 30 |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| **I** <note>abbr. for Ishta, the desired or calculated value</note> | 30 | 30 | 30 | 30 | 30 | 31 | 31 | 31 | 31 | 31 | 32 | 32 | 32 | 32 | 32 | 32 | 33 | 33 | 33 | 33 | 33 | 33 | 33 | 34 | 34 | 34 | 34 | 34 | 35 | 35 | 35 |
+| **V** <note>abbr. for Vikala, arc-seconds</note> | 0 | 11 | 22 | 33 | 45 | 56 | 7 | 19 | 31 | 43 | 55 | 7 | 19 | 31 | 43 | 55 | 8 | 20 | 33 | 45 | 57 | 10 | 22 | 35 | 47 | 59 | 12 | 24 | 37 | 49 | 1 |
+| **7** | 35 | 35 | 35 | 36 | 36 | 36 | 36 | 37 | 37 | 37 | 37 | 37 | 38 | 38 | 38 | 38 | 38 | 39 | 39 | 39 | 39 | 39 | 39 | 40 | 40 | 40 | 40 | 40 | 40 | 40 | 41 |
+| **8** | 33 <gloss>0</gloss> | 34 <gloss>31</gloss> | 35 <gloss>1</gloss> | 36 <gloss>30</gloss> | 37 <gloss>4</gloss> | 38 <gloss>33</gloss> | 4 <gloss>2</gloss> | 15 <gloss>30</gloss> | 26 <gloss>58</gloss> | 38 <gloss>26</gloss> | 50 <gloss>54</gloss> | 2 <gloss>22</gloss> | 13 <gloss>50</gloss> | 25 <gloss>18</gloss> | 36 <gloss>46</gloss> | 48 <gloss>14</gloss> | 59 <gloss>42</gloss> | 11 <gloss>10</gloss> | 22 <gloss>38</gloss> | 34 <gloss>6</gloss> | 45 <gloss>34</gloss> | 57 <gloss>2</gloss> | 8 <gloss>30</gloss> | 19 <gloss>58</gloss> | 31 <gloss>26</gloss> | 42 <gloss>54</gloss> | 54 <gloss>22</gloss> | 5 <gloss>50</gloss> | 17 <gloss>18</gloss> | 28 <gloss>46</gloss> | 40 <gloss>14</gloss> |
+| **Ma** <note>Mars</note> | 19 | 19 | 19 | 19 | 19 | 19 | 19 | 19 | 19 | 19 | 19 | 19 | 19 | 19 | 19 | 19 | 19 | 19 | 19 | 19 | 19 | 19 | 19 | 19 | 19 | 19 | 19 | 19 | 19 | 19 | 19 |
+| **Sa** <note>Sagittarius/Dhanus</note> | 22 | 23 | 23 | 24 | 24 | 25 | 25 | 26 | 26 | 27 | 27 | 28 | 28 | 29 | 29 | 30 | 30 | 31 | 31 | 32 | 32 | 33 | 33 | 34 | 34 | 35 | 35 | 36 | 36 | 37 | 37 |
+| **L** <note>Lagna/Ascendant</note> | 28 | 28 | 29 | 29 | 29 | 29 | 29 | 29 | 29 | 29 | 30 | 30 | 30 | 30 | 30 | 30 | 30 | 31 | 31 | 31 | 31 | 31 | 31 | 31 | 31 | 32 | 32 | 32 | 32 | 32 | 32 |
+| **Su** <note>Sun/Surya</note> | 7 <gloss>0</gloss> | 7 <gloss>10</gloss> | 7 <gloss>20</gloss> | 7 <gloss>30</gloss> | 7 <gloss>40</gloss> | 7 <gloss>50</gloss> | 8 <gloss>0</gloss> | 8 <gloss>10</gloss> | 8 <gloss>20</gloss> | 8 <gloss>30</gloss> | 8 <gloss>40</gloss> | 8 <gloss>50</gloss> | 9 <gloss>0</gloss> | 9 <gloss>10</gloss> | 9 <gloss>20</gloss> | 9 <gloss>30</gloss> | 9 <gloss>40</gloss> | 9 <gloss>50</gloss> | 10 <gloss>0</gloss> | 10 <gloss>10</gloss> | 10 <gloss>20</gloss> | 10 <gloss>30</gloss> | 10 <gloss>40</gloss> | 10 <gloss>50</gloss> | 11 <gloss>0</gloss> | 11 <gloss>10</gloss> | 11 <gloss>20</gloss> | 11 <gloss>30</gloss> | 11 <gloss>40</gloss> | 11 <gloss>50</gloss> | 12 <gloss>0</gloss> |
+| **Om** | 52 | 52 | 52 | 52 | 52 | 53 | 53 | 53 | 53 | 53 | 53 | 53 | 54 | 54 | 54 | 54 | 54 | 54 | 54 | 55 | 55 | 55 | 55 | 55 | 55 | 55 | 55 | 56 | 56 | 56 | 56 |
+| **Pi** <note>Pisces/Meena</note> | 56 <gloss>0</gloss> | 56 <gloss>30</gloss> | 57 <gloss>0</gloss> | 57 <gloss>30</gloss> | 58 <gloss>0</gloss> | 58 <gloss>30</gloss> | 59 <gloss>0</gloss> | 59 <gloss>30</gloss> | 0 <gloss>0</gloss> | 0 <gloss>30</gloss> | 1 <gloss>0</gloss> | 1 <gloss>30</gloss> | 2 <gloss>0</gloss> | 2 <gloss>30</gloss> | 3 <gloss>0</gloss> | 3 <gloss>30</gloss> | 4 <gloss>0</gloss> | 4 <gloss>30</gloss> | 5 <gloss>0</gloss> | 5 <gloss>30</gloss> | 6 <gloss>0</gloss> | 6 <gloss>30</gloss> | 7 <gloss>0</gloss> | 7 <gloss>30</gloss> | 8 <gloss>0</gloss> | 8 <gloss>30</gloss> | 9 <gloss>0</gloss> | 9 <gloss>30</gloss> | 10 <gloss>0</gloss> | 10 <gloss>30</gloss> | 11 <gloss>0</gloss> |
+| **11** | 36 | 37 | 38 | 39 | 40 | 41 | 42 | 43 | 44 | 45 | 46 | 47 | 48 | 49 | 50 | 51 | 52 | 53 | 54 | 55 | 56 | 57 | 58 | 59 | 0 | 1 | 2 | 3 | 4 | 5 | 6 |
+
+---
+
+<summary>This page contains a detailed mathematical table for calculating Tropical (Sayana) astronomical positions, specifically calibrated for the city of Udaipur. It provides incremental values for various planetary parameters and signs (like Pisces and Sagittarius) indexed by degrees.</summary>
+<keywords>Tropical zodiac, Udaipur, Sayana Lagna, astronomical table, ascensional difference, planetary motion, Sanskrit manuscript</keywords>
+
 --- Page 19 ---
 <meta>This page contains a complex astronomical table, likely part of a Panchang (almanac) or a mathematical treatise. It provides values for planetary positions or time corrections based on a specific day count (Ahargana). The values are calculated for a specific geographical location, indicated by the latitude and longitudinal corrections provided in the header.</meta>
 
@@ -4209,3 +4237,589 @@ Multiplier <note>original: "Gu"; abbreviation for Guna (multiplier) or Guru (Jup
 
 <summary>This page contains an extensive astronomical table detailing various mathematical parameters (likely planetary motions or lagna increments) across a 27-unit cycle. The data is categorized into rows labeled for the Moon, Mercury, and general motion, using a sexagesimal coordinate system.</summary>
 <keywords>Lagna, planetary motion, sexagesimal system, Gurmukhi numerals, Indian astronomy, Nakshatra cycle, Moon, Mercury, astrological table</keywords>
+
+--- Page 79 ---
+<meta>This page continues the astronomical data tables from the previous folio. While the previous page focused on 30-day solar cycles, this page transitions to a 27-unit system, almost certainly representing the 27 Nakshatras (Lunar Mansions) or the sidereal lunar month. The calculations continue to use the sexagesimal system (base-60), where the three columns in each cell represent Degrees, Minutes, and Seconds.</meta>
+
+# Brief Method <note>original: "Laghuḥ"; refers to a simplified or condensed system of astronomical calculation, often found in handbooks intended for quick use by practitioners.</note>
+
+<margin>35 5</margin>
+
+| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 | 26 | 27 | |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 1 5 0 | 2 21 30 | 3 38 0 | 4 54 30 | 6 11 0 | 7 27 30 | 8 44 0 | 10 0 30 | 11 17 0 | 12 33 30 | 13 50 0 | 15 6 30 | 16 23 0 | 17 39 30 | 18 56 0 | 20 12 30 | 21 29 0 | 22 45 30 | 24 2 0 | 25 18 30 | 26 35 0 | 27 51 30 | 29 8 0 | 30 24 30 | 31 41 0 | 32 57 30 | 34 14 0 | Moon <note>original: "Cha"; likely for Chandra.</note> |
+| 2 10 0 | 4 43 0 | 7 16 0 | 9 49 0 | 12 22 0 | 14 55 0 | 17 28 0 | 20 1 0 | 22 34 0 | 25 7 0 | 27 40 0 | 30 13 0 | 32 46 0 | 35 19 0 | 37 52 0 | 40 25 0 | 42 58 0 | 45 31 0 | 48 4 0 | 50 37 0 | 53 10 0 | 55 43 0 | 58 16 0 | 60 49 0 | 63 22 0 | 65 55 0 | 68 28 0 | Jupiter <note>original: "Ja"; likely for Jiva.</note> |
+| 3 15 0 | 7 4 30 | 10 54 0 | 14 43 30 | 18 33 0 | 22 22 30 | 26 12 0 | 30 1 30 | 33 51 0 | 37 40 30 | 41 30 0 | 45 19 30 | 49 9 0 | 52 58 30 | 56 48 0 | 60 37 30 | 64 27 0 | 68 16 30 | 72 6 0 | 75 55 30 | 79 45 0 | 83 34 30 | 87 24 0 | 91 13 30 | 95 3 0 | 98 52 30 | 102 42 0 | Motion <note>original: "Ga"; likely for Gati.</note> |
+| 4 20 0 | 9 25 0 | 13 31 0 | 18 15 0 | 22 44 0 | 27 9 0 | 31 56 0 | 36 41 0 | 41 27 0 | 46 12 0 | 50 58 0 | 55 43 0 | 60 29 0 | 65 14 0 | 70 0 0 | 74 45 0 | 79 31 0 | 84 16 0 | 89 1 0 | 93 47 0 | 98 32 0 | 103 17 0 | 108 3 0 | 112 48 0 | 117 34 0 | 122 19 0 | 127 4 0 | Longitude <note>original: "Dha"; likely for Dhanus or Dhruva.</note> |
+| 30 25 35 | 25 35 30 | 20 30 24 | 15 28 19 | 9 58 12 | 3 38 5 | 6 2 7 | 11 4 12 | 17 14 17 | 22 48 22 | 28 22 28 | 33 56 33 | 39 30 39 | 45 4 45 | 50 38 50 | 56 12 56 | 61 46 61 | 67 20 67 | 72 54 72 | 78 28 78 | 84 2 84 | 89 36 89 | 95 10 95 | 100 44 100 | 106 18 106 | 111 52 111 | 117 26 117 | Correction <note>original: "Chya"; likely for Cyuta (dropped/corrected) or Chaya (shadow).</note> |
+
+***
+
+| 3 6 30 | 6 12 30 | 9 19 0 | 12 25 30 | 15 32 0 | 18 38 30 | 21 45 0 | 24 51 30 | 27 58 0 | 31 4 30 | 34 11 0 | 37 17 30 | 40 24 0 | 43 30 30 | 46 37 0 | 49 43 30 | 52 50 0 | 55 56 30 | 59 3 0 | 62 9 30 | 65 16 0 | 68 22 30 | 71 29 0 | 74 35 30 | 77 42 0 | 80 48 30 | 83 55 0 | Jupiter |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 4 39 0 | 9 18 0 | 13 57 0 | 18 36 0 | 23 15 0 | 27 54 0 | 32 33 0 | 37 12 0 | 41 51 0 | 46 30 0 | 51 9 0 | 55 48 0 | 60 27 0 | 65 6 0 | 69 45 0 | 74 24 0 | 79 3 0 | 83 42 0 | 88 21 0 | 93 0 0 | 97 39 0 | 102 18 0 | 106 57 0 | 111 36 0 | 116 15 0 | 121 0 0 | 125 33 0 | Motion |
+| 6 11 30 | 12 23 0 | 18 34 30 | 24 46 0 | 30 57 30 | 37 9 0 | 43 20 30 | 49 32 0 | 55 43 30 | 61 55 0 | 68 6 30 | 74 18 0 | 80 29 30 | 86 41 0 | 92 52 30 | 99 4 0 | 105 15 30 | 111 27 0 | 117 38 30 | 123 50 0 | 130 1 30 | 136 13 0 | 142 24 30 | 148 36 0 | 154 47 30 | 160 59 0 | 167 10 30 | Longitude |
+| 5 2 25 35 | 9 1 54 30 | 13 0 53 35 | 16 59 52 40 | 20 58 51 45 | 24 57 50 50 | 28 56 49 55 | 32 55 48 | 36 54 47 5 | 40 53 46 10 | 44 52 45 15 | 48 51 44 20 | 52 50 43 25 | 56 49 42 30 | 60 48 41 35 | 64 47 40 40 | 68 46 39 45 | 72 45 38 50 | 76 44 37 55 | 80 43 36 0 | 84 42 35 5 | 88 41 34 10 | 92 40 33 15 | 96 39 32 20 | 100 38 31 25 | 104 37 30 30 | 108 36 29 35 | Correction |
+
+***
+
+| 7 2 2 7 30 | 13 4 3 14 30 | 20 6 5 21 0 | 26 8 6 27 30 | 33 10 8 34 0 | 39 12 10 40 30 | 46 14 12 47 0 | 53 16 14 53 30 | 60 18 17 0 0 | 67 20 19 6 30 | 74 22 21 13 0 | 81 24 23 19 30 | 88 26 25 26 0 | 95 28 27 32 30 | 102 30 29 39 0 | 109 32 31 45 30 | 116 34 33 52 0 | 123 36 35 58 30 | 131 39 38 5 0 | 138 41 40 11 30 | 145 43 42 18 0 | 152 45 44 24 30 | 159 47 46 31 0 | 166 49 48 37 30 | 173 51 50 44 0 | 180 53 52 50 30 | 188 56 54 57 0 | Motion |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 4 7 6 30 | 8 15 12 0 | 12 22 18 30 | 16 29 24 0 | 20 37 30 30 | 24 44 37 0 | 29 5 2 43 30 | 33 13 50 0 | 37 20 56 30 | 41 28 3 30 | 45 35 10 0 | 49 42 16 30 | 54 49 23 0 | 58 56 29 30 | 63 3 36 0 | 67 10 42 30 | 71 17 49 0 | 75 25 55 30 | 79 32 2 0 | 83 40 9 30 | 88 5 10 0 | 92 11 15 30 | 96 19 21 0 | 100 26 27 30 | 104 33 34 0 | 108 40 40 30 | 113 47 47 0 | Mean <note>original: "Ma"; likely for Madhyama.</note> |
+| 2 9 1 30 | 4 18 3 0 | 6 27 4 30 | 8 36 6 0 | 10 45 7 30 | 12 54 9 0 | 15 3 10 30 | 17 12 12 0 | 19 21 13 30 | 21 30 15 0 | 23 39 16 30 | 25 48 18 0 | 28 7 19 30 | 30 16 21 0 | 32 25 22 30 | 34 34 24 0 | 36 43 25 30 | 38 52 27 0 | 41 1 28 30 | 43 10 30 0 | 45 19 31 30 | 47 28 33 0 | 49 37 34 30 | 51 46 36 0 | 54 5 37 30 | 56 14 39 0 | 58 23 40 30 | Saturn <note>original: "Sha"; likely for Shani.</note> |
+| 7 59 2 7 20 | 15 58 4 7 20 | 23 57 6 11 40 | 31 56 8 21 5 5 | 39 55 10 31 25 | 47 54 12 40 30 | 55 53 14 50 25 | 63 52 16 59 40 | 71 51 19 9 5 | 79 50 21 18 50 | 87 49 23 28 35 | 95 48 25 38 20 | 103 47 27 47 55 | 111 46 30 0 25 | 119 45 32 6 40 | 127 44 34 15 55 | 135 43 36 25 10 | 143 42 38 34 25 | 151 41 40 43 40 | 159 40 43 6 45 | 167 39 45 15 50 | 175 38 47 25 5 | 183 37 49 34 20 | 191 36 51 43 35 | 199 35 53 52 50 | 207 34 56 1 5 | 215 33 58 11 20 | Motion |
+
+<center>P <note>original: "Pu"; likely a page marker or abbreviation for a specific celestial grouping.</note></center>
+
+->Thus may the manifestation of the wheel-like image cycle be victorious!<-
+<note>original: "iti vr̥ttābhācakramūrtirjiyatā"; a standard auspicious closing statement for a scientific or technical text.</note>
+
+<summary>This page contains a set of dense mathematical tables organized by 27 units, corresponding to the lunar mansions (Nakshatras). It provides the daily or positional increments for the Moon, Jupiter, Saturn, and their related mean motions and longitudinal corrections.</summary>
+<keywords>Nakshatra, sexagesimal, lunar motion, Jupiter, Saturn, astronomical tables, Sanskrit mathematics, Laghu system</keywords>
+
+--- Page 80 ---
+<meta>This page continues the astronomical tables from the previous folio, shifting focus to Shani (Saturn). While the previous page dealt with general planetary motions or cycles of the Moon and Jupiter, this page provides specific ephemeris data for Saturn across several years (likely Shaka years 1452–1455 and their corresponding cycles). The data is presented in sexagesimal format (base-60), common in Indian astronomical treatises (Siddhantas) to track precise planetary longitudinal positions.</meta>
+
+# Salutations to Lord Ganesha. Now, [the table for] Saturn. Inga: 31; Addition: 8|58 <note>original: "Inga" is likely a technical constant or a specific epochal variable; "Dhanam" (addition) refers to a positive additive correction used to calculate the true position from the mean position.</note>
+
+---
+
+<margin>
+1452
+1551
+1610
+</margin>
+
+| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 | 26 | Variable <note>original: "Cha" for Chara.</note> |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 6 | 5 | 5 | 5 | 5 | 5 | 5 | 5 | 5 | 6 | 6 | 6 | 6 | 6 | 6 | 6 | 6 | 6 | 6 | 6 | 6 | 6 | 6 | 6 | 6 | 6 | 1 |
+| 7 | 7 | 8 | 9 | 9 | 9 | 9 | 9 | 9 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 60 |
+| 49 | 41 | 28 | 12 | 51 | 26 | 5 | 39 | 12 | 44 | 18 | 47 | 12 | 31 | 54 | 16 | 40 | 2 | 24 | 46 | 9 | 31 | 54 | 16 | 39 | 59 | |
+| 27 | 44 | 28 | 42 | 20 | 30 | 18 | 32 | 50 | 54 | 15 | 22 | 15 | 44 | 12 | 19 | 51 | 11 | 56 | 15 | 42 | 31 | 48 | 49 | 43 | 51 | Motion <note>original: "Ga" for Gati.</note> |
+| 55 | 36 | 15 | 42 | 53 | 41 | 57 | 54 | 27 | 5 | 54 | 36 | 13 | 25 | 53 | 13 | 46 | 21 | 13 | 51 | 51 | 35 | 45 | 31 | 4 | 24 | |
+
+---
+
+<margin>
+1453
+1552
+1611
+</margin>
+
+| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 | 26 | 2 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 5 | 5 | 5 | 5 | 5 | 5 | 5 | 5 | 5 | 5 | 5 | 5 | 5 | 5 | 6 | 6 | 6 | 6 | 6 | 6 | 6 | 6 | 6 | 6 | 6 | 6 | 2 |
+| 8 | 8 | 9 | 9 | 9 | 9 | 9 | 9 | 9 | 9 | 9 | 9 | 9 | 9 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 2 | 3 | 4 | 5 | 61 |
+| 25 | 3 | 41 | 20 | 4 | 51 | 38 | 22 | 10 | 55 | 43 | 26 | 8 | 45 | 18 | 49 | 23 | 52 | 24 | 52 | 19 | 41 | 5 | 28 | 52 | 15 | |
+| 29 | 23 | 15 | 56 | 54 | 44 | 22 | 37 | 7 | 58 | 51 | 51 | 9 | 25 | 43 | 51 | 44 | 25 | 53 | 54 | 3 | 45 | 3 | 31 | 55 | 24 | Motion |
+| 37 | 5 | 5 | 51 | 53 | 21 | 18 | 40 | 52 | 33 | 54 | 4 | 9 | 4 | 24 | 45 | 9 | 44 | 29 | 3 | 55 | 25 | 57 | 20 | 30 | 33 | |
+
+---
+
+<margin>
+1454
+1553
+1612
+</margin>
+
+| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 | 26 | 3 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 5 | 5 | 5 | 5 | 5 | 5 | 5 | 5 | 5 | 5 | 5 | 5 | 5 | 5 | 5 | 5 | 5 | 5 | 5 | 5 | 5 | 6 | 6 | 6 | 6 | 6 | 3 |
+| 5 | 5 | 6 | 7 | 8 | 9 | 9 | 9 | 9 | 9 | 9 | 9 | 9 | 9 | 9 | 9 | 9 | 9 | 9 | 9 | 9 | 9 | 0 | 0 | 1 | 1 | 62 |
+| 48 | 43 | 22 | 37 | 55 | 25 | 4 | 46 | 29 | 11 | 53 | 35 | 17 | 59 | 42 | 24 | 6 | 48 | 31 | 13 | 55 | 37 | 19 | 2 | 44 | 27 | |
+| 37 | 55 | 33 | 4 | 57 | 47 | 37 | 39 | 19 | 29 | 32 | 31 | 51 | 13 | 30 | 33 | 52 | 31 | 34 | 27 | 13 | 20 | 58 | 23 | 9 | 4 | Motion |
+| 55 | 25 | 54 | 54 | 19 | 13 | 13 | 51 | 18 | 13 | 55 | 32 | 53 | 37 | 18 | 44 | 18 | 44 | 37 | 15 | 58 | 2 | 7 | 22 | 55 | 25 | |
+
+---
+
+<margin>
+1455
+1554
+1613
+</margin>
+
+| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 | 26 | 4 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 5 | 5 | 5 | 5 | 5 | 5 | 5 | 5 | 5 | 5 | 5 | 5 | 4 |
+| 7 | 7 | 7 | 7 | 7 | 7 | 7 | 7 | 7 | 7 | 7 | 7 | 7 | 7 | 8 | 8 | 8 | 8 | 8 | 8 | 8 | 8 | 9 | 9 | 9 | 9 | 63 |
+| 17 | 57 | 36 | 15 | 53 | 32 | 10 | 49 | 28 | 6 | 44 | 23 | 2 | 40 | 19 | 57 | 35 | 14 | 53 | 32 | 10 | 49 | 27 | 6 | 45 | 23 | |
+| 57 | 20 | 45 | 56 | 38 | 9 | 32 | 56 | 58 | 8 | 18 | 51 | 59 | 32 | 49 | 46 | 2 | 8 | 47 | 15 | 56 | 25 | 15 | 24 | 27 | 28 | Motion |
+| 20 | 20 | 4 | 4 | 5 | 7 | 9 <gloss>Month 1 <note>original: "Ma 1"; likely indicates the first month of the cycle.</note></gloss> | 4 | 5 | 5 | 9 | 2 | 5 | 5 | 3 | 2 | 5 | 3 | 4 | 2 | 4 | 1 | 9 | 3 | 3 | 4 | 51 |
+
+<summary>This page contains a set of astronomical tables for the planet Saturn (Shani), detailing its position and motion (Gati) over several years. The data is organized in sexagesimal units (degrees, minutes, seconds) to assist in calculating the planet's precise longitude for astrological or calendrical purposes.</summary>
+<keywords>Saturn, Shani, ephemeris, Indian astronomy, sexagesimal, Gati, Shaka era, astronomical table</keywords>
+
+--- Page 81 ---
+<meta>This page continues the detailed astronomical data for the planet Saturn (Shani) from the previous folio. The numerical data is presented in a grid, likely representing the daily or periodic motion of the planet within specific signs or nakshatras (lunar mansions). The values are calculated using the sexagesimal system (base-60), which was the standard for high-precision astronomy in pre-modern India.</meta>
+
+<margin>5</margin>
+<margin>15</margin>
+<margin>21</margin>
+<margin>35</margin>
+
+# Saturn
+
+| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 | 26 | 27 | <note>Row Check</note> |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 21<br>49 | 22<br>0 | 22<br>12 | 22<br>23 | 22<br>35 | 22<br>46 | 22<br>58 | 23<br>9 | 23<br>21 | 23<br>32 | 23<br>44 | 23<br>55 | 24<br>7 | 24<br>18 | 24<br>30 | 24<br>41 | 24<br>53 | 25<br>4 | 25<br>16 | 25<br>27 | 25<br>39 | 25<br>50 | 26<br>2 | 26<br>13 | 26<br>25 | 26<br>36 | 26<br>48 | 5 |
+| 3<br>9 | 4<br>20 | 5<br>31 | 6<br>42 | 7<br>53 | 9<br>4 | 10<br>15 | 11<br>26 | 12<br>37 | 13<br>48 | 14<br>59 | 16<br>10 | 17<br>21 | 18<br>32 | 19<br>43 | 20<br>54 | 22<br>5 | 23<br>16 | 24<br>27 | 25<br>38 | 26<br>49 | 28<br>0 | 29<br>11 | 0<br>22 | 1<br>33 | 2<br>44 | 3<br>55 | 4 |
+| 38<br>27 | 48<br>54 | 59<br>21 | 9<br>48 | 20<br>15 | 30<br>42 | 41<br>9 | 51<br>36 | 2<br>3 | 12<br>30 | 22<br>57 | 33<br>24 | 43<br>51 | 54<br>18 | 4<br>45 | 15<br>12 | 25<br>39 | 36<br>6 | 46<br>33 | 57<br>0 | 7<br>27 | 17<br>54 | 28<br>21 | 38<br>48 | 49<br>15 | 59<br>42 | 10<br>9 | 9 |
+| 52<br>7 | 33<br>14 | 14<br>21 | 55<br>28 | 36<br>35 | 17<br>42 | 58<br>49 | 39<br>56 | 20<br>3 | 0<br>10 | 41<br>17 | 22<br>24 | 3<br>31 | 44<br>38 | 25<br>45 | 6<br>52 | 47<br>59 | 29<br>6 | 10<br>13 | 51<br>20 | 32<br>27 | 13<br>34 | 54<br>41 | 35<br>48 | 16<br>55 | 57<br>2 | 38<br>9 | 6 |
+| 50<br>53 | 7<br>21 | 23<br>49 | 40<br>17 | 56<br>45 | 13<br>13 | 29<br>41 | 46<br>9 | 2<br>37 | 18<br>5 | 35<br>33 | 52<br>1 | 8<br>29 | 24<br>57 | 41<br>25 | 57<br>53 | 14<br>21 | 30<br>49 | 47<br>17 | 3<br>45 | 20<br>13 | 36<br>41 | 53<br>9 | 9<br>37 | 26<br>5 | 42<br>33 | 59<br>1 | 15 |
+| 28<br>51 | 57<br>43 | 26<br>34 | 55<br>26 | 24<br>18 | 53<br>9 | 22<br>1 | 50<br>52 | 19<br>44 | 48<br>35 | 17<br>27 | 46<br>18 | 15<br>10 | 44<br>1 | 13<br>53 | 42<br>44 | 11<br>36 | 40<br>27 | 9<br>19 | 38<br>10 | 7<br>2 | 35<br>53 | 4<br>45 | 33<br>36 | 2<br>28 | 31<br>19 | 0<br>11 | 9 |
+| 18<br>52 | 27<br>44 | 36<br>36 | 45<br>28 | 54<br>20 | 3<br>12 | 12<br>4 | 20<br>56 | 29<br>48 | 38<br>40 | 47<br>32 | 56<br>24 | 5<br>16 | 14<br>8 | 23<br>0 | 31<br>52 | 40<br>44 | 49<br>36 | 58<br>28 | 7<br>20 | 16<br>12 | 25<br>4 | 33<br>56 | 42<br>48 | 51<br>40 | 0<br>32 | 9<br>24 | 7 |
+| 8<br>8 | 47<br>16 | 26<br>24 | 5<br>32 | 44<br>40 | 23<br>48 | 2<br>56 | 42<br>4 | 21<br>12 | 0<br>20 | 39<br>28 | 18<br>36 | 57<br>44 | 36<br>52 | 16<br>0 | 55<br>8 | 34<br>16 | 13<br>24 | 52<br>32 | 31<br>40 | 10<br>48 | 49<br>56 | 29<br>4 | 8<br>12 | 47<br>20 | 26<br>28 | 5<br>36 | 11 |
+| 25<br>44 | 21<br>24 | 17<br>4 | 12<br>44 | 8<br>24 | 4<br>4 | 39<br>44 | 35<br>24 | 31<br>4 | 26<br>44 | 22<br>24 | 18<br>4 | 13<br>44 | 9<br>24 | 5<br>4 | 0<br>44 | 56<br>24 | 52<br>4 | 47<br>44 | 43<br>24 | 39<br>4 | 34<br>44 | 30<br>24 | 26<br>4 | 21<br>44 | 17<br>24 | 13<br>4 | 5 |
+| 31<br>44 | 32<br>44 | 34<br>44 | 37<br>44 | 41<br>44 | 46<br>44 | 52<br>44 | 59<br>44 | 7<br>44 | 16<br>44 | 26<br>44 | 37<br>44 | 49<br>44 | 2<br>44 | 17<br>44 | 33<br>44 | 50<br>44 | 8<br>44 | 27<br>44 | 47<br>44 | 8<br>44 | 31<br>44 | 55<br>44 | 20<br>44 | 46<br>44 | 13<br>44 | 41<br>44 | 1 |
+| 3<br>2 | 4<br>13 | 5<br>24 | 6<br>35 | 7<br>46 | 9<br>0 | 10<br>11 | 11<br>22 | 12<br>33 | 13<br>44 | 14<br>55 | 16<br>9 | 17<br>20 | 18<br>31 | 19<br>42 | 20<br>53 | 22<br>4 | 23<br>15 | 24<br>26 | 25<br>37 | 26<br>48 | 28<br>2 | 29<br>13 | 0<br>24 | 1<br>35 | 2<br>46 | 3<br>57 | 6 |
+| 1<br>47 | 2<br>50 | 3<br>53 | 4<br>56 | 5<br>59 | 7<br>2 | 8<br>5 | 9<br>8 | 10<br>11 | 11<br>14 | 12<br>17 | 13<br>20 | 14<br>23 | 15<br>26 | 16<br>29 | 17<br>32 | 18<br>35 | 19<br>38 | 20<br>41 | 21<br>44 | 22<br>47 | 23<br>50 | 24<br>53 | 25<br>56 | 26<br>59 | 28<br>2 | 29<br>5 | 7 |
+
+<note>The values in each cell likely represent minutes and seconds or degrees and minutes. In Indian astronomy, these tables were used to determine the "true" position of a planet by applying corrections to its "mean" or average position.</note>
+
+<summary>This page contains an extensive astronomical table for the planet Saturn, detailing its position or motion through numerical data in a sexagesimal (base-60) format. It serves as a computational tool for determining planetary longitudes in traditional Indian astrology.</summary>
+<keywords>Saturn, Shani, Indian astronomy, ephemeris, sexagesimal system, planetary motion, Jyotisha, astronomical tables</keywords>
+
+--- Page 82 ---
+<meta>This page continues the astronomical tables for the planet Saturn (Shani), providing precise coordinates for the celestial bodies in relation to the 27 lunar mansions (Nakshatras). The data uses the sexagesimal system (degrees, minutes, and seconds) common in traditional Indian mathematical astronomy (Siddhanta).</meta>
+
+# Saturn
+
+| | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 | 26 | 27 | |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| <margin>Sun</margin> | 18<br/>29 | 9<br/>22 | 28<br/>15 | 17<br/>7 | 6<br/>0 | 25<br/>53 | 14<br/>45 | 3<br/>38 | 22<br/>31 | 11<br/>24 | 30<br/>16 | 19<br/>9 | 8<br/>2 | 27<br/>55 | 16<br/>47 | 5<br/>40 | 24<br/>33 | 13<br/>25 | 2<br/>18 | 21<br/>11 | 10<br/>4 | 29<br/>56 | 18<br/>49 | 7<br/>42 | 26<br/>35 | 15<br/>27 | 4<br/>20 | <note>Dha</note> |
+| <margin>Moon</margin> | 4<br/>16 | 4<br/>16 | 4<br/>16 | 4<br/>16 | 4<br/>16 | 4<br/>16 | 4<br/>16 | 4<br/>16 | 4<br/>16 | 4<br/>16 | 4<br/>16 | 4<br/>16 | 4<br/>16 | 4<br/>16 | 4<br/>16 | 4<br/>16 | 4<br/>16 | 4<br/>16 | 4<br/>16 | 4<br/>16 | 4<br/>16 | 4<br/>16 | 4<br/>16 | 4<br/>16 | 4<br/>16 | 4<br/>16 | 4<br/>16 | <note>Na</note> |
+| <margin>Mars</margin> | 10<br/>38 | 9<br/>22 | 7<br/>6 | 5<br/>50 | 4<br/>34 | 2<br/>18 | 1<br/>2 | 25<br/>46 | 24<br/>30 | 22<br/>13 | 21<br/>57 | 19<br/>41 | 17<br/>24 | 16<br/>8 | 14<br/>52 | 12<br/>36 | 11<br/>20 | 9<br/>4 | 7<br/>48 | 6<br/>31 | 4<br/>15 | 2<br/>59 | 1<br/>43 | 26<br/>27 | 24<br/>11 | 23<br/>55 | 21<br/>39 | <note>Ya</note> |
+| <margin>Mercury</margin> | 10<br/>21 | 1<br/>30 | 22<br/>39 | 13<br/>48 | 5<br/>57 | 25<br/>5 | 16<br/>14 | 7<br/>23 | 29<br/>32 | 20<br/>41 | 11<br/>50 | 2<br/>59 | 23<br/>8 | 14<br/>17 | 5<br/>26 | 26<br/>35 | 18<br/>44 | 9<br/>53 | 0<br/>2 | 21<br/>11 | 12<br/>20 | 3<br/>29 | 24<br/>39 | 15<br/>48 | 6<br/>57 | 27<br/>6 | 18<br/>15 | <note>Na</note> |
+| <margin>Jupiter</margin> | 23<br/>53 | 2<br/>11 | 10<br/>29 | 18<br/>47 | 26<br/>5 | 4<br/>23 | 12<br/>41 | 20<br/>59 | 28<br/>17 | 6<br/>35 | 14<br/>53 | 22<br/>11 | 30<br/>29 | 8<br/>47 | 16<br/>5 | 24<br/>23 | 2<br/>41 | 10<br/>59 | 18<br/>17 | 26<br/>35 | 4<br/>53 | 12<br/>11 | 20<br/>29 | 28<br/>47 | 6<br/>5 | 14<br/>23 | 22<br/>41 | <note>Ya</note> |
+| <margin>Venus</margin> | 26<br/>19 | 24<br/>2 | 21<br/>45 | 19<br/>28 | 16<br/>11 | 14<br/>54 | 11<br/>37 | 9<br/>19 | 6<br/>2 | 4<br/>45 | 1<br/>28 | 29<br/>11 | 26<br/>54 | 24<br/>37 | 21<br/>20 | 19<br/>3 | 16<br/>46 | 13<br/>29 | 11<br/>12 | 8<br/>55 | 6<br/>38 | 3<br/>21 | 1<br/>4 | 28<br/>47 | 26<br/>30 | 23<br/>13 | 21<br/>56 | <note>Na</note> |
+| <margin>Saturn</margin> | 8<br/>32<br/>7 | 8<br/>31<br/>31 | 8<br/>31<br/>54 | 8<br/>31<br/>17 | 8<br/>30<br/>41 | 8<br/>30<br/>4 | 8<br/>30<br/>27 | 8<br/>30<br/>50 | 8<br/>30<br/>13 | 8<br/>30<br/>37 | 8<br/>29<br/>0 | 8<br/>29<br/>23 | 8<br/>29<br/>47 | 8<br/>29<br/>10 | 8<br/>29<br/>34 | 8<br/>29<br/>57 | 8<br/>28<br/>21 | 8<br/>28<br/>44 | 8<br/>28<br/>7 | 8<br/>28<br/>31 | 8<br/>28<br/>54 | 8<br/>28<br/>17 | 8<br/>27<br/>41 | 8<br/>27<br/>4 | 8<br/>27<br/>28 | 8<br/>27<br/>51 | 8<br/>27<br/>14 | <note>Ya</note> |
+| <margin><term>Yoga</term><note>Mathematical conjunction or sum</note></margin> | 7<br/>12<br/>39 | 8<br/>31<br/>11 | 9<br/>49<br/>34 | 5<br/>8<br/>17 | 7<br/>26<br/>30 | 7<br/>44<br/>0 | 4<br/>1<br/>17 | 8<br/>19<br/>34 | 3<br/>37<br/>9 | 5<br/>54<br/>47 | 8<br/>12<br/>23 | 8<br/>29<br/>59 | 5<br/>47<br/>35 | 3<br/>5<br/>12 | 6<br/>22<br/>48 | 9<br/>40<br/>25 | 2<br/>58<br/>1 | 5<br/>15<br/>37 | 8<br/>33<br/>14 | 1<br/>50<br/>50 | 4<br/>8<br/>27 | 6<br/>26<br/>3 | 9<br/>43<br/>39 | 2<br/>1<br/>16 | 5<br/>18<br/>53 | 7<br/>36<br/>29 | 9<br/>54<br/>6 | <note>Na</note> |
+
+<margin>Above 7<br/>32</margin> <note>original: "urdhva"; likely a corrective factor for these calculations</note>
+
+<summary>This page contains a detailed astronomical grid for Saturn, correlating its position and the positions of other planets across the 27 lunar mansions (Nakshatras). The calculations include a final "Yoga" row, representing a mathematical summation or conjunction relevant to planetary cycles.</summary>
+<keywords>Saturn, planetary tables, Nakshatras, Indian astronomy, sexagesimal system, Yoga, ephemeris</keywords>
+
+--- Page 83 ---
+<meta>This page continues the astronomical tables for the planet Saturn (Shani), specifically focusing on its position relative to the 27 Nakshatras (lunar mansions). This data is used to calculate the precise longitude of the planet across different years. The values are presented in the traditional Indian format of signs and degrees/minutes.</meta>
+
+# Saturn
+
+| | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 | 26 | 27 | |
+|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| <margin>198</margin> | 11 23 | 11 29 | 11 22 | 11 16 | 11 9 | 11 3 | 10 26 | 10 19 | 10 13 | 10 6 | 9 30 | 9 24 | 9 18 | 9 12 | 9 6 | 9 1 | 8 25 | 8 19 | 8 13 | 8 7 | 8 1 | 7 25 | 7 19 | 7 13 | 7 7 | 7 1 | 6 25 | <note>Addition</note> |
+| | 11 29 | 11 22 | 11 16 | 11 9 | 11 3 | 10 26 | 10 19 | 10 13 | 10 6 | 9 30 | 9 24 | 9 18 | 9 12 | 9 6 | 9 1 | 8 25 | 8 19 | 8 13 | 8 7 | 8 1 | 7 25 | 7 19 | 7 13 | 7 7 | 7 1 | 6 25 | 6 19 | <note>Slow</note> |
+| <margin>199</margin> | 11 6 | 11 1 | 10 25 | 10 19 | 10 13 | 10 7 | 10 2 | 9 26 | 9 20 | 9 14 | 9 8 | 9 2 | 8 26 | 8 21 | 8 15 | 8 9 | 8 4 | 7 28 | 7 22 | 7 16 | 7 10 | 7 4 | 6 29 | 6 23 | 6 17 | 6 11 | 6 6 | 8 |
+| | 11 1 | 10 25 | 10 19 | 10 13 | 10 7 | 10 2 | 9 26 | 9 20 | 9 14 | 9 8 | 9 2 | 8 26 | 8 21 | 8 15 | 8 9 | 8 4 | 7 28 | 7 22 | 7 16 | 7 10 | 7 4 | 6 29 | 6 23 | 6 17 | 6 11 | 6 6 | 6 0 | <note>Motion</note> |
+| <margin>200</margin> | 10 23 | 10 17 | 10 11 | 10 5 | 9 29 | 9 24 | 9 18 | 9 12 | 9 6 | 9 1 | 8 26 | 8 20 | 8 14 | 8 8 | 8 2 | 7 27 | 7 21 | 7 15 | 7 9 | 7 4 | 6 28 | 6 22 | 6 16 | 6 10 | 6 4 | 5 29 | 5 23 | 11 |
+| | 10 17 | 10 11 | 10 5 | 9 29 | 9 24 | 9 18 | 9 12 | 9 6 | 9 1 | 8 26 | 8 20 | 8 14 | 8 8 | 8 2 | 7 27 | 7 21 | 7 15 | 7 9 | 7 4 | 6 28 | 6 22 | 6 16 | 6 10 | 6 4 | 5 29 | 5 23 | 5 17 | 12 |
+| <margin>201</margin> | 10 3 | 9 28 | 9 22 | 9 16 | 9 10 | 9 4 | 8 29 | 8 23 | 8 17 | 8 11 | 8 6 | 8 0 | 7 25 | 7 19 | 7 13 | 7 7 | 7 2 | 6 26 | 6 20 | 6 14 | 6 8 | 6 3 | 5 27 | 5 21 | 5 15 | 5 9 | 5 4 | 7 |
+| | 9 28 | 9 22 | 9 16 | 9 10 | 9 4 | 8 29 | 8 23 | 8 17 | 8 11 | 8 6 | 8 0 | 7 25 | 7 19 | 7 13 | 7 7 | 7 2 | 6 26 | 6 20 | 6 14 | 6 8 | 6 3 | 5 27 | 5 21 | 5 15 | 5 9 | 5 4 | 4 28 | <note>Motion</note> |
+| | 9 13 | 9 7 | 9 2 | 8 26 | 8 20 | 8 14 | 8 9 | 8 3 | 7 28 | 7 22 | 7 17 | 7 11 | 7 5 | 6 29 | 6 24 | 6 18 | 6 12 | 6 7 | 6 1 | 5 26 | 5 20 | 5 14 | 5 9 | 5 3 | 4 27 | 4 22 | 4 16 | 8 |
+| | 9 7 | 9 2 | 8 26 | 8 20 | 8 14 | 8 9 | 8 3 | 7 28 | 7 22 | 7 17 | 7 11 | 7 5 | 6 29 | 6 24 | 6 18 | 6 12 | 6 7 | 6 1 | 5 26 | 5 20 | 5 14 | 5 9 | 5 3 | 4 27 | 4 22 | 4 16 | 4 10 | <note>Motion</note> |
+
+<note>original: "dha" (addition), "ma" (slow/manda), and "ga" (motion/gati) are technical abbreviations used in Sanskrit astronomical texts to indicate the type of mathematical correction or the state of the planet's movement.</note>
+
+<summary>This page presents a detailed astronomical ephemeris for Saturn across years 198 to 201, organized by the 27 Nakshatras (lunar mansions). It tracks the planet's longitude and provides corrections for its varying speed and motion.</summary>
+<keywords>Saturn, Shani, Nakshatras, Ephemeris, Hindu Astronomy, Jyotisha, Lunar Mansions, Planetary Motion</keywords>
+
+--- Page 84 ---
+<meta>This page continues the technical astronomical data for Saturn (Shani). While the previous page provided longitudinal values (signs and degrees) across specific cycles or years, this page presents a complex table cross-referencing Saturn’s position or motion with the other seven traditional planets across the 27 Nakshatras (lunar mansions). This is likely a table of mean motions or offsets used for precise planetary alignment calculations.</meta>
+
+->Saturn<-
+
+# Saturn
+
+| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 | 26 | 27 | <note>Nakshatra</note> |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 0 54 | 1 23 | 1 52 | 2 21 | 2 50 | 3 18 | 3 47 | 4 16 | 4 45 | 5 14 | 5 43 | 6 12 | 6 41 | 7 10 | 7 39 | 8 8 | 8 37 | 9 6 | 9 35 | 10 4 | 10 33 | 11 2 | 11 31 | 12 0 | 12 29 | 12 58 | 13 27 | Sun <note>original: "Sū"</note> |
+| 9 8 | 18 16 | 27 24 | 6 32 | 15 40 | 24 48 | 3 56 | 13 4 | 22 12 | 1 20 | 10 28 | 19 36 | 28 44 | 7 52 | 17 0 | 26 8 | 5 16 | 14 24 | 23 32 | 2 40 | 11 48 | 20 56 | 0 4 | 9 12 | 18 20 | 27 28 | 6 36 | Moon <note>original: "Chaṃ"</note> |
+| 1 37 | 3 14 | 4 51 | 6 28 | 8 5 | 9 42 | 11 19 | 12 56 | 14 33 | 16 10 | 17 47 | 19 24 | 21 1 | 22 38 | 24 15 | 25 52 | 27 29 | 29 6 | 0 43 | 2 20 | 3 57 | 5 34 | 7 11 | 8 48 | 10 25 | 12 2 | 13 39 | Mars <note>original: "Maṃ"</note> |
+| 2 55 | 5 50 | 8 45 | 11 40 | 14 35 | 17 30 | 20 25 | 23 20 | 26 15 | 29 10 | 2 5 | 5 0 | 7 55 | 10 50 | 13 45 | 16 40 | 19 35 | 22 30 | 25 25 | 28 20 | 1 15 | 4 10 | 7 5 | 10 0 | 12 55 | 15 50 | 18 45 | Mercury <note>original: "Bu"</note> |
+| 9 41 | 19 22 | 29 3 | 8 44 | 18 25 | 28 6 | 7 47 | 17 28 | 27 9 | 6 50 | 16 31 | 26 12 | 5 53 | 15 34 | 25 15 | 4 56 | 14 37 | 24 18 | 3 59 | 13 40 | 23 21 | 2 57 | 12 43 | 22 24 | 2 5 | 11 46 | 21 27 | Jupiter <note>original: "Gu"</note> |
+| 14 7 | 28 14 | 12 21 | 26 28 | 10 35 | 24 42 | 8 49 | 22 56 | 6 3 | 21 10 | 5 17 | 19 24 | 3 31 | 17 38 | 1 45 | 15 52 | 29 59 | 14 6 | 28 13 | 12 20 | 26 27 | 10 34 | 24 41 | 8 48 | 22 55 | 6 2 | 21 9 | Venus <note>original: "Shu"</note> |
+| 1 7 | 2 14 | 3 21 | 4 28 | 5 35 | 6 42 | 7 49 | 8 56 | 10 3 | 11 10 | 12 17 | 13 24 | 14 31 | 15 38 | 16 45 | 17 52 | 18 59 | 20 6 | 21 13 | 22 20 | 23 27 | 24 34 | 25 41 | 26 48 | 27 55 | 29 2 | 0 9 | Saturn <note>original: "Sha"</note> |
+| | | | | | | | | | | | | | | | | | | | | | | | | | | | Motion <note>original: "Ga", for Gati</note> |
+
+<summary>A detailed mathematical ephemeris table for Saturn, listing values (likely degrees and minutes) relative to the 27 Nakshatras and the other major celestial bodies. This serves as a reference for calculating precise planetary positions in Indian astronomy.</summary>
+<keywords>Saturn, Shani, Nakshatras, planetary motion, Jyotisha, astronomical table, Surya, Chandra, Mangala, Budha, Guru, Shukra, Gati</keywords>
+
+--- Page 85 ---
+<meta>This page continues the detailed technical tables for Saturn (Shani). While the previous page likely dealt with broader cycles, this page provides a granular table of increments. The values are organized into 26 columns, with a 27th column labeled "M" for "Mean Position" (<term>Madhyama: the average position of a planet assuming a circular orbit</term>). These tables allowed ancient astronomers to calculate the precise longitudinal position of Saturn by adding these incremental values to a base epoch.</meta>
+
+->Saturn<-
+
+# Saturn
+
+<margin>28</margin>
+| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 | 26 | Mean <note>original: "Ma"</note> |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 0 8 40 | 0 9 20 | 0 10 0 | 0 10 40 | 0 11 20 | 0 12 0 | 0 12 40 | 0 13 20 | 0 14 0 | 0 14 40 | 0 15 20 | 0 16 0 | 0 16 40 | 0 17 20 | 0 18 0 | 0 18 40 | 0 19 20 | 0 20 0 | 0 20 40 | 0 21 20 | 0 22 0 | 0 22 40 | 0 23 20 | 0 24 0 | 0 24 40 | 0 25 20 | 7 4 28 57 |
+| 0 27 20 | 0 28 0 | 0 28 40 | 0 29 20 | 0 30 0 | 0 30 40 | 0 31 20 | 0 32 0 | 0 32 40 | 0 33 20 | 0 34 0 | 0 34 40 | 0 35 20 | 0 36 0 | 0 36 40 | 0 37 20 | 0 38 0 | 0 38 40 | 0 39 20 | 0 40 0 | 0 40 40 | 0 41 20 | 0 42 0 | 0 42 40 | 0 43 20 | 0 44 0 | 7 7 5 9 |
+
+<margin>22</margin>
+| 0 46 0 | 0 46 40 | 0 47 20 | 0 48 0 | 0 48 40 | 0 49 20 | 0 50 0 | 0 50 40 | 0 51 20 | 0 52 0 | 0 52 40 | 0 53 20 | 0 54 0 | 0 54 40 | 0 55 20 | 0 56 0 | 0 56 40 | 0 57 20 | 0 58 0 | 0 58 40 | 0 59 20 | 1 0 0 | 1 0 40 | 1 1 20 | 1 2 0 | 1 2 40 | 8 0 30 54 |
+| 1 4 40 | 1 5 20 | 1 6 0 | 1 6 40 | 1 7 20 | 1 8 0 | 1 8 40 | 1 9 20 | 1 10 0 | 1 10 40 | 1 11 20 | 1 12 0 | 1 12 40 | 1 13 20 | 1 14 0 | 1 14 40 | 1 15 20 | 1 16 0 | 1 16 40 | 1 17 20 | 1 18 0 | 1 18 40 | 1 19 20 | 1 20 0 | 1 20 40 | 1 21 20 | 8 4 3 57 |
+
+<margin>5</margin>
+| 1 23 20 | 1 24 0 | 1 24 40 | 1 25 20 | 1 26 0 | 1 26 40 | 1 27 20 | 1 28 0 | 1 28 40 | 1 29 20 | 1 30 0 | 1 30 40 | 1 31 20 | 1 32 0 | 1 32 40 | 1 33 20 | 1 34 0 | 1 34 40 | 1 35 20 | 1 36 0 | 1 36 40 | 1 37 20 | 1 38 0 | 1 38 40 | 1 39 20 | 1 40 0 | 8 7 37 0 |
+
+<margin>3</margin>
+| 1 42 0 | 1 42 40 | 1 43 20 | 1 44 0 | 1 44 40 | 1 45 20 | 1 46 0 | 1 46 40 | 1 47 20 | 1 48 0 | 1 48 40 | 1 49 20 | 1 50 0 | 1 50 40 | 1 51 20 | 1 52 0 | 1 52 40 | 1 53 20 | 1 54 0 | 1 54 40 | 1 55 20 | 1 56 0 | 1 56 40 | 1 57 20 | 1 58 0 | 1 58 40 | 8 11 10 3 |
+| 2 0 40 | 2 1 20 | 2 2 0 | 2 2 40 | 2 3 20 | 2 4 0 | 2 4 40 | 2 5 20 | 2 6 0 | 2 6 40 | 2 7 20 | 2 8 0 | 2 8 40 | 2 9 20 | 2 10 0 | 2 10 40 | 2 11 20 | 2 12 0 | 2 12 40 | 2 13 20 | 2 14 0 | 2 14 40 | 2 15 20 | 2 16 0 | 2 16 40 | 2 17 20 | 8 14 43 6 |
+
+<note>The values in the columns appear to be in arc-minutes and arc-seconds, increasing by 40 units per step. The final column (Mean) represents the resulting planetary longitude in Signs, Degrees, Minutes, and Seconds (S D M S).</note>
+
+<summary>This page presents a mathematical lookup table for Saturn's mean motion, using a consistent incremental progression to calculate planetary longitude. It serves as a computational tool for astronomers to track Saturn's slow movement across the zodiac.</summary>
+<keywords>Saturn, Shani, Mean Motion, Madhyama, Astronomy, Jyotisha, Ephemeris, Mathematical Table</keywords>
+
+--- Page 86 ---
+<meta>This page continues the technical mathematical tables for Saturn (Shani), following the previous page's focus on mean position increments. This specific table provides finer calculations across the 27 lunar mansions (Nakshatras), which are divisions of the sky used in Vedic astrology to track planetary movement.</meta>
+
+->Saturn<-
+
+### Saturn
+
+| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 | 26 | 27 | <term>Degrees</term> <note>original: "A"</note> |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 9 | 19 | 28 | 8 | 18 | 27 | 7 | 16 | 26 | 6 | 16 | 25 | 5 | 15 | 24 | 4 | 14 | 23 | 3 | 13 | 22 | 2 | 11 | 21 | 1 | 10 | 20 | 25 |
+| 36 | 13 | 50 | 27 | 4 | 41 | 18 | 55 | 32 | 9 | 46 | 23 | 0 | 37 | 14 | 51 | 28 | 5 | 42 | 19 | 56 | 33 | 10 | 47 | 24 | 1 | 38 | 2 |
+| 58 | 46 | 35 | 24 | 13 | 1 | 50 | 39 | 27 | 16 | 4 | 53 | 41 | 30 | 18 | 7 | 55 | 44 | 33 | 21 | 10 | 59 | 47 | 36 | 24 | 13 | 2 | <term>Mean Position</term> <note>original: "Ma"</note> |
+| 4 | 9 | 13 | 18 | 22 | 27 | 31 | 36 | 40 | 45 | 50 | 54 | 59 | 4 | 9 | 13 | 18 | 22 | 27 | 31 | 36 | 40 | 45 | 50 | 55 | 59 | 4 | <term>Saturn</term> <note>original: "Sha"</note> |
+
+<note>This table is a computational tool. The numbers in the columns likely represent the "Kala" (minutes) and "Vikala" (seconds) of arc that Saturn traverses. Because Saturn is the slowest of the traditional planets, these precise increments were vital for casting accurate horoscopes.</note>
+
+<summary>This page contains a numerical grid for calculating the position of Saturn across the 27 Nakshatras (lunar mansions). It provides incremental values for determining the planet's mean position and its specific longitudinal coordinates.</summary>
+<keywords>Saturn, Shani, Nakshatras, Ephemeris, Mean Position, Vedic Astronomy, Jyotisha, Degrees</keywords>
+
+--- Page 87 ---
+<meta>This page continues the technical mathematical tables for Saturn (Shani), specifically focusing on the planet's longitudinal progression over time. It maintains the same structural layout as the previous folio, providing high-precision data for astronomical calculations.</meta>
+
+# Saturn
+
+<margin>38</margin>
+
+| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 | 26 | |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 5 | 5 | 5 | 5 | 28 |
+| 2 | 3 | 4 | 6 | 7 | 9 | 10 | 11 | 13 | 14 | 15 | 17 | 18 | 19 | 20 | 22 | 23 | 24 | 25 | 27 | 28 | 29 | 0 | 1 | 3 | 4 | <term>Mansion</term> <note>original: "Ga" (Gata/Elapsed?)</note> |
+| 5 | 15 | 26 | 7 | 28 | 9 | 20 | 30 | 11 | 22 | 33 | 4 | 14 | 25 | 36 | 7 | 18 | 29 | 39 | 10 | 21 | 32 | 43 | 53 | 4 | 15 | <term>Star</term> <note>original: "Na" (Nakshatra)</note> |
+| 7 | 57 | 46 | 35 | 24 | 13 | 2 | 51 | 40 | 29 | 18 | 7 | 56 | 45 | 34 | 23 | 12 | 1 | 50 | 39 | 28 | 17 | 6 | 55 | 44 | 33 | 30 |
+| 58 | 13 | 28 | 43 | 58 | 13 | 28 | 43 | 58 | 13 | 28 | 43 | 58 | 13 | 28 | 43 | 58 | 13 | 28 | 43 | 58 | 13 | 28 | 43 | 58 | 13 | <term>Mansion</term> <note>original: "Ga" (Gata/Elapsed?)</note> |
+| 11 | 10 | 9 | 9 | 9 | 9 | 9 | 8 | 8 | 8 | 8 | 8 | 7 | 7 | 7 | 7 | 7 | 6 | 6 | 6 | 6 | 6 | 5 | 5 | 5 | 5 | <term>Star</term> <note>original: "Na" (Nakshatra)</note> |
+| 20 | 8 | 56 | 44 | 32 | 20 | 8 | 56 | 44 | 32 | 20 | 8 | 56 | 44 | 32 | 20 | 8 | 56 | 44 | 32 | 20 | 8 | 56 | 44 | 32 | 20 | 32 |
+| | | | | | | | | | | | | | | | | | | | | | | | | | | <term>Mansion</term> <note>original: "Ga" (Gata/Elapsed?)</note> |
+
+<margin>511</margin>
+
+<note>This numerical grid functions as an ephemeris for Saturn. The repeated values in the lower rows (such as 58, 13, 28, 43) represent the constant mean daily motion or periodic increments of the planet. Because Saturn takes nearly 30 years to orbit the Sun, its daily movement is very small, requiring these precise tables to calculate its position for specific dates and times.</note>
+
+<summary>This page presents a detailed mathematical table used to track the movement of Saturn through the zodiac and lunar mansions. It provides high-precision increments for degrees, minutes, and seconds of arc, essential for constructing accurate astronomical calendars and horoscopes.</summary>
+<keywords>Saturn, Shani, Ephemeris, Vedic Astronomy, Mathematical Tables, Degrees, Minutes, Seconds, Nakshatras</keywords>
+
+--- Page 88 ---
+<meta>This page continues the astronomical tables for Saturn (Shani), following the previous calculations of longitudinal positions. The data here likely provides mean motions (Madhyama) and specific adjustments (Gati) for the planet across various time cycles, organized in a high-precision grid common in 18th and 19th-century Sanskrit astronomical manuscripts (Siddhantas or Karanas).</meta>
+
+### Saturn
+
+<margin>7</margin>
+<margin>Kha <note>Sanskrit "Kha" literally means "sky" or "void," often used in astronomical notation to represent zero or a specific celestial reference point.</note></margin>
+<margin>Ma <note>Abbreviation for Madhyama, meaning the "mean" or average position of the planet.</note></margin>
+<margin>Thus 4.</margin>
+
+| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 | 26 | Motion <note>original: "ga" (gati)</note> |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 7 <br> 28 <br> 5 <br> 20 | 7 <br> 3 <br> 10 <br> 40 | 6 <br> 7 <br> 18 <br> 10 | 5 <br> 11 <br> 25 <br> 40 | 4 <br> 15 <br> 33 <br> 10 | 3 <br> 19 <br> 40 <br> 40 | 2 <br> 23 <br> 48 <br> 10 | 1 <br> 27 <br> 55 <br> 40 | 1 <br> 2 <br> 3 <br> 10 | 0 <br> 6 <br> 11 <br> 40 | 11 <br> 10 <br> 18 <br> 50 | 10 <br> 14 <br> 26 <br> 20 | 9 <br> 18 <br> 33 <br> 50 | 8 <br> 22 <br> 41 <br> 20 | 7 <br> 26 <br> 48 <br> 50 | 7 <br> 0 <br> 56 <br> 20 | 6 <br> 5 <br> 4 <br> 50 | 5 <br> 9 <br> 11 <br> 20 | 4 <br> 13 <br> 18 <br> 50 | 3 <br> 17 <br> 26 <br> 20 | 2 <br> 21 <br> 33 <br> 50 | 1 <br> 25 <br> 41 <br> 20 | 0 <br> 29 <br> 48 <br> 50 | 0 <br> 4 <br> 56 <br> 20 | 11 <br> 8 <br> 3 <br> 50 | 10 <br> 12 <br> 11 <br> 20 | 21 <br> 59 <br> Mean |
+| 8 <br> 38 <br> 7 <br> 20 | 7 <br> 13 <br> 15 <br> 40 | 6 <br> 17 <br> 23 <br> 10 | 5 <br> 21 <br> 30 <br> 40 | 4 <br> 25 <br> 38 <br> 10 | 3 <br> 29 <br> 45 <br> 40 | 3 <br> 3 <br> 53 <br> 10 | 2 <br> 8 <br> 0 <br> 40 | 1 <br> 12 <br> 8 <br> 10 | 0 <br> 16 <br> 15 <br> 40 | 11 <br> 20 <br> 23 <br> 10 | 10 <br> 24 <br> 30 <br> 40 | 9 <br> 28 <br> 38 <br> 10 | 9 <br> 2 <br> 45 <br> 40 | 8 <br> 7 <br> 53 <br> 10 | 7 <br> 12 <br> 1 <br> 10 | 6 <br> 16 <br> 8 <br> 50 | 5 <br> 20 <br> 16 <br> 20 | 4 <br> 24 <br> 23 <br> 50 | 3 <br> 28 <br> 31 <br> 20 | 2 <br> 2 <br> 38 <br> 50 | 1 <br> 7 <br> 46 <br> 20 | 0 <br> 11 <br> 53 <br> 50 | 10 <br> 16 <br> 1 <br> 20 | 9 <br> 20 <br> 8 <br> 50 | 8 <br> 24 <br> 16 <br> 20 | 38 <br> 7 <br> Mean |
+| 8 <br> 32 <br> 9 <br> 20 | 7 <br> 6 <br> 22 <br> 5 | 6 <br> 10 <br> 34 <br> 5 | 5 <br> 14 <br> 47 <br> 0 | 4 <br> 19 <br> 59 <br> 5 | 3 <br> 23 <br> 11 <br> 5 | 2 <br> 27 <br> 24 <br> 0 | 1 <br> 1 <br> 36 <br> 5 | 0 <br> 5 <br> 49 <br> 5 | 11 <br> 10 <br> 1 <br> 5 | 10 <br> 14 <br> 13 <br> 5 | 9 <br> 18 <br> 26 <br> 5 | 8 <br> 22 <br> 38 <br> 5 | 7 <br> 26 <br> 51 <br> 5 | 6 <br> 1 <br> 3 <br> 10 | 5 <br> 5 <br> 15 <br> 15 | 4 <br> 9 <br> 28 <br> 10 | 3 <br> 13 <br> 40 <br> 15 | 2 <br> 17 <br> 53 <br> 10 | 1 <br> 22 <br> 5 <br> 15 | 0 <br> 26 <br> 18 <br> 10 | 11 <br> 0 <br> 30 <br> 15 | 9 <br> 4 <br> 43 <br> 10 | 8 <br> 8 <br> 55 <br> 15 | 7 <br> 13 <br> 8 <br> 10 | 6 <br> 17 <br> 20 <br> 15 | 32 <br> 9 <br> Mean |
+| 21 <br> 40 <br> 20 | 22 <br> 50 <br> 50 | 23 <br> 2 <br> 5 | 23 <br> 23 <br> 31 | 21 <br> 22 <br> 42 | 21 <br> 24 <br> 5 | 21 <br> 20 <br> 34 | 21 <br> 11 <br> 42 | 18 <br> 5 <br> 0 | 18 <br> 50 <br> 0 | 20 <br> 5 <br> 40 | 20 <br> 25 <br> 20 | 16 <br> 5 <br> 45 | 16 <br> 45 <br> 30 | 17 <br> 15 <br> 15 | 18 <br> 5 <br> 0 | 19 <br> 45 <br> 50 | 21 <br> 10 <br> 40 | 22 <br> 35 <br> 30 | 23 <br> 55 <br> 20 | 25 <br> 15 <br> 10 | 26 <br> 40 <br> 40 | 28 <br> 5 <br> 30 | 29 <br> 30 <br> 15 | 30 <br> 55 <br> 0 | 30 <br> 30 <br> 50 | 27 <br> 7 <br> Mean |
+| 3 <br> 5 <br> 3 | 21 <br> 5 <br> 6 | 4 <br> 9 <br> 2 | 3 <br> 7 <br> 3 | 4 <br> 3 <br> 4 | 8 <br> 5 <br> 7 | 3 <br> 5 <br> 4 | 5 <br> 3 <br> 4 | 4 <br> 3 <br> 4 | 3 <br> 2 <br> 4 | 2 <br> 2 <br> 4 | 1 <br> 2 <br> 4 | 5 <br> 7 <br> 9 | 2 <br> 5 <br> 5 | 3 <br> 6 <br> 3 | 4 <br> 4 <br> 4 | 7 <br> 9 <br> 8 | 6 <br> 9 <br> 4 | 5 <br> 3 <br> 3 | 7 <br> 7 <br> 7 | 5 <br> 3 <br> 5 | 3 <br> 7 <br> 5 | 4 <br> 4 <br> 4 | 3 <br> 5 <br> 5 | 5 <br> 4 <br> 7 | 4 <br> 7 <br> 9 | 24 <br> 8 <br> Motion |
+
+<summary>This page presents a detailed mathematical table (ephemeris) for the planet Saturn, containing mean positions (Madhyama) and motion values (Gati) across 26 columns. These calculations are essential for determining the planet's exact astrological and astronomical placement in the Hindu calendar system.</summary>
+<keywords>Saturn, Shani, Ephemeris, Indian Astronomy, Jyotish, Madhyama, Gati, Mathematical Tables</keywords>
+
+--- Page 89 ---
+<meta>This page continues the mathematical documentation of the planet Saturn (Shani), following the longitudinal calculations from the previous page. While the previous section focused on cumulative positions, this page provides precise "Mean Motion" (Madhyama Gati) tables. These tables allow an astronomer to calculate Saturn's average movement over days and 25-day cycles by simply adding values from the grid.</meta>
+
+# Saturn
+
+<margin>1</margin>
+
+| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 | | |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | Signs <note>original: "Rā" (Rāśi)</note> | Void <note>original: "Kha"</note> |
+| 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | Degrees <note>original: "Aṃ" (Aṃśa)</note> | Mean <note>original: "Ma" (Madhyama)</note> |
+| 2 | 4 | 6 | 8 | 10 | 12 | 14 | 16 | 18 | 20 | 22 | 24 | 26 | 28 | 30 | 32 | 34 | 36 | 38 | 40 | 42 | 44 | 46 | 48 | 50 | Minutes <note>original: "Ka" (Kalā)</note> | Minutes |
+| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 | Seconds <note>original: "Vi" (Vikalā)</note> | Thirds <note>original: "Pra" (Prativikalā)</note> |
+
+<note>Table 1 provides the daily motion of Saturn for a period of 1 to 25 days. The calculation is based on Saturn moving approximately 2 minutes and 1 second of arc per day.</note>
+
+---
+
+<margin>2</margin>
+
+| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 | | |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | Signs <note>original: "Rā"</note> | Degrees <note>original: "Aṃ"</note> |
+| 0 | 1 | 2 | 3 | 4 | 5 | 5 | 6 | 7 | 8 | 9 | 10 | 10 | 11 | 12 | 13 | 14 | 15 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | Degrees <note>original: "Aṃ"</note> | Mean <note>original: "Ma"</note> |
+| 50 | 40 | 31 | 21 | 12 | 2 | 53 | 43 | 34 | 24 | 15 | 5 | 56 | 46 | 37 | 27 | 18 | 8 | 58 | 49 | 39 | 29 | 20 | 10 | 0 | Minutes <note>original: "Ka"</note> | Minutes |
+| 25 | 50 | 15 | 40 | 5 | 30 | 55 | 20 | 45 | 10 | 35 | 0 | 25 | 50 | 15 | 40 | 5 | 30 | 55 | 20 | 45 | 10 | 35 | 0 | 25 | Seconds <note>original: "Vi"</note> | Thirds <note>original: "Pra"</note> |
+
+<note>Table 2 provides the cumulative motion for intervals of 25 days. For example, Column 1 represents 25 days (50' 25"), and Column 2 represents 50 days (1° 40' 50"). By combining these two tables, an astronomer could find the position of Saturn for any number of days in the year.</note>
+
+<note>Terminology:
+- <term>Signs (Rashi)</term>: One of the 12 divisions of the zodiac (30 degrees each).
+- <term>Degrees (Ansha)</term>: Standard units of circular measure.
+- <term>Minutes (Kala)</term>: 1/60th of a degree.
+- <term>Seconds (Vikala)</term>: 1/60th of a minute.
+- <term>Thirds (Prativikala)</term>: 1/60th of a second, used for high-precision calculations.</note>
+
+<summary>This page presents two astronomical lookup tables for the mean motion of Saturn, detailing its movement in increments of single days and 25-day blocks. The precision extends to 'thirds' (1/216,000th of a degree), illustrating the sophisticated mathematical techniques used in traditional Indian astronomy (Jyotisha).</summary>
+<keywords>Saturn, Shani, mean motion, Jyotisha, astronomical tables, Hindu mathematics, Rashi, degrees, minutes, seconds</keywords>
+
+--- Page 90 ---
+<meta>This page continues the specific mathematical corrections for Saturn, focusing on retrograde motion and anomalies (Chalana). While the previous page provided the mean (average) motion, this section provides the "equation" tables used to adjust that mean position to find the "true" position of the planet as seen from Earth.</meta>
+
+# Saturn
+
+| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 | 26 | |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| <margin>3</margin> 4 | 9 | 14 | 19 | 24 | 29 | 4 | 9 | 14 | 19 | 24 | 29 | 3 | 8 | 13 | 18 | 23 | 28 | 3 | 8 | 13 | 18 | 23 | 28 | 3 | 8 | Movement <note>original: "Cha" (Chalana). This refers to the orbital anomaly.</note> |
+| 52 | 12 | 12 | 13 | 13 | 14 | 15 | 16 | 16 | 17 | 18 | 19 | 2 | 10 | 17 | 24 | 32 | 39 | 46 | 54 | 1 | 8 | 16 | 23 | 31 | 38 | : |
+| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 | 1 | 1 | 1 | 1 | Retrograde <note>original: "Va" (Vakra). Values related to the planet's backward-appearing motion.</note> |
+| 7 | 7 | 8 | 8 | 9 | 10 | 10 | 11 | 12 | 13 | 13 | 14 | 14 | 14 | 14 | 14 | 14 | 14 | 14 | 14 | 14 | 14 | 14 | 14 | 14 | 14 | : |
+| <margin>32</margin> 42 | 21 | 59 | 38 | 18 | 43 | 7 | 31 | 54 | 17 | 40 | 3 | 27 | 51 | 14 | 38 | 1 | 25 | 49 | 12 | 36 | 0 | 23 | 47 | 10 | 34 | Motion <note>original: "Ga" (Gati). Specific velocity adjustments.</note> |
+| 3 | 4 | 4 | 5 | 6 | 7 | 8 | 8 | 9 | 10 | 11 | 11 | 10 | 10 | 10 | 10 | 9 | 9 | 9 | 9 | 8 | 8 | 8 | 8 | 7 | 7 | : |
+| 9 | 2 | 25 | 9 | 13 | 17 | 21 | 25 | 30 | 34 | 38 | 42 | 46 | 50 | 54 | 58 | 2 | 6 | 10 | 14 | 18 | 22 | 26 | 30 | 34 | 38 | Degrees <note>original: "A" (Aṃśa).</note> |
+| 27 | 21 | 48 | 52 | 39 | 46 | 21 | 54 | 16 | 19 | 41 | 3 | 4 | 24 | 43 | 3 | 23 | 42 | 1 | 19 | 38 | 56 | 14 | 33 | 51 | 9 | : |
+| <margin>6</margin> 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 | 26 | Calculation <note>original: "Ja" (likely Jyā, sine-based index for trigonometric corrections).</note> |
+| 6 | 12 | 19 | 26 | 32 | 39 | 46 | 53 | 59 | 6 | 13 | 20 | 27 | 34 | 41 | 48 | 55 | 1 | 8 | 15 | 22 | 29 | 36 | 43 | 50 | 57 | : |
+| 21 | 42 | 24 | 0 | 43 | 24 | 10 | 54 | 38 | 10 | 43 | 24 | 6 | 54 | 31 | 7 | 44 | 21 | 57 | 34 | 10 | 47 | 24 | 1 | 38 | 15 | Motion <note>original: "Ga" (Gati).</note> |
+| 3 | 7 | 10 | 13 | 16 | 19 | 23 | 26 | 29 | 33 | 36 | 39 | 43 | 46 | 49 | 53 | 56 | 59 | 3 | 6 | 10 | 13 | 16 | 20 | 23 | 26 | : |
+| <margin>10</margin> 8 | 17 | 25 | 34 | 42 | 51 | 0 | 31 | 25 | 33 | 42 | 50 | 10 | 16 | 42 | 7 | 4 | 20 | 9 | 30 | 6 | 35 | 42 | 50 | 3 | 29 | Retrograde <note>original: "Va" (Vakra or Vara).</note> |
+| 48 | 35 | 22 | 9 | 57 | 44 | 31 | 18 | 5 | 52 | 39 | 26 | 3 | 27 | 51 | 14 | 38 | 1 | 25 | 49 | 12 | 36 | 0 | 23 | 47 | 34 | Motion <note>original: "Ga" (Gati).</note> |
+
+<summary>This manuscript page contains complex astronomical tables (Sarani) for calculating the precise movement and retrograde positions of Saturn. The grid provides pre-calculated values for "Chalana" (anomaly) and "Vakra" (retrograde) motion to assist in determining the planet's true longitude.</summary>
+<keywords>Saturn, Shani, Sarani, Jyotisha, planetary tables, retrograde motion, Indian astronomy, Chalana, Gati</keywords>
+
+--- Page 91 ---
+<meta>This page continues the mathematical adjustments for Saturn (Shani). While the previous page likely calculated the "Equation of Center" or "Motion" (Gati), this page provides a comprehensive grid of coefficients across the 27 Nakshatras (lunar mansions). These values are essential for calculating the true longitude of Saturn by applying corrections to its mean position.</meta>
+
+### Saturn
+
+<margin>
+55
+
+96
+
+Dhu <note>Possibly a shorthand for a specific astronomical constant or 'Dhruva' (fixed point/epoch value).</note>
+</margin>
+
+<gloss>12</gloss>
+
+| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 | 26 | 27 | Motion <note>original: "Ga" (Gati)</note> |
+|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+| 9/14 | 11/24 | 4/31 | 2/40 | 12/50 | 3/9 | 7/21 | 10/45 | 8/12 | 2/45 | 10/9 | 12/14 | 4/24 | 7/5 | 9/5 | 4/21 | 7/10 | 11/30 | 6/30 | 3/5 | 4/5 | 6/5 | 6/22 | 5/45 | 5/15 | 4/55 | 4/9 | Mean <note>original: "Ma" (Madhyama)</note> |
+| 5/30 | 7/40 | 10/10 | 6/20 | 15/30 | 22/10 | 12/50 | 10/28 | 9/14 | 5/15 | 19/12 | 15/20 | 8/20 | 10/25 | 12/40 | 8/15 | 8/50 | 14/22 | 7/25 | 3/55 | 5/15 | 7/30 | 7/51 | 6/20 | 6/55 | 5/45 | 5/28 | 4 |
+| 4/50 | 9/28 | 15/30 | 12/40 | 19/25 | 29/30 | 18/15 | 16/20 | 13/9 | 8/12 | 31/25 | 23/15 | 12/5 | 15/5 | 18/10 | 13/10 | 13/24 | 20/30 | 10/4 | 6/4 | 7/50 | 11/9 | 11/35 | 9/12 | 10/9 | 8/50 | 8/14 | Mean <note>original: "Ma" (Madhyama)</note> |
+| 23/55 | 35/5 | 2/5 | 4/12 | 21/30 | 32/50 | 23/55 | 21/50 | 17/40 | 10/54 | 42/10 | 30/50 | 16/44 | 20/25 | 24/38 | 18/2 | 19/5 | 28/25 | 14/50 | 8/15 | 10/4 | 15/12 | 16/12 | 12/30 | 13/50 | 11/44 | 11/3 | 3 |
+| 6/12 | 5/9 | 4/43 | 4/21 | 3/12 | 2/38 | 1/5 | 1/51 | 1/39 | 3/3 | 2/52 | 2/4 | 1/59 | 1/44 | 1/21 | 1/48 | 1/35 | 1/22 | 1/12 | 1/51 | 1/53 | 1/36 | 1/23 | 1/13 | 1/4 | 1/9 | 1/1 | Constant <note>original: "Na" (likely for Nakshatra-correction or Nija-correction)</note> |
+| 5/9 | 3/12 | <unclear>7</unclear> | <unclear>34</unclear> | | | | | | | | | | | | | | | | | | | | | | | | 5 |
+
+<margin>
+Mean 4 Mean 3 Constant 5 Constant 6 Constant 7 Constant 8 <note>Indices for referencing rows in further calculations.</note>
+</margin>
+
+<note>The table lists 27 columns corresponding to the Nakshatras. The numerical pairs (e.g., 9/14) typically represent degrees and minutes. The shorthand "Ma" (Mean) and "Na" (Constant) suggests this is an almanac page for determining Saturn's precise mathematical position by applying specific corrections derived from these table values.</note>
+
+<summary>This page contains a detailed astronomical table for Saturn, providing mean motion values and corrective constants across the 27 Nakshatras (lunar mansions). These mathematical values allow an astrologer or astronomer to calculate the planet's exact position in the zodiac.</summary>
+<keywords>Saturn, Shani, Nakshatras, Mean Motion, Jyotisha, astronomical tables, Sanskrit numerals, ephemeris</keywords>
+
+--- Page 92 ---
+<meta>This page continues the specific mathematical tables for Saturn (Shani), following the general adjustments discussed previously. The focus here is on tabular data corresponding to the 27 Nakshatras (lunar mansions), providing precise values for the planet's motion and corrections.</meta>
+
+<page-num>41</page-num>
+
+-> ### Saturn <-
+
+### Saturn
+
+| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 | 26 | 27 | |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 1 7 <br> 33 55 | 1 7 <br> 7 50 | 1 6 <br> 41 45 | 1 6 <br> 15 40 | 1 5 <br> 49 35 | 1 5 <br> 23 30 | 1 4 <br> 57 25 | 1 4 <br> 31 20 | 1 4 <br> 5 15 | 1 3 <br> 39 10 | 1 3 <br> 13 5 | 1 2 <br> 47 0 | 1 2 <br> 20 55 | 1 1 <br> 54 50 | 1 1 <br> 28 45 | 1 1 <br> 2 40 | 1 0 <br> 36 35 | 1 0 <br> 10 30 | 0 59 <br> 44 25 | 0 59 <br> 18 20 | 0 58 <br> 52 15 | 0 58 <br> 26 10 | 0 58 <br> 0 5 | 0 57 <br> 34 0 | 0 57 <br> 7 55 | 0 56 <br> 41 50 | 0 56 <br> 15 45 | Correction <br> 53 <note>original: "Ca" (Cara)</note> |
+| 33 7 <br> 9 28 | 7 49 <br> 6 28 | 42 27 <br> 3 28 | 16 6 <br> 0 28 | 50 25 <br> 47 27 | 24 44 <br> 21 27 | 58 3 <br> 16 27 | 32 22 <br> 9 27 | 6 41 <br> 6 27 | 41 0 <br> 3 27 | 15 20 <br> 0 27 | 49 38 <br> 57 26 | 24 57 <br> 54 26 | 0 17 <br> 51 26 | 35 35 <br> 48 26 | 10 54 <br> 45 26 | 46 13 <br> 42 26 | 21 31 <br> 39 26 | 56 50 <br> 36 26 | 32 9 <br> 33 26 | 7 28 <br> 30 26 | 42 47 <br> 27 26 | 18 6 <br> 24 26 | 53 25 <br> 21 26 | 28 43 <br> 18 26 | 4 2 <br> 15 26 | 40 20 <br> 12 26 | 112 <br> Motion <note>original: "Ga" (Gati)</note> |
+| 4 6 55 <br> 4 5 5 5 | 5 9 59 <br> 4 5 9 0 | 6 15 4 <br> 5 0 20 | 7 20 9 <br> 5 0 51 | 8 25 13 <br> 5 1 21 | 9 30 18 <br> 5 1 52 | 10 35 22 <br> 5 2 23 | 11 40 27 <br> 5 2 54 | 12 45 31 <br> 5 3 25 | 13 50 36 <br> 5 3 55 | 14 55 40 <br> 5 4 26 | 15 60 45 <br> 5 4 57 | 16 6 5 49 <br> 5 5 28 | 17 10 54 <br> 5 5 59 | 18 16 58 <br> 5 6 30 | 19 21 3 <br> 5 7 0 | 20 26 7 <br> 5 7 31 | 21 31 12 <br> 5 8 2 | 22 36 16 <br> 5 8 33 | 23 41 21 <br> 5 9 4 | 24 46 25 <br> 5 9 35 | 25 51 30 <br> 5 10 6 | 26 56 34 <br> 5 10 37 | 27 1 39 <br> 5 11 7 | 28 6 43 <br> 5 11 38 | 29 11 48 <br> 5 12 9 | 30 16 52 <br> 5 12 40 | Constant <br> Constant <note>original: "Na" (Nata/Constant)</note> |
+| 9 33 <br> 5 5 5 | 7 7 <br> 50 | 6 41 <br> 4 5 | 6 15 <br> 40 | 5 49 <br> 3 5 | 5 23 <br> 30 | 4 57 <br> 25 | 4 31 <br> 20 | 4 5 <br> 15 | 3 39 <br> 10 | 3 13 <br> 5 | 2 47 <br> 0 | 2 20 <br> 55 | 1 54 <br> 50 | 1 28 <br> 45 | 1 2 <br> 40 | 0 36 <br> 35 | 0 10 <br> 30 | 59 44 <br> 25 | 59 18 <br> 20 | 58 52 <br> 15 | 58 26 <br> 10 | 58 0 <br> 5 | 57 34 <br> 0 | 57 7 <br> 55 | 56 41 <br> 50 | 56 15 <br> 45 | Correction <br> 113 |
+| 33 7 <br> 9 28 | 7 49 <br> 6 28 | 42 27 <br> 3 28 | 16 6 <br> 0 28 | 50 25 <br> 47 27 | 24 44 <br> 21 27 | 58 3 <br> 16 27 | 32 22 <br> 9 27 | 6 41 <br> 6 27 | 41 0 <br> 3 27 | 15 20 <br> 0 27 | 49 38 <br> 57 26 | 24 57 <br> 54 26 | 0 17 <br> 51 26 | 35 35 <br> 48 26 | 10 54 <br> 45 26 | 46 13 <br> 42 26 | 21 31 <br> 39 26 | 56 50 <br> 36 26 | 32 9 <br> 33 26 | 7 28 <br> 30 26 | 42 47 <br> 27 26 | 18 6 <br> 24 26 | 53 25 <br> 21 26 | 28 43 <br> 18 26 | 4 2 <br> 15 26 | 40 20 <br> 12 26 | 55 <br> Motion |
+| 4 6 55 <br> 4 5 5 5 | 5 9 59 <br> 4 5 9 0 | 6 15 4 <br> 5 0 20 | 7 20 9 <br> 5 0 51 | 8 25 13 <br> 5 1 21 | 9 30 18 <br> 5 1 52 | 10 35 22 <br> 5 2 23 | 11 40 27 <br> 5 2 54 | 12 45 31 <br> 5 3 25 | 13 50 36 <br> 5 3 55 | 14 55 40 <br> 5 4 26 | 15 60 45 <br> 5 4 57 | 16 6 5 49 <br> 5 5 28 | 17 10 54 <br> 5 5 59 | 18 16 58 <br> 5 6 30 | 19 21 3 <br> 5 7 0 | 20 26 7 <br> 5 7 31 | 21 31 12 <br> 5 8 2 | 22 36 16 <br> 5 8 33 | 23 41 21 <br> 5 9 4 | 24 46 25 <br> 5 9 35 | 25 51 30 <br> 5 10 6 | 26 56 34 <br> 5 10 37 | 27 1 39 <br> 5 11 7 | 28 6 43 <br> 5 11 38 | 29 11 48 <br> 5 12 9 | 30 16 52 <br> 5 12 40 | 114 <br> Constant |
+
+---
+
+<margin>Sign/Division 3 6 10 21 <note>original: "Bhā" (Bhāga)</note></margin>
+
+| 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 5 | 5 | 5 | 5 | 5 | 5 | 5 | 5 | 5 | 5 | 5 | 5 | 5 | 56 |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| 4 | 7 | 10 | 13 | 16 | 19 | 22 | 25 | 28 | 31 | 34 | 37 | 41 | 44 | 1 | 4 | 7 | 10 | 13 | 16 | 19 | 23 | 26 | 29 | 32 | 35 | 29 21 | |
+| 4 | 17 | 29 | 41 | 53 | 6 | 18 | 30 | 42 | 54 | 6 | 18 | 1 | 13 | 25 | 37 | 49 | 1 | 13 | 25 | 37 | 50 | 2 | 14 | 26 | 38 | 21 25 | 55 |
+| 30 | 33 | 3 | 22 | 40 | 10 | 27 | 5 | 42 | 32 | 15 | 53 | 32 | 11 | 50 | 29 | 8 | 47 | 26 | 5 | 44 | 23 | 2 | 41 | 20 | 58 | 37 50 | 55 |
+
+---
+
+| 4 | 2 | 1 | 1 | 2 | 4 | 5 | 7 | 8 | 9 | | 11 | 12 | 13 | 14 | 16 | 17 | 18 | 20 | 21 | 22 | 23 | 25 | 26 | 27 | 4 | 4 | Motion |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| 9 | 7 | 32 | 24 | 50 | 10 | 55 | 41 | 5 | 40 | | 32 | 2 | 55 | 30 | 9 | 30 | 2 | 54 | 10 | 30 | 9 | 5 | 41 | 4 | 4 | 4 | |
+| 27 | 34 | 54 | 55 | 10 | 15 | 45 | 30 | 52 | | 71 | 30 | 5 | 30 | 30 | 30 | 30 | 40 | | 40 | 23 | 20 | 2015 | 4 | 4 | 4 | Motion |
+
+<margin>Measure 7 <note>original: "Mā" (Māna or Māsa)</note></margin>
+
+<summary>This page contains dense astronomical tables for Saturn, detailing numerical values for daily motion (Gati) and corrections (Cara) categorized by the 27 lunar mansions (Nakshatras). These values allow for the precise calculation of Saturn's position in the sky at any given time.</summary>
+<keywords>Saturn, Shani, Nakshatra, Lunar Mansion, Gati, Motion, Cara, Correction, Indian Astronomy, Jyotisha</keywords>
+
+--- Page 93 ---
+<meta>This page continues the mathematical documentation of Saturn (Shani), moving from the general motion adjustments into a specific annual table. It tracks the cumulative motion of the planet across a 26-year period, providing high-precision coordinates down to the sixtieth of a second.</meta>
+
+-> Saturn <-
+
+# Saturn
+
+---
+
+| <gloss>Year</gloss> | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 <gloss>22<br/>27<br/>15<br/>33</gloss> | 12 <gloss>5<br/>29<br/>0<br/>7</gloss> | 13 <gloss>18<br/>2<br/>45<br/>40</gloss> | 14 <gloss>1<br/>4<br/>30<br/>13</gloss> | 15 <gloss>14<br/>7<br/>15<br/>46</gloss> | 16 <gloss>27<br/>9<br/>0<br/>20</gloss> | 17 <gloss>10<br/>12<br/>45<br/>53</gloss> | 18 <gloss>23<br/>14<br/>30<br/>27</gloss> | 19 <gloss>6<br/>17<br/>15<br/>0</gloss> | 20 <gloss>19<br/>19<br/>0<br/>33</gloss> | 21 <gloss>2<br/>22<br/>45<br/>7</gloss> | 22 <gloss>15<br/>24<br/>30<br/>40</gloss> | 23 <gloss>28<br/>27<br/>15<br/>13</gloss> | 24 <gloss>11<br/>29<br/>0<br/>46</gloss> | 25 <gloss>24<br/>2<br/>45<br/>20</gloss> | 26 <gloss>7<br/>4<br/>30<br/>53</gloss> | Year |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :--- |
+| **<term>Sign <note>original: "Rā" (Rāśi)</note></term>** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | Sign |
+| **<term>Degree <note>original: "Aṃ" (Aṃśa)</note></term>** | 12 | 25 | 8 | 21 | 4 | 17 | 0 | 13 | 26 | 9 | 22 | 5 | 18 | 1 | 14 | 27 | 10 | 23 | 6 | 19 | 2 | 15 | 28 | 11 | 24 | 7 | Deg. |
+| **<term>Minute <note>original: "Ka" (Kalā)</note></term>** | 2 | 4 | 7 | 9 | 12 | 14 | 17 | 19 | 22 | 24 | 27 | 29 | 2 | 4 | 7 | 9 | 12 | 14 | 17 | 19 | 22 | 24 | 27 | 29 | 2 | 4 | Min. |
+| **<term>Second <note>original: "Vi" (Vikalā)</note></term>** | 45 | 30 | 15 | 0 | 45 | 30 | 15 | 0 | 45 | 30 | 15 | 0 | 45 | 30 | 15 | 0 | 45 | 30 | 15 | 0 | 45 | 30 | 15 | 0 | 45 | 30 | Sec. |
+| **<term>Third <note>original: "Ta" (Tatparā)</note></term>** | 33 | 7 | 40 | 13 | 46 | 20 | 53 | 27 | 0 | 33 | 7 | 40 | 13 | 46 | 20 | 53 | 27 | 0 | 33 | 7 | 40 | 13 | 46 | 20 | 53 | 27 | Thi. |
+| **<term>Fourth <note>original: "Pa" (Pratitatparā)</note></term>** | 20 | 40 | 0 | 20 | 40 | 0 | 20 | 40 | 0 | 20 | 40 | 0 | 20 | 40 | 0 | 20 | 40 | 0 | 20 | 40 | 0 | 20 | 40 | 0 | 20 | 40 | Fou. |
+| **<term>Motion <note>original: "Ga" (Gati)</note></term>** | 20 | 30 | 30 | 30 | 40 | 9 | 7 | 38 | 31 | 5 | 40 | 54 | 15 | 32 | 55 | 7 | 30 | 31 | 7 | 5 | 40 | 45 | 45 | 31 | 29 | 9 | Mot. |
+
+---
+
+<note>This table serves as an astronomical ephemeris for Saturn, the "Slow-Moving One." Because Saturn takes approximately 29.5 years to complete a single orbit around the Sun, its yearly change in position is small—about 12 to 13 degrees, as seen in the "Degree" row. The table provides precision down to the "Fourth" (Pratitatparā), which is 1/1,296,000th of a degree, illustrating the sophisticated level of mathematical calculation in medieval Indian astronomy.</note>
+
+<summary>This page contains a detailed mathematical table tracking the motion of the planet Saturn over a 26-year cycle, using traditional units of angular measurement from signs down to sixty-fourths of a second.</summary>
+<keywords>Saturn, Shani, ephemeris, mathematical astronomy, Sanskrit tables, Rāśi, Gati, celestial motion</keywords>
+
+--- Page 94 ---
+<meta>This page concludes the specific data table for the planet Saturn (Shani), following the cumulative motion charts from the previous page. It provides a numerical grid, likely for calculating precise planetary longitudinal positions over a specific cycle, and concludes the section with a traditional benediction.</meta>
+
+<warning>The manuscript page has significant fraying and loss of material along the top and right edges. Some characters in the rightmost column are partially obscured or lost.</warning>
+
+# Saturn
+
+| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 | 26 | 27 | <term>Zodiac Sign <note>The right-hand column labels indicate the starting sign or the specific computational row.</note></term> |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | --- |
+| 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | |
+| 25 | 26 | 26 | 27 | 28 | 28 | 29 | 30 | 0 | 1 | 2 | 2 | 3 | 4 | 5 | 5 | 6 | 7 | 8 | 8 | 9 | 10 | 11 | 11 | 12 | 13 | 14 | **Sagittarius** <note>original: "Dha" (Dhanus)</note> |
+| 22 | 3 | 44 | 25 | 5 | 46 | 27 | 8 | 49 | 29 | 10 | 51 | 32 | 13 | 54 | 35 | 15 | 56 | 37 | 18 | 59 | 40 | 21 | 1 | 42 | 23 | 4 | **Aquarius** <note>original: "Ku" (Kumbha)</note> |
+| 36 | 28 | 19 | 10 | 1 | 52 | 43 | 34 | 25 | 16 | 7 | 58 | 49 | 40 | 31 | 22 | 13 | 4 | 55 | 46 | 37 | 28 | 19 | 10 | 1 | 52 | 43 | **Capricorn** <note>original: "Ma" (Makara)</note> |
+| 56 | 26 | 56 | 5 | 14 | 43 | 12 | 41 | 10 | 39 | 9 | 38 | 6 | 35 | 4 | 33 | 2 | 31 | 0 | 29 | 58 | 27 | 56 | 25 | 54 | 23 | 52 | **Pisces** <note>original: "Mī" (Mīna)</note> |
+| 1 | 3 | 5 | 7 | 9 | 11 | 13 | 15 | 17 | 19 | 21 | 23 | 25 | 27 | 29 | 31 | 33 | 35 | 37 | 39 | 41 | 43 | 45 | 47 | 49 | 51 | 53 | **Aries** <note>original: "Me" (Meṣa)</note> |
+| | | | | | | | | | | | | | | | | | | | | | | | | | | | **Taurus** <note>original: "Vṛ" (Vṛṣabha)</note> |
+| | | | | | | | | | | | | | | | | | | | | | | | | | | | **Gemini** <note>original: "Mi" (Mithuna)</note> |
+| | | | | | | | | | | | | | | | | | | | | | | | | | | | **Cancer** <note>original: "Ka" (Karka)</note> |
+
+-> Thus ends the section on Saturn. <note>original: "iti śani samāptaḥ"</note> <-
+-> || Victory to the Holy One who embodies the giving of boons || <note>original: "Śrī Varadamūrtiḥ jayati". This is a devotional salutation, often directed to Ganesha or a tutelary deity, marking the successful completion of a task.</note> <-
+
+<summary>This page contains a mathematical grid (koṣṭhaka) used to determine the position of Saturn across various zodiac signs. It marks the formal conclusion of the astronomical treatise's section on Saturn with a benediction to Varadamurti.</summary>
+<keywords>Saturn, Shani, Jyotisha, astronomical table, zodiac signs, Sagittarius, Aquarius, Capricorn, Varadamurti, mathematical manuscript</keywords>
+
+--- Page 95 ---
+<meta>This page transitions from the planetary data of Saturn to the calculations for Rahu, the ascending lunar node. It maintains the tabular format for determining mean motion and introduces specific parameters from the Brahmapaksha school of Indian astronomy.</meta>
+
+<warning>The manuscript page is torn on the left side, resulting in text loss in the margin and the first few columns of the table. Parts of the lower text are faded or smudged.</warning>
+
+# Now, the tools for Rahu.
+
+| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 | 26 | 27 | 28 | 29 | 30 | 31 | 32 |
+|---|---|---|---|---|---|---|---|---|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|
+| <unclear>551</unclear> 2 | 2 | 2 | 2 | 5 | 7 | 8 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 | 26 | 27 | 28 | 29 | 30 | 31 | 32 | | |
+| 3 | 39 | 20 | 37 | 36 | 15 | 56 | 37 | 19 | 10 | 1 | 52 | 42 | 33 | 24 | 15 | 6 | 57 | 48 | 39 | 30 | 21 | 11 | 2 | 53 | 44 | 35 | 26 | 17 | 8 | | |
+| 33 | 39 | 45 | 31 | 7 | 42 | 18 | 54 | 29 | 5 | 54 | 43 | 32 | 21 | 10 | 59 | 48 | 37 | 26 | 15 | 4 | 53 | 42 | 31 | 20 | 9 | 58 | 47 | 36 | 25 | | |
+| 22 | 10 | 2 | 2 | 2 | 37 | 49 | 25 | 54 | 49 | 13 | 49 | 25 | 1 | 37 | 13 | 49 | 25 | 1 | 37 | 13 | 49 | 54 | 57 | 61 | 65 | 69 | 73 | 77 | 81 | | |
+| 44 | 47 | 47 | 47 | 53 | 27 | 10 | 55 | 57 | 33 | 49 | 5 | 21 | 37 | 53 | 9 | 25 | 41 | 57 | 13 | 29 | 45 | 1 | 17 | 33 | 49 | 4 | 20 | 36 | 52 | | |
+| 1 | 1 | 2 | 2 | 2 | 3 | 3 | 3 | 4 | 4 | 5 | 5 | 6 | 6 | 7 | 7 | 8 | 8 | 9 | 9 | 10 | 10 | 11 | 11 | 12 | 12 | 13 | 13 | 14 | 14 | 15 | 15 |
+| 6 | 9 | 13 | 16 | 19 | 21 | 25 | 28 | 1 | 4 | 7 | 10 | 13 | 16 | 19 | 22 | 25 | 28 | 31 | 34 | 37 | 40 | 43 | 46 | 49 | 52 | 55 | 58 | 1 | 4 | 7 | 10 |
+| 30 | 39 | 5 | 34 | 2 | 29 | 57 | 25 | 54 | 22 | 51 | 18 | 47 | 15 | 43 | 11 | 39 | 7 | 36 | 4 | 33 | 1 | 29 | 58 | 26 | 54 | 22 | 50 | 19 | 47 | 15 | 43 |
+| 3 | 6 | 9 | 12 | 15 | 18 | 21 | 24 | 27 | 30 | 33 | 36 | 39 | 42 | 45 | 48 | 51 | 54 | 57 | 60 | 63 | 66 | 69 | 72 | 75 | 78 | 81 | 84 | 87 | 90 | 93 | 96 |
+| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 | 26 | | | | | | |
+| <unclear>..</unclear> | <unclear>..</unclear> | <unclear>..</unclear> | <unclear>..</unclear> | <unclear>..</unclear> | <unclear>..</unclear> | <unclear>..</unclear> | <unclear>..</unclear> | <unclear>..</unclear> | <unclear>..</unclear> | <unclear>..</unclear> | <unclear>..</unclear> | <unclear>..</unclear> | <unclear>..</unclear> | <unclear>..</unclear> | <unclear>..</unclear> | <unclear>..</unclear> | <unclear>..</unclear> | <unclear>..</unclear> | <unclear>..</unclear> | <unclear>..</unclear> | <unclear>..</unclear> | <unclear>..</unclear> | <unclear>..</unclear> | <unclear>..</unclear> | <unclear>..</unclear> | | | | | | |
+
+---
+
+According to the Brahmapaksha <note>original: "Brahmapakshata"; a traditional school of Indian astronomy following the Brahma-sphuta-siddhanta</note>, the mean Rahu <note>the lunar node</note> is associated with the 10th day, combined with the Vishuva <note>the equinox or a specific division of time</note>, and in the solar system, this is Rahu.
+
+<insert>The auspicious Knowledge of Karanabhijit <note>possibly a reference to a specific astronomical manual or "Karana" text used for calculations</note>.</insert>
+
+**Mars, Mercury, Jupiter, Venus, Saturn, Rahu**
+<unclear>7 7 56 83 65 51 63</unclear> Mars 1537 <note>original: "Maṃ 1537"; likely a chronological or positional marker</note> In the Saka year 1553 <note>equivalent to 1631 CE</note>, month of Pausha, day 30, Punika 30 <note>Punika likely refers to a specific sub-division of the day or an astronomical juncture</note>.
+<unclear>... (fragmented text) ...</unclear>
+
+<margin>
+Rahu
+situated in Sagittarius <note>original: "Dhanustagasya"; Rahu's placement in the zodiac sign Dhanu</note>
+</margin>
+
+-> In Saka 355 <note>roughly 433 CE; perhaps a base epoch for calculation</note>... [the musician/scholar] Chho... <-
+-> However much the difference is there, <-
+-> take that same amount from the years beginning with nine <-
+-> [and] it becomes... <-
+
+<summary>This page contains a computational grid and astronomical parameters for Rahu (the lunar node) according to the Brahmapaksha school. It specifically notes calculations for the year 1631 CE (Saka 1553) and provides instructions for calculating differences in planetary positions.</summary>
+<keywords>Rahu, lunar node, Brahmapaksha, Saka 1553, 1631 CE, Sagittarius, astronomical tables, planetary motion</keywords>
+
+--- Page 96 ---
+<meta>This page transitions from specific lunar node (Rahu) calculations to a general Ascendant Table, known as a Lagnapatra. This table is used by astrologers to determine which zodiac sign is rising on the eastern horizon at a given time and date.</meta>
+
+<warning>The manuscript is damaged on the left edge with significant loss of text in the first few columns. The ink is faded or smudged in some areas. The paper is frayed and has some staining. The text consists of a dense mathematical or astrological grid in Devanagari numerals.</warning>
+
+### Ascendant Table
+
+<note>A Lagnapatra is a specialized table used in Vedic astrology to calculate the rising sign (ascendant). The values in the cells are expressed in the traditional format of Signs, Degrees, Minutes, and Seconds. The signs are numbered 0 through 11, where 0 represents Aries and 11 represents Pisces.</note>
+
+| <unclear>...</unclear> | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 | 26 | 27 | 28 | 29 | 30 | 0 | <br> |
+|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+| <unclear>...</unclear> | 5 6 <br> 31 35 | 7 1 <br> 42 28 | 8 5 <br> 54 23 | 9 10 <br> 6 18 | 10 14 <br> 18 14 | 11 19 <br> 30 7 | 0 23 <br> 42 1 | 1 27 <br> 53 54 | 2 2 <br> 5 48 | 3 6 <br> 17 41 | 4 10 <br> 29 35 | 5 14 <br> 41 29 | 6 18 <br> 53 22 | 7 23 <br> 5 17 | 8 27 <br> 17 10 | 9 1 <br> 29 4 | 10 5 <br> 40 58 | 11 9 <br> 52 52 | 0 14 <br> 4 46 | 1 18 <br> 16 40 | 2 22 <br> 28 34 | 3 26 <br> 40 28 | 5 0 <br> 52 22 | 6 4 <br> 14 16 | 7 8 <br> 26 10 | 8 12 <br> 38 4 | 9 16 <br> 50 4 | 0 |
+| <unclear>...</unclear> | 6 8 <br> 51 34 | 8 4 <br> 2 30 | 9 7 <br> 13 32 | 10 10 <br> 24 43 | 11 13 <br> 36 5 | 0 17 <br> 47 26 | 1 22 <br> 58 47 | 2 28 <br> 10 9 | 4 3 <br> 21 30 | 5 8 <br> 32 51 | 6 13 <br> 44 12 | 7 18 <br> 55 33 | 8 24 <br> 6 54 | 9 29 <br> 18 15 | 10 4 <br> 29 36 | 11 9 <br> 40 57 | 0 14 <br> 52 19 | 1 19 <br> 55 31 | 3 1 <br> 9 51 | 4 6 <br> 21 8 | 5 11 <br> 32 25 | 6 16 <br> 43 41 | 7 21 <br> 54 58 | 9 3 <br> 6 15 | 10 8 <br> 17 31 | 11 13 <br> 28 48 | 0 18 <br> 40 5 | 1 |
+| <unclear>...</unclear> | 7 11 <br> 10 57 | 9 6 <br> 22 55 | 10 9 <br> 34 53 | 11 12 <br> 46 51 | 0 15 <br> 58 48 | 1 20 <br> 10 46 | 2 25 <br> 22 43 | 4 1 <br> 34 41 | 5 6 <br> 46 38 | 6 11 <br> 58 36 | 7 17 <br> 10 33 | 8 22 <br> 22 31 | 9 27 <br> 34 29 | 10 2 <br> 46 26 | 11 7 <br> 58 24 | 0 13 <br> 10 21 | 1 18 <br> 22 19 | 2 23 <br> 34 16 | 4 4 <br> 46 14 | 5 9 <br> 58 12 | 6 15 <br> 9 5 | 7 20 <br> 22 8 | 8 25 <br> 34 6 | 10 6 <br> 46 4 | 11 11 <br> 58 1 | 0 17 <br> 9 59 | 1 22 <br> 21 57 | 2 |
+| <unclear>...</unclear> | 8 13 <br> 30 15 | 10 8 <br> 43 15 | 11 11 <br> 56 16 | 0 15 <br> 9 16 | 1 18 <br> 22 17 | 2 22 <br> 35 16 | 4 3 <br> 48 17 | 5 8 <br> 0 17 | 6 13 <br> 13 17 | 7 18 <br> 26 18 | 8 23 <br> 39 18 | 9 28 <br> 52 18 | 11 4 <br> 5 19 | 0 9 <br> 18 19 | 1 14 <br> 31 19 | 2 19 <br> 44 20 | 4 1 <br> 57 20 | 5 7 <br> 10 20 | 6 12 <br> 23 21 | 7 17 <br> 36 21 | 8 22 <br> 49 21 | 9 28 <br> 2 21 | 11 3 <br> 15 21 | 0 8 <br> 28 21 | 1 13 <br> 41 21 | 2 18 <br> 54 21 | 4 1 <br> 7 21 | 3 |
+| <unclear>...</unclear> | 9 15 <br> 49 53 | 11 11 <br> 3 41 | 0 14 <br> 17 29 | 1 17 <br> 31 18 | 2 20 <br> 45 6 | 4 1 <br> 58 54 | 5 7 <br> 12 42 | 6 12 <br> 26 31 | 7 17 <br> 40 19 | 8 22 <br> 54 7 | 9 28 <br> 7 55 | 10 3 <br> 21 43 | 0 9 <br> 35 31 | 1 14 <br> 49 19 | 2 20 <br> 3 8 | 4 1 <br> 16 56 | 5 6 <br> 30 44 | 6 11 <br> 44 33 | 7 17 <br> 10 19 | 8 22 <br> 34 9 | 9 28 <br> 5 7 | 11 3 <br> 21 55 | 0 8 <br> 45 43 | 1 14 <br> 9 31 | 2 19 <br> 33 19 | 4 4 <br> 57 7 | 5 10 <br> 20 55 | 4 |
+| <unclear>...</unclear> | 10 18 <br> 9 45 | 0 13 <br> 24 5 | 1 16 <br> 38 43 | 2 19 <br> 53 41 | 4 1 <br> 8 41 | 5 7 <br> 23 45 | 6 12 <br> 38 47 | 7 18 <br> 5 3 | 8 23 <br> 11 19 | 9 28 <br> 35 27 | 11 4 <br> 11 33 | 0 10 <br> 10 48 | 1 14 <br> 44 3 | 2 20 <br> 17 17 | 4 1 <br> 50 29 | 5 7 <br> 23 38 | 6 12 <br> 56 51 | 7 18 <br> 29 58 | 9 1 <br> 3 4 | 10 7 <br> 36 4 | 11 14 <br> 9 5 | 0 20 <br> 42 4 | 1 27 <br> 15 5 | 3 3 <br> 48 2 | 4 10 <br> 20 59 | 5 16 <br> 53 57 | 7 3 <br> 26 56 | 5 |
+| <unclear>...</unclear> | 11 20 <br> 29 42 | 1 15 <br> 44 24 | 2 18 <br> 59 56 | 4 1 <br> 15 49 | 5 7 <br> 31 50 | 6 13 <br> 6 35 | 7 18 <br> 31 11 | 8 23 <br> 54 42 | 10 0 <br> 18 9 | 11 6 <br> 41 23 | 0 13 <br> 4 35 | 1 19 <br> 27 52 | 2 26 <br> 3 5 | 4 2 <br> 24 17 | 5 8 <br> 47 33 | 6 15 <br> 10 43 | 7 21 <br> 33 53 | 9 3 <br> 56 43 | 10 10 <br> 19 37 | 11 16 <br> 42 24 | 0 23 <br> 5 7 | 2 29 <br> 28 2 | 3 6 <br> 50 50 | 5 0 <br> 12 44 | 6 8 <br> 35 32 | 7 17 <br> 58 34 | 8 27 <br> 20 57 | 6 |
+| <unclear>...</unclear> | 0 22 <br> 49 50 | 2 18 <br> 4 5 | 4 1 <br> 21 8 | 5 7 <br> 38 10 | 6 13 <br> 55 9 | 7 19 <br> 12 9 | 8 24 <br> 29 7 | 10 0 <br> 46 4 | 11 7 <br> 3 2 | 0 13 <br> 19 56 | 1 19 <br> 46 50 | 2 26 <br> 13 41 | 4 2 <br> 40 27 | 5 9 <br> 7 6 | 6 15 <br> 33 43 | 7 21 <br> 59 57 | 9 4 <br> 26 9 | 10 10 <br> 52 16 | 11 17 <br> 18 16 | 0 24 <br> 44 9 | 2 2 <br> 10 7 | 3 9 <br> 35 57 | 4 16 <br> 1 53 | 5 23 <br> 27 45 | 7 0 <br> 53 44 | 8 8 <br> 19 50 | 9 15 <br> 45 59 | 7 |
+| <unclear>...</unclear> | 2 0 <br> 10 9 | 3 20 <br> 25 1 | 4 15 <br> 40 2 | 5 22 <br> 55 3 | 7 0 <br> 9 57 | 8 7 <br> 25 6 | 9 15 <br> 40 10 | 10 23 <br> 55 8 | 11 10 <br> 10 11 | 0 18 <br> 25 15 | 1 26 <br> 40 11 | 4 3 <br> 55 7 | 5 10 <br> 10 2 | 6 17 <br> 25 5 | 7 24 <br> 40 4 | 9 1 <br> 55 3 | 10 9 <br> 10 4 | 11 16 <br> 25 7 | 0 23 <br> 40 3 | 2 1 <br> 55 1 | 3 9 <br> 10 1 | 4 16 <br> 24 59 | 5 23 <br> 39 55 | 7 1 <br> 5 49 | 8 8 <br> 30 45 | 9 15 <br> 55 43 | 11 3 <br> 20 41 | 8 |
+| <unclear>...</unclear> | 4 5 <br> 42 27 | 5 10 <br> 57 40 | 6 17 <br> 12 53 | 7 23 <br> 28 4 | 9 0 <br> 43 15 | 10 8 <br> 58 23 | 11 17 <br> 13 31 | 0 25 <br> 28 34 | 1 8 <br> 43 33 | 2 16 <br> 58 37 | 4 15 <br> 13 41 | 5 24 <br> 28 43 | 6 29 <br> 43 38 | 7 23 <br> 58 42 | 9 3 <br> 13 46 | 10 11 <br> 28 47 | 11 19 <br> 43 51 | 0 28 <br> 58 57 | 2 7 <br> 13 58 | 3 15 <br> 29 1 | 4 23 <br> 44 1 | 5 29 <br> 59 5 | 7 9 <br> 13 55 | 8 18 <br> 28 56 | 9 27 <br> 43 44 | 11 7 <br> 58 38 | 0 18 <br> 13 44 | 9 |
+| <unclear>...</unclear> | 5 10 <br> 10 29 | 6 16 <br> 34 58 | 7 22 <br> 59 26 | 8 29 <br> 23 50 | 10 5 <br> 48 12 | 11 12 <br> 12 32 | 0 18 <br> 36 53 | 1 25 <br> 1 10 | 2 11 <br> 25 34 | 4 3 <br> 49 49 | 5 12 <br> 14 2 | 6 20 <br> 38 16 | 7 28 <br> 2 34 | 9 5 <br> 26 48 | 10 13 <br> 51 7 | 11 22 <br> 15 31 | 0 30 <br> 39 46 | 2 9 <br> 4 1 | 3 17 <br> 28 15 | 4 26 <br> 52 24 | 6 6 <br> 16 35 | 7 16 <br> 40 43 | 8 27 <br> 4 55 | 10 7 <br> 29 2 | 11 17 <br> 53 8 | 0 28 <br> 17 10 | 2 7 <br> 41 17 | 10 |
+| <unclear>...</unclear> | 6 15 <br> 47 21 | 7 21 <br> 55 55 | 8 29 <br> 4 4 | 10 7 <br> 12 8 | 11 15 <br> 20 9 | 0 23 <br> 28 10 | 2 1 <br> 36 9 | 4 9 <br> 44 8 | 5 18 <br> 52 5 | 6 28 <br> 0 5 | 8 5 <br> 8 4 | 9 14 <br> 15 59 | 10 23 <br> 23 52 | 11 2 <br> 31 46 | 0 11 <br> 39 40 | 1 21 <br> 47 34 | 3 2 <br> 55 27 | 4 13 <br> 3 21 | 5 25 <br> 11 14 | 7 8 <br> 19 9 | 8 20 <br> 27 3 | 9 23 <br> 34 56 | 11 8 <br> 42 50 | 0 22 <br> 50 43 | 2 4 <br> 58 36 | 3 17 <br> 6 30 | 4 29 <br> 14 32 | 11 |
+
+<term>Lagnapatra (Ascendant Table): A mathematical tool for determining the point of the ecliptic that rises on the eastern horizon at a specific time.</term>
+<term>Signs: The 12 divisions of the zodiac (Rashi), here numbered 0-11.</term>
+<term>Degrees, Minutes, Seconds: Units of arc (Amsha, Kala, Vikala) used to specify precise celestial positions.</term>
+
+<summary>This page contains a detailed mathematical grid known as a Lagnapatra, used to determine the rising zodiac sign (the ascendant) for various times and dates. The data is presented in a traditional Indian astronomical format consisting of Signs, Degrees, Minutes, and Seconds.</summary>
+<keywords>Lagnapatra, Ascendant Table, Devanagari numerals, Jyotisha, Astrological grid, Zodiacal position, Signs, Degrees, Minutes, Seconds</keywords>
+
+--- Page 97 ---
+<meta>The previous page concluded calculations for Rahu (the north lunar node) and introduced the Ascendant Table (Lagnapatra). This page continues the tabular data used for determining the rising zodiac sign (ascendant) at specific times, which is the foundational step in casting an astrological birth chart.</meta>
+
+->**Salutation to the Illustrious <term>Ganesha</term> [the elephant-headed god of beginnings and remover of obstacles]; Salutation to the Illustrious <term>Saraswati</term> [the goddess of learning and wisdom]; Salutation to the Illustrious Krishna, [my] refuge.**<-
+
+<note>original: "श्रीगणेशाय नमः श्रीसरस्वत्यै नमः श्रीकृष्णाय नमः शरणं" — These opening invocations, known as Mangalacharana, are traditional in Sanskrit manuscripts to ensure the successful completion of the work without hindrance.</note>
+
+<warning>The bottom edge of the manuscript is significantly frayed and damaged. There is some minor foxing and a dark stain in the lower-left section of the gridded area.</warning>
+
+### Ascendant Table
+
+<note>This table is a Lagnapatra, used by Vedic astrologers to find the rising sign. The top row (5 through 30) likely represents the day of the month or a specific degree of the Sun. Each cell contains coordinates in the format of **Sign-Degree** (top row) and **Minute-Second** (bottom row). Signs are numbered 0 to 11: 0=Aries, 1=Taurus, 2=Gemini, 3=Cancer, 4=Leo, 5=Virgo, 6=Libra, 7=Scorpio, 8=Sagittarius, 9=Capricorn, 10=Aquarius, 11=Pisces.</note>
+
+| <unclear>Header</unclear> | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 | 26 | 27 | 28 | 29 | 30 | 0 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| <unclear>Value</unclear> | 5 6 <br> 31 35 | 7 1 <br> 42 28 | 8 5 <br> 54 23 | 9 10 <br> 6 18 | 10 14 <br> 18 14 | 11 19 <br> 30 7 | 0 23 <br> 42 1 | 1 27 <br> 53 54 | 2 2 <br> 5 48 | 3 6 <br> 17 41 | 4 10 <br> 29 35 | 5 14 <br> 41 29 | 6 18 <br> 53 22 | 7 23 <br> 5 17 | 8 27 <br> 17 10 | 9 1 <br> 29 4 | 10 5 <br> 40 58 | 11 9 <br> 52 52 | 0 14 <br> 4 46 | 1 18 <br> 16 40 | 2 22 <br> 28 34 | 3 26 <br> 40 28 | 5 0 <br> 52 22 | 6 4 <br> 14 16 | 7 8 <br> 26 10 | 8 12 <br> 38 4 | 9 16 <br> 50 4 | 0 |
+| <unclear>Value</unclear> | 6 8 <br> 51 34 | 8 4 <br> 2 30 | 9 7 <br> 13 32 | 10 10 <br> 24 43 | 11 13 <br> 36 5 | 0 17 <br> 47 26 | 1 22 <br> 58 47 | 2 28 <br> 10 9 | 4 3 <br> 21 30 | 5 8 <br> 32 51 | 6 13 <br> 44 12 | 7 18 <br> 55 33 | 8 24 <br> 6 54 | 9 29 <br> 18 15 | 10 4 <br> 29 36 | 11 9 <br> 40 57 | 0 <unclear>...</unclear> | <unclear>...</unclear> | <unclear>...</unclear> | <unclear>...</unclear> | <unclear>...</unclear> | <unclear>...</unclear> | <unclear>...</unclear> | <unclear>...</unclear> | <unclear>...</unclear> | <unclear>...</unclear> | <unclear>...</unclear> | <unclear>...</unclear> |
+
+<note>The grid extends with more data, but the physical condition of the manuscript prevents clear reading of the final cells. The handwriting suggests a practiced scribe using traditional red ink for the grid lines.</note>
+
+<summary>This page contains a formal opening invocation to Ganesha, Saraswati, and Krishna, followed by a detailed astronomical table (Lagnapatra) used to calculate the rising sign for astrological purposes. The data is presented in a complex grid showing positions in signs, degrees, minutes, and seconds.</summary>
+<keywords>Lagnapatra, Ascendant Table, Vedic astrology, Mangalacharana, Ganesha, Saraswati, Krishna, zodiac signs, astronomical coordinates</keywords>
