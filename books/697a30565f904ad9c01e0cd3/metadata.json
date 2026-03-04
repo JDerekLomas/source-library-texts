@@ -1,14 +1,14 @@
 {
   "id": "697a30565f904ad9c01e0cd3",
   "title": "Conclusiones de jure publico",
-  "display_title": "Conclusiones de jure publico",
+  "display_title": "Conclusions on Public Law",
   "author": "Clapmarius, Arnoldus|Roselli, Francesco|Ruprecht, Wolfgang Heinrich",
   "language": "Latin",
   "year": 1644,
   "published": "1644",
   "pages_count": 131,
-  "pages_with_ocr": 10,
-  "pages_with_translation": 8,
+  "pages_with_ocr": 131,
+  "pages_with_translation": 119,
   "source_url": "https://sourcelibrary.org/book/697a30565f904ad9c01e0cd3",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:30:24.345Z",
+  "synced_at": "2026-03-04T14:20:39.851Z",
   "_hashes": {
-    "ocr": "8de0b8eaa86185cb",
-    "translation": "d45962ed1924806f"
+    "ocr": "4af4ae49dcdf207b",
+    "translation": "4bde5f261842fbaf"
   }
 }
