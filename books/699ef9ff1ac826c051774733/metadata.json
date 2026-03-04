@@ -1,0 +1,26 @@
+{
+  "id": "699ef9ff1ac826c051774733",
+  "title": "Der Signatstern",
+  "display_title": "Der Signatstern",
+  "author": "Unknown",
+  "language": "Unknown",
+  "year": null,
+  "published": "1803-1821",
+  "pages_count": 314,
+  "pages_with_ocr": 314,
+  "pages_with_translation": 294,
+  "source_url": "https://sourcelibrary.org/book/699ef9ff1ac826c051774733",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-04T17:00:33.120Z",
+  "_hashes": {
+    "ocr": "346c59ab85dbc627",
+    "translation": "54f50259faa2bc1c"
+  }
+}
