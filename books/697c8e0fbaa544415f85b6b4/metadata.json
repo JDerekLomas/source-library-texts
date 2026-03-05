@@ -1,14 +1,14 @@
 {
   "id": "697c8e0fbaa544415f85b6b4",
   "title": "Das Geheimnis des betrübenden und tröstenden, des tödtenden und lebendigmachenden, des erniedrigenden und triumphirenden Kreutzes Jesu Christi und seiner Glieder",
-  "display_title": "Das Geheimnis des betrübenden und tröstenden, des tödtenden und lebendigmachenden, des erniedrigenden und triumphirenden Kreutzes Jesu Christi und seiner Glieder",
+  "display_title": "The Secret of the Cross of Jesus Christ and His Members",
   "author": "[Douzetemps]",
   "language": "German",
   "year": 1782,
   "published": "1782",
   "pages_count": 442,
   "pages_with_ocr": 442,
-  "pages_with_translation": 1,
+  "pages_with_translation": 425,
   "source_url": "https://sourcelibrary.org/book/697c8e0fbaa544415f85b6b4",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:24:59.413Z",
+  "synced_at": "2026-03-05T01:51:07.463Z",
   "_hashes": {
     "ocr": "f232afbb8181527f",
-    "translation": "8152901a9fd23bc1"
+    "translation": "a83934df335ca262"
   }
 }
