@@ -1,14 +1,14 @@
 {
   "id": "697b07990411081cde5f4e66",
   "title": "Enchiridion physicae restitutae. Arcanum hermeticae philosophiae opus",
-  "display_title": "Enchiridion physicae restitutae. Arcanum hermeticae philosophiae opus",
+  "display_title": "Handbook of Restored Physics",
   "author": "[Espagnet, Jean d']",
   "language": "Latin",
   "year": 1647,
   "published": "1647",
   "pages_count": 333,
-  "pages_with_ocr": 10,
-  "pages_with_translation": 1,
+  "pages_with_ocr": 333,
+  "pages_with_translation": 320,
   "source_url": "https://sourcelibrary.org/book/697b07990411081cde5f4e66",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:30:35.278Z",
+  "synced_at": "2026-03-05T01:50:52.958Z",
   "_hashes": {
-    "ocr": "5f3640bca23d6959",
-    "translation": "80deecccd7d23791"
+    "ocr": "1fe9682f0e370bb7",
+    "translation": "d04fc37ea3546f3c"
   }
 }
