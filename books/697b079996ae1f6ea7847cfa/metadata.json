@@ -1,14 +1,14 @@
 {
   "id": "697b079996ae1f6ea7847cfa",
   "title": "Einige Freimäurerische Versammlungsreden",
-  "display_title": "Einige Freimäurerische Versammlungsreden",
+  "display_title": "Several Masonic Assembly Speeches",
   "author": "Anonymous",
   "language": "German",
   "year": 1784,
   "published": "1784-1785",
   "pages_count": 355,
-  "pages_with_ocr": 130,
-  "pages_with_translation": 5,
+  "pages_with_ocr": 355,
+  "pages_with_translation": 341,
   "source_url": "https://sourcelibrary.org/book/697b079996ae1f6ea7847cfa",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:28:14.806Z",
+  "synced_at": "2026-03-05T00:31:03.461Z",
   "_hashes": {
-    "ocr": "9b6bfeeb394c6ae0",
-    "translation": "9af5e1247f5d3cfb"
+    "ocr": "e36b4ff8c9999a50",
+    "translation": "1614c83920e2196c"
   }
 }
