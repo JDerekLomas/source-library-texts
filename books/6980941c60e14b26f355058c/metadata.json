@@ -1,14 +1,14 @@
 {
   "id": "6980941c60e14b26f355058c",
   "title": "Über die Lehre des Spinoza in Briefen an den Herrn Moses Mendelssohn",
-  "display_title": "Über die Lehre des Spinoza in Briefen an den Herrn Moses Mendelssohn",
+  "display_title": "On the Doctrine of Spinoza in Letters to Moses Mendelssohn",
   "author": "[Jacobi, Friedrich Heinrich]",
   "language": "German",
   "year": 1785,
   "published": "1785",
   "pages_count": 267,
-  "pages_with_ocr": 10,
-  "pages_with_translation": 6,
+  "pages_with_ocr": 267,
+  "pages_with_translation": 263,
   "source_url": "https://sourcelibrary.org/book/6980941c60e14b26f355058c",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v4.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:30:57.866Z",
+  "synced_at": "2026-03-05T05:10:26.784Z",
   "_hashes": {
-    "ocr": "96dbd2a9703a35f1",
-    "translation": "7bc591bdcb62d9c7"
+    "ocr": "2992d8fd9cfdb797",
+    "translation": "fb7293811851164e"
   }
 }
