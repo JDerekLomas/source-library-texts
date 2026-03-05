@@ -1,13 +1,13 @@
 {
   "id": "697e23c9eb423a42938f5f9e",
   "title": "Historia ecclesiastica",
-  "display_title": "Historia ecclesiastica",
+  "display_title": "Ecclesiastical History",
   "author": "Lange, Joachim",
   "language": "Latin",
   "year": 1722,
   "published": "1722",
   "pages_count": 1259,
-  "pages_with_ocr": 30,
+  "pages_with_ocr": 1259,
   "pages_with_translation": 2,
   "source_url": "https://sourcelibrary.org/book/697e23c9eb423a42938f5f9e",
   "license": "publicdomain",
@@ -18,9 +18,9 @@
     "prompt_version": "v4.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:29:52.909Z",
+  "synced_at": "2026-03-05T04:20:26.297Z",
   "_hashes": {
-    "ocr": "77bd6a5ba1a299a3",
+    "ocr": "215b800583971224",
     "translation": "e61e15707a6ae108"
   }
 }
