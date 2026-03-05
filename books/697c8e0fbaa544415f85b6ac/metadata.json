@@ -1,14 +1,14 @@
 {
   "id": "697c8e0fbaa544415f85b6ac",
   "title": "Vom Goldmachen",
-  "display_title": "Vom Goldmachen",
+  "display_title": "On the Making of Gold",
   "author": "Morhof, Daniel Georg",
   "language": "German",
   "year": 1764,
   "published": "1764",
   "pages_count": 154,
   "pages_with_ocr": 154,
-  "pages_with_translation": 5,
+  "pages_with_translation": 145,
   "source_url": "https://sourcelibrary.org/book/697c8e0fbaa544415f85b6ac",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:28:03.257Z",
+  "synced_at": "2026-03-05T01:50:56.670Z",
   "_hashes": {
     "ocr": "d8eb77c3816f5f51",
-    "translation": "fae15b430fd8093d"
+    "translation": "6590c30a4ecc47f1"
   }
 }
