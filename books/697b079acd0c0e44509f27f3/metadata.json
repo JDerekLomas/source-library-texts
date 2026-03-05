@@ -1,14 +1,14 @@
 {
   "id": "697b079acd0c0e44509f27f3",
   "title": "Des elements et principes d'astronomie",
-  "display_title": "Des elements et principes d'astronomie",
+  "display_title": "Elements and Principles of Astronomy",
   "author": "Roussat, Richard",
   "language": "French",
   "year": 1552,
   "published": "1552",
   "pages_count": 345,
-  "pages_with_ocr": 10,
-  "pages_with_translation": 6,
+  "pages_with_ocr": 345,
+  "pages_with_translation": 339,
   "source_url": "https://sourcelibrary.org/book/697b079acd0c0e44509f27f3",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:30:21.371Z",
+  "synced_at": "2026-03-05T01:00:56.837Z",
   "_hashes": {
-    "ocr": "0ca0dc5e36a1e2ef",
-    "translation": "451c1fc42a9bf2c5"
+    "ocr": "47a28fb10620201f",
+    "translation": "2293ef758e415f21"
   }
 }
