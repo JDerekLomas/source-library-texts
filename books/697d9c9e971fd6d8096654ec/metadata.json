@@ -1,14 +1,14 @@
 {
   "id": "697d9c9e971fd6d8096654ec",
   "title": "Hermetis, Aegyptiorum et chemicorum sapientia",
-  "display_title": "Hermetis, Aegyptiorum et chemicorum sapientia",
+  "display_title": "The Wisdom of Hermes, the Egyptians, and the Chemists",
   "author": "Borrichius, Olaus",
   "language": "Latin",
   "year": 1674,
   "published": "1674",
   "pages_count": 222,
-  "pages_with_ocr": 10,
-  "pages_with_translation": 3,
+  "pages_with_ocr": 222,
+  "pages_with_translation": 201,
   "source_url": "https://sourcelibrary.org/book/697d9c9e971fd6d8096654ec",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v4.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:31:28.019Z",
+  "synced_at": "2026-03-05T03:20:58.967Z",
   "_hashes": {
-    "ocr": "6e4c1995dae3e246",
-    "translation": "a181a9a865f015c7"
+    "ocr": "528b22327fd13169",
+    "translation": "2e2e76b1df37e780"
   }
 }
