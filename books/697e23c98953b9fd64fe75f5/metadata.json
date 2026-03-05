@@ -1,14 +1,14 @@
 {
   "id": "697e23c98953b9fd64fe75f5",
   "title": "Historia Templariorum observationibus ecclesiasticus aucta",
-  "display_title": "Historia Templariorum observationibus ecclesiasticus aucta",
+  "display_title": "History of the Templars",
   "author": "Gürtler, Nicolaus",
   "language": "Latin",
   "year": 1691,
   "published": "1691",
   "pages_count": 265,
-  "pages_with_ocr": 264,
-  "pages_with_translation": 5,
+  "pages_with_ocr": 265,
+  "pages_with_translation": 256,
   "source_url": "https://sourcelibrary.org/book/697e23c98953b9fd64fe75f5",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v4.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:27:03.579Z",
+  "synced_at": "2026-03-05T04:30:26.334Z",
   "_hashes": {
-    "ocr": "26af19a69ef512a5",
-    "translation": "ee25cd11ba7659b4"
+    "ocr": "15d6694fa98f48b6",
+    "translation": "78f0c9baa875935c"
   }
 }
