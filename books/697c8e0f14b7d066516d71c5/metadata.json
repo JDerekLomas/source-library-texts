@@ -1,14 +1,14 @@
 {
   "id": "697c8e0f14b7d066516d71c5",
   "title": "Ein geheimer Tractatus von den dreyen seculis oder Haupt-Zeiten",
-  "display_title": "Ein geheimer Tractatus von den dreyen seculis oder Haupt-Zeiten",
+  "display_title": "A Secret Treatise on the Three Ages",
   "author": "Sperber, Julius",
   "language": "German",
   "year": 1660,
   "published": "1660",
   "pages_count": 310,
-  "pages_with_ocr": 10,
-  "pages_with_translation": 8,
+  "pages_with_ocr": 310,
+  "pages_with_translation": 308,
   "source_url": "https://sourcelibrary.org/book/697c8e0f14b7d066516d71c5",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:30:38.631Z",
+  "synced_at": "2026-03-05T02:50:47.536Z",
   "_hashes": {
-    "ocr": "c444444d95b0ade5",
-    "translation": "2e2bc9d4b6bac898"
+    "ocr": "789d30b765393546",
+    "translation": "1130216478e3c3d5"
   }
 }
