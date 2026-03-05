@@ -1,14 +1,14 @@
 {
   "id": "697d9c9e971fd6d8096654e8",
   "title": "Von der himmlischen Arzeney, oder dass Jesus Christus der wahre Arzt ... sey",
-  "display_title": "Von der himmlischen Arzeney, oder dass Jesus Christus der wahre Arzt ... sey",
+  "display_title": "Of the Heavenly Medicine",
   "author": "Schwenckfeld, Caspar",
   "language": "German",
   "year": 1820,
   "published": "1820",
   "pages_count": 279,
-  "pages_with_ocr": 278,
-  "pages_with_translation": 5,
+  "pages_with_ocr": 279,
+  "pages_with_translation": 271,
   "source_url": "https://sourcelibrary.org/book/697d9c9e971fd6d8096654e8",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v4.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:26:54.288Z",
+  "synced_at": "2026-03-05T03:20:55.271Z",
   "_hashes": {
-    "ocr": "133027b7443cfde3",
-    "translation": "e572619da52ae524"
+    "ocr": "5512c874fcea883a",
+    "translation": "f035f117042f1208"
   }
 }
