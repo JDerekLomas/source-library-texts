@@ -1,14 +1,14 @@
 {
   "id": "697934668e450bc779a9cad5",
   "title": "De cognoscendis et medendis morbis ex corporum coelestium positione libri IIII",
-  "display_title": "De cognoscendis et medendis morbis ex corporum coelestium positione libri IIII",
+  "display_title": "On Recognizing and Curing Diseases from the Position of the Celestial Bodies",
   "author": "Virdung von Hasfurt, Johann",
   "language": "Latin",
   "year": 1584,
   "published": "1584",
   "pages_count": 560,
   "pages_with_ocr": 560,
-  "pages_with_translation": 4,
+  "pages_with_translation": 548,
   "source_url": "https://sourcelibrary.org/book/697934668e450bc779a9cad5",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:23:35.435Z",
+  "synced_at": "2026-03-05T01:10:55.375Z",
   "_hashes": {
     "ocr": "1b9120d2324cda2e",
-    "translation": "6485c3cb76bb0426"
+    "translation": "b470224697ca9ef7"
   }
 }
