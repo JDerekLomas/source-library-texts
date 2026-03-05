@@ -1,14 +1,14 @@
 {
   "id": "69804b901fb2ba7cf1d43a06",
   "title": "Kurtz-gefasste Kirchen-Historie des Alten und Neuen Testaments",
-  "display_title": "Kurtz-gefasste Kirchen-Historie des Alten und Neuen Testaments",
+  "display_title": "Concise Church History of the Old and New Testaments",
   "author": "Arnold, Gottfried",
   "language": "German",
   "year": 1722,
   "published": "1722",
   "pages_count": 498,
   "pages_with_ocr": 498,
-  "pages_with_translation": 5,
+  "pages_with_translation": 487,
   "source_url": "https://sourcelibrary.org/book/69804b901fb2ba7cf1d43a06",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v4.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:24:26.297Z",
+  "synced_at": "2026-03-05T04:50:40.168Z",
   "_hashes": {
     "ocr": "c0ac4f32ad29cb48",
-    "translation": "05fd6ee5dd4d25b3"
+    "translation": "ffbda3749283caca"
   }
 }
