@@ -1,13 +1,13 @@
 {
   "id": "697c8e14a68a70e0c13c7162",
   "title": "Gedanken Paskals",
-  "display_title": "Gedanken Paskals",
+  "display_title": "Pascal's Thoughts (Pensées)",
   "author": "Pascal, Blaise",
   "language": "German",
   "year": 1777,
   "published": "1777",
   "pages_count": 704,
-  "pages_with_ocr": 510,
+  "pages_with_ocr": 704,
   "pages_with_translation": 6,
   "source_url": "https://sourcelibrary.org/book/697c8e14a68a70e0c13c7162",
   "license": "publicdomain",
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:24:18.763Z",
+  "synced_at": "2026-03-05T03:00:55.776Z",
   "_hashes": {
-    "ocr": "ef576125192ae4bd",
+    "ocr": "ffd1cf79f1899a07",
     "translation": "c35e205c4a7ba3e3"
   }
 }
