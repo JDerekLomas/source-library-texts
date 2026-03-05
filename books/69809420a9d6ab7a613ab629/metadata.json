@@ -1,14 +1,14 @@
 {
   "id": "69809420a9d6ab7a613ab629",
   "title": "Libri V de vita longa",
-  "display_title": "Libri V de vita longa",
+  "display_title": "Five Books on Long Life",
   "author": "Paracelsus, Theophrastus",
   "language": "Latin",
   "year": 1566,
   "published": "[1566?]",
   "pages_count": 220,
-  "pages_with_ocr": 10,
-  "pages_with_translation": 7,
+  "pages_with_ocr": 220,
+  "pages_with_translation": 213,
   "source_url": "https://sourcelibrary.org/book/69809420a9d6ab7a613ab629",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v4.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:31:11.802Z",
+  "synced_at": "2026-03-05T05:10:36.626Z",
   "_hashes": {
-    "ocr": "acf4e5785f066538",
-    "translation": "e3df2e07e1a7d0bd"
+    "ocr": "1fafb9d669fc839b",
+    "translation": "8457c12d1754364e"
   }
 }
