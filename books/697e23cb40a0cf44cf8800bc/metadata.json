@@ -1,14 +1,14 @@
 {
   "id": "697e23cb40a0cf44cf8800bc",
   "title": "Von hylealischen, das ist, Pri-materialischen catholischen, oder algemeinem [sic] natürlichen Chaos",
-  "display_title": "Von hylealischen, das ist, Pri-materialischen catholischen, oder algemeinem [sic] natürlichen Chaos",
+  "display_title": "On the Hyleal, or Universal Natural Chaos",
   "author": "Khunrath, Heinrich",
   "language": "German",
   "year": 1597,
   "published": "1597",
   "pages_count": 562,
-  "pages_with_ocr": 10,
-  "pages_with_translation": 7,
+  "pages_with_ocr": 562,
+  "pages_with_translation": 547,
   "source_url": "https://sourcelibrary.org/book/697e23cb40a0cf44cf8800bc",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v4.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:31:35.919Z",
+  "synced_at": "2026-03-05T04:40:30.974Z",
   "_hashes": {
-    "ocr": "042ead92fa849479",
-    "translation": "d8fd6e0fe4c8645a"
+    "ocr": "e9a739c758bf5e58",
+    "translation": "f464a488d145436e"
   }
 }
