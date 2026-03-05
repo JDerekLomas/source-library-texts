@@ -1,14 +1,14 @@
 {
   "id": "697a4a13c915282d8f071f67",
   "title": "Dialogo de la seraphica vergine sancta Catharina da Siena",
-  "display_title": "Dialogo de la seraphica vergine sancta Catharina da Siena",
+  "display_title": "The Dialogue of Saint Catherine of Siena",
   "author": "Catharine of Siena",
   "language": "Italian",
   "year": 1517,
   "published": "1517",
   "pages_count": 565,
-  "pages_with_ocr": 510,
-  "pages_with_translation": 7,
+  "pages_with_ocr": 565,
+  "pages_with_translation": 561,
   "source_url": "https://sourcelibrary.org/book/697a4a13c915282d8f071f67",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:24:13.964Z",
+  "synced_at": "2026-03-05T01:30:52.372Z",
   "_hashes": {
-    "ocr": "665139f18012cb47",
-    "translation": "aeb63622b7628280"
+    "ocr": "010dcf934a95c490",
+    "translation": "3ff8d39f37af595f"
   }
 }
