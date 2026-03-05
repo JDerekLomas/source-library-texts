@@ -1,14 +1,14 @@
 {
   "id": "697d9c9b72d515cb07bb3842",
   "title": "De hemelsche wolcke nu doorbreekende",
-  "display_title": "De hemelsche wolcke nu doorbreekende",
+  "display_title": "The Heavenly Cloud Now Breaking",
   "author": "Lead, Jane",
   "language": "Dutch",
   "year": 1696,
   "published": "1696",
   "pages_count": 399,
-  "pages_with_ocr": 10,
-  "pages_with_translation": 2,
+  "pages_with_ocr": 399,
+  "pages_with_translation": 383,
   "source_url": "https://sourcelibrary.org/book/697d9c9b72d515cb07bb3842",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:30:09.069Z",
+  "synced_at": "2026-03-05T03:20:51.203Z",
   "_hashes": {
-    "ocr": "29e097700adf678c",
-    "translation": "0d81c6b43a739a9c"
+    "ocr": "a0901c0f6c6d0d84",
+    "translation": "b08b39270ee40437"
   }
 }
