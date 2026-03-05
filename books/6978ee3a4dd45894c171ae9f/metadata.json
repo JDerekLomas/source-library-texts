@@ -1,14 +1,14 @@
 {
   "id": "6978ee3a4dd45894c171ae9f",
   "title": "Chymische Schrifften",
-  "display_title": "Chymische Schrifften",
+  "display_title": "Chemical Writings",
   "author": "Sendivogius, Michael",
   "language": "German",
   "year": 1749,
   "published": "1749",
   "pages_count": 451,
   "pages_with_ocr": 451,
-  "pages_with_translation": 4,
+  "pages_with_translation": 432,
   "source_url": "https://sourcelibrary.org/book/6978ee3a4dd45894c171ae9f",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:24:54.541Z",
+  "synced_at": "2026-03-05T01:01:00.862Z",
   "_hashes": {
     "ocr": "3b84158e0f85fa01",
-    "translation": "6a15f1bfb07a9531"
+    "translation": "48844db48b2eeb3a"
   }
 }
