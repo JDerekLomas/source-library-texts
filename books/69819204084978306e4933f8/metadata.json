@@ -1,14 +1,14 @@
 {
   "id": "69819204084978306e4933f8",
   "title": "Memorabilium, sive Arcanorum omnis generis",
-  "display_title": "Memorabilium, sive Arcanorum omnis generis",
+  "display_title": "Memorable Things, or Secrets of Every Kind",
   "author": "Mizaldus, Antonius",
   "language": "Latin",
   "year": 1574,
   "published": "1574",
   "pages_count": 618,
-  "pages_with_ocr": 10,
-  "pages_with_translation": 7,
+  "pages_with_ocr": 618,
+  "pages_with_translation": 598,
   "source_url": "https://sourcelibrary.org/book/69819204084978306e4933f8",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v4.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:31:11.337Z",
+  "synced_at": "2026-03-05T05:20:24.768Z",
   "_hashes": {
-    "ocr": "6758c3aa2ef49917",
-    "translation": "33679cb72a404a06"
+    "ocr": "e8510effda2083c0",
+    "translation": "4b807915b82464ff"
   }
 }
