@@ -1,14 +1,14 @@
 {
   "id": "697c8e13d4a23f3bc792c88a",
   "title": "Fürstl. Anhaltische gehaimbe Cantzley",
-  "display_title": "Fürstl. Anhaltische gehaimbe Cantzley",
+  "display_title": "The Secret Chancellery of the Prince of Anhalt",
   "author": "[Jocher, Wilhelm]",
   "language": "German",
   "year": 1621,
   "published": "1621",
   "pages_count": 468,
-  "pages_with_ocr": 10,
-  "pages_with_translation": 5,
+  "pages_with_ocr": 468,
+  "pages_with_translation": 430,
   "source_url": "https://sourcelibrary.org/book/697c8e13d4a23f3bc792c88a",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:30:31.918Z",
+  "synced_at": "2026-03-05T03:00:48.390Z",
   "_hashes": {
-    "ocr": "ffd59c16c60bbe9a",
-    "translation": "4e958a41190ed403"
+    "ocr": "cf6fd05f0176b99e",
+    "translation": "9c5a2cb243de181b"
   }
 }
