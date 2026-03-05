@@ -1,14 +1,14 @@
 {
   "id": "697c8e0fbaa544415f85b6c2",
   "title": "Geschichte der Abschaffung des Tempelherren-Ordens",
-  "display_title": "Geschichte der Abschaffung des Tempelherren-Ordens",
+  "display_title": "History of the Abolition of the Order of the Knights Templar",
   "author": "[Hodin]",
   "language": "German",
   "year": 1780,
   "published": "1780",
   "pages_count": 266,
-  "pages_with_ocr": 10,
-  "pages_with_translation": 5,
+  "pages_with_ocr": 266,
+  "pages_with_translation": 120,
   "source_url": "https://sourcelibrary.org/book/697c8e0fbaa544415f85b6c2",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:30:39.922Z",
+  "synced_at": "2026-03-05T02:20:47.500Z",
   "_hashes": {
-    "ocr": "f143ed98669aa1da",
-    "translation": "d41aabd127dcf462"
+    "ocr": "f923c985115abfde",
+    "translation": "393c73c0c3ff119d"
   }
 }
