@@ -1,14 +1,14 @@
 {
   "id": "697e23cb571370e531cd1e1e",
   "title": "[Greek: Apolinariou meta phrasis] Interpretatio Psalmorum, versibus Heroicis",
-  "display_title": "[Greek: Apolinariou meta phrasis] Interpretatio Psalmorum, versibus Heroicis",
+  "display_title": "Interpretation of the Psalms",
   "author": "Apollinarius",
   "language": "Greek-Latin",
   "year": 1552,
   "published": "1552",
   "pages_count": 271,
-  "pages_with_ocr": 10,
-  "pages_with_translation": 2,
+  "pages_with_ocr": 271,
+  "pages_with_translation": 254,
   "source_url": "https://sourcelibrary.org/book/697e23cb571370e531cd1e1e",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v4.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:31:30.339Z",
+  "synced_at": "2026-03-05T04:40:35.105Z",
   "_hashes": {
-    "ocr": "da635eacae79f281",
-    "translation": "e0d65b176617dce2"
+    "ocr": "7c14fbdcd6634378",
+    "translation": "e98e5f85690df8a9"
   }
 }
