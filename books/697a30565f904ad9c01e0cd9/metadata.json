@@ -1,14 +1,14 @@
 {
   "id": "697a30565f904ad9c01e0cd9",
   "title": "Dante col sito, et forma dell'inferno",
-  "display_title": "Dante col sito, et forma dell'inferno",
+  "display_title": "Dante, with the Site and Form of Hell",
   "author": "Dante Alighieri",
   "language": "Italian",
   "year": 1515,
   "published": "1515",
   "pages_count": 532,
   "pages_with_ocr": 532,
-  "pages_with_translation": 6,
+  "pages_with_translation": 514,
   "source_url": "https://sourcelibrary.org/book/697a30565f904ad9c01e0cd9",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:23:50.610Z",
+  "synced_at": "2026-03-05T00:50:55.686Z",
   "_hashes": {
     "ocr": "26cb7c66250f959d",
-    "translation": "cbbb3d460fd1fe1a"
+    "translation": "f6772d1bf6c47460"
   }
 }
