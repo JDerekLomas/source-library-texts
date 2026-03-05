@@ -1,14 +1,14 @@
 {
   "id": "697c8e0f6000fdec2f130608",
   "title": "Ueber geheime Wissenschaften, Initiationen und neuere Verbindungen",
-  "display_title": "Ueber geheime Wissenschaften, Initiationen und neuere Verbindungen",
+  "display_title": "On Secret Sciences, Initiations, and Modern Societies",
   "author": "Anonymous",
   "language": "German",
   "year": 1786,
   "published": "1786-1787",
   "pages_count": 404,
   "pages_with_ocr": 404,
-  "pages_with_translation": 6,
+  "pages_with_translation": 394,
   "source_url": "https://sourcelibrary.org/book/697c8e0f6000fdec2f130608",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:25:30.689Z",
+  "synced_at": "2026-03-05T02:00:47.666Z",
   "_hashes": {
     "ocr": "3737f79c0c51fc09",
-    "translation": "63d60f8ee9f12ee3"
+    "translation": "3fd3a818a2042cd5"
   }
 }
