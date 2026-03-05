@@ -1,14 +1,14 @@
 {
   "id": "69804b901fb2ba7cf1d43a20",
   "title": "Eine kurtze Eröfnung und Anweisung der dreyen Principien und Welten im Menschen",
-  "display_title": "Eine kurtze Eröfnung und Anweisung der dreyen Principien und Welten im Menschen",
+  "display_title": "A Brief Opening and Instruction on the Three Principles and Worlds in Man",
   "author": "Gichtel, Johann Georg",
   "language": "German",
   "year": 1723,
   "published": "1723",
   "pages_count": 246,
-  "pages_with_ocr": 10,
-  "pages_with_translation": 0,
+  "pages_with_ocr": 246,
+  "pages_with_translation": 205,
   "source_url": "https://sourcelibrary.org/book/69804b901fb2ba7cf1d43a20",
   "license": "publicdomain",
   "doi": null,
@@ -16,11 +16,11 @@
   "processing": {
     "ocr_model": "gemini-3-flash-preview",
     "prompt_version": "v4.2026-02",
-    "translation_model": null
+    "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:31:01.222Z",
+  "synced_at": "2026-03-05T05:00:35.437Z",
   "_hashes": {
-    "ocr": "0da7e877746286aa",
-    "translation": "e3b0c44298fc1c14"
+    "ocr": "184e84ff188e5cad",
+    "translation": "65ad1027c69c9b66"
   }
 }
