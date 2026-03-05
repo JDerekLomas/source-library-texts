@@ -1,14 +1,14 @@
 {
   "id": "697c8e145ea422b025bbdc70",
   "title": "Geheimer und biss dato verborgen gehaltener trefflicher Tractat, von ihm genant: Die Hand der Philosophen",
-  "display_title": "Geheimer und biss dato verborgen gehaltener trefflicher Tractat, von ihm genant: Die Hand der Philosophen",
+  "display_title": "The Hand of the Philosophers",
   "author": "Hollandus, Johannes Isaac",
   "language": "German",
   "year": 1667,
   "published": "1667",
   "pages_count": 424,
   "pages_with_ocr": 424,
-  "pages_with_translation": 5,
+  "pages_with_translation": 410,
   "source_url": "https://sourcelibrary.org/book/697c8e145ea422b025bbdc70",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:25:14.451Z",
+  "synced_at": "2026-03-05T03:10:50.987Z",
   "_hashes": {
     "ocr": "a7fb33e0498da0df",
-    "translation": "a858a33dce903e32"
+    "translation": "4c01dc4b2a3aed39"
   }
 }
