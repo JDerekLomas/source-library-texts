@@ -1,13 +1,13 @@
 {
   "id": "697e23c9b78d1eaf03952b67",
   "title": "Historia et descriptio theologiae mysticae, seu theosophiae arcanae et reconditae, itemque veterum & novorum mysticorum",
-  "display_title": "Historia et descriptio theologiae mysticae, seu theosophiae arcanae et reconditae, itemque veterum & novorum mysticorum",
+  "display_title": "History and Description of Mystical Theology",
   "author": "Arnold, Gottfried",
   "language": "Latin",
   "year": 1702,
   "published": "1702",
   "pages_count": 739,
-  "pages_with_ocr": 10,
+  "pages_with_ocr": 739,
   "pages_with_translation": 6,
   "source_url": "https://sourcelibrary.org/book/697e23c9b78d1eaf03952b67",
   "license": "publicdomain",
@@ -18,9 +18,9 @@
     "prompt_version": "v4.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:30:47.643Z",
+  "synced_at": "2026-03-05T04:10:37.459Z",
   "_hashes": {
-    "ocr": "622e8fb69512531b",
+    "ocr": "5146ac6944f100f8",
     "translation": "3c4a0b7918b4d7ef"
   }
 }
