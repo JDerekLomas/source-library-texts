@@ -1,14 +1,14 @@
 {
   "id": "697e23c9a2b46f2d5c1bfa93",
   "title": "Horus oder astrognostisches Endurtheil",
-  "display_title": "Horus oder astrognostisches Endurtheil",
+  "display_title": "Horus, or Astrognostic Final Judgment",
   "author": "[Wünsch, Christian Ernst]",
   "language": "German",
   "year": 1783,
   "published": "1783",
   "pages_count": 722,
-  "pages_with_ocr": 10,
-  "pages_with_translation": 4,
+  "pages_with_ocr": 722,
+  "pages_with_translation": 162,
   "source_url": "https://sourcelibrary.org/book/697e23c9a2b46f2d5c1bfa93",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v4.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:30:46.836Z",
+  "synced_at": "2026-03-05T04:10:33.698Z",
   "_hashes": {
-    "ocr": "7a4079c8dfd6c468",
-    "translation": "83819b5fcfc626e0"
+    "ocr": "93db78996337b4a1",
+    "translation": "7179e0cc7e3c9b27"
   }
 }
