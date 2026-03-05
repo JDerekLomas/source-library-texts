@@ -1,14 +1,14 @@
 {
   "id": "697e23cc8fac627cef65b76b",
   "title": "Idea medicinae philosophicae",
-  "display_title": "Idea medicinae philosophicae",
+  "display_title": "The Idea of Philosophical Medicine",
   "author": "Severinus, Petrus",
   "language": "Latin",
   "year": 1571,
   "published": "1571",
   "pages_count": 584,
-  "pages_with_ocr": 10,
-  "pages_with_translation": 4,
+  "pages_with_ocr": 584,
+  "pages_with_translation": 557,
   "source_url": "https://sourcelibrary.org/book/697e23cc8fac627cef65b76b",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v4.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:30:41.485Z",
+  "synced_at": "2026-03-05T04:50:27.405Z",
   "_hashes": {
-    "ocr": "9161c0d92aa39d9a",
-    "translation": "8aad5099eb674752"
+    "ocr": "1e39a7b116631bde",
+    "translation": "2c6f819181d49d2b"
   }
 }
