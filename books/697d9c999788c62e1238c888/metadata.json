@@ -1,14 +1,14 @@
 {
   "id": "697d9c999788c62e1238c888",
   "title": "Gott ist die reinste Liebe",
-  "display_title": "Gott ist die reinste Liebe",
+  "display_title": "God is the Purest Love",
   "author": "Eckartshausen, Karl von",
   "language": "German",
   "year": 1825,
   "published": "1825",
   "pages_count": 326,
-  "pages_with_ocr": 324,
-  "pages_with_translation": 2,
+  "pages_with_ocr": 326,
+  "pages_with_translation": 303,
   "source_url": "https://sourcelibrary.org/book/697d9c999788c62e1238c888",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:26:21.724Z",
+  "synced_at": "2026-03-05T03:20:47.552Z",
   "_hashes": {
-    "ocr": "c51640d231012af9",
-    "translation": "94e755d189f048d8"
+    "ocr": "ab744cb5c3c86c87",
+    "translation": "8f858e671f14e397"
   }
 }
