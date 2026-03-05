@@ -1,14 +1,14 @@
 {
   "id": "697c8e0fbaa544415f85b6ba",
   "title": "Farmaceutica antimoniale",
-  "display_title": "Farmaceutica antimoniale",
+  "display_title": "Antimonial Pharmacy",
   "author": "Lancilotti, Carlo",
   "language": "Latin",
   "year": 1683,
   "published": "1683",
   "pages_count": 354,
   "pages_with_ocr": 354,
-  "pages_with_translation": 2,
+  "pages_with_translation": 337,
   "source_url": "https://sourcelibrary.org/book/697c8e0fbaa544415f85b6ba",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:26:05.169Z",
+  "synced_at": "2026-03-05T02:01:02.848Z",
   "_hashes": {
     "ocr": "a81dccc76a4e8fea",
-    "translation": "419f252f13b1f45a"
+    "translation": "56d8b5d9a6e3a08f"
   }
 }
