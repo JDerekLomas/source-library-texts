@@ -1,14 +1,14 @@
 {
   "id": "697c8e0f150e68b9f40701fe",
   "title": "Geheime Geschichte eines Rosenkreuzers",
-  "display_title": "Geheime Geschichte eines Rosenkreuzers",
+  "display_title": "Secret History of a Rosicrucian",
   "author": "Albrecht, Heinrich Christoph",
   "language": "German",
   "year": 1792,
   "published": "1792",
   "pages_count": 332,
-  "pages_with_ocr": 331,
-  "pages_with_translation": 4,
+  "pages_with_ocr": 332,
+  "pages_with_translation": 319,
   "source_url": "https://sourcelibrary.org/book/697c8e0f150e68b9f40701fe",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:26:15.991Z",
+  "synced_at": "2026-03-05T02:20:59.711Z",
   "_hashes": {
-    "ocr": "25fe4a2d80a22cc1",
-    "translation": "ef592f910340583b"
+    "ocr": "40264641557e77f1",
+    "translation": "99766e96f1731ea3"
   }
 }
