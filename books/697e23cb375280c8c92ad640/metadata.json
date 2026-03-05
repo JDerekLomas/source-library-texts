@@ -1,14 +1,14 @@
 {
   "id": "697e23cb375280c8c92ad640",
   "title": "Ideen ueber das affirmative Princip des Lebens",
-  "display_title": "Ideen ueber das affirmative Princip des Lebens",
+  "display_title": "Ideas on the Affirmative Principle of Life",
   "author": "Eckartshausen, Karl von",
   "language": "German",
   "year": 1798,
   "published": "1798",
   "pages_count": 150,
-  "pages_with_ocr": 10,
-  "pages_with_translation": 7,
+  "pages_with_ocr": 150,
+  "pages_with_translation": 145,
   "source_url": "https://sourcelibrary.org/book/697e23cb375280c8c92ad640",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v4.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:31:21.534Z",
+  "synced_at": "2026-03-05T04:30:49.232Z",
   "_hashes": {
-    "ocr": "019fdcb5378cf1b7",
-    "translation": "be560379dca26360"
+    "ocr": "23a63ac2a0ba16fd",
+    "translation": "d4590116029cdfa7"
   }
 }
