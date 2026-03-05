@@ -1,14 +1,14 @@
 {
   "id": "697e23cbed510657aed145f2",
   "title": "L'Imitation de Jesus-Christ",
-  "display_title": "L'Imitation de Jesus-Christ",
+  "display_title": "The Imitation of Christ",
   "author": "Thomas a Kempis",
   "language": "French",
   "year": 1704,
   "published": "1704",
   "pages_count": 536,
-  "pages_with_ocr": 510,
-  "pages_with_translation": 2,
+  "pages_with_ocr": 536,
+  "pages_with_translation": 506,
   "source_url": "https://sourcelibrary.org/book/697e23cbed510657aed145f2",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v4.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:24:14.924Z",
+  "synced_at": "2026-03-05T04:30:45.414Z",
   "_hashes": {
-    "ocr": "8b81ed99153c4d81",
-    "translation": "987f87e734cc3e94"
+    "ocr": "e40167be7394957d",
+    "translation": "6c2e19827edd6fb3"
   }
 }
