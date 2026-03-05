@@ -1,14 +1,14 @@
 {
   "id": "697b079611cc8928b55ea386",
   "title": "Enchiridion Leonis papae",
-  "display_title": "Enchiridion Leonis papae",
+  "display_title": "The Enchiridion of Pope Leo",
   "author": "anonymous",
   "language": "Latin",
   "year": 1810,
   "published": "[1810?] \"1660\"",
   "pages_count": 224,
-  "pages_with_ocr": 10,
-  "pages_with_translation": 4,
+  "pages_with_ocr": 224,
+  "pages_with_translation": 180,
   "source_url": "https://sourcelibrary.org/book/697b079611cc8928b55ea386",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:30:23.361Z",
+  "synced_at": "2026-03-05T00:30:59.734Z",
   "_hashes": {
-    "ocr": "9c0b9cc351848f88",
-    "translation": "5b2e38c54ffdeef0"
+    "ocr": "c846a1191883782c",
+    "translation": "eedebf787c65b8cd"
   }
 }
