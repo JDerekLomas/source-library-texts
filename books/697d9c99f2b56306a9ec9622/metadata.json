@@ -1,14 +1,14 @@
 {
   "id": "697d9c99f2b56306a9ec9622",
   "title": "Grondich bericht, van de eerste beghinselen der Wederdoopsche seckten",
-  "display_title": "Grondich bericht, van de eerste beghinselen der Wederdoopsche seckten",
+  "display_title": "Thorough Account of the First Principles of the Anabaptist Sects",
   "author": "Moded, Herman",
   "language": "Dutch",
   "year": 1603,
   "published": "1603",
   "pages_count": 410,
   "pages_with_ocr": 410,
-  "pages_with_translation": 5,
+  "pages_with_translation": 398,
   "source_url": "https://sourcelibrary.org/book/697d9c99f2b56306a9ec9622",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:25:24.900Z",
+  "synced_at": "2026-03-05T03:11:03.126Z",
   "_hashes": {
     "ocr": "de0cc610674110a7",
-    "translation": "daa146317a19e1d5"
+    "translation": "35fc0fff9ec7d872"
   }
 }
