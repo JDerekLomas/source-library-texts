@@ -1,14 +1,14 @@
 {
   "id": "69794d37eef1c286564aa429",
   "title": "Der Compass der Weisen, von einem Mitverwandten der innern Verfassung der ächten und rechten Freymäurerey beschrieben",
-  "display_title": "Der Compass der Weisen, von einem Mitverwandten der innern Verfassung der ächten und rechten Freymäurerey beschrieben",
+  "display_title": "The Compass of the Wise",
   "author": "[Jolyfief, Augustin Anton Pocquieres de]",
   "language": "German",
   "year": 1782,
   "published": "1782",
   "pages_count": 473,
   "pages_with_ocr": 473,
-  "pages_with_translation": 3,
+  "pages_with_translation": 461,
   "source_url": "https://sourcelibrary.org/book/69794d37eef1c286564aa429",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:24:37.284Z",
+  "synced_at": "2026-03-05T00:30:55.591Z",
   "_hashes": {
     "ocr": "d04d3826f1a4456a",
-    "translation": "3bb340c98bb5c11b"
+    "translation": "6d9fd06c25088d8c"
   }
 }
