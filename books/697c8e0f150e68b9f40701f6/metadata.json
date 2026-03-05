@@ -1,14 +1,14 @@
 {
   "id": "697c8e0f150e68b9f40701f6",
   "title": "Ein feiner Tractatus [...] von vielerley wunderbarlichen zum theil vormahls unerhörten, oder auch ungewöhnlich seltzamen Dingen",
-  "display_title": "Ein feiner Tractatus [...] von vielerley wunderbarlichen zum theil vormahls unerhörten, oder auch ungewöhnlich seltzamen Dingen",
+  "display_title": "A Fine Treatise on Many Wonderful Things",
   "author": "Sperber, Julius",
   "language": "German",
   "year": 1662,
   "published": "1662",
   "pages_count": 330,
   "pages_with_ocr": 330,
-  "pages_with_translation": 10,
+  "pages_with_translation": 330,
   "source_url": "https://sourcelibrary.org/book/697c8e0f150e68b9f40701f6",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:26:16.952Z",
+  "synced_at": "2026-03-05T02:21:03.368Z",
   "_hashes": {
     "ocr": "ec6f4e1bac9410b0",
-    "translation": "6fd0985ea8a9d323"
+    "translation": "3adbf67fe8e918ce"
   }
 }
