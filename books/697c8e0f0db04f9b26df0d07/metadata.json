@@ -1,14 +1,14 @@
 {
   "id": "697c8e0f0db04f9b26df0d07",
   "title": "God is de reinste liefde",
-  "display_title": "God is de reinste liefde",
+  "display_title": "God is the Purest Love",
   "author": "Eckartshausen, Karl von",
   "language": "Dutch",
   "year": 1808,
   "published": "1808",
   "pages_count": 293,
   "pages_with_ocr": 293,
-  "pages_with_translation": 3,
+  "pages_with_translation": 280,
   "source_url": "https://sourcelibrary.org/book/697c8e0f0db04f9b26df0d07",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:26:47.191Z",
+  "synced_at": "2026-03-05T02:30:55.151Z",
   "_hashes": {
     "ocr": "2bb08a7513479c77",
-    "translation": "55b539a13614b649"
+    "translation": "35fe6344bf9c57e3"
   }
 }
