@@ -1,14 +1,14 @@
 {
   "id": "697c8e0f6000fdec2f130612",
   "title": "Geistliche Correspondentz",
-  "display_title": "Geistliche Correspondentz",
+  "display_title": "Spiritual Correspondence",
   "author": "Schütz, Christoph|Fischer, Amtmann",
   "language": "German",
   "year": 1728,
   "published": "1728",
   "pages_count": 851,
-  "pages_with_ocr": 506,
-  "pages_with_translation": 7,
+  "pages_with_ocr": 851,
+  "pages_with_translation": 844,
   "source_url": "https://sourcelibrary.org/book/697c8e0f6000fdec2f130612",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:24:24.105Z",
+  "synced_at": "2026-03-05T02:20:51.247Z",
   "_hashes": {
-    "ocr": "7860f00a6d70f5ef",
-    "translation": "46d089eff6ba387a"
+    "ocr": "a5db365049407113",
+    "translation": "25f28617d9fa27ff"
   }
 }
