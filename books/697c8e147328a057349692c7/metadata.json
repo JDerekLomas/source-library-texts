@@ -1,14 +1,14 @@
 {
   "id": "697c8e147328a057349692c7",
   "title": "Geheimes und verborgenes chymisches Laboratorium",
-  "display_title": "Geheimes und verborgenes chymisches Laboratorium",
+  "display_title": "Secret and Hidden Chemical Laboratory",
   "author": "anonymous",
   "language": "German",
   "year": 1739,
   "published": "1739",
   "pages_count": 108,
-  "pages_with_ocr": 78,
-  "pages_with_translation": 6,
+  "pages_with_ocr": 108,
+  "pages_with_translation": 103,
   "source_url": "https://sourcelibrary.org/book/697c8e147328a057349692c7",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:29:21.291Z",
+  "synced_at": "2026-03-05T03:00:52.574Z",
   "_hashes": {
-    "ocr": "c1833477bdd586db",
-    "translation": "9e4f814768a45e56"
+    "ocr": "592997ea9eebf74c",
+    "translation": "d574303e15fa68bb"
   }
 }
