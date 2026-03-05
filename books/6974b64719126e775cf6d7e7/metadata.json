@@ -1,14 +1,14 @@
 {
   "id": "6974b64719126e775cf6d7e7",
   "title": "L'art et science de la vraye proportion des lettres attiques",
-  "display_title": "L'art et science de la vraye proportion des lettres attiques",
+  "display_title": "The Art and Science of the True Proportion of Attic Letters",
   "author": "Tory, Geoffroy",
   "language": "French",
   "year": 1549,
   "published": "1549",
   "pages_count": 386,
   "pages_with_ocr": 386,
-  "pages_with_translation": 5,
+  "pages_with_translation": 352,
   "source_url": "https://sourcelibrary.org/book/6974b64719126e775cf6d7e7",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:25:46.850Z",
+  "synced_at": "2026-03-05T00:20:59.748Z",
   "_hashes": {
     "ocr": "3f366d3d504c5291",
-    "translation": "e642310fb60464ea"
+    "translation": "16bcfd1c66465fbc"
   }
 }
