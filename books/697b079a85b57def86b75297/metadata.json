@@ -1,14 +1,14 @@
 {
   "id": "697b079a85b57def86b75297",
   "title": "L'Elixir des philosophes",
-  "display_title": "L'Elixir des philosophes",
+  "display_title": "The Elixir of the Philosophers",
   "author": "John XXII (pope)",
   "language": "French",
   "year": 1557,
   "published": "1557",
   "pages_count": 244,
-  "pages_with_ocr": 10,
-  "pages_with_translation": 7,
+  "pages_with_ocr": 244,
+  "pages_with_translation": 238,
   "source_url": "https://sourcelibrary.org/book/697b079a85b57def86b75297",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:30:26.970Z",
+  "synced_at": "2026-03-05T00:40:52.128Z",
   "_hashes": {
-    "ocr": "6fcf955d46eb08ea",
-    "translation": "66dd290e61940351"
+    "ocr": "3579451c60b0f833",
+    "translation": "6bbc5c489efd4ea8"
   }
 }
