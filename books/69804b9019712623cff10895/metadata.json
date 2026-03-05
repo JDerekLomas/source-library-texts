@@ -1,14 +1,14 @@
 {
   "id": "69804b9019712623cff10895",
   "title": "Kabalisticae precationes, sive selectiores sacrosancti Nominis Divini",
-  "display_title": "Kabalisticae precationes, sive selectiores sacrosancti Nominis Divini",
+  "display_title": "Kabbalistic Prayers",
   "author": "Sperber, Julius",
   "language": "Latin",
   "year": 1600,
   "published": "1600",
   "pages_count": 384,
   "pages_with_ocr": 384,
-  "pages_with_translation": 4,
+  "pages_with_translation": 370,
   "source_url": "https://sourcelibrary.org/book/69804b9019712623cff10895",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v4.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:25:47.664Z",
+  "synced_at": "2026-03-05T05:00:23.806Z",
   "_hashes": {
     "ocr": "7ecc80bfd207590d",
-    "translation": "5c3337e9f22b0277"
+    "translation": "5d71148f8e1a7f2c"
   }
 }
