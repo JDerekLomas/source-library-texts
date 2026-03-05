@@ -1,14 +1,14 @@
 {
   "id": "697c8e0f150e68b9f40701f0",
   "title": "Les génies assistans et gnomes irréconciliables, ou suite au Comte dé Gabalis",
-  "display_title": "Les génies assistans et gnomes irréconciliables, ou suite au Comte dé Gabalis",
+  "display_title": "The Assisting Genies and Irreconcilable Gnomes",
   "author": "[Androl, Antoine]",
   "language": "French",
   "year": 1718,
   "published": "1718",
   "pages_count": 199,
-  "pages_with_ocr": 10,
-  "pages_with_translation": 8,
+  "pages_with_ocr": 199,
+  "pages_with_translation": 192,
   "source_url": "https://sourcelibrary.org/book/697c8e0f150e68b9f40701f0",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:30:35.963Z",
+  "synced_at": "2026-03-05T01:50:59.985Z",
   "_hashes": {
-    "ocr": "b6b5dfd5b9d59382",
-    "translation": "4acb04b212934d81"
+    "ocr": "7bbe780e06e6200e",
+    "translation": "f0a8d4f9fb15f077"
   }
 }
