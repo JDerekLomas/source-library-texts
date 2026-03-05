@@ -1,14 +1,14 @@
 {
   "id": "697b079adfbc5a3161ad43fb",
   "title": "Elucidatio secretorum, das ist, Erklärung der Geheimnussen. Experimenta. Hermetische Philosophia. Dicta Alani. Claves",
-  "display_title": "Elucidatio secretorum, das ist, Erklärung der Geheimnussen. Experimenta. Hermetische Philosophia. Dicta Alani. Claves",
+  "display_title": "Elucidation of Secrets (Elucidatio secretorum)",
   "author": "Lullius, Raimundus|Bernhardus Trevisanus|[Alanus de Insulis]|Basilius Valentinus",
   "language": "German",
   "year": 1602,
   "published": "1602",
   "pages_count": 576,
-  "pages_with_ocr": 10,
-  "pages_with_translation": 6,
+  "pages_with_ocr": 576,
+  "pages_with_translation": 556,
   "source_url": "https://sourcelibrary.org/book/697b079adfbc5a3161ad43fb",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:30:34.916Z",
+  "synced_at": "2026-03-05T01:40:56.366Z",
   "_hashes": {
-    "ocr": "65de9e57f6db36d4",
-    "translation": "768d8c607da0d5af"
+    "ocr": "03e7ebd64ef787fa",
+    "translation": "0c34ddf86a4193f5"
   }
 }
