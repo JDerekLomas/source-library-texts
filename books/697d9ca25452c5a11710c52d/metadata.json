@@ -1,14 +1,14 @@
 {
   "id": "697d9ca25452c5a11710c52d",
   "title": "Le grand livre de la nature, ou l'apocalypse",
-  "display_title": "Le grand livre de la nature, ou l'apocalypse",
+  "display_title": "The Great Book of Nature, or the Apocalypse",
   "author": "anonymous",
   "language": "French",
   "year": 1790,
   "published": "1790",
   "pages_count": 153,
-  "pages_with_ocr": 16,
-  "pages_with_translation": 3,
+  "pages_with_ocr": 153,
+  "pages_with_translation": 136,
   "source_url": "https://sourcelibrary.org/book/697d9ca25452c5a11710c52d",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v4.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:29:57.736Z",
+  "synced_at": "2026-03-05T03:30:11.868Z",
   "_hashes": {
-    "ocr": "f4e062ae527ad2a6",
-    "translation": "f353ee3d5786491e"
+    "ocr": "ab815172d30baed0",
+    "translation": "3c706aa396bb46e8"
   }
 }
