@@ -1,14 +1,14 @@
 {
   "id": "697e23cc296d4e4fca04a95b",
   "title": "Janus mysticus respiciens oder Schrifftmaessige Betrachtung der mystischen Theologie",
-  "display_title": "Janus mysticus respiciens oder Schrifftmaessige Betrachtung der mystischen Theologie",
+  "display_title": "The Mystical Janus: A Scriptural Contemplation of Mystical Theology",
   "author": "Frank, Joh",
   "language": "Latin-German",
   "year": 1723,
   "published": "1723",
   "pages_count": 276,
-  "pages_with_ocr": 10,
-  "pages_with_translation": 5,
+  "pages_with_ocr": 276,
+  "pages_with_translation": 264,
   "source_url": "https://sourcelibrary.org/book/697e23cc296d4e4fca04a95b",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v4.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:30:57.324Z",
+  "synced_at": "2026-03-05T04:50:36.279Z",
   "_hashes": {
-    "ocr": "db649a1c32f93974",
-    "translation": "580e5704f32ca427"
+    "ocr": "07a04209a9a9b1a9",
+    "translation": "43673ea2c90cccea"
   }
 }
