@@ -1,13 +1,13 @@
 {
   "id": "698094204b0c4ab8525e0440",
   "title": "Liber, qui codicillus, seu vademecum inscribitur",
-  "display_title": "Liber, qui codicillus, seu vademecum inscribitur",
+  "display_title": "The Codicil, or Vademecum",
   "author": "Lull, Ramón",
   "language": "Latin",
   "year": 1563,
   "published": "1563",
   "pages_count": 329,
-  "pages_with_ocr": 10,
+  "pages_with_ocr": 329,
   "pages_with_translation": 9,
   "source_url": "https://sourcelibrary.org/book/698094204b0c4ab8525e0440",
   "license": "publicdomain",
@@ -18,9 +18,9 @@
     "prompt_version": "v4.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:31:11.895Z",
+  "synced_at": "2026-03-05T05:10:33.670Z",
   "_hashes": {
-    "ocr": "c9df83727767a434",
+    "ocr": "3b34a25f748f1a36",
     "translation": "c6cb562a8f850f4b"
   }
 }
