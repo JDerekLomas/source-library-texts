@@ -1,14 +1,14 @@
 {
   "id": "697e23c92c49c6746f47a40b",
   "title": "L'Homme de desir",
-  "display_title": "L'Homme de desir",
+  "display_title": "The Man of Desire",
   "author": "[Saint-Martin, Louis Claude de]",
   "language": "French",
   "year": 1802,
   "published": "1802",
   "pages_count": 568,
-  "pages_with_ocr": 510,
-  "pages_with_translation": 1,
+  "pages_with_ocr": 568,
+  "pages_with_translation": 535,
   "source_url": "https://sourcelibrary.org/book/697e23c92c49c6746f47a40b",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v4.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:24:10.036Z",
+  "synced_at": "2026-03-05T04:10:29.502Z",
   "_hashes": {
-    "ocr": "32a78bff9591d214",
-    "translation": "7d66116ca041fb22"
+    "ocr": "cb384d24761d7d0b",
+    "translation": "3c502d2e5e318708"
   }
 }
