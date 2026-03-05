@@ -1,14 +1,14 @@
 {
   "id": "697c8e0f150e68b9f40701f2",
   "title": "Gloria mundi, sonsten Paradeiss Taffel",
-  "display_title": "Gloria mundi, sonsten Paradeiss Taffel",
+  "display_title": "Gloria Mundi, or the Table of Paradise",
   "author": "anonymous",
   "language": "German",
   "year": 1620,
   "published": "1620",
   "pages_count": 285,
   "pages_with_ocr": 285,
-  "pages_with_translation": 6,
+  "pages_with_translation": 280,
   "source_url": "https://sourcelibrary.org/book/697c8e0f150e68b9f40701f2",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:26:50.715Z",
+  "synced_at": "2026-03-05T02:00:51.379Z",
   "_hashes": {
     "ocr": "323fe2178c509a79",
-    "translation": "72a9b8d379e6c4d4"
+    "translation": "69e9e3263a5ed18c"
   }
 }
