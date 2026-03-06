@@ -7,8 +7,8 @@
   "year": 1883,
   "published": "1883",
   "pages_count": 1595,
-  "pages_with_ocr": 1593,
-  "pages_with_translation": 1282,
+  "pages_with_ocr": 1595,
+  "pages_with_translation": 1574,
   "source_url": "https://sourcelibrary.org/book/695311a477f38f6761bcc8b8",
   "license": "https://creativecommons.org/publicdomain/mark/1.0/",
   "doi": null,
@@ -20,9 +20,9 @@
     "prompt_version": "v4.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:20:31.328Z",
+  "synced_at": "2026-03-06T20:40:31.073Z",
   "_hashes": {
-    "ocr": "fd9a66dfe12cfe4e",
-    "translation": "99bc22ee7051e6b7"
+    "ocr": "16c466ff3117c3ce",
+    "translation": "608d7388ad051fbf"
   }
 }
