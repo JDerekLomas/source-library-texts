@@ -54,40 +54,6 @@ This digital copy can be downloaded free of charge. The specific license and ter
 <summary>This page provides a physical description of the 1596 edition's binding, noting its marbled paper covers and the worn gold lettering on its leather spine.</summary>
 <keywords>binding, leather spine, gold tooling, marbled paper, shelfmark, Kepler, bibliography</keywords>
 
---- Page 3 ---
-<meta>This page serves as a flyleaf or endpaper, likely preceding the main body of the manuscript. It contains modern archival notations rather than narrative text.</meta>
-
-Rar 1367. Cat. 1-2 <note>These are library shelfmarks; "Rar" likely refers to *Rariora* (Rare Books) and "Cat." to a specific catalog entry.</note>
-
-<unclear>Faint circular stamp, possibly containing "Library..." or similar text, but too indistinct to transcribe accurately.</unclear> <note>original: "BIBLIO..."</note>
-
-<summary>This page is a flyleaf containing modern library cataloging notations and an illegible institutional stamp.</summary>
-<keywords>shelfmark, library stamp, archival notation</keywords>
-
---- Page 4 ---
-<meta>This page contains administrative stamps and archival markings from the Swiss Federal Observatory in Zurich, establishing the provenance of the manuscript within the Federal Polytechnic Institute.</meta>
-
-<margin>(1596)</margin>
-<margin>G 31</margin>
-
-->**Federal Observatory, Zurich**<-
-<note>original: "Eidgen. Sternwarte Zürich"</note>
-
-->**FEDERAL POLYTECHNIC INSTITUTE**<-
-<note>original: "Eidgenössisches Polytechnikum"</note>
-->**OBSERVATORY ZURICH**<-
-
-<summary>This page features official archival stamps and shelf marks from the Swiss Federal Observatory in Zurich, identifying the document as part of the historical collection of the Federal Polytechnic Institute (now ETH Zurich).</summary>
-<keywords>Swiss Federal Observatory, Zurich, Federal Polytechnic Institute, ETH Zurich, archival stamps, 1596</keywords>
-
---- Page 5 ---
-<meta>This page is blank in the original manuscript and contains no text for translation.</meta>
-
-<warning>Page is blank with no discernible text or images.</warning>
-
-<summary>This page of the manuscript is blank and contains no written content or illustrations.</summary>
-<keywords>blank page, manuscript folio</keywords>
-
 --- Page 6 ---
 <meta>This page serves as the title page for Johannes Kepler's first major work. It contains handwritten library marks and a circular stamp from the Zurich Observatory (Sternwarte Zürich).</meta>
 
@@ -537,70 +503,105 @@ Finally, the fourth motion is proper to the terrestrial globe itself and the air
 <keywords>Earth's rotation, precession of the equinoxes, starless sphere, heliocentrism vs geocentrism, Copernican system, planetary apogees</keywords>
 
 --- Page 26 ---
-<meta>This page introduces the visual representation of the Copernican system, establishing the hierarchy of the celestial spheres which will likely be discussed in detail in the following sections.</meta>
+<meta>This page follows the conclusion of Chapter I, where the author argued for the elegance of the Copernican system. It introduces the first major visual aid—a diagram of the heliocentric universe—to establish the physical proportions and orbital periods of the planets, serving as the foundation for the mathematical "mystery" to be solved in subsequent chapters.</meta>
 
-## TABLE I. EXHIBITING THE ORDER
-OF THE MOBILE CELESTIAL SPHERES AND SIMULTANEOUSLY THE TRUE
-proportion of their magnitude according to their mean distances: likewise the
-Angles of their <term>prothaphaereses</term> <note>original: "prothaphærefcon"; these are geometric corrections used to find the true position of a planet</note> in the Great Orbit of the Earth, according to the
-opinion of Copernicus.
+<margin>
+After chapter 1.
+Page 18.
+</margin>
 
-<margin>Boll. chapter 1.
-Rule 13.</margin>
-<image-desc>A large circular diagram illustrating the Copernican heliocentric model. At the center is a small circle with a cross, representing the Sun (labeled 'D'). Concentric circles represent planetary orbits. The innermost large circle is labeled 'M', and the outermost 'K'. Various smaller circles and lines depict epicycles and deferents. Key points and orbits are labeled with letters: 'L', 'R', 'S', 'I', 'G', 'A', 'C', 'E', 'D', 'B', 'F', 'H', 'X', 'Y', 'Z', 'E', 'N'. Planetary symbols or labels are present: 'h' for Saturn, '24' for Jupiter, '30' for Mars. A cone-like structure extends from 'L' to 'I', with 'R' and 'S' on its sides. A smaller system of circles (A, B, C, D, E, F, G, H) is depicted around the central Sun. Angles and arcs are indicated by letters like T O V, T V, P I N, P L H, R L S, R S, X A Y, X Y, Z A N, Z A.</image-desc>
+# TABLE I. EXHIBITING THE ORDER
+## OF THE MOVING CELESTIAL SPHERES: AND SIMULTANEOUSLY THE
+## true proportion of their magnitude according to their mean distances: likewise the Angles of the prosthaphaereses of the same in the Great Orb of the Earth, according to the opinion of Copernicus.
 
-In the center, or near it, is the <term>SUN</term> <note>original: "SOL"</note>, which is immobile.
-This is followed by the orbit of <term>MERCURY</term>, which is seen
-among the smallest circles around the Sun; its revolution is completed
-in approximately 88 days.
-This is followed by the orbit of <term>VENUS</term> (marked CD), *whose* revolution around the same Sun
-is 224 and two-thirds days.
-That which follows this (marked AB) is the orbit of the <term>EARTH</term> <note>original: "TELLVRIS"</note>, whose revolution is 365
-and a quarter days. It is called the <term>GREAT ORBIT</term> <note>original: "ORBIS MAGNVS"</note>, because of its multiple
-uses in calculation.
-Around the <term>Earth</term> is a small circle like an <term>epicycle</term> <note>a smaller orbit whose center moves around the circumference of a larger one</note>, the <term>LUNAR SPHERE</term>, at point A. It returns to the same fixed star by its motion through the space of a year along with the Earth around the Sun. But its own specific revolution relative to the Sun takes 29 and a half days.
-After this is the Orbit of <term>MARS</term> (marked GH), which has one fixed use relative to the stars,
-or rather to the Sun; it completes its circuit in 687 days.
+<note>This table serves as a visual map of the solar system as reconstructed by Nicolaus Copernicus. The "Prosthaphaeresis" mentioned in the title refers to the geometric correction needed to account for the Earth's own movement when observing other planets.</note>
 
-After a great interval, the <term>Sphere of JUPITER</term> (marked IK) follows this, having
-a circuit of 4332 and one-fifth days.
-The *first* and *greatest* orbit, L M V, belongs to <term>SATURN</term>; its periodic time
-is 10759 and one-fifth days.
-The <term>FIXED STARS</term>, however, are removed by such an inestimable interval
-that the distance between the Sun and the Earth is not perceptible in comparison to them.
-And these are at the furthest edge, just as the Sun is in the center, entirely immobile.
-The Angle T O V, or Arc T V, is the <term>prothaphaeresis</term>, or the <term>parallax</term> <note>the apparent displacement of an object when viewed from different positions</note>, which
-the Great Orbit of the Earth has in relation to the Sphere of Mars.
-Likewise, P I N is the parallax of the same Great Orbit in relation to the Sphere of Jupiter: and P L H,
-or the arc R L S or R S, is the parallax in relation to the Sphere of Saturn.
-SO ALSO the arc X A Y, or X Y, is the parallax of the Sphere of Venus: and Z A N, or
-Z A, is the parallax of the Sphere of Mercury, in relation to the Great Orbit.
+->[An astronomical diagram showing the Sun at the center of concentric planetary orbits. Mercury is closest to the Sun, followed by Venus, Earth (with the Moon), Mars, Jupiter, and Saturn. Lines drawn from the Earth's orbit to the outer planets illustrate parallax angles.]<-
 
-<summary>This page presents a diagram and explanation of the Copernican heliocentric system, detailing the orbital periods of the planets and the concept of the "Great Orbit" of the Earth. It explains how planetary parallax is calculated based on the Earth's movement relative to the other celestial spheres.</summary>
-<keywords>Heliocentrism, Nicolaus Copernicus, planetary orbits, Great Orbit, parallax, prothaphaeresis, orbital periods, astronomy</keywords>
+In the center, or near it, is the motionless SUN.
+**EF**, the smallest circle around the Sun, is that of MERCURY (☿), which completes its journey in almost 88 days.
+Following this is the circle of VENUS (♀), **CD**, whose revolution around the same Sun is 224 and two-thirds days <note>original: "cum besse"; 'bes' is a Roman unit for two-thirds.</note>.
+The one following this, **AB**, belongs to the EARTH (♁); its revolution is 365 and a quarter days. It is called the **GREAT ORB** <note>original: "ORBIS MAGNVS"</note> because of its multiple uses in calculating the positions of all other planets.
+Around the Earth is a small circle, like an epicycle, for the LUNAR SPHERE (☽), at **A**, returning to the same fixed star in the same span of a year as the Earth. But its own specific revolution relative to the Sun takes 29 and a half days.
+After this is the Orbit of MARS (♂), **GH**, which finishes its course among the fixed stars, or relative to the Sun, in 687 days.
+
+<column-break/>
+
+Following this after a great interval is the Sphere of JUPITER (♃), **IK**, having a circuit of nearly 4332 and five-eighths days.
+**LM**, the last and largest, is SATURN'S (♄); its periodic time is 10,759 and one-fifth days.
+But the **FIXED STARS** are higher still by such an inestimable interval that the distance between the Sun and the Earth is not perceptible compared to it. And these are at the extreme edge, just as the Sun is at the center, completely motionless.
+The Angle **TGV**, or the Arc **TV**, is the <term>prosthaphaeresis: a Greek-derived term meaning 'addition and subtraction,' used here to describe the adjustment made to a planet's position to account for the Earth's orbital motion.</term>, or <term>parallax: the apparent displacement of an object when viewed from two different points—in this case, from different sides of the Earth's orbit.</term>, which the Great Orb of the Earth has relative to the Sphere of Mars.
+Likewise, **PIH** is the parallax of the same Great Orb relative to the Sphere of Jupiter; and **PLH**, or **RLS**, or the arc **RS**, relative to the sphere of Saturn.
+Similarly, the arc **XAY** or **XY** is the parallax of the sphere of Venus; as **ZAR** or **ZR** is the parallax of the sphere of Mercury, relative to the Great Orb.
+
+<summary>This page presents a diagram and accompanying key for the Copernican heliocentric model, detailing the orbital periods of the planets and the geometric concept of parallax. It establishes the Earth's orbit (the "Great Orb") as the primary reference point for calculating the relative distances and positions of the other celestial bodies.</summary>
+<keywords>Copernicus, heliocentrism, orbital periods, Great Orb, parallax, prosthaphaeresis, Mercury, Venus, Earth, Mars, Jupiter, Saturn, Fixed Stars</keywords>
 
 --- Page 27 ---
-<meta>This page continues the astronomical descriptions following the introductory chapter, providing a visual and textual summary of the planetary spheres according to the traditional geocentric model.</meta>
+<meta>This page follows Table I (the Copernican/heliocentric system). Here, the author presents the traditional geocentric model as a direct comparison, illustrating the ancient view of the universe where Earth remains at the center. This comparison is vital to the author's argument for the superior mathematical harmony of the Copernican system.</meta>
+
+->SPHERE OF THE FIXED STARS.<-
+
+<column-break/>
 
 ### TABLE II.
-SHOWING THE ORDER OF THE Celestial Spheres, and the nearby proportion of the orbits and epicycles <note>An epicycle is a small circle whose center moves around the circumference of a larger one; used in ancient astronomy to explain planetary loops.</note>, as well as the angles or arcs called *prosthaphaeresis* <note>original: "proßthaphæresios"; a technical term for the correction added to or subtracted from the mean motion of a planet to find its true position.</note>, according to their mean distances, following the opinion of the Ancients.
 
-->In the center is the EARTH,<-
-->the only immobile thing.<-
+**EXHIBITING THE ORDER**
+**OF THE CELESTIAL**
+spheres, and in some measure the
+proportion of the orbits and
+epicycles, as well as the angles
+or arcs of the <term>prosthaphaereses</term><note>The angle of correction used to account for the difference between a planet's average position and its observed position.</note> of the
+same, according to their mean
+distances, following the
+opinion of the
+Ancients.
 
-The innermost small circle around the Earth represents the Sphere of the MOON, whose motion is monthly.
+->*In the center is the EARTH,*<-
+->*alone motionless.*<-
 
-The orbit of MERCURY surrounds this most closely: which is followed by the orbit of VENUS, and the Sphere of the SUN, all revolving in an annual revolution.
+The innermost small circle around
+the Earth represents the sphere
+of the MOON, whose motion is
+monthly.
 
-The orbits of the remaining three superior planets—MARS, JUPITER, and SATURN—and the Sphere of the FIXED STARS, indicate the arcs which each can describe and complete as whole circles around the earth, or the center. *The orbit of Mars completes its revolution in two years. Jupiter requires nearly 12 years. And Saturn almost 30 years. The Fixed Stars, according to the decrees of the Alfonsine tables <note>The Alfonsine Tables were 13th-century astronomical data used to calculate the positions of the sun, moon, and planets.</note>, restore their period in 49,000 years.
+Closely surrounding this is the
+orbit of MERCURY: which is
+followed by that of VENUS, and
+afterward the sphere of the SUN,
+all revolving in an annual
+rotation.
 
-<margin>*The size of the figures (except for the Sun ☉) of the epicycle in the concentric circle of the *prosthaphaeresis* <term>prosthaphaeresis: the difference between the mean and true position of a planet</term>, at mean distances, show the arcs intercepted by straight lines drawn from the earth and touching each individual epicycle, with the number of degrees added.</margin>
+The orbits of the remaining three
+superior planets—MARS, JUPITER,
+and SATURN—as well as the
+sphere of the FIXED STARS,
+indicate the arcs which each can
+describe and complete as whole
+circles around the earth as their
+center. The orbit of Mars
+revolves in two years. Jupiter
+requires nearly 12 years.
+And Saturn almost 30 years. The
+Fixed Stars, according to the
+teachings of the <note>original: "Alphonsinorum"; referring to the Alphonsine Tables, a set of astronomical tables commissioned by King Alfonso X of Castile in the 13th century.</note> Alphonsine Tables,
+complete their period in
+49,000 years:
 
-After Chapter 1.
-page 11.
+How great a <term>prosthaphaeresis</term>
+the <term>epicycles</term><note>A small circle whose center moves along the circumference of a larger one; used in the ancient system to explain why planets occasionally appear to move backward.</note> of each
+(except the Moon ☽) produce in
+the concentric circle at mean
+distances is shown by the arcs
+intercepted by straight lines
+drawn from the earth and
+touching each epicycle, with the
+numbers of degrees added.
 
-<summary>This page presents a diagram and description of the geocentric universe, detailing the orbital periods of the planets and the mathematical corrections (prosthaphaeresis) used to track their movements. It reflects the traditional "Ancient" view of the cosmos with the Earth at the center, surrounded by the Moon, Sun, and planets.</summary>
-<keywords>geocentrism, celestial spheres, epicycles, prosthaphaeresis, Alfonsine tables, planetary orbits, astronomy, Earth, Moon, Mercury, Venus, Sun, Mars, Jupiter, Saturn, Fixed Stars</keywords>
+<meta>After Chapter 1, page 21.</meta>
+
+<summary>This page illustrates the traditional geocentric (Ptolemaic) model of the universe, showing the Earth at the center surrounded by nested planetary spheres and epicycles. It serves as a historical and mathematical contrast to the Copernican model presented on the previous page.</summary>
+<keywords>Geocentrism, Ptolemaic system, planetary spheres, epicycle, prosthaphaeresis, orbital periods, Alphonsine Tables, Saturn, Jupiter, Mars, Venus, Mercury, Moon, Earth</keywords>
 
 --- Page 28 ---
 <meta>This page continues from the previous astronomical diagrams, moving from a visual representation of the heavens into a philosophical and theological defense of the geometric principles behind creation.</meta>
@@ -757,52 +758,51 @@ The remaining two proportions—between **Venus** and the **Earth**, and between
 <keywords>Saturn, Jupiter, Mars, Earth, Venus, Mercury, Platonic solids, Cube, Octahedron, Icosahedron, Dodecahedron, planetary distances, geometry of the universe, heliocentrism</keywords>
 
 --- Page 34 ---
-<meta>This page presents the famous central engraving from Johannes Kepler’s 1596 work, "Mysterium Cosmographicum" (The Secret of the Universe). It illustrates his theory that the distances between the planetary orbits are determined by the five Platonic solids nested within one another.</meta>
+<meta>This page serves as the visual centerpiece for Kepler’s *Mysterium Cosmographicum* (The Cosmographic Mystery), illustrating the geometric argument established on the previous page. Having theoretically linked the five Platonic solids to the gaps between the planetary spheres, Kepler here provides the definitive engraving of that celestial model.</meta>
 
-# PLATE III. EXHIBITING THE DIMENSIONS AND DISTANCES OF THE PLANETARY ORBS BY MEANS OF THE FIVE
-# REGULAR GEOMETRIC SOLIDS.
-# CONSECRATED TO THE MOST ILLUSTRIOUS PRINCE AND LORD, LORD FREDERICK, DUKE OF WÜRTTEMBERG
-# AND TECK, COUNT OF MONTBÉLIARD, ETC.
+# PLATE III. SHOWING THE DIMENSIONS AND DISTANCES OF THE PLANETARY ORBITS THROUGH THE FIVE REGULAR GEOMETRIC BODIES.
 
-<image-desc>An engraving depicting Johannes Kepler's model of the solar system from his *Mysterium Cosmographicum*. It shows a large, cut-away sphere representing the outermost planetary orbit, revealing a nested structure within. Inside, the five Platonic solids (tetrahedron, cube, octahedron, dodecahedron, icosahedron) are alternately placed between concentric spheres, which represent the orbits of the planets (Saturn, Jupiter, Mars, Earth, Venus, Mercury). The entire assembly is supported by an ornate, classical-style stand with scrollwork. Various lines and labels (A, B, C, etc.) are visible on the diagram, corresponding to the legend in the right margin.</image-desc>
+# DEDICATED TO THE MOST ILLUSTRIOUS PRINCE AND LORD, LORD FREDERICK, DUKE OF WÜRTTEMBERG AND TECK, COUNT OF MONTBÉLIARD, ETC.
 
-<margin>Behold, Spectator, a wonder of the heavens <note>original: "olympi"</note>;
-Never before has such a figure been before your eyes.
-For how great the distance of the Planets is between
-The Orbs, the five Solids of Euclid <note>The "Platonic Solids": cube, tetrahedron, dodecahedron, icosahedron, and octahedron.</note>
-Show here, how well they agree with what the worthy Copernicus
-Handed down; skillful Learning shows you these riches,
-Which has given no small gifts with praise
-To the Author, the Lord of Teck.
-*Christophorus Leibfridt*
-*Doctor of Medicine, made this.*</margin>
-<margin>A. The first orb in the heavens, the region of the *Twins* <note>Gemini; here referring to the sphere of Saturn.</note>
-is delineated, and there as far as the *h* *circle*.
-B. The Sphere of *Jupiter*.
-C. *Geometry* [shows] the six-sided pyramid <note>The Cube</note>, the tenth type
-with the triangular [faces], inside the matter
-forming the bodies between the planets.
-D. The Sphere of *Mars*.
-E. *Geometry* [shows] the eight-sided pyramid <note>The Octahedron</note> from the sphere...
-the same interval held in this Book,
-provided and restored in form.
-F. The *Great Orb* <note>The orbit of the Earth.</note>.
-G. *Geometry* [shows] the twelve-sided pyramid <note>The Dodecahedron</note> to the Sphere of Jupiter
-with the triangular middle.
-H. The Sphere of *Veneris* <note>Venus</note>.
-I. The *Octahedron* from the sphere of the sun held in this Book
-in its form.
-K. The Sphere of *Mercury*.
-L. The Sun, the *Middle* in the *Center of the Universe*,
-immobile.
+<image-desc>A large, detailed copperplate engraving of Johannes Kepler's cosmological model. The diagram depicts the orbits of the known planets nested within the five Platonic solids (regular polyhedra). The entire structure is presented as a three-dimensional model resting in a large hemispherical bowl, which represents the sphere of Saturn. Inside this sphere is a cube (Hexahedron), followed by a smaller sphere for Jupiter, a Tetrahedron for Mars, a Dodecahedron for Earth (Orbis Magnus), an Icosahedron for Venus, and an Octahedron for Mercury, all centered around the Sun. The model sits upon an ornate, multi-tiered architectural pedestal. Various Greek letters (alpha through mu) label the different spheres and solids, corresponding to the legend in the bottom right.</image-desc>
 
-Description of the plate for
-page 24.</margin>
+You marvel, SPECTATOR, at Kepler’s work of the heavens,
+A figure such as you have never seen before;
+For how great the distance is
+->between<-
+The planetary spheres, Euclid’s five bodies <note>These are the "Platonic Solids": the cube, tetrahedron, dodecahedron, icosahedron, and octahedron.</note> teach.
+How well the doctrine which COPERNICUS once
+Delivered, the author’s work now
+->shows you.<-
+Indeed, the author showed himself grateful with such a
+->gift<-
+To the DUKE of TECK, not without
+->praise.<-
+->Christophorus Leibfried made this. <note>original: "ff." for *fecit*, indicating Leibfried composed the verse or assisted in the design.</note><-
 
-Printed at Tübingen by Georg Gruppenbach in the year 1597.
+<column-break/>
 
-<summary>This plate features the iconic nested-sphere model of the solar system, illustrating Kepler's early theory that the spacing of the six known planets corresponds to the geometry of the five Platonic solids. It includes a dedicatory poem and a legend identifying the spheres and geometric shapes associated with each planet.</summary>
-<keywords>Johannes Kepler, Mysterium Cosmographicum, Platonic solids, planetary orbits, heliocentrism, astronomy, geometry, Duke of Württemberg</keywords>
+α. Sphere of Saturn.
+β. The Cube, the first regular geometric body, showing the distance from the orbit of Saturn all the way to Jupiter.
+γ. Sphere of Jupiter.
+δ. The Tetrahedron or pyramid, touching the sphere of Jupiter on the outside, and on the inside causing the greatest distance among the planets for Mars.
+ε. Sphere of Mars.
+ζ. The Dodecahedron, which represents the distance from the sphere of Mars to the Great Orbit <term>Orbis Magnus: the path of the Earth around the Sun</term> carrying the Earth with the Moon.
+η. The Great Orbit.
+θ. The Icosahedron, indicating the true distance from the Great Orbit to the sphere of Venus.
+ι. Sphere of Venus.
+κ. The Octahedron, showing the distance from the sphere of Venus to the orbit of Mercury.
+λ. Sphere of Mercury.
+μ. The Sun, the Middle or the immobile Center of the Universe.
+
+<margin>Place this plate at page 24.</margin>
+
+---
+
+->Printed at Tübingen by Georg Gruppenbach in the year 1597.<-
+
+<summary>This famous engraving illustrates Kepler's theory that the distances between the six known planets correspond to the dimensions of the five Platonic solids nested within one another. It marks a pivotal attempt to harmonize the Copernican sun-centered system with classical geometry.</summary>
+<keywords>Kepler, Copernican system, Platonic solids, planetary orbits, geometry, astronomy, Duke Frederick of Württemberg, Orbis Magnus</keywords>
 
 --- Page 35 ---
 <meta>This page continues the discussion of Johannes Kepler's cosmological theory from the previous illustration. Having shown the visual model of the nested Platonic solids, Kepler now provides the geometric proofs, citing Euclid, to explain why there are exactly five regular solids that can exist in three-dimensional space.</meta>
@@ -1429,52 +1429,45 @@ But let us suppose that in the nearby spaces, these gaps are filled by such orbs
 <keywords>Copernicus, orbital gaps, eccentricity, Earth, Venus, Mars, Jupiter, celestial mechanics, vacuum, planetary distances</keywords>
 
 --- Page 59 ---
-<meta>This page continues the astronomical demonstrations from the previous chapter, moving from theoretical models to a visual representation of the Copernican system's dimensions.</meta>
+<meta>This page serves as the visual climax of Kepler's argument in the "Mysterium Cosmographicum." Having discussed the physical thickness of planetary spheres on the previous page, Kepler now provides a detailed schematic (Plate IV) to prove that the gaps between the planets are not empty "waste" but are precisely sized to house the five Platonic solids.</meta>
 
-<page-num>49</page-num>
-<header>Regarding Chapter 14.</header>
+<margin>
+Regarding chapter 14.
+Page 49.
+</margin>
 
-# TABLE IV. SHOWING THE TRUE MAGNITUDE OF THE CELESTIAL ORBS, AND of their intervals, according to the numbers and opinion of Copernicus.
+# TABLE IV. SHOWING THE TRUE
+## SCALE OF THE CELESTIAL ORBS, AND
+### the spaces between them, according to the calculations and opinion of Copernicus.
 
-<image-desc>A large circular diagram illustrating the Copernican model of the solar system. At the center is the Sun, labeled 'C'. Concentric circles represent the orbits of planets. The innermost orbits are for Mercury (☿), Venus (♀), Earth (🜨) with its Moon, and Mars (♂). Further out are the orbits of Jupiter (♃) and Saturn (♄). The outermost circle is marked with degrees (0, 10, 20, 30, etc.) and astrological symbols for the zodiac. Various lines, both solid and dotted, indicate epicycles and eccentricities. Key points and regions are labeled with letters: S, R, I, H, K, L, A, B, C, D, E, F, G, T, V, X, Y, Z, and also O, P, Q, M.</image-desc>
+<image-desc>A large, detailed astronomical diagram of the Copernican solar system. At the center is the Sun (G). Concentric circles represent the orbits and spheres of the planets: Mercury (F), Venus (E), Earth (D) with a small lunar epicycle, Mars (C), Jupiter (B), and Saturn (A). Between these planetary spheres, the five Platonic solids are represented by letters indicating their positions: the Cube (R), Tetrahedron (S), Dodecahedron (T), Icosahedron (V), and Octahedron (X). The outermost ring is divided into the twelve signs of the Zodiac, with astrological symbols (Aries, Taurus, etc.) and degree markers. Various points within the spheres are labeled with letters (H, I, K, L, M, N, O, P, Q) to explain eccentricities and the thickness of the planetary shells.</image-desc>
 
-The outermost circle represents the Zodiac in the starry Sphere <note>The "starry sphere" refers to the fixed stars, which Copernicus believed were stationary and very distant.</note>, described from the center of the World or the Great Orb <note>original: "Orbis magni"; this refers to the Earth's annual orbit around the sun.</note>, or even from the terrestrial globe, because the entire Great Orb stands in relation to it.
+The outermost circle represents the Zodiac in the Starry Sphere <note>The "Starry Sphere" refers to the outermost shell of the universe containing the fixed stars.</note>, drawn from the center of the World or the "Great Orb" <note>original: "Orbis magni"; this is the term Copernicus used for the Earth's orbit around the Sun.</note>, or even from the Earthly globe, because the entire Great Orb is imperceptible in comparison to it.
 
-A. The system of Saturn, concentric from G, the center of the great orb.
+**A** The system of Saturn, concentric from center **G** of the Great Orb.
+**B** The system of Jupiter. **C** The system of Mars.
+**D** The circle or path of the center of the terrestrial globe <note>The Earth.</note> concentric from center **G**, with the small Lunar sphere attached in two places. The two faint circular lines of the Earth’s orb, with the Moon inserted between them, denote its thickness.
+**E** Two small circles outlining the thickness of the system of Venus, within which the entire variety of its movements is performed.
+**F** The space between the two small circles, in which the entire variety of the movements of the planet Mercury is performed.
+**G** The center of all things, and near it, the Solar body.
+The circle passing through **o** and **p** (of which only two arcs appear here) is the eccentric [orbit] of Saturn.
+The curved line passing through **q** and through the <term>perigee</term> <note>The point in an orbit closest to the center.</note> of the <term>epicycle</term> <note>A small circle whose center moves along the circumference of a larger one.</note> at the <term>apogee</term> <note>The point in an orbit furthest from the center.</note> of the eccentric at **o**, and through the apogee of the same at the perigee of the eccentric at **p**, is the planet’s path.
 
-B. The system of Jupiter.
+<column-break/>
 
-D. The circle or path of the center of the terrestrial globe, concentric from center G, with the Lunar small sphere <note>original: "sphærula Lunari"</note> traveling around it. Two dashed circular lines denote the thickness of the Earth's path with the Moon inserted.
+This path is eccentric. It is not a perfect circle, yet it does not perceptibly differ from a circular line.
+**H I** is the thickness enclosed by two concentric circles, which the eccentric path of Saturn claims for itself.
+The curved line, or quasi-circle passing through **M**, and through the apogee of the epicycle at **o**, and through the perigee of the same at **N**, is the eccentric which Ptolemy calls the <term>Equant</term> <note>A mathematical concept used by ancient astronomers to account for the observed changes in a planet's speed.</note>.
+**K L** is the thickness intercepted by two faint concentric circles, which the entire epicycle and that equant require.
+The planet truly never rises above **H**, nor descends below **I**.
+Let the other spheres also be understood to be divided into similar particular orbs; however, these are omitted here so that a multitude of lines does not obscure the matter rather than clarify it. Therefore, for Jupiter and Mars, their eccentric path and the two concentric circles containing it are sufficient, while for the others, only the concentric circles are drawn.
+->The intervening spaces.<-
+**R** is the place of the Cube. **s** the Tetrahedron.
+**T** the Dodecahedron. **v** the Icosahedron. **x** the Octahedron.
+**z** is the space between Saturn and the fixed stars, which is like an infinity.
 
-E. Two small circles outlining the thickness of the system of Venus, within which all the variety of its movements is perceived.
-
-F. The space between two small circles, in which all the variety of the movement of the star Mercury is perceived.
-
-G. The Center of all, and near it the Solar body.
-
-The circle passing through O and P (of which only two arcs appear here) is the center-epicycle <term>centrepicyclus: a secondary circle used in planetary models to account for variations in speed and distance</term> of Saturn.
-
-The curved line through Q and R, passing through the perigee <term>perigee: the point in an orbit closest to the center</term> of the epicycle placed at the apogee <term>apogee: the point in an orbit farthest from the center</term> of the eccentric, and through its apogee at the perigee of the eccentric, is the eccentric path of the planet. It is not a true circle, yet it does not sensibly differ from a circular line.
-
-H. I. The thickness enclosed by two concentric circles, which the eccentric path of Saturn claims for itself.
-
-The curved line, or quasi-circle through M and P, passing through the apogee of the epicycle at O and through its perigee at V, is the eccentric, which Ptolemy calls the Equant <note>original: "Æquantiem"; a mathematical concept used by ancient astronomers to explain the observed speed of planets, which Copernicus sought to replace with purely circular motions.</note>.
-
-K. L. The thickness intercepted by two dashed concentric circles, which the entire epicycle and the equant require.
-
-The planet truly never ascends beyond V, nor descends below V.
-
-Let the rest of the spheres be understood as described by the specific details of the orbs; however, lest the multitude of lines cause the work to be obscured rather than clarified, they are omitted here. Therefore, in Jupiter and Mars, their eccentric path, and likewise the containing concentric circles, are shown; in the others, only the concentric ones are produced from above.
-
-**Intermediate Spaces.** <note>These refer to the gaps between planetary orbits, which the author famously associated with the five Platonic solids.</note>
-
-T. The Dodecahedron.
-V. The Icosahedron.
-X. The Octahedron.
-Y. Z. is the space between Saturn and the fixed stars, similar to the infinite.
-
-<summary>This page provides a detailed diagram and legend for the Copernican heliocentric model, explaining the mathematical "thickness" of planetary orbits and the geometry of their movements. It notably links the gaps between planets to Platonic solids and describes the vast space leading to the fixed stars.</summary>
-<keywords>Copernicus, Heliocentrism, Saturn, Jupiter, Venus, Mercury, Epicycle, Equant, Platonic Solids, Celestial Orbs</keywords>
+<summary>This page presents Kepler's famous diagram illustrating his theory that the five Platonic solids dictate the spacing between the planetary spheres. It provides a technical legend for the diagram, explaining how the "thickness" of each planet's sphere accounts for its complex, non-circular movements within the heliocentric system.</summary>
+<keywords>Mysterium Cosmographicum, Johannes Kepler, Platonic solids, heliocentrism, planetary spheres, orbital thickness, eccentric orbits, Copernicus, geometry of the universe</keywords>
 
 --- Page 60 ---
 <meta>This page continues the discussion of the Copernican system, moving from the visual representation of Table IV on the previous page to a mathematical comparison (Table V) that tests the author's theory that the five Platonic solids determine the spacing between planetary orbits.</meta>
