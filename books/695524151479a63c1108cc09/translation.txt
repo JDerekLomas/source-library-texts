@@ -1,92 +1,25 @@
---- Page 1 ---
-<meta>This page represents the physical cover of the volume; no text is present to modernize from the previous page.</meta>
-
-[The cover of this volume is bound in dark brown textured leather, featuring a decorative double-line border gilded in gold along the edges. The wear and scuffing on the surface are consistent with a historical binding from the early modern period.]
-
-<summary>This is the front cover of the historical volume, featuring a gold-tooled leather binding typical of the 16th-18th centuries.</summary>
-<keywords>bookbinding, leather cover, gold tooling, historical artifact</keywords>
-
---- Page 2 ---
-<meta>This page continues the biographical or historical account of an individual named Grove, likely within a larger ecclesiastical or academic history.</meta>
-
-<page-num>791</page-num>
-
-G. B. Grove.
-<margin>14</margin>
-<margin>Note</margin>
-e
-
-<term>Grove</term> <note>original: "Grove"; likely referring to Robert Grove (1634–1696), who became Bishop of Chichester, or a similar contemporary figure.</note>
-
-<summary>This page contains fragmentary records and marginalia regarding an individual named Grove, likely as part of a biographical entry or index.</summary>
-<keywords>Grove, biography, historical records</keywords>
-
---- Page 3 ---
-<meta>This is the opening page of a manuscript or notebook belonging to Elizabeth Worcester Mills, focusing on the subject of alchemy.</meta>
-
-<page-num>1</page-num>
-
-<unclear>Other</unclear>
-Alchemy 8-11
-Book #2
-
-Elizabeth Worcester Mills.
-
-<term>Alchemy</term> <note>Alchemy was a medieval and early modern chemical philosophy aiming to transform base metals into gold and discover a universal cure for disease.</note>
-
-<summary>This title page identifies the volume as the second book in a series belonging to Elizabeth Worcester Mills, specifically covering topics related to alchemy.</summary>
-<keywords>Elizabeth Worcester Mills, Alchemy, Book 2, Chemistry, Early Modern Science</keywords>
-
---- Page 4 ---
-<meta>This page appears to be a flyleaf or a transition page within the document, containing minimal text and significant physical degradation.</meta>
-
-<page-num>N</page-num>
-
-<header>X</header>
-
-<warning>Page is mostly blank with extremely faint, almost illegible markings in the upper middle section.</warning>
-
-<unclear>Faint markings, possibly a number like "10" or "100", followed by several lines of very faded, indistinct cursive script.</unclear>
-
-<summary>This page is largely blank, containing only faint, illegible numerical markings and faded cursive script that cannot be deciphered with certainty.</summary>
-<keywords>blank page, illegible script, manuscript fragments</keywords>
-
---- Page 5 ---
-<meta>This page is marked as blank or illegible in the source document; no continuity from previous pages is available.</meta>
-
-<page-num>N</page-num>
-
-<header>X</header>
-
-<warning>This page is blank or entirely illegible; no discernible text or images are present.</warning>
-
-<summary>This page contains no readable text or images from the original historical document.</summary>
-<keywords>blank page, illegible, missing text</keywords>
-
 --- Page 6 ---
-<meta>This page introduces a symbolic alchemical emblem, likely serving as a frontispiece or a key conceptual diagram for the work.</meta>
+<meta>This page serves as the frontispiece of the work, featuring an intricate alchemical illustration and Latin inscriptions which have been translated into Modern English.</meta>
 
-<page-num>N</page-num>
+<page-type>frontispiece</page-type>
 
-<image-desc>An intricate alchemical or hermetic engraving. At the top, clouds contain celestial figures (two cherubs or angels) and a bull-like creature, all adorned with stars, connected by a rainbow-like arc. Below this, a large crown is depicted. Centrally, a triangle containing an indistinct symbol or figure rests atop a cross-like symbol, which in turn surmounts another crown. From this crown rises a caduceus-like staff, with two serpents entwined around it, topped by a crown and a cross. The staff rests on a spherical vessel emitting flames or smoke, which sits on a base shaped like a star or tetrahedron. On either side of the central axis, two hills or mounds feature cave entrances. Below, a body of water contains an oval shape enclosing a radiant, sun-like or star-like burst of energy or flames.</image-desc>
+<image-desc>
+An elaborate alchemical engraving. At the top, a celestial arc features the zodiac signs Taurus and Aries among clouds and stars, accompanied by two figures seated in the clouds with stars on their chests. 
 
-<margin>Reason</margin>
-<margin>Philosophy</margin>
-<margin>Truth</margin>
-<margin>More</margin>
-<margin>The</margin>
-<margin>Alchemy</margin>
-<margin>God</margin>
-<margin>of</margin>
-<margin>doing</margin>
-<margin>rightly</margin>
-<margin>Law</margin>
+The center of the image is dominated by a symbolic vertical axis. At the very top is a triple crown topped with a cross. Below it hangs a triangle containing a bird (likely a phoenix or eagle). Beneath the triangle is a patriarchal cross. Below the cross is a crown around which two serpents entwine a central rod in the manner of a caduceus. This rod is rooted in another crown that sits atop a spherical alchemical vessel filled with fire. 
 
-->Hidden within the caverns of the metals is that Stone which is the venerable Hermes.<-
-<note>original: "De cavernis Metallorum occultus est, qui Lapis est venerabilis HERMES." This refers to the "Philosopher's Stone," a legendary substance in alchemy said to be capable of turning base metals into gold and granting eternal life. Hermes Trismegistus is the mythical founder of the Hermetic tradition.</note>
+To the left of this central pillar is a radiant moon, and to the right is a radiant sun with a human face, both emitting beams toward the center. 
 
-<summary>This page features a complex alchemical engraving symbolizing the hidden nature of the Philosopher's Stone, which the text claims is concealed within the "caverns of the metals." It establishes the hermetic and philosophical framework of the document through symbolic imagery and a Latin epigram.</summary>
-<keywords>Alchemy, Hermes Trismegistus, Philosopher's Stone, Hermeticism, Metallorum, Symbolism</keywords>
+In the lower half of the engraving, two rocky hills flank the central vessel. Each hill has a cavernous opening (mine entrance) from which a stream or path flows toward a central point. At the very bottom foreground, a circular pit or furnace contains a large, burgeoning flame.
+</image-desc>
+
+->From the caverns of the metals, he is hidden, who<-
+->Is the venerable stone, **HERMES**.<-
+
+<vocab>caverns of the metals, venerable stone, Hermes, Alchemy, Caduceus, Taurus, Aries, Sun, Moon</vocab>
+
+<summary>This frontispiece features a highly symbolic alchemical engraving depicting the celestial and terrestrial elements of the Great Work, identifying Hermes as the "venerable stone" hidden within the earth.</summary>
+<keywords>Hermes, Philosophers' Stone, Alchemy, Caduceus, Zodiac, Taurus, Aries, Sol, Luna, Metallurgy</keywords>
 
 --- Page 7 ---
 <meta>This is the title page of "The Hermetical Triumph," following the frontispiece image which symbolically introduced the Philosopher's Stone.</meta>
@@ -144,42 +77,6 @@ Elizabeth Worcester Mills.
 <summary>This is the title page for "The Hermetical Triumph," a comprehensive alchemical treatise translated from French and German that promises to explain the creation of the Philosopher's Stone. It includes a specific dialogue titled "The Ancient War of the Knights," which explores the relationship between Gold, Mercury, and the alchemical process.</summary>
 
 <keywords>Hermetic Triumph, Philosopher's Stone, Hermetic Magistery, Ancient War of the Knights, Alchemy, Thomas Harris, London Bridge, Alchemical Matter</keywords>
-
---- Page 8 ---
-<meta>This appears to be the title page of a historical work concerning the Crusades, likely Thomas Fuller’s "The History of the Holy War" or a similar contemporary treatise.</meta>
-
-<page-num>N</page-num>
-
-## THE HISTORY
-## OF THE HOLY WAR
-->A<-
-# TREATISE
-
-More comprehensively and more diligently collected
-than any yet existing.
-With all the circumstances of the time and place.
-The History of the Holy War,
-extracted from the most authentic records.
-
----
-
-Wherein is shown the true cause of the Holy War,
-and the reasons for the Crusades.
-To which is added a short account of the Knights Templars
-and the Knights of St. John of Jerusalem.
-With a description of their habits <note>original: "habits"; here meaning their distinctive clothing or monastic uniforms</note> and arms,
-and the places where they fought.
-By T. W. <note>Likely the initials of the author or editor.</note>
-
----
-
-->LONDON<-
-Printed for A. C.
-and are to be sold by him at the Black Spread Eagle in Fleet Street.
-16XX. <note>The specific year is obscured by fading, but the style suggests the mid-17th century.</note>
-
-<summary>This is the title page for a comprehensive historical treatise on the Crusades, detailing the causes of the conflict and the history of military orders like the Templars and Hospitallers.</summary>
-<keywords>Holy War, Crusades, Knights Templar, Knights of St. John, Jerusalem, military orders, 17th-century printing</keywords>
 
 --- Page 9 ---
 <meta>The previous page was the title page for a history of the Crusades. However, this page begins the preface for a work on alchemy (the "Hermetic Art"), suggesting a different volume or a significant shift in subject matter within the collection.</meta>
