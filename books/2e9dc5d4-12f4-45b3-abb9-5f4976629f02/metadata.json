@@ -1,14 +1,14 @@
 {
   "id": "2e9dc5d4-12f4-45b3-abb9-5f4976629f02",
   "title": "Janua Linguarum Reserata",
-  "display_title": "Janua Linguarum Reserata (1641)",
+  "display_title": "The Gate of Tongues Unlocked",
   "author": "Jan Amos Comenius",
   "language": "Latin/English",
   "year": 1631,
   "published": "1631",
   "pages_count": 379,
-  "pages_with_ocr": 378,
-  "pages_with_translation": 377,
+  "pages_with_ocr": 379,
+  "pages_with_translation": 376,
   "source_url": "https://sourcelibrary.org/book/2e9dc5d4-12f4-45b3-abb9-5f4976629f02",
   "license": "publicdomain",
   "doi": null,
@@ -20,9 +20,9 @@
     "prompt_version": "v4.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:25:52.017Z",
+  "synced_at": "2026-03-06T18:21:09.002Z",
   "_hashes": {
-    "ocr": "1a8d7cfe82adee39",
-    "translation": "8d57d02441819b7a"
+    "ocr": "9e97400de2a1e80c",
+    "translation": "beb8e29c73ff4ee8"
   }
 }
