@@ -6178,31 +6178,40 @@ Finally, learn how much of an arc at the opposite of the apogee of the epicycle 
 <keywords>Mercury, planetary visibility, elongation, Regiomontanus, Ptolemy, Almagest, Johannes Hamman, Venice, 1496, Maximilian I, astronomy, colophon</keywords>
 
 --- Page 219 ---
-<meta>Following the specific calculations for the visibility of Mercury, this page transitions into the geometric proofs and chord-based trigonometry that underpin such astronomical observations. It focuses on the properties of triangles inscribed in semicircles, which were essential for determining planetary positions.</meta>
+<meta>This page appears to be a geometric supplement or appendix following the conclusion of the main text. While the previous page finished the astronomical discussion of Mercury and the book's colophon, this page focuses on fundamental geometric proofs concerning circles, chords, and the properties of inscribed polygons, which underly the astronomical calculations used throughout the work.</meta>
 
-For every triangle observed within a semicircle upon the diameter, the perpendicular line that falls from the vertex to the diameter is the **mean proportional** <term>mean proportional</term> <note>In a right triangle, the altitude drawn to the hypotenuse creates a geometric mean between the two segments of the hypotenuse. In other words, the length of the perpendicular squared equals the product of the two segments.</note> between the two parts of the diameter which it divides; and its square is equal to the two squares of the sides which [originate] from the same angle, being smaller than the chord of 120 degrees.
+Every angle established in a semicircle upon the diameter <note>original: "Omnis anguli in semicirculo sup diametrum constituti"</note> is a right angle according to Aristotle. This is [also found] in the second-to-last [proposition] of the first book <note>This refers to Euclid’s *Elements*, Book 1, Proposition 47, known as the Pythagorean Theorem</note>, because the square of the diameter is equal to the squares of the two sides. From which the line *d g* [is] a chord; from those letters <note>referring to the labels in the geometric diagram</note> you will find the chord of the hexagon. 120... is <unclear>square root</unclear>
 
-->**To be found**<-
-It is therefore necessary to find the property for describing the diagram <note>original: "ygram," likely a shorthand for "diagramma"</note>, and they find [the values] through two degrees and through the chords of the sides.
+<margin>
+[Regarding] the <term>sagitta</term> <note>original: "phaletre," literally "quiver," but used here as a geometric term for the height of an arc</note> as a square, so that where a right angle occurs, it is necessary to lead a side over [it] equal to the two sides that constitute it <unclear>ordered</unclear>.
+</margin>
 
-->[Geometric Diagram]<-
-<note>The diagram illustrates the geometric relationship between inscribed shapes (a pentagon and a hexagon) and the circle's diameter. The labels indicate specific values used in medieval trigonometry, where the radius of a circle was often set to 60 units.</note>
+<image-desc>
+A geometric diagram of a circle with a horizontal diameter and various inscribed chords. The diameter is marked with a point 'c' and the value '180', along with a central crosshair. Chords are drawn from a point 'a' on the left circumference and from points 'b' on the upper circumference towards a point 'p' at the bottom.
 
-*   **Point a** (left) to **Point c** (center) is labeled **170**.
-*   The arc near point **a** is labeled **of the pentagon** <note>original: "pentagoni"</note>; the line from **a** toward the top is labeled **60**.
-*   Another arc near **a** is labeled **of the hexagon** <note>original: "hexagoni"</note>; the line extending from it is labeled **73**.
-*   A vertical line intersects the center, with a segment labeled **3**.
-*   A line labeled **chord 12** <note>original: "corda 12"</note> connects to point **b**.
-*   A long line labeled **side of the pentagon** <note>original: "latus pentagoni"</note> is marked with the value **187**.
-*   A line labeled **side of the hexagon** <note>original: "latus hexagoni"</note> is marked with the value **120**.
+Several chords and arcs are labeled with degree values and polygon names:
+- A chord on the upper left is labeled "hexagon" and "60".
+- A chord below it is labeled "pentagon" and "72".
+- A long chord stretching across the circle is labeled "108 side of the pentagon".
+- Another long chord is labeled "120 side of the hexagon".
+- Points on the circumference are labeled 'a', 'b', and 'b'.
+- A point at the top is labeled '12 g' and "chord".
+- A number '13' is written in the lower center of the circle.
+- The bottom vertex is labeled 'p'.
+</image-desc>
 
-If the side of unequal [lengths] in a semicircle, the larger to the smaller, the proportion is larger. 73 is the chord of the smaller to the larger. 12 degrees of the smaller, and so for the others.
+<margin>Proposition 8 of the first book <note>Likely referencing Ptolemy's *Almagest*, Book 1, Chapter 10, which contains this specific lemma for calculating chords</note></margin>
+Of unequal arcs in a semicircle, the ratio of the greater arc to the lesser is greater than the ratio of the chord of the greater to the chord of the lesser.
 
-->**Chord**<-
-There is, therefore, a proportion: the line **ab** to the line **cd** is [calculated] similarly to the degrees of **ba** and **cd**.
+<margin>
+chord
+f. that from the ratio of *gb* to
+the chord... *e* / *ge* to *ed*
+and smaller *ba* because *ge* is smaller
+</margin>
 
-<summary>This page provides the geometric foundations for the preceding astronomical calculations, specifically focusing on Thales' theorem and the properties of chords for inscribed pentagons and hexagons. It explains how to derive proportional distances within a circle, which is the basis for calculating planetary arcs.</summary>
-<keywords>geometry, chord, mean proportional, pentagon, hexagon, diameter, semicircle, trigonometry</keywords>
+<summary>This page illustrates the geometric principles of chords and inscribed polygons, specifically proving that angles in a semicircle are right angles and establishing the ratio between arcs and their chords. These proofs are the mathematical foundations for the "Table of Chords" used in ancient and medieval trigonometry to calculate planetary positions.</summary>
+<keywords>geometry, chords, semicircle, Aristotle, Euclid, pentagon, hexagon, trigonometry, ratios, Pythagorean theorem</keywords>
 
 --- Page 220 ---
 <meta>Continuing from the previous page's discussion on the mean proportional in semicircles and the construction of chords for astronomical diagrams, this page provides specific geometric proofs relating to the areas of squares and rectangles formed by points on the diagram. It transitions from the general theory of planetary visibility to the specific Euclidean geometry required for these calculations.</meta>
@@ -6246,23 +6255,3 @@ vunt onb...
 <summary>This page presents geometric propositions concerning the equality of areas (rectangles and squares) within a specific diagram, likely following Euclidean principles. The presence of unrelated manuscript fragments in the margins suggests the paper was later reused or reinforced during the binding process.</summary>
 
 <keywords>geometry, rectangle area, square, Euclidean proof, technical Greek, manuscript fragments, binding reinforcement</keywords>
-
---- Page 221 ---
-<meta>This page serves as a blank flyleaf or endpaper, following the geometric proofs from the previous folio. No text is present on this side of the leaf.</meta>
-
-[This page is a blank endpaper or flyleaf and contains no text.]
-
-<note>This leaf is a flyleaf—a blank sheet placed at the beginning or end of a book to protect the main text. The surface shows heavy creasing and significant signs of age, including dark brown discoloration at the edges and small holes where the page was stitched into the binding.</note>
-
-<summary>This page is a blank endpaper or flyleaf with no discernible text. It shows significant physical wear, including creasing and damage along the binding edge.</summary>
-<keywords>blank page, flyleaf, endpaper, manuscript condition, binding remnants</keywords>
-
---- Page 222 ---
-<meta>Following the blank flyleaf on the previous page, which followed a series of geometric proofs, this page continues the sequence of protective endpapers at the end of the manuscript volume.</meta>
-
-[This page is a blank endpaper or flyleaf and contains no text.]
-
-<note>This leaf is a flyleaf—a blank sheet placed at the beginning or end of a book to protect the main text. The surface shows heavy creasing and significant signs of age, including dark brown discoloration at the edges and small holes where the page was stitched into the binding.</note>
-
-<summary>This page is a blank endpaper or flyleaf with no discernible text. It shows significant physical wear, including creasing and damage along the binding edge.</summary>
-<keywords>blank page, flyleaf, endpaper, manuscript condition, binding remnants</keywords>
