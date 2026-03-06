@@ -1,14 +1,14 @@
 {
   "id": "6970e3859b09d309d780a2dc",
   "title": "Antwort...auff acht fragstuck",
-  "display_title": "Antwort...auff acht fragstuck",
+  "display_title": "Answer to Eight Questions",
   "author": "Tritheim, Johann",
   "language": "German",
   "year": 1555,
   "published": "1555",
   "pages_count": 150,
   "pages_with_ocr": 150,
-  "pages_with_translation": 118,
+  "pages_with_translation": 143,
   "source_url": "https://sourcelibrary.org/book/6970e3859b09d309d780a2dc",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:28:05.522Z",
+  "synced_at": "2026-03-06T23:40:13.684Z",
   "_hashes": {
     "ocr": "738487f53ded409c",
-    "translation": "b2d35abf1dc4546d"
+    "translation": "4cd2bacd487dab40"
   }
 }
