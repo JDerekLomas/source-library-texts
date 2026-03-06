@@ -1,14 +1,14 @@
 {
   "id": "6970e35a9b09d309d780a254",
   "title": "De aeternitate",
-  "display_title": "De aeternitate",
+  "display_title": "On Eternity",
   "author": "Drechsel, Jeremias",
   "language": "Latin",
   "year": 1634,
   "published": "1634",
   "pages_count": 200,
   "pages_with_ocr": 200,
-  "pages_with_translation": 184,
+  "pages_with_translation": 194,
   "source_url": "https://sourcelibrary.org/book/6970e35a9b09d309d780a254",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:27:37.149Z",
+  "synced_at": "2026-03-06T23:20:20.717Z",
   "_hashes": {
     "ocr": "eb3d965954e4f759",
-    "translation": "47103d0f2fbbdef4"
+    "translation": "f13c3aba3c9bbfb7"
   }
 }
