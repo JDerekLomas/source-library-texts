@@ -1,14 +1,14 @@
 {
   "id": "6970e3639b09d309d780a270",
   "title": "Alchymia denudata revisa et aucta, oder Das biss anhero nie recht geglaubte, durch die Experienz nunmehro aber würcklich beglaubte und aus allen Zweiffel gesetzte [...] Wunder der Natur",
-  "display_title": "Alchymia denudata revisa et aucta, oder Das biss anhero nie recht geglaubte, durch die Experienz nunmehro aber würcklich beglaubte und aus allen Zweiffel gesetzte [...] Wunder der Natur",
+  "display_title": "Alchemy Unveiled",
   "author": "[Naxagoras, Ehrd de]",
   "language": "German",
   "year": 1728,
   "published": "1728",
   "pages_count": 610,
   "pages_with_ocr": 610,
-  "pages_with_translation": 604,
+  "pages_with_translation": 605,
   "source_url": "https://sourcelibrary.org/book/6970e3639b09d309d780a270",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:23:14.397Z",
+  "synced_at": "2026-03-06T23:30:17.319Z",
   "_hashes": {
     "ocr": "747742e5137003a6",
-    "translation": "ef3cfaaf66b734f4"
+    "translation": "ba655e79fa8a3a06"
   }
 }
