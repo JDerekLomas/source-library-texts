@@ -1,14 +1,14 @@
 {
   "id": "24285aea-eed6-43e9-8a49-ecc9442f46f5",
   "title": "Regole generali di architettura",
-  "display_title": "Serlio: Regole generali (1540 Venice)",
+  "display_title": "General Rules of Architecture",
   "author": "Sebastiano Serlio",
   "language": "Italian",
   "year": 1537,
   "published": "1537",
   "pages_count": 160,
   "pages_with_ocr": 160,
-  "pages_with_translation": 160,
+  "pages_with_translation": 154,
   "source_url": "https://sourcelibrary.org/book/24285aea-eed6-43e9-8a49-ecc9442f46f5",
   "license": "publicdomain",
   "doi": null,
@@ -18,11 +18,11 @@
   "processing": {
     "ocr_model": "gemini-3-flash-preview",
     "prompt_version": "v4.2026-02",
-    "translation_model": "gemini-2.5-flash"
+    "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:28:00.429Z",
+  "synced_at": "2026-03-06T18:50:43.669Z",
   "_hashes": {
     "ocr": "51b6a35fbe2d1a51",
-    "translation": "ccedfc81e452536e"
+    "translation": "dd597585aca788e1"
   }
 }
