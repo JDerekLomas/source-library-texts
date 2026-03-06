@@ -1,14 +1,14 @@
 {
   "id": "6974b64019126e775cf6d7df",
   "title": "Arca thesauris opulenta",
-  "display_title": "Arca thesauris opulenta",
+  "display_title": "A Chest Rich in Treasures",
   "author": "Glauber, Johann Rudolph",
   "language": "Latin",
   "year": 1660,
   "published": "1660",
   "pages_count": 200,
   "pages_with_ocr": 200,
-  "pages_with_translation": 192,
+  "pages_with_translation": 193,
   "source_url": "https://sourcelibrary.org/book/6974b64019126e775cf6d7df",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:27:36.925Z",
+  "synced_at": "2026-03-06T23:10:20.508Z",
   "_hashes": {
     "ocr": "5ac4d37f131c409a",
-    "translation": "7fd928c6916b080b"
+    "translation": "88cd646f8b7392a5"
   }
 }
