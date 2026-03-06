@@ -1,14 +1,14 @@
 {
   "id": "6952e4cc77f38f6761bc8c0b",
   "title": "Novum Testamentum Graece",
-  "display_title": "Greek New Testament (Tischendorf Critical Edition)",
+  "display_title": "Greek New Testament",
   "author": "Tischendorf, Constantin von",
   "language": "Greek",
   "year": 1869,
   "published": "1869",
   "pages_count": 1002,
   "pages_with_ocr": 984,
-  "pages_with_translation": 984,
+  "pages_with_translation": 974,
   "source_url": "https://sourcelibrary.org/book/6952e4cc77f38f6761bc8c0b",
   "license": "publicdomain",
   "doi": null,
@@ -18,11 +18,11 @@
   "processing": {
     "ocr_model": "gemini-3-flash-preview",
     "prompt_version": "v4.2026-02",
-    "translation_model": "gemini-2.5-flash"
+    "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:21:16.596Z",
+  "synced_at": "2026-03-06T19:21:02.568Z",
   "_hashes": {
     "ocr": "116a929ba4e0b00b",
-    "translation": "df43461ee90ebe1b"
+    "translation": "9760412d0006e834"
   }
 }
