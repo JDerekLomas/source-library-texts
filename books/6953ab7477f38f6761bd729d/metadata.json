@@ -1,14 +1,14 @@
 {
   "id": "6953ab7477f38f6761bd729d",
   "title": "Rosarium Philosophorum (Labyrinthus Chimicus)",
-  "display_title": "Reg.lat.1278",
+  "display_title": "The Rosary of the Philosophers",
   "author": "Anonymous",
   "language": "Latin",
   "year": null,
   "published": "Medieval",
   "pages_count": 1118,
   "pages_with_ocr": 1118,
-  "pages_with_translation": 1093,
+  "pages_with_translation": 1095,
   "source_url": "https://sourcelibrary.org/book/6953ab7477f38f6761bd729d",
   "license": "CC-BY-NC-4.0",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v4.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:20:50.130Z",
+  "synced_at": "2026-03-06T21:20:37.145Z",
   "_hashes": {
     "ocr": "70111b34c44c1b0b",
-    "translation": "6f679f4efbd4f854"
+    "translation": "daf43ad5d8d8c780"
   }
 }

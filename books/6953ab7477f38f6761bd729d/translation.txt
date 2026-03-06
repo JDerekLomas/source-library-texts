@@ -1,54 +1,3 @@
---- Page 1 ---
-<meta>This is the opening page/cover of the manuscript. No previous page for continuity.</meta>
-
-<page-num>1</page-num>
-
-<warning>Faint watermark text</warning>
-
-<image-desc>Front cover of a book with a red label on the spine. A faint circular watermark reads "© Vatican Apostolic Library ALL RIGHTS RESERVED" <note>original: "Biblioteca Apostolica Vaticana"</note> repeated twice, forming a full circle on the cover. The top arc reads clockwise, and the bottom arc reads counter-clockwise (appearing upside down).</image-desc>
-
-->© Vatican Apostolic Library ALL RIGHTS RESERVED<-
-
-<term>Vatican Apostolic Library<note>The central library of the Holy See, located in Vatican City; one of the oldest and most significant research libraries in the world.</note></term>, ALL RIGHTS RESERVED
-
-<summary>This page serves as the front cover of the manuscript, featuring the official seal and ownership marks of the Vatican Apostolic Library.</summary>
-<keywords>Vatican Apostolic Library, book cover, manuscript provenance</keywords>
-
---- Page 2 ---
-<meta>This page serves as the formal frontispiece or archival cover for the manuscript, establishing its provenance within the Vatican Library's collection.</meta>
-
-<page-num>0002</page-num>
-
-<margin>
-VATICAN
-LIBRARY
-Reg. lat. <note>original: "Reg. lat." - short for Reginensis latini, referring to the collection of Queen Christina of Sweden</note>
-1278
-</margin>
-
-->© Vatican Apostolic Library ALL RIGHTS RESERVED<-
-->© Vatican Apostolic Library ALL RIGHTS RESERVED<-
-
-<term>Reg. lat.</term> <note>The "Reginensis latini" collection consists of manuscripts formerly owned by Queen Christina of Sweden, which entered the Vatican Library in the 17th century.</note>, <term>Vatican Apostolic Library</term> <note>The central library of the Holy See, located in Vatican City.</note>, ALL RIGHTS RESERVED
-
-<summary>This page contains the official archival stamps and ownership markings of the Vatican Apostolic Library, identifying the manuscript as part of the Queen Christina of Sweden collection (Reg. lat. 1278).</summary>
-<keywords>Vatican Library, Queen Christina of Sweden, archival markings, provenance, Reg. lat. 1278</keywords>
-
---- Page 3 ---
-<meta>This page serves as the front matter or a protective flyleaf for the manuscript, containing modern institutional markings rather than historical text.</meta>
-
-->Vatican Apostolic Library ALL RIGHTS RESERVED ©<-
-->© RESERVED RIGHTS ALL Vatican Apostolic Library<-
-
----
-
-Copyright © Vatican Apostolic Library <note>original: "Biblioteca Apostolica Vaticana"</note>
-https://digi.vatlib.it/view/MSS_Reg.lat.1278/0003
-powered by AMLAD+ NTT DATA
-
-<summary>This page is a modern digital placeholder and copyright notice from the Vatican Apostolic Library, marking the beginning of the digitized manuscript.</summary>
-<keywords>Vatican Apostolic Library, copyright, digital repository, front matter</keywords>
-
 --- Page 4 ---
 <meta>This page follows the modern digital copyright notice and serves as the first page of the digitized manuscript content. While the previous page was a modern administrative insert, this page contains the historical Latin text, though its condition is poor.</meta>
 
@@ -212,46 +161,45 @@ Take a round earthenware vessel and place at the bottom lead and tin, equal part
 <keywords>alchemy, copper, mercury, fixation, silver, tin, lead, cementation, blacksmith's water, metallurgy</keywords>
 
 --- Page 13 ---
-<meta>This page appears to be an introductory or transitional leaf featuring a significant allegorical illustration, likely representing a planetary deity or a mythological figure associated with the sun or heavens. Due to the poor state of the manuscript's preservation, the accompanying text is currently illegible.</meta>
+<meta>This page completes the mercury fixation process started on page 3 and presents an allegorical illustration of the solar principle, essential for the final stages of the alchemical "Great Work."</meta>
 
-<page-num>f</page-num>
+...days in sharp vinegar <note>Completing the sentence from the previous page: "Place it to soak for three days..."</note>.
 
-<image-desc>A pen-and-ink drawing depicting a bearded figure, possibly a deity, seated in a chariot-like vehicle. The figure is facing right, with one leg extended forward. The vehicle has a large spoked wheel adorned with a sun-like face in its center. The front of the chariot features decorative elements, including what appear to be small cherubic figures. Two birds, possibly doves or swans, are shown pulling the chariot forward with reins. Faint, illegible text is visible below the drawing. A circular digital watermark "Biblioteca Apostolica Vaticana ALL RIGHTS RESERVED" is overlaid on the image.</image-desc>
+# [The Chariot of the Sun]
 
-<unclear>The text on this page is too faint to be deciphered.</unclear>
-<unclear>Multiple lines of script follow the illustration but remain illegible due to fading and water damage.</unclear>
-<unclear>...</unclear>
-<unclear>...</unclear>
-<unclear>...</unclear>
-<unclear>...</unclear>
-<unclear>...</unclear>
-<unclear>...</unclear>
-<unclear>...</unclear>
-<unclear>...</unclear>
-<unclear>...</unclear>
-<unclear>...</unclear>
-<unclear>...</unclear>
-<unclear>...</unclear>
-<unclear>...</unclear>
-<unclear>...</unclear>
-<unclear>...</unclear>
+<image-desc>A pen and ink drawing in brown ink depicting a chariot. A male figure, possibly a solar deity given the iconography, stands in the vehicle holding reins. The chariot's wheel is decorated with a "sun-in-splendour" motif—a face with radiating rays at the hub. A small child or putto sits at the curved front of the chariot. Above the scene, a bird, possibly a dove or eagle, is depicted in flight.</image-desc>
 
-<summary>This page features a detailed pen-and-ink illustration of a bearded figure in a bird-drawn chariot, likely representing a celestial or mythological allegory. The accompanying text is unfortunately illegible due to significant fading and damage.</summary>
-<keywords>chariot, deity, allegory, celestial, birds, sun-wheel, mythology</keywords>
+->**The Allegory of Sol**<-
+
+This illustration depicts the **chariot** <note>original: *currus*; a common symbol for the movement of celestial bodies or the progression of a chemical process</note> of the Sun. The central figure represents the **Solar Deity** <note>In alchemical terms, Sol or the Sun represents Gold, the ultimate goal of transmutation</note>, who stands within the vessel while guiding the reins.
+
+The vehicle is supported by a **sun wheel** <note>original: a face with radiating rays at the hub</note>, designed with the "sun-in-splendour" motif. This symbolizes the intense heat and light of the "secret fire" used by the alchemist. 
+
+At the prow of the chariot sits a **child** <note>original: *putto*; often used to represent the "Philosophical Child" or the mercury of the sages that is born from the union of opposites</note>. Hovering above the entire scene is a **bird** <note>original: possibly a dove or eagle; these typically signify the volatile spirits rising or the process of sublimation where solids are turned into vapor</note> in mid-flight, showing the ascent of the spirit from the material base.
+
+<summary>This page concludes a mercury solidification recipe and features a detailed alchemical illustration of a solar chariot, symbolizing the perfection of Gold and the volatile spirits involved in the work.</summary>
+
+<keywords>Sol, Gold, Chariot, Sun Wheel, Putto, Alchemical Allegory, Sublimation, Mercury Fixation</keywords>
 
 --- Page 14 ---
-<meta>This page contains institutional watermarks and a preliminary sketch, likely serving as a title page or a protective flyleaf for a manuscript held in the Vatican Library.</meta>
+<meta>This page provides a visual conclusion to the mercury fixation process discussed on page 3. The faint sketch of the solar chariot symbolizes the attainment of the "Golden" state or the Solar Principle in the alchemical Great Work. A digital watermark from the Vatican Library currently obscures some of the original fine lines.</meta>
 
-->**Vatican Apostolic Library**<-
-->**ALL RIGHTS RESERVED**<-
+...days in sharp vinegar <note>Completing the sentence from the previous page: "Place it to soak for three days..."</note>.
 
-<note>The text above appears as a circular watermark used by the repository to indicate ownership and copyright.</note>
+# [The Chariot of the Sun]
 
-<image-desc>A faint pencil sketch depicts a classical chariot or ceremonial cart. The vehicle is characterized by a highly decorative wheel featuring a central floral or solar motif. The body of the chariot is adorned with fluid, scroll-like ornamentation, suggesting a sense of movement or a celestial theme, as if the vessel is traveling through clouds.</image-desc>
+<image-desc>A faint, light-brown ink drawing of a classical chariot. A figure stands within the vehicle holding reins, representing a solar deity. The most prominent feature is the chariot's wheel, which contains a "sun-in-splendour" motif—a circular hub depicting a human face surrounded by radiating lines. A small child sits at the curved front of the chariot, and a bird, likely a dove or eagle, is depicted in flight above the scene.</image-desc>
 
-<summary>This page features the official watermark of the Vatican Apostolic Library and a faint, artistic pencil sketch of a classical chariot, likely acting as a frontispiece or decorative endpaper.</summary>
+->**The Allegory of the Sun**<-
 
-<keywords>Vatican Apostolic Library, watermark, chariot sketch, classical motifs, institutional markings</keywords>
+This illustration depicts the **chariot** <note>original: *currus*; a symbol for the movement of celestial bodies and the steady progression of the alchemical process</note> of the Sun. The central figure represents the **Solar Deity** <note>original: *Sol*; in alchemical theory, the Sun represents Gold, the perfect metal and the ultimate goal of transmutation</note>, who stands within the vessel while guiding the reins.
+
+The vehicle is supported by a **sun wheel** <note>the hub features a face with radiating rays</note>, designed with the "sun-in-splendour" motif. This symbolizes the intense heat and light of the **secret fire** <term>secret fire: the internal, often spiritual or non-physical heat used by alchemists to catalyze the transformation of matter</term> used by the practitioner.
+
+At the prow of the chariot sits a **child** <note>original: *putto*; in this context, it often represents the "Philosophical Child," the pure result of the union between the "King" (Sulfur) and "Queen" (Mercury)</note>. Hovering above the entire scene is a **bird** <note>original: likely a dove or eagle; these signify the volatile spirits rising or the process of **sublimation** where solid materials are purified into vapor</note> in mid-flight, showing the ascent of the spirit from its material base.
+
+<summary>This page presents an allegorical sketch of a solar chariot, symbolizing the transition to the final "Golden" stage of alchemy. The imagery of the sun wheel and the rising bird illustrates the themes of intense heat and spiritual sublimation.</summary>
+<keywords>Sun, Sol, chariot, alchemy, Great Work, sublimation, secret fire, solar deity, sun wheel, putto</keywords>
 
 --- Page 15 ---
 <meta>This page transitions from the decorative frontispiece of the Vatican manuscript to practical alchemical or pharmaceutical instructions, specifically detailing the distillation of vinegar.</meta>
@@ -331,27 +279,6 @@ vinegar, retort, ash, receiver, furnace, charcoal, phlegm, to distill, dregs, oi
 
 <summary>This page presents a fragmentary, poetic reflection on the "Golden Age," a time when humanity supposedly lived in communal harmony. In this alchemical context, the passage likely serves as an allegory for the original, uncorrupted state of a substance prior to chemical transformation.</summary>
 <keywords>Golden Age (aetatem auream), communal living, primordial state, alchemical allegory, Latin fragments</keywords>
-
---- Page 18 ---
-<meta>This page appears to be a title page or a frontispiece containing institutional ownership marks and copyright warnings from the Vatican Library.</meta>
-
-# Vatican Apostolic Library
-
-## ALL RIGHTS RESERVED
-
--> <note>The text is arranged in a circular pattern, likely a digital watermark or physical stamp from the repository.</note> <-
-
-<unclear>Vatican Apostolic Library</unclear>
-<unclear>ALL RIGHTS RESERVED</unclear>
-
-<image-desc>A circular stamp or watermark is visible on the page. The text "© Vatican Apostolic Library ALL RIGHTS RESERVED" forms a continuous circle, with the text oriented outwards from the center of the circle.</image-desc>
-
-© Vatican Apostolic Library ALL RIGHTS RESERVED
-
-<term>Vatican Apostolic Library</term> <note>original: "Biblioteca Apostolica Vaticana"; the central library of the Holy See, located in Vatican City.</note>
-
-<summary>This page contains the official ownership stamp and copyright notice of the Vatican Apostolic Library, indicating the manuscript's provenance and legal protections.</summary>
-<keywords>Vatican Apostolic Library, copyright, institutional stamp, provenance</keywords>
 
 --- Page 19 ---
 <meta>This page marks the beginning of a treatise on "Imprese" (personal emblems or heraldic devices). It establishes a theoretical framework by comparing Western emblems to the symbolic systems of ancient Egypt and China. It follows the institutional frontispiece of the Vatican Library.</meta>
@@ -10446,6 +10373,42 @@ except itself alone.
 <summary>This page outlines the tripartite nature of the Philosopher's Stone—spirit, soul, and body—and describes the "chemical marriage" between masculine and feminine principles. It references the three major color stages of alchemy and quotes the Emerald Tablet regarding the "belly of the wind" to explain the role of the vital spirit.</summary>
 <keywords>Tincture, Trinity of the Stone, Alchemy, Mercury, Emerald Tablet, Chemical Wedding, Dragon, Nigredo, Albedo, Rubedo</keywords>
 
+--- Page 410 ---
+<meta>This page continues the allegorical description of the Philosopher’s Stone, moving from the definitions of its components (spirit, soul, body) to its physical and spiritual synthesis within the "Philosopher's Egg" (the vessel). The previous page's "chemical wedding" between the saffron husband and white wife is visualized here as a physical embrace within the vessel.</meta>
+
+->This stone in the egg is composed of four elements<-
+
+---
+
+->fire<-
+->air<-
+->Water<-
+->Earth<-
+
+---
+
+->our most certain stone is without lie and is of animated gold<- <note>original: "oro animata"; gold that has been "enlivened" or brought to a spiritual state through alchemical processing</note>
+
+---
+
+->Here the bodies are totally dissolved in our **quicksilver** <term>argento viuo: mercury, the "living silver" used as a universal solvent in alchemy</term>, which<-
+->becomes permanent water, white in the manner of a<-
+->tear from the eye.<-
+
+---
+
+> Our substance is not bought with gold, and that
+> thing which is bought with it is held in this Art
+> to be a useless and lying **mastery** <note>original: "magisterio"; refers to the secret process or the specialized knowledge required to complete the Work</note>.
+
+> The solar bodies <note>Refers to the masculine, sulfuric principle or gold itself when brought into the work</note> are reduced to the nature of spirit, nor
+> are they ever separated from one another, because the water
+> is mixed with the water.
+
+<summary>This page illustrates the central alchemical process within the "Philosopher's Egg," where the four elements and the "solar bodies" are dissolved into a unified "permanent water." It emphasizes that the true Stone is a product of spiritual mastery rather than material wealth.</summary>
+
+<keywords>Philosopher's Egg, four elements, animated gold, mercury, quicksilver, permanent water, solar bodies, magistery</keywords>
+
 --- Page 411 ---
 <meta>This page continues the instructional sequence of the alchemical Great Work, moving from the initial preparation of materials to the crucial stage of putrefaction.</meta>
 
@@ -10635,6 +10598,39 @@ Let the fire be optimally slow <note>Original: "foco ott:º lento." The abbrevia
 
 <keywords>putrefaction, nigredo, dissolution, forty days, cleansing, circulation, gentle heat, medicine</keywords>
 
+--- Page 418 ---
+<meta>This page continues the technical instructions following the nigredo (blackening) stage described on the previous page. While the previous page focused on the duration and signs of putrefaction, this page illustrates the transformation of that "black earth" into the "Oil of the Philosophers" and the rebirth of the matter.</meta>
+
+->Oil of the Philosophers<-
+
+->Raven's Head<-
+<note>original: "Capo del Corbo." This is a common alchemical term, *Caput Corvi*, symbolizing the deepest stage of the *nigredo* or putrefaction, where the matter is completely black.</note>
+
+->Here the red is born<-
+->and shall be called<-
+->marvelous works<-
+
+->It emerged black and becomes the white<-
+->Elixir that will perform<-
+->glorious [deeds]<-
+
+->Here the earth that was<-
+->of the vessel has been converted into<-
+->and dissolves into the color of gold, for<-
+->the Philosophers.<-
+
+->black and putrefied in the bottom<-
+->quicksilver as before<-
+->therefore it is called the oil of<-
+<note>These banners wrap around the vessel. Read together, they explain that the decayed "black earth" at the bottom of the flask has been transformed back into a purified liquid state.</note>
+
+---
+
+Dissolve the gold, and reduce it into its <term>first matter<gloss>Original: "prima materia." The primitive, formless base of all matter that alchemists sought to isolate before rebuilding it into the Philosopher's Stone.</gloss></term>; that is, so that it truly becomes fluid and <term>quicksilver<gloss>Mercury. Alchemists believed that if you could reduce a metal like gold back to its liquid, "mercurial" state, you could then "re-grow" it into something even more perfect.</gloss></term>. Then we can most excellently make Silver and Gold, once it has been converted into their [original] matter. Throughout the process, it must be washed and <term>decocted<gloss>A process of heating or boiling a substance to extract its essence or to purify it through long-term warmth.</gloss></term>, so that it may be a bond of <term>Sulfur<gloss>In the alchemical "Tria Prima," Sulfur represents the soul and the masculine principle of fire and growth.</gloss></term> and quicksilver, because according to the philosophers, this is the "matter of life" for all metals. He who uses it shall know wonders.
+
+<summary>This page illustrates the "Raven's Head" (nigredo) stage and the subsequent transition into a purified liquid state. It provides instructions on reducing gold to its fluid "first matter" to create the "Oil of the Philosophers," the foundation for creating perfect silver and gold.</summary>
+<keywords>alchemy, Raven's Head, Caput Corvi, first matter, quicksilver, mercury, sulfur, gold, silver, Oil of the Philosophers, transmutation</keywords>
+
 --- Page 419 ---
 <meta>This page continues the instructions for the alchemical process, likely following a description of the initial preparation of the "wife" or female principle.</meta>
 
@@ -10717,6 +10713,26 @@ And like balas rubies <term>balas rubies</term> <note>original: *rubin balassi*.
 <summary>This page presents a series of alchemical verses and riddles regarding the "Philosophers' Bone," describing the substance's paradoxical nature as both solid and spirit. It warns the practitioner to balance the heat and moisture to avoid ruining the work before it achieves its final, jewel-like perfection.</summary>
 
 <keywords>living mercury, vitrification, dragon, balas ruby, albedo, philosophers' stone, paradox of the stone, volatile spirit</keywords>
+
+--- Page 422 ---
+<meta>This page continues the alchemical instructions from the previous leaf, transitioning from the conceptual "Bone of the Philosophers" and the "Dark House" into a more specific visual representation of the stages of transformation. While the previous page focused on the physical requirements—fire, moisture, and air—this page uses symbolic animals to illustrate the chemical changes occurring within the vessel.</meta>
+
+->The Flower of the Philosophers<-
+<note>original: *Flos de Philosophi*. A common title for alchemical treatises, suggesting that this process is the "blossom" or the finest result of their secret science.</note>
+
+->The Dark House<-
+<note>original: *Casa tenebrosa*. This refers to the interior of the alchemical vessel during the initial stage of "blackening," where the matter is metaphorically "imprisoned" in darkness.</note>
+
+->Here the water is completely cleansed of<-
+->blackness; and when it begins to<-
+->turn white<-
+
+Know, good man, that the head of the crow <note>original: *capo del coruo*. This is a classic alchemical term for the *nigredo* stage, the first phase of the Work characterized by the decomposition and blackening of the matter.</note> is the neck of the vessel, which will decay <note>original: *ammalara*. Literally "will sicken." In this context, it refers to the material breaking down or "dying" so that it can be reborn.</note> for you, and a dove <note>The dove represents the *albedo* or white stage—the purification of the matter after it has been blackened.</note> shall be born, and then a phoenix <note>The phoenix represents the final *rubedo* or red stage, signifying the completion of the Stone and its immortality.</note>, and you shall be happy.
+
+Here with these few words all of the completed mastery <term>mastery</term> <note>original: *magisterio*. Often called the "Magisterium," this refers to the total successful completion of the alchemical process to create the Philosopher's Stone.</note> is provided—that is, the white and the red <note>The "white" refers to the ability to transmute metals into silver; the "red" refers to the ability to create gold.</note>—because, though unworthy, I have seen it all up to this point. Yet I pray to Almighty God that He gives us the grace to reach the end and to truly see.
+
+<summary>This page illustrates the transition from the black stage (nigredo) to the white and red stages of alchemy using the symbols of the crow, dove, and phoenix. It concludes with a prayer for the successful completion of the "Mastery" or Great Work.</summary>
+<keywords>Flower of the Philosophers, Dark House, Crow's Head, Dove, Phoenix, Nigredo, Albedo, Rubedo, Magisterium, purification</keywords>
 
 --- Page 423 ---
 <meta>This page continues the instructions for the alchemical process, specifically focusing on the transition from the Nigredo (blackness) to the Albedo (whiteness) phase of the Great Work.</meta>
@@ -18933,6 +18949,26 @@ You should consider that fire exists within a <unclear>enclosed</unclear> body, 
 
 <summary>This page explains the physical mechanics of sublimation and rectification, describing how fire forces material bodies to rise, rarify, and adhere to the vessel. It emphasizes the transformative power of fire to convert materials into its own nature and notes the importance of vessel design, including air holes and proportions.</summary>
 <keywords>sublimation, rectification, vitrification, alchemical fire, laboratory apparatus, distillation vessels, rarification</keywords>
+
+--- Page 754 ---
+<meta>This page transitions from the theoretical discussion of heat and sublimation on the previous page to the practical application of a specific mechanical device. The author moves from the "why" of alchemical purification to the "how," introducing an instrument associated with Cambridge to manage vessels under heat.</meta>
+
+<unclear>It seems to depict</unclear> <unclear>the method</unclear> <unclear>of his</unclear> <unclear>instrument</unclear> <note>original: "Instrumenti"; likely a specialized piece of laboratory apparatus.</note>
+<unclear>now</unclear> <unclear>invented</unclear> <unclear>in</unclear> <unclear>Cambridge</unclear> <note>original: "Cambregia"; the Latin name for Cambridge, indicating the academic or geographic origin of this specific design.</note>
+this is the experiment <note>original: "experientia"; in this period, this term referred to both a formal experiment and the practical experience gained through trial and error.</note>
+
+-> [Technical sketches of a mechanical apparatus] <-
+
+<note>The drawings show a tall cylindrical device. On the left, the complete assembly features a T-shaped handle at the top and a wide base. The center shows a vertical rod or plunger, and the right provides a cutaway view of a chamber with internal seals, resembling a modern pneumatic pump or a large medicinal syringe.</note>
+
+<unclear>We lift</unclear> <unclear>the handle</unclear> <note>original: "manubrium"; the T-shaped grip at the top of the plunger.</note>
+<unclear>and</unclear> <unclear>then</unclear> <unclear>it is composed</unclear> <unclear>from the body</unclear> <note>original: "corpore"; the main cylinder or barrel of the device.</note>
+<unclear>from which</unclear> <unclear>the vessel</unclear> <unclear>will remain</unclear> <unclear>most tightly [sealed]</unclear>
+<unclear>by the care of</unclear> <unclear>the heat</unclear> <note>This implies that the mechanical seal of the instrument is either maintained or affected by the temperature of the operation, ensuring the vessel (vas) remains airtight during the process.</note>
+
+<summary>This page provides a rare technical illustration of a mechanical instrument, possibly a pressure pump or syringe, recently developed in Cambridge for scientific experimentation. It details how the handle and body of the device work together to maintain a tight seal on a vessel when subjected to heat.</summary>
+
+<keywords>Cambridge, scientific instrument, pneumatic pump, laboratory apparatus, mechanical seal, experimental method</keywords>
 
 --- Page 755 ---
 <meta>This page continues a philosophical and perhaps alchemical inquiry into the nature of causation, matter, and celestial influence. The text is heavily damaged by ink bleed-through, making the discourse on the relationship between "the mover" and "the moved" highly fragmentary.</meta>
@@ -28388,6 +28424,48 @@ is known for the power of the weights.
 
 <summary>This page presents the identifying labels and heraldic markings found on the spine of a parchment-bound manuscript, cataloged as part of the historic collection of Queen Christina of Sweden within the Vatican Library.</summary>
 <keywords>Vatican Apostolic Library, Queen Christina of Sweden, shelfmark, heraldry, Papal insignia, manuscript binding</keywords>
+
+--- Page 1113 ---
+<meta>Continuing from the previous page's focus on the spine and heraldry, this page provides a view of the manuscript's fore-edge, illustrating the physical condition of the parchment and the binding of the volume known as Queen’s Latin Collection 1278.</meta>
+
+->**PHYSICAL DESCRIPTION**<-
+
+## MANUSCRIPT FORE-EDGE
+### Queen’s Latin Collection
+<note>original: "Reg. lat."</note>
+### 1278
+
+The photograph displays the **fore-edge** <note>the side of the book opposite the spine, where the pages open</note> of this thick, bound manuscript. The view shows the dense accumulation of numerous parchment or paper leaves, which appear wavy and irregular. This texture is typical of historical manuscripts, as the animal skins used for the pages react to environmental changes over the centuries.
+
+The **book block** <note>the collective body of pages within a binding</note> exhibits various shades of tan and cream. The book is held between two plain, light-colored covers, likely made of **vellum** or **parchment** <note>calfskin or sheepskin treated for use in bookbinding</note>.
+
+Faint, purple oval library stamps are visible on the edges of both the left and right covers. 
+
+<note>These stamps identify the volume as property of the Vatican Apostolic Library, though the specific text inside the ovals is mostly illegible in this photograph.</note>
+
+<summary>This page illustrates the physical state of the manuscript's fore-edge, showing the wavy texture of the aged parchment leaves and the plain vellum binding characteristic of the Vatican's historic collections.</summary>
+<keywords>fore-edge, manuscript, book block, binding, vellum, parchment, library stamps, Queen Christina of Sweden</keywords>
+
+--- Page 1115 ---
+<meta>Continuing from the previous page's focus on the spine and heraldry, this page provides a view of the manuscript's fore-edge, illustrating the physical condition of the parchment and the binding of the volume known as the Queen’s Latin Collection 1278.</meta>
+
+->**PHYSICAL DESCRIPTION**<-
+
+## MANUSCRIPT FORE-EDGE
+### Queen’s Latin Collection
+<note>original: "Reg. lat.", referring to the Reginensis collection originally belonging to Queen Christina of Sweden</note>
+### 1278
+
+The photograph displays the **fore-edge** <note>the side of the book opposite the spine, where the pages open</note> of this thick, bound manuscript. The view shows the dense accumulation of numerous parchment or paper leaves, which appear wavy and irregular. This texture is typical of historical manuscripts, as the animal skins used for the pages react to environmental changes over the centuries.
+
+The **book block** <note>the collective body of pages within a binding</note> exhibits various shades of tan and cream. The book is held between two plain, light-colored covers, likely made of **vellum** or **parchment** <note>calfskin or sheepskin treated for use in bookbinding</note>.
+
+Faint, purple oval library stamps are visible on the edges of both the left and right covers. On the left, a portion of the word **RESERV** <note>original: "RESERV", from the Latin "reservatum," indicating a reference or reserved collection</note> can be seen. On the right, a fragment of **BIBLIO** <note>original: "Biblio", from the Latin "bibliotheca," meaning library</note> is visible.
+
+<note>These stamps identify the volume as property of the Vatican Apostolic Library, specifically marking its status within the permanent collection.</note>
+
+<summary>This page illustrates the physical state of the manuscript's fore-edge, showing the wavy texture of the aged parchment leaves and the plain vellum binding characteristic of the Vatican's historic collections.</summary>
+<keywords>fore-edge, manuscript, book block, binding, vellum, parchment, library stamps, Queen Christina of Sweden, Vatican Apostolic Library</keywords>
 
 --- Page 1117 ---
 <meta>Continuing from page 101, which discussed the preliminary purification of metallic bodies, this page focuses on the "greening" of the matter and the fixation of mercury using antimony and tin.</meta>
