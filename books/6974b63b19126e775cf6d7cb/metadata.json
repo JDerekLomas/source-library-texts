@@ -1,14 +1,14 @@
 {
   "id": "6974b63b19126e775cf6d7cb",
   "title": "Apologie pour tous les grands hommes, qui ont esté accusez de magie",
-  "display_title": "Apologie pour tous les grands hommes, qui ont esté accusez de magie",
+  "display_title": "Apology for All the Great Men Accused of Magic",
   "author": "Naudé, Gabriel",
   "language": "French",
   "year": 1669,
   "published": "1669",
   "pages_count": 320,
   "pages_with_ocr": 320,
-  "pages_with_translation": 310,
+  "pages_with_translation": 311,
   "source_url": "https://sourcelibrary.org/book/6974b63b19126e775cf6d7cb",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:26:26.630Z",
+  "synced_at": "2026-03-06T22:20:46.262Z",
   "_hashes": {
     "ocr": "5902cca3d3973dca",
-    "translation": "bb6c76b76deba46c"
+    "translation": "cfe9aa60f36f1593"
   }
 }
