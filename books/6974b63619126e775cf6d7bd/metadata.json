@@ -1,14 +1,14 @@
 {
   "id": "6974b63619126e775cf6d7bd",
   "title": "Apocalypsis insignium aliquot haeresiarcharum",
-  "display_title": "Apocalypsis insignium aliquot haeresiarcharum",
+  "display_title": "Apocalypse of Notable Heresiarchs",
   "author": "[Sichem, Christoffel van]",
   "language": "Latin",
   "year": 1608,
   "published": "1608",
   "pages_count": 120,
   "pages_with_ocr": 120,
-  "pages_with_translation": 82,
+  "pages_with_translation": 113,
   "source_url": "https://sourcelibrary.org/book/6974b63619126e775cf6d7bd",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:28:20.299Z",
+  "synced_at": "2026-03-06T23:10:13.534Z",
   "_hashes": {
     "ocr": "e1c1c78b7be8cfd2",
-    "translation": "837ed512d52b2b86"
+    "translation": "884718f5d88c0e72"
   }
 }
