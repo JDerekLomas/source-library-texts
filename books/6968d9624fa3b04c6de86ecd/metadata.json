@@ -1,14 +1,14 @@
 {
   "id": "6968d9624fa3b04c6de86ecd",
   "title": "Die  Schlacht bei Austerlitz",
-  "display_title": "Die  Schlacht bei Austerlitz",
+  "display_title": "The Battle of Austerlitz",
   "author": "Stutterheim, Karl von",
   "language": "German",
   "year": 1806,
   "published": "1806",
   "pages_count": 129,
   "pages_with_ocr": 129,
-  "pages_with_translation": 121,
+  "pages_with_translation": 122,
   "source_url": "https://sourcelibrary.org/book/6968d9624fa3b04c6de86ecd",
   "license": "PDM 1.0",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:28:15.102Z",
+  "synced_at": "2026-03-06T21:50:44.631Z",
   "_hashes": {
     "ocr": "10c9989f87196312",
-    "translation": "7af489a69230f8e5"
+    "translation": "ad7dd472e4c2d8d5"
   }
 }
