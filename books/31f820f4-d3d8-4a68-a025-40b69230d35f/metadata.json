@@ -1,7 +1,7 @@
 {
   "id": "31f820f4-d3d8-4a68-a025-40b69230d35f",
   "title": "Polygraphia",
-  "display_title": "Polygraphie (1561 French)",
+  "display_title": "Polygraphy",
   "author": "Johannes Trithemius | Gabriel de Collange (translator)",
   "language": "French",
   "year": 1561,
@@ -20,9 +20,9 @@
     "prompt_version": "v5.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-03-04T15:50:29.820Z",
+  "synced_at": "2026-03-06T17:50:43.543Z",
   "_hashes": {
-    "ocr": "4b83861001d33357",
+    "ocr": "2384fba41d580d5c",
     "translation": "adc2dc8a1c5c81e8"
   }
 }
