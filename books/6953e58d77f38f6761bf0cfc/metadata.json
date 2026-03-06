@@ -1,14 +1,14 @@
 {
   "id": "6953e58d77f38f6761bf0cfc",
   "title": "Traité de la Lumière (1690)",
-  "display_title": "Traité de la Lumière (1690)",
+  "display_title": "Treatise on Light",
   "author": "Christiaan Huygens",
   "language": "French",
   "year": 1690,
   "published": "Unknown",
   "pages_count": 201,
-  "pages_with_ocr": 200,
-  "pages_with_translation": 200,
+  "pages_with_ocr": 201,
+  "pages_with_translation": 197,
   "source_url": "https://sourcelibrary.org/book/6953e58d77f38f6761bf0cfc",
   "license": "http://creativecommons.org/publicdomain/mark/1.0/",
   "doi": null,
@@ -20,9 +20,9 @@
     "prompt_version": "v4.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:27:37.796Z",
+  "synced_at": "2026-03-06T19:30:48.026Z",
   "_hashes": {
-    "ocr": "b2bd0cdafe4b9fc7",
-    "translation": "4c447be6f333a68c"
+    "ocr": "2857cdbf3ed14131",
+    "translation": "4df0efd67eb8d67b"
   }
 }

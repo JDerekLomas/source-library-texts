@@ -1,11 +1,3 @@
---- Page 1 ---
-<meta>This page appears to be a blank flyleaf or the interior of a book cover, serving as a physical transition before the manuscript text begins.</meta>
-
-<note>This page contains no written text or illustrations. It is a blank surface, likely parchment or heavy paper, showing the natural texture and wear of the binding material.</note>
-
-<summary>A blank page or flyleaf from the beginning of the manuscript, containing no legible text or markings.</summary>
-<keywords>blank page, flyleaf, manuscript binding</keywords>
-
 --- Page 2 ---
 <meta>Continuing from the previous blank flyleaf, this page serves as the title page or frontispiece for the volume’s institutional history. It contains stamps and notations that track how the book moved through different libraries over the centuries, specifically from the Jesuit Order to the Italian State.</meta>
 
@@ -38,26 +30,6 @@ NATIONAL LIBRARY OF VICTOR EMMANUEL II <note>original: "BIBLIOTECA NAZIONALE VIT
 <summary>This page documents the book's provenance, showing its original home in the Jesuit Roman College and its later transition to the Italian National Library. The various numbers and stamps provide a "paper trail" for historians to track the movement of the collection.</summary>
 <keywords>provenance, Roman College, Jesuits, National Library of Victor Emmanuel II, shelfmarks, institutional stamps</keywords>
 
---- Page 3 ---
-<meta>This page follows the previous manuscript entry but contains no written content. It appears to be a blank leaf or a separator within the original volume.</meta>
-
-<warning>The page is entirely blank, containing no discernible text, images, or markings from the manuscript. Only a "Digitized by Google" watermark is visible at the bottom right.</warning>
-
-<summary>This page of the manuscript is blank and contains no text or illustrations.</summary>
-<keywords>blank page, manuscript leaf</keywords>
-
---- Page 4 ---
-<meta>This page is blank in the original manuscript. No continuity notes are required from the previous page.</meta>
-
-# [Blank Page]
-
-*This page contains no text or illustrations.*
-
-<note>The original manuscript page is blank, likely serving as a flyleaf or a separator between sections. The only markings present are modern digitization watermarks which are not part of the historical record.</note>
-
-<summary>This page of the manuscript is blank and contains no historical text or data.</summary>
-<keywords>blank page, manuscript structure</keywords>
-
 --- Page 5 ---
 <meta>This title page marks the beginning of Christiaan Huygens' seminal 1690 work. It follows a blank flyleaf as noted in the previous page translation.</meta>
 
@@ -86,18 +58,6 @@ NATIONAL LIBRARY OF VICTOR EMMANUEL II <note>original: "BIBLIOTECA NAZIONALE VIT
 
 <summary>This is the title page of Christiaan Huygens' "Treatise on Light," a landmark publication in the history of science that introduced the wave theory of light.</summary>
 <keywords>Christiaan Huygens, optics, wave theory, reflection, refraction, Iceland spar, gravity, Pierre Vander Aa, Leiden, 1690</keywords>
-
---- Page 6 ---
-<meta>This page follows the previous entry and is physically blank in the original manuscript, likely serving as a divider or an unused leaf.</meta>
-
-# Page [Blank]
-
--> [This page contains no handwritten or printed text.] <-
-
-<note>The original manuscript page is blank, which was common in historical bindings to separate sections or allow for future additions that were never made.</note>
-
-<summary>This page of the manuscript is blank and contains no text or illustrations.</summary>
-<keywords>blank page, manuscript structure</keywords>
 
 --- Page 7 ---
 <meta>This page follows a blank leaf that served as a divider in the original manuscript. It marks the beginning of the author's preface to the work.</meta>
@@ -1403,6 +1363,22 @@ H
 
 <summary>Huygens corrects Bartholin's assumption that the extraordinary ray travels parallel to the crystal's sides and introduces a new geometric rule regarding the symmetrical refraction of opposite rays.</summary>
 <keywords>extraordinary refraction, Erasmus Bartholin, angles of incidence, principal section, perpendicular ray, symmetry, Iceland spar</keywords>
+
+--- Page 70 ---
+<meta>This page follows the discussion of the specific angles of refraction in Iceland spar. The author is moving from the experimental observation of light rays to a theoretical explanation based on the wave theory of light, specifically introducing the concept of non-spherical waves to explain double refraction.</meta>
+
+### T R E A T I S E
+
+still other particular properties, we will seek the causes of the phenomena that I have already reported.
+
+It was after having explained the refraction of ordinary transparent bodies, by means of the spherical emanations of light, as described above, that I resumed the examination of the nature of this Crystal, in which I had previously been unable to discover anything.
+
+**18.** As there were two different refractions, I conceived that there were also two different emanations of light waves, and that one could occur in the **ethereal matter** <term>ethereal matter</term> <note>In 17th-century physics, the "ether" was a hypothetical substance thought to fill all space and allow the transmission of light waves.</note> spread throughout the body of the crystal. This matter, being in much greater quantity than that of the particles which compose the crystal, was alone capable of causing transparency, according to what has been explained before. I attributed to this emanation of waves the regular refraction that one observes in this stone, by supposing these waves to be of the ordinary spherical form, and of a slower expansion inside the crystal than they are outside: from which I have shown that refraction proceeds.
+
+**19.** As for the other emanation which was to produce the **irregular refraction** <term>irregular refraction</term> <note>Now known as "extraordinary refraction," where light does not follow Snell's Law.</note>, I wanted to try what **Elliptical waves** <term>Elliptical waves</term>—or more accurately, **spheroids** <term>spheroids</term> <note>A sphere that has been stretched or flattened; Huygens proposes this shape to explain how light travels at different speeds in different directions within a crystal.</note>—would do. I supposed that these spread indifferently, both in the ethereal matter spread through the crystal and in the particles of which it is composed, following the last manner in which I explained transparency. It seemed to me that the disposition, or regular arrangement of these particles, could contribute to forming the spheroidal waves (it being required for this only that the successive movement of light extend a little faster in one direction than in the other), and I had almost no doubt that there was in this crystal such an arrangement of equal and similar particles, because of its shape and its angles of a certain <meta>catchword: certain</meta>
+
+<summary>Huygens introduces his landmark theory that double refraction is caused by two different types of light waves: spherical waves for ordinary refraction and spheroidal waves for extraordinary refraction. He suggests that the internal arrangement of the crystal's particles dictates the speed and shape of these waves.</summary>
+<keywords>wave theory of light, double refraction, Iceland spar, spheroids, ethereal matter, Christiaan Huygens, crystal structure</keywords>
 
 --- Page 71 ---
 <meta>This page continues Huygens' discussion on the microscopic structure of crystals and how they interact with light waves, building on his previous analysis of Iceland spar.</meta>
