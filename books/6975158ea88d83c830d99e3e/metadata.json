@@ -1,14 +1,14 @@
 {
   "id": "6975158ea88d83c830d99e3e",
   "title": "Aurora, & treasure of the philosophers. The water-stone of the wise men",
-  "display_title": "Aurora, & treasure of the philosophers. The water-stone of the wise men",
+  "display_title": "Aurora, and the Treasure of the Philosophers: The Water-Stone of the Wise Men",
   "author": "Paracelsus, Theophrastus|[Siebmacher, Johann Ambrosius]",
   "language": "German",
   "year": 1659,
   "published": "1659",
   "pages_count": 248,
   "pages_with_ocr": 248,
-  "pages_with_translation": 240,
+  "pages_with_translation": 242,
   "source_url": "https://sourcelibrary.org/book/6975158ea88d83c830d99e3e",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:27:11.212Z",
+  "synced_at": "2026-03-06T21:50:36.766Z",
   "_hashes": {
     "ocr": "59d29d8db209e4a0",
-    "translation": "de20f594d51398ff"
+    "translation": "a40296891d1c1a68"
   }
 }
