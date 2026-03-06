@@ -1,14 +1,14 @@
 {
   "id": "6970e3859b09d309d780a2de",
   "title": "Anweisung eines Adepti hermetische Schriften nützlich zu lesen",
-  "display_title": "Anweisung eines Adepti hermetische Schriften nützlich zu lesen",
+  "display_title": "An Adept's Instruction for the Profitable Reading of Hermetic Writings",
   "author": "Anonymous",
   "language": "German",
   "year": 1782,
   "published": "1782",
   "pages_count": 124,
   "pages_with_ocr": 124,
-  "pages_with_translation": 119,
+  "pages_with_translation": 120,
   "source_url": "https://sourcelibrary.org/book/6970e3859b09d309d780a2de",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:28:18.893Z",
+  "synced_at": "2026-03-06T22:20:39.217Z",
   "_hashes": {
     "ocr": "8562b2e1537fc505",
-    "translation": "58266e1f017f8805"
+    "translation": "1a2abb8eaf960f23"
   }
 }
