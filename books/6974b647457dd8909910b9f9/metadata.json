@@ -1,14 +1,14 @@
 {
   "id": "6974b647457dd8909910b9f9",
   "title": "Ars chemica. Septem tractatus. Tabula smaragdina. Studium consilii coniugii de massa solis et lunae",
-  "display_title": "Ars chemica. Septem tractatus. Tabula smaragdina. Studium consilii coniugii de massa solis et lunae",
+  "display_title": "The Chemical Art",
   "author": "Hermes Trismegistus",
   "language": "Latin",
   "year": 1566,
   "published": "1566",
   "pages_count": 290,
   "pages_with_ocr": 290,
-  "pages_with_translation": 226,
+  "pages_with_translation": 279,
   "source_url": "https://sourcelibrary.org/book/6974b647457dd8909910b9f9",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:26:47.988Z",
+  "synced_at": "2026-03-06T21:40:45.401Z",
   "_hashes": {
     "ocr": "5018b698f1c82e68",
-    "translation": "8a25b065f4e17b14"
+    "translation": "d975243cc7c5617c"
   }
 }
