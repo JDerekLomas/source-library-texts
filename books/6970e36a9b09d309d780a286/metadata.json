@@ -1,14 +1,14 @@
 {
   "id": "6970e36a9b09d309d780a286",
   "title": "Het eerste stuck van de wercken",
-  "display_title": "Het eerste stuck van de wercken",
+  "display_title": "The First Part of the Collected Works",
   "author": "Teellinck, Willem",
   "language": "Dutch",
   "year": 1659,
   "published": "1659",
   "pages_count": 1692,
   "pages_with_ocr": 1692,
-  "pages_with_translation": 1368,
+  "pages_with_translation": 1673,
   "source_url": "https://sourcelibrary.org/book/6970e36a9b09d309d780a286",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:20:28.487Z",
+  "synced_at": "2026-03-06T22:40:28.926Z",
   "_hashes": {
     "ocr": "0119d79b02130271",
-    "translation": "294bc2f537bccb3b"
+    "translation": "b9efd7a0f56134e6"
   }
 }
