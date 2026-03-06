@@ -1,14 +1,14 @@
 {
   "id": "6977089cd2171799db0a733f",
   "title": "De boecken genoemt Apocryphi",
-  "display_title": "De boecken genoemt Apocryphi",
+  "display_title": "The Apocrypha",
   "author": "Unknown",
   "language": "Dutch",
   "year": 1604,
   "published": "1604",
   "pages_count": 181,
-  "pages_with_ocr": 180,
-  "pages_with_translation": 140,
+  "pages_with_ocr": 181,
+  "pages_with_translation": 175,
   "source_url": "https://sourcelibrary.org/book/6977089cd2171799db0a733f",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:27:49.726Z",
+  "synced_at": "2026-03-06T23:50:27.312Z",
   "_hashes": {
-    "ocr": "c056966f23df54b5",
-    "translation": "4f51e210d8a38c27"
+    "ocr": "ffee370a946d9fad",
+    "translation": "aae0664638eda421"
   }
 }
