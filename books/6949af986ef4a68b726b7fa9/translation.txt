@@ -1,11 +1,3 @@
---- Page 1 ---
-<meta>This page serves as the inside cover or flyleaf of the manuscript and contains no written content.</meta>
-
-[This page is blank]
-
-<summary>A blank flyleaf or inside cover of the book.</summary>
-<keywords>blank page, flyleaf</keywords>
-
 --- Page 2 ---
 <meta>This page contains modern provenance and digitization information provided by the hosting institutions. It follows a blank flyleaf at the very beginning of the volume.</meta>
 
@@ -22,28 +14,6 @@
 
 <summary>This page is a modern addition documenting the digital preservation of the book by the Internet Archive and the Getty Research Institute.</summary>
 <keywords>digitization, Internet Archive, Getty Research Institute, Vitruvius, Marcus Vitruvius Pollio, architecture</keywords>
-
---- Page 3 ---
-<meta>This page follows the discussion on Puteals but contains no text.</meta>
-
--> 29 <-
-
-[This page is blank]
-
-<summary>A blank page numbered 29.</summary>
-<keywords>blank page</keywords>
-
---- Page 4 ---
-<meta>This page follows the previous blank page and contains only a brief inscription in the corner.</meta>
-
--> 30 <-
-
-<insert>B. v. r.</insert> <note>These initials appear in the upper left corner; they likely represent a library mark, an owner's initials, or a shorthand reference for the cataloger.</note>
-
-[This page is otherwise blank]
-
-<summary>A blank page numbered 30, containing only the initials "B. v. r." in the upper left corner.</summary>
-<keywords>blank page, initials, marginalia</keywords>
 
 --- Page 5 ---
 <meta>This page follows a nearly blank page (numbered 30) which contained only an owner's or cataloger's initials.</meta>
@@ -780,46 +750,27 @@ Some authors have been content to say there are four winds: from the equinoctial
 <keywords>Andronicus of Cyrrhus, Tower of the Winds, Triton, weather vane, wind directions, classical medicine, Athens, Solanus, Auster, Favonius, Septentrio</keywords>
 
 --- Page 42 ---
-Here begins the
+<meta>This page continues Vitruvius’s explanation of the winds, moving from the description of the Tower of the Winds in Athens to the specific placement of the eight principal winds within the compass.</meta>
 
-BOOK.
+# BOOK
 
-| Solanus [[notes: East-Southeast wind]] | Thus they are
-| Eurus [[notes: East-Southeast wind]] | located in the
-| Auster [[notes: South wind]] | direction of Solanus
-| Aphri- [[notes: Southwest wind]] | and Auster
-| 5. | from the east,
-|       | in winter,
-|       | Eurus, between
-|       | Auster and
-|       | Favonius [[notes: West wind]]
-|       | from the west
-| d     c b  a | in winter,
-|       | Aphricus,
-|       | between Favonius
-|       | and Sep- [[notes: Short for Septentrio, or North wind]]
-|       | tentrio [[notes: North wind]],
-|       | Caurus [[notes: Northwest wind]],
-|       | whom many
-|       | call Cor- [[notes: A synonym for Caurus]]
-|       | rus. Between
-|       | Septentrio
-|       | nem & So-
-|       | lanum, Aqui- [[notes: Northeast wind]]
-|       | lo This
-|       | is how it
-|       | seems to be ex-
-|       | pressed,
-|       | so that it captures
-|       | numbers,
-|       | & names
-|       | & parts,
+<margin>
+**Solanus** <note>The East wind</note>
+**Eurus** <note>The Southeast wind</note>
+**Auster** <note>The South wind</note>
+**Africus** <note>The Southwest wind; spelled "Aphricus" in the original</note>
+s.
+6.
+</margin>
 
-[[notes: This table organizes the eight principal winds and their relative position.]]
+**[Image: A woodcut illustration of a decorative meteorological monument. At the very top, a winged Triton stands upon a small pyramid, holding a staff to act as a weather vane. The pillar below is octagonal, featuring the faces of wind deities (labeled 'a' through 'd') blowing air. The base is an ornate, wide-mouthed grotesque face with leafy hair, serving as a pedestal for the entire structure.]**
 
-[[summary: This page begins a new book and details the eight principal winds (Solanus, Eurus, Auster, Aphricus, Favonius, Septentrio, Caurus, and Aquilo) and their relative positions.]]
-[[keywords: winds, Solanus, Eurus, Auster, Aphri, Favonium, Aphricus, Caurus, Septentrio, Aquilo, Tower of the Winds]]
+<column-break/>
 
+Therefore, they are arranged as follows: between **Solanus** <note>East</note> and **Auster** <note>South</note>, blowing from the direction of the winter sunrise <note>original: "ab oriente hyberno" — the southeast</note>, is **Eurus**. Between **Auster** and **Favonius** <note>West</note>, blowing from the direction of the winter sunset <note>original: "ab occidente hyberno" — the southwest</note>, is **Africus**. Between **Favonius** and **Septentrio** <note>North</note> is **Caurus**, which many call **Corus** <note>the Northwest wind</note>. Finally, between **Septentrio** and **Solanus** is **Aquilo** <note>the Northeast wind</note>. In this manner, the diagram seems to be depicted so that it encompasses the numbers, the names, and the specific directions <note>original: "partes" — literally "parts" or divisions of the horizon</note> of the winds.
+
+<summary>This page defines the eight-wind system used in Roman architecture, placing the intermediate winds (Eurus, Africus, Caurus, and Aquilo) between the four cardinal points.</summary>
+<keywords>wind directions, Eurus, Africus, Caurus, Aquilo, Vitruvius, Tower of the Winds, meteorology, Roman architecture</keywords>
 
 --- Page 43 ---
 <meta>This page continues the technical instructions for urban planning, specifically how to determine the cardinal directions to properly orient city streets away from the prevailing winds.</meta>
@@ -2909,31 +2860,40 @@ The width of the triglyph should be divided into six parts. Of these, five parts
 <keywords>Doric order, architrave, triglyph, metope, proportions, Vitruvian architecture, temple entrance</keywords>
 
 --- Page 141 ---
-->**BOOK [IV]**<-
+<meta>This page provides a visual and terminological key for the Doric entablature and pediment, identifying the specific components whose mathematical proportions were established on the previous page.</meta>
 
-69
+# BOOK FOUR
 
-**[Diagram of the Doric Entablature]**
+<column-break/>
 
-a. **Acroterion** <note>The ornamental pedestal at the corners or apex of a pediment.</note>
-b. **Sima** <note>The gutter or crown molding of the cornice.</note>
-c. **Doric cymatium** <note>A molding with a wave-like profile.</note>
-d. **Corona** <note>The projecting flat member of the cornice which sheds rain.</note>
-e. **Doric cymatium**
-f. **Triglyph** <note>A tablet with three vertical grooves in the Doric frieze.</note>
-g. **Metope** <note>The square space between triglyphs.</note>
-h. **Taenia** <note>The small square fillet at the top of the architrave.</note>
-i. **Epistyle** <note>The architrave; the main beam resting on the columns.</note>
-k. **Triglyph capital**
-m. **Guttae** <note>Small, drop-like ornaments.</note>
+a. **acroterion** <note>original: "acroter"; a decorative ornament or statue placed at the corners or peak of a roof</note>
 
-Other guttae are carved under the corona in a perpendicular line with the triglyphs, about which [see] below.
+b. **sima** <note>the gutter or uppermost molding of the cornice</note>
 
-l. **Module** <note>The standard unit of measurement, usually half the diameter of the column.</note>
-n. **Tympanum** <note>The triangular face of the pediment.</note>
+c. Doric **cymatium** <note>original: "cymatium doricum"; a wave-shaped molding</note>
 
-<summary>A detailed diagram identifying the parts of the Doric entablature, including the cornice, frieze, and architrave components.</summary>
-<keywords>entablature, acroterion, sima, cymatium, corona, triglyph, metope, epistyle, guttae, module</keywords>
+d. **corona** <note>the flat, projecting part of the cornice that throws water away from the building</note>
+
+e. Doric **cymatium** <note>the molding located beneath the corona</note>
+
+f. **triglyph** <note>a block with three vertical grooves, a signature of the Doric style</note>
+
+g. **metope** <note>original: "methopa"; the space between triglyphs, often decorated with carvings</note>
+
+h. **tenia** <note>original: "teni"; the narrow band or fillet at the top of the architrave</note>
+
+i. **architrave** <note>original: "epistylium"; the primary beam that rests directly on the columns</note>
+
+k. **triglyph capital** <note>original: "capitulum triglyphi"; the small crowning molding of the triglyph block</note>
+
+m. **drops** <note>original: "guttae"; small peg-like decorations. Other drops are carved beneath the corona, aligned vertically with the triglyph, which will be discussed further below.</note>
+
+l. **module** <note>original: "modulum"; the standard unit of measurement derived from the column's diameter</note>
+
+n. **tympanum** <note>the recessed triangular space of the pediment</note>
+
+<summary>This page serves as an illustrated glossary for the Doric order, labeling the individual parts of the entablature and pediment—from the base architrave to the decorative acroteria on the roof.</summary>
+<keywords>Doric order, entablature, pediment, triglyph, metope, architrave, classical architecture, architectural terminology</keywords>
 
 --- Page 142 ---
 <meta>Continuing from page 69, which provided a labeled diagram of the Doric entablature. This page details the specific measurements and placement of those components—the metopes, triglyphs, and corona—according to the Doric rules of proportion.</meta>
@@ -4715,38 +4675,35 @@ When these matters have been arranged according to the regions of the sky, one m
 <keywords>social class in architecture, Roman house layout, atria, peristyles, basilicas, vestibules, functional design, Vitruvius</keywords>
 
 --- Page 224 ---
-<header>BOOK</header>
+<meta>This page continues Vitruvius’s discussion on the design of private homes based on the owner's social status. The previous page ended while describing how the houses of the nobility should be as grand as public works, featuring libraries and basilicas.</meta>
 
-<margin>of the nobles</margin>
-<margin>very ample</margin>
-<margin>house</margin>
-<margin>vestibule</margin>
-<margin>atrium</margin>
-<margin>peristyle</margin>
-<margin>courtyard</margin>
-<margin>basilica</margin>
-<margin>place of the tribunal</margin>
-<margin>meeting room</margin>
-<margin>library</margin>
-<margin>picture gallery</margin>
-<margin>portico</margin>
-<margin>hall; the rest are bedrooms</margin>
-<margin>dining rooms, and other types of chambers</margin>
-<margin>gardens or orchards</margin>
-<margin>where there are woods and plane-trees</margin>
+# BOOK SIX
 
-Therefore, if buildings are arranged according to these logics, fitted to the forms of each type and the walking paths <note>original: "ypodromi"</note>, as was written in the first book regarding <term>decorum</term> <note>the principle of appropriateness in design</note>, there will be nothing to be criticized. For they will have convenient and corrected arrangements for all things.
+<margin>
+The most spacious house of the nobility.
+Vestibule.
+Atrium.
+Peristyle <term>peristylium: an open courtyard surrounded by a colonnade</term>.
+Cavaedium <term>cauædium: the main inner hall or courtyard of a Roman house</term>.
+Basilica <term>basilica: a grand, formal hall used for receiving guests and conducting business</term>.
+Triple-dining area.
+Exedra <term>exedra: a room with seating used for conversation</term>.
+Library.
+Picture gallery.
+Portico <term>porticus: a covered walkway supported by columns</term>.
+Court.
+The rest are bedrooms, dining rooms, and various types of private chambers.
+Gardens or orchards.
+Where groves, plane-tree walks, and racetracks <term>hypodromi: open or covered spaces for exercise or walking</term> can be constructed.
+</margin>
 
-However, the logic of these buildings will not only apply to the city, but also in the country, except that in the city atria are usually closest to the doors, whereas in <term>suburban villas</term> <note>original: "pseudourbanis"</note>, the peristyles come first, and then the atria, which have paved porticoes looking out onto <term>exercise grounds</term> <note>original: "palaestras"</note> and walkways. I have now briefly described the urban logic of buildings as far as I could, as I proposed.
+<image-desc>A woodcut architectural floor plan of a Roman villa, described in the margin as "A most grand house for a noble." The plan is oriented with the entrance at the bottom. It features a sequence of spaces labeled with letters: 'a' is an entrance area; 'b' is a vestibule with four columns; 'c' is the entrance to 'd', a large central peristyle courtyard with sixteen columns. At the top of the axis is a large hall 'e' with a semicircular apse 'f'. Flanking rooms are marked 'g', 'h', 'i', 'k', and 'l'. Two large square gardens, labeled 'm', are located at the front corners. The plan uses small circles to denote columns and thick lines for walls.</image-desc>
 
-## On the logic of rural buildings, and the descriptions and uses of their many parts.
+Therefore, if buildings are arranged according to these principles for each class of person—just as was written in the first book regarding propriety <term>decore: the architectural principle that a building’s design should suit its purpose and the status of its owner</term>—there will be nothing to criticize. For they will possess every convenience and be free from faults...
 
-### Chapter IX.
+<summary>This page concludes the discussion on social-class-based architecture, providing a detailed floor plan and list of rooms required for a Roman noble's grand estate. It emphasizes that a building's design must align with 'decorum' or the fitness of the structure to the inhabitant's status.</summary>
 
-<margin>⁕</margin>Now I will speak of rural estates, so that they may be convenient for use, and by what logic they ought to be situated. First, concerning healthfulness—as was written in the first volume regarding the placement of city walls—the regions should be inspected, and villas situated accordingly. Their sizes should be prepared in proportion to the measure of the land and the abundance of produce. The courtyards and their sizes should be defined according to the number of livestock and how many yokes of oxen will need to be kept there. In the courtyard, the kitchen should be designated in the warmest possible place. Connected to it, it should have the ox-stalls, whose stalls face the hearth and the eastern region of the sky; this is because oxen do not become shaggy when looking at the light and the fire. Also, farmers—unskilled in the regions of the sky—do not think oxen should face any other region except the rising sun. The widths of the ox-stalls ought to be no less than ten feet, nor greater than fifteen. The length should be such that each yoke occupies no less than seven feet. The baths likewise should be connected to the kitchen; for in this way, the management of the rural washing...
-
-<summary>This section transitions from grand noble houses to the design of rural villas, emphasizing that country houses place the garden courtyard (peristyle) before the reception hall (atrium).</summary>
-<keywords>suburban villas, peristyle, rural architecture, ox-stalls, kitchens, livestock, healthfulness</keywords>
+<keywords>Roman villa, Vitruvius, architectural decorum, nobility, atrium, peristyle, floor plan, social status in architecture</keywords>
 
 --- Page 225 ---
 <meta>This page continues the transition from Book 6's discussion on city houses to the practical design of rural villas. It picks up at the end of a summary of urban architecture before beginning Chapter IX, which focuses on the functional layout of farmhouses (villa rustica).</meta>
@@ -4848,45 +4805,31 @@ Therefore, painters, imitating these gifts sent to guests in their artwork, call
 <keywords>Greek architecture, Rhodian peristyle, Cyzicene dining rooms, andronitides, xenia paintings, guest hospitality, mesaulae, Vitruvius Book VI</keywords>
 
 --- Page 230 ---
-<header>BOOK</header>
+<meta>This page continues the detailed architectural analysis of the Greek house layout, following the discussion of guest suites and the social customs surrounding hospitality. It transitions from general descriptions to a specific floor plan and a philological note on the terminology for men's quarters.</meta>
 
-*   Entry-passage <note>original: thiroreo</note>
-*   Porter's
-*   rooms.
-*   Stables.
-*   Peristyle.
-*   Prostas or
-*   Parastas <note>The vestibule or porch</note>.
-*   Bedrooms
-*   and secondary
-*   bedrooms.
-*   Men's dining
-*   rooms.
-*   Building
-*   layout.
-*   Women's
-*   dining rooms.
-*   Uncovered areas;
-*   other places
-*   around the
-*   layout are
-*   assigned to
-*   the women.
-*   Those, however,
-*   which are around
-*   the portico
-*   are bedrooms
-*   and servant
-*   rooms.
+### BOOK 2
 
-<image-desc>A detailed floor plan diagram of a Greek house as described by Vitruvius. The top (north) shows the Cyzicene dining rooms and guest quarters (k). The middle sections show the two primary courtyards: the andronitis (men's court) and the gynaeconitis (women's court, h). The passage between the two courts (e) represents the mesaulae. The entrance at the bottom (d) shows the narrow entry and porters' rooms (c).</image-desc>
+<margin>
+a. entrance passage <note>original: "thyroreum"</note>
+b. rooms for the porters
+c. stables
+d. peristyle <note>a courtyard surrounded by a colonnade</note>
+e. porch or vestibule <note>original: "prostas" or "parastas"</note>
+f. principal and secondary bedrooms <note>original: "thalami" and "amphithalami"</note>
+g. locations for the men's dining rooms
+h. great hall <note>original: "oecis chena," likely referring to the Cyzicene oecus</note>
+i. women's dining rooms
+k. all other open-air areas and the spaces around the hall layout are designated for the women. 
+Those rooms situated around the portico are bedrooms and servants' quarters.
+</margin>
 
-But this is quite marvelous, for it does not agree either in Greek or Latin. For the Greeks call the <term>passages</term> <note>original: αὑλῶνας</note>...
+**[Image: A woodcut architectural floor plan of a Greek-style house. The plan shows a series of interlocking courtyards and rooms. The entrance (a) leads through a passage flanked by stables (c) and porters' rooms (b) into a large peristyle (d). Beyond this, a porch (e) leads to the inner sanctum containing bedrooms (f) and the great hall (h), which is flanked by dining rooms (g, i). The entire complex is surrounded by smaller chambers and open spaces (k).]**
 
-<note>original vocabulary list: entry-passage, porter, rooms, stables, peristyle, prostas, parastas, bedrooms, secondary bedrooms, dining rooms, men's, places, layout, women's, plan, women, assigned, portico, bedrooms, servants', passages</note>
+...but this is very much to be wondered at, for the term cannot be made to agree in either Greek or Latin. For the Greeks call **men’s quarters** <term>andronas: specifically designated halls or suites where male guests were entertained, separate from the family living areas</term> the...
 
-<summary>This page provides a labeled key to the floor plan of a Greek house, categorizing spaces by gender and function, and begins a linguistic discussion on the term for passages.</summary>
-<keywords>architectural diagram, gynaeconitis, andronitis, floor plan, Greek terminology</keywords>
+<summary>This page provides a detailed floor plan of a classical Greek house, labeling specific rooms like the "thalami" (bedrooms) and "oecus" (hall), while beginning a linguistic discussion on the term "andronas." It emphasizes the architectural separation between male social spaces and the private quarters assigned to women and servants.</summary>
+
+<keywords>Greek architecture, floor plan, andronas, peristyle, domestic space, gender separation, Vitruvius</keywords>
 
 --- Page 231 ---
 <meta>This page continues the discussion of the Greek house from the previous page, specifically focusing on the naming conventions of rooms and architectural features where Roman and Greek terminology differ. The previous page ended mid-sentence discussing the naming of halls.</meta>
@@ -6502,21 +6445,91 @@ Next to the **Bowl** and the **Lion** is the **Ship**, which is named **Argo**. 
 <keywords>astronomy, southern constellations, Orion, Hydra, Argo Navis, Cetus, Vitruvius, celestial mapping</keywords>
 
 --- Page 320 ---
--> BOOK <-
+<meta>This page provides a visual key for a woodcut illustration of a celestial globe. Although the previous page’s content aligned with Book Nine of Vitruvius's treatise—the section dedicated to astronomy—the header here indicates "Book I." This may reflect a variation in the original manuscript's organization or a separate introductory section for the astronomical plates.</meta>
 
-<image-desc>A celestial globe depicting various constellations and astronomical lines. The globe is marked with a grid of latitude and longitude lines. Constellations visible include a dragon (Draco), a bird (Aquila), a man holding a serpent (Ophiuchus and Serpens), a centaur archer (Sagittarius), a goat-fish (Capricornus), a water-bearer (Aquarius), a scorpion (Scorpius), a balance (Libra), and a fish (Piscis). Various points and lines on the globe are labeled with letters.</image-desc>
+# BOOK I
 
-| | | | | |
-| :--- | :--- | :--- | :--- | :--- |
-| a. Draco <note>The Dragon.</note> | g. The Kneeler <note>Hercules.</note> | n. Two Horses <note>Equuleus.</note> | s. Sagittarius. | Capricorn. |
-| b. The Pole. | h. The Eagle. | o. The Bird <note>Cygnus.</note> | t. Capricorn. | &. The Altar <note>Ara.</note> |
-| c. The Vulture <note>Often used for Lyra.</note> | i. The Dolphin. | p. Equinoctial line. | u. Aquarius. | Southern Fish. |
-| d. Tropic of Cancer. | k. The Arrow. | q. Libra. | x. Scorpio. | |
-| e. Boötes. | l. Serpent-Bearer. | r. Ecliptic line. | y. The Crown. | |
-| f. The Crown. | m. The Serpent. | | z. Tropic. | |
+<image-desc>
+A square woodcut illustration of a celestial globe. The globe is shown with a grid of latitude and longitude lines, including the equator ("equinoctial line"), the ecliptic ("ecliptic line"), and the tropics. Various constellations are depicted as mythological figures and animals, each labeled with a letter or symbol:
+- A: The Dragon (a serpent coiled around the north pole)
+- B: The Pole
+- C: The Vulture (Lyra, depicted as a bird)
+- D: Tropic of Cancer
+- E: The Herdsman (Bootes)
+- F: The Northern Crown
+- G: The Kneeler (Hercules, shown kneeling)
+- H: The Eagle
+- I: The Dolphin
+- K: The Arrow
+- L: The Serpent-Bearer (Ophiuchus)
+- M: The Serpent
+- N: The Two Horses (Equuleus)
+- O: The Bird (Cygnus, the swan)
+- P: The Equinoctial Line (equator)
+- Q: The Scales (Libra)
+- R: The Ecliptic Line
+- S: The Archer (Sagittarius)
+- T: The Horned Goat (Capricorn)
+- U: The Water-Bearer (Aquarius)
+- X: The Scorpion
+- Y: The Southern Crown
+- Z: Tropic of Capricorn
+- &: The Altar (Ara)
+- b⁹: The Southern Fish (at the bottom right)
+</image-desc>
 
-<summary>The page provides a secondary celestial globe diagram, focusing on the relationship between the southern and zodiacal constellations such as Sagittarius, Scorpio, and the Serpent-Bearer.</summary>
-<keywords>celestial globe, Draco, Ophiuchus, Scorpio, Libra, astronomical legend, Southern Fish</keywords>
+---
+
+a. The Dragon <note>original: draco</note>
+b. The Pole <note>original: polus</note>
+c. The Vulture <term>Vultur; an archaic name for the constellation Lyra, the Lyre</term>
+d. The Tropic
+of Cancer <note>original: tropicus cancri</note>
+e. The Herdsman <note>original: bootes</note>
+f. The Crown <note>original: corona; specifically the Northern Crown</note>
+
+<column-break/>
+
+g. The Kneeling
+Man <term>Ingeniculatus; the constellation Hercules, often depicted in a kneeling pose</term>
+h. The Eagle <note>original: aquila</note>
+i. The Dolphin <note>original: delphinus</note>
+k. The Arrow <note>original: sagitta</note>
+l. The Serpent-Bearer <note>original: ophiuchus</note>
+m. The Serpent <note>original: serpens</note>
+
+<column-break/>
+
+n. Two Horses <term>Equi duo; the constellation Equuleus, the Little Horse</term>
+o. The Bird <term>Volucris; likely the constellation Cygnus, the Swan</term>
+p. The Equinoctial
+Line <note>original: linea æquinoctialis; the celestial equator</note>
+q. The Scales <note>original: libra</note>
+r. The Ecliptic
+Line <note>original: linea ecliptica; the apparent path of the sun</note>
+
+<column-break/>
+
+s. The Archer <note>original: sagittarius</note>
+t. The Horned
+Goat <note>original: capricornus</note>
+u. The Water-Bearer <note>original: aquarius</note>
+x. The Scorpion <note>original: scorpius</note>
+y. The Crown <note>original: corona; here referring to the Southern Crown</note>
+z. The Tropic
+
+<column-break/>
+
+of Capri-
+corn <note>original: tropicus capricorni</note>
+&. The Altar <note>original: ara</note>
+b⁹. The Southern
+Fish <note>original: piscis meridionalis</note>
+
+<vocab>Dragon, Pole, Vulture, Tropic of Cancer, Herdsman, Crown, Kneeling Man, Eagle, Dolphin, Arrow, Serpent-Bearer, Serpent, Two Horses, Bird, Equinoctial Line, Scales, Ecliptic Line, Archer, Horned Goat, Water-Bearer, Scorpion, Tropic of Capricorn, Altar, Southern Fish</vocab>
+
+<summary>This page serves as a legend for an accompanying woodcut of a celestial globe, listing the constellations and celestial markers of both the northern and southern hemispheres.</summary>
+<keywords>celestial globe, constellations, astronomy, zodiac, northern crown, southern fish, ecliptic, equator</keywords>
 
 --- Page 321 ---
 <meta>This page concludes the description of constellations discussed in the previous section (which featured the celestial globe) and transitions into the practical and predictive applications of astronomy, specifically sundial construction and the history of astrology.</meta>
@@ -6695,15 +6708,76 @@ I have not omitted these matters because I was deterred by laziness, but so that
 <keywords>analemma, sundials, equinox, winter solstice, summer solstice, Vitruvius, gnomonics, history of science</keywords>
 
 --- Page 328 ---
-<page-num>921</page-num>
-# BOOK IX
-<meta>Though the page number 921 appears as a possible misprint or different sequence in the OCR, the content clearly continues the study of the Roman solar sundial within Book 9.</meta>
+<meta>This page follows Vitruvius’s introduction to the history and inventors of sundials. It provides a visual demonstration of the geometric "analemma" construction described in the preceding text, specifically tailored for the latitude of Rome.</meta>
 
-<margin>Solar sundial of Rome.</margin>
-<image-desc>A detailed geometric diagram, likely illustrating the construction of a sundial, enclosed within a double-lined rectangular frame. At the top, a horizontal line is labeled "Gnomon" with several small vertical tick marks. From the top-left corner, multiple lines radiate outwards, labeled "rays". A large circle is inscribed within the rectangle, intersected by several diagonal and horizontal lines. Various labels are placed around and within the diagram: "Trigon" <note>The triangle</note> is written vertically along the left edge of the diagram's frame. Inside the diagram, a vertical line is labeled "Radius". Other labels include "radius eg", "equinoctial", "summer", "tom", "laco" <note>forming 'lacotomus'</note>, "m3", "ou", "ens", "ce", "X", "=", "P", "Z", "M", "Y". Along the right edge of the diagram, "Lines of the plane" is written vertically. A diagonal line at the bottom right is labeled "winter".</image-desc>
+### NINTH [BOOK]
 
-<summary>This page features a detailed technical diagram for constructing a solar sundial specifically calibrated for the latitude of Rome, using the principles of the analemma.</summary>
-<keywords>Rome, sundial construction, gnomon, solar rays, trigonometry, architectural geometry</keywords>
+->BOOK<-
+
+<margin>
+The solar
+sundial
+of Rome.
+</margin>
+
+***
+
+->**GNOMON**<-
+<note>The gnomon is the vertical rod or needle that casts the shadow used to measure time.</note>
+
+**HORIZON**
+<note>original: *Orizon*; the horizontal line representing the viewer's local horizon.</note>
+
+<column-break/>
+
+**LINE OF THE PLANE**
+<note>original: *Linea planiciei*; the base line representing the flat surface upon which the shadow falls.</note>
+
+***
+
+**SOLAR PATHS AND RADII**
+
+*   **Radius**
+*   **Radius of Aries (the Ram)** ♈︎
+*   **Radius of Taurus (the Bull)** ♉︎
+*   **Equinoctial Radius** <note>original: *radius eq*; the path of the sun during the spring and autumn equinoxes.</note>
+
+**SEASONAL ARCS**
+
+**SUMMER ARC**
+<note>original: *estivus*; the path representing the summer solstice, when the sun is at its highest point.</note>
+
+**EQUINOCTIAL LINE**
+<note>original: *noctialis*; the line marking the equal division of day and night.</note>
+
+**WINTER ARC**
+<note>original: *hibernus*; the path representing the winter solstice, when the sun is at its lowest point.</note>
+
+***
+
+**THE ZODIACAL DIVISIONS**
+<note>These signs represent the sun's position in the sky throughout the year, which dictates the length of the shadow.</note>
+
+| Ascending Signs | Descending Signs |
+| :--- | :--- |
+| **Gemini** (the Twins) ♊︎ | **Sagittarius** (the Archer) ♐︎ |
+| **Taurus** (the Bull) ♉︎ | **Scorpio** (the Scorpion) ♏︎ |
+| **Aries** (the Ram) ♈︎ | **Libra** (the Scales) ♎︎ |
+| **Pisces** (the Fish) ♓︎ | **Virgo** (the Virgin) ♍︎ |
+| **Aquarius** (the Water-Bearer) ♒︎ | **Leo** (the Lion) ♌︎ |
+| **Capricorn** (the Goat) ♑︎ | **Cancer** (the Crab) ♋︎ |
+
+***
+
+**INTERNAL CALIBRATIONS**
+
+[**Night/Evening**] <note>original fragments: *no*, *ctu*; likely referring to *nocturnus* or the evening hours.</note>
+[**Morning**] <note>original fragments: *ma*, *tu*; likely referring to *matutinus*, the morning hours.</note>
+[**Section**] <note>original fragment: *tom⁹*; likely *tomus*, indicating a segment or division of the diagram.</note>
+
+<summary>This page features a detailed woodcut diagram illustrating the geometric construction of a Roman sundial. It visualizes how the gnomon's shadow interacts with seasonal arcs and zodiacal positions to determine the time of day and year.</summary>
+
+<keywords>sundial, gnomon, Rome, geometry, analemma, zodiac, solstice, equinox, horology</keywords>
 
 --- Page 329 ---
 <meta>This page continues the discussion of architectural and mechanical principles, specifically transitioning into the history and mechanics of timekeeping devices.</meta>
