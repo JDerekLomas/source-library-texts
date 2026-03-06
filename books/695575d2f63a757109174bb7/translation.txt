@@ -1,55 +1,3 @@
---- Page 1 ---
-<meta>The provided source text contains a warning that the image is blank; therefore, no continuity with previous pages can be established.</meta>
-
-# Document Status Report
-
--> **Notice of Missing Content** <-
-
-The source material provided for this page is currently unavailable for translation. 
-
-<note>The system has flagged this entry with a warning indicating that the digital image or manuscript page provided is completely blank.</note>
-
-As a result, there is no text, marginalia, or formatting to reproduce in English at this time. If this is a placeholder for a lost leaf in a manuscript, it signifies a gap in the historical record.
-
-<summary>This page serves as a placeholder indicating that the source image provided was blank and contained no text to translate.</summary>
-<keywords>blank page, missing text, manuscript gap</keywords>
-
---- Page 2 ---
-<meta>The provided source indicates a blank page in the manuscript sequence. No previous text is available for continuity.</meta>
-
-# [Blank Page]
-
-<note>This page contains no written content or illustrations in the original manuscript.</note>
-
-<summary>This page of the manuscript is blank and contains no text or markings.</summary>
-<keywords>blank page, manuscript folio</keywords>
-
---- Page 3 ---
-<meta>The provided source image was reported as blank; however, I have prepared the template for the translation of this page should the content be restored. Based on the metadata provided, no text was detected for transcription.</meta>
-
-# [Blank Page]
-
-*This page contains no visible manuscript text or illustrations.*
-
-<summary>This page is blank and contains no written content or markings.</summary>
-<keywords>blank page, manuscript, empty</keywords>
-
---- Page 4 ---
-<meta>The provided source image was reported as blank; however, I have prepared the template for the translation of this page should the content be restored. Based on the metadata provided, no text was detected for transcription.</meta>
-
-# [Blank Page]
-
-*This page contains no visible manuscript text or illustrations.*
-
-<summary>This page is blank and contains no written content or markings.</summary>
-<keywords>blank page, manuscript, empty</keywords>
-
---- Page 5 ---
-<meta>This page is blank in the original manuscript and contains no text for translation.</meta>
-
-<summary>This page of the manuscript is blank and contains no written content.</summary>
-<keywords>blank page, manuscript folio</keywords>
-
 --- Page 6 ---
 <meta>This page serves as the title page for the second volume of Marin Mersenne's monumental work, following the blank page noted previously. It outlines the practical applications of music theory discussed in the first volume.</meta>
 
@@ -86,16 +34,6 @@ the other of the Subjects.
 
 <summary>This is the title page for the second part of Marin Mersenne's "Harmonie Universelle" (1637), a seminal work in music theory and acoustics. It lists the practical musical subjects covered, including counterpoint, singing, and the setting of classical poetry to music.</summary>
 <keywords>Marin Mersenne, music theory, counterpoint, Pierre Ballard, musical education, 17th century printing, Pindar, Horace</keywords>
-
---- Page 7 ---
-<meta>This page is blank in the original manuscript and contains no text for translation.</meta>
-
-# Blank Page
-
-[This page contains no writing or illustrations.]
-
-<summary>This page of the manuscript is blank and contains no historical or textual data.</summary>
-<keywords>blank page, manuscript folio</keywords>
 
 --- Page 8 ---
 <meta>This page follows a blank page. It serves as the author's preface to the reader for the comprehensive musical treatise.</meta>
@@ -9012,6 +8950,35 @@ The case, or the assembly of the harpsichord, is E F G H B D K, and C A I is the
 <summary>This page provides a detailed anatomical description of a double harpsichord, explaining the function of its bridges, the complex seven-part mechanism of the plucking jack, and the layout of the 29-key diatonic keyboard.</summary>
 <keywords>harpsichord, jack mechanism, bridges, keyboard layout, instrument construction, 17th-century music, solmization, diapason</keywords>
 
+--- Page 309 ---
+<meta>This page continues the technical description of keyboard instruments, specifically detailing the anatomy of a double harpsichord, the mechanics of its plucking action (the jack), and the layout of the keyboard.</meta>
+
+# Book Three
+
+### PROPOSITION III.
+
+->*To explain the figure, the parts, the keyboard, and the range of the harpsichord.*<-
+
+<margin>Summit or Finish <note>original: Greek "ΚΟΛΟΦΩΝ" (Kolophon); likely used here to indicate the top-most part or the "finishing" bridge of the apparatus</note></margin>
+
+This figure represents the double harpsichord, as one can see by the two ranks of strings it contains, of which the first is wound around the first tuning pins Z Z, and the other around the second pins L L. From this, it follows that there are four <term>bridges</term> <note>original: "cheualets"; the wooden strips that support the strings and transmit vibration to the soundboard</note>: namely, two straight ones, N M and P O; and the other two, namely T and V X, which determine the harmonic length of the two ranks of strings. These are called <term>curved bridges</term> <note>original: "cheualets à croffe"; referring to the curved or "crosier" shape of the bridge on the treble side, resembling a shepherd's or bishop's crook</note> because of their shape.
+
+The smallest strings are secured by the pins T T, and the largest by those following the line G B, of which those underneath at B H etc. do not appear, due to the side of the harpsichord covering them. G F E signifies the continuous side, which could not be seen without placing the harpsichord at an angle and crosswise, as *it is here in Perspective*.
+
+As for the <term>jacks</term> <note>original: "fautereaux"; the vertical wooden components that pluck the strings</note> R Q, which are almost parallel to the second straight bridge and very close to it, they enter through 49 small holes pierced through a wooden rail called a <term>register</term> <note>original: "mortise"; the guide rail that holds the jacks in place and allows them to slide up and down</note>. Now, each jack has two pieces of scarlet or other cloth to stifle and dampen the sound of the two ranks of strings. And because the perspective did not allow for them to be represented in such a way that those who have never seen one might <unclear>understand the mechanism</unclear> <note>The OCR ends abruptly here</note>...
+
+<column-break/>
+
+The diagram further illustrates the mechanical action through the following details:
+
+*   The keyboard at the base features keys numbered 1 through 29, corresponding to the notes c, d, e, f, g, a, and h <note>In the Germanic system, 'h' represents B-natural, while 'b' represents B-flat</note>.
+*   An inset depicts a <term>lyre</term>-shaped frame, perhaps a decorative element or a reference to the classical origins of stringed instruments.
+*   The mechanical drawings labeled (h, i, k, l, m, n) detail the <term>plectrum mechanism</term>—the tiny quill or leather tongue that actually plucks the string when a key is pressed.
+*   The musical notation on the five-line staff provides a direct reference for the performer, mapping the written notes to the specific numbered keys of this 49-note instrument.
+
+<summary>This page provides a detailed technical breakdown of a double harpsichord's internal structure, focusing on its four bridges, the arrangement of its two sets of strings, and the "jack" mechanism used for plucking.</summary>
+<keywords>harpsichord, jack (fautereau), bridge (cheualet), music theory, instrument acoustics, keyboard layout, 17th-century engineering</keywords>
+
 --- Page 310 ---
 ### Book Three
 
@@ -9071,6 +9038,38 @@ As for the strings, their sound is determined by the part which is from the—
 
 <summary>This page describes the Manichordion (clavichord), highlighting its quiet nature due to felt damping and its mechanical unique property of sharing strings between multiple keys.</summary>
 <keywords>Manichordion, clavichord, tangents, keyboard mechanics, instrument construction, muted spinet, fretted clavichord</keywords>
+
+--- Page 313 ---
+<meta>This page follows the description of the Manichordion (clavichord), specifically completing the sentence regarding its quiet nature which allows for practice without disturbing neighbors. It introduces the "Archicymbalum" or "Universal Polychord," a complex scientific instrument used for microtonal study.</meta>
+
+# Book Three
+
+...neighbors being bothered.
+
+### PROPOSITION V.
+
+->*To explain the construction, the parts, and the use of the Universal Polychord or Archicymbal.*<-
+
+<note>The "Archicymbal" described here is a theoretical and practical instrument designed to divide the scale into much smaller intervals than a standard keyboard, often used to demonstrate the "enharmonic" genus of ancient Greek music.</note>
+
+The figure represented here shows the **Archicymbal** <term>Archicymbalum — a many-stringed instrument capable of playing microtonal intervals</term>, or Universal Polychord, which serves to represent all the harmonic ratios and the various systems of music. 
+
+At the top of the page, one sees four musical staves that contain forty-nine notes in total, marked by their numbers. The first two staves (marked 1 through 24) and the following two (25 through 49) represent the various degrees and sounds that this instrument can produce, including the sharps, flats, and natural signs necessary for chromatic and enharmonic music.
+
+The body of the instrument, marked **A B C D**, is a long and narrow soundbox. On the left side, there is a vertical triangular part **G Q D** which acts as a mathematical scale. This scale is marked with numbers 1 through 24, corresponding to the divisions of the strings that determine the pitch. The point **D** marks the highest peak of this assembly.
+
+The internal components and the layout of the strings are designated as follows:
+- **R, S,** and **B** indicate the bridges over which the strings are stretched.
+- **T** marks the right side of the frame.
+- **H** is a recessed box or cavity within the instrument.
+- **I** represents the base or the foot of the entire structure.
+
+The keyboard at the front, which allows the musician to strike the notes, contains nineteen keys numbered **1** through **19**. To the right, the detail labeled **V, X, Y,** and **Z** illustrates the mechanism of a single string, showing how it is tuned and held in place by the pegs and bridges.
+
+Finally, at the bottom, the five notes marked with Roman numerals **I, II, III, IV,** and **V** in the bass clef represent the fundamental tones or the principal chords upon which the system of this Polychord <note>original: "Polychorde"</note> is established. This instrument is more intended for the use of theorists and those who wish to understand the perfection of tuning than for ordinary concerts.
+
+<summary>This page describes the Archicymbal or Universal Polychord, a sophisticated 17th-century stringed instrument used for demonstrating complex tuning systems and microtonal intervals.</summary>
+<keywords>Archicymbal, Polychord, musical intervals, tuning systems, microtonal music, acoustics, mathematical music theory</keywords>
 
 --- Page 314 ---
 <meta>This page continues the technical description of a complex keyboard instrument, likely an Archicembalo or a similar microtonal instrument, focusing on its mechanical construction and its ability to play diatonic, chromatic, and enharmonic intervals.</meta>
@@ -10685,6 +10684,34 @@ The other two rows of strings also do not appear wound to the 2nd and 3rd row of
 <summary>This page describes the physical construction of the harp, comparing it to the ancient Kinnor and detailing its components like the soundboard, tuning pins, and the transition away from buzzing bray pins.</summary>
 <keywords>harp, Kinnor, soundboard, tuning pins, bray pins, instrument making, music theory, strings, Spinet</keywords>
 
+--- Page 365 ---
+<meta>This page continues Proposition XXIV, transitioning from the introductory remarks on the harp's biblical origins (the Hebrew *Kinnor*) to a detailed technical breakdown of its physical components, as illustrated in the accompanying woodcut.</meta>
+
+# of Stringed Instruments.
+
+...one sees the two rows of pins **D** and **C**, which serve to secure the strings upon the soundboard. 
+
+->[Illustration of a Harp]<-
+
+### THE ANATOMY OF THE HARP.
+
+The figure above depicts the instrument in its entirety, showing the arrangement of its various parts which allow it to produce such a harmonious range of sounds. To understand its construction, one must observe the following labels:
+
+The separate diagram at the top center illustrates a tuning tool <term>tuning tool<note>original: "clef"; a wrench-like tool used to turn the pins and tighten the strings</note></term> or perhaps a structural joint, marked with the letters **A** and **B**. Beside it, a small mechanical component, likely a bridge pin or a specific part of the internal mechanism, is indicated by the Greek letter **beta** (**β**).
+
+On the instrument itself:
+
+*   **M** marks the head of the carved pillar, the vertical support that resists the tension of the strings.
+*   The neck—the curved top arm of the harp—contains the tuning pins. These are organized in repeating sequences of the musical scale, labeled **A, B, C, D, E, F,** and **G**, which guide the musician in setting the correct pitch for each string.
+*   The joint where the neck meets the soundbox is identified by the letters **B**, **C**, and **D**.
+*   **H** and **G** represent the two large, ornate rosettes <note>These are decorative soundholes carved into the soundboard to allow the air inside the body to vibrate more freely, enhancing the volume.</note> located on the soundboard.
+*   The lower section of the soundboard and the sturdy base of the instrument, which rests against the player, are marked with the letters **F**, **E**, **K**, **I**, and **L**.
+
+The harp is a <term>chordophone<note>from the Greek 'khorde' (string) and 'phone' (sound); a general category for all instruments that produce sound via vibrating strings</note></term> of great complexity. Because each note requires its own string, the tension exerted on the frame—particularly at the neck (**A-D**) and the soundboard—is immense, requiring the finest craftsmanship in wood selection and joinery.
+
+<summary>This page provides a technical diagram and labeled anatomical guide to the harp, identifying its structural components from the tuning pins to the soundboard rosettes.</summary>
+<keywords>harp construction, tuning pins, soundboard, rosettes, musical anatomy, chordophone, Mersenne</keywords>
+
 --- Page 366 ---
 <meta>This page continues the technical description of the harp, focusing on its construction, stringing, and a comparison with other instruments like the lute and the harpsichord.</meta>
 
@@ -10704,6 +10731,105 @@ Regarding the tuning of the Harp, it is similar to that of the Spinet, for all i
 
 <summary>This page describes the technical construction and stringing of the triple harp, comparing its range and mechanics to the spinet, harpsichord, and lute. It details the complex arrangement of strings required for a chromatic range and touches upon the expressive qualities of the instrument compared to the lute.</summary>
 <keywords>triple harp, spinet, harpsichord, lute, stringing, semitones, Vincenzo Galilei, musical tuning, resonance, instrument construction</keywords>
+
+--- Page 367 ---
+<meta>This page continues the technical illustration and cataloging of stringed instruments, transitioning from the physical construction of the harp to a theoretical diagram comparing ancient Greek musical systems with the contemporary tuning and notation of the 17th century.</meta>
+
+# ->THE NEW AND ANCIENT<-
+# ->CITHARA<-
+<note>original: "Cithara Nova et Antiqua." The cithara was an ancient Greek stringed instrument, often seen as a precursor to the modern harp or lute.</note>
+
+<image-desc>A detailed engraving of a cithara (harp-like instrument) with its internal strings and musical annotations. The frame of the instrument is ornate, featuring floral motifs at the top left. Along the top attachment bar, the strings are labeled with a sequence of letters: Γ, A, B, C, D, E, F, G, a, b, c, d, e, f, g, aa, bb, cc, dd, ee, ff, ggg. The highest strings also feature Guidonian solmization labels (e.g., "ggg sol re vt"). Inside the frame, each major string is labeled with its Greek name and a Latin translation. Along the right exterior of the instrument, a vertical list of numbers and musical intervals is provided. At the base of the instrument is a small decorative block labeled "Iugum Lyrae Antiquae". At the bottom of the page, two columns list musical notation symbols for "Hodierna Musica" and "Græcorum Notæ".</image-desc>
+
+---
+
+<margin>
+243 minor tone
+270 major semitone
+288 minor tone
+320 major tone
+360 major semitone
+384 medium semitone
+405 major semitone
+432 minor tone
+480 major tone
+540 major semitone
+576 minor tone
+640 major tone
+720 major semitone
+768 medium semitone
+810 major semitone
+864 minor tone
+960 major tone
+1080 major semitone
+1152 minor tone
+1280 major tone
+1440 major semitone
+1536 major tone
+1728 minor tone
+1920
+<note>These numbers represent the mathematical ratios used to calculate the pitch and tension of strings in early music theory.</note>
+</margin>
+
+**[String Labels from top to bottom:]**
+<note>These labels identify the strings according to the ancient Greek "Greater Perfect System." The Greek names describe the string's position or function, while the Latin translations provided in the original text clarify their order.</note>
+
+1. **The highest of the highest** <note>original: νήτη ὑπερβολαίων / ultima excellentium</note>
+2. **The second from the highest of the highest** <note>original: παρανήτη ὑπερβολαίων / penultima excellentium</note>
+3. **The third of the highest** <note>original: τρίτη ὑπερβολαίων / tertia excellentium</note>
+4. **The highest of the disjunct strings** <note>original: νήτη διεζευγμένων / ultima disiunctarum</note>
+5. **Next to the highest of the disjunct strings** <note>original: παρανήτη διεζευγμένων / iuxta ultimam disiunctarum</note>
+6. **The third of the disjunct strings** <note>original: τρίτη διεζευγμένων / tertia disiunctarum</note>
+7. **Next to the middle** <note>original: παραμέση / iuxta mediam</note>
+8. **The highest of the conjunct strings** <note>original: νήτη συνημμένων / ultima coniunctarum</note>
+9. **The second from the highest of the conjunct strings** <note>original: παρανήτη συνημμένων / penultima coniunctarum</note>
+10. **The third of the conjunct strings** <note>original: τρίτη συνημμένων / tertia coniunctarum</note>
+11. **The middle string** <note>original: μέση / media</note>
+12. **The index of the middle strings** <note>original: λιχανὸς μέσων / index mediarum</note>
+13. **Next to the principal of the middle strings** <note>original: παρυπάτη μέσων / iuxta principalem mediarum</note>
+14. **The principal of the middle strings** <note>original: ὑπάτη μέσων / principalis mediarum</note>
+15. **The index of the principals** <note>original: λιχανὸς ὑπατῶν / index principalium</note>
+16. **Next to the principal of the principals** <note>original: παρυπάτη ὑπατῶν / iuxta principalem principalium</note>
+17. **The principal of the principal strings** <note>original: ὑπάτη ὑπατῶν / principalis principalium</note>
+18. **The added note** <note>original: προσλαμβανόμενος / assumpta</note>
+19. **The note added below** <note>original: ὑποπροσλαμβανόμενος / subassumpta</note>
+
+<insert>
+Yoke of the
+Ancient Lyre
+<note>original: "Iugum Lyræ Antiquæ"</note>
+</insert>
+
+---
+
+<columns>2</columns>
+
+**Modern Music Signs**
+<note>These refer to Byzantine and early European musical notations used to indicate ornamentation or pitch direction.</note>
+- ξ **Dry.** <note>original: ξηρόν</note>
+- θ **Fragment.** <note>original: θράνισμα</note>
+- χ **The Cross.** <note>original: σταυρός</note>
+- Ⅎ **Apostrophe.** <note>original: ἀπόστροφος</note>
+- Λ **Outflow.** <note>original: ἀποροή</note>
+- \ **Grave accent.** <note>original: βαρεῖα</note>
+- / **Acute accent.** <note>original: ὀξεῖα</note>
+
+<column-break/>
+
+**Greek Notes.**
+- χ χ **Two points.** <note>original: δύο κεντήματα</note>
+- Ⅎ Ⅎ **Two apostrophes.** <note>original: δύο ἀπόστροφοι</note>
+- χ **A point.** <note>original: κέντημα</note>
+- L **Approach.** <note>original: πέλασον</note>
+- ος **Separation.** <note>original: χώρισμα</note>
+- ϲ **Spread out.** <note>original: πετασή</note>
+- I **A little.** <note>original: ὀλίγον</note>
+- っ **The equal.** <note>original: ἴσον</note>
+
+<columns/>
+
+<summary>This page presents a theoretical diagram of a "New and Ancient Cithara," mapping the strings of a modern harp to the complex note names and mathematical ratios of ancient Greek music theory. It includes a comparison of musical notation symbols used in historical and contemporary contexts.</summary>
+<keywords>Cithara, Greek musical theory, string tuning, mathematical ratios, musical notation, Byzantine signs, Greater Perfect System, musical intervals</keywords>
 
 --- Page 368 ---
 <meta>This page continues a discussion on the tuning and temperament of stringed instruments, specifically focusing on the Harp.</meta>
@@ -14058,6 +14184,47 @@ As for the arrangement of the holes, it is marked by the fourteen numbers that a
 <summary>This page provides technical measurements for the Bassoon's construction and introduces the Rackett, explaining how its internal "folded" bore allows a small instrument to produce extremely deep pitches.</summary>
 <keywords>Bassoon, Rackett (Ceruelat), instrument making, acoustic bore, wind instruments, Renaissance music theory, fingering charts, Marin Mersenne</keywords>
 
+--- Page 505 ---
+<meta>This page continues the technical measurements of the Bassoon's construction and introduces the anatomy of the Rackett (Cervelat). The accompanying illustration provides a detailed visual reference for various shawms and pommers, highlighting their keywork and internal structures.</meta>
+
+<page-num>301</page-num>
+
+->**Of Wind Instruments**<-
+
+...seven inches from the sixth to the seventh; from the seventh to the eighth, which is behind, four inches; from the eighth to the ninth, there are seven inches, and from the ninth to the tenth, there are only five. Finally, there are ten inches from the tenth to the eleventh, and from this eleventh until the foot <note>Original: *pate* (literally "paw"), referring to the flared end-piece or bell of the instrument.</note>—that is to say, until **B**—there are fourteen inches. The diameter of the foot, or of the bell, is three inches.
+
+However, it must be noted that the hole with which the Bassoon is bored throughout its length—that is to say, its internal bore <term>canal: the hollow passage through which the air travels; its shape determines the instrument's tone and pitch.</term>—is narrow at the beginning and goes on widening until the end. This is similarly found in Oboes <note>Original: *Haut-bois*, meaning "high wood."</note> and Cornetts, which makes their sounds more powerful <note>Original: *violents*. In this period, this often referred to a strong, projecting, or bright sound quality rather than "violence" in the modern sense.</note> than those of instruments that are bored with the same width from the beginning to the end.
+
+There remains only the Rackett <term>Ceruelat: A Renaissance woodwind instrument, also known as a "sausage bassoon," featuring a very long bore folded many times within a small cylinder to produce deep bass notes.</term> to be explained, of which the upper base has eight holes of the same size that pierce this instrument throughout its length. In such a way, the lower base also has eight holes, which nevertheless form only a single continuous bore; thus, the...
+
+### **Plate of the Shawms and Pommers**
+*An illustration of various woodwind instruments and their components*
+
+**[Instrument N-O]**
+A slender, conical-bore instrument (a small shawm) with seven visible finger holes. The top is marked **N** and the bell is marked **O**.
+
+**[Instrument 2-7, I-L-M]**
+A similar woodwind featuring a reed assembly at the top labeled with the Greek letters **chi** (χ), **lambda** (λ), and **xi** (ξ). The finger holes are numbered **2** through **7**. It features a perforated wooden barrel <term>fontanelle: a decorative wooden cover used to protect the delicate key mechanism on larger woodwind instruments.</term> covering a key mechanism, labeled **I** and **L**, with the bell labeled **M**.
+
+**[Central Large Instrument A-B-E-F-ω]**
+A tall bass instrument (likely a Bass Pommer). It has a curved metal bocal <term>bocal: a curved metal tube that connects the reed to the body of the instrument.</term> at the top labeled **A**. The upper body has holes numbered **6** through **10**. A decorative joint at **B** transitions into a large fontanelle labeled **E** and **F**, which has openings numbered **2**, **3**, and **4**. The lower section has a hole labeled **10** and ends in a wide flared bell marked with the Greek letter **omega** (ω). Accompanying this are detail drawings of a key or slider labeled **C**, **D** and a component labeled **G**, **H**.
+
+**[Thin Pipe μ-P-R-S]**
+A very long, narrow pipe with a small bocal labeled **mu** (μ) and **P**. It has holes numbered **0**, **1**, **2**, and **4**, ending at a base labeled **R** and **S**. 
+
+**[Instrument ν-y]**
+A slender woodwind with a curved bocal at the top labeled **nu** (ν) and a bell labeled **y**.
+
+**[Technical Diagrams]**
+*   **a-z-y-x**: A diagram illustrating the double-conical shape of the internal bore or the reed.
+*   **V-T**: A detail of a key mechanism and its mounting.
+*   **epsilon-delta (ε-δ)**: A cylindrical component, likely a pirouette <term>pirouette: a turned wooden part that surrounds the reed, providing a rest for the player's lips.</term>, surrounded by small circular elements.
+*   **P-sigma-tau (P-σ-τ)**: A detailed view of a reed and staple assembly <term>staple: the small metal tube onto which the cane of a double reed is bound.</term>.
+
+<summary>This page details the specific measurements and conical bore construction of the Bassoon and Oboe families, emphasizing how their widening shape produces a more powerful sound. It also introduces the Rackett's unique internal structure and provides a technical plate of Renaissance woodwinds (shawms and pommers).</summary>
+
+<keywords>Bassoon, Oboe, Rackett, Shawm, Pommer, internal bore, fontanelle, bocal, musical organology, Renaissance instruments</keywords>
+
 --- Page 506 ---
 <meta>This page continues the technical description of woodwind instruments, specifically focusing on the construction and usage of the Oboe (Shawm) family and related double-reed instruments like the Bassoon and Rackett.</meta>
 
@@ -15049,6 +15216,99 @@ The sixth and seventh columns contain the nineteen pipes of the perfect scale, o
 <summary>Mersenne describes a comprehensive reference table for organ builders, detailing different tuning systems including equal temperament, the theories of Salinas, and pure just intonation. He explains how these mathematical ratios translate to physical pipe lengths for a full four-octave organ keyboard.</summary>
 
 <keywords>organ building, diapason, temperament, Francisco de Salinas, musical intervals, pipe measurement, just intonation, mean proportionals, chromatic scale</keywords>
+
+--- Page 542 ---
+<meta>This page continues the technical mathematical demonstration of musical scales and pipe measurements introduced in Book Six, Proposition XV. Having previously discussed the 12-tone tempered scale, the author now provides a comprehensive comparative table of microtonal intervals, string lengths, and ratios used to define the "perfect" divisions of the harmonic scale.</meta>
+
+# TECHNICAL TABLE OF MUSICAL DIVISIONS
+
+### PROPOSITION XV (Continued)
+
+*A comprehensive table of harmonic intervals and string lengths.*
+
+| I | II | III | IV | V | VI | VII | VIII | IX | X | XI |
+|---|---|---|---|---|---|---|---|---|---|---|
+| C | <note>Bass Clef</note> | | C 1200 | | | | | 144000 | | |
+| | | | | | | | | | minor semitone | |
+| | ♯ C | | | | | | | 138240 | | |
+| | | | | | | | | | diesis <note>A very small interval, roughly the difference between a major third and three minor thirds.</note> | |
+| | | | | | ♯ 11373 | | | 135000 | | |
+| | | | | | | | | | minor semitone | |
+| D | | D | D 1080 | | | 3240 | | 129600 | major comma <note>The syntonic comma (ratio 81:80), the small difference between a major third and four perfect fifths.</note> | |
+| | | | | | D 11200 | | | 128000 | | |
+| | | | | | | | | | minor semitone | |
+| | ♯ D | | | | ♯ 11072 | | | 124416 | minor comma | |
+| | | | | | | | | 122880 | major comma | |
+| | | | | | | | | 121500 | | |
+| | | | | | | | | 120000 | | |
+| | | | | | | | | | sub-minimum semitone <note>An extremely small microtonal step.</note> | |
+| E | | E | E 960 | | | 2880 | | 115200 | major comma | |
+| | | | | | | | | | minor semitone | |
+| | | | | | | ♯ 10935 | F | 109350 | minor comma | |
+| | | | | | | | | 108000 | major comma | |
+| F | | F | F 900 | | | 2700 | | | | |
+| | | | | | | | | | minor semitone | |
+| | ♯ F | | | | ♯ 2592 | | | 103680 | major comma | |
+| | | | | | | | | 102400 | minor comma | |
+| | | | | | | | | 101250 | major comma | |
+| | | | | | | | | 100000 | | |
+| | | | | | | | | | sub-minimum semitone | |
+| G | | G | G 800 | | | 2400 | | 96000 | major comma | |
+| | | | | | | | | | minor semitone | |
+| | ♯ G | | | | ♯ 2304 | | | 92160 | minor comma | |
+| | | | | | | | | 91125 | major comma | |
+| | | | | | | | | 90000 | | |
+| | | | | | | | | | sub-minimum semitone | |
+| A | | A | A 720 | | | 2160 | | 86400 | major comma | |
+| | | | | | | | | | minor semitone | |
+| | ♯ A | | | | ♯ 6912 | | | 82944 | major comma | |
+| | | | | | | | | 81920 | minor comma | |
+| | | | | | | | | 81000 | major comma | |
+| B | | B | B 675 | | | 2025 | | 80000 | | |
+| | | | | | | | | | sub-minimum semitone | |
+| | | | | | | | | 77760 | major comma | |
+| | | | | | | | | 76800 | minor comma | |
+| | | | | | | | | | minor semitone | |
+| | | | | | | ♯ 73728 | | 73728 | | |
+| C | | C | C 600 | | | | | 72000 | diesis | |
+| | | | | | | | | | minor semitone | |
+| | | | ♯ 576 | | | | | | diesis | |
+| | | | | | | | | | minor semitone | |
+| | | | D 540 | | | | | | comma | |
+| | | | | | | | | | minor semitone | |
+| | | | ♯ 512 | | | | | | diesis | |
+| | | | | | | | | | minor semitone | |
+| | | | E 480 | | | | | | major semitone | |
+| | | | F 450 | | | | | | minor semitone | |
+| | | | ♯ 432 | | | | | | comma | |
+| | | | | | | | | | major semitone | |
+| | | | G 400 | | | | | | minor semitone | |
+| | | | ♯ 384 | | | | | | diesis | |
+| | | | ♯ 375 | | | | | | minor semitone | |
+| | | | A 360 | | | | | | major semitone | |
+| | | | B 337 ½ | | | | | | comma | |
+| | | | | | | | | | minor semitone | |
+| | | | | | | | | | major semitone | |
+| C | | C | C 300 | | | | | | | |
+| | | | | | | | | | minor tone | |
+| | | | D 270 | | | | | | | |
+| | | | | | | | | | major tone | |
+| | | | E 240 | | | | | | major semitone | |
+| | | | F 225 | | | | | | major tone | |
+| | | | G 200 | | | | | | minor tone | |
+| | | | A 180 | | | | | | major comma | |
+| | | | B 168 ¾ | | | | | | major tone | |
+| C | | C | C 150 | | | | | | | |
+| | | | D 135 | | | | | | | |
+| | | | E 120 | | | | | | | |
+| | | | F 112 ½ | | | | | | | |
+| | | | G 100 | | | | | | | |
+| | | | A 90 | | | | | | | |
+| | | | B 84 ⅜ | | | | | | | |
+| C | | C | C 75 | | | | | | | |
+
+<summary>This page presents a highly detailed technical table defining the microtonal divisions of the octave through string length ratios and specific musical intervals like commas and dieses. It serves as a mathematical reference for the precise tuning and construction of organ pipes and stringed instruments across multiple octaves.</summary>
+<keywords>music theory, string ratios, monochord, minor semitone, syntonic comma, diesis, microtonal intervals, organ construction, mathematical harmonics</keywords>
 
 --- Page 543 ---
 <meta>Continuing from the previous page's discussion of mathematical columns representing musical scales and pipe measurements.</meta>
