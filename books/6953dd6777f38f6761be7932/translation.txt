@@ -1,23 +1,3 @@
---- Page 1 ---
-<meta>This page contains no text for translation; it appears to be a decorative endpaper or a blank textured divider within the manuscript.</meta>
-
-->*This page is blank.*<-
-
-<image-desc>The page displays a gradient color, transitioning from a lighter orange at the top to a darker reddish-orange at the bottom. The surface appears to have a subtle woven texture, resembling canvas or fabric.</image-desc>
-
-<summary>This page contains no written content, consisting instead of a textured, orange-gradient surface likely serving as a divider or endpaper.</summary>
-<keywords>blank page, endpaper, orange gradient, canvas texture</keywords>
-
---- Page 2 ---
-<meta>This page was marked as blank in the original manuscript or source material. No continuity notes are required from the previous page.</meta>
-
-# Blank Page
-
-<note>This page contains no text or illustrations in the original manuscript.</note>
-
-<summary>This page is blank in the original source and contains no transcribed content.</summary>
-<keywords>blank page, manuscript gap</keywords>
-
 --- Page 3 ---
 <meta>This page serves as the institutional frontispiece or ownership record for the manuscript, identifying its current location in a modern research collection.</meta>
 
@@ -35,58 +15,22 @@ Toronto, Ontario
 <keywords>Institute of Mediaeval Studies, Toronto, library, provenance, institutional record</keywords>
 
 --- Page 4 ---
-<meta>This page serves as the digital frontispiece and attribution page for a volume concerning the works of Meister Eckhart, a 14th-century German mystic and theologian.</meta>
+<meta>This page serves as the digital frontispiece, documenting the transition of the physical volume from the collection at the University of Toronto to a globally accessible digital format. It establishes the provenance of the digital surrogate created in 2011.</meta>
+
+<note>The background features a large, faint, light-grey watermark depicting a classical temple with four columns and a triangular pediment, which serves as the logo for the Internet Archive.</note>
 
 ->Digitized by the Internet Archive<-
 ->in 2011 with funding from<-
 ->University of Toronto<-
 
-http://www.archive.org/details/meistereckhartun00eckh <note>This URL leads to the digital repository for the work titled "Meister Eckhart and His Predecessors."</note>
+---
 
-<summary>This is the digital attribution page for a scholarly work on Meister Eckhart, noting its digitization by the Internet Archive in 2011 with support from the University of Toronto.</summary>
-<keywords>Meister Eckhart, digitization, Internet Archive, University of Toronto, bibliography</keywords>
+->http://www.archive.org/details/meistereckhartun00eckh<-
 
---- Page 5 ---
-<meta>This page is blank in the original manuscript and serves as a physical divider or endpaper.</meta>
+<note>Keywords: Internet Archive, University of Toronto, Meister Eckhart <note>original: "Meister Eckhart," a 13th-14th century German theologian and mystic</note>, digitization</note>
 
-# Page N
-
-<warning>This page is blank.</warning>
-
-<image-desc>A blank, light yellow or cream-colored page with no discernible text or images.</image-desc>
-
-<summary>This page of the manuscript contains no written content or illustrations, appearing as a blank leaf within the volume.</summary>
-<keywords>blank page, manuscript leaf</keywords>
-
---- Page 6 ---
-<meta>This page is noted as blank in the original manuscript; no continuity from previous pages is required.</meta>
-
-# Blank Page
-
-[This page contains no text or illustrations.]
-
-<summary>This page of the manuscript is blank and contains no written content or annotations.</summary>
-<keywords>blank page, manuscript structure</keywords>
-
---- Page 7 ---
-<meta>This page serves as the frontispiece or ownership page for the manuscript, establishing its provenance within a modern academic collection.</meta>
-
-<page-num>N</page-num>
-<header>X</header>
-<warning>Faint background text, handwritten mark, unclear stamp text</warning>
-
-<margin><unclear>fu</unclear> <note>Likely a partial shelf-mark or archival shorthand.</note></margin>
-
-The Institute of Medieval Studies
-->LIBRARY<-
-->Toronto, Ontario<-
-
-<unclear>Illegible faint, reversed text bleeding through from the reverse side.</unclear> <note>This is "ghost" text from the opposite side of the parchment or paper, visible due to the age and thinness of the material.</note>
-
-<term>Medieval Studies</term> <note>The academic study of the Middle Ages, typically covering the period from the 5th to the 15th century.</note>, Library, Toronto, Ontario
-
-<summary>This page contains the institutional ownership stamps and library markings for the Institute of Medieval Studies in Toronto, indicating the manuscript's modern archival home.</summary>
-<keywords>Institute of Medieval Studies, Toronto, library stamp, provenance, archival markings</keywords>
+<summary>This page contains the digital metadata and institutional credits for the electronic version of the manuscript, identifying the Internet Archive and the University of Toronto as the entities responsible for its preservation and online access.</summary>
+<keywords>Internet Archive, University of Toronto, digitization, Meister Eckhart, digital provenance, research funding</keywords>
 
 --- Page 8 ---
 <meta>This page is the formal title page of the publication, following the institutional ownership stamps from the previous page. It establishes the academic series, the specific volume, and the publishing details for the University of Fribourg.</meta>
@@ -156,20 +100,6 @@ The Institute of Medieval Studies
 
 <summary>This is the inner title page for a scholarly collection of previously unprinted medieval texts related to the famous mystic Meister Eckhart and his followers, edited by Franz Jostes.</summary>
 <keywords>Meister Eckhart, German Mysticism, Franz Jostes, Fribourg, 19th-century scholarship, medieval manuscripts, religious history</keywords>
-
---- Page 10 ---
-<meta>This is the opening page of the manuscript, containing institutional markings and a partially obscured title.</meta>
-
-# <unclear>WHICH IS A TREATISE</unclear> <note>The faint text beneath the library stamp likely contains the full title of the work, but only these words are currently legible.</note>
-
-->The Institute of Medieval Studies<-
-->LIBRARY<-
-->Toronto, Ontario<-
-
-->JUNE 1, 1974<- <note>This date indicates when the volume was processed by the library in Toronto.</note>
-
-<summary>This title page bears the ownership stamps of the Institute of Medieval Studies in Toronto, dated 1974, and contains a partially illegible title of a treatise.</summary>
-<keywords>Institute of Medieval Studies, Toronto, library stamp, treatise, manuscript acquisition</keywords>
 
 --- Page 11 ---
 <meta>This page is the formal dedication of the manuscript, following the title page and library stamps identified on the previous page.</meta>
@@ -1322,6 +1252,71 @@ Fol. 40 b. A truly good person does not lack for God. That which I have,
 <summary>This page explores the soul's relationship to the "Word" through the concept of the soul as an "adverb" to God, and posits that every created thing is a "book" containing God. It also distinguishes between outward religious works and the true inner sign of spiritual growth: a preference for the eternal over the transitory.</summary>
 <keywords>Meister Eckhart, intellect, soul as adverb, the three words, book of nature, detachment, blessedness, Middle High German mysticism</keywords>
 
+--- Page 63 ---
+<meta>This page concludes a discussion on the soul's detachment from material things and begins a categorization of five types of poverty, likely from a sermon or treatise by Master Eckhart.</meta>
+
+# — 29 —
+
+...a hundred marks of gold <note>A "mark" was a medieval unit of weight for precious metals, representing a substantial fortune.</note> and gave that for God’s sake, that would be a great thing; yet I say, it would be far greater and far better if a person despised and nullified all of that for God’s sake.
+
+<margin>5, 10</margin>
+A person should turn all his works and his will toward God and intend God alone, and thus go straight ahead for himself and have no fear, such that he worries whether he is doing right, lest he do anything wrong. For if a person wanted to reflect on everything equally in the first conflict he fights, nothing would come of it. If one is to go into a city and thinks about how he sets his first foot, nothing will come of it. Therefore, one should follow the first impulse and go straight ahead; thus one arrives where one is meant to go, and that is right.
+
+The masters speak of the highest nobility of the spirit, etc. <note>Refers to the Pfeiffer edition of Eckhart's works, pages 416-419.</note> Following this:
+
+<margin>15</margin>
+Fol. 41 b. There are five kinds of poverty. The first is a **devilish poverty**, the second is a **golden poverty**, the third is a **willful poverty**, the fourth is a **spiritual poverty**, the fifth is a **divine poverty**. The first, which is called a devilish poverty: these are all those who do not have and would like to have, inwardly or outwardly. That is their hell.
+
+<margin>20</margin>
+The second, **golden poverty**: these are all those who sit in their goods and in their <term>eigenschaft; property or self-possession</term> and yet go out and in free. And if everything that they have were burned, it could be brought about that they would still remain unmoved. These have the kingdom of heaven by necessity, and they could not have less.
+
+<margin>25</margin>
+The third is a **willful poverty**: these are all who give up goods and honor, body and soul, and have gone out of everything from a truly free will. These give judgment with the twelve apostles, <note>A reference to the biblical promise that the apostles would sit on twelve thrones judging the tribes of Israel.</note> for they acknowledge what they have let go; therefore they give judgment now, and it is also now their "last day" <note>the day of judgment</note>, because they recognize what they have left behind; however, they still place "otherness" <note>The sense of a distinction between themselves and God.</note> in their property and esteem themselves very highly in their act of renunciation. These are nevertheless willfully poor.
+
+<margin>30</margin>
+The fourth are **spiritually poor**. These have given up friends and kin, and not only goods and honor, body and soul; rather, they stand free of all "good works," for the eternal Word <note>the Logos or Son of God</note> performs all their works, and they stand free of all their works and naked. For in the eternal Word there is neither bad nor good; for this reason, they are at once free.
+
+<margin>35</margin>
+The fifth are **divinely poor**, for God finds no place in them where He might work. They have let go outside and inside, for they are free and naked of all their <term>zevallend form; accidental or peripheral forms</term>. This is a human; in this human, all humans are one human, and this human is Christ. Upon this...
+
+---
+
+25 with the twelve apostles. <note>The manuscript variant suggests "the twelfth apostle."</note>
+
+<summary>This page discusses the necessity of total detachment from the world and defines five levels of poverty, ranging from the 'devilish' (desiring what one lacks) to the 'divine' (a state of total emptiness where the soul is unified with Christ).</summary>
+<keywords>poverty, detachment, free will, Master Eckhart, spiritual nobility, Christ, renunciation, property</keywords>
+
+--- Page 64 ---
+<meta>This page continues the discussion of spiritual detachment, transitioning from the five kinds of poverty on the previous page to a philosophical exploration of "obstacles" (furwurf) and the relationship between matter and form. It also includes brief scriptural references to Elisha and St. Paul.</meta>
+
+# — 30 —
+
+A master says: this earth was never worthy of this man, for he is a sustainer of the kingdom of heaven and earth. This man stands without <term>obstacle; furwurf</term> <note>The Middle High German *fůrwurf* (modern *Vorwurf*) literally means something "thrown before." In this context, it refers to any object, attachment, or mental image that stands between the soul and God.</note> in time as in eternity. There are many people who stand without obstacle in eternity, but hardly more than one who stands without obstacle in time. What is an obstacle? There are two obstacles: the first is **otherness**, the second is that a person possesses **self-will** <note>original: *eigenschaft*. This refers to a sense of "property" or "ownership" over one's own self, actions, or identity, which prevents union with the divine.</note>.
+
+The first is **otherness**. That creates duration, and those are all they who have "becoming" <note>Process or change.</note>; they establish otherness and duration remains. Thus I speak of the course of time.
+
+<margin>10</margin>
+Whoever recognizes one matter in all things remains untouched, for matter is a cause of form; yet matter cannot exist without form, nor form without matter. Form without matter is nothing at all, for now matter holds the form, and yet in an actual form it is undivided, both the whole and the parts and pieces. Since form is nothing in itself, it touches nothing at all. Since matter is altogether simple, for that reason it is not touched. Thus is the man untouched by form and by matter, and stands without obstacle in time.
+
+The second obstacle is that a person possesses himself with self-will and claims all perfection for himself and thinks much of it, for he has relied upon his own "something" <note>The person's perceived individual existence or ego.</note>, and that is their obstacle. Since every thing perceives according to its own form, neither less nor more, therefore every thing is altogether its own and belongs to no one else. Thus every person is perfect who recognizes this at the root; he is free of all obstacles in eternity, etc. <note>original: *etc.* This indicates the scribe is abridging a longer text. Footnote 1 in the source notes that this passage resembles Jundt's "Histoire du panthéisme populaire."</note>
+
+***
+
+### No. 35.
+
+Fol. 42. A woman spoke to the prophet Elisha. <margin>Pfeiffer 109.</margin> <note>Likely a reference to 2 Kings 4, concerning the widow's oil.</note>
+
+***
+
+### No. 36.
+
+Fol. 42 b. One reads of the virgins on the day when they shed their blood, [that] St. Paul says: I have betrothed and <margin>30</margin> wedded you to one man, Christ. <note>A reference to 2 Corinthians 11:2: "I have espoused you to one husband, that I may present you as a chaste virgin to Christ."</note>
+
+***
+
+<summary>This page explores the mystical concept of the "obstacle" (furwurf), identifying otherness and self-will as the two barriers to divine union. It concludes with brief references to the prophet Elisha and St. Paul's metaphor of the soul's betrothal to Christ.</summary>
+<keywords>obstacle, furwurf, self-will, eigenschaft, otherness, matter and form, Elisha, St. Paul, mystical union, detachment</keywords>
+
 --- Page 65 ---
 <meta>This page continues the theological discourse on the "birth of the Son" within the soul, a central theme in Rhineland mysticism, specifically associated with the school of Meister Eckhart. The text explores the relationship between God, the soul, and the eternal "now" of creation.</meta>
 
@@ -1342,6 +1337,54 @@ The masters ask whether the Son has been born. One answers and says: No! The mas
 <summary>This page discusses the mystical concept of the "Eternal Birth" of Christ within the human soul, comparing the soul's union with God to a marriage. It posits that the soul is more valuable than heaven and earth because it serves as the perpetual birthplace of God's Son.</summary>
 <keywords>Eternal Birth, soul, marriage of the soul, Saint Augustine, Saint Paul, spiritual fruitfulness, mystical psychology, Meister Eckhart</keywords>
 
+--- Page 66 ---
+<meta>This page concludes the previous sermon's discussion on the "eternal birth" of the Son within the human soul and begins a new section (labeled No. 37) concerning self-knowledge and the soul’s return to its divine origin. The text continues to draw on the mystical theology of Meister Eckhart, focusing on the distinction between the soul's temporal existence and its eternal existence in the mind of God.</meta>
+
+[the soul] will never rest until she comes to the source <note>The "source" (ursprung) refers to the divine origin from which the soul first emanated.</note>. In this, the true Philip was right when he said: "Lord, show us the Father, and it is enough for us." <note>original: "Herre, zig uns den vater, so genuget uns." A reference to John 14:8.</note> Just in the same way as the [Son] wells up in the Fatherly heart, so he wells up in a person’s soul. Spiritual things are inward-working; <margin>5</margin> physical things are outward-working. (The fruit of the tree—afterwards it blossoms out and hangs on the tree.)
+
+Spiritual things are inward-working; physical things are outward-working.
+
+When this birth happens in a person’s soul, they are <margin>10</margin> joined much closer to God. Indeed, the more often this birth occurs, the more inwardly the person is joined into the Fatherly heart.
+
+This birth must happen above "here" and "now." "Here" is place, "now" is time. It must happen in eternity. That we may arrive there, may [God] help us, etc.
+
+### Nr. 37.
+
+Folio 43. That the loving soul becomes moved <note>original: "erzurnet." While this usually means "angered," in mystical contexts it often refers to a state of being deeply stirred or perturbed by divine love.</note>, that comes from its self-knowledge. 
+Pfeiffer 542 f.
+Folio 43 b. Pfeiffer 502, 22-504, 4.
+
+The saints say: All things are God, in that they have <margin>20</margin> been in God eternally. Not such that we were eternally in God in the coarseness <note>or "materiality"</note> that we are in now; we were eternally in God like the art <note>or "skill"</note> in the master. God looked upon Himself and saw all things; therefore, in God it was not as manifold <note>meaning diverse or divided</note> as things are now in their distinctions. Although creatures are <margin>25</margin> now manifold, in God they are nothing but a single image. God is in Himself nothing but a single Unity; therefore, when the soul returns to its first source, one recognizes God only as simple in the image and threefold in the works <note>This refers to the theological distinction between God’s simple Essence and the "works" or activities of the Trinity (Father, Son, and Holy Spirit).</note>.
+
+And that which knowledge recognizes, that is the knowledge, for into that eternal image no [created] knowledge ever came; and <margin>30</margin> into that eternal image, after which God has created all creatures, that surpasses all creatures and exalts God. And if the soul is to arrive there, so that she follows God—that her exalting is eternal—then she must lift herself above all creatures and above herself and above all her enjoyments, and follow the unknown <note>original: "unbechantnucz," referring to "unknowing," a state where the soul moves beyond rational thought to reach God.</note> into the wilderness of the Godhead; <margin>35</margin> and in her own wilderness, she shall be stripped of her own image, and the divine wilderness shall lead her out of herself into Himself, where she shall lose her name, so that she shall no longer be called "soul," she shall be called "God."
+
+---
+
+12 "here" is "now", "time" is "place" <note>This is a correction or variant reading noted by the scribe or editor.</note>. 36 [so that] he might lead her.
+
+<summary>This page describes the soul's union with God through an eternal "birth" and its eventual return to the "divine wilderness" where it transcends its own identity. It emphasizes that in God, all diverse things exist as a single, unified image before they are created in the material world.</summary>
+<keywords>birth of the Son, eternity, self-knowledge, divine wilderness, unity of God, deification, Meister Eckhart, spiritual vs physical</keywords>
+
+--- Page 67 ---
+<meta>This page continues the discussion of the soul’s ascent to God. While the previous page dealt with the soul’s eternal existence in the mind of God, this section addresses the practical effects of this spiritual heights on the physical body and the soul’s ultimate "point" of union with the Trinity.</meta>
+
+Now you might say: "Since the soul is drawn so high, why does it not ennoble the body so that it no longer requires earthly things?" When the soul arrives at this state, the body exists in such nobility that it may use all creatures for God’s glory, because between it and the soul there is then no hindrance. <margin>5</margin> Just as far as the soul has followed God into the wilderness of the Godhead <note>original: "wustung der gotheit." This refers to the "abyss" or "desert" of the divine essence, a common term in Rhineland mysticism for the God who exists beyond all names and distinctions.</note>, so far does the body follow our Lord Jesus Christ into the wilderness of voluntary poverty <term>willigen armutz: the ascetic practice of detachment from material possessions</term> and is one with him. Thus the Father may well say: "This is my beloved son, in whom I am well pleased; him you shall follow." <note>original: "Dicz ist mein liber sun, in dem ich mir so recht wol geval, dem sult ir volgen." A translation of the Latin Vulgate Matthew 17:5.</note>
+
+<margin>10</margin> All creatures are with God, and the being that they possess, God gives to them with His own dignity.
+
+Now the bride says in the Book of Love <note>The "Book of Love" (minne buch) refers to the Song of Songs, traditionally interpreted as the dialogue between the soul and God.</note>: "I have run all around the circle <gloss>(44ᵃ)</gloss> and I could never come to the end; therefore I have thrown myself into the point of the circle <note>In mystical geometry, the circle represents the created world or the Trinity's activity, while the "point" (puncht) represents the still, unmoving center of the Divine Unity.</note>, which is the incomprehensibility of the working of the Holy Trinity." <margin>15</margin> And they <note>The three Persons of the Trinity</note> do not move that point, and the unity of the Holy Trinity is the very being of that point. Therefore, the "working" of the Holy Trinity has hindered many a master in Paris <note>A reference to the Scholastic theologians at the University of Paris who, according to the author, focus too much on the "works" and "distinctions" of the Trinity rather than the "unity" (einung) of God's essence.</note>, because they concern themselves too much with the *activity* of the Holy Trinity, such that they do not reach the *unity*.
+
+<margin>20</margin> The bride says in the Book of Love: "He has bound me with a glance of his eye."
+
+This is the unity that flows down from the point and cuts the soul off from all creatures and from all changeable things; it draws her, in that glance, back up to the point, so that she becomes united at the point and is eternally confirmed therein. <margin>25</margin> One should recognize this glance in the ground of the soul <note>original: "gemerke der sel."</note>, when she is so void <term>ledik: a technical term for being free, empty, or detached from all worldly and self-centered desires</term> that there is no longer any practice of virtue or vice within her. When the soul is so void, she recognizes whatever falls into her. Therefore He casts His glance into the soul, so that she recognizes that He knew her even when she was nothing. This should be a great exhortation to the soul to go out of herself. <margin>30</margin> He whom the glance does not wound was never wounded.
+
+That "nothing" which we were before required nothing at all, nor could it do anything of itself; and nothing withstood all creatures except the Fatherly power; and there, nothing was changeable, since God created all things from nothing.
+
+<margin>35</margin> Now we should become more unmoving <note>original: "unbeweglicher." The text suggests a state of being "unshakeable" or "steadfast."</note> than nothingness. For God has placed the soul in her freedom, such that He will never do anything against her free will, nor will He ever create anything that she does not want...
+
+<summary>This page explores the mystical union where the soul, having reached a state of "voidness" (ledik), is drawn back to the unmoving center or "point" of the Trinity. It contrasts the intellectual studies of the Parisian scholars with the direct experience of God’s glance that detaches the soul from all created things.</summary>
+<keywords>Godhead, Holy Trinity, Song of Songs, mystical point, voidness, free will, masters of Paris, voluntary poverty</keywords>
+
 --- Page 68 ---
 <meta>This page continues the scholarly edition of a Middle High German mystical treatise, likely influenced by the school of Meister Eckhart. The text focuses on the soul’s ascent to a state of absolute detachment and its union with the divine "nothingness."</meta>
 
@@ -1359,6 +1402,74 @@ Here **Christ** admonishes us that we should be perfect as the **heavenly Father
 
 <summary>This page describes the soul's mystical journey into the "divine nothingness," emphasizing absolute detachment (Gelassenheit) and immovability. It argues that the soul's nobility allows for a direct union with God's nature, where individual will and knowledge are transcended.</summary>
 <keywords>divine nothingness, free will, bottomless ground, immovability, Saint Augustine, deification, detachment, bare nature</keywords>
+
+--- Page 69 ---
+<meta>This page continues a series of mystical treatises and sermons. The previous text concluded with an exhortation for the soul to sink into the "bottomless ground" of divine nothingness to achieve absolute stability in God.</meta>
+
+...failure, she should recognize herself in God, for that would be her failure. She should be so bare of herself that nothing remains there but God, for God has outshone her as the sun does the moon; and so that she, with that same subtle joining <note>original: *chlaine füge*; this refers to the delicate point of contact or "seam" where the human soul meets the divine essence.</note> which is God, flows into all eternity, where God flows and where there is no beginning. Nothing can make us more noble than that He makes us [us] out of nothing <margin>5</margin> like unto Himself (for the soul cannot secretly enter into the divine nature unless it is reduced to nothingness). For nothing unites so much as likeness and nature. On this, John Chrysostom <note>A 4th-century Church Father known for his eloquence; his works were frequently cited by medieval mystics to authorize their teachings on the inner life.</note> says that no one can perceive it unless he is drawn, with both the inner senses and the outer senses, into a bare knowledge of the divine nature. May God help us in this. <margin>10</margin>
+
+### No. 38.
+
+Fol. 44 b. A person came there to Cologne on the Rhine to seek poverty. <note>original: *armůt*; here meaning "spiritual poverty" or the total detachment from worldly desires and the self.</note> <note>This refers to Franz Pfeiffer’s 1857 edition of Meister Eckhart’s works, specifically pages 625 and following.</note>
+
+### No. 39.
+
+Fol. 45 b. O bottomless one, full of all my salvation, etc. <note>Pfeiffer edition Volume I, pages 369-371, line 24</note> <margin>15</margin> : attached is a Latin discussion regarding **mortal sin** <note>original: *peccatum mortale*</note>.
+
+### No. 40.
+
+Fol. 46 a. **God is love** <note>original: *Deus karitas est*</note>. God is love.
+Our Lord says: This is my commandment, that you love one another <margin>20</margin> in the way that I have loved you. I have sometimes said that one should love nothing but God: now I allow again that one should love, and I wish to speak a new teaching, that one should love, but in the way that God loves. God [loves] all creatures equally in Himself; though one may be better than the other, God must [love them equally]. <margin>25</margin> Now you might say: in what [love] does God love us? God loves us with the same love with which He loves His only-begotten Son, which is the Holy Spirit; thus God loves all creatures in the Holy Spirit. Furthermore, if we wish to love one another, we should love [one another] in the Holy Spirit. The love with which the Father loves His only-begotten Son (46 b), <margin>30</margin> that is the Holy Spirit. Now the masters <note>The "masters" refers to the university-trained scholastic theologians (like those at Paris or Cologne).</note> ask whether the Father brought forth <note>original: *blue*; literally "bloomed" or "flowered forth," a poetic MHG term describing the procession of the Holy Spirit within the Trinity.</note> the Holy Spirit entirely. They say: yes, for had He not brought Him forth entirely, then the Holy Spirit would be less than the Father. This is not so; therefore the Holy Spirit is...
+
+---
+
+<meta>Note on OCR line 4: the editor notes a variant reading "where not all is beginning."</meta>
+
+<summary>This page discusses the soul's total immersion in the divine nature, likening it to the moon being outshone by the sun, and begins a sermon on the nature of divine love within the Trinity.</summary>
+<keywords>divine nature, detachment, John Chrysostom, Cologne, spiritual poverty, Holy Spirit, divine love, Trinity, Franz Pfeiffer</keywords>
+
+--- Page 70 ---
+<meta>This page continues the mystical exploration of the soul's union with God, building on the previous discussion of the "bottomless ground." Here, the author describes the internal life of the Trinity—the relationship between the Father, Son, and Holy Spirit—and how the human soul is invited into that same divine cycle of love and "blossoming."</meta>
+
+...just as great as the Father. Now you might ask: when the Father blossoms <note>original: *bluet*; in this mystical context, "blossoming" or "flowering" refers to the dynamic, living process by which the persons of the Trinity proceed from one another.</note> forth the Holy Spirit entirely, what did the Son do? Was he idle? Or what did he do? To the one who asks this, I would take it ill; for as soon as the Father looked upon Himself, He bore His only-begotten Son, and there was a glowing and a 
+<margin>5</margin> love <note>original: *minne*; a Middle High German term for profound, often divine, love.</note>, and that was the Holy Spirit. And the Son blossoms forth the Holy Spirit just as much as the Father; thus they both blossom forth the Holy Spirit. For in the love with which the Father loves His only-begotten Son, that is the Holy Spirit; and in that love, the Father carries into His only-begotten Son everything that the divine nature is capable of. And in that love, God loves us, and there-
+<margin>10</margin> fore God carries into us everything that the divine nature is capable of, as much as we are able to receive it. O my God, the soul must be so pure and noble and so very well adorned!
+
+I speak not only of worldly thoughts, I speak also of useless thoughts; these should be very worthless to the person in 
+<margin>15</margin> whom the Father bears His only-begotten Son. I sometimes think, when I greet Our Lady with the *Hail Mary* <note>original: *Ave Maria*</note> and I say "full of grace" <note>original: *vol aller gnaden*; a translation of the Latin *gratia plena* from the angelic salutation.</note>, then I think: what does it help me that the Virgin has much, if another person in my house fares well and in my dwelling and in my power, and yet I myself have nothing? St. Dionysius <note>Dionysius the Areopagite, a highly influential mystical theologian whose writings emphasized the soul's ascent to God through "unknowing."</note> says that 
+<margin>20</margin> love compels, so that the soul will not let itself be satisfied unless it performs its own work. (However I wish to have myself enclosed within myself, I still think of the way in everything.) If my soul goes into my ear, it wants to hear something; if it goes into my eyes, it wants to see something. Whatever has gone out is not at home. When the soul gives itself over to physical things, it is not in its 
+<margin>25</margin> noble essence. If I stretch my hand away from me, if then my hand were my heart, it could not think into itself; if my hand were my eye, and I stretched it away from me, it could not look upon itself; but if I turned it back toward me, then I would see myself (then I see myself) well. For as soon as the Father 
+<margin>30</margin> looked upon Himself, He bore His only-begotten Son, and there was a glowing and a love, and that was the Holy Spirit.
+
+From the tree comes the budding, and from the budding comes the flower. Since God loves us with the same love with which He loves His Son, the soul wants to perform its own work. Now the 
+<margin>35</margin> masters say that true love carries in itself the likeness of the person of the Holy Spirit. When the soul looks upon itself and throws itself entirely into God and is set aglow in love, it becomes a likeness of a work of the Holy Trinity. If, however, the knowledge of the soul is cold
+
+<meta>catchword: 37 becomes a love.</meta>
+
+<summary>This page describes the Trinity as a dynamic process of "blossoming" love and explains how the soul, by turning away from worldly distractions and back toward its own noble essence, participates in this divine life.</summary>
+<keywords>Holy Trinity, Holy Spirit, only-begotten Son, divine love (minne), St. Dionysius, soul's essence, internal reflection</keywords>
+
+--- Page 71 ---
+<meta>This page continues the sermon on the mystical union between the soul and the Trinity. The previous page ended with a reflection on the purity required for the Father to bear the Son within the soul, using the Virgin Mary as the ultimate example of a "fullness of grace." This page explores the practical steps a person must take to achieve this union and the immense spiritual authority that results from it.</meta>
+
+...remains, then she is not an image of the holy Trinity <note>original: *drivaldicheit*; the three-in-one nature of God.</note>.
+And in the soul, there the Father bears His only-begotten Son, and thus the soul has within her, through love <note>original: *minne*; a specifically Middle High German term for the intense, reciprocal love between the soul and God.</note>, the Father and the Son and the Holy Spirit. The soul must be very noble and very well adorned and have stepped very high when God bears His only-begotten Son into her. I am certain of this, says a master: whichever soul conducts herself in these things that God has worked in her, and in the love in which she has united herself with God, the kingdom of heaven <note>original: *himelrich*</note> must bow to that soul, as must every creature. Angels must be subject to the soul and—if I may speak so boldly—whatever the soul desires in God, God must give it to her entirely. If she wants power, (47 ᵃ) then she has it. She has the Father with His power, she has the Son with His wisdom, and she has the Holy Spirit with His goodness.
+
+A master says: He who wishes to attain these things should possess five qualities within himself. The first is that the [person] be pure in all their being. The second is that the person turns all their outer senses inward toward the eternal good. The third is that the person must have transcended all living things. If I close my eyes and think of a person who is far away from me: the person [seeking God] must transcend even such images. The fourth is that the person shall run through all spirits. The fifth is that the person should always cast themselves into the highest good and suckle there, so that they never hunger again, and draw from there, so they are never troubled again.
+
+O, what a noble soul that would be, who loves as God loves! King David says: In my thoughts, God springs forth for me. For since God is in the soul through love, the soul shall keep God through love and through faithfulness, and shall give leave to all creatures and all her own powers; she should seek Him nowhere else but in God alone and should examine with all her strength how she holds that high treasure and her heart's beloved friend within her heart, and her God. That she may keep Him well, etc.
+
+### No. 41.
+
+Fol. 47 ᵃ. All those who shall be saved, the Father has given them to His Son.
+The Son is an image of His Father and a radiance of the eternal light, and he pours that image and radiance into the soul. For he is the brightness of eternal light, and the unspotted mirror of God's majesty, and the image of his goodness <note>original Latin: *Est enim candor lucis eterne et speculum sine macula dive maiestatis et ymago bonitatis illius.* This is a quote from the Book of Wisdom 7:26.</note>. Wisdom <note>original: *Sapientia*</note>. Then the soul runs to God; thus the Father gives the soul to the Son, and she runs in the "good savor" <note>original: *smak*; this can mean taste, scent, or spiritual perception—the soul is attracted by the "flavor" of the divine.</note> that the Son is. The Son says: No one can come to me, unless he be drawn by my [Father]...
+
+---
+
+<note>Line 4: "so God [is] His."</note>
+
+<summary>This page describes the soul's deification through the indwelling of the Trinity, listing five mystical steps for the practitioner to transcend worldly images and find God within. It cites King David and the Book of Wisdom to illustrate the soul's attraction to the divine "savor" of the Son.</summary>
+<keywords>Trinity, Only-begotten Son, Minne, Kingdom of Heaven, King David, Book of Wisdom, Five Steps of Purity, Internal Senses, Spiritual Savor</keywords>
 
 --- Page 72 ---
 <meta>This page continues a discussion on the relationship between God the Father and the soul, specifically focusing on how the soul is drawn upward through grace toward a mystical union and divine vision, as exemplified by Saint Paul.</meta>
@@ -1383,6 +1494,73 @@ The third heaven is a divine heaven, into which Saint Paul was caught up. One fi
 <summary>This page explores the soul's ascent from nature to grace, culminating in a "divine vision" where the soul partakes in God's nature. It categorizes the "three heavens" and distinguishes divine rapture from those caused by illness or demonic influence.</summary>
 <keywords>mysticism, Saint Paul, divine nature, grace, ecstasy, third heaven, Pseudo-Dionysius, Saint Augustine, spiritual transformation</keywords>
 
+--- Page 73 ---
+<meta>This page continues the exploration of the soul's ascent to God. While the previous page discussed the soul becoming a partaker of the divine nature through grace and ecstasy—exemplified by Saint Paul's rapture—this page focuses on the practical and psychological requirements for maintaining that connection, the nature of divine freedom, and the struggle between spiritual discernment and sensory desires.</meta>
+
+Two things one must have to arrive there: one is that one thinks of God as often as possible, and the other is that one finds delight in that thinking. This vision is very much like the vision that the blessed spirits have above. Nothing can make one truly blessed unless it is constant; therefore, they are blessed—because they have remained constantly in this vision—<margin>5</margin> the blessed spirits above. But here [on earth] one is in between, and though a moment might come in which one finds such great delight that no greater delight could exist, it does not last. Concerning this the prophet Ezekiel <note>original: "Ezechihel"</note> says: "I am caught between heaven and earth." <margin>10</margin> We are caught among earthly things and shall be grasped by a power from above and led into a contemplation <term>beschauwen: the act of mystical gazing or deep spiritual observation</term> of the peace of the heavenly Jerusalem.
+
+The best thing that is in God is His freedom, and through freedom the soul becomes like God; and it is impossible, if she [the soul] has freedom, that she would not also have more virtues. When God contemplates Himself and contemplates all things that <margin>15</margin> might flow out from He, His goodness could not contain itself; He had to create the creature. As the soul gazes upon God, she is drawn out of her natural power into a supernatural power with the help of the Holy Spirit. It is no wonder that she is drawn above herself by divine love <term>minne: a Middle High German term for high-courtly or mystical love</term>, for divine love has drawn God out of His supernatural <margin>20</margin> power into the natural power of nature <note>A reference to the Incarnation or the act of Creation, where God's love bridges the gap between the divine and the physical world</note>.
+
+In man there are two faculties: one is understanding and discernment <term>bescheidenheit: the ability to distinguish between good and evil, or right judgment</term>, the other is the various senses and desire. If knowledge and discernment are then seized by the various senses and by various desires, people sin not a little; rather, they <margin>25</margin> sin very greatly. They kill themselves before God with mortal sins and move far from God with daily sins. But when knowledge, discernment, and desire are grasped by God, then the soul stands in the order that God has ordained for it. That is what Saint Paul <note>original: "sanctus Paulus"</note> says: "I live, and yet I do not live, and Christ <margin>30</margin> lives in me." I live—that is, He flowed into me with His grace; and yet I do not live—[that is] what lives in me is Christ. This is proven sufficiently by this: if a person does not always love his neighbor in God, but if a need arises, he then loves him and shows him works of love—that is enough. A person has also proven enough if he <margin>35</margin> does not always love his enemy, but loves him and shows him works of love when there is a need. These people live in the Holy Spirit and the Holy Spirit in them. Christ could not sin because He found satisfaction in no [earthly] things. Thus we also could not sin [if we were so united].
+
+<summary>This page discusses the necessity of constant contemplation and delight in God, the soul's participation in divine freedom, and the internal struggle between spiritual discernment and sensory desires, concluding with the ethics of loving one's neighbor and enemy.</summary>
+<keywords>contemplation, Ezekiel, freedom, creation, discernment, Saint Paul, Christ, divine love, neighborly love, sin</keywords>
+
+--- Page 74 ---
+<meta>This page transitions from the metaphysical discussion of the soul's ascent to a specific sermon by "Brother Heinrich." It moves from the necessity of "nakedness" (spiritual detachment) to a Christological explanation of how humanity's original "golden chain" of order was broken and how different types of people respond to the Word of God.</meta>
+
+...if we took no satisfaction in things. However much we eat or drink
+or sleep, if we took no satisfaction in them, we could not
+commit sin, no matter how much we did those things. Therefore, the soul should be free and naked
+of all observation and assessment and all sensuality, and be free and naked of
+<margin>5</margin> all this, if it is to understand the good that is God. For God is free and
+naked of all this. Just as God is naked, so too must the soul be naked, she who
+is to understand the truth.
+
+---
+
+### No. 42.
+
+*Folio 48 a. Brother Heinrich spoke this sermon.*
+
+<margin>10</margin> And Saint Matthew <note>original: "sanctus Matheus"</note> says this in the final word of the Gospel <note>original: "ewangelii"</note>:
+> All those who touched him were made whole from their sicknesses.
+
+Know this: when God created the first human, He had
+ordered him so well that no sickness could fall upon him, for a golden
+chain went from the Trinity <note>original: "drivalticheit"</note> into the highest powers of the soul and 
+<margin>15</margin> passed through the lowest powers, so that they were obedient to the highest powers.
+There, no sickness could fall, neither into the body nor into the soul.
+
+When he then transgressed the commandment, he fell into deadly sickness and all
+of mankind with him. The bottomless mercy, which is shared with all creatures,
+could not endure this, unless it should come and show itself, so that
+<margin>20</margin> it might take away the sickness into which nature had fallen with the first
+human. Therefore, it was necessary for all those who were to be saved that they
+must touch him in some measure before he came onto the earth. Aristotle
+and Plato—because they did not touch him, they were not healed; for 
+from their wisdom we clerics <term>phaffen: a term for priests or scholars, though sometimes used disparagingly, here referring to the educated clergy</term> still learn natural arts; had 
+<margin>25</margin> they touched him with faith <note>original: "gelauben"</note>, they would have been healed of their sicknesses.
+
+Faith <note>original: "gelaub"</note> is so simple that one cannot arrive there through speech.
+There are one kind of people who "smell" God; that is the least among
+people. These people go to Mass and give their alms, but their other
+life belongs to the world; if they come to the sermon <note>original: "sermon"</note>, it bores them. These 
+<margin>30</margin> people are dead.
+
+Then there are other people who hear God; these are those who hear God’s word,
+and they too are dead, for that is from nature; for if they heard it in 
+divine love <term>minne: high spiritual or mystical love</term>, through which they might be saved, they would leave off the pieces of their
+frail life <note>original: "geprechliches lebens"</note>, through which they are touched; now they let it pass; 
+<margin>35</margin> therefore I will fully prove that it is nature.
+
+The pleasurable life, which is unique without grace, is an exercise in a
+
+<note>The scribe notes a variant reading for line 34: "geprenliches lebens" (infirm/failing life).</note>
+
+<summary>This page contains a sermon by Brother Heinrich regarding spiritual healing through Christ. He argues that original sin broke the "golden chain" of human order, and while ancient philosophers had wisdom, they lacked the faith necessary for salvation.</summary>
+<keywords>Brother Heinrich, original sin, golden chain, Aristotle, Plato, faith, types of believers, spiritual detachment</keywords>
+
 --- Page 75 ---
 <meta>This page continues the discussion of spiritual perception and the soul's relationship with God, following themes of clear understanding and the obstacles posed by worldly attachments.</meta>
 
@@ -1405,6 +1583,35 @@ One touches God in two ways—not the divine essence itself. The first touching 
 
 <summary>This page categorizes three ways of perceiving God, moving from those hindered by worldly images to those who see God clearly but still struggle with attachments, and finally to those who achieve direct contact through total detachment.</summary>
 <keywords>mystical vision, created things, spiritual sickness, discretion, detachment, touching God, simple essence</keywords>
+
+--- Page 76 ---
+<meta>This page continues the classification of people who see God. The previous page discussed those who see God from afar or through a medium; this page describes those who see Him with total freedom and those who experience a mystical "yearning touch" that transcends nature.</meta>
+
+...person. All spiritual people should possess this freedom. Because of it, they speak the truth without fear. They know nothing and are aware of nothing except what they hold in their hearts. These are the ones whom God touches simply <note>original: "einvalticlich rurent"; referring to a direct, unmediated contact between the soul and the Divine</note>. These people have no inner conflict, whether much or little; they have become spiritually healthy.
+
+<margin>5</margin> Others touch God with a yearning touch, such that they are drawn into a light. These people remain in this state for a month or slightly less, so that they cannot return to their normal discernment <note>their rational consciousness or awareness of the physical world</note> for as long as it takes to say a Hail Mary <note>original: "Ave Maria"</note>. This light is as far above the spirit as the spirit is above nature. While you are within this light, you know nothing; but once you 
+<margin>10</margin> have lost it, then you know it well.
+
+One thing you still lack: that is the fact that you are a human being. Those whom God touches with this yearning touch are healed of all their spiritual sicknesses, as St. Matthew says.
+
+## Nr. 43. ¹
+
+<margin>15</margin> <margin>Fol. 48 b.</margin> "Let it be" <note>original: "Fiat"; the Latin word used by God in Creation ("Let there be light") and by Mary at the Annunciation</note> is the most noble word ever spoken. It means as much as: "let a unity occur." This "let it be" was spoken in the divine eternity within the union of the three Persons in the divine nature. It was also spoken at the exact moment of the union of divine and human nature in one Person <note>The Incarnation of Christ</note>. It was spoken in eternity and 
+<margin>20</margin> in time within that union where the soul becomes one with God.
+
+Now we should take note of the outflow <term>outflow; also called emanation, the process by which all things proceed from the divine essence</term> from the divine being. What is this outflow? It is revelation—the fact that He reveals Himself to Himself—and His revelation is His "chattering" <note>original: "claffen"; a term used by mystics like Meister Eckhart to describe God's internal speaking or the intellectual communication of angels</note>. Regarding this, Saint Dionysius <note>Pseudo-Dionysius the Areopagite, a 5th-century theologian influential in mysticism</note> says of the hierarchy of angels that God "chattered" with them. God has neither tongue 
+<margin>25</margin> nor mouth nor anything at all with which He might chatter; how then does He chatter? His chattering with the angels consists of Him revealing Himself to each angel according to how that angel is ordered <note>assigned in the celestial hierarchy</note>.
+
+God’s outflow is a knowing will under the light of a Word, such that the Son has eternally flowed from the Father with the same nature and 
+<margin>30</margin> Person; and the Father and the Son unceasingly <note>original: "ungenthegent (sic !)"; likely a scribal error for "uninterruptedly" or "undividedly"</note> breathe their Spirit in the unity of God. There, all creatures <term>creatures; everything created by God, including humans, animals, and objects</term> are God in God. Within this outflow, God speaks with distinction: that one thing is a bridge, another is a soul, etc.; yet they are still one in God. A master <note>Likely referring to Aristotle</note> once said that the world had existed eternally. This is not so; although 
+<margin>35</margin> it has eternally existed in God <note>as an idea in the divine mind</note>, it was nonetheless created at a specific point in time, when God created it into being from nothing. There, every creature brought forth what it was meant to become; there in...
+
+---
+
+¹ See Preger II 457. — 5 yearning touch.
+
+<summary>This page describes the highest forms of mystical union, distinguishing between a "simple" touch of God and a "yearning" touch that transcends reason. It also introduces the concept of the "outflow" (emanation) of the Trinity and the creation of the world from nothing.</summary>
+<keywords>mystical union, freedom, light, Hail Mary, Fiat, Holy Trinity, Incarnation, outflow, emanation, Saint Dionysius, angels, creation ex nihilo</keywords>
 
 --- Page 77 ---
 <meta>This page continues a theological discussion on the nature of God and the soul, moving into a specific meditation on the Annunciation and the Incarnation of Christ.</meta>
@@ -1459,6 +1666,312 @@ The second point is: just as God is free in His own being, so is this work freel
 
 <summary>This page describes God's greatest work as the revelation of Himself within a detached soul, a process that requires the soul's free cooperation and results in a mystical union beyond time.</summary>
 <keywords>detached soul, free will, divine likeness, simplicity, eternity, mystical union, Meister Eckhart, spiritual formation</keywords>
+
+--- Page 80 ---
+<meta>This page continues the exploration of the soul's "work" and its direct relationship with the divine, specifically debating whether the highest angels (the Seraphim) must act as intermediaries or if God works directly within the soul's "spark."</meta>
+
+spirit is raised above the changing of these manifold things that exist in time, and it dwells more in those things than it does in itself. This should <margin>5</margin> be understood as referring to its spiritual work, not its essential being. **St. Dionysius** <note>original: "Sanctus Dionisius"; referring to Pseudo-Dionysius the Areopagite, a 5th-century author whose writings on the "Celestial Hierarchy" were fundamental to medieval theology</note> says that the highest spirits pour themselves into the lower ones according to their order, and the lowest spirits pour themselves into the soul. Now, a question arises: can the soul also <term>receive</term> <note>original: "enphahen"; to receive or conceive divine grace or influence</note> without the knowledge or awareness of the highest angel? Note this: whatever spirit is most prepared before all other spirits, that spirit has first knowledge of everything that all spirits receive. For this reason, the **Seraphim** <note>the highest rank of angels, traditionally associated with fire and the most direct proximity to God</note> is more prepared for <term>divine influx</term> <note>original: "influz"; the flowing of God's light or grace into a creature</note> <margin>10</margin> than any single spirit in this life for two reasons. The first is that the angel is a pure spirit who pours himself out into fellowship. The soul cannot exist as purely as the angel because of the body. The second reason is that the angel dwells with a constant nature in the contemplation of the divine light, which no soul can possess constantly in this life. Therefore, the Seraphim is more prepared to receive <margin>15</margin> the divine influx before all spirits in this life; and whatever all spirits receive, that spirit who is prepared before all others has knowledge of it. Yet, the Seraphim is not the "middle-man" or means of their receiving; rather, because he hovers so much closer to the divine light, everything that all spirits receive from that same light is manifest to him. Thus, no soul receives anything without <margin>20</margin> the knowledge of the angels.
+
+Ah, now take note: while the soul is working, can one find a secret way for the enlightened soul to receive without the knowledge of the Seraphim? Mark this: the soul works in an "influx" into all the members of the body without the [conscious] knowledge of those members. Just as life flows hiddenly into all the limbs without the knowledge of that <margin>25</margin> secret flowing—yet the work of life is still performed within them—see, so it is: however secretly God flows with life into the soul and into all spirits, the Seraphim cannot know it. This secret flowing-in of life that the soul receives is a hidden work. How could the Seraphim know it? He knows it neither in himself nor in the soul. That is the first way <margin>30</margin> the soul receives without the knowledge of the highest angel.
+
+The second way is that she also receives in the <term>heavenly spark</term> <note>original: "himlischen gneister"; a famous mystical term (often *vünkelein*) referring to the indestructible core of the soul that is "divine" in nature</note> of her being; that is a state of likeness, <term>unfragmented</term> <note>original: "ungestuket"; whole, not divided into parts or "pieces"</note>; for where likeness hovers, there can be no "middle" (intermediary) between the two like things. Thus, likeness gives its likeness <margin>35</margin> (the light of its mind) without the knowledge of the unlike, unfragmented in <term>oneness</term> <note>original: "einicheit"; the state of being one with God</note>. For the Seraphim is unlike the soul. Mark this regarding the Seraphim: he is an <insert>infused</insert> spirit <note>original: "ingegozzen geist"</note> upon something that is corporeal; so too is the soul an infused spirit upon something of the same. The second thing: to the Seraphim it was given all at once in his first creation, so that he possesses to this day...
+
+---
+
+<note>Footnote at bottom of page:</note>
+37 un-infused spirit <note>original: "ungegozzen geist"; this note likely offers an alternative reading or correction to the word "ingegozzen" in the main text</note>.
+
+<summary>This page discusses the hierarchy of spiritual reception, debating whether the Seraphim (the highest angels) mediate all divine grace to the soul. It concludes that God can work directly and secretly in the "spark" of the soul, bypassing angelic knowledge because of the essential likeness between God and the soul's core.</summary>
+<keywords>Seraphim, soul-spark, divine influx, Pseudo-Dionysius, spiritual hierarchy, oneness, unfragmented being, medieval mysticism</keywords>
+
+--- Page 81 ---
+<meta>This page continues the discussion of the soul’s preparation to receive divine influence. The previous page ended with a comparison between the soul and the Seraphim, noting that while the angel is a pure spirit in constant contemplation, the soul’s capacity for direct "influx" without angelic mediation is the focus of this transition.</meta>
+
+has, to take on the sight of the eternal light; so it is in a steady ascent of its likeness to God. In this, the soul is unlike the angel, which <margin>5</margin> receives through the likeness of its equal a hidden influx without the mediation of the angel's knowledge. <note>original: "chuntschaft"; meaning the soul can receive God's grace directly, bypassing the traditional celestial hierarchy of angels.</note> This is spoken of by **St. John**. <note>original: "sanctus Johannes"; likely referring to the author of the Fourth Gospel or the Book of Revelation.</note> A wise master from **Greece** <note>original: "Chrichen"; likely referring to a Neoplatonic philosopher like Plotinus or Proclus.</note> says that the oneness of the soul lies in a likeness, of which the perfect has no likeness. **St. Dionysius** <note>original: "Sanctus Dionisius"</note> says: The angels (60 b) are a divine **mind**. <note>original: "gemût"; a central term in German mysticism referring to the deepest part of the human spirit or the seat of the intellect and will.</note> Now **St. Paul** <note>original: "sanctus Paulus"</note> says of people who live an angelic life in the flesh, that the mind of God flows into them just as it does into the angels, etc. O you transformed God in the eternally united mind, and you inspired spirit in the union of God, stand up and perform your first work! Now <margin>10</margin> one might ask how the soul's spirit should stand up; it should stand up on its two feet, **understanding** <note>original: "verstantnuz"</note> and **love**, <note>original: "minne"; specifically the selfless, divine love central to medieval spirituality.</note> and should step over all transitory things, so that its feet are not soiled by perishable matters. But what is the spirit’s first work? That is a pure, naked **reaching** <note>original: "ancapfen"; a tactile term for the soul's first contact with the Divine.</note> for the highest good, which is God, and that highest good pours itself richly <margin>15</margin> into the spirit in a perceivable experience. Ah, now see: what does the light-filled infusion of the highest good work in the spirit? Note this: when the highest good pours itself light-filled into the spirit, it lifts the spirit above its natural dwelling place, where it is light-filled and nourished. **St. Paul** says: *Run, so that you may attain.* <note>original: "Laufet, daz ir begriffet"; a reference to 1 Corinthians 9:24.</note> The oneness of the spirit is this: <margin>20</margin> that one grasps all things in God as they are in God, and that one loves one's fellow Christian, etc. We are a **witness** <note>original: "gezeuk"; a legal metaphor for the soul's testimony to God's presence.</note> of God. Whoever is to be a witness before the court should bear an unchanging countenance. To them, the image remains unchanged, as long as one remains unmoved by matter and by images. <margin>25</margin> For whoever is to be a true witness of God should have a likeness of God, which is God. God has no will, nor love, nor understanding [in the human sense], so much as there is in us a pure understanding. **Bishop Albert** <note>original: "Bischof Albrecht"; referring to Albertus Magnus (c. 1200–1280), the teacher of Thomas Aquinas and a major authority on natural philosophy and theology.</note> says: In three ways God flows out into all things: the first is in **being**, the second is with **life**, the third with **light**; but especially he flows into the rational soul in the possibility <margin>30</margin> of all things and in a reflection of the creature back into its first **origin**. <note>original: "ursprung"</note>
+
+### No. 44.
+
+->Fol. 60 b. Christ sat and taught.<-
+
+***
+
+<summary>This page describes the soul's mystical "ascent" to God, defining its "first work" as a direct, light-filled contact with the Divine that transcends the senses and angelic mediation. Using the "two feet" of understanding and love, the soul acts as a witness to the divine origin by reflecting God's light back to its source.</summary>
+
+<keywords>mysticism, likeness of God, St. Dionysius, St. Paul, Albertus Magnus, understanding and love, divine influx, oneness of the spirit, witness of God</keywords>
+
+--- Page 82 ---
+<meta>This page transitions from the general discussion of the soul’s likeness to God and the angels to the specific practice of receiving the Eucharist. It then moves into a profound Trinitarian theology, explaining how the "uncreated spirit" of God generates the Son and the Holy Spirit through self-contemplation.</meta>
+
+### No. 45.
+
+Fol. 61 b. Some people say that if one were better prepared for external food than for **the body of our Lord**, <note>original: "lichnam unsers herren"; literally 'the corpse of our Lord,' referring here to the consecrated Host in the Sacrament of the Altar.</note> one would receive more grace and comfort from the external food than from God’s body. This is <margin>5</margin> a **hard saying** to understand, yet it may be understood in this way: in whatever place, at whatever time, or in whatever works [a person] is most greatly and purely prepared, there he receives more. The soul does not obtain this readiness from any external things; the soul cannot prepare itself, rather He who prepares it is the one whom it receives with readiness. Yet <margin>10</margin> even then, the soul has a special benefit from receiving the body of our Lord, which it cannot have from any gift in the kingdom of heaven nor on earth. What is this benefit? Behold, that is **nature**, which receives its own nature, for **Christ’s nature** is our nature. There, nature is received by nature, and it is not received as merely nature; it is <margin>15</margin> received into the **unity of divine nature**. <note>This section suggests a mystical "kinship" between the human soul and the incarnate God, where the act of Communion reunites like with like.</note> See Pfeiffer 678, 32-680, 33. <note>Refers to the 1857 edition of Meister Eckhart's works by Franz Pfeiffer.</note>
+
+Fol. 62 b. Now there is a question: Is God by will or by nature? <note>A classic scholastic debate: does God act out of a choice of will or because it is his essential nature to do so?</note> Pfeiffer 675, 18-25.
+We should eternally be so poor, etc. <note>A reference to the mystical concept of "poverty of spirit," where the soul is emptied of all things to be filled with God.</note> Pfeiffer 532, 28 and above <margin>20</margin> No. 21.
+
+---
+
+### No. 46.
+
+Fol. 63. There is an **uncreated spirit** and a **created spirit**; the one that flows from the uncreated spirit is the **angel**, and a **rational spirit**, (63 b) which is the **soul**. The uncreated spirit is the **eternal being**. <note>original: "wesen"; can mean essence, being, or reality.</note> The Father turns the eye of his **bottomless heart** <note>original: "grundlosen hertzen"; refers to the "Abgrund" or abyss, the infinite depth of the Godhead.</note> into his own being, <margin>25</margin> which is his nature, and gazes upon himself; and as he gazes upon himself, he sees in himself the whole world, all **abundance**, <note>original: "genůg"; meaning fulfillment, sufficiency, or plenitude.</note> all nobility, and all things at once. In that same gaze in which he gazes upon himself, he forms a **Word** and speaks himself into that Word, along with the whole world and all abundance and all things at once. And the Word speaks <margin>30</margin> itself back into the Father, in the whole world and in all nobility. In this sight, where the Father sees himself so rich, and in the whole world in the Father, they have such great abundance that all the joy and delight that all angels and all saints ever won, and our Lady herself—all of that is <margin>35</margin> **divine nature**. Thus the third person flows from them both, which is the **Holy Spirit**. Just as God is himself in all things, everything that creatures have has flowed from him.
+If we are to become worthy to receive the Holy Spirit,
+
+<summary>This page discusses the spiritual preparation required for the Eucharist and provides a mystical explanation of the Trinity, describing how God the Father's self-contemplation generates the Son (the Word) and the Holy Spirit.</summary>
+<keywords>Eucharist, Christ's nature, uncreated spirit, eternal being, Holy Trinity, the Word, divine abundance, Meister Eckhart</keywords>
+
+--- Page 83 ---
+<meta>This page continues the mystical exploration of the soul’s relationship to the Divine. Following the previous discussion of the Trinity and the Eucharist, the author now outlines three "spirits" or modes of being that the soul should emulate to receive the Holy Spirit: the uncreated spirit of God, the created spirit of angels, and the rational human spirit.</meta>
+
+Thus we should conduct ourselves in the same way as the **uncreated spirit of God** conducts itself. We should turn the eyes of our intellect inward and behold the nobility of our spiritual being—how we are formed in the image of the **Holy Trinity** and for what purpose we were created. We were created for this: <margin>5</margin> that we might be united through grace with the uncreated spirit of God. When we then behold our own internal richness—what we are meant to be so that we may enjoy His richness with Him—from that, such great delight and satisfaction should come to us that we would never again seek external pleasure or satisfaction. Thus should <margin>10</margin> we hold ourselves as an image of the uncreated spirit of God.
+
+The second is a **created spirit**, which is the **angel**. We should also model ourselves after this spirit if we are to receive the Holy Spirit worthily. For the angel gazes without ceasing into the mirror of the Godhead, and each receives more or less of the divine light according to its <margin>15</margin> worthiness, as it is ordered toward God. Each receives and passes value to the next, and the others give value to the lowest. <note>This describes the "Celestial Hierarchy," a common medieval concept where divine light filters down through different ranks of angels to humanity.</note> In the same way, we should gaze at all times into the mirror of the Godhead, and whatever is revealed to us by God, we should share with those who do not receive it so directly <note>original: "plozlich"; literally 'nakedly' or 'without mediation.'</note> and yet are of the same nature.
+
+<margin>20</margin> The third is the **rational spirit**; <note>original: "redlich geist"; refers to the human soul's capacity for reason and discernment.</note> we should also model ourselves after this if we are to receive the Holy Spirit. For the rational spirit keeps itself within the light of its own self-knowledge and contemplates the truth in all things as if in a light of reason. Furthermore, the spirit should exist in absolute nakedness, so that it stands above all rational thought. Oh, in a state of inwardness, <margin>25</margin> recognize your own turning, so that you do not see yourself in anything else except the **Highest Good** alone. One must indeed see with reason and with knowledge. Therefore, the "contemplatress," the "creatress," and the "likener" <note>original: "bescawerinn und di schepferinn und di glicherin." These are feminine-gendered personifications of the soul's faculties.</note> must be stripped bare, just as the hand of God is bared. What is the hand of God? That is the working power of God through the eternal work. <margin>30</margin> Thus one should know God with invisible light and cast away everything that is not God.
+
+May the uncreated spirit unite us in Himself in all perfection; may He help us to this end, etc.
+
+### No. 47.
+
+Fol. 63 b. **Saint Dionysius** <note>Referring to Pseudo-Dionysius the Areopagite, a 5th-century theologian whose mystical writings on the "unknowability" of God deeply influenced medieval thought.</note> says: The Trinity of the Unity <margin>35</margin> cannot be grasped by anything except unity. I have found the Triunity of God nowhere more properly than in the likeness of the angels. Also that...
+
+---
+
+35 Triunity. <note>A variant spelling or correction of the word in the main text.</note>
+
+<summary>This page describes a tripartite path for the soul to achieve mystical union by emulating the uncreated spirit of God, the angelic hierarchy, and the refined human intellect. It emphasizes inward contemplation and the stripping away of all that is not God.</summary>
+<keywords>Uncreated Spirit, Trinity, Angelic Hierarchy, Self-Knowledge, Pseudo-Dionysius, Mystical Union, Reason, Inwardness</keywords>
+
+--- Page 84 ---
+<meta>This page continues the exploration of the soul’s relationship to the Divine. Having previously discussed how the soul should model itself after the uncreated and created spirits, the author now turns to the technical theological relationship between the Unity of God and the Trinity of persons, and how the soul is drawn into this mystery through love.</meta>
+
+...that same Trinity, which is also Unity, and that same Unity, which is also Trinity. And the Unity is also Father and Son and Holy Spirit according to its own nature. <term>Boethius</term> <note>An influential 6th-century philosopher whose "The Trinity" (De Trinitate) was a foundational text for medieval theology.</note> writes to us how we should understand the Unity in the Trinity and the Trinity in the Unity, and he shows us the Trinity within the Unity, saying: Whoever wishes to understand (64^a) "fatherhood" alongside "sonship" has understood the Father in the Unity, and yet not the Unity itself. Behold, he speaks in the same way of the other two persons, and so on.
+
+**Paul** says: The Son is an image of his Father and is an image of his eternal essence and a radiance of his divine clarity. <note>A paraphrase of Hebrews 1:3: "The Son is the radiance of God’s glory and the exact representation of his being."</note> **Saint John** says: "God is love." The masters <note>Likely referring to scholastic theologians who debated the precise nature of "charity" and "grace."</note> contradict them: If he had meant the love with which the soul loves God, then he would not be speaking the truth. If the love with which the soul loves God were God himself, that love would not fail the soul as it now does. For [the soul] has a "natural love," which is a virtue. As the will turns toward God, God creates a love from nothing and pours it into that virtue.
+
+And this love is both nature and grace, and in that grace, God gives Himself into the soul, and the **Holy Spirit** unites Himself with that love. And the love which is the Holy Spirit is God; and the love which is grace is nature and unites the soul with God. In that union, the soul is drawn into God, so that the soul loves God with His own love in God, for in itself, the soul cannot do this. Therefore, the power of the soul exists first in itself before it is "touched"; and that it is touched is a work of God, and the soul is a witness to that work, and the work is a created thing. The power that fulfills the soul and leads it out of itself without its own doing—that is God. <note>The author is distinguishing between the soul's natural efforts and the transformative power of God's direct intervention.</note> I touch the cathedral, but I do not move it away. <note>This metaphor illustrates that while the soul can reach out to or "touch" the vastness of God, it cannot encompass or control the Divine.</note>
+
+Then He gave within her a light of grace, so that I recognized three persons in the divine nature, and that the Father was the bearer of all things. As **Saint James** says: "All perfect gifts flow from the Father of lights." <note>James 1:17.</note> The Father is Himself a light that shines in Himself, both personally and essentially. In the hidden essence, all that is essence exists without distinction of person. There, the essence shines essentially within the essence. Thus the soul loses the "fatherhood," for in that [essence] He is not even "Father." <note>This refers to the "Godhead" or the "Desert of the Deity," a concept in German mysticism (like that of Meister Eckhart) where God exists as a pure, undifferentiated essence beyond the roles of Father, Son, or Spirit.</note> That the Father illuminates Himself within Himself essentially and personally—that He begets from His unbegotten essence into Himself through the noble, true exchange of His personality. As much as He draws His unbegotten essence into Himself, that is how much He is "fatherly," and that is how much He is blessed in His fatherhood. That noble light has flowed eternally in His heart, and flows out of Him into the Son, essentially and personally, and flows...
+
+---
+
+29 of the light.
+
+<summary>This page discusses the theological relationship between God's unified essence and the three Persons of the Trinity, explaining how divine love (Minne) and grace allow the soul to love God using God's own power.</summary>
+<keywords>Trinity, Boethius, Divine Love, Minne, Grace, Soul's Union, Essence, Father of Lights, German Mysticism</keywords>
+
+--- Page 85 ---
+<meta>This page continues the technical exploration of the Trinity and the soul’s union with God. The previous page ended discussing how the Holy Spirit unites with the love found within the soul; here, the author explains the internal "shining" or radiance of the three Divine Persons and how the soul returns to its "land" through divine matter.</meta>
+
+...out from both of them into the **Holy Spirit**, both essentially and personally. And the **Father** shines upon them both essentially and personally, and the three shine as one radiance essentially, and each of them shines as a radiance personally and essentially; and that essence is the unity of the three
+<margin>5</margin>persons. And the unbegotten essence is God fruitfully <note>original: *berhafticlichen*; the author is describing God’s innate capacity to generate the Son and the Spirit.</note>, insofar as it flows out with the persons. Not that this essence itself should beget anything; for the [divine] essence begets nothing. The **Son** and the **Holy Spirit** are two lights of the divine essence in the origin of fatherhood, where the Father draws the begotten essence into Himself into His unbegotten essence.
+<margin>10</margin>For the Father recognizes Himself with the Son and recognizes Himself within Himself. Therefore, the Son is a light, and He wishes to [recognize] Himself within Himself, and therefore the Holy Spirit is a light. The Father and the Son have one will, and that will is the Holy Spirit, who gives Himself into the soul, so that the divine nature so thoroughly permeates the powers of the soul that the
+<margin>15</margin>soul cannot perform any works but divine works, just like a spring that proves itself, etc.
+
+God is the soul’s <term>matter</term> <note>In this context, "matter" refers to the underlying substance or "fuel" for the soul's actions, rather than physical material.</note> in its works and not in its createdness. Therefore its works are eternal, because He is eternal. It never lacks this matter, so that we are never without matter. Thus
+<margin>20</margin>the soul travels into its "land"; thus the soul becomes as nothing. If the matter left it once it had completed all its works, it would remain with those works in God, who is its matter, and it throws itself with the simple essence into the Godhead without work and without matter and without Godhead; <note>This "nothingness" describes a mystical state where the soul transcends even its own concepts of God to reach the "simple essence."</note> that is its "land." Then the Godhead is all things to it (64ᵇ) in a silent power, for the Godhead
+<margin>25</margin>is all things to it, just like the heart of the sea. May He help us to this.
+
+---
+
+### No. 48.
+
+Fol. 64ᵇ. Mary Magdalene came to the tomb. <note>original: *Maria Magdalena venit ad monumentum*</note> Pfeiffer 117.
+
+### No. 49.
+
+Fol. 65ᵃ. Our Lord spoke seven words to two of his disciples.
+<margin>30</margin>To the one he spoke three words, to the other he spoke four words. One was a talker, the other was a silent one. The talker said: "Lord, I love you as much as everything that is on earth and in the kingdom of heaven." Then our Lord said: "You are quite right in that; I played with that five thousand years ago, before I [created] Adam and Eve..."
+
+---
+
+<summary>This page details the reciprocal radiance between the Persons of the Trinity and describes God as the "matter" of the soul's eternal works, leading to a state of mystical "nothingness." It concludes by beginning a dialogue between Christ and two disciples regarding the nature of love.</summary>
+<keywords>Trinity, Holy Spirit, divine essence, mystical union, matter of the soul, Mary Magdalene, divine play, Middle High German mystical prose</keywords>
+
+--- Page 86 ---
+<meta>This page transitions from the abstract theological discussion of the Trinity’s light and the soul’s "matter" into a more intimate, mystical dialogue between God and a devout soul—likely a nun or a lay sister. It focuses on the reciprocal power of love and the sanctifying nature of suffering.</meta>
+
+...created. Then she spoke again: "I love you so much that I cannot bear to be without you for even a short while." Then our Lord spoke: "You are right to feel so; for your sake, I feed five thousand people every single day." But she spoke again: "Lord, I love you as much as if a high, great mountain were mine." Then our Lord spoke: "You are right in that; you have as much power over me as my Father had when He sent me into this (65 b) <term>valley of sorrows</term> <note>original: *iamertall*; a common medieval metaphor for the earthly world as a place of exile and suffering.</note>." To the <term>lay sister</term> <note>original: *sweigerin*; this likely refers to a "lay sister" or "converse" in a convent, though it can also imply a person of quiet contemplation.</note> our Lord spoke: "When you think of me, and you feel neither pain nor joy, then you are exalted in me, just as my tender <term>sacred body</term> <note>original: *vronleichnam*; while this later became the name for the Feast of Corpus Christi, here it refers to Christ's glorified or Eucharistic body.</note> is above all things. When you think of me from your heart, you have as much power over me as I have over you. When you then think of my death and my <term>passion</term> <note>original: *marter*; meaning the physical and spiritual torments of Christ's crucifixion.</note> and of your sins, so that a tear rises in your eye—and even if it does not actually fall—then you are as free from sin as a dying man <note>original: *chraftloz*, literally "powerless," describing the state of the body as the soul departs.</note> when his soul departs from him. Whenever you then think of my tender, glorious countenance, I press my image into you and yours into me; and whoever were to see us both would not be able to tell us apart."
+
+### No. 50.
+
+Fol. 65 b. I, high and noble God, knew in all my wisdom of nothing so noble as suffering. Therefore, I chose to be born in suffering, spent all my life in suffering, and chose to die in suffering for you. Now follow me and suffer for my sake for a short while! For suffering brings you great benefit: suffering wipes away all your sins so that I will never hold them against you again; suffering prepares you for special intimacy <note>original: *haim-lich*; implying a private, secret, or domestic closeness.</note> with me; suffering makes it so that I must dwell within you; suffering creates for you a great reward in the kingdom of heaven; suffering creates much <term>virtue</term> <note>original: *tugent*.</note> in you; suffering purifies your soul as fire (122 b) purifies gold; suffering makes it so that I must hide myself within your soul and I will carry the heavier burdens in all your suffering that may afflict you; suffering restores all your lost time; suffering places you in a state of innocent life before me, as if you had never committed a sin; suffering makes your body subject to the soul; suffering makes it so that I must say: "You are my worthy <term>servant</term> <note>original: *diner*.</note>." With suffering, you repay me for all my suffering. Suffering is a treasure that no one can repay except for me alone. Suffering is a gift that I give to no one but my friends. In suffering, I gladly allow myself to be found. Suffering makes you worthy of all the good that I wish to do for my beloved in heaven and...
+
+---
+
+<sup>1</sup> I present the following section according to the Codex Norimbergensis Cent VII 35, Fol. 122, which dates from the first half of the 14th century. Cf. *Anzeiger für deutsches Altertum* IX 132.
+
+<summary>This page records a mystical dialogue emphasizing the soul's power over God through love and the transformative power of suffering. It characterizes suffering as a divine gift and a means of total union with Christ, where the soul and God become indistinguishable.</summary>
+<keywords>Mysticism, Suffering, Unio Mystica, Passion of Christ, Virtue, Divine Love, Lay Sister</keywords>
+
+--- Page 87 ---
+<meta>This page continues the dialogue between Christ and a soul, specifically a "lay sister" mentioned on the previous page, regarding the spiritual value of suffering. It then transitions into a poetic sequence regarding the mystical state of "Bareness."</meta>
+
+...on earth. Suffering makes you self-aware, so that you must contemplate from where you have come and what you shall become (123 <sup>a</sup>). Suffering makes it so that you become like me. Suffering is a certain path to eternal life. Suffering is so exceedingly noble that I will give nothing else for it but myself. <margin>5</margin>
+
+## No. 51.
+
+<margin>Fol. 65 b.</margin>
+The elements grant us this:
+Whatever has ever happened in time
+Must pass away into a single <term>point</term> <note>original: *punt*; in mystical thought, this is the "now" or the infinitesimal moment where the soul and God meet, transcending time.</note>
+And cannot endure in <term>bareness</term> <note>original: *plozzen* / *Plozheit*; a key concept in German mysticism referring to a state of being stripped of all images, desires, and worldly attachments.</note>. <margin>10</margin>
+->Separate yourselves from 'aught' <note>original: *iht*; meaning "something" or "anything" in the sense of worldly objects.</note>,<-
+->So you shall not sink.<-
+
+Each thing draws its own to itself;
+Bareness holds itself in bareness;
+Bareness has within it no goal, <margin>15</margin>
+It desires nothing "before" or "after."
+->Separate yourselves etc.<-
+
+Bareness stands without distinction;
+It touches neither body nor sorrow.
+Bareness never came "out" nor "in"; <margin>20</margin>
+It is a quiet departure of the senses <note>original: *sin*; can mean the physical senses or the faculty of the mind.</note>.
+<note>Reference to line 20: the original note suggests a variant reading "ni uz in si" (never out in it).</note>
+->Separate yourselves etc.<-
+
+Bareness is of noble birth, and free;
+No one is with it but itself.
+Bareness brought peace to its eyes; <margin>25</margin>
+It is free from "before" and "after."
+->Separate yourselves etc.<-
+
+The <term>bare one</term> <note>the soul that has achieved *Plozheit*.</note> is called "without-need,"
+Unknown by all things.
+No one gazes into its <term>ground</term> <note>original: *grunt*; the *Seelengrund* or the deepest, divine spark within the human soul.</note>, <margin>30</margin>
+Unless it reveals itself in a single point.
+
+<summary>This page concludes a mystical dialogue on the nobility of suffering as a path to God and presents a poem about "Bareness," the state of the soul when stripped of all earthly attachments.</summary>
+<keywords>suffering, imitation of Christ, Bareness, Plozheit, soul's ground, detachment, mysticism, the elements</keywords>
+
+--- Page 88 ---
+<meta>This page continues the exploration of suffering as a mystical path toward God, transitioning from the poetic "Bareness" of the previous page to specific sermons and a dialogue between a soul and Christ regarding the imitation of His Passion.</meta>
+
+— 54 —
+
+### No. 52.
+
+Fol. 65 ^b^. "Behold, I send my messenger" <note>original: *Ecce mitto angelum meum*; a reference to Malachi 3:1 or Matthew 11:10.</note>. Pfeiffer 159.
+
+### No. 53.
+
+Fol. 66 ^b^. Two shorter Latin notes and a good sermon on perfection <note>original: *de perfectione sermo bonus*</note>
+<margin>5</margin> with the opening verse: "Be perfect, therefore, as your heavenly Father
+is perfect" <note>original: *Estote ergo perfecti, sicut et pater vester celestis est*; Matthew 5:48.</note>.
+
+### No. 54.
+
+Fol. 67 ^b^. A person gave God a reproach <note>original: *ytweiz*; a complaint or accusation of unfairness.</note>, that He was so hard towards him while
+He comforted His friends so inwardly and so sweetly. To this, it was answered
+<margin>10</margin> thus: "What benefit would it be to your eternal <term>blessedness</term> <note>original: *selicheit*; the state of spiritual joy and salvation.</note> if I
+had playful joy without beginning within myself? For that reason, I took <term>humanity</term> <note>original: *menscheit*.</note> upon myself and
+came onto the earth and worked for three and thirty years for your salvation and your
+eternal life in great pain and in bitterness."
+A person thought at one time that God draws one person so
+<margin>15</margin> lovingly to Himself and another so painfully. To this, it was answered:
+"What seems to you more inward or noble than that which is most like me,
+and that is suffering? Where did a creature ever suffer as bitterly and as sharply
+as I, or in what may I properly work out my natural
+nobility other than in that which is most like me, which is suffering? No
+<margin>20</margin> human ever suffered as bitterly as I, and yet no human was ever as pure
+and as clean of all sin as I. When was my only-begotten son more mocked
+than when he confessed me as an eternal father? In my divine nature,
+nothing ever worked as nobly in human nature as suffering,
+and as it worked more nobly, so is it also given out of greater
+<margin>25</margin> love.
+The crown must be pressed very sharply onto those who shall eternally
+green and bloom before my Father. He who wishes to be deeply sunken
+into the stream of the <term>Godhead</term> <note>original: *gotheit*.</note> must also be deeply sunken into the
+sea of bitter suffering. I am a height above all things, and at all times I have
+<margin>30</margin> supernatural work within myself; and for that reason, as the
+human deepens himself below all things through his natural power, so he is
+drawn more supernaturally by me above all things."
+A person desired to know when a human was dead to the core <note>original: *zu grund tod*; a mystical state of total detachment from the self.</note>.
+To this, it was answered thus: "When transient things become as unnatural
+<margin>35</margin> to you as they are far removed from the nobility of my divine nature." Then
+the person spoke again: "Ah, dear Lord, what (shall) work this death?"
+
+<summary>This page contains short theological references and a profound dialogue where God explains that suffering is the highest form of imitation of Christ, serving as the bridge between human nature and the divine "stream."</summary>
+<keywords>suffering (leiden), Godhead (gotheit), blessedness (selicheit), detachment, imitation of Christ, supernatural (ubernaturlich), mystical death</keywords>
+
+--- Page 89 ---
+<meta>This page continues the mystical dialogue between God and a soul, specifically focusing on how Christ’s Passion and human suffering are transformed through divine love (minne). It picks up from the previous page's discussion on why some suffer more than others.</meta>
+
+— 55 —
+
+That shall be the presence of my death and my dying life, in which I at all times worked for the salvation of the human race.
+
+A person pondered how painful it must have been for Christ to see his enemies in the time when he was captured. He heard this answer: At that time
+<margin>5</margin> my enemies were as present to me as a friend who wants to help another to complete the most <term>lovely</term> <note>original: *minniclichst*; from *Minne*, referring to the highest form of divine love.</note> and the most useful work that he ever worked in his time.
+
+God showed a person lamentably how he was completely drained of all his blood when he was taken from the pillar, and to this it was
+<margin>10</margin> spoken: "Now see how the <term>love</term> <note>original: *minne*.</note> of mankind has drained me! Should it not therefore be lovely for me to drink from him the reward of my martyrdom? Should suffering not flow from my divine heart and from the noblest ground of my nature, I would never have so completely <term>naturalized</term> <note>original: *vernaturt*; a mystical term meaning to be so united with God that one shares His nature.</note> and made him my own, whom I at all times bear from my heart with playful joys."
+<margin>15</margin> The suffering of my friends comes not from hardness but from the innermost center of my heart; therefore, I am compassionate toward human weakness, so that they may be united with me through it. No suffering could have befallen my Son through any guilt, but only so that he might fulfill the hidden will of my heart. Some people are so completely
+<margin>20</margin> naturalized and united in me that it is more painful for me to be estranged from them for one day than for another person for their whole life. Just as death is bitter to the body, so it is bitter to me that I do not have a dwelling in the soul. By this, let a person ponder the great love of God! Just as much as Christ's soul is more united
+<margin>25</margin> with the divine nature than any other soul, so much more can a soul receive of the divine nature and divine nobility than another soul. That is a pure worship, when the higher powers are directed into me and there at all times withdraw into themselves and suck the sweet marrow of my nature. Have a <term>hidden conduct</term> <note>original: *taugen wandel*; a secret or mystical way of life.</note> so that I may work secretly in you; keep secret everything that I
+<margin>30</margin> work in you! Why am I more lovable to all things than because of the hiddenness of my secrets? I have worked all my works in my only-begotten Son in such a way that they have never yet been understood or touched by any creature. As supernatural as my being is in the heart of my Father, so lovely and natural it is for me to dwell with the soul
+<margin>35</margin> where I find the likeness of my bloody wounds. "Which are those wounds?" he asked. I have wounded with the eternal love of my fatherly heart, and that wounding shall eternally flourish and bloom before the eyes of my <term>kindred</term> <note>original: *magenschaft*; refers to the spiritual family or community of the blessed.</note>. To whom I have ordained the painful life in time, they shall enjoy the sweet marrow of my divine
+<margin>40</margin> nature in eternity. Also, how playfully the soul is gazed upon by the eyes of my kindred-power, in which I find the likeness of the bloody wounds of my Son!
+
+<summary>This page features a mystical dialogue where Christ explains that his suffering was a "work of love" and that the suffering of the faithful acts as a way to be "naturalized" or unified with the Divine. It emphasizes the "hidden" nature of God's work within the soul and the eternal reward of spiritual kinship.</summary>
+
+<keywords>Minne, Passion of Christ, mystical union, vernaturt, martyrdom, divine nature, hiddenness, spiritual wounds</keywords>
+
+--- Page 90 ---
+<meta>This page transitions from a discussion of Christ's suffering to a mystical dialogue between Saint Augustine and his son. It explores the nature, origin, and destiny of the human soul through a series of theological questions and answers.</meta>
+
+— 56 —
+
+Saint Augustine <note>original: *Sanctum Augustinum*</note> is asked by his son about the soul, what it is. 
+Augustine spoke: I have perceived from God’s hidden secrets: 
+whoever wishes to turn to the grace of God must have a lonely, un-
+<margin>5</margin>hindered place and must have an untroubled heart and a free 
+conscience and a pure, humble, desiring soul toward God, and must have a 
+contemplative wisdom of the indrawn senses, fixed in God with wonder.
+
+Then the son spoke again: What is a soul? Then Saint 
+Augustine spoke: The soul has come from the heavenly land of the Father’s 
+and the divine heart and is made from the matter of divine 
+<margin>10</margin><term>love</term> <note>original: *minne*; referring to the highest form of spiritual affection.</note> and is born from the high lineage of the Holy Trinity, 
+and is an heir of God and of heaven, and a mother of all creatures and 
+a possessor of all the good and all the joys that God can provide in 
+His eternity; and it is an angelic creature and a spiritual nature or 
+(68 ᵇ)... and an image of the Holy Trinity, and the noblest creature that 
+<margin>15</margin>was ever conceived in God. It is taken so close to God’s heart that if God 
+could have divided His divine nature, He would have made the soul from it; 
+which is not the case, for it is not made from the divine nature, but rather God 
+alone reaches between the Godhead and the divine nature into His 
+eternal being and makes the soul from nothing.
+
+<margin>20</margin>The second question is: Where did God find the "nothing," since everything was God? Saint 
+Augustine said: Because God is capable of all things, therefore He made the soul 
+from nothing.
+
+The third question is: Now tell me, how big is the soul? Saint Augustine 
+spoke: The soul is so big that neither the kingdom of heaven nor the earth 
+<margin>25</margin>can fill it, but only God alone, and it fills all places with God.
+
+The fourth question is: Now tell me, what is the soul’s form? Saint Augustine 
+spoke: The soul is so beautiful that even if all the angels, the Seraphim and 
+Cherubim, and all the angels and saints, had eternally pondered 
+a likeness of what the soul was, the more they pondered how beautiful it was, 
+<margin>30</margin>the more unlike it they would be, for it is God's image.
+
+The fifth question is: Now tell me, why should the soul come out of its natural 
+<term>simplicity</term> <note>original: *einvalticheit*; here meaning a state of being undivided and purely one with God.</note> where it was? Saint Augustine spoke: It was 
+so simple that it knew neither itself nor God. Therefore it was 
+necessary that God created it and gave it its free will, with which it 
+<margin>34</margin>recognizes itself under God.
+
+The sixth question is: Now tell me, what shall become of the soul after this 
+life? Saint Augustine spoke: The soul shall flow back into its 
+natural simplicity, with which it flowed out from God. The <term>more naked</term> 
+<note>original: *blozer*; a mystical term for being stripped of all worldly attachments and sensory images.</note> it has kept itself, the more similarly it flows back into God, for God's spirit is naked 
+<margin>40</margin>and simple and is without matter and without image.
+
+<summary>This page presents a pseudo-Augustinian dialogue defining the soul as a noble creature made of "divine love" and born of the Trinity. It explains the soul's immense capacity (fillable only by God) and its ultimate goal of returning to a state of "naked simplicity" in the Divine.</summary>
+<keywords>Saint Augustine, soul, Trinity, divine love, simplicity, creation from nothing, spiritual beauty, free will, mystical union</keywords>
 
 --- Page 91 ---
 <meta>This page continues the discussion of mystical union and the nature of the soul. It transitions into a series of numbered entries (55-57), featuring teachings attributed to "Bishop Albert" (Albertus Magnus) regarding the divine light and the Incarnation.</meta>
