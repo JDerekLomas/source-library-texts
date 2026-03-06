@@ -1,14 +1,14 @@
 {
   "id": "6970e35b9b09d309d780a256",
   "title": "Der äussere und innere güldene Augen-Spiegel",
-  "display_title": "Der äussere und innere güldene Augen-Spiegel",
+  "display_title": "The Outer and Inner Golden Eye-Mirror",
   "author": "Anonymous",
   "language": "German",
   "year": 1713,
   "published": "1713",
   "pages_count": 358,
   "pages_with_ocr": 358,
-  "pages_with_translation": 350,
+  "pages_with_translation": 352,
   "source_url": "https://sourcelibrary.org/book/6970e35b9b09d309d780a256",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:26:02.894Z",
+  "synced_at": "2026-03-06T23:20:24.208Z",
   "_hashes": {
     "ocr": "66c966359adc7080",
-    "translation": "454e683f5d9c5119"
+    "translation": "1fb907862ba73d23"
   }
 }
