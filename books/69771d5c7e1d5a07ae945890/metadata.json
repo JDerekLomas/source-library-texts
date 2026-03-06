@@ -1,14 +1,14 @@
 {
   "id": "69771d5c7e1d5a07ae945890",
   "title": "Biblia Veteris Testamenti ... Biblische Historien",
-  "display_title": "Biblia Veteris Testamenti ... Biblische Historien",
+  "display_title": "Biblical Histories of the Old Testament",
   "author": "Unknown",
   "language": "Latin-German",
   "year": 1557,
   "published": "1557",
   "pages_count": 194,
   "pages_with_ocr": 194,
-  "pages_with_translation": 182,
+  "pages_with_translation": 191,
   "source_url": "https://sourcelibrary.org/book/69771d5c7e1d5a07ae945890",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:27:41.910Z",
+  "synced_at": "2026-03-06T22:30:50.690Z",
   "_hashes": {
     "ocr": "320b5d8c98523250",
-    "translation": "7836e38ed9a6eb68"
+    "translation": "2e621e3bef99374a"
   }
 }
