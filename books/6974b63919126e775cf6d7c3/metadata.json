@@ -1,14 +1,14 @@
 {
   "id": "6974b63919126e775cf6d7c3",
   "title": "Apocalypsis spagyrica et philosophica oder wahrhaffter und untrüglicher Weg zu der höchsten Medicin",
-  "display_title": "Apocalypsis spagyrica et philosophica oder wahrhaffter und untrüglicher Weg zu der höchsten Medicin",
+  "display_title": "Spagyric and Philosophical Apocalypse",
   "author": "Hermogenes",
   "language": "German",
   "year": 1739,
   "published": "1739",
   "pages_count": 242,
   "pages_with_ocr": 242,
-  "pages_with_translation": 189,
+  "pages_with_translation": 235,
   "source_url": "https://sourcelibrary.org/book/6974b63919126e775cf6d7c3",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:27:14.836Z",
+  "synced_at": "2026-03-06T22:20:42.548Z",
   "_hashes": {
     "ocr": "2f182d8ddfebddb3",
-    "translation": "fbfa3b64f994ea9b"
+    "translation": "7eb3ca3f09a97e69"
   }
 }
