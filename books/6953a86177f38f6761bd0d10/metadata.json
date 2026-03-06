@@ -1,14 +1,14 @@
 {
   "id": "6953a86177f38f6761bd0d10",
   "title": "Monumenta Sacra Inedita (Tischendorf)",
-  "display_title": "Monumenta Sacra Inedita (Tischendorf)",
+  "display_title": "Unpublished Sacred Monuments",
   "author": "Constantin von Tischendorf",
   "language": "Greek",
   "year": 1855,
   "published": "Unknown",
   "pages_count": 347,
   "pages_with_ocr": 347,
-  "pages_with_translation": 346,
+  "pages_with_translation": 334,
   "source_url": "https://sourcelibrary.org/book/6953a86177f38f6761bd0d10",
   "license": "http://creativecommons.org/licenses/publicdomain/",
   "doi": null,
@@ -20,9 +20,9 @@
     "prompt_version": "v4.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:26:06.470Z",
+  "synced_at": "2026-03-06T19:40:57.967Z",
   "_hashes": {
     "ocr": "5471b586c2ab351a",
-    "translation": "300b30bb02d21b0b"
+    "translation": "ed3cdf857ebe0a37"
   }
 }
