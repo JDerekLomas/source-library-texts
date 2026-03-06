@@ -1,14 +1,14 @@
 {
   "id": "6970e37f9b09d309d780a2ca",
   "title": "Antiquitates biblicae",
-  "display_title": "Antiquitates biblicae",
+  "display_title": "Biblical Antiquities",
   "author": "Diedericus, Johannes Cunradus",
   "language": "Latin",
   "year": 1671,
   "published": "1671",
   "pages_count": 984,
   "pages_with_ocr": 984,
-  "pages_with_translation": 967,
+  "pages_with_translation": 968,
   "source_url": "https://sourcelibrary.org/book/6970e37f9b09d309d780a2ca",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:21:14.703Z",
+  "synced_at": "2026-03-06T23:00:23.507Z",
   "_hashes": {
     "ocr": "ca505af542f19cb6",
-    "translation": "6ba86d805fae82ff"
+    "translation": "875b80b69cbc5210"
   }
 }
