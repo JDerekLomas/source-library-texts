@@ -1,14 +1,14 @@
 {
   "id": "69520ee0ab34727b1f044285",
   "title": "Picatrix (Ghayat al-Hakim)",
-  "display_title": "Picatrix: The Goal of the Wise",
+  "display_title": "The Goal of the Wise",
   "author": "Pseudo-Maslama al-Majriti",
   "language": "Latin",
   "year": 1500,
   "published": "1500-1525",
   "pages_count": 144,
   "pages_with_ocr": 144,
-  "pages_with_translation": 144,
+  "pages_with_translation": 143,
   "source_url": "https://sourcelibrary.org/book/69520ee0ab34727b1f044285",
   "license": "publicdomain",
   "doi": null,
@@ -20,9 +20,9 @@
     "prompt_version": "v4.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:28:07.955Z",
+  "synced_at": "2026-03-06T20:40:45.327Z",
   "_hashes": {
     "ocr": "30d097196fe18a11",
-    "translation": "5a2a7c5a1367b7e9"
+    "translation": "1184bf3bdbbe736b"
   }
 }
