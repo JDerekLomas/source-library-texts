@@ -1,14 +1,14 @@
 {
   "id": "6953eac21479a63c11087997",
   "title": "Oeuvres de Descartes Vol. VIII (Principia Philosophiae)",
-  "display_title": "Oeuvres de Descartes Vol. VIII (Principia Philosophiae)",
+  "display_title": "Principles of Philosophy",
   "author": "René Descartes",
   "language": "French",
   "year": 1905,
   "published": "1905",
   "pages_count": 786,
   "pages_with_ocr": 786,
-  "pages_with_translation": 765,
+  "pages_with_translation": 755,
   "source_url": "https://sourcelibrary.org/book/6953eac21479a63c11087997",
   "license": "publicdomain",
   "doi": null,
@@ -20,9 +20,9 @@
     "prompt_version": "v5.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:22:07.867Z",
+  "synced_at": "2026-03-06T19:50:48.184Z",
   "_hashes": {
     "ocr": "ba9ad48e603fbfb0",
-    "translation": "6f4e48e11d606a5e"
+    "translation": "7313c1b59cbd0790"
   }
 }
