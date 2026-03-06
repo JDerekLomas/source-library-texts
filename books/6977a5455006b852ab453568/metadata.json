@@ -1,14 +1,14 @@
 {
   "id": "6977a5455006b852ab453568",
   "title": "[Greek: Katechesis tes christianikes pisteos] Catechesis religionis christianae",
-  "display_title": "[Greek: Katechesis tes christianikes pisteos] Catechesis religionis christianae",
+  "display_title": "Heidelberg Catechism",
   "author": "Unknown",
   "language": "Greek-Latin",
   "year": 1614,
   "published": "1614",
   "pages_count": 254,
   "pages_with_ocr": 254,
-  "pages_with_translation": 202,
+  "pages_with_translation": 247,
   "source_url": "https://sourcelibrary.org/book/6977a5455006b852ab453568",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:27:08.555Z",
+  "synced_at": "2026-03-06T23:50:31.113Z",
   "_hashes": {
     "ocr": "a731a7c9c24694db",
-    "translation": "af0510f1602b77be"
+    "translation": "049106b3e5f66195"
   }
 }
