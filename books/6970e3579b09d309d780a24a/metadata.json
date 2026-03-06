@@ -1,14 +1,14 @@
 {
   "id": "6970e3579b09d309d780a24a",
   "title": "Aegyptiaca et [Greek:] dekaphylon sive de Aegyptiacorum sacrorum",
-  "display_title": "Aegyptiaca et [Greek:] dekaphylon sive de Aegyptiacorum sacrorum",
+  "display_title": "Egyptian Matters and the Ten Tribes",
   "author": "Witsius, Hermannus",
   "language": "Latin",
   "year": 1696,
   "published": "1696",
   "pages_count": 546,
   "pages_with_ocr": 546,
-  "pages_with_translation": 504,
+  "pages_with_translation": 530,
   "source_url": "https://sourcelibrary.org/book/6970e3579b09d309d780a24a",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:23:44.407Z",
+  "synced_at": "2026-03-06T22:00:32.776Z",
   "_hashes": {
     "ocr": "7d497c733915e47a",
-    "translation": "58e5985cd9be81e5"
+    "translation": "89339a9009a8a787"
   }
 }
