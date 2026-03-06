@@ -1,11 +1,3 @@
---- Page 1 ---
-<meta>This page serves as a physical divider or protective leaf within the manuscript and contains no written content.</meta>
-
-->[This page is blank]<-
-
-<summary>A blank leaf or flyleaf within the manuscript, containing no text or annotations.</summary>
-<keywords>blank page, flyleaf, manuscript structure</keywords>
-
 --- Page 2 ---
 <meta>Following a blank flyleaf, this page contains the ownership marks and bookplate of the Boston Public Library, detailing its acquisition and cataloging history.</meta>
 
@@ -32,28 +24,6 @@ Added
 
 <summary>This page serves as the official bookplate and ownership record for the Boston Public Library, indicating the manuscript was purchased through the Bates Fund.</summary>
 <keywords>Boston Public Library, Bates Fund, provenance, library seal, bookplate, 19th-century acquisition</keywords>
-
---- Page 3 ---
-<meta>This page is noted as being entirely blank in the source manuscript. No continuity from the previous page is established here.</meta>
-
-*This page is blank.*
-
-<summary>This page of the manuscript contains no text or markings.</summary>
-<keywords>blank page, manuscript gap</keywords>
-
---- Page 4 ---
-<meta>This page is blank.</meta>
-
-<summary>This page of the manuscript contains no text or illustrations.</summary>
-<keywords>blank page, manuscript structure</keywords>
-
---- Page 5 ---
-<meta>This page appears to be a catalog entry or a reference marker within a larger collection, consisting primarily of a reference number.</meta>
-
-* 3740.34 <note>This likely refers to a specific shelfmark or inventory number within the archival collection.</note>
-
-<summary>This page contains a single archival reference number, 3740.34, likely used for cataloging or inventory purposes within the manuscript collection.</summary>
-<keywords>archival reference, inventory number, cataloging</keywords>
 
 --- Page 6 ---
 <meta>This page transitions from a simple archival reference on the previous page to a detailed biographical and bibliographic entry concerning the famous anatomist Andreas Vesalius. It evaluates the quality of his publications and lists his secondary works.</meta>
@@ -95,26 +65,6 @@ At the age of twenty-eight, Vesalius published his work **On the Structure of th
 <summary>This is the famous title page of Andreas Vesalius's "De Humani corporis fabrica," featuring the author's credentials as Imperial Physician and the legal publication privileges. The woodcut illustration (described in metadata) depicts Vesalius conducting a public human dissection, marking a turning point in medical history.</summary>
 
 <keywords>Andreas Vesalius, anatomy, Charles V, Basel, Johannes Oporinus, Renaissance medicine, book history, human dissection</keywords>
-
---- Page 8 ---
-<meta>This page serves as the flyleaf or endpaper of the volume, containing administrative and library accession data rather than the primary manuscript text.</meta>
-
-179
-.555
-.V63D
-
-<unclear>Faint circular stamp, possibly a library stamp, with text like "MASSACHUSETTS" and "LIBRARY" partially visible.</unclear>
-
-3740.34
-
-Patristic School <note>original: "Patr. Sch."; likely referring to the Patristic School or a specific theological collection</note>
-61032
-September 29, 1863
-
-<term>Patristic School</term> <note>A reference to the study of the "Church Fathers," the influential early Christian theologians who established the intellectual foundations of Christianity.</note>, 1863
-
-<summary>This page contains library accession numbers, a faint institutional stamp, and a date of September 29, 1863, marking when the volume was processed into a collection.</summary>
-<keywords>library records, accession numbers, Patristic School, 19th-century archives</keywords>
 
 --- Page 9 ---
 <meta>This page begins the formal dedication of the work to Emperor Charles V. It follows the title page and library markings from the previous leaf.</meta>
@@ -7390,6 +7340,92 @@ The **boards**, truly, which we use with great utility for performing <term>vivi
 <summary>Vesalius describes the secondary kit of the anatomist, including probes for exploring ducts, needles and thread for closing the body to prevent tampering, and heavy tools like saws and mallets for bone work.</summary>
 <keywords>anatomy tools, probes, surgical needles, lithotomy, silk weaving, vessel ligation, gangrene saw, vivisection, medical history</keywords>
 
+--- Page 219 ---
+<meta>Continuing from the previous page's detailed instructions on the needles and probes required for dissection, Vesalius now presents the first of his monumental anatomical illustrations: the fully articulated skeleton. This begins the formal study of osteology, which Vesalius considers the foundation of all anatomical knowledge.</meta>
+
+->BOOK I ON THE STRUCTURE OF THE HUMAN BODY.<-
+
+# THE HUMAN BO-
+## OF THEM JOINED TO-
+### FRONT VIEW.
+
+<column-break/>
+
+# DY’S BONES
+## GETHER FROM THE FRONT
+
+<image-desc>
+A full-page anatomical woodcut from Andreas Vesalius's "De humani corporis fabrica," showing a human skeleton in a frontal (anterior) view. The skeleton is posed naturalistically in a hilly landscape; it leans its right elbow on the handle of a spade that is stuck into the earth, while its left arm is extended downwards. The bones are meticulously detailed and labeled with small letters and numbers for anatomical reference:
+- The ribs are numbered 1 through 7.
+- The skull is marked with letters such as A, B, C, and G.
+- The pelvis and limbs feature letters including O, P, Q, S, T, V, and n.
+- The hands and feet are labeled with various characters including Greek letters like Δ <note>The Greek letter Delta.</note>.
+The background depicts a detailed landscape with rolling hills, distant mountains, and sparse tufts of grass and shrubs.
+</image-desc>
+
+<note>This illustration is one of the most famous in the history of science. Vesalius broke with the tradition of showing "dry" diagrams, instead posing his skeletons in lifelike, dramatic stances. The presence of the spade is a "memento mori"—a reminder of death—suggesting that the skeleton has just dug its own grave or is contemplating its mortal remains.</note>
+
+<summary>This page features the iconic frontal view of the human skeleton from Vesalius's masterwork, marking the beginning of his detailed study of the skeletal system. It combines unprecedented anatomical accuracy with artistic Renaissance landscape elements.</summary>
+
+<keywords>Andreas Vesalius, anatomy, skeleton, osteology, anterior view, woodcut illustration, Renaissance science, memento mori</keywords>
+
+--- Page 220 ---
+<meta>Following the frontal view of the skeleton on the previous page, Vesalius now presents the lateral (side) view. This illustration, famously known as the "Thinking Skeleton," shifts the focus from purely structural anatomy to a philosophical reflection on mortality, a common theme in Renaissance science.</meta>
+
+# ANDREAS VESALIUS’S DELINEATION
+## OF THE BONES OF THE HUMAN BODY
+### FROM THE SIDE.
+
+<image-desc>A celebrated anatomical woodcut from Andreas Vesalius's "De humani corporis fabrica" (1543), depicting a human skeleton in a melancholic or "Thinking" pose. The skeleton is viewed from a posterior-lateral perspective, leaning its right elbow on a high, classically styled stone pedestal. Its skull is bowed, resting against the right hand, while the left hand lies atop another human skull placed on the pedestal's surface. A hyoid bone, labeled "H" <note>The hyoid is a U-shaped bone in the neck that supports the tongue; it is often lost in skeletal preparations, so Vesalius highlights it here.</note>, sits nearby on the pedestal. The skeleton's bones are extensively marked with Greek and Roman letters (including A, B, Γ, Δ, k, K, R, m, M, T, l, Π, Σ, χ, φ) for anatomical identification. The pedestal is decorated with a frieze of rosettes and features a central plaque with an inscription. The scene is set on a patch of rocky earth with minimal vegetation.</image-desc>
+
+->GENIUS<-
+->LIVES ON,<-
+->ALL ELSE SHALL<-
+->BELONG TO DEATH.<-
+<note>original: "VIVITVR INGENIO, CAETERA MORTIS ERVNT." This famous Latin motto suggests that while the physical body is temporary and subject to decay, the products of the mind and the spirit are immortal.</note>
+
+<note>This pose is a masterpiece of Renaissance art and science. By placing the skeleton in the "Philosopher" or "Melancholy" pose—contemplating a detached skull—Vesalius uses the <term>memento mori<note>Latin for "remember you must die"; an artistic or symbolic reminder of the inevitability of death.</note></term> tradition to make the study of dry bones a profound meditation on the human condition. The anatomical precision remains high, with the Greek and Roman letters serving as a key to the detailed descriptive text that accompanies these plates in the original volume.</note>
+
+<summary>This page displays the iconic lateral view of the skeleton, famously depicted in a pensive pose leaning on a pedestal. It combines technical osteological detail with a poignant humanist reflection on the permanence of the intellect versus the fragility of the body.</summary>
+<keywords>Andreas Vesalius, Thinking Skeleton, osteology, memento mori, hyoid bone, Renaissance anatomy, Latin motto, mortality</keywords>
+
+--- Page 221 ---
+<meta>This page follows the lateral (side) view of the skeleton. While the previous page focused on the "Thinking Skeleton" and its philosophical implications, the text and headings here transition to the third major skeletal plate in Vesalius’s work: the posterior (back) view, completing the three-dimensional survey of the human frame.</meta>
+
+# ON THE FABRIC OF THE HUMAN BODY, BOOK I.
+
+# OF THE BODY
+## *POSTERIOR ASPECT*
+
+<column-break/>
+
+# HUMAN BONES,
+## *PRESENTED FROM THIS VIEW.*
+
+<image-desc>
+A full-page anatomical woodcut of a human skeleton, viewed from a three-quarters posterior perspective. The skeleton is posed in a dramatic, contemplative, or sorrowful stance, leaning forward with its head bowed and its hands held together near its face. It stands in a sparse landscape with rocky ground and a gnarled, broken tree stump on the far left. The skeleton is meticulously rendered and densely annotated with reference marks for anatomical study. These include Arabic numerals 1 through 12 on the ribs, as well as various Latin and Greek characters (such as α, β, γ, Δ, Π, Σ) positioned on the skull, vertebrae, scapulae, pelvis, and the long bones of the arms and legs.
+</image-desc>
+
+<sig>t</sig>
+<meta>catchword: CHARA-</meta>
+
+# ANDREAS VESALIUS’S DELINEATION
+## OF THE BONES OF THE HUMAN BODY
+### FROM THE SIDE.
+
+<image-desc>A celebrated anatomical woodcut from Andreas Vesalius's "De humani corporis fabrica" (1543), depicting a human skeleton in a melancholic or "Thinking" pose. The skeleton is viewed from a posterior-lateral perspective, leaning its right elbow on a high, classically styled stone pedestal. Its skull is bowed, resting against the right hand, while the left hand lies atop another human skull placed on the pedestal's surface. A hyoid bone, labeled "H" <note>The hyoid is a U-shaped bone in the neck that supports the tongue; it is often lost in skeletal preparations, so Vesalius highlights it here.</note>, sits nearby on the pedestal. The skeleton's bones are extensively marked with Greek and Roman letters (including A, B, Γ, Δ, k, K, R, m, M, T, l, Π, Σ, χ, φ) for anatomical identification. The pedestal is decorated with a frieze of rosettes and features a central plaque with an inscription. The scene is set on a patch of rocky earth with minimal vegetation.</image-desc>
+
+->GENIUS<-
+->LIVES ON,<-
+->ALL ELSE SHALL<-
+->BELONG TO DEATH.<-
+<note>original: "VIVITVR INGENIO, CAETERA MORTIS ERVNT." This famous Latin motto suggests that while the physical body is temporary and subject to decay, the products of the mind and the spirit are immortal.</note>
+
+<note>This pose is a masterpiece of Renaissance art and science. By placing the skeleton in the "Philosopher" or "Melancholy" pose—contemplating a detached skull—Vesalius uses the <term>memento mori<note>Latin for "remember you must die"; an artistic or symbolic reminder of the inevitability of death.</note></term> tradition to elevate a medical diagram into a reflection on the human condition. The annotations (Greek and Latin letters) serve as a cross-reference to the dense descriptive text in the following chapters, allowing the student to identify every process, groove, and suture of the bone.</note>
+
+<summary>This page features the third major skeletal illustration of the Fabrica, showing the posterior and lateral views of the human skeleton. It is world-renowned for combining precise anatomical detail with a philosophical "memento mori" theme, emphasized by the inscription on the pedestal.</summary>
+<keywords>osteology, posterior view, memento mori, Thinking Skeleton, human anatomy, Andreas Vesalius, Renaissance art, skeletal system</keywords>
+
 --- Page 222 ---
 <meta>This page continues the detailed indexing of anatomical structures from the preceding illustrations of the human skeleton. Vesalius is categorizing and naming the bones using a multilingual approach characteristic of Renaissance scholarship.</meta>
 
@@ -7588,6 +7624,30 @@ As for why I have arranged the images of the muscles into these full-body tables
 
 <summary>In this preface to Book II, Vesalius explains the pedagogical logic behind his famous sequential muscle plates, arguing that showing the body in full, layer by layer, is superior to showing isolated parts for the student's understanding.</summary>
 <keywords>muscles, ligaments, anatomical plates, dissection method, Book II, anatomical labels, pedagogy</keywords>
+
+--- Page 226 ---
+<meta>This page follows the technical introduction to Book II. Having just explained how the muscle plates are organized and how they should be viewed in sequence (front to back and layer by layer), Vesalius now presents the very first of these iconic "muscle men."</meta>
+
+ANDREAS VESALIUS, ON THE BODY <note>original: "AND. VESALII DE CORPORIS"; part of the full title *De humani corporis fabrica* (On the Fabric of the Human Body).</note>
+
+# THE FIRST
+## TABLE
+## OF THE
+## MUSCLES.
+
+<image-desc>
+An anatomical woodcut from Andreas Vesalius's "On the Fabric of the Human Body," specifically the "First Table of Muscles." The illustration features a full-length male figure standing in an anterior <note>front</note> view, with the skin removed to reveal the superficial <note>surface</note> layer of musculature. The figure's head is tilted back and slightly toward its left shoulder. The arms are held out from the body with palms facing forward. 
+
+The muscles are intricately detailed with fine lines indicating the direction of the fibers. Various anatomical structures are labeled with a series of Latin and Greek characters (for example: A, B, C, D, E, F on the neck; G through R on the torso; T, V, X, Y, Z and lowercase a through k on the arms; and lowercase l through z and Greek letters alpha, beta, gamma, delta, epsilon, zeta, eta on the legs).
+
+The figure is set against a sprawling, detailed landscape background that suggests a specific geographical or allegorical setting. To the left, there is a city with architectural features like bridges, towers, and houses along a river. To the right, the terrain is more rugged and includes structures that resemble obelisks and a pyramid, possibly evoking a classical or Egyptian motif <note>The background is often attributed to the studio of Titian and depicts the Euganean Hills near Padua.</note>. The ground upon which the figure stands is uneven and rocky.
+</image-desc>
+
+<vocab>FIRST TABLE OF MUSCLES, Andreas Vesalius, anatomy, musculature, woodcut</vocab>
+
+<summary>This page features the iconic first "muscle man" illustration from Book II, showing the superficial muscles of the human body in a classical landscape. It marks a revolutionary moment in medical history where art and science combined to show the body in a lifelike, standing posture despite being dissected.</summary>
+
+<keywords>musculature, Andreas Vesalius, anatomical illustration, Renaissance science, myology, woodcut, Padua landscape</keywords>
 
 --- Page 227 ---
 <meta>This page continues the detailed index of anatomical features for the first muscle plate in Vesalius's "De humani corporis fabrica," following the initial description of the body's superficial layers.</meta>
@@ -7914,6 +7974,35 @@ BOOK II ON THE STRUCTURE OF THE HUMAN BODY.
 <summary>This page concludes the detailed labeling of the lower leg and foot muscles from the second anatomical plate and begins the index for the third plate, focusing on the superficial muscles of the face and the platysma of the neck.</summary>
 <keywords>lower leg muscles, foot anatomy, facial muscles, platysma, myology, Vesalius, tendons, ligaments, zygomatic bone</keywords>
 
+--- Page 234 ---
+<meta>This page presents the Third Muscle Plate (Tabula III) of Book II. It serves as the visual reference for the anatomical markers discussed at the end of the previous page and the pages following. While the previous page ended with the description of the "largest muscle for..." (likely referring to the muscles of the leg from the second plate), this page shifts the viewer's focus to the superficial musculature of the anterior (front) view of the human body.</meta>
+
+ANDREAS VESALIUS, ON THE STRUCTURE OF THE HUMAN BODY
+
+# THIRD
+## MUSCLE PLATE.
+
+<image-desc>
+A full-page woodcut illustration from Andreas Vesalius's *On the Fabric of the Human Body* (1543). The image depicts a flayed human male in an anatomical study of the superficial muscles <note>the muscles closest to the skin</note>, viewed from the front. The figure is posed dynamically, standing in a *contrapposto* position <note>a classical pose where the weight is shifted onto one leg</note> with the head turned to his right and arms extended outwards.
+
+**Anatomical details:**
+The musculature of the entire body is revealed with fine lines indicating muscle fibers. The figure is annotated with numerous small Roman and Greek letters acting as keys for anatomical identification.
+- **Head and Neck:** Labeled with **A, B, C, D, E, F, G, H, I**, and the Greek letter **$\Gamma$** <note>gamma</note>. These point to the muscles of facial expression, the jaw, and the large "fleshy membrane" (platysma) of the neck.
+- **Torso:** Labeled with **R** on the chest <note>the pectoralis major</note>; **S, T, V,** and **X** on the abdomen <note>the rectus abdominis and external obliques</note>; and the Greek letter **$\Delta$** <note>delta</note> on the right shoulder area.
+- **Arms:** The left arm (viewer's left) is labeled **L**. The right arm (viewer's right) is more extensively labeled with **N, O,** and **P** at the shoulder, and a series of lowercase letters (**a** through **q**) on the forearm and hand, showing the complex layering of the muscles that move the fingers.
+- **Legs:** The left thigh is marked **M**. The right leg features lowercase letters (**r** through **z**) and several Greek letters including **$\Phi$** <note>phi</note>, **$\Lambda$** <note>lambda</note>, **$\Xi$** <note>xi</note>, **$\Psi$** <note>psi</note>, and **$\Omega$** <note>omega</note>.
+
+**Background:**
+The figure stands in a detailed Italianate landscape. To the left is a hilly terrain with clusters of deciduous trees. To the right, in the distance across a body of water, is a cityscape featuring walls, towers, and a prominent dome. 
+<note>This landscape is widely believed to depict the Euganean Hills and the countryside around Padua, Italy, where Vesalius conducted his dissections. The woodcuts are often attributed to the workshop of the artist Titian.</note>
+</image-desc>
+
+<vocab>Andreas Vesalius, *De humani corporis fabrica* <note>On the Fabric of the Human Body</note>, anatomy, musculature, <term>myology</term> <note>the study of the muscular system</note>, woodcut, Renaissance medicine, anatomical plate</vocab>
+
+<summary>This page features the iconic Third Muscle Plate, showcasing the superficial anterior muscles of a human figure set against a panoramic landscape of the Venetian countryside. It is one of the most famous anatomical illustrations in history, blending rigorous scientific observation with High Renaissance artistic sensibility.</summary>
+
+<keywords>superficial muscles, front view, anatomy, Renaissance art, woodcut, Padua, musculature, myology, Andreas Vesalius</keywords>
+
 --- Page 235 ---
 <meta>This page continues the index and description of the muscles depicted in the second anatomical plate of Book II, following the descriptions of the head and upper torso.</meta>
 
@@ -8026,6 +8115,33 @@ $S, T$ The right and left muscles of the bone resembling the upsilon, arising fr
 <summary>This page concludes a detailed index of the muscles of the leg and foot and begins a new index for the fourth anatomical plate, which focuses on the muscles of the face, jaw, and neck, including the masseter and the hyoid bone.</summary>
 
 <keywords>shin muscles, foot tendons, big toe, masseter, temporal muscle, hyoid bone, facial nerves, Andreas Vesalius, anatomical dissection</keywords>
+
+--- Page 237 ---
+<meta>This page concludes the descriptions for the previous anatomical plates regarding the muscles of the lower limb and introduces the Fourth Table of Muscles. Although the previous page indicated a transition to the head and neck, this section finishes the leg anatomy of the preceding figures before the Fourth Table's specific index begins.</meta>
+
+->THE FABRIC OF THE HUMAN BODY, BOOK II.<-
+
+u 3
+
+### FOURTH TABLE OF MUSCLES.
+
+For whatever is held toward the outside of that unequal line of section or side, it is still the membrane or tendon of the sixth muscle.
+
+$\alpha$ Ninth muscle of those moving the shin bone <note>Latin: *tibia*</note>.
+$\beta$ Eighth muscle of those moving the shin bone, seen more clearly on the left leg than the right; it is revealed by the sixth muscle, which is the primary driver of the shin's movement. I have not applied a character <note>Vesalius refers to the letters/numbers on the illustration as "characters"</note> to the seventh muscle moving the shin; for although it seems to bulge out in some way under the tendon or membrane of the sixth muscle (just as it does under the skin in muscular men), in this figure no portion of it is revealed.
+$\gamma$ In the region of the groin <note>Latin: *inguinum*</note>, the muscles are indicated which we shall review as the sixth and seventh of those moving the thigh bone <note>Latin: *femur*</note>. Furthermore, $\gamma$ also suggests the glands of the groin, together with the cavity from which I have cut away the vessels seeking the leg.
+$\delta$ Eighth muscle of those moving the thigh bone.
+$\epsilon$ Second muscle of the makers of movement for the shin bone, whose tendon is shown by the character 2.
+$\zeta, \eta$ The part of the shin bone <note>tibia</note> devoid of flesh; however, $\eta$ specifically marks the inner ankle bone <term>malleolus | the bony prominence on the inner side of the ankle</term>.
+$\theta$ Sixth muscle of those moving the foot. Its origin is indicated by $\theta$, while $u$ indicates the beginning of its tendon, the path of which 
+$\iota, \kappa$ is manifest without the placement of characters, although $\xi$ shows the seat, as it were, of its insertion.
+$\lambda$ Seventh muscle of those moving the foot.
+$\mu$ The tendon of the muscle extending the big toe <note>Latin: *pollicem*</note>.
+$\nu$ The muscle extending...
+
+<summary>This page provides an anatomical index for a muscle plate, focusing on the deep musculature of the leg, including the shin, thigh, and foot. It serves as a transition from the third to the fourth "table" of muscles in Vesalius's landmark work.</summary>
+
+<keywords>anatomy, leg muscles, shin bone, thigh bone, groin, tendons, ankle, big toe, Andreas Vesalius, Renaissance medicine</keywords>
 
 --- Page 238 ---
 <meta>This page continues the detailed anatomical descriptions keyed to the Ninth Plate of the muscles, following the previous page's focus on the superficial layers. Here, Vesalius describes the deeper muscles of the neck, chest, abdomen, and the complex structures of the hands and male reproductive organs.</meta>
@@ -8168,6 +8284,49 @@ $S, T$ The right and left muscles of the bone resembling the upsilon, arising fr
 
 <summary>This page concludes the detailed key for the muscles of the leg and foot in the fourth anatomical plate and introduces the index for the fifth plate, which focuses on the deeper muscles of the face, jaw, and neck.</summary>
 <keywords>femur, tibia, masseter, temporal muscle, dissection plates, myology, Vesalius, anatomy, lower jaw, foot muscles</keywords>
+
+--- Page 240 ---
+<meta>This page provides the title and introductory legend for the Fifth Table of Muscles. It serves as a transition point in the "Fabrica," concluding the detailed index of the fourth plate—which focused on the muscles of the leg and foot—and introducing a new stage of dissection that reveals deeper muscular structures.</meta>
+
+ANDREAS VESALIUS, ON THE STRUCTURE OF THE HUMAN BODY.
+
+# THE FIFTH
+## TABLE OF
+### THE MUS-
+### CLES.
+
+<image-desc>
+A detailed anatomical woodcut from Andreas Vesalius's "De humani corporis fabrica," depicting the "Fifth Table of Muscles." The image features a full-length male figure standing in a landscape, viewed from a posterior-lateral angle. The skin and superficial muscle layers have been partially dissected or reflected to reveal deeper musculature of the back, neck, shoulders, and limbs. 
+
+The musculature is densely annotated with various Latin and Greek characters (such as A, B, C, Δ, Φ, and γ) serving as reference keys. The figure's right arm (on the left side of the print) hangs down, with a long strip of tissue dangling from the hand. The left arm is extended and slightly raised. 
+
+The figure stands on a rocky outcrop in the foreground. In the background, a detailed landscape shows a sprawling Renaissance-era town with diverse architectural features including gabled houses, church steeples, and fortified towers, set against a horizon of rolling hills.
+</image-desc>
+
+<margin>$\epsilon$</margin> *The letter* $\epsilon$ *marks the position of the larger, outer process of the thigh bone <note>original: "processus"; this refers to the greater trochanter of the femur, the prominent "bump" on the outside of the upper hip</note>.*
+
+<margin>$\phi$</margin> *The ninth muscle that moves the shin bone <note>The semitendinosus muscle, which helps flex the knee</note>. Its origin begins above the hip joint and is marked here with $o$.* 
+
+<margin>$o, \omega, \rho$</margin> *The letter $\omega$ indicates the start of its tendon; $\rho$ indicates the point where the tendon of this muscle merges with other tendons.*
+
+<margin>$s$</margin> *The seventh muscle that moves the thigh <note>The adductor longus, responsible for pulling the leg toward the body's midline</note> is seen descending here.*
+
+<margin>$\tau$</margin> *The sixth muscle that moves the thigh <note>The pectineus muscle</note>, seen here creeping forward with its tendon alongside the seventh muscle.*
+
+<margin>$\upsilon$</margin> *On the left thigh, the muscle marked $\upsilon$ is the eighth of those moving the thigh <note>The adductor magnus, the largest of the inner thigh muscles</note>.*
+
+<margin>$\varphi$</margin> *The front portion of the fifth muscle serving the movements of the thigh <note>The gluteus medius, which assists in rotating the thigh and stabilizing the pelvis</note> is visible here.*
+
+<margin>$\chi$</margin> *The second muscle moving the shin bone <note>The gracilis muscle, a long, thin muscle on the inside of the thigh</note>.*
+
+<margin>$\psi$</margin> *The eighth muscle moving the shin bone <note>The semimembranosus muscle, one of the three hamstring muscles</note>.*
+
+<margin>$\omega$</margin> *The seventh muscle moving the shin bone <note>The sartorius muscle</note>, marked on the right thigh because it is more clearly visible in that position <note>The sartorius is the longest muscle in the human body, running down the length of the thigh</note>.*
+
+<margin>2</margin> *The first muscle moving the shin bone <note>The rectus femoris, part of the quadriceps group</note>, which has been cut away from the spine of the hip bone <note>original: "ilium ossis spina"</note> and...*
+
+<summary>This page introduces the Fifth Table of Muscles, featuring a striking woodcut of a partially dissected figure against a landscape, while continuing the technical index of the leg muscles from the previous plate.</summary>
+<keywords>Andreas Vesalius, Fifth Table of Muscles, anatomy, myology, leg muscles, greater trochanter, hamstrings, quadriceps, Renaissance science</keywords>
 
 --- Page 241 ---
 <meta>This page continues the detailed anatomical description of the Seventh Table of muscles, focusing on the neck, thorax, and abdominal region. Vesalius continues to compare human anatomy with the descriptions provided by Galen, often noting where Galen's observations were based on animal rather than human dissection.</meta>
@@ -8346,6 +8505,44 @@ The head of the sixth table is tilted backwards, and it shows the lower jaw divi
 <summary>This page provides a detailed anatomical key for the Sixth Table of muscles, identifying parts of the jaw, throat, chest, and abdominal wall. It notably includes a comparison between human anatomy and the canine anatomy described by Galen.</summary>
 <keywords>myology, jaw muscles, Vesalius, Galen, intercostal muscles, abdominal muscles, biceps brachii, anatomy history</keywords>
 
+--- Page 244 ---
+<meta>This page continues the detailed anatomical descriptions of the muscles, focusing on the Sixth Table. It transitions from the muscles of the jaw and throat to the chest, abdomen, and the muscles of the shoulder and upper arm.</meta>
+
+->ANDREAS VESALIUS ON THE BODY'S<-
+
+# SIXTH
+## MUSCLE-
+## TABLE.
+
+ON THE FABRIC OF THE HUMAN BODY, BOOK II.
+
+# INDEX OF THE CHARACTERS FOR THE SIXTH TABLE OF MUSCLES,
+## WHICH THE FOLLOWING PAGE
+### PRESENTS.
+
+The head of the sixth table is tilted backwards, and it shows the lower jaw divided at the tip of the chin and pulled apart to the sides.
+
+<margin>A</margin> Here, the same portion of the zygomatic bone <note>original: *iugalis ossis*; commonly known as the cheekbone</note> has been cut away as we also removed in the fifth table. However, **A** specifically marks the temporal muscle, now that the <term>masseter muscle</term> <note>original: *mansorio musculo*; the primary muscle used for chewing</note> has been removed.
+
+<margin>B</margin> The sharp process of the lower jaw <note>the coronoid process</note>, into which the temporal muscle is very strongly inserted.
+
+<margin>C</margin> The left part of the lower jaw.
+
+<margin>D</margin> A muscle hiding within the mouth <note>the medial pterygoid muscle</note>, which is inserted into the inner seat of the lower jaw where it is widest; it is considered the third of those moving the jaw.
+
+<margin>E</margin> The <term>uvula</term> <note>original: *gurgulio*; the small fleshy piece hanging at the back of the throat</note>, hanging down from the end of the palate.
+
+<margin>F</margin> The left gland, not unlike an almond <note>the tonsil</note>, placed at the most prominent seat of the <term>larynx</term> <note>the voice box</note>; though it sits a little higher in the throat than the larynx.
+
+<margin>G</margin> The tongue; however, the upper part of the character is adjacent to the lid of the larynx <note>the epiglottis</note>.
+
+<margin>H</margin> In this seat, many muscles serving the movements of the head and neck are blended together.
+
+<margin>I</margin> The muscle pulling the lower jaw downward <note>the digastric muscle, which Vesalius counts as the sixth pair of muscles involved in jaw movement</note>.
+
+<summary>This page provides a detailed index for the Sixth Table of Muscles, identifying the deep structures of the jaw, throat, and tongue revealed after the superficial layers have been removed.</summary>
+<keywords>Andreas Vesalius, anatomy, muscle index, jaw muscles, temporal muscle, masseter, uvula, larynx, digastric muscle</keywords>
+
 --- Page 245 ---
 <meta>This page continues the detailed anatomical descriptions of the muscles of the extremities, specifically focusing on the deep muscles of the hand, the thigh, and the lower leg, following the sequence of Vesalius's famous anatomical "tables" or plates.</meta>
 
@@ -8396,6 +8593,35 @@ x SEPTI- <meta>catchword: SEVENTH-</meta>
 
 <summary>This page provides a detailed identification of the muscles and tendons of the hands and legs, keyed to Vesalius's anatomical illustrations. It describes the complex layering of flexor tendons in the fingers and the various muscles that rotate and move the thigh and foot.</summary>
 <keywords>myology, tendons, hand anatomy, leg muscles, femur, tibia, fibula, Vesalius, Renaissance medicine</keywords>
+
+--- Page 246 ---
+<meta>This page follows the anatomical sequence of Andreas Vesalius’s "Tables," transitioning from the superficial muscles shown in the previous plates to the deeper layers of the human musculature. It continues the detailed identification of the muscles of the extremities.</meta>
+
+<page-num>230</page-num>
+<header>ANDREAS VESALIUS ON THE [FABRIC] OF THE BODY</header>
+
+# THE SEVENTH
+# TABLE OF
+### MUS-
+### CLES.
+
+<note>original: "SEPTIMA MUSCULORUM TABULA"</note>
+
+# THE FABRIC OF THE HUMAN BODY, BOOK II.
+
+<margin>$\gamma, r$</margin> The posterior muscle of those flexing the elbow <note>This refers to the brachialis muscle, viewed from a specific angle</note>.
+<margin>$\int$</margin> The muscle responsible for extending the elbow, whose origin arises from the lower border of the shoulder blade <note>The long head of the <term>triceps brachii</term>, the large muscle on the back of the upper arm</note>.
+<margin>$\Lambda$</margin> The longest muscle of those moving the <term>radius</term> <note>the outer and shorter of the two bones of the forearm</note>, whose highest part, which can be seen here, is indicated by $\iota$; for its
+<margin>$\iota, \kappa$</margin> origin can be seen in the ninth table of muscles, where this muscle is marked with X, just as the tenth
+<margin>$u$</margin> table shows it with the letter e. Moreover, in this table, $u$ marks the insertion of the present muscle, which it accomplishes into the lower process of the radius <note>This muscle is known today as the <term>brachioradialis</term></note>.
+<margin>$x$</margin> The upper of the two muscles that turn the radius prone <note>The <term>pronator teres</term>, a muscle that helps rotate the palm to face downward</note>.
+<margin>$\Xi$</margin> The muscle flexing the third bone of the four fingers <note>The <term>flexor digitorum profundus</term>, which allows for deep bending of the fingers</note>; and $\alpha$ indeed indicates the head of this muscle. $\beta$ moreover shows the place
+<margin>$\alpha, \beta$</margin> where the muscle is divided into four fleshy parts, which later extend the individual tendons. Furthermore, the way in which the tendons of this muscle are extended to the third joint of the fingers, and the tendons of the muscle lying upon it
+<margin>$\gamma$</margin> pass through, is visible here in both hands. However, for the sake of instruction, let $\gamma$ be the tendon approaching the t... <unclear>tendon</unclear> <note>The text cuts off, likely referring to the way the deep flexor tendons pass through the "slits" in the superficial flexor tendons—a classic anatomical observation by Vesalius</note>
+
+<summary>This page presents the "Seventh Table of Muscles," a famous anatomical woodcut depicting a partially dissected cadaver suspended by a rope to reveal deep muscular structures. The accompanying text provides a technical guide to the muscles of the forearm and elbow, detailing their origins, insertions, and functions in movement.</summary>
+
+<keywords>Andreas Vesalius, De humani corporis fabrica, anatomy, myology, Seventh Table, muscle man, forearm muscles, brachioradialis, dissection, 16th-century medicine</keywords>
 
 --- Page 247 ---
 <meta>This page continues the detailed anatomical descriptions from Book II of Vesalius's work, specifically providing the index for the seventh muscle table. It follows the sixth table's discussion of superficial musculature by moving into deeper layers.</meta>
@@ -8450,6 +8676,35 @@ The body in the *SEVENTH* muscle table, having had the cord by which it hung dur
 
 <summary>This page provides a comprehensive index for the seventh anatomical table, detailing the deep muscles of the throat, neck, arms, and hands. It specifically highlights the structure of the diaphragm (transverse septum) shown both in the body and as an isolated organ.</summary>
 <keywords>anatomy, Vesalius, diaphragm, transverse septum, forearm muscles, hand muscles, thoracic anatomy, Renaissance medicine, dissection</keywords>
+
+--- Page 248 ---
+<meta>This page follows the index for the seventh muscle table. While the previous plate showed the body from the front and slightly fallen to reveal the diaphragm, this eighth table shifts the perspective to the rear (posterior) view, focusing on the deep muscles of the spine, neck, and limbs.</meta>
+
+-># ANDREAS VESALIUS, ON THE STRUCTURE OF THE HUMAN BODY: EIGHTH TABLE OF MUSCLES.<-
+
+This illustration presents a full-length anatomical figure viewed from behind. In a characteristic blend of science and art, the figure is placed within a landscape, leaning against a tall, ruined stone pillar. This pose is not merely for dramatic effect; by leaning the body and tilting the head sharply backward, the <term>musculature<note>The arrangement or system of muscles in the body.</note></term> is stretched and positioned to reveal the deep layers of the back, the spinal column, and the internal anatomy of the throat.
+
+The body has been partially <term>flayed<note>The process of removing skin and superficial tissue to expose the structures beneath.</note></term> to expose the layers beneath the surface. You can see the intricate muscles of the neck and the sturdy bones of the <term>pelvis<note>The large bony structure at the base of the spine.</note></term>. 
+
+### Anatomical Labels
+
+The figure is extensively labeled to guide the student of anatomy. These markers include:
+
+*   **Latin Letters:** Both uppercase (**A** through **Z**) and lowercase (**a** through **z**) are used to identify specific muscles and bony landmarks.
+*   **Greek Letters:** Vesalius employs characters such as **Θ** (Theta), **Λ** (Lambda), **Π** (Pi), **Σ** (Sigma), **Φ** (Phi), and **Ψ** (Psi) to denote deeper structures.
+*   **Special Symbols:** The symbol **⊙** is used to pinpoint exact locations of muscle attachments.
+
+### The Larynx Inset
+
+In the lower-left corner of the page, there is a separate, detailed diagram. This inset focuses exclusively on the <term>larynx<note>The voice box, located in the throat.</note></term> and its associated muscles. 
+
+**1, 2, 3...** These Arabic numerals mark the various cartilages and muscles that facilitate breathing and speech.
+**α, β, γ, δ** These Greek letters <note>original: alpha, beta, gamma, delta</note> identify the smaller, delicate muscles that control the tension of the vocal cords.
+
+The background, featuring a crumbling wall and rolling hills, serves to remind the viewer of the transience of life—a common theme in Renaissance anatomical art—while the figure itself provides an enduring map of human construction.
+
+<summary>This page features the eighth anatomical woodcut of the muscles, depicting a posterior view of the human body with deep dissections of the spine and neck. It includes a specialized inset detailing the anatomy of the larynx.</summary>
+<keywords>Andreas Vesalius, anatomy, musculature, posterior view, larynx, myology, woodcut, Renaissance science</keywords>
 
 --- Page 249 ---
 <meta>This page continues the detailed anatomical descriptions of the muscles of the human body, specifically focusing on the eighth table of muscles. It provides a key for the diagrams illustrating the deeper layers of the torso, arms, and legs, following the sequential dissection described in the previous pages of Book II.</meta>
@@ -8509,6 +8764,23 @@ m The front area of the shin bone, entirely free of any muscle.
 
 <summary>This page provides a detailed index and anatomical description for the eighth muscle table, focusing on the deep muscles of the torso, forearm, and thigh. It highlights the removal of the breastbone to show internal chest structures and details the nerves emerging from the sacrum.</summary>
 <keywords>anatomy, muscle identification, Vesalius, femur, intercostal muscles, scapula, radius, ulna, sacrum, patella, dissection</keywords>
+
+--- Page 250 ---
+<meta>This page marks a significant transition in the volume, moving from the anterior (front) views of the muscular system to the first major posterior (rear) view. It introduces the Ninth Table, which focuses on the muscles of the back, the occiput, and the posterior aspects of the limbs, continuing the sequential dissection narrative established in the preceding chapters.</meta>
+
+ANDREAS VESALIUS, ON THE [HUMAN] BODY <note>The Latin header *And. Vesalii de corporis* is an abbreviation of the full title *De humani corporis fabrica*, meaning "On the Fabric of the Human Body."</note>
+
+## NINTH
+## OF MUS-
+## CLES <note>original: "MUSCULORUM"</note>
+### *table.*
+
+<image-desc>
+A detailed anatomical woodcut from Andreas Vesalius's "De humani corporis fabrica," depicting the human muscular system from a posterior (rear) view. The male figure is shown standing in a landscape, with his head turned to the left profile. The muscles are expertly rendered and extensively labeled with a variety of characters including uppercase Latin letters (A, B, C, D, E, F, G, H, I, K, L, M, N, O, P, Q, R, S, T, V, X, Y, Z), lowercase Latin letters (a, b, c, d, e, f, g, h, i, k, l, m, n, o, p, q, r, s, t, u, x, y, z), and Greek characters (α, β, γ, Δ, Θ, Γ, Λ), as well as symbols like asterisks (*). The background features a detailed landscape of a city or large town with distinctive Renaissance architecture, including domes, towers, and multi-story buildings, set against a low horizon.
+</image-desc>
+
+<summary>This page features the Ninth Table of Muscles, providing the first comprehensive posterior view of the human muscular system in the work. The illustration is famous for its "muscle man" pose set against a continuous landscape that connects with other plates in the series.</summary>
+<keywords>Andreas Vesalius, Ninth Table, posterior view, muscular system, Renaissance anatomy, anatomical illustration, back muscles</keywords>
 
 --- Page 251 ---
 <meta>This page continues the detailed anatomical indexing of Book II, following the descriptions of the lower limb and transitioning into the back and upper body in the ninth muscle plate. It maintains the systematic reference to previous and upcoming illustrations.</meta>
@@ -8670,6 +8942,43 @@ The NINTH plate is the first to show the entire back view of the body. It has no
 <summary>This page provides a detailed index for the Tenth Muscle Plate, identifying muscles of the back, shoulder, and arm as they appear during a deeper stage of dissection. It specifically focuses on the layers of the shoulder blade, the mechanics of the forearm, and the complex tendons governing the thumb and fingers.</summary>
 <keywords>Vesalius, anatomy, shoulder muscles, scapula, latissimus dorsi, forearm muscles, thumb tendons, wrist extension, 16th century medicine</keywords>
 
+--- Page 254 ---
+<meta>This page provides the descriptive key for the Tenth Table of Muscles in Book II. It continues the anatomical sequence from the ninth table, moving deeper into the musculature of the back and shoulders by removing or reflecting the most superficial layers.</meta>
+
+# ANDREAS VESALIUS ON THE [STRUCTURE] OF THE [HUMAN BODY]
+
+## THE TENTH
+### TABLE OF
+### MUSCLES.
+
+*In this tenth of all the tables, and the second depicting the rear <note>posterior</note> view, several muscles that were fully visible in the preceding table now hang down, having been removed in the course of dissection; many not met with in that one show themselves here. However, meanwhile, that muscle which we marked with Γ <note>Gamma</note> and Δ <note>Delta</note> in the ninth table <note>the trapezius muscle</note> has been entirely removed, because it could not have aptly shown its form while hanging, and would have occupied the view of certain other muscles.*
+
+**A** *The right muscle of the first pair of those moving the head.*
+
+**B,B** *The right muscle of the second pair of those moving the head.*
+
+**C** *The third muscle of those moving the shoulder blade <term>scapula: the flat, triangular bone at the back of the shoulder</term>.*
+
+**D** *The collarbone <term>clavicula</term>, denuded of its muscle in the course of dissection.*
+
+**E** *The third muscle of the movers of the human chest <term>thorax</term>, which will be marked with the letter F in the following table.*
+
+**Γ** <note>Gamma</note> *The fourth muscle of those moving the shoulder blade <note>the rhomboid muscle</note>, whose first side is drawn to several spines of the back <note>dorsal</note> vertebrae, measured from G to H. The second side, belonging to the base of the shoulder blade, extends from I to K. The third side extends from I, K, G to I, and the fourth from H to K.*
+
+**L** *The fifth muscle of those moving the arm <note>the supraspinatus</note>, located between the spine of the shoulder blade and the higher edge <note>rib</note> of the shoulder blade.*
+
+**M** *The spine of the shoulder blade and the top of the shoulder...* <note>The text concludes on the following page.</note>
+
+***
+
+### [Description of the Illustration]
+
+The accompanying woodcut depicts a flayed male figure standing in a vast, serene Renaissance landscape. The figure is viewed from the back, displaying the second layer of musculature. To demonstrate the depth of the anatomy, Vesalius has his "muscle man" hold strips of his own dissected flesh; notably, the large muscle of the buttocks <note>the gluteus maximus</note> is peeled back on the left side to reveal the deeper structures of the hip. The figure points toward the horizon with his right hand, a pose that serves both to display the muscles of the arm and to add a sense of life and "memento mori" (a reminder of mortality) to the scientific study.
+
+<summary>This page serves as the legend for the Tenth Table of Muscles, explaining the deeper muscular structures revealed after the removal of the trapezius. It highlights Vesalius's technique of "layering" anatomy to show how muscles sit beneath one another.</summary>
+
+<keywords>myology, scapula, rhomboids, gluteus maximus, posterior view, Renaissance anatomy, dissection technique</keywords>
+
 --- Page 255 ---
 <meta>This page continues the detailed anatomical key for the muscle plates of the leg, specifically focusing on the posterior view of the thigh and lower leg, following the descriptions of the gluteal and femoral muscles.</meta>
 
@@ -8700,6 +9009,35 @@ s The second muscle moving the tibia.
 <summary>This page provides a detailed legend for an anatomical plate of the leg's musculature and the sciatic nerve. Vesalius describes the attachments of various muscles and warns of the clinical importance of the peroneal nerve branch when applying cautery to the leg.</summary>
 
 <keywords>Sciatic nerve, popliteal space, cauterization, femur muscles, tibia muscles, ligaments, 16th-century surgery, anatomy of the leg</keywords>
+
+--- Page 256 ---
+<meta>This page provides the key for the eleventh muscle plate, continuing the detailed anatomical mapping of the posterior (back) of the human figure, with particular emphasis on the deep structures of the hip and the large sciatic nerve.</meta>
+
+->ANDREAS VESALII ON THE [STRUCTURE] OF THE BODY<-
+
+## THE ELEVENTH
+## MUSCLE
+## PLATE.
+
+# THE STRUCTURE OF THE HUMAN BODY, BOOK II.
+
+**y.** Furthermore, **y** indicates the **insertion** <note>The point where a muscle attaches to the bone it moves.</note> of this muscle; wherefore **u**, **φ** <note>Greek letter phi</note>, and **χ** <note>Greek letter chi</note>, along with **y**, circumscribe the entire muscle.
+
+**α** <note>Greek letter alpha</note> The large exterior process of the femur <note>original: "Magnus exterior, femoris processus." This is the Greater Trochanter, the prominent bony bump at the top of the thigh bone.</note>.
+
+**β** <note>Greek letter beta</note> The fourth muscle of those moving the femur.
+
+**γ** <note>Greek letter gamma</note> A ligament extending from the transverse process of the fifth bone of the sacrum to the sharp process of the hip bone <note>The ischial spine</note>.
+
+**δ** <note>Greek letter delta</note> A ligament inserted from the said process of the sacrum into the posterior and higher seat of the appendix of the hip bone.
+
+**ε** <note>Greek letter epsilon</note> The tenth muscle of those moving the femur, which, reflected here from the posterior seat of the pubic bone, shows another muscle, as it were, stretched above and below it.
+
+**ζ** <note>Greek letter zeta</note> Since this area, as far as the series of muscles is concerned, will be as visible in the following plate as it is here, we have not cut away the nerve from this plate, which we shall count as the fourth of those seeking the thigh; it is indicated by the character **η** <note>Greek letter eta</note> in the second and third figures placed before Chapter Eleven of Book Four. For the present nerve is indeed that along which—descending from the cavity of the skull through the opening of the spinal vertebrae prepared for the transmission of the spinal marrow—fluid flows down into the feet <note>Vesalius is describing the **Sciatic nerve**. In the 16th century, nerves were often thought of as hollow tubes carrying "animal spirits" or fluid humors, which explains why he describes sensations in the leg as "flowing water."</note>, which some frequently feel flowing down like warm water, others like cold water, and streaming into the leg. To these things, you see the same nerve marked with **η** in the back of the ...
+
+<summary>This page provides a reference key for the eleventh anatomical plate, identifying the deep muscles of the hip and the sciatic nerve. It includes a fascinating historical note on the 16th-century understanding of nerves as conduits for fluid or "spirits."</summary>
+
+<keywords>Andreas Vesalius, anatomy, Eleventh Muscle Plate, Sciatic nerve, Greater Trochanter, femur, ligaments, Renaissance medicine</keywords>
 
 --- Page 257 ---
 <meta>This page continues the detailed anatomical index for the muscle plates, specifically focusing on the eleventh plate of the second book. It maintains the systematic cataloging of the muscular system following the previous descriptions of the head and neck.</meta>
@@ -8827,6 +9165,25 @@ y 2
 <summary>This page provides a detailed anatomical key for the Twelfth Muscle Plate, identifying muscles of the neck, back, and limbs. It focuses on the geometric arrangement of neck muscles and the deep ligaments and tendons of the forearm and hip.</summary>
 <keywords>anatomy, Vesalius, myology, scapula, radius, ulna, ligaments, thorax, dissection, Renaissance medicine</keywords>
 
+--- Page 260 ---
+<meta>This page presents the Twelfth Muscle Plate, serving as the visual realization of the anatomical index introduced on the preceding page (243). It continues the systematic study of the muscular system from a posterior view, focusing on the second layer of muscles revealed once the most superficial structures have been removed.</meta>
+
+ANDREAS VESALIUS ON THE [FABRIC] OF THE [HUMAN] BODY <note>original: "AND. VESALII DE CORPORIS"</note>
+
+## THE TWELFTH
+### MUSCLE
+### PLATE. <note>original: "DVODECIMA MUSCULO-RVM TA-BVLA"</note>
+
+<image-desc>This iconic anatomical woodcut from Andreas Vesalius's *On the Fabric of the Human Body* <note>original: "De humani corporis fabrica"</note> depicts a human figure viewed from behind (a posterior view). The figure is "flayed" to show the second layer of muscles in the neck, back, arms, and legs. The figure stands in a naturalistic landscape; the foreground is composed of rocks, while the background depicts a distant Italianate cityscape with a prominent tower and rolling hills.
+
+The entire figure is annotated with numerous labels for anatomical reference, including Roman letters (A, B, C, F, G, H, I, K, L, M, N, O, P, Q, R, S, T, V, X, Y, Z), Greek letters (Gamma Γ, Delta Δ, Theta Θ, Sigma Σ, Phi Φ, Psi Ψ, etc.), and small-case letters and numbers. These labels correspond to the muscles described in the preceding index, such as the muscles moving the head and the thorax. The figure's right hand (to the viewer's left) holds a long, dissected muscle or tendon that hangs down toward the ground. The detail captures the complex interplay of the trapezius <note>the large muscle of the upper back and neck</note>, the deltoids <note>shoulder muscles</note>, the latissimus dorsi <note>the "broadest muscle of the back"</note>, and the deep structures of the gluteal and leg regions.</image-desc>
+
+<vocab>Andreas Vesalius, On the Fabric of the Human Body, anatomy, musculature <term>myology</term>, woodcut, Renaissance medicine, posterior view</vocab>
+
+<summary>This page contains the twelfth anatomical plate of the muscles, featuring a flayed figure in a posterior view that reveals the second layer of the body's muscular structure. It is a masterpiece of Renaissance woodcut illustration, combining scientific precision with artistic landscape composition.</summary>
+
+<keywords>Andreas Vesalius, posterior view, muscle plate, myology, Renaissance anatomy, second layer of muscles, woodcut illustration</keywords>
+
 --- Page 261 ---
 <meta>This page continues the detailed anatomical descriptions of the muscular system from Book II of Andreas Vesalius’s "De humani corporis fabrica" (On the Fabric of the Human Body). It focuses on the muscles of the thigh, leg, and foot, corresponding to the detailed woodcut illustrations in the original volume.</meta>
 
@@ -8876,6 +9233,38 @@ y 2
 <summary>This page provides a detailed anatomical key for the muscles of the lower limb, specifically identifying the muscles that move the thigh, leg, and foot. It uses a complex system of Greek and Latin characters to guide the reader through the layers of dissection shown in the accompanying plates.</summary>
 <keywords>anatomy, myology, thigh muscles, leg muscles, hip bone, tendons, Vesalius, Renaissance medicine</keywords>
 
+--- Page 262 ---
+<meta>This page continues the anatomical identification of the muscles of the lower body, specifically focusing on the deep muscles of the hip and thigh as depicted in the "Thirteenth Plate." It follows the previous page's discussion of the superficial musculature, now moving into the secondary and tertiary layers revealed in the posterior (back) view.</meta>
+
+->ANDREAS VESALIUS ON THE [FABRIC OF THE HUMAN] BODY<-
+
+## THE THIRTEENTH
+## PLATE.
+
+# THE FABRIC OF THE HUMAN BODY, BOOK II.
+
+<margin>t</margin> *The third muscle moving the thigh <note>original: "femur mouentium"</note> hangs here from its point of attachment.*
+
+<margin>u</margin> *The fourth muscle moving the thigh, also hanging here from its attachment.*
+
+<margin>x</margin> *The great trochanter <note>original: "Magnus exterior’ ue femoris processus"; this is the prominent bony bump on the outside of the upper thigh bone where many muscles attach</note> or the outer process of the thigh bone.*
+
+<margin>α</margin> *The tenth muscle moving the thigh; you will see its primary part more clearly in the sixteenth muscle table at characters F, G, and H. The present table shows that part of the muscle which, reflected toward the specific hollow carved into the hip bone <note>original: "coxendicis osse"</note>, is led to the great trochanter of the thigh.*
+
+<margin>β</margin> *The slender muscle <note>likely the superior gemellus muscle</note>, arising from the sharp process of the hip bone and stretched out to the higher position marked by the muscle α.*
+
+<margin>γ</margin> *A similarly slender muscle <note>likely the inferior gemellus muscle</note>, also originating from the hip bone and stretched out to the lower part of that muscle which we marked with α.*
+
+<margin>Ξ, Σ, Π</margin>
+<margin>δ, ε.</margin>
+<margin>ζ.</margin>
+<margin>η.</margin>
+*The fifth muscle moving the thigh <note>This complex refers to the hamstring group, specifically the biceps femoris</note>. However, Ξ specifically marks the posterior part of this muscle, whose head is partly tendinous <note>original: "nerueum"; in Renaissance anatomy, "nerve-like" often referred to tough, white tendons</note> and marked δ, and partly fleshy, marked ε; it arises from the appendix <term>tuberosity</term> of the hip bone and is thus considered the fourth in the number of heads emerging from there. ζ In this area, the posterior part of this fifth thigh-moving muscle is quite fleshy...*
+
+<summary>This page provides a detailed anatomical key for the Thirteenth Plate of Vesalius's work, identifying the deep muscles of the hip and posterior thigh. It specifically details the attachments and structure of the muscles surrounding the hip joint and the origins of the hamstrings.</summary>
+
+<keywords>Andreas Vesalius, anatomy, musculature, femur, hip bone, trochanter, hamstrings, Renaissance medicine, De humani corporis fabrica</keywords>
+
 --- Page 263 ---
 <meta>This page continues the detailed anatomical descriptions of the muscle plates from Andreas Vesalius's "De humani corporis fabrica" (On the Fabric of the Human Body). It specifically provides the index for the Thirteenth Plate of Muscles, focusing on the posterior view of the human frame.</meta>
 
@@ -8922,6 +9311,20 @@ y 2
 
 <summary>This page provides a technical index for the thirteenth anatomical plate in Vesalius's work, identifying muscles of the back, shoulder, arm, and thigh using a system of Latin and Greek characters. It describes the origins, insertions, and physical relationships of these muscles as they appear in a dissected posterior view.</summary>
 <keywords>anatomy, myology, Vesalius, muscles of the back, femur, scapula, radius, humerus, dissection, Renaissance medicine</keywords>
+
+--- Page 264 ---
+<meta>This page transitions from the character index of the thirteenth muscle plate to the visual presentation of the fourteenth plate. While the previous page ended mid-sentence regarding the thirteen table's labels, this page is dedicated entirely to the full-page woodcut illustration of the fourteenth table.</meta>
+
+ANDREAS VESALIUS ON THE BODY <note>original: "And. Vesalii de corporis"; this is the running header of the book, which translates fully as "Andreas Vesalius on the Fabric of the Human Body."</note>
+
+## THE FOURTEENTH TABLE OF MUSCLES. <note>original: "Decimaquarta musculorum tabula"</note>
+
+<note>This page features a famous full-page anatomical woodcut, the final illustration in the series of muscle tables. It shows the human figure from a posterior (rear) view in a state of advanced dissection. The "fourteenth table" focuses on the deepest layers of the musculature, particularly the muscles of the spine, the deep neck, and the hip, which were hidden by the layers shown in the preceding plates. 
+
+The figure is shown in a dramatic, expressive pose, leaning forward over a large stone block with its head bowed toward a detached skull. This artistic choice—common in the Renaissance—serves both a scientific purpose (by stretching the muscles for better visibility) and a philosophical one, acting as a "memento mori," a reminder of mortality. The landscape in the background, featuring a winding path and a distant Italian town, is characteristic of the studio of Titian, where these woodcuts are believed to have been designed.</note>
+
+<summary>This page presents the fourteenth and final anatomical plate of the muscle series, illustrating the deepest posterior muscles of the human body.</summary>
+<keywords>anatomy, musculature, Andreas Vesalius, posterior view, Renaissance woodcut, deep muscles, human dissection, memento mori</keywords>
 
 --- Page 265 ---
 <meta>This page continues the detailed anatomical index for the muscle plates in Vesalius's "On the Fabric of the Human Body," specifically concluding the commentary on the Thirteenth Plate and beginning the Fourteenth Plate.</meta>
@@ -16257,6 +16660,23 @@ Q 3 <meta>anima-</meta>
 
 <keywords>portal vein, liver, Galen, blood production, spleen, hemorrhoids, black bile, mesenteric veins, chyle</keywords>
 
+--- Page 466 ---
+<meta>This page continues from the discussion on the terminology of major vessels, shifting from the portal vein (the "gate") to a full visual representation of the vena cava, the primary systemic vein. The previous page ended while explaining that the term "stem-like" was sometimes applied by Galen to the vena cava where it meets the liver.</meta>
+
+->ANDREAS VESALIUS ON THE [STRUCTURE] OF THE BODY<-
+
+# A COMPLETE AND
+# FROM ALL
+## PARTS
+## FREE
+*delineation of the vena cava.* <note>original: "venae cavae"; literally translated as the "hollow vein." This is the large vein that carries deoxygenated blood from the body back to the heart.</note>
+
+<image-desc>This famous full-page woodcut provides a "transparent" view of the human form, composed entirely of the venous system. By stripping away all muscle, bone, and organs, Vesalius allows the viewer to see the vena cava as a magnificent, branching tree. The figure stands in a classical "contrapposto" pose, suggesting life even in an anatomical diagram. You can see the intricate networks of the scalp, the deep veins of the arms, and the long saphenous veins of the legs. The small letters and numbers (such as the Greek Φ or the Arabic 12) correspond to detailed keys in the surrounding text that identify specific anatomical structures for students of medicine.</image-desc>
+
+<summary>This page presents one of the most iconic anatomical illustrations in history: the isolated human venous system, shown as a complete and independent "tree" of vessels. It represents a pinnacle of Renaissance scientific observation and artistic woodcut technique.</summary>
+
+<keywords>vena cava, Andreas Vesalius, venous system, human anatomy, Renaissance woodcut, circulatory system, systemic circulation</keywords>
+
 --- Page 467 ---
 <meta>This page continues Book III of Vesalius’s work on the vascular system. He is transitioning from a general discussion of veins in the torso and womb to a specific, detailed anatomical key for the illustrations of the vena cava—the body's primary vein—which will follow in the subsequent chapters.</meta>
 
@@ -17549,6 +17969,27 @@ is committed to being dispersed: although truly more obscurely than the umbilica
 <summary>This page describes the transition of the umbilical arteries into the main fetal circulation and provides a detailed anatomical index for the aortic system (the "Great Artery"). Vesalius explains the branching of the aorta from the heart through the chest, arms, and neck, including a discussion on the historical naming of the carotid arteries.</summary>
 <keywords>Aorta, Umbilical Arteries, Anatomy, Carotid Arteries, Soporal Arteries, Blood Vessels, Heart, Fetal Circulation, Vesalius</keywords>
 
+--- Page 499 ---
+<meta>This page marks a transition from the discussion of fetal development to the formal presentation of the adult arterial system. It features one of the most famous anatomical woodcuts in history: the entire human arterial tree, isolated from the organs and bones to show its complex branching. The index started here serves as a key for the letters and symbols found on the accompanying illustration and the detailed descriptions in the next two chapters.</meta>
+
+->ON THE STRUCTURE OF THE HUMAN BODY, BOOK III.<-
+T 2
+
+# A COMPLETE DELINEATION OF THE ENTIRE GREAT ARTERY FREED FROM ALL OTHER PARTS.
+
+<image-desc>
+A highly detailed full-page anatomical woodcut illustrating the entire human arterial system, isolated from the rest of the body's tissues. The figure is depicted in a standing, forward-facing position. The carotid and temporal arteries are shown in the head and neck. The central aorta descends through the torso, giving off numerous pairs of intercostal arteries that follow the curve of the ribs. The brachial arteries extend down the arms into the hands, branching into fine vessels in the fingers. In the lower abdomen, the aorta bifurcates into the iliac arteries, which continue as the femoral and tibial arteries down the legs to the feet. The entire system is labeled with small letters and symbols (Greek and Latin characters such as α, β, Γ, Δ, A, B, C, m, q) for anatomical reference.
+</image-desc>
+
+### INDEX of the characters for the DELINEATION of the ENTIRE GREAT ARTERY,
+### and likewise for the figures common to the two
+### immediately following Chapters.
+
+**A** *The beginning of the great artery <note>original: "Arteria magna," now known as the aorta</note> emerging from the left chamber <note>original: "sinu," referring to the ventricle</note> of the heart.*
+
+<summary>This page features a landmark anatomical illustration of the complete human arterial system, isolated from other tissues, and begins the descriptive index identifying each vessel by letter and symbol.</summary>
+<keywords>aorta, arterial system, great artery, anatomical illustration, Vesalius, circulatory system</keywords>
+
 --- Page 500 ---
 <meta>This page continues the detailed anatomical description of the arterial system, specifically focusing on the branching of the carotid arteries in the head and the descending aorta as it supplies the abdominal organs.</meta>
 
@@ -18741,6 +19182,56 @@ $\phi$ The passages leading urine from the kidneys into the bladder <note>ureter
 <summary>This page concludes Book III, providing a comprehensive anatomical key to the human circulatory system. It features a master diagram of male vasculature and a supplementary diagram detailing the specific arrangement of veins and arteries in the female reproductive organs.</summary>
 <keywords>vasculature, veins, arteries, circulatory system, heart, liver, stomach, uterus, ovaries, kidneys, nerves, anatomical mapping, Vesalius</keywords>
 
+--- Page 525 ---
+<meta>This page serves as a set of instructions and components for an interactive anatomical "flap-book." It describes several small figures intended to be cut out and pasted onto the larger diagrams (like the one on the previous page) to create a layered, three-dimensional understanding of human anatomy.</meta>
+
+# A SHEET COMPRISING SEVERAL SMALL FIGURES, WHICH ARE PREPARED TO DEMONSTRATE THE SERIES OF VEINS AND ARTERIES JOINED TOGETHER, AND ARE TO BE GLUED ONTO PAGE X, OR THE ONE MARKED WITH THE NUMBER 505.
+
+## FIRST.
+<image-desc>Anatomical diagram of the venous system of the posterior torso, featuring the vena cava, the azygos vein, and branching vessels to the kidneys and lower limbs, labeled with the letter 'o'.</image-desc>
+
+## THIRD.
+<image-desc>Anatomical diagram of the portal vein system and the spleen, showing a complex network of vessels and a portion of the omentum, labeled with various characters including 'v', 'φ', and 'ς'.</image-desc>
+
+## SIXTH.
+<image-desc>A small anatomical diagram of the penis and its internal vascular structures, intended as a cut-out figure.</image-desc>
+
+## SECOND.
+<image-desc>A diagram showing two distinct vascular sets: the upper part displays the major arteries and veins of the neck and upper chest (jugular and subclavian), while the lower part shows the iliac and femoral vessels.</image-desc>
+
+## FOURTH.
+<image-desc>Anatomical diagram representing the convex (gibbous) surface of the liver and its major vascular entry points, labeled with the letters 'F' and 'A'.</image-desc>
+
+## SEVENTH.
+<image-desc>Anatomical diagram of the bladder and the associated umbilical vessels.</image-desc>
+
+## FIFTH.
+<image-desc>Anatomical diagram of the male urogenital system, including the bladder, kidneys, ureters, and testes with their associated spermatic (seminal) vessels, labeled with the letter 'u'.</image-desc>
+
+## EIGHTH.
+<image-desc>Anatomical diagram of the female bladder and umbilical vessels, labeled with the Greek characters 'χ' and 'ω'.</image-desc>
+
+---
+
+*In order to conveniently glue the figures printed on this sheet into their proper places, and so that they may be made stronger: first, you should glue a layer of parchment <note>original: "membranam"; here referring to animal-skin parchment used to reinforce the paper for frequent lifting of the flaps</note> beneath this sheet, and then cut out each of the figures from the excess paper.*
+
+*The **FIRST** figure, which shows the distribution of the vein lacking a pair <note>The azygos vein</note>, is to be attached to the back of the large figure <note>The main anatomical figure on the primary page</note> at the point where the trunk of the vena cava produces that vein, and where the letter **o** is seen written on both figures. The **SECOND** figure, when it has been trimmed of excess paper, will consist of two parts. The upper part represents the vein and artery of the right side as they seek their place in the abdomen beneath the upper chest bone <note>The sternum</note>. This part is to be fixed at the letter **q** where it appears in the throat of the large figure, and at the asterisk **\*** where it meets the branch at the right side marked with **ζ** <note>zeta</note> and **m** in the large figure. Furthermore, the lower part, representing the vein and artery that entwine the lower part of the abdomen, is to be joined where their roots are seen near the letter **l** at the beginning of the right leg, above the groin.*
+
+*The **THIRD** figure, worthier than the rest, represents the distribution of the portal vein along with the arteries that accompany it, as well as a large portion of the lower membrane of the omentum <note>A fatty layer of the peritoneum that hangs over the intestines</note> and the spleen. This should be fastened to the hollow seat <note>The concave underside</note> of the liver on the larger figure, where **v**, **φ** <note>phi</note>, **ς** <note>sigma</note>, and several neighboring characters are seen on both figures.*
+
+*The **FOURTH** figure, showing a portion of the convex <note>original: "gibbæ"; the rounded or humped top side</note> seat of the liver, will be usefully glued at a single point where the letter **A** stands between **f** and **F** on the larger figure.*
+
+*The **FIFTH** figure, which shows the seminal veins and arteries in addition to the testes, their coverings, and the urinary passages, is to be attached where the letter **u** is found on both figures—specifically where the seminal vein first joins the artery and the urinary passages are placed beneath them.*
+
+---
+
+*The **SIXTH** figure—which is strong enough even if no parchment is glued beneath it—is first to be glued under the **SEVENTH**. The **SEVENTH** figure shows the front of the bladder and the penis, along with the vessels we assign to the navel <note>The umbilical vessels</note>. We have represented the lower surface of the penis in this **SIXTH** figure so that the entire composite figure arising from both of them can be fastened by the character **φ** <note>phi</note> onto the **φ** of the **FIFTH** figure, and afterwards folded like the letter **S** to resemble a limp penis.*
+
+*The **EIGHTH** figure, containing the female bladder, the vessels of the navel, and a portion of the urinary passages, is not to be attached to the large [male] figure, but to that figure on the back of the sheet where the large one is printed, which shows the uterus, its veins and arteries, and the seminal vessels. Thus, the **EIGHTH** figure will be joined to that small [female] figure where **u** occurs and the seminal vein is joined to the artery; the connection should be made only at the urinary passages, positioned according to the location of the bladder, so that **χ** <note>chi</note> corresponds to **ω** <note>omega</note>.*
+
+<summary>This page provides a set of anatomical "cut-outs" and detailed assembly instructions for a 16th-century flap-book, allowing students to physically layer organs and vessels onto a primary anatomical figure. It covers the vascular systems of the liver, spleen, and reproductive organs for both sexes.</summary>
+<keywords>anatomical flaps, azygos vein, portal vein, omentum, urogenital system, umbilical vessels, instructional diagrams, Vesalius, vascular anatomy</keywords>
+
 --- Page 527 ---
 <meta>This page marks the beginning of Book 4 of Vesalius's *De humani corporis fabrica*. Having completed Book 3 on the veins and arteries (the circulatory system), Vesalius now transitions to the nervous system, beginning with a definition of terms and a debate over the origin of the nerves—brain versus heart.</meta>
 
@@ -19577,6 +20068,32 @@ THE PRESENT figure primarily serves the two subsequent figures, which show the b
 
 <summary>This page introduces the primary anatomical plate of the spinal cord, providing a detailed guide to its structure from the brainstem to the sacrum. It identifies the exit points of the cranial and spinal nerve roots, organizing them by the regions of the vertebral column.</summary>
 <keywords>spinal cord, medulla oblongata, nerve roots, vertebrae, sacrum, cranial nerves, neuroanatomy, Vesalius</keywords>
+
+--- Page 547 ---
+<meta>This page continues the anatomical sequence from the previous page, moving from the isolated spinal cord to a complete "map" of the human nervous system. While page 526 introduced the central axis, page 527 presents the famous "Nervous Man," showing the full distribution of nerves throughout the entire body.</meta>
+
+# BOOK IV ON THE FABRIC OF THE HUMAN BODY.
+
+<column-break/>
+
+THIRTY PAI-
+WHICH FROM THE SPINAL ME-
+[BO]NES CONTAINED, ORIGI-
+*a delineation, which of the three subsequen-*
+
+<column-break/>
+
+-RS OF NERVES
+-DULLA <note>original: *medulla*; referring to the *medulla dorsalis* or spinal cord</note>, BONES OF THE BACK
+-N TAKE, BARE <note>The term "bare" indicates an anatomical "dissection" on paper where the nerves are shown stripped of skin, fat, and muscle to reveal their paths.</note>
+*-t Chapters is numbered among the shared.*
+
+<image-desc>A full-page anatomical woodcut illustrating the human nervous system. The figure is a standing male form, rendered as a network of nerves. The brain and spinal cord (medulla dorsalis) are the central axis, with nerves branching out to the head, torso, arms, and legs. The skeletal structure and musculature are omitted to showcase the complexity of the peripheral nerves and plexuses. The entire diagram is meticulously labeled with small letters (Latin and Greek) and Arabic numerals (ranging from 1 to over 80) indicating specific nerves and anatomical features described in the accompanying text of the book.</image-desc>
+
+<note>This illustration is one of the iconic "large figures" of Vesalius’s work. It demonstrates his revolutionary approach to anatomy: by removing the "distraction" of muscles and bones, he allows the reader to trace the continuous path of a nerve from the brain down to the fingertips and toes. The "thirty pairs" mentioned in the text refer to the spinal nerves (8 cervical, 12 thoracic, 5 lumbar, 5 sacral, and 1 coccygeal pair), which remains the standard anatomical count today.</note>
+
+<summary>This page features the famous "Nervous Man" woodcut, providing a comprehensive visual map of the human peripheral nervous system branching out from the spinal cord.</summary>
+<keywords>nervous system, spinal cord, peripheral nerves, Vesalius, medical illustration, 16th-century anatomy</keywords>
 
 --- Page 548 ---
 <meta>Continuing from the previous discussion of anatomical plates showing the nervous system from the front; this page shifts the perspective to the rear view of the spinal column.</meta>
@@ -21921,6 +22438,21 @@ The present figure shows the uterus cut out from the body along with the membran
 
 <summary>This page concludes the anatomical labels for the twenty-fifth figure and provides a detailed index for the twenty-sixth figure, which illustrates the internal and external structures of the uterus and bladder. It is significant for showing Vesalius's detailed observations of female reproductive organs, including the ovaries and the insertion of the ureters.</summary>
 <keywords>uterus, bladder, ovaries, Fallopian tubes, ureters, anatomy, cervix, peritoneum, vascular system</keywords>
+
+--- Page 606 ---
+<meta>This page transitions from the description of the twenty-sixth figure—which showed the bladder and uterus in their natural positions—to a detailed isolated view of the uterus and vaginal canal in the twenty-seventh figure. The text begins the character index for this new illustration, referencing a specific dissection performed by Vesalius in Padua.</meta>
+
+<page-num>584</page-num>
+<header>ANDREAS VESALIUS, ON THE TWENTY-SEVENTH FIGURE OF THE FIFTH BOOK.</header>
+
+->INDEX OF THE TWENTY-SEVENTH FIGURE,<-
+->and of its characters.<-
+
+**THE PRESENT** figure represents the uterus removed from the body, shown in the size it appeared during the most recent dissection at Padua <note>Latin: *Patauij*. Padua was the preeminent center for medical and anatomical study in the 16th century, where Vesalius conducted his most famous public dissections.</note>... <note>The text here breaks off mid-word "dissected."</note>
+
+<summary>This page introduces the twenty-seventh anatomical figure of Book V, featuring a detailed, isolated view of the human uterus and vaginal canal. It begins the legend or "index" for the illustration, noting that the drawing reflects the scale of a specific specimen dissected by Vesalius in Padua.</summary>
+
+<keywords>anatomy, uterus, vagina, Andreas Vesalius, Padua, dissection, reproductive organs, Renaissance medicine</keywords>
 
 --- Page 607 ---
 <meta>This page continues the anatomical description of the female reproductive system from Book V, transitioning from the human uterus to comparative anatomy, specifically that of a dog. There is no previous page provided for specific continuity, but the context follows a dissection of the human pelvic organs.</meta>
