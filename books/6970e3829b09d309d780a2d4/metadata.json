@@ -1,14 +1,14 @@
 {
   "id": "6970e3829b09d309d780a2d4",
   "title": "Antithesis Christi et Antichristi",
-  "display_title": "Antithesis Christi et Antichristi",
+  "display_title": "Antithesis of Christ and the Antichrist",
   "author": "[Rosarius, Simon]",
   "language": "Latin",
   "year": 1578,
   "published": "1578",
   "pages_count": 168,
   "pages_with_ocr": 168,
-  "pages_with_translation": 152,
+  "pages_with_translation": 153,
   "source_url": "https://sourcelibrary.org/book/6970e3829b09d309d780a2d4",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:27:54.560Z",
+  "synced_at": "2026-03-06T22:20:35.645Z",
   "_hashes": {
     "ocr": "0e3f2e8d57d43a94",
-    "translation": "032cb087fb056317"
+    "translation": "46b3b4e07146bfbb"
   }
 }
