@@ -1,14 +1,14 @@
 {
   "id": "6970e3539b09d309d780a23c",
   "title": "Absconditorum a constitutione mundi clavis",
-  "display_title": "Absconditorum a constitutione mundi clavis",
+  "display_title": "Key to the Hidden Things from the Foundation of the World",
   "author": "Postel, Guillaume",
   "language": "Latin",
   "year": 1646,
   "published": "1646",
   "pages_count": 164,
   "pages_with_ocr": 164,
-  "pages_with_translation": 157,
+  "pages_with_translation": 160,
   "source_url": "https://sourcelibrary.org/book/6970e3539b09d309d780a23c",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:27:56.909Z",
+  "synced_at": "2026-03-06T22:40:20.828Z",
   "_hashes": {
     "ocr": "dbc98f60004ce27e",
-    "translation": "e349443e1917435d"
+    "translation": "190e039e463ae5a2"
   }
 }
