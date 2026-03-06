@@ -1,14 +1,14 @@
 {
   "id": "6970e3619b09d309d780a26c",
   "title": "Alchimistisch Sieben-Gestirn, das ist: sieben schöne und auserlesene Tractätlein, vom Stein der Weisen",
-  "display_title": "Alchimistisch Sieben-Gestirn, das ist: sieben schöne und auserlesene Tractätlein, vom Stein der Weisen",
+  "display_title": "The Alchemical Seven Stars",
   "author": "anonymous",
   "language": "German",
   "year": 1756,
   "published": "1756",
   "pages_count": 244,
   "pages_with_ocr": 244,
-  "pages_with_translation": 228,
+  "pages_with_translation": 232,
   "source_url": "https://sourcelibrary.org/book/6970e3619b09d309d780a26c",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:27:13.916Z",
+  "synced_at": "2026-03-06T22:50:22.061Z",
   "_hashes": {
     "ocr": "514bfdcdcb3fbd6d",
-    "translation": "5031469ee75d7ede"
+    "translation": "c58bcca409fea8b6"
   }
 }
