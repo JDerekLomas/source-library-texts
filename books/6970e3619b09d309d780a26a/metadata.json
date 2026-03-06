@@ -1,14 +1,14 @@
 {
   "id": "6970e3619b09d309d780a26a",
   "title": "De alchimia opuscula complura",
-  "display_title": "De alchimia opuscula complura",
+  "display_title": "Several Small Works on Alchemy",
   "author": "anonymous",
   "language": "Latin",
   "year": 1550,
   "published": "1550",
   "pages_count": 544,
   "pages_with_ocr": 544,
-  "pages_with_translation": 505,
+  "pages_with_translation": 535,
   "source_url": "https://sourcelibrary.org/book/6970e3619b09d309d780a26a",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:23:46.503Z",
+  "synced_at": "2026-03-06T22:00:44.661Z",
   "_hashes": {
     "ocr": "77068a0f5fc7622c",
-    "translation": "61ee50e94a5e9acc"
+    "translation": "f3b5d3de973b9cd7"
   }
 }
