@@ -1,14 +1,14 @@
 {
   "id": "6958e897d3a89283348144a2",
   "title": "Stirpium icones et sciagraphia",
-  "display_title": "Stirpium icones et sciagraphia",
+  "display_title": "Illustrations and Descriptions of Plants",
   "author": "Dominicus Chabrae",
   "language": "Latin",
   "year": 1678,
   "published": "1678",
   "pages_count": 768,
   "pages_with_ocr": 768,
-  "pages_with_translation": 615,
+  "pages_with_translation": 766,
   "source_url": "https://sourcelibrary.org/book/6958e897d3a89283348144a2",
   "license": "http://creativecommons.org/publicdomain/mark/1.0/",
   "doi": null,
@@ -20,9 +20,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:22:10.008Z",
+  "synced_at": "2026-03-06T21:20:53.820Z",
   "_hashes": {
     "ocr": "13ebda7ca7c68735",
-    "translation": "24771ba8c07664e1"
+    "translation": "3112044bc59fc8f0"
   }
 }
