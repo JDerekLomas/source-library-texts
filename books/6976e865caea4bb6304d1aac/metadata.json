@@ -1,14 +1,14 @@
 {
   "id": "6976e865caea4bb6304d1aac",
   "title": "Basilica chymica. De signaturis",
-  "display_title": "Basilica chymica. De signaturis",
+  "display_title": "The Chemical Basilica and Treatise on Signatures",
   "author": "Crollius, Oswaldus",
   "language": "Latin",
   "year": 1611,
   "published": "[1611]",
   "pages_count": 584,
   "pages_with_ocr": 584,
-  "pages_with_translation": 566,
+  "pages_with_translation": 568,
   "source_url": "https://sourcelibrary.org/book/6976e865caea4bb6304d1aac",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:23:28.076Z",
+  "synced_at": "2026-03-06T21:50:40.614Z",
   "_hashes": {
     "ocr": "409ae5f82bd5ed0d",
-    "translation": "035f3e183b848a70"
+    "translation": "3e9067a8d492eaa9"
   }
 }
