@@ -1,14 +1,14 @@
 {
   "id": "6975158ea88d83c830d99e3c",
   "title": "Auriferae artis, quam chemiam vocant, antiquissimae authores, sive Turba philosophorum",
-  "display_title": "Auriferae artis, quam chemiam vocant, antiquissimae authores, sive Turba philosophorum",
+  "display_title": "Ancient Authors of the Gold-Making Art",
   "author": "anonymous",
   "language": "Latin",
   "year": 1572,
   "published": "1572",
   "pages_count": 758,
   "pages_with_ocr": 758,
-  "pages_with_translation": 443,
+  "pages_with_translation": 750,
   "source_url": "https://sourcelibrary.org/book/6975158ea88d83c830d99e3c",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:22:14.511Z",
+  "synced_at": "2026-03-06T23:40:24.797Z",
   "_hashes": {
     "ocr": "d69bfb00ce9a124c",
-    "translation": "264648f438b8e7b4"
+    "translation": "1bcb17fff13e4e88"
   }
 }
