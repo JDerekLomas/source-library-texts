@@ -1,143 +1,25 @@
---- Page 1 ---
-<meta>This page continues the technical discussion of dioptrics, likely from Johannes Kepler's 1611 work. It focuses on how the curvature of lenses (the "size of the circle") and their relative distances affect the magnification and clarity of an image, building upon previous propositions regarding the optics of telescopes.</meta>
-
-<page-num>61</page-num>
-<sig>H 3</sig>
-
-### If a concave lens is placed near the eye, convex lenses formed from a large circle require a long distance from the concave lens and the eye, while those from a small circle require a short distance.
-
-<note>original: "magno circulo... parvo". In 17th-century optics, a "large circle" refers to a lens with a large radius of curvature, meaning it is flatter. A "small circle" refers to a more sharply curved lens.</note>
-
-For according to Proposition 109, the eye is near the <term>point of convergence: the focal point where light rays meet</term>, and according to Proposition 111, the concave lens—being of the same type throughout—remains at the same interval from the convergence point of all convex lenses. However, these convergence points are at different distances from their respective convex lenses: for they are far from lenses made from a large circle, and closer for those from a small circle, according to Proposition 39. Since subtracting equal amounts from unequal ones leaves unequal results, and the interval between the concave and convex lenses—given that the distance from the concave lens to the convergence point is always the same—is less than the interval between the convex lens and that same convergence point: therefore, the concave lens (along with the eye) will be further away from a convex lens of a larger circle than from one of a smaller circle.
-
-## PROPOSITION CXIII.
-
-Given a convex lens, a concave lens of a smaller circle represents visible objects as larger, while one of a larger circle represents them as smaller.
-
-For according to Proposition 110, concave lenses of a small circle must be moved further away from the convex lens to achieve the necessary distance for clear vision for the eye they are placed against. But according to Proposition 22, the further the eye recedes from the convex lens toward the point of convergence, the larger the objects appear. Therefore, an eye using a concave lens of a smaller circle sees objects distinctly and as larger than it does with a concave lens of a larger circle.
-
-->A diagram showing two sets of converging light rays. On the left, rays pass through an opening labeled D-E and converge to a point F. On the right, rays originate from a line A-B, pass through an opening labeled I-K, and converge to a point C. The points G and H are also marked near I-K.<-
-
-## PROPOSITION CXIV.
-
-A concave lens, when moved just a very short distance further away from the convex lens, greatly increases the size of visible objects.
-
-For according to Proposition 109, in the following diagram, G H and I K are very close to points C and F. Indeed, once such a very short distance as I F is traversed and the eye at I K is placed at F, the magnitude of a single point, from which all rays [flow] into D E... <note>The text ends mid-sentence; the catchword "influxunt" (flow into) indicates the continuation on the next page.</note>
-
-<summary>This page explains how the curvature of lenses determines the physical length of a telescope and the resulting magnification, noting that sharper curves and specific distances significantly increase the size of the observed object.</summary>
-<keywords>optics, magnification, convex lens, concave lens, radius of curvature, focal point, dioptrics, Kepler</keywords>
-
 --- Page 2 ---
-<meta>This page continues the geometric proof regarding the magnification of lenses, specifically comparing how the curvature (the "circle") of a lens affects the size of the image produced when paired with a concave eyepiece.</meta>
+<meta>This page serves as the frontispiece or inside cover of the volume, documenting its ownership history through library and personal bookplates. The note RB45394 is likely a library accession number or shelfmark.</meta>
 
-<page-num>82</page-num>
-<sig>Nans</sig>
+<margin>RB45394 <note>This alphanumeric code is a library shelfmark, used to identify the book's location on the shelf.</note></margin>
 
-*...flow in, it increases to a certain size, indeed equal to the whole lens D E, so that a single point is seen at the angle D F E—this represents infinite magnification. Thus, with a very slight adjustment, a great effect is produced.* <note>The author is describing how a small change in the position or curvature of a lens can lead to a massive increase in magnification.</note>
+<insert>
+<image-desc>Official bookplate of the University of Toronto Library. At the top is the university's coat of arms, featuring a shield with three books, a crown above the shield, and a tree at the very top. A scroll beneath the shield bears the motto "As a tree in the passage of time" <note>original: "VELUT ARBOR ÆVO"</note>.</image-desc>
 
-## PROPOSITION 115.
+->Library<-
+->of the<-
+->University of Toronto<-
+</insert>
 
-When a concave lens <note>a "lente cava" is a diverging lens, like those used today for nearsightedness</note> is placed very close to the eye, then among convex lenses <note>magnifying lenses</note>, the one curved from a smaller circle represents visible objects as smaller, and the one from a larger circle represents them as larger.
+<insert>
+<image-desc>Heraldic bookplate printed in reddish-brown ink. The crest features a hand in armor grasping a battle-axe. The central shield depicts a <term>wyvern<note>A mythical creature resembling a dragon but with only two legs and a pair of wings.</note></term>. Beneath the shield, a scroll contains the motto: "The eagle does not catch flies" <note>original: "AQUILA NON CAPTAT MUSCAS" — a Latin proverb meaning that a person of high standing or great mind does not preoccupy themselves with insignificant matters.</note>. The entire plate is framed by a double-line border.</image-desc>
 
-Let there be a convex lens A B, with a larger radius A C, and a lens D E with a smaller radius D F. Therefore, C and F will be the points of convergence <note>original: "puncta concursus"; we now call these the focal points</note> according to Proposition 39. On both sides, let there be one concave lens, G H or I K, which, when placed close to the eye, causes a certain divergence of parallel rays through its specific portion. Since the concave lens is the same in both cases, G H and I K will be in the same position relative to the focal points C and F, according to Proposition 111. The eye is indeed very close to the lens on both sides, by our assumption. 
+->STILLMAN DRAKE<-
+<note>Stillman Drake (1910–1993) was a prominent historian of science, world-renowned for his work on Galileo Galilei.</note>
+</insert>
 
-Therefore, when the equal segments G C and I F are subtracted from the unequal lengths A C and D F, the remaining lengths A G and D I will be in a greater proportion to one another. Thus, the convex lens A B is removed further from the concave lens G H and the eye, in its own proportion, than the convex lens D E is from the concave lens I K and the eye. And G H (with the eye) is closer to point C in the proportion of A B C than I K (with the eye) is to point F in the proportion of D E F. Therefore, larger images are represented through A B and G H than through D E and I K, according to Proposition 32. And indeed, with a very slight change in proportion, the images become much larger, according to Proposition 114.
-
-This principal Proposition was once highly obscure. The reason for this is that if the ratio of A C to C G had been the same as that of D F to F I, then the longer distance A G would have done nothing to increase the size of the visible objects. Everything would have been equal on both sides according to Proposition 83.
-
-## PROBLEM 116.
-
-To represent visible objects as large as one desires.
-
-<vocab>
-**influnt**: flow in
-**excrescit**: grows/increases
-**magnitudinem**: magnitude/size
-**lentem**: lens
-**punctum**: point
-**angulo**: angle
-**multiplicatio**: multiplication/magnification
-**infinita**: infinite
-**momento**: moment/slight movement
-**præstatur**: is achieved/performed
-**Propositio**: Proposition
-**lente cava**: concave lens
-**oculum**: eye
-**convexarum lentium**: of convex lenses
-**circulo convexa**: curved in a circle
-**visibilia**: visible things/objects
-**lens convexa**: convex lens
-**semidiametro**: radius (half-diameter)
-**puncta concursus**: points of convergence/focal points
-**lens cava**: concave lens
-**parallelorum radiorum**: of parallel rays
-**divergentiam**: divergence
-**cavum**: the concave [lens]
-**propositum**: proposed/set forth
-**oculus**: eye
-**acuminibus**: points/segments
-**inæqualibus**: unequal [things]
-**proportione**: proportion/ratio
-**convexum**: the convex [lens]
-**cavo**: the concave [lens]
-**propior**: closer
-**alteratio proportionis**: alteration of proportion
-**Problema**: Problem
-**Visibilia**: Visible things
-</vocab>
-
-<summary>This page provides a geometric proof that convex lenses with a larger radius of curvature produce greater magnification when used with a concave eyepiece. It concludes by stating the "problem" of how to magnify images to any desired size.</summary>
-<keywords>optics, convex lens, concave lens, magnification, focal point, radius of curvature, geometry of sight</keywords>
-
---- Page 3 ---
-<meta>This page continues the mathematical analysis of optical instruments, specifically focusing on the relationship between lens curvature, tube length, and image clarity. It refers back to previous principles (Propositions 113 and 115) to explain how to manipulate telescope magnification.</meta>
-
-For it is clear from Propositions 113 and 115 that by increasing the proportion of the circles of the cavity <note>the concavity of the lens</note> and the convexity, the visible objects are enlarged.
-
-## 117. PROBLEM.
-**To represent visible objects with an equal increase in magnitude using unequal distances between the lenses—that is, using tubes of different lengths.**
-
-According to 113 and 115, ensure that there is the same proportion between the cavities themselves, the convexities, and the distances between the lenses, even if the convex lenses themselves are dissimilar to one another.
-
-## 118. PROBLEM.
-**To represent objects as larger using shorter tubes.**
-
-If the convex lens is smaller, but the proportion between the convexity and the cavity <note>the concavity</note> is greater than in a longer instrument, then larger objects will be represented by the shorter instrument, according to 113 and 115. <note>This explains how a short telescope can have higher magnification than a long one if the lenses are curved more aggressively.</note>
-
-## 119. PROPOSITION.
-**When a concave lens is in place, visible objects are represented more clearly or more strongly with a larger or wider convex lens than with a smaller one.**
-
-For more light is spread from a single point (as seen in the nearby diagram) through a larger width AB than through a smaller width DE. All that light is indeed gathered into a single point, C or F. Therefore, the image <note>original: *pictura*</note> is stronger in C than in F; likewise, the eye in the space GH receives more rays than in IK. 
-
-By the "size" of the convex lens, you should understand this according to Proposition 30 as referring to the physical body of the lens <note>its diameter or aperture</note>, not its geometric shape <note>the degree of curvature</note>.
-
-## 120. PROPOSITION.
-**When a convex lens is in place, visible objects are represented more clearly or more strongly through the cavity <note>concavity</note> of a larger circle than through the cavity of a smaller one.**
-
-<summary>This page provides technical instructions for adjusting telescope magnification and image brightness by varying lens curvature and diameter. It establishes that a larger lens diameter (aperture) produces a brighter "picture" by gathering more light rays into a single point.</summary>
-<keywords>optics, telescope construction, lens magnification, convex lens, concave lens, light refraction, image clarity, aperture</keywords>
-
---- Page 4 ---
-<meta>This page continues the technical discussion of optical refraction through lenses, specifically focusing on how the size and curvature of a lens affect the clarity and strength of the image perceived by the human eye.</meta>
-
-64
-
-For a small lens placed very close to the eye causes a proper divergence of rays with only a small part of itself. *Even if many rays from a single point shine upon it and radiate from a large portion of the convex lens, most of them, however, wander away from the eye due to the excessive refraction caused by the sides or the rim of the concave lens (as in the diagram for Proposition 100 <note>The text uses the Roman numeral "C" for 100.</note>, where FG deviates from HI, the width of the pupil). Indeed, only a few radiations enter the eye, and those are entirely close to the perpendicular <note>In this context, "perpendicular" refers to the central axis of the lens or the direct line of sight.</note>, thus arriving from a small portion of the convex lens. Therefore, according to Proposition 119, vision through a lens with a small circle of concavity is weak. The same occurs if a narrow portion is taken from the concavity of even a large circle and is smaller than the pupil.*
-
-### PROPOSITION CXXI.
-
-**Of a portion of a hemisphere viewed through lenses, the middle part and the part closest to the perpendicular are seen more clearly and strongly than the surrounding rim.**
-
-The cause is evident to the eye in the diagram for Proposition 70, in which the width of the pupil is marked QG. For the eye placed at QG—whether naked or with a concave lens held before it—intercepts all the radiations of the middle point E between EAQ and EBG. However, it does not intercept all the rays of point C, but only a part of the pencil of light <term>pencil of light (penicilli): a bundle of light rays originating from a single point and diverging or converging together</term> CAFBC (specifically, that which is between CA and ICHG). That which is now between CHG and CBF wanders away from the pupil QG. Therefore, since E is seen through AB, and C through AH, then according to Proposition 119, E will be seen more strongly and clearly than C.
-
-### CXXII.
-
-**With a narrow portion of a convex lens, other things being equal, visible objects are represented more distinctly; with a wide portion, more confusedly.**
-
-For those rays which radiate into the eye through a large portion of the convexity, they radiate more strongly according to Proposition 119; by this strength, first the colors of the rainbow <note>original: "Iridis colores"; this is an early description of chromatic aberration, where light passing through the edges of a lens splits into colors.</note> and then clouds <note>original: "nebulæ"; refers to blurring or a hazy "halo" effect around an image.</note> are excited. For the concave and net-like tunic <note>original: "retiformis tunica"; the retina, which was described in early anatomy as a net-like web.</note> of the eye is full of spirit <note>original: "spiritu"; in 17th-century physiology, "animal spirits" were thought to be the subtle fluids that transmitted sensations through the nerves.</note>, and although it may be touched by only a point, nevertheless, if that point is immoderately bright from the meeting of many rays, the spirit in some [part]...
-
-<summary>This page explains why the center of a lens provides a clearer image than the edges and how wider convex lenses can cause visual distortions like color fringing (chromatic aberration) and blurring.</summary>
-<keywords>refraction, convex lens, concave lens, pupil, retinal tunic, visual spirits, chromatic aberration, Proposition 121, Proposition 122</keywords>
+<summary>This frontispiece documents the provenance of the book, showing it belonged to the famous Galileo scholar Stillman Drake before entering the collection of the University of Toronto Library.</summary>
+<keywords>Stillman Drake, University of Toronto, bookplate, provenance, heraldry, motto, Latin, library collection</keywords>
 
 --- Page 5 ---
 <meta>The previous text concluded a technical discussion of optical refraction (Proposition 121). This page is the formal title page of Johannes Kepler's seminal work, *Dioptrice*, which provides the mathematical foundation for how telescopes work.</meta>
@@ -179,30 +61,6 @@ For those rays which radiate into the eye through a large portion of the convexi
 
 <summary>This is the title page of Johannes Kepler's 1611 masterpiece, "Dioptrice," which established the first formal mathematical theory of how lenses and telescopes function. It highlights the inclusion of Galileo's recent astronomical discoveries and reflects Kepler's role as the Imperial Mathematician.</summary>
 <keywords>Johannes Kepler, Dioptrics, Galileo Galilei, Starry Messenger, telescope, optics, Augsburg, scientific revolution</keywords>
-
---- Page 6 ---
-<meta>Continuing from page 85, which likely concluded the discussion on the basic properties of single lenses or the simple telescope. This page transitions into measuring magnification and combining lenses.</meta>
-
-<page-num>86</page-num>
-<meta>catchword: Having placed,</meta>
-
-For the <term>pencils of light</term> <note>original: "penicilli"; these are bundles of light rays originating from a single point</note> at the sides of the concave lens are refracted entirely and obliquely: toward the left on the left side, and toward the right on the right side. For suppose, in the diagram for proposition C, that the line A B K F is the center line of one pencil of light coming into the center of the pupil; that line is refracted outward to the left through points B and K, because B K is the left part of the lens. Therefore, if the eye is moved from the middle of the hollow lens to the left side K, the point A, seen through the straight line F K M, will be thought to be at position M, which is further to the right, according to Proposition 19.
-
-## 124. PROBLEM.
-
-To skillfully estimate the size of an enlarged image.
-
-Let the left eye be directed freely at a visible object without an instrument, while the right eye views the same object through the lenses. Since the left eye is directed at the visible object, and the right eye—by its own nature—always remains parallel to the left (according to Proposition 57), it will remain so even if it is covered as it now reads through the instrument; for the parallel direction of the eyes is natural. Therefore, the right eye will be directed as if toward the visible object itself, whether the <term>instrumental image</term> <note>the image of the object as seen through the telescope</note> appears lower or higher than the actual thing seen by the left eye. For according to Proposition 62, the right eye will indeed see the enlarged image of that object toward which it is directed through its association with the left eye, but it will not, for that reason, always see it with the same part of itself that the left eye uses to see the object.
-
-Therefore, when the images appear to differ in their position, by moving the convex lens of the instrument here and there, and sometimes by applying the concave lens to the eye in a slightly different way, it can easily be brought about that both visible images of the same thing match each other in their position. Then, by overlapping the images, the degree to which one exceeds the other will become apparent.
-
-->Thus far concerning the simple instrument: the **blending** follows.<- 
-<note>original Greek: "κρυσις" (krasis), referring here to the combination or mixing of different types of lenses.</note>
-
-## 125. PROPOSITION.
-
-<summary>This page explains why images shift when looking through the edge of a lens and describes a method for measuring magnification by comparing the view from a naked eye with the view through a telescope simultaneously.</summary>
-<keywords>refraction, pencils of light, magnification measurement, binocular vision, convex lens, concave lens, optical instrument</keywords>
 
 --- Page 7 ---
 <meta>This page appears to be the formal dedication of the work. Although the previous page provided in the context discussed technical optical propositions regarding magnification, the current text is the front-matter dedication addressed to Ernest of Bavaria, Archbishop-Elector of Cologne. This transition marks the move from the technical Preface or Body back to the formal introductory honors, or perhaps indicates the start of a new section or the work's primary dedication page.</meta>
@@ -2721,22 +2579,6 @@ Leaf 1. line 22. *to have thrust upon*. Leaf 2. line 9. *stands apart*. Leaf 4. 
 
 <keywords>errata, optical diagrams, lens, convex, geometry, printing history, Kepler, technical corrections</keywords>
 
---- Page 123 ---
-<meta>This page continues the discussion of light refraction through a combination of lenses, specifically addressing how the distance of the viewing surface affects the image.</meta>
-
-55
-
-with a slight blurriness <note>original: "confusione parvulâ"</note>, which first reaches the concave lens, or rather, the bundles of rays <term>penicilli: literally "pencils," referring to a narrow beam or cluster of light rays originating from a single point</term> diverge and spread out, and then the image becomes more and more blurred as the paper is moved away from the concave lens. However, the image **SPT** is made larger than **FBD** (which is produced by the convex lens **GH** alone), because the bundles **F** and **D**, when refracted in the concave lens **LN**, are bent outward toward **S** and **T**—the outer rays always bending more than the inner ones—according to Proposition II.
-
-## CVI. NOTE.
-
-Regarding what Giambattista della Porta <note>Giambattista della Porta (1535–1615) was a famous Italian polymath and author of "Natural Magic." He was known for his secretive and sometimes hyperbolic writing on optics.</note> claims—that he first collects the sun's rays and, once collected, sends them out to an infinite distance to cause burning—even though he speaks of mirrors, it seems it should be understood as referring to lenses <term>perspicillis: a term used in the 17th century for lenses or early telescopes</term>, because he deliberately hid his true meaning. 
-
-But if this must be understood as referring to lenses, the technique would be nothing else than first collecting many rays with a convex lens, and then, just before the point of convergence, intercepting them with a concave lens, which makes the converging rays parallel, as stated in Proposition 105. Therefore, see those things that were said to the contrary in Proposition 56. To which I now add this further point: even if you were to correct Porta’s words regarding an "infinite burning line" to mean the same thing as a burning cone <term>conus ustorius: the cone-shaped path of light that tapers to a focal point for the purpose of igniting a material</term>, extended as far as you wish, so that still through the intersection of the rays burn-
-
-<summary>This page analyzes how a concave lens expands an image created by a convex lens and provides a critical commentary on Giambattista della Porta's theories regarding "infinite" burning rays.</summary>
-<keywords>optics, Giambattista della Porta, concave lens, convex lens, light refraction, burning glass, focal point, 17th-century science</keywords>
-
 --- Page 124 ---
 <meta>This page transitions from the general physics of lenses to the specific anatomy of the human eye, applying the previously discussed optical propositions to biological structures to explain how the eye might focus.</meta>
 
@@ -2752,41 +2594,3 @@ An explanation of the remaining parts of the eye, which is useful for Propositio
 
 <summary>This page uses anatomical diagrams from Felix Plater to explain the mechanism of the eye, theorizing that the lens moves forward and backward (accommodation) through the contraction and expansion of the ciliary fibers.</summary>
 <keywords>Felix Plater, Kepler, eye anatomy, crystalline lens, accommodation, uvea, pupil, retina, Tela aranea, optics</keywords>
-
---- Page 125 ---
-<meta>This page continues the discussion of lens combinations, specifically addressing how a convex lens (the objective) and a concave lens (the eyepiece) work together to correct vision and magnify images, which is the basis for the Galilean telescope. The text begins mid-sentence from page 56.</meta>
-
-...to the concavity of this one, then the lenses joined immediately would almost neutralize each other and one would abolish the action of the other. Thus, the eye struggling with <term>confusion</term><note>In this context, "confusion" refers to blurred vision or the inability to focus on distant objects.</note> in seeing distant things would have no remedy, or a very poor one, placed in the excess of the other lens. But if this continuous lens were separated from the concave one, the rays incident on the concave lens would converge even more; thus, they could no longer even be made parallel by the concave lens, let alone divergent. The same applies much more to a convex lens of a smaller <term>circle</term><note>The "circle" refers to the radius of curvature of the lens surface; a smaller circle means a more steeply curved, powerful lens.</note>. Therefore, the convexity of a larger circle remains suitable.
-
-Finally, I say that the <term>appearance of visible things</term><note>original: "speciem visibilium"</note> is increased if the circle of convexity is larger. For, according to Proposition 80, a solitary <term>convex lens</term> increases visible things. And although, according to Proposition 96, a <term>concave lens</term> even by itself diminishes visible things—and it is true that both the convex lens and what is seen through it are larger if the convex lens is alone than if a concave one is interposed—nevertheless, according to Propositions 22 and 98, this increase and this decrease are greater at farther distances. Since, therefore, the concave lens is near the eye, its diminution will be almost nothing; and since the convex lens is removed further from the eye, its increase will be greater.
-
-### PROPOSITION 108.
-**With a convex lens placed at any distance from the eye, any concave lens which, when applied alone to the eye, provides confused visible things, and which is of a smaller circle than that used by the convex lens, will—at a certain distance and position between the eye and the convex lens—exhibit distinct visible things.**
-
-This is almost the converse of the previous proposition, but more free. For there, the position of the concave lens was given as being very close to the eye, and therefore...
-
-->To each one<-
-<note>original: "H unicu;" - likely a truncated printer's catchphrase or a reference to a specific diagram part.</note>
-
-<summary>This page explains why a telescope magnifies: the objective lens (far from the eye) provides significant magnification, while the eyepiece (close to the eye) provides minimal shrinking, resulting in a net increase in size. It also introduces Proposition 108 regarding the positioning of lenses to achieve focus.</summary>
-
-<keywords>optics, refraction, convex lens, concave lens, magnification, focus, Galilean telescope, radius of curvature</keywords>
-
---- Page 126 ---
-<meta>This page continues the technical discussion of lens placement in a telescope-like system, specifically focusing on how the positioning of a concave lens relative to the focal point of a convex lens affects vision for different types of eyes.</meta>
-
-<page-num>38</page-num>
-
-...only one, whereas on the contrary, the position of the convex lens could be chosen. Here now, the position of the convex lens is given, but not just one; rather, it is manifold in both quantity and quality, and in turn, the position of the concave lens can be chosen.
-
-First, let this be the quality of the convex lens's position: that the eye is located *within* the point of convergence <note>The "point of convergence" (*punctum concursus*) refers to the focal point where light rays meet after passing through a lens.</note>. In this case, there is a closer relationship between this proposition and the previous one, and it is specific to the investigation of the eyepiece tube.
-
-Therefore, in the next diagram (repeated from Proposition 70), the position of the concave lens and the eye will be between the convex lens **AB** and the points of convergence **D** and **F**. Let it be at **IG**. There will then be a certain measure of convergence for rays **AI** and **HG** at the angle **IFG**. To prevent this convergence from hindering distant vision, it must either be removed entirely for a <term>presbyopic eye</term> <note>original Greek: *presbytou*; literally "of an old man," referring to an eye that requires parallel rays to see clearly at a distance</note>, so that the rays become parallel, or a degree of divergence must additionally be introduced for a <term>nearsighted eye</term> <note>original Greek: *myops*; an eye that requires diverging rays to focus correctly</note>. And yet, according to Proposition 104, both can be achieved by a concave lens placed at some point before the points of convergence. It is demonstrated in Proposition 107 that this lens must be "hollowed" <note>concave</note> from a smaller circle than that used by the convex lens <note>In 17th-century optics, a "smaller circle" refers to a tighter radius of curvature, making the lens more powerful.</note>. Furthermore, a concave lens applied by itself close to the eye must produce blurred vision. This is because whatever remedies the blurriness caused by a convex lens must also produce blurriness from the opposite cause.
-
-Secondly, let the quality of the eye's position be such that it is placed *outside* the points of convergence—for instance, if in the next diagram (repeated from Propositions 70 and 75) it were at **OP**, beyond **D** and **F**. In that case, a concave lens applied before the point of convergence **D** or **F** can, according to Proposition 104, ensure that no convergence occurs, but rather that the rays diverge again, and thus reach the eye at **OP**. However, in this case, many circumstances are required. First, the concave lens must be made from a small circle <note>i.e., it must have a sharp curvature</note>. For if it were from a large circle, all the rays between **AD** and **BD** would only strike a small portion of it near the perpendicular line; therefore, the refraction would have little effect, and certainly not enough to cancel out the convergence. This requirement is common to this case and the previous one. Secondly, if the lens is concave from a small circle so that it can induce divergence, it still does not send all those diverging rays to the eye...
-
-<meta>catchword: far (longè)</meta>
-
-<summary>This page explores the mathematical and physical requirements for combining convex and concave lenses to correct vision, distinguishing between the needs of presbyopic and nearsighted eyes. It explains how the curvature and placement of a concave lens can stop light rays from converging too early or redirect them to suit the observer's eye.</summary>
-
-<keywords>optics, convex lens, concave lens, focal point, convergence, divergence, presbyopia, myopia, refraction, telescope design</keywords>
