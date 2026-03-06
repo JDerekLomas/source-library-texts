@@ -1,14 +1,14 @@
 {
   "id": "6970e3609b09d309d780a266",
   "title": "Alchemiae libri",
-  "display_title": "Alchemiae libri",
+  "display_title": "Books of Alchemy",
   "author": "Geber",
   "language": "Latin",
   "year": 1545,
   "published": "1545",
   "pages_count": 332,
   "pages_with_ocr": 332,
-  "pages_with_translation": 324,
+  "pages_with_translation": 327,
   "source_url": "https://sourcelibrary.org/book/6970e3609b09d309d780a266",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:26:15.382Z",
+  "synced_at": "2026-03-06T22:00:41.043Z",
   "_hashes": {
     "ocr": "1c878caeb3e74824",
-    "translation": "8f3f1658c305d8a9"
+    "translation": "7f0aa5e9b87feacf"
   }
 }
