@@ -1,14 +1,14 @@
 {
   "id": "6953e46b77f38f6761bee386",
   "title": "De Revolutionibus - German Translation with Commentary",
-  "display_title": "De Revolutionibus - German Translation with Commentary",
+  "display_title": "On the Revolutions of the Heavenly Spheres",
   "author": "Nicolaus Copernicus; C.L. Menzzer",
   "language": "Latin-German",
   "year": 1879,
   "published": "Unknown",
   "pages_count": 466,
   "pages_with_ocr": 466,
-  "pages_with_translation": 458,
+  "pages_with_translation": 450,
   "source_url": "https://sourcelibrary.org/book/6953e46b77f38f6761bee386",
   "license": "publicdomain",
   "doi": null,
@@ -20,9 +20,9 @@
     "prompt_version": "v4.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:24:41.118Z",
+  "synced_at": "2026-03-06T19:30:43.770Z",
   "_hashes": {
     "ocr": "4f4012817079610f",
-    "translation": "60ddd5cd005f8a30"
+    "translation": "1a74ab457e3d4094"
   }
 }
