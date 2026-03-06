@@ -1,14 +1,14 @@
 {
   "id": "69520571ab34727b1f042c78",
   "title": "Monas hieroglyphica",
-  "display_title": "Monas hieroglyphica",
+  "display_title": "The Hieroglyphic Monad",
   "author": "John Dee",
   "language": "Latin",
   "year": 1564,
   "published": "1564",
   "pages_count": 61,
   "pages_with_ocr": 61,
-  "pages_with_translation": 61,
+  "pages_with_translation": 57,
   "source_url": "https://sourcelibrary.org/book/69520571ab34727b1f042c78",
   "license": "publicdomain",
   "doi": null,
@@ -20,9 +20,9 @@
     "prompt_version": "v4.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:29:36.412Z",
+  "synced_at": "2026-03-06T20:40:42.352Z",
   "_hashes": {
     "ocr": "0b0ef6508428e21a",
-    "translation": "78cba14df8b0cc40"
+    "translation": "d123994275d5d87a"
   }
 }

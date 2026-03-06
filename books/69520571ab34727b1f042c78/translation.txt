@@ -1,17 +1,3 @@
---- Page 1 ---
-<meta>This page follows the previous transcription; however, the source image for this specific folio is reported as being completely illegible, preventing a direct textual continuation.</meta>
-
-# [Unreadable Folio]
-
-<unclear>The text on this page is entirely illegible.</unclear>
-
-The original manuscript page is currently unrecoverable for translation. The source material is obscured by a dense field of black and white grain—often referred to as digital "noise"—which lacks the contrast necessary to distinguish ink from the parchment. Consequently, no headings, paragraphs, or diagrams are discernible at this time.
-
-<note>While the source language is identified as Latin, the extreme digital stippling prevents the identification of individual characters or symbols.</note>
-
-<summary>This page is currently unreadable due to extreme digital noise and lack of contrast in the source image.</summary>
-<keywords>illegible, digital noise, Latin manuscript, unrecoverable text</keywords>
-
 --- Page 2 ---
 <meta>This page is the title page of John Dee’s seminal work. While the previous page in the digital record was illegible, this folio marks the formal beginning of the treatise. It establishes the book’s dedication to Maximilian II and introduces the central alchemical symbol, the Hieroglyphic Monad.</meta>
 
@@ -1153,56 +1139,66 @@ The sum of every kind of addition of the parts ------ is ------ 24, { 1. 2. 4. 3
 <keywords>Quaternary, arithmetic, alchemy, 24 Carat gold, elements, measurements of time, John Dee, Monas Hieroglyphica</keywords>
 
 --- Page 53 ---
-<meta>This is the start of a logical progression within the text. The title "MONAS HIERO-" is the first part of "MONAS HIEROGLYPHICA" (The Hieroglyphic Monad).</meta>
-<header>THE HIEROGLYPHIC MONAD</header>
+<meta>This page continues the discussion from the previous page, where John Dee was explaining how the specific numbers derived from the Quaternary (1, 2, 3, 4 and his "Artificial" 1, 2, 3, 2) are the keys to understanding nature. The "P..." at the end of the previous page likely refers to *Potentia* (Power) or *Virtue*, which is the first branch of the diagram on this page.</meta>
 
-<image-desc>A hierarchical tree diagram from John Dee's "Monas Hieroglyphica". The diagram branches from the central word "These,", which is linked by a large curly brace to a block of explanatory text on the left. To the right, "These," branches into three primary categories: Virtue (Power), Weights, and Times. Each of these branches into further sub-categories and lists of terms or numbers, organized with curly braces. The "Virtue" branch includes "Acting: external" (with grades 1° through 4°) and "Acquired, Internal" (with Decimal and Infinite). The "Weights" branch includes "Analytical" (4, 3) and "Synthetical," the latter featuring a vertical list of numbers (13, 12, 8, 7, 6, 5, 4, 3, 2, 1) associated with the Greek terms for 'sub-ratio' and 'pro-ratio' and the values 24 and 25. The "Times" branch includes "Particular" (listing alchemical stages: Preparation, Putrefaction, Separation, Conjunction, Coagulation, Attrition, Imbibition) and "Masterful" (listing Stone and Ferment associated with the number 252).</image-desc>
+# HIERO-
 
-<margin>
-Our Numbers possess this Dignity: That to violate their Laws would be a Sin against the Wisdom of Nature; for she wishes to teach us, through the examination of her greatest Mysteries, that she is proclaimed within these same fixed and established Limits.
-</margin>
+<image-desc>A complex taxonomic branching diagram classifying philosophical and alchemical concepts into three main categories: Virtue, Weights, and Times. Brackets and braces connect numerical sequences and alchemical stages to these three headers.</image-desc>
+
+> Our numbers possess this Dignity: That to violate their Laws is a Sin against the Wisdom of Nature; who, in the examination of her greatest Mysteries, wishes to teach us by these same certain and fixed Limits within which those Mysteries are proclaimed.
 
 **These things [are],**
 
-- **Virtue <note>original: "Virtus"; in this context, it implies the inherent power or potency of the monad</note>**
-    - **Acting: external** { 1st, 2nd, 3rd, 4th } **Grades.**
-    - **Acquired, Internal.**
-        - **Decimal** <note>original: "Denaria"</note> *that is,* 1, 10, 100.
-        - **Infinite.**
+*   **Virtue** <note>Also translated as Power or Efficacy</note>
+    *   Acting: external
+        *   1st
+        *   2nd
+        *   3rd
+        *   4th
+        *   **Degree.**
+    *   Acquired, Internal.
+        *   **Tenfold** <note>original: *Denaria*; the system of tens (1, 10, 100) signifying a return to the Monad or Unity</note> (*that is*, 1. 10. 100.)
+        *   **Infinite.**
 
-- **Weights**
-    - **Analytical** { 4, 3 }
-    - **Synthetical: according to <note>original Greek: "κατὰ" (kata)</note>**
-        - **sub-ratio <note>original Greek: "ὑπολόγος" (hypologos)</note>**
-        - 13
-        - 12
-        - 8
-        - 7
-        - 6
-        - 5
-        - 4
-        - 3
-        - 2
-        - 1
-        - **pro-ratio <note>original Greek: "προλόγος" (prologos)</note>**
-        <note>To the right of the vertical list of numbers, the values 24 and 25 appear, grouped by braces. The brace for 24 aligns with the upper numbers (13, 12, 8, 7, 6) and the brace for 25 aligns with the lower numbers (5, 4, 3, 2, 1).</note>
+---
 
-- **Times**
-    - **Particular**
-        - Preparation.
-        - Putrefaction.
-        - Separation.
-        - Conjunction.
-        - Coagulation.
-        - Attrition.
-        - Imbibition. <note>These are standard stages in the alchemical process of refining a substance.</note>
-    - **Masterful**
-        - Stone. <note>Refers to the Philosopher's Stone.</note>
-        - Ferment.
-        - **252.**
+*   **Weights**
+    *   **Analytical**
+        *   4.
+        *   3.
+    *   **Synthetic: according to**
+        *   **Sub-ratio** <note>original Greek: *hypologos*; the denominator or consequent term in a ratio</note>
+            *   13
+            *   12
+            *   8
+            *   7
+            *   6
+            *   5
+            *   4
+            *   3
+            *   2
+            *   1
+        *   **Leading ratio** <note>original Greek: *prologos*; the numerator or antecedent term in a ratio</note>
+    *   [Resulting in:] 24. 25.
 
-<summary>This page presents a hierarchical diagram (a 'tree of knowledge') that categorizes the properties of the Hieroglyphic Monad into Powers, Weights, and Times. It establishes the mathematical and alchemical framework for John Dee's mystical system.</summary>
-<keywords>Virtue, Weights, Times, Alchemical stages, Philosopher's Stone, Greek ratios, John Dee, Numerology</keywords>
+---
+
+*   **Times**
+    *   **Particular** <note>The specific stages of the "Great Work" in alchemy</note>
+        *   Preparation.
+        *   Putrefaction.
+        *   Separation.
+        *   Conjunction.
+        *   Coagulation.
+        *   Contrition. <note>original: *Contri.*; likely referring to attrition or cibation (feeding the matter)</note>
+        *   Imbibition.
+    *   **Magisterial** <note>The advanced stages of the "Master" work</note>
+        *   Stone. <note>original: *Lap.*; the Philosopher's Stone</note>
+        *   Fermentation.
+    *   [Resulting in:] 252.
+
+<summary>This page presents a taxonomic tree classifying the application of Dee's "Sacred Numbers" into three realms: Virtue (the power of degrees), Weights (mathematical ratios), and Times (the chronological stages of alchemical transformation).</summary>
+<keywords>Virtue, Weights, Times, Denary, Alchemical stages, Hypologos, Prologos, Philosopher's Stone, Numerical Law</keywords>
 
 --- Page 54 ---
 <meta>This page continues the mathematical and mystical exploration of the Hieroglyphic Monad, focusing on the relationship between the number four (the Quaternary) and the number ten (the Denary) as the limits of nature's operations.</meta>
@@ -1320,83 +1316,42 @@ Contact at a Point. <note>original: "Contactus ad Punctum"; a geometrical refere
 <keywords>Colophon, Revelation 4:11, Delta, Guillaume Silvius, Antwerp, 1564, Divine Mystery, Intellect, Truth</keywords>
 
 --- Page 57 ---
-<meta>This page serves as the final visual/heraldic endpaper of the work.</meta>
+<meta>This page serves as the final visual emblem or printer's mark following the conclusion of the *Monas Hieroglyphica*. While the previous page provided the textual ending and colophon, this page presents a symbolic summary through heraldic imagery, reinforcing the themes of divine union and the "Great Work" discussed throughout the book.</meta>
 
-->A:<-
+SURVIVORS
+OF THE NORTHERN WATERS <note>original: "SUPERSTITES BOREIS AQVÆ"; "Boreis" refers to the north wind or northern regions. This phrase likely refers to the survival of ancient wisdom through the "cold waters" of time, or perhaps alludes to Dee’s specific interests in Northern maritime exploration and the "British Empire."</note>
 
-<image-desc>A large, ornate heraldic emblem. The central shield contains a complex alchemical or hermetic symbol: a circle topped with a crescent (the sign for Mercury), with a cross extending downwards from the circle and terminating in a heart shape. The shield is framed by voluminous, scrolling acanthus-leaf decoration. Above the helmet, the crest features a female figure emerging from a coronet; she holds a radiant star or sun in her raised right hand and a palm branch in her left. Two vertical inscriptions flank the figure. At the bottom left is a circular library stamp.</image-desc>
+-> A: <- <note>A reference label, possibly linking this emblem to a specific theorem or section within the main text.</note>
 
-<margin>
-THOSE WHO SURVIVE
-THE NORTHERN WATERS
-</margin>
+AND THE EARTH SHALL GIVE
+ITS FRUIT <note>original: "ET TERRA FRVCTVM DABIT SVVM"; This is a biblical allusion (found in Psalm 67:6 and Zechariah 8:12). In an alchemical context, it suggests that when the celestial conditions are right, the "Earth" (the material matter) will finally yield the "Fruit" of the Philosopher’s Stone or spiritual enlightenment.</note>
 
-<margin>
-AND THE EARTH
-SHALL GIVE HER FRUIT
-</margin>
+<insert>ROYAL IMPERIAL LIBRARY</insert> <note>original: "BIBLIOTHECA REGIA IMPR."; This is an institutional library stamp, not part of Dee’s original composition, indicating this copy once belonged to a royal or state collection.</note>
 
-<insert>
-<image-desc>Circular library stamp of the Royal Library of Munich featuring a central figure.</image-desc>
-ROYAL LIBRARY OF MUNICH
-</insert>
-
-<summary>The final page features John Dee's personal or symbolic coat of arms, incorporating the Monad symbol with a heart. The accompanying mottos speak of survival and fertility, rounding out the alchemical journey.</summary>
-<keywords>Heraldry, Mercury symbol, Alchemical heart, Munich Library, Latin mottos, Symbolic achievement</keywords>
-
---- Page 58 ---
-<meta>This page follows the heraldic endpaper featuring John Dee's Monad symbol. It appears to be the first leaf of the manuscript proper, though the condition is extremely poor.</meta>
-
-The content of this page is currently illegible due to severe degradation, high pixelation, and a lack of contrast in the digital scan. 
-
-<margin>
-<unclear>A or R</unclear>
-</margin>
-
-<note>This page is likely the initial folio of the manuscript, but the text cannot be recovered from this specific image.</note>
-
-<summary>This page is illegible due to severe degradation of the scan. It likely represents the first leaf of the manuscript following the introductory heraldry.</summary>
-<keywords>illegible, damaged manuscript, initial folio</keywords>
-
---- Page 59 ---
-<meta>Following the illegible first leaf, this page continues the opening sequence of the volume.</meta>
-
-This page appears to be a blank flyleaf. No legible text, headings, or diagrams are visible.
-
-<note>Flyleaves are blank sheets inserted by bookbinders at the beginning or end of a book to protect the main text.</note>
-
-<summary>A blank page or flyleaf containing no discernible text or markings.</summary>
-<keywords>blank page, flyleaf, manuscript structure</keywords>
-
---- Page 60 ---
-<meta>Continuation of the blank or faded introductory leaves.</meta>
-
-This page is either a blank folio or the scan is too degraded to show the original content. No text or marginalia can be discerned.
-
-<summary>A scan of a blank or completely faded folio, providing no textual information.</summary>
-<keywords>blank folio, faded scan</keywords>
+<summary>This final page features a complex heraldic emblem summarizing the alchemical and philosophical goals of the Monad, paired with mottoes concerning survival and the eventual harvest of spiritual knowledge.</summary>
+<keywords>heraldry, alchemy, Mercury, heart, cross, Northern waters, biblical allusion, harvest, fruit of the earth</keywords>
 
 --- Page 61 ---
-<meta>This page is a modern technical insertion placed by the library or archive during the digitization process; it is not part of the historical manuscript.</meta>
+<meta>This page does not belong to the original 16th-century manuscript. It is a modern technical insert—a microfilm resolution target—used by the library or archive during the digitization process to ensure the focus and clarity of the photography remain consistent.</meta>
 
-->ISO TARGET NO. 1<-
-->NF Z 43-007 <note>This refers to a specific French industrial standard for microcopying and photography.</note><-
-->**AFNOR** <note>original: "Association Française de Normalisation"; the French National Organization for Standardization.</note><-
-->Cedex 7 - 92080 PARIS-LA-DÉFENSE<-
+### ISO RESOLUTION TARGET NO. 1
+French Standard Z 43-007
+**AFNOR** <note>The *Association Française de Normalisation* (French Standardization Association) is the organization responsible for industrial standards in France.</note>
+Cedex 7 - 92080 PARIS-LA-DÉFENSE
 
----
-
-->graphicom<-
-->338.57.70<-
+**graphicom** <note>Likely the name of the company that produced the calibration target.</note>
+338.57.10
 
 ---
 
-->0 1 2 3 4 5 6 8 9 10<-
+0 1 2 3 4 5 6 8 9 10 <note>A metric scale used to verify the reduction ratio and size of the original document on film.</note>
 
----
+->PHOTOGRAPHIC SERVICE<-
 
-# PHOTOGRAPHIC SERVICE
-<note>original: "SERVICE PHOTOGRAPHIQUE"</note>
+<term>ISO Resolution Target</term> <note>A standardized chart containing patterns of lines used to measure the sharpness and resolving power of a camera or microfilm system.</note>
+<term>AFNOR</term> <note>The French equivalent of the American National Standards Institute (ANSI).</note>
+<term>NF Z 43-007</term> <note>The specific French industrial code for microfilm quality control.</note>
+<term>Microfilm</term> <note>A length of film on which extremely small photographs of documents are stored, a common archival method before digital scanning.</note>
 
-<summary>This page is a modern photographic resolution test chart (ISO Mire) used by the French Photographic Service to calibrate the equipment used for scanning the manuscript.</summary>
-<keywords>ISO target, AFNOR, technical calibration, photographic service, microfilm standards</keywords>
+<summary>This is a modern technical calibration page used for microfilm quality control, featuring resolution patterns and the standards of the French National Organization for Standardization (AFNOR).</summary>
+<keywords>microfilm, ISO target, AFNOR, photographic standards, digitization, archival technicality</keywords>
