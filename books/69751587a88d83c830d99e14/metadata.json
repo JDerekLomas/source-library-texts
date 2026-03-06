@@ -1,14 +1,14 @@
 {
   "id": "69751587a88d83c830d99e14",
   "title": "Articuli fidei sacrosanctae",
-  "display_title": "Articuli fidei sacrosanctae",
+  "display_title": "Articles of the Holy Faith",
   "author": "Lull, Ramón",
   "language": "Latin",
   "year": 1578,
   "published": "1578",
   "pages_count": 139,
   "pages_with_ocr": 139,
-  "pages_with_translation": 110,
+  "pages_with_translation": 135,
   "source_url": "https://sourcelibrary.org/book/69751587a88d83c830d99e14",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:28:09.707Z",
+  "synced_at": "2026-03-06T23:30:28.072Z",
   "_hashes": {
     "ocr": "e4bbad2ddec465b8",
-    "translation": "00c7cf2f23292b8c"
+    "translation": "545f424ac3b0a5d5"
   }
 }
