@@ -1,14 +1,14 @@
 {
   "id": "6976db51097b3607ee4be2f9",
   "title": "[Hebrew: Avodat ha-kodesh]",
-  "display_title": "[Hebrew: Avodat ha-kodesh]",
+  "display_title": "The Holy Service",
   "author": "Gabbai, Meir ben Jechiel",
   "language": "Hebrew",
   "year": 1578,
   "published": "1578",
   "pages_count": 294,
-  "pages_with_ocr": 293,
-  "pages_with_translation": 212,
+  "pages_with_ocr": 294,
+  "pages_with_translation": 288,
   "source_url": "https://sourcelibrary.org/book/6976db51097b3607ee4be2f9",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:26:46.996Z",
+  "synced_at": "2026-03-06T23:50:18.112Z",
   "_hashes": {
-    "ocr": "38d1487c5ebaf015",
-    "translation": "9a3d2436bd4ded9a"
+    "ocr": "a68b5bf99161b8a1",
+    "translation": "f79a83bc70279c1e"
   }
 }
