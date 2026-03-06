@@ -1,14 +1,14 @@
 {
   "id": "6952062dab34727b1f0432ef",
   "title": "De rudimentis hebraicis",
-  "display_title": "De rudimentis hebraicis",
+  "display_title": "On the Fundamentals of Hebrew (De rudimentis hebraicis)",
   "author": "Johannes Reuchlin",
   "language": "Latin/Hebrew",
   "year": 1506,
   "published": "1506",
   "pages_count": 628,
   "pages_with_ocr": 628,
-  "pages_with_translation": 503,
+  "pages_with_translation": 628,
   "source_url": "https://sourcelibrary.org/book/6952062dab34727b1f0432ef",
   "license": "publicdomain",
   "doi": null,
@@ -20,9 +20,9 @@
     "prompt_version": null,
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:23:08.659Z",
+  "synced_at": "2026-03-06T18:50:59.722Z",
   "_hashes": {
     "ocr": "8300e400f6c87109",
-    "translation": "2f7fba45e3fecb84"
+    "translation": "495afd869bae77ef"
   }
 }
