@@ -1,14 +1,14 @@
 {
   "id": "695575ce57e3b773024f25c2",
   "title": "Harmonie Universelle (Tome I)",
-  "display_title": "Harmonie Universelle (Tome I)",
+  "display_title": "Universal Harmony, Volume I",
   "author": "Marin Mersenne",
   "language": "French",
   "year": 1636,
   "published": "1636",
   "pages_count": 800,
   "pages_with_ocr": 800,
-  "pages_with_translation": 639,
+  "pages_with_translation": 787,
   "source_url": "https://sourcelibrary.org/book/695575ce57e3b773024f25c2",
   "license": "https://gallica.bnf.fr/html/und/conditions-dutilisation-des-contenus-de-gallica",
   "doi": null,
@@ -20,9 +20,9 @@
     "prompt_version": "v5.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:22:00.523Z",
+  "synced_at": "2026-03-06T19:50:55.750Z",
   "_hashes": {
     "ocr": "34af38aff3e3c0df",
-    "translation": "fa7199d997664f10"
+    "translation": "77b9ffbc9c94ec06"
   }
 }
