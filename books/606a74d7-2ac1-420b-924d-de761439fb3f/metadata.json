@@ -1,14 +1,14 @@
 {
   "id": "606a74d7-2ac1-420b-924d-de761439fb3f",
   "title": "De Revolutionibus Orbium Coelestium",
-  "display_title": "De Revolutionibus (1543 First Edition)",
+  "display_title": "On the Revolutions of the Heavenly Spheres",
   "author": "Nicolaus Copernicus",
   "language": "Latin",
   "year": 1543,
   "published": "1543",
   "pages_count": 426,
   "pages_with_ocr": 426,
-  "pages_with_translation": 426,
+  "pages_with_translation": 421,
   "source_url": "https://sourcelibrary.org/book/606a74d7-2ac1-420b-924d-de761439fb3f",
   "license": "publicdomain",
   "doi": null,
@@ -20,9 +20,9 @@
     "prompt_version": "v4.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:25:12.253Z",
+  "synced_at": "2026-03-06T17:40:46.002Z",
   "_hashes": {
     "ocr": "74797c0aaee6463c",
-    "translation": "1e4a438ae9f1ef47"
+    "translation": "b2341e05294944e7"
   }
 }
