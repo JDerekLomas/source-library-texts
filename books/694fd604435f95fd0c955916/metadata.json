@@ -1,14 +1,14 @@
 {
   "id": "694fd604435f95fd0c955916",
   "title": "Cosmographia (Geography)",
-  "display_title": "Cosmographia (Geography)",
+  "display_title": "Geography",
   "author": "Claudius Ptolemy",
   "language": "Latin",
   "year": 1482,
   "published": "1482",
   "pages_count": 276,
   "pages_with_ocr": 276,
-  "pages_with_translation": 276,
+  "pages_with_translation": 273,
   "source_url": "https://sourcelibrary.org/book/694fd604435f95fd0c955916",
   "license": "publicdomain",
   "doi": null,
@@ -20,9 +20,9 @@
     "prompt_version": "v4.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:26:55.056Z",
+  "synced_at": "2026-03-06T17:40:41.911Z",
   "_hashes": {
     "ocr": "33caf414c32acaa3",
-    "translation": "1540d8fe37dbce71"
+    "translation": "ea516d9414f8f0e0"
   }
 }
