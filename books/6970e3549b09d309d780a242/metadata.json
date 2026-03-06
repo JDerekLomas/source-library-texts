@@ -1,14 +1,14 @@
 {
   "id": "6970e3549b09d309d780a242",
   "title": "Adagiorum chiliades quatuor cum sesquicenturia",
-  "display_title": "Adagiorum chiliades quatuor cum sesquicenturia",
+  "display_title": "The Adages",
   "author": "Erasmus, Desiderius",
   "language": "Latin",
   "year": 1559,
   "published": "1559",
   "pages_count": 1202,
   "pages_with_ocr": 1202,
-  "pages_with_translation": 902,
+  "pages_with_translation": 1198,
   "source_url": "https://sourcelibrary.org/book/6970e3549b09d309d780a242",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:20:42.155Z",
+  "synced_at": "2026-03-06T21:30:41.230Z",
   "_hashes": {
     "ocr": "7321210de041d973",
-    "translation": "6ec2a56fc3f99d59"
+    "translation": "e0d043983e1bf626"
   }
 }
