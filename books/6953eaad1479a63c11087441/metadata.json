@@ -1,14 +1,14 @@
 {
   "id": "6953eaad1479a63c11087441",
   "title": "Oeuvres de Descartes Vol. I (Correspondance)",
-  "display_title": "Oeuvres de Descartes Vol. I (Correspondance)",
+  "display_title": "The Collected Works of Descartes, Volume 1: Correspondence",
   "author": "René Descartes",
   "language": "French",
   "year": 1897,
   "published": "1897",
   "pages_count": 714,
   "pages_with_ocr": 713,
-  "pages_with_translation": 700,
+  "pages_with_translation": 692,
   "source_url": "https://sourcelibrary.org/book/6953eaad1479a63c11087441",
   "license": "publicdomain",
   "doi": null,
@@ -20,9 +20,9 @@
     "prompt_version": "v5.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:22:40.102Z",
+  "synced_at": "2026-03-06T19:40:53.425Z",
   "_hashes": {
     "ocr": "342ad24c03236a91",
-    "translation": "4cca367a2c6efc28"
+    "translation": "6c2266d1ff3edafe"
   }
 }
