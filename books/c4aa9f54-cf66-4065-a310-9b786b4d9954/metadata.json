@@ -1,14 +1,14 @@
 {
   "id": "c4aa9f54-cf66-4065-a310-9b786b4d9954",
   "title": "De Consolatione Philosophiae",
-  "display_title": "Boethius: De Consolatione (1486)",
+  "display_title": "The Consolation of Philosophy",
   "author": "Boethius; comm. Thomas Waleys",
   "language": "Latin",
   "year": null,
   "published": null,
   "pages_count": 490,
   "pages_with_ocr": 490,
-  "pages_with_translation": 480,
+  "pages_with_translation": 475,
   "source_url": "https://sourcelibrary.org/book/c4aa9f54-cf66-4065-a310-9b786b4d9954",
   "license": "publicdomain",
   "doi": null,
@@ -20,9 +20,9 @@
     "prompt_version": "v4.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:24:31.739Z",
+  "synced_at": "2026-03-06T18:20:43.804Z",
   "_hashes": {
     "ocr": "163a1a7152ab7362",
-    "translation": "3d8f951d3d450df4"
+    "translation": "3bee7e72371da274"
   }
 }
