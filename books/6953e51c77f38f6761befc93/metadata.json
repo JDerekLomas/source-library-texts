@@ -1,14 +1,14 @@
 {
   "id": "6953e51c77f38f6761befc93",
   "title": "Discours de la Méthode suivi des Méditations Métaphysiques",
-  "display_title": "Discours de la Méthode suivi des Méditations Métaphysiques",
+  "display_title": "Discourse on the Method and Metaphysical Meditations",
   "author": "René Descartes",
   "language": "French",
   "year": 1900,
   "published": "1900",
   "pages_count": 485,
   "pages_with_ocr": 485,
-  "pages_with_translation": 485,
+  "pages_with_translation": 471,
   "source_url": "https://sourcelibrary.org/book/6953e51c77f38f6761befc93",
   "license": "publicdomain",
   "doi": null,
@@ -20,9 +20,9 @@
     "prompt_version": "v4.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:24:34.450Z",
+  "synced_at": "2026-03-06T19:51:00.877Z",
   "_hashes": {
     "ocr": "2e72f7dfa1ddca1d",
-    "translation": "eebc3ac491d0e78b"
+    "translation": "8b89e6502ca02530"
   }
 }
