@@ -7,8 +7,8 @@
   "year": 1835,
   "published": "1835",
   "pages_count": 544,
-  "pages_with_ocr": 530,
-  "pages_with_translation": 531,
+  "pages_with_ocr": 544,
+  "pages_with_translation": 544,
   "source_url": "https://sourcelibrary.org/book/69526a50ab34727b1f046dc5",
   "license": "publicdomain",
   "doi": null,
@@ -20,9 +20,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:23:52.513Z",
+  "synced_at": "2026-03-06T19:10:57.713Z",
   "_hashes": {
-    "ocr": "db48433c7b95d0ed",
-    "translation": "3a15327e44fa34b0"
+    "ocr": "68ce0635de346376",
+    "translation": "d5528a142771a074"
   }
 }
