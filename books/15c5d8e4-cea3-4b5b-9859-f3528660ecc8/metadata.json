@@ -1,14 +1,14 @@
 {
   "id": "15c5d8e4-cea3-4b5b-9859-f3528660ecc8",
   "title": "Philosophiae Naturalis Principia Mathematica",
-  "display_title": "Newton: Principia (1726 Third Edition)",
+  "display_title": "Mathematical Principles of Natural Philosophy",
   "author": "Isaac Newton",
   "language": "Latin",
   "year": 1687,
   "published": "1687",
   "pages_count": 586,
   "pages_with_ocr": 585,
-  "pages_with_translation": 580,
+  "pages_with_translation": 575,
   "source_url": "https://sourcelibrary.org/book/15c5d8e4-cea3-4b5b-9859-f3528660ecc8",
   "license": "publicdomain",
   "doi": null,
@@ -20,9 +20,9 @@
     "prompt_version": "v5.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:23:27.037Z",
+  "synced_at": "2026-03-06T18:50:47.811Z",
   "_hashes": {
     "ocr": "eedd4fbad80d2c6b",
-    "translation": "264fb40f0c41babb"
+    "translation": "733f7c7621a3b146"
   }
 }
