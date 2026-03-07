@@ -1,14 +1,14 @@
 {
   "id": "6988a5a055fce396773aa43d",
   "title": "Le Roman de la Rose",
-  "display_title": "Le Roman de la Rose",
+  "display_title": "The Romance of the Rose",
   "author": "Lorris, Guillaume de|Meung, Jean de",
   "language": "French",
   "year": 1799,
   "published": "[1799] \"an septième\"",
   "pages_count": 524,
   "pages_with_ocr": 524,
-  "pages_with_translation": 462,
+  "pages_with_translation": 510,
   "source_url": "https://sourcelibrary.org/book/6988a5a055fce396773aa43d",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:23:59.185Z",
+  "synced_at": "2026-03-07T03:40:25.115Z",
   "_hashes": {
     "ocr": "2fd399d5211b69b6",
-    "translation": "72ef6eb298fc6017"
+    "translation": "1361a3dd7d458c4c"
   }
 }
