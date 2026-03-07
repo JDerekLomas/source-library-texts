@@ -1,0 +1,26 @@
+{
+  "id": "69a02781bd4078a454714f71",
+  "title": "De synagoga vetere libri tres",
+  "display_title": "Three Books on the Ancient Synagogue",
+  "author": "Vitringa, Campegius",
+  "language": "Latin",
+  "year": 1726,
+  "published": "1726",
+  "pages_count": 1280,
+  "pages_with_ocr": 1280,
+  "pages_with_translation": 1269,
+  "source_url": "https://sourcelibrary.org/book/69a02781bd4078a454714f71",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-07T07:20:50.672Z",
+  "_hashes": {
+    "ocr": "68c5fb6be9eef1ce",
+    "translation": "cff05b3665da93f6"
+  }
+}
