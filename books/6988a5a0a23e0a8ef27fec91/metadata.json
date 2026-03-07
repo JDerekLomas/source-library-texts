@@ -1,14 +1,14 @@
 {
   "id": "6988a5a0a23e0a8ef27fec91",
   "title": "[Hebrew: Sefer Yetzirah]",
-  "display_title": "[Hebrew: Sefer Yetzirah]",
+  "display_title": "The Book of Formation",
   "author": "Unknown",
   "language": "Hebrew",
   "year": 1562,
   "published": "1562",
   "pages_count": 232,
-  "pages_with_ocr": 99,
-  "pages_with_translation": 95,
+  "pages_with_ocr": 232,
+  "pages_with_translation": 224,
   "source_url": "https://sourcelibrary.org/book/6988a5a0a23e0a8ef27fec91",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:28:50.887Z",
+  "synced_at": "2026-03-07T03:20:24.050Z",
   "_hashes": {
-    "ocr": "a7245b0becee3eef",
-    "translation": "0439e46fff2f99a1"
+    "ocr": "1bba2e273e5e2fb3",
+    "translation": "b94a1e22852f75ac"
   }
 }
