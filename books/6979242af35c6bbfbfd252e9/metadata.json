@@ -1,14 +1,14 @@
 {
   "id": "6979242af35c6bbfbfd252e9",
   "title": "Clavis totius philosophiae chymisticae",
-  "display_title": "Clavis totius philosophiae chymisticae",
+  "display_title": "The Key to the Whole of Chemical Philosophy",
   "author": "Dorn, Gerhard",
   "language": "Latin",
   "year": 1594,
   "published": "1594",
   "pages_count": 302,
   "pages_with_ocr": 302,
-  "pages_with_translation": 229,
+  "pages_with_translation": 291,
   "source_url": "https://sourcelibrary.org/book/6979242af35c6bbfbfd252e9",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:26:41.907Z",
+  "synced_at": "2026-03-07T01:30:29.074Z",
   "_hashes": {
     "ocr": "c6dc22f7d2875539",
-    "translation": "111b0bffe779a161"
+    "translation": "34324a3b6c7148eb"
   }
 }
