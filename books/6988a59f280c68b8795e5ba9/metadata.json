@@ -6,9 +6,9 @@
   "language": "French",
   "year": 1646,
   "published": "1646",
-  "pages_count": 340,
-  "pages_with_ocr": 340,
-  "pages_with_translation": 298,
+  "pages_count": 339,
+  "pages_with_ocr": 339,
+  "pages_with_translation": 317,
   "source_url": "https://sourcelibrary.org/book/6988a59f280c68b8795e5ba9",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-03-04T20:20:45.314Z",
+  "synced_at": "2026-03-07T10:20:01.252Z",
   "_hashes": {
-    "ocr": "774f6cf0b3f3d8d7",
-    "translation": "295211ecc4d829cf"
+    "ocr": "e865270d6b9885fc",
+    "translation": "720ac8fa246a1699"
   }
 }
