@@ -1,14 +1,14 @@
 {
   "id": "697e23c3eae9ff63cff4df7e",
   "title": "Über Jesuiten, Freymaurer und deutsche Rosenkreutzer",
-  "display_title": "Über Jesuiten, Freymaurer und deutsche Rosenkreutzer",
+  "display_title": "On Jesuits, Freemasons, and German Rosicrucians",
   "author": "[Knigge, Adolf von]",
   "language": "German",
   "year": 1781,
   "published": "1781",
   "pages_count": 162,
-  "pages_with_ocr": 138,
-  "pages_with_translation": 4,
+  "pages_with_ocr": 162,
+  "pages_with_translation": 142,
   "source_url": "https://sourcelibrary.org/book/697e23c3eae9ff63cff4df7e",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v5.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:28:10.015Z",
+  "synced_at": "2026-03-07T23:30:32.113Z",
   "_hashes": {
-    "ocr": "36acd87f61826dcb",
-    "translation": "d8a8e8d48e858204"
+    "ocr": "2478d89d8fe1d23e",
+    "translation": "8e6424e2ab1115dc"
   }
 }
