@@ -1,0 +1,28 @@
+{
+  "id": "69a55361bab4924e15759a96",
+  "title": "How to Read Human Nature",
+  "display_title": "How to Read Human Nature",
+  "author": "William Walker Atkinson",
+  "language": "English",
+  "year": 1916,
+  "published": "1916",
+  "pages_count": 210,
+  "pages_with_ocr": 208,
+  "pages_with_translation": 200,
+  "source_url": "https://sourcelibrary.org/book/69a55361bab4924e15759a96",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "howtoreadhumanna00atki"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-07T11:30:36.874Z",
+  "_hashes": {
+    "ocr": "ffab886099912c7e",
+    "translation": "885108651610b2df"
+  }
+}
