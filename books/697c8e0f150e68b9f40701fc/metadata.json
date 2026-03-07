@@ -6,9 +6,9 @@
   "language": "German",
   "year": 1719,
   "published": "17[19?]",
-  "pages_count": 510,
-  "pages_with_ocr": 510,
-  "pages_with_translation": 502,
+  "pages_count": 499,
+  "pages_with_ocr": 499,
+  "pages_with_translation": 491,
   "source_url": "https://sourcelibrary.org/book/697c8e0f150e68b9f40701fc",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-03-05T02:20:55.920Z",
+  "synced_at": "2026-03-07T21:20:21.641Z",
   "_hashes": {
-    "ocr": "f94b3c89ca135d8e",
-    "translation": "8b2b7422ba87b5e5"
+    "ocr": "57e4f01dccc6288b",
+    "translation": "7b812d01b7b31601"
   }
 }
