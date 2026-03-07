@@ -1,14 +1,14 @@
 {
   "id": "6979272bf35c6bbfbfd252ef",
   "title": "Codicillus seu vade mecum",
-  "display_title": "Codicillus seu vade mecum",
+  "display_title": "The Codicil",
   "author": "Lull, Ramón",
   "language": "Latin",
   "year": 1651,
   "published": "1651",
   "pages_count": 220,
   "pages_with_ocr": 220,
-  "pages_with_translation": 173,
+  "pages_with_translation": 211,
   "source_url": "https://sourcelibrary.org/book/6979272bf35c6bbfbfd252ef",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:27:28.113Z",
+  "synced_at": "2026-03-07T01:00:20.105Z",
   "_hashes": {
     "ocr": "2cd5b6676810a465",
-    "translation": "5f2dde5032dc7df3"
+    "translation": "693cc4052ec30920"
   }
 }
