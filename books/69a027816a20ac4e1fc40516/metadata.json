@@ -1,0 +1,26 @@
+{
+  "id": "69a027816a20ac4e1fc40516",
+  "title": "Theosophia pneumatica, oder geheime Gottes-Lehre",
+  "display_title": "Pneumatic Theosophy, or the Secret Divine Teaching",
+  "author": "[Haug, Johann Friedrich]",
+  "language": "German",
+  "year": 1710,
+  "published": "1710",
+  "pages_count": 700,
+  "pages_with_ocr": 700,
+  "pages_with_translation": 691,
+  "source_url": "https://sourcelibrary.org/book/69a027816a20ac4e1fc40516",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-07T05:50:32.363Z",
+  "_hashes": {
+    "ocr": "db5ed3a262eb7f50",
+    "translation": "67615738f40c996f"
+  }
+}
