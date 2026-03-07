@@ -1,14 +1,14 @@
 {
   "id": "697e23ca35e7839f484f69be",
   "title": "De idolatria magica dissertatio",
-  "display_title": "De idolatria magica dissertatio",
+  "display_title": "Dissertation on Magical Idolatry",
   "author": "Filesac, Jean",
   "language": "Latin",
   "year": 1609,
   "published": "1609",
   "pages_count": 202,
-  "pages_with_ocr": 10,
-  "pages_with_translation": 7,
+  "pages_with_ocr": 202,
+  "pages_with_translation": 196,
   "source_url": "https://sourcelibrary.org/book/697e23ca35e7839f484f69be",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v4.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:31:03.498Z",
+  "synced_at": "2026-03-07T23:50:36.193Z",
   "_hashes": {
-    "ocr": "e960ff11de4adfd8",
-    "translation": "b13295b9b19c65f2"
+    "ocr": "1d9b30e5685954f5",
+    "translation": "f7c7a3089b91c344"
   }
 }
