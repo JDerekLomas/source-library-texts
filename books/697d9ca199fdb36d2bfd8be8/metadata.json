@@ -1,14 +1,14 @@
 {
   "id": "697d9ca199fdb36d2bfd8be8",
   "title": "De haeresi Albigensium exercitatio",
-  "display_title": "On the Albigensian Heresy",
+  "display_title": "A Discourse on the Albigensian Heresy",
   "author": "Brenna, Aloysius",
   "language": "Latin",
   "year": 1756,
   "published": "1756",
-  "pages_count": 113,
-  "pages_with_ocr": 113,
-  "pages_with_translation": 103,
+  "pages_count": 110,
+  "pages_with_ocr": 110,
+  "pages_with_translation": 100,
   "source_url": "https://sourcelibrary.org/book/697d9ca199fdb36d2bfd8be8",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v4.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-03-05T03:30:08.074Z",
+  "synced_at": "2026-03-07T23:00:21.898Z",
   "_hashes": {
-    "ocr": "33e82beddaec8a16",
-    "translation": "9cab2c27bd5a5cea"
+    "ocr": "154ab2a095e39a22",
+    "translation": "35870dc883feb8f2"
   }
 }
