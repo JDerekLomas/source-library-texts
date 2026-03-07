@@ -1,14 +1,14 @@
 {
   "id": "690c2476e0787282ad5930dd",
   "title": "Lebensbeschreibungen berühmter Männer aus den Zeiten der Wiederherstellung der Wissenschaften",
-  "display_title": "Biographies of Famous Men from the Times of the Revival of the Sciences",
+  "display_title": "Biographies of Famous Men from the Times of the Restoration of the Sciences",
   "author": "Meiners, Christoph",
   "language": "German",
   "year": 1795,
   "published": "1795-1797",
   "pages_count": 209,
   "pages_with_ocr": 209,
-  "pages_with_translation": 209,
+  "pages_with_translation": 204,
   "source_url": "https://sourcelibrary.org/book/690c2476e0787282ad5930dd",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v4.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:27:34.199Z",
+  "synced_at": "2026-03-07T15:30:39.318Z",
   "_hashes": {
     "ocr": "7e9c119a930cc292",
-    "translation": "dd31f2c217cbfd8a"
+    "translation": "5370702768824abf"
   }
 }
