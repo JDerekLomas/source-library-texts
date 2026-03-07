@@ -6,9 +6,9 @@
   "language": "English",
   "year": 1808,
   "published": "1808",
-  "pages_count": 102,
-  "pages_with_ocr": 102,
-  "pages_with_translation": 59,
+  "pages_count": 97,
+  "pages_with_ocr": 97,
+  "pages_with_translation": 54,
   "source_url": "https://sourcelibrary.org/book/697d9ca36ee2f39a34458cc5",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v4.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-03-04T19:40:37.808Z",
+  "synced_at": "2026-03-07T08:00:48.796Z",
   "_hashes": {
-    "ocr": "3edf372e09291189",
-    "translation": "91c36eb29902977d"
+    "ocr": "82d300c9dcbc2eb1",
+    "translation": "7c459e12f50d96fb"
   }
 }
