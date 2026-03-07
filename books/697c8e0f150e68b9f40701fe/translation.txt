@@ -1,3 +1,128 @@
+--- Page 2 ---
+<meta>This page serves as the reverse side of the front endpaper (frontispiece), establishing the thematic foundation for the manuscript. There is no prior text for continuity as this is the opening of the volume.</meta>
+
+<insert>
+->**HERMETIC PHILOSOPHY**<-
+<note>original Latin: "PHILOSOPHIA HERMETICA." This refers to the ancient tradition of spiritual wisdom, alchemy, and magic attributed to the legendary figure Hermes Trismegistus.</note>
+</insert>
+
+<note>The emblem described on this page features the "pelican in her piety," a potent symbol in both Christian iconography and alchemy. In an alchemical context, the pelican piercing its breast to feed its young with blood represents the <term>Rubedo</term> (the "Red Work"), symbolizing the final stage of the Great Work where the soul or substance is nourished and perfected through sacrifice and revitalization. The presence of the four roses below the pelican often suggests a Rosicrucian influence, a secret society focused on spiritual and physical transformation.</note>
+
+<summary>This frontispiece serves as a symbolic title page, identifying the manuscript's subject as Hermetic Philosophy. The central emblem of the pelican feeding its young signifies the alchemical process of transformation and spiritual nourishment.</summary>
+
+<keywords>Hermeticism, alchemy, pelican in her piety, emblem, Rosicrucianism, Great Work, frontispiece</keywords>
+
+--- Page 5 ---
+<meta>This page is the verso (back) of the frontispiece. It contains no direct text but rather a "ghost image" or offset transfer from the opposite page. This occurs when a book is closed before the ink is fully dry, leaving a faint, mirrored impression on the facing leaf. This page provides a glimpse into the mathematical or cryptographic structures often found in Hermetic manuscripts.</meta>
+
+### Mirrored Cryptographic Table
+
+<note>The following diagram is a faint impression transferred from another sheet. The characters and numbers appear in reverse (mirrored) orientation. Such grids were often used in <term>Gematria</term> (the practice of assigning numerical values to letters) or for creating <term>Magic Squares</term>, which were believed to harness planetary or spiritual energies.</note>
+
+->**The Upper Extension**<-
+
+| Top Column |
+| :--- |
+| [Decorative flourish resembling a '2'] |
+| [A small cross +] |
+| [A diagonal slash \] |
+
+<column-break/>
+
+->**The Main Horizontal Grid**<-
+
+| Column 1 | Column 2 | Column 3 | Column 4 | Column 5 | Column 6 | Column 7 | Column 8 | Column 9 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Flourish | Flourish | Flourish | Flourish | Flourish | Flourish | Flourish | Flourish | Flourish |
+| Reversed L (Γ) | _ | Mirrored L | J | I | L | T | L | J |
+| 8 | 5 | Symbol | Symbol | Symbol | Symbol | Symbol | Symbol | Symbol |
+| Flourish | Flourish | Flourish | Flourish | Flourish | Flourish | Flourish | Flourish | Flourish |
+| N | D | A | Mirrored V (Λ) | C | Mirrored L | U | J | C or V |
+| 19 | 18 | 17 | 12 | 11 | 13 | 12 | 11 | 10 |
+
+<column-break/>
+
+->**The Lower Central Grid**<-
+<note>This smaller block sits directly beneath the center of the main grid above.</note>
+
+| Column 1 | Column 2 | Column 3 | Column 4 |
+| :--- | :--- | :--- | :--- |
+| Flourish | Flourish | Flourish | Flourish |
+| Mirrored C | Mirrored J | Mirrored C | Mirrored D |
+| 33 | 32 | 31 | 30 |
+
+<column-break/>
+
+->**The Lower Extension**<-
+
+| Bottom Column |
+| :--- |
+| [Decorative flourish] |
+| [The letter 'O' or a circle] |
+| [Mirrored 'S' or number '8'] |
+
+<note>The sequence of numbers in the final row of the main grid (19, 18, 17...) and the lower block (33, 32, 31, 30) suggests a descending calculation or a specific <term>cipher key</term> used to encode or decode hidden messages within the text.</note>
+
+<summary>This page features a faint, mirrored offset of a complex cross-shaped diagram containing rows of calligraphic flourishes, letters, and numbers. It represents a mathematical or cryptographic tool common in Hermetic studies for spiritual or hidden calculations.</summary>
+
+<keywords>cryptography, mirrored text, magic square, numerology, cipher, occult diagram, hermeticism</keywords>
+
+--- Page 6 ---
+<meta>This page is the primary source for the mirrored "ghost image" described on the previous page. It presents a complete cryptographic key or "substitution table" where letters of the alphabet are assigned both a geometric symbol and a numerical value. Such systems were common in 17th and 18th-century Hermetic and alchemical texts to encrypt laboratory notes or spiritual secrets.</meta>
+
+### Cryptographic Substitution Table
+
+<note>This diagram is arranged in a <term>cruciform</term> (cross-shaped) layout. The alphabet used here consists of 24 characters, where "I" and "J" are distinct, but "U" and "V" are likely treated as a single character, as was common in Latin-based scripts of this period.</note>
+
+->**The Upper Arm**<-
+
+| Letter | **A** |
+| :--- | :--- |
+| **Symbol** | + |
+| **Value** | 1 |
+
+<column-break/>
+
+->**The Upper Horizontal Bar**<-
+
+| Letter | B | C | D | E | F | G | H | I | J |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **Symbol** | <note>Right angles and horizontal lines</note> | _ | _ | _ | _ | _ | _ | _ | _ |
+| **Value** | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | <note>blank</note> |
+
+<column-break/>
+
+->**The Lower Horizontal Bar**<-
+
+| Letter | K | L | M | N | O | P | Q | R | S | T |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **Symbol** | <note>V-shapes, brackets, and carets</note> | _ | _ | _ | _ | _ | _ | _ | _ | _ |
+| **Value** | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 |
+
+<column-break/>
+
+->**The Lower Stem**<-
+
+| Letter | **U** | **W** | **X** | **Y** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Symbol** | <note>Curved brackets</note> | _ | _ | _ |
+| **Value** | 20 | 21 | 22 | 23 |
+
+<note>The letter 'X' in this manuscript is written in a stylized script that closely resembles a lowercase 'h'.</note>
+
+<column-break/>
+
+->**The Base**<-
+
+| Letter | **Z** |
+| :--- | :--- |
+| **Symbol** | O |
+| **Value** | 24 |
+
+<summary>This page contains a complete cryptographic key in the shape of a cross, mapping the Latin alphabet to geometric symbols and the numbers 1 through 24. This table serves as the cipher for decoding or encoding hidden text within the manuscript.</summary>
+
+<keywords>cryptography, substitution cipher, alphabetic grid, numerology, cruciform table, geometric symbols</keywords>
+
 --- Page 7 ---
 <meta>This is the title page of a work originally published in 1792. The editor, H. C. Albrecht, was a known critic of secret societies during the Enlightenment period.</meta>
 
