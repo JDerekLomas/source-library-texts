@@ -6,9 +6,9 @@
   "language": "English",
   "year": 1662,
   "published": "1662",
-  "pages_count": 318,
-  "pages_with_ocr": 318,
-  "pages_with_translation": 4,
+  "pages_count": 313,
+  "pages_with_ocr": 313,
+  "pages_with_translation": 301,
   "source_url": "https://sourcelibrary.org/book/697936168e450bc779a9cad9",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-03-07T01:40:13.663Z",
+  "synced_at": "2026-03-07T12:10:48.098Z",
   "_hashes": {
-    "ocr": "bfb5f293500f21cf",
-    "translation": "d938a64ec9cb0d65"
+    "ocr": "6aa9b7e53ace37ff",
+    "translation": "bddff710f9c9a90e"
   }
 }
