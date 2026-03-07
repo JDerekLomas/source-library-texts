@@ -1,14 +1,14 @@
 {
   "id": "697d9c9d971fd6d8096654e4",
   "title": "Histoire critique de Nicolas Flamel et de Pernelle sa femme",
-  "display_title": "Histoire critique de Nicolas Flamel et de Pernelle sa femme",
+  "display_title": "Critical History of Nicolas Flamel and His Wife Pernelle",
   "author": "Villain, Etienne François",
   "language": "French",
   "year": 1761,
   "published": "1761",
   "pages_count": 470,
-  "pages_with_ocr": 459,
-  "pages_with_translation": 2,
+  "pages_with_ocr": 470,
+  "pages_with_translation": 451,
   "source_url": "https://sourcelibrary.org/book/697d9c9d971fd6d8096654e4",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v4.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:24:50.697Z",
+  "synced_at": "2026-03-07T22:40:25.813Z",
   "_hashes": {
-    "ocr": "086f7d2a64cc7a2c",
-    "translation": "3e0e9fe99789b581"
+    "ocr": "7eeb372687addec5",
+    "translation": "91efffafeefdfe69"
   }
 }
