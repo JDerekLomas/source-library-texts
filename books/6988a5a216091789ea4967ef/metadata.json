@@ -1,14 +1,14 @@
 {
   "id": "6988a5a216091789ea4967ef",
   "title": "Saint Nicaise oder eine Sammlung merkwuerdiger Briefe",
-  "display_title": "Saint Nicaise oder eine Sammlung merkwuerdiger Briefe",
+  "display_title": "Saint Nicaise, or a Collection of Remarkable Letters",
   "author": "[Starck, Johann August von]",
   "language": "German",
   "year": 1785,
   "published": "1785",
   "pages_count": 405,
   "pages_with_ocr": 405,
-  "pages_with_translation": 94,
+  "pages_with_translation": 395,
   "source_url": "https://sourcelibrary.org/book/6988a5a216091789ea4967ef",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:25:29.941Z",
+  "synced_at": "2026-03-07T04:10:13.456Z",
   "_hashes": {
     "ocr": "d880ba5ee0922f15",
-    "translation": "6746856520bf54a8"
+    "translation": "105dfe42e84b61e4"
   }
 }
