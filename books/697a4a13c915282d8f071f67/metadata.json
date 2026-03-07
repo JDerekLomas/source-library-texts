@@ -6,9 +6,9 @@
   "language": "Italian",
   "year": 1517,
   "published": "1517",
-  "pages_count": 565,
-  "pages_with_ocr": 565,
-  "pages_with_translation": 561,
+  "pages_count": 556,
+  "pages_with_ocr": 556,
+  "pages_with_translation": 553,
   "source_url": "https://sourcelibrary.org/book/697a4a13c915282d8f071f67",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-03-05T01:30:52.372Z",
+  "synced_at": "2026-03-07T20:10:24.290Z",
   "_hashes": {
-    "ocr": "010dcf934a95c490",
-    "translation": "3ff8d39f37af595f"
+    "ocr": "ba6ee95f297bd648",
+    "translation": "05b39fc6dab9b369"
   }
 }
