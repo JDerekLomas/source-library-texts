@@ -1,14 +1,14 @@
 {
   "id": "697798bfb450898084dfd93d",
   "title": "Le cantique des cantiques de Salomon",
-  "display_title": "Le cantique des cantiques de Salomon",
+  "display_title": "The Song of Solomon, Interpreted According to the Mystical Sense",
   "author": "[Guyon, Jeanne-Marie]",
   "language": "French",
   "year": 1688,
   "published": "1688",
   "pages_count": 262,
   "pages_with_ocr": 262,
-  "pages_with_translation": 208,
+  "pages_with_translation": 259,
   "source_url": "https://sourcelibrary.org/book/697798bfb450898084dfd93d",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:27:04.439Z",
+  "synced_at": "2026-03-07T00:50:31.239Z",
   "_hashes": {
     "ocr": "c30cc29b5549881c",
-    "translation": "2aad48c71c357ad9"
+    "translation": "8093b92dc04d3b77"
   }
 }
