@@ -1,14 +1,14 @@
 {
   "id": "697b079a19353e5ee89fb4c1",
   "title": "Elias Artista mit dem Stein der Weisen",
-  "display_title": "Elias Artista mit dem Stein der Weisen",
+  "display_title": "Elias the Artist with the Philosopher's Stone",
   "author": "[Müller, Johann Daniel]",
   "language": "German",
   "year": 1770,
   "published": "1770",
   "pages_count": 268,
   "pages_with_ocr": 268,
-  "pages_with_translation": 214,
+  "pages_with_translation": 267,
   "source_url": "https://sourcelibrary.org/book/697b079a19353e5ee89fb4c1",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:26:58.841Z",
+  "synced_at": "2026-03-07T00:50:27.410Z",
   "_hashes": {
     "ocr": "f82401040b9e8e38",
-    "translation": "48444e1e8a17d5a8"
+    "translation": "83f0db753e92a3a3"
   }
 }
