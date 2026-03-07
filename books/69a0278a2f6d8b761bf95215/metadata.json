@@ -1,14 +1,14 @@
 {
   "id": "69a0278a2f6d8b761bf95215",
   "title": "Summa perfectionis",
-  "display_title": "The Sum of Perfection of the Magistery",
+  "display_title": "The Sum of Perfection",
   "author": "Geber",
   "language": "Latin",
   "year": 1682,
   "published": "1682",
   "pages_count": 348,
   "pages_with_ocr": 241,
-  "pages_with_translation": 213,
+  "pages_with_translation": 228,
   "source_url": "https://sourcelibrary.org/book/69a0278a2f6d8b761bf95215",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v5.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-03-04T22:20:54.250Z",
+  "synced_at": "2026-03-07T11:10:09.611Z",
   "_hashes": {
     "ocr": "1079f0186e21906a",
-    "translation": "93b8eadf75a22686"
+    "translation": "314545ffe039314e"
   }
 }
