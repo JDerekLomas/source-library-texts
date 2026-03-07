@@ -1,14 +1,14 @@
 {
   "id": "697d9c9b72d515cb07bb383e",
   "title": "Graf von Gabalis oder Gespräche über die verborgenen Wissenschaften",
-  "display_title": "Graf von Gabalis oder Gespräche über die verborgenen Wissenschaften",
+  "display_title": "The Count of Gabalis",
   "author": "[Villars, Nicolas de Montfaucon de]",
   "language": "German",
   "year": 1782,
   "published": "1782",
   "pages_count": 142,
   "pages_with_ocr": 142,
-  "pages_with_translation": 6,
+  "pages_with_translation": 129,
   "source_url": "https://sourcelibrary.org/book/697d9c9b72d515cb07bb383e",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v5.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:28:08.464Z",
+  "synced_at": "2026-03-07T22:20:25.556Z",
   "_hashes": {
     "ocr": "89421fcc76ee887f",
-    "translation": "f957ee95ecab3e6d"
+    "translation": "c92232d25ccde0df"
   }
 }
