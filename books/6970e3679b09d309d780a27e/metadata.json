@@ -1,14 +1,14 @@
 {
   "id": "6970e3679b09d309d780a27e",
   "title": "Algemeine Geschichte der Waldenser",
-  "display_title": "Algemeine Geschichte der Waldenser",
+  "display_title": "General History of the Waldensians",
   "author": "Léger, Jean",
   "language": "French",
   "year": 1750,
   "published": "1750",
-  "pages_count": 690,
-  "pages_with_ocr": 690,
-  "pages_with_translation": 536,
+  "pages_count": 687,
+  "pages_with_ocr": 687,
+  "pages_with_translation": 671,
   "source_url": "https://sourcelibrary.org/book/6970e3679b09d309d780a27e",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:22:48.918Z",
+  "synced_at": "2026-03-07T22:00:22.305Z",
   "_hashes": {
-    "ocr": "495ec87dd3681faf",
-    "translation": "e4275996f68363c5"
+    "ocr": "4f03819b53510180",
+    "translation": "1c880c30a4982a8b"
   }
 }
