@@ -1,14 +1,14 @@
 {
   "id": "697e23c2eae9ff63cff4df60",
   "title": "Historia Jacob Böhmens des Schusters zu Görlitz",
-  "display_title": "Historia Jacob Böhmens des Schusters zu Görlitz",
+  "display_title": "History of Jacob Boehme, the Shoemaker of Görlitz",
   "author": "[Johann Sigismund von Schweinichen]",
   "language": "German",
   "year": 1698,
   "published": "1698",
   "pages_count": 284,
-  "pages_with_ocr": 10,
-  "pages_with_translation": 7,
+  "pages_with_ocr": 284,
+  "pages_with_translation": 277,
   "source_url": "https://sourcelibrary.org/book/697e23c2eae9ff63cff4df60",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v4.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:30:54.365Z",
+  "synced_at": "2026-03-07T23:10:34.384Z",
   "_hashes": {
-    "ocr": "c806c2b8ffa1bd23",
-    "translation": "bc147d9f86515c38"
+    "ocr": "40abcebc704ff993",
+    "translation": "15587a741a1735f3"
   }
 }
