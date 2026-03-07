@@ -6,8 +6,8 @@
   "language": "German",
   "year": 1742,
   "published": "1742",
-  "pages_count": 184,
-  "pages_with_ocr": 184,
+  "pages_count": 183,
+  "pages_with_ocr": 183,
   "pages_with_translation": 174,
   "source_url": "https://sourcelibrary.org/book/697e23c831e1cf55aea428d6",
   "license": "publicdomain",
@@ -18,9 +18,9 @@
     "prompt_version": "v4.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-03-07T02:10:29.287Z",
+  "synced_at": "2026-03-07T09:10:21.381Z",
   "_hashes": {
-    "ocr": "2ede672553082654",
+    "ocr": "14cc8294ac1c81b7",
     "translation": "0bbc93be1030b107"
   }
 }
