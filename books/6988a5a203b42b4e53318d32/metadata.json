@@ -1,13 +1,13 @@
 {
   "id": "6988a5a203b42b4e53318d32",
   "title": "Der Schluessel David",
-  "display_title": "Der Schluessel David",
+  "display_title": "The Key of David",
   "author": "[Vadianus, J.]",
   "language": "German",
   "year": 1523,
   "published": "1523",
-  "pages_count": 36,
-  "pages_with_ocr": 36,
+  "pages_count": 35,
+  "pages_with_ocr": 35,
   "pages_with_translation": 28,
   "source_url": "https://sourcelibrary.org/book/6988a5a203b42b4e53318d32",
   "license": "publicdomain",
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:29:49.105Z",
+  "synced_at": "2026-03-07T07:41:02.901Z",
   "_hashes": {
-    "ocr": "3f536966497d4c72",
-    "translation": "a2cfca8e01ebd57a"
+    "ocr": "2bbe23352cacc6b9",
+    "translation": "a2f2735e5298a6bb"
   }
 }
