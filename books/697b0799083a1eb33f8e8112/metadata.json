@@ -1,14 +1,14 @@
 {
   "id": "697b0799083a1eb33f8e8112",
   "title": "[Greek: Eukleria] oder Erwahlung des besten Theils",
-  "display_title": "[Greek: Eukleria] oder Erwahlung des besten Theils",
+  "display_title": "Eukleria, or Choosing the Better Part",
   "author": "Schurman, Anna Maria van",
   "language": "German",
   "year": 1783,
   "published": "1783",
   "pages_count": 513,
   "pages_with_ocr": 513,
-  "pages_with_translation": 499,
+  "pages_with_translation": 500,
   "source_url": "https://sourcelibrary.org/book/697b0799083a1eb33f8e8112",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:24:04.699Z",
+  "synced_at": "2026-03-07T01:50:17.034Z",
   "_hashes": {
     "ocr": "93da41bb5e9eff38",
-    "translation": "6ab6d20083318f3c"
+    "translation": "909be146beb18ff6"
   }
 }
