@@ -1,14 +1,14 @@
 {
   "id": "6991d89a8c1030b12444c076",
   "title": "Hathayogapradipika with Jyotsna and Manobhilasini Commentaries",
-  "display_title": "Hathayogapradipika with Jyotsna and Manobhilasini Commentaries",
+  "display_title": "Light on the Yoga of Force with Commentaries",
   "author": "Svatmarama",
   "language": "Sanskrit",
   "year": 1450,
   "published": "undated",
   "pages_count": 200,
   "pages_with_ocr": 200,
-  "pages_with_translation": 159,
+  "pages_with_translation": 195,
   "source_url": "https://sourcelibrary.org/book/6991d89a8c1030b12444c076",
   "license": "pdm",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v5.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:27:38.151Z",
+  "synced_at": "2026-03-07T04:30:25.085Z",
   "_hashes": {
     "ocr": "496b130def1aee55",
-    "translation": "4a078ba5ea3ff556"
+    "translation": "b2ed1dfc8197aa89"
   }
 }
