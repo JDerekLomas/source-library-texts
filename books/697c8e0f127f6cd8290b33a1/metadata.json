@@ -1,14 +1,14 @@
 {
   "id": "697c8e0f127f6cd8290b33a1",
   "title": "Das Geheimniss der hermetischen Philosophie",
-  "display_title": "Das Geheimniss der hermetischen Philosophie",
+  "display_title": "The Secret of Hermetic Philosophy",
   "author": "anonymous",
   "language": "German",
   "year": 1770,
   "published": "1770",
   "pages_count": 108,
   "pages_with_ocr": 108,
-  "pages_with_translation": 2,
+  "pages_with_translation": 95,
   "source_url": "https://sourcelibrary.org/book/697c8e0f127f6cd8290b33a1",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v5.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:28:27.493Z",
+  "synced_at": "2026-03-07T20:50:28.713Z",
   "_hashes": {
     "ocr": "e7791ada1a0900fb",
-    "translation": "4c5b912fe5100beb"
+    "translation": "3e49d0c5c2978bbf"
   }
 }
