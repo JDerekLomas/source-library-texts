@@ -1,0 +1,26 @@
+{
+  "id": "69a0278fdb6656a74eb33962",
+  "title": "Theatrum chemicum",
+  "display_title": "The Chemical Theatre",
+  "author": "anonymous",
+  "language": "Latin",
+  "year": 1659,
+  "published": "1659-1661",
+  "pages_count": 880,
+  "pages_with_ocr": 877,
+  "pages_with_translation": 869,
+  "source_url": "https://sourcelibrary.org/book/69a0278fdb6656a74eb33962",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-07T06:40:53.915Z",
+  "_hashes": {
+    "ocr": "34a39d4e58e1ed0c",
+    "translation": "b7837a5d97906543"
+  }
+}
