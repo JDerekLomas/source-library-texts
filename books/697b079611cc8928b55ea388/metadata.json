@@ -1,14 +1,14 @@
 {
   "id": "697b079611cc8928b55ea388",
   "title": "Les fables égyptiennes et grecques",
-  "display_title": "Les fables égyptiennes et grecques",
+  "display_title": "Egyptian and Greek Fables",
   "author": "Pernety, Antoine-Joseph",
   "language": "French",
   "year": 1758,
   "published": "1758",
   "pages_count": 682,
-  "pages_with_ocr": 10,
-  "pages_with_translation": 3,
+  "pages_with_ocr": 682,
+  "pages_with_translation": 670,
   "source_url": "https://sourcelibrary.org/book/697b079611cc8928b55ea388",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:30:23.571Z",
+  "synced_at": "2026-03-07T18:40:13.095Z",
   "_hashes": {
-    "ocr": "be41d379334aaeb9",
-    "translation": "a5e2738512098a5f"
+    "ocr": "c9a194522ebab83d",
+    "translation": "20418ae62788daab"
   }
 }
