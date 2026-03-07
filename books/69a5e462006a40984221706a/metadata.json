@@ -1,0 +1,26 @@
+{
+  "id": "69a5e462006a40984221706a",
+  "title": "Hebrew Bible (Codex Vaticanus Hebraicus 14)",
+  "display_title": "Hebrew Bible",
+  "author": "Anonymous",
+  "language": "Hebrew",
+  "year": null,
+  "published": "12th-13th century",
+  "pages_count": 580,
+  "pages_with_ocr": 466,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/69a5e462006a40984221706a",
+  "license": "CC-BY-NC-4.0",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-03-07T11:41:22.586Z",
+  "_hashes": {
+    "ocr": "27e57824030ef9f9",
+    "translation": "e3b0c44298fc1c14"
+  }
+}
