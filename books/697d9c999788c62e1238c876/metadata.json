@@ -1,14 +1,14 @@
 {
   "id": "697d9c999788c62e1238c876",
   "title": "Heliotropium",
-  "display_title": "Heliotropium",
+  "display_title": "The Heliotrope",
   "author": "Drechsel, Jeremias",
   "language": "Latin",
   "year": 1630,
   "published": "1630",
   "pages_count": 520,
-  "pages_with_ocr": 330,
-  "pages_with_translation": 0,
+  "pages_with_ocr": 520,
+  "pages_with_translation": 500,
   "source_url": "https://sourcelibrary.org/book/697d9c999788c62e1238c876",
   "license": "publicdomain",
   "doi": null,
@@ -16,11 +16,11 @@
   "processing": {
     "ocr_model": "gemini-3-flash-preview",
     "prompt_version": "v3.2026-02",
-    "translation_model": null
+    "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:26:17.271Z",
+  "synced_at": "2026-03-07T22:00:37.228Z",
   "_hashes": {
-    "ocr": "9d2d31f453a89db4",
-    "translation": "e3b0c44298fc1c14"
+    "ocr": "68eb4e2f5f87eea9",
+    "translation": "ea7d79bfdc52e463"
   }
 }
