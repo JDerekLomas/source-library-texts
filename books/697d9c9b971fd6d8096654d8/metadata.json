@@ -1,14 +1,14 @@
 {
   "id": "697d9c9b971fd6d8096654d8",
   "title": "Heptas alchymica das ist: Ausserlesene philosophische Tractätlein von dem magisterio lapidis",
-  "display_title": "Heptas alchymica das ist: Ausserlesene philosophische Tractätlein von dem magisterio lapidis",
+  "display_title": "Alchemical Heptad: Select Philosophical Treatises on the Magistery of the Stone",
   "author": "Neander, Theophilus",
   "language": "German",
   "year": 1621,
   "published": "1621",
   "pages_count": 492,
   "pages_with_ocr": 492,
-  "pages_with_translation": 5,
+  "pages_with_translation": 474,
   "source_url": "https://sourcelibrary.org/book/697d9c9b971fd6d8096654d8",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:24:30.538Z",
+  "synced_at": "2026-03-07T22:20:31.741Z",
   "_hashes": {
     "ocr": "8b0f8766cc26369a",
-    "translation": "c426021d388cf2dd"
+    "translation": "1eddfccd2f0763b2"
   }
 }
