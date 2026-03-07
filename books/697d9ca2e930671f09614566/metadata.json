@@ -1,14 +1,14 @@
 {
   "id": "697d9ca2e930671f09614566",
   "title": "Harmonices mundi",
-  "display_title": "Harmonices mundi",
+  "display_title": "The Harmony of the World",
   "author": "Kepler, Johannes",
   "language": "Latin",
   "year": 1619,
   "published": "1619",
-  "pages_count": 395,
-  "pages_with_ocr": 10,
-  "pages_with_translation": 9,
+  "pages_count": 393,
+  "pages_with_ocr": 393,
+  "pages_with_translation": 378,
   "source_url": "https://sourcelibrary.org/book/697d9ca2e930671f09614566",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v4.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:30:55.319Z",
+  "synced_at": "2026-03-07T23:00:28.747Z",
   "_hashes": {
-    "ocr": "3a72f9ef3b53726a",
-    "translation": "4311ee3da8b77670"
+    "ocr": "50eb8f278c0e1470",
+    "translation": "1ca712d5341b90e4"
   }
 }
