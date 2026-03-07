@@ -1,14 +1,14 @@
 {
   "id": "697d9c9f4e69405a95c4a9cf",
   "title": "Histoire du chevalier du soleil, de son frère Rosiclair, et de leurs descendants",
-  "display_title": "Histoire du chevalier du soleil, de son frère Rosiclair, et de leurs descendants",
+  "display_title": "History of the Knight of the Sun",
   "author": "[Ortúñez de Calahorra, Diego ]",
   "language": "French",
   "year": 1780,
   "published": "1780",
   "pages_count": 578,
-  "pages_with_ocr": 10,
-  "pages_with_translation": 1,
+  "pages_with_ocr": 578,
+  "pages_with_translation": 562,
   "source_url": "https://sourcelibrary.org/book/697d9c9f4e69405a95c4a9cf",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v4.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:31:28.961Z",
+  "synced_at": "2026-03-07T22:50:26.370Z",
   "_hashes": {
-    "ocr": "4c383ceb8e47ee36",
-    "translation": "10693327c0d73adc"
+    "ocr": "1cc18c9f5ef2c024",
+    "translation": "1675b09204af28ef"
   }
 }
