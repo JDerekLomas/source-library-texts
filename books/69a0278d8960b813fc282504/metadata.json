@@ -1,0 +1,26 @@
+{
+  "id": "69a0278d8960b813fc282504",
+  "title": "A new system, or an analysis of ancient mythology",
+  "display_title": "A new system, or an analysis of ancient mythology",
+  "author": "Bryant, Jacob",
+  "language": "English",
+  "year": 1775,
+  "published": "1775-1776",
+  "pages_count": 570,
+  "pages_with_ocr": 569,
+  "pages_with_translation": 531,
+  "source_url": "https://sourcelibrary.org/book/69a0278d8960b813fc282504",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-07T06:10:24.174Z",
+  "_hashes": {
+    "ocr": "73449ddb9c11d090",
+    "translation": "688dcd9bec42100d"
+  }
+}
