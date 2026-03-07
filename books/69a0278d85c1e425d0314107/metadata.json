@@ -1,0 +1,26 @@
+{
+  "id": "69a0278d85c1e425d0314107",
+  "title": "Synopsis rerum ab orbe conditio gestarum",
+  "display_title": "Synopsis of Events from the Creation of the World",
+  "author": "Besold, Christoph",
+  "language": "Unknown",
+  "year": 1639,
+  "published": "1639",
+  "pages_count": 720,
+  "pages_with_ocr": 720,
+  "pages_with_translation": 714,
+  "source_url": "https://sourcelibrary.org/book/69a0278d85c1e425d0314107",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-07T06:30:16.282Z",
+  "_hashes": {
+    "ocr": "b6d443190cca7fca",
+    "translation": "e6e582aad098e1dd"
+  }
+}
