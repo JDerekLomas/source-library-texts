@@ -1,14 +1,14 @@
 {
   "id": "697a6aa5b981745f5fac1d78",
   "title": "Discursus curiöser Sachen",
-  "display_title": "Discursus curiöser Sachen",
+  "display_title": "Discourse on Curious Matters",
   "author": "Meerheim, Johann Gottfried",
   "language": "Latin-German",
   "year": 1708,
   "published": "1708",
   "pages_count": 106,
-  "pages_with_ocr": 26,
-  "pages_with_translation": 5,
+  "pages_with_ocr": 106,
+  "pages_with_translation": 95,
   "source_url": "https://sourcelibrary.org/book/697a6aa5b981745f5fac1d78",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:29:54.275Z",
+  "synced_at": "2026-03-07T18:30:19.220Z",
   "_hashes": {
-    "ocr": "1232c37b14a9c6a4",
-    "translation": "bec3c02c204fa6e6"
+    "ocr": "7ffa7c0320c5c40d",
+    "translation": "f0864d86fe6c348e"
   }
 }
