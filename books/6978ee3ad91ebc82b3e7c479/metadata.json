@@ -1,14 +1,14 @@
 {
   "id": "6978ee3ad91ebc82b3e7c479",
   "title": "Christus unter den Menschen",
-  "display_title": "Christus unter den Menschen",
+  "display_title": "Christ Among Men",
   "author": "Eckartshausen, Karl von",
   "language": "German",
   "year": 1802,
   "published": "1802",
   "pages_count": 336,
   "pages_with_ocr": 336,
-  "pages_with_translation": 264,
+  "pages_with_translation": 331,
   "source_url": "https://sourcelibrary.org/book/6978ee3ad91ebc82b3e7c479",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:26:13.161Z",
+  "synced_at": "2026-03-07T00:10:18.056Z",
   "_hashes": {
     "ocr": "b9d2477e8effe872",
-    "translation": "a983eca05472aa3b"
+    "translation": "19c633b6090c7a9c"
   }
 }
