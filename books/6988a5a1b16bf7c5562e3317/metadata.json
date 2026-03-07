@@ -1,14 +1,14 @@
 {
   "id": "6988a5a1b16bf7c5562e3317",
   "title": "Cy est le rommant de la roze",
-  "display_title": "Cy est le rommant de la roze",
+  "display_title": "The Romance of the Rose",
   "author": "[Lorris, Guillaume de]|[Meung, Jean de]",
   "language": "French",
   "year": 1531,
   "published": "1531",
   "pages_count": 284,
   "pages_with_ocr": 284,
-  "pages_with_translation": 271,
+  "pages_with_translation": 274,
   "source_url": "https://sourcelibrary.org/book/6988a5a1b16bf7c5562e3317",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:26:52.017Z",
+  "synced_at": "2026-03-07T03:50:13.611Z",
   "_hashes": {
     "ocr": "f5e186e63438c58a",
-    "translation": "0eb0b7f0f7b1ec44"
+    "translation": "a0bf73f28061be5d"
   }
 }
