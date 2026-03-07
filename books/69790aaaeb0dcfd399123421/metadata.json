@@ -1,14 +1,14 @@
 {
   "id": "69790aaaeb0dcfd399123421",
   "title": "Le ciel reformé",
-  "display_title": "Le ciel reformé",
+  "display_title": "The Reformed Sky",
   "author": "Bruno, Giordano",
   "language": "French",
   "year": 1750,
   "published": "1750",
   "pages_count": 112,
   "pages_with_ocr": 112,
-  "pages_with_translation": 80,
+  "pages_with_translation": 94,
   "source_url": "https://sourcelibrary.org/book/69790aaaeb0dcfd399123421",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:28:24.083Z",
+  "synced_at": "2026-03-07T00:20:30.355Z",
   "_hashes": {
     "ocr": "8b5a8672a19972f5",
-    "translation": "34c897d10f35d958"
+    "translation": "9148cb6524f9efa1"
   }
 }
