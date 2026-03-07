@@ -1,14 +1,14 @@
 {
   "id": "697c8e0f150e68b9f4070204",
   "title": "Göttliche und wahre Metaphysica",
-  "display_title": "Göttliche und wahre Metaphysica",
+  "display_title": "Divine and True Metaphysics",
   "author": "Pordage, John",
   "language": "German",
   "year": 1715,
   "published": "1715",
   "pages_count": 812,
-  "pages_with_ocr": 10,
-  "pages_with_translation": 5,
+  "pages_with_ocr": 812,
+  "pages_with_translation": 797,
   "source_url": "https://sourcelibrary.org/book/697c8e0f150e68b9f4070204",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:30:38.763Z",
+  "synced_at": "2026-03-07T21:00:35.587Z",
   "_hashes": {
-    "ocr": "dee4b73c723a1a90",
-    "translation": "9d6b320381a637f1"
+    "ocr": "f1cefb51b2b4b2cc",
+    "translation": "109cdc5f5823e2f5"
   }
 }
