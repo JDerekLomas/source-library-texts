@@ -1,0 +1,28 @@
+{
+  "id": "6992cbcc018b80967354b218",
+  "title": "Über die Seelenfrage: ein Gang durch die sichtbare Welt, um die unsichtbare zu finden",
+  "display_title": "On the Soul-Question",
+  "author": "Gustav Theodor Fechner",
+  "language": "German",
+  "year": 1861,
+  "published": "Unknown",
+  "pages_count": 245,
+  "pages_with_ocr": 245,
+  "pages_with_translation": 237,
+  "source_url": "https://sourcelibrary.org/book/6992cbcc018b80967354b218",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "10043162"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-07T04:40:21.683Z",
+  "_hashes": {
+    "ocr": "9cc27a91f4b84a4b",
+    "translation": "f4d06119bef0c3a6"
+  }
+}
