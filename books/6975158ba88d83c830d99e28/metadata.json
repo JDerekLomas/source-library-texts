@@ -1,14 +1,14 @@
 {
   "id": "6975158ba88d83c830d99e28",
   "title": "Aufrichtige Nachricht von den jüdischen Lehrern",
-  "display_title": "Aufrichtige Nachricht von den jüdischen Lehrern",
+  "display_title": "Sincere Account of the Jewish Teachers",
   "author": "[Opfergelt, Friedrich]",
   "language": "German",
   "year": 1730,
   "published": "1730",
   "pages_count": 314,
   "pages_with_ocr": 314,
-  "pages_with_translation": 9,
+  "pages_with_translation": 312,
   "source_url": "https://sourcelibrary.org/book/6975158ba88d83c830d99e28",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:26:32.027Z",
+  "synced_at": "2026-03-07T17:30:26.280Z",
   "_hashes": {
     "ocr": "7ba6e1505c561802",
-    "translation": "9527b5bfec77ad66"
+    "translation": "b4cdfad7715c9f25"
   }
 }
