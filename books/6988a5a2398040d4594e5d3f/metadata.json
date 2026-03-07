@@ -1,14 +1,14 @@
 {
   "id": "6988a5a2398040d4594e5d3f",
   "title": "Register ueber alle theosophische Schrifften Jacob Boehmens",
-  "display_title": "Register ueber alle theosophische Schrifften Jacob Boehmens",
+  "display_title": "Index to All the Theosophical Writings of Jacob Boehme",
   "author": "Unknown",
   "language": "German",
   "year": 1730,
   "published": "1730",
   "pages_count": 509,
-  "pages_with_ocr": 100,
-  "pages_with_translation": 98,
+  "pages_with_ocr": 509,
+  "pages_with_translation": 502,
   "source_url": "https://sourcelibrary.org/book/6988a5a2398040d4594e5d3f",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:28:35.368Z",
+  "synced_at": "2026-03-07T04:00:27.692Z",
   "_hashes": {
-    "ocr": "bdccd4d84917a101",
-    "translation": "da355018bd47b6f9"
+    "ocr": "463423af9b55a618",
+    "translation": "62c234e40b0e4882"
   }
 }
