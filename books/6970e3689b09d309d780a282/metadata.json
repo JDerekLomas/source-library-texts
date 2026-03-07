@@ -1,14 +1,14 @@
 {
   "id": "6970e3689b09d309d780a282",
   "title": "Alkoran",
-  "display_title": "Alkoran",
+  "display_title": "The Quran (Alkoran)",
   "author": "Unknown",
   "language": "Latin",
   "year": 1707,
   "published": "1707",
   "pages_count": 598,
   "pages_with_ocr": 598,
-  "pages_with_translation": 501,
+  "pages_with_translation": 577,
   "source_url": "https://sourcelibrary.org/book/6970e3689b09d309d780a282",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:23:18.748Z",
+  "synced_at": "2026-03-07T22:10:23.724Z",
   "_hashes": {
     "ocr": "2167362e1efb3639",
-    "translation": "8b74c1ca8b9ea1f9"
+    "translation": "c7e094f0dfb64209"
   }
 }
