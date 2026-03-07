@@ -1,0 +1,28 @@
+{
+  "id": "6992cbdf018b80967354c198",
+  "title": "Kollektivmasslehre",
+  "display_title": "Theory of Collective Measurement",
+  "author": "Gustav Theodor Fechner",
+  "language": "German",
+  "year": 1897,
+  "published": "Unknown",
+  "pages_count": 511,
+  "pages_with_ocr": 511,
+  "pages_with_translation": 497,
+  "source_url": "https://sourcelibrary.org/book/6992cbdf018b80967354c198",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "11815242"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-07T04:40:36.909Z",
+  "_hashes": {
+    "ocr": "d498faf1fbf1b8fd",
+    "translation": "5f687f867d8f98d6"
+  }
+}
