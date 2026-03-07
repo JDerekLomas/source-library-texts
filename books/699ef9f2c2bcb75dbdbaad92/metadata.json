@@ -1,0 +1,26 @@
+{
+  "id": "699ef9f2c2bcb75dbdbaad92",
+  "title": "[Hebrew: Sha'arei orah]",
+  "display_title": "Gates of Light",
+  "author": "Gikatilla, Joseph ben Abraham",
+  "language": "Hebrew",
+  "year": 1715,
+  "published": "1715",
+  "pages_count": 268,
+  "pages_with_ocr": 267,
+  "pages_with_translation": 258,
+  "source_url": "https://sourcelibrary.org/book/699ef9f2c2bcb75dbdbaad92",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-07T05:10:18.338Z",
+  "_hashes": {
+    "ocr": "a5a569ff6120b929",
+    "translation": "6eaa776aea86f4e0"
+  }
+}
