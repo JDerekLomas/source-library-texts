@@ -1,14 +1,14 @@
 {
   "id": "690986dccf28baa1b4cae0e3",
   "title": "Novum lumen chymicum",
-  "display_title": "New Chemical Light",
+  "display_title": "A New Light of Alchemy",
   "author": "[Sendivogius, Michael]",
   "language": "Latin",
   "year": 1628,
   "published": "1628",
   "pages_count": 209,
   "pages_with_ocr": 209,
-  "pages_with_translation": 209,
+  "pages_with_translation": 205,
   "source_url": "https://sourcelibrary.org/book/690986dccf28baa1b4cae0e3",
   "license": "publicdomain",
   "doi": null,
@@ -16,11 +16,11 @@
   "processing": {
     "ocr_model": "gemini-3-flash-preview",
     "prompt_version": "v4.2026-02",
-    "translation_model": "gemini-2.5-flash"
+    "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:27:33.714Z",
+  "synced_at": "2026-03-07T14:30:19.362Z",
   "_hashes": {
     "ocr": "ba1874bbe91ecd0b",
-    "translation": "a88bf49539b4336c"
+    "translation": "483b7fbab3a14491"
   }
 }
