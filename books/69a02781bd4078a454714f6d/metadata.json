@@ -1,0 +1,26 @@
+{
+  "id": "69a02781bd4078a454714f6d",
+  "title": "Theologia germanica",
+  "display_title": "German Theology",
+  "author": "Unknown",
+  "language": "Latin",
+  "year": 1557,
+  "published": "1557",
+  "pages_count": 151,
+  "pages_with_ocr": 151,
+  "pages_with_translation": 142,
+  "source_url": "https://sourcelibrary.org/book/69a02781bd4078a454714f6d",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-07T06:10:20.827Z",
+  "_hashes": {
+    "ocr": "bb9a4dd98f19cd68",
+    "translation": "ae318f02a51ddc90"
+  }
+}
