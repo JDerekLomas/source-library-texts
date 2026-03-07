@@ -1,14 +1,14 @@
 {
   "id": "697e23c3eae9ff63cff4df72",
   "title": "Idée générale de la theologie payenne, servant de refutation au système de mr. Bekker",
-  "display_title": "Idée générale de la theologie payenne, servant de refutation au système de mr. Bekker",
+  "display_title": "General Idea of Pagan Theology",
   "author": "[Binet, Benjamin]",
   "language": "French",
   "year": 1699,
   "published": "1699",
   "pages_count": 268,
-  "pages_with_ocr": 10,
-  "pages_with_translation": 4,
+  "pages_with_ocr": 268,
+  "pages_with_translation": 254,
   "source_url": "https://sourcelibrary.org/book/697e23c3eae9ff63cff4df72",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v4.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:31:05.886Z",
+  "synced_at": "2026-03-07T23:10:37.967Z",
   "_hashes": {
-    "ocr": "e3048f2ec7929905",
-    "translation": "562e4bf6e687e894"
+    "ocr": "460af003a52b12eb",
+    "translation": "4fa8fefebbeecb65"
   }
 }
