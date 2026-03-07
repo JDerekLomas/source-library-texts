@@ -1,14 +1,14 @@
 {
   "id": "697d9c999788c62e1238c884",
   "title": "Harmonia seu consensus philosophorum chemicorum",
-  "display_title": "Harmonia seu consensus philosophorum chemicorum",
+  "display_title": "Harmony or Consensus of the Chemical Philosophers",
   "author": "L'Agneau, David",
   "language": "Latin",
   "year": 1611,
   "published": "1611",
-  "pages_count": 468,
-  "pages_with_ocr": 468,
-  "pages_with_translation": 5,
+  "pages_count": 464,
+  "pages_with_ocr": 464,
+  "pages_with_translation": 451,
   "source_url": "https://sourcelibrary.org/book/697d9c999788c62e1238c884",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:24:39.287Z",
+  "synced_at": "2026-03-07T22:10:40.755Z",
   "_hashes": {
-    "ocr": "8bfdba4b027fbc74",
-    "translation": "275c579e311d4e07"
+    "ocr": "5265bc11e2702eae",
+    "translation": "549b586bd7e314fb"
   }
 }
