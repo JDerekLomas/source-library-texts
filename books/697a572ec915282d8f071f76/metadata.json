@@ -1,14 +1,14 @@
 {
   "id": "697a572ec915282d8f071f76",
   "title": "Dichtungen zur Beherzigung unsers Zeitalters",
-  "display_title": "Dichtungen zur Beherzigung unsers Zeitalters",
+  "display_title": "Poems for the Consideration of Our Age",
   "author": "Andreae, Johann Valentin",
   "language": "German",
   "year": 1786,
   "published": "1786",
   "pages_count": 264,
-  "pages_with_ocr": 263,
-  "pages_with_translation": 3,
+  "pages_with_ocr": 264,
+  "pages_with_translation": 250,
   "source_url": "https://sourcelibrary.org/book/697a572ec915282d8f071f76",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:27:04.115Z",
+  "synced_at": "2026-03-07T18:10:10.151Z",
   "_hashes": {
-    "ocr": "69fffbfdf5f82418",
-    "translation": "0fa77c5c94363499"
+    "ocr": "302e045da2ab2c80",
+    "translation": "c46182377f56127f"
   }
 }
