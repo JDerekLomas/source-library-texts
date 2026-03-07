@@ -1,14 +1,14 @@
 {
   "id": "6988a5a2436cb6932fa10b20",
   "title": "De roode leeuw, of het sout der philosophen",
-  "display_title": "De roode leeuw, of het sout der philosophen",
+  "display_title": "The Red Lion, or the Salt of the Philosophers",
   "author": "[Vreeswyk, Goossen van]",
   "language": "Dutch",
   "year": 1672,
   "published": "1672",
   "pages_count": 276,
   "pages_with_ocr": 276,
-  "pages_with_translation": 259,
+  "pages_with_translation": 261,
   "source_url": "https://sourcelibrary.org/book/6988a5a2436cb6932fa10b20",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:26:55.403Z",
+  "synced_at": "2026-03-07T04:10:25.113Z",
   "_hashes": {
     "ocr": "b23458e52079d00d",
-    "translation": "62c34ca6572bfa6f"
+    "translation": "e8d7f485287fc3bc"
   }
 }
