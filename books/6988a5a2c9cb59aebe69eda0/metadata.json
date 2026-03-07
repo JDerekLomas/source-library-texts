@@ -6,9 +6,9 @@
   "language": "French",
   "year": 1727,
   "published": "1727",
-  "pages_count": 600,
-  "pages_with_ocr": 600,
-  "pages_with_translation": 547,
+  "pages_count": 594,
+  "pages_with_ocr": 594,
+  "pages_with_translation": 543,
   "source_url": "https://sourcelibrary.org/book/6988a5a2c9cb59aebe69eda0",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-03-07T04:00:19.100Z",
+  "synced_at": "2026-03-07T11:20:04.264Z",
   "_hashes": {
-    "ocr": "1ca9bf0c1cac38fb",
-    "translation": "aba176c9ba5e4ce0"
+    "ocr": "aa65234c933905da",
+    "translation": "e0d7cb47deefc2c5"
   }
 }
