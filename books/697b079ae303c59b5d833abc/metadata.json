@@ -6,9 +6,9 @@
   "language": "Latin",
   "year": 1607,
   "published": "1607",
-  "pages_count": 523,
-  "pages_with_ocr": 523,
-  "pages_with_translation": 506,
+  "pages_count": 505,
+  "pages_with_ocr": 505,
+  "pages_with_translation": 493,
   "source_url": "https://sourcelibrary.org/book/697b079ae303c59b5d833abc",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-03-05T01:00:52.884Z",
+  "synced_at": "2026-03-07T19:30:23.528Z",
   "_hashes": {
-    "ocr": "4b81407717fa68af",
-    "translation": "e8d0e7bcd6e7ce3b"
+    "ocr": "7ac17506d6adf7e9",
+    "translation": "f6e9a997b71133fa"
   }
 }
