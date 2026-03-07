@@ -1,0 +1,26 @@
+{
+  "id": "69a0278d6cd1aeeab4e7dafd",
+  "title": "Summa perfectionis",
+  "display_title": "The Sum of Perfection",
+  "author": "Geber",
+  "language": "Latin",
+  "year": 1542,
+  "published": "1542",
+  "pages_count": 492,
+  "pages_with_ocr": 492,
+  "pages_with_translation": 401,
+  "source_url": "https://sourcelibrary.org/book/69a0278d6cd1aeeab4e7dafd",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-07T06:30:05.487Z",
+  "_hashes": {
+    "ocr": "4e0d48a78d40e664",
+    "translation": "40f27b5849324618"
+  }
+}
