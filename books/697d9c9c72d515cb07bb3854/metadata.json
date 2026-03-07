@@ -1,14 +1,14 @@
 {
   "id": "697d9c9c72d515cb07bb3854",
   "title": "Histoire des Templiers. Ouvrage impartial, receuillie des meilleurs écrivains",
-  "display_title": "Histoire des Templiers. Ouvrage impartial, receuillie des meilleurs écrivains",
+  "display_title": "History of the Templars",
   "author": "Jacquelin, J.A",
   "language": "French",
   "year": 1805,
   "published": "1805",
   "pages_count": 128,
-  "pages_with_ocr": 10,
-  "pages_with_translation": 2,
+  "pages_with_ocr": 128,
+  "pages_with_translation": 113,
   "source_url": "https://sourcelibrary.org/book/697d9c9c72d515cb07bb3854",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v4.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:31:22.213Z",
+  "synced_at": "2026-03-07T22:30:34.366Z",
   "_hashes": {
-    "ocr": "fed7c7fa5233caf8",
-    "translation": "d19decd73af98718"
+    "ocr": "e77d7a39ce24f138",
+    "translation": "52f5470fcffc498c"
   }
 }
