@@ -1,14 +1,14 @@
 {
   "id": "697932b1f35c6bbfbfd252fd",
   "title": "Cogitationum rationalium de deo, anima, et malo",
-  "display_title": "Cogitationum rationalium de deo, anima, et malo",
+  "display_title": "Rational Thoughts on God, the Soul, and Evil",
   "author": "Poiret, Pierre",
   "language": "Latin",
   "year": 1677,
   "published": "1677",
-  "pages_count": 378,
-  "pages_with_ocr": 378,
-  "pages_with_translation": 4,
+  "pages_count": 372,
+  "pages_with_ocr": 372,
+  "pages_with_translation": 362,
   "source_url": "https://sourcelibrary.org/book/697932b1f35c6bbfbfd252fd",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:25:52.248Z",
+  "synced_at": "2026-03-07T17:50:34.105Z",
   "_hashes": {
-    "ocr": "5032c57522b7312a",
-    "translation": "42099a6f66f20615"
+    "ocr": "37628c936f980c21",
+    "translation": "8b6e6d5336958833"
   }
 }
