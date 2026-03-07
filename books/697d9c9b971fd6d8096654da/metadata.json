@@ -1,14 +1,14 @@
 {
   "id": "697d9c9b971fd6d8096654da",
   "title": "Heydenweldt und irer Götter anfängcklicher Ursprung",
-  "display_title": "Heydenweldt und irer Götter anfängcklicher Ursprung",
+  "display_title": "The Pagan World and the Origin of its Gods",
   "author": "Herold, Johann",
   "language": "German",
   "year": 1554,
   "published": "1554",
   "pages_count": 878,
-  "pages_with_ocr": 10,
-  "pages_with_translation": 6,
+  "pages_with_ocr": 878,
+  "pages_with_translation": 850,
   "source_url": "https://sourcelibrary.org/book/697d9c9b971fd6d8096654da",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:30:08.829Z",
+  "synced_at": "2026-03-07T22:30:25.774Z",
   "_hashes": {
-    "ocr": "9954b8f91b17feec",
-    "translation": "c39ae4a7632b2964"
+    "ocr": "b5b1bda95b539dd9",
+    "translation": "8ccc88820928d6f3"
   }
 }
