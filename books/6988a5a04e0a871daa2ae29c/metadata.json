@@ -1,14 +1,14 @@
 {
   "id": "6988a5a04e0a871daa2ae29c",
   "title": "Rosarium novum olympicum et benedictum. Das ist: ein newer gebenedeyter philosophischer Rosengart",
-  "display_title": "Rosarium novum olympicum et benedictum. Das ist: ein newer gebenedeyter philosophischer Rosengart",
+  "display_title": "New Olympic and Blessed Rose Garden",
   "author": "Figulus, Benedictus",
   "language": "Latin-German",
   "year": 1608,
   "published": "1608",
   "pages_count": 281,
-  "pages_with_ocr": 100,
-  "pages_with_translation": 94,
+  "pages_with_ocr": 281,
+  "pages_with_translation": 261,
   "source_url": "https://sourcelibrary.org/book/6988a5a04e0a871daa2ae29c",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:28:48.149Z",
+  "synced_at": "2026-03-07T03:30:25.459Z",
   "_hashes": {
-    "ocr": "2a3cfded94618918",
-    "translation": "78d4696a1fdd9841"
+    "ocr": "0a45e34f85962e52",
+    "translation": "f65e2b09d5ee02fd"
   }
 }
