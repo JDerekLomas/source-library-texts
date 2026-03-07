@@ -6,9 +6,9 @@
   "language": "Latin",
   "year": 1584,
   "published": "1584",
-  "pages_count": 560,
-  "pages_with_ocr": 560,
-  "pages_with_translation": 548,
+  "pages_count": 557,
+  "pages_with_ocr": 557,
+  "pages_with_translation": 546,
   "source_url": "https://sourcelibrary.org/book/697934668e450bc779a9cad5",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-03-05T01:10:55.375Z",
+  "synced_at": "2026-03-07T19:50:36.570Z",
   "_hashes": {
-    "ocr": "1b9120d2324cda2e",
-    "translation": "b470224697ca9ef7"
+    "ocr": "4baf987ef77b4c9d",
+    "translation": "32a45a890f410e4c"
   }
 }
