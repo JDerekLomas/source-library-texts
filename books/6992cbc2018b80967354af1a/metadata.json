@@ -1,0 +1,28 @@
+{
+  "id": "6992cbc2018b80967354af1a",
+  "title": "The Little Book of Life After Death",
+  "display_title": "The Little Book of Life After Death",
+  "author": "Gustav Theodor Fechner",
+  "language": "English",
+  "year": 1904,
+  "published": "Unknown",
+  "pages_count": 158,
+  "pages_with_ocr": 154,
+  "pages_with_translation": 143,
+  "source_url": "https://sourcelibrary.org/book/6992cbc2018b80967354af1a",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "littlebookoflife00fechrich"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-07T04:30:28.891Z",
+  "_hashes": {
+    "ocr": "fe01455e42cec959",
+    "translation": "b99418e6430f03b6"
+  }
+}
