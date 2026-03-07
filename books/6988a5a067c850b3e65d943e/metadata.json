@@ -6,9 +6,9 @@
   "language": "French",
   "year": 1792,
   "published": "1792",
-  "pages_count": 476,
-  "pages_with_ocr": 475,
-  "pages_with_translation": 448,
+  "pages_count": 469,
+  "pages_with_ocr": 468,
+  "pages_with_translation": 442,
   "source_url": "https://sourcelibrary.org/book/6988a5a067c850b3e65d943e",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-03-07T03:40:21.293Z",
+  "synced_at": "2026-03-07T11:50:47.758Z",
   "_hashes": {
-    "ocr": "9754bd36149c7957",
-    "translation": "036224f005033d10"
+    "ocr": "2175f234947bd7ba",
+    "translation": "461b95d543aceea0"
   }
 }
