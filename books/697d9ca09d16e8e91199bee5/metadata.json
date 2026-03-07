@@ -1,14 +1,14 @@
 {
   "id": "697d9ca09d16e8e91199bee5",
   "title": "Het graf der valsche theologie",
-  "display_title": "Het graf der valsche theologie",
+  "display_title": "The Grave of False Theology",
   "author": "Bourignon, Antoinette",
   "language": "Dutch",
   "year": 1669,
   "published": "1669-1672",
   "pages_count": 802,
-  "pages_with_ocr": 10,
-  "pages_with_translation": 3,
+  "pages_with_ocr": 802,
+  "pages_with_translation": 788,
   "source_url": "https://sourcelibrary.org/book/697d9ca09d16e8e91199bee5",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v4.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:31:19.743Z",
+  "synced_at": "2026-03-07T22:50:33.635Z",
   "_hashes": {
-    "ocr": "cb072a26aa82898d",
-    "translation": "bbdfd815b7ed6fe7"
+    "ocr": "ef974434fa51f1c2",
+    "translation": "e58fd7662089c5e0"
   }
 }
