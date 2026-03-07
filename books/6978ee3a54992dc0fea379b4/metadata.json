@@ -1,14 +1,14 @@
 {
   "id": "6978ee3a54992dc0fea379b4",
   "title": "Ain Christlicher Sendbrieff an Gaistliche personen geschriben. Vom Gebeet (...)",
-  "display_title": "Ain Christlicher Sendbrieff an Gaistliche personen geschriben. Vom Gebeet (...)",
+  "display_title": "A Christian Epistle on Prayer",
   "author": "[Schwenckfeld, Caspar]",
   "language": "German",
   "year": 1547,
   "published": "1547",
   "pages_count": 148,
-  "pages_with_ocr": 147,
-  "pages_with_translation": 111,
+  "pages_with_ocr": 148,
+  "pages_with_translation": 135,
   "source_url": "https://sourcelibrary.org/book/6978ee3a54992dc0fea379b4",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:28:06.243Z",
+  "synced_at": "2026-03-07T00:10:31.307Z",
   "_hashes": {
-    "ocr": "1ac12c52efe8a3d5",
-    "translation": "f0737167e8ffc6a8"
+    "ocr": "aa12428fc332922b",
+    "translation": "c1f6c7624bf9357e"
   }
 }
