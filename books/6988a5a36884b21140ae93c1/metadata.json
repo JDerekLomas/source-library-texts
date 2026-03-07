@@ -1,14 +1,14 @@
 {
   "id": "6988a5a36884b21140ae93c1",
   "title": "[Greek] De sacris notis et sculpturis",
-  "display_title": "The Hieroglyphics (De sacris notis et sculpturis)",
+  "display_title": "The Hieroglyphics",
   "author": "Horapollo",
   "language": "Greek",
   "year": 1551,
   "published": "1551",
   "pages_count": 296,
   "pages_with_ocr": 296,
-  "pages_with_translation": 279,
+  "pages_with_translation": 282,
   "source_url": "https://sourcelibrary.org/book/6988a5a36884b21140ae93c1",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-03-04T15:00:34.457Z",
+  "synced_at": "2026-03-07T04:20:16.891Z",
   "_hashes": {
     "ocr": "a70ed6039924a8e7",
-    "translation": "8c75c83deca9cfa8"
+    "translation": "f88d0848895a54d2"
   }
 }
