@@ -1,14 +1,14 @@
 {
   "id": "697c8e0f127f6cd8290b33a3",
   "title": "I.N.J. Göldene Quelle der Natur und Kunst",
-  "display_title": "I.N.J. Göldene Quelle der Natur und Kunst",
+  "display_title": "Golden Source of Nature and Art",
   "author": "[Richter, Samuel]",
   "language": "German",
   "year": 1714,
   "published": "1714",
   "pages_count": 304,
   "pages_with_ocr": 304,
-  "pages_with_translation": 5,
+  "pages_with_translation": 293,
   "source_url": "https://sourcelibrary.org/book/697c8e0f127f6cd8290b33a3",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:26:39.914Z",
+  "synced_at": "2026-03-07T21:30:25.774Z",
   "_hashes": {
     "ocr": "ad6bdebb088ec4c1",
-    "translation": "a475f22d1508eb01"
+    "translation": "a84065e91bd6f631"
   }
 }
