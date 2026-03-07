@@ -1,14 +1,14 @@
 {
   "id": "6977af6e235fbd25a519477d",
   "title": "Centiloquium summa diligentia noviter impressum",
-  "display_title": "Centiloquium summa diligentia noviter impressum",
+  "display_title": "The Hundred Sayings",
   "author": "Bonaventura",
   "language": "Latin",
   "year": 1503,
   "published": "1503",
   "pages_count": 247,
-  "pages_with_ocr": 246,
-  "pages_with_translation": 194,
+  "pages_with_ocr": 247,
+  "pages_with_translation": 242,
   "source_url": "https://sourcelibrary.org/book/6977af6e235fbd25a519477d",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:27:12.393Z",
+  "synced_at": "2026-03-07T00:40:13.483Z",
   "_hashes": {
-    "ocr": "0fa8f80cd72c2e1b",
-    "translation": "ec05a5d8d0f161d0"
+    "ocr": "d55bef9c934fd1fb",
+    "translation": "d7c46cb9528a1585"
   }
 }
