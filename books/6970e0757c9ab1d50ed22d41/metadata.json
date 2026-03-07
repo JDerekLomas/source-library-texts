@@ -1,14 +1,14 @@
 {
   "id": "6970e0757c9ab1d50ed22d41",
   "title": "Abraham, de aartsvader",
-  "display_title": "Abraham, the Patriarch",
+  "display_title": "Abraham the Patriarch",
   "author": "Hoogvliet, Arnold",
   "language": "Dutch",
   "year": 1766,
   "published": "1766",
-  "pages_count": 442,
-  "pages_with_ocr": 442,
-  "pages_with_translation": 393,
+  "pages_count": 407,
+  "pages_with_ocr": 407,
+  "pages_with_translation": 377,
   "source_url": "https://sourcelibrary.org/book/6970e0757c9ab1d50ed22d41",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-03-04T18:30:30.284Z",
+  "synced_at": "2026-03-07T11:00:11.233Z",
   "_hashes": {
-    "ocr": "0340c8b276eb0a2d",
-    "translation": "8fe5f8186b9427cf"
+    "ocr": "08048a3cb238358a",
+    "translation": "802870c6794a0b0e"
   }
 }
