@@ -1,14 +1,14 @@
 {
   "id": "697d9c9b971fd6d8096654dc",
   "title": "Der von Gott erleuchtete Fuehrer [...] vorgestellt in einen Auszug aus denen Schrifften des Hn. Bertot",
-  "display_title": "Der von Gott erleuchtete Fuehrer [...] vorgestellt in einen Auszug aus denen Schrifften des Hn. Bertot",
+  "display_title": "The God-Enlightened Guide",
   "author": "[Guyon, Jeanne-Marie]",
   "language": "German",
   "year": 1740,
   "published": "1740-1741",
   "pages_count": 488,
   "pages_with_ocr": 488,
-  "pages_with_translation": 8,
+  "pages_with_translation": 482,
   "source_url": "https://sourcelibrary.org/book/697d9c9b971fd6d8096654dc",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:24:33.088Z",
+  "synced_at": "2026-03-07T22:20:35.164Z",
   "_hashes": {
     "ocr": "896ba2bf85065879",
-    "translation": "31ca6594d6f9d7db"
+    "translation": "0ca8378c1d19280f"
   }
 }
