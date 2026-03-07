@@ -1,14 +1,14 @@
 {
   "id": "6968d70e4fa3b04c6de86c76",
   "title": "Composite manuscript of medical works in Italian and Latin (Miscellanea Medica I)",
-  "display_title": "Composite manuscript of medical works in Italian and Latin (Miscellanea Medica I)",
+  "display_title": "Medical Miscellany",
   "author": "Unknown",
   "language": "Italian",
   "year": null,
   "published": "Unknown",
   "pages_count": 598,
   "pages_with_ocr": 598,
-  "pages_with_translation": 500,
+  "pages_with_translation": 559,
   "source_url": "https://sourcelibrary.org/book/6968d70e4fa3b04c6de86c76",
   "license": "pdm",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:23:17.877Z",
+  "synced_at": "2026-03-07T22:50:21.708Z",
   "_hashes": {
     "ocr": "ec917a2f25cb6d78",
-    "translation": "7021a0bc5fe69b71"
+    "translation": "7124aff8f545802d"
   }
 }
