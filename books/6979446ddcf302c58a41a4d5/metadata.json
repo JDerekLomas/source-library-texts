@@ -1,14 +1,14 @@
 {
   "id": "6979446ddcf302c58a41a4d5",
   "title": "Commentariorum in Johannis Apocalypsin",
-  "display_title": "Commentariorum in Johannis Apocalypsin",
+  "display_title": "Commentary on the Apocalypse of John",
   "author": "Rupert von Deutz",
   "language": "Latin",
   "year": 1541,
   "published": "1541",
   "pages_count": 652,
   "pages_with_ocr": 652,
-  "pages_with_translation": 333,
+  "pages_with_translation": 644,
   "source_url": "https://sourcelibrary.org/book/6979446ddcf302c58a41a4d5",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:22:58.824Z",
+  "synced_at": "2026-03-07T01:40:20.263Z",
   "_hashes": {
     "ocr": "7e4bca732e72125f",
-    "translation": "688f213b21ed56d7"
+    "translation": "71dbd184b55d8c61"
   }
 }
