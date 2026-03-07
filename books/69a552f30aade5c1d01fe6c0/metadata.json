@@ -1,0 +1,28 @@
+{
+  "id": "69a552f30aade5c1d01fe6c0",
+  "title": "The Village Gods of South India",
+  "display_title": "The Village Gods of South India",
+  "author": "Henry Whitehead",
+  "language": "English",
+  "year": 1921,
+  "published": "1921",
+  "pages_count": 194,
+  "pages_with_ocr": 194,
+  "pages_with_translation": 191,
+  "source_url": "https://sourcelibrary.org/book/69a552f30aade5c1d01fe6c0",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "VillageGodsOfSouthIndia"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-07T11:20:19.769Z",
+  "_hashes": {
+    "ocr": "0c953edb8732501f",
+    "translation": "e80b870039ee5927"
+  }
+}
