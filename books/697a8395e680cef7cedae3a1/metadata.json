@@ -1,14 +1,14 @@
 {
   "id": "697a8395e680cef7cedae3a1",
   "title": "Dissertationum philologico-theologicarum",
-  "display_title": "Dissertationum philologico-theologicarum",
+  "display_title": "Philological and Theological Dissertations",
   "author": "Lampe, Friedrich Adolph",
   "language": "Latin",
   "year": 1737,
   "published": "1737",
-  "pages_count": 1574,
-  "pages_with_ocr": 507,
-  "pages_with_translation": 6,
+  "pages_count": 1541,
+  "pages_with_ocr": 1541,
+  "pages_with_translation": 1530,
   "source_url": "https://sourcelibrary.org/book/697a8395e680cef7cedae3a1",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:24:22.837Z",
+  "synced_at": "2026-03-07T18:30:23.254Z",
   "_hashes": {
-    "ocr": "f9eb92786a7af84e",
-    "translation": "a596906a8b5c48cd"
+    "ocr": "ee8d50e6df5a1e77",
+    "translation": "30ca0cf370082a71"
   }
 }
