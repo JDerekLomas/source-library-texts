@@ -1,14 +1,14 @@
 {
   "id": "697d9c9b72d515cb07bb3840",
   "title": "Gründliche Aufflösung von der Natur und Eigenschafft der Elementen",
-  "display_title": "Gründliche Aufflösung von der Natur und Eigenschafft der Elementen",
+  "display_title": "A Thorough Explanation of the Nature and Properties of the Elements",
   "author": "Drebbel, Cornelius",
   "language": "German",
   "year": 1715,
   "published": "1715",
   "pages_count": 137,
-  "pages_with_ocr": 79,
-  "pages_with_translation": 4,
+  "pages_with_ocr": 137,
+  "pages_with_translation": 127,
   "source_url": "https://sourcelibrary.org/book/697d9c9b72d515cb07bb3840",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v5.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:29:20.093Z",
+  "synced_at": "2026-03-07T22:20:28.646Z",
   "_hashes": {
-    "ocr": "1e85285a57e4f1d1",
-    "translation": "29803d2b07350486"
+    "ocr": "5f12e44a4ad01b20",
+    "translation": "2d0dce188b682c75"
   }
 }
