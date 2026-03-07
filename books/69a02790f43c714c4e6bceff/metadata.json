@@ -1,0 +1,26 @@
+{
+  "id": "69a02790f43c714c4e6bceff",
+  "title": "Die theoretischen Brüder oder zweite Stuffe der Rosenkreutzer und ihrer Instruktion",
+  "display_title": "The Theoretical Brothers, or the Second Stage of the Rosicrucians",
+  "author": "[Löhrbach, Graf von]",
+  "language": "German",
+  "year": 1789,
+  "published": "1789",
+  "pages_count": 322,
+  "pages_with_ocr": 322,
+  "pages_with_translation": 304,
+  "source_url": "https://sourcelibrary.org/book/69a02790f43c714c4e6bceff",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-07T11:10:13.388Z",
+  "_hashes": {
+    "ocr": "64ac81c4c11d921a",
+    "translation": "2e90aebc48ad55ab"
+  }
+}
