@@ -1,14 +1,14 @@
 {
   "id": "697b0799fe56d93a87bdc790",
   "title": "De electione gratiae, von der Gnaden-Wahl",
-  "display_title": "On the Election of Grace (De Electione Gratiae)",
+  "display_title": "On the Election of Grace",
   "author": "Boehme, Jacob",
   "language": "Latin-German",
   "year": 1730,
   "published": "1730",
   "pages_count": 254,
   "pages_with_ocr": 254,
-  "pages_with_translation": 246,
+  "pages_with_translation": 247,
   "source_url": "https://sourcelibrary.org/book/697b0799fe56d93a87bdc790",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-03-04T18:40:42.941Z",
+  "synced_at": "2026-03-07T18:50:13.201Z",
   "_hashes": {
     "ocr": "98f62d5caeff1244",
-    "translation": "c1480fd5dce16ab1"
+    "translation": "8b29305809e909db"
   }
 }
