@@ -1,14 +1,14 @@
 {
   "id": "6970e3879b09d309d780a2e4",
   "title": "Aperta arca arcani artificiosissimi. Oder dess grossen und kleinen Bauers",
-  "display_title": "Aperta arca arcani artificiosissimi. Oder dess grossen und kleinen Bauers",
+  "display_title": "The Open Ark of the Most Artful Secret",
   "author": "[Grasshoff, Johann]",
   "language": "German",
   "year": 1687,
   "published": "1687",
   "pages_count": 286,
   "pages_with_ocr": 286,
-  "pages_with_translation": 1,
+  "pages_with_translation": 256,
   "source_url": "https://sourcelibrary.org/book/6970e3879b09d309d780a2e4",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:26:49.909Z",
+  "synced_at": "2026-03-07T16:33:41.453Z",
   "_hashes": {
     "ocr": "5fbc55b5ce387b13",
-    "translation": "20a2b19e2564b085"
+    "translation": "da2ef1305bd76237"
   }
 }
