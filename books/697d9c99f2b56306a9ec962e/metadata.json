@@ -1,14 +1,14 @@
 {
   "id": "697d9c99f2b56306a9ec962e",
   "title": "Histoire littéraire des troubadours",
-  "display_title": "Histoire littéraire des troubadours",
+  "display_title": "Literary History of the Troubadours",
   "author": "[Millot, Claude-François-Xavier]",
   "language": "French",
   "year": 1774,
   "published": "1774",
   "pages_count": 632,
-  "pages_with_ocr": 10,
-  "pages_with_translation": 5,
+  "pages_with_ocr": 632,
+  "pages_with_translation": 623,
   "source_url": "https://sourcelibrary.org/book/697d9c99f2b56306a9ec962e",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:30:14.548Z",
+  "synced_at": "2026-03-07T22:10:32.284Z",
   "_hashes": {
-    "ocr": "f658267233c96105",
-    "translation": "c835ccec1c86ea6b"
+    "ocr": "9e7aaa9ec6b18def",
+    "translation": "b63854bb97f90c51"
   }
 }
