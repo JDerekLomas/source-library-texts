@@ -6,8 +6,8 @@
   "language": "German",
   "year": 1618,
   "published": "1618",
-  "pages_count": 161,
-  "pages_with_ocr": 161,
+  "pages_count": 160,
+  "pages_with_ocr": 160,
   "pages_with_translation": 151,
   "source_url": "https://sourcelibrary.org/book/697910dbeb0dcfd39912342a",
   "license": "publicdomain",
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-03-07T00:40:22.155Z",
+  "synced_at": "2026-03-07T09:00:51.635Z",
   "_hashes": {
-    "ocr": "30716f405720be3b",
+    "ocr": "d3b22ac0ea56cb58",
     "translation": "93e0302d86f19a55"
   }
 }
