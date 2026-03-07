@@ -1,14 +1,14 @@
 {
   "id": "697e23c3eae9ff63cff4df76",
   "title": "Introduction à la vraie physique",
-  "display_title": "Introduction à la vraie physique",
+  "display_title": "Introduction to True Physics",
   "author": "Hellwig, Johann Otto von",
   "language": "French",
   "year": 1760,
   "published": "1760",
   "pages_count": 146,
-  "pages_with_ocr": 10,
-  "pages_with_translation": 1,
+  "pages_with_ocr": 146,
+  "pages_with_translation": 130,
   "source_url": "https://sourcelibrary.org/book/697e23c3eae9ff63cff4df76",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v4.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:31:12.078Z",
+  "synced_at": "2026-03-07T23:30:25.845Z",
   "_hashes": {
-    "ocr": "a134fa1f35bb1c16",
-    "translation": "51c12dddbdebd32f"
+    "ocr": "66637393d6b71e0d",
+    "translation": "eab751b9d7f620fc"
   }
 }
