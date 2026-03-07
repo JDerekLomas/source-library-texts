@@ -1,14 +1,14 @@
 {
   "id": "697a4a7bc915282d8f071f69",
   "title": "Dialogo della comunita dello amore intitulato amore divino et humano",
-  "display_title": "Dialogo della comunita dello amore intitulato amore divino et humano",
+  "display_title": "Dialogue on Divine and Human Love",
   "author": "Abrabanel, Jehuda",
   "language": "Italian",
   "year": 1552,
   "published": "1552",
   "pages_count": 124,
   "pages_with_ocr": 124,
-  "pages_with_translation": 6,
+  "pages_with_translation": 117,
   "source_url": "https://sourcelibrary.org/book/697a4a7bc915282d8f071f69",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v5.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:28:18.330Z",
+  "synced_at": "2026-03-07T18:10:06.440Z",
   "_hashes": {
     "ocr": "5afc7c6b272c94b4",
-    "translation": "7ff9eea67d7a8876"
+    "translation": "2335bfad06f4dd44"
   }
 }
