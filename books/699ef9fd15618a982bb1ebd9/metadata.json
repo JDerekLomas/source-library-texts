@@ -1,0 +1,26 @@
+{
+  "id": "699ef9fd15618a982bb1ebd9",
+  "title": "[Hebrew: Sefer shnei luchot ha-brit]",
+  "display_title": "The Two Tablets of the Covenant",
+  "author": "Horowitz, Isaiah ben Abraham Halevi",
+  "language": "Hebrew",
+  "year": 1698,
+  "published": "1698",
+  "pages_count": 1035,
+  "pages_with_ocr": 978,
+  "pages_with_translation": 624,
+  "source_url": "https://sourcelibrary.org/book/699ef9fd15618a982bb1ebd9",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-07T05:30:17.470Z",
+  "_hashes": {
+    "ocr": "7b8ec379a9fd08a5",
+    "translation": "c9418b2d00cb7b7d"
+  }
+}
