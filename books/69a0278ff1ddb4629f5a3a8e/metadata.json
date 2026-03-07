@@ -1,0 +1,26 @@
+{
+  "id": "69a0278ff1ddb4629f5a3a8e",
+  "title": "Tractatus de lapide philosophico oder vom Stein der Weisen",
+  "display_title": "Treatise on the Philosopher's Stone",
+  "author": "Hollandus, Johannes Isaac",
+  "language": "Unknown",
+  "year": 1669,
+  "published": "1669",
+  "pages_count": 206,
+  "pages_with_ocr": 206,
+  "pages_with_translation": 195,
+  "source_url": "https://sourcelibrary.org/book/69a0278ff1ddb4629f5a3a8e",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-07T06:20:33.455Z",
+  "_hashes": {
+    "ocr": "6575cb5cdf03184c",
+    "translation": "c27872dd26f66030"
+  }
+}
