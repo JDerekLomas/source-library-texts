@@ -1,14 +1,14 @@
 {
   "id": "697d9c99f2b56306a9ec962a",
   "title": "Güldene Rose, oder ein Zeugniss der Wahrheit von der bevorstehenden güldenen Zeit",
-  "display_title": "Güldene Rose, oder ein Zeugniss der Wahrheit von der bevorstehenden güldenen Zeit",
+  "display_title": "The Golden Rose, or a Testimony of the Truth",
   "author": "Schütz, Christoph",
   "language": "German",
   "year": 1727,
   "published": "1727",
   "pages_count": 242,
   "pages_with_ocr": 242,
-  "pages_with_translation": 6,
+  "pages_with_translation": 231,
   "source_url": "https://sourcelibrary.org/book/697d9c99f2b56306a9ec962a",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:27:15.054Z",
+  "synced_at": "2026-03-07T22:10:27.998Z",
   "_hashes": {
     "ocr": "eeb30c7bfecd3011",
-    "translation": "9239a0d37ed053ac"
+    "translation": "c6f68e17d3d8820f"
   }
 }
