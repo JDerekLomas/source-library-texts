@@ -1,14 +1,14 @@
 {
   "id": "697e23c3eae9ff63cff4df74",
   "title": "Interpretatio numeri 666",
-  "display_title": "Interpretatio numeri 666",
+  "display_title": "Interpretation of the Number 666",
   "author": "Potter, Francis",
   "language": "Latin",
   "year": 1677,
   "published": "1677",
   "pages_count": 276,
   "pages_with_ocr": 276,
-  "pages_with_translation": 2,
+  "pages_with_translation": 262,
   "source_url": "https://sourcelibrary.org/book/697e23c3eae9ff63cff4df74",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v4.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:26:55.960Z",
+  "synced_at": "2026-03-07T23:30:22.122Z",
   "_hashes": {
     "ocr": "d66c7ff3e8a0c463",
-    "translation": "1332f049615c32d3"
+    "translation": "a988670673401bc3"
   }
 }
