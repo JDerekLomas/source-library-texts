@@ -1,14 +1,14 @@
 {
   "id": "6988a5a2992256533aeb0568",
   "title": "Selbstbiographie",
-  "display_title": "Selbstbiographie",
+  "display_title": "Autobiography",
   "author": "Andreae, Johann Valentin",
   "language": "German",
   "year": 1799,
   "published": "1799",
   "pages_count": 456,
-  "pages_with_ocr": 454,
-  "pages_with_translation": 93,
+  "pages_with_ocr": 456,
+  "pages_with_translation": 445,
   "source_url": "https://sourcelibrary.org/book/6988a5a2992256533aeb0568",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:24:52.903Z",
+  "synced_at": "2026-03-07T04:10:17.116Z",
   "_hashes": {
-    "ocr": "9f067c9f9a29b1cc",
-    "translation": "44599f7f3c9fb5ab"
+    "ocr": "76646864360176ab",
+    "translation": "42196e0c1055589d"
   }
 }
