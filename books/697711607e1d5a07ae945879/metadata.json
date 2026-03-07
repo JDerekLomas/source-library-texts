@@ -6,8 +6,8 @@
   "language": "Hebrew",
   "year": 1635,
   "published": "1635",
-  "pages_count": 320,
-  "pages_with_ocr": 320,
+  "pages_count": 318,
+  "pages_with_ocr": 318,
   "pages_with_translation": 302,
   "source_url": "https://sourcelibrary.org/book/697711607e1d5a07ae945879",
   "license": "publicdomain",
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-03-06T22:30:42.881Z",
+  "synced_at": "2026-03-07T11:00:03.274Z",
   "_hashes": {
-    "ocr": "d7eb4aea55520c2c",
+    "ocr": "b34a968532f1dec0",
     "translation": "9f0cead4b7239eeb"
   }
 }
