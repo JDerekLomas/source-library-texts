@@ -1,14 +1,14 @@
 {
   "id": "697b07992690aeaf7e6cd250",
   "title": "Ernst und Falk. Gespräche für Freymäurer",
-  "display_title": "Ernst und Falk. Gespräche für Freymäurer",
+  "display_title": "Ernst and Falk: Dialogues for Freemasons",
   "author": "[Lessing, Gotthold Ephraim]",
   "language": "German",
   "year": 1781,
   "published": "1781",
   "pages_count": 106,
   "pages_with_ocr": 106,
-  "pages_with_translation": 4,
+  "pages_with_translation": 95,
   "source_url": "https://sourcelibrary.org/book/697b07992690aeaf7e6cd250",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v5.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:28:28.480Z",
+  "synced_at": "2026-03-07T18:20:05.994Z",
   "_hashes": {
     "ocr": "861e15b21561d3d8",
-    "translation": "7b393f4bd95e3884"
+    "translation": "95f512bfba0ea117"
   }
 }
