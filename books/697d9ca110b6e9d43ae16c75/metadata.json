@@ -1,14 +1,14 @@
 {
   "id": "697d9ca110b6e9d43ae16c75",
   "title": "Heldenbuch vom Rosengarten. Oder gründtlicher und apologetischer Bericht von dem newen himlischen propheten, Rosenkreutzern, Chiliasten, und Enthusiasten",
-  "display_title": "Heldenbuch vom Rosengarten. Oder gründtlicher und apologetischer Bericht von dem newen himlischen propheten, Rosenkreutzern, Chiliasten, und Enthusiasten",
+  "display_title": "The Book of Heroes of the Rose Garden",
   "author": "Rostius, Georgius",
   "language": "German",
   "year": 1622,
   "published": "1622",
-  "pages_count": 428,
-  "pages_with_ocr": 12,
-  "pages_with_translation": 7,
+  "pages_count": 427,
+  "pages_with_ocr": 427,
+  "pages_with_translation": 424,
   "source_url": "https://sourcelibrary.org/book/697d9ca110b6e9d43ae16c75",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v4.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:29:59.369Z",
+  "synced_at": "2026-03-07T22:50:42.270Z",
   "_hashes": {
-    "ocr": "6f7f3790067bb5d9",
-    "translation": "f29d77455de60f9a"
+    "ocr": "a4da77eec43411b5",
+    "translation": "a9571b37cf9df081"
   }
 }
