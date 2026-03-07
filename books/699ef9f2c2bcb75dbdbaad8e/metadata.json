@@ -1,0 +1,26 @@
+{
+  "id": "699ef9f2c2bcb75dbdbaad8e",
+  "title": "Sethos, histoire ou vie tirée des monuments anecdotes de l'ancienne Egypte",
+  "display_title": "Sethos: History or Life Taken from the Private Monuments of Ancient Egypt",
+  "author": "[Terrasson, Jean]",
+  "language": "French",
+  "year": 1732,
+  "published": "1732",
+  "pages_count": 873,
+  "pages_with_ocr": 844,
+  "pages_with_translation": 827,
+  "source_url": "https://sourcelibrary.org/book/699ef9f2c2bcb75dbdbaad8e",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-07T05:10:14.020Z",
+  "_hashes": {
+    "ocr": "286d2c1574878e15",
+    "translation": "d4da92f488ae8682"
+  }
+}
