@@ -1,14 +1,14 @@
 {
   "id": "697b079a84b05e7a498568b6",
   "title": "Dreyzehn geheime Briefe",
-  "display_title": "Dreyzehn geheime Briefe",
+  "display_title": "Thirteen Secret Letters",
   "author": "anonymous",
   "language": "German",
   "year": 1788,
   "published": "1788",
   "pages_count": 148,
-  "pages_with_ocr": 10,
-  "pages_with_translation": 1,
+  "pages_with_ocr": 148,
+  "pages_with_translation": 136,
   "source_url": "https://sourcelibrary.org/book/697b079a84b05e7a498568b6",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:30:24.952Z",
+  "synced_at": "2026-03-07T19:10:05.977Z",
   "_hashes": {
-    "ocr": "108ddcfdccea5961",
-    "translation": "45631e9a0971a9a4"
+    "ocr": "df91185c90bdbba1",
+    "translation": "1aa7fce9324c7d56"
   }
 }
