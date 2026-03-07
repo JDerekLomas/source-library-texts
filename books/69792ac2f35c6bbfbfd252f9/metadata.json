@@ -1,14 +1,14 @@
 {
   "id": "69792ac2f35c6bbfbfd252f9",
   "title": "Coelum philosophorum. Von heimlichkeit der Natur.  Regiment des Lebens",
-  "display_title": "Coelum philosophorum. Von heimlichkeit der Natur.  Regiment des Lebens",
+  "display_title": "The Heaven of the Philosophers and the Regimen of Life",
   "author": "Ulstad, Philip|Ficino, Marsilio",
   "language": "Latin-German",
   "year": 1551,
   "published": "1551",
   "pages_count": 150,
   "pages_with_ocr": 150,
-  "pages_with_translation": 143,
+  "pages_with_translation": 145,
   "source_url": "https://sourcelibrary.org/book/69792ac2f35c6bbfbfd252f9",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:28:05.751Z",
+  "synced_at": "2026-03-07T00:50:13.311Z",
   "_hashes": {
     "ocr": "2d1dca5893e0ef69",
-    "translation": "9dbbdf05b79680c1"
+    "translation": "a1c97bbc6434f046"
   }
 }
