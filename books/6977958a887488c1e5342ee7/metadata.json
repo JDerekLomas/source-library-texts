@@ -1,14 +1,14 @@
 {
   "id": "6977958a887488c1e5342ee7",
   "title": "Cabalomachia hoc est artis cabalisticae oppugnatio. Diatriba exegetica, didascalica, catacritica duobus distincta capitibus, in quorum uno agitur de Cabala Hebraica, de Pythagorica in altero",
-  "display_title": "Cabalomachia hoc est artis cabalisticae oppugnatio. Diatriba exegetica, didascalica, catacritica duobus distincta capitibus, in quorum uno agitur de Cabala Hebraica, de Pythagorica in altero",
+  "display_title": "The Battle Against the Kabbalah",
   "author": "[Berlendi, Francesco]",
   "language": "Latin",
   "year": 1718,
   "published": "1718",
   "pages_count": 120,
   "pages_with_ocr": 120,
-  "pages_with_translation": 93,
+  "pages_with_translation": 112,
   "source_url": "https://sourcelibrary.org/book/6977958a887488c1e5342ee7",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:28:20.475Z",
+  "synced_at": "2026-03-07T00:30:23.636Z",
   "_hashes": {
     "ocr": "04ff43172069d361",
-    "translation": "ef7e2148d6075582"
+    "translation": "2fff550820ba85aa"
   }
 }
