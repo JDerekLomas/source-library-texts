@@ -1,0 +1,28 @@
+{
+  "id": "69a5e9bb787d6e9b8d42e183",
+  "title": "Eghtsʿ Aghandotsʿ (Against the Sects)",
+  "display_title": "Refutation of the Sects",
+  "author": "Eznik of Koghb",
+  "language": "Armenian",
+  "year": 1826,
+  "published": "1826",
+  "pages_count": 352,
+  "pages_with_ocr": 264,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/69a5e9bb787d6e9b8d42e183",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "EznkayKoghbatsioyBagrewandayEpiskoposiEghtsAghandots"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-03-07T12:20:42.604Z",
+  "_hashes": {
+    "ocr": "6c663a23a9aebfc2",
+    "translation": "e3b0c44298fc1c14"
+  }
+}
