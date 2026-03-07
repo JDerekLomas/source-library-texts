@@ -6,8 +6,8 @@
   "language": "German",
   "year": 1547,
   "published": "1547",
-  "pages_count": 148,
-  "pages_with_ocr": 148,
+  "pages_count": 147,
+  "pages_with_ocr": 147,
   "pages_with_translation": 135,
   "source_url": "https://sourcelibrary.org/book/6978ee3a54992dc0fea379b4",
   "license": "publicdomain",
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-03-07T00:10:31.307Z",
+  "synced_at": "2026-03-07T08:50:45.485Z",
   "_hashes": {
-    "ocr": "aa12428fc332922b",
+    "ocr": "f45c79084466b82d",
     "translation": "c1f6c7624bf9357e"
   }
 }
