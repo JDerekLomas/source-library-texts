@@ -1,14 +1,14 @@
 {
   "id": "6974b63e19126e775cf6d7d7",
   "title": "L'Appel de Dieu et le refus des hommes",
-  "display_title": "L'Appel de Dieu et le refus des hommes",
+  "display_title": "The Call of God and the Refusal of Men",
   "author": "Bourignon, Antoinette",
   "language": "French",
   "year": 1682,
   "published": "1682-1684",
   "pages_count": 449,
   "pages_with_ocr": 449,
-  "pages_with_translation": 3,
+  "pages_with_translation": 441,
   "source_url": "https://sourcelibrary.org/book/6974b63e19126e775cf6d7d7",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:24:56.050Z",
+  "synced_at": "2026-03-07T16:40:27.821Z",
   "_hashes": {
     "ocr": "92b0eb1cf55cb834",
-    "translation": "93394feb9210047d"
+    "translation": "0dc564c362e16728"
   }
 }
