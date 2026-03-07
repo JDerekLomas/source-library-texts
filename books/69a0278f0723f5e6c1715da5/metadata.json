@@ -1,0 +1,26 @@
+{
+  "id": "69a0278f0723f5e6c1715da5",
+  "title": "Theatrum chimicum, ofte geopende deure der chymische verborgentheden ontsloten",
+  "display_title": "Chemical Theater, or the Opened Door of Chemical Secrets",
+  "author": "[Blankaart, Steven]|Digby, Kenelm",
+  "language": "Dutch",
+  "year": 1693,
+  "published": "1693",
+  "pages_count": 734,
+  "pages_with_ocr": 734,
+  "pages_with_translation": 697,
+  "source_url": "https://sourcelibrary.org/book/69a0278f0723f5e6c1715da5",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-07T06:20:36.771Z",
+  "_hashes": {
+    "ocr": "51131b4e45b33c26",
+    "translation": "50792f044173e352"
+  }
+}
