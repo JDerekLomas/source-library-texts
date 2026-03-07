@@ -6,9 +6,9 @@
   "language": "English",
   "year": 1797,
   "published": "1797",
-  "pages_count": 144,
-  "pages_with_ocr": 144,
-  "pages_with_translation": 129,
+  "pages_count": 143,
+  "pages_with_ocr": 143,
+  "pages_with_translation": 128,
   "source_url": "https://sourcelibrary.org/book/697953e3eef1c286564aa439",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-03-07T00:30:17.116Z",
+  "synced_at": "2026-03-07T08:50:48.848Z",
   "_hashes": {
-    "ocr": "04d804ef86e4a84a",
-    "translation": "6bfdad61dc80f43c"
+    "ocr": "7d66414203aac372",
+    "translation": "16ca04039ee4b148"
   }
 }
