@@ -1,0 +1,28 @@
+{
+  "id": "69a5e5d5006a409842217819",
+  "title": "Vetus Testamentum Graecum (Grec 2)",
+  "display_title": "Greek Old Testament",
+  "author": "Anonymous",
+  "language": "Greek",
+  "year": null,
+  "published": "950-1000",
+  "pages_count": 523,
+  "pages_with_ocr": 382,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/69a5e5d5006a409842217819",
+  "license": "https://gallica.bnf.fr/html/und/conditions-dutilisation-des-contenus-de-gallica",
+  "doi": null,
+  "external_ids": {
+    "gallica": "btv1b107218011"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-03-07T12:10:58.825Z",
+  "_hashes": {
+    "ocr": "a6b8eab5656c5080",
+    "translation": "e3b0c44298fc1c14"
+  }
+}
