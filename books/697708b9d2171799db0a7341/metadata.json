@@ -1,14 +1,14 @@
 {
   "id": "697708b9d2171799db0a7341",
   "title": "Den Bibel, inhoudende dat Oude ende Nieuwe Testament",
-  "display_title": "Den Bibel, inhoudende dat Oude ende Nieuwe Testament",
+  "display_title": "The Bible",
   "author": "Unknown",
   "language": "Dutch",
   "year": 1564,
   "published": "1564",
   "pages_count": 920,
-  "pages_with_ocr": 919,
-  "pages_with_translation": 4,
+  "pages_with_ocr": 920,
+  "pages_with_translation": 913,
   "source_url": "https://sourcelibrary.org/book/697708b9d2171799db0a7341",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:21:29.301Z",
+  "synced_at": "2026-03-07T17:30:30.611Z",
   "_hashes": {
-    "ocr": "d965349eed1851f1",
-    "translation": "4d1809a7bed46131"
+    "ocr": "7703f90e09233186",
+    "translation": "b7a9089b94a7f335"
   }
 }
