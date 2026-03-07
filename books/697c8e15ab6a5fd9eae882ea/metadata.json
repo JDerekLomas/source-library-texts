@@ -1,14 +1,14 @@
 {
   "id": "697c8e15ab6a5fd9eae882ea",
   "title": "Gedanken vom Feuer",
-  "display_title": "Gedanken vom Feuer",
+  "display_title": "Thoughts on Fire",
   "author": "Eberhard, Johann Peter",
   "language": "German",
   "year": 1750,
   "published": "1750",
   "pages_count": 250,
   "pages_with_ocr": 250,
-  "pages_with_translation": 192,
+  "pages_with_translation": 240,
   "source_url": "https://sourcelibrary.org/book/697c8e15ab6a5fd9eae882ea",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:27:09.429Z",
+  "synced_at": "2026-03-07T02:00:21.237Z",
   "_hashes": {
     "ocr": "e78d87617949294f",
-    "translation": "d3455458545576de"
+    "translation": "f0b497a10ce77547"
   }
 }
