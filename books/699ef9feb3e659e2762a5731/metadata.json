@@ -1,0 +1,26 @@
+{
+  "id": "699ef9feb3e659e2762a5731",
+  "title": "Integer nitidus",
+  "display_title": "The Collected Works of Macrobius",
+  "author": "Macrobius, Ambrosius Theodosius",
+  "language": "Unknown",
+  "year": 1513,
+  "published": "1513",
+  "pages_count": 307,
+  "pages_with_ocr": 307,
+  "pages_with_translation": 294,
+  "source_url": "https://sourcelibrary.org/book/699ef9feb3e659e2762a5731",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-07T05:40:18.199Z",
+  "_hashes": {
+    "ocr": "36978867c86eca97",
+    "translation": "3ce01a2509c05b0a"
+  }
+}
