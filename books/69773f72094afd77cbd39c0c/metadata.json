@@ -1,14 +1,14 @@
 {
   "id": "69773f72094afd77cbd39c0c",
   "title": "Bibliotheca chimica. Seu catalogus librorum philosophicorum hermeticorum",
-  "display_title": "Bibliotheca chimica. Seu catalogus librorum philosophicorum hermeticorum",
+  "display_title": "Chemical Library",
   "author": "Borel, Pierre",
   "language": "Latin",
   "year": 1654,
   "published": "1654",
   "pages_count": 314,
-  "pages_with_ocr": 10,
-  "pages_with_translation": 5,
+  "pages_with_ocr": 314,
+  "pages_with_translation": 302,
   "source_url": "https://sourcelibrary.org/book/69773f72094afd77cbd39c0c",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:30:24.844Z",
+  "synced_at": "2026-03-07T17:40:41.561Z",
   "_hashes": {
-    "ocr": "1aaca16030b0c642",
-    "translation": "f9107f14631b90d7"
+    "ocr": "7405e9c2a8e6050a",
+    "translation": "832692bd6883152b"
   }
 }
