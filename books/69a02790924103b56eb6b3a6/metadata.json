@@ -1,0 +1,26 @@
+{
+  "id": "69a02790924103b56eb6b3a6",
+  "title": "Tractat, von dem grossen Stein der Uhralten. Repetition. De microcosmo. Von der grossen Heimligkeit der Welt. Von der Wissenschaft und verborgenen Geheimnüssen der sieben Planeten",
+  "display_title": "Treatise on the Great Stone of the Ancients",
+  "author": "Basilius Valentinus",
+  "language": "Unknown",
+  "year": 1626,
+  "published": "1626",
+  "pages_count": 292,
+  "pages_with_ocr": 292,
+  "pages_with_translation": 276,
+  "source_url": "https://sourcelibrary.org/book/69a02790924103b56eb6b3a6",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-07T10:50:11.729Z",
+  "_hashes": {
+    "ocr": "19483bf1a7c5d47f",
+    "translation": "f4a51eb7a3b79e42"
+  }
+}
