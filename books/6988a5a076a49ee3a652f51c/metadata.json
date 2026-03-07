@@ -1,13 +1,13 @@
 {
   "id": "6988a5a076a49ee3a652f51c",
   "title": "[Hebrew: Galei rezaya] Hoc est revelator arcanorum",
-  "display_title": "[Hebrew: Galei rezaya] Hoc est revelator arcanorum",
+  "display_title": "Revealer of Secrets",
   "author": "Cregut, Antoine",
   "language": "Latin",
   "year": 1661,
   "published": "1661",
-  "pages_count": 969,
-  "pages_with_ocr": 100,
+  "pages_count": 1188,
+  "pages_with_ocr": 1188,
   "pages_with_translation": 98,
   "source_url": "https://sourcelibrary.org/book/6988a5a076a49ee3a652f51c",
   "license": "publicdomain",
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:28:35.820Z",
+  "synced_at": "2026-03-07T03:30:29.896Z",
   "_hashes": {
-    "ocr": "4bbebe3d95464318",
+    "ocr": "cad8b314e4acd92f",
     "translation": "6d1808d409f659ab"
   }
 }
