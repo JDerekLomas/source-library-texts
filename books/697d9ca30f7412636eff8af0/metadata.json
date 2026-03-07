@@ -1,14 +1,14 @@
 {
   "id": "697d9ca30f7412636eff8af0",
   "title": "Das Grab der falschen Theologiae",
-  "display_title": "Das Grab der falschen Theologiae",
+  "display_title": "The Grave of False Theology",
   "author": "Bourignon, Antoinette",
   "language": "German",
   "year": 1682,
   "published": "1682",
   "pages_count": 428,
   "pages_with_ocr": 428,
-  "pages_with_translation": 5,
+  "pages_with_translation": 416,
   "source_url": "https://sourcelibrary.org/book/697d9ca30f7412636eff8af0",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v4.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:25:10.683Z",
+  "synced_at": "2026-03-07T23:10:26.960Z",
   "_hashes": {
     "ocr": "3ab0cf22a5dad840",
-    "translation": "4f1261bd53a02640"
+    "translation": "8eea4c7e27b821f7"
   }
 }
