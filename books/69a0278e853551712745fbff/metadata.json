@@ -1,14 +1,14 @@
 {
   "id": "69a0278e853551712745fbff",
   "title": "Der Tempel Salomonis",
-  "display_title": "Solomon's Temple",
+  "display_title": "The Temple of Solomon",
   "author": "[Semler, Christian]",
   "language": "German",
   "year": 1718,
   "published": "1718",
   "pages_count": 166,
   "pages_with_ocr": 166,
-  "pages_with_translation": 20,
+  "pages_with_translation": 136,
   "source_url": "https://sourcelibrary.org/book/69a0278e853551712745fbff",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v5.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-03-04T21:50:40.999Z",
+  "synced_at": "2026-03-07T10:20:14.983Z",
   "_hashes": {
     "ocr": "1577ff2c51172936",
-    "translation": "7dc7f6a1842b21d3"
+    "translation": "e5b4af41949bb908"
   }
 }
