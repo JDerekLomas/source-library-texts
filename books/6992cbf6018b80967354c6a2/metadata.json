@@ -1,0 +1,28 @@
+{
+  "id": "6992cbf6018b80967354c6a2",
+  "title": "Vorschule der Aesthetik, Band 1",
+  "display_title": "Introduction to Aesthetics, Volume 1",
+  "author": "Gustav Theodor Fechner",
+  "language": "German",
+  "year": 1876,
+  "published": "Unknown",
+  "pages_count": 275,
+  "pages_with_ocr": 261,
+  "pages_with_translation": 260,
+  "source_url": "https://sourcelibrary.org/book/6992cbf6018b80967354c6a2",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "11334539"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-07T04:50:13.372Z",
+  "_hashes": {
+    "ocr": "dcf148c7a880960e",
+    "translation": "e8c556a15668fcf9"
+  }
+}
