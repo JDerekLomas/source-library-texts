@@ -1,0 +1,26 @@
+{
+  "id": "69a0278b3901873085afcdf5",
+  "title": "Theosophischer Wunder-Saal",
+  "display_title": "Theosophical Hall of Wonders",
+  "author": "[Richtenfels]",
+  "language": "Unknown",
+  "year": 1709,
+  "published": "1709",
+  "pages_count": 226,
+  "pages_with_ocr": 226,
+  "pages_with_translation": 217,
+  "source_url": "https://sourcelibrary.org/book/69a0278b3901873085afcdf5",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-07T06:30:12.626Z",
+  "_hashes": {
+    "ocr": "304bdba4f4048b25",
+    "translation": "9ed6a31da4fa9f7d"
+  }
+}
