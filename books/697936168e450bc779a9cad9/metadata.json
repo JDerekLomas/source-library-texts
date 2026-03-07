@@ -7,7 +7,7 @@
   "year": 1662,
   "published": "1662",
   "pages_count": 318,
-  "pages_with_ocr": 317,
+  "pages_with_ocr": 318,
   "pages_with_translation": 4,
   "source_url": "https://sourcelibrary.org/book/697936168e450bc779a9cad9",
   "license": "publicdomain",
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:26:30.589Z",
+  "synced_at": "2026-03-07T01:40:13.663Z",
   "_hashes": {
-    "ocr": "e14313b245efbb43",
+    "ocr": "bfb5f293500f21cf",
     "translation": "d938a64ec9cb0d65"
   }
 }
