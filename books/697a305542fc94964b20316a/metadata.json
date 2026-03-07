@@ -1,14 +1,14 @@
 {
   "id": "697a305542fc94964b20316a",
   "title": "Cours du livre de Thot",
-  "display_title": "Cours du livre de Thot",
+  "display_title": "Course on the Book of Thoth",
   "author": "[Alliette, Jean-Baptiste]",
   "language": "French",
   "year": 1790,
   "published": "1790",
   "pages_count": 136,
   "pages_with_ocr": 136,
-  "pages_with_translation": 1,
+  "pages_with_translation": 112,
   "source_url": "https://sourcelibrary.org/book/697a305542fc94964b20316a",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v5.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:28:10.878Z",
+  "synced_at": "2026-03-07T18:30:05.892Z",
   "_hashes": {
     "ocr": "5e8912ad7b8f703d",
-    "translation": "89ca5ea38cf4f480"
+    "translation": "08a5692cb290e021"
   }
 }
