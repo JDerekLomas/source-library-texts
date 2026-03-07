@@ -1,14 +1,14 @@
 {
   "id": "697c8e11f81f9680d27f6349",
   "title": "Fata chymica, in Beschreibung der wahren und falschen Chymie",
-  "display_title": "Fata chymica, in Beschreibung der wahren und falschen Chymie",
+  "display_title": "Chemical Fates",
   "author": "Hortulanus, Fontanus",
   "language": "German",
   "year": 1740,
   "published": "1740",
-  "pages_count": 554,
-  "pages_with_ocr": 510,
-  "pages_with_translation": 1,
+  "pages_count": 537,
+  "pages_with_ocr": 537,
+  "pages_with_translation": 523,
   "source_url": "https://sourcelibrary.org/book/697c8e11f81f9680d27f6349",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:24:13.356Z",
+  "synced_at": "2026-03-07T21:30:36.869Z",
   "_hashes": {
-    "ocr": "f626950579c8a62c",
-    "translation": "ac3741e3c1cc1514"
+    "ocr": "44d396ed6f27d257",
+    "translation": "eeb64fecda6a508c"
   }
 }
