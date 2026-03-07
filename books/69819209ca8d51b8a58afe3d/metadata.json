@@ -1,14 +1,14 @@
 {
   "id": "69819209ca8d51b8a58afe3d",
   "title": "Manuductio hermedico-philosophica, oder richtige Handleitung zu der wahren philosophischen Medicin",
-  "display_title": "Manuductio hermedico-philosophica, oder richtige Handleitung zu der wahren philosophischen Medicin",
+  "display_title": "Hermetic-Philosophical Guidance to True Philosophical Medicine",
   "author": "Vanderbeeg, I.C|von",
   "language": "Latin-German",
   "year": 1739,
   "published": "[1739]",
   "pages_count": 415,
   "pages_with_ocr": 415,
-  "pages_with_translation": 309,
+  "pages_with_translation": 403,
   "source_url": "https://sourcelibrary.org/book/69819209ca8d51b8a58afe3d",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v4.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:25:19.327Z",
+  "synced_at": "2026-03-07T02:40:21.303Z",
   "_hashes": {
     "ocr": "c05b425e7864273d",
-    "translation": "0b10261004900f2f"
+    "translation": "13a02b6417519798"
   }
 }
