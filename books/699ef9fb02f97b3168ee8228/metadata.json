@@ -1,0 +1,26 @@
+{
+  "id": "699ef9fb02f97b3168ee8228",
+  "title": "Sitten-Lehre der Heiligen Schrift",
+  "display_title": "Moral Teachings of the Holy Scripture",
+  "author": "Mosheim, Johann Lorenz von",
+  "language": "German",
+  "year": 1737,
+  "published": "1737-1770",
+  "pages_count": 1297,
+  "pages_with_ocr": 1104,
+  "pages_with_translation": 1096,
+  "source_url": "https://sourcelibrary.org/book/699ef9fb02f97b3168ee8228",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-07T05:10:31.376Z",
+  "_hashes": {
+    "ocr": "ed30760310201c69",
+    "translation": "bb0468a78abef756"
+  }
+}
