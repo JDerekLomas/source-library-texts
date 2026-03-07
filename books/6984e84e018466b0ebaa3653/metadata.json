@@ -1,14 +1,14 @@
 {
   "id": "6984e84e018466b0ebaa3653",
   "title": "[Cyrillic:] Of the ancient mysteries",
-  "display_title": "[Cyrillic:] Of the ancient mysteries",
+  "display_title": "Of the Ancient Mysteries",
   "author": "[Starck, Johann August von]",
   "language": "Russian",
   "year": 1785,
   "published": "1785",
   "pages_count": 226,
   "pages_with_ocr": 226,
-  "pages_with_translation": 222,
+  "pages_with_translation": 223,
   "source_url": "https://sourcelibrary.org/book/6984e84e018466b0ebaa3653",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v4.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:27:23.788Z",
+  "synced_at": "2026-03-07T02:50:20.069Z",
   "_hashes": {
     "ocr": "d0a5e6eb08f2ac2f",
-    "translation": "e07326e4f70f8a0c"
+    "translation": "091b233f9b902c33"
   }
 }
