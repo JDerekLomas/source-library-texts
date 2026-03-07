@@ -1,14 +1,14 @@
 {
   "id": "69751591233423aeec9e88f2",
   "title": "Auserlesene Extracten",
-  "display_title": "Auserlesene Extracten",
+  "display_title": "Selected Extracts",
   "author": "Ueberfeld, Johann Wilhelm",
   "language": "German",
   "year": 1740,
   "published": "1740",
   "pages_count": 918,
   "pages_with_ocr": 918,
-  "pages_with_translation": 6,
+  "pages_with_translation": 906,
   "source_url": "https://sourcelibrary.org/book/69751591233423aeec9e88f2",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:21:30.411Z",
+  "synced_at": "2026-03-07T17:10:53.537Z",
   "_hashes": {
     "ocr": "f285d5656245da85",
-    "translation": "3f0bc935d317f97d"
+    "translation": "2f1d9b1ea2fd87f2"
   }
 }
