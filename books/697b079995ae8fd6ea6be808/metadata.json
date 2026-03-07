@@ -1,14 +1,14 @@
 {
   "id": "697b079995ae8fd6ea6be808",
   "title": "Explicatio oder Ausslegung über die Wohrten Salomonis",
-  "display_title": "Explicatio oder Ausslegung über die Wohrten Salomonis",
+  "display_title": "Explanation of the Words of Solomon",
   "author": "Glauber, Johann Rudolph",
   "language": "Latin-German",
   "year": 1663,
   "published": "1663",
   "pages_count": 110,
   "pages_with_ocr": 110,
-  "pages_with_translation": 6,
+  "pages_with_translation": 106,
   "source_url": "https://sourcelibrary.org/book/697b079995ae8fd6ea6be808",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v5.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:28:25.039Z",
+  "synced_at": "2026-03-07T18:50:23.502Z",
   "_hashes": {
     "ocr": "6bdeda246bd99828",
-    "translation": "1b9de641b4347a80"
+    "translation": "d93e7afef629491d"
   }
 }
