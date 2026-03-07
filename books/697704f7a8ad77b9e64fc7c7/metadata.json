@@ -1,14 +1,14 @@
 {
   "id": "697704f7a8ad77b9e64fc7c7",
   "title": "Das neue Testament",
-  "display_title": "Das neue Testament",
+  "display_title": "The New Testament",
   "author": "Unknown",
   "language": "German",
   "year": 1753,
   "published": "1753",
   "pages_count": 1162,
   "pages_with_ocr": 1162,
-  "pages_with_translation": 2,
+  "pages_with_translation": 1149,
   "source_url": "https://sourcelibrary.org/book/697704f7a8ad77b9e64fc7c7",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:20:43.540Z",
+  "synced_at": "2026-03-07T16:30:32.527Z",
   "_hashes": {
     "ocr": "60df0910ebbfbf6a",
-    "translation": "2bc15c64945f3278"
+    "translation": "1ae2a9eb3f10897e"
   }
 }
