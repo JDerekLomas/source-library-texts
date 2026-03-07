@@ -1,14 +1,14 @@
 {
   "id": "69770ae377ed318b9f256bf4",
   "title": "[Biblia]. Epistola ad Rhomanos [etc.]",
-  "display_title": "[Biblia]. Epistola ad Rhomanos [etc.]",
+  "display_title": "The Bible: Epistle to the Romans",
   "author": "Unknown",
   "language": "Latin",
   "year": 1512,
   "published": "1512",
   "pages_count": 644,
-  "pages_with_ocr": 642,
-  "pages_with_translation": 7,
+  "pages_with_ocr": 644,
+  "pages_with_translation": 634,
   "source_url": "https://sourcelibrary.org/book/69770ae377ed318b9f256bf4",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:23:05.735Z",
+  "synced_at": "2026-03-07T17:40:27.349Z",
   "_hashes": {
-    "ocr": "a9a8690d7241460d",
-    "translation": "948cdf731a535d62"
+    "ocr": "07d669d6f7d3d666",
+    "translation": "bcaa837a4a02892b"
   }
 }
