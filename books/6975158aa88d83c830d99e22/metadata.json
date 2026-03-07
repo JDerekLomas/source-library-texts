@@ -1,13 +1,13 @@
 {
   "id": "6975158aa88d83c830d99e22",
   "title": "Astronomica et astrologica",
-  "display_title": "Astronomica et Astrologica (Astronomical and Astrological Works)",
+  "display_title": "Astronomical and Astrological Works",
   "author": "Paracelsus, Theophrastus",
   "language": "German",
   "year": 1567,
   "published": "1567",
-  "pages_count": 292,
-  "pages_with_ocr": 292,
+  "pages_count": 291,
+  "pages_with_ocr": 291,
   "pages_with_translation": 282,
   "source_url": "https://sourcelibrary.org/book/6975158aa88d83c830d99e22",
   "license": "publicdomain",
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-03-04T23:20:56.723Z",
+  "synced_at": "2026-03-07T16:20:28.079Z",
   "_hashes": {
-    "ocr": "c340d53da4d40f26",
+    "ocr": "d2b46be1f594b4c6",
     "translation": "fabd7513ba829b3a"
   }
 }
