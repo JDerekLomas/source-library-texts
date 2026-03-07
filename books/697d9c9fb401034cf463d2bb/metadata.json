@@ -1,14 +1,14 @@
 {
   "id": "697d9c9fb401034cf463d2bb",
   "title": "De goude leeuw, of den asijn der wysen",
-  "display_title": "De goude leeuw, of den asijn der wysen",
+  "display_title": "The Golden Lion, or the Vinegar of the Sages",
   "author": "Vreeswyk, Goossen van",
   "language": "Dutch",
   "year": 1671,
   "published": "1671",
   "pages_count": 303,
   "pages_with_ocr": 303,
-  "pages_with_translation": 2,
+  "pages_with_translation": 293,
   "source_url": "https://sourcelibrary.org/book/697d9c9fb401034cf463d2bb",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v4.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:26:40.929Z",
+  "synced_at": "2026-03-07T22:40:33.619Z",
   "_hashes": {
     "ocr": "04965e176432c699",
-    "translation": "9b8aaa1013f31771"
+    "translation": "b29ca9615a147aef"
   }
 }
