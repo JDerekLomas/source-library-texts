@@ -1,14 +1,14 @@
 {
   "id": "6991e92d35ed50020acc1268",
   "title": "Codex Arundel (Arundel MS 263)",
-  "display_title": "Arundel MS 263",
+  "display_title": "Notebook on Mechanics and Natural Philosophy",
   "author": "Leonardo da Vinci",
   "language": "Italian",
   "year": 1478,
   "published": "1478-1518",
   "pages_count": 545,
   "pages_with_ocr": 545,
-  "pages_with_translation": 451,
+  "pages_with_translation": 531,
   "source_url": "https://sourcelibrary.org/book/6991e92d35ed50020acc1268",
   "license": "unknown",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v5.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:23:46.119Z",
+  "synced_at": "2026-03-07T04:40:13.491Z",
   "_hashes": {
     "ocr": "c80ad8df7f1916f5",
-    "translation": "8bf73ad61f74eb67"
+    "translation": "68e2aaa39bb3dd82"
   }
 }
