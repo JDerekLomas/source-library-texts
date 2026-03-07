@@ -1,14 +1,14 @@
 {
   "id": "697a4d5cc915282d8f071f6d",
   "title": "Dialogus de Christianismo: das ist, ein christliches, hochwichtiges nothwendiges Colloquium",
-  "display_title": "Dialogus de Christianismo: das ist, ein christliches, hochwichtiges nothwendiges Colloquium",
+  "display_title": "Dialogue on Christianity",
   "author": "Weigel, Valentin",
   "language": "Latin-German",
   "year": 1618,
   "published": "1618",
   "pages_count": 134,
   "pages_with_ocr": 134,
-  "pages_with_translation": 10,
+  "pages_with_translation": 133,
   "source_url": "https://sourcelibrary.org/book/697a4d5cc915282d8f071f6d",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:28:11.500Z",
+  "synced_at": "2026-03-07T00:40:28.607Z",
   "_hashes": {
     "ocr": "0e2e4973a74b80ae",
-    "translation": "a6d1ca3a8002701c"
+    "translation": "754f64c8536cd53f"
   }
 }
