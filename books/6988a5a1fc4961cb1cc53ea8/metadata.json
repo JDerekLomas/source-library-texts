@@ -6,8 +6,8 @@
   "language": "Latin",
   "year": 1638,
   "published": "1638",
-  "pages_count": 77,
-  "pages_with_ocr": 77,
+  "pages_count": 76,
+  "pages_with_ocr": 76,
   "pages_with_translation": 70,
   "source_url": "https://sourcelibrary.org/book/6988a5a1fc4961cb1cc53ea8",
   "license": "publicdomain",
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-03-07T03:40:28.698Z",
+  "synced_at": "2026-03-07T07:40:59.858Z",
   "_hashes": {
-    "ocr": "d3b63f33a1f247da",
-    "translation": "0d1c5a3f5525819e"
+    "ocr": "4880a5f2b4955470",
+    "translation": "3d87561d565a52b5"
   }
 }
