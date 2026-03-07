@@ -1,0 +1,28 @@
+{
+  "id": "699df08c04b95ecb96570788",
+  "title": "Chinese Chronology and Cycles",
+  "display_title": "Chinese Chronology and Cycles",
+  "author": "Thomas Fergusson",
+  "language": "English",
+  "year": 1880,
+  "published": "1880",
+  "pages_count": 290,
+  "pages_with_ocr": 290,
+  "pages_with_translation": 281,
+  "source_url": "https://sourcelibrary.org/book/699df08c04b95ecb96570788",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "chinesechronolog00ferg"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-07T05:00:23.070Z",
+  "_hashes": {
+    "ocr": "eabb6b5c070b7c31",
+    "translation": "814b0864d7fc170c"
+  }
+}
