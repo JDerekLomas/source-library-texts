@@ -1,14 +1,14 @@
 {
   "id": "69906312e7b7642c081de690",
   "title": "Zend-Avesta, oder über die Dinge des Himmels und des Jenseits",
-  "display_title": "Zend-Avesta",
+  "display_title": "On the Things of Heaven and the Afterlife",
   "author": "Gustav Theodor Fechner",
   "language": "German",
   "year": 1851,
   "published": "Unknown",
   "pages_count": 406,
-  "pages_with_ocr": 10,
-  "pages_with_translation": 0,
+  "pages_with_ocr": 406,
+  "pages_with_translation": 394,
   "source_url": "https://sourcelibrary.org/book/69906312e7b7642c081de690",
   "license": "publicdomain",
   "doi": null,
@@ -18,11 +18,11 @@
   "processing": {
     "ocr_model": "gemini-3-flash-preview",
     "prompt_version": "v4.2026-02",
-    "translation_model": null
+    "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:31:28.720Z",
+  "synced_at": "2026-03-07T04:20:32.819Z",
   "_hashes": {
-    "ocr": "eede3239fccda31f",
-    "translation": "e3b0c44298fc1c14"
+    "ocr": "13163385e741538e",
+    "translation": "47ca2f5942836ef6"
   }
 }
