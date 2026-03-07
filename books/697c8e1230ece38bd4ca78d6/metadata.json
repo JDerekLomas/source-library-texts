@@ -1,14 +1,14 @@
 {
   "id": "697c8e1230ece38bd4ca78d6",
   "title": "Filum Ariadnes Das ist, newer chymischer Discurs",
-  "display_title": "Filum Ariadnes Das ist, newer chymischer Discurs",
+  "display_title": "Ariadne's Thread",
   "author": "[Reibehand, Christoph]",
   "language": "Latin-German",
   "year": 1636,
   "published": "1636",
   "pages_count": 224,
   "pages_with_ocr": 224,
-  "pages_with_translation": 6,
+  "pages_with_translation": 216,
   "source_url": "https://sourcelibrary.org/book/697c8e1230ece38bd4ca78d6",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:27:24.868Z",
+  "synced_at": "2026-03-07T21:40:39.810Z",
   "_hashes": {
     "ocr": "2a26081fdd057c76",
-    "translation": "9749db32a166086a"
+    "translation": "349b02c10b3b73af"
   }
 }
