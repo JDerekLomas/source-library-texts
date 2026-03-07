@@ -1,14 +1,14 @@
 {
   "id": "697d9ca1361634bd363e2fdf",
   "title": "Hermetisches Museum",
-  "display_title": "Hermetisches Museum",
+  "display_title": "The Hermetic Museum",
   "author": "anonymous",
   "language": "German",
   "year": 1783,
   "published": "1783-1785",
   "pages_count": 409,
-  "pages_with_ocr": 10,
-  "pages_with_translation": 6,
+  "pages_with_ocr": 409,
+  "pages_with_translation": 398,
   "source_url": "https://sourcelibrary.org/book/697d9ca1361634bd363e2fdf",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v4.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:31:17.885Z",
+  "synced_at": "2026-03-07T22:50:38.154Z",
   "_hashes": {
-    "ocr": "3190988d068cf23a",
-    "translation": "ba18febb3f2ec67f"
+    "ocr": "5f3ef57bd9c73a41",
+    "translation": "82ef39e820184b0b"
   }
 }
