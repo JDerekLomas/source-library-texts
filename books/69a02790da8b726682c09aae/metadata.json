@@ -1,0 +1,26 @@
+{
+  "id": "69a02790da8b726682c09aae",
+  "title": "Thesaurus pharmaceuticus, medicamentorum, omnium fere facultates & praeparationes continens. Tractatus de succedaneis",
+  "display_title": "Pharmaceutical Treasury",
+  "author": "Schwenckfeld, Caspar [von Greifenberg]|Rondelet, Guillaume",
+  "language": "Latin",
+  "year": 1587,
+  "published": "1587",
+  "pages_count": 662,
+  "pages_with_ocr": 662,
+  "pages_with_translation": 653,
+  "source_url": "https://sourcelibrary.org/book/69a02790da8b726682c09aae",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-07T07:20:45.806Z",
+  "_hashes": {
+    "ocr": "7b8f6fcda5b147a1",
+    "translation": "d72fe9df5b0663fe"
+  }
+}
