@@ -1,14 +1,14 @@
 {
   "id": "69906ec78a353648e1ed015e",
   "title": "Compendium astronomicum et magicum",
-  "display_title": "Pal.lat.1340",
+  "display_title": "Astronomical and Magical Compendium",
   "author": "Peter Peregrinus, Pseudo-Albertus Magnus, Alcabitius, Al-Kindi, et al.",
   "language": "Latin",
   "year": 1458,
   "published": "1458",
   "pages_count": 888,
   "pages_with_ocr": 887,
-  "pages_with_translation": 808,
+  "pages_with_translation": 846,
   "source_url": "https://sourcelibrary.org/book/69906ec78a353648e1ed015e",
   "license": "CC-BY-NC-4.0",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v5.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:21:43.840Z",
+  "synced_at": "2026-03-07T04:30:16.644Z",
   "_hashes": {
     "ocr": "691dff21ff975ada",
-    "translation": "1d2898eb3d78b879"
+    "translation": "d1d1ea62acc31a43"
   }
 }
