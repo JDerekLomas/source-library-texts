@@ -1,14 +1,14 @@
 {
   "id": "697b079ac66889d6835b576a",
   "title": "Einleitung zum wahren und gründlichen Erkänntnis des grossen Geheimnisses der Gottseligkeit",
-  "display_title": "Einleitung zum wahren und gründlichen Erkänntnis des grossen Geheimnisses der Gottseligkeit",
+  "display_title": "Introduction to the True Knowledge of the Great Mystery of Godliness",
   "author": "Böhme, Jacob",
   "language": "German",
   "year": 1718,
   "published": "1718",
-  "pages_count": 1238,
-  "pages_with_ocr": 510,
-  "pages_with_translation": 1,
+  "pages_count": 1201,
+  "pages_with_ocr": 1201,
+  "pages_with_translation": 1181,
   "source_url": "https://sourcelibrary.org/book/697b079ac66889d6835b576a",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:24:08.537Z",
+  "synced_at": "2026-03-07T19:10:10.244Z",
   "_hashes": {
-    "ocr": "97554625348ce80f",
-    "translation": "4368c543b2d212ad"
+    "ocr": "287e529703d8f256",
+    "translation": "911939545fca51f0"
   }
 }
