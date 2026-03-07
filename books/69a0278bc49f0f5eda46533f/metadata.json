@@ -1,0 +1,26 @@
+{
+  "id": "69a0278bc49f0f5eda46533f",
+  "title": "Theosophische-Schrifften",
+  "display_title": "Theosophical Writings",
+  "author": "Scleus, Bartholomeus",
+  "language": "German",
+  "year": 1686,
+  "published": "1686",
+  "pages_count": 888,
+  "pages_with_ocr": 888,
+  "pages_with_translation": 875,
+  "source_url": "https://sourcelibrary.org/book/69a0278bc49f0f5eda46533f",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-07T06:10:12.102Z",
+  "_hashes": {
+    "ocr": "224376afa042ab0c",
+    "translation": "998a4e6c02f04e5b"
+  }
+}
