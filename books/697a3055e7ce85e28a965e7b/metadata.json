@@ -1,14 +1,14 @@
 {
   "id": "697a3055e7ce85e28a965e7b",
   "title": "Crede mihi",
-  "display_title": "Believe Me (Crede Mihi)",
+  "display_title": "Believe Me",
   "author": "Norton, Thomas",
   "language": "Latin",
   "year": 1625,
   "published": "1625",
-  "pages_count": 262,
-  "pages_with_ocr": 262,
-  "pages_with_translation": 249,
+  "pages_count": 261,
+  "pages_with_ocr": 261,
+  "pages_with_translation": 248,
   "source_url": "https://sourcelibrary.org/book/697a3055e7ce85e28a965e7b",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-03-05T01:11:03.280Z",
+  "synced_at": "2026-03-07T20:00:58.942Z",
   "_hashes": {
-    "ocr": "c22129ae2b5060c4",
-    "translation": "b56a92b17fd42b71"
+    "ocr": "51ec36236703ae60",
+    "translation": "56df85806600f3d1"
   }
 }
