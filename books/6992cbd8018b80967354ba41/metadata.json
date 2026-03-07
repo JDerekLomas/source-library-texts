@@ -1,0 +1,28 @@
+{
+  "id": "6992cbd8018b80967354ba41",
+  "title": "In Sachen der Psychophysik",
+  "display_title": "In Matters of Psychophysics",
+  "author": "Gustav Theodor Fechner",
+  "language": "German",
+  "year": 1877,
+  "published": "Unknown",
+  "pages_count": 248,
+  "pages_with_ocr": 248,
+  "pages_with_translation": 238,
+  "source_url": "https://sourcelibrary.org/book/6992cbd8018b80967354ba41",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "insachenderpsyc00fechgoog"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-07T04:40:28.803Z",
+  "_hashes": {
+    "ocr": "b563abe67d98677d",
+    "translation": "92734ae89fdcd196"
+  }
+}
