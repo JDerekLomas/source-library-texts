@@ -6,9 +6,9 @@
   "language": "Dutch",
   "year": 1728,
   "published": "1728-1730",
-  "pages_count": 880,
-  "pages_with_ocr": 880,
-  "pages_with_translation": 601,
+  "pages_count": 879,
+  "pages_with_ocr": 879,
+  "pages_with_translation": 865,
   "source_url": "https://sourcelibrary.org/book/6978ee3aa6943c06198ef83f",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-03-07T00:10:22.148Z",
+  "synced_at": "2026-03-07T14:00:50.039Z",
   "_hashes": {
-    "ocr": "84524808685b86b8",
-    "translation": "0423fb5278f2a596"
+    "ocr": "b80b7503ea51cbf7",
+    "translation": "20d7d1cd64df6771"
   }
 }
