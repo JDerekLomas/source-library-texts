@@ -1,0 +1,28 @@
+{
+  "id": "6992cbc9018b80967354b105",
+  "title": "Die drei Motive und Gründe des Glaubens",
+  "display_title": "The Three Motives and Grounds of Faith",
+  "author": "Gustav Theodor Fechner",
+  "language": "German",
+  "year": 1863,
+  "published": "Unknown",
+  "pages_count": 273,
+  "pages_with_ocr": 273,
+  "pages_with_translation": 266,
+  "source_url": "https://sourcelibrary.org/book/6992cbc9018b80967354b105",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "10040468"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-07T04:30:31.902Z",
+  "_hashes": {
+    "ocr": "ca30be53811be7ec",
+    "translation": "b96db2081b07d9a4"
+  }
+}
