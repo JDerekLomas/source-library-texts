@@ -1,14 +1,14 @@
 {
   "id": "697936d98e450bc779a9cadb",
   "title": "Colloquium Rhodostauroticum. Das ist: Gespräch dreyer Personen, von der vor wenig Jahren, durch die Famam & Confessionem etlicher massen geoffenbarten Fraternitet dess Rosen Creutzes",
-  "display_title": "Colloquium Rhodostauroticum. Das ist: Gespräch dreyer Personen, von der vor wenig Jahren, durch die Famam & Confessionem etlicher massen geoffenbarten Fraternitet dess Rosen Creutzes",
+  "display_title": "Rosicrucian Colloquy",
   "author": "anonymous",
   "language": "Latin-German",
   "year": 1621,
   "published": "1621",
   "pages_count": 152,
   "pages_with_ocr": 152,
-  "pages_with_translation": 145,
+  "pages_with_translation": 146,
   "source_url": "https://sourcelibrary.org/book/697936d98e450bc779a9cadb",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:28:04.668Z",
+  "synced_at": "2026-03-07T01:40:16.864Z",
   "_hashes": {
     "ocr": "043f4fb6515b8fc8",
-    "translation": "b80a6dccf3ef3b52"
+    "translation": "09109fcb5792d47a"
   }
 }
