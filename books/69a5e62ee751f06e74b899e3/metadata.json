@@ -1,0 +1,26 @@
+{
+  "id": "69a5e62ee751f06e74b899e3",
+  "title": "Arriani De Epicteti Disputationibus (Auct. T.4.13)",
+  "display_title": "The Discourses of Epictetus",
+  "author": "Arrian; Epictetus",
+  "language": "Greek",
+  "year": null,
+  "published": "1000-1100",
+  "pages_count": 2,
+  "pages_with_ocr": 2,
+  "pages_with_translation": 2,
+  "source_url": "https://sourcelibrary.org/book/69a5e62ee751f06e74b899e3",
+  "license": "CC-BY-NC-4.0",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-07T12:11:02.065Z",
+  "_hashes": {
+    "ocr": "75af2463970484c3",
+    "translation": "9d52954f16cbced4"
+  }
+}
