@@ -1,14 +1,14 @@
 {
   "id": "697b07993db05804f2b82140",
   "title": "Erklaerte Offenbarung Johannis",
-  "display_title": "Erklaerte Offenbarung Johannis",
+  "display_title": "The Revelation of St. John Explained",
   "author": "Bengel, Johann Albrecht",
   "language": "German",
   "year": 1773,
   "published": "1773",
   "pages_count": 1396,
-  "pages_with_ocr": 510,
-  "pages_with_translation": 1,
+  "pages_with_ocr": 1396,
+  "pages_with_translation": 1382,
   "source_url": "https://sourcelibrary.org/book/697b07993db05804f2b82140",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:24:17.960Z",
+  "synced_at": "2026-03-07T19:30:07.250Z",
   "_hashes": {
-    "ocr": "57dace39777c1838",
-    "translation": "bf89cf7a5d80c83e"
+    "ocr": "da41be9ca372719d",
+    "translation": "6aa18548b4b8e232"
   }
 }
