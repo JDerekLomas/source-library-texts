@@ -8,7 +8,7 @@
   "published": "1668",
   "pages_count": 318,
   "pages_with_ocr": 318,
-  "pages_with_translation": 4,
+  "pages_with_translation": 306,
   "source_url": "https://sourcelibrary.org/book/6978ee3a598a6361bba7fbaf",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-03-05T00:21:19.564Z",
+  "synced_at": "2026-03-07T17:50:30.491Z",
   "_hashes": {
     "ocr": "7bd4660a97356a37",
-    "translation": "ccd60e71a30cc5be"
+    "translation": "724b7a96edfed637"
   }
 }
