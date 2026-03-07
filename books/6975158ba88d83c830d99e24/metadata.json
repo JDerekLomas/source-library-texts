@@ -1,14 +1,14 @@
 {
   "id": "6975158ba88d83c830d99e24",
   "title": "Atalanta fugiens",
-  "display_title": "Atalanta fugiens",
+  "display_title": "Atalanta Fleeing",
   "author": "Maier, Michael",
   "language": "Latin",
   "year": 1618,
   "published": "1618",
-  "pages_count": 249,
-  "pages_with_ocr": 249,
-  "pages_with_translation": 49,
+  "pages_count": 248,
+  "pages_with_ocr": 248,
+  "pages_with_translation": 232,
   "source_url": "https://sourcelibrary.org/book/6975158ba88d83c830d99e24",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:27:10.698Z",
+  "synced_at": "2026-03-07T16:40:31.614Z",
   "_hashes": {
-    "ocr": "05668ec0a0f5173d",
-    "translation": "1c848b2b562a91b6"
+    "ocr": "fa24d0cc8d175c78",
+    "translation": "7382928892c5e343"
   }
 }
