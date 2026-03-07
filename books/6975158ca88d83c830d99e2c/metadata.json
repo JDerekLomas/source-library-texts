@@ -1,14 +1,14 @@
 {
   "id": "6975158ca88d83c830d99e2c",
   "title": "Sereniss. domus Augustae selenianae princip. juventutis utriusque sexus pietatis, erudirionis, comitatisque exemplum sine pari",
-  "display_title": "Peerless Example of the Most Serene House of Augustus",
+  "display_title": "The Peerless Example of the Most Serene House of Augustus",
   "author": "Andreae, Johann Valentin",
   "language": "Latin",
   "year": 1654,
   "published": "1654",
-  "pages_count": 397,
-  "pages_with_ocr": 397,
-  "pages_with_translation": 394,
+  "pages_count": 396,
+  "pages_with_ocr": 396,
+  "pages_with_translation": 393,
   "source_url": "https://sourcelibrary.org/book/6975158ca88d83c830d99e2c",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-03-04T23:21:00.803Z",
+  "synced_at": "2026-03-07T16:10:34.385Z",
   "_hashes": {
-    "ocr": "7b4417b3ac4c32e1",
-    "translation": "cd907a9e11ace7ad"
+    "ocr": "0df7a12d20eed352",
+    "translation": "2806ed21ff96f0ed"
   }
 }
