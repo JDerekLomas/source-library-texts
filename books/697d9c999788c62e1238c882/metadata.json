@@ -1,14 +1,14 @@
 {
   "id": "697d9c999788c62e1238c882",
   "title": "Het heylige voor de heyligen",
-  "display_title": "Het heylige voor de heyligen",
+  "display_title": "The Holy for the Holy",
   "author": "Yvon, Petrus",
   "language": "Dutch",
   "year": 1687,
   "published": "1687",
   "pages_count": 824,
-  "pages_with_ocr": 512,
-  "pages_with_translation": 8,
+  "pages_with_ocr": 824,
+  "pages_with_translation": 818,
   "source_url": "https://sourcelibrary.org/book/697d9c999788c62e1238c882",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:24:05.824Z",
+  "synced_at": "2026-03-07T22:10:36.393Z",
   "_hashes": {
-    "ocr": "79b1946e1b467f88",
-    "translation": "a6df9b1284a898f0"
+    "ocr": "1df5e8eb351f5f65",
+    "translation": "a7562bfe1dcd823c"
   }
 }
