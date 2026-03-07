@@ -1,14 +1,14 @@
 {
   "id": "698255f20fdc0a098b59a3c0",
   "title": "'t Nieuwe Jerusalem",
-  "display_title": "'t Nieuwe Jerusalem",
+  "display_title": "The New Jerusalem",
   "author": "Teellinck, Willem",
   "language": "Dutch",
   "year": 1651,
   "published": "1651",
   "pages_count": 221,
   "pages_with_ocr": 221,
-  "pages_with_translation": 221,
+  "pages_with_translation": 215,
   "source_url": "https://sourcelibrary.org/book/698255f20fdc0a098b59a3c0",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v4.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:27:27.147Z",
+  "synced_at": "2026-03-07T02:50:13.832Z",
   "_hashes": {
     "ocr": "fb8dca14ed3434b6",
-    "translation": "4d83d77e6e0295ee"
+    "translation": "5073a9fdd9353c58"
   }
 }
