@@ -1,0 +1,28 @@
+{
+  "id": "69907961b621b177c1af6c37",
+  "title": "Folk-lore of the Holy Land: Moslem, Christian and Jewish",
+  "display_title": "Folk-lore of the Holy Land: Moslem, Christian and Jewish",
+  "author": "J. E. Hanauer",
+  "language": "English",
+  "year": 1907,
+  "published": "Unknown",
+  "pages_count": 359,
+  "pages_with_ocr": 359,
+  "pages_with_translation": 1,
+  "source_url": "https://sourcelibrary.org/book/69907961b621b177c1af6c37",
+  "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "FolkLoreOfTheHolyLand"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T22:11:09.153Z",
+  "_hashes": {
+    "ocr": "52a9011bffcde3b8",
+    "translation": "f4a7652a59887d7e"
+  }
+}
