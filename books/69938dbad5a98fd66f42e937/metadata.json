@@ -1,0 +1,28 @@
+{
+  "id": "69938dbad5a98fd66f42e937",
+  "title": "Homeri Ilias, Odyssea, Batrachomyomachia, Hymni XXXII (Aldine)",
+  "display_title": "Homeri Ilias, Odyssea, Batrachomyomachia, Hymni XXXII (Aldine)",
+  "author": "Homer",
+  "language": "Greek",
+  "year": 1504,
+  "published": "Unknown",
+  "pages_count": 588,
+  "pages_with_ocr": 588,
+  "pages_with_translation": 558,
+  "source_url": "https://sourcelibrary.org/book/69938dbad5a98fd66f42e937",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "ldpd_7821252_003"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T19:30:45.204Z",
+  "_hashes": {
+    "ocr": "3258f0ffdea780c7",
+    "translation": "ed87f41d7899c885"
+  }
+}
