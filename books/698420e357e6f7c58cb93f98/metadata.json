@@ -1,0 +1,26 @@
+{
+  "id": "698420e357e6f7c58cb93f98",
+  "title": "Ein nützliches Tractätlein vom Ort der Welt",
+  "display_title": "A Useful Little Treatise on the Place of the World",
+  "author": "Weigel, Valentin",
+  "language": "German",
+  "year": 1614,
+  "published": "1614",
+  "pages_count": 135,
+  "pages_with_ocr": 135,
+  "pages_with_translation": 116,
+  "source_url": "https://sourcelibrary.org/book/698420e357e6f7c58cb93f98",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T03:10:31.563Z",
+  "_hashes": {
+    "ocr": "2beaa8a316de88cf",
+    "translation": "0726b76e5fb1df2b"
+  }
+}
