@@ -1,0 +1,28 @@
+{
+  "id": "69906d4d64d44bd0a0ef5331",
+  "title": "Sankranti Phala",
+  "display_title": "Sankranti Phala",
+  "author": "Unknown",
+  "language": "Sanskrit",
+  "year": null,
+  "published": "Unknown",
+  "pages_count": 9,
+  "pages_with_ocr": 9,
+  "pages_with_translation": 9,
+  "source_url": "https://sourcelibrary.org/book/69906d4d64d44bd0a0ef5331",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "sankrantiphala-CGV-PSS-0168-1470"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T16:00:33.549Z",
+  "_hashes": {
+    "ocr": "27da2806334c0725",
+    "translation": "465b218709466e7c"
+  }
+}
