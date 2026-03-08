@@ -1,0 +1,28 @@
+{
+  "id": "695573e7f63a757109172b1d",
+  "title": "Syntagma Musicum II: De Organographia",
+  "display_title": "Syntagma Musicum II: De Organographia",
+  "author": "Michael Praetorius",
+  "language": "German/Latin",
+  "year": 1619,
+  "published": "1619",
+  "pages_count": 387,
+  "pages_with_ocr": 387,
+  "pages_with_translation": 386,
+  "source_url": "https://sourcelibrary.org/book/695573e7f63a757109172b1d",
+  "license": "http://creativecommons.org/licenses/publicdomain/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "SyntagmaMusicumBd.21619"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T06:30:22.325Z",
+  "_hashes": {
+    "ocr": "6da2659335d7d4c6",
+    "translation": "60c7733f48945959"
+  }
+}
