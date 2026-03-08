@@ -1,0 +1,26 @@
+{
+  "id": "69906ed58a353648e1ed05e7",
+  "title": "Astronomische Sammelhandschrift",
+  "display_title": "Pal.lat.1375",
+  "author": "Regiomontanus, Peuerbach, Hermes Trismegistus, et al.",
+  "language": "Latin",
+  "year": 1480,
+  "published": "1480",
+  "pages_count": 630,
+  "pages_with_ocr": 630,
+  "pages_with_translation": 1,
+  "source_url": "https://sourcelibrary.org/book/69906ed58a353648e1ed05e7",
+  "license": "CC-BY-NC-4.0",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T22:01:22.233Z",
+  "_hashes": {
+    "ocr": "eeca70d0db37236d",
+    "translation": "d21e258bde9fafe5"
+  }
+}
