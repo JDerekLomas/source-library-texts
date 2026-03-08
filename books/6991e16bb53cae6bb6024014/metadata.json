@@ -1,0 +1,28 @@
+{
+  "id": "6991e16bb53cae6bb6024014",
+  "title": "Traictie de la Premiere Invention des Monnoies",
+  "display_title": "Traictie de la Premiere Invention des Monnoies",
+  "author": "Nicole Oresme",
+  "language": "French",
+  "year": 1358,
+  "published": "Unknown",
+  "pages_count": 312,
+  "pages_with_ocr": 312,
+  "pages_with_translation": 292,
+  "source_url": "https://sourcelibrary.org/book/6991e16bb53cae6bb6024014",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "traictiedelaprem00oresuoft"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T17:00:56.642Z",
+  "_hashes": {
+    "ocr": "3ce25bd9360d008d",
+    "translation": "eb0bedb59a64f9f1"
+  }
+}
