@@ -1,14 +1,14 @@
 {
   "id": "6980941f04705cd4f648c945",
   "title": "Leo rugiens in decisionis propheticae Belli Bohemici. Parte secunda. Siebenzehen Fragen, in welchen entschieden ist die gantze Böhmische Sach",
-  "display_title": "Leo rugiens in decisionis propheticae Belli Bohemici. Parte secunda. Siebenzehen Fragen, in welchen entschieden ist die gantze Böhmische Sach",
+  "display_title": "The Roaring Lion: The Prophetic Decision on the Bohemian War",
   "author": "[Felgenhauer, Paulus]",
   "language": "Latin-German",
   "year": 1620,
   "published": "[1620]",
   "pages_count": 124,
-  "pages_with_ocr": 10,
-  "pages_with_translation": 10,
+  "pages_with_ocr": 124,
+  "pages_with_translation": 124,
   "source_url": "https://sourcelibrary.org/book/6980941f04705cd4f648c945",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v4.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:31:09.362Z",
+  "synced_at": "2026-03-08T01:00:43.981Z",
   "_hashes": {
-    "ocr": "b30a5abfedcf35cd",
-    "translation": "3e582b21fa388fc4"
+    "ocr": "2a24c8b1c6dad78a",
+    "translation": "112bb5adca32fdbc"
   }
 }
