@@ -1,14 +1,14 @@
 {
   "id": "6985ca745eb811b263caf4d7",
   "title": "Quaestiones theosophicae, oder Betrachtung göttlicher Offenbarung",
-  "display_title": "Quaestiones theosophicae, oder Betrachtung göttlicher Offenbarung",
+  "display_title": "Theosophical Questions",
   "author": "Böhme, Jacob",
   "language": "German",
   "year": 1730,
   "published": "1730",
   "pages_count": 157,
-  "pages_with_ocr": 10,
-  "pages_with_translation": 4,
+  "pages_with_ocr": 157,
+  "pages_with_translation": 150,
   "source_url": "https://sourcelibrary.org/book/6985ca745eb811b263caf4d7",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v4.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:31:04.836Z",
+  "synced_at": "2026-03-08T05:00:30.335Z",
   "_hashes": {
-    "ocr": "1e070d0fb8689b08",
-    "translation": "b12935f4f4ff195f"
+    "ocr": "68d15258381902c2",
+    "translation": "413d0df20f408382"
   }
 }
