@@ -1,0 +1,28 @@
+{
+  "id": "69920b8ce0a548a13d883c98",
+  "title": "The Code of Hammurabi",
+  "display_title": "The Code of Hammurabi",
+  "author": "Robert Francis Harper",
+  "language": "Arabic",
+  "year": 1904,
+  "published": "Unknown",
+  "pages_count": 425,
+  "pages_with_ocr": 425,
+  "pages_with_translation": 326,
+  "source_url": "https://sourcelibrary.org/book/69920b8ce0a548a13d883c98",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "CodeOfHammurabiHarper"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T23:11:11.676Z",
+  "_hashes": {
+    "ocr": "6b6dcffbb3911ac0",
+    "translation": "186883724ed3c3f1"
+  }
+}
