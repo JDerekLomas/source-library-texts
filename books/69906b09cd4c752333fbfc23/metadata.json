@@ -1,0 +1,28 @@
+{
+  "id": "69906b09cd4c752333fbfc23",
+  "title": "Der böse Blick und Verwandtes: Ein Beitrag zur Geschichte des Aberglaubens aller Zeiten und Völker, Vol. II",
+  "display_title": "Der böse Blick und Verwandtes: Ein Beitrag zur Geschichte des Aberglaubens aller Zeiten und Völker, Vol. II",
+  "author": "Siegfried Seligmann",
+  "language": "German",
+  "year": 1910,
+  "published": "Unknown",
+  "pages_count": 558,
+  "pages_with_ocr": 558,
+  "pages_with_translation": 1,
+  "source_url": "https://sourcelibrary.org/book/69906b09cd4c752333fbfc23",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "derbseblickund02seliuoft"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T22:01:42.590Z",
+  "_hashes": {
+    "ocr": "4764e961bc13b0e4",
+    "translation": "c7bc133d37b371c2"
+  }
+}
