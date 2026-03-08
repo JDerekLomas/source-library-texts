@@ -1,14 +1,14 @@
 {
   "id": "6992cd5943713c66ea635f25",
   "title": "三才圖會(二十一)",
-  "display_title": "三才圖會(二十一)",
+  "display_title": "Collected Illustrations of the Three Talents",
   "author": "王圻, 王思義",
   "language": "Chinese",
   "year": 1609,
   "published": "1609",
   "pages_count": 101,
   "pages_with_ocr": 101,
-  "pages_with_translation": 0,
+  "pages_with_translation": 44,
   "source_url": "https://sourcelibrary.org/book/6992cd5943713c66ea635f25",
   "license": "publicdomain",
   "doi": null,
@@ -18,11 +18,11 @@
   "processing": {
     "ocr_model": "gemini-3-flash-preview",
     "prompt_version": "v5.2026-02",
-    "translation_model": null
+    "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:28:32.154Z",
+  "synced_at": "2026-03-08T23:20:59.890Z",
   "_hashes": {
     "ocr": "f3a01408e9c99416",
-    "translation": "e3b0c44298fc1c14"
+    "translation": "b6a078e073438b6d"
   }
 }
