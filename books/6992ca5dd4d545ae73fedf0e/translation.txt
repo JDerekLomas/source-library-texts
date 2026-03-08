@@ -1515,3 +1515,368 @@ Suppose there are several people sharing carts. If three people share each cart,
 
 <summary>This page provides solutions for two practical mathematical problems: determining an unknown length using a folded rope and calculating an original quantity of rice after three successive fractional withdrawals.</summary>
 <keywords>Sunzi Suanjing, measurement, fractions, linear equations, chi, cun, zhang, dou, sheng, ancient Chinese mathematics</keywords>
+
+--- Page 70 ---
+<meta>This page continues the "Rice in a Container" problem from the previous page, where a quantity of rice was divided among three people. It then transitions to two new problems: calculating the price of smaller units of gold and silk based on the price of a bulk amount.</meta>
+
+### [Page 306]
+
+...Divide [the remaining rice] by three to obtain 4 <term>dou|original: 斗 (dǒu)</term> 5 <term>sheng|original: 升 (shēng)</term>. Multiply this by four to obtain 1 <term>hu|original: 斛 (hú)</term> 8 <term>dou</term>. Divide this result by three to obtain the final amount. <note>This continues the calculation from the previous page to find the original amount of rice (6 dou). The arithmetic here—$(1.5 \div 3) \times 4$—is part of a verification step or an alternative breakdown of the fractions $1/2, 1/3, \text{ and } 1/4$.</note>
+
+---
+
+### Question: The Value of Gold
+
+**Suppose there is gold weighing 1 <term>jin|original: 斤 (jīn)</term> worth 100,000 coins.** Question: How much is 1 <term>liang|original: 兩 (liǎng)</term> worth? <note>In historical Chinese weight systems, 1 jin (often called a "catty") is equal to 16 liang (often called "taels").</note>
+
+> **Answer: 6,250 coins.**
+> 
+> **The Method states:** Set down the total value of 100,000 coins and divide it by the 16 <term>liang</term> [contained in one *jin*] to obtain the result.
+
+---
+
+### Question: The Value of Silk Brocade
+
+**Suppose there is 1 <term>pi|original: 疋 (pǐ)</term> of silk brocade worth 18,000 coins.** Question: How much are 1 <term>zhang|original: 丈 (zhàng)</term>, 1 <term>chi|original: 尺 (chǐ)</term>, and 1 <term>cun|original: 寸 (cùn)</term> each worth? <note>Based on the answer, this text assumes 1 pi equals 4 zhang. Standard conversions follow: 1 zhang = 10 chi, and 1 chi = 10 cun.</note>
+
+> **Answer:**
+> One <term>zhang</term> is worth 4,500 coins; one <term>chi</term> is worth 450 coins. <note>Though the text cuts off, by the same decimal logic, 1 cun would be worth 45 coins.</note>
+
+**Key Vocabulary:**
+Gold, Coins, Jin (unit of weight), Liang (unit of weight), Silk Brocade, Pi (bolt of cloth), Zhang (unit of length), Chi (unit of length), Cun (unit of length), Dou (unit of dry volume), Sheng (unit of dry volume), Hu (unit of dry volume), "Suppose there is...", "The answer is...", "The method states..."
+
+<summary>This page concludes the "Rice in a Container" arithmetic and presents two practical problems regarding unit conversions for the price of gold and silk. It illustrates the use of base-16 division for weights and decimal division for lengths.</summary>
+<keywords>gold prices, silk brocade, unit conversion, division, currency, weights and measures, Sunzi Suanjing</keywords>
+
+--- Page 71 ---
+<meta>This page continues the "Value of Silk Brocade" problem from page 8. The previous page established that a 1 pi (bolt) of silk costs 18,000 coins and calculated the price for 1 zhang and 1 chi. This page completes that calculation and moves into land area measurements involving paces, feet, and specialized large-unit terminology.</meta>
+
+# Arithmetic: Volume II
+
+### [Page 9]
+
+**One <term>cun|original: 寸 (cùn)</term> is worth 45 coins.**
+
+> **The Method states:** Set down the total value of 18,000 coins and divide it by 4 <note>This determines the price per *zhang*, as the text assumes 1 *pi* equals 4 *zhang*.</note> to obtain the value of one <term>zhang</term>. Shift [the decimal place] once, and then once again, to obtain the values for the <term>chi</term> and <term>cun</term>. <note>Because 1 *zhang* = 10 *chi* and 1 *chi* = 10 *cun*, the author uses a "shifting" method (*tui*) to divide by 10 and 100 respectively.</note>
+
+---
+
+### Question: Measuring Land Area
+
+**Suppose there is a plot of land 1,000 <term>bu|original: 步 (bù)</term> long and 500 <term>bu</term> wide. [The area expressed in] <term>chi|original: 尺 (chǐ)</term> is called <term>qi|original: 鶀 (qí)</term>, and in <term>cun|original: 寸 (cùn)</term> it is called <term>ying|original: 鸚 (yīng)</term>. Question: How much are the *qi* and *ying*?** <note>The terms *qi* (a type of waterfowl) and *ying* (parrot) are used here as specialized names for these specific large-scale area calculations, likely as mnemonics for the student.</note>
+
+> **The Answer states:**
+> **The <term>qi</term> is 18,000,000.**
+> **The <term>ying</term> is 180,000,000.** <note>Note that while 18,000,000 correctly represents the square feet, the "ying" value of 180,000,000 is only ten times larger, whereas a standard conversion to square inches would require multiplying by 100.</note>
+
+**The Method states:** Set down the length of 1,000 <term>bu</term> and multiply it by the width of 500 <term>bu</term> to obtain 500,000 [square] <term>bu</term>. Multiply this by 36 <note>In this system, 1 pace (*bu*) equals 6 feet (*chi*), so 1 square pace equals 36 square feet.</note> to obtain the 18,000,000 <term>chi</term>.
+
+<vocab>The Method states: 術曰, The Answer states: 答曰, Pace: 步, Foot: 尺, Inch: 寸, Zhang: 丈 (10 feet), Qi: 鶀 (Area unit), Ying: 鸚 (Area unit)</vocab>
+
+<summary>This page concludes a currency calculation for silk and introduces a land survey problem that converts square paces into square feet and a higher-order unit. It highlights the use of decimal shifting for division and the application of 1:6 linear (1:36 area) conversion ratios between paces and feet.</summary>
+<keywords>land measurement, currency conversion, area calculation, bu, chi, cun, qi, ying, units of measure</keywords>
+
+--- Page 72 ---
+<meta>This page concludes the "bird-named" unit calculations from page 9—specifically the "quail" (chun) unit—and transitions into two practical arithmetic problems: calculating collective food rations for different classes of people and determining the total number of items in a square formation based on its perimeter.</meta>
+
+...[immediately] obtain the **<term>chun|original: 鶉 (chún)</term>** number. Multiply it by ten to obtain the **<term>chun</term>** number. <note>This line concludes the large-scale area calculation from the previous page. In this mnemonic system, *chun* (quail) represents a unit of magnitude ten times larger than the previous *ying* (parrot).</note>
+
+---
+
+### Question: Total Daily Consumption
+
+**Suppose there are 60,000 "mouths" <note>A traditional term for counting individuals or dependents in a household or district.</note>. Of these, the "upper mouths" (30,000 people) eat 9 <term>sheng|original: 升 (shēng)</term> per day; the "middle mouths" (20,000 people) eat 7 <term>sheng</term> per day; and the "lower mouths" (10,000 people) eat 5 <term>sheng</term> per day. Question: How much do the upper, middle, and lower mouths consume in total?**
+
+> **The Answer states: 4,600 <term>hu|original: 斛 (hú)</term>.** <note>Based on the calculation, 1 *hu* equals 100 *sheng*. Total consumption is 460,000 *sheng*.</note>
+
+**The Method states:** Set down the number of people (mouths) for each group and multiply them by their respective daily consumption rates. Add the resulting amounts together to obtain the total.
+
+---
+
+### Question: A Stack of Square Objects
+
+**Suppose there is a bundle of square objects. The outer circumference of one layer consists of 32 pieces. Question: What is the total accumulated quantity?** <note>This is a classic "hollow square" problem. If the outer perimeter has 32 items, each side of the solid square has 9 items (since 4 times 8 equals 32). The total "accumulation" for a solid square of 9x9 would be 81.</note>
+
+<summary>This page concludes a section on large-scale mnemonic units and presents practical problems involving weighted averages for food distribution and the geometry of square stacks.</summary>
+<keywords>grain rations, sheng, hu, square formation, population consumption, arithmetic methods</keywords>
+
+--- Page 73 ---
+<meta>This page continues the calculation of a square stack from the previous page and introduces a new practical geometry problem involving the height of a pole determined by its shadow, a classic application of the "Gnomon" (biǎo) measurement technique.</meta>
+
+## The Answer states: 81 pieces
+
+**The Method states:** Set the number in two positions <note>This refers to placing the value on a counting board.</note>. From the upper position, subtract eight; add the remainder to the lower position. Repeat this process until the values are exhausted <note>This is an arithmetic progression for a hollow square stack. If the outer perimeter is 32, the layers are 32, 24, 16, and 8. Adding these (32+24+16+8) equals 80.</note>. Finally, add one to the void <note>Representing the single central piece of a solid square</note> to obtain the result.
+
+---
+
+### Question: The Height of a Pole
+
+**Suppose there is a pole of unknown length. Measuring its shadow, one finds it to be 1 <term>zhang|original: 丈 (zhàng)</term> 5 <term>chi|original: 尺 (chǐ)</term>. Separately, a <term>gnomon|original: 表 (biǎo)</term> <note>A standard vertical marker used for astronomical or surveying measurements.</note> is set up with a length of 1 <term>chi</term> 5 <term>cun|original: 寸 (cùn)</term>, and its shadow is found to be 5 <term>cun</term>. Question: How long is the pole?**
+
+## The Answer states: 4 <term>zhang</term> 5 <term>chi</term>
+
+**The Method states:** Set the pole's shadow of 1 <term>zhang</term> 5 <term>chi</term>. Multiply this by the gnomon's length of 1 <term>chi</term> 5 <term>cun</term>. Increase the value ten-fold <note>This is a technical instruction for adjusting place values on the counting board to account for decimal units.</note> to obtain 22 <term>zhang</term> 5 <term>chi</term>. Divide this by the gnomon’s shadow of 5 <term>cun</term> to obtain the result.
+
+<vocab>
+**Pole (竿, gān):** The object of unknown height being measured.
+**Shadow (影, yǐng):** The cast shadow used to calculate height through proportions.
+**Gnomon (表, biǎo):** A vertical post of known height used as a reference.
+**Zhang (丈):** A unit of length equal to 10 *chi* (approx. 3.3 meters).
+**Chi (尺):** A unit of length often called a "Chinese foot" (10 *chi* = 1 *zhang*).
+**Cun (寸):** A unit of length often called a "Chinese inch" (10 *cun* = 1 *chi*).
+**Method (術, shù):** The step-by-step mathematical algorithm.
+**Piece (枚, méi):** A general counter for small individual objects.
+</vocab>
+
+<summary>This page concludes a calculation for the total units in a square formation and provides a method for determining an unknown height using the ratio of shadows to a reference gnomon.</summary>
+<keywords>geometry, square numbers, gnomon, shadow measurement, surveying, proportions, ancient units of measure</keywords>
+
+--- Page 74 ---
+<meta>This page transitions from practical geometric measurements to a foundational problem in modular arithmetic. It contains the earliest known statement of the "Problem of the Unknown Number," which provides the basis for what is known globally today as the Chinese Remainder Theorem.</meta>
+
+### The Problem of the Unknown Number
+
+Suppose there is a quantity of items, but their total number is unknown. If they are counted by threes, the <term>remainder|original: 賸 (shèng)</term> is two. If they are counted by fives, the remainder is three. If they are counted by sevens, the remainder is two. Question: How many items are there?
+
+->The Answer states: Twenty-three<-
+
+**The Method states:** For a remainder of two when counting by threes, set 140 <note>This is derived from multiplying the constant 70 by the remainder 2.</note>. For a remainder of three when counting by fives, set 63 <note>This is derived from multiplying the constant 21 by the remainder 3.</note>. For a remainder of two when counting by sevens, set 30 <note>This is derived from multiplying the constant 15 by the remainder 2.</note>.
+
+Sum these values to obtain 233. From this, subtract 210 <note>This is twice the least common multiple of 3, 5, and 7 (which is 105), used to find the smallest positive integer solution.</note> to obtain the result.
+
+In all such cases:
+For a <term>remainder|original: 賸 (shèng)</term> of one when counting by threes, set 70.
+For a remainder of one when counting by fives, set 21.
+For a remainder of one when counting by sevens, set 15.
+If the sum is 106 or more, subtract 105 <note>The least common multiple of 3, 5, and 7. The text "106 or more" indicates any value exceeding the modulus.</note> to obtain the result.
+
+<summary>This page presents the classic "Problem of the Unknown Number" from the Sun Zi Suan Jing, establishing the algorithm for solving simultaneous congruences. It provides both a specific example and the general constants (70, 21, 15) used to solve similar problems involving divisors of 3, 5, and 7.</summary>
+
+<keywords>Sun Zi Suan Jing, Chinese Remainder Theorem, modular arithmetic, remainder, counting rods, Master Sun's Mathematical Manual</keywords>
+
+--- Page 75 ---
+<meta>This page follows the discussion of modular arithmetic, shifting focus toward systems of linear equations. It presents two classic problems: the first is a variation of the "Heads and Feet" problem involving multi-headed creatures, and the second involves solving for unknown quantities of wealth held by two individuals.</meta>
+
+<sig>Nine, Top</sig>
+
+### The Problem of Multi-Headed Birds and Beasts
+
+Suppose there are beasts with six heads and four feet, and birds with four heads and two feet. Above, there are 76 heads; below, there are 46 feet. Question: How many birds and beasts are there respectively?
+
+->**The Answer states:** Eight beasts and seven birds.<-
+
+->**The Method states:** Double the number of feet and subtract the number of heads from this value <note>Calculated as $(46 \times 2) - 76 = 16$.</note>. Halve the remainder to find the number of beasts <note>16 divided by 2 is 8.</note>. To find the number of birds, multiply the number of beasts by four and subtract this from the number of feet <note>$(8 \times 4) = 32$; $46 - 32 = 14$.</note>; then halve the remainder <note>14 divided by 2 is 7.</note>.<-
+
+***
+
+### The Problem of Two Men Holding Money
+
+Suppose there are two people, A <note>original: 甲 (jiǎ), the first celestial stem, used here as a placeholder for the first person.</note> and B <note>original: 乙 (yǐ), the second celestial stem.</note>, who each hold an unknown amount of money. If A obtains <term>half|original: 中半 (zhōng bàn) - literally "middle-half," meaning 1/2</term> of B’s money, his total reaches 48. If B obtains <term>two-thirds|original: 大半 (dà bàn) - literally "great-half," meaning 2/3</term> of A’s money, his total also reaches 48. Question: How much money did A and B each originally hold?
+
+->**The Answer states:**<-
+
+<summary>This page illustrates the application of algebraic reasoning to solve systems of linear equations. The first problem uses a "heads and feet" logic to distinguish between species, while the second introduces fractional transfers of wealth between two parties.</summary>
+
+<keywords>linear equations, heads and feet problem, Sun Zi Suan Jing, fractions, ancient Chinese algebra, monetary calculations</keywords>
+
+--- Page 76 ---
+<meta>This page continues from the "Problem of Two Men Holding Money" introduced on the previous page. It provides the numerical solution and the step-by-step mathematical procedure using the traditional method of rectangular arrays.</meta>
+
+## Person A holds thirty-six coins; Person B holds twenty-four coins.
+
+**The Method states:** Solve this according to the procedure for <term>rectangular arrays|original: 方程 (fāngchéng) — a method for solving systems of linear equations by arranging coefficients in columns and using elimination.</term> Place two parts of A and one part of B, totaling ninety-six coins, in the right-hand column <note>The original problem stated A + 1/2 B = 48. To remove the fraction, the entire equation is multiplied by 2, resulting in 2A + 1B = 96.</note>. Place two parts of A and three parts of B, totaling one hundred and forty-four coins, in the left-hand column <note>The original problem stated B + 2/3 A = 48. To remove the fraction, the equation is multiplied by 3, resulting in 2A + 3B = 144.</note>.
+
+Use the two at the top of the right column <note>the coefficient for A</note> to multiply the left column: the top value becomes four, the middle becomes six parts of B, and the bottom becomes two hundred and eighty-eight coins. Then, subtract the right column from the left column twice <note>This traditional elimination step effectively calculates (2 × Left Column) - (2 × Right Column) to eliminate the "A" variable.</note>. 
+
+The top of the left column is now empty. The remaining four parts of B serve as the <term>divisor|original: 法 (fǎ)</term>, and the remaining ninety-six coins serve as the <term>dividend|original: 實 (shí)</term>. Dividing the dividend by the divisor yields twenty-four coins, which is the amount of money held by Person B. 
+
+To find Person A's money, subtract B's portion from the right-hand total of ninety-six <note>96 - 24 = 72</note>, which leaves seventy-two as the dividend. Use the two parts of A from the top right as the divisor. Dividing this dividend by the divisor yields thirty-six, which is the amount of money held by Person A.
+
+<summary>This page provides the solution and a detailed walkthrough of the "rectangular array" method (an early form of linear algebra) used to determine the specific wealth of two individuals.</summary>
+<keywords>linear equations, rectangular arrays, Person A and B, mathematical elimination, dividend and divisor, ancient Chinese algebra</keywords>
+
+--- Page 77 ---
+<meta>This page concludes the calculation for the amount of money held by Person A, which began on the previous page, and moves into new mathematical problems involving "Excess and Deficiency" and proportional distribution.</meta>
+
+## Volume Two
+### Page 21
+
+...divisor <note>original: 法 (fǎ)</note>. Dividing seventy-two by two yields thirty-six coins, which is the amount of money held by Person A.
+
+---
+
+Now there are one hundred deer entering a city. If each household takes one deer, there is a remainder <note>original: 不盡 (bù jìn) — literally "not exhausted."</note>. If every three households share one additional deer, the number of deer is exactly accounted for <note>original: 適盡 (shì jìn).</note>. Question: How many households are there in the city?
+
+**Answer:** Seventy-five households.
+
+**The Method states:** Solve this using the procedure for <term>excess and deficiency|original: 盈不足 (yíng bù zú) — a method equivalent to the "rule of double false position," used to find an unknown value by testing two trial numbers and observing the error.</term> 
+
+Suppose there are seventy-two households; the deer would be in **excess** by four. Suppose there are ninety households; the deer would be **deficient** by twenty. Place seventy-two in the top-right position and the excess of four in the bottom-right. Place ninety in the top-left position and the deficiency of twenty in the bottom-left. 
+
+Perform <term>cross-multiplication|original: 維乘 (wéi chéng) — multiplying the upper value of one column by the lower value of the opposite column.</term> Add the results of these two products together to serve as the <term>dividend|original: 實 (shí)</term>. Add the excess and the deficiency together to serve as the <term>divisor|original: 法 (fǎ)</term>. Divide the dividend by the divisor to obtain the answer. 
+
+<note>Mathematical breakdown: (72 × 20) + (90 × 4) = 1440 + 360 = 1800 (the dividend). The excess 4 plus deficiency 20 = 24 (the divisor). 1800 ÷ 24 = 75 households.</note>
+
+---
+
+Now there are three chickens pecking at one thousand and one grains of millet. The chick pecks one grain, the mother hen pecks two grains, and the old rooster <note>The text is cut off at the bottom of the page after the character "翁" (old rooster/grandfather bird).</note>
+
+<summary>This page illustrates the "Excess and Deficiency" method (double false position) to solve a word problem about deer and households, followed by the start of a grain-pecking problem involving chickens.</summary>
+<keywords>Excess and Deficiency (Ying Bu Zu), cross-multiplication, dividend, divisor, household calculation, mathematical word problems</keywords>
+
+--- Page 78 ---
+<meta>This page follows the "Excess and Deficiency" problems from page 21, transitioning into a problem of proportional distribution. The calculation focuses on dividing a total quantity (grains of millet) among three parties based on a geometric ratio.</meta>
+
+### Proportional Repayment for Pecked Grain
+
+If one thousand and one grains <note>original: 粟 (sù) — specifically foxtail millet, the standard unit for grain measurements in ancient Chinese mathematics.</note> are pecked, we ask: how much should each of the three chicken owners repay?
+
+->Answer:<-
+
+Owner of the chicks: one hundred and forty-three.
+Owner of the hens: two hundred and eighty-six.
+Owner of the roosters: five hundred and seventy-two.
+
+**The Method states:** Set the one thousand and one grains of millet as the <term>dividend|original: 實 (shí) — the total quantity to be divided.</term> Combine the seven grains pecked by the three types of chickens <note>The problem assumes a ratio where for every 1 grain a chick eats, a hen eats 2, and a rooster eats 4, totaling 7.</note> to serve as the <term>divisor|original: 法 (fǎ)</term>. Divide the dividend by the divisor to obtain one hundred and forty-three grains; this is the amount to be compensated by the owner of the chicks <note>original: 雞雛 (jī chú)</note>. Successively double <note>original: 遞倍 (dì bèi)</note> this amount to obtain the respective amounts to be compensated by the owners of the mother hens <note>original: 雞母 (jī mǔ)</note> and the roosters <note>original: 雞翁 (jī wēng)</note>.
+
+<summary>This page outlines a proportional division problem where 1,001 grains of millet must be accounted for by three owners based on a 1:2:4 ratio of consumption between chicks, hens, and roosters. It demonstrates the use of a fixed divisor to find a base unit which is then doubled for successive categories.</summary>
+<keywords>proportional division, millet calculation, poultry, dividend, divisor, successive doubling</keywords>
+
+--- Page 79 ---
+<meta>This page transitions from the previous problem regarding proportional grain distribution into the classic "Pheasants and Rabbits" problem. This is one of the most famous exercises in the history of Chinese mathematics, appearing in the 4th-century "Master Sun’s Mathematical Manual" (Sunzi Suanjing).</meta>
+
+### Pheasants and Rabbits in the Same Cage
+
+Now there are pheasants <note>original: 雉 (zhì)</note> and rabbits <note>original: 兔 (tù)</note> kept together in the same cage. Looking from above, there are thirty-five heads; looking from below, there are ninety-four feet.
+
+We ask: how many pheasants and rabbits are there respectively?
+
+->Answer:<-
+
+->Twenty-three pheasants; twelve rabbits.<-
+
+**The Method <term>Method|original: 術 (shù) — a standard algorithmic procedure.</term> states:** Set thirty-five heads in the upper position and ninety-four feet in the lower position <note>This refers to the arrangement of <term>counting rods|original: 籌 (chóu)</term> on a grid-like calculation board.</note>. Halve the number of feet to obtain forty-seven. Subtract the smaller number [the heads] from the larger number [the halved feet] to obtain the number of rabbits <note>Calculated as 47 - 35 = 12. This logic assumes that if every animal stands on two legs, halving the feet gives 1 foot per pheasant and 2 per rabbit. Subtracting the total number of heads (35) effectively removes one "set" of feet from every animal, leaving only the "extra" feet belonging to the rabbits.</note>. To find the pheasants, subtract the number of rabbits from the number of heads: where the lower value [rabbits] has one in the tens place, remove one from the upper tens place; where the lower value has two in the ones place, remove two from the upper ones place <note>original: 下有一除上一...下有二除上二 — This describes the mechanical process of subtraction on a counting board or abacus, where 12 is subtracted from 35 to leave 23.</note>. This yields the result.
+
+**An Alternative Method states:** Set the heads in the upper position and the feet in the lower. Halve the feet, and from that total, subtract the number of heads to find the rabbits. <note>This is a simplified summary of the logic used in the first method.</note>
+
+<summary>This page features the iconic "Pheasants and Rabbits" problem, a classic exercise in solving systems of linear equations. The text explains the algorithm using counting-rod logic, where total feet are halved and compared against the head count to isolate the two species.</summary>
+<keywords>Pheasants and Rabbits, Sunzi Suanjing, counting rods, simultaneous equations, Chinese mathematics, feet and heads problem</keywords>
+
+--- Page 80 ---
+<meta>This page continues the "Alternative Method" for the Pheasants and Rabbits problem from the previous page, then transitions into practical arithmetic problems involving distance, unit conversion, and geometry.</meta>
+
+...subtract the number of heads from the [halved] number of feet to obtain the result <note>Continuing from the previous page's "Alternative Method": if you have halved the feet (47) and subtract the heads (35), you are left with the number of rabbits (12).</note>.
+
+Now there is a canal nine <term>li|original: 里 (lǐ) — a traditional Chinese unit of distance, often called a "Chinese mile." During this period, 1 li was standardized to 300 paces (bu).</term> long. There are fish, each three <term>inches|original: 寸 (cùn) — a Chinese inch, roughly 1/10th of a foot (chi).</term> long, placed head-to-tail. We ask: how many fish are there in total?
+
+->Answer: Fifty-four thousand<-
+
+**The Method states:** Set the nine *li*. Multiply this by three hundred <term>paces|original: 步 (bù) — a unit of length consisting of two steps.</term> to obtain two thousand seven hundred paces. Further, multiply this by six <term>feet|original: 尺 (chǐ) — a Chinese foot. During the Han to Tang dynasties, 1 pace (bu) equaled 6 feet.</term> to obtain sixteen thousand two hundred feet. Multiply this by ten <note>original: 上十之 — literally "move it up by ten," a common term for multiplying by 10 on the counting board by shifting rods one place to the left.</note> to obtain one hundred sixty-two thousand inches. Divide this by the fish's length of three inches to obtain the result.
+
+Now there is the distance between the cities of Chang'an <note>The ancient capital of China, modern-day Xi'an.</note> and Luoyang, which are nine hundred *li* apart. A chariot wheel completes one full rotation <note>original: 匝 (zā) — a single revolution or circuit.</note> every one <term>zhang|original: 丈 (zhàng) — a unit equal to 10 feet (chi).</term> and eight feet. If one wishes to travel from Luoyang to Chang'an, we ask: how many rotations will the wheel make?
+
+<summary>This page concludes a classic algebraic problem before presenting exercises in unit conversion (li to inches) and calculating wheel rotations over a long distance.</summary>
+<keywords>unit conversion, li, paces, feet, inches, Chang'an, Luoyang, arithmetic calculation, counting board</keywords>
+
+--- Page 81 ---
+<meta>This page concludes the calculation regarding the journey between Chang'an and Luoyang initiated on the previous page and begins a classic problem of geometric progression involving the number nine.</meta>
+
+### Middle Volume, Folio 6
+
+->Answer: Ninety thousand rotations<-
+
+**The Method states:** Set down the distance of nine hundred <term>li|original: 里 (lǐ) — a unit of distance. In this period, 1 li was exactly 300 paces.</term>. Multiply this by three hundred <term>paces|original: 步 (bù) — a unit of length; during the Han and Jin dynasties, 1 pace was 6 feet.</term> to obtain two hundred seventy thousand paces. Further, multiply this by six <term>feet|original: 尺 (chǐ) — a Chinese foot.</term> to obtain one million, six hundred twenty thousand feet. Use the wheel's circumference of one <term>zhang|original: 丈 (zhàng) — a unit equal to 10 feet.</term> and eight feet <note>Totaling 18 feet.</note> as the <term>divisor|original: 法 (fǎ) — the number by which another is divided in traditional Chinese mathematics.</term>. Dividing by this yields the result.
+
+---
+
+**Now there is a scenario:** One exits a gate and sees nine embankments. Each embankment has nine trees. Each tree has nine branches. Each branch has nine nests. Each nest has nine birds. Each bird has nine chicks. Each chick has nine feathers. Each feather has nine colors.
+
+**We ask:** How many of each are there?
+
+**Answer:**
+
+Trees: Eighty-one <note>Calculating 9 x 9. The problem likely continues on the following page to calculate the powers of nine for the branches, nests, birds, etc.</note>
+
+<summary>This page completes a division problem regarding the number of wheel rotations for a long-distance journey and introduces a famous cumulative multiplication problem involving "nine" things.</summary>
+<keywords>Sun Zi Suan Jing, units of measurement, li, pace, zhang, geometric progression, division, multiplication</keywords>
+
+--- Page 82 ---
+<meta>This page continues the calculation of the "Problem of the Nine Embankments" from the Master Sun's Mathematical Manual (Sun Zi Suan Jing), providing the specific totals for each category in the geometric progression.</meta>
+
+Branches: Seven hundred twenty-nine
+Nests: Six thousand, five hundred sixty-one
+Birds: Fifty-nine thousand, forty-nine
+Chicks: Five hundred thirty-one thousand, four hundred forty-one
+Feathers: Four million, seven hundred eighty-two thousand, nine hundred sixty-nine
+Colors: Forty-three million, forty-six thousand, seven hundred twenty-one <note>These figures represent the powers of nine, from $9^3$ to $9^8$.</note>
+
+The <term>Method|original: 術 (shù) — a term referring to the systematic algorithm or procedure used to solve a mathematical problem.</term> states: Set down the nine embankments and multiply them by nine to obtain the number of trees. Multiply this again by nine to obtain the number of branches. Multiply this again by nine to obtain the number of nests. Multiply this again by nine to obtain the number of birds. Multiply this again by nine to obtain the number of chicks <note>The text follows a repetitive multiplication algorithm, reflecting how early mathematicians conceptualized exponential growth through step-by-step calculation.</note>
+
+<summary>This page provides the numerical answers for a famous geometric progression problem involving powers of nine and begins explaining the multiplication algorithm used to derive them.</summary>
+<keywords>Sun Zi Suan Jing, geometric progression, multiplication, powers of nine, Shu, mathematical algorithm</keywords>
+
+--- Page 83 ---
+<meta>This page concludes the procedural explanation for the "Problem of the Nine Embankments" and introduces a new mathematical challenge regarding the meeting of three sisters, which serves as an early example of finding a least common multiple.</meta>
+
+Multiply the previous number by nine to obtain the number of feathers; multiply this again by nine to obtain the number of colors.
+
+Now there are three daughters. The eldest daughter returns <note>original: 歸 (guī) — This term refers to a married woman visiting her parental home, a common social setting for mathematical word problems in ancient China.</note> once every five days; the middle daughter returns once every four days; the youngest daughter returns once every three days. The question asks: after how many days will the three daughters meet together?
+
+->Answer: Sixty days<-
+
+The <term>Method|original: 術 (shù) — the algorithm or systematic procedure for solving the problem.</term> states: Place the five days of the eldest daughter, the four days of the middle daughter, and the three days of the youngest daughter on the right. List one <term>counting rod|original: 筭 (suàn) — the physical rods used on a counting board to represent numerical values.</term> for each on the left. Perform <term>cross-multiplication|original: 維乘 (wéichéng) — a technique where each number is multiplied by the product of the others to find a common multiple.</term> to determine the number of visits for each daughter. Thus, the eldest daughter makes twelve visits, the middle daughter fifteen visits, and the youngest daughter twenty visits. Multiply each daughter's return interval by her respective number of visits to obtain the result <note>The method calculates the Least Common Multiple (LCM). By multiplying the return cycles of the other two sisters (e.g., 4 × 3 = 12), the text finds the number of cycles required for the first sister (5 × 12 = 60) to synchronize with the others.</note>.
+
+<summary>This page concludes a geometric progression problem and presents a classic synchronization problem solved by finding the least common multiple of three, four, and five.</summary>
+<keywords>Sun Zi Suan Jing, least common multiple, three daughters problem, counting rods, weicheng, cross-multiplication, Chinese mathematics</keywords>
+
+--- Page 84 ---
+<meta>The previous page concluded the calculation for the synchronized visits of three sisters using a least common multiple method. This page shifts from social/temporal word problems to a mantic (divinatory) mathematical problem concerning the prediction of a child's gender, which was a common application of arithmetic in traditional Chinese culture.</meta>
+
+Suppose there is a pregnant woman, twenty-nine years of age <note>original: 行年 (xíngnián) — Traditional Chinese age is usually calculated as one year old at birth, increasing by one year at each Lunar New Year.</note>, currently in her ninth month of pregnancy; it is not yet known what she will bear.
+
+->Answer: She will bear a son.<-
+
+The <term>Method|original: 術 (shù) — the algorithm or systematic procedure for solving the problem.</term> states: Set down the number forty-nine, add the month of pregnancy, and subtract the woman's age. From the remaining amount, divide by one for Heaven, divide by two for Earth, divide by three for Man, divide by four for the Four Seasons, divide by five for the Five Elements, divide by six for the Six Pitch-pipes, divide by seven for the Seven Stars, divide by eight for the Eight Winds, and divide by nine for the Nine Provinces <note>This procedure involves a sequence of subtractions. Using the example: (49 + 9 - 29) = 29. Then, 29 - 1 (Heaven) = 28; 28 - 2 (Earth) = 26; 26 - 3 (Man) = 23; 23 - 4 (Seasons) = 19; 19 - 5 (Elements) = 14; 14 - 6 (Pitch-pipes) = 8; 8 - 7 (Stars) = 1. Since 1 is less than 8 (Winds), the calculation stops here with a remainder of 1.</note>. For that which is not exhausted <note>original: 不盡者 (bùjìn zhě) — the remainder of the calculation.</note>, if the result is an **odd number**, then it will be a **boy**; if the result is an **even number**, then it will be a **girl**.
+
+---
+
+### Sun Zi’s Mathematical Classic: Volume Three
+
+<summary>This page presents a divinatory mathematical formula used to predict the sex of an unborn child by applying a sequence of subtractions based on cosmological constants. It illustrates the intersection of ancient Chinese arithmetic with traditional beliefs and the "Three Powers" (Heaven, Earth, and Man).</summary>
+
+<keywords>Sun Zi Suan Jing, pregnancy, gender prediction, numerology, Heaven Earth and Man, Five Elements, remainder theorem, ancient Chinese algorithms</keywords>
+
+--- Page 85 ---
+<meta>The previous page concluded a mathematical problem involving a mantic (divinatory) calculation to predict the gender of an unborn child. This page marks a formal transition, presenting the bibliographic record and the official collation details for the "Sun Zi’s Mathematical Classic," indicating its status as an officially sanctioned text within the imperial library system during the Northern Song Dynasty.</meta>
+
+# Palace Library <note>original: 秘書省 (Bìshūshěng) — The central agency responsible for the imperial archives, the composition of official histories, and the collation of important texts.</note>
+
+## *Sun Zi’s Mathematical Classic*, one work in three volumes: Upper, Middle, and Lower <note>original: 孫子算經 (Sūnzǐ Suànjīng) — Though the author "Master Sun" shares a name with the famous general of *The Art of War*, this mathematical text was likely written between the 3rd and 5th centuries AD. It is famous for the "Chinese Remainder Theorem."</note>
+
+Collated and settled on a [blank] day of the ninth month in the seventh year of the Yuanfeng reign period <note>original: 1084 AD, during the reign of Emperor Shenzong of the Northern Song Dynasty.</note> <gloss>Submitted to the throne by Ye Zuqia, recipient of the title Gentleman for Rendering Service and Proofreader of the Palace Library</gloss>
+
+Collated and settled by Wang Zhongxiu, Gentleman for Court Discussion and Acting Proofreader of the Palace Library
+
+Collated and settled by Qian Changqing, Gentleman for Court Audience and Acting Proofreader of the Palace Library
+
+<margin>
+Sun
+<br>
+286
+209
+</margin>
+
+<summary>This page contains the formal bibliographic information and the names of the imperial officials who collated and edited "Sun Zi’s Mathematical Classic" in 1084 AD. It identifies the text as an official three-volume work held within the Song Dynasty's Palace Library.</summary>
+<keywords>Sun Zi’s Mathematical Classic, Palace Library, Yuanfeng reign, Ye Zuqia, Wang Zhongxiu, Qian Changqing, book collation, Northern Song Dynasty</keywords>
+
+--- Page 86 ---
+<meta>This page continues the list of high-ranking officials involved in the collation and editing of "Sun Zi’s Mathematical Classic," transitioning from the proofreaders mentioned on the previous page to the senior leadership of the Palace Library during the Northern Song Dynasty.</meta>
+
+Your servant Han Zonggu, Gentleman for Discussing Matters <note>original: 奉議郎 (Fèngyìláng) — A prestige title for civil officials of the 8th rank.</note> and Acting Assistant Director of the Palace Library <note>original: 守秘書丞 (Shǒu Bìshūchéng)</note>
+
+Your servant Sun Jue, Gentleman for Court Audience <note>original: 朝請郎 (Cháoqǐngláng) — A prestige title for civil officials of the 7th rank.</note> and Acting Junior Vice-Director of the Palace Library <note>original: 試秘書少監 (Shì Bìshū shàojiān)</note>
+
+Your servant Zhao Yanruo, Gentleman for Court Closure <note>original: 朝散郎 (Cháosànláng) — A prestige title for civil officials.</note> (reassigned to this lower rank) <note>original: 降授 (Jiàngshòu) — Indicates the official was appointed to this post following a demotion or administrative reassignment.</note> and Acting Director of the Palace Library <note>original: 試秘書監 (Shì Bìshūjiān)</note>
+
+<summary>This page lists the senior officials of the Palace Library responsible for the final oversight and submission of the "Sun Zi’s Mathematical Classic" to the Emperor. It highlights the bureaucratic hierarchy involved in preserving scientific knowledge in the 11th century.</summary>
+<keywords>Han Zonggu, Sun Jue, Zhao Yanruo, Palace Library, Song Dynasty bureaucracy, imperial collation, Sun Zi’s Mathematical Classic</keywords>
