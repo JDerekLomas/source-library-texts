@@ -1,14 +1,14 @@
 {
   "id": "6992cfccf5b4f75c1a4c98e5",
   "title": "海國圖志(35)",
-  "display_title": "海國圖志(35)",
+  "display_title": "Illustrated Gazetteer of the Maritime Kingdoms",
   "author": "魏源",
   "language": "Chinese",
   "year": 1844,
   "published": "1844",
   "pages_count": 101,
   "pages_with_ocr": 101,
-  "pages_with_translation": 0,
+  "pages_with_translation": 101,
   "source_url": "https://sourcelibrary.org/book/6992cfccf5b4f75c1a4c98e5",
   "license": "publicdomain",
   "doi": null,
@@ -18,11 +18,11 @@
   "processing": {
     "ocr_model": "gemini-3-flash-preview",
     "prompt_version": "v5.2026-02",
-    "translation_model": null
+    "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:28:31.849Z",
+  "synced_at": "2026-03-08T19:10:44.647Z",
   "_hashes": {
     "ocr": "af905ab6b192ade5",
-    "translation": "e3b0c44298fc1c14"
+    "translation": "37b2a6b79b514a75"
   }
 }
