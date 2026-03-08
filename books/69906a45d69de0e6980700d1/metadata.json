@@ -1,0 +1,28 @@
+{
+  "id": "69906a45d69de0e6980700d1",
+  "title": "Modern Spiritualism: A History and a Criticism, Vol. I",
+  "display_title": "Modern Spiritualism: A History and a Criticism, Vol. I",
+  "author": "Frank Podmore",
+  "language": "English",
+  "year": 1902,
+  "published": "Unknown",
+  "pages_count": 380,
+  "pages_with_ocr": 49,
+  "pages_with_translation": 5,
+  "source_url": "https://sourcelibrary.org/book/69906a45d69de0e6980700d1",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "modernspirituali01podm"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T21:50:58.284Z",
+  "_hashes": {
+    "ocr": "08b207ef18b953e7",
+    "translation": "0620d9b5c8e65bcd"
+  }
+}
