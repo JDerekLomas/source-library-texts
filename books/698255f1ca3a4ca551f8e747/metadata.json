@@ -1,14 +1,14 @@
 {
   "id": "698255f1ca3a4ca551f8e747",
   "title": "Miscellaneorum sacrorum libri duo. Quibus accessit ejusdem exercitio de cabbala judaica",
-  "display_title": "Miscellaneorum sacrorum libri duo. Quibus accessit ejusdem exercitio de cabbala judaica",
+  "display_title": "Two Books of Sacred Miscellanies and a Treatise on the Jewish Kabbalah",
   "author": "Hackspan, Theodor",
   "language": "Latin",
   "year": 1660,
   "published": "1660",
   "pages_count": 541,
-  "pages_with_ocr": 10,
-  "pages_with_translation": 5,
+  "pages_with_ocr": 541,
+  "pages_with_translation": 532,
   "source_url": "https://sourcelibrary.org/book/698255f1ca3a4ca551f8e747",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v4.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:30:48.147Z",
+  "synced_at": "2026-03-08T02:30:28.819Z",
   "_hashes": {
-    "ocr": "1e18d70ef27e10c6",
-    "translation": "a0318a71645671aa"
+    "ocr": "44bffb6a7e76b0fd",
+    "translation": "8f8a54e3b8ab35f6"
   }
 }
