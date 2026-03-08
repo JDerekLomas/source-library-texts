@@ -1,14 +1,14 @@
 {
   "id": "698192073c8982703992d2f9",
   "title": "Lumen de lumine: or a new magicall light",
-  "display_title": "Lumen de lumine: or a new magicall light",
+  "display_title": "Lumen de Lumine: or a New Magical Light",
   "author": "[Vaughan, Thomas]",
   "language": "Latin-English",
   "year": 1651,
   "published": "1651",
-  "pages_count": 134,
-  "pages_with_ocr": 10,
-  "pages_with_translation": 3,
+  "pages_count": 133,
+  "pages_with_ocr": 133,
+  "pages_with_translation": 124,
   "source_url": "https://sourcelibrary.org/book/698192073c8982703992d2f9",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v4.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:31:06.485Z",
+  "synced_at": "2026-03-08T01:30:36.714Z",
   "_hashes": {
-    "ocr": "8b9310a61be32917",
-    "translation": "c2379516ba5fa7a2"
+    "ocr": "8abc4a7a26705c94",
+    "translation": "1b4ead65565a88af"
   }
 }
