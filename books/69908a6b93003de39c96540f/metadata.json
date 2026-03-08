@@ -1,0 +1,28 @@
+{
+  "id": "69908a6b93003de39c96540f",
+  "title": "Haut-Senegal-Niger, Vol. 1",
+  "display_title": "Haut-Senegal-Niger, Vol. 1",
+  "author": "Maurice Delafosse",
+  "language": "French",
+  "year": 1912,
+  "published": "1912",
+  "pages_count": 449,
+  "pages_with_ocr": 446,
+  "pages_with_translation": 414,
+  "source_url": "https://sourcelibrary.org/book/69908a6b93003de39c96540f",
+  "license": "https://gallica.bnf.fr/html/und/conditions-dutilisation-des-contenus-de-gallica",
+  "doi": null,
+  "external_ids": {
+    "gallica": "bpt6k103554s"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T16:20:41.046Z",
+  "_hashes": {
+    "ocr": "9b9b53c3d2b41942",
+    "translation": "57104f3fd9b91ef9"
+  }
+}
