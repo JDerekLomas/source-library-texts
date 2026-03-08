@@ -1,0 +1,28 @@
+{
+  "id": "6955834057e3b773024f83aa",
+  "title": "Taliesin",
+  "display_title": "Taliesin",
+  "author": "John Morris-Jones",
+  "language": "English",
+  "year": 1918,
+  "published": "Unknown",
+  "pages_count": 310,
+  "pages_with_ocr": 306,
+  "pages_with_translation": 301,
+  "source_url": "https://sourcelibrary.org/book/6955834057e3b773024f83aa",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "taliesin28joneuoft"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T13:10:41.133Z",
+  "_hashes": {
+    "ocr": "b49df6f176ebea24",
+    "translation": "3f1bad35c2142d21"
+  }
+}
