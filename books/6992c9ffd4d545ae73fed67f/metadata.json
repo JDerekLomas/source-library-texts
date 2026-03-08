@@ -1,0 +1,28 @@
+{
+  "id": "6992c9ffd4d545ae73fed67f",
+  "title": "道藏目錄詳註 (Daozang Catalogue with Detailed Notes) Vol 1",
+  "display_title": "道藏目錄詳註 (Daozang Catalogue with Detailed Notes) Vol 1",
+  "author": "Unknown",
+  "language": "Chinese",
+  "year": null,
+  "published": "Unknown",
+  "pages_count": 199,
+  "pages_with_ocr": 199,
+  "pages_with_translation": 10,
+  "source_url": "https://sourcelibrary.org/book/6992c9ffd4d545ae73fed67f",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "06050892.cn"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T23:11:19.347Z",
+  "_hashes": {
+    "ocr": "0e87193e9c28f9f6",
+    "translation": "28055095eaff6662"
+  }
+}
