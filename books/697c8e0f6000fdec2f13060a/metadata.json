@@ -1,14 +1,14 @@
 {
   "id": "697c8e0f6000fdec2f13060a",
   "title": "Gedenck-schrift aengaende de voor-vallen der Evangelische-kercken vande valleyen van Piemont; anders Waldensen",
-  "display_title": "Gedenck-schrift aengaende de voor-vallen der Evangelische-kercken vande valleyen van Piemont; anders Waldensen",
+  "display_title": "History of the Evangelical Churches of the Valleys of Piedmont",
   "author": "Léger, Jean",
   "language": "Dutch",
   "year": 1670,
   "published": "1670",
-  "pages_count": 499,
-  "pages_with_ocr": 499,
-  "pages_with_translation": 1,
+  "pages_count": 490,
+  "pages_with_ocr": 490,
+  "pages_with_translation": 462,
   "source_url": "https://sourcelibrary.org/book/697c8e0f6000fdec2f13060a",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:24:26.010Z",
+  "synced_at": "2026-03-08T12:20:25.621Z",
   "_hashes": {
-    "ocr": "da40e01161d62275",
-    "translation": "43cf9bd060f1966b"
+    "ocr": "a3b2a6e176182e1f",
+    "translation": "d32ff26092bf5a45"
   }
 }
