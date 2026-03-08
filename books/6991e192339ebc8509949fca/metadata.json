@@ -1,0 +1,28 @@
+{
+  "id": "6991e192339ebc8509949fca",
+  "title": "Le Opere (including Lezione delle Monete)",
+  "display_title": "Le Opere (including Lezione delle Monete)",
+  "author": "Bernardo Davanzati",
+  "language": "Italian",
+  "year": 1852,
+  "published": "1852",
+  "pages_count": 612,
+  "pages_with_ocr": 612,
+  "pages_with_translation": 595,
+  "source_url": "https://sourcelibrary.org/book/6991e192339ebc8509949fca",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "leoperedibernar01bindgoog"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T17:30:32.605Z",
+  "_hashes": {
+    "ocr": "a152b88bf9373499",
+    "translation": "19b238ebe2bbe98a"
+  }
+}
