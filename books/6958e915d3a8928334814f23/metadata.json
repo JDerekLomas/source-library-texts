@@ -7,7 +7,7 @@
   "year": 1669,
   "published": "1669",
   "pages_count": 554,
-  "pages_with_ocr": 10,
+  "pages_with_ocr": 495,
   "pages_with_translation": 2,
   "source_url": "https://sourcelibrary.org/book/6958e915d3a8928334814f23",
   "license": "publicdomain",
@@ -20,9 +20,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:30:18.826Z",
+  "synced_at": "2026-03-08T14:30:13.037Z",
   "_hashes": {
-    "ocr": "166bacc27d9de05a",
+    "ocr": "10705bea1f330bdc",
     "translation": "465e9dfdd3ed97ec"
   }
 }
