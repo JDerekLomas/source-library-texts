@@ -1,14 +1,14 @@
 {
   "id": "698255ec3e158c7e3c9a4f76",
   "title": "Neue Sammlung von einigen alten und sehr rar gewordenen philosophisch [sic] und alchymistischen Schriften [...] als eine neue Fortsetzung des Theatri Chymici",
-  "display_title": "Neue Sammlung von einigen alten und sehr rar gewordenen philosophisch [sic] und alchymistischen Schriften [...] als eine neue Fortsetzung des Theatri Chymici",
+  "display_title": "New Collection of Old and Rare Philosophical and Alchemical Writings",
   "author": "anonymous",
   "language": "German",
   "year": 1767,
   "published": "1767-1774",
   "pages_count": 484,
-  "pages_with_ocr": 10,
-  "pages_with_translation": 5,
+  "pages_with_ocr": 484,
+  "pages_with_translation": 473,
   "source_url": "https://sourcelibrary.org/book/698255ec3e158c7e3c9a4f76",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v4.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:30:47.236Z",
+  "synced_at": "2026-03-08T01:40:40.162Z",
   "_hashes": {
-    "ocr": "484f318a3ce2b536",
-    "translation": "a803ac272d1c5a86"
+    "ocr": "44feced1e579ecce",
+    "translation": "2b78234c6ebe39e1"
   }
 }
