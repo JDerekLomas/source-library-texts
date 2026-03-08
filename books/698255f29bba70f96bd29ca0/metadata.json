@@ -1,14 +1,14 @@
 {
   "id": "698255f29bba70f96bd29ca0",
   "title": "Novi Testamenti ... Das New Testament",
-  "display_title": "Novi Testamenti ... Das New Testament",
+  "display_title": "The Illustrated History of the New Testament",
   "author": "Unknown",
   "language": "Latin-German",
   "year": 1557,
   "published": "1557",
   "pages_count": 172,
-  "pages_with_ocr": 10,
-  "pages_with_translation": 5,
+  "pages_with_ocr": 172,
+  "pages_with_translation": 169,
   "source_url": "https://sourcelibrary.org/book/698255f29bba70f96bd29ca0",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v4.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:30:42.447Z",
+  "synced_at": "2026-03-08T02:40:25.492Z",
   "_hashes": {
-    "ocr": "a6d2b30e08edca1f",
-    "translation": "8a8f735ad81697e5"
+    "ocr": "c7746b0b5f922038",
+    "translation": "3ce47e1bf4798388"
   }
 }
