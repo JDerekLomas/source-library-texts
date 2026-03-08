@@ -1,14 +1,14 @@
 {
   "id": "6980941d60e14b26f355058e",
   "title": "Lexicon chymicum. Cum obscuriorum verborum, et rerum hermeticarum",
-  "display_title": "Lexicon chymicum. Cum obscuriorum verborum, et rerum hermeticarum",
+  "display_title": "Chemical Lexicon",
   "author": "Johnson, William",
   "language": "Latin",
   "year": 1657,
   "published": "1657",
-  "pages_count": 298,
-  "pages_with_ocr": 10,
-  "pages_with_translation": 5,
+  "pages_count": 296,
+  "pages_with_ocr": 296,
+  "pages_with_translation": 285,
   "source_url": "https://sourcelibrary.org/book/6980941d60e14b26f355058e",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v4.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:30:57.688Z",
+  "synced_at": "2026-03-08T01:00:36.789Z",
   "_hashes": {
-    "ocr": "237f672c2b0667dc",
-    "translation": "98555414ecafdb4d"
+    "ocr": "329d245660105c1d",
+    "translation": "28453cd775e27347"
   }
 }
