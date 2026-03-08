@@ -1,0 +1,28 @@
+{
+  "id": "6991ec1ee93551dd846a83a4",
+  "title": "Artis Auriferae quam Chemiam vocant",
+  "display_title": "Artis Auriferae quam Chemiam vocant",
+  "author": "Various",
+  "language": "Latin",
+  "year": 1610,
+  "published": "1610",
+  "pages_count": 1073,
+  "pages_with_ocr": 1073,
+  "pages_with_translation": 500,
+  "source_url": "https://sourcelibrary.org/book/6991ec1ee93551dd846a83a4",
+  "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bub_gb_Ci9cPAdexbAC"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T23:11:03.730Z",
+  "_hashes": {
+    "ocr": "2ee149cdf29c5672",
+    "translation": "77cabb78a5743d8b"
+  }
+}
