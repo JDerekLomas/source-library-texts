@@ -1,14 +1,14 @@
 {
   "id": "698255e93e158c7e3c9a4f66",
   "title": "Naaukeurige beschryving der uitwendige godtsdienstplichten",
-  "display_title": "Naaukeurige beschryving der uitwendige godtsdienstplichten",
+  "display_title": "The Religious Ceremonies and Customs of All the Peoples of the World",
   "author": "Picard, Bernhard",
   "language": "Dutch",
   "year": 1727,
   "published": "1727-1738",
   "pages_count": 614,
-  "pages_with_ocr": 10,
-  "pages_with_translation": 2,
+  "pages_with_ocr": 612,
+  "pages_with_translation": 485,
   "source_url": "https://sourcelibrary.org/book/698255e93e158c7e3c9a4f66",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v4.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:30:55.635Z",
+  "synced_at": "2026-03-08T12:50:40.396Z",
   "_hashes": {
-    "ocr": "552463bf3f7a5d69",
-    "translation": "3e716971963c79d7"
+    "ocr": "96cf91da10461879",
+    "translation": "aa1672a7d9138dbe"
   }
 }
