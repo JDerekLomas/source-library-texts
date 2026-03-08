@@ -1,0 +1,26 @@
+{
+  "id": "698420e1f1fb376a3d58061a",
+  "title": "Novum lumen medicum, in welchem des hochbegabten Philosophi Helmontii [...] Lehre [...] erkläret wird",
+  "display_title": "A New Medical Light",
+  "author": "Polemann, Joachim",
+  "language": "Latin-German",
+  "year": 1747,
+  "published": "1747",
+  "pages_count": 186,
+  "pages_with_ocr": 186,
+  "pages_with_translation": 178,
+  "source_url": "https://sourcelibrary.org/book/698420e1f1fb376a3d58061a",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T03:00:29.614Z",
+  "_hashes": {
+    "ocr": "c1f3becc1e877b62",
+    "translation": "cb35bd5fcb500c5c"
+  }
+}
