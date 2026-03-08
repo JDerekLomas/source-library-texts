@@ -1,0 +1,28 @@
+{
+  "id": "6991bd07879c23a0fef520e6",
+  "title": "The Arcane Formulas, or Mental Alchemy",
+  "display_title": "The Arcane Formulas, or Mental Alchemy",
+  "author": "William Walker Atkinson",
+  "language": "English",
+  "year": 1909,
+  "published": "Unknown",
+  "pages_count": 114,
+  "pages_with_ocr": 114,
+  "pages_with_translation": 107,
+  "source_url": "https://sourcelibrary.org/book/6991bd07879c23a0fef520e6",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "arcaneformulaso00atkigoog"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T17:10:28.741Z",
+  "_hashes": {
+    "ocr": "459ff206bb6b9179",
+    "translation": "6062dc73a5758cfd"
+  }
+}
