@@ -1,14 +1,14 @@
 {
   "id": "6981920864032ee0e58e12fb",
   "title": "Le manuel de Xefolius",
-  "display_title": "Le manuel de Xefolius",
+  "display_title": "The Manual of Xefolius",
   "author": "[Wimpfen, Felix, baron de]",
   "language": "French",
   "year": 1788,
   "published": "1788",
   "pages_count": 379,
-  "pages_with_ocr": 10,
-  "pages_with_translation": 4,
+  "pages_with_ocr": 379,
+  "pages_with_translation": 363,
   "source_url": "https://sourcelibrary.org/book/6981920864032ee0e58e12fb",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v4.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:31:05.080Z",
+  "synced_at": "2026-03-08T13:40:42.497Z",
   "_hashes": {
-    "ocr": "3c3ac18609d23c0d",
-    "translation": "9f80efd9566ca405"
+    "ocr": "9cf3a1df5469bd5a",
+    "translation": "b2e7a43c9b613fb8"
   }
 }
