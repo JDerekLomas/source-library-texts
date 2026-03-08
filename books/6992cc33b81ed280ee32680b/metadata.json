@@ -1,0 +1,28 @@
+{
+  "id": "6992cc33b81ed280ee32680b",
+  "title": "Planisphère céleste chinois (Chinese Celestial Star Chart)",
+  "display_title": "Planisphère céleste chinois (Chinese Celestial Star Chart)",
+  "author": "M. de Guignes",
+  "language": "Chinese",
+  "year": 1770,
+  "published": "Unknown",
+  "pages_count": 1,
+  "pages_with_ocr": 1,
+  "pages_with_translation": 1,
+  "source_url": "https://sourcelibrary.org/book/6992cc33b81ed280ee32680b",
+  "license": "https://gallica.bnf.fr/html/und/conditions-dutilisation-des-contenus-de-gallica",
+  "doi": null,
+  "external_ids": {
+    "gallica": "btv1b53032696h"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T17:50:25.411Z",
+  "_hashes": {
+    "ocr": "fe48cd35bc24fa36",
+    "translation": "a7e4c74ec443e8cb"
+  }
+}
