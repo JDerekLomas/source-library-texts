@@ -1,0 +1,28 @@
+{
+  "id": "6990797fb621b177c1af7e3c",
+  "title": "Strange Stories from a Chinese Studio, Vol. 2",
+  "display_title": "Strange Stories from a Chinese Studio, Vol. 2",
+  "author": "Pu Songling (tr. Herbert Giles)",
+  "language": "Chinese",
+  "year": 1880,
+  "published": "Unknown",
+  "pages_count": 418,
+  "pages_with_ocr": 418,
+  "pages_with_translation": 407,
+  "source_url": "https://sourcelibrary.org/book/6990797fb621b177c1af7e3c",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "strangestoriesfr02pusu"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T18:50:29.333Z",
+  "_hashes": {
+    "ocr": "0b416fdc852b3343",
+    "translation": "5b15804c0ea1ddf7"
+  }
+}
