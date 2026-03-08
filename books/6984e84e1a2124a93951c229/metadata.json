@@ -1,14 +1,14 @@
 {
   "id": "6984e84e1a2124a93951c229",
   "title": "Opusculum de auditu kabbalistico sive ad omnes scientias introductorium",
-  "display_title": "Opusculum de auditu kabbalistico sive ad omnes scientias introductorium",
+  "display_title": "A Short Treatise on Kabbalistic Hearing",
   "author": "Lull, Ramón",
   "language": "Latin",
   "year": 1578,
   "published": "1578",
   "pages_count": 169,
-  "pages_with_ocr": 10,
-  "pages_with_translation": 7,
+  "pages_with_ocr": 169,
+  "pages_with_translation": 166,
   "source_url": "https://sourcelibrary.org/book/6984e84e1a2124a93951c229",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v4.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:31:21.309Z",
+  "synced_at": "2026-03-08T03:50:32.638Z",
   "_hashes": {
-    "ocr": "a4a1ac20f4de86c2",
-    "translation": "c9330963b29b28a9"
+    "ocr": "394f10d3562673a9",
+    "translation": "c7453c3a052aae43"
   }
 }
