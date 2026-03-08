@@ -1,0 +1,28 @@
+{
+  "id": "69907c3b5f855ec553e723bb",
+  "title": "Myths of the Cherokee",
+  "display_title": "Myths of the Cherokee",
+  "author": "James Mooney",
+  "language": "English",
+  "year": 1900,
+  "published": "Unknown",
+  "pages_count": 634,
+  "pages_with_ocr": 634,
+  "pages_with_translation": 594,
+  "source_url": "https://sourcelibrary.org/book/69907c3b5f855ec553e723bb",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "mythsofcherokee00moon"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T16:10:25.773Z",
+  "_hashes": {
+    "ocr": "c50d8505d895551a",
+    "translation": "95bb160c16a39cf6"
+  }
+}
