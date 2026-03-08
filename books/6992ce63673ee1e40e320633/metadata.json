@@ -1,14 +1,14 @@
 {
   "id": "6992ce63673ee1e40e320633",
   "title": "三才圖會(九十四)",
-  "display_title": "三才圖會(九十四)",
+  "display_title": "Collected Illustrations of the Three Realms",
   "author": "王圻, 王思義",
   "language": "Chinese",
   "year": 1609,
   "published": "1609",
   "pages_count": 100,
   "pages_with_ocr": 100,
-  "pages_with_translation": 0,
+  "pages_with_translation": 70,
   "source_url": "https://sourcelibrary.org/book/6992ce63673ee1e40e320633",
   "license": "publicdomain",
   "doi": null,
@@ -18,11 +18,11 @@
   "processing": {
     "ocr_model": "gemini-3-flash-preview",
     "prompt_version": "v5.2026-02",
-    "translation_model": null
+    "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:28:45.495Z",
+  "synced_at": "2026-03-08T23:40:54.096Z",
   "_hashes": {
     "ocr": "a0445c8344210f46",
-    "translation": "e3b0c44298fc1c14"
+    "translation": "0fd5985be5212005"
   }
 }
