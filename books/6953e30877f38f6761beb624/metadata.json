@@ -7,8 +7,8 @@
   "year": 1922,
   "published": "Unknown",
   "pages_count": 138,
-  "pages_with_ocr": 10,
-  "pages_with_translation": 10,
+  "pages_with_ocr": 134,
+  "pages_with_translation": 128,
   "source_url": "https://sourcelibrary.org/book/6953e30877f38f6761beb624",
   "license": "publicdomain",
   "doi": null,
@@ -20,9 +20,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:30:02.817Z",
+  "synced_at": "2026-03-08T07:30:41.370Z",
   "_hashes": {
-    "ocr": "c15089a23642a245",
-    "translation": "cea84ad2e8635460"
+    "ocr": "bdeb85641d0c02a4",
+    "translation": "15c39829835f4010"
   }
 }
