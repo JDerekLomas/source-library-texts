@@ -1,0 +1,28 @@
+{
+  "id": "69937a3bb0a84a5763967c0f",
+  "title": "Thucydides: History of the Peloponnesian War III (Books 5-6, Loeb)",
+  "display_title": "Thucydides: History of the Peloponnesian War III (Books 5-6, Loeb)",
+  "author": "Thucydides",
+  "language": "Greek",
+  "year": 1921,
+  "published": "Unknown",
+  "pages_count": 1,
+  "pages_with_ocr": 1,
+  "pages_with_translation": 1,
+  "source_url": "https://sourcelibrary.org/book/69937a3bb0a84a5763967c0f",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "L110ThucydidesHistoryOfThePeloponnesianWarIII56"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T19:30:25.559Z",
+  "_hashes": {
+    "ocr": "ed2fb888ab113e11",
+    "translation": "f7689fceb5e0d59f"
+  }
+}
