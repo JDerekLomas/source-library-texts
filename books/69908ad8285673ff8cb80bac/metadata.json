@@ -1,0 +1,28 @@
+{
+  "id": "69908ad8285673ff8cb80bac",
+  "title": "Merveilles des pays",
+  "display_title": "Wonders of the Lands",
+  "author": "Zakariya al-Qazwini",
+  "language": "Arabic",
+  "year": 1400,
+  "published": "1400",
+  "pages_count": 140,
+  "pages_with_ocr": 140,
+  "pages_with_translation": 1,
+  "source_url": "https://sourcelibrary.org/book/69908ad8285673ff8cb80bac",
+  "license": "https://gallica.bnf.fr/html/und/conditions-dutilisation-des-contenus-de-gallica",
+  "doi": null,
+  "external_ids": {
+    "gallica": "btv1b11002367b"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T22:20:59.608Z",
+  "_hashes": {
+    "ocr": "f6bb533b55735c5c",
+    "translation": "dd02b2111bc39aed"
+  }
+}
