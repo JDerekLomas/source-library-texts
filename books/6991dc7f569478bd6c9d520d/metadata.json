@@ -1,0 +1,28 @@
+{
+  "id": "6991dc7f569478bd6c9d520d",
+  "title": "Natural Theology; or, Evidences of the Existence and Attributes of the Deity",
+  "display_title": "Natural Theology; or, Evidences of the Existence and Attributes of the Deity",
+  "author": "William Paley",
+  "language": "English",
+  "year": 1802,
+  "published": "Unknown",
+  "pages_count": 404,
+  "pages_with_ocr": 404,
+  "pages_with_translation": 393,
+  "source_url": "https://sourcelibrary.org/book/6991dc7f569478bd6c9d520d",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "naturaltheologyo1802pale"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T16:30:35.985Z",
+  "_hashes": {
+    "ocr": "57f6fafc9c65cb86",
+    "translation": "ac7430e047ab8721"
+  }
+}
