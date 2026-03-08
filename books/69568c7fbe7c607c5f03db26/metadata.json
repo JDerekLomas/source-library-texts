@@ -1,0 +1,28 @@
+{
+  "id": "69568c7fbe7c607c5f03db26",
+  "title": "The Harmony of Interests, Agricultural, Manufacturing and Commercial",
+  "display_title": "The Harmony of Interests, Agricultural, Manufacturing and Commercial",
+  "author": "Henry Charles Carey",
+  "language": "English",
+  "year": 1851,
+  "published": "Unknown",
+  "pages_count": 275,
+  "pages_with_ocr": 275,
+  "pages_with_translation": 266,
+  "source_url": "https://sourcelibrary.org/book/69568c7fbe7c607c5f03db26",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "harmonyinterest00caregoog"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T09:00:26.344Z",
+  "_hashes": {
+    "ocr": "3dca96012b96ea01",
+    "translation": "85257368cf10f8fe"
+  }
+}
