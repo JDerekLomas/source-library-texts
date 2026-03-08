@@ -7,8 +7,8 @@
   "year": 1906,
   "published": "1906",
   "pages_count": 380,
-  "pages_with_ocr": 10,
-  "pages_with_translation": 10,
+  "pages_with_ocr": 370,
+  "pages_with_translation": 361,
   "source_url": "https://sourcelibrary.org/book/6953e33f77f38f6761bec67d",
   "license": "publicdomain",
   "doi": null,
@@ -16,13 +16,13 @@
     "internet_archive": "theosophicalglos00blav"
   },
   "processing": {
-    "ocr_model": "gemini-3-flash-preview",
+    "ocr_model": "gemini-2.5-flash",
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:30:19.084Z",
+  "synced_at": "2026-03-08T06:10:25.167Z",
   "_hashes": {
-    "ocr": "9974f4fe6074beb5",
-    "translation": "813e27ee0294a13f"
+    "ocr": "bff389e6e5bbf081",
+    "translation": "d0199d4053c50f13"
   }
 }
