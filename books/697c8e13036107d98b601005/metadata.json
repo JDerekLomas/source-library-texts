@@ -1,14 +1,14 @@
 {
   "id": "697c8e13036107d98b601005",
   "title": "Geestelyke natuurkunde",
-  "display_title": "Geestelyke natuurkunde",
+  "display_title": "Sacred Physics",
   "author": "Scheuchzer, Johan Jacob",
   "language": "Dutch",
   "year": 1728,
   "published": "1728-1738",
   "pages_count": 513,
-  "pages_with_ocr": 512,
-  "pages_with_translation": 2,
+  "pages_with_ocr": 513,
+  "pages_with_translation": 247,
   "source_url": "https://sourcelibrary.org/book/697c8e13036107d98b601005",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:24:05.101Z",
+  "synced_at": "2026-03-08T15:10:14.680Z",
   "_hashes": {
-    "ocr": "34b9fb71b5aa0bee",
-    "translation": "031d5c0913902d9a"
+    "ocr": "635670ff12d1ad71",
+    "translation": "0d7bc00021380fa4"
   }
 }
