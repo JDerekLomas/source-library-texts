@@ -1,0 +1,28 @@
+{
+  "id": "69924711d263adc1aa7b03c3",
+  "title": "The Book of Tobit: A Chaldee Text (Aramaic)",
+  "display_title": "The Book of Tobit: A Chaldee Text (Aramaic)",
+  "author": "Adolf Neubauer (ed.)",
+  "language": "Syriac",
+  "year": 1878,
+  "published": "Unknown",
+  "pages_count": 144,
+  "pages_with_ocr": 144,
+  "pages_with_translation": 133,
+  "source_url": "https://sourcelibrary.org/book/69924711d263adc1aa7b03c3",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "cu31924059934079"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T19:23:58.964Z",
+  "_hashes": {
+    "ocr": "14f5c62f8a9b651e",
+    "translation": "837c3feb74e6fd24"
+  }
+}
