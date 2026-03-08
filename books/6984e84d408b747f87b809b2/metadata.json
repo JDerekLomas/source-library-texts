@@ -1,14 +1,14 @@
 {
   "id": "6984e84d408b747f87b809b2",
   "title": "Optime de pietate & sapientia meriti [...] oder [...] Theosophische Schrifften",
-  "display_title": "Optime de pietate & sapientia meriti [...] oder [...] Theosophische Schrifften",
+  "display_title": "Theosophical Writings",
   "author": "Böhme, Jacob",
   "language": "German",
   "year": 1675,
   "published": "1675",
   "pages_count": 1116,
-  "pages_with_ocr": 10,
-  "pages_with_translation": 4,
+  "pages_with_ocr": 1116,
+  "pages_with_translation": 1104,
   "source_url": "https://sourcelibrary.org/book/6984e84d408b747f87b809b2",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v4.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:31:30.727Z",
+  "synced_at": "2026-03-08T03:40:32.903Z",
   "_hashes": {
-    "ocr": "c61053a33f978a25",
-    "translation": "b68ce020bb84ac06"
+    "ocr": "ddefc4aa1ebd778e",
+    "translation": "392953197e0c8542"
   }
 }
