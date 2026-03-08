@@ -7,8 +7,8 @@
   "year": 1400,
   "published": "Medieval",
   "pages_count": 170,
-  "pages_with_ocr": 10,
-  "pages_with_translation": 10,
+  "pages_with_ocr": 170,
+  "pages_with_translation": 153,
   "source_url": "https://sourcelibrary.org/book/6953ab1477f38f6761bd68ea",
   "license": "CC-BY-NC-4.0",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:30:38.354Z",
+  "synced_at": "2026-03-08T06:20:36.976Z",
   "_hashes": {
-    "ocr": "95844d6879a4a1de",
-    "translation": "1acc544626f04c60"
+    "ocr": "5e49fae5cef9e117",
+    "translation": "1d7b375ccd905d71"
   }
 }
