@@ -1,0 +1,28 @@
+{
+  "id": "69907003245959b9547d6176",
+  "title": "De Refractione Optices Parte Libri Novem",
+  "display_title": "De Refractione Optices Parte Libri Novem",
+  "author": "Giambattista della Porta",
+  "language": "Latin",
+  "year": 1593,
+  "published": "Unknown",
+  "pages_count": 244,
+  "pages_with_ocr": 244,
+  "pages_with_translation": 2,
+  "source_url": "https://sourcelibrary.org/book/69907003245959b9547d6176",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "ioanbaptistaepor00port"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T22:11:40.526Z",
+  "_hashes": {
+    "ocr": "6c1c7e15c6070ae1",
+    "translation": "e9c381798a139e84"
+  }
+}
