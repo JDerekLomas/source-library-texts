@@ -1,0 +1,28 @@
+{
+  "id": "69920bcde0a548a13d885a90",
+  "title": "Al-Kitab al-Muqaddas: Arabic Bible",
+  "display_title": "Al-Kitab al-Muqaddas: Arabic Bible",
+  "author": "Eli Smith & Cornelius Van Dyck",
+  "language": "Arabic",
+  "year": 1865,
+  "published": "Unknown",
+  "pages_count": 1714,
+  "pages_with_ocr": 1713,
+  "pages_with_translation": 1706,
+  "source_url": "https://sourcelibrary.org/book/69920bcde0a548a13d885a90",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bibleinarabic00lond"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T17:41:16.864Z",
+  "_hashes": {
+    "ocr": "48e16ba5b6b1c711",
+    "translation": "dfd476ca0b035de8"
+  }
+}
