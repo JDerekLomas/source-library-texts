@@ -7,8 +7,8 @@
   "year": 1650,
   "published": "16th-17th century",
   "pages_count": 282,
-  "pages_with_ocr": 10,
-  "pages_with_translation": 10,
+  "pages_with_ocr": 282,
+  "pages_with_translation": 273,
   "source_url": "https://sourcelibrary.org/book/6953ab3477f38f6761bd6997",
   "license": "CC-BY-NC-4.0",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:31:22.808Z",
+  "synced_at": "2026-03-08T09:30:30.108Z",
   "_hashes": {
-    "ocr": "391e8c0211ac211f",
-    "translation": "060a649364b9485d"
+    "ocr": "904952e5fcf0b25c",
+    "translation": "a60ed47b0ec2149f"
   }
 }
