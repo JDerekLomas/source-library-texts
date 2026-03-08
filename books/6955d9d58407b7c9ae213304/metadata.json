@@ -7,8 +7,8 @@
   "year": 1682,
   "published": "z.j",
   "pages_count": 363,
-  "pages_with_ocr": 10,
-  "pages_with_translation": 10,
+  "pages_with_ocr": 362,
+  "pages_with_translation": 130,
   "source_url": "https://sourcelibrary.org/book/6955d9d58407b7c9ae213304",
   "license": "publicdomain",
   "doi": null,
@@ -20,9 +20,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:30:59.044Z",
+  "synced_at": "2026-03-08T13:21:22.096Z",
   "_hashes": {
-    "ocr": "c12963a55a4ea571",
-    "translation": "ad4e0263d428e958"
+    "ocr": "54f7bcc84a6f2bda",
+    "translation": "4c33bc1a52254ba5"
   }
 }
