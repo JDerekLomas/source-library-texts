@@ -1,0 +1,28 @@
+{
+  "id": "6990793c7d066daf3b4a9536",
+  "title": "Magie et Religion dans l'Afrique du Nord",
+  "display_title": "Magie et Religion dans l'Afrique du Nord",
+  "author": "Edmond Doutté",
+  "language": "French",
+  "year": 1908,
+  "published": "Unknown",
+  "pages_count": 776,
+  "pages_with_ocr": 776,
+  "pages_with_translation": 6,
+  "source_url": "https://sourcelibrary.org/book/6990793c7d066daf3b4a9536",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "magie-et-religion-dans-l-afrique-du-nord"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T22:10:50.413Z",
+  "_hashes": {
+    "ocr": "ac8c8c45d5345152",
+    "translation": "511839c116173734"
+  }
+}
