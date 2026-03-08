@@ -1,0 +1,28 @@
+{
+  "id": "6991dc5c79a19ded6bdb46e5",
+  "title": "Lectures on Justice, Police, Revenue and Arms",
+  "display_title": "Lectures on Justice, Police, Revenue and Arms",
+  "author": "Adam Smith",
+  "language": "English",
+  "year": 1896,
+  "published": "Unknown",
+  "pages_count": 354,
+  "pages_with_ocr": 354,
+  "pages_with_translation": 345,
+  "source_url": "https://sourcelibrary.org/book/6991dc5c79a19ded6bdb46e5",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "cu31924032627790"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T16:30:47.920Z",
+  "_hashes": {
+    "ocr": "2d40646294d5648d",
+    "translation": "6de611dc8132979d"
+  }
+}
