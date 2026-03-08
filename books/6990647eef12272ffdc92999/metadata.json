@@ -1,14 +1,14 @@
 {
   "id": "6990647eef12272ffdc92999",
   "title": "Siddhanta Shiromani with Surya Siddhanta Tika (Gudarth Prakashaka)",
-  "display_title": "Siddhanta Shiromani with Surya Siddhanta Tika (Gudarth Prakashaka)",
+  "display_title": "Siddhanta Shiromani (Crown of Treatises)",
   "author": "Bhaskaracharya II; Laxmi Nath",
   "language": "Sanskrit",
   "year": 1750,
   "published": "Unknown",
   "pages_count": 3937,
   "pages_with_ocr": 3937,
-  "pages_with_translation": 3792,
+  "pages_with_translation": 3937,
   "source_url": "https://sourcelibrary.org/book/6990647eef12272ffdc92999",
   "license": "http://creativecommons.org/publicdomain/zero/1.0/",
   "doi": null,
@@ -20,9 +20,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:20:02.969Z",
+  "synced_at": "2026-03-08T05:00:37.324Z",
   "_hashes": {
     "ocr": "aa282e87e6bf00c3",
-    "translation": "0a0b7fcbcf64e816"
+    "translation": "8d78cf689ce1a4d0"
   }
 }
