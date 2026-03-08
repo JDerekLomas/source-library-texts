@@ -1,14 +1,14 @@
 {
   "id": "6984e8498a2f054f912420cb",
   "title": "Pandora, das ist Die edleste Gab Gottes",
-  "display_title": "Pandora, das ist Die edleste Gab Gottes",
+  "display_title": "Pandora: The Noblest Gift of God",
   "author": "[Reusner, Hieronymus]",
   "language": "German",
   "year": 1582,
   "published": "1582",
   "pages_count": 366,
-  "pages_with_ocr": 364,
-  "pages_with_translation": 5,
+  "pages_with_ocr": 366,
+  "pages_with_translation": 339,
   "source_url": "https://sourcelibrary.org/book/6984e8498a2f054f912420cb",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v4.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:25:57.039Z",
+  "synced_at": "2026-03-08T14:40:10.658Z",
   "_hashes": {
-    "ocr": "e2045db956e268b2",
-    "translation": "2d7407d5d4970ceb"
+    "ocr": "134e202b2e6a2225",
+    "translation": "6bf7f88f97b56c49"
   }
 }
