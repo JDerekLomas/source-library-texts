@@ -1,14 +1,14 @@
 {
   "id": "698255eef4d521599e8c772c",
   "title": "De miraculis quae Pythagorae, Apollonio Tyanensi, Francisco Assiso, Dominico, & Ignatio Lojolae tribuntur, libellus",
-  "display_title": "De miraculis quae Pythagorae, Apollonio Tyanensi, Francisco Assiso, Dominico, & Ignatio Lojolae tribuntur, libellus",
+  "display_title": "On the Miracles Attributed to Pythagoras, Apollonius of Tyana, Francis of Assisi, Dominic, and Ignatius Loyola",
   "author": "[Zimmermann, Johann Jacob]",
   "language": "Latin",
   "year": 1734,
   "published": "1734",
   "pages_count": 506,
-  "pages_with_ocr": 10,
-  "pages_with_translation": 6,
+  "pages_with_ocr": 506,
+  "pages_with_translation": 497,
   "source_url": "https://sourcelibrary.org/book/698255eef4d521599e8c772c",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v4.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:30:47.069Z",
+  "synced_at": "2026-03-08T01:50:28.755Z",
   "_hashes": {
-    "ocr": "a437b4228e06350d",
-    "translation": "a72a036623262c50"
+    "ocr": "2320eb6e8056a8fb",
+    "translation": "0c903de1d047d767"
   }
 }
