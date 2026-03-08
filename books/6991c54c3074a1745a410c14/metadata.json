@@ -1,0 +1,26 @@
+{
+  "id": "6991c54c3074a1745a410c14",
+  "title": "Geomancy, Chiromancy, Alchemy, Astronomy, Medicine (Cod. Sang. 756)",
+  "display_title": "St. Gallen, Stiftsbibliothek, Cod. Sang. 756",
+  "author": "Various",
+  "language": "Latin",
+  "year": 1480,
+  "published": "Unknown",
+  "pages_count": 284,
+  "pages_with_ocr": 284,
+  "pages_with_translation": 270,
+  "source_url": "https://sourcelibrary.org/book/6991c54c3074a1745a410c14",
+  "license": "CC-BY-NC-4.0",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T16:31:18.916Z",
+  "_hashes": {
+    "ocr": "1d0102a2813850da",
+    "translation": "df313c8f8af2dc4c"
+  }
+}
