@@ -1,0 +1,28 @@
+{
+  "id": "699079bcdb8b55d19ec67b8a",
+  "title": "The Ewe-Speaking Peoples of the Slave Coast of West Africa",
+  "display_title": "The Ewe-Speaking Peoples of the Slave Coast of West Africa",
+  "author": "Alfred Burdon Ellis",
+  "language": "English",
+  "year": 1890,
+  "published": "Unknown",
+  "pages_count": 351,
+  "pages_with_ocr": 351,
+  "pages_with_translation": 1,
+  "source_url": "https://sourcelibrary.org/book/699079bcdb8b55d19ec67b8a",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "ewespeakingpeop00elligoog"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T22:21:53.528Z",
+  "_hashes": {
+    "ocr": "eee1fbca035ce3e6",
+    "translation": "39801a420f1de2f6"
+  }
+}
