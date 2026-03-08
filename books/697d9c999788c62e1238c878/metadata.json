@@ -1,14 +1,14 @@
 {
   "id": "697d9c999788c62e1238c878",
   "title": "Heemel geschiedenis, overwoogen naar de denkbeelden der poëten der philosofen, en schrifte van Mozes",
-  "display_title": "Heemel geschiedenis, overwoogen naar de denkbeelden der poëten der philosofen, en schrifte van Mozes",
+  "display_title": "The History of the Heavens",
   "author": "Pluche, Antoine",
   "language": "Dutch",
   "year": 1755,
   "published": "1755",
   "pages_count": 777,
-  "pages_with_ocr": 10,
-  "pages_with_translation": 3,
+  "pages_with_ocr": 777,
+  "pages_with_translation": 708,
   "source_url": "https://sourcelibrary.org/book/697d9c999788c62e1238c878",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:30:11.908Z",
+  "synced_at": "2026-03-08T21:20:27.239Z",
   "_hashes": {
-    "ocr": "5823ad8836a1baff",
-    "translation": "8c3db9994392eeec"
+    "ocr": "30bf352f352c4b2c",
+    "translation": "9952eb8964faeca7"
   }
 }
