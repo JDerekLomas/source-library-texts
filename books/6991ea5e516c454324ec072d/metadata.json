@@ -1,0 +1,28 @@
+{
+  "id": "6991ea5e516c454324ec072d",
+  "title": "The Guilds of Florence",
+  "display_title": "The Guilds of Florence",
+  "author": "Edgcumbe Staley",
+  "language": "English",
+  "year": 1906,
+  "published": "Unknown",
+  "pages_count": 814,
+  "pages_with_ocr": 810,
+  "pages_with_translation": 645,
+  "source_url": "https://sourcelibrary.org/book/6991ea5e516c454324ec072d",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "guildsofflorence00staluoft"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T23:10:55.229Z",
+  "_hashes": {
+    "ocr": "876f65b9dec242e7",
+    "translation": "a94e0736654f11a1"
+  }
+}
