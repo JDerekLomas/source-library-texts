@@ -7,8 +7,8 @@
   "year": 1913,
   "published": "Unknown",
   "pages_count": 312,
-  "pages_with_ocr": 10,
-  "pages_with_translation": 10,
+  "pages_with_ocr": 311,
+  "pages_with_translation": 308,
   "source_url": "https://sourcelibrary.org/book/6953cc6a77f38f6761be1f70",
   "license": "http://creativecommons.org/publicdomain/mark/1.0/",
   "doi": null,
@@ -20,9 +20,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:30:30.139Z",
+  "synced_at": "2026-03-08T06:50:25.899Z",
   "_hashes": {
-    "ocr": "66e3bcdd9055fb6c",
-    "translation": "aea729abf05a18c8"
+    "ocr": "eda055e8b0ecae12",
+    "translation": "6455217267fba6ea"
   }
 }
