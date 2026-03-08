@@ -1,0 +1,28 @@
+{
+  "id": "699209bdbed8f4b5ff5b2b00",
+  "title": "Alcorani Textus Universus (Arabic & Latin)",
+  "display_title": "Alcorani Textus Universus (Arabic & Latin)",
+  "author": "Ludovico Marracci",
+  "language": "Arabic-Latin",
+  "year": 1698,
+  "published": "Unknown",
+  "pages_count": 409,
+  "pages_with_ocr": 409,
+  "pages_with_translation": 409,
+  "source_url": "https://sourcelibrary.org/book/699209bdbed8f4b5ff5b2b00",
+  "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "Alcoranus"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T16:50:43.873Z",
+  "_hashes": {
+    "ocr": "1275417b4a894c30",
+    "translation": "4f5fffc4025c72e4"
+  }
+}
