@@ -1,0 +1,26 @@
+{
+  "id": "6991c5763074a1745a411600",
+  "title": "Annotationes Magistri Peritissimi; Operationes Chymicae (Leiden VCF 24)",
+  "display_title": "Annotationes Magistri Peritissimi (omnia germanice): f.1 Annotationes Eines tiefsinnigen [etc.] VCF 8",
+  "author": "Various; Pseudo-Arnaldus de Villanova",
+  "language": "German",
+  "year": 1650,
+  "published": "Unknown",
+  "pages_count": 567,
+  "pages_with_ocr": 567,
+  "pages_with_translation": 561,
+  "source_url": "https://sourcelibrary.org/book/6991c5763074a1745a411600",
+  "license": "unknown",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T16:20:51.786Z",
+  "_hashes": {
+    "ocr": "55f738c31048d241",
+    "translation": "059ee1b872646d8e"
+  }
+}
