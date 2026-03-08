@@ -1,0 +1,28 @@
+{
+  "id": "69907cac5f855ec553e76c3f",
+  "title": "The Life of a South African Tribe, Vol. 1: The Social Life",
+  "display_title": "The Life of a South African Tribe, Vol. 1: The Social Life",
+  "author": "Henri A. Junod",
+  "language": "English",
+  "year": 1912,
+  "published": "Unknown",
+  "pages_count": 672,
+  "pages_with_ocr": 672,
+  "pages_with_translation": 1,
+  "source_url": "https://sourcelibrary.org/book/69907cac5f855ec553e76c3f",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "junod-henri-1912-the-life-of-a-south-african-tribe-vol.-1-the-social-life"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T22:32:07.082Z",
+  "_hashes": {
+    "ocr": "321f5a228eee0343",
+    "translation": "713bf725b854cbd8"
+  }
+}
