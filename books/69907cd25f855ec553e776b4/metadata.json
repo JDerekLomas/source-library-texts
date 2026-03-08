@@ -1,0 +1,28 @@
+{
+  "id": "69907cd25f855ec553e776b4",
+  "title": "Nihongi: Chronicles of Japan",
+  "display_title": "Nihongi: Chronicles of Japan",
+  "author": "W.G. Aston (tr.)",
+  "language": "Japanese",
+  "year": 1896,
+  "published": "Unknown",
+  "pages_count": 893,
+  "pages_with_ocr": 893,
+  "pages_with_translation": 2,
+  "source_url": "https://sourcelibrary.org/book/69907cd25f855ec553e776b4",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "nihongichronicl00astogoog"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T22:32:00.393Z",
+  "_hashes": {
+    "ocr": "1369a4370f86c388",
+    "translation": "dae200750deb2f02"
+  }
+}
