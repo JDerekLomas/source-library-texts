@@ -1,0 +1,28 @@
+{
+  "id": "69906b02e0c258ddff203ac5",
+  "title": "De Masticatione Mortuorum in Tumulis, oder von dem Kauen und Schmatzen der Todten",
+  "display_title": "On the Mastication of the Dead in Graves",
+  "author": "Michael Ranft",
+  "language": "Latin-German",
+  "year": 1728,
+  "published": "Unknown",
+  "pages_count": 109,
+  "pages_with_ocr": 109,
+  "pages_with_translation": 1,
+  "source_url": "https://sourcelibrary.org/book/69906b02e0c258ddff203ac5",
+  "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bub_gb_Y5U5AAAAcAAJ"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T21:50:55.374Z",
+  "_hashes": {
+    "ocr": "4b30a6113a00654f",
+    "translation": "215ed7cc38d7d82d"
+  }
+}
