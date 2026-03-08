@@ -1,0 +1,28 @@
+{
+  "id": "69907c5f5f855ec553e74b98",
+  "title": "Travels in West Africa",
+  "display_title": "Travels in West Africa",
+  "author": "Mary Kingsley",
+  "language": "English",
+  "year": 1897,
+  "published": "Unknown",
+  "pages_count": 818,
+  "pages_with_ocr": 812,
+  "pages_with_translation": 764,
+  "source_url": "https://sourcelibrary.org/book/69907c5f5f855ec553e74b98",
+  "license": "http://creativecommons.org/licenses/publicdomain/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "travelsinwestafr00kinguoft"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T16:11:04.656Z",
+  "_hashes": {
+    "ocr": "e47a4c57d1f7537d",
+    "translation": "0498a960329179db"
+  }
+}
