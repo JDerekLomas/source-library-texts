@@ -1,14 +1,14 @@
 {
   "id": "697b07997f21d8314d7852fb",
   "title": "Einige Bemerkungen über den Ursprung und die Geschichte der Rosenkreuzer und Freymaurer",
-  "display_title": "Einige Bemerkungen über den Ursprung und die Geschichte der Rosenkreuzer und Freymaurer",
+  "display_title": "Remarks on the Origin and History of the Rosicrucians and Freemasons",
   "author": "Nicolai, Friedrich",
   "language": "German",
   "year": 1806,
   "published": "1806",
   "pages_count": 320,
-  "pages_with_ocr": 110,
-  "pages_with_translation": 4,
+  "pages_with_ocr": 320,
+  "pages_with_translation": 310,
   "source_url": "https://sourcelibrary.org/book/697b07997f21d8314d7852fb",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:28:26.146Z",
+  "synced_at": "2026-03-08T15:00:20.010Z",
   "_hashes": {
-    "ocr": "ddab11a8c68cecaa",
-    "translation": "7ba7684314694fa1"
+    "ocr": "25417368d783433e",
+    "translation": "ec465cd28dfccf70"
   }
 }
