@@ -1,14 +1,14 @@
 {
   "id": "6990672e249ce014347d2ddd",
   "title": "Pancha Pakshi Shastra",
-  "display_title": "Pancha Pakshi Shastra",
+  "display_title": "The Science of the Five Birds",
   "author": "Agastya",
   "language": "Sanskrit",
-  "year": null,
-  "published": "Unknown",
+  "year": 1863,
+  "published": "1863",
   "pages_count": 104,
-  "pages_with_ocr": 16,
-  "pages_with_translation": 0,
+  "pages_with_ocr": 104,
+  "pages_with_translation": 95,
   "source_url": "https://sourcelibrary.org/book/6990672e249ce014347d2ddd",
   "license": "publicdomain",
   "doi": null,
@@ -18,11 +18,11 @@
   "processing": {
     "ocr_model": "gemini-3-flash-preview",
     "prompt_version": "v4.2026-02",
-    "translation_model": null
+    "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:29:58.280Z",
+  "synced_at": "2026-03-08T16:04:27.532Z",
   "_hashes": {
-    "ocr": "5adc32ba34041748",
-    "translation": "e3b0c44298fc1c14"
+    "ocr": "c91d08994c4ae4e2",
+    "translation": "e9ce5b41838162ed"
   }
 }
