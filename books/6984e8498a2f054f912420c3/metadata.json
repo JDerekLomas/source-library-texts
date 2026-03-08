@@ -1,14 +1,14 @@
 {
   "id": "6984e8498a2f054f912420c3",
   "title": "Physica subterranea. Specimen Beccherianum",
-  "display_title": "Physica subterranea. Specimen Beccherianum",
+  "display_title": "Subterranean Physics",
   "author": "Becher, Johann Joachim",
   "language": "Latin",
   "year": 1738,
   "published": "1738",
-  "pages_count": 860,
-  "pages_with_ocr": 262,
-  "pages_with_translation": 3,
+  "pages_count": 856,
+  "pages_with_ocr": 856,
+  "pages_with_translation": 845,
   "source_url": "https://sourcelibrary.org/book/6984e8498a2f054f912420c3",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v4.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:27:04.990Z",
+  "synced_at": "2026-03-08T03:30:26.525Z",
   "_hashes": {
-    "ocr": "36731107a1b4a7f9",
-    "translation": "c903ad846a26bd61"
+    "ocr": "04788cd8d25d11fa",
+    "translation": "379351ea5a63466b"
   }
 }
