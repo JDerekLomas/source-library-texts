@@ -1,0 +1,26 @@
+{
+  "id": "69907bdc5f855ec553e7177b",
+  "title": "Aja'ib al-Makhluqat (Wonders of Creation)",
+  "display_title": "ʻAjāʼib al-makhlūqāt (MS Nn.3.74)",
+  "author": "Zakariya al-Qazwini",
+  "language": "Persian",
+  "year": 1500,
+  "published": "1500",
+  "pages_count": 496,
+  "pages_with_ocr": 496,
+  "pages_with_translation": 2,
+  "source_url": "https://sourcelibrary.org/book/69907bdc5f855ec553e7177b",
+  "license": "CC-BY-NC-4.0",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T22:21:19.381Z",
+  "_hashes": {
+    "ocr": "8eca2826d7ede902",
+    "translation": "0dd702f06c9de105"
+  }
+}
