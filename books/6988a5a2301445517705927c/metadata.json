@@ -1,14 +1,14 @@
 {
   "id": "6988a5a2301445517705927c",
   "title": "Regentenbuch",
-  "display_title": "Regentenbuch",
+  "display_title": "Book of Rulers",
   "author": "Lauterbeck, Georg",
   "language": "German",
   "year": 1579,
   "published": "1579",
-  "pages_count": 902,
-  "pages_with_ocr": 100,
-  "pages_with_translation": 93,
+  "pages_count": 997,
+  "pages_with_ocr": 997,
+  "pages_with_translation": 984,
   "source_url": "https://sourcelibrary.org/book/6988a5a2301445517705927c",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:28:38.315Z",
+  "synced_at": "2026-03-08T03:10:22.479Z",
   "_hashes": {
-    "ocr": "4b92320d44f54f3a",
-    "translation": "784d5f7c64ff7003"
+    "ocr": "560cf528cdb2a993",
+    "translation": "16214c15252027e4"
   }
 }
