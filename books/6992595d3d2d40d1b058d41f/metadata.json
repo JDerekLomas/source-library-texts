@@ -1,0 +1,28 @@
+{
+  "id": "6992595d3d2d40d1b058d41f",
+  "title": "Teton Sioux Music",
+  "display_title": "Teton Sioux Music",
+  "author": "Frances Densmore",
+  "language": "English",
+  "year": 1918,
+  "published": "Unknown",
+  "pages_count": 738,
+  "pages_with_ocr": 738,
+  "pages_with_translation": 669,
+  "source_url": "https://sourcelibrary.org/book/6992595d3d2d40d1b058d41f",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "tetonsioux00lcdens"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T18:50:40.571Z",
+  "_hashes": {
+    "ocr": "9acca4f9370955db",
+    "translation": "7d08050f76f4dfea"
+  }
+}
