@@ -1,14 +1,14 @@
 {
   "id": "6985ca74c3d506385a1383b8",
   "title": "Recueil précieux de la maçonnerie adonhiramite",
-  "display_title": "Recueil précieux de la maçonnerie adonhiramite",
+  "display_title": "Precious Collection of Adonhiramite Masonry",
   "author": "[Guillemain de Saint-Victor, Louis]",
   "language": "French",
   "year": 1787,
   "published": "1787-1803",
   "pages_count": 192,
-  "pages_with_ocr": 10,
-  "pages_with_translation": 5,
+  "pages_with_ocr": 192,
+  "pages_with_translation": 184,
   "source_url": "https://sourcelibrary.org/book/6985ca74c3d506385a1383b8",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v4.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:31:06.843Z",
+  "synced_at": "2026-03-08T05:00:26.754Z",
   "_hashes": {
-    "ocr": "b2f953e745edeb68",
-    "translation": "67dbaef1f35a5cc0"
+    "ocr": "1b347b7b24061ad6",
+    "translation": "662bd78cd9cbcb3a"
   }
 }
