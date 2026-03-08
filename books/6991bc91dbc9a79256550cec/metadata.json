@@ -1,0 +1,28 @@
+{
+  "id": "6991bc91dbc9a79256550cec",
+  "title": "Memory: How to Develop, Train, and Use It",
+  "display_title": "Memory: How to Develop, Train, and Use It",
+  "author": "William Walker Atkinson",
+  "language": "English",
+  "year": 1907,
+  "published": "Unknown",
+  "pages_count": 217,
+  "pages_with_ocr": 217,
+  "pages_with_translation": 4,
+  "source_url": "https://sourcelibrary.org/book/6991bc91dbc9a79256550cec",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "memoryhowtodeve00atkigoog"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T22:31:23.891Z",
+  "_hashes": {
+    "ocr": "c145824eb3762050",
+    "translation": "b93a775a5cd99169"
+  }
+}
