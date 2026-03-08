@@ -1,0 +1,28 @@
+{
+  "id": "6991bcfb879c23a0fef51e71",
+  "title": "Memory Culture",
+  "display_title": "Memory Culture",
+  "author": "William Walker Atkinson",
+  "language": "English",
+  "year": 1909,
+  "published": "Unknown",
+  "pages_count": 122,
+  "pages_with_ocr": 122,
+  "pages_with_translation": 1,
+  "source_url": "https://sourcelibrary.org/book/6991bcfb879c23a0fef51e71",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "rkas.1937.memoryculture0000will"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T22:31:18.246Z",
+  "_hashes": {
+    "ocr": "b5417a2809f4e346",
+    "translation": "665a8c4bfff74994"
+  }
+}
