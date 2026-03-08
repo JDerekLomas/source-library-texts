@@ -1,0 +1,28 @@
+{
+  "id": "69906afb0032f6095a607ce1",
+  "title": "Traité sur les Apparitions des Esprits et sur les Vampires, Vol. I",
+  "display_title": "Traité sur les Apparitions des Esprits et sur les Vampires, Vol. I",
+  "author": "Augustin Calmet",
+  "language": "French",
+  "year": 1751,
+  "published": "Unknown",
+  "pages_count": 453,
+  "pages_with_ocr": 453,
+  "pages_with_translation": 449,
+  "source_url": "https://sourcelibrary.org/book/69906afb0032f6095a607ce1",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "per_witchcraft-in-europe-and-america_calmet-augustin_1759_1_189"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T17:30:28.707Z",
+  "_hashes": {
+    "ocr": "1d4ff9749323b4bd",
+    "translation": "e2e5449ee4ac7c7c"
+  }
+}
