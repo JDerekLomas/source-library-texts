@@ -7,8 +7,8 @@
   "year": 1927,
   "published": "1927",
   "pages_count": 395,
-  "pages_with_ocr": 10,
-  "pages_with_translation": 10,
+  "pages_with_ocr": 395,
+  "pages_with_translation": 395,
   "source_url": "https://sourcelibrary.org/book/695591ca7bd6d2cd1d6198e4",
   "license": "http://creativecommons.org/publicdomain/mark/1.0/",
   "doi": null,
@@ -20,9 +20,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:30:13.722Z",
+  "synced_at": "2026-03-08T16:12:14.391Z",
   "_hashes": {
-    "ocr": "8310fa1913ba1361",
-    "translation": "c7cf5b7fda161621"
+    "ocr": "62cdea1157b9aa9d",
+    "translation": "9328b861300cabbc"
   }
 }
