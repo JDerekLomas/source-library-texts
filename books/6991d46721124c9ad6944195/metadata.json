@@ -1,0 +1,28 @@
+{
+  "id": "6991d46721124c9ad6944195",
+  "title": "Tantraraja Tantra",
+  "display_title": "Tantraraja Tantra",
+  "author": "ed. Woodroffe/Mishra",
+  "language": "Sanskrit",
+  "year": 1926,
+  "published": "1926",
+  "pages_count": 396,
+  "pages_with_ocr": 396,
+  "pages_with_translation": 376,
+  "source_url": "https://sourcelibrary.org/book/6991d46721124c9ad6944195",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "tantrarajatantra01mishuoft"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T16:30:25.420Z",
+  "_hashes": {
+    "ocr": "78bf71a8586715e8",
+    "translation": "af8ece7c53d5beff"
+  }
+}
