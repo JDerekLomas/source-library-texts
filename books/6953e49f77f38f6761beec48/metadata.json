@@ -1,0 +1,28 @@
+{
+  "id": "6953e49f77f38f6761beec48",
+  "title": "Tabulae Rudolphinae - Astronomical Tables",
+  "display_title": "Tabulae Rudolphinae - Astronomical Tables",
+  "author": "Johannes Kepler; Tycho Brahe",
+  "language": "Latin",
+  "year": 1627,
+  "published": "Unknown",
+  "pages_count": 276,
+  "pages_with_ocr": 276,
+  "pages_with_translation": 266,
+  "source_url": "https://sourcelibrary.org/book/6953e49f77f38f6761beec48",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "tabulaerudolphin00kepl"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T11:10:53.265Z",
+  "_hashes": {
+    "ocr": "d12d0c49308c84ae",
+    "translation": "da2fed920e63bacf"
+  }
+}
