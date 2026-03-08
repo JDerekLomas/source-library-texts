@@ -6,9 +6,9 @@
   "language": "Dutch",
   "year": 1662,
   "published": "1662",
-  "pages_count": 174,
-  "pages_with_ocr": 174,
-  "pages_with_translation": 172,
+  "pages_count": 171,
+  "pages_with_ocr": 171,
+  "pages_with_translation": 169,
   "source_url": "https://sourcelibrary.org/book/69804b901fb2ba7cf1d43a1e",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v4.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-03-05T05:00:31.516Z",
+  "synced_at": "2026-03-08T00:20:41.090Z",
   "_hashes": {
-    "ocr": "3125b6352b70f64d",
-    "translation": "3e7887603231ba3f"
+    "ocr": "e825d9c056b588ed",
+    "translation": "711c36ce2094170f"
   }
 }
