@@ -1,0 +1,28 @@
+{
+  "id": "695580ac57e3b773024f5c37",
+  "title": "Confucian Cosmogony",
+  "display_title": "Confucian Cosmogony",
+  "author": "Zhu Xi",
+  "language": "Chinese",
+  "year": 1874,
+  "published": "1874",
+  "pages_count": 192,
+  "pages_with_ocr": 172,
+  "pages_with_translation": 166,
+  "source_url": "https://sourcelibrary.org/book/695580ac57e3b773024f5c37",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "cu31924023157765"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T13:21:15.463Z",
+  "_hashes": {
+    "ocr": "ddcd4f1a06f5eb67",
+    "translation": "226278271fbd5da8"
+  }
+}
