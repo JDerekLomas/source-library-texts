@@ -1,0 +1,26 @@
+{
+  "id": "6991d8ac8c1030b12444c781",
+  "title": "Kriyakandakramavali",
+  "display_title": "Kriyākāṇḍakramāvalī (MS Add.1406)",
+  "author": "Somaśambhu",
+  "language": "Sanskrit",
+  "year": 1000,
+  "published": "1000",
+  "pages_count": 156,
+  "pages_with_ocr": 156,
+  "pages_with_translation": 155,
+  "source_url": "https://sourcelibrary.org/book/6991d8ac8c1030b12444c781",
+  "license": "CC-BY-NC-4.0",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T16:30:58.677Z",
+  "_hashes": {
+    "ocr": "1022a1db800cf474",
+    "translation": "68e2361de9b9a1ab"
+  }
+}
