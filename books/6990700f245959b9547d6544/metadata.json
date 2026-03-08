@@ -1,0 +1,28 @@
+{
+  "id": "6990700f245959b9547d6544",
+  "title": "De Arte Cyclognomica Tomi III",
+  "display_title": "De Arte Cyclognomica Tomi III",
+  "author": "Cornelius Gemma",
+  "language": "Latin",
+  "year": 1569,
+  "published": "Unknown",
+  "pages_count": 485,
+  "pages_with_ocr": 485,
+  "pages_with_translation": 2,
+  "source_url": "https://sourcelibrary.org/book/6990700f245959b9547d6544",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "BIUSante_07771"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T22:11:28.639Z",
+  "_hashes": {
+    "ocr": "caad8f1d1f99cda6",
+    "translation": "d4a64ec0a625b580"
+  }
+}
