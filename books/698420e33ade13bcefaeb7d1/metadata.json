@@ -1,0 +1,26 @@
+{
+  "id": "698420e33ade13bcefaeb7d1",
+  "title": "Omnia quae extant opera",
+  "display_title": "Complete Works of Giovanni Pico della Mirandola",
+  "author": "Pico della Mirandola, Giovanni",
+  "language": "Latin",
+  "year": 1557,
+  "published": "1557",
+  "pages_count": 380,
+  "pages_with_ocr": 352,
+  "pages_with_translation": 345,
+  "source_url": "https://sourcelibrary.org/book/698420e33ade13bcefaeb7d1",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T13:50:06.337Z",
+  "_hashes": {
+    "ocr": "a9723c7640a60ba2",
+    "translation": "75f40868373c437d"
+  }
+}
