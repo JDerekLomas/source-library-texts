@@ -1,0 +1,26 @@
+{
+  "id": "69906f584b3bd4d1fffd0672",
+  "title": "Herbarium / Liber medicinae ex animalibus",
+  "display_title": "Bodleian Library MS. Bodl. 130",
+  "author": "Pseudo-Apuleius; Pseudo-Dioscorides; Sextus Placitus",
+  "language": "Latin",
+  "year": 1095,
+  "published": "1095",
+  "pages_count": 197,
+  "pages_with_ocr": 197,
+  "pages_with_translation": 2,
+  "source_url": "https://sourcelibrary.org/book/69906f584b3bd4d1fffd0672",
+  "license": "CC-BY-NC-4.0",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T22:01:15.653Z",
+  "_hashes": {
+    "ocr": "346b9609b7ff8d10",
+    "translation": "d15fdc353059fe0c"
+  }
+}
