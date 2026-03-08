@@ -1,0 +1,26 @@
+{
+  "id": "69906ed98a353648e1ed08a9",
+  "title": "Compendium astrologicum",
+  "display_title": "Pal.lat.1369",
+  "author": "Hermes Trismegistus, Albumasar, Messahallah, Thebit ben Corat, et al.",
+  "language": "Latin",
+  "year": 1444,
+  "published": "1444",
+  "pages_count": 338,
+  "pages_with_ocr": 338,
+  "pages_with_translation": 2,
+  "source_url": "https://sourcelibrary.org/book/69906ed98a353648e1ed08a9",
+  "license": "CC-BY-NC-4.0",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T22:01:19.122Z",
+  "_hashes": {
+    "ocr": "6247dada635605a5",
+    "translation": "4f1ffea284ea493e"
+  }
+}
