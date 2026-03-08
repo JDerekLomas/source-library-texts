@@ -1,14 +1,14 @@
 {
   "id": "698255f11c400b7689a9d39a",
   "title": "Von den natürlichen unnd ubernatürlichen Dingen",
-  "display_title": "Von den natürlichen unnd ubernatürlichen Dingen",
+  "display_title": "Of Natural and Supernatural Things",
   "author": "Basilius Valentinus",
   "language": "German",
   "year": 1603,
   "published": "1603",
   "pages_count": 156,
-  "pages_with_ocr": 10,
-  "pages_with_translation": 7,
+  "pages_with_ocr": 156,
+  "pages_with_translation": 149,
   "source_url": "https://sourcelibrary.org/book/698255f11c400b7689a9d39a",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v4.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:30:47.853Z",
+  "synced_at": "2026-03-08T02:20:32.532Z",
   "_hashes": {
-    "ocr": "583db2cc4f41da22",
-    "translation": "5197ae270aeca8a5"
+    "ocr": "f3408acd9dea5ab8",
+    "translation": "ea7c64fb5eea6c69"
   }
 }
