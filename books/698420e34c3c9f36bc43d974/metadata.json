@@ -1,0 +1,26 @@
+{
+  "id": "698420e34c3c9f36bc43d974",
+  "title": "Odyssea. Das seind die aller zierlichsten und lustigsten vier und zwaintzig bücher",
+  "display_title": "The Odyssey",
+  "author": "Homerus",
+  "language": "German",
+  "year": 1537,
+  "published": "1537",
+  "pages_count": 248,
+  "pages_with_ocr": 248,
+  "pages_with_translation": 242,
+  "source_url": "https://sourcelibrary.org/book/698420e34c3c9f36bc43d974",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T03:20:30.329Z",
+  "_hashes": {
+    "ocr": "8b885e01cc868955",
+    "translation": "8be1a43482cd7c9d"
+  }
+}
