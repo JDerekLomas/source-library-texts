@@ -6,9 +6,9 @@
   "language": "Latin",
   "year": 1612,
   "published": "1612",
-  "pages_count": 660,
-  "pages_with_ocr": 660,
-  "pages_with_translation": 3,
+  "pages_count": 659,
+  "pages_with_ocr": 659,
+  "pages_with_translation": 639,
   "source_url": "https://sourcelibrary.org/book/6980941f08ed39e7ae2ef412",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v4.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-03-05T05:10:30.489Z",
+  "synced_at": "2026-03-08T17:41:22.959Z",
   "_hashes": {
-    "ocr": "fcb7c28c7ff2a686",
-    "translation": "f4814a14b538e80d"
+    "ocr": "871944e67fc4e5e1",
+    "translation": "bd41145c18b27c7a"
   }
 }
