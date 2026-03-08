@@ -1,0 +1,28 @@
+{
+  "id": "69935b318e28d8f4c5d3c9da",
+  "title": "Iḥyāʾ ʿUlūm al-Dīn (Revival of the Religious Sciences)",
+  "display_title": "Iḥyāʾ ʿUlūm al-Dīn (Revival of the Religious Sciences)",
+  "author": "Abū Ḥāmid al-Ghazālī",
+  "language": "Arabic",
+  "year": 1888,
+  "published": "1888",
+  "pages_count": 426,
+  "pages_with_ocr": 240,
+  "pages_with_translation": 7,
+  "source_url": "https://sourcelibrary.org/book/69935b318e28d8f4c5d3c9da",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "AAlexandrina-057348"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T23:50:50.483Z",
+  "_hashes": {
+    "ocr": "2c7ba6d16362e526",
+    "translation": "dc630e1f8fbb931a"
+  }
+}
