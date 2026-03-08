@@ -1,14 +1,14 @@
 {
   "id": "697b0799a12a626fbfe93ae4",
   "title": "[Greek] Evangelicae praeparationis",
-  "display_title": "[Greek] Evangelicae praeparationis",
+  "display_title": "Preparation for the Gospel",
   "author": "Eusebius Caesariensis",
   "language": "Greek",
   "year": 1544,
   "published": "1544",
-  "pages_count": 1006,
-  "pages_with_ocr": 10,
-  "pages_with_translation": 7,
+  "pages_count": 1004,
+  "pages_with_ocr": 1002,
+  "pages_with_translation": 984,
   "source_url": "https://sourcelibrary.org/book/697b0799a12a626fbfe93ae4",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:30:26.884Z",
+  "synced_at": "2026-03-08T10:10:45.135Z",
   "_hashes": {
-    "ocr": "16600ad1639a66ad",
-    "translation": "192e73bf5bcf442b"
+    "ocr": "9806898fbdbb6ca6",
+    "translation": "f4d0e6e318fcd6cf"
   }
 }
