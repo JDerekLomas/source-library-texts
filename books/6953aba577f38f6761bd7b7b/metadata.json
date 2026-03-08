@@ -7,8 +7,8 @@
   "year": 1450,
   "published": "15th century",
   "pages_count": 432,
-  "pages_with_ocr": 10,
-  "pages_with_translation": 10,
+  "pages_with_ocr": 432,
+  "pages_with_translation": 421,
   "source_url": "https://sourcelibrary.org/book/6953aba577f38f6761bd7b7b",
   "license": "CC-BY-NC-4.0",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:30:37.782Z",
+  "synced_at": "2026-03-08T06:30:26.616Z",
   "_hashes": {
-    "ocr": "bbe3577712bd105b",
-    "translation": "e89cd35099a8931e"
+    "ocr": "09ee77fa442b38c9",
+    "translation": "9772f5f22fe0dc06"
   }
 }
