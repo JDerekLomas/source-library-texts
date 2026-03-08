@@ -1,14 +1,14 @@
 {
   "id": "698255ef2882fc99ba22a711",
   "title": "Metamorphosis planetarum. Das ist: Eine wunderbahrliche Veränderung der Planeten",
-  "display_title": "Metamorphosis planetarum. Das ist: Eine wunderbahrliche Veränderung der Planeten",
+  "display_title": "Metamorphosis of the Planets",
   "author": "Monte-Snyders, Johannes de",
   "language": "Latin-German",
   "year": 1774,
   "published": "1774",
   "pages_count": 206,
-  "pages_with_ocr": 10,
-  "pages_with_translation": 1,
+  "pages_with_ocr": 206,
+  "pages_with_translation": 191,
   "source_url": "https://sourcelibrary.org/book/698255ef2882fc99ba22a711",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v4.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:30:45.704Z",
+  "synced_at": "2026-03-08T02:00:34.573Z",
   "_hashes": {
-    "ocr": "f57d9ad4c067eb51",
-    "translation": "6a40d32338eed5b3"
+    "ocr": "c0227ecb80847409",
+    "translation": "00d774b5db8035c0"
   }
 }
