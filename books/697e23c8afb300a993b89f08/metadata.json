@@ -6,9 +6,9 @@
   "language": "Dutch",
   "year": 1765,
   "published": "1765",
-  "pages_count": 488,
-  "pages_with_ocr": 488,
-  "pages_with_translation": 461,
+  "pages_count": 479,
+  "pages_with_ocr": 479,
+  "pages_with_translation": 452,
   "source_url": "https://sourcelibrary.org/book/697e23c8afb300a993b89f08",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v4.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-03-05T04:00:25.593Z",
+  "synced_at": "2026-03-08T12:00:33.965Z",
   "_hashes": {
-    "ocr": "40c3f410303f22af",
-    "translation": "02fd806bbfbc3a35"
+    "ocr": "6a5f7a539b2ee3f9",
+    "translation": "9c70cb34fbf56dc1"
   }
 }
