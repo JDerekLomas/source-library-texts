@@ -1,14 +1,14 @@
 {
   "id": "698255f0571a901a01ef5a1c",
   "title": "Das mineralische Gluten",
-  "display_title": "Das mineralische Gluten",
+  "display_title": "The Mineral Glue",
   "author": "[Walchin, Dorothea Juliana]",
   "language": "German",
   "year": 1763,
   "published": "1763",
   "pages_count": 526,
-  "pages_with_ocr": 10,
-  "pages_with_translation": 0,
+  "pages_with_ocr": 526,
+  "pages_with_translation": 501,
   "source_url": "https://sourcelibrary.org/book/698255f0571a901a01ef5a1c",
   "license": "publicdomain",
   "doi": null,
@@ -16,11 +16,11 @@
   "processing": {
     "ocr_model": "gemini-3-flash-preview",
     "prompt_version": "v4.2026-02",
-    "translation_model": null
+    "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:30:48.564Z",
+  "synced_at": "2026-03-08T02:20:28.661Z",
   "_hashes": {
-    "ocr": "1676e6ad1231cda2",
-    "translation": "e3b0c44298fc1c14"
+    "ocr": "22a2c9bb892bbe07",
+    "translation": "a6e8b5f69b907517"
   }
 }
