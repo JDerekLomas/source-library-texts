@@ -1,0 +1,28 @@
+{
+  "id": "6992597c3d2d40d1b058fa83",
+  "title": "Zuni Breadstuff",
+  "display_title": "Zuni Breadstuff",
+  "author": "Frank Hamilton Cushing",
+  "language": "English",
+  "year": 1920,
+  "published": "Unknown",
+  "pages_count": 740,
+  "pages_with_ocr": 739,
+  "pages_with_translation": 703,
+  "source_url": "https://sourcelibrary.org/book/6992597c3d2d40d1b058fa83",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "zuibreadstuff00cus"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T17:20:53.660Z",
+  "_hashes": {
+    "ocr": "c5f543ee2817e959",
+    "translation": "e7464b11d2890081"
+  }
+}
