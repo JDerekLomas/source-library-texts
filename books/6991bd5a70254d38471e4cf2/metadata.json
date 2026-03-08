@@ -1,0 +1,28 @@
+{
+  "id": "6991bd5a70254d38471e4cf2",
+  "title": "Mesmerism in India",
+  "display_title": "Mesmerism in India",
+  "author": "James Esdaile",
+  "language": "English",
+  "year": 1846,
+  "published": "Unknown",
+  "pages_count": 130,
+  "pages_with_ocr": 130,
+  "pages_with_translation": 38,
+  "source_url": "https://sourcelibrary.org/book/6991bd5a70254d38471e4cf2",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "63721400R.nlm.nih.gov"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T22:30:57.786Z",
+  "_hashes": {
+    "ocr": "c57d3c233a5bc9d1",
+    "translation": "a467f868597ac6eb"
+  }
+}
