@@ -1,0 +1,28 @@
+{
+  "id": "69907000245959b9547d606e",
+  "title": "Perspectiva",
+  "display_title": "Perspectiva",
+  "author": "Roger Bacon; ed. Johannes Combach",
+  "language": "Latin",
+  "year": 1614,
+  "published": "Unknown",
+  "pages_count": 262,
+  "pages_with_ocr": 262,
+  "pages_with_translation": 4,
+  "source_url": "https://sourcelibrary.org/book/69907000245959b9547d606e",
+  "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bub_gb_etV-nr4cJdEC"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T22:11:43.313Z",
+  "_hashes": {
+    "ocr": "c0a06031e0884373",
+    "translation": "e168b19aa6eff1e8"
+  }
+}
