@@ -232,6 +232,50 @@ Below the abacus, a flow chart explains the positioning:
 
 <vocab>穀, 石, 斗, 升, 碾米, 實, 法, 四歸, 還原</vocab>
 
+--- Page 9 ---
+<language>Chinese</language>
+<page-type>text</page-type>
+<header>算法統宗 卷之二</header>
+<page-num>四</page-num>
+
+<image-desc>
+This page from the "Suanfa Tongzong" (General Source of Computational Methods) depicts mathematical mnemonics for abacus calculations. 
+The right section contains a series of vertical columns with circled characters (九, 吝, 早, 靑) representing numbers or positions in a calculation. Below these are chants (e.g., "五九四十五") and instructions for shifting values on the abacus ("變九爲五 下位加五"). 
+A boxed note labeled "定位" (Positioning) explains how to track decimal places or units like 'dǒu' (斗). 
+Small text annotations explain unit conversions (石 to 斗). 
+The center section lists "倍作" rules (doubling rules used for division by 5) and mentions "還原" (restoration/inverse calculation). 
+The left section presents a practical word problem regarding the total cost of 33,569 cedar logs priced at 6 fen (銀六分) each.
+</image-desc>
+
+實
+尾 (九) 起呼 五九四十五 變九爲五 下位加五
+<insert>
+定位
+是斗也圓向前逆
+睦合得
+</insert>
+(吝) 呼 五六得三十 變六爲三
+<gloss>(石) 法上是每石硃五斗遇石即止下一位是斗也</gloss>
+(早) 呼 五四得二十 變四爲二
+<gloss>(十)</gloss>
+實 首 (靑) 呼 五二得一十 變二爲一
+<gloss>原 (百) 起呼百往後 順數至石得 合 (百)</gloss>
+<gloss>(井) (𠦄) (石) (十) (百)</gloss>
+
+---
+
+->還原 用五歸 法詳後<-
+
+五一倍作二　　五二倍作四　　五三倍作六
+五四倍作八　　逢五進一十
+
+---
+
+假如今有杉木三萬三千五百六十九根每根價銀六分
+問共該銀若干
+
+<vocab>算法統宗, 杉木, 定位, 還原, 用五歸, 倍作, 珠算</vocab>
+
 --- Page 10 ---
 <language>Classical Chinese</language>
 <page-type>text</page-type>

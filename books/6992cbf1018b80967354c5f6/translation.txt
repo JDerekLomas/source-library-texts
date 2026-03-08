@@ -282,6 +282,48 @@ Multiply
 
 <keywords>grain milling, abacus mnemonics, division by four, shi, dou, sheng, volume conversion, arithmetic shortcuts</keywords>
 
+--- Page 9 ---
+<meta>This page continues the instructional guide for abacus calculations from the "General Source of Computational Methods." While the previous page focused on division by four and grain conversion, this page provides mnemonics for multiplying by five (equivalent to dividing by two in decimal placement) and introduces "doubling rules" for division by five. It concludes with a practical commercial problem regarding timber sales.</meta>
+
+# General Source of Computational Methods, Volume 2
+## Page Four
+
+**Dividend** <note>original: 實 (shí); the number being operated upon.</note>
+**Tail** (Nine) Start the chant: Five times nine is forty-five; change the nine to a five, and add five to the position below.
+<insert>
+**Positioning**
+This is the *dou* <note>A "peck," 1/10th of a *shi*.</note> unit; the circle moves backwards to determine the place. Harmonize and obtain the result.
+</insert>
+(Six) <note>original: 吝 (lìn); here used as a mnemonic marker for the digit six.</note> Chant: Five times six gives thirty; change the six to a three.
+<gloss>(Stone) <note>original: 石 (shí); a unit of weight/volume.</note> In this method, there are five *dou* of cinnabar for every *shi*. Stop at the *shi* position; the next position down is the *dou*.</gloss>
+(Four) <note>original: 早 (zǎo); here used as a mnemonic marker for the digit four.</note> Chant: Five times four gives twenty; change the four to a two.
+<gloss>(Tens)</gloss>
+**Head of the Dividend** (Two) <note>original: 靑 (qīng); here used as a mnemonic marker for the digit two.</note> Chant: Five times two gives ten; change the two to a one.
+<gloss>Original (Hundreds): Start the chant from the hundreds and move backward. Count in order until the *shi* is reached to match the (Hundreds).</gloss>
+<gloss>(Unit) (Ten) (Stone) (Tens) (Hundreds)</gloss>
+
+---
+
+->Restoration: Use the <term>Five-Return Method</term> <note>original: 五歸 (wǔ guī); the inverse operation or division by five.</note>. Details follow later.<-
+
+### Table of Doubling Rules
+<note>These rules are used for division by 5; since dividing by 5 is the same as multiplying by 2 and shifting the decimal.</note>
+
+For five-one, double it to make two. <note>1 ÷ 5 = 0.2</note>
+For five-two, double it to make four. <note>2 ÷ 5 = 0.4</note>
+For five-three, double it to make six. <note>3 ÷ 5 = 0.6</note>
+For five-four, double it to make eight. <note>4 ÷ 5 = 0.8</note>
+When meeting five, advance ten. <note>5 ÷ 5 = 1.0; move to the next rod on the abacus.</note>
+
+---
+
+Suppose there are currently 33,569 logs of <term>cedar wood</term> <note>original: 杉木 (shānmù); specifically the Cunninghamia lanceolata, widely used in Chinese construction.</note>. Each log is priced at 6 <term>fen</term> <note>A unit of silver currency, often called a "candareen" in Western historical contexts; 100 fen equal 1 tael (liang).</note> of silver.
+Question: What is the total amount of silver required?
+
+<summary>This page outlines abacus mnemonics for calculations involving the number five, including multiplication shortcuts and doubling rules for division. It features a practical word problem for calculating the total cost of over 33,000 cedar logs.</summary>
+
+<keywords>abacus mnemonics, Suanfa Tongzong, multiplication by five, doubling rules, cedar wood trade, silver currency, positioning methods</keywords>
+
 --- Page 10 ---
 <meta>This page continues the mathematical demonstrations from the previous section of the "General Source of Computational Methods," specifically focusing on multiplication involving currency and units of measurement. The layout reflects a traditional Chinese mathematical textbook with instructional text followed by a calculation grid.</meta>
 
@@ -3051,3 +3093,504 @@ Systematic Treatise on Arithmetic
 
 <summary>This page introduces the principles of proportional distribution (Chafen), providing a mnemonic for the "Rule of Three" and a practical example of dividing woven silk between two neighbors based on their contributions of raw material.</summary>
 <keywords>Proportional Distribution, Chafen, Suanfa Tongzong, textiles, catties and taels, abacus calculation, Ming dynasty mathematics</keywords>
+
+--- Page 85 ---
+<meta>Continuity: This page concludes the calculation for the silk distribution problem started on the previous page and introduces a new word problem involving a four-way business partnership.</meta>
+
+Use seven catties <term>jin</term> as the **divisor** <term>fa</term> to divide it, obtaining 2 zhang, 9 chi, and 0.6 fen as the **rule** <term>faze</term>. Separately, use five catties as the divisor to divide it, obtaining 6 li, 6 hao, and 6 si.
+
+Regarding the weight of the colored silk provided by the East and West neighbors: keeping the catty amounts unchanged, convert the taels <term>liang</term>. For the East neighbor's 6 taels, change it to .375. <note>original: "三五七" (357). This appears to be a slight transcription error for .375, as 6 taels is 6/16 of a catty, which equals 0.375 in decimal form.</note> For the West neighbor's 2 taels, change it to .125. <note>2 taels is 2/16 of a catty, which equals 0.125.</note>
+
+Combine the original catties as the **dividend** <term>shi</term> and multiply them to satisfy the requirements of the question.
+
+### Business Partnership Problem
+
+Suppose there are four people—Yuan, Heng, Li, and Zhen—who pool their capital to manage a business. <note>Yuan, Heng, Li, and Zhen are the first four characters of the *I Ching*; they are used here as placeholders similar to "Person A, B, C, and D."</note>
+
+Yuan contributes 20 taels of capital silver.
+Heng contributes 30 taels of capital silver.
+Li contributes 40 taels of capital silver.
+Zhen contributes 50 taels of capital silver.
+The total capital is 140 taels.
+
+By the end of the year, they have earned a total profit of 70 taels of silver. The question is: how much profit is due to each person?
+
+| Answer: | Yuan | Profit due: | 10 taels |
+| :--- | :--- | :--- | :--- |
+| | **Heng** | **Profit due:** | **15 taels** |
+| | **Li** | **Profit due:** | **20 taels** |
+
+<meta>The text continues to the left, but the final column for 'Zhen' is partially cut off or follows on the next page. Based on the ratio, Zhen's share would be 25 taels.</meta>
+
+<summary>This page provides instructions for converting traditional weights into decimal form for easier calculation and introduces a classic "Proportional Distribution" problem involving four business partners sharing profits based on their initial investment.</summary>
+
+<keywords>proportional distribution, Chafen, decimal conversion, business partnership, profit sharing, taels, catties, I Ching placeholders</keywords>
+
+--- Page 86 ---
+<meta>Continuity: This page provides the mathematical rule for the partnership problem involving Yuan, Heng, Li, and Zhen from the previous page, then introduces a more complex partnership problem involving investments made at different times of the year.</meta>
+
+The **rule** <term>fa</term> says: set the profit silver <gloss>70 taels</gloss> as the **dividend** <term>shi</term>. Use the <gloss>four people’s</gloss> total capital of <gloss>140 taels</gloss> as the **divisor** <term>fa</term>. Dividing these yields <gloss>5 mace</gloss> <note>10 mace (qian) equal 1 tael (liang).</note> as the profit earned per tael of capital. Use this value as a constant multiplier to multiply each person's original capital to arrive at the required answers.
+
+### Partnership with Staggered Investments
+
+Suppose now there are three people—Jia, Yi, and Bing—who enter into a business partnership. <note>Jia, Yi, and Bing are the first three "Heavenly Stems," used here as placeholders for "Person A, B, and C."</note> Because each person’s capital amount is different and they were paid in at different times: 
+
+Jia paid in 70 taels of capital in the first month; 
+Yi paid in 80 taels of capital in the fourth month; 
+Bing paid in 90 taels of capital in the seventh month. 
+
+The <gloss>three people’s</gloss> total capital is 240 taels. By the end of the year, they have earned a profit of 70 taels. The question is: how much profit is due to each person?
+
+| Answer: | Jia | Profit due: | 28 taels |
+| :--- | :--- | :--- | :--- |
+| | Yi | Profit due: | 24 taels |
+| | Bing | Profit due: | 18 taels |
+
+<margin>
+Zhen: Profit due, 25 taels <note>This marginal note completes the calculation for the fourth partner, Zhen, from the problem on the previous page.</note>
+</margin>
+
+<summary>This page explains the "per-tael" profit calculation for a basic partnership and introduces a "weighted" partnership problem where profit is distributed based on both the amount of capital and the duration it was invested.</summary>
+
+<keywords>profit distribution, partnership, capital, Jia Yi Bing, tael, mace, dividend, divisor</keywords>
+
+--- Page 87 ---
+<meta>Continuity: This page continues the calculation for the staggered partnership problem introduced on the previous page, where three partners (Jia, Yi, and Bing) invested different amounts of capital at different times of the year.</meta>
+
+The **rule** <term>fa; the method</term> says: set the profit silver of 70 taels as the **dividend** <term>shi; the number to be divided</term>. Separately, take Person Jia’s capital of 70 taels and multiply it by the 12 months <gloss>the duration of the investment</gloss> to get a weighted value of 840. Next, take Person Yi’s capital of 80 taels and multiply it by 9 months to get 720. Then, take Person Bing’s capital of 90 taels and multiply it by 6 months to get 540. Summing these three weighted values yields a total of 2,100, which serves as the **divisor** <term>fa; the number to divide by</term>. Dividing the dividend by the divisor yields 3 mace, 3 candareens, 3 cash, 3 mils, and 3 tenths. <note>In the decimal currency system of the time, 10 mace (qian) equal 1 tael (liang). The result of 70 ÷ 2,100 is 0.0333... taels; the text expresses this as 3.333... mace, likely by shifting the decimal for easier abacus calculation.</note> This figure represents the profit earned per tael of capital per month. Use this value as a constant multiplier: 
+
+*   Multiply it by Jia’s weighted total of 840 to find a profit of **28 taels**. 
+*   Multiply it by Yi’s weighted total of 720 to find a profit of **24 taels**. 
+*   Multiply it by Bing’s weighted total of 540 to find a profit of **18 taels**. 
+
+This matches the inquiry.
+
+->This is the method of proportional sharing by multiplying [capital by time], summing the products to create a divisor, and then multiplying the resulting rate by the individual shares.<-
+
+Suppose now a person borrows 260 taels of silver at an annual interest rate of 30 percent <gloss>literally "adding three"</gloss>. If the duration of the loan is 10 months and 24 days, how much interest is owed?
+
+**The answer is:** 70 taels and 2 mace. <note>Based on a standard 360-day mathematical year (12 months of 30 days), 10 months and 24 days is 324 days. The calculation is 260 × 0.30 × (324/360) = 70.2 taels.</note>
+
+<summary>This page concludes the weighted partnership calculation using a "capital-times-time" method and introduces a simple interest problem involving a loan of 260 taels.</summary>
+<keywords>proportional sharing, weighted average, capital and time, interest calculation, taels and mace, dividend and divisor</keywords>
+
+--- Page 88 ---
+<meta>Continuity: This page continues from the previous problem regarding a loan of 260 taels of silver. It provides the specific mathematical steps to calculate the interest accrued over a period of 10 months and 24 days at an annual rate of 30%.</meta>
+
+The **rule** <term>fa; the method</term> states: First, take the **24 days** <gloss>the fractional part of the duration</gloss> and apply the **three-reduction division** <gloss>sangui; a standard abacus technique for dividing by 3 or 30</gloss> to obtain **8** [tenths of a month]. Place this result one position below the months. Then, using **12** <note>The transcription reads '20', but mathematical context confirms this must be 12 months per year.</note> to divide the total [10.8 months], you obtain **9** [tenths] as the year-count. Multiply the original capital [of 260 taels] by this year-count to obtain **234 taels**, which serves as the **dividend** <term>shi; the value to be operated upon</term>. Using the annual interest rate of "adding three" [30%] as the **multiplier** <term>fa</term>, multiply it by the dividend to satisfy the inquiry. <note>260 taels × (10.8 months / 12 months) × 30% interest = 260 × 0.9 × 0.3 = 70.2 taels of interest.</note>
+
+The **explanation** states: Generally, calculating years, months, and days is similar in principle to the **weight conversion method** <term>jinfa; the method for converting taels to catties</term> known as "subtracting six." <note>In traditional Chinese weights, 1 catty (jin) equals 16 taels. The "subtract six" rule was a mnemonic for dividing by 16 on the abacus.</note> Just as one catty is sixteen taels, one year is twelve months, and one month is thirty days. Therefore, one first uses the "three-reduction" to merge the days into the months, and afterward uses twelve to divide the months into a year-count. By multiplying the original capital of each person by this value, the result is obtained. <gloss>All others follow this example.</gloss> The diagram is presented to the left:
+
+---
+
+### Template for Converting Days and Months into Year-Values on the Calculation Board
+
+<margin>Method: Three-reduction division</margin> To find the number of months.
+<margin>Method: Afterward, divide by **12** <gloss>the transcription '2-30' likely refers to 12 months and 30 days</gloss> to find the year-count.</margin>
+
+-> ( 4 ) <-
+<note>This represents a position on the calculation board or abacus.</note>
+
+When reaching six, advance twenty. <gloss>Clear the current position entirely and advance two to the left.</gloss> <note>This refers to the base-16 conversion rule for catties and taels, used here as a mnemonic analogy for handling non-decimal units like months and years.</note>
+
+**Technical Terms:**
+*   **Three-reduction division** <term>sangui</term>: An abacus rule where dividing by 3 is used to convert 30 days into tenths of a month.
+*   **Calculation Board** <term>dingpan</term>: The physical layout of the abacus or counting board used to set up the problem.
+*   **Years, Months, Days** <term>nian-yue-ri</term>: The units of time used to calculate pro-rated interest.
+*   **Weight Conversion Method** <term>jinfa</term>: Specifically the base-16 system used for silver and goods.
+*   **Dividend** <term>shi</term>: The base number in a multiplication or division problem.
+*   **Multiplier/Divisor** <term>fa</term>: The operator or rate applied to the dividend.
+
+<summary>This page explains how to convert a specific duration of time (10 months and 24 days) into a decimal year-value (0.9) to calculate interest on a loan. It draws a mathematical parallel between time units and traditional weight units to help the user remember the calculation steps.</summary>
+<keywords>interest calculation, abacus methods, sangui (three-reduction), time conversion, financial mathematics, Qing dynasty units</keywords>
+
+--- Page 89 ---
+<meta>Continuity: This page transitions from the general rules of calculating interest based on time to a complex practical application involving a business partnership. While the previous page dealt with a single loan, this page introduces a "partnership distribution" problem (hehuo) where four partners invest different amounts at different times, requiring weighted calculations to distribute a total profit of 120 taels.</meta>
+
+# General Source of Computational Methods, Volume 2
+
+<margin>
+Return by twenty <note>gui ershi; an abacus mnemonic for dividing by 12 or 20</note>
+Dividend begins
+</margin>
+3 2 1 6 12 <gloss>Change 2 to 6; add 2 to the right position</gloss> <margin>Position 8</margin>
+
+---
+
+<margin>
+Month
+</margin>
+Two [times] nine divides [to] eighteen.
+
+<margin>
+Divide by ten
+Dividend begins
+</margin>
+Seeing 1 without division, make it 9 <note>An abacus mnemonic for a specific division step where the remainder is adjusted</note> <margin>Divide 9; keep 9</margin>
+
+---
+
+Suppose now there are four people—Zhao, Qian, Sun, and Li—who jointly conduct business. They contribute their **capital silver** <term>benyin; the principal investment</term> at various times:
+
+**Zhao (the first)** <gloss>Zhao 1</gloss> contributes **30 taels** of capital silver on the 9th day of the 1st month in the **Gui-Hai year** <note>The 60th year of the sexagenary cycle</note>.
+
+**Qian (the second)** <gloss>Qian 2</gloss> contributes **50 taels** of capital silver on the 15th day of the 4th month in the **Yi-Chou year** <note>The 2nd year of the cycle</note>.
+
+**Sun (the third)** <gloss>Sun 3</gloss> contributes **70 taels** of capital silver on the 18th day of the 8th month in the **Bing-Yin year** <note>The 3rd year of the cycle</note>.
+
+**Li (the fourth)** <gloss>Li 4</gloss> contributes **90 taels** of capital silver on the 27th day of the 10th month in the **Ding-Mao year** <note>The 4th year of the cycle</note>.
+
+The **total** <gloss>Total of 4</gloss> capital silver is **240 taels**. By the end of the **Wu-Chen year** <note>The 5th year of the cycle</note>, they have earned a total **profit silver** <term>liyin; the accrued interest or gains</term> of **120 taels**. The question is: how much profit silver is each person entitled to?
+
+**The Answer states:**
+Zhao (the first) <gloss>is entitled to profit of</gloss> **33 taels, 8 mace, 1 candareen, 5 li, and 5 hao.** <note>33.8155 taels. This is calculated by finding the duration each person's capital was invested and dividing the total profit proportionally based on the product of (Capital × Time).</note>
+
+<summary>This page presents a sophisticated partnership problem where profit must be distributed among four investors based on both the amount of capital provided and the varying durations of their investments over a five-year period. It includes abacus mnemonics for the division required to calculate these time-weighted shares.</summary>
+
+<keywords>Suanfa Tongzong, partnership profit sharing, sexagenary cycle dates, weighted interest, abacus mnemonics, Zhao Qian Sun Li, taels, capital silver</keywords>
+
+--- Page 90 ---
+<meta>Continuity: This page continues the practical application of partnership profit distribution (hehuo) introduced on the previous page. Having established the investment dates and principal amounts for the four partners (Zhao, Qian, Sun, and Li), the text now explains the calculation of "weighted totals" based on time and the subsequent division of the 120 taels of profit.</meta>
+
+**Method:** Set the **profit silver** <term>liyin; the total interest or profit to be distributed</term> of 120 [taels] as the **dividend** <term>shi; the number to be divided in a calculation</term>. Separately set the number of years, months, and days for each person. According to the previous formula, **return** <note>gui; use abacus division mnemonics</note> the days into months and **divide** the months into years. Combine the fractions of the remaining positions with the years and multiply by the **original principal** <term>yuanben; the capital invested by each partner</term> to find the required values.
+
+**Zhao (the first)** totals 5 years, 21 days, and [-] months. By first returning and then dividing, the **weighted total** <note>the product of principal and time used to determine their share</note> of the principal is 179 taels, 2 mace, and 5 candareens.
+
+**Qian (the second)** totals 3 years, 18 days, and 5 months. By first returning and then dividing, the weighted total of the principal is 285 taels, 4 mace, 1 candareen, 6 li, and 5 hao.
+
+**Sun (the third)** totals 2 years, 14 days, and 2 months. By first returning and then dividing, the weighted total of the principal is 165 taels, 6 mace, 6 candareens, 6 li, and 6 hao.
+
+**Li (the fourth)** totals 1 year, 3 days, and 2 months. By first returning and then dividing, the weighted total of the principal is 105 taels, 7 mace, and 5 candareens.
+
+Take the weighted totals of the years, months, and days for all persons; their combined sum is **636 taels**, which serves as the **divisor** <term>fa; the number by which the dividend is divided</term>.
+
+| | | |
+| :--- | :--- | :--- |
+| **Qian (the second)** | **Interest due** | 34 taels, 9 mace, 7 candareens, 8 li, 8 hao |
+| **Sun (the third)** | **Interest due** | 31 taels, 2 mace, 5 candareens, 3 li |
+| **Li (the fourth)** | **Interest due** | 19 taels, 9 mace, 4 candareens, 9 li, 7 hao |
+
+<note>Zhao's individual profit is likely calculated on the following page or was the primary example used to establish the 636 divisor.</note>
+
+<summary>This page demonstrates the calculation of weighted investment values for four partners by factoring in the duration of their capital contributions. The sum of these values (636 taels) is used as a denominator to proportionally distribute 120 taels of profit among the participants.</summary>
+<keywords>weighted distribution, partnership, principal, interest calculation, tael, mace, candareen, abacus mathematics</keywords>
+
+--- Page 91 ---
+<meta>Continuity: This page concludes the previous problem regarding the distribution of profit among four partners (Zhao, Qian, Sun, and Li) based on their weighted investment time. It then introduces a new calculation for determining the principal and interest of a loan when only the total repayment amount and the duration of the loan are known.</meta>
+
+### General Source of Computational Methods, Volume 2
+
+#### Page 44
+
+The actual result is <gloss>1 mace, 8 candareens, 8 li, 6 hao, and 5 si</gloss>. This represents the annual interest accrued for every one tael of principal. Use this value as the **multiplier** <term>fa; here refers to the interest rate factor</term> to multiply each person's weighted total <note>the product of their principal and time found on the previous page</note> to arrive at the required answer.
+
+->**Hypothetical Case**<-
+
+Suppose a person borrows silver. Each year, <gloss>per tael</gloss> of principal, the interest added is 2 mace and 7 candareens. Now, after a duration of one year, three months, and twenty days, the total silver returned (combining principal and interest) is 362 taels, 4 mace, and 7 candareens. What are the amounts for the **principal** <term>ben; the original sum borrowed</term> and the **interest** <term>li; the profit earned on the loan</term> respectively?
+
+**Answer:** 
+**Principal:** 268 taels 
+**Interest:** 94 taels, 4 mace, 7 candareens
+
+**Method:** 
+Set the total silver returned (the sum of principal and interest) as the **dividend** <term>shi; the number to be divided</term>. Separately, set the number of years, months, and days. Following the previous formula, use the **three-return** mnemonic <gloss>20 days results in .666</gloss> <note>The "three-return" (sangui) is an abacus division rule for dividing by 3; here it is used to convert 20 days into two-thirds of a month, assuming a 30-day month</note> at the position below the **three** months. Combine these into the month total, then divide by twelve to arrive at <gloss>3 months 5 5</gloss> <note>This represents the decimal fraction of a year, approximately 0.3055</note> at the position below the **one year**. Separately, multiply this by the annual interest of <gloss>2 mace and 7 candareens</gloss>...
+
+<summary>This page concludes a partnership profit distribution problem and introduces a complex interest calculation for a loan, demonstrating how to convert days and months into decimal fractions of a year using abacus mnemonics.</summary>
+<keywords>interest calculation, principal, dividend, abacus mnemonics, sangui, time-weighted interest, Ming dynasty mathematics</keywords>
+
+--- Page 92 ---
+<meta>Continuity: This page concludes the calculation of a loan repayment where the total sum (principal plus interest) was 362.47 taels. It then presents a second problem involving a partial repayment of 9 taels toward a 15-tael loan after 6 months, requiring the reader to calculate how much of that payment covers interest versus principal, and how much debt remains.</meta>
+
+...to arrive at the interest per tael of <gloss>3 mace, 5 candareens, 2 li, and 5 hao</gloss>. Add 1 tael (representing the base principal) to this value to create a divisor of 1.3525. Dividing the total sum by this divisor, we obtain the **principal** <term>yuanben; the original sum borrowed</term> silver of <gloss>268 taels</gloss>. Then, multiply the principal by the interest rate of <gloss>3 mace, 5 candareens, 2 li, and 5 hao</gloss> to find the **interest** <term>li; the profit earned on the loan</term> of <gloss>94 taels, 4 mace, and 7 candareens</gloss>. This matches the requirements of the problem.
+
+->**Hypothetical Case**<-
+
+Suppose the original principal borrowed is 15 taels of silver. Each month, the interest added is 2 candareens and 5 li <note>equivalent to a 2.5% monthly interest rate</note>. Now, 6 months have passed, and a repayment of 9 taels of silver has been made. If this payment is divided into principal and interest portions, how much is allocated to each? Furthermore, how much of the original principal remains outstanding?
+
+**Answer:**
+The portion applied to the **principal** is 7 taels, 8 mace, 2 candareens, and 6 li.
+The portion applied to the **interest** is 1 tael, 1 mace, 7 candareens, and 4 li.
+
+The remaining outstanding principal is 7 taels, 1 mace, 7 candareens, and 4 li. <gloss>Interest continues to accrue on this balance from the original start date.</gloss>
+
+**Method:**
+Set the repaid silver of <gloss>9 taels</gloss> as the **dividend** <term>shi; the number to be divided in an abacus calculation</term>. Separately, take the <gloss>6 months</gloss> and multiply by the monthly interest rate of <gloss>2 candareens and 5 li</gloss> to obtain a total interest factor of <gloss>1 mace and 5 candareens</gloss> <note>original: "tong zhi," meaning to calculate the total rate by multiplying the duration by the rate</note>.
+
+<summary>This page concludes a complex interest calculation and begins a new problem regarding partial loan repayments. It demonstrates how to determine the remaining principal balance after a payment is split between accrued interest and the original debt.</summary>
+
+<keywords>principal, interest, loan repayment, silver units, mace, candareen, li, dividend, financial mathematics</keywords>
+
+--- Page 93 ---
+<meta>Continuity: This page completes a calculation from the previous page regarding a 9-tael repayment on a loan. It concludes the "Hypothetical Case" regarding interest and principal allocation before introducing the mathematical principle of "Different Multiplications, Same Division."</meta>
+
+# Unified Treatise on Mathematical Methods, Volume 11
+
+Add the total interest <note>calculated as 0.15 taels per tael over 6 months</note> to the original 1 tael of principal to get a total principal-and-interest of <gloss>1 tael, 1 mace, and 5 candareens</gloss>. Use this as the **divisor** <term>fa; the number by which the dividend is divided</term>. Dividing the **dividend** <term>shi; the total repayment amount of 9 taels</term> by this, we obtain the portion applied to the **principal silver** of <gloss>7 taels, 8 mace, 2 candareens, and 6 li</gloss>. Then, multiply this principal by the total interest rate of <gloss>1 mace and 5 candareens</gloss> to find the **interest silver** of <gloss>1 tael, 1 mace, 7 candareens, and 4 li</gloss>. The principal and interest together equal the total sum of 9 taels. Separately, take the original principal of <gloss>10 taels</gloss> <note>original: "一十兩"; while the previous page cited 15 taels as the loan amount, this calculation follows the same logic to find the remaining balance</note> and subtract the repaid principal of <gloss>7 taels, 8 mace, 2 candareens, and 6 li</gloss>. The remainder is the balance of the principal still outstanding.
+
+### Different Multiplications, Same Division
+<note>This method, similar to the Rule of Three, is used to find a fourth proportional value when three values are known.</note>
+
+Although this method is an easily understood technique, its meaning is profound. Some people use the method of "dividing first and then multiplying," but if the division results in an infinite remainder, how then can one multiply? Therefore, this "Different Multiplications, Same Division" is truly the method for flexible calculation and transformation.
+
+The mnemonic song says:
+
+> What is the method of "Different Multiplications, Same Division"?
+> Use the selling of goods for money as the example to deduce it.
+
+<summary>This page concludes a complex interest calculation involving the allocation of a partial payment toward principal and interest. It then introduces the "Different Multiplications, Same Division" method, advocating for multiplication before division to maintain accuracy with remainders.</summary>
+
+<keywords>interest calculation, principal, dividend, divisor, Suanfǎ Tǒngzōng, Rule of Three, Cheng Dawei, mathematical mnemonics</keywords>
+
+--- Page 94 ---
+<meta>Continuity: The previous page concluded an explanation of the "Different Multiplications, Same Division" method (the Rule of Three). This page provides a mnemonic verse for the method and a practical word problem involving the price of rice to demonstrate the calculation. Note: The previous page header indicated Volume 11, but this page is marked as Volume 2; this may indicate a transition between sections of the treatise or a compilation of different manuscripts.</meta>
+
+**Volume Two**
+
+->First, take the original price and multiply it by the current goods,<-
+->Then, take the original goods and use them as the divisor.<-
+->Cross-multiply the money and the goods to find the value;<-
+->From hundreds of miles to thousands of catties, apply this by analogy.<-
+->If the mathematician is mindful and skilled in their application,<-
+->Not even a "silk" or a "mote" will be in error.<-
+<note>original: "一絲一忽" (yi si yi hu). These represent the fourth and fifth decimal places respectively, indicating extreme precision.</note>
+
+**Suppose** you originally had 5 *shi*, 8 *dou*, and 4 *sheng* of rice <note>A *shi* is a unit of dry volume approximately equal to 100 liters; 10 *sheng* make 1 *dou*, and 10 *dou* make 1 *shi*</note> which sold for 4 taels, 3 mace, and 8 candareens of silver. Now, you only have 1 *shi*, 7 *dou*, and 2 *sheng* of rice. **Question:** How much silver is this worth?
+
+**Answer:** 1 tael, 2 mace, and 9 candareens.
+
+**Method:** Set the current quantity of rice <gloss>1 *shi*, 7 *dou*, 2 *sheng*</gloss> and multiply it by the original selling price <gloss>4 taels, 3 mace, 8 candareens</gloss>. The result is <gloss>7 taels, 5 mace, 3 candareens, 3 li, and 6 hao</gloss>, which serves as the **dividend** <term>shi; the total value to be divided</term>. Then, take the original quantity of rice <gloss>5 *shi*, 8 *dou*, 4 *sheng*</gloss> as the **divisor** <term>fa; the number by which the dividend is divided</term>. Perform the division to arrive at the solution.
+
+**An Alternative Method:** Use division first and then multiplication. First, take the original price <gloss>4 taels, 3 mace, 8 candareens</gloss> and divide it by the original quantity of rice <gloss>5 *shi*, 8 *dou*, 4 *sheng*</gloss>. This yields a price per *shi* of <gloss>7 mace and 5 candareens</gloss>. Then, use this unit price as a **multiplier** <term>fa; here used in the sense of a constant factor</term> to multiply the current quantity of rice <gloss>1 *shi*, 7 *dou*, 2 *sheng*</gloss>.
+
+<margin>罡</margin>
+<note>The marginal character "Gang" (罡), referring to the Big Dipper or a celestial wind, likely serves as a folio mark or signature for organizing the manuscript sheets.</note>
+
+<summary>This page presents a mnemonic verse and a practical example of the Rule of Three, calculating the price for a specific quantity of rice based on a known prior rate. It demonstrates two mathematical approaches: cross-multiplication followed by division, and finding a unit price before multiplying.</summary>
+<keywords>Rule of Three, rice prices, unit conversion, shi, dou, sheng, taels, mace, candareens, dividend, divisor, multiplication, division</keywords>
+
+--- Page 95 ---
+<meta>Continuity: This page continues the practical application of the "Different Multiplications, Same Division" method (the Rule of Three) introduced on the previous page. While the previous page provided a specific word problem involving rice and silver, this page offers a generalized diagram and a mnemonic verse to help students internalize the mathematical logic for any commercial exchange.</meta>
+
+<insert>
+Two is also acceptable.
+*Sheng* is also acceptable.
+</insert>
+
+Although this method is easy to understand, there is a concern that those who are unskillful may find the rules difficult to master. To determine a price, one must utilize the technique of "first multiply, then divide"; this method is both swift and ingenious.
+
+### Diagram for the Swift Method of Exchange Using Cross-Multiplication and Identical-Division
+
+| **Current Item** <note>The quantity currently held</note> | **Original Item** <note>The reference quantity</note> |
+| :--- | :--- |
+| (Cross-Multiplication) | (**Exchange Position** / Identical Division) |
+| **Empty** | **Original Price** |
+
+**Logic of the Diagram:**
+The **Original Price** and the **Current Item** are cross-multiplied <term>yi cheng; "different multiplication," referring to multiplying values of different categories like price and quantity</term>. The **Original Item** acts as the identical division <term>tong chu; the divisor shared by the same category of goods</term>.
+
+->The mnemonic verse says:<-
+
+This method has four corners,
+And within them, one corner is empty.
+Multiply the different terms diagonally,
+And divide by the term at the exchange position.
+
+Explain this verse as follows: <margin>Multiply the different terms; divide by the identical term.</margin>
+
+<note>This "Exchange Position" (dui wei) refers to the corner containing the original quantity of goods, which serves as the divisor to "exchange" the total value into the final price.</note>
+
+<vocab>**Different Multiplications, Same Division** (異乘同除): The Rule of Three; **Swift Method for Exchange** (互換捷用法): A shortcut for calculating currency or goods exchange; **Cross-multiplication** (斜乘): Multiplying diagonally across the grid; **Exchange Position** (兌位): The position of the divisor in the grid; **Calculation Method** (算法): General term for mathematical algorithm.</vocab>
+
+<summary>This page provides a visual diagram and mnemonic verse for the "Rule of Three" (Different Multiplications, Same Division), a foundational algorithm in Chinese commercial arithmetic used to calculate unknown prices or quantities.</summary>
+<keywords>Rule of Three, commercial arithmetic, mnemonic verse, cross-multiplication, exchange rates, mathematical diagrams</keywords>
+
+--- Page 96 ---
+<meta>Continuity: This page provides practical examples for the "Different Multiplications, Same Division" method (the Rule of Three) introduced previously. While the previous page established the theoretical framework and provided a mnemonic verse, this page applies those logic steps to real-world commodities like grain and textiles, demonstrating how to calculate yields and trade values across different units of measurement.</meta>
+
+Suppose you originally had 8 *dou* 6 *sheng* <note>Approximately 8.6 liters or a standard volume measure of grain</note> of wheat, which yielded 64 *jin* 8 *liang* <note>64.5 catties; traditionally, 16 liang equaled 1 jin</note> of flour. Now, you have 35 *dan* 4 *dou* 8 *sheng* <note>Approximately 3,548 liters</note> of wheat. Question: How much flour should this produce?
+
+->Answer: 2,661 *jin*<-
+
+**Method:** Set the current amount of wheat <gloss>35 *dan* 4 *dou* 8 *sheng*</gloss> and multiply it by the flour yield <gloss>64.5 *jin*</gloss>. This gives 22,884.6 *jin* as the <term>shi; the dividend, or the "solid" number to be divided</term>. Divide this by the original amount of wheat <gloss>8 *dou* 6 *sheng*</gloss>, which acts as the <term>fa; the divisor, or "law" for the operation</term>. The result matches the question.
+
+Suppose you now have 45 bolts of summer cloth <note>Linen or ramie fabric</note> and wish to exchange them for cotton cloth. It is stated that 3 bolts of summer cloth have a combined value of 2 *qian* <note>0.2 taels of silver</note>, while 7 bolts of cotton cloth have a value of 7 *qian* 5 *fen* <note>0.75 taels of silver</note>. Question: How much cotton cloth can you exchange for?
+
+->Answer: 28 bolts of cotton<-
+
+**Method:** First, set the current amount of summer cloth <gloss>45 bolts</gloss>. Multiply this by the original price of summer cloth <gloss>2 *qian*</gloss> to get 9 taels. Then, multiply this by the 7 bolts of cotton cloth <gloss>7 bolts</gloss> to get 63 bolts as the dividend. Divide this by the result of multiplying the 3 bolts of summer cloth <gloss>3 bolts</gloss> by the cotton cloth price of 7 *qian* 5 *fen*... <note>The text ends here mid-calculation; the math follows the logic: (45 × 0.2 × 7) ÷ (3 × 0.75) = 63 ÷ 2.25 = 28 bolts.</note>
+
+**Vocabulary**
+*   **Wheat (小麥):** A primary staple grain used for flour.
+*   **Milled Flour (磨麵):** The processed product of wheat; used here to show conversion ratios.
+*   **Summer Cloth (夏布):** A lightweight fabric made from plant fibers like ramie, common in the Ming/Qing dynasties.
+*   **Cotton Cloth (棉布):** A standard textile used as a medium of exchange in local markets.
+*   **Dividend (爲實):** Literally "the reality" or "the solid," the total sum that will be divided.
+*   **Divisor (爲法):** Literally "the rule" or "the method," the number by which one divides.
+*   **Matches the Question (合問):** A standard closing phrase in Chinese mathematics indicating the calculation is complete and correct.
+
+<summary>This page presents two practical word problems applying the Rule of Three to calculate flour yields from wheat and exchange rates between summer linen and cotton cloth. It demonstrates the use of the "dividend" (shi) and "divisor" (fa) terminology in traditional Chinese commercial arithmetic.</summary>
+<keywords>arithmetic, Rule of Three, commodity exchange, wheat, flour, textiles, weight units, currency, Ming-Qing mathematics</keywords>
+
+--- Page 97 ---
+<meta>Continuity: This page continues the practical application of the Rule of Three, concluding a previous problem regarding the exchange of summer cloth for cotton cloth before moving into grain yield and textile valuations.</meta>
+
+# Systematic Treatise on Computational Methods, Volume 2
+<meta>Catchword: Forty-six</meta>
+
+<gloss>Multiply by 5 to get 2 taels 2 fen, then obtain 5 fen</gloss>. Use this as the <term>fa; the divisor, or the mathematical "law"</term> to divide. The result is 20 bolts of cotton cloth, which matches the question.
+
+Suppose you originally had 3 *dou* 5 *sheng* <note>Approximately 35 liters; 10 sheng make 1 dou</note> of wheat, which yielded 25 *jin* <note>Catties; a traditional unit of weight</note> of flour. Now, you wish to use 175 *jin* of flour. Question: How much wheat is required?
+
+->Answer: 2 *dan* 4 *dou* 5 *sheng*<- <note>1 dan is equal to 10 dou, or approximately 100 liters</note>
+
+**Method:** Set the original amount of wheat and multiply it by the amount of flour currently required to find the <term>shi; the dividend, or "solid" number</term>. Use the original flour yield of 25 *jin* as the <term>fa; the divisor</term>. Divide to reach the answer.
+
+Suppose you now have 161 bolts of damask silk. If every 7 bolts cost 5 <term>liang; taels of silver</term>, what is the total silver value?
+
+->Answer: 115 taels<-
+
+**Method:** Set the total number of silk bolts and <term>yin; multiply</term> by 5 taels to establish the <term>shi; the dividend</term>. Use the 7 bolts as the <term>fa; the divisor</term> and <term>gui; divide</term> <note>The term 'gui' refers specifically to division performed using the Chinese abacus division tables</note> to find the answer.
+
+<vocab>Systematic Treatise on Computational Methods, Wheat, Flour, Damask silk, Bolt (unit for cloth), Tael (unit of silver), Dividend, Divisor, Division, Multiplication, Abacus-style division</vocab>
+
+<summary>This page provides practical word problems for calculating grain-to-flour ratios and the total cost of silk textiles using the "Rule of Three" proportional logic. It demonstrates how to identify the dividend (shi) and divisor (fa) in commerce-related scenarios.</summary>
+<keywords>arithmetic, wheat yield, silk trade, Rule of Three, abacus methods, commodity exchange, Ming dynasty units</keywords>
+
+--- Page 98 ---
+<meta>Continuity: This page continues the practical applications of the "Rule of Three" from the previous page, moving from grain and silk valuations to more complex ratios involving gemstones and labor output. It introduces mnemonic "songs" to help students memorize algorithmic steps.</meta>
+
+# Song of Multiplication by the Same and Division by the Different
+<margin>This method is used for calculating the price of precious stones, pearls, or gems of various sizes and quantities. It applies to fruits as well.</margin>
+
+->The method of "Same Multiplication and Different Division" can be explained in detail:<-
+->Multiply the original quantity by the price to establish the <term>shi; the dividend, or "solid" number</term>.<-
+->Divide the dividend by the new quantity to find the new price;<-
+->Divide the dividend by the new price to find the new quantity.<-
+
+Suppose you originally had 50 small pearls weighing 1 <term>liang; tael</term> <note>A traditional unit of weight, approximately 37.5 grams</note> priced at 12 taels of silver. Now you have 30 large pearls [also] weighing 1 tael. Question: How much silver are they worth?
+
+->Answer: 20 taels<-
+
+**Method:** Set the original number of pearls <gloss>50</gloss> and multiply by the original price <gloss>12</gloss> to obtain <gloss>600</gloss> as the <term>shi; the dividend</term>. Divide this by the new number of pearls <gloss>30</gloss> to reach the answer. <note>This problem uses inverse proportion: since the total weight is the same but the pearls are larger, there are fewer of them, meaning each pearl is worth more.</note>
+
+# Method of Different Multiplication and Same Division
+
+Suppose a brocade weaver weaves 8 <term>chi</term> 2 <term>cun</term> 5 <term>fen</term> <note>Approximately 2.6 meters. In the Ming system, 10 fen = 1 cun, and 10 cun = 1 chi</note> of brocade in one day. Now there are 56 people in total...
+
+<vocab>Song of Multiplication by the Same and Division by the Different, Pearls, Price of silver, Method of Different Multiplication and Same Division, Weaving brocade</vocab>
+
+<summary>This page introduces a mnemonic song for calculating inverse proportions, specifically applied to the pricing of pearls of different sizes. It begins a new problem regarding the collective daily output of fifty-six textile weavers.</summary>
+<keywords>inverse proportion, pearl trade, brocade weaving, Suanfa Tongzong, arithmetic mnemonics, Ming dynasty units</keywords>
+
+--- Page 99 ---
+<meta>Continuity: This page concludes the calculation for the total brocade woven by a group of workers (begun on the previous page) and introduces the "Logic of Different Division and Same Division" through a practical word problem involving rice rations for guests.</meta>
+
+# General Source of Computational Methods, Volume 2
+->Forty-nine<-
+
+[Question: Continuing from the previous page, for a group of 56 people] weaving for 27 days, how much brocade is woven in total?
+
+> **Answer:** 1,247 *zhang* and 4 *chi* <note>In the Ming Dynasty, 1 *zhang* = 10 *chi*. Thus, this is 12,474 *chi*.</note>
+>
+> **Method:** Place 56 [people] and multiply by 27 [days] to get 1,512. Then, multiply this by the daily weaving rate of 8 *chi*, 2 *cun*, and 5 *fen* <note>0.825 *zhang* or 8.25 *chi*</note> to obtain 124,740 <gloss>the total in units of *fen*</gloss>, which equals 1,247 *zhang* 4 *chi*. This matches the question.
+
+### Logic of Different Division and Same Division
+
+Suppose there are 15 guests staying for 12 days, and they collectively consume 3 <term>shi; a unit of dry volume, often called a "stone"</term> and 6 <term>dou; a "peck," 1/10th of a *shi*</term> of rice. Question: How much rice does each guest consume per day?
+
+> **Answer:** 2 <term>sheng; a "pint" or "liter," 1/10th of a *dou*</term> per day.
+>
+> **Method:** Set the 3 *shi* 6 *dou* of rice as the <term>shi; the dividend, or "solid" number</term> <note>3.6 *shi* is equivalent to 360 *sheng*</note>. Separately, multiply the 15 guests by the 12 days to get 180 person-days as the <term>fa; the divisor</term>. Divide the dividend by the divisor to get 2, which matches the question.
+
+<vocab>General Source of Computational Methods (算法統宗), Weaving brocade (織錦), Logic of Different/Same Division (異除同除法理), Dividend (實), Divisor (法), Multiply (乘), Divide (除)</vocab>
+
+<summary>This page provides solutions for compound proportion problems, specifically calculating total industrial output over time and determining individual daily rations from a bulk supply.</summary>
+<keywords>arithmetic, textile production, food rationing, units of measure, Ming dynasty mathematics, dividend and divisor</keywords>
+
+--- Page 100 ---
+<meta>Continuity: This page follows the discussion on compound division and introduces a complex barter problem using the "Logic of Simultaneous Multiplication and Division," a method used to solve exchange problems involving multiple commodities, known today as the "Chain Rule."</meta>
+
+### Logic of Simultaneous Multiplication and Division
+
+Suppose originally 8 geese could be exchanged for 20 chickens; for every 30 chickens, one could exchange them for 90 ducks; and for every 60 ducks, one could exchange them for 2 sheep. If you now have 5 sheep to exchange for geese, how many should you receive?
+
+->Answer: 20 geese<-
+
+**Method:** Using the <gloss>Method of Different Multiplication and Same Division</gloss> <note>This is a technique for managing complex ratios by grouping all multipliers and all divisors to perform the calculation in two large steps.</note>, set down the original <gloss>8 geese</gloss> and multiply them by the <gloss>30 chickens</gloss> to get <gloss>240</gloss>. Then, multiply this by the <gloss>60 ducks</gloss> to get <gloss>14,400</gloss>. Finally, multiply this by the <gloss>5 sheep</gloss> currently held to get <gloss>72,000</gloss>, which serves as the <term>shi; the dividend, or "solid" number</term>. 
+
+Then, using the <gloss>Method of Different Multiplication and Same Division</gloss>, take the <gloss>20 chickens</gloss> received in exchange and multiply them by the <gloss>90 ducks</gloss> to get <gloss>1,800</gloss>. Multiply this by the <gloss>2 sheep</gloss> received in exchange to get <gloss>3,600</gloss>, which serves as the <term>fa; the divisor</term>. Divide the dividend by the divisor to obtain <gloss>20 geese</gloss>, which matches the question.
+
+**Instruction:** It is noted that in the past, one would perform a sequence of individual divisions and multiplications, which often resulted in awkward remainders or fractional figures. Now, the method is changed to multiply all factors together first to form a total dividend <note>This "total dividend" approach minimizes rounding errors and keeps the math cleaner during the calculation process.</note>.
+
+<vocab>Simultaneous Multiplication and Division (同乘同除法), Dividend (實), Divisor (法), Different Multiplication and Same Division (異乘同除法)</vocab>
+
+<summary>This page explains a complex barter problem involving four different animals, demonstrating the "Chain Rule" of mathematics to find an exchange rate across multiple stages. The text emphasizes efficiency, showing how multiplying all factors into a single dividend and divisor avoids the errors inherent in step-by-step division.</summary>
+<keywords>barter, chain rule, ratio and proportion, geese, chickens, ducks, sheep, Suanfa Tongzong, dividend, divisor</keywords>
+
+--- Page 101 ---
+<meta>Continuity: This page follows the discussion of the "Logic of Simultaneous Multiplication and Division" (the Chain Rule) from Volume 2 of the General Source of Computational Methods. It transitions from bartering goods to the practical application of calculating silver purity, a vital skill for merchants in Ming Dynasty China.</meta>
+
+# General Source of Computational Methods, Volume 2
+### *Ji* <note>original: 季. This character indicates the fourth volume or section in a series, often following the "Spring, Summer, Autumn, Winter" or "First, Second, Third, Fourth" ordering system.</note>
+
+->Using total division as the method is truly marvelous!<-
+
+### On Smelting and Refining for Purity
+
+Suppose you have silver with a purity of 92 percent, weighing 7 <term>taels; a weight of silver, roughly 37 grams</term>, 4 <term>mace; one-tenth of a tael</term>, and 8 <term>candareens; one-hundredth of a tael</term>. If you smelt and refine this into <term>fine silver; pure silver of 100% quality</term>, how much should you have?
+> **Answer:** 6 taels, 8 mace, 8 candareens, 1 <term>li; one-thousandth of a tael</term>, and 6 <term>hao; one-ten-thousandth of a tael</term>.
+> **Method:** Set the weight of the silver as the <term>shi; the dividend or base value</term>. Use the purity of 92 percent <note>original: 九二色 (92-color)</note> as the <term>fa; the multiplier or factor</term>. Multiply them together to obtain the answer.
+
+Suppose you have 15 taels and 2 mace of <term>fine silver; high-quality standard silver, often called sycee</term> to be exchanged for silver of 95 percent purity. How much of this lower-purity silver should you receive?
+> **Answer:** You should receive 16 taels of the 95 percent silver.
+> **Method:** Set the fine silver <gloss>15 taels and 2 mace</gloss> as the <term>shi; the dividend</term>. Use the purity of 95 percent <note>original: 九五色 (95-color)</note> as the <term>fa; the divisor</term>. Divide the dividend by this factor to obtain the result.
+
+<summary>This page explains how to convert silver quantities between different purity levels (fineness), illustrating both multiplication to find pure content and division to find equivalent volume in lower-purity alloy.</summary>
+
+<keywords>silver purity, smelting and refining, tael, mace, candareen, currency exchange, multiplication, division, Suanfa Tongzong</keywords>
+
+--- Page 102 ---
+<meta>Continuity: This page continues the practical application of the "Chain Rule" and silver valuation from the previous page. While the previous page focused on converting specific weights of silver into "fine silver" (100% purity) equivalents, this page addresses the exchange between two different silver purities and the process of alloying pure silver with copper to reach a desired standard.</meta>
+
+# General Source of Computational Methods, Volume 2
+### *Ji* <note>original: 季. This character indicates the fourth volume or section in a series, often following the "Spring, Summer, Autumn, Winter" or "First, Second, Third, Fourth" ordering system.</note>
+
+->Using total division as the method is truly marvelous!<-
+
+### On Smelting and Refining for Purity (Continued)
+
+Suppose you have 5 <term>taels; a weight of silver, roughly 37 grams</term> and 6 <term>mace; one-tenth of a tael</term> of silver with a purity of 85 percent <note>original: 八五色 (85-color)</note>. If you wish to exchange it for silver with a purity of 95 percent, how much of that silver should you receive?
+> **Answer:** You should receive 5 taels, 0 mace, 1 <term>candareen; one-hundredth of a tael</term>, 0 <term>li; one-thousandth of a tael</term>, and 5 <term>hao; one-ten-thousandth of a tael</term> of the 95-percent silver.
+> **Method:** Set the silver <gloss>5 taels and 6 mace</gloss> as the base. Multiply it by 8 <note>original: 八. Mathematically, to reach the stated answer, one must multiply by the purity of 0.85. The text here says "8," and the resulting gloss of "4.48" is the product of 5.6 x 0.8, suggesting a possible clerical error in the woodblock or a missing character in the transcription. To reach the provided answer of 5.0105, 5.6 should be multiplied by 8.5.</note> to obtain <gloss>4 taels, 4 mace, and 8 candareens</gloss> as the <term>shi; the dividend</term>. Use 95 as the <term>fa; the divisor</term>. Divide the dividend by this divisor to obtain the answer.
+
+Suppose you have 7 taels, 6 mace, and 5 candareens of <term>fine silver; pure silver of 100% quality, also called sycee</term>. If you smelt and alloy this to produce a total of 9 taels of silver, what is the resulting purity?
+> **Answer:** The purity is 85 percent <note>original: 八五色 (85-color)</note>.
+> **Method:** Set the weight of the fine silver as the <term>shi; the dividend</term>. Use the total weight of the produced silver <gloss>9 taels</gloss> as the <term>fa; the divisor</term>. Perform the division <note>original: 歸之 (gui zhi), a specific term for division using the abacus</note> to obtain the result.
+
+Suppose you have 35 taels and 2 mace of pure fine silver. You wish to smelt it into silver with a purity of 88 percent. How much copper should be added <note>to dilute the silver to the desired purity</note>?
+
+<summary>This page provides practical word problems for merchants to calculate exchange rates between different purities of silver and determine the resulting purity after smelting or alloying with copper.</summary>
+<keywords>silver purity, tael, mace, smelting, alloying, fine silver, division, multiplication, Ming Dynasty mathematics</keywords>
+
+--- Page 103 ---
+<meta>This page continues the practical calculations for alloying silver, specifically focusing on the ratio of copper to silver required to reach the "88-percent" purity standard. The previous page ended mid-problem; here we find the conclusion of a calculation for adding copper to fine silver, followed by a new problem regarding the reverse calculation.</meta>
+
+算法統宗 卷二 <note>original: Volume 2 of the General Source of Computational Methods</note>
+<meta>Catchword: 至 (Zhi / To)</meta>
+
+# Newly Compiled Straightforward Guide to the General Source of Computational Methods, Volume 2
+
+**Answer:** 4 <term>taels; a unit of weight, approximately 37.5 grams</term> and 8 <term>mace; one-tenth of a tael</term> of copper.
+
+**Method:** Set the amount of <term>fine silver; wenyin, the high-purity standard used for tax and trade</term> as the <term>shi; the dividend or the number to be divided</term>. Use the "88-color" purity standard <note>meaning 88% silver and 12% copper</note> as the <term>fa; the divisor</term>. Divide them to find that the total weight of the alloyed silver is 40 taels. Subtract the weight of the original fine silver from this total; the remainder is 4 taels and 8 mace, which is the amount of copper to be added. This matches the inquiry.
+
+Suppose you have 7 <term>mace</term> and 5 <term>candareens; one-hundredth of a tael</term> of copper. If you wish to use this to create silver of the "88-color" purity standard, how much fine silver must be used?
+
+**Answer:** 5 <term>taels</term> and 5 <term>mace</term> of fine silver.
+
+**Method:** Set the weight of the copper as the dividend. Use the rule of <gloss>every 1 mace and 2 candareens of copper used [to make one tael of this alloy]</gloss> as the divisor. Divide them to find that the total weight of the 88-percent purity silver produced will be 6 taels. From this total, subtract the original 7 mace and 5 candareens of copper; the remainder is the weight of the fine silver required. This matches the inquiry.
+
+<note>Translator's note: In the "88-color" system, 1 tael (10 mace) of alloy consists of 8.8 mace of silver and 1.2 mace of copper. In the second problem, dividing the copper (0.75 mace) by the copper-per-tael ratio (0.12) correctly yields a total alloy weight of 6.25 taels. Subtracting the copper (0.75) leaves 5.5 taels of silver.</note>
+
+<summary>This page provides mathematical proofs for creating silver alloys of 88% purity by calculating the specific weights of copper and fine silver needed. It demonstrates the use of "dividend" and "divisor" logic to solve practical metallurgical and currency exchange problems.</summary>
+<keywords>silver purity, copper alloying, 88-color silver, fine silver, tael, mace, candareen, division methods, Ming dynasty mathematics</keywords>
