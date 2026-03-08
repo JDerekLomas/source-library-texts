@@ -1,14 +1,14 @@
 {
   "id": "697e23cb32e94c72715dd0cf",
   "title": "Informatorium oder kurzer Unterricht",
-  "display_title": "Informatorium oder kurzer Unterricht",
+  "display_title": "Handbook, or Short Instruction",
   "author": "Weigel, Valentin",
   "language": "German",
   "year": 1695,
   "published": "1695",
   "pages_count": 134,
   "pages_with_ocr": 134,
-  "pages_with_translation": 4,
+  "pages_with_translation": 125,
   "source_url": "https://sourcelibrary.org/book/697e23cb32e94c72715dd0cf",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v5.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:28:11.303Z",
+  "synced_at": "2026-03-08T00:00:21.513Z",
   "_hashes": {
     "ocr": "3b04c5c0394fd89a",
-    "translation": "bd10d68bdc510918"
+    "translation": "0b0af4e691225cd5"
   }
 }
