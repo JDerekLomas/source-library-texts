@@ -1,0 +1,28 @@
+{
+  "id": "69905f1e40bc3a0478efac64",
+  "title": "Philosophie des Unbewussten: Versuch einer Weltanschauung",
+  "display_title": "Philosophie des Unbewussten",
+  "author": "Eduard von Hartmann",
+  "language": "German",
+  "year": 1869,
+  "published": "Unknown",
+  "pages_count": 686,
+  "pages_with_ocr": 684,
+  "pages_with_translation": 676,
+  "source_url": "https://sourcelibrary.org/book/69905f1e40bc3a0478efac64",
+  "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bub_gb_V14VAAAAYAAJ"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T16:11:54.292Z",
+  "_hashes": {
+    "ocr": "e9048aea1f80bdf6",
+    "translation": "27111e215c54403b"
+  }
+}
