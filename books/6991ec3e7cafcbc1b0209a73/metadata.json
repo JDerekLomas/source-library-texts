@@ -1,0 +1,28 @@
+{
+  "id": "6991ec3e7cafcbc1b0209a73",
+  "title": "Theatrum Chemicum, Vol. IV",
+  "display_title": "Theatrum Chemicum, Vol. IV",
+  "author": "Lazarus Zetzner (ed.)",
+  "language": "Latin",
+  "year": 1602,
+  "published": "Unknown",
+  "pages_count": 1205,
+  "pages_with_ocr": 1204,
+  "pages_with_translation": 1188,
+  "source_url": "https://sourcelibrary.org/book/6991ec3e7cafcbc1b0209a73",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "BIUSante_pharma_res011287x04"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T18:01:07.836Z",
+  "_hashes": {
+    "ocr": "57ffea953e5ec5fb",
+    "translation": "d8c096ed0cc9a7e9"
+  }
+}
