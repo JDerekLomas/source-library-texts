@@ -1,0 +1,28 @@
+{
+  "id": "6992cd5443713c66ea635d14",
+  "title": "本草綱目·卷上之下",
+  "display_title": "Compendium of Materia Medica",
+  "author": "李時珍",
+  "language": "Chinese",
+  "year": 1596,
+  "published": "1596",
+  "pages_count": 120,
+  "pages_with_ocr": 120,
+  "pages_with_translation": 5,
+  "source_url": "https://sourcelibrary.org/book/6992cd5443713c66ea635d14",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "06048775.cn"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T23:21:05.601Z",
+  "_hashes": {
+    "ocr": "8d87876965dee24b",
+    "translation": "5c006befcbe777bc"
+  }
+}
