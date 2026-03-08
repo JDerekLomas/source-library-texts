@@ -7,8 +7,8 @@
   "year": 1837,
   "published": "1837",
   "pages_count": 201,
-  "pages_with_ocr": 10,
-  "pages_with_translation": 10,
+  "pages_with_ocr": 201,
+  "pages_with_translation": 195,
   "source_url": "https://sourcelibrary.org/book/6953c68777f38f6761bd9e16",
   "license": "publicdomain",
   "doi": null,
@@ -20,9 +20,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:30:31.174Z",
+  "synced_at": "2026-03-08T06:40:22.044Z",
   "_hashes": {
-    "ocr": "534f02915a306dfd",
-    "translation": "c5ba4a61572e4f02"
+    "ocr": "82d92deadc8b0cb2",
+    "translation": "e291cfcb174617dc"
   }
 }
