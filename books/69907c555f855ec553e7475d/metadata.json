@@ -1,0 +1,28 @@
+{
+  "id": "69907c555f855ec553e7475d",
+  "title": "In the Shadow of the Bush",
+  "display_title": "In the Shadow of the Bush",
+  "author": "P. Amaury Talbot",
+  "language": "English",
+  "year": 1912,
+  "published": "Unknown",
+  "pages_count": 646,
+  "pages_with_ocr": 646,
+  "pages_with_translation": 571,
+  "source_url": "https://sourcelibrary.org/book/69907c555f855ec553e7475d",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "inshadowofbush00perc"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T22:31:32.443Z",
+  "_hashes": {
+    "ocr": "290721ba54f3d05a",
+    "translation": "a6a01606a5f85a24"
+  }
+}
