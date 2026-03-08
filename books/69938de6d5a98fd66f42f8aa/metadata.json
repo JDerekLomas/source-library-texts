@@ -1,0 +1,28 @@
+{
+  "id": "69938de6d5a98fd66f42f8aa",
+  "title": "Varia Historia (Various History)",
+  "display_title": "Varia Historia (Various History)",
+  "author": "Claudius Aelianus",
+  "language": "Greek",
+  "year": 1546,
+  "published": "1546",
+  "pages_count": 274,
+  "pages_with_ocr": 274,
+  "pages_with_translation": 251,
+  "source_url": "https://sourcelibrary.org/book/69938de6d5a98fd66f42f8aa",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "ita-bnc-mag-00000693-001"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T19:30:36.549Z",
+  "_hashes": {
+    "ocr": "4dc12444792090a9",
+    "translation": "30fbe57a9f28ac48"
+  }
+}
