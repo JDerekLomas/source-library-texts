@@ -1,14 +1,14 @@
 {
   "id": "697b079611cc8928b55ea396",
   "title": "Eenige philosophische en medicinale tractaatjes",
-  "display_title": "Eenige philosophische en medicinale tractaatjes",
+  "display_title": "Some Philosophical and Medicinal Treatises",
   "author": "anonymous",
   "language": "Dutch",
   "year": 1688,
   "published": "1688",
   "pages_count": 332,
-  "pages_with_ocr": 331,
-  "pages_with_translation": 4,
+  "pages_with_ocr": 332,
+  "pages_with_translation": 304,
   "source_url": "https://sourcelibrary.org/book/697b079611cc8928b55ea396",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:26:15.705Z",
+  "synced_at": "2026-03-08T11:10:45.393Z",
   "_hashes": {
-    "ocr": "d8702a4de14506a7",
-    "translation": "a5b1aee1b4ee4aff"
+    "ocr": "48e0f6bb77e10f4f",
+    "translation": "283ff4463ccd25d6"
   }
 }
