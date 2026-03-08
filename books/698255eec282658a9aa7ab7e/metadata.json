@@ -1,14 +1,14 @@
 {
   "id": "698255eec282658a9aa7ab7e",
   "title": "Miscellaneorum sacrorum libri IV",
-  "display_title": "Miscellaneorum sacrorum libri IV",
+  "display_title": "Sacred Miscellanies in Four Books",
   "author": "Witsius, Hermannus",
   "language": "Latin",
   "year": 1736,
   "published": "1736",
-  "pages_count": 986,
-  "pages_with_ocr": 10,
-  "pages_with_translation": 0,
+  "pages_count": 977,
+  "pages_with_ocr": 977,
+  "pages_with_translation": 934,
   "source_url": "https://sourcelibrary.org/book/698255eec282658a9aa7ab7e",
   "license": "publicdomain",
   "doi": null,
@@ -16,11 +16,11 @@
   "processing": {
     "ocr_model": "gemini-3-flash-preview",
     "prompt_version": "v4.2026-02",
-    "translation_model": null
+    "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:30:45.196Z",
+  "synced_at": "2026-03-08T02:00:25.821Z",
   "_hashes": {
-    "ocr": "31e29395b4f40489",
-    "translation": "e3b0c44298fc1c14"
+    "ocr": "a6feedb7b66b2a56",
+    "translation": "8da2f8ca277c1995"
   }
 }
