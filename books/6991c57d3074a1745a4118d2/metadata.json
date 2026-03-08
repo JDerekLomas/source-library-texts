@@ -1,0 +1,26 @@
+{
+  "id": "6991c57d3074a1745a4118d2",
+  "title": "De transmutatione metallorum; Kabbalistic Texts; Praxis medicinalis (Leiden VLO 46)",
+  "display_title": "Composite manuscript, two parts (mostly Latin)",
+  "author": "Vincent of Beauvais; Arnaldus de Villanova; Various",
+  "language": "Latin",
+  "year": 1550,
+  "published": "Unknown",
+  "pages_count": 199,
+  "pages_with_ocr": 198,
+  "pages_with_translation": 188,
+  "source_url": "https://sourcelibrary.org/book/6991c57d3074a1745a4118d2",
+  "license": "unknown",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T16:31:14.956Z",
+  "_hashes": {
+    "ocr": "29d7373263a30518",
+    "translation": "63e77ddb00efc19e"
+  }
+}
