@@ -1,0 +1,28 @@
+{
+  "id": "699066d1249ce014347d1db0",
+  "title": "Shatpanchashika (150 Verses on Horoscopy)",
+  "display_title": "Shatpanchashika (150 Verses on Horoscopy)",
+  "author": "Prithuyashas",
+  "language": "Sanskrit",
+  "year": null,
+  "published": "Unknown",
+  "pages_count": 6,
+  "pages_with_ocr": 6,
+  "pages_with_translation": 6,
+  "source_url": "https://sourcelibrary.org/book/699066d1249ce014347d1db0",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "shatpanchashika-CGV-PSS-0172-1245"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T15:40:40.798Z",
+  "_hashes": {
+    "ocr": "a58f094426cc6638",
+    "translation": "94749ab5c9967646"
+  }
+}
