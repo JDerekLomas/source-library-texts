@@ -1,14 +1,14 @@
 {
   "id": "698255f193a818bfc04b84bd",
   "title": "Microcosmische Vorspiele des neuen Himmels und der neuen Erde",
-  "display_title": "Microcosmische Vorspiele des neuen Himmels und der neuen Erde",
+  "display_title": "Microcosmic Preludes of the New Heaven and the New Earth",
   "author": "[Dippel, Johann Konrad]",
   "language": "German",
   "year": 1784,
   "published": "1784",
   "pages_count": 180,
-  "pages_with_ocr": 10,
-  "pages_with_translation": 1,
+  "pages_with_ocr": 180,
+  "pages_with_translation": 169,
   "source_url": "https://sourcelibrary.org/book/698255f193a818bfc04b84bd",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v4.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:30:44.241Z",
+  "synced_at": "2026-03-08T02:30:32.471Z",
   "_hashes": {
-    "ocr": "cb7350aa730eb319",
-    "translation": "0e1e3b39bb3253ca"
+    "ocr": "10e367be6a4b4ce0",
+    "translation": "8512eda4fbb049d3"
   }
 }
