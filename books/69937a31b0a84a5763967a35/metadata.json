@@ -1,0 +1,28 @@
+{
+  "id": "69937a31b0a84a5763967a35",
+  "title": "Thucydides: History of the Peloponnesian War I (Books 1-2, Loeb)",
+  "display_title": "Thucydides: History of the Peloponnesian War I (Books 1-2, Loeb)",
+  "author": "Thucydides",
+  "language": "Greek",
+  "year": 1919,
+  "published": "Unknown",
+  "pages_count": 1,
+  "pages_with_ocr": 1,
+  "pages_with_translation": 1,
+  "source_url": "https://sourcelibrary.org/book/69937a31b0a84a5763967a35",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "L108ThucycidesHistoryOfThePeloponnesianWarI12"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T19:20:41.480Z",
+  "_hashes": {
+    "ocr": "1e9eeee998081300",
+    "translation": "49f533ffada41bda"
+  }
+}
