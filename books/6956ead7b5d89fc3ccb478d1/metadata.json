@@ -7,8 +7,8 @@
   "year": 1727,
   "published": "1727",
   "pages_count": 344,
-  "pages_with_ocr": 10,
-  "pages_with_translation": 10,
+  "pages_with_ocr": 344,
+  "pages_with_translation": 344,
   "source_url": "https://sourcelibrary.org/book/6956ead7b5d89fc3ccb478d1",
   "license": "https://gallica.bnf.fr/html/und/conditions-dutilisation-des-contenus-de-gallica",
   "doi": null,
@@ -20,9 +20,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:30:58.145Z",
+  "synced_at": "2026-03-08T18:50:25.623Z",
   "_hashes": {
-    "ocr": "e5628f97575e97ea",
-    "translation": "7d135b5aec092834"
+    "ocr": "14c0bba7c8e445dd",
+    "translation": "b611bbbe64fd606b"
   }
 }
