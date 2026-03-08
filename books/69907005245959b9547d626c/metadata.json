@@ -1,0 +1,28 @@
+{
+  "id": "69907005245959b9547d626c",
+  "title": "De Magnetica Vulnerum Curatione",
+  "display_title": "De Magnetica Vulnerum Curatione",
+  "author": "Rudolph Goclenius",
+  "language": "Latin",
+  "year": 1613,
+  "published": "Unknown",
+  "pages_count": 320,
+  "pages_with_ocr": 320,
+  "pages_with_translation": 7,
+  "source_url": "https://sourcelibrary.org/book/69907005245959b9547d626c",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "BIUSante_pharma_res011168"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T22:11:37.817Z",
+  "_hashes": {
+    "ocr": "8c6c7ad13b233f01",
+    "translation": "32e1fb3e167792d3"
+  }
+}
