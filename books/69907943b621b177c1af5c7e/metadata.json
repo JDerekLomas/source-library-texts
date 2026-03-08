@@ -1,0 +1,28 @@
+{
+  "id": "69907943b621b177c1af5c7e",
+  "title": "Reste arabischen Heidentumes",
+  "display_title": "Reste arabischen Heidentumes",
+  "author": "Julius Wellhausen",
+  "language": "German",
+  "year": 1887,
+  "published": "Unknown",
+  "pages_count": 268,
+  "pages_with_ocr": 268,
+  "pages_with_translation": 2,
+  "source_url": "https://sourcelibrary.org/book/69907943b621b177c1af5c7e",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "restearabischen00wellgoog"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T22:01:06.798Z",
+  "_hashes": {
+    "ocr": "fa7df3bafc39b083",
+    "translation": "6d6c49cb14d6a858"
+  }
+}
