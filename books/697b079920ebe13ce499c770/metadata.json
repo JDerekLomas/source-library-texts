@@ -1,14 +1,14 @@
 {
   "id": "697b079920ebe13ce499c770",
   "title": "Des erreurs et de la verite",
-  "display_title": "Des erreurs et de la verite",
+  "display_title": "Of Errors and Truth",
   "author": "[Saint-Martin, Louis Claude de]",
   "language": "French",
   "year": 1781,
   "published": "1781",
   "pages_count": 635,
-  "pages_with_ocr": 504,
-  "pages_with_translation": 4,
+  "pages_with_ocr": 635,
+  "pages_with_translation": 624,
   "source_url": "https://sourcelibrary.org/book/697b079920ebe13ce499c770",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:24:24.286Z",
+  "synced_at": "2026-03-08T11:20:37.773Z",
   "_hashes": {
-    "ocr": "575de50df048af5e",
-    "translation": "4c4666c427f19804"
+    "ocr": "66ea5ba923c4222c",
+    "translation": "9468e0d44b88fe8c"
   }
 }
