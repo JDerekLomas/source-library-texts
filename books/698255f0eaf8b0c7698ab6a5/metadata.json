@@ -1,14 +1,14 @@
 {
   "id": "698255f0eaf8b0c7698ab6a5",
   "title": "De natuur en gronden des geloofs",
-  "display_title": "De natuur en gronden des geloofs",
+  "display_title": "The Nature and Grounds of Faith",
   "author": "Koelman, Jakobus",
   "language": "Dutch",
   "year": 1768,
   "published": "1768",
   "pages_count": 222,
-  "pages_with_ocr": 10,
-  "pages_with_translation": 6,
+  "pages_with_ocr": 222,
+  "pages_with_translation": 216,
   "source_url": "https://sourcelibrary.org/book/698255f0eaf8b0c7698ab6a5",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v4.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:30:48.802Z",
+  "synced_at": "2026-03-08T02:20:21.559Z",
   "_hashes": {
-    "ocr": "f70e3125bde979c7",
-    "translation": "0e81ae9ae808eb3a"
+    "ocr": "eb0ce8a94b067205",
+    "translation": "93cc659a75c91508"
   }
 }
