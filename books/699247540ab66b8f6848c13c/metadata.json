@@ -1,0 +1,28 @@
+{
+  "id": "699247540ab66b8f6848c13c",
+  "title": "The Saddharma-Pundarika / Lotus of the True Law (SBE Vol. 21)",
+  "display_title": "The Saddharma-Pundarika / Lotus of the True Law (SBE Vol. 21)",
+  "author": "H. Kern (trans.)",
+  "language": "English",
+  "year": 1884,
+  "published": "Unknown",
+  "pages_count": 537,
+  "pages_with_ocr": 537,
+  "pages_with_translation": 529,
+  "source_url": "https://sourcelibrary.org/book/699247540ab66b8f6848c13c",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "1922707.0021.001.umich.edu"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T17:20:25.847Z",
+  "_hashes": {
+    "ocr": "ce83a668de3e63f4",
+    "translation": "ac687990888a66b9"
+  }
+}
