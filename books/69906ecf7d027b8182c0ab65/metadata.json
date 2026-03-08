@@ -1,0 +1,26 @@
+{
+  "id": "69906ecf7d027b8182c0ab65",
+  "title": "Astrological and Natural Philosophical Works",
+  "display_title": "Vat.lat.4087",
+  "author": "Michael Scot",
+  "language": "Latin",
+  "year": 1300,
+  "published": "1300",
+  "pages_count": 246,
+  "pages_with_ocr": 246,
+  "pages_with_translation": 221,
+  "source_url": "https://sourcelibrary.org/book/69906ecf7d027b8182c0ab65",
+  "license": "CC-BY-NC-4.0",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T22:01:28.700Z",
+  "_hashes": {
+    "ocr": "ef109c50a1eaccd2",
+    "translation": "fde66c7717f32223"
+  }
+}
