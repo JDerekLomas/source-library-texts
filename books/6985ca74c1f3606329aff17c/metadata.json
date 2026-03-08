@@ -1,14 +1,14 @@
 {
   "id": "6985ca74c1f3606329aff17c",
   "title": "Prodromus dissertationum cosmographicarum",
-  "display_title": "Prodromus dissertationum cosmographicarum",
+  "display_title": "Forerunner of the Cosmographic Dissertations",
   "author": "Kepler, Johannes",
   "language": "Latin",
   "year": 1621,
   "published": "1621",
   "pages_count": 213,
-  "pages_with_ocr": 10,
-  "pages_with_translation": 6,
+  "pages_with_ocr": 213,
+  "pages_with_translation": 191,
   "source_url": "https://sourcelibrary.org/book/6985ca74c1f3606329aff17c",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v4.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:30:42.550Z",
+  "synced_at": "2026-03-08T05:00:22.728Z",
   "_hashes": {
-    "ocr": "60dae67a1a154cc0",
-    "translation": "ec64b5dd0c388162"
+    "ocr": "d5fc52c31719a0ed",
+    "translation": "9b9b0f396a0c1b5a"
   }
 }
