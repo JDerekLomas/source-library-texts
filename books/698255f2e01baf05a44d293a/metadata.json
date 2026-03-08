@@ -1,14 +1,14 @@
 {
   "id": "698255f2e01baf05a44d293a",
   "title": "Le monde naissant",
-  "display_title": "Le monde naissant",
+  "display_title": "The Nascent World",
   "author": "[Barin, Théodore]",
   "language": "French",
   "year": 1686,
   "published": "1686",
   "pages_count": 543,
-  "pages_with_ocr": 10,
-  "pages_with_translation": 4,
+  "pages_with_ocr": 543,
+  "pages_with_translation": 521,
   "source_url": "https://sourcelibrary.org/book/698255f2e01baf05a44d293a",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v4.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:30:41.946Z",
+  "synced_at": "2026-03-08T13:50:12.160Z",
   "_hashes": {
-    "ocr": "5852240beed23529",
-    "translation": "0a10289719fe173f"
+    "ocr": "7a12e627698c2084",
+    "translation": "586fdce1a1df2bd1"
   }
 }
