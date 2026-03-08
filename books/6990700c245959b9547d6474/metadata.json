@@ -1,0 +1,28 @@
+{
+  "id": "6990700c245959b9547d6474",
+  "title": "Coelestis Physiognomoniae Libri Sex",
+  "display_title": "Coelestis Physiognomoniae Libri Sex",
+  "author": "Giambattista della Porta",
+  "language": "Latin",
+  "year": 1603,
+  "published": "Unknown",
+  "pages_count": 206,
+  "pages_with_ocr": 206,
+  "pages_with_translation": 2,
+  "source_url": "https://sourcelibrary.org/book/6990700c245959b9547d6474",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "coelestisphysiog00port"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T22:11:31.874Z",
+  "_hashes": {
+    "ocr": "84be5f541f6987e0",
+    "translation": "05a78d364885662b"
+  }
+}
