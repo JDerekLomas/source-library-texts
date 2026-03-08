@@ -1,0 +1,28 @@
+{
+  "id": "69938daad5a98fd66f42e2fc",
+  "title": "Chronicon Paschale (Easter Chronicle, Dindorf/CSHB)",
+  "display_title": "Chronicon Paschale (Easter Chronicle, Dindorf/CSHB)",
+  "author": "Anonymous (Byzantine)",
+  "language": "Greek",
+  "year": 1832,
+  "published": "1832",
+  "pages_count": 762,
+  "pages_with_ocr": 762,
+  "pages_with_translation": 753,
+  "source_url": "https://sourcelibrary.org/book/69938daad5a98fd66f42e2fc",
+  "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bub_gb_N3AGAAAAQAAJ"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T19:30:49.918Z",
+  "_hashes": {
+    "ocr": "8033c8f6813f7690",
+    "translation": "90c58b2a939100c3"
+  }
+}
