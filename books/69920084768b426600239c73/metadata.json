@@ -1,0 +1,28 @@
+{
+  "id": "69920084768b426600239c73",
+  "title": "Rechnungsbuch der Froben & Episcopius",
+  "display_title": "Rechnungsbuch der Froben & Episcopius",
+  "author": "Froben Press, ed. Rudolf Wackernagel",
+  "language": "German",
+  "year": 1907,
+  "published": "Unknown",
+  "pages_count": 180,
+  "pages_with_ocr": 176,
+  "pages_with_translation": 158,
+  "source_url": "https://sourcelibrary.org/book/69920084768b426600239c73",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "rechnungsbuchder00frobuoft"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T23:11:08.262Z",
+  "_hashes": {
+    "ocr": "5c5ee18ce2e88f1b",
+    "translation": "ea49e67a6fe14cc1"
+  }
+}
