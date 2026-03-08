@@ -1,14 +1,14 @@
 {
   "id": "6984e8498a2f054f912420d3",
   "title": "Pasquillorum tomi duo",
-  "display_title": "Pasquillorum tomi duo",
+  "display_title": "Two Volumes of Pasquils",
   "author": "Unknown",
   "language": "Latin",
   "year": 1544,
   "published": "1544",
   "pages_count": 690,
-  "pages_with_ocr": 10,
-  "pages_with_translation": 7,
+  "pages_with_ocr": 690,
+  "pages_with_translation": 684,
   "source_url": "https://sourcelibrary.org/book/6984e8498a2f054f912420d3",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v4.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:31:35.302Z",
+  "synced_at": "2026-03-08T03:40:21.713Z",
   "_hashes": {
-    "ocr": "e1d806fa72ab128d",
-    "translation": "b78eb9bab79db54d"
+    "ocr": "4e9ea134c25e23d2",
+    "translation": "dce6cd9e890d14d3"
   }
 }
