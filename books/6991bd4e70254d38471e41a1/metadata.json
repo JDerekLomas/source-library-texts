@@ -1,0 +1,28 @@
+{
+  "id": "6991bd4e70254d38471e41a1",
+  "title": "Isis Revelata: An Inquiry into Animal Magnetism",
+  "display_title": "Isis Revelata: An Inquiry into Animal Magnetism",
+  "author": "John Campbell Colquhoun",
+  "language": "English",
+  "year": 1836,
+  "published": "Unknown",
+  "pages_count": 489,
+  "pages_with_ocr": 488,
+  "pages_with_translation": 463,
+  "source_url": "https://sourcelibrary.org/book/6991bd4e70254d38471e41a1",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "isisrevelataani03colqgoog"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T17:00:37.247Z",
+  "_hashes": {
+    "ocr": "f7268ba628e54afb",
+    "translation": "1804dc3f3299d633"
+  }
+}
