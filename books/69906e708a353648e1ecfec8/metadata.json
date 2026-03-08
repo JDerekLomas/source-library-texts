@@ -1,0 +1,26 @@
+{
+  "id": "69906e708a353648e1ecfec8",
+  "title": "Greek Astrological and Divinatory Texts (Geomancy, Onomancy)",
+  "display_title": "Greek astrological and divinatory texts (Cambridge, Trinity College, MS R.15.36)",
+  "author": "Nicholas of Otranto, pseudo-Pythagoras, pseudo-Petosirius, et al.",
+  "language": "Greek",
+  "year": 1325,
+  "published": "1325",
+  "pages_count": 290,
+  "pages_with_ocr": 290,
+  "pages_with_translation": 156,
+  "source_url": "https://sourcelibrary.org/book/69906e708a353648e1ecfec8",
+  "license": "CC-BY-NC-4.0",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T22:01:38.863Z",
+  "_hashes": {
+    "ocr": "a9c99af3de760f39",
+    "translation": "77109be92398b56c"
+  }
+}
