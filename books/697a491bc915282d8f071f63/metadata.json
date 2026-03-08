@@ -1,14 +1,14 @@
 {
   "id": "697a491bc915282d8f071f63",
   "title": "Dialogi d'amore",
-  "display_title": "Dialogi d'amore",
+  "display_title": "Dialogues of Love",
   "author": "Abrabanel, Jehuda",
   "language": "Italian",
   "year": 1535,
   "published": "1535",
-  "pages_count": 652,
-  "pages_with_ocr": 510,
-  "pages_with_translation": 6,
+  "pages_count": 628,
+  "pages_with_ocr": 628,
+  "pages_with_translation": 617,
   "source_url": "https://sourcelibrary.org/book/697a491bc915282d8f071f63",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:24:08.936Z",
+  "synced_at": "2026-03-08T11:20:33.320Z",
   "_hashes": {
-    "ocr": "a80859643d593332",
-    "translation": "b63a5f95ef49d566"
+    "ocr": "410be00c4d972f1a",
+    "translation": "74356ecbea813e07"
   }
 }
