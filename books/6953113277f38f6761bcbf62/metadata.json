@@ -1,0 +1,28 @@
+{
+  "id": "6953113277f38f6761bcbf62",
+  "title": "Liber Jubilaeorum (Ethiopic Text)",
+  "display_title": "Book of Jubilees (Ethiopic)",
+  "author": "August Dillmann (ed.)",
+  "language": "Ethiopic",
+  "year": 1859,
+  "published": "1859",
+  "pages_count": 192,
+  "pages_with_ocr": 192,
+  "pages_with_translation": 177,
+  "source_url": "https://sourcelibrary.org/book/6953113277f38f6761bcbf62",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "liberjubilaeorum00dilluoft"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T05:40:42.270Z",
+  "_hashes": {
+    "ocr": "20ebc75039a70a5f",
+    "translation": "954179f4a9a7495c"
+  }
+}
