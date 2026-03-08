@@ -1,14 +1,14 @@
 {
   "id": "6984e84e29eec62325221704",
   "title": "Orthodoxia theosophiae teutonico-Boehmianae contra Holzhausiam defensa, das ist: christliche Untersuchungen...wider Jacob Boehmens Auroram",
-  "display_title": "Orthodoxia theosophiae teutonico-Boehmianae contra Holzhausiam defensa, das ist: christliche Untersuchungen...wider Jacob Boehmens Auroram",
+  "display_title": "Orthodoxy of Teutonic-Boehmian Theosophy Defended",
   "author": "[Zimmermann, Johann Jacob]",
   "language": "German",
   "year": 1691,
   "published": "1691",
   "pages_count": 366,
-  "pages_with_ocr": 10,
-  "pages_with_translation": 5,
+  "pages_with_ocr": 366,
+  "pages_with_translation": 353,
   "source_url": "https://sourcelibrary.org/book/6984e84e29eec62325221704",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v4.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:31:31.436Z",
+  "synced_at": "2026-03-08T03:40:37.622Z",
   "_hashes": {
-    "ocr": "8061c759031ef228",
-    "translation": "5ae2493d4e593826"
+    "ocr": "e92c6dc7025c8fe3",
+    "translation": "579981a760fb5d6e"
   }
 }
