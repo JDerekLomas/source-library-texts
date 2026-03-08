@@ -1,0 +1,28 @@
+{
+  "id": "6992593e3d2d40d1b058b80b",
+  "title": "The Old-Javanese Ramayana Kakawin",
+  "display_title": "The Old-Javanese Ramayana Kakawin",
+  "author": "Anonymous (Old Javanese)",
+  "language": "Old Javanese",
+  "year": 1955,
+  "published": "1955",
+  "pages_count": 133,
+  "pages_with_ocr": 133,
+  "pages_with_translation": 131,
+  "source_url": "https://sourcelibrary.org/book/6992593e3d2d40d1b058b80b",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "oapen-20.500.12657-32234"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T18:14:46.855Z",
+  "_hashes": {
+    "ocr": "4958d9f2ac60c389",
+    "translation": "7441f329dc4d5f01"
+  }
+}
