@@ -1,0 +1,28 @@
+{
+  "id": "69907a0bdb8b55d19ec68c48",
+  "title": "Corea, the Hermit Nation",
+  "display_title": "Corea, the Hermit Nation",
+  "author": "William Elliot Griffis",
+  "language": "English",
+  "year": 1882,
+  "published": "Unknown",
+  "pages_count": 576,
+  "pages_with_ocr": 576,
+  "pages_with_translation": 2,
+  "source_url": "https://sourcelibrary.org/book/69907a0bdb8b55d19ec68c48",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "coreahermitnatio00grif_7"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T22:21:36.402Z",
+  "_hashes": {
+    "ocr": "6318298703c6b033",
+    "translation": "d7fb014a17caad7c"
+  }
+}
