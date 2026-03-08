@@ -1,0 +1,28 @@
+{
+  "id": "69920b74e0a548a13d882d08",
+  "title": "Astuatsashunch: Armenian Bible, New Testament (Zohrab)",
+  "display_title": "Astuatsashunch: Armenian Bible, New Testament (Zohrab)",
+  "author": "Hovhannes Zohrab (ed.)",
+  "language": "Armenian",
+  "year": 1805,
+  "published": "Unknown",
+  "pages_count": 1626,
+  "pages_with_ocr": 1626,
+  "pages_with_translation": 1605,
+  "source_url": "https://sourcelibrary.org/book/69920b74e0a548a13d882d08",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "NewTestamentInClassicalArmenian"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T17:24:54.984Z",
+  "_hashes": {
+    "ocr": "0f26622a92ca971f",
+    "translation": "a64d0ca7820ca914"
+  }
+}
