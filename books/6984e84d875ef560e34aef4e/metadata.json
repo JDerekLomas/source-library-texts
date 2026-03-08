@@ -1,14 +1,14 @@
 {
   "id": "6984e84d875ef560e34aef4e",
   "title": "Opuscula",
-  "display_title": "Opuscula",
+  "display_title": "Minor Works",
   "author": "Schurman, Anna Maria van",
   "language": "Latin",
   "year": 1648,
   "published": "1648",
   "pages_count": 433,
-  "pages_with_ocr": 10,
-  "pages_with_translation": 0,
+  "pages_with_ocr": 433,
+  "pages_with_translation": 412,
   "source_url": "https://sourcelibrary.org/book/6984e84d875ef560e34aef4e",
   "license": "publicdomain",
   "doi": null,
@@ -16,11 +16,11 @@
   "processing": {
     "ocr_model": "gemini-3-flash-preview",
     "prompt_version": "v4.2026-02",
-    "translation_model": null
+    "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:31:30.890Z",
+  "synced_at": "2026-03-08T03:50:21.719Z",
   "_hashes": {
-    "ocr": "25f30e3f7b3d1f96",
-    "translation": "e3b0c44298fc1c14"
+    "ocr": "8933217346ec3e9a",
+    "translation": "601c43bb28926e1c"
   }
 }
