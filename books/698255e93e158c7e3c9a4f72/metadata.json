@@ -1,14 +1,14 @@
 {
   "id": "698255e93e158c7e3c9a4f72",
   "title": "Het mysterium magnum, ofte een verklaaring over het eerste boek Mosis",
-  "display_title": "Het mysterium magnum, ofte een verklaaring over het eerste boek Mosis",
+  "display_title": "The Great Mystery",
   "author": "Boehme, Jacob",
   "language": "Dutch",
   "year": 1700,
   "published": "1700",
-  "pages_count": 895,
-  "pages_with_ocr": 10,
-  "pages_with_translation": 1,
+  "pages_count": 886,
+  "pages_with_ocr": 886,
+  "pages_with_translation": 873,
   "source_url": "https://sourcelibrary.org/book/698255e93e158c7e3c9a4f72",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v4.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:30:47.406Z",
+  "synced_at": "2026-03-08T15:20:47.187Z",
   "_hashes": {
-    "ocr": "8c7df8b8d8d81ea9",
-    "translation": "27c73ad7df4e162f"
+    "ocr": "f91e213f9b79ab1d",
+    "translation": "b4063dc5db7a2d50"
   }
 }
