@@ -1,0 +1,28 @@
+{
+  "id": "69907981b621b177c1af7fe0",
+  "title": "The Dragon in China and Japan",
+  "display_title": "The Dragon in China and Japan",
+  "author": "Marinus Willem de Visser",
+  "language": "English",
+  "year": 1913,
+  "published": "Unknown",
+  "pages_count": 266,
+  "pages_with_ocr": 266,
+  "pages_with_translation": 255,
+  "source_url": "https://sourcelibrary.org/book/69907981b621b177c1af7fe0",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "cu31924021444728"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T16:11:33.798Z",
+  "_hashes": {
+    "ocr": "da92f48e8394e2cc",
+    "translation": "b3a84f3d9affc4b4"
+  }
+}
