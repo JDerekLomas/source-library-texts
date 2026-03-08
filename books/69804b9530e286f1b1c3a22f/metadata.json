@@ -1,14 +1,14 @@
 {
   "id": "69804b9530e286f1b1c3a22f",
   "title": "Kurze Fragen",
-  "display_title": "Kurze Fragen",
+  "display_title": "Short Questions",
   "author": "Unknown",
   "language": "German",
   "year": 1784,
   "published": "1784",
   "pages_count": 182,
-  "pages_with_ocr": 10,
-  "pages_with_translation": 3,
+  "pages_with_ocr": 182,
+  "pages_with_translation": 166,
   "source_url": "https://sourcelibrary.org/book/69804b9530e286f1b1c3a22f",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v4.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:30:58.479Z",
+  "synced_at": "2026-03-08T01:00:25.309Z",
   "_hashes": {
-    "ocr": "8bb298292d51418d",
-    "translation": "aea18c76cbc2647c"
+    "ocr": "56f9efc79f2643e0",
+    "translation": "ce9ee3d2afa647a2"
   }
 }
