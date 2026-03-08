@@ -1,14 +1,14 @@
 {
   "id": "69751591233423aeec9e88f4",
   "title": "L'Aurore naissante",
-  "display_title": "L'Aurore naissante",
+  "display_title": "The Rising Dawn",
   "author": "Boehme, Jacob",
   "language": "French",
   "year": 1800,
   "published": "1800",
   "pages_count": 372,
   "pages_with_ocr": 372,
-  "pages_with_translation": 6,
+  "pages_with_translation": 364,
   "source_url": "https://sourcelibrary.org/book/69751591233423aeec9e88f4",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:25:53.928Z",
+  "synced_at": "2026-03-08T13:10:37.351Z",
   "_hashes": {
     "ocr": "62b952f832039281",
-    "translation": "af68015c558834b4"
+    "translation": "564494d6bed7288c"
   }
 }
