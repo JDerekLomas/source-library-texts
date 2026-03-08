@@ -1,0 +1,26 @@
+{
+  "id": "69a027816a20ac4e1fc4051e",
+  "title": "Theologia sive mistica phylosophia",
+  "display_title": "Theology or Mystical Philosophy",
+  "author": "Aristoteles",
+  "language": "Unknown",
+  "year": 1519,
+  "published": "1519",
+  "pages_count": 292,
+  "pages_with_ocr": 292,
+  "pages_with_translation": 284,
+  "source_url": "https://sourcelibrary.org/book/69a027816a20ac4e1fc4051e",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T04:20:21.607Z",
+  "_hashes": {
+    "ocr": "a7b245119d5a9e23",
+    "translation": "5bc439a296e1df31"
+  }
+}
