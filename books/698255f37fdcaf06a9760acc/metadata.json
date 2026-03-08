@@ -1,14 +1,14 @@
 {
   "id": "698255f37fdcaf06a9760acc",
   "title": "Kirani Kiranides, et ad eas Rhyakini Koronides",
-  "display_title": "Kirani Kiranides, et ad eas Rhyakini Koronides",
+  "display_title": "The Cyranides and the Additions of Rhyakinus",
   "author": "[Cyranus]|[Hermes Trismegistus]",
   "language": "Latin",
   "year": 1638,
   "published": "1638",
   "pages_count": 223,
-  "pages_with_ocr": 10,
-  "pages_with_translation": 4,
+  "pages_with_ocr": 223,
+  "pages_with_translation": 212,
   "source_url": "https://sourcelibrary.org/book/698255f37fdcaf06a9760acc",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v4.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:30:44.438Z",
+  "synced_at": "2026-03-08T02:50:28.711Z",
   "_hashes": {
-    "ocr": "9316266aa64f9388",
-    "translation": "3bb17178b96db742"
+    "ocr": "e47ac2debc86930d",
+    "translation": "3bdfb52073fb8980"
   }
 }
