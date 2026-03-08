@@ -1,0 +1,28 @@
+{
+  "id": "6992cd8b43713c66ea637312",
+  "title": "本草綱目·卷十",
+  "display_title": "Compendium of Materia Medica, Volume 10",
+  "author": "李時珍",
+  "language": "Chinese",
+  "year": 1596,
+  "published": "1596",
+  "pages_count": 106,
+  "pages_with_ocr": 106,
+  "pages_with_translation": 106,
+  "source_url": "https://sourcelibrary.org/book/6992cd8b43713c66ea637312",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "06048791.cn"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T18:50:45.138Z",
+  "_hashes": {
+    "ocr": "c634c1024732c83e",
+    "translation": "ccc562cf0b458ece"
+  }
+}
