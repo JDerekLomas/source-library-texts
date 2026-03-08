@@ -1,0 +1,28 @@
+{
+  "id": "699258ca8812793469fdd8a6",
+  "title": "Outlines of Mahayana Buddhism",
+  "display_title": "Outlines of Mahayana Buddhism",
+  "author": "D.T. Suzuki",
+  "language": "English",
+  "year": 1907,
+  "published": "Unknown",
+  "pages_count": 444,
+  "pages_with_ocr": 440,
+  "pages_with_translation": 432,
+  "source_url": "https://sourcelibrary.org/book/699258ca8812793469fdd8a6",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "outlinesofmahay00suzurich"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T18:50:36.743Z",
+  "_hashes": {
+    "ocr": "b25600f4be829836",
+    "translation": "4e4628632dbdf70a"
+  }
+}
