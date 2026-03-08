@@ -1,0 +1,28 @@
+{
+  "id": "6953c95477f38f6761bde815",
+  "title": "Tibetan Book of the Dead (Bardo Thodol)",
+  "display_title": "Tibetan Book of the Dead (Bardo Thodol)",
+  "author": "Padmasambhava / Evans-Wentz",
+  "language": "Tibetan",
+  "year": 1927,
+  "published": "1927",
+  "pages_count": 257,
+  "pages_with_ocr": 256,
+  "pages_with_translation": 256,
+  "source_url": "https://sourcelibrary.org/book/6953c95477f38f6761bde815",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "TheTibetanBookOfTheDead_201607"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T10:00:43.644Z",
+  "_hashes": {
+    "ocr": "3ce8a678f5630dc3",
+    "translation": "6b2f6835a358160b"
+  }
+}
