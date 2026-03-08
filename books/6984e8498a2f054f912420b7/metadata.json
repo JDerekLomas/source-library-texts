@@ -1,0 +1,26 @@
+{
+  "id": "6984e8498a2f054f912420b7",
+  "title": "Pansophiae prodromus, et conatuum pansophicorum dilucidatio",
+  "display_title": "A Forerunner of Universal Wisdom",
+  "author": "Comenius, Jan Amos",
+  "language": "Latin",
+  "year": 1644,
+  "published": "1644",
+  "pages_count": 565,
+  "pages_with_ocr": 565,
+  "pages_with_translation": 549,
+  "source_url": "https://sourcelibrary.org/book/6984e8498a2f054f912420b7",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T03:20:37.799Z",
+  "_hashes": {
+    "ocr": "e3844050b4e74191",
+    "translation": "6e0ac0557f44ee80"
+  }
+}
