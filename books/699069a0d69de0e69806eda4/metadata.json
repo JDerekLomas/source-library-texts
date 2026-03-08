@@ -1,0 +1,28 @@
+{
+  "id": "699069a0d69de0e69806eda4",
+  "title": "Geschichte des Teufels, Vol. II",
+  "display_title": "Geschichte des Teufels, Vol. II",
+  "author": "Gustav Roskoff",
+  "language": "German",
+  "year": 1869,
+  "published": "Unknown",
+  "pages_count": 632,
+  "pages_with_ocr": 224,
+  "pages_with_translation": 6,
+  "source_url": "https://sourcelibrary.org/book/699069a0d69de0e69806eda4",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "geschichtedesteu02roskuoft"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T21:51:00.952Z",
+  "_hashes": {
+    "ocr": "f34ce0198b088983",
+    "translation": "02fabc0af042a973"
+  }
+}
