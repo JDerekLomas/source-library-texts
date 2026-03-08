@@ -1,0 +1,28 @@
+{
+  "id": "6991d46921124c9ad6944323",
+  "title": "Sat-Cakra-Nirupana with Sanskrit Commentary",
+  "display_title": "Description of the Six Chakras",
+  "author": "Purnananda",
+  "language": "Sanskrit",
+  "year": 1526,
+  "published": "Unknown",
+  "pages_count": 107,
+  "pages_with_ocr": 107,
+  "pages_with_translation": 107,
+  "source_url": "https://sourcelibrary.org/book/6991d46921124c9ad6944323",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "satcakranirupana-with-skt-comm"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T16:23:14.207Z",
+  "_hashes": {
+    "ocr": "f1ccc504d48137bb",
+    "translation": "b6a9c65555c1e29d"
+  }
+}
