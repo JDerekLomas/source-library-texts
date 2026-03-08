@@ -1,0 +1,28 @@
+{
+  "id": "6992cc3491c64b08f7c797e6",
+  "title": "Planisphère chinois (Chinese World Map)",
+  "display_title": "Planisphère chinois (Chinese World Map)",
+  "author": "M. Yang (engraver)",
+  "language": "Chinese",
+  "year": 1750,
+  "published": "Unknown",
+  "pages_count": 1,
+  "pages_with_ocr": 1,
+  "pages_with_translation": 1,
+  "source_url": "https://sourcelibrary.org/book/6992cc3491c64b08f7c797e6",
+  "license": "https://gallica.bnf.fr/html/und/conditions-dutilisation-des-contenus-de-gallica",
+  "doi": null,
+  "external_ids": {
+    "gallica": "btv1b8491023v"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T17:50:51.880Z",
+  "_hashes": {
+    "ocr": "ff40893bc49cfd65",
+    "translation": "b920e8ee21a38325"
+  }
+}
