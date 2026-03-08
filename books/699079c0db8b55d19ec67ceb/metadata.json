@@ -1,0 +1,28 @@
+{
+  "id": "699079c0db8b55d19ec67ceb",
+  "title": "The Ghost-Dance Religion and the Sioux Outbreak of 1890",
+  "display_title": "The Ghost-Dance Religion and the Sioux Outbreak of 1890",
+  "author": "James Mooney",
+  "language": "English",
+  "year": 1896,
+  "published": "Unknown",
+  "pages_count": 600,
+  "pages_with_ocr": 595,
+  "pages_with_translation": 535,
+  "source_url": "https://sourcelibrary.org/book/699079c0db8b55d19ec67ceb",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "ghostdancesioux00moonrich"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T22:21:49.214Z",
+  "_hashes": {
+    "ocr": "35591d082a13f986",
+    "translation": "1c58082211face37"
+  }
+}
