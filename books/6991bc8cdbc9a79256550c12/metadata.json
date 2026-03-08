@@ -1,0 +1,28 @@
+{
+  "id": "6991bc8cdbc9a79256550c12",
+  "title": "Thought-Force in Business and Everyday Life",
+  "display_title": "Thought-Force in Business and Everyday Life",
+  "author": "William Walker Atkinson",
+  "language": "English",
+  "year": 1907,
+  "published": "Unknown",
+  "pages_count": 107,
+  "pages_with_ocr": 107,
+  "pages_with_translation": 1,
+  "source_url": "https://sourcelibrary.org/book/6991bc8cdbc9a79256550c12",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "thoughtforceinb00atkigoog"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T22:20:56.533Z",
+  "_hashes": {
+    "ocr": "65900b9281bbef66",
+    "translation": "51cd2b39461e3d0a"
+  }
+}
