@@ -1,0 +1,28 @@
+{
+  "id": "6953a93177f38f6761bd5789",
+  "title": "Apophthegmata Studien",
+  "display_title": "Apophthegmata Studien",
+  "author": "W. Bousset",
+  "language": "Greek",
+  "year": 1923,
+  "published": "Unknown",
+  "pages_count": 362,
+  "pages_with_ocr": 362,
+  "pages_with_translation": 358,
+  "source_url": "https://sourcelibrary.org/book/6953a93177f38f6761bd5789",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "apophthegmatastu0000bous"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T09:30:38.028Z",
+  "_hashes": {
+    "ocr": "d6a92239c2de3f55",
+    "translation": "d3e20111630f9087"
+  }
+}
