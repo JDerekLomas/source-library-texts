@@ -1,0 +1,28 @@
+{
+  "id": "6993574e83378b7aed7cf419",
+  "title": "Pistis Sophia: A Gnostic Gospel",
+  "display_title": "Pistis Sophia: A Gnostic Gospel",
+  "author": "G.R.S. Mead (trans.)",
+  "language": "English",
+  "year": 1921,
+  "published": "1921",
+  "pages_count": 406,
+  "pages_with_ocr": 88,
+  "pages_with_translation": 7,
+  "source_url": "https://sourcelibrary.org/book/6993574e83378b7aed7cf419",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "pistissophiagnos1921mead"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T23:50:53.848Z",
+  "_hashes": {
+    "ocr": "4ca035851ac1d29f",
+    "translation": "58d3026b2559985b"
+  }
+}
