@@ -7,8 +7,8 @@
   "year": 1478,
   "published": "Unknown",
   "pages_count": 402,
-  "pages_with_ocr": 10,
-  "pages_with_translation": 10,
+  "pages_with_ocr": 402,
+  "pages_with_translation": 397,
   "source_url": "https://sourcelibrary.org/book/6958ea099659a6529d577d58",
   "license": "https://gallica.bnf.fr/html/und/conditions-dutilisation-des-contenus-de-gallica",
   "doi": null,
@@ -20,9 +20,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:31:11.972Z",
+  "synced_at": "2026-03-08T13:20:37.803Z",
   "_hashes": {
-    "ocr": "8ab66a1a2c18d330",
-    "translation": "e53eee8c9b3a6f9e"
+    "ocr": "daa3075c86070054",
+    "translation": "d523254e0207ee8a"
   }
 }
