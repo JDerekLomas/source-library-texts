@@ -1,0 +1,26 @@
+{
+  "id": "69906ed28a353648e1ed04da",
+  "title": "Speculum astronomiae",
+  "display_title": "Vat.lat.4275",
+  "author": "Pseudo-Albertus Magnus",
+  "language": "Latin",
+  "year": 1280,
+  "published": "1280",
+  "pages_count": 266,
+  "pages_with_ocr": 222,
+  "pages_with_translation": 5,
+  "source_url": "https://sourcelibrary.org/book/69906ed28a353648e1ed04da",
+  "license": "CC-BY-NC-4.0",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T22:01:25.508Z",
+  "_hashes": {
+    "ocr": "7ed434991512602b",
+    "translation": "fd72d7da3c255871"
+  }
+}
