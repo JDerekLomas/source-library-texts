@@ -1,0 +1,28 @@
+{
+  "id": "69906aa61cf6ed5fbc8f7907",
+  "title": "Haunted Houses",
+  "display_title": "Haunted Houses",
+  "author": "Camille Flammarion",
+  "language": "English",
+  "year": 1923,
+  "published": "Unknown",
+  "pages_count": 410,
+  "pages_with_ocr": 410,
+  "pages_with_translation": 400,
+  "source_url": "https://sourcelibrary.org/book/69906aa61cf6ed5fbc8f7907",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "hauntedhouses00flam_0"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T15:50:58.796Z",
+  "_hashes": {
+    "ocr": "adffbd94ea697f39",
+    "translation": "7a3158a1cd552392"
+  }
+}
