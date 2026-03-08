@@ -1,0 +1,28 @@
+{
+  "id": "6991dc73569478bd6c9d4af4",
+  "title": "A System of Moral Philosophy, Vol. I",
+  "display_title": "A System of Moral Philosophy, Vol. I",
+  "author": "Francis Hutcheson",
+  "language": "English",
+  "year": 1755,
+  "published": "Unknown",
+  "pages_count": 431,
+  "pages_with_ocr": 431,
+  "pages_with_translation": 428,
+  "source_url": "https://sourcelibrary.org/book/6991dc73569478bd6c9d4af4",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bim_eighteenth-century_a-system-of-moral-philos_hutcheson-francis_1755_1"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T16:30:40.014Z",
+  "_hashes": {
+    "ocr": "e1a5c6f934b5ffb4",
+    "translation": "b5f2966fb1979fee"
+  }
+}
