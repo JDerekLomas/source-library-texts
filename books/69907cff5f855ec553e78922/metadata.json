@@ -1,0 +1,28 @@
+{
+  "id": "69907cff5f855ec553e78922",
+  "title": "Ancient India: Its Language and Religions",
+  "display_title": "Ancient India: Its Language and Religions",
+  "author": "Hermann Oldenberg",
+  "language": "English",
+  "year": 1896,
+  "published": "Unknown",
+  "pages_count": 134,
+  "pages_with_ocr": 130,
+  "pages_with_translation": 122,
+  "source_url": "https://sourcelibrary.org/book/69907cff5f855ec553e78922",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "ancientindiaitsl00oldeiala"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T16:10:53.039Z",
+  "_hashes": {
+    "ocr": "b58e6be1b0748fbc",
+    "translation": "370cd058565f964a"
+  }
+}
