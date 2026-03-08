@@ -1,0 +1,28 @@
+{
+  "id": "69907b1f5f855ec553e70c6b",
+  "title": "Recherches sur les superstitions en Chine, Vol. 12",
+  "display_title": "Recherches sur les superstitions en Chine, Vol. 12",
+  "author": "Henri Doré",
+  "language": "French",
+  "year": 1929,
+  "published": "Unknown",
+  "pages_count": 368,
+  "pages_with_ocr": 368,
+  "pages_with_translation": 3,
+  "source_url": "https://sourcelibrary.org/book/69907b1f5f855ec553e70c6b",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "recherchessurles12doruoft"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T22:20:50.549Z",
+  "_hashes": {
+    "ocr": "15c8ce8579197b28",
+    "translation": "24cadca368c59935"
+  }
+}
