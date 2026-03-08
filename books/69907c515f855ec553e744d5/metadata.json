@@ -1,0 +1,28 @@
+{
+  "id": "69907c515f855ec553e744d5",
+  "title": "Life in Southern Nigeria: Magic, Beliefs and Customs of the Ibibio",
+  "display_title": "Life in Southern Nigeria: Magic, Beliefs and Customs of the Ibibio",
+  "author": "P. Amaury Talbot",
+  "language": "English",
+  "year": 1923,
+  "published": "Unknown",
+  "pages_count": 450,
+  "pages_with_ocr": 450,
+  "pages_with_translation": 1,
+  "source_url": "https://sourcelibrary.org/book/69907c515f855ec553e744d5",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "lifeinsouthernni00talb"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T22:21:05.770Z",
+  "_hashes": {
+    "ocr": "c69b43ce8abc67fa",
+    "translation": "485e00cafeaccf55"
+  }
+}
