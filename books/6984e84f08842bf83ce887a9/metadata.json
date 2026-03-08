@@ -1,14 +1,14 @@
 {
   "id": "6984e84f08842bf83ce887a9",
   "title": "Philosophische Unterredung zwischen dem fliegenden Mercurium und einem gemeinen Schmeltzer",
-  "display_title": "Philosophische Unterredung zwischen dem fliegenden Mercurium und einem gemeinen Schmeltzer",
+  "display_title": "Philosophical Dialogue between the Flying Mercury and a Common Smelter",
   "author": "Jugel, Johann Gottfried",
   "language": "German",
   "year": 1743,
   "published": "1743",
   "pages_count": 292,
-  "pages_with_ocr": 10,
-  "pages_with_translation": 1,
+  "pages_with_ocr": 292,
+  "pages_with_translation": 276,
   "source_url": "https://sourcelibrary.org/book/6984e84f08842bf83ce887a9",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v4.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:31:16.065Z",
+  "synced_at": "2026-03-08T04:10:30.475Z",
   "_hashes": {
-    "ocr": "a586bc87562e2cfb",
-    "translation": "733334c2064eb6d1"
+    "ocr": "32fb64c2f438f397",
+    "translation": "f3f889d43d66db81"
   }
 }
