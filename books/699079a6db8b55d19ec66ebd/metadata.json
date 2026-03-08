@@ -1,0 +1,28 @@
+{
+  "id": "699079a6db8b55d19ec66ebd",
+  "title": "Ancient Tales and Folklore of Japan",
+  "display_title": "Ancient Tales and Folklore of Japan",
+  "author": "Richard Gordon Smith",
+  "language": "English",
+  "year": 1908,
+  "published": "Unknown",
+  "pages_count": 632,
+  "pages_with_ocr": 618,
+  "pages_with_translation": 506,
+  "source_url": "https://sourcelibrary.org/book/699079a6db8b55d19ec66ebd",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "ancienttalesandf00gordrich"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T22:10:59.571Z",
+  "_hashes": {
+    "ocr": "47f1b4e45e79f224",
+    "translation": "d642f96833121743"
+  }
+}
