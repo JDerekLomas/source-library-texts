@@ -1,14 +1,14 @@
 {
   "id": "697d9c999788c62e1238c86c",
   "title": "Harmoniae inperscrutabilis chymico-philosophicae",
-  "display_title": "Harmoniae inperscrutabilis chymico-philosophicae",
+  "display_title": "Inscrutable Chemico-Philosophical Harmonies",
   "author": "[Grasshoff, Johann]",
   "language": "Latin",
   "year": 1625,
   "published": "1625",
-  "pages_count": 704,
-  "pages_with_ocr": 510,
-  "pages_with_translation": 5,
+  "pages_count": 680,
+  "pages_with_ocr": 680,
+  "pages_with_translation": 666,
   "source_url": "https://sourcelibrary.org/book/697d9c999788c62e1238c86c",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:24:17.418Z",
+  "synced_at": "2026-03-08T17:50:54.742Z",
   "_hashes": {
-    "ocr": "a51fc5fb91e5c39e",
-    "translation": "a9249f97567a7eb8"
+    "ocr": "f4757a5916d0ee5c",
+    "translation": "c943f3d4cb81f24d"
   }
 }
