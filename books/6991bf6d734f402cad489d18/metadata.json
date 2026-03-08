@@ -1,0 +1,26 @@
+{
+  "id": "6991bf6d734f402cad489d18",
+  "title": "Illustrated Bestiary with 106 Miniatures (Harley MS 4751)",
+  "display_title": "harley ms 4751",
+  "author": "Anonymous",
+  "language": "Latin",
+  "year": 1235,
+  "published": "Unknown",
+  "pages_count": 161,
+  "pages_with_ocr": 161,
+  "pages_with_translation": 156,
+  "source_url": "https://sourcelibrary.org/book/6991bf6d734f402cad489d18",
+  "license": "unknown",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T17:51:24.327Z",
+  "_hashes": {
+    "ocr": "bab8b61511db9ef8",
+    "translation": "0d8957f405c1650e"
+  }
+}
