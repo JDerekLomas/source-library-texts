@@ -1,14 +1,14 @@
 {
   "id": "6990676c249ce014347d3fe6",
   "title": "Pancha Patchichastiram",
-  "display_title": "Pancha Patchichastiram",
+  "display_title": "The Science of the Five Birds and the Wisdom of Breath",
   "author": "Agastya Maha Munivar",
   "language": "Tamil",
   "year": 1900,
   "published": "Unknown",
   "pages_count": 146,
-  "pages_with_ocr": 13,
-  "pages_with_translation": 0,
+  "pages_with_ocr": 146,
+  "pages_with_translation": 96,
   "source_url": "https://sourcelibrary.org/book/6990676c249ce014347d3fe6",
   "license": "publicdomain",
   "doi": null,
@@ -18,11 +18,11 @@
   "processing": {
     "ocr_model": "gemini-3-flash-preview",
     "prompt_version": "v4.2026-02",
-    "translation_model": null
+    "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:29:59.045Z",
+  "synced_at": "2026-03-08T21:40:37.760Z",
   "_hashes": {
-    "ocr": "dd3109e410e2e0dc",
-    "translation": "e3b0c44298fc1c14"
+    "ocr": "8dc9a92d509489f3",
+    "translation": "f554ae1b3e18d90a"
   }
 }
