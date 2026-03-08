@@ -1,0 +1,28 @@
+{
+  "id": "69906ad11cf6ed5fbc8f7ffc",
+  "title": "The Making of Religion",
+  "display_title": "The Making of Religion",
+  "author": "Andrew Lang",
+  "language": "English",
+  "year": 1898,
+  "published": "Unknown",
+  "pages_count": 434,
+  "pages_with_ocr": 433,
+  "pages_with_translation": 417,
+  "source_url": "https://sourcelibrary.org/book/69906ad11cf6ed5fbc8f7ffc",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "makingofreligion00lang_0"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T16:00:36.557Z",
+  "_hashes": {
+    "ocr": "15418d67e602e12b",
+    "translation": "423711470d0aca59"
+  }
+}
