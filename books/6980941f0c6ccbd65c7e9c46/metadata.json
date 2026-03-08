@@ -1,14 +1,14 @@
 {
   "id": "6980941f0c6ccbd65c7e9c46",
   "title": "Lexicon hieroglyphicum sacro-profanum, of woordboek",
-  "display_title": "Lexicon hieroglyphicum sacro-profanum, of woordboek",
+  "display_title": "Sacred and Profane Hieroglyphic Lexicon",
   "author": "Koning, Martinus",
   "language": "Latin",
   "year": 1722,
   "published": "1722-1726",
   "pages_count": 606,
-  "pages_with_ocr": 444,
-  "pages_with_translation": 4,
+  "pages_with_ocr": 606,
+  "pages_with_translation": 586,
   "source_url": "https://sourcelibrary.org/book/6980941f0c6ccbd65c7e9c46",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v4.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:24:57.917Z",
+  "synced_at": "2026-03-08T01:20:25.915Z",
   "_hashes": {
-    "ocr": "f7746ae50a676d95",
-    "translation": "f49c50686dddbc77"
+    "ocr": "300b74468ef673fa",
+    "translation": "0553229a7f9db54d"
   }
 }
