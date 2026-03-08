@@ -1,0 +1,28 @@
+{
+  "id": "69904dd97d19f3f2aac1d57b",
+  "title": "De Coelesti Hierarchia",
+  "display_title": "Pseudo-Dionysius: De Coelesti Hierarchia (c.1300 MS)",
+  "author": "Pseudo-Dionysius the Areopagite",
+  "language": "Latin",
+  "year": 1498,
+  "published": "Unknown",
+  "pages_count": 1,
+  "pages_with_ocr": 1,
+  "pages_with_translation": 1,
+  "source_url": "https://sourcelibrary.org/book/69904dd97d19f3f2aac1d57b",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "BeineckeMS526_47"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T15:20:30.070Z",
+  "_hashes": {
+    "ocr": "071956c7ceef9973",
+    "translation": "91f3d0fad89cf35d"
+  }
+}
