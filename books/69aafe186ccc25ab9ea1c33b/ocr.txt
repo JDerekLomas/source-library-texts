@@ -1,0 +1,44 @@
+--- Page 1 ---
+This is an administrative text from the **Ur III period** (Neo-Sumerian, ca. 21st century BC), likely originating from the city of **Umma**. It records the delivery of fresh apples to the palace. The tablet is a standard cushion-shaped clay tablet in good condition, featuring a vertical crack on both the obverse and reverse.
+
+<surface>full-view</surface>
+<script>Neo-Sumerian</script>
+<language>Sumerian</language>
+<period>Ur III, reign of Šu-Suen (ca. 2037-2029 BC)</period>
+<condition>Well-preserved, light buff clay, with a prominent vertical crack running through both faces.</condition>
+<genre>administrative</genre>
+
+<transliteration>
+@obverse
+1. 1(barig) 1(ban2) {gesz}haszhur duru5
+2. ki-szum2-ma-ta
+3. 1(barig) 3(ban2) {gesz}haszhur duru5
+4. e2-gal-sze3
+
+@reverse
+1. de6-a
+2. giri3 lu2-{d}nin-szubur
+3. iti szu-numun
+4. mu {d}szu-{d}suen
+5. lugal
+</transliteration>
+
+<confidence>0.95</confidence>
+
+<notes>
+- **Obv. 1, 3**: The fruit amounts are written in standard capacity measures: 1(barig) is a large horizontal wedge; 1(ban2) and 3(ban2) are represented by 1 and 3 vertical wedges respectively.
+- **Obv. 2**: `ki-szum2-ma-ta` (from the onion field). In Umma, apples were frequently intercropped in onion gardens.
+- **Rev. 3**: `iti szu-numun` is the 4th month of the Umma calendar.
+- **Rev. 4-5**: The year formula `mu {d}szu-{d}suen lugal` corresponds to the first year of Šu-Suen (ca. 2037 BC). The name is split across two lines due to space constraints.
+- **Museum Label**: The number "83.72" on the bottom edge is a modern inventory or auction lot number.
+</notes>
+
+<vocab>
+- **{gesz}haszhur duru5**: fresh apples
+- **ki-szum2-ma**: onion-field / garden (place of origin)
+- **e2-gal-sze3**: to the palace (destination)
+- **de6-a**: delivered / brought
+- **giri3**: via / by means of (introducing the official in charge)
+- **lu2-{d}nin-szubur**: personal name ("The man of the deity Ninshubur")
+- **iti szu-numun**: Month of Sowing (Month 4 at Umma)
+</vocab>

@@ -1,0 +1,26 @@
+{
+  "id": "69aafe186ccc25ab9ea1c33b",
+  "title": "Ur III Administrative Tablet (Drehem)",
+  "display_title": "Ur III Administrative Tablet (Drehem)",
+  "author": "Unknown scribe (Puzriš-Dagan)",
+  "language": "Sumerian",
+  "year": -2038,
+  "published": "ca. 2038 BC",
+  "pages_count": 1,
+  "pages_with_ocr": 1,
+  "pages_with_translation": 1,
+  "source_url": "https://sourcelibrary.org/book/69aafe186ccc25ab9ea1c33b",
+  "license": "varies",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v1-poc",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T19:20:32.900Z",
+  "_hashes": {
+    "ocr": "1c093710c3062d35",
+    "translation": "2fd4fba5f0c8eb93"
+  }
+}
