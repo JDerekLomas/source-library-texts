@@ -1,14 +1,14 @@
 {
   "id": "698420e3a3e2ae019cbe61cf",
   "title": "Novum lumen chymicum novo lumine auctum. Sive zwölff geheime chymische Taffeln. Commentario",
-  "display_title": "Novum lumen chymicum novo lumine auctum. Sive zwölff geheime chymische Taffeln. Commentario",
+  "display_title": "A New Chemical Light with Twelve Secret Chemical Tables",
   "author": "Sendivogius, Michael|Orthelius",
   "language": "Latin-German",
   "year": 1682,
   "published": "1682",
   "pages_count": 348,
-  "pages_with_ocr": 10,
-  "pages_with_translation": 6,
+  "pages_with_ocr": 348,
+  "pages_with_translation": 339,
   "source_url": "https://sourcelibrary.org/book/698420e3a3e2ae019cbe61cf",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v4.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:31:33.198Z",
+  "synced_at": "2026-03-08T03:10:38.449Z",
   "_hashes": {
-    "ocr": "56496d7a9935e14f",
-    "translation": "094add5ac3977fcc"
+    "ocr": "abb64256380cb764",
+    "translation": "422e909408e8bbd9"
   }
 }
