@@ -1,14 +1,14 @@
 {
   "id": "698420e1f1fb376a3d580616",
   "title": "Van de onzekerheid en ydelheid der wetenschappen en konsten",
-  "display_title": "Van de onzekerheid en ydelheid der wetenschappen en konsten",
+  "display_title": "Of the Uncertainty and Vanity of the Sciences and Arts",
   "author": "Agrippa, Henricus Cornelius",
   "language": "Dutch",
   "year": 1661,
   "published": "1661",
   "pages_count": 742,
-  "pages_with_ocr": 10,
-  "pages_with_translation": 2,
+  "pages_with_ocr": 742,
+  "pages_with_translation": 731,
   "source_url": "https://sourcelibrary.org/book/698420e1f1fb376a3d580616",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v4.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:30:52.592Z",
+  "synced_at": "2026-03-08T03:00:25.440Z",
   "_hashes": {
-    "ocr": "5ef5a6a566720cd8",
-    "translation": "690fe127ca603daa"
+    "ocr": "d15eacbdffaacfc2",
+    "translation": "440b0c7762ebe2e6"
   }
 }
