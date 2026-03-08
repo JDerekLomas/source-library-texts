@@ -1,14 +1,14 @@
 {
   "id": "6981920839f105b3013d99c8",
   "title": "Lux orientalis, or an enquiry into the opinion of the eastern sages",
-  "display_title": "Lux orientalis, or an enquiry into the opinion of the eastern sages",
+  "display_title": "Lux Orientalis, or an Enquiry into the Opinion of the Eastern Sages",
   "author": "[Glanvill, Joseph]",
   "language": "Latin-English",
   "year": 1662,
   "published": "1662",
   "pages_count": 247,
-  "pages_with_ocr": 10,
-  "pages_with_translation": 3,
+  "pages_with_ocr": 247,
+  "pages_with_translation": 237,
   "source_url": "https://sourcelibrary.org/book/6981920839f105b3013d99c8",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v4.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:31:05.989Z",
+  "synced_at": "2026-03-08T01:40:29.432Z",
   "_hashes": {
-    "ocr": "8a4637e0ba9464cb",
-    "translation": "d2cc29be11388661"
+    "ocr": "e05401b4c3b1a3ff",
+    "translation": "c8ba4776ca0f4814"
   }
 }
