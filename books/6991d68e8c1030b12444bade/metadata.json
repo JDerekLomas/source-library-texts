@@ -1,0 +1,28 @@
+{
+  "id": "6991d68e8c1030b12444bade",
+  "title": "Notes and Materials for Biography of William Law, comprising Dionysius Andreas Freher",
+  "display_title": "Notes and Materials for Biography of William Law, comprising Dionysius Andreas Freher",
+  "author": "Anonymous",
+  "language": "English",
+  "year": 1854,
+  "published": "Unknown",
+  "pages_count": 756,
+  "pages_with_ocr": 755,
+  "pages_with_translation": 745,
+  "source_url": "https://sourcelibrary.org/book/6991d68e8c1030b12444bade",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "notesmaterialsfo0000unse"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T17:10:32.224Z",
+  "_hashes": {
+    "ocr": "e89f1f15cba6e92f",
+    "translation": "1cc2a13c0337b5ec"
+  }
+}
