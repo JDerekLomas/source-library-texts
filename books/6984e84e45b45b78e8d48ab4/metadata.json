@@ -1,14 +1,14 @@
 {
   "id": "6984e84e45b45b78e8d48ab4",
   "title": "[Hebrew: Sefer pa'amon ve'rimon]",
-  "display_title": "[Hebrew: Sefer pa'amon ve'rimon]",
+  "display_title": "The Bell and the Pomegranate",
   "author": "Unknown",
   "language": "Hebrew",
   "year": 1708,
   "published": "1708",
   "pages_count": 245,
-  "pages_with_ocr": 10,
-  "pages_with_translation": 5,
+  "pages_with_ocr": 244,
+  "pages_with_translation": 233,
   "source_url": "https://sourcelibrary.org/book/6984e84e45b45b78e8d48ab4",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v4.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:31:21.112Z",
+  "synced_at": "2026-03-08T04:00:21.659Z",
   "_hashes": {
-    "ocr": "75d8762f5ed3743b",
-    "translation": "ee73301448d4ac33"
+    "ocr": "dbb53f3645c33ea4",
+    "translation": "cfc8f637c25e1516"
   }
 }
