@@ -1,14 +1,14 @@
 {
   "id": "6985ca72393e8bdc385ba1de",
   "title": "Quarante questions",
-  "display_title": "Quarante questions",
+  "display_title": "Forty Questions on the Soul",
   "author": "Boehme, Jacob",
   "language": "French",
   "year": 1807,
   "published": "1807",
   "pages_count": 551,
-  "pages_with_ocr": 10,
-  "pages_with_translation": 4,
+  "pages_with_ocr": 551,
+  "pages_with_translation": 533,
   "source_url": "https://sourcelibrary.org/book/6985ca72393e8bdc385ba1de",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v4.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:31:29.531Z",
+  "synced_at": "2026-03-08T04:30:29.835Z",
   "_hashes": {
-    "ocr": "b7e4410a3d0356be",
-    "translation": "b8a67358f18d28b1"
+    "ocr": "4e3395163c0be6fb",
+    "translation": "e30bf224770c1ed5"
   }
 }
