@@ -1,0 +1,28 @@
+{
+  "id": "6992cd5043713c66ea635bef",
+  "title": "本草綱目·卷上之中",
+  "display_title": "本草綱目·卷上之中",
+  "author": "李時珍",
+  "language": "Chinese",
+  "year": 1596,
+  "published": "1596",
+  "pages_count": 182,
+  "pages_with_ocr": 182,
+  "pages_with_translation": 5,
+  "source_url": "https://sourcelibrary.org/book/6992cd5043713c66ea635bef",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "06048774.cn"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T23:21:08.406Z",
+  "_hashes": {
+    "ocr": "c414cbf43ecda917",
+    "translation": "a64a557a2d014fa6"
+  }
+}
