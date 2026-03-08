@@ -1,0 +1,28 @@
+{
+  "id": "6991bd4f70254d38471e438c",
+  "title": "An History of Magic, Witchcraft, and Animal Magnetism, Vol. 1",
+  "display_title": "An History of Magic, Witchcraft, and Animal Magnetism, Vol. 1",
+  "author": "John Campbell Colquhoun",
+  "language": "English",
+  "year": 1851,
+  "published": "Unknown",
+  "pages_count": 408,
+  "pages_with_ocr": 404,
+  "pages_with_translation": 396,
+  "source_url": "https://sourcelibrary.org/book/6991bd4f70254d38471e438c",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "historyofmagicwi00colqrich"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T16:31:34.993Z",
+  "_hashes": {
+    "ocr": "078e044f0543f6d4",
+    "translation": "13d91423e9a91f52"
+  }
+}
