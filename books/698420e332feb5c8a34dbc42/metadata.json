@@ -1,0 +1,26 @@
+{
+  "id": "698420e332feb5c8a34dbc42",
+  "title": "De occultis literarum notis",
+  "display_title": "On Secret Marks of Letters",
+  "author": "Porta, Giovanni Battista della",
+  "language": "Latin",
+  "year": 1603,
+  "published": "1603",
+  "pages_count": 354,
+  "pages_with_ocr": 354,
+  "pages_with_translation": 334,
+  "source_url": "https://sourcelibrary.org/book/698420e332feb5c8a34dbc42",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T14:00:25.853Z",
+  "_hashes": {
+    "ocr": "9517f68c3ea64daf",
+    "translation": "c331738d4950ac61"
+  }
+}
