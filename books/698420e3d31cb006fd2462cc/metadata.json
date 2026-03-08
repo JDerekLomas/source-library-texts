@@ -1,14 +1,14 @@
 {
   "id": "698420e3d31cb006fd2462cc",
   "title": "Nucleus sophicus, oder Ausslegung in tincturam physicorum Theophrasti Paracelsi",
-  "display_title": "Nucleus sophicus, oder Ausslegung in tincturam physicorum Theophrasti Paracelsi",
+  "display_title": "The Sophic Nucleus: An Interpretation of the Tincture of the Physicists of Paracelsus",
   "author": "Liberius Benedictus",
   "language": "Latin-German",
   "year": 1623,
   "published": "1623",
   "pages_count": 136,
-  "pages_with_ocr": 10,
-  "pages_with_translation": 5,
+  "pages_with_ocr": 136,
+  "pages_with_translation": 126,
   "source_url": "https://sourcelibrary.org/book/698420e3d31cb006fd2462cc",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v4.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:31:33.032Z",
+  "synced_at": "2026-03-08T03:10:34.938Z",
   "_hashes": {
-    "ocr": "79c8679fd02f06da",
-    "translation": "1fd91d15df6bc51d"
+    "ocr": "1f0d6ae3608d26c0",
+    "translation": "e6899a334be448bf"
   }
 }
