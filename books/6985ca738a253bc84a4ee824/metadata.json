@@ -1,14 +1,14 @@
 {
   "id": "6985ca738a253bc84a4ee824",
   "title": "Pretiosa margarita oder neu-erfundene köstliche Perle",
-  "display_title": "Pretiosa margarita oder neu-erfundene köstliche Perle",
+  "display_title": "The New Pearl of Great Price",
   "author": "[Bonus, Petrus]",
   "language": "German",
   "year": 1714,
   "published": "1714",
-  "pages_count": 585,
-  "pages_with_ocr": 10,
-  "pages_with_translation": 0,
+  "pages_count": 584,
+  "pages_with_ocr": 583,
+  "pages_with_translation": 563,
   "source_url": "https://sourcelibrary.org/book/6985ca738a253bc84a4ee824",
   "license": "publicdomain",
   "doi": null,
@@ -16,11 +16,11 @@
   "processing": {
     "ocr_model": "gemini-3-flash-preview",
     "prompt_version": "v4.2026-02",
-    "translation_model": null
+    "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:31:32.300Z",
+  "synced_at": "2026-03-08T04:50:26.650Z",
   "_hashes": {
-    "ocr": "79bc31c2d6143d23",
-    "translation": "e3b0c44298fc1c14"
+    "ocr": "e717f530a4a988cf",
+    "translation": "a4c4493ba070108a"
   }
 }
