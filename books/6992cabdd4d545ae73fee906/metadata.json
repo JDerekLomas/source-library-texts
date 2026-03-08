@@ -1,0 +1,28 @@
+{
+  "id": "6992cabdd4d545ae73fee906",
+  "title": "易象圖說 (Yixiang Tushu: Illustrated Explanation of Yi Hexagram Images)",
+  "display_title": "Illustrated Explanation of the Diagrams and Images of the I Ching",
+  "author": "Zhang Li",
+  "language": "Chinese",
+  "year": 1663,
+  "published": "1663",
+  "pages_count": 151,
+  "pages_with_ocr": 151,
+  "pages_with_translation": 146,
+  "source_url": "https://sourcelibrary.org/book/6992cabdd4d545ae73fee906",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "06075336.cn"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T17:40:57.670Z",
+  "_hashes": {
+    "ocr": "07f281150bf42657",
+    "translation": "cf55dc46fa0e8765"
+  }
+}
