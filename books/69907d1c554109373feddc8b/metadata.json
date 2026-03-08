@@ -1,0 +1,28 @@
+{
+  "id": "69907d1c554109373feddc8b",
+  "title": "Green Willow and Other Japanese Fairy Tales",
+  "display_title": "Green Willow and Other Japanese Fairy Tales",
+  "author": "Grace James",
+  "language": "English",
+  "year": 1910,
+  "published": "Unknown",
+  "pages_count": 337,
+  "pages_with_ocr": 337,
+  "pages_with_translation": 1,
+  "source_url": "https://sourcelibrary.org/book/69907d1c554109373feddc8b",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "greenwillowando00jamegoog"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T22:31:57.404Z",
+  "_hashes": {
+    "ocr": "fdc4614d44a9cb7a",
+    "translation": "f5fb9e2c778ea8e9"
+  }
+}
