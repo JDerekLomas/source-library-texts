@@ -1,14 +1,14 @@
 {
   "id": "697d9c9d971fd6d8096654e2",
   "title": "Histoire de l'abolition de l'ordre des Templiers",
-  "display_title": "Histoire de l'abolition de l'ordre des Templiers",
+  "display_title": "History of the Abolition of the Order of the Templars",
   "author": "[Hodin]",
   "language": "French",
   "year": 1779,
   "published": "1779",
   "pages_count": 330,
   "pages_with_ocr": 330,
-  "pages_with_translation": 5,
+  "pages_with_translation": 318,
   "source_url": "https://sourcelibrary.org/book/697d9c9d971fd6d8096654e2",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v4.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:26:18.551Z",
+  "synced_at": "2026-03-08T13:10:24.374Z",
   "_hashes": {
     "ocr": "78e182fcf957e3b7",
-    "translation": "a707b105b3a08c6d"
+    "translation": "a0590b594e83ab34"
   }
 }
