@@ -1,14 +1,14 @@
 {
   "id": "6992cea677d26f9321777550",
   "title": "武備志(七十三)",
-  "display_title": "武備志(七十三)",
+  "display_title": "Treatise on Armament Technology",
   "author": "茅元儀",
   "language": "Chinese",
   "year": 1621,
   "published": "1621",
   "pages_count": 100,
   "pages_with_ocr": 100,
-  "pages_with_translation": 0,
+  "pages_with_translation": 88,
   "source_url": "https://sourcelibrary.org/book/6992cea677d26f9321777550",
   "license": "publicdomain",
   "doi": null,
@@ -18,11 +18,11 @@
   "processing": {
     "ocr_model": "gemini-3-flash-preview",
     "prompt_version": "v5.2026-02",
-    "translation_model": null
+    "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:28:46.652Z",
+  "synced_at": "2026-03-08T23:50:56.704Z",
   "_hashes": {
     "ocr": "b11fbc50e21c3e93",
-    "translation": "e3b0c44298fc1c14"
+    "translation": "5154e95bfb2d4d63"
   }
 }
