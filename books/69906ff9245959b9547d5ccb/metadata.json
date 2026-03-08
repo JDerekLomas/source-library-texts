@@ -1,0 +1,28 @@
+{
+  "id": "69906ff9245959b9547d5ccb",
+  "title": "Opticae Thesaurus: Alhazeni Arabis libri VII & Vitellonis libri X",
+  "display_title": "Opticae Thesaurus: Alhazeni Arabis libri VII & Vitellonis libri X",
+  "author": "Ibn al-Haytham (Alhazen); Witelo; ed. Federico Risner",
+  "language": "Latin",
+  "year": 1572,
+  "published": "Unknown",
+  "pages_count": 793,
+  "pages_with_ocr": 793,
+  "pages_with_translation": 787,
+  "source_url": "https://sourcelibrary.org/book/69906ff9245959b9547d5ccb",
+  "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bub_gb_V27nL0HJd78C"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T16:11:44.810Z",
+  "_hashes": {
+    "ocr": "348a158f950ad803",
+    "translation": "b59e2d3816784204"
+  }
+}
