@@ -1,14 +1,14 @@
 {
   "id": "6985ca71d6a3951c0372a83f",
   "title": "Progymnasmata alchemiae, sive Problemata chymica",
-  "display_title": "Progymnasmata alchemiae, sive Problemata chymica",
+  "display_title": "Exercises in Alchemy, or Chemical Problems",
   "author": "Ruland jr., Martin",
   "language": "Latin",
   "year": 1607,
   "published": "1607",
   "pages_count": 430,
-  "pages_with_ocr": 10,
-  "pages_with_translation": 5,
+  "pages_with_ocr": 430,
+  "pages_with_translation": 419,
   "source_url": "https://sourcelibrary.org/book/6985ca71d6a3951c0372a83f",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v4.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:31:14.799Z",
+  "synced_at": "2026-03-08T04:20:40.327Z",
   "_hashes": {
-    "ocr": "48776cc4c6edfd83",
-    "translation": "616be70942370867"
+    "ocr": "249ff3fd54ddcb7a",
+    "translation": "2e7bf5c7c2e68d08"
   }
 }
