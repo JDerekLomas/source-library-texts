@@ -1,14 +1,14 @@
 {
   "id": "698255eec7e5d26b8a0eb612",
   "title": "[Greek: Misopogon kai epistolai] Misopogon et epistolae",
-  "display_title": "[Greek: Misopogon kai epistolai] Misopogon et epistolae",
+  "display_title": "The Beard-Hater and Letters",
   "author": "Julianus Apostata",
   "language": "Greek-Latin",
   "year": 1566,
   "published": "1566",
-  "pages_count": 356,
-  "pages_with_ocr": 10,
-  "pages_with_translation": 6,
+  "pages_count": 354,
+  "pages_with_ocr": 354,
+  "pages_with_translation": 343,
   "source_url": "https://sourcelibrary.org/book/698255eec7e5d26b8a0eb612",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v4.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:30:46.916Z",
+  "synced_at": "2026-03-08T15:00:12.225Z",
   "_hashes": {
-    "ocr": "ee59759b978a8e37",
-    "translation": "fccf76b0a123e635"
+    "ocr": "7526faaa9dbe5d62",
+    "translation": "cbd7c06d7450186f"
   }
 }
