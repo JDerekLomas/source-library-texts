@@ -1,14 +1,14 @@
 {
   "id": "6985ca74925975beb6da3bef",
   "title": "Practica leonis viridis, das ist: der rechte und wahre Fussteig zu dem königlichen chymischen Hochzeit Saal F.C.R",
-  "display_title": "Practica leonis viridis, das ist: der rechte und wahre Fussteig zu dem königlichen chymischen Hochzeit Saal F.C.R",
+  "display_title": "Practice of the Green Lion: The Path to the Royal Chemical Wedding",
   "author": "anonymous",
   "language": "German",
   "year": 1619,
   "published": "1619",
   "pages_count": 146,
-  "pages_with_ocr": 10,
-  "pages_with_translation": 5,
+  "pages_with_ocr": 146,
+  "pages_with_translation": 139,
   "source_url": "https://sourcelibrary.org/book/6985ca74925975beb6da3bef",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v4.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:30:41.574Z",
+  "synced_at": "2026-03-08T04:50:34.081Z",
   "_hashes": {
-    "ocr": "03ac620e61e06734",
-    "translation": "9c6f6e19e14c4126"
+    "ocr": "11e17afae271d6aa",
+    "translation": "85edc1b7c5d3f6fe"
   }
 }
