@@ -1,14 +1,14 @@
 {
   "id": "6992cf2bf5b4f75c1a4c829c",
   "title": "植物名實圖考(十三)",
-  "display_title": "植物名實圖考(十三)",
+  "display_title": "Illustrated Investigation of the Names and Nature of Plants",
   "author": "吳其濬",
   "language": "Chinese",
   "year": 1848,
   "published": "1848",
   "pages_count": 102,
   "pages_with_ocr": 102,
-  "pages_with_translation": 0,
+  "pages_with_translation": 53,
   "source_url": "https://sourcelibrary.org/book/6992cf2bf5b4f75c1a4c829c",
   "license": "publicdomain",
   "doi": null,
@@ -18,11 +18,11 @@
   "processing": {
     "ocr_model": "gemini-3-flash-preview",
     "prompt_version": "v5.2026-02",
-    "translation_model": null
+    "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:28:30.631Z",
+  "synced_at": "2026-03-08T23:51:08.808Z",
   "_hashes": {
     "ocr": "4b8c99524045e11b",
-    "translation": "e3b0c44298fc1c14"
+    "translation": "f3715731808ae9d5"
   }
 }
