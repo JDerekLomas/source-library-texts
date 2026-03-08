@@ -1,0 +1,28 @@
+{
+  "id": "699079b5db8b55d19ec67a1a",
+  "title": "The Tshi-Speaking Peoples of the Gold Coast of West Africa",
+  "display_title": "The Tshi-Speaking Peoples of the Gold Coast of West Africa",
+  "author": "Alfred Burdon Ellis",
+  "language": "English",
+  "year": 1887,
+  "published": "Unknown",
+  "pages_count": 366,
+  "pages_with_ocr": 366,
+  "pages_with_translation": 1,
+  "source_url": "https://sourcelibrary.org/book/699079b5db8b55d19ec67a1a",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "cu31924028647513"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T22:21:56.329Z",
+  "_hashes": {
+    "ocr": "fb86ab51084b48b1",
+    "translation": "0f48b656aabb3473"
+  }
+}
