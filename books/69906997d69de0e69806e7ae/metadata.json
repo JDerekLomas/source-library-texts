@@ -1,0 +1,28 @@
+{
+  "id": "69906997d69de0e69806e7ae",
+  "title": "Geschichte der Hexenprozesse: aus den Quellen dargestellt",
+  "display_title": "Geschichte der Hexenprozesse: aus den Quellen dargestellt",
+  "author": "Wilhelm Gottlieb Soldan",
+  "language": "German",
+  "year": 1843,
+  "published": "Unknown",
+  "pages_count": 536,
+  "pages_with_ocr": 102,
+  "pages_with_translation": 4,
+  "source_url": "https://sourcelibrary.org/book/69906997d69de0e69806e7ae",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "geschichtederhe00soldgoog"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T21:40:47.464Z",
+  "_hashes": {
+    "ocr": "639d41a8d44e15b2",
+    "translation": "3bfa15aba0163c6e"
+  }
+}
