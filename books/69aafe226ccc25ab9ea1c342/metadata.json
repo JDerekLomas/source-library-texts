@@ -1,0 +1,26 @@
+{
+  "id": "69aafe226ccc25ab9ea1c342",
+  "title": "Neo-Assyrian Medical Prescriptions (BAM 6, 555)",
+  "display_title": "Neo-Assyrian Medical Prescriptions (BAM 6, 555)",
+  "author": "Library of Ashurbanipal",
+  "language": "Akkadian",
+  "year": -650,
+  "published": "ca. 650 BC",
+  "pages_count": 1,
+  "pages_with_ocr": 1,
+  "pages_with_translation": 1,
+  "source_url": "https://sourcelibrary.org/book/69aafe226ccc25ab9ea1c342",
+  "license": "varies",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v1-poc",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T19:30:28.115Z",
+  "_hashes": {
+    "ocr": "4938f1b09293798b",
+    "translation": "9c92f775fe50a82c"
+  }
+}

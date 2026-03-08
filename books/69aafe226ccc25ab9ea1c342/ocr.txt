@@ -1,0 +1,54 @@
+--- Page 1 ---
+<surface>full-view</surface>
+<script>Neo-Assyrian</script>
+<language>Akkadian</language>
+<period>ca. 668-631 BC (Library of Ashurbanipal)</period>
+<condition>The image shows multiple fragments (K.2421, K.2511, K.16765) from the British Museum collection, joined to form a substantial portion of a tablet. The surface is worn and chipped in places, but the script is a fine, late Neo-Assyrian hand characteristic of the royal library at Nineveh. The tablet contains the final part of Tablet VII of the Babylonian Creation Epic (Enūma Eliš).</condition>
+<genre>literary</genre>
+
+<transliteration>
+@obverse
+1. [a-sar-ri ba]-⸢ni⸣ i-ne₂-mi [sa-a-ti]
+2. [szar-ru-ut-su-nu i-ni-isz-szu-u₂] lib-bu-⸢usz⸣-[szu-un]
+3. [{d}TU-TU ba-ni ta-re-e]-⸢ti⸣-szu-nu [szu-u₂-ma]
+4. [u₂-szar-ri-hu ma]-⸢haz⸣-su-nu-ma [ ... ]
+5. [ ... ]-ma [ ... ]
+(lines 6-134 missing or fragmentary)
+
+@reverse
+1'. [ ... ] x x x [ ... ]
+2'. [ ... ] ⸢u₂-mu-un-na-ha-ab⸣
+3'. [ ... ]-⸢a-di-ru⸣
+4'. [ ... ]-⸢ba-hi-ru⸣
+5'. [ ... ]-⸢isz-te-szu-u₂⸣
+6'. [ ... ]-⸢u₂-ter-ru⸣
+7'. [ ... ]-⸢szu₂-un⸣
+8'. [ ... ]-⸢ma⸣
+9'. [ ... {d}]AMAR-UTU-ma
+10'. [ ... i-na pi-i-szu-nu i]-⸢nu-un-nu⸣-u₂
+11'. [50 MU-MEŠ-szu₂ i-nam-bu-u₂ gi]-⸢szar⸣-ru-ti-szu₂
+12'. [szu-u₂-ma lu-u₂ ka-bit-ma a-na ka-la DINGIR-MEŠ lu-u₂] e-⸢tu⸣-uk
+13'. [li-is-sab-tu-ma mah-ra-a li]-⸢kal⸣-li-mu
+14'. [en-qu mu-du-u₂ mit-ha-risz li-isz-ta]-⸢'a⸣-lu
+15'. [a-bu li-szan-ni-ma li-szal-mi-da ma]-⸢ra⸣
+$ single ruling
+16'. [DUB-7-KAM-MA e-nu-ma e-lisz NU] ⸢AL⸣-⸢TIL⸣
+17'. [m {d}aš-šur-DU-A MAN ŠU₂ MAN KUR AŠ]-KI
+</transliteration>
+
+<confidence>0.9</confidence>
+<notes>
+- The transliteration is based on the large central column visible in the photograph, which corresponds to the end of Tablet VII of Enūma Eliš.
+- Reverse lines 9'-15' correspond to the canonical lines 157-162 of the epic.
+- Line 11': 'gi-szar-ru-ti-szu' (his might/strength) is a key phrase in the transition to the epilogue.
+- Line 16'-17': Typical Library of Ashurbanipal colophon. 'm {d}aš-šur-DU-A' is the common abbreviation for Ashurbanipal (Ashur-bani-apli).
+- The museum fragments visible are K.2421 (top), K.2511 (right edge), and K.16765 (bottom).
+</notes>
+<vocab>
+- e-nu-ma e-lisz: "When on high" (title of the epic)
+- {d}AMAR-UTU: Marduk (main deity of the text)
+- szu-me-e-szu: his names (referring to the 50 names of Marduk)
+- {d}TU-TU: Tutu (one of the names/aspects of Marduk)
+- m {d}asz-szur-DU-A: King Ashurbanipal
+- NU AL-TIL: "Not finished" (indicating a multi-tablet series)
+</vocab>
