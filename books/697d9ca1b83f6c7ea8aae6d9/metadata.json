@@ -1,14 +1,14 @@
 {
   "id": "697d9ca1b83f6c7ea8aae6d9",
   "title": "Histoire du ciel considéré selon les idées des poëtes, des philosophes, et de Moïse",
-  "display_title": "Histoire du ciel considéré selon les idées des poëtes, des philosophes, et de Moïse",
+  "display_title": "History of the Heavens",
   "author": "[Pluche, Antoine]",
   "language": "French",
   "year": 1739,
   "published": "1739",
   "pages_count": 568,
-  "pages_with_ocr": 510,
-  "pages_with_translation": 3,
+  "pages_with_ocr": 568,
+  "pages_with_translation": 498,
   "source_url": "https://sourcelibrary.org/book/697d9ca1b83f6c7ea8aae6d9",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v4.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:24:10.331Z",
+  "synced_at": "2026-03-08T11:30:41.599Z",
   "_hashes": {
-    "ocr": "c0ead11575540fe8",
-    "translation": "d9bc05518d7405cb"
+    "ocr": "d64c5d6aa1b201ec",
+    "translation": "396d54f306c45d02"
   }
 }
