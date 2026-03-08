@@ -1,0 +1,28 @@
+{
+  "id": "699259678812793469fe56a1",
+  "title": "The Ramayana, Book 1: Bala Kanda (Dutt prose translation)",
+  "display_title": "The Ramayana, Book 1: Bala Kanda (Dutt prose translation)",
+  "author": "Manmatha Nath Dutt",
+  "language": "Sanskrit",
+  "year": 1891,
+  "published": "Unknown",
+  "pages_count": 198,
+  "pages_with_ocr": 198,
+  "pages_with_translation": 187,
+  "source_url": "https://sourcelibrary.org/book/699259678812793469fe56a1",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "ramayanablaknda00vlgoog"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T17:10:43.234Z",
+  "_hashes": {
+    "ocr": "86a7e63fb4bc9fe3",
+    "translation": "932a53c3d8ffe303"
+  }
+}
