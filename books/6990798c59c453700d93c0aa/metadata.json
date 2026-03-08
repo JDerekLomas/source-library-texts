@@ -1,0 +1,28 @@
+{
+  "id": "6990798c59c453700d93c0aa",
+  "title": "In Ghostly Japan",
+  "display_title": "In Ghostly Japan",
+  "author": "Lafcadio Hearn",
+  "language": "English",
+  "year": 1899,
+  "published": "Unknown",
+  "pages_count": 280,
+  "pages_with_ocr": 280,
+  "pages_with_translation": 17,
+  "source_url": "https://sourcelibrary.org/book/6990798c59c453700d93c0aa",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "inghostlyjapan00hear"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T22:11:03.295Z",
+  "_hashes": {
+    "ocr": "70374c71fddf8a60",
+    "translation": "722269fed0b931d5"
+  }
+}
