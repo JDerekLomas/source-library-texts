@@ -1,0 +1,28 @@
+{
+  "id": "69907d25554109373fedde4c",
+  "title": "Old Rabbit, the Voodoo, and Other Sorcerers",
+  "display_title": "Old Rabbit, the Voodoo, and Other Sorcerers",
+  "author": "Mary Alicia Owen",
+  "language": "English",
+  "year": 1893,
+  "published": "Unknown",
+  "pages_count": 334,
+  "pages_with_ocr": 334,
+  "pages_with_translation": 2,
+  "source_url": "https://sourcelibrary.org/book/69907d25554109373fedde4c",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "oldrabbitvoodooo00owen"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T22:31:54.601Z",
+  "_hashes": {
+    "ocr": "bfa1142519fa4f12",
+    "translation": "670a186837c1481b"
+  }
+}
