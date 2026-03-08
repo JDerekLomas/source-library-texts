@@ -1,14 +1,14 @@
 {
   "id": "6984e84ec36fbef76974152e",
   "title": "De ornatu spiritualium nuptiarum libri tres",
-  "display_title": "De ornatu spiritualium nuptiarum libri tres",
+  "display_title": "The Adornment of the Spiritual Marriage",
   "author": "Ruusbroec, Johannes",
   "language": "Latin",
   "year": 1512,
   "published": "1512",
-  "pages_count": 232,
-  "pages_with_ocr": 10,
-  "pages_with_translation": 6,
+  "pages_count": 231,
+  "pages_with_ocr": 231,
+  "pages_with_translation": 223,
   "source_url": "https://sourcelibrary.org/book/6984e84ec36fbef76974152e",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v4.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:31:15.300Z",
+  "synced_at": "2026-03-08T04:00:29.580Z",
   "_hashes": {
-    "ocr": "02138403bccb1012",
-    "translation": "12ff9844f3b9f22a"
+    "ocr": "1c7619340e243861",
+    "translation": "504b2822f905c60a"
   }
 }
