@@ -1,14 +1,14 @@
 {
   "id": "6985ca6d9d0a51f65288236f",
   "title": "Probaseologie",
-  "display_title": "Probaseologie",
+  "display_title": "Probaseology",
   "author": "Eckartshausen, Karl von",
   "language": "German",
   "year": 1795,
   "published": "1795",
   "pages_count": 520,
-  "pages_with_ocr": 10,
-  "pages_with_translation": 2,
+  "pages_with_ocr": 519,
+  "pages_with_translation": 498,
   "source_url": "https://sourcelibrary.org/book/6985ca6d9d0a51f65288236f",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v4.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:31:14.520Z",
+  "synced_at": "2026-03-08T04:20:36.636Z",
   "_hashes": {
-    "ocr": "22da4680bd0d8fb9",
-    "translation": "4f5f6c47214e536b"
+    "ocr": "95f51d098be0ba7a",
+    "translation": "6dd2c141e43e30f6"
   }
 }
