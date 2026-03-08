@@ -1,0 +1,28 @@
+{
+  "id": "6990697398875c9438076aca",
+  "title": "A History of the Inquisition of the Middle Ages, Vol. II",
+  "display_title": "A History of the Inquisition of the Middle Ages, Vol. II",
+  "author": "Henry Charles Lea",
+  "language": "English",
+  "year": 1888,
+  "published": "Unknown",
+  "pages_count": 614,
+  "pages_with_ocr": 510,
+  "pages_with_translation": 4,
+  "source_url": "https://sourcelibrary.org/book/6990697398875c9438076aca",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "historyofinquisiw02leah"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T21:40:44.217Z",
+  "_hashes": {
+    "ocr": "e59d8a488dedcf80",
+    "translation": "e8bf76d45a56271c"
+  }
+}
