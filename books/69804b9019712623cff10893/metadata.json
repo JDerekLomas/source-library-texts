@@ -1,14 +1,14 @@
 {
   "id": "69804b9019712623cff10893",
   "title": "Kerkelyke geschiedenis der Waldenzen",
-  "display_title": "Kerkelyke geschiedenis der Waldenzen",
+  "display_title": "Ecclesiastical History of the Waldensians",
   "author": "Martinet, Johannes Florentius",
   "language": "Dutch",
   "year": 1765,
   "published": "1765",
   "pages_count": 434,
-  "pages_with_ocr": 10,
-  "pages_with_translation": 3,
+  "pages_with_ocr": 434,
+  "pages_with_translation": 416,
   "source_url": "https://sourcelibrary.org/book/69804b9019712623cff10893",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v4.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:31:01.139Z",
+  "synced_at": "2026-03-08T00:30:35.993Z",
   "_hashes": {
-    "ocr": "76b1ea2c1044573e",
-    "translation": "f2e73f43b9e53c7b"
+    "ocr": "dfbc8fd91bbc254d",
+    "translation": "0d24f2d39f3c7272"
   }
 }
