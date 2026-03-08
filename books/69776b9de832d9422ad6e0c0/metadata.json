@@ -1,14 +1,14 @@
 {
   "id": "69776b9de832d9422ad6e0c0",
   "title": "Das Brahmanische Religionssystem",
-  "display_title": "Das Brahmanische Religionssystem",
+  "display_title": "The Brahmanic Religious System",
   "author": "Kleuker, Johann Friedrich",
   "language": "German",
   "year": 1797,
   "published": "1797",
   "pages_count": 660,
-  "pages_with_ocr": 510,
-  "pages_with_translation": 6,
+  "pages_with_ocr": 660,
+  "pages_with_translation": 559,
   "source_url": "https://sourcelibrary.org/book/69776b9de832d9422ad6e0c0",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:24:20.893Z",
+  "synced_at": "2026-03-08T15:20:42.798Z",
   "_hashes": {
-    "ocr": "e91ec68082e03145",
-    "translation": "e29cdd05acf9e6b5"
+    "ocr": "981e5714cbae9e57",
+    "translation": "075d7995d8879481"
   }
 }
