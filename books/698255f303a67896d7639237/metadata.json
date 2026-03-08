@@ -1,14 +1,14 @@
 {
   "id": "698255f303a67896d7639237",
   "title": "Nachtrag von weitern Originalschriften welche die Illuminatensekte betreffen",
-  "display_title": "Nachtrag von weitern Originalschriften welche die Illuminatensekte betreffen",
+  "display_title": "Supplement of Further Original Writings Concerning the Illuminati",
   "author": "Unknown",
   "language": "German",
   "year": 1787,
   "published": "1787",
   "pages_count": 478,
-  "pages_with_ocr": 10,
-  "pages_with_translation": 6,
+  "pages_with_ocr": 478,
+  "pages_with_translation": 460,
   "source_url": "https://sourcelibrary.org/book/698255f303a67896d7639237",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v4.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:30:44.963Z",
+  "synced_at": "2026-03-08T02:40:34.011Z",
   "_hashes": {
-    "ocr": "208e183caf4094f6",
-    "translation": "b1ee77e105c40bd3"
+    "ocr": "9964198ebbc4cba8",
+    "translation": "6206b4c9a58c86d5"
   }
 }
