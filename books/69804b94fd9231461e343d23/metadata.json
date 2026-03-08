@@ -1,14 +1,14 @@
 {
   "id": "69804b94fd9231461e343d23",
   "title": "Klugheit vereint mit Tugend",
-  "display_title": "Klugheit vereint mit Tugend",
+  "display_title": "Prudence United with Virtue",
   "author": "Eckartshausen, Karl von",
   "language": "German",
   "year": 1791,
   "published": "1791",
   "pages_count": 634,
-  "pages_with_ocr": 10,
-  "pages_with_translation": 4,
+  "pages_with_ocr": 634,
+  "pages_with_translation": 621,
   "source_url": "https://sourcelibrary.org/book/69804b94fd9231461e343d23",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v4.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:31:00.885Z",
+  "synced_at": "2026-03-08T00:50:24.952Z",
   "_hashes": {
-    "ocr": "23460214b916d78f",
-    "translation": "31c1f9632a54e58f"
+    "ocr": "5d0dc5639219073b",
+    "translation": "8cdcf218aa849b97"
   }
 }
