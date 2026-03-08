@@ -1,14 +1,14 @@
 {
   "id": "697a7087367f907242581fe3",
   "title": "Disputatio cabalistica de anima",
-  "display_title": "Disputatio cabalistica de anima",
+  "display_title": "Cabalistic Disputation on the Soul",
   "author": "Israel ben Moses",
   "language": "Latin",
   "year": 1635,
   "published": "1635",
-  "pages_count": 864,
-  "pages_with_ocr": 510,
-  "pages_with_translation": 8,
+  "pages_count": 853,
+  "pages_with_ocr": 853,
+  "pages_with_translation": 837,
   "source_url": "https://sourcelibrary.org/book/697a7087367f907242581fe3",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:24:20.332Z",
+  "synced_at": "2026-03-08T23:10:50.974Z",
   "_hashes": {
-    "ocr": "217903b87c27db8f",
-    "translation": "85ea6b0045223f04"
+    "ocr": "c9a05b754c2e1c3d",
+    "translation": "6c12a30625b2cba0"
   }
 }
