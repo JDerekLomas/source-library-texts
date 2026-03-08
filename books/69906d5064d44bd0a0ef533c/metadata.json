@@ -1,0 +1,28 @@
+{
+  "id": "69906d5064d44bd0a0ef533c",
+  "title": "Yogini Dasha",
+  "display_title": "Yogini Dasha",
+  "author": "Unknown",
+  "language": "Sanskrit",
+  "year": null,
+  "published": "Unknown",
+  "pages_count": 6,
+  "pages_with_ocr": 6,
+  "pages_with_translation": 6,
+  "source_url": "https://sourcelibrary.org/book/69906d5064d44bd0a0ef533c",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "yoginidasha-CGV-PSS-0190-1571"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T15:51:08.086Z",
+  "_hashes": {
+    "ocr": "140e7ffd342c667c",
+    "translation": "147c14a6ee8efd0f"
+  }
+}
