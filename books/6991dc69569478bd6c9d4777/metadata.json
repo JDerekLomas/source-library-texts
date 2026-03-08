@@ -1,0 +1,28 @@
+{
+  "id": "6991dc69569478bd6c9d4777",
+  "title": "Oeuvres Économiques et Philosophiques",
+  "display_title": "Oeuvres Économiques et Philosophiques",
+  "author": "François Quesnay",
+  "language": "French",
+  "year": 1888,
+  "published": "Unknown",
+  "pages_count": 277,
+  "pages_with_ocr": 276,
+  "pages_with_translation": 272,
+  "source_url": "https://sourcelibrary.org/book/6991dc69569478bd6c9d4777",
+  "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "OeuvresEconomiquesEtPhilosophiquesDeFrancoisQuesnayEditionOncken1888"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T16:30:43.992Z",
+  "_hashes": {
+    "ocr": "2362efc28ae6b310",
+    "translation": "6a9bd7f366288dd8"
+  }
+}
