@@ -1,14 +1,14 @@
 {
   "id": "698192096df0137d367e6754",
   "title": "Menippus sive dialogorum satyricorum centuria",
-  "display_title": "Menippus sive dialogorum satyricorum centuria",
+  "display_title": "Menippus, or a Century of Satirical Dialogues",
   "author": "[Andreae, Johann Valentin]",
   "language": "Latin",
   "year": 1617,
   "published": "1617",
   "pages_count": 309,
-  "pages_with_ocr": 10,
-  "pages_with_translation": 4,
+  "pages_with_ocr": 309,
+  "pages_with_translation": 302,
   "source_url": "https://sourcelibrary.org/book/698192096df0137d367e6754",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v4.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:31:07.267Z",
+  "synced_at": "2026-03-08T01:50:21.573Z",
   "_hashes": {
-    "ocr": "c54e0fa2e54fa3a9",
-    "translation": "72d888831594dc1c"
+    "ocr": "2d9f552543dd3fe4",
+    "translation": "e652d3d5694d75e5"
   }
 }
