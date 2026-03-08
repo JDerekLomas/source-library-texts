@@ -1,14 +1,14 @@
 {
   "id": "6909a2e7cf28baa1b4caec93",
   "title": "De hermetica Aegyptiorum vetere et Paracelsicorum nova medicina",
-  "display_title": "On the Ancient Hermetic Medicine of the Egyptians and the New Medicine of the Paracelsians",
+  "display_title": "On the Ancient Hermetic Medicine of the Egyptians and the New Paracelsian Medicine",
   "author": "Conring, Hermann",
   "language": "Latin",
   "year": 1649,
   "published": "1649",
   "pages_count": 433,
   "pages_with_ocr": 433,
-  "pages_with_translation": 433,
+  "pages_with_translation": 427,
   "source_url": "https://sourcelibrary.org/book/6909a2e7cf28baa1b4caec93",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v4.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:25:06.612Z",
+  "synced_at": "2026-03-08T05:30:22.232Z",
   "_hashes": {
-    "ocr": "e97dd27120e1765a",
-    "translation": "552b12192483e683"
+    "ocr": "ead55190283f389b",
+    "translation": "29fb4a2b963e0054"
   }
 }
