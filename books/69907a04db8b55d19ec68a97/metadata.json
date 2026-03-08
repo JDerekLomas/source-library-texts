@@ -1,0 +1,28 @@
+{
+  "id": "69907a04db8b55d19ec68a97",
+  "title": "A Classical Dictionary of Hindu Mythology and Religion",
+  "display_title": "A Classical Dictionary of Hindu Mythology and Religion",
+  "author": "John Dowson",
+  "language": "English",
+  "year": 1879,
+  "published": "Unknown",
+  "pages_count": 431,
+  "pages_with_ocr": 431,
+  "pages_with_translation": 1,
+  "source_url": "https://sourcelibrary.org/book/69907a04db8b55d19ec68a97",
+  "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "A.Classical.Dictionary.of.Hindu.Mythology.and.Religion"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T22:10:56.498Z",
+  "_hashes": {
+    "ocr": "a7bff3749a6b9cb1",
+    "translation": "4623b81e368d3949"
+  }
+}
