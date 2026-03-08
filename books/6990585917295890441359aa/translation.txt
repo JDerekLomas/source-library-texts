@@ -967,6 +967,61 @@ The simplicity of ratios is to be judged by the magnitude of the numbers themsel
 <summary>Euler establishes a mathematical formula for the 'degree of sweetness' in musical ratios, asserting that the complexity of a prime ratio 1:p corresponds to p, and composite ratios are calculated by summing prime factors and subtracting one.</summary>
 <keywords>degree of sweetness, prime numbers, musical ratios, arithmetic proportion, bisection, Leonhard Euler, music theory</keywords>
 
+--- Page 66 ---
+<meta>This page continues the mathematical derivation of the "degree of sweetness" (gradus suavitatis) formula. Euler is extending his theory from simple prime numbers to composite numbers and visualizes these musical ratios as physical pulses hitting the ear to explain why certain harmonies feel "sweeter" than others.</meta>
+
+...the ratio 1 : *PQ* belongs to the degree *p* + *q* - 1. <note>Euler is establishing that the complexity (or "degree") of a composite ratio is the sum of the prime factors minus one less than the number of factors. For example, for the ratio 1:6, where 6 = 2 × 3, the degree is 2 + 3 - 1 = 4.</note>
+
+->Plate I<-
+
+1. *Figure 1*
+. . . . . . . . . . . . . . . .
+<note>original: "fig. 1." This represents a single tone (unison). The dots symbolize the "pulses" or vibrations of sound in a constant stream.</note>
+
+2. . . . . . . . . . . . . . . .
+1. .   .   .   .   .   .   .   .
+*Figure 2*
+<note>original: "fig. 2." The Octave (ratio 2:1). The upper voice (2) pulses twice for every one pulse of the lower voice (1). Notice how they coincide perfectly on every other beat, creating a very simple and stable sensation.</note>
+
+3. . . . . . . . . . . . . . . .
+1. .     .     .     .     .
+*Figure 3*
+<note>original: "fig. 3." The ratio 3:1 (the interval of a Twelfth). Three pulses interact with one.</note>
+
+4. . . . . . . . . . . . . . . .
+1. .       .       .       .
+*Figure 4*
+<note>original: "fig. 4." The ratio 4:1 (the Double Octave).</note>
+
+3. .  .  .  .  .  .  .  .  .  .
+2. .    .    .    .    .    .
+*Figure 5*
+<note>original: "fig. 5." The Perfect Fifth (ratio 3:2). This is a more complex <term>proportion: the mathematical relationship between two quantities</term> where the pulses "stagger" but still meet at regular intervals (every 6th pulse), which the ear perceives as a pleasing harmony <term>suavitas: sweetness or the sensory pleasure derived from a musical consonance</term>.</note>
+
+4. . . . . . . . . . . . . . . .
+3. .   .   .   .   .   .   .   .
+*Figure 6*
+<note>original: "fig. 6." The Perfect Fourth (ratio 4:3).</note>
+
+5. . . . . . . . . . . . . . . .
+4. .    .    .    .    .    .
+*Figure 7*
+<note>original: "fig. 7." The Major Third (ratio 5:4).</note>
+
+5. . . . . . . . . . . . . . . .
+3. .      .      .      .      .
+*Figure 8*
+<note>original: "fig. 8." The Major Sixth (ratio 5:3).</note>
+
+6. . . . . . . . . . . . . . . .
+5. .  .  .  .  .  .  .  .  .  .
+4. .   .   .   .   .   .   .   .
+*Figure 9*
+<note>original: "fig. 9." A Major Triad (ratio 6:5:4). This diagram shows the complex interaction of three simultaneous <term>frequencies: the speed at which a sound vibrates</term>. Euler uses this to demonstrate how a full chord is processed by the ear as a single, coordinated pattern of pulses.</note>
+
+<summary>This page concludes the mathematical rule for calculating the "degree of sweetness" and provides a visual plate of pulse diagrams. These diagrams illustrate musical intervals as rhythmic patterns of vibrations, showing how different ratios (from the simple octave to the complex major triad) align or "coincide" to create harmony.</summary>
+<keywords>acoustics, pulses, vibration, frequency, gradus suavitatis, musical ratios, Plate 1, consonance, major triad</keywords>
+
 --- Page 68 ---
 <meta>This page continues the mathematical derivation of the "degree of sweetness" (gradus suauitatis) in musical intervals and chords, building on the previous discussion of prime factors.</meta>
 
