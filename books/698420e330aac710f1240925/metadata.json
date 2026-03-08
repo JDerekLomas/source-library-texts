@@ -1,14 +1,14 @@
 {
   "id": "698420e330aac710f1240925",
   "title": "Omnia quae quidem extant opera",
-  "display_title": "Omnia quae quidem extant opera",
+  "display_title": "The Complete Extant Works of Clement of Alexandria",
   "author": "Clemens Alexandrinus",
   "language": "Latin",
   "year": 1551,
   "published": "1551",
   "pages_count": 558,
-  "pages_with_ocr": 11,
-  "pages_with_translation": 5,
+  "pages_with_ocr": 558,
+  "pages_with_translation": 544,
   "source_url": "https://sourcelibrary.org/book/698420e330aac710f1240925",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v4.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:29:59.944Z",
+  "synced_at": "2026-03-08T03:20:25.587Z",
   "_hashes": {
-    "ocr": "e8c53ef983733ee4",
-    "translation": "26c1638cf3b037d7"
+    "ocr": "07055a9d71b64a8e",
+    "translation": "5d3c9321aa238437"
   }
 }
