@@ -1,0 +1,28 @@
+{
+  "id": "699209f7a0b3f4095802ee49",
+  "title": "The Newe Testament (Tyndale, 1526)",
+  "display_title": "The Newe Testament (Tyndale, 1526)",
+  "author": "William Tyndale",
+  "language": "English",
+  "year": 1526,
+  "published": "Unknown",
+  "pages_count": 288,
+  "pages_with_ocr": 288,
+  "pages_with_translation": 288,
+  "source_url": "https://sourcelibrary.org/book/699209f7a0b3f4095802ee49",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "1526-tyndale-nt"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T16:50:39.778Z",
+  "_hashes": {
+    "ocr": "8912b75503b53dee",
+    "translation": "2c19dede2983c909"
+  }
+}
