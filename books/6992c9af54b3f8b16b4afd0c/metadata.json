@@ -1,0 +1,28 @@
+{
+  "id": "6992c9af54b3f8b16b4afd0c",
+  "title": "太乙統宗寶鑑 (Taiyi Comprehensive Divination Mirror)",
+  "display_title": "Taiyi Comprehensive Divination Mirror",
+  "author": "曉山老人",
+  "language": "Chinese",
+  "year": 1303,
+  "published": "1303",
+  "pages_count": 115,
+  "pages_with_ocr": 112,
+  "pages_with_translation": 112,
+  "source_url": "https://sourcelibrary.org/book/6992c9af54b3f8b16b4afd0c",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "02094393.cn"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T17:20:44.440Z",
+  "_hashes": {
+    "ocr": "c952bc880faf59e3",
+    "translation": "89c8aaf82d9be1d0"
+  }
+}
