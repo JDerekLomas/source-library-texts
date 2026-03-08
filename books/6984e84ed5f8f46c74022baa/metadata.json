@@ -1,14 +1,14 @@
 {
   "id": "6984e84ed5f8f46c74022baa",
   "title": "Les persecutions du juste",
-  "display_title": "Les persecutions du juste",
+  "display_title": "The Persecutions of the Righteous",
   "author": "Bourignon, Antoinette",
   "language": "French",
   "year": 1684,
   "published": "1684",
   "pages_count": 315,
-  "pages_with_ocr": 10,
-  "pages_with_translation": 6,
+  "pages_with_ocr": 315,
+  "pages_with_translation": 310,
   "source_url": "https://sourcelibrary.org/book/6984e84ed5f8f46c74022baa",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v4.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:31:31.345Z",
+  "synced_at": "2026-03-08T03:50:29.070Z",
   "_hashes": {
-    "ocr": "33d35861678546b1",
-    "translation": "58841d84874e6c27"
+    "ocr": "f75189d456db6535",
+    "translation": "7a5fa0e1bbfef615"
   }
 }
