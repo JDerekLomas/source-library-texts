@@ -1,0 +1,26 @@
+{
+  "id": "69aafe1f6ccc25ab9ea1c340",
+  "title": "Code of Hammurabi",
+  "display_title": "Code of Hammurabi",
+  "author": "Court scribe of Hammurabi",
+  "language": "Akkadian",
+  "year": -1750,
+  "published": "ca. 1750 BC",
+  "pages_count": 1,
+  "pages_with_ocr": 1,
+  "pages_with_translation": 1,
+  "source_url": "https://sourcelibrary.org/book/69aafe1f6ccc25ab9ea1c340",
+  "license": "varies",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v1-poc",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T19:20:28.400Z",
+  "_hashes": {
+    "ocr": "554d41594f45f295",
+    "translation": "75afdb5bd28fb0aa"
+  }
+}
