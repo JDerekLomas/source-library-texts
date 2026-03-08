@@ -7,8 +7,8 @@
   "year": 1475,
   "published": "c.1475",
   "pages_count": 199,
-  "pages_with_ocr": 10,
-  "pages_with_translation": 3,
+  "pages_with_ocr": 199,
+  "pages_with_translation": 175,
   "source_url": "https://sourcelibrary.org/book/696925854fa3b04c6de8712e",
   "license": "http://creativecommons.org/publicdomain/mark/1.0/",
   "doi": null,
@@ -20,9 +20,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:30:26.205Z",
+  "synced_at": "2026-03-08T14:40:16.323Z",
   "_hashes": {
-    "ocr": "e584e0ea63786d39",
-    "translation": "80f8278559bd3741"
+    "ocr": "52f2cd371bb83365",
+    "translation": "0eca95d40edb4262"
   }
 }
