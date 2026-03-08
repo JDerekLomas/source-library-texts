@@ -1,0 +1,28 @@
+{
+  "id": "6990794eb621b177c1af6190",
+  "title": "Ritual and Belief in Morocco, Vol. 1",
+  "display_title": "Ritual and Belief in Morocco, Vol. 1",
+  "author": "Edward Westermarck",
+  "language": "English",
+  "year": 1926,
+  "published": "Unknown",
+  "pages_count": 614,
+  "pages_with_ocr": 614,
+  "pages_with_translation": 1,
+  "source_url": "https://sourcelibrary.org/book/6990794eb621b177c1af6190",
+  "license": "https://creativecommons.org/licenses/by-nd/4.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "edward-westermarck-ritual-and-belief-in-morocco-vol-1-1968-university-books-inc"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T22:11:15.435Z",
+  "_hashes": {
+    "ocr": "2246f0bb73e42aea",
+    "translation": "d2f0a568fba8f616"
+  }
+}
