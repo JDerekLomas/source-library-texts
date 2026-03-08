@@ -1,0 +1,26 @@
+{
+  "id": "69a0278c04ccae579af8549c",
+  "title": "La suitte des tableaux de Philostrate",
+  "display_title": "The Continuation of the Images of Philostratus",
+  "author": "Philostratus",
+  "language": "French",
+  "year": 1597,
+  "published": "1597",
+  "pages_count": 838,
+  "pages_with_ocr": 838,
+  "pages_with_translation": 827,
+  "source_url": "https://sourcelibrary.org/book/69a0278c04ccae579af8549c",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T05:40:22.812Z",
+  "_hashes": {
+    "ocr": "d3d06b36c71299ca",
+    "translation": "0fbf664eaa2f48e4"
+  }
+}
