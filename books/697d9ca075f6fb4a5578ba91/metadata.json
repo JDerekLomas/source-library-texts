@@ -1,14 +1,14 @@
 {
   "id": "697d9ca075f6fb4a5578ba91",
   "title": "Handschriften für Freunde geheimer Wissenschaften",
-  "display_title": "Handschriften für Freunde geheimer Wissenschaften",
+  "display_title": "Manuscripts for Friends of Secret Sciences",
   "author": "[Linden, Max Joseph von]",
   "language": "German",
   "year": 1794,
   "published": "1794",
   "pages_count": 618,
-  "pages_with_ocr": 10,
-  "pages_with_translation": 3,
+  "pages_with_ocr": 618,
+  "pages_with_translation": 587,
   "source_url": "https://sourcelibrary.org/book/697d9ca075f6fb4a5578ba91",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v4.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:31:15.949Z",
+  "synced_at": "2026-03-08T15:10:10.501Z",
   "_hashes": {
-    "ocr": "fd86e69ef37ad4c8",
-    "translation": "bcd7f9ecfabd2378"
+    "ocr": "988aecd55977b3b9",
+    "translation": "8fd3f1f13cad7b27"
   }
 }
