@@ -1,0 +1,28 @@
+{
+  "id": "69906d5364d44bd0a0ef5344",
+  "title": "Graha Kaumudi",
+  "display_title": "Graha Kaumudi",
+  "author": "Unknown",
+  "language": "Sanskrit",
+  "year": 1771,
+  "published": "1771",
+  "pages_count": 5,
+  "pages_with_ocr": 5,
+  "pages_with_translation": 5,
+  "source_url": "https://sourcelibrary.org/book/69906d5364d44bd0a0ef5344",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "grahakaumudi-CGV-PSS-0137-1033"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T16:00:31.174Z",
+  "_hashes": {
+    "ocr": "b2f8ff2250aabcff",
+    "translation": "f9ec31aed157ee0b"
+  }
+}
