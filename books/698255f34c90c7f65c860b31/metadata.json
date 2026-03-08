@@ -1,14 +1,14 @@
 {
   "id": "698255f34c90c7f65c860b31",
   "title": "De mysteriis Aegyptiorum. In Platonicum Alcibiadem de anima atque daemonum. De divinis atque daemonibus. De daemonibus. Pimander. Asclepius",
-  "display_title": "De mysteriis Aegyptiorum. In Platonicum Alcibiadem de anima atque daemonum. De divinis atque daemonibus. De daemonibus. Pimander. Asclepius",
+  "display_title": "On the Mysteries of the Egyptians",
   "author": "Jamblichus|Proclus|Porphyrius|Psellus|Hermes Trismegistus",
   "language": "Latin",
   "year": 1577,
   "published": "1577",
-  "pages_count": 586,
-  "pages_with_ocr": 10,
-  "pages_with_translation": 5,
+  "pages_count": 582,
+  "pages_with_ocr": 582,
+  "pages_with_translation": 572,
   "source_url": "https://sourcelibrary.org/book/698255f34c90c7f65c860b31",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v4.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:30:44.061Z",
+  "synced_at": "2026-03-08T15:10:06.369Z",
   "_hashes": {
-    "ocr": "59de20d3eba2fa8b",
-    "translation": "b91fe48086f77846"
+    "ocr": "5ece26a122f53cfc",
+    "translation": "90504ca5076fab4a"
   }
 }
