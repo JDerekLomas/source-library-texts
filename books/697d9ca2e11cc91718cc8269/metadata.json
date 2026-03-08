@@ -1,14 +1,14 @@
 {
   "id": "697d9ca2e11cc91718cc8269",
   "title": "Histoire critique de Manichée et du Manicheisme",
-  "display_title": "Histoire critique de Manichée et du Manicheisme",
+  "display_title": "Critical History of Mani and Manichaeism",
   "author": "Beausobre, Isaac de",
   "language": "French",
   "year": 1734,
   "published": "1734-1739",
-  "pages_count": 774,
-  "pages_with_ocr": 708,
-  "pages_with_translation": 2,
+  "pages_count": 758,
+  "pages_with_ocr": 758,
+  "pages_with_translation": 740,
   "source_url": "https://sourcelibrary.org/book/697d9ca2e11cc91718cc8269",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v4.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:22:42.957Z",
+  "synced_at": "2026-03-08T22:00:58.700Z",
   "_hashes": {
-    "ocr": "0a16907b754ab391",
-    "translation": "15480eec424e0183"
+    "ocr": "e7a0ae2cb7073563",
+    "translation": "e4b57332ae2a6dd4"
   }
 }
