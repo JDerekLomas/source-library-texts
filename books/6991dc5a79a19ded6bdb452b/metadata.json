@@ -1,0 +1,28 @@
+{
+  "id": "6991dc5a79a19ded6bdb452b",
+  "title": "Essai sur la Nature du Commerce en Général",
+  "display_title": "Essai sur la Nature du Commerce en Général",
+  "author": "Richard Cantillon",
+  "language": "French",
+  "year": 1755,
+  "published": "Unknown",
+  "pages_count": 440,
+  "pages_with_ocr": 440,
+  "pages_with_translation": 438,
+  "source_url": "https://sourcelibrary.org/book/6991dc5a79a19ded6bdb452b",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bim_eighteenth-century_essai-sur-la-nature-du-c_cantillon-richard_1755"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T16:30:51.353Z",
+  "_hashes": {
+    "ocr": "43d112fd4df3301d",
+    "translation": "af7d373e1c754663"
+  }
+}
