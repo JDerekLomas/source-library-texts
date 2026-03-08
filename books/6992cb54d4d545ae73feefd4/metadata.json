@@ -1,0 +1,28 @@
+{
+  "id": "6992cb54d4d545ae73feefd4",
+  "title": "周易洗心 (Zhou Yi Xixin: Cleansing the Heart through the Book of Changes) Vols 1-2",
+  "display_title": "周易洗心 (Zhou Yi Xixin: Cleansing the Heart through the Book of Changes) Vols 1-2",
+  "author": "Unknown",
+  "language": "Chinese",
+  "year": 1550,
+  "published": "Unknown",
+  "pages_count": 200,
+  "pages_with_ocr": 200,
+  "pages_with_translation": 2,
+  "source_url": "https://sourcelibrary.org/book/6992cb54d4d545ae73feefd4",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "06064542.cn"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T23:11:27.539Z",
+  "_hashes": {
+    "ocr": "760e8a071323d58b",
+    "translation": "8ce0867666b85830"
+  }
+}
