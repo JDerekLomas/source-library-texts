@@ -7,8 +7,8 @@
   "year": 1910,
   "published": "1910",
   "pages_count": 158,
-  "pages_with_ocr": 10,
-  "pages_with_translation": 10,
+  "pages_with_ocr": 158,
+  "pages_with_translation": 151,
   "source_url": "https://sourcelibrary.org/book/6953dda277f38f6761be827c",
   "license": "publicdomain",
   "doi": null,
@@ -20,9 +20,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:30:19.888Z",
+  "synced_at": "2026-03-08T06:10:21.960Z",
   "_hashes": {
-    "ocr": "c650d79b3dec3ef3",
-    "translation": "d576e3975405fa95"
+    "ocr": "3bd0a1f4876a8394",
+    "translation": "1f637d06d6cd1344"
   }
 }
