@@ -1,14 +1,14 @@
 {
   "id": "6985ca7115d1f651b83cf3a4",
   "title": "Reflexions sur les cinq livres de Moyse",
-  "display_title": "Reflexions sur les cinq livres de Moyse",
+  "display_title": "Reflections on the Five Books of Moses",
   "author": "[Allix, Pierre]",
   "language": "French",
   "year": 1687,
   "published": "1687",
   "pages_count": 308,
-  "pages_with_ocr": 10,
-  "pages_with_translation": 8,
+  "pages_with_ocr": 308,
+  "pages_with_translation": 301,
   "source_url": "https://sourcelibrary.org/book/6985ca7115d1f651b83cf3a4",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v4.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:31:21.020Z",
+  "synced_at": "2026-03-08T04:20:43.507Z",
   "_hashes": {
-    "ocr": "72c04fd7885b522d",
-    "translation": "2eb7f1f28c404ced"
+    "ocr": "581a1b619de0008c",
+    "translation": "b61fb391258822fc"
   }
 }
