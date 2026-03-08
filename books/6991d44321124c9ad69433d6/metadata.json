@@ -1,0 +1,28 @@
+{
+  "id": "6991d44321124c9ad69433d6",
+  "title": "Siddha Siddhanta Paddhati",
+  "display_title": "The Path of the Doctrines of the Adepts",
+  "author": "Gorakhnath (ed. Kalyani Mallik)",
+  "language": "Sanskrit",
+  "year": 1954,
+  "published": "1954",
+  "pages_count": 161,
+  "pages_with_ocr": 161,
+  "pages_with_translation": 161,
+  "source_url": "https://sourcelibrary.org/book/6991d44321124c9ad69433d6",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "Siddha.Siddhanta.Paddhati.and.Other.Works.of.the.Natha.Yogis"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T16:20:56.231Z",
+  "_hashes": {
+    "ocr": "bda24c4f33421353",
+    "translation": "88e40af9d3967800"
+  }
+}
