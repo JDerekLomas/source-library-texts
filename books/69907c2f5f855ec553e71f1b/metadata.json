@@ -1,0 +1,28 @@
+{
+  "id": "69907c2f5f855ec553e71f1b",
+  "title": "Hymns of the Atharva-Veda",
+  "display_title": "Hymns of the Atharva-Veda",
+  "author": "Maurice Bloomfield",
+  "language": "English",
+  "year": 1897,
+  "published": "Unknown",
+  "pages_count": 736,
+  "pages_with_ocr": 736,
+  "pages_with_translation": 2,
+  "source_url": "https://sourcelibrary.org/book/69907c2f5f855ec553e71f1b",
+  "license": "https://creativecommons.org/licenses/by-nd/4.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "relig-ie-indo-font-hyms-of-the-atharva-veda-bloomfield-livro"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T22:21:16.215Z",
+  "_hashes": {
+    "ocr": "b726d9a489a575dd",
+    "translation": "7fed79080e91b7f8"
+  }
+}
