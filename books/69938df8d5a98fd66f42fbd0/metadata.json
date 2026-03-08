@@ -1,0 +1,28 @@
+{
+  "id": "69938df8d5a98fd66f42fbd0",
+  "title": "Argonautica (Editio Princeps, Lascaris)",
+  "display_title": "Argonautica",
+  "author": "Apollonius Rhodius",
+  "language": "Greek",
+  "year": 1496,
+  "published": "Unknown",
+  "pages_count": 352,
+  "pages_with_ocr": 351,
+  "pages_with_translation": 342,
+  "source_url": "https://sourcelibrary.org/book/69938df8d5a98fd66f42fbd0",
+  "license": "https://gallica.bnf.fr/html/und/conditions-dutilisation-des-contenus-de-gallica",
+  "doi": null,
+  "external_ids": {
+    "gallica": "bpt6k1095329q"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T19:20:35.321Z",
+  "_hashes": {
+    "ocr": "1a8153e7d0c77eed",
+    "translation": "9f57588d2d73a5be"
+  }
+}
