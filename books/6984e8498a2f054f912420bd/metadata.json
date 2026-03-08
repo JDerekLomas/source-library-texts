@@ -1,14 +1,14 @@
 {
   "id": "6984e8498a2f054f912420bd",
   "title": "Philosophia sacra et vere christiana seu meteorologia cosmica",
-  "display_title": "Philosophia sacra et vere christiana seu meteorologia cosmica",
+  "display_title": "Sacred and Truly Christian Philosophy, or Cosmic Meteorology",
   "author": "Fludd, Robert",
   "language": "Latin",
   "year": 1626,
   "published": "1626",
   "pages_count": 332,
-  "pages_with_ocr": 10,
-  "pages_with_translation": 7,
+  "pages_with_ocr": 332,
+  "pages_with_translation": 320,
   "source_url": "https://sourcelibrary.org/book/6984e8498a2f054f912420bd",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v4.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:31:33.769Z",
+  "synced_at": "2026-03-08T03:30:21.719Z",
   "_hashes": {
-    "ocr": "6422e4ac0dd201c4",
-    "translation": "692f36f93adf8d1f"
+    "ocr": "f232d7750fc36549",
+    "translation": "2f8aba680ed73340"
   }
 }
