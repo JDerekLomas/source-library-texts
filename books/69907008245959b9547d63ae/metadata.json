@@ -1,0 +1,28 @@
+{
+  "id": "69907008245959b9547d63ae",
+  "title": "De Lapidibus Pretiosis Enchiridion",
+  "display_title": "Handbook of Precious Stones",
+  "author": "Marbode of Rennes; ed. Georg Pictorius",
+  "language": "Latin",
+  "year": 1550,
+  "published": "Unknown",
+  "pages_count": 128,
+  "pages_with_ocr": 128,
+  "pages_with_translation": 19,
+  "source_url": "https://sourcelibrary.org/book/69907008245959b9547d63ae",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "hin-wel-all-00002338-001"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T22:11:34.748Z",
+  "_hashes": {
+    "ocr": "b5f0a2cd9c4b8bb3",
+    "translation": "ff8028872894644b"
+  }
+}
