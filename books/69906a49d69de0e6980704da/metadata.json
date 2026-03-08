@@ -1,0 +1,28 @@
+{
+  "id": "69906a49d69de0e6980704da",
+  "title": "Primitive Culture: Researches into the Development of Mythology, Philosophy, Religion, Art, and Custom, Vol. I",
+  "display_title": "Primitive Culture: Researches into the Development of Mythology, Philosophy, Religion, Art, and Custom, Vol. I",
+  "author": "Edward Burnett Tylor",
+  "language": "English",
+  "year": 1871,
+  "published": "Unknown",
+  "pages_count": 478,
+  "pages_with_ocr": 114,
+  "pages_with_translation": 4,
+  "source_url": "https://sourcelibrary.org/book/69906a49d69de0e6980704da",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "primitiveculture0001edwa"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T22:01:49.628Z",
+  "_hashes": {
+    "ocr": "05711315ab0eebe0",
+    "translation": "a06e352900f375a0"
+  }
+}
