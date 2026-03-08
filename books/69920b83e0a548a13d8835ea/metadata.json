@@ -1,0 +1,28 @@
+{
+  "id": "69920b83e0a548a13d8835ea",
+  "title": "Coptic New Testament, Sahidic Dialect (Vol. 3)",
+  "display_title": "Coptic New Testament, Sahidic Dialect (Vol. 3)",
+  "author": "George William Horner (ed.)",
+  "language": "Coptic",
+  "year": 1908,
+  "published": "Unknown",
+  "pages_count": 436,
+  "pages_with_ocr": 433,
+  "pages_with_translation": 413,
+  "source_url": "https://sourcelibrary.org/book/69920b83e0a548a13d8835ea",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "copticversionofn03hornuoft"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T17:24:50.345Z",
+  "_hashes": {
+    "ocr": "0b45339d0daa115a",
+    "translation": "f4a1766857cb3624"
+  }
+}
