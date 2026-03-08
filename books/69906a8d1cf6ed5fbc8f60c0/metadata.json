@@ -1,0 +1,28 @@
+{
+  "id": "69906a8d1cf6ed5fbc8f60c0",
+  "title": "Phantasms of the Living, Vol. I",
+  "display_title": "Phantasms of the Living, Vol. I",
+  "author": "Edmund Gurney; Frederic W. H. Myers; Frank Podmore",
+  "language": "English",
+  "year": 1886,
+  "published": "Unknown",
+  "pages_count": 2177,
+  "pages_with_ocr": 1558,
+  "pages_with_translation": 4,
+  "source_url": "https://sourcelibrary.org/book/69906a8d1cf6ed5fbc8f60c0",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "in.ernet.dli.2015.99141"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T22:01:46.093Z",
+  "_hashes": {
+    "ocr": "ee0a405b9d75c121",
+    "translation": "6b496c7b75abbee5"
+  }
+}
