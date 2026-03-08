@@ -1,0 +1,28 @@
+{
+  "id": "69924f3b09c5da0cf50d7989",
+  "title": "Thrice-Greatest Hermes, Vol. 1: Prolegomena",
+  "display_title": "Thrice-Greatest Hermes, Vol. 1: Prolegomena",
+  "author": "G.R.S. Mead",
+  "language": "English",
+  "year": 1906,
+  "published": "Unknown",
+  "pages_count": 514,
+  "pages_with_ocr": 293,
+  "pages_with_translation": 5,
+  "source_url": "https://sourcelibrary.org/book/69924f3b09c5da0cf50d7989",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "thricegreatesthe01hermuoft"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T23:01:02.362Z",
+  "_hashes": {
+    "ocr": "2e2d7c3afc58fb02",
+    "translation": "2bc77abf49f736ae"
+  }
+}
