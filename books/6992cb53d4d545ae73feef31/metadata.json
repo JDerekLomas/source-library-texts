@@ -1,0 +1,28 @@
+{
+  "id": "6992cb53d4d545ae73feef31",
+  "title": "華氏中藏經 (Hua Shi Zhongzang Jing: Central Treasury Medical Classic)",
+  "display_title": "Master Hua's Central Treasury Medical Classic",
+  "author": "attributed to Hua Tuo",
+  "language": "Chinese",
+  "year": 800,
+  "published": "Unknown",
+  "pages_count": 161,
+  "pages_with_ocr": 161,
+  "pages_with_translation": 4,
+  "source_url": "https://sourcelibrary.org/book/6992cb53d4d545ae73feef31",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "02093599.cn"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T23:11:24.718Z",
+  "_hashes": {
+    "ocr": "5ac50c347e224f70",
+    "translation": "ea78667e28443130"
+  }
+}
