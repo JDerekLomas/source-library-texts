@@ -1,0 +1,28 @@
+{
+  "id": "6991be162e5d8f25d7e87685",
+  "title": "Arcana Coelestia, Vol. X",
+  "display_title": "Arcana Coelestia, Vol. X",
+  "author": "Emanuel Swedenborg",
+  "language": "Latin",
+  "year": 1784,
+  "published": "Unknown",
+  "pages_count": 668,
+  "pages_with_ocr": 664,
+  "pages_with_translation": 658,
+  "source_url": "https://sourcelibrary.org/book/6991be162e5d8f25d7e87685",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "arcanacoelestiah10swed"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T18:01:17.151Z",
+  "_hashes": {
+    "ocr": "40ec4688ae40b5c0",
+    "translation": "1120471389452bde"
+  }
+}
