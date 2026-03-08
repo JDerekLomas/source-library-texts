@@ -1,0 +1,28 @@
+{
+  "id": "69907a9cdb8b55d19ec69679",
+  "title": "The Religious System of China, Vol. 3",
+  "display_title": "The Religious System of China, Vol. 3",
+  "author": "J.J.M. de Groot",
+  "language": "English",
+  "year": 1897,
+  "published": "Unknown",
+  "pages_count": 720,
+  "pages_with_ocr": 720,
+  "pages_with_translation": 678,
+  "source_url": "https://sourcelibrary.org/book/69907a9cdb8b55d19ec69679",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "religioussystemo03groo"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T16:11:25.556Z",
+  "_hashes": {
+    "ocr": "bdce8e83ff2ccafa",
+    "translation": "865cd249f9a3bb97"
+  }
+}
