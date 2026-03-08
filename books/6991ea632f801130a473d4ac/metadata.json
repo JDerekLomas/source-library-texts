@@ -1,0 +1,28 @@
+{
+  "id": "6991ea632f801130a473d4ac",
+  "title": "Statuti dell'Arte dei Medici e Speziali",
+  "display_title": "Statuti dell'Arte dei Medici e Speziali",
+  "author": "Arte dei Medici e Speziali",
+  "language": "Italian",
+  "year": 1494,
+  "published": "Unknown",
+  "pages_count": 716,
+  "pages_with_ocr": 712,
+  "pages_with_translation": 690,
+  "source_url": "https://sourcelibrary.org/book/6991ea632f801130a473d4ac",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "statutidellarted00arteuoft"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T17:25:11.781Z",
+  "_hashes": {
+    "ocr": "df581f578662ceef",
+    "translation": "6ae98cef1f15eec0"
+  }
+}
