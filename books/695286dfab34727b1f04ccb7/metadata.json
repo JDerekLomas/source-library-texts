@@ -1,0 +1,28 @@
+{
+  "id": "695286dfab34727b1f04ccb7",
+  "title": "Theatrum Chemicum Vol II",
+  "display_title": "Theatrum Chemicum Volumen Secundum",
+  "author": "Lazarus Zetzner (ed.)",
+  "language": "Latin",
+  "year": 1602,
+  "published": "1602",
+  "pages_count": 651,
+  "pages_with_ocr": 651,
+  "pages_with_translation": 643,
+  "source_url": "https://sourcelibrary.org/book/695286dfab34727b1f04ccb7",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "BIUSante_pharma_res011287x02"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T05:20:40.632Z",
+  "_hashes": {
+    "ocr": "47197ed9514c11f8",
+    "translation": "d588a043c9d01726"
+  }
+}
