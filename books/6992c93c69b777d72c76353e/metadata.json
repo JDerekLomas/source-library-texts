@@ -1,0 +1,28 @@
+{
+  "id": "6992c93c69b777d72c76353e",
+  "title": "周天星位經緯宿度考 (Study of Celestial Star Positions and Lunar Mansions)",
+  "display_title": "周天星位經緯宿度考 (Study of Celestial Star Positions and Lunar Mansions)",
+  "author": "Imperial Astronomical Bureau",
+  "language": "Chinese",
+  "year": null,
+  "published": "Unknown",
+  "pages_count": 989,
+  "pages_with_ocr": 989,
+  "pages_with_translation": 989,
+  "source_url": "https://sourcelibrary.org/book/6992c93c69b777d72c76353e",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "02093897.cn"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T17:41:12.526Z",
+  "_hashes": {
+    "ocr": "1ad2ab901ffd9d7e",
+    "translation": "7015b496d969620a"
+  }
+}
