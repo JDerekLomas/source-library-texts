@@ -1,0 +1,28 @@
+{
+  "id": "6991e19d339ebc850994a2c3",
+  "title": "De Officio Hominis et Civis",
+  "display_title": "De Officio Hominis et Civis",
+  "author": "Samuel von Pufendorf",
+  "language": "Latin",
+  "year": 1673,
+  "published": "Unknown",
+  "pages_count": 321,
+  "pages_with_ocr": 321,
+  "pages_with_translation": 314,
+  "source_url": "https://sourcelibrary.org/book/6991e19d339ebc850994a2c3",
+  "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bub_gb_ogpvvNQzwfwC"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T16:50:47.945Z",
+  "_hashes": {
+    "ocr": "b8cd8c61d60ca021",
+    "translation": "96e468c538da5da2"
+  }
+}
