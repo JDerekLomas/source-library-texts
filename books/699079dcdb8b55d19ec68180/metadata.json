@@ -1,0 +1,28 @@
+{
+  "id": "699079dcdb8b55d19ec68180",
+  "title": "At the Back of the Black Man's Mind",
+  "display_title": "At the Back of the Black Man's Mind",
+  "author": "R. E. Dennett",
+  "language": "English",
+  "year": 1906,
+  "published": "Unknown",
+  "pages_count": 362,
+  "pages_with_ocr": 362,
+  "pages_with_translation": 1,
+  "source_url": "https://sourcelibrary.org/book/699079dcdb8b55d19ec68180",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "atbackofblackman00denn"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T22:21:46.064Z",
+  "_hashes": {
+    "ocr": "d78099c98429e196",
+    "translation": "d75c6de3972b7d93"
+  }
+}
