@@ -1,14 +1,14 @@
 {
   "id": "6984e84db96022f6fa69b4c8",
   "title": "Opus mago-cabbalisticum et theosophicum, darinnen der Ursprung, Natur, Eigenschaften und Gebrauch des Salzes, Schwefels und Mercurii",
-  "display_title": "Opus mago-cabbalisticum et theosophicum, darinnen der Ursprung, Natur, Eigenschaften und Gebrauch des Salzes, Schwefels und Mercurii",
+  "display_title": "Magico-Cabbalistic and Theosophical Work",
   "author": "Welling, Georg von",
   "language": "German",
   "year": 1784,
   "published": "1784",
-  "pages_count": 805,
-  "pages_with_ocr": 10,
-  "pages_with_translation": 0,
+  "pages_count": 801,
+  "pages_with_ocr": 801,
+  "pages_with_translation": 751,
   "source_url": "https://sourcelibrary.org/book/6984e84db96022f6fa69b4c8",
   "license": "publicdomain",
   "doi": null,
@@ -16,11 +16,11 @@
   "processing": {
     "ocr_model": "gemini-3-flash-preview",
     "prompt_version": "v4.2026-02",
-    "translation_model": null
+    "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:31:30.596Z",
+  "synced_at": "2026-03-08T14:50:10.815Z",
   "_hashes": {
-    "ocr": "fad43525ef366021",
-    "translation": "e3b0c44298fc1c14"
+    "ocr": "23b3905d651bae75",
+    "translation": "2a07d16df89ae721"
   }
 }
