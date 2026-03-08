@@ -1,0 +1,28 @@
+{
+  "id": "6991bc8fdbc9a79256550c80",
+  "title": "The Inner Consciousness",
+  "display_title": "The Inner Consciousness",
+  "author": "William Walker Atkinson",
+  "language": "English",
+  "year": 1908,
+  "published": "Unknown",
+  "pages_count": 105,
+  "pages_with_ocr": 105,
+  "pages_with_translation": 52,
+  "source_url": "https://sourcelibrary.org/book/6991bc8fdbc9a79256550c80",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "innerconsciousn00atkigoog"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T22:20:53.539Z",
+  "_hashes": {
+    "ocr": "0a951f7bccf8e5e8",
+    "translation": "f4e72f6a9fb7af1f"
+  }
+}
