@@ -1,0 +1,26 @@
+{
+  "id": "6984e8498a2f054f912420cd",
+  "title": "Pandora magnalium naturalium aurea et benedicta, de benedicto lapidis philosoph. mysterio",
+  "display_title": "Golden and Blessed Pandora of Natural Wonders",
+  "author": "Figulus, Benedictus",
+  "language": "Latin",
+  "year": 1608,
+  "published": "1608",
+  "pages_count": 383,
+  "pages_with_ocr": 383,
+  "pages_with_translation": 361,
+  "source_url": "https://sourcelibrary.org/book/6984e8498a2f054f912420cd",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T14:40:06.982Z",
+  "_hashes": {
+    "ocr": "9d6b1069d7f62133",
+    "translation": "890d8cc3467fd59c"
+  }
+}
