@@ -1,14 +1,14 @@
 {
   "id": "6992cf72f5b4f75c1a4c8e92",
   "title": "海國圖志(15)",
-  "display_title": "海國圖志(15)",
+  "display_title": "Illustrated Treatise on the Maritime Kingdoms",
   "author": "魏源",
   "language": "Chinese",
   "year": 1844,
   "published": "1844",
   "pages_count": 103,
   "pages_with_ocr": 103,
-  "pages_with_translation": 83,
+  "pages_with_translation": 103,
   "source_url": "https://sourcelibrary.org/book/6992cf72f5b4f75c1a4c8e92",
   "license": "publicdomain",
   "doi": null,
@@ -20,9 +20,9 @@
     "prompt_version": "v5.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:28:29.375Z",
+  "synced_at": "2026-03-08T18:40:28.094Z",
   "_hashes": {
     "ocr": "9f83dad440a50490",
-    "translation": "5481ce9973412306"
+    "translation": "f9685076df35be67"
   }
 }
