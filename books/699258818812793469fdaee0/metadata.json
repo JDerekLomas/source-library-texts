@@ -1,0 +1,28 @@
+{
+  "id": "699258818812793469fdaee0",
+  "title": "Studies in Saiva Siddhanta",
+  "display_title": "Studies in Saiva Siddhanta",
+  "author": "J.M. Nallaswami Pillai",
+  "language": "English",
+  "year": 1911,
+  "published": "Unknown",
+  "pages_count": 341,
+  "pages_with_ocr": 340,
+  "pages_with_translation": 333,
+  "source_url": "https://sourcelibrary.org/book/699258818812793469fdaee0",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "in.ernet.dli.2015.69899"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T18:50:32.836Z",
+  "_hashes": {
+    "ocr": "e76def64ddae538a",
+    "translation": "0da35d507f6ac1dd"
+  }
+}
