@@ -1,0 +1,28 @@
+{
+  "id": "6991ec02e93551dd846a7c58",
+  "title": "De Orbis Terrae Concordia",
+  "display_title": "De Orbis Terrae Concordia",
+  "author": "Guillaume Postel",
+  "language": "Latin",
+  "year": 1544,
+  "published": "Unknown",
+  "pages_count": 466,
+  "pages_with_ocr": 466,
+  "pages_with_translation": 455,
+  "source_url": "https://sourcelibrary.org/book/6991ec02e93551dd846a7c58",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "deorbisterraecon00post"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T17:51:19.737Z",
+  "_hashes": {
+    "ocr": "550cc17a55739d6d",
+    "translation": "d73ebb96b436a6d5"
+  }
+}
