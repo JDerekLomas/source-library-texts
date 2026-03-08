@@ -1,14 +1,14 @@
 {
   "id": "6981920896d524cea5bb59f1",
   "title": "Magia adamica oder das Alterthum der Magie",
-  "display_title": "Magia adamica oder das Alterthum der Magie",
+  "display_title": "Adamic Magic, or the Antiquity of Magic",
   "author": "[Vaughan, Thomas]",
   "language": "Latin-German",
   "year": 1735,
   "published": "1735",
   "pages_count": 384,
-  "pages_with_ocr": 10,
-  "pages_with_translation": 5,
+  "pages_with_ocr": 384,
+  "pages_with_translation": 373,
   "source_url": "https://sourcelibrary.org/book/6981920896d524cea5bb59f1",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v4.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:31:06.132Z",
+  "synced_at": "2026-03-08T01:40:25.303Z",
   "_hashes": {
-    "ocr": "0f3a53574b039748",
-    "translation": "afd4bfaf2bf3375e"
+    "ocr": "449bb4a61ad5fbe0",
+    "translation": "19b59a0e24e96271"
   }
 }
