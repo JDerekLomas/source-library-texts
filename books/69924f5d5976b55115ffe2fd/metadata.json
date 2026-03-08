@@ -1,0 +1,28 @@
+{
+  "id": "69924f5d5976b55115ffe2fd",
+  "title": "Pausanias: Description of Greece, Vol. 5 (Commentary)",
+  "display_title": "Pausanias: Description of Greece, Vol. 5 (Commentary)",
+  "author": "Pausanias (ed. James George Frazer)",
+  "language": "Greek",
+  "year": 1898,
+  "published": "Unknown",
+  "pages_count": 676,
+  "pages_with_ocr": 271,
+  "pages_with_translation": 8,
+  "source_url": "https://sourcelibrary.org/book/69924f5d5976b55115ffe2fd",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "pausaniassdescri05pausuoft"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T23:11:15.731Z",
+  "_hashes": {
+    "ocr": "0ef15f1431cedbca",
+    "translation": "4c129ea5c4cfee84"
+  }
+}
