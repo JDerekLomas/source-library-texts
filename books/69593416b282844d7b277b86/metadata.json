@@ -7,8 +7,8 @@
   "year": 1626,
   "published": "1626",
   "pages_count": 316,
-  "pages_with_ocr": 10,
-  "pages_with_translation": 8,
+  "pages_with_ocr": 316,
+  "pages_with_translation": 313,
   "source_url": "https://sourcelibrary.org/book/69593416b282844d7b277b86",
   "license": "https://rightsstatements.org/vocab/NoC-NC/1.0/",
   "doi": null,
@@ -20,9 +20,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:30:23.823Z",
+  "synced_at": "2026-03-08T15:10:31.334Z",
   "_hashes": {
-    "ocr": "35a23e65aa24c99d",
-    "translation": "3fdaebbcca02a7c0"
+    "ocr": "f5ef95973093b576",
+    "translation": "91a090f9f491173a"
   }
 }
