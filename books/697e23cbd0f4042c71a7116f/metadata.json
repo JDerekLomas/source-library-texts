@@ -1,14 +1,14 @@
 {
   "id": "697e23cbd0f4042c71a7116f",
   "title": "Historische beschrijving van het leven onses heeren Jesu Christi",
-  "display_title": "Historische beschrijving van het leven onses heeren Jesu Christi",
+  "display_title": "Historical Description of the Life of Our Lord Jesus Christ",
   "author": "Schabaelje, Jan Philipsz",
   "language": "Dutch",
   "year": 1681,
   "published": "1681",
-  "pages_count": 765,
-  "pages_with_ocr": 510,
-  "pages_with_translation": 3,
+  "pages_count": 738,
+  "pages_with_ocr": 738,
+  "pages_with_translation": 640,
   "source_url": "https://sourcelibrary.org/book/697e23cbd0f4042c71a7116f",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v4.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:24:14.355Z",
+  "synced_at": "2026-03-08T13:50:16.083Z",
   "_hashes": {
-    "ocr": "bf1aba2bbaac9b70",
-    "translation": "96603115f8855cdf"
+    "ocr": "9503142ba6b64b2f",
+    "translation": "b918860afbf5f887"
   }
 }
