@@ -1,0 +1,28 @@
+{
+  "id": "69920befebe5b0fa6be5d569",
+  "title": "Mishnah: Kaufmann Manuscript (Complete)",
+  "display_title": "Mishnah: Kaufmann Manuscript (Complete)",
+  "author": "Anonymous",
+  "language": "Hebrew",
+  "year": 1929,
+  "published": "Unknown",
+  "pages_count": 874,
+  "pages_with_ocr": 874,
+  "pages_with_translation": 874,
+  "source_url": "https://sourcelibrary.org/book/69920befebe5b0fa6be5d569",
+  "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "MishnaCorrectedKaufman00WHOLE"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T18:01:02.114Z",
+  "_hashes": {
+    "ocr": "97c8a3b5921fc485",
+    "translation": "0625998e29d178c9"
+  }
+}
