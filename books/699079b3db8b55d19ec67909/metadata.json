@@ -1,0 +1,28 @@
+{
+  "id": "699079b3db8b55d19ec67909",
+  "title": "The Yoruba-Speaking Peoples of the Slave Coast of West Africa",
+  "display_title": "The Yoruba-Speaking Peoples of the Slave Coast of West Africa",
+  "author": "Alfred Burdon Ellis",
+  "language": "English",
+  "year": 1894,
+  "published": "Unknown",
+  "pages_count": 271,
+  "pages_with_ocr": 271,
+  "pages_with_translation": 1,
+  "source_url": "https://sourcelibrary.org/book/699079b3db8b55d19ec67909",
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "the-yoruba-speaking-peoples-of-the-slave-coast-of-west-africa-their-religion-man"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T22:21:25.212Z",
+  "_hashes": {
+    "ocr": "70e2f464c3865255",
+    "translation": "e2a8f91b23df76a1"
+  }
+}
