@@ -1,0 +1,26 @@
+{
+  "id": "6991c53c3074a1745a4107ab",
+  "title": "Aureum Vellus: Guldin Schatz und Kunstkammer with Splendor Solis illustrations (Cod. Sang. 1727)",
+  "display_title": "St. Gallen, Stiftsbibliothek, Cod. Sang. 1727",
+  "author": "Georg Straub (after Solomon Trismosin)",
+  "language": "German",
+  "year": 1590,
+  "published": "Unknown",
+  "pages_count": 534,
+  "pages_with_ocr": 534,
+  "pages_with_translation": 518,
+  "source_url": "https://sourcelibrary.org/book/6991c53c3074a1745a4107ab",
+  "license": "CC-BY-NC-4.0",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T16:31:22.491Z",
+  "_hashes": {
+    "ocr": "05111655aabadb12",
+    "translation": "c485458179215520"
+  }
+}
