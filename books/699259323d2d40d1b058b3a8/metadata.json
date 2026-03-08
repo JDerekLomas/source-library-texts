@@ -7,8 +7,8 @@
   "year": 1884,
   "published": "Unknown",
   "pages_count": 102,
-  "pages_with_ocr": 100,
-  "pages_with_translation": 0,
+  "pages_with_ocr": 101,
+  "pages_with_translation": 82,
   "source_url": "https://sourcelibrary.org/book/699259323d2d40d1b058b3a8",
   "license": "publicdomain",
   "doi": null,
@@ -18,11 +18,11 @@
   "processing": {
     "ocr_model": "gemini-3-flash-preview",
     "prompt_version": "v5.2026-02",
-    "translation_model": null
+    "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:28:44.121Z",
+  "synced_at": "2026-03-08T23:20:50.940Z",
   "_hashes": {
-    "ocr": "a556e8a42424fc0a",
-    "translation": "e3b0c44298fc1c14"
+    "ocr": "4d1f64fa6f57efbf",
+    "translation": "e679609dd89d32ea"
   }
 }
