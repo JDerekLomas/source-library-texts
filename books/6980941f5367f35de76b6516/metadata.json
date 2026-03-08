@@ -1,14 +1,14 @@
 {
   "id": "6980941f5367f35de76b6516",
   "title": "Liber secretus  Libellus",
-  "display_title": "Liber secretus  Libellus",
+  "display_title": "The Secret Book",
   "author": "Artephius|Frater Helias de Assisi",
   "language": "Latin",
   "year": 1685,
   "published": "1685",
   "pages_count": 144,
-  "pages_with_ocr": 10,
-  "pages_with_translation": 5,
+  "pages_with_ocr": 144,
+  "pages_with_translation": 135,
   "source_url": "https://sourcelibrary.org/book/6980941f5367f35de76b6516",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v4.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:31:09.177Z",
+  "synced_at": "2026-03-08T01:20:21.972Z",
   "_hashes": {
-    "ocr": "f799cfbff31694e5",
-    "translation": "96a791e82d8a2585"
+    "ocr": "73bd5e782418ba1d",
+    "translation": "cbcbefd1a4144939"
   }
 }
