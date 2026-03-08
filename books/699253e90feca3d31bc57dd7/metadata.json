@@ -1,0 +1,28 @@
+{
+  "id": "699253e90feca3d31bc57dd7",
+  "title": "The Greek Liturgies",
+  "display_title": "The Greek Liturgies",
+  "author": "C.A. Swainson",
+  "language": "English",
+  "year": 1884,
+  "published": "Unknown",
+  "pages_count": 464,
+  "pages_with_ocr": 464,
+  "pages_with_translation": 5,
+  "source_url": "https://sourcelibrary.org/book/699253e90feca3d31bc57dd7",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "greekliturgies00swai"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T23:01:05.509Z",
+  "_hashes": {
+    "ocr": "b0373443c547b384",
+    "translation": "83e790534053a8a7"
+  }
+}
