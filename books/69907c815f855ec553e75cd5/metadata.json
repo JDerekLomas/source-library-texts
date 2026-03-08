@@ -1,0 +1,28 @@
+{
+  "id": "69907c815f855ec553e75cd5",
+  "title": "Die Religion des Veda",
+  "display_title": "Die Religion des Veda",
+  "author": "Hermann Oldenberg",
+  "language": "German",
+  "year": 1894,
+  "published": "Unknown",
+  "pages_count": 643,
+  "pages_with_ocr": 642,
+  "pages_with_translation": 628,
+  "source_url": "https://sourcelibrary.org/book/69907c815f855ec553e75cd5",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "diereligiondesv02oldegoog"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T16:20:30.324Z",
+  "_hashes": {
+    "ocr": "5014f564c2e7132d",
+    "translation": "5641ac17e92d6fad"
+  }
+}
