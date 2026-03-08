@@ -1,0 +1,26 @@
+{
+  "id": "69906f5e4b3bd4d1fffd0865",
+  "title": "The Ashmole Bestiary",
+  "display_title": "Bodleian Library MS. Ashmole 1511",
+  "author": "Anonymous; Hugh of Fouilloy",
+  "language": "Latin",
+  "year": 1210,
+  "published": "1210",
+  "pages_count": 226,
+  "pages_with_ocr": 226,
+  "pages_with_translation": 1,
+  "source_url": "https://sourcelibrary.org/book/69906f5e4b3bd4d1fffd0865",
+  "license": "CC-BY-NC-4.0",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T22:01:12.995Z",
+  "_hashes": {
+    "ocr": "2c1a8c8e0b60dcd5",
+    "translation": "1ad845cf3ea755cd"
+  }
+}
