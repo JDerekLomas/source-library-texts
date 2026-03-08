@@ -1,14 +1,14 @@
 {
   "id": "697b079711cc8928b55ea3b2",
   "title": "Duplex confessio Valdensium",
-  "display_title": "Duplex confessio Valdensium",
+  "display_title": "The Twofold Confession of the Waldensians",
   "author": "Unknown",
   "language": "Latin",
   "year": 1512,
   "published": "1512",
-  "pages_count": 420,
-  "pages_with_ocr": 10,
-  "pages_with_translation": 2,
+  "pages_count": 419,
+  "pages_with_ocr": 418,
+  "pages_with_translation": 396,
   "source_url": "https://sourcelibrary.org/book/697b079711cc8928b55ea3b2",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:30:24.089Z",
+  "synced_at": "2026-03-08T11:00:43.466Z",
   "_hashes": {
-    "ocr": "7fc137c398bdc303",
-    "translation": "c3128357406a21b7"
+    "ocr": "828bf0b9073ba72b",
+    "translation": "6924ec5b1923fa38"
   }
 }
