@@ -1,0 +1,26 @@
+{
+  "id": "6991bf4a734f402cad489407",
+  "title": "Astrological Treatises with Diagrams (Arundel MS 377)",
+  "display_title": "arundel ms 377",
+  "author": "Various (Hermann of Reichenau, al-Farghani, Abraham ibn Ezra, Adelard of Bath)",
+  "language": "Latin",
+  "year": 1250,
+  "published": "Unknown",
+  "pages_count": 303,
+  "pages_with_ocr": 303,
+  "pages_with_translation": 294,
+  "source_url": "https://sourcelibrary.org/book/6991bf4a734f402cad489407",
+  "license": "unknown",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T16:31:26.903Z",
+  "_hashes": {
+    "ocr": "3f1286443703aded",
+    "translation": "a69d3365b2929275"
+  }
+}
