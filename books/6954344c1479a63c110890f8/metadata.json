@@ -7,8 +7,8 @@
   "year": 1852,
   "published": "Unknown",
   "pages_count": 398,
-  "pages_with_ocr": 10,
-  "pages_with_translation": 10,
+  "pages_with_ocr": 394,
+  "pages_with_translation": 378,
   "source_url": "https://sourcelibrary.org/book/6954344c1479a63c110890f8",
   "license": "publicdomain",
   "doi": null,
@@ -20,9 +20,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:30:47.314Z",
+  "synced_at": "2026-03-08T11:50:47.456Z",
   "_hashes": {
-    "ocr": "5f39e40da12e24b8",
-    "translation": "3c6023756585c2bd"
+    "ocr": "55a0242d6603373c",
+    "translation": "2d2a8686487d76c8"
   }
 }
