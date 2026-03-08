@@ -1,0 +1,28 @@
+{
+  "id": "69557433f63a75710917330c",
+  "title": "Introductionis Arithmeticae Libri II",
+  "display_title": "Introductionis Arithmeticae Libri II",
+  "author": "Nicomachus of Gerasa",
+  "language": "Greek/Latin",
+  "year": 1866,
+  "published": "1866",
+  "pages_count": 228,
+  "pages_with_ocr": 224,
+  "pages_with_translation": 218,
+  "source_url": "https://sourcelibrary.org/book/69557433f63a75710917330c",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "nicomachigerasen00nicouoft"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T13:11:07.800Z",
+  "_hashes": {
+    "ocr": "04886e4ab280ec27",
+    "translation": "edb67235efb388a6"
+  }
+}
