@@ -6,9 +6,9 @@
   "language": "German",
   "year": 1528,
   "published": "1528",
-  "pages_count": 327,
-  "pages_with_ocr": 327,
-  "pages_with_translation": 183,
+  "pages_count": 326,
+  "pages_with_ocr": 326,
+  "pages_with_translation": 182,
   "source_url": "https://sourcelibrary.org/book/697d9ca23ae651930d9afc0d",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v4.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-03-05T03:30:15.811Z",
+  "synced_at": "2026-03-08T12:50:36.317Z",
   "_hashes": {
-    "ocr": "51adedf1781a0b00",
-    "translation": "f64b97d88dff34b8"
+    "ocr": "3c1baa58d554bac9",
+    "translation": "ae8b886dac27a8ea"
   }
 }
