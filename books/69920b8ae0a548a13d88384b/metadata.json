@@ -1,0 +1,28 @@
+{
+  "id": "69920b8ae0a548a13d88384b",
+  "title": "Biblia Veteris Testamenti Aethiopica",
+  "display_title": "Biblia Veteris Testamenti Aethiopica",
+  "author": "August Dillmann (ed.)",
+  "language": "Ge'ez",
+  "year": 1865,
+  "published": "Unknown",
+  "pages_count": 1099,
+  "pages_with_ocr": 1099,
+  "pages_with_translation": 1080,
+  "source_url": "https://sourcelibrary.org/book/69920b8ae0a548a13d88384b",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bibliaveteriste00dillgoog"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T16:50:34.788Z",
+  "_hashes": {
+    "ocr": "4687b7237f7ec7ba",
+    "translation": "7e9c0c1919c4f10a"
+  }
+}
