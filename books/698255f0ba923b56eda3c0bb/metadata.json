@@ -1,14 +1,14 @@
 {
   "id": "698255f0ba923b56eda3c0bb",
   "title": "Der Mystagog oder vom Ursprung und Entstehung aller Mysterien und Hieroglyphen der Alten welche auf die Freymaurerey Bezug haben",
-  "display_title": "Der Mystagog oder vom Ursprung und Entstehung aller Mysterien und Hieroglyphen der Alten welche auf die Freymaurerey Bezug haben",
+  "display_title": "The Mystagogue, or the Origin of Ancient Mysteries and Hieroglyphs",
   "author": "[Hermann, Johann Gottlieb]",
   "language": "German",
   "year": 1789,
   "published": "1789",
   "pages_count": 383,
-  "pages_with_ocr": 10,
-  "pages_with_translation": 5,
+  "pages_with_ocr": 91,
+  "pages_with_translation": 86,
   "source_url": "https://sourcelibrary.org/book/698255f0ba923b56eda3c0bb",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v4.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:30:49.022Z",
+  "synced_at": "2026-03-08T12:40:28.150Z",
   "_hashes": {
-    "ocr": "0cfd67d9cfd7a3b3",
-    "translation": "4bd718c018df6d72"
+    "ocr": "1160b41ad8965f95",
+    "translation": "d258fdf184b6a930"
   }
 }
