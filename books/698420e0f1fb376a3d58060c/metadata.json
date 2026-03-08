@@ -1,14 +1,14 @@
 {
   "id": "698420e0f1fb376a3d58060c",
   "title": "Observations sur la Franc-maçonnerie, le Martinisme, les visions de Swedenborg, le magnétisme, &c.-",
-  "display_title": "Observations sur la Franc-maçonnerie, le Martinisme, les visions de Swedenborg, le magnétisme, &c.-",
+  "display_title": "Observations on Freemasonry, Martinism, the Visions of Swedenborg, and Magnetism",
   "author": "anonymous",
   "language": "French",
   "year": 1786,
   "published": "1786",
   "pages_count": 288,
-  "pages_with_ocr": 10,
-  "pages_with_translation": 4,
+  "pages_with_ocr": 288,
+  "pages_with_translation": 274,
   "source_url": "https://sourcelibrary.org/book/698420e0f1fb376a3d58060c",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v4.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:30:54.689Z",
+  "synced_at": "2026-03-08T02:50:32.331Z",
   "_hashes": {
-    "ocr": "f33790b3d71c8876",
-    "translation": "e7049235bc3e69fe"
+    "ocr": "e03eeaf6f111d6e5",
+    "translation": "ba63921940b03ed8"
   }
 }
