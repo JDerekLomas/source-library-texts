@@ -1,14 +1,14 @@
 {
   "id": "69804b952c90f692f9716e32",
   "title": "Kort-begryp van 't rechte en ware christendom",
-  "display_title": "Kort-begryp van 't rechte en ware christendom",
+  "display_title": "A Summary of Right and True Christianity",
   "author": "Labadie, Jean de",
   "language": "Dutch",
   "year": 1685,
   "published": "1685",
-  "pages_count": 602,
-  "pages_with_ocr": 10,
-  "pages_with_translation": 6,
+  "pages_count": 601,
+  "pages_with_ocr": 601,
+  "pages_with_translation": 593,
   "source_url": "https://sourcelibrary.org/book/69804b952c90f692f9716e32",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v4.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:31:03.832Z",
+  "synced_at": "2026-03-08T00:50:32.891Z",
   "_hashes": {
-    "ocr": "344f4a08884d4a76",
-    "translation": "e367fc300075dd84"
+    "ocr": "426e2fec37be1c20",
+    "translation": "bbb8b9d90e118ac2"
   }
 }
