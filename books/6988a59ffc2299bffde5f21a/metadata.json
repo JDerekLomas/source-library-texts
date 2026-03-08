@@ -1,14 +1,14 @@
 {
   "id": "6988a59ffc2299bffde5f21a",
   "title": "Schutzschrift für die Aechtheit der Rosenkreutzergesellschaft",
-  "display_title": "Schutzschrift für die Aechtheit der Rosenkreutzergesellschaft",
+  "display_title": "Defense of the Authenticity of the Rosicrucian Society",
   "author": "Fludd, Robert",
   "language": "German",
   "year": 1782,
   "published": "1782",
-  "pages_count": 370,
-  "pages_with_ocr": 369,
-  "pages_with_translation": 360,
+  "pages_count": 368,
+  "pages_with_ocr": 368,
+  "pages_with_translation": 361,
   "source_url": "https://sourcelibrary.org/book/6988a59ffc2299bffde5f21a",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:25:55.419Z",
+  "synced_at": "2026-03-08T02:00:21.471Z",
   "_hashes": {
-    "ocr": "92d1a39ac4c53756",
-    "translation": "547296d4ec4f6ea8"
+    "ocr": "8739ddbeef8a1367",
+    "translation": "c83257d43a2b11d9"
   }
 }
