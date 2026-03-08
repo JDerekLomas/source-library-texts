@@ -1,0 +1,28 @@
+{
+  "id": "69924691bc722ec0ee80e81a",
+  "title": "The Nevv Testament of Iesus Christ (Douay-Rheims, 1582)",
+  "display_title": "The Nevv Testament of Iesus Christ (Douay-Rheims, 1582)",
+  "author": "Gregory Martin (trans.)",
+  "language": "Greek",
+  "year": 1582,
+  "published": "Unknown",
+  "pages_count": 812,
+  "pages_with_ocr": 812,
+  "pages_with_translation": 802,
+  "source_url": "https://sourcelibrary.org/book/69924691bc722ec0ee80e81a",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "nevvtestamentofi00mart"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T17:24:40.260Z",
+  "_hashes": {
+    "ocr": "379bfbb98195d586",
+    "translation": "7186438276590442"
+  }
+}
