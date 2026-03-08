@@ -1,0 +1,26 @@
+{
+  "id": "6991d6968c1030b12444bf00",
+  "title": "Eine kurtze Eröffnung der dreyen Principien und Welten im Menschen (1736)",
+  "display_title": "A Brief Opening of the Three Principles and Worlds in Man",
+  "author": "Johann Georg Gichtel",
+  "language": "German",
+  "year": 1736,
+  "published": "1736",
+  "pages_count": 193,
+  "pages_with_ocr": 193,
+  "pages_with_translation": 184,
+  "source_url": "https://sourcelibrary.org/book/6991d6968c1030b12444bf00",
+  "license": "PDM 1.0",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T17:00:50.675Z",
+  "_hashes": {
+    "ocr": "1af52748db284e64",
+    "translation": "c1998639264b83cf"
+  }
+}
