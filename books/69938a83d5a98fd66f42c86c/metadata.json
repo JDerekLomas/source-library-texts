@@ -1,0 +1,26 @@
+{
+  "id": "69938a83d5a98fd66f42c86c",
+  "title": "Aristotle, Ptolemy Quadripartitum, Hero of Alexandria Geodaesia",
+  "display_title": "Bodleian Library MS. Barocci 70",
+  "author": "Aristotle; Ptolemy; Hero of Alexandria",
+  "language": "Greek",
+  "year": 1450,
+  "published": "1450",
+  "pages_count": 816,
+  "pages_with_ocr": 814,
+  "pages_with_translation": 779,
+  "source_url": "https://sourcelibrary.org/book/69938a83d5a98fd66f42c86c",
+  "license": "CC-BY-NC-4.0",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T19:40:34.532Z",
+  "_hashes": {
+    "ocr": "aef04eceebca45fb",
+    "translation": "00bd0f574c0ecc22"
+  }
+}
