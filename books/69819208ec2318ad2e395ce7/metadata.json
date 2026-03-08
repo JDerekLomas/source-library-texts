@@ -1,14 +1,14 @@
 {
   "id": "69819208ec2318ad2e395ce7",
   "title": "Litterarische Nachrichten zu der Geschichte des sogenannten Goldmachens",
-  "display_title": "Litterarische Nachrichten zu der Geschichte des sogenannten Goldmachens",
+  "display_title": "Literary Notices on the History of So-called Gold-making",
   "author": "Murr, Christoph Gottlieb von",
   "language": "German",
   "year": 1805,
   "published": "1805",
   "pages_count": 183,
-  "pages_with_ocr": 10,
-  "pages_with_translation": 4,
+  "pages_with_ocr": 183,
+  "pages_with_translation": 170,
   "source_url": "https://sourcelibrary.org/book/69819208ec2318ad2e395ce7",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v4.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:31:05.196Z",
+  "synced_at": "2026-03-08T01:40:32.999Z",
   "_hashes": {
-    "ocr": "36b24d03f80f8844",
-    "translation": "9cbc8fafeb4f00fe"
+    "ocr": "169ceab27a9bf56d",
+    "translation": "6c084d991b0e80cd"
   }
 }
