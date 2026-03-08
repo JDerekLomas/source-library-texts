@@ -1,14 +1,14 @@
 {
   "id": "6988a5a1f175deb1479febb7",
   "title": "De republica Ebraeorum",
-  "display_title": "De republica Ebraeorum",
+  "display_title": "On the Republic of the Hebrews",
   "author": "Bertram, Bonaventura Corneille",
   "language": "Latin",
   "year": 1641,
   "published": "1641",
   "pages_count": 576,
   "pages_with_ocr": 576,
-  "pages_with_translation": 88,
+  "pages_with_translation": 550,
   "source_url": "https://sourcelibrary.org/book/6988a5a1f175deb1479febb7",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:23:31.656Z",
+  "synced_at": "2026-03-08T02:40:21.781Z",
   "_hashes": {
     "ocr": "a7d230606bfa52b6",
-    "translation": "2b0ef84eeb617732"
+    "translation": "7b8daac1baa57aa2"
   }
 }
