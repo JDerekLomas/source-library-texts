@@ -7,8 +7,8 @@
   "year": 1490,
   "published": "c. 1490",
   "pages_count": 113,
-  "pages_with_ocr": 10,
-  "pages_with_translation": 10,
+  "pages_with_ocr": 113,
+  "pages_with_translation": 110,
   "source_url": "https://sourcelibrary.org/book/6955739df63a7571091720cf",
   "license": "http://creativecommons.org/publicdomain/mark/1.0/",
   "doi": null,
@@ -20,9 +20,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:31:04.285Z",
+  "synced_at": "2026-03-08T12:00:37.672Z",
   "_hashes": {
-    "ocr": "e22333bf3a92027f",
-    "translation": "b6dcb5ac96a5730e"
+    "ocr": "5cd15411f08e9299",
+    "translation": "e66e7c52487c6414"
   }
 }
