@@ -1,0 +1,28 @@
+{
+  "id": "6991bd3770254d38471e2f81",
+  "title": "The Master Mind",
+  "display_title": "The Master Mind",
+  "author": "Theron Q. Dumont (William Walker Atkinson)",
+  "language": "English",
+  "year": 1918,
+  "published": "Unknown",
+  "pages_count": 285,
+  "pages_with_ocr": 285,
+  "pages_with_translation": 3,
+  "source_url": "https://sourcelibrary.org/book/6991bd3770254d38471e2f81",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "the-master-mind"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T22:31:06.640Z",
+  "_hashes": {
+    "ocr": "b8ed9d7edb615b01",
+    "translation": "1d9d5b2c32a57dee"
+  }
+}
