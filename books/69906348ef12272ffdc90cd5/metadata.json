@@ -1,0 +1,28 @@
+{
+  "id": "69906348ef12272ffdc90cd5",
+  "title": "The History of Witchcraft and Demonology",
+  "display_title": "The History of Witchcraft and Demonology",
+  "author": "Montague Summers",
+  "language": "English",
+  "year": 1926,
+  "published": "Unknown",
+  "pages_count": 400,
+  "pages_with_ocr": 400,
+  "pages_with_translation": 376,
+  "source_url": "https://sourcelibrary.org/book/69906348ef12272ffdc90cd5",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "historyofwitchcr00summ_1"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T15:50:44.723Z",
+  "_hashes": {
+    "ocr": "dc7945d7a3a1b9e7",
+    "translation": "2c48e8d87b866dfd"
+  }
+}
