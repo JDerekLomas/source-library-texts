@@ -1,0 +1,28 @@
+{
+  "id": "6991dc6b569478bd6c9d488e",
+  "title": "Le Commerce et le Gouvernement",
+  "display_title": "Le Commerce et le Gouvernement",
+  "author": "Étienne Bonnot de Condillac",
+  "language": "French",
+  "year": 1776,
+  "published": "Unknown",
+  "pages_count": 612,
+  "pages_with_ocr": 612,
+  "pages_with_translation": 598,
+  "source_url": "https://sourcelibrary.org/book/6991dc6b569478bd6c9d488e",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "lecommerceetlego00cond"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T16:50:25.625Z",
+  "_hashes": {
+    "ocr": "20a336eeeb9c7712",
+    "translation": "391cb924ff84e1a8"
+  }
+}
