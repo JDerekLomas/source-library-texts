@@ -1,0 +1,28 @@
+{
+  "id": "69907c8d5f855ec553e761a1",
+  "title": "Wit and Wisdom from West Africa",
+  "display_title": "Wit and Wisdom from West Africa",
+  "author": "Richard Francis Burton",
+  "language": "English",
+  "year": 1865,
+  "published": "Unknown",
+  "pages_count": 497,
+  "pages_with_ocr": 497,
+  "pages_with_translation": 2,
+  "source_url": "https://sourcelibrary.org/book/69907c8d5f855ec553e761a1",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "witandwisdomfro01burtgoog"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T22:21:02.779Z",
+  "_hashes": {
+    "ocr": "71230c1b76077d2e",
+    "translation": "251491d6d36701ff"
+  }
+}
