@@ -1,0 +1,28 @@
+{
+  "id": "6991be05df9a711e30db840c",
+  "title": "The Apocalypse Revealed",
+  "display_title": "The Apocalypse Revealed",
+  "author": "Emanuel Swedenborg",
+  "language": "Latin",
+  "year": 1766,
+  "published": "Unknown",
+  "pages_count": 1216,
+  "pages_with_ocr": 1215,
+  "pages_with_translation": 1197,
+  "source_url": "https://sourcelibrary.org/book/6991be05df9a711e30db840c",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "cu31924007550027"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T18:32:18.180Z",
+  "_hashes": {
+    "ocr": "1415d7cecd3cd9d0",
+    "translation": "da27ed79317a8333"
+  }
+}
