@@ -1,14 +1,14 @@
 {
   "id": "69804b9338f170788b479568",
   "title": "Kern der Alchymie",
-  "display_title": "Kern der Alchymie",
+  "display_title": "The Marrow of Alchemy",
   "author": "[Starkey, George]",
   "language": "German",
   "year": 1685,
   "published": "1685",
   "pages_count": 362,
   "pages_with_ocr": 362,
-  "pages_with_translation": 5,
+  "pages_with_translation": 344,
   "source_url": "https://sourcelibrary.org/book/69804b9338f170788b479568",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v4.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:25:57.611Z",
+  "synced_at": "2026-03-08T00:40:24.990Z",
   "_hashes": {
     "ocr": "f1406be1570e8b8d",
-    "translation": "ae896237be0af152"
+    "translation": "8c22872d2150ae52"
   }
 }
