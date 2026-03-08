@@ -1,0 +1,28 @@
+{
+  "id": "69937dc1d85e1d5bbdf32957",
+  "title": "Olympian and Pythian Odes (Loeb L056)",
+  "display_title": "Olympian and Pythian Odes (Loeb L056)",
+  "author": "Pindar",
+  "language": "Greek",
+  "year": null,
+  "published": "Unknown",
+  "pages_count": 1,
+  "pages_with_ocr": 1,
+  "pages_with_translation": 1,
+  "source_url": "https://sourcelibrary.org/book/69937dc1d85e1d5bbdf32957",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "L056PindarIOlympianPythianOdes"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v3.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T19:20:39.148Z",
+  "_hashes": {
+    "ocr": "72d779731e2fe77a",
+    "translation": "68ca4933e85bcb83"
+  }
+}
