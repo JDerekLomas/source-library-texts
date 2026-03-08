@@ -1,0 +1,28 @@
+{
+  "id": "69907c415f855ec553e72b1a",
+  "title": "The Folklore of Bombay",
+  "display_title": "The Folklore of Bombay",
+  "author": "R.E. Enthoven",
+  "language": "English",
+  "year": 1924,
+  "published": "Unknown",
+  "pages_count": 360,
+  "pages_with_ocr": 360,
+  "pages_with_translation": 1,
+  "source_url": "https://sourcelibrary.org/book/69907c415f855ec553e72b1a",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "folkloreofbombay00reen"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T22:10:53.429Z",
+  "_hashes": {
+    "ocr": "0808636a56ac7f16",
+    "translation": "97255773e9a148d1"
+  }
+}
