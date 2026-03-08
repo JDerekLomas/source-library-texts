@@ -1,14 +1,14 @@
 {
   "id": "6984e84ed13e559bb970b9a4",
   "title": "Origine de la maçonnerie adonhiramite",
-  "display_title": "Origine de la maçonnerie adonhiramite",
+  "display_title": "Precious Collection of Adonhiramite Masonry",
   "author": "[Guillemain de Saint-Victor, Louis]",
   "language": "French",
   "year": 1787,
   "published": "1787",
   "pages_count": 166,
-  "pages_with_ocr": 10,
-  "pages_with_translation": 4,
+  "pages_with_ocr": 166,
+  "pages_with_translation": 151,
   "source_url": "https://sourcelibrary.org/book/6984e84ed13e559bb970b9a4",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v4.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:31:19.833Z",
+  "synced_at": "2026-03-08T04:00:26.040Z",
   "_hashes": {
-    "ocr": "d7c605fa768ea534",
-    "translation": "6620ef29dc8682b2"
+    "ocr": "2ef2a17fe864c43f",
+    "translation": "a3f71dd9d773f0d7"
   }
 }
