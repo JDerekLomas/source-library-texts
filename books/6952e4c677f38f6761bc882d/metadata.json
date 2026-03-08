@@ -1,0 +1,28 @@
+{
+  "id": "6952e4c677f38f6761bc882d",
+  "title": "Biblia Sacra Vulgatae Editionis",
+  "display_title": "Biblia Sacra Vulgatae: Clementine Vulgate Latin Bible",
+  "author": "Jerome (Sixtine-Clementine edition)",
+  "language": "Latin",
+  "year": 1804,
+  "published": "1804",
+  "pages_count": 1019,
+  "pages_with_ocr": 1019,
+  "pages_with_translation": 1009,
+  "source_url": "https://sourcelibrary.org/book/6952e4c677f38f6761bc882d",
+  "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bub_gb_e7u08S1igO0C"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-08T05:30:37.197Z",
+  "_hashes": {
+    "ocr": "b55c286872ed5a56",
+    "translation": "87d14aab00403227"
+  }
+}
