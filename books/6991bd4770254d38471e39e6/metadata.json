@@ -1,0 +1,28 @@
+{
+  "id": "6991bd4770254d38471e39e6",
+  "title": "Du magnetisme animal",
+  "display_title": "Du magnetisme animal",
+  "author": "Marquis de Puysegur",
+  "language": "French",
+  "year": 1807,
+  "published": "Unknown",
+  "pages_count": 494,
+  "pages_with_ocr": 494,
+  "pages_with_translation": 1,
+  "source_url": "https://sourcelibrary.org/book/6991bd4770254d38471e39e6",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "dumagntismeanima00chas"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-09T00:50:57.441Z",
+  "_hashes": {
+    "ocr": "ef0e13f2445e9123",
+    "translation": "d11a7059090a4070"
+  }
+}
