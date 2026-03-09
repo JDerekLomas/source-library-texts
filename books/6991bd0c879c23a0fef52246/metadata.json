@@ -1,0 +1,28 @@
+{
+  "id": "6991bd0c879c23a0fef52246",
+  "title": "A Series of Lessons in Personal Magnetism",
+  "display_title": "A Series of Lessons in Personal Magnetism",
+  "author": "William Walker Atkinson",
+  "language": "English",
+  "year": 1901,
+  "published": "Unknown",
+  "pages_count": 110,
+  "pages_with_ocr": 110,
+  "pages_with_translation": 90,
+  "source_url": "https://sourcelibrary.org/book/6991bd0c879c23a0fef52246",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "seriesoflessonsi00atki"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-09T17:51:01.147Z",
+  "_hashes": {
+    "ocr": "b2773c9062b13fc6",
+    "translation": "df972c1701adcef4"
+  }
+}
