@@ -1,0 +1,26 @@
+{
+  "id": "699efa008dfdc5d432c16182",
+  "title": "Sleutel der devotie",
+  "display_title": "Key of Devotion",
+  "author": "Teellinck, Willem",
+  "language": "Dutch",
+  "year": 1624,
+  "published": "1624",
+  "pages_count": 746,
+  "pages_with_ocr": 746,
+  "pages_with_translation": 742,
+  "source_url": "https://sourcelibrary.org/book/699efa008dfdc5d432c16182",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-09T16:00:31.578Z",
+  "_hashes": {
+    "ocr": "952a8e4a9532f938",
+    "translation": "8c782d921f9a0ae4"
+  }
+}
