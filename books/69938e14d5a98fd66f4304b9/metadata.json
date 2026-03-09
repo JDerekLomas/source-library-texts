@@ -1,0 +1,28 @@
+{
+  "id": "69938e14d5a98fd66f4304b9",
+  "title": "De Vitis Philosophorum (First Greek Printed Edition)",
+  "display_title": "De Vitis Philosophorum (First Greek Printed Edition)",
+  "author": "Diogenes Laertius",
+  "language": "Greek",
+  "year": 1533,
+  "published": "1533",
+  "pages_count": 602,
+  "pages_with_ocr": 602,
+  "pages_with_translation": 5,
+  "source_url": "https://sourcelibrary.org/book/69938e14d5a98fd66f4304b9",
+  "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bub_gb_0RskzghLxjsC"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-09T00:40:53.917Z",
+  "_hashes": {
+    "ocr": "f47bfd482842830c",
+    "translation": "fd8ba2d297385708"
+  }
+}
