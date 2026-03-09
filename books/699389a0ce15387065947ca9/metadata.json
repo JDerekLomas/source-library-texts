@@ -1,0 +1,26 @@
+{
+  "id": "699389a0ce15387065947ca9",
+  "title": "Pindar, Odes; Theocritus, Idylls; Lycophron",
+  "display_title": "Pindarus . Pindaros . Adde Theocriti Idyllia, Lycophronis Cassandrae fragmentum, et alia aliorum excerpta",
+  "author": "Pindar; Theocritus; Lycophron",
+  "language": "Greek",
+  "year": 1350,
+  "published": "1350",
+  "pages_count": 278,
+  "pages_with_ocr": 38,
+  "pages_with_translation": 6,
+  "source_url": "https://sourcelibrary.org/book/699389a0ce15387065947ca9",
+  "license": "unknown",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-09T00:51:14.489Z",
+  "_hashes": {
+    "ocr": "5cd2f0999bad4071",
+    "translation": "2296a6456932ebea"
+  }
+}
