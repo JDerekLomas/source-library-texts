@@ -1,0 +1,26 @@
+{
+  "id": "69a5e483006a40984221751a",
+  "title": "Dionysius Areopagita: Opera (Codex Vaticanus Graecus 573)",
+  "display_title": "The Complete Works of Dionysius the Areopagite",
+  "author": "Pseudo-Dionysius the Areopagite",
+  "language": "Greek",
+  "year": 1350,
+  "published": "11th century",
+  "pages_count": 392,
+  "pages_with_ocr": 392,
+  "pages_with_translation": 390,
+  "source_url": "https://sourcelibrary.org/book/69a5e483006a40984221751a",
+  "license": "CC-BY-NC-4.0",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-09T10:10:32.658Z",
+  "_hashes": {
+    "ocr": "04c94058f2a13ee9",
+    "translation": "7f3ae0130f3c9004"
+  }
+}
