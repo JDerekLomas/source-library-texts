@@ -1,14 +1,14 @@
 {
   "id": "697e23c8bb80b2397e771e23",
   "title": "Hypnerotomachie, ou discours du songe de Poliphile",
-  "display_title": "Hypnerotomachie, ou discours du songe de Poliphile",
+  "display_title": "The Dream of Poliphilus",
   "author": "[Colonna, Francesco]",
   "language": "French",
   "year": 1561,
   "published": "1561",
-  "pages_count": 426,
-  "pages_with_ocr": 10,
-  "pages_with_translation": 2,
+  "pages_count": 425,
+  "pages_with_ocr": 423,
+  "pages_with_translation": 393,
   "source_url": "https://sourcelibrary.org/book/697e23c8bb80b2397e771e23",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v4.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:31:33.627Z",
+  "synced_at": "2026-03-09T11:50:09.089Z",
   "_hashes": {
-    "ocr": "ac57566bba9ac566",
-    "translation": "4a9d718ef89e605e"
+    "ocr": "6c545eb511c8b086",
+    "translation": "3ff27e80561b226a"
   }
 }
