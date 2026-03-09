@@ -1,0 +1,28 @@
+{
+  "id": "69920b97e0a548a13d8840d5",
+  "title": "New Testament in Syriac (Peshitta)",
+  "display_title": "New Testament in Syriac (Peshitta)",
+  "author": "British and Foreign Bible Society",
+  "language": "Syriac",
+  "year": 1905,
+  "published": "Unknown",
+  "pages_count": 372,
+  "pages_with_ocr": 372,
+  "pages_with_translation": 360,
+  "source_url": "https://sourcelibrary.org/book/69920b97e0a548a13d8840d5",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "newtestamentinsy00unse"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-09T02:20:53.658Z",
+  "_hashes": {
+    "ocr": "3b2501345726ad8e",
+    "translation": "f6a35c26dae11528"
+  }
+}
