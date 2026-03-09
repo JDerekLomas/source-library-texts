@@ -1,0 +1,26 @@
+{
+  "id": "69938a835d28b693146cea03",
+  "title": "Sophocles and Euripides: Ajax, Electra, Oedipus Tyrannus, Phoenissae",
+  "display_title": "Bodleian Library MS. Barocci 66",
+  "author": "Sophocles; Euripides",
+  "language": "Greek",
+  "year": 1505,
+  "published": "1505",
+  "pages_count": 650,
+  "pages_with_ocr": 650,
+  "pages_with_translation": 9,
+  "source_url": "https://sourcelibrary.org/book/69938a835d28b693146cea03",
+  "license": "CC-BY-NC-4.0",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-09T00:40:50.501Z",
+  "_hashes": {
+    "ocr": "137c58b8d0fde801",
+    "translation": "6ead3a91db6c59ab"
+  }
+}
