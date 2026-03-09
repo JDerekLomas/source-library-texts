@@ -1,0 +1,28 @@
+{
+  "id": "6992cd1bae978f7d4159844e",
+  "title": "三才圖會(五)",
+  "display_title": "Collected Illustrations of the Three Realms: Geography",
+  "author": "王圻, 王思義",
+  "language": "Chinese",
+  "year": 1607,
+  "published": "1607",
+  "pages_count": 118,
+  "pages_with_ocr": 118,
+  "pages_with_translation": 101,
+  "source_url": "https://sourcelibrary.org/book/6992cd1bae978f7d4159844e",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "02098272.cn"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-09T18:40:33.043Z",
+  "_hashes": {
+    "ocr": "67abf08cc8ece070",
+    "translation": "cf1e7deeeaab5d06"
+  }
+}
