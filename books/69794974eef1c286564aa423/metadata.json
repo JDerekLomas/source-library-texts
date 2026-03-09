@@ -1,14 +1,14 @@
 {
   "id": "69794974eef1c286564aa423",
   "title": "Commentatio academica de concordia religionis christianae statusque civilis",
-  "display_title": "Academic Commentary on the Harmony of the Christian Religion and the Civil State",
+  "display_title": "Introduction to the History of Hebrew Philosophy",
   "author": "Buddeus, Johannes Franciscus",
   "language": "Latin",
   "year": 1712,
   "published": "1712",
   "pages_count": 703,
   "pages_with_ocr": 703,
-  "pages_with_translation": 8,
+  "pages_with_translation": 693,
   "source_url": "https://sourcelibrary.org/book/69794974eef1c286564aa423",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-03-05T00:40:59.526Z",
+  "synced_at": "2026-03-09T08:10:29.960Z",
   "_hashes": {
     "ocr": "fba81edfc92bd115",
-    "translation": "eb4c1faf37b2bd6e"
+    "translation": "4c41c00e6a1dfeb3"
   }
 }
