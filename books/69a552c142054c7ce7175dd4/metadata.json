@@ -1,0 +1,28 @@
+{
+  "id": "69a552c142054c7ce7175dd4",
+  "title": "The Soul, or Rational Psychology",
+  "display_title": "The Soul, or Rational Psychology",
+  "author": "Emanuel Swedenborg",
+  "language": "English",
+  "year": 1900,
+  "published": "1900",
+  "pages_count": 436,
+  "pages_with_ocr": 436,
+  "pages_with_translation": 423,
+  "source_url": "https://sourcelibrary.org/book/69a552c142054c7ce7175dd4",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "soulorrationalps00sweduoft"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-09T23:10:08.880Z",
+  "_hashes": {
+    "ocr": "52778d3848c77711",
+    "translation": "f1aa0060af2c66e8"
+  }
+}
