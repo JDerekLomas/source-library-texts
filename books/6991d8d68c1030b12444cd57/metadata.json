@@ -1,0 +1,28 @@
+{
+  "id": "6991d8d68c1030b12444cd57",
+  "title": "The History of Philosophy, Vol. I",
+  "display_title": "The History of Philosophy, Vol. I",
+  "author": "Thomas Stanley",
+  "language": "English",
+  "year": 1655,
+  "published": "Unknown",
+  "pages_count": 318,
+  "pages_with_ocr": 318,
+  "pages_with_translation": 285,
+  "source_url": "https://sourcelibrary.org/book/6991d8d68c1030b12444cd57",
+  "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "stanleyhistoryofphilosophy01"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-09T08:20:25.660Z",
+  "_hashes": {
+    "ocr": "7b34adaf8fd60964",
+    "translation": "682df44f1753466e"
+  }
+}
