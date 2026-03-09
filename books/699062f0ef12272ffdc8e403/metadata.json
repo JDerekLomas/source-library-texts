@@ -1,0 +1,28 @@
+{
+  "id": "699062f0ef12272ffdc8e403",
+  "title": "Elemente der Psychophysik, Vol. I",
+  "display_title": "Elements of Psychophysics, Vol. I",
+  "author": "Gustav Theodor Fechner",
+  "language": "German",
+  "year": 1860,
+  "published": "Unknown",
+  "pages_count": 361,
+  "pages_with_ocr": 361,
+  "pages_with_translation": 359,
+  "source_url": "https://sourcelibrary.org/book/699062f0ef12272ffdc8e403",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "10255088"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v4.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-09T15:40:20.234Z",
+  "_hashes": {
+    "ocr": "e483c68bd0adebdc",
+    "translation": "da84c1f4d4bc1d28"
+  }
+}
