@@ -1,14 +1,14 @@
 {
   "id": "699067e2249ce014347d46a9",
   "title": "De la Lycanthropie, Transformation et Extase des Sorciers",
-  "display_title": "De la Lycanthropie, Transformation et Extase des Sorciers",
+  "display_title": "On Lycanthropy, Transformation, and the Ecstasy of Witches",
   "author": "Jean de Nynauld",
   "language": "French",
   "year": 1615,
   "published": "Unknown",
   "pages_count": 114,
-  "pages_with_ocr": 20,
-  "pages_with_translation": 0,
+  "pages_with_ocr": 114,
+  "pages_with_translation": 113,
   "source_url": "https://sourcelibrary.org/book/699067e2249ce014347d46a9",
   "license": "publicdomain",
   "doi": null,
@@ -18,11 +18,11 @@
   "processing": {
     "ocr_model": "gemini-3-flash-preview",
     "prompt_version": "v4.2026-02",
-    "translation_model": null
+    "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:29:56.411Z",
+  "synced_at": "2026-03-09T17:50:57.131Z",
   "_hashes": {
-    "ocr": "bbf62d6fd0454d80",
-    "translation": "e3b0c44298fc1c14"
+    "ocr": "2d360e860e74713d",
+    "translation": "dc338d70a18792f9"
   }
 }
