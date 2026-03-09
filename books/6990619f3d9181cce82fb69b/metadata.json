@@ -7,8 +7,8 @@
   "year": 1593,
   "published": "Unknown",
   "pages_count": 106,
-  "pages_with_ocr": 10,
-  "pages_with_translation": 0,
+  "pages_with_ocr": 106,
+  "pages_with_translation": 105,
   "source_url": "https://sourcelibrary.org/book/6990619f3d9181cce82fb69b",
   "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
   "doi": null,
@@ -18,11 +18,11 @@
   "processing": {
     "ocr_model": "gemini-3-flash-preview",
     "prompt_version": "v4.2026-02",
-    "translation_model": null
+    "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:31:15.569Z",
+  "synced_at": "2026-03-09T16:40:04.613Z",
   "_hashes": {
-    "ocr": "db6b1391455942bc",
-    "translation": "e3b0c44298fc1c14"
+    "ocr": "946c0d7faeeb5ce3",
+    "translation": "0027fd006f6ae7e3"
   }
 }
