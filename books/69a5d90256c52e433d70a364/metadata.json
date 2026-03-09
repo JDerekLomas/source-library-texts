@@ -1,0 +1,28 @@
+{
+  "id": "69a5d90256c52e433d70a364",
+  "title": "Castrametatio, dat is legermeting",
+  "display_title": "Castrametation, or the Measurement of a Camp",
+  "author": "Simon Stevin",
+  "language": "Dutch",
+  "year": 1617,
+  "published": "1617",
+  "pages_count": 73,
+  "pages_with_ocr": 73,
+  "pages_with_translation": 63,
+  "source_url": "https://sourcelibrary.org/book/69a5d90256c52e433d70a364",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "ned-kbn-all-00013787-001"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-09T20:30:19.453Z",
+  "_hashes": {
+    "ocr": "e414ebf7d38f864b",
+    "translation": "20ad4a3f8fc59ee6"
+  }
+}
