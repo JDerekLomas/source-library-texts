@@ -1,0 +1,28 @@
+{
+  "id": "69a5e5c91d73f9668388ed68",
+  "title": "Plotini Enneades (Ficino Working Copy)",
+  "display_title": "The Enneads",
+  "author": "Plotinus",
+  "language": "Greek",
+  "year": 1455,
+  "published": "1455-1460",
+  "pages_count": 267,
+  "pages_with_ocr": 267,
+  "pages_with_translation": 266,
+  "source_url": "https://sourcelibrary.org/book/69a5e5c91d73f9668388ed68",
+  "license": "https://gallica.bnf.fr/html/und/conditions-dutilisation-des-contenus-de-gallica",
+  "doi": null,
+  "external_ids": {
+    "gallica": "btv1b10723467c"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-09T20:00:42.576Z",
+  "_hashes": {
+    "ocr": "29ec87b56210d83d",
+    "translation": "e6cdaae88bbd872e"
+  }
+}
