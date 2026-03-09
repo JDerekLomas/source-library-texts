@@ -1,0 +1,28 @@
+{
+  "id": "6992caf9d4d545ae73feec8c",
+  "title": "河洛真數 (Helo Zhenshu: True Numbers of the River Luo) Vol 2",
+  "display_title": "True Numbers of the River Luo",
+  "author": "Chen Tuan",
+  "language": "Chinese",
+  "year": 950,
+  "published": "Unknown",
+  "pages_count": 107,
+  "pages_with_ocr": 107,
+  "pages_with_translation": 106,
+  "source_url": "https://sourcelibrary.org/book/6992caf9d4d545ae73feec8c",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "02094384.cn"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-09T17:21:39.735Z",
+  "_hashes": {
+    "ocr": "594f56ca03afba1f",
+    "translation": "594fc8889ee27e22"
+  }
+}
