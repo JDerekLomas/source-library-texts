@@ -1,0 +1,26 @@
+{
+  "id": "69a027816a20ac4e1fc40520",
+  "title": "Theologia practica, dat is: alle de theologische wercken",
+  "display_title": "Practical Theology: The Collected Theological Works",
+  "author": "Love, Christopher",
+  "language": "Unknown",
+  "year": 1664,
+  "published": "1664",
+  "pages_count": 939,
+  "pages_with_ocr": 939,
+  "pages_with_translation": 932,
+  "source_url": "https://sourcelibrary.org/book/69a027816a20ac4e1fc40520",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-09T12:50:50.779Z",
+  "_hashes": {
+    "ocr": "4ba7342baedb16e0",
+    "translation": "b894f3b3b0cd0ca4"
+  }
+}
