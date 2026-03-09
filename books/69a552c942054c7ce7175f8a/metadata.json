@@ -1,0 +1,28 @@
+{
+  "id": "69a552c942054c7ce7175f8a",
+  "title": "The Book of the Thousand Nights and a Night, Vol. 1",
+  "display_title": "The Book of the Thousand Nights and a Night, Vol. 1",
+  "author": "Richard F. Burton",
+  "language": "English",
+  "year": 1885,
+  "published": "1885",
+  "pages_count": 376,
+  "pages_with_ocr": 376,
+  "pages_with_translation": 348,
+  "source_url": "https://sourcelibrary.org/book/69a552c942054c7ce7175f8a",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "plainliteraltran02burtiala"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-09T08:10:25.468Z",
+  "_hashes": {
+    "ocr": "b2857a6feab96812",
+    "translation": "4f425701d277748d"
+  }
+}
