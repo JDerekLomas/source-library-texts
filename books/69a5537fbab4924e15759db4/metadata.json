@@ -1,0 +1,28 @@
+{
+  "id": "69a5537fbab4924e15759db4",
+  "title": "Mind and Body; or, Mental States and Physical Conditions",
+  "display_title": "Mind and Body; or, Mental States and Physical Conditions",
+  "author": "William Walker Atkinson",
+  "language": "English",
+  "year": 1912,
+  "published": "1912",
+  "pages_count": 222,
+  "pages_with_ocr": 222,
+  "pages_with_translation": 215,
+  "source_url": "https://sourcelibrary.org/book/69a5537fbab4924e15759db4",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "mindandbody00walkgoog"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-09T13:20:51.118Z",
+  "_hashes": {
+    "ocr": "fdb52a22dde69e4f",
+    "translation": "ab089f19c013adea"
+  }
+}
