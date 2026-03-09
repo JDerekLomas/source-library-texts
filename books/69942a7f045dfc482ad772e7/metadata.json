@@ -1,0 +1,28 @@
+{
+  "id": "69942a7f045dfc482ad772e7",
+  "title": "Philocalia (Editio Princeps, Tarinus 1618)",
+  "display_title": "Philocalia (Editio Princeps, Tarinus 1618)",
+  "author": "Origen",
+  "language": "Greek",
+  "year": 1618,
+  "published": "1618",
+  "pages_count": 850,
+  "pages_with_ocr": 850,
+  "pages_with_translation": 839,
+  "source_url": "https://sourcelibrary.org/book/69942a7f045dfc482ad772e7",
+  "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bub_gb_AioPnkgnn8YC"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-09T08:10:39.423Z",
+  "_hashes": {
+    "ocr": "704959e9d5c52eb2",
+    "translation": "9acb851228d5e309"
+  }
+}
