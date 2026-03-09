@@ -1,14 +1,14 @@
 {
   "id": "69529492b184004c526a1963",
   "title": "Novum organum scientiarum",
-  "display_title": "Novum organum scientiarum",
+  "display_title": "The New Organon",
   "author": "Bacon, Francis",
   "language": "Latin",
   "year": 1660,
   "published": "1660",
   "pages_count": 428,
   "pages_with_ocr": 428,
-  "pages_with_translation": 427,
+  "pages_with_translation": 1,
   "source_url": "https://sourcelibrary.org/book/69529492b184004c526a1963",
   "license": "https://rightsstatements.org/vocab/NoC-NC/1.0/",
   "doi": null,
@@ -20,9 +20,9 @@
     "prompt_version": null,
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:25:09.602Z",
+  "synced_at": "2026-03-09T02:51:06.663Z",
   "_hashes": {
     "ocr": "8cd5a450a88288c3",
-    "translation": "19598b19cbc3f67c"
+    "translation": "b268ecc57ca45b8e"
   }
 }
