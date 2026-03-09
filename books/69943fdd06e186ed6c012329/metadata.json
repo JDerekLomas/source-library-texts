@@ -1,0 +1,28 @@
+{
+  "id": "69943fdd06e186ed6c012329",
+  "title": "Koriwn: Vark Mashtotsi (Life of Mashtots)",
+  "display_title": "Koriwn: Vark Mashtotsi (Life of Mashtots)",
+  "author": "Koriwn",
+  "language": "Armenian",
+  "year": 1833,
+  "published": "1833",
+  "pages_count": 681,
+  "pages_with_ocr": 681,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/69943fdd06e186ed6c012329",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "KoriwnGrabar1833"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-03-09T01:10:58.439Z",
+  "_hashes": {
+    "ocr": "d49b81cc4db2d754",
+    "translation": "e3b0c44298fc1c14"
+  }
+}
