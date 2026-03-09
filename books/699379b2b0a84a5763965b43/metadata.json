@@ -1,0 +1,28 @@
+{
+  "id": "699379b2b0a84a5763965b43",
+  "title": "Aeschyli Tragoediae (Alt. Critical Edition)",
+  "display_title": "Aeschyli Tragoediae (Alt. Critical Edition)",
+  "author": "Aeschylus",
+  "language": "Latin",
+  "year": 1890,
+  "published": "Unknown",
+  "pages_count": 747,
+  "pages_with_ocr": 78,
+  "pages_with_translation": 7,
+  "source_url": "https://sourcelibrary.org/book/699379b2b0a84a5763965b43",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "aeschylitragoed00haupgoog"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-09T00:03:34.783Z",
+  "_hashes": {
+    "ocr": "96960e9dcae2b52a",
+    "translation": "1000f38dbc78294f"
+  }
+}
