@@ -1,0 +1,28 @@
+{
+  "id": "69a5f09db29703bc86eb5fe3",
+  "title": "Patmutiwn Makabayetswots (History of the Maccabees - Armenian)",
+  "display_title": "History of the Maccabees",
+  "author": "Anonymous (Armenian tradition)",
+  "language": "Armenian",
+  "year": 1901,
+  "published": "1901",
+  "pages_count": 46,
+  "pages_with_ocr": 19,
+  "pages_with_translation": 19,
+  "source_url": "https://sourcelibrary.org/book/69a5f09db29703bc86eb5fe3",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "MaccabeesArmEng"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-09T05:30:50.501Z",
+  "_hashes": {
+    "ocr": "633cad4d78767a98",
+    "translation": "1373b6613a4f61bc"
+  }
+}
