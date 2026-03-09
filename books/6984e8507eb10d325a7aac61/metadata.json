@@ -1,14 +1,14 @@
 {
   "id": "6984e8507eb10d325a7aac61",
   "title": "[Hebrew: Perush shir ha-shirim]",
-  "display_title": "[Hebrew: Perush shir ha-shirim]",
+  "display_title": "Commentary on the Song of Songs",
   "author": "Gallico, Elisha ben Gabriel",
   "language": "Hebrew",
   "year": 1587,
   "published": "1587",
   "pages_count": 161,
-  "pages_with_ocr": 10,
-  "pages_with_translation": 4,
+  "pages_with_ocr": 161,
+  "pages_with_translation": 151,
   "source_url": "https://sourcelibrary.org/book/6984e8507eb10d325a7aac61",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v4.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:31:13.546Z",
+  "synced_at": "2026-03-09T11:50:14.577Z",
   "_hashes": {
-    "ocr": "ecccaf7cb22850d4",
-    "translation": "41a2730a0d8fd13c"
+    "ocr": "1ca75bf7d5965bac",
+    "translation": "b0f6ac675d3f9b8e"
   }
 }
