@@ -1,7 +1,7 @@
 {
   "id": "6956ad58f839ef5a9e73673f",
   "title": "Clavicula Salomonis (Hebrew Manuscript)",
-  "display_title": "Clavicula Salomonis (Hebrew Manuscript)",
+  "display_title": "The Key of Solomon",
   "author": "Solomon (attributed)",
   "language": "Hebrew",
   "year": 1903,
@@ -20,9 +20,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:29:39.535Z",
+  "synced_at": "2026-03-09T02:50:59.792Z",
   "_hashes": {
     "ocr": "234cf804432d3aef",
-    "translation": "4e937bc18fe6de7b"
+    "translation": "bf133e3a36d3c0b0"
   }
 }
