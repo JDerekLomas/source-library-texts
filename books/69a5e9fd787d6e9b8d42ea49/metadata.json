@@ -1,0 +1,26 @@
+{
+  "id": "69a5e9fd787d6e9b8d42ea49",
+  "title": "Libro de los juegos de ajedrez, dados y tablas",
+  "display_title": "The Book of Games",
+  "author": "Alfonso X el Sabio",
+  "language": "Spanish",
+  "year": 1283,
+  "published": "1283",
+  "pages_count": 219,
+  "pages_with_ocr": 218,
+  "pages_with_translation": 176,
+  "source_url": "https://sourcelibrary.org/book/69a5e9fd787d6e9b8d42ea49",
+  "license": "unknown",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-09T13:20:54.808Z",
+  "_hashes": {
+    "ocr": "9d0de90398aa1ecb",
+    "translation": "bc626f9523182986"
+  }
+}
