@@ -1,0 +1,28 @@
+{
+  "id": "6992c9bc54b3f8b16b4afddd",
+  "title": "景祐太乙福應經 (Jingyou Taiyi Blessed Response Classic)",
+  "display_title": "The Jingyou Era Classic of the Great One's Blessed Response",
+  "author": "Yang Weide",
+  "language": "Chinese",
+  "year": 1035,
+  "published": "Unknown",
+  "pages_count": 115,
+  "pages_with_ocr": 115,
+  "pages_with_translation": 113,
+  "source_url": "https://sourcelibrary.org/book/6992c9bc54b3f8b16b4afddd",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "02094381.cn"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-09T18:30:18.209Z",
+  "_hashes": {
+    "ocr": "115892205390b78c",
+    "translation": "8f1298f778e4a47e"
+  }
+}
