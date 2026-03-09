@@ -1,14 +1,14 @@
 {
   "id": "6985ca7130d79dd170ec623f",
   "title": "Tomi secundi tractatus secundus; De praeternaturali utriusque mundi historia",
-  "display_title": "Tomi secundi tractatus secundus; De praeternaturali utriusque mundi historia",
+  "display_title": "On the Preternatural History of Both Worlds",
   "author": "Fludd, Robert",
   "language": "Latin",
   "year": 1621,
   "published": "1621",
   "pages_count": 297,
-  "pages_with_ocr": 10,
-  "pages_with_translation": 2,
+  "pages_with_ocr": 297,
+  "pages_with_translation": 278,
   "source_url": "https://sourcelibrary.org/book/6985ca7130d79dd170ec623f",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v4.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:31:20.938Z",
+  "synced_at": "2026-03-09T18:40:27.600Z",
   "_hashes": {
-    "ocr": "bf98ce949028dd41",
-    "translation": "d062553ea8f2b3a5"
+    "ocr": "e8c2d6a00db68263",
+    "translation": "424b658996ba6c1c"
   }
 }
