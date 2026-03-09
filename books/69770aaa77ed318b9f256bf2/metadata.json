@@ -1,14 +1,14 @@
 {
   "id": "69770aaa77ed318b9f256bf2",
   "title": "[Biblia]. Die Heilige Schrift",
-  "display_title": "[Biblia]. Die Heilige Schrift",
+  "display_title": "The Holy Bible",
   "author": "Unknown",
   "language": "German",
   "year": 1726,
   "published": "1726-1742",
   "pages_count": 954,
   "pages_with_ocr": 954,
-  "pages_with_translation": 7,
+  "pages_with_translation": 947,
   "source_url": "https://sourcelibrary.org/book/69770aaa77ed318b9f256bf2",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:21:20.119Z",
+  "synced_at": "2026-03-09T01:21:02.639Z",
   "_hashes": {
     "ocr": "8ff05914bc5b835e",
-    "translation": "1ec10f5dc1ba5687"
+    "translation": "e2e12638c0bafe15"
   }
 }
