@@ -1,0 +1,28 @@
+{
+  "id": "69a99cd96c7545e2236e1104",
+  "title": "Travels through Arabia and Other Countries in the East",
+  "display_title": "Travels through Arabia and Other Countries in the East",
+  "author": "Carsten Niebuhr",
+  "language": "English",
+  "year": 1792,
+  "published": "1792",
+  "pages_count": 472,
+  "pages_with_ocr": 472,
+  "pages_with_translation": 449,
+  "source_url": "https://sourcelibrary.org/book/69a99cd96c7545e2236e1104",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "travelsthroughar00nieb"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-09T23:10:14.506Z",
+  "_hashes": {
+    "ocr": "0015303cfa353b6d",
+    "translation": "72b036a48ff6f28e"
+  }
+}
