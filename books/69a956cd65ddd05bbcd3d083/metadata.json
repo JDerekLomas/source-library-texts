@@ -1,0 +1,28 @@
+{
+  "id": "69a956cd65ddd05bbcd3d083",
+  "title": "Sententiae ad intelligibilia ducentes (Aphormai pros ta noeta)",
+  "display_title": "Life of Pythagoras and Sentences on the Intelligibles",
+  "author": "Porphyry (ed. Lucas Holstenius)",
+  "language": "Latin",
+  "year": 1630,
+  "published": "1630",
+  "pages_count": 219,
+  "pages_with_ocr": 219,
+  "pages_with_translation": 216,
+  "source_url": "https://sourcelibrary.org/book/69a956cd65ddd05bbcd3d083",
+  "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bub_gb_hcNIvk0qGDwC"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-09T13:40:45.281Z",
+  "_hashes": {
+    "ocr": "e611e5c8b331324b",
+    "translation": "6a052664375c60ef"
+  }
+}
