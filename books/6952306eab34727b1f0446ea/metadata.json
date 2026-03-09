@@ -1,7 +1,7 @@
 {
   "id": "6952306eab34727b1f0446ea",
   "title": "Secretum secretorum ad Alexandrum Magnum",
-  "display_title": "The Secret of Secrets to Alexander the Great",
+  "display_title": "The Secret of Secrets of Aristotle to Alexander the Great",
   "author": "Pseudo-Aristotle (ed. Francesco Storella)",
   "language": "Latin",
   "year": 1555,
@@ -20,9 +20,9 @@
     "prompt_version": "v4.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:28:03.665Z",
+  "synced_at": "2026-03-09T02:00:58.342Z",
   "_hashes": {
     "ocr": "d734000ab33eb1b1",
-    "translation": "d79990419759fb5b"
+    "translation": "05fc9a139d0095ce"
   }
 }
