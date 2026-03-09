@@ -1,0 +1,26 @@
+{
+  "id": "69a027907a1dc5d92b41908f",
+  "title": "[Greek Symphonia. Novi Testamenti concordantiae graecae. [Door Xystus Betuleius]",
+  "display_title": "Greek Concordance of the New Testament",
+  "author": "Unknown",
+  "language": "Unknown",
+  "year": 1546,
+  "published": "1546",
+  "pages_count": 1488,
+  "pages_with_ocr": 1488,
+  "pages_with_translation": 1474,
+  "source_url": "https://sourcelibrary.org/book/69a027907a1dc5d92b41908f",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-09T12:50:42.938Z",
+  "_hashes": {
+    "ocr": "9e90d1ab59155e2b",
+    "translation": "0c6a69b8950ac64a"
+  }
+}
