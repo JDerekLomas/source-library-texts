@@ -1,0 +1,28 @@
+{
+  "id": "69943ce6a668f66e6953d026",
+  "title": "The Apocalypse of Baruch (2 Baruch)",
+  "display_title": "The Apocalypse of Baruch (2 Baruch)",
+  "author": "R.H. Charles",
+  "language": "Syriac",
+  "year": 1896,
+  "published": "1896",
+  "pages_count": 275,
+  "pages_with_ocr": 275,
+  "pages_with_translation": 0,
+  "source_url": "https://sourcelibrary.org/book/69943ce6a668f66e6953d026",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "apocalypsebaruc00chargoog"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": null
+  },
+  "synced_at": "2026-03-09T01:11:01.392Z",
+  "_hashes": {
+    "ocr": "7f243409da1c0e57",
+    "translation": "e3b0c44298fc1c14"
+  }
+}
