@@ -1,0 +1,28 @@
+{
+  "id": "69a55344627bcf18a5c33b06",
+  "title": "The Seven Valleys and The Four Valleys",
+  "display_title": "The Seven Valleys and The Four Valleys",
+  "author": "Bahá'u'lláh",
+  "language": "English",
+  "year": 1856,
+  "published": "1856",
+  "pages_count": 68,
+  "pages_with_ocr": 67,
+  "pages_with_translation": 61,
+  "source_url": "https://sourcelibrary.org/book/69a55344627bcf18a5c33b06",
+  "license": "http://www.gnu.org/licenses/gpl.html",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "thesevenvalleysa16986gut"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-09T12:00:09.186Z",
+  "_hashes": {
+    "ocr": "6d092fdf9a1edbe5",
+    "translation": "a85dd73001774876"
+  }
+}
