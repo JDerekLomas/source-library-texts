@@ -1,0 +1,28 @@
+{
+  "id": "6991e189339ebc85099497d9",
+  "title": "De Iustitia et Iure Opera Omnia",
+  "display_title": "De Iustitia et Iure Opera Omnia",
+  "author": "Luis de Molina",
+  "language": "Latin",
+  "year": 1614,
+  "published": "Unknown",
+  "pages_count": 936,
+  "pages_with_ocr": 936,
+  "pages_with_translation": 936,
+  "source_url": "https://sourcelibrary.org/book/6991e189339ebc85099497d9",
+  "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bub_gb_vYR_qbPicIUC"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-09T00:50:51.056Z",
+  "_hashes": {
+    "ocr": "a77eb7aeee4594c3",
+    "translation": "92398c2c28c7aeb1"
+  }
+}
