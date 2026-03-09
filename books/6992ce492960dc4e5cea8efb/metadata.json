@@ -1,0 +1,28 @@
+{
+  "id": "6992ce492960dc4e5cea8efb",
+  "title": "三才圖會(八十七)",
+  "display_title": "Collected Illustrations of the Three Realms (Volume 87)",
+  "author": "王圻, 王思義",
+  "language": "Chinese",
+  "year": 1609,
+  "published": "1609",
+  "pages_count": 128,
+  "pages_with_ocr": 113,
+  "pages_with_translation": 113,
+  "source_url": "https://sourcelibrary.org/book/6992ce492960dc4e5cea8efb",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "02098354.cn"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-09T08:30:29.304Z",
+  "_hashes": {
+    "ocr": "f75cadf4bf4b7126",
+    "translation": "b25a69304d30b053"
+  }
+}
