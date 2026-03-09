@@ -1,0 +1,28 @@
+{
+  "id": "69937743b0a84a576396346c",
+  "title": "Thucydidis Historiae (Vol. 2)",
+  "display_title": "Thucydidis Historiae (Vol. 2)",
+  "author": "Thucydides",
+  "language": "Greek",
+  "year": 1902,
+  "published": "1902",
+  "pages_count": 334,
+  "pages_with_ocr": 89,
+  "pages_with_translation": 6,
+  "source_url": "https://sourcelibrary.org/book/69937743b0a84a576396346c",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "thucydidishistor02thuc_0"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-09T00:20:56.841Z",
+  "_hashes": {
+    "ocr": "87301bd9656a661a",
+    "translation": "0d667a97e9dce550"
+  }
+}
