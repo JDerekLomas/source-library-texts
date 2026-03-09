@@ -1,7 +1,7 @@
 {
   "id": "69520606ab34727b1f04326d",
   "title": "Marsilii Ficini Opuscula",
-  "display_title": "Marsilii Ficini Opuscula",
+  "display_title": "The Minor Works of Marsilio Ficino",
   "author": "Marsilio Ficino",
   "language": "Latin",
   "year": 1503,
@@ -20,9 +20,9 @@
     "prompt_version": null,
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:29:36.612Z",
+  "synced_at": "2026-03-09T02:40:50.285Z",
   "_hashes": {
     "ocr": "dc5266baa08e2a29",
-    "translation": "2fc490a682f93b7c"
+    "translation": "298df85ce8bebfd3"
   }
 }
