@@ -1,0 +1,26 @@
+{
+  "id": "69938a84e07f979c72ac628f",
+  "title": "Euclid, Elements I-XV (888 CE, oldest dated classical MS)",
+  "display_title": "Bodleian Library MS. D'Orville 301",
+  "author": "Euclid",
+  "language": "Greek",
+  "year": 888,
+  "published": "888",
+  "pages_count": 388,
+  "pages_with_ocr": 388,
+  "pages_with_translation": 2,
+  "source_url": "https://sourcelibrary.org/book/69938a84e07f979c72ac628f",
+  "license": "CC-BY-NC-4.0",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-09T00:51:11.076Z",
+  "_hashes": {
+    "ocr": "7cb9db872c8046cf",
+    "translation": "d80d2980854bd9e1"
+  }
+}

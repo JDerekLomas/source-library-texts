@@ -1,0 +1,68 @@
+--- Page 44 ---
+<meta>This page continues the text of Euclid's Elements, Book II. The previous page likely concluded Proposition 3 or began the introductory definitions of geometric algebra. This page covers the end of Proposition 4 and the full proofs for Propositions 5 and 6.</meta>
+
+If a straight line is cut at random, the **square** on the whole is equal to the **squares** on the segments and **twice the rectangle** contained by the segments. <note>This is Euclid's Proposition II.4, which is the geometric equivalent of the algebraic identity (a + b)² = a² + b² + 2ab.</note>
+
+---
+
+<margin>†</margin>
+If a straight line is cut into equal and unequal segments, the **rectangle** contained by the unequal segments of the whole, together with the **square** on the line between the points of section, is equal to the **square** on the half-line. For let a certain straight line **AB** be cut into equal parts at **C** <note>original: Γ (Gamma)</note> and into unequal parts at **D** <note>original: Δ (Delta)</note>; I say that the rectangle contained by **AD** and **DB**, together with the square on **CD**, is equal to the square on **CB**. For let the square **CEZB** be described on **CB**, and let **BE** be joined; let **DH** be drawn through **D** parallel to either **CE** or **BZ**, and through **Θ** <note>The intersection point Theta</note> let **KL** be drawn parallel to either **AB** or **EZ**, and again through **A** let **AK** be drawn parallel to either **CL** or **BH**. And since the complement **CΘ** is equal to the complement **ΘZ** <note>Euclid previously proved that the "complements" of parallelograms about a diagonal are equal</note>, let **DM** be added to each; therefore the whole **CM** is equal to the whole **DZ**. But **CM** is equal to **AL**, since **AC** is also equal to **CB**; therefore **AL** is also equal to **DZ**. Let **CΘ** be added to each; therefore the whole **AΘ** is equal to the sum of **CΘ** and **DZ**. But **AΘ** is the rectangle contained by **AD** and **DB**, for **DH** is equal to **BZ**; and the sum of **CΘ** and **DZ** is the gnomon **NXO**. <note>A <term>gnomon</term> is the L-shaped area remaining when a smaller square is removed from a larger one.</note> And the rectangle—
+<meta>catchword: AD, DB therefore</meta>
+
+<margin>
+<unclear>Faded marginalia</unclear>
+<unclear>Reference to the figure</unclear>
+the gnomon is NXO and <unclear>illegible</unclear>
+</margin>
+
+<column-break/>
+
+<page-num>10</page-num>
+
+<margin>
+<unclear>Faded ink at top</unclear>
+<unclear>possibly a scholar's initials</unclear>
+</margin>
+—therefore is the **NXO** gnomon. Let **LH** be added to each, which is equal to the square on **CD**; therefore the rectangle contained by **AD** and **DB** together with the square on **CD** is equal to the gnomon **NXO** and the area **LH**. But the gnomon **NXO** and the area **LH** together make the whole square **CEZB**, which is the square on **CB**. Therefore, the rectangle contained by **AD** and **DB** together with the square on **CD** is equal to the square on **CB**. <note>Proposition II.5: This relates to the difference of two squares.</note>
+
+---
+
+<margin>
+<image-desc>Geometric diagram for Proposition II.6. It shows a horizontal line AD divided at points C and B. Above line CD, a large square CEZD is constructed, which is divided into smaller rectangles and squares by internal lines and a diagonal DE. Labels include points A, B, C, D, E, Z, H, Th, K, L, M.</image-desc>
+</margin>
+If a straight line is bisected, and a straight line is added to it in a straight line <note>meaning the line is extended</note>, the **rectangle** contained by the whole line with the added segment and the added segment itself, together with the **square** on the half, is equal to the **square** on the line made up of the half and the added segment. For let a certain line **AB** be bisected at **C**, and let a certain straight line **BD** be added to it in a straight line; I say that the rectangle contained by **AD** and **DB** together with the square on **CB** is equal to the square on **CD**. For let the square **CEZD** be described on **CD**, and let **DE** be joined; through the point **B** let **BH** be drawn parallel to either **CE** or **DZ**, and through the point **Θ** let **KL** be drawn parallel to either **AD** or **EZ**, and again through **A** let **AK** be drawn parallel to either **CL** or **BH**. Since then **AC** is equal to **CB**, the rectangle **AL** is also equal to **CΘ**. But **CΘ** is equal to **ΘZ**; therefore **AL** is also equal to **ΘZ**. Let **CH** be added to each; therefore the whole **AH** is equal to the gnomon **NXO**. But **AH** is the rectangle contained by **AD** and **DB**, for **BH** is equal to **BD**; and therefore the gnomon **NXO** is equal to the rectangle contained by **AD** and **DB**. Let **MΘ** be added to each, which is equal to the square on **CB**; therefore the rectangle contained by **AD** and **DB** together with the square on **CB** is equal to the gnomon **NXO** and the area **MΘ**. But the gnomon **NXO** and **MΘ** together make the whole square **CEZD**, which is the square on **CD**. Therefore, the rectangle contained by **AD** and **DB** together with the square on **CB** is equal to the square on **CD**.
+
+<image-desc>Geometric diagram for Proposition II.5. It shows a horizontal line AB divided into equal parts at point C and unequal parts at point D. A square CEZB is constructed on line CB. The square is divided by internal lines according to the proof, including a diagonal BE. Labels include A, B, C, D, E, Z, H, Th, K, L, M. A circular ink library stamp from the French "BIBLIOTHECA REGIA" (Royal Library) with three fleurs-de-lis is placed inside the diagram.</image-desc>
+
+<summary>This page contains the geometric proofs for Euclid's Elements, Book II, Propositions 5 and 6, which explore the relationships between rectangles and squares formed by dividing or extending straight lines.</summary>
+<keywords>Euclid, Elements, geometry, Proposition II.5, Proposition II.6, geometric algebra, square, rectangle, gnomon, mathematical proof</keywords>
+
+--- Page 45 ---
+<meta>This page transitions from the general geometric identities of Book II to the final proposition of the book. While the previous page discussed the relationships between squares and rectangles (Propositions 4-6), this page focuses on the "quadrature" or "squaring" of a figure (Proposition 14), which allows a geometer to construct a square with an area exactly equal to any given straight-sided shape.</meta>
+
+...and on **A** <note>original: α</note> a square...
+...and to **A** from the **E** **C** <note>original: ε γ</note>...
+...therefore the [rectangle] under **AB** and **CD** <note>original: αβ γδ</note>...
+...is equal to the [square] from **E** <note>original: ε</note>...
+
+<margin>
+<unclear>...the [rectangle] under... ...in the... ...from the...</unclear>
+</margin>
+
+...Since then the straight line **EZ** <note>original: εζ</note> has been cut into **equal** parts at **H** <note>original: η</note>...
+...and into unequal parts at **T** <note>original: θ; Euclid uses the property of a line divided into equal and unequal segments to find the area</note>, the **rectangle** contained by **ET** and **TZ** <note>original: εθ θζ</note> together with the **square** on **HT** <note>original: ηθ</note>...
+...is equal to the **square** on **HE** <note>original: ηε</note>. But **HE** is equal to **HK** <note>original: ηκ; these lines are equal because they are radii of the same semicircle</note>; therefore the **rectangle** contained by **ET** and **TZ**...
+...together with the **square** on **HT** is equal to the **square** on **HK**. But to the **square** on **HK**...
+...the **squares** on **HT** and **TK** <note>original: ηθ θκ</note> are equal <note>This follows the Pythagorean theorem: in a right-angled triangle, the square on the hypotenuse equals the sum of the squares on the other two sides</note>; therefore the **rectangle** contained by **ET** and **TZ** together with the...
+...**square** on **HT** is equal to the **squares** on **HT** and **TK**. Let the common...
+...**square** on **HT** be subtracted; the remaining **rectangle** contained by **ET** and **TZ**...
+...is equal to the **square** on **TK**. But the **rectangle** under **ET** and **TZ**...
+...is [the figure] **A**; therefore the rectilinear figure **A** is equal to the **square** described on **TK**...
+...having been so described.
+
+->Therefore, a square has been constructed equal to the<-
+->given rectilinear figure **A**, namely the square described on **TK**;<-
+->which is what it was required to do. <note>original: ὅπερ ἔδει ποιῆσαι (hoper edei poiēsai), often abbreviated in Latin as Q.E.F., Quod erat faciendum</note><-
+
+<summary>This page contains the final proof of Euclid's Elements, Book II (Proposition 14), which demonstrates how to construct a square that is equal in area to any given rectilinear figure. This geometric method is a cornerstone of ancient Greek mathematics, providing a way to calculate and compare areas through construction rather than arithmetic.</summary>
+<keywords>Euclid, Elements, geometry, Proposition 14, quadrature, square, rectilinear figure, mean proportional, Pythagorean theorem</keywords>
