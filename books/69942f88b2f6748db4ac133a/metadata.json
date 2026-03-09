@@ -1,0 +1,28 @@
+{
+  "id": "69942f88b2f6748db4ac133a",
+  "title": "Pachymeres Declamationes XIII",
+  "display_title": "Pachymeres Declamationes XIII",
+  "author": "George Pachymeres",
+  "language": "Greek",
+  "year": 1829,
+  "published": "Unknown",
+  "pages_count": 379,
+  "pages_with_ocr": 304,
+  "pages_with_translation": 290,
+  "source_url": "https://sourcelibrary.org/book/69942f88b2f6748db4ac133a",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "gpachymerisdecl00hiergoog"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-09T08:50:32.582Z",
+  "_hashes": {
+    "ocr": "d5c57b6b8d2f4d81",
+    "translation": "719381794f1fc131"
+  }
+}
