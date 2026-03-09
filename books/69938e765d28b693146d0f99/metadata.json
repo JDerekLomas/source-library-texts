@@ -1,0 +1,28 @@
+{
+  "id": "69938e765d28b693146d0f99",
+  "title": "Poimandres (Greek Editio Princeps, Turnebus)",
+  "display_title": "Poimandres (Greek Editio Princeps, Turnebus)",
+  "author": "Hermes Trismegistus",
+  "language": "Greek",
+  "year": 1554,
+  "published": "Unknown",
+  "pages_count": 254,
+  "pages_with_ocr": 254,
+  "pages_with_translation": 4,
+  "source_url": "https://sourcelibrary.org/book/69938e765d28b693146d0f99",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bib_fict_4102600"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-09T00:51:00.825Z",
+  "_hashes": {
+    "ocr": "9b10d30060b184ec",
+    "translation": "e87fe49724d27117"
+  }
+}
