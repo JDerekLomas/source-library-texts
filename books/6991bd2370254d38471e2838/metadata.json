@@ -1,0 +1,28 @@
+{
+  "id": "6991bd2370254d38471e2838",
+  "title": "The Philosophies and Religions of India",
+  "display_title": "The Philosophies and Religions of India",
+  "author": "Yogi Ramacharaka (William Walker Atkinson)",
+  "language": "English",
+  "year": 1908,
+  "published": "Unknown",
+  "pages_count": 108,
+  "pages_with_ocr": 108,
+  "pages_with_translation": 106,
+  "source_url": "https://sourcelibrary.org/book/6991bd2370254d38471e2838",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "ThePhilosophiesAndReligionsOfIndia"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-09T17:30:43.406Z",
+  "_hashes": {
+    "ocr": "61ab45b75c6de90f",
+    "translation": "9c70e16aa1504e31"
+  }
+}
