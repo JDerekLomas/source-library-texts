@@ -1,0 +1,28 @@
+{
+  "id": "69a552fa0aade5c1d01fe786",
+  "title": "The Melanesians",
+  "display_title": "The Melanesians",
+  "author": "Robert Henry Codrington",
+  "language": "English",
+  "year": 1891,
+  "published": "1891",
+  "pages_count": 467,
+  "pages_with_ocr": 467,
+  "pages_with_translation": 448,
+  "source_url": "https://sourcelibrary.org/book/69a552fa0aade5c1d01fe786",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "melanesiansstud00codrgoog"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-09T23:20:50.514Z",
+  "_hashes": {
+    "ocr": "802bcf6853c9516d",
+    "translation": "0fa6c7f1d53c3ca8"
+  }
+}
