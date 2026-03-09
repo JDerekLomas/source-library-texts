@@ -1,0 +1,28 @@
+{
+  "id": "6991f8d4ff9de7ebcc934741",
+  "title": "De urinis et pulsibus",
+  "display_title": "On Urines and Pulses",
+  "author": "Pierleone da Spoleto / Gilles de Corbeil",
+  "language": "Latin",
+  "year": 1488,
+  "published": "Unknown",
+  "pages_count": 119,
+  "pages_with_ocr": 119,
+  "pages_with_translation": 100,
+  "source_url": "https://sourcelibrary.org/book/6991f8d4ff9de7ebcc934741",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "hin-wel-all-00000051-003"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-09T19:20:24.176Z",
+  "_hashes": {
+    "ocr": "8fa959bf2f1dbb20",
+    "translation": "a614712ba49a8418"
+  }
+}
