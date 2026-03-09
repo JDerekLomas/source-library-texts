@@ -1,7 +1,7 @@
 {
   "id": "6953a82777f38f6761bd0aad",
   "title": "Commentary on the Apocalypse of John (Armenian)",
-  "display_title": "Commentary on the Apocalypse of John (Armenian)",
+  "display_title": "Commentary on the Apocalypse of John",
   "author": "Andrew and Arethas of Cappadocia",
   "language": "Armenian",
   "year": 1300,
@@ -20,9 +20,9 @@
     "prompt_version": "v4.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:29:48.180Z",
+  "synced_at": "2026-03-09T02:40:53.426Z",
   "_hashes": {
     "ocr": "8476e86dc80db2ae",
-    "translation": "c79fc61c38848dc3"
+    "translation": "ee48a43eaa53ca1e"
   }
 }
