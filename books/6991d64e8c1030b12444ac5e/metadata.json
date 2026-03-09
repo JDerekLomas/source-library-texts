@@ -1,0 +1,28 @@
+{
+  "id": "6991d64e8c1030b12444ac5e",
+  "title": "Opus Mago-Cabalisticum et Theologicum (1719 first edition)",
+  "display_title": "Mago-Cabalistic and Theological Work",
+  "author": "Georg von Welling",
+  "language": "Latin",
+  "year": 1719,
+  "published": "Unknown",
+  "pages_count": 120,
+  "pages_with_ocr": 120,
+  "pages_with_translation": 88,
+  "source_url": "https://sourcelibrary.org/book/6991d64e8c1030b12444ac5e",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "opusmagocabalist00well"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-09T20:00:47.233Z",
+  "_hashes": {
+    "ocr": "044780cdb2e97e10",
+    "translation": "74b12dfa3920eb4c"
+  }
+}
