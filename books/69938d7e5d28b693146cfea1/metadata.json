@@ -1,0 +1,28 @@
+{
+  "id": "69938d7e5d28b693146cfea1",
+  "title": "Opera Omnia Vol. II: Vandal & Gothic Wars",
+  "display_title": "Opera Omnia Vol. II: Vandal & Gothic Wars",
+  "author": "Procopius of Caesarea",
+  "language": "Greek",
+  "year": 1905,
+  "published": "1905",
+  "pages_count": 678,
+  "pages_with_ocr": 678,
+  "pages_with_translation": 4,
+  "source_url": "https://sourcelibrary.org/book/69938d7e5d28b693146cfea1",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "ProcopiiCaesariensisOperaOmnia3"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-09T00:51:03.986Z",
+  "_hashes": {
+    "ocr": "0009330d6bc58c97",
+    "translation": "1b6f5ca69b239e24"
+  }
+}
