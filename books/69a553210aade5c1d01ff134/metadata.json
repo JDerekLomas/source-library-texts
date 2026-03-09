@@ -1,0 +1,28 @@
+{
+  "id": "69a553210aade5c1d01ff134",
+  "title": "Korean Folk Tales: Imps, Ghosts, and Fairies",
+  "display_title": "Korean Folk Tales: Imps, Ghosts, and Fairies",
+  "author": "Im Pang (tr. James Gale)",
+  "language": "English",
+  "year": 1913,
+  "published": "1913",
+  "pages_count": 256,
+  "pages_with_ocr": 256,
+  "pages_with_translation": 248,
+  "source_url": "https://sourcelibrary.org/book/69a553210aade5c1d01ff134",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "koreanfolktalesi00impaiala"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-09T14:10:45.365Z",
+  "_hashes": {
+    "ocr": "80b1c3f2ceb56bbf",
+    "translation": "ae4b67f55ccf32b3"
+  }
+}
