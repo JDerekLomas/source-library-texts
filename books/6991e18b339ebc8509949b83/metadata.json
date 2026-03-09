@@ -1,0 +1,28 @@
+{
+  "id": "6991e18b339ebc8509949b83",
+  "title": "Comentario Resolutorio de Usuras",
+  "display_title": "Resolutory Commentary on Usury",
+  "author": "Martín de Azpilcueta",
+  "language": "Spanish",
+  "year": 1556,
+  "published": "Unknown",
+  "pages_count": 107,
+  "pages_with_ocr": 107,
+  "pages_with_translation": 107,
+  "source_url": "https://sourcelibrary.org/book/6991e18b339ebc8509949b83",
+  "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bub_gb_j8UT-_B14_sC"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-09T17:40:58.086Z",
+  "_hashes": {
+    "ocr": "a38827e5dabf4283",
+    "translation": "1f3bc602de588914"
+  }
+}
