@@ -1,0 +1,28 @@
+{
+  "id": "6992ce65673ee1e40e32070d",
+  "title": "武備志(五十九)",
+  "display_title": "Treatise on Armament Technology (Volume 59)",
+  "author": "茅元儀",
+  "language": "Chinese",
+  "year": 1621,
+  "published": "Unknown",
+  "pages_count": 106,
+  "pages_with_ocr": 104,
+  "pages_with_translation": 47,
+  "source_url": "https://sourcelibrary.org/book/6992ce65673ee1e40e32070d",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "02092317.cn"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-09T16:50:04.562Z",
+  "_hashes": {
+    "ocr": "97eb2c463f1f5886",
+    "translation": "a77aea6611ddc6b8"
+  }
+}
