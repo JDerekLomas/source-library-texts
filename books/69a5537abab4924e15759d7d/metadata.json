@@ -1,0 +1,28 @@
+{
+  "id": "69a5537abab4924e15759d7d",
+  "title": "The Secret of Success",
+  "display_title": "The Secret of Success",
+  "author": "William Walker Atkinson",
+  "language": "English",
+  "year": 1908,
+  "published": "1908",
+  "pages_count": 43,
+  "pages_with_ocr": 43,
+  "pages_with_translation": 43,
+  "source_url": "https://sourcelibrary.org/book/69a5537abab4924e15759d7d",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "william-walker-atkinson-secret-of-success"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-09T11:10:28.358Z",
+  "_hashes": {
+    "ocr": "d15ddd816e3af13b",
+    "translation": "71fa98cdca899887"
+  }
+}
