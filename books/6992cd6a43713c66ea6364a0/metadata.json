@@ -1,0 +1,28 @@
+{
+  "id": "6992cd6a43713c66ea6364a0",
+  "title": "三才圖會(二十六)",
+  "display_title": "Collected Illustrations of the Three Realms",
+  "author": "王圻, 王思義",
+  "language": "Chinese",
+  "year": 1609,
+  "published": "1609",
+  "pages_count": 108,
+  "pages_with_ocr": 108,
+  "pages_with_translation": 62,
+  "source_url": "https://sourcelibrary.org/book/6992cd6a43713c66ea6364a0",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "02098293.cn"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-09T17:30:47.991Z",
+  "_hashes": {
+    "ocr": "0a984cbe978445b6",
+    "translation": "bebbc0f989a4b54a"
+  }
+}
