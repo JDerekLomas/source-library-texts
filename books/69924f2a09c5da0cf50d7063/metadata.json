@@ -1,0 +1,28 @@
+{
+  "id": "69924f2a09c5da0cf50d7063",
+  "title": "The Chaldaean Oracles",
+  "display_title": "The Chaldaean Oracles",
+  "author": "G.R.S. Mead",
+  "language": "Greek",
+  "year": 1908,
+  "published": "Unknown",
+  "pages_count": 105,
+  "pages_with_ocr": 105,
+  "pages_with_translation": 97,
+  "source_url": "https://sourcelibrary.org/book/69924f2a09c5da0cf50d7063",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "chaldanoracles00juligoog"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-09T16:40:09.688Z",
+  "_hashes": {
+    "ocr": "6e5b7e6fff3ee0c3",
+    "translation": "b0625a82a8fc92a1"
+  }
+}
