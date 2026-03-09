@@ -1,0 +1,28 @@
+{
+  "id": "6992c9ef54b3f8b16b4afeb4",
+  "title": "洞天奧旨 (Dongtian Aozhi: Esoteric Meanings of the Grotto Heavens) Vol 3",
+  "display_title": "Esoteric Meanings of the Grotto Heavens",
+  "author": "Chen Shiduo",
+  "language": "Chinese",
+  "year": 1550,
+  "published": "Unknown",
+  "pages_count": 112,
+  "pages_with_ocr": 112,
+  "pages_with_translation": 112,
+  "source_url": "https://sourcelibrary.org/book/6992c9ef54b3f8b16b4afeb4",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "02093494.cn"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-09T18:10:09.883Z",
+  "_hashes": {
+    "ocr": "892d78485f7aa721",
+    "translation": "1473e65b5c9ee1b2"
+  }
+}
