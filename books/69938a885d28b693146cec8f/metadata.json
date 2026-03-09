@@ -1,0 +1,26 @@
+{
+  "id": "69938a885d28b693146cec8f",
+  "title": "Proclus, Commentary on Plato Alcibiades I; Commentary on Homer Iliad",
+  "display_title": "Bodleian Library MS. Barocci 162",
+  "author": "Proclus",
+  "language": "Greek",
+  "year": 1450,
+  "published": "1450",
+  "pages_count": 334,
+  "pages_with_ocr": 334,
+  "pages_with_translation": 11,
+  "source_url": "https://sourcelibrary.org/book/69938a885d28b693146cec8f",
+  "license": "CC-BY-NC-4.0",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-09T00:51:07.528Z",
+  "_hashes": {
+    "ocr": "1f13ed5d28b8e22b",
+    "translation": "baa71bac92cf256d"
+  }
+}
