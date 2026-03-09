@@ -1,0 +1,28 @@
+{
+  "id": "6992c90d453c7175dc1bcf22",
+  "title": "營造法式 (Yingzao Fashi) · 卷三十三~卷三十四",
+  "display_title": "State Building Standards",
+  "author": "Li Jie (李誡)",
+  "language": "Chinese",
+  "year": 1145,
+  "published": "1145",
+  "pages_count": 125,
+  "pages_with_ocr": 125,
+  "pages_with_translation": 43,
+  "source_url": "https://sourcelibrary.org/book/6992c90d453c7175dc1bcf22",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "06051725.cn"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-09T19:30:23.730Z",
+  "_hashes": {
+    "ocr": "055aa738fd87eb5d",
+    "translation": "0310695e6613a45d"
+  }
+}
