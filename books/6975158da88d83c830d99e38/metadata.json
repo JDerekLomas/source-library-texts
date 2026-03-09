@@ -1,14 +1,14 @@
 {
   "id": "6975158da88d83c830d99e38",
   "title": "Aureum vellus oder guldin Schatz und Kunst-Kammer",
-  "display_title": "Aureum vellus oder guldin Schatz und Kunst-Kammer",
+  "display_title": "The Golden Fleece (Aureum Vellus)",
   "author": "Trissmosin, Salomon",
   "language": "German",
   "year": 1708,
   "published": "1708",
-  "pages_count": 900,
-  "pages_with_ocr": 900,
-  "pages_with_translation": 579,
+  "pages_count": 899,
+  "pages_with_ocr": 899,
+  "pages_with_translation": 879,
   "source_url": "https://sourcelibrary.org/book/6975158da88d83c830d99e38",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:21:39.633Z",
+  "synced_at": "2026-03-09T16:10:31.677Z",
   "_hashes": {
-    "ocr": "e05b735c403960d8",
-    "translation": "9c71a92dfe322e6d"
+    "ocr": "799bd6c5cfbc043d",
+    "translation": "63a625edc47d284f"
   }
 }
