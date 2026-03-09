@@ -1,0 +1,28 @@
+{
+  "id": "6991e175b53cae6bb602470e",
+  "title": "A Discourse of Trade",
+  "display_title": "A Discourse of Trade",
+  "author": "Nicholas Barbon",
+  "language": "English",
+  "year": 1690,
+  "published": "Unknown",
+  "pages_count": 107,
+  "pages_with_ocr": 107,
+  "pages_with_translation": 106,
+  "source_url": "https://sourcelibrary.org/book/6991e175b53cae6bb602470e",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bim_early-english-books-1641-1700_a-discourse-of-trade_barbon-nicholas_1690"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-09T17:10:08.590Z",
+  "_hashes": {
+    "ocr": "094503364e332558",
+    "translation": "6558d1ab7c93e4ae"
+  }
+}
