@@ -1,14 +1,14 @@
 {
   "id": "697c8e11f81f9680d27f6347",
   "title": "Farmaceutica mercuriale",
-  "display_title": "Farmaceutica mercuriale",
+  "display_title": "Mercurial Pharmaceutics",
   "author": "Lancilotti, Carlo",
   "language": "Italian",
   "year": 1683,
   "published": "1683",
   "pages_count": 257,
   "pages_with_ocr": 257,
-  "pages_with_translation": 7,
+  "pages_with_translation": 242,
   "source_url": "https://sourcelibrary.org/book/697c8e11f81f9680d27f6347",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:27:08.188Z",
+  "synced_at": "2026-03-09T17:50:43.723Z",
   "_hashes": {
     "ocr": "3f140ef60096cdd7",
-    "translation": "5cedcce49578b544"
+    "translation": "8631b4fb33e52c46"
   }
 }
