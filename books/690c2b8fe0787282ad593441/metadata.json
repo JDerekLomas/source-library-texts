@@ -1,14 +1,14 @@
 {
   "id": "690c2b8fe0787282ad593441",
   "title": "Opera",
-  "display_title": "Opera",
+  "display_title": "The Works of Saint Cyril of Alexandria",
   "author": "Cyrillus Alexandrinus",
   "language": "Latin",
   "year": 1566,
   "published": "1566",
   "pages_count": 632,
   "pages_with_ocr": 632,
-  "pages_with_translation": 629,
+  "pages_with_translation": 624,
   "source_url": "https://sourcelibrary.org/book/690c2b8fe0787282ad593441",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v4.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:23:06.683Z",
+  "synced_at": "2026-03-09T03:11:04.492Z",
   "_hashes": {
     "ocr": "87490b27473fd6ad",
-    "translation": "ce83d54a3d919d34"
+    "translation": "813989bb4bde623f"
   }
 }
