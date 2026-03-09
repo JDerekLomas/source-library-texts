@@ -1,14 +1,14 @@
 {
   "id": "6970e3849b09d309d780a2da",
   "title": "Antrum naturae et artis reclusum. Das ist: die geheimnus-volle eröffnete Höhle der Natur und der Kunst.[...]Samt voran gedruckter Missiv an die hocherleuchtete Brüderschafft des Ordens des göldenen und Rosen-Creutzes",
-  "display_title": "Antrum naturae et artis reclusum. Das ist: die geheimnus-volle eröffnete Höhle der Natur und der Kunst.[...]Samt voran gedruckter Missiv an die hocherleuchtete Brüderschafft des Ordens des göldenen und Rosen-Creutzes",
+  "display_title": "The Unveiled Cave of Nature and Art",
   "author": "[Cardilucius, Johannes Hiskias]",
   "language": "German",
   "year": 1710,
   "published": "1710",
   "pages_count": 905,
   "pages_with_ocr": 905,
-  "pages_with_translation": 690,
+  "pages_with_translation": 888,
   "source_url": "https://sourcelibrary.org/book/6970e3849b09d309d780a2da",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:21:36.596Z",
+  "synced_at": "2026-03-09T13:30:46.224Z",
   "_hashes": {
     "ocr": "a3d7f12063d2112b",
-    "translation": "e42eee258eb29264"
+    "translation": "f8b073f7c840f349"
   }
 }
