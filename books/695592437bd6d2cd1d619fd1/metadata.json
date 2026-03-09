@@ -7,8 +7,8 @@
   "year": 1620,
   "published": "Unknown",
   "pages_count": 108,
-  "pages_with_ocr": 10,
-  "pages_with_translation": 10,
+  "pages_with_ocr": 108,
+  "pages_with_translation": 103,
   "source_url": "https://sourcelibrary.org/book/695592437bd6d2cd1d619fd1",
   "license": "publicdomain",
   "doi": null,
@@ -20,9 +20,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:31:01.457Z",
+  "synced_at": "2026-03-09T17:10:04.485Z",
   "_hashes": {
-    "ocr": "0ff827cdc7de2485",
-    "translation": "4fcc484f45c207f7"
+    "ocr": "ce080799ca76acad",
+    "translation": "4f5fe56ac4c43098"
   }
 }
