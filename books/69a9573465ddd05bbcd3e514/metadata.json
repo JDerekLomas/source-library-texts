@@ -1,0 +1,28 @@
+{
+  "id": "69a9573465ddd05bbcd3e514",
+  "title": "Historia Lausiaca",
+  "display_title": "The Lausiac History",
+  "author": "Palladius (ed. Johannes Meursius)",
+  "language": "Latin",
+  "year": 1616,
+  "published": "1616",
+  "pages_count": 242,
+  "pages_with_ocr": 242,
+  "pages_with_translation": 240,
+  "source_url": "https://sourcelibrary.org/book/69a9573465ddd05bbcd3e514",
+  "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "bub_gb_O9tKX98ilXIC"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-09T19:50:47.055Z",
+  "_hashes": {
+    "ocr": "3cbeb25d7a9ef101",
+    "translation": "9645695a2e5cc4b0"
+  }
+}
