@@ -1,7 +1,7 @@
 {
   "id": "6952b01e77f38f6761bc1e33",
   "title": "Opuscula cum Vita",
-  "display_title": "Works with Life (1498 Venice incunabulum)",
+  "display_title": "Complete Works with the Life of the Author",
   "author": "Pico della Mirandola, Giovanni",
   "language": "Latin",
   "year": 1498,
@@ -20,9 +20,9 @@
     "prompt_version": null,
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:26:40.490Z",
+  "synced_at": "2026-03-09T06:40:10.120Z",
   "_hashes": {
     "ocr": "906be19537644b1f",
-    "translation": "c41c344170553be1"
+    "translation": "c297a7c35890c0c9"
   }
 }
