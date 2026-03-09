@@ -1,0 +1,26 @@
+{
+  "id": "69a5e61ee751f06e74b89835",
+  "title": "Euripidis Hecuba, Orestes, Phoenissae (Barocci 120)",
+  "display_title": "Hecuba, Orestes, and The Phoenician Women",
+  "author": "Euripides",
+  "language": "Greek",
+  "year": null,
+  "published": "1300-1325",
+  "pages_count": 238,
+  "pages_with_ocr": 238,
+  "pages_with_translation": 219,
+  "source_url": "https://sourcelibrary.org/book/69a5e61ee751f06e74b89835",
+  "license": "CC-BY-NC-4.0",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-09T04:50:57.929Z",
+  "_hashes": {
+    "ocr": "4e92ad89960c4362",
+    "translation": "0456106087713c18"
+  }
+}
