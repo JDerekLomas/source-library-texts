@@ -1,14 +1,14 @@
 {
   "id": "6953cbc877f38f6761be004a",
   "title": "Codex Nuttall - Pre-Columbian Mexican Manuscript Facsimile",
-  "display_title": "Codex Nuttall - Pre-Columbian Mexican Manuscript Facsimile",
+  "display_title": "Codex Nuttall",
   "author": "Zelia Nuttall",
   "language": "Mixtec",
   "year": 1902,
   "published": "Unknown",
   "pages_count": 94,
   "pages_with_ocr": 94,
-  "pages_with_translation": 94,
+  "pages_with_translation": 93,
   "source_url": "https://sourcelibrary.org/book/6953cbc877f38f6761be004a",
   "license": "publicdomain",
   "doi": null,
@@ -20,9 +20,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:29:00.998Z",
+  "synced_at": "2026-03-09T03:10:50.277Z",
   "_hashes": {
     "ocr": "3450110d5e80e777",
-    "translation": "1cfebffb770a1043"
+    "translation": "48476d13213f5458"
   }
 }
