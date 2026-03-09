@@ -6,9 +6,9 @@
   "language": "Latin",
   "year": 1728,
   "published": "1728",
-  "pages_count": 849,
-  "pages_with_ocr": 849,
-  "pages_with_translation": 4,
+  "pages_count": 841,
+  "pages_with_ocr": 841,
+  "pages_with_translation": 820,
   "source_url": "https://sourcelibrary.org/book/697a604ba24fc91936a91757",
   "license": "publicdomain",
   "doi": null,
@@ -18,9 +18,9 @@
     "prompt_version": "v3.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-03-05T00:50:59.871Z",
+  "synced_at": "2026-03-09T01:30:54.335Z",
   "_hashes": {
-    "ocr": "198ed0e3ec8eba99",
-    "translation": "8668bc00ec596a67"
+    "ocr": "e9e88e38ad89deef",
+    "translation": "ce2f6fdca3017368"
   }
 }
