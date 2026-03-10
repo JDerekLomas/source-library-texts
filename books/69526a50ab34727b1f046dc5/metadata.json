@@ -17,12 +17,12 @@
   },
   "processing": {
     "ocr_model": "gemini-3-flash-preview",
-    "prompt_version": "v3.2026-02",
+    "prompt_version": "v5.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-03-06T19:10:57.713Z",
+  "synced_at": "2026-03-10T04:20:28.235Z",
   "_hashes": {
-    "ocr": "68ce0635de346376",
-    "translation": "d5528a142771a074"
+    "ocr": "b1c33726b3752a57",
+    "translation": "5788e315377adc67"
   }
 }
