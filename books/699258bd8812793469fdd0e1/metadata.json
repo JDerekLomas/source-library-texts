@@ -1,0 +1,28 @@
+{
+  "id": "699258bd8812793469fdd0e1",
+  "title": "The Diamond Sutra (Chin-kang-ching), or Prajna-Paramita",
+  "display_title": "The Diamond Sutra (Chin-kang-ching), or Prajna-Paramita",
+  "author": "William Gemmell (trans.)",
+  "language": "Sanskrit",
+  "year": 1912,
+  "published": "Unknown",
+  "pages_count": 160,
+  "pages_with_ocr": 160,
+  "pages_with_translation": 148,
+  "source_url": "https://sourcelibrary.org/book/699258bd8812793469fdd0e1",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "cu31924022914588"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-10T05:11:12.645Z",
+  "_hashes": {
+    "ocr": "825b0fad3c3db991",
+    "translation": "ff7714d5f251f3fe"
+  }
+}
