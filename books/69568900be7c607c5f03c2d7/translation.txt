@@ -55,40 +55,58 @@ Inventory number 529
 <keywords>Henricus Glareanus, Dodekachordon, music theory, musical modes, Basel, Toulouse, library provenance, book curse</keywords>
 
 --- Page 3 ---
-<meta>This page is the title page of Heinrich Glarean's seminal music theory work, the Dodecachordon. The provenance notes indicate it was once held in the library of the Franciscan Convent in Toulouse before entering the city's public library system.</meta>
+<meta>This page serves as the formal title page for Henricus Glareanus’s landmark musical treatise. It transitions from the previous flyleaf—which contained library cataloging information—into the core of the work, establishing the 1547 publication date in Basel and identifying the book's provenance at a Franciscan convent in Toulouse.</meta>
 
-<insert>
-From the Library of the great Convent of St. Francis of Toulouse
-</insert>
+# Musical Matters B 2 <note>original: "Res. Mus. B 2"; a library shelf mark classifying the book under "Res Musica" or musical subjects.</note>
 
-# GLAREANUS’
+<meta>Handwritten number "591" at top center. Circular library stamp of the "GREAT LIBRARY OF TOULOUSE" on the right margin. Accession number "25611" stamped at bottom.</meta>
 
-## THE TWELVE-STRINGED WORK
-<note>original Greek: ΔΩΔΕΚΑΧΟΡΔΟΝ (Dodekachordon). Glarean used this title to argue that there are twelve musical modes rather than the traditionally accepted eight.</note>
+<insert>From the Library of the great Convent of Saint Francis of Toulouse</insert> <note>original: "Ex Bibliotheca magni Conventus S. francisci Tolosae"</note>
 
-<image-desc>A circular ink stamp of the "GREAT LIBRARY OF TOULOUSE" is placed to the right of the center, featuring a coat of arms with a castle and three fleur-de-lis.</image-desc>
+# GLAREAN'S
 
-| Plagal Modes <note>Plagal modes are "secondary" scales that sit a fourth lower than their "Authentic" counterparts.</note> | Authentic Modes <note>Authentic modes are the primary forms of the musical scales in Renaissance theory.</note> |
-|:---|:---|
-| **A Hypodorian**<br><gloss>Ptolemy’s Hypermixolydian</gloss> | **D Dorian** |
-| **B Hypophrygian**<br><gloss>Martianus Capella’s Hyperaeolian</gloss> | **E Phrygian** |
-| **C Hypolydian** | **F Lydian** |
-| **D Hypomixolydian**<br><gloss>Martianus Capella’s Hyperiastian or Hyperionian</gloss> | **G Mixolydian**<br><gloss>Martianus Capella’s Hyperphrygian</gloss> |
-| **E Hypoaeolian**<br><gloss>Martianus Capella’s Hyperdorian</gloss> | **A Aeolian**<br><gloss>Martianus Capella’s Hyperlydian</gloss> |
-| **G Hypoionian**<br><gloss>Martianus Capella’s Hypoiastian</gloss> | **C Ionian**<br><gloss>Porphyry</gloss> |
-| **F Hyperphrygian**<br><gloss>Poliziano called this the Hyperlydian, but it is an error</gloss> | **B Hyperaeolian**<br><gloss>Apuleius and Martianus Capella’s Iastian</gloss> |
+## THE TWELVE-STRINGED INSTRUMENT <note>original Greek: "ΔΩΔΕΚΑΧΟΡΔΟΝ" (Dodekachordon). This is Glareanus’s most famous work, where he argued that there are twelve musical modes rather than the traditional eight.</note>
+
+->Plagal Modes<- <note>Plagal modes are the "lower" versions of musical scales in traditional theory, usually starting a fourth below the main note.</note>
+**A** <term>Hypodorian</term>
+<gloss>Ptolemy's Hypermixolydian</gloss>
+**B** <term>Hypophrygian</term>
+<gloss>Martianus Capella's Hyperaeolian</gloss>
+**C** <term>Hypolydian</term>
+**D** <term>Hypomixolydian</term>
+<gloss>The Hyperiastian or Hyperionian of Martianus Capella</gloss>
+**E** <term>Hypoaeolian</term>
+<gloss>Martianus Capella's Hyperdorian</gloss>
+**G** <term>Hypoionian</term>
+<gloss>Martianus Capella's Hypoiastian</gloss>
+**F** <term>Hyperphrygian</term>
+<gloss>Poliziano’s Hyperlydian, but it is an error</gloss> <note>original: "Hyperlydius Politia. sed est error"; Glareanus is correcting a contemporary scholar, Angelo Poliziano.</note>
+
+<column-break/>
+
+->Authentic Modes<- <note>Authentic modes are the "standard" versions of scales where the melody stays mostly above the starting note.</note>
+**D** <term>Dorian</term>
+**E** <term>Phrygian</term>
+**F** <term>Lydian</term>
+<gloss>Martianus Capella's Hyperphrygian</gloss>
+**G** <term>Mixolydian</term>
+<gloss>Martianus Capella's Hyperlydian</gloss>
+**A** <term>Aeolian</term>
+**C** <term>Ionian</term> <gloss>Porphyry</gloss>
+<gloss>The Iastian of Apuleius and Martianus Capella</gloss>
+**B** <term>Hyperaeolian</term>
 
 ---
 
-->**AT BASEL.**<-
-<note>Basileae: This refers to the city of Basel, Switzerland, a major center for printing during the Renaissance.</note>
+<note>A circular library stamp of the "GREAT LIBRARY OF TOULOUSE" features a central heraldic shield with three fleurs-de-lis—symbols of French royalty—positioned above a fortified gate or castle representing the city of Toulouse.</note>
 
-<insert>
-Anathema <note>A formal religious curse</note> upon him who shall steal this book, conceal it, or alienate it in any way.
-</insert>
+->B A S E L<- <note>original: "BASILEÆ"; the city in Switzerland where the book was printed.</note>
 
-<summary>This is the title page of Heinrich Glarean’s Dodecachordon, featuring a table that synchronizes his twelve-mode system with the terminology of classical authors like Ptolemy and Martianus Capella. The page also includes a "book curse" and ownership marks from a Franciscan convent in Toulouse.</summary>
-<keywords>Heinrich Glarean, Dodecachordon, musical modes, music theory, Basel printing, book curse, Toulouse, Renaissance music, Dorian, Phrygian, Lydian, Ionian, Aeolian</keywords>
+<insert>A curse upon him who shall steal this book, hide it, or alienate it in any way</insert> <note>original: "Anathema ei qui hunc librum furabitur Occultabit, aut quocumque modo alienabit"; a common early modern "book curse" intended to protect valuable library volumes from theft.</note>
+
+<summary>This title page introduces Glareanus’s revolutionary theory of twelve musical modes, listing the Plagal and Authentic scales alongside names used by classical authorities like Ptolemy and Martianus Capella. The page reveals the book's history as a former possession of a Franciscan convent in Toulouse before entering a public library.</summary>
+
+<keywords>Henricus Glareanus, Dodekachordon, musical theory, church modes, Dorian, Phrygian, Lydian, Mixolydian, Aeolian, Ionian, Basel printing, Toulouse, book curse, Martianus Capella</keywords>
 
 --- Page 4 ---
 <meta>This page is the start of the formal dedication of the Dodecachordon. Glarean addresses Otto von Waldburg, the Bishop of Augsburg, setting a scholarly yet defensive tone as he prepares to justify his expansion of the musical modes from eight to twelve.</meta>
@@ -115,29 +133,31 @@ Unless I clear myself of these harsh objections and grave accusations, and show 
 <keywords>Heinrich Glarean, Otto von Waldburg, Timotheus of Miletus, Boethius, Athenaeus, musical modes, Dodecachordon, Octochordon, Sparta, music history, music theory, dedication</keywords>
 
 --- Page 5 ---
-<meta>This page continues the formal dedication of the Dodecachordon. Glarean addresses Otto von Waldburg, the Bishop of Augsburg, setting a scholarly yet defensive tone as he prepares to justify his expansion of the musical modes from eight to twelve.</meta>
+<meta>This page continues the dedication of the Dodecachordon. Glarean begins his formal address to Cardinal Otto von Waldburg by citing the historical precedent of Timotheus of Miletus to frame his own radical expansion of musical theory.</meta>
 
 <page-num>574</page-num>
 <sig>a 2</sig>
 
 # To the Most Reverend Father in Christ:
 
-->THE MOST ILLUSTRIOUS PRINCE, OTTO, HEREDITARY STEWARD<-
-->OF THE HOLY ROMAN EMPIRE; BARON IN WALDBURG;<-
-->CARDINAL OF THE HOLY ROMAN CHURCH, OF THE TITLE OF ST. BALBINA,<-
-->AND MOST WORTHY AND DISTINGUISHED<-
+->THE MOST ILLUSTRIOUS PRINCE, OTTO, HEREDITARY<-
+->STEWARD OF THE HOLY ROMAN EMPIRE; BARON IN WALDBURG;<-
+->CARDINAL OF THE HOLY ROMAN CHURCH, WITH THE TITLE OF ST. ALBINA,<-
+->AND THE MOST WORTHY AND DISTINGUISHED<-
 ->BISHOP OF AUGSBURG.<-
 
-## Glarean sends many greetings. <note>original Latin: Glareanus S. D. P. (Salutem Dicit Plurimam)</note>
+## Glarean sends many greetings.
 
-<image-desc>A square woodcut historiated initial 'T'. Inside the letter, two figures are depicted in a classical setting; one appears to be a seated authority figure or scholar, while another stands before them. The frame of the initial is decorated with floral and architectural motifs.</image-desc> **TIMOTHEUS** of Miletus, a most famous author of the musical art, **MOST REVEREND FATHER**, is recorded by Athenaeus in his 14th book (citing Artemon) as having been rebuked by the Spartans <note>original: Lacedaemonibus</note> as a corruptor of ancient and primitive music, because he used a system that had more strings than the *Magadis* <note>The magadis was an ancient Greek stringed instrument; here it refers to the traditional limit of strings allowed in strict Spartan society.</note>. Furthermore, the Sainted Severinus <note>Anicius Manlius Severinus Boethius (c. 477–524 AD), whose "Fundamentals of Music" was the standard textbook for the Middle Ages.</note> asserts in his preface to music that Timotheus was even expelled from Laconia <note>The region of Greece where Sparta was located.</note> because he added one string to the customary strings and made music more effeminate. Boethius reports in Greek words the decree <term>Psephisma<gloss>A formal proposal or decree passed by an ancient assembly.</gloss></term> made concerning him, which stated: for this reason the Spartans were angry with Timotheus of Miletus, because by rendering music "manifold" <note>original: multiplicem</note> he obstructed the minds of the boys he had received to be educated, and hindered them from the modesty of virtue. This is what Boethius says of Timotheus from the Greek sources. 
+<note>A large decorative woodcut initial 'T' depicts a robed figure, possibly a scholar or biblical figure, seated within an architectural frame decorated with Renaissance foliate motifs.</note>
 
-If these things are as the authors worthy of trust have handed down, what should I think will happen to me? To the eight modes of musical song, celebrated among all for so many centuries, I now add four more, and from an *Octochord* <note>An 8-stringed system/8 modes.</note> I create a *Dodecachord* <note>A 12-stringed system/12 modes—the title of this book.</note>. I seem to condemn all antiquity for ignorance or negligence. Furthermore, I now recall two modes that were rejected by all the ancients, hissed off, relegated into exile, and as if dead—and if it pleases the gods, as the proverb goes—I receive them back by right of return <note>original: postliminio; a legal term for the recovery of rights by a person returning from exile.</note> and resuscitate them into life. Surely I would be worthy to be hissed at, cast out, and driven away, not just from one Laconia, but from the whole world where rational men dwell. 
+**T**imotheus of Miletus, a most famous author of the musical art, most Reverend FATHER, is recorded by Athenaeus in his 14th book (citing Artemon) as having been rebuked by the Spartans <note>The text uses "Lacedaemonians," the formal name for the inhabitants of the city-state of Sparta.</note> as a corruptor of ancient and primitive music, because he used a system that had more strings than the *magadis* <note>The magadis was an ancient Greek stringed instrument; here it refers to the traditional limit of strings allowed in strict Spartan society.</note>. Furthermore, the Sainted Severinus <note>Anicius Manlius Severinus Boethius (c. 477–524 AD), whose "Fundamentals of Music" was the standard textbook for a millennium.</note> asserts in his preface to music that Timotheus was even expelled from Laconia because he added one string to the customary ones and made music more effeminate. Boethius reports in Greek words the decree <term>Psephisma<gloss>A formal proposal or decree passed by an assembly.</gloss></term> made concerning him, which stated: for this reason the Spartans were angry with Timotheus of Miletus, because by rendering music "manifold" <note>original: multiplicem</note> he obstructed the minds of the boys he had received to be educated, and hindered them from the modesty of virtue. This is what Boethius says of Timotheus from the Greek sources. 
 
-Unless I clear myself of these harsh objections and grave accusations, and show the reader that the matter is different than how I am accused, what remains but that I, defeated, yield my hands and pay the penalty for my audacity? But truly, since, Most Honorable Father, no one was ever condemned before a fair judge without his case being heard, I will command all those who wish me well and do not want a defendant to succumb to a minimal cause to have good hope. For I will easily refute the arguments of the opposing side, if I first speak concerning that Laconian Decree. Indeed, Athenaeus says in that same place I mentioned that Timotheus, when...
+If these things are as the authors worthy of trust have handed down, what do I think will become of me? I, who to the eight modes <note>original: Modos</note> of musical song, celebrated among all people for so many centuries, now add four more, and from an eight-stringed system <note>original: Octochordo</note> make a twelve-stringed one <note>original: dodecachordum</note>. I seem to accuse all antiquity of ignorance and condemn it for negligence; furthermore, two modes rejected by all the ancients, hissed off the stage, relegated to exile, and as if dead, I now—if it pleases the Gods, as the proverb goes—recall, restore to their former rights <note>original: postliminio recipiam; a legal term for restoring rights to someone returning from exile or captivity.</note>, and resuscitate into life. Truly, I would be worthy of being hissed at, cast out, and driven away not just from one Laconia, but from the entire world where rational men dwell. Unless I clear myself of these harsh objections and grave accusations, and show the reader that the matter is different than how I am accused, what remains but that I, defeated, yield <note>original: uictus dem manus; literally "give my hands," an idiom for surrendering.</note> and pay the penalty for my audacity? 
 
-<summary>In this dedication, Glarean compares his expansion of the musical modes to the ancient musician Timotheus, who was punished by the Spartans for adding strings to the lyre. Glarean argues that his revolutionary shift from eight to twelve modes is not an act of arrogance but a necessary restoration of musical truth.</summary>
-<keywords>Timotheus of Miletus, Boethius, Octochord, Dodecachord, musical modes, Spartan Decree, Otto von Waldburg, music theory history</keywords>
+But indeed, most worshipful Father, since no one was ever condemned before a fair judge without his case being heard, I shall bid all those who wish me well and do not want a defendant to succumb to his cause to have good hope. For I will easily refute the arguments of the opposing side, if I first speak concerning that Spartan decree. Indeed, Athenaeus says in that same place I mentioned that Timotheus, when...
+
+<summary>Glarean addresses his patron, Cardinal Otto von Waldburg, defending his decision to expand the musical modes from eight to twelve by comparing his situation to the ancient Greek musician Timotheus, who was punished for musical innovation.</summary>
+<keywords>Timotheus of Miletus, Boethius, Athenaeus, musical modes, Octochord, Dodecachord, Otto von Waldburg, Spartan decree, musical theory, music history</keywords>
 
 --- Page 6 ---
 <meta>This page continues the dedication and preface from the previous page, where Glareanus began discussing the historical precedent for changing musical systems, specifically the case of Timotheus of Miletus.</meta>

@@ -1,7 +1,7 @@
 {
   "id": "69568900be7c607c5f03c2d7",
   "title": "Dodecachordon",
-  "display_title": "Dodecachordon",
+  "display_title": "The Twelve-Stringed Lyre",
   "author": "Heinrich Glareanus",
   "language": "Latin",
   "year": 1547,
@@ -17,12 +17,12 @@
   },
   "processing": {
     "ocr_model": "gemini-3-flash-preview",
-    "prompt_version": null,
+    "prompt_version": "v5.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:29:47.999Z",
+  "synced_at": "2026-03-10T05:50:40.580Z",
   "_hashes": {
-    "ocr": "9567d7b1dfb48ac8",
-    "translation": "7c27285084bd7c2e"
+    "ocr": "0822703c01b1b925",
+    "translation": "7d76eabebc4806a8"
   }
 }
