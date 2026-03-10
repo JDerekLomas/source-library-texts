@@ -1,0 +1,28 @@
+{
+  "id": "6992c92569b777d72c76346f",
+  "title": "周易參同契發揮 (Zhouyi Cantong Qi Fahui) - Commentary on the Seal of Unity of the Three",
+  "display_title": "Elucidation of the Seal of the Unity of the Three",
+  "author": "Yu Yan (俞琰)",
+  "language": "Chinese",
+  "year": 1300,
+  "published": "Unknown",
+  "pages_count": 162,
+  "pages_with_ocr": 162,
+  "pages_with_translation": 157,
+  "source_url": "https://sourcelibrary.org/book/6992c92569b777d72c76346f",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "06048996.cn"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-10T07:10:31.281Z",
+  "_hashes": {
+    "ocr": "e2cf048cb01febfe",
+    "translation": "d1e0909da1f90beb"
+  }
+}
