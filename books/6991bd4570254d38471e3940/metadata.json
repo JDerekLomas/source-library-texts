@@ -1,0 +1,28 @@
+{
+  "id": "6991bd4570254d38471e3940",
+  "title": "Considerations sur le magnetisme animal",
+  "display_title": "Considerations on Animal Magnetism",
+  "author": "Nicolas Bergasse",
+  "language": "French",
+  "year": 1781,
+  "published": "Unknown",
+  "pages_count": 164,
+  "pages_with_ocr": 164,
+  "pages_with_translation": 151,
+  "source_url": "https://sourcelibrary.org/book/6991bd4570254d38471e3940",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "considrationss00berg"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-10T05:11:05.925Z",
+  "_hashes": {
+    "ocr": "253a5afcac7be0d2",
+    "translation": "5c3e4923ccb4be76"
+  }
+}
