@@ -1,7 +1,7 @@
 {
   "id": "694fd600435f95fd0c9556d1",
   "title": "Opera Omnia (Complete Works)",
-  "display_title": "Opera Omnia (Complete Works)",
+  "display_title": "The Complete Works of Plato",
   "author": "Plato (Ficino translation)",
   "language": "Latin",
   "year": 1557,
@@ -17,12 +17,12 @@
   },
   "processing": {
     "ocr_model": "gemini-3-flash-preview",
-    "prompt_version": "v4.2026-02",
+    "prompt_version": "v5.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:22:29.591Z",
+  "synced_at": "2026-03-10T05:50:29.329Z",
   "_hashes": {
-    "ocr": "454c8a228c5a56bd",
-    "translation": "9ff87d59946c6246"
+    "ocr": "4ce4e3dfbe5def48",
+    "translation": "7bbee0370a8b15e0"
   }
 }
