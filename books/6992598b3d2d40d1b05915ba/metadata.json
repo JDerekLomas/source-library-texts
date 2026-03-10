@@ -1,0 +1,28 @@
+{
+  "id": "6992598b3d2d40d1b05915ba",
+  "title": "The Mythology of the Bella Coola Indians",
+  "display_title": "The Mythology of the Bella Coola Indians",
+  "author": "Franz Boas",
+  "language": "Nuxalk",
+  "year": 1898,
+  "published": "Unknown",
+  "pages_count": 136,
+  "pages_with_ocr": 135,
+  "pages_with_translation": 111,
+  "source_url": "https://sourcelibrary.org/book/6992598b3d2d40d1b05915ba",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "cihm_02420"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-10T05:11:16.403Z",
+  "_hashes": {
+    "ocr": "f24d146be43442fa",
+    "translation": "20d3a7f0662fb5d0"
+  }
+}
