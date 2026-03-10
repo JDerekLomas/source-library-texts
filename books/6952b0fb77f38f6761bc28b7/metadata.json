@@ -1,14 +1,14 @@
 {
   "id": "6952b0fb77f38f6761bc28b7",
   "title": "Omnium Angeli Politiani operum tomus prior",
-  "display_title": "Works vol. 1 (Epistles, translations)",
+  "display_title": "The Collected Works of Angelo Poliziano, Volume 1",
   "author": "Poliziano, Angelo",
   "language": "Latin",
   "year": 1519,
   "published": "1519",
   "pages_count": 548,
   "pages_with_ocr": 548,
-  "pages_with_translation": 439,
+  "pages_with_translation": 548,
   "source_url": "https://sourcelibrary.org/book/6952b0fb77f38f6761bc28b7",
   "license": "https://rightsstatements.org/vocab/NoC-NC/1.0/",
   "doi": null,
@@ -17,12 +17,12 @@
   },
   "processing": {
     "ocr_model": "gemini-3-flash-preview",
-    "prompt_version": "v3.2026-02",
+    "prompt_version": "v5.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-02-24T18:23:42.332Z",
+  "synced_at": "2026-03-10T00:43:14.444Z",
   "_hashes": {
-    "ocr": "0d7b496f44d6621b",
-    "translation": "e1d744eb440c6ce0"
+    "ocr": "13a9479c01a2c2cb",
+    "translation": "9091bd0dd438f3c0"
   }
 }
