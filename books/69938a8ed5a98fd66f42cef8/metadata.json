@@ -1,0 +1,26 @@
+{
+  "id": "69938a8ed5a98fd66f42cef8",
+  "title": "Plutarch, Lives",
+  "display_title": "Bodleian Library MS. Barocci 226",
+  "author": "Plutarch",
+  "language": "Greek",
+  "year": 1460,
+  "published": "1460",
+  "pages_count": 154,
+  "pages_with_ocr": 154,
+  "pages_with_translation": 143,
+  "source_url": "https://sourcelibrary.org/book/69938a8ed5a98fd66f42cef8",
+  "license": "CC-BY-NC-4.0",
+  "doi": null,
+  "external_ids": {},
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-10T07:00:38.369Z",
+  "_hashes": {
+    "ocr": "d81f52d617530eca",
+    "translation": "fc7795d6fa42811e"
+  }
+}
