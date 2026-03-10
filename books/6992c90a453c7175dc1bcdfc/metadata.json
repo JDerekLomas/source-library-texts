@@ -1,0 +1,28 @@
+{
+  "id": "6992c90a453c7175dc1bcdfc",
+  "title": "營造法式 (Yingzao Fashi) · 卷二十五~卷二十九",
+  "display_title": "Treatise on Architectural Methods",
+  "author": "Li Jie (李誡)",
+  "language": "Chinese",
+  "year": 1145,
+  "published": "1145",
+  "pages_count": 159,
+  "pages_with_ocr": 159,
+  "pages_with_translation": 133,
+  "source_url": "https://sourcelibrary.org/book/6992c90a453c7175dc1bcdfc",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "06051723.cn"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-10T07:10:27.483Z",
+  "_hashes": {
+    "ocr": "f3c3867cff897131",
+    "translation": "6168d6f78da6c0cf"
+  }
+}
