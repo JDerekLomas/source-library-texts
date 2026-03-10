@@ -1,7 +1,7 @@
 {
   "id": "695203a5ab34727b1f041c53",
   "title": "Musaeum hermeticum reformatum et amplificatum",
-  "display_title": "Musaeum hermeticum reformatum et amplificatum",
+  "display_title": "The Hermetic Museum, Restored and Enlarged",
   "author": "Various (Sendivogius, Philalethes, etc.)",
   "language": "Latin",
   "year": 1678,
@@ -17,12 +17,12 @@
   },
   "processing": {
     "ocr_model": "gemini-3-flash-preview",
-    "prompt_version": null,
+    "prompt_version": "v5.2026-02",
     "translation_model": "gemini-2.5-flash"
   },
-  "synced_at": "2026-02-24T18:21:44.597Z",
+  "synced_at": "2026-03-10T00:10:32.940Z",
   "_hashes": {
-    "ocr": "aabf19f73e8faf96",
-    "translation": "603a90d879d90590"
+    "ocr": "2527a39ffc1cf58a",
+    "translation": "971b3d00bd82d19c"
   }
 }
