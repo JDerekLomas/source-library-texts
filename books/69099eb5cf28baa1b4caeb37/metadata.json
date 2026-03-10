@@ -1,7 +1,7 @@
 {
   "id": "69099eb5cf28baa1b4caeb37",
   "title": "Hypnerotomachie ou discours du songe de Poliphile",
-  "display_title": "The Strife of Love in a Dream, or the Discourse of the Dream of Poliphilo",
+  "display_title": "The Strife of Love in a Dream",
   "author": "[Colonna, Francesco]",
   "language": "French",
   "year": 1561,
@@ -18,9 +18,9 @@
     "prompt_version": "v4.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-03-04T22:40:55.150Z",
+  "synced_at": "2026-03-10T02:21:10.016Z",
   "_hashes": {
-    "ocr": "0beff82bd39e5e70",
-    "translation": "f81fd75fd081a340"
+    "ocr": "25d3e22685cbe44a",
+    "translation": "2b4322acf5950a7d"
   }
 }
