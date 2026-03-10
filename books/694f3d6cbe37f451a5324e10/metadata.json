@@ -1,7 +1,7 @@
 {
   "id": "694f3d6cbe37f451a5324e10",
   "title": "Mercurii Trismegisti Pimander (Ficino translation)",
-  "display_title": "Corpus Hermeticum: Pimander (1481 Venice Edition)",
+  "display_title": "The Pimander of Hermes Trismegistus",
   "author": "Hermes Trismegistus; Ficino, Marsilio (translator)",
   "language": "Latin",
   "year": 1481,
@@ -20,9 +20,9 @@
     "prompt_version": "v4.2026-02",
     "translation_model": "gemini-3-flash-preview"
   },
-  "synced_at": "2026-03-04T16:10:42.334Z",
+  "synced_at": "2026-03-10T00:00:33.747Z",
   "_hashes": {
     "ocr": "b8e070188d05f2de",
-    "translation": "3cf4828384593076"
+    "translation": "9cfec6eec7954042"
   }
 }
