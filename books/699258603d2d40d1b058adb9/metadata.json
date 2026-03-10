@@ -1,0 +1,28 @@
+{
+  "id": "699258603d2d40d1b058adb9",
+  "title": "Hymns of the Tamil Saivite Saints",
+  "display_title": "Hymns of the Tamil Saivite Saints",
+  "author": "F. Kingsbury & G.E. Phillips",
+  "language": "English",
+  "year": 1921,
+  "published": "Unknown",
+  "pages_count": 164,
+  "pages_with_ocr": 159,
+  "pages_with_translation": 140,
+  "source_url": "https://sourcelibrary.org/book/699258603d2d40d1b058adb9",
+  "license": "publicdomain",
+  "doi": null,
+  "external_ids": {
+    "internet_archive": "hymnsoftamilsaiv00kinguoft"
+  },
+  "processing": {
+    "ocr_model": "gemini-3-flash-preview",
+    "prompt_version": "v5.2026-02",
+    "translation_model": "gemini-3-flash-preview"
+  },
+  "synced_at": "2026-03-10T05:11:09.525Z",
+  "_hashes": {
+    "ocr": "e48cfd51f05b0a31",
+    "translation": "2103fffd5a849532"
+  }
+}
